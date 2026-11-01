@@ -1,6 +1,6 @@
 # Latin–English column of the Saints.Bible Parallel Reader
 
-The Clementine Vulgate Latin and the Latin–English rendering for every verse of the 69 books that have a Latin column on Saints.Bible, captured from the staging Parallel Reader on 1 November 2026, with an audit of the column's fidelity to the Latin. Companion to [Saints-Translation](https://github.com/Dotty777/Saints-Translation), which records the Saints English (Greek-based) text in the same layout.
+The Clementine Vulgate Latin and the Latin–English rendering for every verse of all 70 books of the Saints Holy Bible as shown in the Latin column on Saints.Bible, captured from the staging Parallel Reader on 1 November 2026, with an audit of the column's fidelity to the Latin. Companion to [Saints-Translation](https://github.com/Dotty777/Saints-Translation), which records the Saints English (Greek-based) text in the same layout.
 
 - [AUDIT.md](AUDIT.md): the fidelity and accuracy audit (verdict, method, findings, recommendations).
 - `audit/`: the audit's working data — a per-verse check table, the nine glued initials, and the 171 readings whose English spans more Vulgate verses than the Latin shown.
@@ -35,6 +35,7 @@ Verse numbers follow the Saints column (Greek/Hebrew numbering); where the Vulga
 - [Ecclesiastes — 12 chapters](ecclesiastes/README.md): 222 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 96% still labelled review pending on the site.
 - [Song of Songs — 8 chapters](song-of-songs/README.md): 117 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 90% still labelled review pending on the site.
 - [Lamentations — 5 chapters](lamentations/README.md): 150 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 97% still labelled review pending on the site.
+- [Wisdom of Solomon — 19 chapters](wisdom-of-solomon/README.md): 435 readings (439 Latin verses); Latin matches the Clementine reference in 100%; English is the Comparison Library’s own rendering; 0% still labelled review pending on the site — column added to the Parallel Reader on 1 November 2026 from the existing Comparison Library edition.
 - [Sirach — 51 chapters](sirach/README.md): 1,366 readings; Latin matches the Clementine reference in 92%; English is a fresh rendering; 0% still labelled review pending on the site.
 - [Isaiah — 66 chapters](isaiah/README.md): 1,289 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 99% still labelled review pending on the site.
 - [Jeremiah — 52 chapters](jeremiah/README.md): 1,299 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 99% still labelled review pending on the site.
@@ -80,6 +81,6 @@ Verse numbers follow the Saints column (Greek/Hebrew numbering); where the Vulga
 - [Jude — 1 chapters](jude/README.md): 25 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 72% still labelled review pending on the site.
 - [Revelation — 22 chapters](revelation/README.md): 409 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 0% still labelled review pending on the site.
 
-Wisdom of Solomon has no Latin column on the site and so has no folder here.
+Wisdom of Solomon: the Parallel Reader had no Latin column for this book until 1 November 2026, although the Comparison Library already held a complete Latin–Greek edition of it; that edition was reproduced as the book’s vulgate-comparison page the same day and is captured in [wisdom-of-solomon/](wisdom-of-solomon/README.md).
 
 Source of the reference texts used in the audit: [mborders/vulgata](https://github.com/mborders/vulgata) (Clementine Vulgate from VulSearch; Douay-Rheims Challoner), public domain.

@@ -1,22 +1,22 @@
 # Latin–English column audit — Saints.Bible
 
-1 November 2026. Audit of the Latin–English column of the Saints.Bible Parallel Reader (staging) for fidelity to the Clementine Latin. A living copy of this document is kept as a Claude doc; this file is the record for the repository.
+1 November 2026 (Wisdom of Solomon added later the same day). Audit of the Latin–English column of the Saints.Bible Parallel Reader (staging) for fidelity to the Clementine Latin. A living copy of this document is kept as a Claude doc; this file is the record for the repository.
 
 ## Summary
 
-The Latin–English column is faithful to the Clementine Latin. In a close reading of 160 randomly chosen verses and about 230 verses flagged by automated checks, not one mistranslated the Latin's meaning. The Latin text itself matches the Clementine Vulgate word for word in 98.5% of 34,022 readings, and every remaining difference inspected was a label or a numbering choice, not a copying error.
+The Latin–English column is faithful to the Clementine Latin. In a close reading of 160 randomly chosen verses and about 230 verses flagged by automated checks, not one mistranslated the Latin's meaning. The Latin text itself matches the Clementine Vulgate word for word in 98.5% of 34,461 readings, and every remaining difference inspected was a label or a numbering choice, not a copying error.
 
 The column has three real problems, none of them translation errors:
 
 - **Three quarters of the New Testament is not a fresh rendering.** In the Gospels, Acts, and most of the Letters (6,022 of 7,956 readings), the English is the Douay-Rheims (Challoner) text, verbatim or lightly modernised, while the cards label it "Direct Latin rendering". Douay-Rheims is a faithful translation of this same Latin, so the wording is accurate, but the label is not.
 - **171 readings show English for two Vulgate verses beside the Latin of one.** The site keeps the Hebrew/Greek verse numbering, and where the Vulgate divides verses differently (Esther's Greek additions, Psalms, Numbers), the English runs on past the Latin displayed. 3,469 readings carry a verse number that differs from the Vulgate's own.
-- **88% of readings are still labelled "review pending" or "assessment open"** (29,975 of 34,207). Only 1–2 Maccabees, Sirach, 2–3 John and Revelation are fully classified. The labels understate how good the column is.
+- **88% of readings are still labelled "review pending" or "assessment open"** (29,975 of 34,642). Only 1–2 Maccabees, Wisdom of Solomon, Sirach, 2–3 John and Revelation are fully classified. The labels understate how good the column is.
 
 Small fixes: 9 Latin verses have a glued first letter ("Adiebus" for "A diebus"), and Lamentations keeps the Hebrew letter names in the English but not in the Latin.
 
 ## What was checked and how
 
-Every Latin–English reading in the staging Parallel Reader: 34,207 readings in 69 books (Wisdom of Solomon has no Latin column). For each, the English was taken as the reader displays it and the Latin from the linked comparison card, then the checks below were run.
+Every Latin–English reading in the staging Parallel Reader: 34,642 readings in 70 books. Wisdom of Solomon (435 readings, 439 Latin verses) was audited after the rest: the reader had no Latin column for it, although the Comparison Library already held a complete Latin–Greek edition of the book; that edition was wired into the reader on 1 November 2026 and checked the same way (see `wisdom-of-solomon/README.md`). For each, the English was taken as the reader displays it and the Latin from the linked comparison card, then the checks below were run.
 
 **Reference texts.** The Latin was compared with the Clementine Vulgate text of the VulSearch project and the English with the Douay-Rheims Challoner translation, both from the public-domain [mborders/vulgata](https://github.com/mborders/vulgata) dataset. Douay-Rheims was made from this same Latin, so it serves as an independent rendering to compare against, not as a standard the site must copy.
 
@@ -66,9 +66,9 @@ In the 160-verse random sample and the flagged sets, the liberties found are sma
 
 **4. In 171 readings the English runs past the Latin on the card.** The site keeps the Saints column's verse numbering. Where the Vulgate divides verses differently, the English for the Saints verse covers two or more Vulgate verses but the card shows only the first verse's Latin. Psalm 59:7 shows Latin ending at *dilecti tui* while the English continues "Save with Your right hand and hear me"; Psalm 3:7, Numbers 36:8 (English covers Numbers 36:8–13) and Esther 4:17o (one Latin line beside Esther's whole prayer) are the same. By book: Esther 84, Psalms 52, Numbers 29, six elsewhere (list in `audit/english-spans-more-than-latin.json`). A further 3,469 readings are correct but carry a verse number that is not the Vulgate's (Jeremiah, Psalms, 1 Chronicles 6, Daniel 5–6, 1 Kings 4–5, Haggai 2, Zechariah), so a reader checking against a printed Vulgate will not find "Latin verse 9:1" at 9:1.
 
-**5. The site's own labels undersell the column.** 29,975 of 34,207 readings (88%) still say "review pending", "assessment open" or "unreviewed"; 4,073 carry a classification. Only 1–2 Maccabees, Sirach, 2–3 John and Revelation are fully classified, and those books also carry translation notes, which the rest do not.
+**5. The site's own labels undersell the column.** 29,975 of 34,642 readings (87%) still say "review pending", "assessment open" or "unreviewed"; 4,508 carry a classification. Only 1–2 Maccabees, Wisdom of Solomon, Sirach, 2–3 John and Revelation are fully classified, and those books also carry translation notes, which the rest do not.
 
-**6. Small inconsistencies.** Lamentations: 128 English readings begin with the Hebrew letter name ("Nun. They wandered…") while the Latin beside them omits it. Song of Songs drops the Vulgate's speaker labels in both languages. The Latin keeps the source's French-style spacing before colons and question marks ("gentibus : contemptibilis", "dinumeravit ?"). Wisdom of Solomon has no Latin column at all, although the Vulgate has the book.
+**6. Small inconsistencies.** Lamentations: 128 English readings begin with the Hebrew letter name ("Nun. They wandered…") while the Latin beside them omits it. Song of Songs drops the Vulgate's speaker labels in both languages. The Latin keeps the source's French-style spacing before colons and question marks ("gentibus : contemptibilis", "dinumeravit ?"). Wisdom of Solomon had no Latin column in the Parallel Reader, although the site already carried a complete Latin–Greek comparison edition of the book in the Comparison Library; the reader looks for a comparison page under the book page and that edition sits under the Comparison Library instead. Fixed on 1 November 2026 by reproducing the edition’s 439 cards as the book’s vulgate-comparison page, each card linking back to its full entry.
 
 ## Results by section
 
@@ -76,7 +76,7 @@ In the 160-verse random sample and the flagged sets, the liberties found are sma
 | --- | --- | --- | --- | --- | --- |
 | Law (Genesis–Deuteronomy) | 5,893 | 99.7% | 6% | 96% | 195 |
 | History (Joshua–Esther, 1–2 Maccabees) | 8,598 | 98.3% | 3% | 81% | 715 |
-| Wisdom (Job–Sirach) | 6,254 | 98.0% | 6% | 75% | 1,125 |
+| Wisdom (Job–Sirach, with Wisdom of Solomon) | 6,689 | 98.1% | 6% | 70% | 1,194 |
 | Prophets (Isaiah–Malachi, Lamentations) | 5,506 | 99.9% | 5% | 98% | 1,269 |
 | Gospels and Acts | 4,780 | 99.9% | 80% | 97% | 112 |
 | Letters (Romans–Jude) | 2,767 | 99.9% | 79% | 94% | 45 |
@@ -91,6 +91,6 @@ The History and Wisdom percentages are lowered only by the Maccabees and Sirach 
 3. **Fix the 171 split verses.** Either show the full Latin span on the card (Psalm 59:7–8, Numbers 36:8–13, Esther's prayers) or cut the English at the displayed Latin. A note on each card where the site's numbering differs from the Vulgate's (3,469 readings) would also help readers using a printed Vulgate.
 4. **Correct the nine glued initials** (Matthew 11:12, 27:45; Mark 13:28; John 9:32; Romans 9:20, 11:33; Galatians 3:1; 1 Thessalonians 1:8; 1 Timothy 1:6).
 5. **Make the labels match the work.** The Pentateuch and Prophets are 96–98% "review pending" yet show no error in the sample; a Latinist sign-off by book, with the label changed to "reviewed", would let the cards claim what has been checked. Start with Genesis, Psalms, Isaiah and the four Gospels.
-6. **Tidy the presentation:** add the Hebrew letter names to the Lamentations Latin (or drop them from the English), remove the space before colons and question marks, and add a Latin column for Wisdom of Solomon.
+6. **Tidy the presentation:** add the Hebrew letter names to the Lamentations Latin (or drop them from the English), and remove the space before colons and question marks. (The missing Wisdom of Solomon column has been added; the Comparison Library edition remains the master copy, so any later edit there should be carried over to the book’s vulgate-comparison page.)
 
 No verse was re-translated in this audit; where a reviewer wants a second opinion on a specific passage, the comparison with Douay-Rheims can be rerun for any book from `audit/per-verse-checks.csv`.
