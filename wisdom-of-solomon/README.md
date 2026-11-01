@@ -1,6 +1,6 @@
 # Wisdom of Solomon — Latin–English (Clementine Vulgate)
 
-19 chapters, 435 readings (439 Latin verses; two of them, 19:13 and 19:20, appear in two reader rows), captured from the Saints.Bible staging Parallel Reader on 1 November 2026.
+19 chapters, 435 readings (439 Latin verses; two of them, 19:13 and 19:20, appear in two reader rows), captured from the Saints.Bible staging Parallel Reader on 1 November 2026. One of the 70 books of the [Latin–English column](../README.md); audit results in [AUDIT.md](../AUDIT.md).
 
 Until 1 November 2026 the Parallel Reader had no Latin column for this book, although the site already carried a complete [Wisdom of Solomon Latin–Greek comparison edition](https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/) in the Comparison Library (Latin, English rendering, classification and translation notes for every Clementine verse). That edition lives under the Comparison Library rather than under the book page, so the reader never found it. Its 439 cards were reproduced in the reader's card format as the book's [vulgate-comparison page](https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/vulgate-comparison/), each card linking back to its full five-layer entry, and the reader now shows the column.
 

@@ -1,6 +1,6 @@
 # Ecclesiastes — Latin–English (Clementine Vulgate)
 
-12 chapters, 222 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026.
+12 chapters, 222 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026. One of the 70 books of the [Latin–English column](../README.md); audit results in [AUDIT.md](../AUDIT.md).
 
 - **Latin:** matches the Clementine Vulgate reference text in 222 of 222 readings (100.0%); the rest differ only by editorial labels or embedded translation notes (see [AUDIT.md](../AUDIT.md)).
 - **English origin:** 205 fresh renderings; 2 Douay-Rheims verbatim; 15 Douay-Rheims lightly modernised; 0 with no Latin text.

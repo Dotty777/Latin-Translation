@@ -1,6 +1,6 @@
 # Daniel — Latin–English (Clementine Vulgate)
 
-12 chapters, 451 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026.
+12 chapters, 451 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026. One of the 70 books of the [Latin–English column](../README.md); audit results in [AUDIT.md](../AUDIT.md).
 
 - **Latin:** matches the Clementine Vulgate reference text in 444 of 444 readings (100.0%); the rest differ only by editorial labels or embedded translation notes (see [AUDIT.md](../AUDIT.md)).
 - **English origin:** 426 fresh renderings; 2 Douay-Rheims verbatim; 16 Douay-Rheims lightly modernised; 7 with no Latin text.

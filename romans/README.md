@@ -1,6 +1,6 @@
 # Romans — Latin–English (Clementine Vulgate)
 
-16 chapters, 433 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026.
+16 chapters, 433 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026. One of the 70 books of the [Latin–English column](../README.md); audit results in [AUDIT.md](../AUDIT.md).
 
 - **Latin:** matches the Clementine Vulgate reference text in 433 of 433 readings (100.0%); the rest differ only by editorial labels or embedded translation notes (see [AUDIT.md](../AUDIT.md)).
 - **English origin:** 72 fresh renderings; 167 Douay-Rheims verbatim; 194 Douay-Rheims lightly modernised; 0 with no Latin text.

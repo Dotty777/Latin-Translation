@@ -1,6 +1,6 @@
 # 2 Timothy — Latin–English (Clementine Vulgate)
 
-4 chapters, 83 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026.
+4 chapters, 83 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026. One of the 70 books of the [Latin–English column](../README.md); audit results in [AUDIT.md](../AUDIT.md).
 
 - **Latin:** matches the Clementine Vulgate reference text in 83 of 83 readings (100.0%); the rest differ only by editorial labels or embedded translation notes (see [AUDIT.md](../AUDIT.md)).
 - **English origin:** 12 fresh renderings; 27 Douay-Rheims verbatim; 44 Douay-Rheims lightly modernised; 0 with no Latin text.

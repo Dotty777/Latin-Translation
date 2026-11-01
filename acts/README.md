@@ -1,6 +1,6 @@
 # Acts — Latin–English (Clementine Vulgate)
 
-28 chapters, 1,007 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026.
+28 chapters, 1,007 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026. One of the 70 books of the [Latin–English column](../README.md); audit results in [AUDIT.md](../AUDIT.md).
 
 - **Latin:** matches the Clementine Vulgate reference text in 1,002 of 1,002 readings (100.0%); the rest differ only by editorial labels or embedded translation notes (see [AUDIT.md](../AUDIT.md)).
 - **English origin:** 106 fresh renderings; 467 Douay-Rheims verbatim; 429 Douay-Rheims lightly modernised; 5 with no Latin text.

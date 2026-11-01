@@ -1,6 +1,6 @@
 # 2 Corinthians — Latin–English (Clementine Vulgate)
 
-13 chapters, 256 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026.
+13 chapters, 256 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026. One of the 70 books of the [Latin–English column](../README.md); audit results in [AUDIT.md](../AUDIT.md).
 
 - **Latin:** matches the Clementine Vulgate reference text in 255 of 255 readings (100.0%); the rest differ only by editorial labels or embedded translation notes (see [AUDIT.md](../AUDIT.md)).
 - **English origin:** 16 fresh renderings; 120 Douay-Rheims verbatim; 119 Douay-Rheims lightly modernised; 1 with no Latin text.

@@ -1,6 +1,6 @@
 # Zephaniah — Latin–English (Clementine Vulgate)
 
-3 chapters, 53 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026.
+3 chapters, 53 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026. One of the 70 books of the [Latin–English column](../README.md); audit results in [AUDIT.md](../AUDIT.md).
 
 - **Latin:** matches the Clementine Vulgate reference text in 52 of 53 readings (98.1%); the rest differ only by editorial labels or embedded translation notes (see [AUDIT.md](../AUDIT.md)).
 - **English origin:** 53 fresh renderings; 0 Douay-Rheims verbatim; 0 Douay-Rheims lightly modernised; 0 with no Latin text.

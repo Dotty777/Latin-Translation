@@ -1,6 +1,6 @@
 # Jeremiah — Latin–English (Clementine Vulgate)
 
-52 chapters, 1,299 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026.
+52 chapters, 1,299 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026. One of the 70 books of the [Latin–English column](../README.md); audit results in [AUDIT.md](../AUDIT.md).
 
 - **Latin:** matches the Clementine Vulgate reference text in 1,296 of 1,296 readings (100.0%); the rest differ only by editorial labels or embedded translation notes (see [AUDIT.md](../AUDIT.md)).
 - **English origin:** 1,245 fresh renderings; 0 Douay-Rheims verbatim; 51 Douay-Rheims lightly modernised; 3 with no Latin text.
