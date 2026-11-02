@@ -41,12 +41,15 @@ def saints_page(path, html, ch, valid):
         ps=clean_paras(d,path)
         if ps and add(vs,{'title':t,'text':ps}): used.add(id(d))
     # 2. numbered notes p[id*=note] "14. Genesis 3:1 Grammar. ..."
-    for p in s.find_all('p',id=re.compile(r'note-\d+$')):
+    for p in s.find_all('p',id=re.compile(r'note-\d+(-\d+[a-z]?)?$')):
         t=p.get_text(' ',strip=True)
         vs=refs_from(re.sub(r'^\d+\.\s*','',t),ch)
         if vs:
-            sg=fixhref(segs(p),path)
-            if add(vs,{'title':'','text':[sg]}): used.add(id(p))
+            sg=segs(p)
+            if isinstance(sg,list):
+                sg=[x for x in sg if not (isinstance(x,list) and re.match(r'^(Return to|Back to)',x[0]))]
+                while sg and isinstance(sg[-1],str) and sg[-1].strip(' ·;,')=='': sg=sg[:-1]
+            if add(vs,{'title':'','text':[fixhref(sg,path)]}): used.add(id(p))
     # headings + trailing chapter sections
     anchors=set(f'v{ch}-{v}' for v in valid)
     order=[]
