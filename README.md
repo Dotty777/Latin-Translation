@@ -1,20 +1,21 @@
 # Latin–English column of the Saints.Bible Parallel Reader
 
-The Clementine Vulgate Latin and the Latin–English rendering for every verse of all 70 books of the Saints Holy Bible as shown in the Latin column on Saints.Bible, captured from the staging Parallel Reader on 1 November 2026, with an audit of the column's fidelity to the Latin. Companion to [Saints-Translation](https://github.com/Dotty777/Saints-Translation), which records the Saints English (Greek-based) text in the same layout.
+The Clementine Vulgate Latin and the Latin–English rendering for every verse of all 70 books of the Saints Holy Bible as shown in the Latin column on Saints.Bible, captured from the staging Parallel Reader on 1 November 2026 (Genesis–Deuteronomy recaptured on 2 November 2026 after corrections), with an audit of the column's fidelity to the Latin. Companion to [Saints-Translation](https://github.com/Dotty777/Saints-Translation), which records the Saints English (Greek-based) text in the same layout.
 
 - [AUDIT.md](AUDIT.md): the fidelity and accuracy audit (verdict, method, findings, recommendations).
 - `audit/`: the audit's working data — a per-verse check table, the nine glued initials, and the 171 readings whose English spans more Vulgate verses than the Latin shown.
+- `corrections/`: the data files applied to the staging site, with a change log per date ([2 November 2026](corrections/2026-11-02/README.md)); `staging-backups/` holds the pages as they were before.
 - One folder per book: `README.md` (counts and audit results), `<Book>.txt` (Latin and English by chapter), `verses.json` (structured text with card ids, review status, English origin and Vulgate numbering).
 
 Verse numbers follow the Saints column (Greek/Hebrew numbering); where the Vulgate numbers a verse differently, `verses.json` records the Vulgate reference.
 
 ## Books
 
-- [Genesis — 50 chapters](genesis/README.md): 1,534 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 97% still labelled review pending on the site.
-- [Exodus — 40 chapters](exodus/README.md): 1,227 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 96% still labelled review pending on the site.
-- [Leviticus — 27 chapters](leviticus/README.md): 866 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 95% still labelled review pending on the site.
-- [Numbers — 36 chapters](numbers/README.md): 1,304 readings; Latin matches the Clementine reference in 99%; English is a fresh rendering; 94% still labelled review pending on the site.
-- [Deuteronomy — 34 chapters](deuteronomy/README.md): 962 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 96% still labelled review pending on the site.
+- [Genesis — 50 chapters](genesis/README.md): 1,534 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; every card classified on the site (Latin–Greek comparison, 2 November 2026).
+- [Exodus — 40 chapters](exodus/README.md): 1,216 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; every card classified on the site (Latin–Greek comparison, 2 November 2026).
+- [Leviticus — 27 chapters](leviticus/README.md): 859 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; every card classified on the site (Latin–Greek comparison, 2 November 2026).
+- [Numbers — 36 chapters](numbers/README.md): 1,257 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; every card classified on the site (Latin–Greek comparison, 2 November 2026).
+- [Deuteronomy — 34 chapters](deuteronomy/README.md): 957 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; every card classified on the site (Latin–Greek comparison, 2 November 2026).
 - [Joshua — 24 chapters](joshua/README.md): 659 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 99% still labelled review pending on the site.
 - [Judges — 21 chapters](judges/README.md): 618 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 100% still labelled review pending on the site.
 - [Ruth — 4 chapters](ruth/README.md): 85 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 94% still labelled review pending on the site.

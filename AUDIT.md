@@ -2,6 +2,18 @@
 
 1 November 2026 (Wisdom of Solomon added later the same day). Audit of the Latin–English column of the Saints.Bible Parallel Reader (staging) for fidelity to the Clementine Latin. A living copy of this document is kept as a Claude doc; this file is the record for the repository.
 
+## Update, 2 November 2026: Genesis–Deuteronomy
+
+The Pentateuch has been worked through on the staging site and its five book folders recaptured ([change log](corrections/2026-11-02/README.md)):
+
+- **Labels (finding 5): every card classified.** The 5,600 Genesis–Deuteronomy Vulgate cards that said "Assessment open" now carry a Latin–Greek category and a one-paragraph comparison note judged from the Latin against the Greek (Same 2,397; Similar 2,207; Different 661; Divergent 311; Disparate 24; list with notes in `corrections/2026-11-02/vulgate-classifications.json`). No Latin or English text was changed.
+- **Grouped cards shown once.** Where one Vulgate card covers several verses (Numbers 3:9–10, 5:23–26, 15:4–7, 16:42–43, 27:3–8, 35:13–15, 35:22–25, 36:7–10, and Deuteronomy 6:11–13), the reader used to repeat the same English on every row; it now shows it once, on the first row, labelled with all the Vulgate verses it covers. This resolves the Numbers entries in `audit/english-spans-more-than-latin.json`.
+- **Row alignment.** In Exodus 8, 22 and 35–39, Leviticus 6, Numbers 1, 6, 10, 16–17, 26, 29–30 and Deuteronomy 5, 12–13, 22–23 and 29 the Latin cards were placed by the Vulgate/English verse number while the Saints rows follow Rahlfs numbering (and, in Exodus 35–39, the Septuagint's order), so the Latin sat beside a different verse (Exodus 8:25 "Pharaoh called Moses and Aaron" beside Saints 8:25 "Moses said, I will go out"). 359 Latin cards now name the Saints verse their Greek pair actually is, and the Latin, Hebrew, KJV and Saints columns show the same verse on each row (details in [Hebrew-Translation corrections/2026-11-02/alignment](https://github.com/Dotty777/Hebrew-Translation/tree/main/corrections/2026-11-02/alignment)).
+- **Douay-Rheims in the Pentateuch.** The 354 Pentateuch readings that coincide with Douay-Rheims are formula verses ("The Lord spoke to Moses, saying") written in a modern voice; none carries a false label, so they were left as they are.
+- **Highlighting** still applies to every Latin reading it covered before (5,817 of 5,820); Exodus 33:7 and Numbers 21:33 and 25:3 had no colour plan before and still have none.
+
+Figures in the sections below are those of the 1 November audit; the Pentateuch book READMEs and `audit/per-verse-checks.csv` carry the 2 November figures.
+
 ## Summary
 
 The Latin–English column is faithful to the Clementine Latin. In a close reading of 160 randomly chosen verses and about 230 verses flagged by automated checks, not one mistranslated the Latin's meaning. The Latin text itself matches the Clementine Vulgate word for word in 98.5% of 34,461 readings, and every remaining difference inspected was a label or a numbering choice, not a copying error.

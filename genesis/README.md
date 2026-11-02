@@ -1,11 +1,11 @@
 # Genesis — Latin–English (Clementine Vulgate)
 
-50 chapters, 1,534 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026. One of the 70 books of the [Latin–English column](../README.md); audit results in [AUDIT.md](../AUDIT.md).
+50 chapters, 1,534 readings, captured from the Saints.Bible staging Parallel Reader on 2 November 2026. One of the 70 books of the [Latin–English column](../README.md); audit results in [AUDIT.md](../AUDIT.md).
 
 - **Latin:** matches the Clementine Vulgate reference text in 1,533 of 1,534 readings (99.9%); the rest differ only by editorial labels or embedded translation notes (see [AUDIT.md](../AUDIT.md)).
 - **English origin:** 1,452 fresh renderings; 5 Douay-Rheims verbatim; 77 Douay-Rheims lightly modernised; 0 with no Latin text.
-- **Site review labels:** 1,495 readings still marked "review pending" / "assessment open"; 39 classified.
-- **Verse numbering:** 9 readings carry a number that differs from the Vulgate's own (recorded as `vulgate_reference` in verses.json).
+- **Site review labels:** 0 readings still marked "review pending" / "assessment open"; 1,534 classified (Latin–Greek comparison: Same 690, Similar 560, Different 212, Divergent 61, Disparate 10, Similar · English comparison 1).
+- **Alignment:** each Latin reading sits on the reader row of the Saints verse its Greek pair is; where the Vulgate numbers the verse differently, `vulgate_reference` gives its own number (9 readings). Cards that cover several Vulgate verses are shown once, on their first row.
 
 ## Files
 
