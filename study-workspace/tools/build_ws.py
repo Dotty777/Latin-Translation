@@ -7,9 +7,11 @@ from extract import extract, tidy, ptext
 from saintspage import saints_page
 from studyed import study_edition, disparate, DIV
 W='/home/claude/work/ws'
+import os as _os
+OUTDIR=_os.environ.get('WS_OUT',W+'/out')
 GEN=json.load(open(f'{W}/gen-chapter-ids.json'))
 for slug,pid in GEN.items(): srcpage.TOT[f'/bible/law/genesis/{slug}/']=pid
-NAMES={'genesis':'Genesis','exodus':'Exodus','leviticus':'Leviticus','numbers':'Numbers','deuteronomy':'Deuteronomy','matthew':'Matthew','mark':'Mark','luke':'Luke','john':'John','psalms':'Psalms','proverbs':'Proverbs','ecclesiastes':'Ecclesiastes','song-of-songs':'Song of Songs','lamentations':'Lamentations','wisdom-of-solomon':'Wisdom of Solomon','sirach':'Sirach','revelation':'Revelation'}
+NAMES={'genesis':'Genesis','exodus':'Exodus','leviticus':'Leviticus','numbers':'Numbers','deuteronomy':'Deuteronomy','matthew':'Matthew','mark':'Mark','luke':'Luke','john':'John','psalms':'Psalms','proverbs':'Proverbs','ecclesiastes':'Ecclesiastes','song-of-songs':'Song of Songs','lamentations':'Lamentations','wisdom-of-solomon':'Wisdom of Solomon','sirach':'Sirach','revelation':'Revelation','joshua':'Joshua','judges':'Judges','ruth':'Ruth','1-samuel':'1 Samuel','2-samuel':'2 Samuel','1-kings':'1 Kings','2-kings':'2 Kings','1-chronicles':'1 Chronicles','2-chronicles':'2 Chronicles','1-maccabees':'1 Maccabees','2-maccabees':'2 Maccabees','ezra':'Ezra','nehemiah':'Nehemiah','esther':'Esther','job':'Job'}
 RANK={'Same':0,'Similar':1,'Different':2,'Divergent':3,'Disparate':4}
 LABEL={'hebrew':'Hebrew and Greek','latin':'Latin and Greek','kjv':'King James and Greek','saints':'Saints Translation notes','study':'Study Edition','disparate':'Disparate Study'}
 TODAY='2026-11-02'
@@ -90,8 +92,8 @@ def build_book(book, stats):
         data={'book':NAMES[book],'slug':book,'chapter':ch,'status':'Sources only · study notes not yet written','sourcesOnly':True,'generated':TODAY,
               'credit':'Source studies, word studies and cross-references are drawn from this site’s comparison pages, study editions and reference reviews. Open each source for its full text and citations.',
               'chapterNote':{'lost':''},'headings':heads,'lexicon':{},'verses':verses}
-        json.dump(data,open(f'{W}/out/{book}-{ch}.json','w'),ensure_ascii=False,separators=(',',':'))
-        json.dump({'chapter':chap,'verses':sources},open(f'{W}/out/{book}-{ch}.sources.json','w'),ensure_ascii=False,separators=(',',':'))
+        json.dump(data,open(f'{OUTDIR}/{book}-{ch}.json','w'),ensure_ascii=False,separators=(',',':'))
+        json.dump({'chapter':chap,'verses':sources},open(f'{OUTDIR}/{book}-{ch}.sources.json','w'),ensure_ascii=False,separators=(',',':'))
         stats['chapters']+=1
 if __name__=='__main__':
     books=sys.argv[1:] or list(NAMES)

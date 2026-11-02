@@ -54,7 +54,16 @@ def flatten(node,ev):
             t=re.sub(r'\s+',' ',str(c)).strip()
             if len(t)>2 and not t.startswith('wp:') and not t.startswith('/wp:'): ev.append(('p',t))
             continue
-        if c.name in('details','script','style','input','label','summary','header','mark','fieldset','button','svg','img','sup'): continue
+        if c.name=='details':
+            sm=c.find('summary')
+            st=re.sub(r'\s+',' ',sm.get_text(' ')).strip() if sm else ''
+            if re.match(r'^\d\.\s',st) and not re.search(r'Compare the English|wording',st,re.I) and not skip(c):
+                ev.append(('h',st))
+                for x in list(c.children):
+                    if isinstance(x,Tag) and x.name=='summary': continue
+                    if isinstance(x,Tag): ev.extend(flatten_one(x))
+            continue
+        if c.name in('script','style','input','label','summary','header','mark','fieldset','button','svg','img','sup'): continue
         if skip(c): continue
         if c.find(class_=re.compile(r'(^|-)badge($|-)')) is not None and c.name in('p','div'): continue
         if c.name in HEAD:
@@ -68,6 +77,9 @@ def flatten(node,ev):
         else:
             flatten(c,ev)
     return ev
+def flatten_one(node):
+    w=BeautifulSoup('<div></div>','lxml').div
+    import copy; w.append(copy.copy(node)); return flatten(w,[])
 def group(ev):
     secs=[];cur={'title':'','text':[]}
     for k,v in ev:
@@ -105,6 +117,7 @@ def extract(path,anchor):
         if first is not None:
             m=re.match(r'^\s*\d+:\d+[a-z]?\s+(Same|Similar|Different|Divergent|Disparate)\s*$',first.get_text(' '))
             if m: cat=badge=m.group(1); first.decompose()
+    if re.search(r'review pending|assessment open',badge,re.I): cat=''
     secs=group(flatten(e,[]))
     for sec in secs: sec['text']=[fixhref(t,path) for t in sec['text']]
     return {'rating':cat,'badge':badge,'sections':secs,'tag':e.name,'cls':' '.join(e.get('class') or [])}
@@ -153,8 +166,9 @@ def tidy(secs):
     """split untitled sections whose paragraphs begin '1. Title. text'; trim stray separators"""
     out=[]
     for s in secs:
-        if s['title']=='' and any(isinstance(t,str) and LAYER_RE.match(t) for t in s['text']):
-            cur=None
+        if any(isinstance(t,str) and LAYER_RE.match(t) for t in s['text']):
+            cur={'title':s['title'],'text':[]} if s['title'] else None
+            if cur: out.append(cur)
             for t in s['text']:
                 m=LAYER_RE.match(t) if isinstance(t,str) else None
                 if m is None and isinstance(t,list) and t and isinstance(t[0],str): 
@@ -173,6 +187,7 @@ def tidy(secs):
                 while t and isinstance(t[-1],str) and t[-1].strip(' ·;,')=='' : t=t[:-1]
                 if len(t)==1 and isinstance(t[0],str): t=t[0]
             if isinstance(t,list) and len(t)==1 and isinstance(t[0],list) and t[0][0].startswith('Read the passage research'): continue
-            if ptext(t if not isinstance(t,dict) else t['quote']).strip(): new.append(t)
+            tx=ptext(t if not isinstance(t,dict) else t['quote']).strip()
+            if tx and tx not in CATS: new.append(t)
         s['text']=new
     return [s for s in out if s['text']]

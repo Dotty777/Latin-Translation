@@ -1,6 +1,7 @@
 """Pack the Study Workspace chapter files into gzip bundles for the staging helper's wsdata job."""
 import json,glob,os,gzip,hashlib,re,collections
-SRC='/home/claude/work/ws/out'; DST='/home/claude/latin-translation/study-workspace/data'
+import sys
+SRC=sys.argv[1] if len(sys.argv)>1 else '/home/claude/work/ws/out'; DST=sys.argv[2] if len(sys.argv)>2 else '/home/claude/latin-translation/study-workspace/data'
 os.makedirs(DST,exist_ok=True)
 for f in glob.glob(DST+'/*.json.gz'): os.remove(f)
 by=collections.OrderedDict()

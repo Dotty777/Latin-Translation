@@ -1,9 +1,9 @@
 import sys,re; sys.path.insert(0,'/home/claude/work/lib')
 from bs4 import BeautifulSoup, Tag
 from extract import segs, ptext, rel
-STUDY={'genesis':23385,'exodus':23433,'leviticus':23383,'numbers':23407,'deuteronomy':23431,'psalms':23852,'proverbs':23743,'ecclesiastes':23840,'song-of-songs':23874,'lamentations':23889,'wisdom-of-solomon':23904,'sirach':23917}
-DISP={'genesis':18883,'exodus':18960,'leviticus':18961,'numbers':18962,'deuteronomy':18963,'song-of-songs':18635}
-DIV={'genesis':'law','exodus':'law','leviticus':'law','numbers':'law','deuteronomy':'law','psalms':'wisdom','proverbs':'wisdom','ecclesiastes':'wisdom','song-of-songs':'wisdom','lamentations':'wisdom','wisdom-of-solomon':'wisdom','sirach':'wisdom','matthew':'salvation','mark':'salvation','luke':'salvation','john':'salvation','revelation':'glory'}
+STUDY={'genesis':23385,'exodus':23433,'leviticus':23383,'numbers':23407,'deuteronomy':23431,'psalms':23852,'proverbs':23743,'ecclesiastes':23840,'song-of-songs':23874,'lamentations':23889,'wisdom-of-solomon':23904,'sirach':23917,'joshua':23738,'judges':23805,'ruth':23639,'1-samuel':23594,'2-samuel':23621,'1-kings':23521,'2-kings':23540,'1-chronicles':23553,'2-chronicles':23569,'1-maccabees':23580,'2-maccabees':23456,'ezra':23467,'nehemiah':23483,'esther':23631,'job':23501}
+DISP={'genesis':18883,'exodus':18960,'leviticus':18961,'numbers':18962,'deuteronomy':18963,'song-of-songs':18635,'joshua':18878,'judges':18880,'ruth':18882,'1-samuel':18870,'2-samuel':18874,'1-kings':18868,'2-kings':18872,'1-chronicles':18867,'2-chronicles':18871,'1-maccabees':18869,'2-maccabees':18873,'ezra':18876,'nehemiah':18881,'esther':18875,'job':18877}
+DIV={'genesis':'law','exodus':'law','leviticus':'law','numbers':'law','deuteronomy':'law','psalms':'wisdom','proverbs':'wisdom','ecclesiastes':'wisdom','song-of-songs':'wisdom','lamentations':'wisdom','wisdom-of-solomon':'wisdom','sirach':'wisdom','matthew':'salvation','mark':'salvation','luke':'salvation','john':'salvation','revelation':'glory','joshua':'judgement','judges':'judgement','ruth':'judgement','1-samuel':'judgement','2-samuel':'judgement','1-kings':'judgement','2-kings':'judgement','1-chronicles':'judgement','2-chronicles':'judgement','1-maccabees':'judgement','2-maccabees':'judgement','ezra':'judgement','nehemiah':'judgement','esther':'judgement','job':'judgement'}
 def expand(text, ch_default):
     """'3:8–10' / '3:20, 3:24' / '8:4–5, 8:8' -> list of (ch,verse str)"""
     out=[]; ch=ch_default
