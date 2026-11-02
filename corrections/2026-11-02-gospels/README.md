@@ -11,7 +11,7 @@ All changes were made on the **staging** site only; production has not been touc
 
 ## What changed on each card
 
-- **English:** 84 readings corrected (Matthew 22, Mark 9, Luke 25, John 28), with the highlighted comparison regenerated. 18 of these are typographical ("an donkey", "to-next day", stray commas and stops); the rest restore a word or clause the English had dropped, remove one the Latin does not have, fix number, person, tense or speaker, or move a clause to the verse where this Latin has it (for example Matthew 27:22–23, Mark 6:27–28, John 5:18–19, John 14:12–13).
+- **English:** 84 readings corrected (Matthew 22, Mark 9, Luke 25, John 28), with the highlighted comparison regenerated. About 28 of these are typographical ("an donkey", "to-next day", stray commas and stops); the rest restore a word or clause the English had dropped, remove one the Latin does not have, fix number, person, tense or speaker, or move a clause to the verse where this Latin has it (for example Matthew 27:22–23, Mark 6:27–28, John 5:18–19, John 14:12–13).
 - **Source label:** "Modernized English scaffold · individual Latin review pending" and "Direct Latin rendering · specialist review pending" became "… checked (or corrected) against the Clementine Latin (2 Nov 2026); specialist sign-off pending".
 - **Classification:** each "Review pending" card got its category on the badge and in section 4, a comparison note in section 1 (the wording cues are kept) and a note in section 5 on what kind of difference it is.
 - **Latin text:** the four glued initials (Matthew 11:12, 27:45; Mark 13:28; John 9:32) and Matthew 25:42 "desistis" → "dedistis".
