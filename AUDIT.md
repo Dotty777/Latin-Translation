@@ -2,6 +2,16 @@
 
 1 November 2026 (Wisdom of Solomon added later the same day). Audit of the Latin–English column of the Saints.Bible Parallel Reader (staging) for fidelity to the Clementine Latin. A living copy of this document is kept as a Claude doc; this file is the record for the repository.
 
+## Update, 2 November 2026: the four Gospels
+
+Matthew, Mark, Luke and John have been worked through on the staging site and recaptured ([change log](corrections/2026-11-02-gospels/README.md)):
+
+- **Douay-Rheims labels (finding 3): already honest, now checked.** The Gospel cards had since been relabelled "Modernized English scaffold" for the 3,188 Douay-Rheims units, so the label was no longer false. Every one of the 3,777 Latin–English units (Douay-Rheims and the 589 direct renderings) was then read against the Clementine Latin; 84 were corrected where the English departed from it: a dropped or added word or clause, a wrong number, person or tense, a clause placed in the neighbouring verse, or a plain typographical error. An independent second reading checked every correction, and nine it judged unnecessary were withdrawn. The cards now say "checked" or "corrected against the Clementine Latin (2 Nov 2026); specialist sign-off pending".
+- **Labels (finding 5): every card classified.** The 3,672 "Review pending" cards now carry a Latin–Greek category with a layer-1 comparison note and a layer-5 note on the kind of difference (Gospels in total: Same 2,662; Similar 822; Different 122; Divergent 158; Disparate 7).
+- **Glued initials (recommendation 4):** Matthew 11:12 and 27:45, Mark 13:28 and John 9:32 now read "A diebus", "A sexta", "A ficu", "A sæculo". Matthew 25:42 "desistis" (a transcription slip) now reads "dedistis".
+- **Rows and highlighting:** the Latin, KJV and Saints columns of the Gospels were already aligned row by row; highlight colours were carried over to every corrected reading, so all Gospel readings remain coloured.
+- **Left as they are:** Luke 19:47 "princeps plebis" and John 14:10 "fecit" are the readings of the Clementine transcription the site uses (other Vulgate editions read "principes" and "facit"); the English follows the Latin shown at Luke 19:47 and the common reading at John 14:10.
+
 ## Update, 2 November 2026: Genesis–Deuteronomy
 
 The Pentateuch has been worked through on the staging site and its five book folders recaptured ([change log](corrections/2026-11-02/README.md)):

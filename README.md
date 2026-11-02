@@ -1,10 +1,10 @@
 # Latin–English column of the Saints.Bible Parallel Reader
 
-The Clementine Vulgate Latin and the Latin–English rendering for every verse of all 70 books of the Saints Holy Bible as shown in the Latin column on Saints.Bible, captured from the staging Parallel Reader on 1 November 2026 (Genesis–Deuteronomy recaptured on 2 November 2026 after corrections), with an audit of the column's fidelity to the Latin. Companion to [Saints-Translation](https://github.com/Dotty777/Saints-Translation), which records the Saints English (Greek-based) text in the same layout.
+The Clementine Vulgate Latin and the Latin–English rendering for every verse of all 70 books of the Saints Holy Bible as shown in the Latin column on Saints.Bible, captured from the staging Parallel Reader on 1 November 2026 (Genesis–Deuteronomy and the four Gospels recaptured on 2 November 2026 after corrections), with an audit of the column's fidelity to the Latin. Companion to [Saints-Translation](https://github.com/Dotty777/Saints-Translation), which records the Saints English (Greek-based) text in the same layout.
 
 - [AUDIT.md](AUDIT.md): the fidelity and accuracy audit (verdict, method, findings, recommendations).
 - `audit/`: the audit's working data — a per-verse check table, the nine glued initials, and the 171 readings whose English spans more Vulgate verses than the Latin shown.
-- `corrections/`: the data files applied to the staging site, with a change log per date ([2 November 2026](corrections/2026-11-02/README.md)); `staging-backups/` holds the pages as they were before.
+- `corrections/`: the data files applied to the staging site, with a change log per date ([2 November 2026, Pentateuch](corrections/2026-11-02/README.md); [2 November 2026, Gospels](corrections/2026-11-02-gospels/README.md)); `staging-backups/` holds the pages as they were before.
 - One folder per book: `README.md` (counts and audit results), `<Book>.txt` (Latin and English by chapter), `verses.json` (structured text with card ids, review status, English origin and Vulgate numbering).
 
 Verse numbers follow the Saints column (Greek/Hebrew numbering); where the Vulgate numbers a verse differently, `verses.json` records the Vulgate reference.
@@ -54,10 +54,10 @@ Verse numbers follow the Saints column (Greek/Hebrew numbering); where the Vulga
 - [Haggai — 2 chapters](haggai/README.md): 38 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 92% still labelled review pending on the site.
 - [Zechariah — 14 chapters](zechariah/README.md): 211 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 96% still labelled review pending on the site.
 - [Malachi — 3 chapters](malachi/README.md): 55 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 87% still labelled review pending on the site.
-- [Matthew — 28 chapters](matthew/README.md): 1,068 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 77%; 97% still labelled review pending on the site.
-- [Mark — 16 chapters](mark/README.md): 678 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 78%; 97% still labelled review pending on the site.
-- [Luke — 24 chapters](luke/README.md): 1,149 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 81%; 98% still labelled review pending on the site.
-- [John — 21 chapters](john/README.md): 878 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 72%; 96% still labelled review pending on the site.
+- [Matthew — 28 chapters](matthew/README.md): 1,071 readings; Latin matches the Clementine reference in 100%; English is modernised Douay-Rheims with 246 fresh renderings, every reading checked against the Latin (22 corrected); every card classified on the site (2 November 2026).
+- [Mark — 16 chapters](mark/README.md): 679 readings; Latin matches the Clementine reference in 100%; English is modernised Douay-Rheims with 145 fresh renderings, every reading checked against the Latin (9 corrected); every card classified on the site (2 November 2026).
+- [Luke — 24 chapters](luke/README.md): 1,151 readings; Latin matches the Clementine reference in 100%; English is modernised Douay-Rheims with 218 fresh renderings, every reading checked against the Latin (25 corrected); every card classified on the site (2 November 2026).
+- [John — 21 chapters](john/README.md): 879 readings; Latin matches the Clementine reference in 100%; English is modernised Douay-Rheims with 245 fresh renderings, every reading checked against the Latin (28 corrected); every card classified on the site (2 November 2026).
 - [Acts — 28 chapters](acts/README.md): 1,007 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 89%; 98% still labelled review pending on the site.
 - [Romans — 16 chapters](romans/README.md): 433 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 83%; 98% still labelled review pending on the site.
 - [1 Corinthians — 16 chapters](1-corinthians/README.md): 437 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 85%; 97% still labelled review pending on the site.
