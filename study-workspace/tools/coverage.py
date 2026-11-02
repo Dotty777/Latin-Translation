@@ -1,7 +1,7 @@
-"""Count what each Study Workspace chapter holds; writes coverage.csv and prints book totals as JSON."""
+"""Usage: coverage.py [OUT_DIR] [CSV] [book,book,...]. Count what each Study Workspace chapter holds; writes coverage.csv and prints book totals as JSON."""
 import json,glob,collections,csv,re,sys
 OUT=sys.argv[1] if len(sys.argv)>1 else '/home/claude/work/ws/out'
-NAMES=['genesis','exodus','leviticus','numbers','deuteronomy','matthew','mark','luke','john','psalms','proverbs','ecclesiastes','song-of-songs','lamentations','wisdom-of-solomon','sirach','revelation']
+NAMES=sys.argv[3].split(',') if len(sys.argv)>3 else ['genesis','exodus','leviticus','numbers','deuteronomy','matthew','mark','luke','john','psalms','proverbs','ecclesiastes','song-of-songs','lamentations','wisdom-of-solomon','sirach','revelation']
 cols=['chapter','verses','rated_hebrew','rated_latin','rated_kjv','unrated','src_hebrew','src_latin','src_kjv','src_saints','src_study','src_disparate','words','headings','chapter_notes','prose']
 rows=[];books={}
 for b in NAMES:
@@ -22,5 +22,5 @@ for b in NAMES:
         rows.append({'chapter':f'{b}-{ch}',**{k:c[k] for k in cols[1:]}})
         bc.update(c)
     books[b]=dict(bc)
-w=csv.DictWriter(open('/home/claude/latin-translation/study-workspace/coverage.csv','w',newline=''),fieldnames=cols); w.writeheader(); w.writerows(rows)
+w=csv.DictWriter(open(sys.argv[2] if len(sys.argv)>2 else '/home/claude/latin-translation/study-workspace/coverage.csv','w',newline=''),fieldnames=cols); w.writeheader(); w.writerows(rows)
 print(json.dumps(books))
