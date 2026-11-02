@@ -2,6 +2,14 @@
 
 1 November 2026 (Wisdom of Solomon added later the same day). Audit of the Latin–English column of the Saints.Bible Parallel Reader (staging) for fidelity to the Clementine Latin. A living copy of this document is kept as a Claude doc; this file is the record for the repository.
 
+## Update, 2 November 2026: Revelation
+
+Revelation's Latin column and its KJV comparison were reviewed on staging ([change log](corrections/2026-11-02-revelation/README.md)):
+
+- **English read against the Latin.** All 405 Latin–English renderings were read against the Clementine Latin; 11 were corrected (most had followed the Greek or the KJV: "seats" for *sedilia*, "red" for *rufus*, "white" for *candido*, "time will be no more" for *tempus non erit amplius*). A second reading confirmed them and one unnecessary change was withdrawn.
+- **Labels (finding 5): reviewed, not just present.** Revelation was already counted as fully classified, but most ratings were a first pass with boilerplate notes (281 of 405 "Similar"). Every card was read again: 201 Latin categories changed and 331 notes were written for the verse (now Same 166, Similar 151, Different 44, Divergent 41, Disparate 3). The KJV comparison page was reviewed the same way (232 categories changed).
+- **Rows 20:7–10** no longer show the Latin on invented sub-rows or repeat it; the Latin sits beside Saints 20:7, 20:9 and 20:10.
+
 ## Update, 2 November 2026: the Wisdom Division (Psalms, Proverbs, Ecclesiastes, Song of Songs, Lamentations)
 
 The five Vulgate comparison pages of the Wisdom Division have been worked through on the staging site and recaptured ([change log](corrections/2026-11-02-wisdom/README.md)):
