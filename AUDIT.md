@@ -2,6 +2,15 @@
 
 1 November 2026 (Wisdom of Solomon added later the same day). Audit of the Latin–English column of the Saints.Bible Parallel Reader (staging) for fidelity to the Clementine Latin. A living copy of this document is kept as a Claude doc; this file is the record for the repository.
 
+## Update, 2 November 2026: the Wisdom Division (Psalms, Proverbs, Ecclesiastes, Song of Songs, Lamentations)
+
+The five Vulgate comparison pages of the Wisdom Division have been worked through on the staging site and recaptured ([change log](corrections/2026-11-02-wisdom/README.md)):
+
+- **English read against the Latin.** Every Latin–English unit with Latin (3,901 cards) was read against the Clementine Latin; 29 were corrected where the English departed from it (Psalms 25, Proverbs 3, Song of Songs 1), most often where the English had followed the Hebrew instead of this Latin ("Chusi", "the hand of the strong", "guide of her youth") or had turned a Latin statement into a wish. An independent second reading checked every correction; three it judged unnecessary were withdrawn. The cards now say "checked" or "corrected against the Clementine Latin, 2 November 2026".
+- **Labels (finding 5): every card classified.** The 3,805 "Review pending" cards now carry a Latin–Greek category with a layer-1 comparison note and a layer-5 note (Psalms: Same 1,659, Similar 693, Different 100, Divergent 49, Disparate 1; Proverbs: Same 80, Similar 353, Different 322, Divergent 135, Disparate 68; Ecclesiastes, Song of Songs and Lamentations in the change log). A blind re-classification of a random sample agreed exactly in 82% and within one step in 97%.
+- **Lamentations letter names (finding 6): not an inconsistency.** The Latin on the cards does carry the letter names (shown as `<Aleph>`, `<Beth>`); the earlier comparison stripped them as markup. The English "Aleph." etc. follows the Latin and was kept. Song of Songs likewise shows the speaker labels in the Latin (`<Sponsa>`); the English labels them in brackets on some verses only, which was left as it is.
+- **Highlighting:** colours were carried over to every corrected reading; every Psalms, Proverbs, Ecclesiastes and Lamentations Latin reading is coloured, and Song of Songs 7:1–7:2 remain uncoloured as before.
+
 ## Update, 2 November 2026: the four Gospels
 
 Matthew, Mark, Luke and John have been worked through on the staging site and recaptured ([change log](corrections/2026-11-02-gospels/README.md)):
