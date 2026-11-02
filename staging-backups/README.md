@@ -5,3 +5,4 @@ Raw WordPress block content of the Saints.Bible staging comparison pages that fe
 To restore a page, decompress its file and paste the content back into the page (or write it with the WordPress.com connector). Every correction made after a backup is also saved by WordPress as a normal page revision.
 
 - `2026-11-02/`: before the Genesis–Deuteronomy corrections of 2 November 2026.
+- `2026-11-02-wisdom/`: the five Wisdom Division Vulgate comparison pages (Psalms, Proverbs, Ecclesiastes, Song of Songs, Lamentations), before the Latin review and classification of 2 November 2026.
