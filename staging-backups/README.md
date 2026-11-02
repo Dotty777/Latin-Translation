@@ -6,3 +6,4 @@ To restore a page, decompress its file and paste the content back into the page 
 
 - `2026-11-02/`: before the Genesis–Deuteronomy corrections of 2 November 2026.
 - `2026-11-02-wisdom/`: the five Wisdom Division Vulgate comparison pages (Psalms, Proverbs, Ecclesiastes, Song of Songs, Lamentations), before the Latin review and classification of 2 November 2026.
+- `2026-11-02-revelation/`: the Revelation Vulgate comparison page (20781) and the Revelation KJV comparison edition (3847), before the review of 2 November 2026. The KJV page is kept here because Revelation has no Hebrew column.
