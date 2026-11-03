@@ -1,0 +1,107 @@
+K, W, C = 'Knowledge', 'Wisdom', 'Command'
+S, R = 'stated', 'reflection'
+def ins(t, b, text): return {'type': t, 'basis': b, 'text': text}
+def keeps(t): return {'dir': 'keeps', 'text': t}
+def loses(t): return {'dir': 'loses', 'text': t}
+def between(t): return {'dir': 'between', 'text': t}
+AGREE = between("Hebrew, Greek, Latin and King James agree in substance; only the rendering of the divine name and small turns of phrase differ.")
+TENT = [loses("Hebrew 'Tent of Meeting' is lost."), keeps("Greek 'Tent of Testimony'."), between("The Latin has 'tabernacle of the covenant'; the King James 'tabernacle of the congregation'.")]
+BEST = [loses("Hebrew 'the best' (chelev, fat) is lost."), keeps("Greek 'firstfruits'."), between("The Latin has 'the best' (optima); the King James 'the best'.")]
+CONTRIB = [loses("Hebrew 'contribution' (terumah) is lost."), keeps("Greek 'portion set apart' or 'firstfruits'."), between("The Latin and King James have 'heave offering' or 'firstfruits'.")]
+
+def v(received, explain, shared, k, w, lost, entries=None, cmd=None):
+    inst = [ins(K, S, k)]
+    if cmd: inst.append(ins(C, S, cmd))
+    inst.append(ins(W, R, w))
+    return {'received': received, 'explain': explain, 'shared': shared, 'instructions': inst, 'entries': entries if entries is not None else [], 'lost': lost}
+
+CHAPTER = {
+ 'slug': 'numbers', 'chapter': 18,
+ 'chapterNote': "The answer to 'are we all to perish?': YHWH speaks to Aaron. Aaron's house bears the guilt of the sanctuary and priesthood; the Levites join them to keep the tent but not approach the vessels or altar; the priests guard altar and veil, and the outsider who approaches dies. Then the priests' dues: the most holy portions eaten by males in a holy place; the wave offerings, firstfruits of oil, wine and grain, first-ripe produce and devoted things for the whole clean household; the firstborn, humans and unclean animals redeemed at five shekels, clean animals' blood and fat offered and flesh the priests'; a covenant of salt. Aaron has no land: 'I am your portion.' The Levites receive every tithe for their service, bear the guilt, have no inheritance, and give a tithe of the tithe, the best of it, to Aaron. The Greek has 'holy things' for 'sanctuary' (18:1, 5), lacks 'to you' at 18:6, 'a gift of your priesthood … shall die' (18:7), 'firstfruits … share of honour' for 'contributions … allotted portion' (18:8), a broader offering list (18:9), adds 'you and your sons' (18:10), 'firstfruits' for 'the best' (18:12, 29, 30, 32), 'obols' (18:16), 'right foreleg' for 'right thigh' (18:18), 'death-bringing sin' (18:22), 'their generations' (18:23), 'a portion set apart' for 'full yield' (18:27), and a looser 'or' at 18:29.",
+ 'verses': {
+  '18:1': v("YHWH said to Aaron: you, your sons and your ancestral house bear responsibility for offences against the sanctuary; you and your sons for offences against your priesthood.", "The Hebrew 'sanctuary'; the Greek 'holy things'. Rashi reads the house as the Kohathites.",
+   ["YHWH to Aaron.", "Bear the sanctuary's guilt.", "And the priesthood's."], "The priests answered for the holy place.", "God speaks to Aaron directly, a rare thing, and the first word is responsibility: the priesthood is a liability before it is a privilege. The people's fear in 17:28 is answered by making Aaron carry it.",
+   [loses("Hebrew 'the sanctuary' is lost."), keeps("Greek 'the holy things'."), between("The Latin and King James have 'sanctuary'.")], ['high-priest', 'yhwh-yahweh']),
+  '18:2': v("Bring your brothers the tribe of Levi near with you, to join you and serve you, while you and your sons are before the Tent of Testimony.", "All four columns agree; the Hebrew puns on Levi and 'join'.",
+   ["Bring the Levites near.", "To join and serve you.", "Before the tent."], "Levi was attached to Aaron.", "'Let them be joined', the pun on Levi's name; the tribe is named for attachment, and Korah's attempt to detach it is undone.", [AGREE], ['high-priest', 'tabernacle']),
+  '18:3': v("They keep your charge and the whole tent's charge, but do not approach the holy vessels or altar, so that neither they nor you die.", "All four columns agree; plural 'charges' in Greek.",
+   ["They keep the charge.", "Not the vessels or altar.", "Lest you both die."], "Levite and priest shared the danger.", "'Neither they nor you': the Levite who touches the altar kills the priest who let him; the line is drawn for both their lives.", [keeps("Greek plural 'charges'.")], ['altar']),
+  '18:4': v("They join you and keep the Tent of Meeting's charge for all the tent's service; an unauthorized person does not approach you.", "All four columns agree in substance.",
+   ["They join you.", "Keep the tent's charge.", "No outsider approaches."], "The Levites fenced the priests.", "The Levites are the fence around the priests, as the priests are the fence around the ark; holiness in rings.", TENT, ['tabernacle']),
+  '18:5': v("You keep the charge of the sanctuary and altar, so that wrath no longer falls on Israel.", "The Hebrew 'no longer'; the Greek 'there shall be no wrath'.",
+   ["Keep the sanctuary's charge.", "And the altar's.", "No more wrath."], "The priests' duty prevented wrath.", "'No longer': the wrath of chapter 17 is remembered; the priesthood's job is to make sure it does not happen again.",
+   [loses("Hebrew 'no longer' is lost."), keeps("Greek 'the charges of the holy things … there shall be no wrath'.")], ['altar'], "Keep the charge of the sanctuary and the altar."),
+  '18:6': v("Look, I have taken your brothers the Levites from Israel; they are given to you as a gift, dedicated to YHWH, for the Tent of Meeting's service.", "The Hebrew 'given to you'; the Greek 'a gift given unto the Lord' without 'to you'.",
+   ["I have taken the Levites.", "A gift to you.", "Dedicated to YHWH."], "The Levites were Aaron's gift from God.", "'Given, given': the doubled word of chapter 3 again; the Levites are a present from God to Aaron, which is why Korah could not take them back.",
+   TENT + [loses("Hebrew 'given to you as a gift' is lost."), keeps("Greek 'a gift given unto the Lord'.")], ['tabernacle', 'yhwh-yahweh']),
+  '18:7': v("You and your sons guard your priesthood in all concerning the altar and inside the veil, and serve; I give your priesthood as a service of gift; the unauthorized who approaches is put to death.", "The Hebrew 'I give you your priesthood as a service of gift … put to death'; the Greek 'the ministries, a gift of your priesthood … shall die'.",
+   ["Guard the priesthood.", "Altar and veil.", "A gift; outsiders die."], "The priesthood itself was a gift.", "'A service of gift': the priesthood is given, not earned, which is the whole answer to Korah; and because it is given, it cannot be taken.",
+   [loses("Hebrew 'I give you your priesthood as a service of gift … shall be put to death' is lost."), keeps("Greek 'you shall perform the ministries, a gift of your priesthood; and the outsider who approaches shall die'.")], ['high-priest', 'altar'], "The unauthorized person who approaches shall be put to death."),
+  '18:8': v("YHWH spoke to Aaron: I have given you charge of my contributions, all Israel's holy gifts, as an allotted portion to you and your sons, a perpetual statute.", "The Hebrew 'contributions … allotted portion (lemashchah)'; the Greek 'firstfruits … share of honour'.",
+   ["Charge of the contributions.", "All the holy gifts.", "A perpetual portion."], "The priests' income was assigned.", "After the duty, the pay; the chapter turns from what the priests must bear to what they may eat.",
+   CONTRIB + [keeps("Greek 'for a share of honour, and unto your sons after you'."), between("The Latin has 'for the priestly office'; the King James 'by reason of the anointing'.")], ['high-priest']),
+  '18:9': v("Yours from the most holy things reserved from the fire: all their offerings, grain, sin and guilt offerings rendered to me; most holy for you and your sons.", "The Greek's list is broader and reverses guilt and sin; it lacks 'reserved from the fire'.",
+   ["From the most holy.", "Grain, sin, guilt offerings.", "For you and your sons."], "The most holy portions were the priests'.", "What the fire does not take, the priest does: the sin offering's flesh feeds the man who offered it.",
+   [loses("Hebrew 'reserved from the fire … grain offerings' is lost."), keeps("Greek 'all their gifts, all their sacrifices, every guilt offering, all their sin offerings'.")], ['high-priest']),
+  '18:10': v("Eat it in a most holy place; every male may eat it; it is holy to you.", "The Greek adds 'you and your sons'.",
+   ["In a most holy place.", "Every male.", "Holy to you."], "The most holy food was eaten by males in the court.", "The most holy is eaten by priests only, men only, in the court only; the holiness of the food fixes who and where.",
+   [keeps("Greek adds 'you and your sons'.")]),
+  '18:11': v("Also yours: the contribution from their gifts, all Israel's wave offerings, to you, your sons and daughters, a perpetual statute; everyone clean in your house may eat.", "The Hebrew 'contribution … wave offerings'; the Greek 'firstfruits … presentations' (epithemata).",
+   ["The wave offerings.", "To sons and daughters.", "For all the clean."], "Lesser holy food fed the whole household.", "Daughters eat here: the second grade of holy food reaches the whole priestly house, and a clean daughter has a share the unclean son does not.",
+   CONTRIB + [keeps("Greek 'the firstfruits of their gifts … all the presentations'.")], ['high-priest']),
+  '18:12': v("All the best of the fresh oil, new wine and grain, their first portion given to YHWH, I give you.", "The Hebrew 'the best' (fat); the Greek 'every firstfruit'.",
+   ["The best oil.", "The best wine and grain.", "Given to you."], "The first of the harvest was the priests'.", "'The fat of the oil', the Hebrew says, the cream of the crop; the Greek asked for the first, the Hebrew for the best, and a farmer knows the difference.",
+   BEST, ['olive-tree', 'grapevine', 'wheat']),
+  '18:13': v("The first-ripe produce of everything in their land brought to YHWH is yours; everyone clean in your house may eat it.", "All four columns agree.",
+   ["First-ripe produce.", "Brought to YHWH.", "Yours."], "Firstfruits fed the priests.", "The first figs and grapes of the year go to the priest's table; the land's earliest gifts are God's and then his servants'.", [AGREE]),
+  '18:14': v("Everything devoted in Israel is yours.", "All four columns agree; the Greek word is kin to 'anathema'.",
+   ["Everything devoted.", "In Israel.", "Yours."], "Devoted things went to the priests.", "Herem, the irrevocable gift of Leviticus 27, lands in the priests' hands; what no one may buy back, Aaron keeps.",
+   [keeps("Greek 'placed under a vow of devotion' (anathema root)."), between("The Latin has 'rendered by vow'.")]),
+  '18:15': v("Everything that opens the womb, human or animal, presented to YHWH is yours; but you must redeem the human firstborn and the firstborn of unclean animals.", "All four columns agree; 'ransom' in Greek.",
+   ["Every firstborn.", "Yours.", "Humans and unclean beasts redeemed."], "Firstborn belonged to the priests.", "The firstborn son is the priest's by right and redeemed by his father's silver; the exchange of chapter 3 becomes a standing income.",
+   [keeps("Greek 'the firstborn of men shall surely be redeemed (ransom)'.")], ['redeemer']),
+  '18:16': v("Redeem them from one month old at your valuation of five sanctuary shekels, twenty gerahs.", "The Hebrew 'gerahs'; the Greek 'obols'.",
+   ["From one month.", "Five shekels.", "Twenty gerahs."], "Five shekels redeemed a firstborn son.", "Five shekels at a month old, the price Mary and Joseph will pay at the temple; the law of 3:47 made permanent.",
+   [loses("Hebrew 'gerahs' is lost."), keeps("Greek 'obols'.")], ['mary-mother-of-jesus']),
+  '18:17': v("But do not redeem the firstborn of cattle, sheep or goats; they are holy; dash their blood on the altar and turn their fat to smoke as a fire offering, a pleasing aroma to YHWH.", "The Hebrew 'dash … turn into smoke'; the Greek 'pour … offer up'.",
+   ["Clean firstborn not redeemed.", "Blood on the altar.", "Fat to smoke."], "Clean firstborn animals were sacrificed.", "The clean firstborn goes to the altar whole: blood, fat, and the rest to the priest. God and his servant share the calf.",
+   [keeps("Greek 'pour their blood … offer up the fat'."), between("The Latin and King James have 'sprinkle … burn'.")], ['altar', 'term-savor']),
+  '18:18': v("Their flesh is yours, as the breast of the wave offering and the right thigh are yours.", "The Hebrew 'right thigh'; the Greek 'right foreleg'.",
+   ["Their flesh.", "Yours.", "Like breast and right thigh."], "The firstborn's meat was the priests'.", "The whole carcass, not just breast and thigh; the firstborn is the priest's richest meat.",
+   [loses("Hebrew 'right thigh' is lost."), keeps("Greek 'right foreleg … the presentation'."), between("The Latin and King James have 'right shoulder'.")], ['high-priest']),
+  '18:19': v("All the contributions of holy things Israel gives YHWH I give you, your sons and daughters, a perpetual statute; a perpetual covenant of salt before YHWH for you and your offspring.", "All four columns agree; the Greek attaches 'everlasting' to salt.",
+   ["All the contributions.", "A perpetual statute.", "A covenant of salt."], "The dues were a salt covenant.", "'A covenant of salt': salt that does not spoil for a covenant that does not lapse; the priests' bread is salted with permanence.",
+   CONTRIB + [keeps("Greek 'a covenant of everlasting salt'.")], ['term-covenant', 'yhwh-yahweh']),
+  '18:20': v("YHWH said to Aaron: you have no inheritance in their land and no share among them; I am your share and your inheritance among Israel.", "All four columns agree.",
+   ["No inheritance.", "No share.", "I am your portion."], "God was the priests' land.", "'I am your portion': the tribe with no fields has God for a field. The psalmists will take the sentence for everyone.", [AGREE], ['high-priest', 'yhwh-yahweh'], "I am your share and your inheritance."),
+  '18:21': v("To the Levites I have given every tithe in Israel as an inheritance for their service of the Tent of Meeting.", "All four columns agree in substance.",
+   ["To the Levites.", "Every tithe.", "For their service."], "The tithe paid the Levites.", "The tithe is wages: a tenth of Israel's harvest for the men who carry the tent and have no harvest of their own.", TENT, ['tabernacle']),
+  '18:22': v("Israel no longer approaches the Tent of Meeting, incurring sin and dying.", "The Hebrew 'sin and dying'; the Greek 'death-bringing sin'.",
+   ["Israel approaches no more.", "Incurring sin.", "And dying."], "The people kept their distance.", "The people's question answered: no, you will not all perish, because you will no longer come near; the Levites go in your place.",
+   TENT + [keeps("Greek 'incurring a death-bringing sin'.")], ['tabernacle']),
+  '18:23': v("The Levite performs the Tent of Meeting's service and they bear their guilt; a perpetual statute through your generations; among Israel they have no inheritance.", "The Greek 'their generations … offences'.",
+   ["The Levite serves.", "They bear the guilt.", "No inheritance."], "Levites bore the guilt and had no land.", "They bear the guilt and own no land; the Levite's two conditions, both answers to Korah, who wanted more and risked less.",
+   TENT + [keeps("Greek 'throughout their generations … their offences'.")]),
+  '18:24': v("For Israel's tithes contributed to YHWH I have given the Levites as inheritance; therefore they have no inheritance among Israel.", "All four columns agree in substance.",
+   ["The tithes.", "The Levites' inheritance.", "So no land."], "Tithe replaced territory.", "The tithe is their field; they harvest what others sow, and are landless by design.", CONTRIB, ['yhwh-yahweh']),
+  '18:25': v("YHWH speaks to Moses.", "All four columns agree.", ["YHWH speaks.", "To Moses.", "On the Levites' tithe."],
+   "God returned to Moses.", "After speaking to Aaron, back to Moses for the Levites' own rule.", [AGREE], ['yhwh-yahweh', 'moses']),
+  '18:26': v("Speak to the Levites: when you receive Israel's tithe as your inheritance, contribute from it a contribution to YHWH, a tithe of the tithe.", "All four columns agree.",
+   ["When you receive the tithe.", "Contribute from it.", "A tithe of the tithe."], "Levites tithed their tithe.", "A tenth of the tenth: the Levites are not exempt from giving; what they receive they also render, up the chain to Aaron.", CONTRIB, [], "You shall contribute a tithe of the tithe to YHWH."),
+  '18:27': v("Your contribution is reckoned as grain from the threshing floor and the full yield from the winepress.", "The Hebrew 'full yield'; the Greek 'a portion set apart'.",
+   ["Reckoned to you.", "As threshing-floor grain.", "As winepress yield."], "The Levites' gift counted as farm produce.", "The Levite who grows nothing gives as if he grew it; his tithe counts like a farmer's.",
+   [loses("Hebrew 'the full yield from the winepress' is lost."), keeps("Greek 'a portion set apart from the winepress'.")]),
+  '18:28': v("So you also contribute to YHWH from all your tithes from Israel; from them give YHWH's contribution to Aaron the priest.", "The Greek 'take of the portions set apart'.",
+   ["Contribute from your tithes.", "To YHWH.", "Given to Aaron."], "The Levites' tithe went to Aaron.", "Israel feeds the Levites, the Levites feed the priests; the holy economy flows inward to the altar.", CONTRIB, ['high-priest', 'yhwh-yahweh']),
+  '18:29': v("From all your gifts contribute every contribution due to YHWH, from all its best, the holy portion.", "The Hebrew 'from all its best'; the Greek 'or from all the firstfruits'.",
+   ["From all your gifts.", "Every contribution due.", "From the best."], "The Levites gave their best.", "'The best', the fat again: the Levite's tithe to Aaron is to be his finest, not his leavings.",
+   BEST + [keeps("Greek 'or from all the firstfruits the consecrated portion'.")]),
+  '18:30': v("Say to them: when you contribute the best, the remainder is reckoned to the Levites as threshing-floor and winepress produce.", "The Hebrew 'the best'; the Greek 'the firstfruits'.",
+   ["Contribute the best.", "The rest is yours.", "Like farm produce."], "The remainder was the Levites' own.", "Give the best and the rest is common; the nine-tenths that remain are the Levite's as fully as a farmer's grain.", BEST),
+  '18:31': v("You and your households may eat it anywhere, for it is your wages for service in the Tent of Meeting.", "All four columns agree in substance.",
+   ["Eat it anywhere.", "You and your households.", "Your wages."], "The Levites' food was ordinary.", "'In any place': unlike the priests' holy portions, the Levites' tithe is just food, eaten at home with the family; it is pay, not sacrament.", TENT, ['tabernacle']),
+  '18:32': v("You incur no sin when you contribute the best; do not profane Israel's holy things, and you will not die.", "The Hebrew 'the best'; the Greek 'the firstfruits'.",
+   ["No sin.", "If you give the best.", "Do not profane; do not die."], "Giving the best kept the Levites safe.", "Give the best and live: the chapter that began with the people's fear of dying ends by telling the Levites how not to. Death at the sanctuary is avoidable after all.",
+   BEST, [], "You shall not profane the holy things of Israel."),
+ },
+}
