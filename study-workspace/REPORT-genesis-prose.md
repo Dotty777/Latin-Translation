@@ -30,7 +30,7 @@ Batches and commits: Genesis 2–22 (earlier), 23–35 at `7537b2e`, 36–50 at 
 
 - **Genesis 1 lexicon anchors.** Genesis 1 was the pilot and some of its lexicon entries were written before the catalogue was fixed; a few anchors there may not resolve. Worth a pass.
 - **Disputed poetry.** Genesis 49 (Jacob's blessings) is where Hebrew and Greek diverge most; the prose keeps both portraits distinct rather than harmonising. 49:10 (Shiloh) is reported with the source's caution that a messianic reading is an interpretation, not evidence of the earliest wording.
-- **Lexicon gaps.** No catalogue entries exist yet for Sodom, Lot, Moab, Ammon, Ishmael, Cain, Abel, Seth, Damascus, Esau, Joseph, Judah, Pharaoh, Potiphar, Goshen or Machpelah, so those names are not linked. Adding them to `lexicon-catalogue.json` and re-merging is a small job.
+- **Lexicon gaps.** No catalogue entries exist yet for Sodom, Lot, Moab, Ammon, Ishmael, Cain, Abel, Seth, Damascus, Esau, Judah, Pharaoh, Potiphar, Goshen or Machpelah, so those names are not linked. A `joseph-son-of-jacob` entry does exist but was not linked from Genesis 37–50; linking it is part of the same re-merge. Adding them to `lexicon-catalogue.json` and re-merging is a small job.
 - **Day-of corrections.** Chapter notes record where the Hebrew or Greek column rendering was corrected on 2 November 2026 (for example 49:6 Greek "rest upon" for "contend", 50:15 Hebrew singular "all the evil"). These are already in the records; the notes are there so the reviewer can see what moved.
 - **Voice.** Wisdom lines are reflective, one sentence each, and avoid doctrinal claims beyond what the four columns say. Commands are quoted in the Hebrew-column wording.
 

@@ -1,0 +1,142 @@
+K, W, C = 'Knowledge', 'Wisdom', 'Command'
+S, R = 'stated', 'reflection'
+def ins(t, b, text): return {'type': t, 'basis': b, 'text': text}
+def keeps(t): return {'dir': 'keeps', 'text': t}
+def loses(t): return {'dir': 'loses', 'text': t}
+def between(t): return {'dir': 'between', 'text': t}
+AGREE = between("Hebrew, Greek, Latin and King James agree in substance; only the rendering of the divine name and small turns of phrase differ.")
+
+CHAPTER = {
+ 'slug': 'exodus', 'chapter': 17,
+ 'chapterNote': "At Rephidim the people quarrel with Moses for water and ask whether YHWH is among them; Moses strikes the rock at Horeb with the staff that struck the Nile, and names the place Massah and Meribah. Amalek attacks; Joshua fights while Moses on the hill holds up his hands, steadied by Aaron and Hur until sunset; Amalek is routed, YHWH swears to blot out his memory, and Moses builds an altar named YHWH Is My Banner. The Greek has 'reviled' for 'quarreled' (17:2, 17:7), 'my people' and 'the sons of Israel' for 'the people' and 'the elders' as witnesses (17:6), translates Massah and Meribah as Testing and Reviling (17:7), adds 'able' and 'for yourself' and attaches 'tomorrow' to the battle (17:9), has plural 'hands' where the Hebrew has singular in 17:11, 'routed … with the slaughter of the sword' for 'weakened … with the edge' (17:13), 'The Lord Is My Refuge' for 'YHWH Is My Banner' (17:15), and 'with a hidden hand the Lord fights' for the Hebrew's difficult 'a hand upon the throne of Yah' (17:16). Joshua's Greek name is Iēsous; the source keeps him as Joshua throughout.",
+ 'verses': {
+  '17:1': {
+   'received': "The whole congregation journeys from the wilderness of Sin by stages at YHWH's command and camps at Rephidim, where there is no water to drink.",
+   'explain': "All four columns agree; the Greek has 'by their encampments' for 'by their stages', the Latin 'multitude'.",
+   'shared': ["Israel leaves the wilderness of Sin.", "They travel by stages at YHWH's word.", "At Rephidim there is no water."],
+   'instructions': [ins(K, S, "Israel camped at Rephidim at YHWH's command, and there was no water."), ins(W, R, "They go where YHWH says and arrive where there is no water; obedience leads them straight into the lack, and the lack is the next lesson.")],
+   'entries': ['yhwh-yahweh'],
+   'lost': [AGREE],
+  },
+  '17:2': {
+   'received': "The people quarrel with Moses, demanding water; Moses asks why they quarrel with him and test YHWH.",
+   'explain': "The Hebrew, Latin and King James have 'quarrel' or 'chide'; the Greek 'revile'. The source notes the verb anticipates the place-names of verse 7.",
+   'shared': ["The people demand water of Moses.", "Moses asks why they quarrel with him.", "He says they are testing YHWH."],
+   'instructions': [ins(K, S, "The people quarrelled with Moses for water, and he said they were testing YHWH."), ins(W, R, "'Give us water' to Moses is 'test YHWH' in Moses' ears; the leader hears every complaint against himself as a complaint against God, which is both his humility and his burden.")],
+   'entries': ['moses', 'yhwh-yahweh'],
+   'lost': [loses("Hebrew 'quarreled' is lost."), keeps("Greek 'reviled'."), between("The Latin has 'quarreled'; the King James 'chide'.")],
+  },
+  '17:3': {
+   'received': "The people thirst and grumble against Moses, asking why he brought them up from Egypt to kill them, their children and livestock with thirst.",
+   'explain': "The Hebrew shifts to a singular 'me, my children, my livestock' as the people speak as one; the Greek, Latin and King James keep the plural. The source notes the complaint is communal in both.",
+   'shared': ["The people thirst.", "They grumble against Moses.", "They accuse him of bringing them out to die."],
+   'instructions': [ins(K, S, "The people, thirsting, accused Moses of bringing them out of Egypt to die of thirst."), ins(W, R, "Children and livestock are named; thirst is not an abstract grievance, and the text lets the complaint be as concrete as the need.")],
+   'entries': ['moses', 'egypt'],
+   'lost': [loses("The Hebrew shift to singular 'me, my children, my livestock' is lost."), keeps("Greek plural 'us and our children and our livestock' throughout."), between("The Latin and King James also keep the plural.")],
+  },
+  '17:4': {
+   'received': "Moses cries to YHWH, asking what to do with this people, who are about to stone him.",
+   'explain': "All four columns agree; the Greek has a vivid compound, 'stone me to death'.",
+   'shared': ["Moses cries to YHWH.", "What shall I do with this people?", "They are about to stone him."],
+   'instructions': [ins(K, S, "Moses cried to YHWH that the people were about to stone him."), ins(W, R, "Moses takes the threat to God instead of answering it; the cry is the leader's only defence, and it is enough.")],
+   'entries': ['moses', 'yhwh-yahweh'],
+   'lost': [keeps("Greek 'stone me to death'."), between("The Latin and King James follow the Hebrew.")],
+  },
+  '17:5': {
+   'received': "YHWH tells Moses to go on before the people with some of Israel's elders and take the staff with which he struck the Nile.",
+   'explain': "All four columns agree; the Greek has 'the elders of the people' and 'the river' for 'Israel's elders' and 'the Nile', the same reference.",
+   'shared': ["Moses goes before the people.", "He takes some elders.", "He takes the staff that struck the river."],
+   'instructions': [ins(K, S, "Moses was to go ahead with elders and the staff that struck the Nile."), ins(C, S, "Take in your hand your staff with which you struck the Nile, and go."), ins(W, R, "The staff that turned the Nile to blood will bring water from a rock; the same instrument punishes Egypt and provides for Israel.")],
+   'entries': ['yhwh-yahweh', 'moses'],
+   'lost': [loses("Hebrew 'Israel's elders' and 'the Nile' are lost."), keeps("Greek 'the elders of the people' and 'the river'."), between("The Latin has 'Israel's elders' and 'the river'; the King James 'the elders of Israel' and 'the river'.")],
+  },
+  '17:6': {
+   'received': "YHWH will stand before him on the rock at Horeb; Moses is to strike the rock and water will come out for the people to drink; Moses does so in the sight of Israel's elders.",
+   'explain': "The Hebrew, Latin and King James have 'the people' drinking and 'the elders of Israel' as witnesses. The Greek has 'my people' and 'before the sons of Israel', widening the witnesses; the source calls the change observable and its cause unknown.",
+   'shared': ["YHWH stands on the rock at Horeb.", "Moses strikes it and water comes out.", "Moses does so before witnesses."],
+   'instructions': [ins(K, S, "Moses struck the rock at Horeb and water came out, in the sight of Israel's elders."), ins(C, S, "Strike the rock, and water will come out of it."), ins(W, R, "'I will stand before you on the rock': God places himself where the blow falls; the rock is struck and God is standing on it.")],
+   'entries': ['yhwh-yahweh', 'moses', 'rock', 'sinai'],
+   'lost': [loses("Hebrew 'so that the people may drink' and 'in the sight of Israel's elders' are lost."), keeps("Greek 'my people shall drink' and 'before the sons of Israel'."), between("The Latin and King James keep the elders as witnesses.")],
+  },
+  '17:7': {
+   'received': "He names the place Massah and Meribah because Israel quarrelled and tested YHWH, asking whether YHWH is among them or not.",
+   'explain': "The Hebrew and King James keep both names, Massah recalling testing and Meribah quarrelling. The Greek translates them, 'Testing and Reviling'; the Latin has only 'Testing'. All four end with the question.",
+   'shared': ["The place is named for the event.", "Israel quarrelled and tested YHWH.", "They asked whether YHWH was among them."],
+   'instructions': [ins(K, S, "The place was named Massah and Meribah because Israel tested YHWH, asking if he was among them."), ins(W, R, "'Is YHWH among us or not?' is asked a week after the sea was split; the memory of miracle is shorter than the thirst.")],
+   'entries': ['yhwh-yahweh'],
+   'lost': [loses("The names Massah and Meribah are lost."), keeps("Greek 'Testing and Reviling', the names translated."), between("The Latin has only 'Testing'; the King James keeps both names.")],
+  },
+  '17:8': {
+   'received': "Amalek comes and fights with Israel at Rephidim.",
+   'explain': "All four columns agree.",
+   'shared': ["Amalek comes.", "He fights Israel.", "At Rephidim."],
+   'instructions': [ins(K, S, "Amalek attacked Israel at Rephidim."), ins(W, R, "The first enemy after Egypt attacks at the place of thirst; Amalek strikes a people who have just asked whether God is with them.")],
+   'entries': [],
+   'lost': [AGREE],
+  },
+  '17:9': {
+   'received': "Moses tells Joshua to choose men and go out to fight Amalek; tomorrow Moses will stand on the hilltop with God's staff in his hand.",
+   'explain': "The Hebrew and King James have 'choose men for us' and attach 'tomorrow' to Moses' standing. The Greek has 'choose for yourself able men', attaches 'tomorrow' to the battle, and 'draw up for battle'. The Greek name is Iēsous, which the source keeps as Joshua.",
+   'shared': ["Moses commissions Joshua.", "Joshua chooses men and fights Amalek.", "Moses stands on the hill with God's staff."],
+   'instructions': [ins(K, S, "Moses sent Joshua to fight Amalek while he stood on the hill with God's staff."), ins(C, S, "Choose men for us and go out to fight Amalek."), ins(W, R, "Joshua enters the story without introduction, already trusted; the man who will take the land is first seen choosing soldiers.")],
+   'entries': ['moses', 'joshua'],
+   'lost': [loses("Hebrew 'choose men for us' and 'tomorrow I will stand' are lost."), keeps("Greek 'choose for yourself able men', 'draw up for battle … tomorrow', and 'take my stand'."), between("The Latin and King James follow the Hebrew; the Greek name Iēsous is rendered Joshua.")],
+  },
+  '17:10': {
+   'received': "Joshua does as Moses said and fights Amalek; Moses, Aaron and Hur go up to the top of the hill.",
+   'explain': "All four columns agree; the Greek battle verb stresses taking a position, 'went out to take his stand'.",
+   'shared': ["Joshua obeys and fights.", "Moses, Aaron and Hur climb the hill.", "The battle and the hill are joined."],
+   'instructions': [ins(K, S, "Joshua fought Amalek while Moses, Aaron and Hur went up the hill."), ins(W, R, "Three old men on a hill and an army in the valley; the text makes the reader watch both and decide which is the battle.")],
+   'entries': ['joshua', 'moses'],
+   'lost': [keeps("Greek 'went out to take his stand against Amalek'."), between("The Latin and King James have 'fought'.")],
+  },
+  '17:11': {
+   'received': "Whenever Moses raises his hand Israel prevails; whenever he lowers it Amalek prevails.",
+   'explain': "The Hebrew and King James have singular 'hand'; the Greek and Latin plural 'hands', anticipating verse 12. The Latin adds 'a little'. The source notes grammatical number does not describe the posture.",
+   'shared': ["Moses raises his hand.", "Israel prevails when it is up.", "Amalek prevails when it is down."],
+   'instructions': [ins(K, S, "Israel prevailed while Moses' hand was raised and Amalek when it fell."), ins(W, R, "The battle is decided by a hand on a hill, not a sword in the valley; Israel learns that its victories are not its own.")],
+   'entries': ['moses'],
+   'lost': [loses("Hebrew singular 'his hand' is lost."), keeps("Greek plural 'his hands'."), between("The Latin has plural and adds 'a little'; the King James keeps the singular.")],
+  },
+  '17:12': {
+   'received': "Moses' hands grow heavy; they put a stone under him, and Aaron and Hur support his hands on either side, so they stay steady until sunset.",
+   'explain': "All four columns agree. The Hebrew word for 'steady' is emunah, faithfulness, used here of the body; the source does not substitute 'faith'. The Latin has 'did not tire', the Greek 'remained supported'.",
+   'shared': ["Moses' hands grow heavy.", "He sits on a stone.", "Aaron and Hur hold up his hands until sunset."],
+   'instructions': [ins(K, S, "Aaron and Hur held up Moses' heavy hands until sunset."), ins(W, R, "Even Moses' arms give out; the deliverer needs two men to hold him up, and the victory belongs as much to the holders as to the held.")],
+   'entries': ['moses'],
+   'lost': [AGREE],
+  },
+  '17:13': {
+   'received': "Joshua weakens Amalek and his people with the edge of the sword.",
+   'explain': "The Hebrew has 'weakened' and 'the edge of the sword'; the Greek 'routed … and all his people with the slaughter of the sword'; the Latin 'put to flight'; the King James 'discomfited'. The source notes the verse does not say every Amalekite was killed.",
+   'shared': ["Joshua defeats Amalek.", "And his people.", "By the sword."],
+   'instructions': [ins(K, S, "Joshua defeated Amalek and his people with the sword."), ins(W, R, "'Weakened' is the Hebrew's modest word; Amalek will return in Saul's day and Esther's, and the text does not overstate the first victory.")],
+   'entries': ['joshua'],
+   'lost': [loses("Hebrew 'weakened' and 'the edge of the sword' are lost."), keeps("Greek 'routed', 'all his people', and 'the slaughter of the sword'."), between("The Latin has 'put to flight'; the King James 'discomfited'.")],
+  },
+  '17:14': {
+   'received': "YHWH tells Moses to write this as a memorial in the book and recite it to Joshua: he will utterly blot out Amalek's remembrance from under heaven.",
+   'explain': "All four columns agree, including the emphatic erasure. The Latin lacks 'utterly'.",
+   'shared': ["Moses is to write a memorial.", "Joshua is to hear it.", "Amalek's memory will be blotted out."],
+   'instructions': [ins(K, S, "YHWH told Moses to write that Amalek's memory would be blotted out, and recite it to Joshua."), ins(C, S, "Write this as a memorial in the book."), ins(W, R, "The first writing commanded in Scripture is a memorial of an enemy to be forgotten; the book remembers so that the world may forget.")],
+   'entries': ['yhwh-yahweh', 'moses', 'joshua'],
+   'lost': [AGREE],
+  },
+  '17:15': {
+   'received': "Moses builds an altar and names it YHWH Is My Banner.",
+   'explain': "The Hebrew has the name YHWH-nissi, 'YHWH Is My Banner', which the King James transliterates. The Greek has 'The Lord Is My Refuge' and adds 'an altar to the Lord'; the Latin 'The Lord Is My Exaltation'. The source calls the images compatible.",
+   'shared': ["Moses builds an altar.", "He names it.", "The name is YHWH's."],
+   'instructions': [ins(K, S, "Moses built an altar and named it YHWH Is My Banner."), ins(W, R, "A banner is what an army rallies to; Moses names the altar for the raised hand, and says the standard was God.")],
+   'entries': ['moses', 'yhwh-nissi', 'altar'],
+   'lost': [loses("Hebrew 'YHWH Is My Banner' is lost."), keeps("Greek 'The Lord Is My Refuge' and 'an altar to the Lord'."), between("The Latin has 'The Lord Is My Exaltation'; the King James 'Jehovahnissi'.")],
+  },
+  '17:16': {
+   'received': "He says, 'A hand upon the throne of Yah! YHWH has war with Amalek from generation to generation.'",
+   'explain': "The Hebrew's compressed phrase is difficult, whose hand and what gesture remaining open; the King James reads it as an oath, 'the LORD hath sworn'. The Greek has 'with a hidden hand the Lord fights against Amalek'; the Latin 'the hand is of the Lord's throne'. All four have war from generation to generation.",
+   'shared': ["A hand and a throne are named.", "YHWH has war with Amalek.", "From generation to generation."],
+   'instructions': [ins(K, S, "Moses declared that YHWH had war with Amalek from generation to generation."), ins(W, R, "A hand on the throne of Yah: the gesture is lost to us, but the sense is a vow, and the war it vows outlives everyone who heard it.")],
+   'entries': ['yah-jah', 'yhwh-yahweh'],
+   'lost': [loses("Hebrew 'a hand upon the throne of Yah' is lost."), keeps("Greek 'with a hidden hand the Lord fights'."), between("The Latin has 'the hand is of the Lord's throne'; the King James 'the LORD hath sworn'.")],
+  },
+ },
+}
