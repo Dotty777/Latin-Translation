@@ -57,7 +57,7 @@ def flatten(node,ev):
         if c.name=='details':
             sm=c.find('summary')
             st=re.sub(r'\s+',' ',sm.get_text(' ')).strip() if sm else ''
-            if re.match(r'^\d\.\s',st) and not re.search(r'Compare the English|wording',st,re.I) and not skip(c):
+            if re.match(r'^\d(?:\s*[–-]\s*\d)?\.\s',st) and not re.search(r'Compare the English|wording',st,re.I) and not skip(c):
                 ev.append(('h',st))
                 for x in list(c.children):
                     if isinstance(x,Tag) and x.name=='summary': continue
@@ -142,6 +142,7 @@ def saints_notes(path,anchor):
             if ps: out.append({'title':title,'text':ps})
     return out
 
+RANGE_RE=re.compile(r'^\d\s*[–-]\s*\d\.\s')  # grouped layer blocks, e.g. '2–5. Teaching, …'
 LAYER_RE=re.compile(r'^(\d)\.\s+([^.·]{3,90}?)\s*(?:\.|·)(?:\s+(.*)|)$',re.S)
 KNOWN=['Wording and meaning','Rabbinic understanding','Text and reception together','Direct word comparison','Saints’ teaching and understanding','How and why the differences arose','Further study','Saints and Christian understanding','How and why the difference arose','Classification and synthesis','Rabbinic teaching and understanding','Meaning and context','Reception source','How the difference arose','KJV ↔ Greek-English','Apostolic comparison','Saints reception — thematic comparison','Saints reception — quotation','Saints reception']
 KNOWN_RE=re.compile(r'^(?:(\d)\.\s+)?('+'|'.join(re.escape(k) for k in KNOWN)+r')\s*[.:]\s*(.*)$',re.S)
@@ -166,7 +167,7 @@ def tidy(secs):
     """split untitled sections whose paragraphs begin '1. Title. text'; trim stray separators"""
     out=[]
     for s in secs:
-        if any(isinstance(t,str) and LAYER_RE.match(t) for t in s['text']):
+        if any((isinstance(t,str) and LAYER_RE.match(t)) or (RANGE_RE.match(s['title']) and isinstance(t,list) and t and isinstance(t[0],str) and LAYER_RE.match(t[0])) for t in s['text']):
             cur={'title':s['title'],'text':[]} if s['title'] else None
             if cur: out.append(cur)
             for t in s['text']:
