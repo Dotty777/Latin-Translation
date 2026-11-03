@@ -1,0 +1,160 @@
+K, W, C = 'Knowledge', 'Wisdom', 'Command'
+S, R = 'stated', 'reflection'
+def ins(t, b, text): return {'type': t, 'basis': b, 'text': text}
+def keeps(t): return {'dir': 'keeps', 'text': t}
+def loses(t): return {'dir': 'loses', 'text': t}
+def between(t): return {'dir': 'between', 'text': t}
+AGREE = between("Hebrew, Greek, Latin and King James agree in substance; only the rendering of the divine name and small turns of phrase differ.")
+FORMULA = [between("The Latin, Greek and King James all have the speech formula; the divine name is rendered 'the Lord' outside the Hebrew.")]
+
+CHAPTER = {
+ 'slug': 'exodus', 'chapter': 31,
+ 'chapterNote': "God names the craftsmen: Bezalel of Judah, filled with the Spirit of God in wisdom, understanding, knowledge and every craft, and Oholiab of Dan with him, and wisdom given to every skilled heart; the full inventory they are to make, tent, ark, cover, furniture, altars, basin, garments, oil and incense. Then the Sabbath is set at the end of the instructions as a sign and an everlasting covenant, with death for its profaner, grounded in the six days of creation and God's rest. The chapter closes with the two stone tablets written by the finger of God. The Greek has 'Eliab' for Oholiab (31:6), adds the coloured yarns and linen to Bezalel's materials (31:4), groups 'the altars' at the start of 31:8 and so lacks the burnt-offering altar at 31:9, swaps 'covenant' and 'testimony' between tent and ark (31:7), abbreviates the garment list (31:10), has plural 'Sabbaths' and 'to the Lord' (31:13–14), 'destroyed' for 'cut off' (31:14), and 'rested' without 'was refreshed' (31:17).",
+ 'verses': {
+  '31:1': {
+   'received': "YHWH speaks to Moses.",
+   'explain': "All four columns agree.",
+   'shared': ["YHWH speaks.", "To Moses.", "On the craftsmen."],
+   'instructions': [ins(K, S, "YHWH spoke to Moses about the craftsmen."), ins(W, R, "After the design, the designer; God names who will build before the building starts.")],
+   'entries': ['yhwh-yahweh', 'moses'],
+   'lost': FORMULA,
+  },
+  '31:2': {
+   'received': "God has called by name Bezalel son of Uri, son of Hur, of the tribe of Judah.",
+   'explain': "All four columns agree; the Greek spells the names differently.",
+   'shared': ["Called by name.", "Bezalel son of Uri, son of Hur.", "Of the tribe of Judah."],
+   'instructions': [ins(K, S, "God called Bezalel of Judah by name to build the sanctuary."), ins(W, R, "'Called by name': the first man in Scripture God calls by name for a craft; the artist is called as the prophet is.")],
+   'entries': ['spirit-god-lord'],
+   'lost': [AGREE],
+  },
+  '31:3': {
+   'received': "God has filled him with the Spirit of God, with wisdom, understanding, knowledge and every kind of craftsmanship.",
+   'explain': "All four columns agree; the Greek 'a divine Spirit of wisdom' for 'the Spirit of God, with wisdom'.",
+   'shared': ["Filled with the Spirit of God.", "Wisdom, understanding, knowledge.", "Every craft."],
+   'instructions': [ins(K, S, "Bezalel was filled with God's Spirit in wisdom, understanding, knowledge and craft."), ins(W, R, "The Spirit of God for metalwork and weaving; the same Spirit that hovered over the waters now fills a craftsman's hands.")],
+   'entries': ['spirit-god-lord', 'term-pneuma-ruach']
+   ,
+   'lost': [loses("Hebrew 'the Spirit of God' as a title is lost."), keeps("Greek 'a divine Spirit of wisdom, understanding, and knowledge in every kind of work'."), between("The Latin and King James have 'the Spirit of God'.")],
+  },
+  '31:4': {
+   'received': "To devise designs and work in gold, silver and bronze.",
+   'explain': "The Hebrew, Latin and King James name the three metals; the consulted Greek adds blue, purple, spun scarlet and spun fine linen here.",
+   'shared': ["To devise designs.", "Gold, silver, bronze.", "Skilled work."],
+   'instructions': [ins(K, S, "Bezalel designed and worked in gold, silver and bronze."), ins(W, R, "To devise designs: not only to execute but to invent; the Spirit gives imagination as well as skill.")],
+   'entries': ['spirit-god-lord'],
+   'lost': [keeps("Greek adds 'blue, purple, spun scarlet yarn, and spun fine linen' to the metals here."), between("The Latin has 'devise whatever can be fashioned in gold, silver, bronze'; the King James 'devise cunning works'.")],
+  },
+  '31:5': {
+   'received': "To cut stones for setting, carve wood, and work in every craft.",
+   'explain': "The Hebrew and King James have stone-setting and wood-carving; the Greek 'stone and the woodworking crafts, and every kind of work'; the Latin 'marble, precious stones, and different kinds of wood'.",
+   'shared': ["Stonework.", "Woodwork.", "Every craft."],
+   'instructions': [ins(K, S, "Bezalel cut stones, carved wood and worked in every craft."), ins(W, R, "Gold to wood to stone: one man for every material; the tent needs a master of all trades.")],
+   'entries': ['spirit-god-lord'],
+   'lost': [loses("Hebrew 'cut stones for setting' and 'carve wood' are lost."), keeps("Greek 'to work in stone and the woodworking crafts, and to perform every kind of work'."), between("The Latin has 'marble, precious stones, and different kinds of wood'; the King James follows the Hebrew.")],
+  },
+  '31:6': {
+   'received': "With him God appoints Oholiab son of Ahisamach of the tribe of Dan, and puts wisdom in the heart of every skilled person to make all that was commanded.",
+   'explain': "The Hebrew, Latin and King James have Oholiab; the Greek 'Eliab', the same man by father and tribe. The Greek 'given understanding to everyone discerning in heart'.",
+   'shared': ["Oholiab of Dan appointed.", "Wisdom to every skilled heart.", "To make all that was commanded."],
+   'instructions': [ins(K, S, "Oholiab of Dan was joined to Bezalel, and every skilled heart was given wisdom."), ins(W, R, "Judah and Dan, the first tribe and the last in the camp order; the sanctuary is built by the head and the tail of Israel together.")],
+   'entries': ['spirit-god-lord'],
+   'lost': [loses("Hebrew 'Oholiab' is lost as a name form."), keeps("Greek 'Eliab son of Ahisamach' and 'given understanding to everyone discerning in heart'."), between("The Latin has 'Oholiab … as a companion'; the King James 'Aholiab'.")],
+  },
+  '31:7': {
+   'received': "The Tent of Meeting, the ark of the testimony, the cover upon it, and all the tent's furnishings.",
+   'explain': "The Hebrew and King James have Tent of Meeting and ark of the testimony; the Greek 'Tent of Testimony, the ark of the covenant, the propitiatory cover'; the Latin 'tabernacle of the covenant, ark of the testimony, atonement cover'.",
+   'shared': ["The tent.", "The ark and its cover.", "All the furnishings."],
+   'instructions': [ins(K, S, "The craftsmen were to make the tent, the ark, its cover and the furnishings."), ins(W, R, "The list runs from the ark outward, the holiest first; the inventory is in order of nearness to God.")],
+   'entries': ['tabernacle', 'ark-of-the-covenant'],
+   'lost': [loses("Hebrew 'Tent of Meeting' and 'ark of the testimony' are lost."), keeps("Greek 'Tent of Testimony, the ark of the covenant, the propitiatory cover'."), between("The Latin has 'tabernacle of the covenant, the ark of the testimony and the atonement cover'; the King James 'tabernacle of the congregation' and 'mercy seat'.")],
+  },
+  '31:8': {
+   'received': "The table and its utensils, the pure lampstand and all its utensils, and the incense altar.",
+   'explain': "The Hebrew, Latin and King James end with the incense altar; the Greek begins 'the altars' and groups both altars here.",
+   'shared': ["The table and utensils.", "The pure lampstand and utensils.", "An altar."],
+   'instructions': [ins(K, S, "The table, the pure lampstand and the incense altar were in the inventory."), ins(W, R, "'The pure lampstand': pure as in pure gold; the light in the tent is made of the best metal there is.")],
+   'entries': ['lampstand', 'altar', 'incense'],
+   'lost': [loses("Hebrew 'the incense altar' at the end is lost."), keeps("Greek 'the altars' at the start of the verse, grouping both."), between("The Latin has 'those of the altar of incense'; the King James 'the altar of incense'.")],
+  },
+  '31:9': {
+   'received': "The altar of burnt offering and its utensils, and the basin and its base.",
+   'explain': "The Hebrew, Latin and King James have the burnt-offering altar here; the Greek only 'the basin and its base', its altars already grouped in verse 8.",
+   'shared': ["The basin.", "Its base.", "In the inventory."],
+   'instructions': [ins(K, S, "The bronze altar and the basin completed the furniture list."), ins(W, R, "Out to the court again; the inventory walks the same path as the priest, from the ark to the basin.")],
+   'entries': ['altar'],
+   'lost': [loses("Hebrew 'the altar of burnt offering and all its utensils' here is lost."), keeps("Greek 'the basin and its base' alone."), between("The Latin has 'and of whole burnt offering, all their utensils, and the basin'; the King James follows the Hebrew.")],
+  },
+  '31:10': {
+   'received': "The service garments, the holy garments for Aaron the priest, and his sons' garments for priestly service.",
+   'explain': "The Hebrew and King James have three garment groups; the Greek 'Aaron's ministering robes and his sons' robes for priestly service to Me'; the Latin 'the holy garments for the ministry of Aaron and his sons'.",
+   'shared': ["Garments for Aaron.", "Garments for his sons.", "For priestly service."],
+   'instructions': [ins(K, S, "The priestly garments for Aaron and his sons were in the commission."), ins(W, R, "The garments are listed with the furniture; the priest's clothes are part of the tent's equipment.")],
+   'entries': ['high-priest'],
+   'lost': [loses("Hebrew 'the service garments, the holy garments' as separate items are lost."), keeps("Greek 'Aaron's ministering robes and his sons' robes for priestly service to Me'."), between("The Latin has 'the holy garments for the ministry of Aaron the priest and his sons'; the King James 'the cloths of service, and the holy garments'.")],
+  },
+  '31:11': {
+   'received': "The anointing oil and the fragrant incense for the sanctuary; they make them according to all God commanded.",
+   'explain': "All four columns agree; the Greek 'compounded incense', the Latin 'incense of spices'.",
+   'shared': ["The anointing oil.", "The incense for the sanctuary.", "Made as commanded."],
+   'instructions': [ins(K, S, "The oil and incense closed the list, all to be made as commanded."), ins(C, S, "They shall make them according to everything I commanded you."), ins(W, R, "'According to everything I commanded': the craftsman's freedom is in the making, not the design; Bezalel invents within what he was shown.")],
+   'entries': ['anointing-oil', 'incense'],
+   'lost': [loses("Hebrew 'fragrant incense' is lost."), keeps("Greek 'the compounded incense'."), between("The Latin has 'the incense of spices'; the King James 'sweet incense'.")],
+  },
+  '31:12': {
+   'received': "YHWH speaks to Moses.",
+   'explain': "All four columns agree.",
+   'shared': ["YHWH speaks.", "To Moses.", "On the Sabbath."],
+   'instructions': [ins(K, S, "YHWH spoke to Moses about the Sabbath."), ins(W, R, "The last word of the tent instructions is about stopping; the building has a boundary set before it starts.")],
+   'entries': ['yhwh-yahweh', 'moses'],
+   'lost': FORMULA,
+  },
+  '31:13': {
+   'received': "Israel must keep God's Sabbaths, a sign between God and them throughout the generations, that they may know YHWH sanctifies them.",
+   'explain': "The Hebrew, Greek and King James have plural 'Sabbaths'; the Latin singular. The Greek 'command' and 'with Me and among you'.",
+   'shared': ["Keep the Sabbaths.", "A sign between God and Israel.", "To know YHWH sanctifies them."],
+   'instructions': [ins(K, S, "The Sabbath was a sign that YHWH sanctified Israel."), ins(C, S, "You must keep my Sabbaths, for they are a sign between me and you."), ins(W, R, "'That you may know I sanctify you': the rest is a sign that holiness is given, not earned; a people who stop working are a people who are made holy by someone else.")],
+   'entries': ['yhwh-yahweh'],
+   'lost': [loses("Hebrew 'between Me and you' is lost."), keeps("Greek 'Command the sons of Israel' and 'a sign with Me and among you'."), between("The Latin has singular 'My Sabbath' and 'between Me and you'; the King James 'my sabbaths' and 'between me and you'.")],
+  },
+  '31:14': {
+   'received': "Keep the Sabbath, for it is holy to Israel; whoever profanes it is put to death, whoever works on it is cut off from his people.",
+   'explain': "The Hebrew, Latin and King James have 'holy to you'; the Greek 'holy to the Lord for you' and 'that soul shall be destroyed'; the Latin 'perish'.",
+   'shared': ["Keep the Sabbath.", "Holy to you.", "Death for profaning, cutting off for working."],
+   'instructions': [ins(K, S, "Profaning the Sabbath carried death; working on it, being cut off."), ins(W, R, "The sign of being made holy is guarded with death; a sign that could be ignored would be no sign.")],
+   'entries': ['yhwh-yahweh'],
+   'lost': [loses("Hebrew 'holy to you' alone and 'cut off' are lost."), keeps("Greek 'holy to the Lord for you' and 'that soul shall be destroyed from among his people'."), between("The Latin has 'holy to you' and 'perish'; the King James 'holy unto you' and 'cut off'.")],
+  },
+  '31:15': {
+   'received': "Six days work may be done, but the seventh is a Sabbath of complete rest, holy to YHWH; whoever works on it is put to death.",
+   'explain': "All four columns agree; the Greek addresses the workers, 'you shall do your work', where the Hebrew is impersonal, and has 'a holy rest' for 'a Sabbath of complete rest'.",
+   'shared': ["Six days of work.", "The seventh a holy rest.", "Death for working."],
+   'instructions': [ins(K, S, "The seventh day was a Sabbath of complete rest, holy to YHWH."), ins(W, R, "'Sabbath of complete rest', shabbat shabbaton, rest doubled; the day is not a pause in work but the absence of it.")],
+   'entries': ['yhwh-yahweh'],
+   'lost': [loses("Hebrew 'work may be done' impersonal and 'Sabbath of complete rest' are lost."), keeps("Greek 'you shall do your work' and 'a Sabbath, a holy rest to the Lord'."), between("The Latin has 'you shall work' and 'a rest holy to the Lord'; the King James 'may work be done' and 'sabbath of rest'.")],
+  },
+  '31:16': {
+   'received': "Israel keeps the Sabbath, observing it throughout the generations as an everlasting covenant.",
+   'explain': "All four columns agree; the Greek plural 'Sabbaths'; the Latin runs 'It is an everlasting covenant' into the next verse.",
+   'shared': ["Israel keeps the Sabbath.", "Throughout the generations.", "An everlasting covenant."],
+   'instructions': [ins(K, S, "Sabbath observance was an everlasting covenant for Israel."), ins(W, R, "A covenant kept weekly; of all the covenants in this book, the Sabbath is the one renewed every seven days by doing nothing.")],
+   'entries': ['term-covenant'],
+   'lost': [loses("Hebrew singular 'Sabbath' is lost."), keeps("Greek 'the Sabbaths, observing them'."), between("The Latin has 'keep the Sabbath and celebrate it'; the King James 'keep the sabbath, to observe the sabbath'.")],
+  },
+  '31:17': {
+   'received': "A sign between God and Israel forever, for in six days YHWH made the heavens and the earth, and on the seventh he ceased and was refreshed.",
+   'explain': "The Hebrew and King James have 'ceased and was refreshed'; the Greek 'ceased and rested', without the refreshment image; the Latin 'ceased from work'. The source does not take the Greek as a general removal of human imagery.",
+   'shared': ["A sign forever.", "Six days of making heaven and earth.", "Rest on the seventh."],
+   'instructions': [ins(K, S, "The Sabbath sign rested on God's six days of creation and his seventh-day rest."), ins(W, R, "'Was refreshed': the Hebrew gives God a breath taken; Israel's rest imitates not only his stopping but his being restored.")],
+   'entries': ['creator', 'god-and-creation'],
+   'lost': [loses("Hebrew 'was refreshed' is lost."), keeps("Greek 'He ceased and rested' and 'an everlasting sign'."), between("The Latin has 'ceased from work'; the King James 'rested, and was refreshed'.")],
+  },
+  '31:18': {
+   'received': "When God finished speaking with Moses on Mount Sinai, he gave him the two tablets of the testimony, stone tablets written with the finger of God.",
+   'explain': "All four columns agree.",
+   'shared': ["God finished speaking on Sinai.", "Two tablets of the testimony.", "Written with the finger of God."],
+   'instructions': [ins(K, S, "God gave Moses two stone tablets written with his own finger."), ins(W, R, "The finger of God wrote while the finger of Aaron, below, was shaping a calf; the chapter ends on the mountain and the next begins at its foot.")],
+   'entries': ['stone-tablets', 'sinai', 'moses'],
+   'lost': [AGREE],
+  },
+ },
+}
