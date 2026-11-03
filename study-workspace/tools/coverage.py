@@ -2,7 +2,7 @@
 import json,glob,collections,csv,re,sys
 OUT=sys.argv[1] if len(sys.argv)>1 else '/home/claude/work/ws/out'
 NAMES=sys.argv[3].split(',') if len(sys.argv)>3 else ['genesis','exodus','leviticus','numbers','deuteronomy','matthew','mark','luke','john','psalms','proverbs','ecclesiastes','song-of-songs','lamentations','wisdom-of-solomon','sirach','revelation']
-cols=['chapter','verses','rated_hebrew','rated_latin','rated_kjv','unrated','src_hebrew','src_latin','src_kjv','src_saints','src_study','src_disparate','words','headings','chapter_notes','prose']
+cols=['chapter','verses','rated_hebrew','rated_latin','rated_kjv','unrated','src_hebrew','src_latin','src_kjv','src_saints','src_study','src_disparate','src_reception','words','headings','chapter_notes','prose']
 rows=[];books={}
 for b in NAMES:
     bc=collections.Counter()

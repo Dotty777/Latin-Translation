@@ -5,15 +5,15 @@ import srcpage
 from srcpage import page, split_url
 from extract import extract, tidy, ptext
 from saintspage import saints_page
-from studyed import study_edition, disparate, DIV
+from studyed import study_edition, disparate, DIV, reception
 W='/home/claude/work/ws'
 import os as _os
 OUTDIR=_os.environ.get('WS_OUT',W+'/out')
 GEN=json.load(open(f'{W}/gen-chapter-ids.json'))
 for slug,pid in GEN.items(): srcpage.TOT[f'/bible/law/genesis/{slug}/']=pid
-NAMES={'genesis':'Genesis','exodus':'Exodus','leviticus':'Leviticus','numbers':'Numbers','deuteronomy':'Deuteronomy','matthew':'Matthew','mark':'Mark','luke':'Luke','john':'John','psalms':'Psalms','proverbs':'Proverbs','ecclesiastes':'Ecclesiastes','song-of-songs':'Song of Songs','lamentations':'Lamentations','wisdom-of-solomon':'Wisdom of Solomon','sirach':'Sirach','revelation':'Revelation','joshua':'Joshua','judges':'Judges','ruth':'Ruth','1-samuel':'1 Samuel','2-samuel':'2 Samuel','1-kings':'1 Kings','2-kings':'2 Kings','1-chronicles':'1 Chronicles','2-chronicles':'2 Chronicles','1-maccabees':'1 Maccabees','2-maccabees':'2 Maccabees','ezra':'Ezra','nehemiah':'Nehemiah','esther':'Esther','job':'Job','isaiah':'Isaiah','jeremiah':'Jeremiah','ezekiel':'Ezekiel','daniel':'Daniel','hosea':'Hosea','joel':'Joel','amos':'Amos','obadiah':'Obadiah','jonah':'Jonah','micah':'Micah','nahum':'Nahum','habakkuk':'Habakkuk','zephaniah':'Zephaniah','haggai':'Haggai','zechariah':'Zechariah','malachi':'Malachi'}
+NAMES={'genesis':'Genesis','exodus':'Exodus','leviticus':'Leviticus','numbers':'Numbers','deuteronomy':'Deuteronomy','matthew':'Matthew','mark':'Mark','luke':'Luke','john':'John','psalms':'Psalms','proverbs':'Proverbs','ecclesiastes':'Ecclesiastes','song-of-songs':'Song of Songs','lamentations':'Lamentations','wisdom-of-solomon':'Wisdom of Solomon','sirach':'Sirach','revelation':'Revelation','joshua':'Joshua','judges':'Judges','ruth':'Ruth','1-samuel':'1 Samuel','2-samuel':'2 Samuel','1-kings':'1 Kings','2-kings':'2 Kings','1-chronicles':'1 Chronicles','2-chronicles':'2 Chronicles','1-maccabees':'1 Maccabees','2-maccabees':'2 Maccabees','ezra':'Ezra','nehemiah':'Nehemiah','esther':'Esther','job':'Job','isaiah':'Isaiah','jeremiah':'Jeremiah','ezekiel':'Ezekiel','daniel':'Daniel','hosea':'Hosea','joel':'Joel','amos':'Amos','obadiah':'Obadiah','jonah':'Jonah','micah':'Micah','nahum':'Nahum','habakkuk':'Habakkuk','zephaniah':'Zephaniah','haggai':'Haggai','zechariah':'Zechariah','malachi':'Malachi','acts':'Acts','romans':'Romans','1-corinthians':'1 Corinthians','2-corinthians':'2 Corinthians','galatians':'Galatians','ephesians':'Ephesians','philippians':'Philippians','colossians':'Colossians','1-thessalonians':'1 Thessalonians','2-thessalonians':'2 Thessalonians','1-timothy':'1 Timothy','2-timothy':'2 Timothy','titus':'Titus','philemon':'Philemon','hebrews':'Hebrews','james':'James','1-peter':'1 Peter','2-peter':'2 Peter','1-john':'1 John','2-john':'2 John','3-john':'3 John','jude':'Jude'}
 RANK={'Same':0,'Similar':1,'Different':2,'Divergent':3,'Disparate':4}
-LABEL={'hebrew':'Hebrew and Greek','latin':'Latin and Greek','kjv':'King James and Greek','saints':'Saints Translation notes','study':'Study Edition','disparate':'Disparate Study'}
+LABEL={'hebrew':'Hebrew and Greek','latin':'Latin and Greek','kjv':'King James and Greek','saints':'Saints Translation notes','study':'Study Edition','disparate':'Disparate Study','reception':'Patristic reception'}
 TODAY='2026-11-02'
 def vkey(ref): return ref.split(':',1)[1]
 def readings(cols):
@@ -36,6 +36,7 @@ def build_book(book, stats):
     pd=json.load(open(f'{W}/pd-{book}.json'))
     se=study_edition(book); se,se_path=(se if se else ({},None))
     dsp,dsp_path=disparate(book)
+    rcp,rcp_path=reception(book)
     for ch_s in sorted(pd,key=int):
         ch=int(ch_s); rows=pd[ch_s]
         valid=set(vkey(r) for r in rows)
@@ -76,6 +77,8 @@ def build_book(book, stats):
             d=(dsp.get(ch) or {}).get(v)
             if d:
                 srcs.append({'kind':'disparate','label':LABEL['disparate'],'rating':'Disparate' if 'Disparate' in d['badge'] else '','badge':d['badge'],'link':d['link'],'title':d['title'],'sections':d['sections']}); stats['src']['disparate']+=1
+            for n in (rcp.get(ch) or {}).get(v,[]):
+                srcs.append({'kind':'reception','label':LABEL['reception'],'rating':'','badge':'','link':rcp_path+'#'+n['anchor'],'sections':[{'title':n['title'],'text':n['text']}]}); stats['src']['reception']+=1
             top=max(ratings.values(),key=lambda x:RANK[x]) if ratings else ''
             level='none' if not top else ('notable' if RANK[top]>=3 else ('minor' if RANK[top]>=1 else 'none'))
             first_link=srcs[0]['link'] if srcs else ''
