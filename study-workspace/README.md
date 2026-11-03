@@ -1,4 +1,4 @@
-# Study Workspace data — Law, Salvation, Wisdom and Glory divisions
+# Study Workspace data — all seven divisions
 
 Data for the Study Workspace panel of the Parallel Reader (Saints Parallel Reader plugin 1.5.0, `modules/verse-workspace`).
 
@@ -9,3 +9,6 @@ Data for the Study Workspace panel of the Parallel Reader (Saints Parallel Reade
 The staging helper (Saints Pentateuch Work 1.12.0, job `wsdata`) stores each record as a private `saints_ws_chapter` post. The reader serves them at `/wp-json/saints-workspace/v1/data/<book>-<ch>` and `/wp-json/saints-workspace/v1/data/<book>-<ch>-sources`. Cross-references are built live at `/wp-json/saints-workspace/v1/references/<book>-<ch>`.
 
 Kept in this repository because the Saints-Translation repository cannot be pushed from this session. See `REPORT.md` for what each chapter contains and what is still to be written.
+
+
+Later divisions: `data/judgement/`, `data/providence/` and `data/discipleship/` (same bundle format, each with its own `manifest.json`), reported in `REPORT-judgement.md`, `REPORT-providence.md` and `REPORT-discipleship.md`. Together the seven divisions cover 1,291 chapters in Saints Parallel Reader 1.8.0.
