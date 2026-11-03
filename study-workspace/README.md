@@ -11,4 +11,6 @@ The staging helper (Saints Pentateuch Work 1.12.0, job `wsdata`) stores each rec
 Kept in this repository because the Saints-Translation repository cannot be pushed from this session. See `REPORT.md` for what each chapter contains and what is still to be written.
 
 
-Later divisions: `data/judgement/`, `data/providence/` and `data/discipleship/` (same bundle format, each with its own `manifest.json`), reported in `REPORT-judgement.md`, `REPORT-providence.md` and `REPORT-discipleship.md`. Together the seven divisions cover 1,291 chapters in Saints Parallel Reader 1.8.0.
+Later divisions: `data/judgement/`, `data/providence/` and `data/discipleship/` (same bundle format, each with its own `manifest.json`), reported in `REPORT-judgement.md`, `REPORT-providence.md` and `REPORT-discipleship.md`. Together the seven divisions cover 1,291 chapters in Saints Parallel Reader 1.9.0.
+
+All 34,586 verses now carry a compiled textual layer (`siteNote`, `siteNoteLabel`, `whyNote`, `lost[]`, word notes) built by `tools/compile_notes.py` from the site's own studies; see `REPORT-notes.md`. Interpretive study prose exists for Genesis 1 and is being written book by book from Genesis 2 onward.
