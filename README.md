@@ -9,6 +9,8 @@ The Clementine Vulgate Latin and the Latin–English rendering for every verse o
 
 Verse numbers follow the Saints column (Greek/Hebrew numbering); where the Vulgate numbers a verse differently, `verses.json` records the Vulgate reference.
 
+[7 November 2026 review](corrections/2026-11-07-letters/README.md) records the provisional Latin-to-English pass of Galatians, 1 Thessalonians, and 1 Timothy and its staging verification.
+
 ## Books
 
 - [Genesis — 50 chapters](genesis/README.md): 1,534 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; every card classified on the site (Latin–Greek comparison, 2 November 2026).
@@ -62,13 +64,13 @@ Verse numbers follow the Saints column (Greek/Hebrew numbering); where the Vulga
 - [Romans — 16 chapters](romans/README.md): 433 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 83%; 98% still labelled review pending on the site.
 - [1 Corinthians — 16 chapters](1-corinthians/README.md): 437 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 85%; 97% still labelled review pending on the site.
 - [2 Corinthians — 13 chapters](2-corinthians/README.md): 256 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 93%; 98% still labelled review pending on the site.
-- [Galatians — 6 chapters](galatians/README.md): 149 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 91%; 95% still labelled review pending on the site.
+- [Galatians — 6 chapters](galatians/README.md): all 149 readings compared with the Clementine Latin, 139 English readings revised and verified on staging on 7 November 2026.
 - [Ephesians — 6 chapters](ephesians/README.md): 155 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 87%; 95% still labelled review pending on the site.
 - [Philippians — 4 chapters](philippians/README.md): 104 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 91%; 96% still labelled review pending on the site.
 - [Colossians — 4 chapters](colossians/README.md): 95 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 86%; 97% still labelled review pending on the site.
-- [1 Thessalonians — 5 chapters](1-thessalonians/README.md): 89 readings; Latin matches the Clementine reference in 99%; English is Douay-Rheims-based in 76%; 90% still labelled review pending on the site.
+- [1 Thessalonians — 5 chapters](1-thessalonians/README.md): all 89 readings compared with the Clementine Latin, 74 English readings revised and verified on staging on 7 November 2026.
 - [2 Thessalonians — 3 chapters](2-thessalonians/README.md): 47 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 87% still labelled review pending on the site.
-- [1 Timothy — 6 chapters](1-timothy/README.md): 113 readings; Latin matches the Clementine reference in 99%; English is Douay-Rheims-based in 82%; 92% still labelled review pending on the site.
+- [1 Timothy — 6 chapters](1-timothy/README.md): all 113 readings compared with the Clementine Latin, 99 English readings revised and verified on staging on 7 November 2026.
 - [2 Timothy — 4 chapters](2-timothy/README.md): 83 readings; Latin matches the Clementine reference in 100%; English is Douay-Rheims-based in 86%; 95% still labelled review pending on the site.
 - [Titus — 3 chapters](titus/README.md): 46 readings; Latin matches the Clementine reference in 98%; English is a fresh rendering; 80% still labelled review pending on the site.
 - [Philemon — 1 chapters](philemon/README.md): 25 readings; Latin matches the Clementine reference in 100%; English is a fresh rendering; 64% still labelled review pending on the site.

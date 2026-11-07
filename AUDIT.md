@@ -2,6 +2,14 @@
 
 1 November 2026 (Wisdom of Solomon added later the same day). Audit of the Latin–English column of the Saints.Bible Parallel Reader (staging) for fidelity to the Clementine Latin. A living copy of this document is kept as a Claude doc; this file is the record for the repository.
 
+## Update, 7 November 2026
+
+Galatians, 1 Thessalonians, and 1 Timothy received a complete Clementine-to-English editorial pass. All 351 readings were compared with the displayed Latin, 312 English readings were revised, and three glued initials in the Latin were repaired. The saved comparison pages and all 17 generated Parallel Reader chapters were checked on staging. Independent Latin and human read-aloud review remain pending. [Change log, source decisions, and staging checks](corrections/2026-11-07-letters/README.md)
+
+The current repository inventory spans all 70 books, with 34,575 reader rows across 1,290 chapter records. Of those rows, 34,429 contain displayed Latin and 146 are marked as having no Vulgate counterpart in that aligned row. Grouped cards can span multiple reader rows, so these are counts of reader rows rather than distinct native Vulgate verses. The other 67 books retain their previous editorial status.
+
+A current staging check reproduced the grouped Esther issue on 84 rows representing seven source cards. In Greek chapter 4, for example, nine rows display the same English prayer for Clementine Esther 13:8 onward, and fifteen display the same English prayer for Clementine Esther 14:1–19. The source page contains the full Latin for those groups. The archive retained only the opening Latin verse per group beside the full English, and the staging reader repeats the English group at each corresponding Greek anchor. These remain separate alignment and archive extraction issues. [Staging Esther 4](https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/esther/parallel/?gp_ch=4)
+
 ## Update, 2 November 2026: Revelation
 
 Revelation's Latin column and its KJV comparison were reviewed on staging ([change log](corrections/2026-11-02-revelation/README.md)):

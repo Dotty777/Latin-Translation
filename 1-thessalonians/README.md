@@ -1,15 +1,10 @@
 # 1 Thessalonians — Latin–English (Clementine Vulgate)
 
-5 chapters, 89 readings, captured from the Saints.Bible staging Parallel Reader on 1 November 2026. One of the 70 books of the [Latin–English column](../README.md); audit results in [AUDIT.md](../AUDIT.md).
+All 89 readings across 5 chapters were compared with the displayed Clementine Latin and checked in context for spoken cadence. The 7 November 2026 provisional revision changed 74 English readings and corrected one Latin spacing error. The revised English was verified on the Vulgate comparison page and every chapter of the staging Parallel Reader.
 
-- **Latin:** matches the Clementine Vulgate reference text in 88 of 89 readings (98.9%); the rest differ only by editorial labels or embedded translation notes (see [AUDIT.md](../AUDIT.md)).
-- **English origin:** 21 fresh renderings; 26 Douay-Rheims verbatim; 42 Douay-Rheims lightly modernised; 0 with no Latin text.
-- **Site review labels:** 80 readings still marked "review pending" / "assessment open"; 9 classified.
-- **Verse numbering:** 0 readings carry a number that differs from the Vulgate's own (recorded as `vulgate_reference` in verses.json).
+The archive records both the English source history and the Latin review label. The separate Latin–Greek comparison ratings retain their earlier status. Specialist Latin and human read-aloud reviews are pending.
 
-## Files
-
-- [1-Thessalonians.txt](1-Thessalonians.txt): Latin and English for every verse, by chapter.
-- [verses.json](verses.json): structured text with the site's card id, review status, English origin and Vulgate numbering.
-
-[Read 1 Thessalonians in the Parallel Reader on staging](https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-thessalonians/parallel/)
+- [Latin and English text](1-Thessalonians.txt)
+- [Structured verse records](verses.json)
+- [Source decisions and verification](../corrections/2026-11-07-letters/README.md)
+- [Parallel Reader on staging](https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-thessalonians/parallel/)
