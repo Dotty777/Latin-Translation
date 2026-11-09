@@ -2,6 +2,15 @@
 
 1 November 2026 (Wisdom of Solomon added later the same day). Audit of the Latin–English column of the Saints.Bible Parallel Reader (staging) for fidelity to the Clementine Latin. A living copy of this document is kept as a Claude doc; this file is the record for the repository.
 
+## Update, 9 November 2026: full reading of all 70 books
+
+All 34,254 distinct Latin–English readings in this repository were read from scratch against the recorded Clementine Latin by AI reviewers working from the GitHub record, with a second reading of every proposed correction. Nothing was applied to staging or to the book folders. [Report, method, limits and per-book pages](corrections/2026-11-09-full-review/README.md)
+
+- **English.** 481 readings (1.4%) have a proposed correction that survived the second reading; 24 are major (a wrong name, a dropped word, a changed person, or a rendering that follows the Hebrew or Greek against this Latin). 36 first-reading proposals were withdrawn. Most minor proposals are Hebrew-shaped wording in fresh Old Testament renderings and Douay-Rheims modernisation slips in Acts and the Letters.
+- **Coverage.** 687 Clementine verses have no Latin anywhere in this record: verses the Greek lacks (the reader rows follow the Saints verses) and grouped cards recorded with only their first Latin verse (Sirach 248, Esther 105, Daniel 89, Jeremiah 48, 1 Samuel 40). This widens finding 4 below. Whether staging shows the Latin for these was not checked.
+- **Latin.** The recorded Latin has the same words as the reference Clementine transcription almost everywhere; 137 of 139 typos suspected by readers are in that transcription too and need a printed Clementine to settle. Romans 9:20 and 11:33 still have glued initials.
+- Independent Latin and human review remain pending.
+
 ## Update, 7 November 2026
 
 Galatians, 1 Thessalonians, and 1 Timothy received a complete Clementine-to-English editorial pass. All 351 readings were compared with the displayed Latin, 312 English readings were revised, and three glued initials in the Latin were repaired. The saved comparison pages and all 17 generated Parallel Reader chapters were checked on staging. Independent Latin and human read-aloud review remain pending. [Change log, source decisions, and staging checks](corrections/2026-11-07-letters/README.md)

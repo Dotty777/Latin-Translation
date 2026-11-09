@@ -4,12 +4,14 @@ The Clementine Vulgate Latin and the Latin–English rendering for every verse o
 
 - [AUDIT.md](AUDIT.md): the fidelity and accuracy audit (verdict, method, findings, recommendations).
 - `audit/`: the audit's working data — a per-verse check table, the nine glued initials, and the 171 readings whose English spans more Vulgate verses than the Latin shown.
-- `corrections/`: the data files applied to the staging site, with a change log per date ([2 November 2026, Pentateuch](corrections/2026-11-02/README.md); [2 November 2026, Gospels](corrections/2026-11-02-gospels/README.md)); `staging-backups/` holds the pages as they were before.
+- `corrections/`: the data files applied to the staging site (and, from 9 November 2026, review proposals not yet applied), with a change log per date ([2 November 2026, Pentateuch](corrections/2026-11-02/README.md); [2 November 2026, Gospels](corrections/2026-11-02-gospels/README.md)); `staging-backups/` holds the pages as they were before.
 - One folder per book: `README.md` (counts and audit results), `<Book>.txt` (Latin and English by chapter), `verses.json` (structured text with card ids, review status, English origin and Vulgate numbering).
 
 Verse numbers follow the Saints column (Greek/Hebrew numbering); where the Vulgate numbers a verse differently, `verses.json` records the Vulgate reference.
 
 [7 November 2026 review](corrections/2026-11-07-letters/README.md) records the provisional Latin-to-English pass of Galatians, 1 Thessalonians, and 1 Timothy and its staging verification.
+
+[9 November 2026 full review](corrections/2026-11-09-full-review/README.md) records a from-scratch reading of all 70 books against the Clementine Latin: 481 proposed English corrections (24 major), 61 span findings, notes on the recorded Latin, and a list of 687 Clementine verses with no Latin in this record. Proposals only; nothing was applied to staging or to the book folders.
 
 ## Books
 
