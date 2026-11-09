@@ -11,7 +11,7 @@ Verse numbers follow the Saints column (Greek/Hebrew numbering); where the Vulga
 
 [7 November 2026 review](corrections/2026-11-07-letters/README.md) records the provisional Latin-to-English pass of Galatians, 1 Thessalonians, and 1 Timothy and its staging verification.
 
-[9 November 2026 full review](corrections/2026-11-09-full-review/README.md) records a from-scratch reading of all 70 books against the Clementine Latin: 481 proposed English corrections (24 major), 61 span findings, notes on the recorded Latin, and a list of 687 Clementine verses with no Latin in this record. Proposals only; nothing was applied to staging or to the book folders.
+[9 November 2026 full review](corrections/2026-11-09-full-review/README.md) records a from-scratch reading of all 70 books against the Clementine Latin: 481 proposed English corrections (24 major), 61 span findings, notes on the recorded Latin, and a list of 687 Clementine verses with no Latin in this record. This review recorded proposals before any editorial changes were made.
 
 ## Books
 
@@ -89,3 +89,6 @@ Verse numbers follow the Saints column (Greek/Hebrew numbering); where the Vulga
 Wisdom of Solomon: the Parallel Reader had no Latin column for this book until 1 November 2026, although the Comparison Library already held a complete Latin–Greek edition of it; that edition was reproduced as the book’s vulgate-comparison page the same day and is captured in [wisdom-of-solomon/](wisdom-of-solomon/README.md).
 
 Source of the reference texts used in the audit: [mborders/vulgata](https://github.com/mborders/vulgata) (Clementine Vulgate from VulSearch; Douay-Rheims Challoner), public domain.
+
+
+[9 November 2026 editorial revision](corrections/2026-11-09-latin-editorial/README.md) records 584 English revisions and the grouped Latin source repairs now present in the GitHub book files. The repository and the staging Parallel Reader are tracked separately.
