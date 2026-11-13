@@ -92,3 +92,5 @@ Source of the reference texts used in the audit: [mborders/vulgata](https://gith
 
 
 [9 November 2026 editorial revision](corrections/2026-11-09-latin-editorial/README.md) records 584 English revisions and the grouped Latin source repairs now present in the GitHub book files. The repository and the staging Parallel Reader are tracked separately.
+
+[13 November 2026 Genesis reading pass](corrections/2026-11-13-genesis-reading-pass/README.md) reviews all of Genesis against the Clementine Latin for accuracy and spoken flow: 33 readings revised, with points left for a specialist.
