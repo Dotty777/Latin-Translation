@@ -19,4 +19,4 @@ The review was AI-assisted (five parallel readers working from a shared brief, t
 
 ## Saints.Bible staging
 
-Staging publication is recorded separately below once applied.
+Applied 14 November 2026 (UTC) to the Genesis Clementine Vulgate comparison (`/bible/law/genesis/vulgate-comparison/`), after the 9 November readings were published there (see [staging synchronization](../2026-11-13-staging-sync/README.md)). All 33 cards were updated in both the reading and the English word comparison, which was recalculated with the page’s own matching rule. The saved page was read back and its fingerprint matched the intended result exactly. Ten verse-comparison notes that quoted the previous English were updated: 1:26, 7:21, 11:5, 16:5, 17:14, 18:31, 26:20, 31:15, 41:16, 47:19. Revised readings show without Rainbow colour highlighting until those colour plans are rebuilt.
