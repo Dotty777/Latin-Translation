@@ -169,3 +169,170 @@ Data:
 - 1 Samuel 2:10 SRC ends with a stray “]” (*christi sui.]*) with no opening bracket.
 - 1 Samuel 4:21 SRC has *vocabit* (future); the sense, and EN, is past (*vocavit*).
 - The column in this chunk uses straight apostrophes (’ house style not applied); my edits add no new apostrophes.
+
+## 1 Samuel 9–25
+
+# latin-013 (1 Samuel 9–25) notes
+
+## Data problems
+- 1 Samuel 20:42 and 21:1 both point to card `vg-1-samuel-20-42`, and neither is marked LOCKED. Its English also ends with “David rose and went away, while Jonathan went into the city,” which is Clementine 20:43 (*Et surrexit David, et abiit…*), not 20:42. 20:43 has no row of its own. I left it alone (moving content between rows is not allowed). Someone needs to decide the card mapping.
+- Rows follow the Greek column, so these Clementine verses have no row in this chunk: 13:1, 17:12–31, 17:41, 17:50, 17:55–18:5, 18:10–11, 18:17–19, 23:12, 20:43. Because 17:50 is missing, the 17:51 English starts mid-sentence (fixed for the ear in changes.json).
+- The column mixes straight (') and curly (’) apostrophes, about 126 straight and 35 curly in this chunk. I did not normalise them.
+
+## Editorial points (left unchanged)
+- 14:14: “half a jugerum” keeps the Latin unit; “half an acre” would be easier to hear, but that is a column-wide choice.
+- 18:21: “Through two things you shall become my son-in-law today” is literal for *in duabus rebus* and is obscure aloud. Leave it unless the column wants a gloss.
+- 25:31: “no sobbing or pang of conscience” is literal for *singultum*. “Grief” (Douay) may sound better aloud.
+- 15:17–18: the Latin is one question across both verses. The English turns it into statements. Acceptable, but noted.
+
+## 1 Samuel 26–31; 2 Samuel 1–14
+
+# latin-014 notes (1 Samuel 26–31; 2 Samuel 1–14)
+
+Column is in good shape; only 5 changes. For a human or editorial decision (not changed):
+
+- 1 Sam 30:30: Vulgate "Arama" is rendered "Hormah" (the Hebrew name). This matches the column's habit of using Hebrew-based name forms (Siceleg → Ziklag, Jether → Jattir), but it is a different name from the Latin. Editorial call.
+- 1 Sam 31:9: "in populis" is plural ("among the peoples"); the English has "among the people". Douay also has the singular, so it was left.
+- 2 Sam 9:11: the Vulgate gives "Miphiboseth comedet super mensam meam" to Ziba ("my table"), and the English follows it. That is correct for the Latin but odd. Left as it is.
+- 2 Sam 14:11: "ut non multiplicentur proximi sanguinis ad ulciscendum" means the next of kin should not be multiplied to take revenge. The English has "do not multiply their vengeance", which shifts the sense slightly. Left; worth a look.
+- 2 Sam 14:16: "The king has listened, to rescue his maidservant…" is a little stiff when read aloud. Optional smoothing.
+
+Data:
+- 1 Sam 30:28 and 30:28a share card vg-1-samuel-30-28 (both LOCKED, identical text).
+- 2 Sam 5:16a is an empty LOCKED row (no source or English).
+- The validator's regex parses 485 rows. The manifest says 486, including the empty 5:16a row.
+
+## 2 Samuel 15–24; 1 Kings 1–3
+
+# latin-015 notes (2 Samuel 15–24; 1 Kings 1–3)
+
+- 2 Samuel 16:10: the English has “why He has done this?”, with a capital He, which makes it God’s action. In the Latin (quare sic fecerit), the natural subject is Shimei, the one commanded to curse (cf. Hebrew “why have you done so?”). This needs an editorial decision on “he” versus “He”. Not changed.
+- 2 Samuel 23:10: Latin cumque ascendissent viri Israël literally says “had gone up”. The English “had withdrawn” follows the Hebrew sense. It is acceptable, but a specialist may prefer the literal wording. Not changed.
+- 1 Kings 2:23: Latin has quia contra animam suam locutus est (“for Adonijah has spoken … against his own life”). The English uses the Hebrew-style oath “if … has not spoken”. The sense is the same. Not changed.
+- Consistency (not changed): the column spells the spring “En-rogel” at 2 Samuel 17:17 but “the spring of Rogel” at 1 Kings 1:9. It calls the Kidron “the torrent Kidron” at 2 Samuel 15:23 but “the Kidron stream” at 1 Kings 2:37.
+- Data: the column uses straight apostrophes (king's) throughout this chunk. None of my changes adds an apostrophe. The LOCKED rows 1 Kings 2:35a–o and 2:46a–l are empty placeholders, with no source and no English.
+
+## 1 Kings 4–15
+
+# latin-016 notes (1 Kings 4–15, Clementine Vulgate)
+
+## Data problems
+- Some cards appear on two rows but neither row is LOCKED, so an edit to one would silently show on the other: vg-1-kings-5-17 (5:31 and 6:1a), vg-1-kings-5-18 (5:32 and 6:1b), vg-1-kings-9-16 (5:14b and 9:16), vg-1-kings-4-21 (5:1 and 10:26a), vg-1-kings-9-15 / 9-20 / 9-22 (9:15/9:20/9:22 and 10:22a–c), vg-1-kings-11-26 / 11-29 / 11-40 (11:26/11:29/11:40 and 12:24b/o/c), vg-1-kings-14-1 to 14-6, 14-10, 14-17 (14:1–6/10/17 and 12:24g–n). None of these were changed. The lock rule should probably cover them too.
+- Rows follow the Greek (Saints) order, so Vulgate 1 Kings 7:2–13 (the House of the Forest of Lebanon) appears at 7:39–49, and 7:2 (Vulgate 7:14) begins mid-sentence (“the son of a widow…”) without Hiram’s introduction from Vulgate 7:13. Nothing here contains Vulgate 7:13. Check that the 7:13 card appears somewhere on the page.
+- 4:17–4:19 rows carry Vulgate 4:18, 4:19, 4:17 (reordered). That is expected, but it means Jehoshaphat of Issachar is listed last.
+
+## For an editor (not changed)
+- 14:15 “The Lord God will strike Israel”: in Latin, *percutiet Dominus Deus Israël* can also mean “the Lord, the God of Israel, shall strike” (Douay). The current reading follows the Hebrew object and is defensible.
+- 12:18 has “Adoram” (Vulgate Aduram), while 4:6 and 5:28 have “Adoniram”. Both match the Latin, but an editor may want a note for listeners.
+- 15:13 “He demolished her grotto”: *specum ejus* could refer to Priapus (“its/his cave”) as easily as Maacah. Douay has “her den”, so it was left alone.
+- 6:30 “in both the inner and outer rooms”: the Latin only says *intrinsecus et extrinsecus* (inside and out). This is an interpretation but harmless.
+
+## 1 Kings 16–22; 2 Kings 1–8
+
+# latin-017 notes (1 Kings 16–22; 2 Kings 1–8)
+
+Verses for a specialist or an editorial decision (not changed):
+
+- 1 Kings 16:7: the English says “Baasha killed him”, but the Latin (*occidit eum, hoc est, Jehu*) leaves the subject unstated, and Jehu son of Hanani turns up alive again in 2 Chronicles 19:2. Supplying “Baasha” is an interpretation, so someone should decide whether to keep the plain “he”.
+- 1 Kings 16:26: *in vanitatibus suis* comes after a singular subject (Omri), which would give “his vanities”. The English has “their vanities”, as in Douay and the Hebrew. Left as it is.
+- 2 Kings 5:19: *electo terrae tempore* (Douay has “in the springtime of the earth”) is rendered “at a favorable season for the land”. This is accurate but obscure when read aloud. Consider “in the springtime”.
+- 2 Kings 6:27: *Non te salvat Dominus* is rendered literally (“The Lord does not save you.”), while Douay reads it as a condition (“If the Lord doth not save thee…”). Left literal.
+- 2 Kings 8:11: “He stood with him, and he grew troubled…”: two unnamed “he”s. The Latin doesn’t name the subject either, so it was left alone.
+
+Column consistency (editorial):
+
+- The two books use different formulas. 1 Kings has “The Lord says:” and “book of the annals of the kings of Israel/Judah”. 2 Kings has “Thus says the Lord:” and “Book of the Chronicles of the Kings of Israel/Judah”. The capitals also differ: “City of David” in 2 Kings 8:24 against “city of his father David” in 1 Kings 22:51.
+- The EN throughout the chunk uses straight apostrophes (’ is house style). They were left alone, and none of the changed text contains an apostrophe.
+
+Data:
+
+- 2 Kings 8:11 SRC reads “Stetique”, which is probably a typo for “Stetitque”.
+- 1 Kings 20/21 rows carry the Vulgate’s swapped chapter numbers (vg-1-kings-21-* under 1 Kings 20, and the reverse). This is consistent and fine.
+- 1 Kings 16:28a–h and 2 Kings 1:18a–d are empty LOCKED rows.
+
+## 2 Kings 9–24
+
+# latin-018 (2 Kings 9–24) notes
+
+- Data: 2 Kings 15:28 (vg-2-kings-15-28) carries `[vulgate_reference: 15:24]`, and 2 Kings 23:37 (vg-2-kings-23-37) carries `[vulgate_reference: 23:32]`. Both verses repeat the wording of the earlier verse, so the tag looks like a copy or matching error. Please check the mapping.
+- Data: 2 Kings 15:5 SRC reads “judicabit” (future). Standard Clementine editions read “judicabat”, which would mean “judged”. The EN “was to judge” follows the typo. Fix the source text, then change the EN to “and judged the people of the land”.
+- Editorial: 2 Kings 19:25 “eruntque in ruinam collium pugnantium civitates munitae”. The Vulgate image is something like “the fortified cities will become like the ruin of hills fighting together” (Douay). The EN “fortified cities of fighting men will become ruined heaps” attaches “fighting” to men and drops the hills. I left it as the 9 November reading; a specialist should decide.
+- Editorial: 2 Kings 23:33 “mulctam” is a fine or penalty, but the EN says “tribute”. I left it unchanged because the difference is small.
+- Style: this chunk’s EN uses a straight apostrophe (') throughout (Lord's, Ahab's). None of my changes adds an apostrophe, so nothing is mixed. A global curly-apostrophe sweep would be a separate decision.
+
+## 2 Kings 25–25; 1 Chronicles 1–11
+
+# latin-019 notes (2 Kings 25; 1 Chronicles 1–11)
+
+No changes made: I checked every editable row against the Clementine, and all numbers, name lists and clauses match. The open points below need an editorial decision or a data fix.
+
+## Data problems
+- **1 Chronicles 11:35 (card vg-1-chronicles-11-34)**: SRC is only “Ahiam filius Sachar Ararites,” but EN also has “Eliphal son of Ur;”, which is Vulgate 11:35 (“Eliphal filius Ur”). There is no vg-1-chronicles-11-35 card, so that text has been merged into this one. I left it unchanged so the line is not lost from the site. The card mapping needs fixing (Vulgate chapter-split work).
+- **1 Chronicles 9:40 (card vg-1-chronicles-9-40)**: this row has `vulgate_reference: 8:34`. The wording is identical to Vulgate 9:40, so there is no visible effect, but the mapping looks wrong.
+- **LOCKED shared cards**: 11:32/11:33 and 11:46/11:47 each show the same Vulgate verse twice on the site. This is expected from the Vulgate's verse merges and was not touched.
+- **1 Chronicles 1:11–16 and 1:18–23 have no rows.** That is correct: the Clementine omits these verses.
+
+## For a specialist / editorial decision
+- **1 Chronicles 2:23**: “Cepitque Gessur et Aram oppida Jair” can be read two ways. EN follows the Hebrew-style reading (“Geshur and Aram took Jair’s towns”). Douay reads Jair as the subject: “he took Geshur and Aram, the towns of Jair.” The singular *cepit* slightly favours Douay. Needs a decision on which reading the column follows.
+- **1 Chronicles 9:17–18**: in the Latin, “Sellum princeps, usque ad illud tempus…” runs on across the verse break. EN ends 9:17 with a full stop and starts 9:18 with “Until that time they kept watch…”. It is acceptable, but Douay keeps it as one sentence.
+- **1 Chronicles 11:25**: *posuit eum David ad auriculam suam* (“at his ear”) is rendered “his confidential adviser”. The sense is right but the image is lost. Not changed because it would be unclear aloud.
+- **1 Chronicles 10:9**: “They sent it to their own land” follows “removed his armor”, so “it” could be heard as the armour. The Latin leaves the subject unstated (most likely the head). Left as is.
+- **1 Chronicles 6:54 (Vg 6:69)**: Latin *Helon* is rendered “Aijalon” (Hebrew form), while *Helon* in 6:43 is “Hilen”. This is a column naming choice and was not changed.
+
+## 1 Chronicles 12–29; 2 Chronicles 1–1
+
+# latin-020 notes (1 Chronicles 12–29; 2 Chronicles 1, Clementine Vulgate)
+
+## Data problems
+- 1 Chronicles 16:24 is missing from the input (rows jump from 16:23 to 16:25). Check that the card exists on the page.
+- 16:8 SRC begins with “[” and 16:36 has “]” (Clementine bracket marking the psalm). The EN is fine; just a source-display quirk.
+- 12:4/12:5 and 20:7/20:8 share cards (both LOCKED), so 12:5 and 20:8 show duplicated text.
+- 2 Chronicles 1:18 carries Vulgate 2:1 (Greek numbering), as expected.
+
+## For an editor (not changed)
+- 20:5 “God-given, son of the Forest, the Bethlehemite”: Jerome translated the names (Adeodatus filius Saltus). Rendering them as English words is confusing aloud; Douay keeps “Adeodatus the son of Saltus”. Probably from the 9 Nov revision, so not reverted.
+- 13:11 “the Lord had broken Uzzah … the Breach of Uzzah”: the Latin is *divisisset … Divisio Ozæ* (divided / Division). “Broken/Breach” follows the Hebrew perez. Defensible, but not literal Vulgate.
+- 26:6 Latin has *Semei* (Shimei); the column writes “Shemaiah” to match 26:4/26:7. 27:27 Latin *Semeias* is written “Shimei”. Both harmonise toward the Hebrew; an editor may want a consistent policy.
+- 26:7 “his brothers, Elihu and Semachiah, were also very mighty men”: the Latin punctuation (*Elzabad, fratres ejus viri fortissimi: Eliu quoque et Samachias*) is ambiguous; the current reading is one defensible parse.
+- 19:18 “seven thousand Syrian chariot crews”: Latin says simply *septem millia curruum* (chariots). Interpretive but sensible.
+
+## 2 Chronicles 2–24
+
+# latin-021 notes (2 Chronicles 2–24, Clementine)
+
+## For a specialist or editorial decision (not changed)
+- 2 Chr 21:19: “lost both his illness and his life” renders the Vulgate literally (languore pariter, et vita caruit). It is accurate but may sound odd read aloud; keep or smooth?
+- 2 Chr 24:13: “the breaches in the walls were repaired” drops the Latin image obducebatur parietum cicatrix (“the scar of the walls was closed over”). Could be restored if the column wants to keep the Vulgate’s image.
+- 2 Chr 7:6: ante eos is rendered “opposite them” (the Hebrew negdam); “before them” would be closer to the Latin. Minor, left as is.
+- 2 Chr 12:7: non stillabit furor meus is rendered “will not pour”; stillare is “drip, distil”. Left as is.
+- 2 Chr 20:37: the closing quote comes after “struck your works”, so the shipwreck is narration. The Latin allows either reading.
+
+## Data
+- Row numbering is shifted against the Vulgate cards: 2:1–2:17 map to vg 2:2–2:18, and 13:23 and 14:1–14:14 map to vg 14:1–14:15, as the vulgate_reference tags show. Vulgate 2:1 is not in this chunk; check that it is in latin-020.
+- Apostrophes are mixed: the chunk uses straight ' throughout, except 24:20 (“Lord’s”). New text in my changes uses ’.
+- 2 Chr 2:16 writes “153,600” in figures, while the rest of the chunk spells numbers out.
+
+## 2 Chronicles 25–36; Ezra 1–6
+
+# latin-022 notes (2 Chronicles 25–36; Ezra 1–6)
+
+- Data: 2 Chronicles 27:8 is missing from the input (rows jump 27:7 → 27:9). The Clementine has it (“Viginti quinque annorum erat cum regnare cœpisset, et sedecim annis regnavit in Jerusalem”; Douay 27:8), so the card may be missing on the site.
+- Data: 2 Chronicles 35:19a–d, 36:2a–c, 36:4a, 36:5a–d are LXX-numbered rows that repeat the plain Vulgate verse (locked, shared card); nothing changed.
+- Style: this chunk mostly uses straight apostrophes (Lord's) with an odd curly one (31:15 “priests’ cities”); left as is apart from edited text.
+- Editorial: 2 Chronicles 28:20 “He brought against him Tiglath-pileser”: the Latin subject of adduxit could be the Lord (carrying on from 28:19 Humiliaverat Dominus); left ambiguous as in Douay.
+- Editorial: 2 Chronicles 31:16 “except for males three years old and above” renders exceptis literally; the sense (in addition to / apart from the genealogical list) is debated, worth a specialist look.
+- Editorial: 2 Chronicles 31:13 “Under them” for post quem (“after him”, i.e. next in rank after Shimei); left.
+
+## Job 9–28
+
+# latin-025 (Job 9–28) · notes
+
+## Data problems
+- Job 16:4 (vg-job-16-4): the English also holds Vulgate 16:5 (“I too would comfort you with speeches and shake my head over you”), which has no row of its own; the next row (16:5) carries vg-job-16-6 / Vulgate 16:6. Rows from here to the end of the chapter are offset by one. Left unchanged; needs a data fix (a separate 16:5 card).
+- Job 23:14 has no row: the chunk goes from 23:13 to 23:15, and 23:15 appears twice (23:15 and 23:15a, both on card vg-job-23-15, LOCKED). Vulgate 23:14 (“Cum expleverit in me voluntatem suam…”) seems to have no English on the site.
+- Job 19:4 also appears twice (19:4 and 19:4a, same card vg-job-19-4, LOCKED). Probably a leftover from renumbering.
+
+## For a specialist / editorial decision (not changed)
+- Job 20:26 “affligetur relictus in tabernaculo suo”: the row reads “whoever remains in his tent shall be afflicted”; Douay takes it as “he shall be afflicted when left in his tent”. The Latin allows either.
+- Job 27:22 “Et mittet super eum… de manu ejus fugiens fugiet”: “hurl itself” and “from its power” are free renderings (the Latin has no reflexive, and it says “from its hand”). Acceptable, but could be made more literal.
+- Job 15:3 “eum qui non est æqualis tibi” is printed as “One” (God). This follows Gregory’s reading, but the Latin itself is ambiguous.
