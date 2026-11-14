@@ -4,9 +4,9 @@ The [9 November editorial revision](../2026-11-09-latin-editorial/README.md) (59
 
 ## Result
 
-**593 of the 595 revised readings now match GitHub on staging** (583 word for word; 10 on grouped cards, where the card’s verse rows together give the GitHub reading). Every reading was checked on the staging pages after the last save. Two remain ([remaining.json](remaining.json)):
+**All 595 revised readings now match GitHub on staging**: 583 word for word, and 12 on grouped cards, where the card’s verse rows together give the GitHub reading. Every reading was checked on the staging pages after the last save.
 
-- **Numbers 15:11** and **Deuteronomy 6:11** are grouped Latin restorations. The GitHub reading includes Latin and English (Numbers 15:2a “Speak to the children of Israel and say to them”, Deuteronomy 6:13) that the staging card has no row for. Publishing them means adding a row to the card, not editing text.
+The twelve “grouped Latin restoration” rows changed only the Latin in the GitHub archive, which had captured just the first Vulgate verse of each group. The staging cards already show every Vulgate verse of the group as its own row with its English. For Numbers 15:11 (Vulgate 15:11–18) and Deuteronomy 6:11 (Vulgate 6:11–13) this was confirmed row by row; the only difference is the transcription’s spacing before colons (“fueris :”), which staging keeps throughout.
 
 ## What was applied
 
