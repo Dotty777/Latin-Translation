@@ -2,7 +2,7 @@
 
 Continues the Genesis pass of 13 November across the rest of the Bible. Every row was read against the Clementine Latin, for fidelity first and clarity when read aloud second. Readings were changed only where the English said something the source does not (major), lost something the source does deliberately (minor), or was hard to follow aloud (spoken).
 
-So far: 26 books, 20,835 rows reviewed, 180 readings revised (4 major, 71 minor, 105 spoken).
+So far: 35 books, 24,067 rows reviewed, 203 readings revised (5 major, 85 minor, 113 spoken).
 
 | Book | Rows reviewed | Revised | Major | Minor | Spoken | On staging |
 | --- | ---: | ---: | ---: | ---: | ---: | --- |
@@ -24,14 +24,23 @@ So far: 26 books, 20,835 rows reviewed, 180 readings revised (4 major, 71 minor,
 | Esther | 247 | 1 | 0 | 0 | 1 | published and verified 14 Nov |
 | Job | 1,083 | 8 | 0 | 3 | 5 | published and verified 14 Nov |
 | Psalms | 2,527 | 24 | 1 | 9 | 14 | pending |
-| Proverbs | 939 | 5 | 0 | 2 | 3 | pending |
-| Ecclesiastes | 222 | 5 | 1 | 1 | 3 | pending |
-| Song of Songs | 117 | 0 | 0 | 0 | 0 | pending |
-| Wisdom of Solomon | 435 | 7 | 1 | 3 | 3 | pending |
-| Sirach | 1,366 | 14 | 0 | 3 | 11 | pending |
+| Proverbs | 939 | 5 | 0 | 2 | 3 | published and verified 14 Nov |
+| Ecclesiastes | 222 | 5 | 1 | 1 | 3 | published and verified 14 Nov |
+| Song of Songs | 117 | 0 | 0 | 0 | 0 | no changes |
+| Wisdom of Solomon | 435 | 7 | 1 | 3 | 3 | published and verified 14 Nov |
+| Sirach | 1,366 | 14 | 0 | 3 | 11 | published and verified 14 Nov |
 | Isaiah | 1,289 | 9 | 0 | 8 | 1 | pending |
 | Jeremiah | 1,299 | 11 | 1 | 3 | 7 | pending |
 | Lamentations | 150 | 0 | 0 | 0 | 0 | pending |
+| Ezekiel | 1,267 | 10 | 0 | 8 | 2 | pending |
+| Daniel | 451 | 3 | 0 | 2 | 1 | pending |
+| Hosea | 197 | 2 | 0 | 2 | 0 | pending |
+| Joel | 73 | 0 | 0 | 0 | 0 | pending |
+| Amos | 146 | 2 | 1 | 0 | 1 | pending |
+| Obadiah | 21 | 0 | 0 | 0 | 0 | pending |
+| Jonah | 48 | 0 | 0 | 0 | 0 | pending |
+| Micah | 105 | 1 | 0 | 0 | 1 | pending |
+| 1 Maccabees | 924 | 5 | 0 | 2 | 3 | pending |
 
 Rows that could not be revised safely were shown to the reviewers for context but locked: rows with no source text or no English, placeholder rows (“No MT counterpart …”), rows sharing one site card, and grouped Vulgate verses. Bracketed tags inside readings (“[BHS 3:1]”, “[Aramaic]”) were kept exactly.
 

@@ -695,3 +695,134 @@ Possible editorial decisions (not changed)
 - Stray “[” and “]” in SRC text from the source extraction (for example Lamentations 3:66, 4:22, 5:22; Ezekiel 6:3, 7:2, 12:10–28, 13:2, 14:13, 15:2). The English is unaffected.
 - Ezekiel 7 rows 3–9 follow Greek order (Vulgate 7:6–9 then 7:3–5). The rows match their SRC, so this is noted only.
 - The chunk ends at Ezekiel 17:18.
+
+## Ezekiel 18–34
+
+# latin-045 notes (Ezekiel 18–34, Clementine)
+
+## For a specialist / editorial decision (not changed)
+- Ezekiel 21:32 (Vulg 21:27): “This has not been done until he comes to whom judgment belongs” mixes tenses awkwardly; the Latin is past sequence (non factum est, donec veniret), Douay “this was not done till he came whose right it is”. Worth an editorial look given its messianic reading.
+- Ezekiel 23:10: “The women became notorious” for factæ sunt famosæ mulieres; the Latin subject is unclear (“they became notorious women”). Left as is.
+- Ezekiel 24:14: adinventiones rendered “deeds”; the Vulgate’s sense is “devices, schemes”. Left (borderline synonym).
+- Ezekiel 30:24: gement gemitibus interfecti could be “the slain will groan” rather than “they will groan … with the groans of the slain”. Ambiguous; left.
+
+## Data problems
+- Rows missing from the input: Ezekiel 27:31, 32:19, 33:26 (chunk jumps 27:30→27:32, 32:18→32:20, 33:25→33:27).
+- vulgate_reference tags look wrong: every “The word of the Lord came to me” row in ch. 21 (21:1, 21:6, 21:13, 21:23) says 20:2; 22:17 and 22:23 say 22:1; 28:20 says 28:1; 33:23 and 34:1 say 33:1; 34:9 says 34:7. Looks like duplicate-text matching to the first identical Latin verse.
+- Straight apostrophes (') in about 23 EN rows in chs 25–34 (e.g. 25:9 “Moab's”, 26:4 “Tyre's”, 27:28, 28:2, 29:14, 30:9, 33:6, 33:17, 34:14), while other rows use ’. Not changed (punctuation-only); fix in a bulk pass.
+- Introductory formula ends with “saying,” in chs 18–24 but “saying:” from ch. 25 on; inconsistent but left.
+
+## Ezekiel 35–48; Daniel 1–1
+
+# latin-046 notes (Ezekiel 35–48; Daniel 1)
+
+## Data problems
+- Ezekiel 40:30 is missing from the input (Clementine: “Et vestibulum per gyrum longitudine viginti quinque cubitorum, et latitudine quinque cubitorum.”). Check whether the row/card exists on the site.
+- Daniel 1:22 onward does not hold Daniel 1 at all: the rows carry Susanna (Dan 13) and Bel and the Dragon (Dan 14) cards (vl-daniel-13-22 … 13-60, 14-23 … 14-41), out of order, with a “1:35a” row and gaps (1:43, 1:46–47, 1:49–50). Several rows share cards (1:44/1:45 → 13-44; 1:60/1:61/1:62 → 13-60). This looks like a broken Vulgate chapter split for Daniel; the row-to-card mapping needs fixing. I reviewed each row against its own SRC only.
+- Ezekiel 38:1 carries `vulgate_reference: 37:15`, but its SRC/EN are the ordinary 38:1 formula; probably a harmless mapping note, worth a glance.
+
+## Editorial questions (not changed)
+- Ezekiel 37:26, 37:28: “sanctificationem/sanctificatio mea” is rendered “My sanctuary” (Hebrew reading). The Vulgate’s literal sense is “My sanctification”; decide whether the column should follow the Latin wording here.
+- Ezekiel 43:26: “implebunt manum ejus” (fill its hand) is rendered “consecrate it”. That is the right sense, but the image is lost. Keep it as it is unless the column prefers to keep the idiom.
+- Ezekiel 35:6: “cum sanguinem oderis” is rendered as a concession (“Though you hate blood”). Douay reads it as causal (“whereas you have hated blood”). Both are defensible.
+
+## Daniel 2–12; Hosea 1–7
+
+# latin-047 notes (Daniel 2–12; Hosea 1–7)
+
+## For a specialist / editorial decision (not changed)
+- Daniel 6:23 (vl-daniel-6-22): “innocence” renders *justitia*; the column elsewhere uses “justice/righteousness”. Consider “righteousness was found in me”.
+- Daniel 7:27: “all kings will serve and obey Him”: the capital H reads *ei* as God; the Latin can equally refer to the people of the holy ones.
+- Daniel 2:44: “His kingdom will not be handed over”: *regnum ejus* could be “its sovereignty” (the kingdom’s own), not God’s.
+- Hosea 3:2: “I obtained her”: Clementine has the Vulgate-specific *fodi* (“I dug”); Douay also gives “bought”. Leave unless the column wants to show the Vulgate reading.
+- Hosea 4:10: “by failing to keep watch” for *in non custodiendo* (Douay “in not observing”). It may suggest a sentry’s duty rather than keeping the law.
+- Daniel 2:9: “because you have also prepared…”: *quod* may mean “that” (the verdict is that you concocted it) rather than “because”.
+
+## Data problems
+- Daniel 5:26–5:28 all share card vl-daniel-5-26 and show only the “Mane” text. The Vulgate 5:27 (Thecel) and 5:28 (Phares) verses are missing.
+- Rows absent from the input: Daniel 4:1–3, 4:6–9, 4:35; Daniel 5:14–15, 5:18–22, 5:24–25.
+- Hosea 6:1 SRC stops at “revertamur ad Dominum,”: the clause “quia ipse cepit, et sanabit nos : percutiet, et curabit nos” is missing. The row labelled Hosea 6:2 uses card vl-hosea-6-3 and holds the Vulgate text of 6:2–3, while Hosea 6:3 is empty.
+- Daniel 8:3 SRC typo: “oculus” should read “oculos”.
+- Straight apostrophes in Hosea EN (1:2 “Lord's”, 5:5, 6:10, 7:1, 7:10 “Israel's/Ephraim's/Samaria's”). These should be curly; I left them because punctuation-only edits are out of scope.
+- Daniel 4 has mixed quote nesting: 4:17 closes with ” but 4:18–4:33 use ‘ ’ inside Nebuchadnezzar’s letter. This should be checked for the whole chapter.
+
+## Hosea 8–14; Joel 1–4; Amos 1–9; Obadiah 1–1; Jonah 1–4; Micah 1–7
+
+# latin-048 notes (Hosea 8 – Micah 7)
+
+## Data problems
+- Amos 6: the Clementine Vulgate 6:11 (“Et respondebit: Finis est. Et dicet ei: Tace, et non recorderis nominis Domini.”) appears in no row. Row 6:10 holds Vulg 6:10, and row 6:11 jumps to Vulg 6:12. The verse is missing from the Latin column.
+- Micah 5: the row and card mapping is off. Row 5:10 (vl-micah-5-11) holds Vulg 5:11 and 5:12 together, row 5:11 is LOCKED and empty, and rows 5:12–5:14 (vl-micah-5-12/13/14, no vulgate_reference) actually hold Vulg 5:13–5:15. The cards need checking against the Clementine numbering.
+- There are stray “[” and “]” brackets in many SRC lines (e.g. Hosea 8:14, 12:1, 14:1/14:2, Joel 2:17/2:18, Micah 4:14). They look like leftover pericope markers. The EN is not affected.
+- There are typos in the SRC text: Amos 8:8 “ejicicetur” (read ejicietur) and Micah 3:7 “vultos” (read vultus).
+
+## For an editorial decision (not changed)
+- Some verses render “Dominus Deus exercituum” as “the Lord, the God of hosts” (Hosea 12:6, Amos 5:16) and others as “the Lord God of hosts” (Amos 5:14–15, 6:8, 9:5). The brief’s rule is Dominus Deus = the Lord God. The meaning is the same, so I left them alone.
+- Amos 4:1 “Afferte, et bibemus” is rendered as “Bring us drink.” A more literal reading is “Bring, and we will drink.” The meaning is close, so I left it.
+
+## 1 Maccabees 1–8
+
+# latin-050 (1 Maccabees 1–8) · notes
+
+## Data problems
+- Four Clementine verses in ch. 1 have no row at all: Vulgate 1:22 (“et ascendit Jerosolymam in multitudine gravi”), 1:32 (the sudden attack on the city), 1:48 (sabbaths and feast days), 1:54 (the order to the cities of Judah to sacrifice). Row 1:20 maps to Vg 1:21 and row 1:21 to Vg 1:23, and so on. Their Latin and English are missing from the column; not added (no moving content between rows).
+- LOCKED placeholder rows 1:22 and 1:49 point to “1:23” and “1:51”, but those verses show in rows 1:21 and 1:48. Check the placeholder wording.
+- 3:3 SRC starts with “[” and 3:9 SRC ends with “]”. Stray brackets around the Judas poem in the Latin text; probably an import artefact.
+- 2:48 translation note talks about rendering cornu as “horn of strength”, but the English says just “a horn”. Either the note or the English is out of date.
+
+## For an editorial decision (not changed)
+- 1:59: the English adds “of God” (“opposite the altar of God”); the Latin has only contra altare. It helps listeners, but it goes beyond the translation note.
+- 1:20: “ascendit ad Israël” is rendered “went up against Israel” (Douay); the Latin itself only says “to”.
+- 3:18 / 4:31: “hemmed in within the hands of” (concludi / conclude in manus) is a little clumsy aloud. Kept because the two verses render it the same way.
+- 6:4: “returning toward Babylonia” for reversus est in Babyloniam (Latin: returned to Babylonia).
+
+## 1 Maccabees 9–16; 2 Maccabees 1–1
+
+# latin-051 notes (1 Maccabees 9–16; 2 Maccabees 1)
+
+## Data problems
+- 1 Maccabees 12:53: SRC and EN both stop at "dixerunt enim :" / "for they said," with no speech. The Clementine continues in 12:54 ("Non habent principem, et adjuvantem…"), and there is no row for it, so the nations' speech is missing from the column.
+- 1 Maccabees 13:52–53: the 13:53 row carries Vulgate 13:54 (Simon appoints John). Vulgate 13:53 (Simon fortifies the temple mount beside the citadel and lives there) does not appear in any row and looks dropped.
+- 1 Maccabees 15:39: SRC reads "Typhonem" (probably a misprint for Tryphonem); EN correctly has Trypho.
+- This chunk uses straight apostrophes (Judas's, king's) throughout, not the house-style ’. I left them alone because the brief says not to change punctuation on its own.
+
+## For a specialist or editor (not changed)
+- 1 Maccabees 16:3: "et fratres mei" is taken as vocative ("my brothers") addressed to the sons. The 9 Nov note already marks this as a priority for specialist review.
+- 1 Maccabees 16:9: "quam ædificavit": the builder (John or Cendebaeus) is left ambiguous, as the note intends. Confirm that is acceptable.
+- 1 Maccabees 9:35: "misit fratrem suum ducem populi" ("his brother, a leader of the people"). John is not named until 9:36, so a listener may not know who is meant. Editorial call.
+- 1 Maccabees 12:22: "benefacitis" is present tense ("you do well"), but the EN has "you will do well", matching 12:18. Minor; left as is.
+
+## 2 Maccabees 2–14
+
+# latin-052 (2 Maccabees 2–14) · notes
+
+Not changed; for a specialist or an editorial decision:
+
+- 5:27 *qui decimus fuerat* is rendered “who was one of ten” (the Greek sense). The Latin literally says “who was the tenth” (Douay). The meaning is close, but decide whether the column should keep the Vulgate’s wording.
+- 10:12 Latin *Macer* is rendered “Macron”, the Greek byname, under the translation note. That conflicts with “render the Latin”. Keep for consistency, or change to “Macer”?
+- 14:37 Latin *Razias* is rendered “Razis”, the Greek form. I left it because it is the column’s existing spelling.
+- 14:1 *per portam Tripolis* is rendered “through the harbor of Tripolis”. *Porta* means “gate”, but Douay also says “haven”, so I left it.
+- 6:15 The Latin has no negative (*ita et in nobis statuit … ita demum in nos vindicet*). The English supplies one from the *Non enim* in 6:14, as the translation note says. That is reasonable, but a Latin specialist should confirm it.
+- 13:25 *indignantes ne forte fœdus irrumperent* is ambiguous: who might break the treaty? The current “so indignant that they might break the treaty” is acceptable. It is flagged only for review.
+- 9:19 The translation note says the header (*rex et principes Antiochus*) needs checking against a printed witness before publication. Still open.
+- 14:44 The translation note asks for independent Latin and textual review of *per mediam cervicem*. Still open.
+
+Data: none of the rows I changed carries a bracketed tag. The 2:19–2:32 rows have vulgate_reference values one higher than the row numbers (2:20–2:33). That is expected and was left as it is.
+
+## Matthew 14–25
+
+# latin-054 (Matthew 14–25:42) notes
+
+## Data problems
+- Missing Clementine verses: **Mt 17:20** (“Hoc autem genus non ejicitur nisi per orationem et jejunium”, Greek 17:21), **Mt 18:11** (“Venit enim Filius hominis salvare quod perierat”) and **Mt 23:14** (“Væ vobis … quia comeditis domos viduarum …”). None of these has a row in the input: 17:20 → 17:22, 18:10 → 18:12, 23:13 → 23:15. Check whether the cards exist on the site.
+- Mt 16: the row labelled “Matthew 16:3” has card `matthew-16-4` (vulgate 16:4), and “Matthew 16:4” is a LOCKED empty row. So the reference label and the card are one verse apart. Same offset in Mt 17:15–17:27 (Vulgate 17:14 includes the father’s plea). Expected Vulgate numbering, but worth checking that the labels show correctly.
+- The chunk ends at 25:42. 25:43–46 are presumably in latin-055.
+
+## Editorial decisions (not changed)
+- Spelling is mixed within the chunk: “neighbor” (19:19) vs “neighbour” (22:39), “rumours” (24:6), and “insnare” (22:15). Should one spelling be used throughout?
+- The 9 Nov fresh renderings (16:3–4, 16:17–19, 17:4, 17:27, 18:6–9, 19:3–12, 24:10, 25:22) use modern punctuation, and 17:4 and 25:22 use quotation marks. The Douay rows around them don’t. The renderings are accurate, but the style is uneven.
+- 16:18 “gates of the underworld” for portæ inferi was kept as the 9 Nov reading. Most Catholic readers expect “hell”, so an editor may want to look at it.
+- 19:4 “he who made humanity” for qui fecit hominem: the Genesis pass changed “humankind” back to “man” for hominem. Consider using the same wording here.
+- Douay “seduce” for seducere (24:4, 24:5, 24:11) can sound sexual to modern listeners; “lead astray” would avoid that. Left unchanged.
+- 25:40 “as long as you did it” (quamdiu): modern listeners may hear this as time (“for as long as”) rather than “inasmuch as”. It’s a well-known Douay phrase, so it was left unchanged.
+- 25:27 “with usury” (cum usura = interest) and 23:25 “rapine” are archaic. Left unchanged.
