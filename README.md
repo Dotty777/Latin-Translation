@@ -95,4 +95,4 @@ Source of the reference texts used in the audit: [mborders/vulgata](https://gith
 
 [13 November 2026 Genesis reading pass](corrections/2026-11-13-genesis-reading-pass/README.md) reviews all of Genesis against the Clementine Latin for accuracy and spoken flow: 33 readings revised, with points left for a specialist.
 
-[13–14 November 2026 staging synchronization](corrections/2026-11-13-staging-sync/README.md) publishes the 9 November revision to staging: 318 of its 595 readings now match GitHub there, and the 277 still to reconcile are listed.
+[13–14 November 2026 staging synchronization](corrections/2026-11-13-staging-sync/README.md) publishes the 9 November revision to staging: 593 of its 595 readings now match GitHub there; the two grouped readings that need a new card row are listed.
