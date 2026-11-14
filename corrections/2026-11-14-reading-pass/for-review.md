@@ -454,3 +454,170 @@ Data:
 - Psalms 105:13: “They acted quickly: they forgot His works” is literal for Cito fecerunt; obliti sunt, but the sense is “they were quick to forget.”
 - Psalms 96:1: “For this David” (Huic David) is odd aloud; Douay has “For the same David.”
 - Psalms 91:4: “on the ten-stringed harp” merges decachordo and psalterio; acceptable as apposition.
+
+## Psalms 118–148
+
+# latin-031 notes (Psalms 118–148, Vulgate numbering)
+
+## Data problems
+- Psalms 129:6 (psalms-unit-2241, vulgate_reference 129:5): SRC is only “speravit anima mea in Domino.”, but EN also carries Vulgate 129:6 (“A custodia matutina usque ad noctem, speret Israel in Domino”). The Latin for that half is missing from SRC; English left as is.
+- Psalms 123:4/123:5 (unit-2203), 129:4/129:5 (unit-2240), 145:2/145:3 (unit-2440), 148:12/148:13 (unit-2479), 144:13/144:13a (unit-2430): locked shared cards whose EN covers more Latin than the SRC shown (e.g. 145:2 EN has “in the children of men, in whom there is no salvation”, 148:12 EN has “for His name alone has been exalted”, 123:4 EN has Vulgate 123:5). Not touched.
+- Psalms 147:1–9 carry vulgate_reference 147:12–20. In the Clementine, Ps 147 is numbered 1–9 (it is Hebrew 147:12–20), so the label looks like the Hebrew reference, not the Vulgate one.
+- Psalms 124:1/124:2: the row break falls mid-clause (“who dwells / in Jerusalem”), following the source split. English mirrors it; fine but odd aloud.
+
+## For a specialist / editorial decision (not changed)
+- 135:15 “shook Pharaoh and his army into the Red Sea”: Latin has in mari Rubro (ablative, “in the Red Sea”); “into” follows the Hebrew. Acceptable, but an editor may prefer “in”.
+- 131:17 “a horn for David”: cornu David can be “the horn of David” (Douay); current reading follows the Hebrew l-David.
+- 118:138 “in righteousness and in the abundance of Your truth” smooths the difficult Mandasti justitiam testimonia tua, et veritatem tuam nimis; kept.
+- 140:10 “its net” for retiaculo ejus (Douay “his net”); referent unclear in the Latin.
+
+## Psalms 149–150; Proverbs 1–15
+
+# latin-032 notes (Psalms 149–150; Proverbs 1–15)
+
+Data problems
+- Clementine verses with no row in the input (so missing from the column, or merged somewhere upstream): Proverbs 4:7 (“Principium sapientiae, posside sapientiam…”), 8:33 (“Audite disciplinam, et estote sapientes…”), 11:4 (“Non proderunt divitiae in die ultionis…”), 15:31 (“Auris quae audit increpationes vitae…”). Worth checking that the site shows them.
+- Proverbs 15:27a/28a/29a/29b carry Vulgate 16:6–9 under the Greek numbering; the renderings match their Latin, but check this is the placement you want.
+
+Possible editorial decisions (not changed)
+- Proverbs 14:26 “there will be hope for His children”: filiis ejus could mean the God-fearer’s children (the Hebrew sense, Rashi) rather than God’s; the capital “His” commits to one reading.
+- Proverbs 6:26: Douay takes viri with animam (“the woman catches the precious soul of a man”); the column reads mulier viri as “another man’s wife” (the Hebrew sense). Both defensible.
+- Proverbs 10:23 and 14:24 reverse the Latin subject and predicate (“prudence is wisdom” for sapientia … est prudentia; “The riches of the wise are their crown” for Corona sapientium divitiae eorum). Left as the column’s habit; Douay keeps the Latin order.
+- Proverbs 7:27 “Her house is the ways to the underworld” is literal (Viae inferi domus ejus) but slightly awkward aloud.
+- Proverbs 9:10 “knowledge of holy things”: scientia sanctorum may equally be “of the holy ones/saints”.
+
+## Proverbs 16–31; Ecclesiastes 1–1
+
+# latin-033 notes (Proverbs 16–31; Ecclesiastes 1)
+
+## For a specialist / editorial decision (not changed)
+- Proverbs 16:2 — "patent oculis ejus": non-reflexive ejus most naturally means the Lord's eyes (Douay leaves "his"); EN "his eyes" reads as the person's own eyes. Decide whether to capitalise "His" (follows column convention for God).
+- Proverbs 29:10 — "justi autem quærunt animam ejus": in Vulgate idiom "quærere animam" usually means seeking to kill (cf. Mt 2:20), but here the just are the subject; EN "the just seek his life" sounds hostile in English. Consider "seek his soul" (Douay) or a note.
+- Proverbs 22:8 — "virga iræ suæ consummabitur" can be read with ablative ("by the rod of his anger he will be consumed", Douay); EN takes virga as subject. Both defensible.
+- Proverbs 25:20 — "cordi pessimo" rendered "a most troubled heart" (Hebrew sense); 26:23 renders "pessimo corde" as "a most evil heart". Check consistency.
+- Proverbs 28:17 — "animæ sanguinem" as "a life's blood" is awkward aloud; possible spoken fix if wanted.
+- Ecclesiastes 1:2 — "Futility of futilities" for vanitas vanitatum (presumably the 9 Nov choice); traditional "vanity" may be preferred for a Vulgate column.
+
+## Data
+- Rows follow Greek order: many Vulgate verses absent from this chunk (e.g. Prov 16:1, 3–4, 6–8; 19:1–2; 20:14–22 except 20:20–22 shown as 20:9a–c; 21:5; 22:6; 23:23) — presumably handled elsewhere or not mapped.
+- Prov 16:9 carries Vulgate 16:4; Prov 31:25/31:26 carry Vulgate 31:26/31:25 (swapped); EN matches SRC in each.
+- SRC text contains stray "[" and "]" bracket marks (source editorial brackets), not in EN; harmless.
+- Changed rows' "after" uses curly apostrophe (house style) while the column's existing text uses straight apostrophes.
+
+## Ecclesiastes 2–12; Song of Songs 1–8; Wisdom of Solomon 1–7
+
+# latin-034 notes (Ecclesiastes 2–12; Song of Songs 1–8; Wisdom 1–7)
+
+## For a specialist or editorial decision (not changed)
+- Ecclesiastes 8:2 — “I observe the king’s command” interprets *os regis* (“the mouth of the king”, Douay); keep the image or leave the gloss?
+- Ecclesiastes 10:11 — “no better than it” is a fair reading of *nihil eo minus habet*; some editors prefer “no less harmful”.
+- Song of Songs 3:3 — the bride’s question “Have you seen the one my soul loves?” has no quotation marks, so aloud it can sound like the watchmen asking. Column elsewhere (e.g. 7:9 “I said: I will climb…”) also leaves speech unquoted, so this is a column-wide style choice.
+- Wisdom 3:14 — “So too will the eunuch who…” is an ellipsis (“will have fruit”, from 3:13) held over a long relative clause; fine on the page, slightly hard aloud.
+- Wisdom 7:22–23 — *certus* appears in both verses but is rendered “sure” then “certain” (*subtilis* is “subtle” both times). Probably harmless; flag in case the column wants the list repetition kept.
+
+## Data problems
+- Song of Songs 1:1 has no source or English (LOCKED).
+- Song of Songs 7:1 and 7:2 share card song-of-songs-unit-90, with the SRC showing only Vulgate 6:12 while the EN covers 6:12 plus the Shulammite dialogue and 7:1 (steps, thighs). The Latin for “What will you see in the Shulammite…” and “How beautiful are your steps…” is not shown in either row.
+- Apostrophes are mixed in this column: Ecclesiastes and Song use straight ', Wisdom mixes ' and ’ (e.g. 2:3 “sun’s” vs 2:22 “God's”). Left as is; changed verses keep their existing straight apostrophes.
+- Several SRC lines carry stray pericope brackets ([ and ]) from the source text (e.g. Eccl 2:11, 2:12); harmless, not in the English.
+
+## Wisdom of Solomon 8–19; Sirach 1–8
+
+# latin-035 · Wisdom 8–19, Sirach 1–8 · notes
+
+## For a specialist (not changed)
+
+- Wisdom 17:13 — *impotentem vere noctem* is rendered “a truly overpowering night”; *impotens* (Greek ἀδύνατον) more likely means “powerless” (Douay “without power”), which would reverse the adjective. Needs a decision.
+- Wisdom 17:14 — “fainting from their souls’ exposure” for *animae deficiebant traductione* is hard to follow aloud; the sense is the soul betraying or failing them (Douay “their soul betraying them”).
+- Wisdom 12:5 — the dashes and “from the midst of Your sacred mystery” (*a medio sacramento tuo*) make 12:3–6 hard to follow; the Latin itself is obscure.
+- Wisdom 12:13 — “to whom You must show” follows the Greek sense; the Latin *ut ostendas* is more naturally “so that You may show”.
+- Wisdom 12:24 — *diutius erraverunt* is rendered “wandered far”; the Latin is temporal (“for a long time / too long”).
+- Wisdom 16:9 — *sanitas animae illorum* “healing for their souls”; *anima* here is probably “life”.
+- Wisdom 11:7 and 18:5 — this pass rendered *traductio* as “rebuke” in both; 17:14 (above) uses the same noun and should be decided with them.
+
+## Data
+
+- Many Sirach SRC fields carry an appended “· Translation note. …” inside the Latin (1:8, 1:9, 1:14, 2:18, 3:14, 4:17, 4:22, 5:3, 5:5, 6:12, 6:22, 7:18, 7:23, 7:31). They should live outside the source field.
+- Sirach 5:5 SRC reads *propitiatio peccato*; the Clementine has *propitiato peccato* (transcription slip; English already follows the correct reading).
+- Sirach 1:15 is a placeholder row (“No aligned Latin source passage” / “No corresponding passage is supplied…”); 6:35 is a locked placeholder.
+- Rows follow Greek numbering, so several Vulgate-only verses have no row (e.g. Vulg. Sir 1:5, 1:24, 1:32, 1:35, 2:21–23, 3:10, 4:19, 4:21, 5:7). Visible effects: Sir 2:18 opens a quotation that never closes; Sir 3:8 ends with a comma before an unrelated verse; Sir 5:6 closes a quote the Latin continues.
+- Duplicate cards: Wisdom 19:13/19:14 (vg-wisdom-of-solomon-19-13) and 19:21/19:22 (vg-wisdom-of-solomon-19-20) repeat the same verse.
+- Stray pericope brackets “[” / “]” appear at the start/end of many SRC lines (harmless, English unaffected).
+
+## Sirach 9–26
+
+# latin-036 (Sirach 9–26) notes
+
+## For a specialist / editorial decision (not changed)
+- Sirach 22:5 — *ab impiis non minorabitur*: the column reads “will not be held in less regard by the ungodly” (ab = agent); Douay takes it comparatively (“will not be inferior to the ungodly”), which fits the sense better. Worth a Latin review.
+- Sirach 17:22 — *quasi signaculum cum ipso*: English capitalises “with Him” (God); the Latin could also mean “with him” (the almsgiver). Editorial call.
+- Sirach 19:13–14 — “lest he perhaps has not understood and says …” / “lest perhaps he did not say it” keep the Douay-style *ne forte* and sound odd aloud; left alone, but they could be smoothed if the column wants that.
+- Sirach 20:9 — *processio in malis* rendered “progress amid troubles”; Douay has “success in evil things”. Both are defensible.
+
+## Data problems (Vulgate verses with no row, so the English dangles)
+- 11:19 ends with a comma; Vulgate 11:20 (*et non scit quod tempus praeteriet…*) is missing, so the sentence never finishes. (Vulgate 11:15–16 and 11:23 are also absent.)
+- 16:17 opens a quotation (“I will hide from God; …?) that is never closed; Vulgate 16:17 (*in populo magno non agnoscar…*) is missing.
+- 17:17 ends with a comma; Vulgate 17:15 (*et pars Dei Israel facta est manifesta*) is missing.
+- 22:18 ends with a comma; the “so also a timid heart…” clause (Vulgate 22:22–23) is missing.
+- 23:14 ends with a comma; Vulgate 23:19 is missing. 23:18 opens “Who sees me? with no closing quote; Vulgate 23:26 is missing.
+- 24:6 ends “and among every people” and 24:7 starts “With power I trod…”; Vulgate 24:10 (*et in omni gente primatum habui*) is missing, so the two rows run together wrongly aloud.
+- 22:17 is a placeholder row (“No aligned Latin source passage”) and is not marked LOCKED.
+- Apostrophes are mostly straight (') in this chunk, but 23:19 and 25:22 use the curly ’.
+
+## Sirach 27–43
+
+# latin-037 (Sirach 27–43) notes
+
+- Data: many SRC lines carry stray `[` / `]` brackets at section edges (e.g. 27:3, 27:22, 28:12–13); they are in the Latin only, not the English.
+- Data: several Vulgate verses have no row of their own (e.g. Vulgate 27:19, 27:24, 28:7, 28:9, 29:8–9, 30:20, 31:13, 33:13b); check the alignment is intentional.
+- Data: 29:13 SRC/EN hold only “Super scutum potentis” (“More than the shield of a mighty man”); the rest of Vulgate 29:16 (“et super lanceam … pugnabit”) is missing.
+- Data: 33:13 SRC/EN give only the first clause of Vulgate 33:13; “omnes viæ ejus … secundum judicium suum” is missing.
+- 41:20: the translation note says “before God’s truth and covenant”, but the EN says “of God’s truth and covenant”; the two should match. Also “of reclining upon the bread” (de discubitu in panibus) sounds odd aloud. Douay has “leaning with thy elbow upon bread”. This needs an editorial decision.
+- 38:33: “they will not spring forward into the assembly” (in ecclesiam non transilient). The phrase is literal but unclear aloud; consider “go up into the assembly” (Douay).
+- 38:34: “they will not be found among parables”. Consider “where parables are spoken”.
+- 40:6: “as though he were under observation by day” (quasi in die respectus). The Latin may mean that he is keeping watch, not being watched. A specialist should check this.
+- 30:14: “scourged by illness” for flagellatus malitia is interpretive; the Latin is “afflicted by evil”. Left as is.
+
+## Sirach 44–51; Isaiah 1–13
+
+# latin-038 notes (Sirach 44–51; Isaiah 1–13)
+
+- Sirach 45:6 (Vg 45:7): similem sibi is reflexive and most naturally means “like himself” (God’s subject), not “like him” (Moses) as the 9 November note chose; “made him like him” is also unclear aloud. Editorial decision.
+- Sirach 45:8 (Vg 45:9): “crowned him with splendid furnishings” for coronavit eum in vasis virtutis sounds odd aloud (Douay: “majestic attire”). Worth a look.
+- Sirach 46:5 (Vg 46:6): valde fortis may go with virtutis (“hailstones of very great power”, Douay) rather than with God as the English has it. Specialist check.
+- Sirach 47:6 (Vg 47:7): singular glorificavit/laudavit is rendered with God as subject (“He”), which makes “praised him with the Lord’s blessings” awkward; the people/women may be meant. Editorial decision.
+- Isaiah 5:10: “jugera” and “modii” are opaque to listeners; consider “acres” / “bushels” (Douay) if the column does not deliberately keep Latin units.
+- Isaiah 6:2: velabant faciem ejus / pedes ejus — ejus (not suam) allows Jerome’s reading that the seraphim veil God’s face and feet; English “his” (lowercase) settles it the other way. Editorial decision on capitalisation.
+- Isaiah 8:2: Latin has Zachariam filium Barachiae; English uses the Hebrew form “Jeberechiah”. Left as the column’s spelling; flag if the column should follow the Latin form here.
+- Data: several Sirach SRC lines carry stray “[” / “]” bracket marks and appended “Translation note.” text (e.g. 44:15, 44:16, 45:5); English rows are unaffected.
+
+## Isaiah 14–39
+
+# latin-039 (Isaiah 14–39) notes
+
+- Isaiah 14:12: Latin has the proper name *Lucifer*; the column renders it “morning star”. Editorial decision whether the Vulgate column should keep “Lucifer” here (not changed).
+- Isaiah 16:1: *dominatorem terræ* is rendered “the ruler of the land”; the traditional (Advent) reading of the Vulgate is “ruler of the earth”. Editorial call (not changed).
+- Isaiah 24:14: *hinnient de mari* (literally “they will neigh from the sea”) is smoothed to “they will cry out”; the Vulgate image is lost, but “neigh” is awkward aloud. Left for an editor.
+- Isaiah 25:11: same *sub eo* as 25:10 (“beneath Him”) is rendered “beneath him” here, and the EN switches subject mid-verse (Moab stretches, “He” humbles) though the Latin has one subject for both verbs. Ambiguous verse; read aloud the him/He shift is hard to follow. Needs a specialist decision (not changed).
+- Isaiah 20:1: Latin *Thathan*; column has “Tartan”. Kept the column spelling.
+- Data: the column uses straight apostrophes in possessives (e.g. “Lord's”) alongside curly quotes; left untouched.
+
+## Isaiah 40–64
+
+# latin-040 · Isaiah 40–64 · notes
+
+## For a specialist (not changed)
+
+- Isaiah 45:4 — *assimilavi te* is rendered “I have designated you”; the Latin says “I have likened you” (Douay “I have made a likeness of thee”). “Designated” follows the Hebrew *akhannekha* (“I have surnamed you”).
+- Isaiah 53:2 — “yet we desired him:” for *et desideravimus eum* makes a contrast the Latin does not mark, and it pulls against “no attractiveness”. Douay reads it as a result (“that we should be desirous of him”). Needs a decision.
+- Isaiah 48:14 — *faciet voluntatem suam … et brachium suum* is rendered “His will … His arm” (capitalised, so God’s). The reflexive more naturally points to the one the Lord loves (Cyrus). Douay leaves it ambiguous with lowercase “his”.
+- Isaiah 57:16 — *flatus ego faciam* is rendered “I will make the breath of life”. “Of life” is an interpretive addition (Douay “breathings I will make”).
+- Isaiah 63:1–2 — inconsistent capitals in one exchange: 63:1 has “his robe … his strength” and 63:2 has “Your clothing … Your garments”. Same speaker. Pick one.
+- Isaiah 64:9 — *facta est deserta, Sion deserta facta est* repeats *deserta*; the English varies it (“deserted … wilderness”). Low priority.
+
+## Data
+
+- **Vulgate Isaiah 64:1 is missing.** *Utinam dirumperes cælos, et descenderes! a facie tua montes defluerent* is in neither the 63:19 row nor the 64:1 row. The 64:1 row (card vl-isaiah-64-2) starts mid-sentence (“melt as at fire’s burning…”, *tabescerent* with no subject), so read aloud it is a fragment. Restoring the Vulgate verse, or a fuller rendering, is an editorial job. Not changed here.
+- Isaiah 43:3 SRC reads *Æthopiam*; the Clementine has *Æthiopiam* (transcription slip; the English is correct).
+- Stray pericope brackets “[” / “]” appear in many SRC lines, including mid-line in 57:13. Harmless; the English is unaffected.
+- The column mixes straight (') and curly (’) apostrophes, e.g. 53:10 “Lord’s” vs “Lord's” elsewhere. Not touched.
