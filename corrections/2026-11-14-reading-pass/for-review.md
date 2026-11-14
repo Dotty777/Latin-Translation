@@ -114,3 +114,58 @@ Data:
 - Editorial: in 21:14 “because you have violated her” renders humiliasti (Douay “humbled her”). The modern sense of “violated” is stronger than the Latin. Left unchanged.
 - Spoken (left): 15:18 “he has served you at the worth of a hired worker’s wages” (juxta mercedem mercenarii) is a little stiff aloud but can be followed.
 - Specialist (left): 5:24 “a human being can live when God speaks with him” generalises vixerit homo (“man has lived”), the experience they have just had. It is defensible next to 5:26, so it was left.
+
+## Deuteronomy 22–34; Joshua 1–5
+
+# latin-009 notes (Deuteronomy 22–34; Joshua 1–5)
+
+- Data: Deuteronomy 23:25 and 23:26 look swapped against the Greek/Hebrew order. Row 23:25 carries vg 23:25 (the standing grain) and row 23:26 carries vg 23:24 (the vineyard). In the Greek and Hebrew, 23:25 is the vineyard and 23:26 is the grain. Neither row was changed.
+- Data: Joshua 4:23 EN also contains Vulgate 4:24 (“just as He had done before at the Red Sea …”), which is not in the row’s SRC. No row carries vg-joshua-4-24, because the Joshua 4:24 row is vg-joshua-4-25. Left as is.
+- Data: Joshua 5:14 EN also contains Vulgate 5:15 (Joshua falls facedown and asks “What does my lord say …”), which is not in the SRC. The Joshua 5:15 row is vg-joshua-5-16. Left as is.
+- Data (harmless): the Deuteronomy 32–33 SRC keeps the Clementine canticle brackets [ ]. Deuteronomy 26:13 SRC has the Clementine misprint “Domini Deo tui”. The EN is unaffected in both places.
+- Editorial: Deuteronomy 33:5 renders apud rectissimum (singular, the Vulgate’s Jeshurun) as “among the most upright”. “With the most upright one” would match 33:26 (“the God of the most upright”). Left unchanged.
+- Editorial: Confortare et esto robustus is “Be strong and resolute” in Deuteronomy 31:7 and 31:23 but “Take courage and be strong” in Joshua 1:6, 1:7 and 1:9, where the Joshua passage echoes Deuteronomy 31. The column may want one rendering. Also, Joshua marks speech with quotation marks but Deuteronomy uses a colon with no quotes.
+- Spoken (left): Deuteronomy 27:20 “uncovers the covering of his bed” (lectuli ejus = the father’s) has the same ambiguity that was fixed in 23:1, but the context makes it clear. Deuteronomy 26:1 “take possession of it and live there” sounds like a command, though the Latin is part of the “when” clause. It does no harm.
+
+## Joshua 6–21
+
+# latin-010 notes (Joshua 6–21)
+
+## Editorial / specialist (not changed)
+- Joshua 7:25: “may the Lord drive you out in trouble today” for *exturbet te Dominus* reads oddly aloud; it seems to be trying to keep the *turbasti/exturbet* wordplay. Douay has “the Lord trouble thee this day”. Possibly a 9 November reading, so left alone; worth an editor’s look.
+- Joshua 13:1–12: God’s speech opens at 13:1 and closes at 13:12, so God speaks of “Moses, the Lord’s servant” (13:8) and “Moses struck them down” (13:12). The Latin sentence runs on from 13:7 into 13:8, so there is no clean break, but most versions end the speech at 13:7. Needs an editorial decision across two or three rows.
+- Joshua 14:15: *Adam maximus ibi inter Enacim situs est* can mean either “Adam, the greatest among the Anakim, was laid there” (Douay) or “Adam the great was laid there among the Anakim” (Jerome’s Adam-at-Hebron tradition). The current English follows the second reading. Kept.
+
+## Data problems
+- Clementine verses with no row in this chunk: 6:4, 8:13, 8:26, 10:15, 13:33, 20:4–6. They are already listed in `..\latin\corrections\2026-11-09-full-review\vulgate-verses-not-in-record.json`.
+- Duplicate locked rows repeat the same Latin and English: 15:59/15:59a; 19:47/47a (Vulgate 19:48) and 19:48/48a (Vulgate 19:47), which also puts 19:48 before 19:47; 21:36/21:37 (both Vulgate 21:36); 21:38/21:39 (both Vulgate 21:37); and 21:42–42d (all Vulgate 21:40). The site probably shows these verses twice or more.
+- Locked 21:36 spells names differently from the rest of the column: “Jaser” (Jazer elsewhere: 13:25, 21:37) and “Jethson” (Jahaz in 13:18). Fix this when the duplicate rows are unlocked.
+- The source text has stray square brackets in 10:12 (“[Sol”) and 10:13 (“suis.]”). The English correctly leaves them out.
+
+## Joshua 22–24; Judges 1–13
+
+# latin-011 notes (Joshua 22–24; Judges 1–13)
+
+- Judges 5:31: EN ends with “The land had rest for forty years.” That sentence is Clementine Judges 5:32 (Quievitque terra per quadraginta annos), which has no row of its own and is not in this row's SRC. Left unchanged so the sentence is not lost; editorial/data decision needed (add a 5:32 row or accept the merge).
+- Joshua 24:29–31 and 24:33: rows follow the Greek order with Vulgate 24:29/30/31 shuffled and shared LOCKED cards (24:31/31a, 24:33/33a/33b) duplicating the same text. Not touched; worth a data check.
+- Joshua 22:24: “that we said” for ut diceremus (“that we should say”) slightly suggests the words were actually spoken; acceptable, left for an editor.
+- Judges 1:30, 1:33, 1:35: “became subject to their/his/its tribute” for factus est ei tributarius is a little opaque aloud (“became tributary to them”); left as a column convention.
+- Judges 8:7, 8:16: “tear” for conteram/contrivit (crush, grind) follows the Hebrew-influenced image; left.
+- The column uses straight apostrophes (Lord's) throughout, against house style ’; my edits introduce no new apostrophes. A global pass may be wanted.
+
+## Judges 14–21; Ruth 1–4; 1 Samuel 1–8
+
+# latin-012 notes (Judges 14–21; Ruth 1–4; 1 Samuel 1–8)
+
+## For a specialist / editorial decision (not changed)
+- 1 Samuel 7:14 — EN “Israel rescued them from the hand of the Philistines” follows the Hebrew (Israel delivered their territory). The Latin *liberavitque Israël de manu Philisthinorum* has no “them” and Douay reads “and he delivered Israel”; decide whether to render the Vulgate as “and He delivered Israel…”.
+- Judges 18:19 — *in una tribu* (“in one tribe”) is set against *unius viri*; EN “in a tribe” keeps the contrast loosely. Optional.
+- 1 Samuel 2:3 — EN “let the old boasts leave your mouths” adds “boasts”; Latin *vetera* is just “old things” (Douay “old matters”). Left as a fair reading.
+- 1 Samuel 1:26 — *coram te* is “before you”; EN “beside you” follows the Hebrew. Small; left.
+- 1 Samuel 4:18 — *juxta ostium* is “by the door”; EN has “beside the gate” (Hebrew). Small; left.
+
+## Data problems
+- Judges 16:8 SRC reads *quibus vinxit eam* (“her”); the Clementine reads *eum*. Probably a transcription error in the source text. EN correctly has “him”.
+- 1 Samuel 2:10 SRC ends with a stray “]” (*christi sui.]*) with no opening bracket.
+- 1 Samuel 4:21 SRC has *vocabit* (future); the sense, and EN, is past (*vocavit*).
+- The column in this chunk uses straight apostrophes (’ house style not applied); my edits add no new apostrophes.
