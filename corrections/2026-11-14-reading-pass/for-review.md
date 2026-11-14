@@ -760,6 +760,24 @@ Possible editorial decisions (not changed)
 - Some verses render “Dominus Deus exercituum” as “the Lord, the God of hosts” (Hosea 12:6, Amos 5:16) and others as “the Lord God of hosts” (Amos 5:14–15, 6:8, 9:5). The brief’s rule is Dominus Deus = the Lord God. The meaning is the same, so I left them alone.
 - Amos 4:1 “Afferte, et bibemus” is rendered as “Bring us drink.” A more literal reading is “Bring, and we will drink.” The meaning is close, so I left it.
 
+## Nahum 1–3; Habakkuk 1–3; Zephaniah 1–3; Haggai 1–2; Zechariah 1–14; Malachi 1–3
+
+# latin-049 notes (Nahum–Malachi)
+
+## For a specialist or editorial decision (not changed)
+- Nahum 2:3 (vg 2:2): “restored the pride of Jacob” for reddidit Dominus superbiam Jacob; Douay has “rendered” (repaid), and Jerome can be read either way. Worth a decision.
+- Habakkuk 1:12: “made him strong in order to correct us” adds “us”; the Latin (ut corriperes) has no object.
+- Habakkuk 1:11: “This is its strength, belonging to its god” is awkward aloud (hæc est fortitudo ejus dei sui); Douay “the strength of his god.” Left as is.
+- Haggai 1:13: de nuntiis Domini rendered “with the Lord’s messages”; Douay reads “as one of the messengers of the Lord.” Ambiguous Latin.
+- Zechariah 10:4: omnis exactor rendered “every ruler,” while the same word is “oppressor” in 9:8. Probably deliberate (positive reading), but inconsistent.
+- Zechariah 14:5: “as far as the nearby place” (usque ad proximum) is a little opaque aloud.
+
+## Data problems
+- Malachi 3:16–18 and Malachi 4:1–6 (Clementine) are not in this chunk, and latin-050 starts at 1 Maccabees. These rows seem to be missing from the pass.
+- vulgate_reference values are off by one verse throughout Zephaniah 2–3, Haggai 1:15–2:23 and Zechariah 1–14 (e.g. Zephaniah 2:1 shows 2:2, Zechariah 1:1 shows 1:2), while the card ids follow the correct Vulgate numbering. Zechariah 8:18 shows vulgate_reference 7:5, which is clearly wrong. Zephaniah 3:20 and Zechariah 14:21 have none. Probably linked to the Vulgate chapter split work.
+- SRC lines carry stray “[” and “]” markers (e.g. Nahum 1:2, 2:1, Habakkuk 1:11), apparently from a source markup.
+- The column mixes straight ' and curly ’ apostrophes (mostly straight, e.g. “Lord's”; curly in Habakkuk 2:14 and Zechariah 7:2).
+
 ## 1 Maccabees 1–8
 
 # latin-050 (1 Maccabees 1–8) · notes
@@ -809,6 +827,23 @@ Not changed; for a specialist or an editorial decision:
 
 Data: none of the rows I changed carries a bracketed tag. The 2:19–2:32 rows have vulgate_reference values one higher than the row numbers (2:20–2:33). That is expected and was left as it is.
 
+## 2 Maccabees 15–15; Matthew 1–13
+
+# latin-053 notes (2 Maccabees 15; Matthew 1–13)
+
+## Data problems
+- 2 Maccabees 15:36–37: Vulgate 15:37 (*habere autem celebritatem tertiadecima die mensis Adar … pridie Mardochæi diei*) has no row. Row 15:37 maps to Vulgate 15:38, so the date of the feast (13 Adar, the day before Mordecai’s day) never appears, and the EN for 15:36 ends on a comma. This needs a row or a merge (not changed, because content can’t be moved between rows).
+- Matthew 11:3 and 11:17 are empty LOCKED rows; their Latin sits in the rows above, marked [vulgate_reference]. That looks intentional.
+
+## Editorial decisions (not changed)
+- Register: Matthew 1 and 5–7 (plus 12:23 and 13:28–30) are modern, with curly quotes around speech. Matthew 2–4 and 8–13 are lightly modernised Douay-Rheims with no quote marks (“shall”, “went you out”, “sick of the palsy”, “wrought”). I changed only the archaisms that mislead a listener. Whether to bring the whole of Matthew into one register is an editorial call.
+- Spellings within the chunk don’t agree: “Bethlehem of Juda” (2:1, 2:6) vs “of Judah” (2:5); “Nephthalim” next to “Zebulun” (4:13, 4:15). I left these alone.
+- 4:1 “led by the spirit” and 10:20 “the spirit of your Father” use a lower-case s, but 3:16 and 12:28 have “Spirit of God”. Changing only the capitals is outside this pass’s scope.
+- The same Latin is rendered differently: *appropinquavit regnum cælorum* is “has drawn near” (3:2) but “is near” (4:17, 10:7); *consummatio sæculi* is “end of the world” (13:39, 13:49) but “end of the age” (13:40).
+- 10:29 “sold for an as”: the coin name is hard to follow aloud. A note or a gloss (“a single as coin”) might help. I kept it to match “quadrans” in 5:26.
+- 6:9 “Our Father, who is in heaven” turns *qui es* (second person) into third person. This is common modern usage, so I kept it.
+- 12:44 “garnished” (*ornatam*) and 9:24 “Give place” (*Recedite*) are dated but still understandable. I left them.
+
 ## Matthew 14–25
 
 # latin-054 (Matthew 14–25:42) notes
@@ -826,3 +861,136 @@ Data: none of the rows I changed carries a bracketed tag. The 2:19–2:32 rows h
 - Douay “seduce” for seducere (24:4, 24:5, 24:11) can sound sexual to modern listeners; “lead astray” would avoid that. Left unchanged.
 - 25:40 “as long as you did it” (quamdiu): modern listeners may hear this as time (“for as long as”) rather than “inasmuch as”. It’s a well-known Douay phrase, so it was left unchanged.
 - 25:27 “with usury” (cum usura = interest) and 23:25 “rapine” are archaic. Left unchanged.
+
+## Matthew 26–28; Mark 1–8
+
+# latin-055 notes (Matthew 26–28; Mark 1–8)
+
+## Data problems
+- Matthew 27:43: EN ends with a closing ” (and ’…’ inner quote) but 27:40–42 have no opening “; looks like a fragment of a quoted 9 Nov revision spliced into unquoted Douay text. Needs a punctuation decision across 27:41–43.
+- Matthew 27:4 and 27:63 use curly-quoted dialogue while neighbouring verses (27:64, 27:65, etc.) use the Douay colon style with no quotes; 27:63 closes the speech (’”) that continues in 27:64. Style is mixed within the chapter.
+- Matthew 28 and Mark 1 (the 9 Nov modernised block) use modern wording and “Sabbath”, while Mark 2–8 revert to Douay (“sabbath”, “pasch”, “damsel”, “devil” for daemonium alongside “demons”). Left as is; editorial decision on consistency.
+- Mark 5:39: colon missing after “he says to them” (“says to them Why make you this ado”). Punctuation only, not changed.
+- Matthew 26:58: capital “And” after a comma (“high priest, And going in”). Not changed.
+- Mark 4:41 and Mark 6:28 are LOCKED empty rows (Vulgate numbering: 4:41 is inside 4:40; 6:28 text sits on card mark-6-28 under ref 6:27). Fine, just noting.
+
+## For an editor (not changed)
+- Matthew 26:4 “by subtilty”, Matthew 27:5 “hung himself with an halter”, Mark 6:10 “an house”, Mark 8:6 “for to set before them”: archaic Douay forms that could be modernised in a style pass.
+- Mark 8:33 comminatus est Petro is “threatened Peter”, but the column renders the same verb “rebuked” in Mark 1:25 and “strictly charged” in 8:30; consider “rebuked Peter”.
+- Mark 2:22 “bottles” for utres (wineskins) is Douay; a listener may picture glass bottles.
+- Coasts → territory changed in Mark 5:17, 7:24, 7:31 only (fines); other Douay “coasts” in the column outside this chunk would need the same treatment for consistency.
+
+## Mark 9–16; Luke 1–2
+
+# latin-056 notes (Mark 9–16; Luke 1–2)
+
+- Mark 11:26: “your father that is in heaven” is lowercase, while 11:25 has “your Father”; capitalisation left alone per brief, editor may want to align.
+- Mark 13:3: “mount of Olivet” vs “mount of Olives” in 11:1 and 14:26 for the same Latin (monte Olivarum); left as is (Douay has both), editorial call.
+- Luke 2:28: EN ends “blessed God and said” with no closing colon, unlike the other speech introductions; punctuation only, not changed.
+- Mark 14:67: “seeing Peter warming himself looking on him” lacks a comma after “himself”; reads ambiguously aloud but is punctuation only.
+- Many Douay archaisms remain (“Why tempt you me?”, “Whither will you…”, “fourscore and four”, “waxed strong”, “had her to wife”); left unless they mislead. A wider modernising decision could be made column-wide.
+- Mark 14:24 “my blood of the new covenant” for novi testamenti: column choice from earlier revision; kept.
+
+## Luke 3–11
+
+# latin-057 (Luke 3–11) notes
+
+- Luke 3:26, 3:30, 3:33: Latin Juda / Juda / Judæ rendered “Juda”, “Judas”, “Judas”. In 3:33 this is the patriarch Judah; “Judas” may be heard as Iscariot. Editorial decision on genealogy name spellings (column also mixes modernised forms: Reza, Zerubbabel, Shealtiel, Boaz, Nahshon, Hezron, Perez, against Vulgate forms: Thare, Nachor, Sarug, Henoch, Henos; and 3:28 “Helmadan” for Elmadan, 3:37 “Mathusale” for Methusale).
+- Luke 4:1 and 4:14: “led by the spirit”, “power of the spirit”: lowercase for the Holy Spirit, unlike 3:22 and 4:18. Capitalisation only, not changed.
+- Luke 4:41 “the son of God”, 9:35 “my beloved son”: lowercase, unlike 3:22 “Son”. Not changed.
+- Luke 6:23 “in heaven, For according”: stray capital after a comma. 9:41 “And Jesus, answered” and 9:49 “And John, answered”: stray commas. Punctuation only, not changed.
+- Luke 7:50 “Your faith has made you safe” (salvam fecit) vs 8:48 “made you whole”: “saved you” may be better in 7:50 (forgiveness context). Editorial.
+- Luke 8:22 (9 Nov revision) uses modern prose with curly quotes, unlike the colon-introduced speech of its neighbours. Kept; style consistency is an editorial call.
+- Luke 11:53 “to oppress his mouth about many things” (os ejus opprimere): literal Douay, meaning unclear aloud (to provoke him to speak / stop his mouth). Needs a specialist call.
+- Data: Luke 8:40 SRC reads “erunt enim omnes exspectantes”; Clementine has “erant”. Source typo in the input.
+- Data: rows luke-4-19 and luke-9-43/44 follow Vulgate verse numbering (shown as 4:18, 9:42, 9:43); Luke 4:19 and 9:44 locked empty rows. Expected, noted only.
+- Many further archaic Douay phrasings left as is to avoid churn (e.g. 3:15 “were of opinion”, 4:23 “As great things as we have heard done”, 7:42 “whereas they had not wherewith”, 9:54 “will you that we command”, 11:34/36 “lightsome … darksome”). Could be modernised in a later spoken pass.
+
+## Luke 12–22
+
+# latin-058 (Luke 12–22) notes
+
+## Data problems
+- Luke 17:36 is missing from the input: the row after 17:35 is 17:37 (“Qui dixit illis…”). The Clementine 17:36 (“Respondentes dicunt illi: Ubi, Domine?” / “They answering, say to him: Where, Lord?”) is absent, so 17:37’s “Who said to them” has no antecedent question. Check the card/source data.
+- Luke 22:42 begins with lowercase “saying:” although 22:41 ends with a full stop. Not changed (capitalisation only).
+- Luke 19:12 has lowercase “a certain nobleman” after a colon, unlike the column. Not changed.
+- Luke 20:5 uses ‘ ’ inner quotes for speech, unlike the column’s colon convention; left as is (9 November wording).
+
+## For an editor / specialist (not changed)
+- Luke 16:22 “buried in the underworld” for sepultus est in inferno (Douay: “buried in hell”). Possibly a 9 November choice; editorial decision on how the column renders infernus.
+- Luke 18:5 sugillet me (“beat me black and blue”, i.e. wear me out by striking) is rendered “weary me”; acceptable but flattens the image.
+- Luke 17:33 vivificabit eam (“will give it life”) rendered “shall preserve it” (Douay); could be sharpened.
+- Luke 16:6–7 “An hundred” and 12:58 “exacter” are archaic but not misleading; left.
+- Luke 21:9 “the end is not yet immediately” is awkward for nondum statim finis; left.
+
+## Luke 23–24; John 1–7
+
+# latin-059 notes (Luke 23–24; John 1–7)
+
+## Data problems
+- Luke 23:17 has no row, though the Clementine has it (“Necesse autem habebat dimittere eis per diem festum, unum”). Check whether the card is missing on the site.
+- John 5:4 has no row, though the Clementine has it (the angel stirring the water). Check whether the card is missing on the site.
+- John 6:51–71: references follow the Greek numbering while card ids follow the Vulgate (6:52–72). This looks deliberate, but worth confirming the reader shows the right number.
+- Punctuation and capitals only (not changed, per brief): Luke 24:25 “in all things, Which the prophets have spoken” (stray comma and capital W); John 3:29 “hears Him” (capital H on the bridegroom, unlike the rest of the column); John 4:9 “being a Jew; ask of me” (semicolon should be a comma); John 6:12 “: gather up” (lowercase after colon, unlike neighbours); John 7:2 “Jews' feast” (straight apostrophe); John 7:7 ends with a comma instead of a full stop; John 7:27 stray comma in “no one knows, from where he is.”
+
+## Editorial decisions (not changed)
+- Name spelling: John 1:41 has “Messiah” but John 4:25 has “Messias”. Pick one for the column.
+- John 3:6 “born of the spirit is spirit” (lowercase) next to John 3:8 “born of the Spirit” (capital) for the same ex spiritu: decide on consistent capitalisation.
+- Signa is rendered “signs” in John 2:11/2:23 but “miracles” in 4:54, 6:2, 6:14, 6:26, 7:31 (Douay). Consider a single rendering.
+- John 1:4 “light of humanity” for lux hominum (9 November reading): acceptable, but “of men” would match the column’s other renderings of homines in this chunk.
+
+## John 8–19
+
+# latin-060 (John 8–19) notes
+
+- John 14:10: SRC reads “ipse fecit opera”; the Clementine normally has “facit”. EN “he does the works” left as is; check the source data.
+- John 11:57: LOCKED/empty row; the Clementine places “Dederant autem…” inside 11:56, which the EN already renders. Fine as is.
+- John 17:22: stray comma in “that, they may be one” (punctuation only, not changed).
+- John 18:11: “my father” lower-case, unlike the column’s “Father” elsewhere (capitalisation only, not changed).
+- John 19:28: modern-style sentence with quotation marks (“I thirst.”), unlike the column’s colon style; probably from the 9 Nov revision, left as is.
+- Editorial: the column keeps Douay “Whither” (8:21, 8:22, 13:33, 13:36, 16:5) and many inverted questions (“How say you”, “Whom seek you?”, “Why ask you me?”, “Speak you not to me?”). Worth deciding whether to modernise these across the whole column rather than piecemeal.
+- Editorial: Latinate first-person relatives kept (8:18 “I am one that give testimony”, 8:40 “a man who have spoken”).
+- Editorial: signa is rendered “miracles” (9:16, 11:47, 12:18, 12:37) but “sign” in 10:41; consider one policy.
+
+## John 20–21; Acts 1–11
+
+# latin-061 notes (John 20–21; Acts 1–11)
+
+- Acts 7:45: the Latin *cum Jesu* means Joshua; the EN “brought in with Jesus” follows the Vulgate/Douay literally, but listeners will hear Jesus Christ. Editorial decision: keep, gloss (“Jesus [Joshua]”), or render “Joshua”.
+- Acts 7:27: EN ends with a colon (“… judge over us:”) where the sentence is a question; 7:28 then starts “What!”. Punctuation only, left unchanged.
+- Acts 9:10: “Ananias, And he said:” has a comma before a capitalised new sentence (should probably be “Ananias. And he said:”). Punctuation only, left unchanged.
+- Acts 9:20: “the son of God” is lowercase, while the column writes “Son of God” elsewhere (John 20:31, Acts 8:37). Capitalisation only, left unchanged.
+- Acts 10:36: “(He is Lord of all)” capitalises a pronoun for Jesus, while the column otherwise uses lowercase he/him for Jesus. Left unchanged.
+- Spelling in the EN: “Cæsarea” (Acts 8:40, 9:30, 10:1, 10:24, 11:11) keeps the Latin ligature; “shewing” (Acts 9:39) and “havock” (Acts 8:3) are archaic spellings. Left unchanged under the no-spelling-only rule; a global decision may be wanted.
+- Name forms mix Latin and English (Charan, Sichem, Pharao, Sina, Chanaan alongside Midian for *Madian* in Acts 7:29). Kept as they are.
+- Register is uneven: John 20, John 21:15–25 and parts of Acts 1–2 and 8–9 are modern, while John 21:1–14 and most of Acts 2–11 are lightly modernised Douay. I changed only spots that trip a listener. Other archaisms (“must needs”, “put them in hold”, “treat them evil”, “girt”) were left as they are.
+
+## Acts 12–25
+
+# latin-062 (Acts 12–25) notes
+
+## Data problems
+- Acts 13:30–31: the 13:30 English ends mid-sentence (“seen by those”) and 13:31 is LOCKED with no source or English. The Clementine 13:31 (“qui simul ascenderant cum eo de Galilæa in Jerusalem: qui usque nunc sunt testes ejus ad plebem”) is missing from the data, so the sentence never finishes on the site.
+- Acts 14:17: the English ends with a closing ” but the speech it closes (14:15) has no opening quotation mark; the 9 November rework seems to have mixed styles. Not changed (punctuation only).
+- Acts 15:28–29 and 20:28: wrapped in curly quotation marks, while the surrounding speech/letter (15:23–27, 20:18–35) uses the Douay colon style with no quotes. Needs one convention per passage.
+- Acts 16:5 source reads “abundabunt” (future); the Clementine has “abundabant”. Source typo; English (“increased”) is right.
+- Acts 19:15 has a stray comma between subject and verb (“the wicked spirit, answered them”). Not changed (punctuation only).
+
+## Editorial decisions (not changed)
+- Acts 15:2 “certain others of the other side” (Challoner) for quidam alii ex aliis: the Latin means “some others of the rest”; “other side” can be heard as the opposing party. Decide whether to keep Challoner.
+- Acts 18:18 “having shorn his head in Cenchrae”: the Latin qui sibi totonderat is ambiguous (Paul or Aquila); the English settles it on Paul. Douay kept “who had shorn”. Needs a decision.
+- Acts 24:14 “according to the way which they call a heresy” for secundum sectam: Latin says “sect”, not “way”. Long-standing Douay wording; left as is.
+- Changed 12:3, 12:4 and 20:6 (Azymes/pasch → Unleavened Bread/Passover) and 13:50, 19:1 (coasts → borders/regions). If the column keeps these Douay terms elsewhere (Gospels, Acts 1–11), make the same change there or revert these for consistency.
+
+## Acts 26–28; Romans 1–14
+
+# latin-063 notes (Acts 26–28; Romans 1–14)
+
+- Romans 7:1 — “as long as it lives” (Douay) makes the law the subject; Latin vivit is ambiguous, but 7:2–3 point to the man (“as long as he lives”). Editorial decision; not changed.
+- Acts 27:21 — “and have gained this harm and loss” keeps Douay for lucri facere, which here means to have been spared the loss; heard aloud it can mean the opposite. Worth a specialist look.
+- Romans 5:18 — the 9 November revision has “justification and life”; the Latin is justificationem vitae (“justification of life”). Defensible paraphrase; left.
+- Romans 8:14–23 — filii is “children” in 8:14, 8:16, 8:21 but “sons” in 8:19, 8:23 (and 9:26). Mixed after the 9 November revision; consider a consistent choice.
+- Romans 14:23 — “he that discerns” (Douay for qui discernit) means the one who doubts or hesitates; may need a clearer rendering.
+- Romans 12:17 — revision drops the “not only … but also” of non tantum coram Deo, sed etiam coram omnibus; minor, left.
+- Data: spelling mixes US and British forms within the chunk (honor/dishonor vs dishonour, offence, neighbour, counsellor); left as is per brief.
+- Data: archaic inverted questions/imperatives remain in places (e.g. Romans 13:14 “put you on”); only the hardest to follow aloud were changed.

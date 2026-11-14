@@ -2,7 +2,7 @@
 
 Continues the Genesis pass of 13 November across the rest of the Bible. Every row was read against the Clementine Latin, for fidelity first and clarity when read aloud second. Readings were changed only where the English said something the source does not (major), lost something the source does deliberately (minor), or was hard to follow aloud (spoken).
 
-So far: 35 books, 24,067 rows reviewed, 203 readings revised (5 major, 85 minor, 113 spoken).
+So far: 47 books, 29,869 rows reviewed, 424 readings revised (7 major, 110 minor, 307 spoken).
 
 | Book | Rows reviewed | Revised | Major | Minor | Spoken | On staging |
 | --- | ---: | ---: | ---: | ---: | ---: | --- |
@@ -40,7 +40,19 @@ So far: 35 books, 24,067 rows reviewed, 203 readings revised (5 major, 85 minor,
 | Obadiah | 21 | 0 | 0 | 0 | 0 | pending |
 | Jonah | 48 | 0 | 0 | 0 | 0 | pending |
 | Micah | 105 | 1 | 0 | 0 | 1 | pending |
+| Nahum | 47 | 0 | 0 | 0 | 0 | pending |
+| Habakkuk | 56 | 0 | 0 | 0 | 0 | pending |
+| Zephaniah | 53 | 1 | 0 | 1 | 0 | pending |
+| Haggai | 38 | 0 | 0 | 0 | 0 | pending |
+| Zechariah | 211 | 2 | 0 | 1 | 1 | pending |
+| Malachi | 55 | 0 | 0 | 0 | 0 | pending |
 | 1 Maccabees | 924 | 5 | 0 | 2 | 3 | pending |
+| 2 Maccabees | 555 | 3 | 0 | 0 | 3 | pending |
+| Matthew | 1,071 | 50 | 0 | 4 | 46 | pending |
+| Mark | 679 | 24 | 0 | 0 | 24 | pending |
+| Luke | 1,151 | 62 | 1 | 9 | 52 | pending |
+| John | 879 | 42 | 0 | 9 | 33 | pending |
+| Acts | 1,007 | 37 | 1 | 1 | 35 | pending |
 
 Rows that could not be revised safely were shown to the reviewers for context but locked: rows with no source text or no English, placeholder rows (“No MT counterpart …”), rows sharing one site card, and grouped Vulgate verses. Bracketed tags inside readings (“[BHS 3:1]”, “[Aramaic]”) were kept exactly.
 
