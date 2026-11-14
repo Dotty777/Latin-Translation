@@ -2,7 +2,7 @@
 
 Continues the Genesis pass of 13 November across the rest of the Bible. Every row was read against the Clementine Latin, for fidelity first and clarity when read aloud second. Readings were changed only where the English said something the source does not (major), lost something the source does deliberately (minor), or was hard to follow aloud (spoken).
 
-So far: 23 books, 18,097 rows reviewed, 160 readings revised (3 major, 60 minor, 97 spoken).
+So far: 26 books, 20,835 rows reviewed, 180 readings revised (4 major, 71 minor, 105 spoken).
 
 | Book | Rows reviewed | Revised | Major | Minor | Spoken | On staging |
 | --- | ---: | ---: | ---: | ---: | ---: | --- |
@@ -29,6 +29,9 @@ So far: 23 books, 18,097 rows reviewed, 160 readings revised (3 major, 60 minor,
 | Song of Songs | 117 | 0 | 0 | 0 | 0 | pending |
 | Wisdom of Solomon | 435 | 7 | 1 | 3 | 3 | pending |
 | Sirach | 1,366 | 14 | 0 | 3 | 11 | pending |
+| Isaiah | 1,289 | 9 | 0 | 8 | 1 | pending |
+| Jeremiah | 1,299 | 11 | 1 | 3 | 7 | pending |
+| Lamentations | 150 | 0 | 0 | 0 | 0 | pending |
 
 Rows that could not be revised safely were shown to the reviewers for context but locked: rows with no source text or no English, placeholder rows (“No MT counterpart …”), rows sharing one site card, and grouped Vulgate verses. Bracketed tags inside readings (“[BHS 3:1]”, “[Aramaic]”) were kept exactly.
 

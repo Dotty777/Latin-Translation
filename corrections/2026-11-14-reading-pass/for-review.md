@@ -621,3 +621,77 @@ Possible editorial decisions (not changed)
 - Isaiah 43:3 SRC reads *Æthopiam*; the Clementine has *Æthiopiam* (transcription slip; the English is correct).
 - Stray pericope brackets “[” / “]” appear in many SRC lines, including mid-line in 57:13. Harmless; the English is unaffected.
 - The column mixes straight (') and curly (’) apostrophes, e.g. 53:10 “Lord’s” vs “Lord's” elsewhere. Not touched.
+
+## Isaiah 65–66; Jeremiah 1–17
+
+# latin-041 notes (Isaiah 65–66; Jeremiah 1–17)
+
+## For a specialist / editorial decision (not changed)
+- Isaiah 65:7 — *remetiar opus eorum primum*: EN takes *primum* as an adverb (“I will first measure”); Douay reads it with *opus* (“their first work”). Both are defensible; left as is.
+- Jeremiah 15:17 — *Non sedi … et gloriatus sum a facie manus tuæ*: EN gives a positive “I gloried”; Douay carries the negative over (“nor did I make a boast”). Scope of *non* worth a specialist’s look.
+- Jeremiah 2:33 — “you have even taught your ways your own wickedness” is hard to follow aloud; the Latin double accusative is ambiguous (Douay reverses it), so not changed.
+- Jeremiah 15:4 — “an object of agitation” for *in fervorem* is a little opaque aloud (Douay “to be tossed”); left for an editorial call.
+
+## Data problems
+- Jeremiah 7:28 row (card vl-jeremiah-7-27, LOCKED) repeats Vulgate 7:27; the Vulgate’s own 7:28 (*Et dices ad eos: Hæc est gens quæ non audivit…*) does not appear in any row.
+- No rows for Vulgate Jer 2:1, 7:1, 8:11–12, 10:6–8, 10:10, 11:7, 17:1–4 (verses absent from the Greek, so the Latin text there is not shown anywhere).
+- SRC carries editorial speech brackets and stray closing “]” (e.g. Isa 65:25, 66:24, throughout Jeremiah); harmless but not Clementine text.
+- EN column in this chunk uses straight apostrophes (e.g. “Lord's”) against the curly-apostrophe house style; not changed, as punctuation-only edits are out of scope.
+
+## Jeremiah 18–35
+
+# latin-042 · Jeremiah 18–35 (Greek row order) · notes
+
+## For a specialist or editor (not changed)
+
+- Jeremiah 19:1 (changed, major): I read *accipe … a senioribus populi* as partitive, following Douay and 19:10. Please confirm. The Latin has no *et*, so some readers take it as “from the elders”.
+- Jeremiah 20:10: the English gives “Pursue him! Let us pursue him!” to the “many”, then has the friends say “Perhaps he may be deceived…”. In the Latin both cries come *ab omnibus viris qui erant pacifici mei*. This is defensible, but it is an editorial call.
+- Jeremiah 18:8: *a malo suo quod locutus sum adversus eam* reads “from the evil against which I have spoken”, which drops *suo* (“its own evil”). Low priority.
+
+## Data / consistency
+
+- Jeremiah 25:14 (card vl-jeremiah-49-34): the SRC reads *Quod facum est*. The Clementine has *factum* (transcription slip; the English is correct).
+- Inconsistent house style across the chunk. In 18:1–25:13 and 32:29–35:17 the column uses “Look” and straight apostrophes ('). In the Greek-order oracle blocks (25:15–31:44, plus 32:15ff) it uses “Behold” and curly ’. Worth a global pass.
+- Jeremiah 23:9–23:40: 23:9 opens with no quotation mark, but 23:11 opens one (“) and 23:40 closes it. The quote marks are unbalanced.
+- These rows are absent from the input, not merely empty: 26:1, 26:26, 28:45–48, 30:22, 32:1–12, 32:14, 34:1, 34:7, 34:13, 34:17, 34:21. This presumably follows the Greek row order and the shorter Greek text. Rows 25:20 and 32:13 are LOCKED with no source.
+
+## Jeremiah 36–52; Lamentations 1–2
+
+# latin-043 notes (Jeremiah 36–52 [Vulgate 29–45, 52]; Lamentations 1–2)
+
+## Editorial / specialist questions (not changed)
+- Lamentations 1:18: “I provoked His word to anger” renders *os ejus ad iracundiam provocavi* (literally “His mouth”). The hybrid reads oddly aloud; decide between the literal image (“His mouth”) and a sense rendering (e.g. “I defied His word”).
+- Jeremiah 38:7 (Vulg 31:7): *hinnite* (“neigh”) is rendered “cry aloud”, which drops the Vulgate image. Probably right for listeners, but it is an editorial call.
+- Jeremiah 38:33 (Vulg 31:33): *in visceribus eorum* is rendered “within them”, which drops “inward parts”. Acceptable, but this is a famous verse, so it may deserve the literal image.
+- Jeremiah 43:23 (Vulg 36:23): the English supplies “the king” as the one who cut the scroll (the Latin just has *scidit*). It is the standard reading, but it is an addition.
+- Jeremiah 48:7 (Vulg 41:7): *circa medium laci* (“in the middle of the cistern”) is softened to “at the cistern”.
+
+## Data problems
+- Wrong `vulgate_reference` on three identical “Et factum est verbum Domini ad Jeremiam, dicens” rows. These look like text-matching collisions:
+  - Jeremiah 36:30 (card vl-jeremiah-29-30) shows 35:12.
+  - Jeremiah 39:26 (vl-jeremiah-32-26) shows 29:30.
+  - Jeremiah 42:12 (vl-jeremiah-35-12) shows 29:30.
+- Jeremiah 52:8: the SRC has the typo “Chadæorum” (for Chaldæorum).
+- Straight apostrophes (') appear in several EN rows instead of the house ’. Not changed, per the punctuation rule:
+  - Jeremiah 36:22, 36:23, 36:26
+  - Lamentations 1:7, 1:17, 2:7, 2:11, 2:12, 2:20, 2:22
+- Jeremiah 44:5 is LOCKED with no source and no English. This is expected: Vulgate 37:3 already holds the Pharaoh sentence.
+
+## Lamentations 3–5; Ezekiel 1–17
+
+# latin-044 notes (Lamentations 3–5; Ezekiel 1–17:18)
+
+## For a specialist or an editorial decision (not changed)
+- Lamentations 4:20: “the anointed Lord” for *christus Dominus*. Douay has “Christ the Lord”, and the Hebrew means “the Lord’s anointed”. The current wording is literal but could be heard as calling God “anointed”. This needs a column-wide decision.
+- Lamentations 4:3: “lamias” keeps the Vulgate’s *lamiæ*. Listeners may not know the word. Leave it, or gloss it as “sea monsters/jackals”?
+- Lamentations 4:14: “When they were unable, they clutched their garments” is obscure aloud. *cumque non possent* is elliptical, and Douay supplies “could not help walking in it”.
+- Lamentations 3:65: “Your affliction” for *laborem tuum* is acceptable, but “Your labour/toil” is closer to the Latin.
+- Ezekiel 2:5, 2:7, 3:11, 12:3: *si forte* is rendered “in case (they may listen)”. Aloud this can sound like “as a precaution”, and “if perhaps” is clearer. The wording recurs, so I left it for a consistent decision.
+- Ezekiel 2:4: “Their children are hard-faced” for *et filii dura facie … sunt*. Douay has “they are children of a hard face”. The current wording could be heard as meaning a new generation.
+
+## Data problems
+- Missing rows (no row in input): Lamentations 3:22–24 and 3:29; Ezekiel 1:14; Ezekiel 10:14. Ezekiel 2:1 and 2:10 are LOCKED with no source or English, but the Clementine has text for both (2:1 *Et dixit ad me: Fili hominis, sta super pedes tuos…*).
+- Wrong `vulgate_reference` tags on the repeated formula *Et factus est sermo Domini ad me, dicens*: Ezekiel 7:1 has 6:1; 12:17, 12:21, 12:26 and 13:1 have 12:1; 14:2 and 14:12 have 13:1; 15:1 has 14:2; 16:1 has 15:1; 17:11 has 17:1. They look like they were matched to the first identical text.
+- Stray “[” and “]” in SRC text from the source extraction (for example Lamentations 3:66, 4:22, 5:22; Ezekiel 6:3, 7:2, 12:10–28, 13:2, 14:13, 15:2). The English is unaffected.
+- Ezekiel 7 rows 3–9 follow Greek order (Vulgate 7:6–9 then 7:3–5). The rows match their SRC, so this is noted only.
+- The chunk ends at Ezekiel 17:18.
