@@ -2,7 +2,7 @@
 
 Continues the Genesis pass of 13 November across the rest of the Bible. Every row was read against the Clementine Latin, for fidelity first and clarity when read aloud second. Readings were changed only where the English said something the source does not (major), lost something the source does deliberately (minor), or was hard to follow aloud (spoken).
 
-So far: 69 books, 33,041 rows reviewed, 555 readings revised (8 major, 131 minor, 416 spoken).
+In all: 69 books, 33,041 rows reviewed, 555 readings revised (8 major, 131 minor, 416 spoken).
 
 | Book | Rows reviewed | Revised | Major | Minor | Spoken | On staging |
 | --- | ---: | ---: | ---: | ---: | ---: | --- |
@@ -32,53 +32,60 @@ So far: 69 books, 33,041 rows reviewed, 555 readings revised (8 major, 131 minor
 | Isaiah | 1,289 | 9 | 0 | 8 | 1 | published and verified 14 Nov |
 | Jeremiah | 1,299 | 11 | 1 | 3 | 7 | published and verified 14 Nov |
 | Lamentations | 150 | 0 | 0 | 0 | 0 | no changes |
-| Ezekiel | 1,267 | 10 | 0 | 8 | 2 | pending |
-| Daniel | 451 | 3 | 0 | 2 | 1 | pending |
-| Hosea | 197 | 2 | 0 | 2 | 0 | pending |
-| Joel | 73 | 0 | 0 | 0 | 0 | pending |
-| Amos | 146 | 2 | 1 | 0 | 1 | pending |
-| Obadiah | 21 | 0 | 0 | 0 | 0 | pending |
-| Jonah | 48 | 0 | 0 | 0 | 0 | pending |
-| Micah | 105 | 1 | 0 | 0 | 1 | pending |
-| Nahum | 47 | 0 | 0 | 0 | 0 | pending |
-| Habakkuk | 56 | 0 | 0 | 0 | 0 | pending |
-| Zephaniah | 53 | 1 | 0 | 1 | 0 | pending |
-| Haggai | 38 | 0 | 0 | 0 | 0 | pending |
-| Zechariah | 211 | 2 | 0 | 1 | 1 | pending |
-| Malachi | 55 | 0 | 0 | 0 | 0 | pending |
-| 1 Maccabees | 924 | 5 | 0 | 2 | 3 | pending |
-| 2 Maccabees | 555 | 3 | 0 | 0 | 3 | pending |
-| Matthew | 1,071 | 50 | 0 | 4 | 46 | pending |
-| Mark | 679 | 24 | 0 | 0 | 24 | pending |
-| Luke | 1,151 | 62 | 1 | 9 | 52 | pending |
-| John | 879 | 42 | 0 | 9 | 33 | pending |
-| Acts | 1,007 | 37 | 1 | 1 | 35 | pending |
-| Romans | 433 | 15 | 0 | 2 | 13 | pending |
-| 1 Corinthians | 437 | 27 | 0 | 5 | 22 | pending |
-| 2 Corinthians | 256 | 13 | 0 | 2 | 11 | pending |
-| Galatians | 149 | 4 | 1 | 3 | 0 | pending |
-| Ephesians | 155 | 10 | 0 | 3 | 7 | pending |
-| Philippians | 104 | 11 | 0 | 4 | 7 | pending |
-| Colossians | 95 | 7 | 0 | 0 | 7 | pending |
-| 1 Thessalonians | 89 | 0 | 0 | 0 | 0 | pending |
-| 2 Thessalonians | 47 | 0 | 0 | 0 | 0 | pending |
-| 1 Timothy | 113 | 0 | 0 | 0 | 0 | pending |
-| 2 Timothy | 83 | 10 | 0 | 0 | 10 | pending |
-| Titus | 46 | 0 | 0 | 0 | 0 | pending |
-| Philemon | 25 | 0 | 0 | 0 | 0 | pending |
-| Hebrews | 303 | 14 | 0 | 1 | 13 | pending |
-| James | 108 | 10 | 0 | 1 | 9 | pending |
-| 1 Peter | 105 | 7 | 0 | 0 | 7 | pending |
-| 2 Peter | 61 | 2 | 0 | 0 | 2 | pending |
-| 1 John | 105 | 0 | 0 | 0 | 0 | pending |
-| 2 John | 13 | 0 | 0 | 0 | 0 | pending |
-| 3 John | 15 | 0 | 0 | 0 | 0 | pending |
-| Jude | 25 | 0 | 0 | 0 | 0 | pending |
-| Revelation | 405 | 1 | 0 | 0 | 1 | pending |
+| Ezekiel | 1,267 | 10 | 0 | 8 | 2 | published and verified 14 Nov |
+| Daniel | 451 | 3 | 0 | 2 | 1 | published and verified 14 Nov |
+| Hosea | 197 | 2 | 0 | 2 | 0 | published and verified 14 Nov |
+| Joel | 73 | 0 | 0 | 0 | 0 | no changes |
+| Amos | 146 | 2 | 1 | 0 | 1 | published and verified 14 Nov |
+| Obadiah | 21 | 0 | 0 | 0 | 0 | no changes |
+| Jonah | 48 | 0 | 0 | 0 | 0 | no changes |
+| Micah | 105 | 1 | 0 | 0 | 1 | published and verified 14 Nov |
+| Nahum | 47 | 0 | 0 | 0 | 0 | no changes |
+| Habakkuk | 56 | 0 | 0 | 0 | 0 | no changes |
+| Zephaniah | 53 | 1 | 0 | 1 | 0 | published and verified 14 Nov |
+| Haggai | 38 | 0 | 0 | 0 | 0 | no changes |
+| Zechariah | 211 | 2 | 0 | 1 | 1 | published and verified 14 Nov |
+| Malachi | 55 | 0 | 0 | 0 | 0 | no changes |
+| 1 Maccabees | 924 | 5 | 0 | 2 | 3 | published and verified 14 Nov |
+| 2 Maccabees | 555 | 3 | 0 | 0 | 3 | published and verified 14 Nov |
+| Matthew | 1,071 | 50 | 0 | 4 | 46 | published and verified 14 Nov |
+| Mark | 679 | 24 | 0 | 0 | 24 | published and verified 14 Nov |
+| Luke | 1,151 | 62 | 1 | 9 | 52 | published and verified 14 Nov |
+| John | 879 | 42 | 0 | 9 | 33 | published and verified 14 Nov |
+| Acts | 1,007 | 37 | 1 | 1 | 35 | published and verified 14 Nov |
+| Romans | 433 | 15 | 0 | 2 | 13 | published and verified 14 Nov |
+| 1 Corinthians | 437 | 27 | 0 | 5 | 22 | published and verified 14 Nov |
+| 2 Corinthians | 256 | 13 | 0 | 2 | 11 | published and verified 14 Nov |
+| Galatians | 149 | 4 | 1 | 3 | 0 | published and verified 14 Nov |
+| Ephesians | 155 | 10 | 0 | 3 | 7 | published and verified 14 Nov |
+| Philippians | 104 | 11 | 0 | 4 | 7 | published and verified 14 Nov |
+| Colossians | 95 | 7 | 0 | 0 | 7 | published and verified 14 Nov |
+| 1 Thessalonians | 89 | 0 | 0 | 0 | 0 | no changes |
+| 2 Thessalonians | 47 | 0 | 0 | 0 | 0 | no changes |
+| 1 Timothy | 113 | 0 | 0 | 0 | 0 | no changes |
+| 2 Timothy | 83 | 10 | 0 | 0 | 10 | published and verified 14 Nov |
+| Titus | 46 | 0 | 0 | 0 | 0 | no changes |
+| Philemon | 25 | 0 | 0 | 0 | 0 | no changes |
+| Hebrews | 303 | 14 | 0 | 1 | 13 | published and verified 14 Nov |
+| James | 108 | 10 | 0 | 1 | 9 | published and verified 14 Nov |
+| 1 Peter | 105 | 7 | 0 | 0 | 7 | published and verified 14 Nov |
+| 2 Peter | 61 | 2 | 0 | 0 | 2 | published and verified 14 Nov |
+| 1 John | 105 | 0 | 0 | 0 | 0 | no changes |
+| 2 John | 13 | 0 | 0 | 0 | 0 | no changes |
+| 3 John | 15 | 0 | 0 | 0 | 0 | no changes |
+| Jude | 25 | 0 | 0 | 0 | 0 | no changes |
+| Revelation | 405 | 1 | 0 | 0 | 1 | published and verified 14 Nov |
 
 Rows that could not be revised safely were shown to the reviewers for context but locked: rows with no source text or no English, placeholder rows (“No MT counterpart …”), rows sharing one site card, and grouped Vulgate verses. Bracketed tags inside readings (“[BHS 3:1]”, “[Aramaic]”) were kept exactly.
 
 The review was AI-assisted: parallel readers worked from a shared brief, each change was validated against the archive text, and the results were merged into `verses.json` and the book text exports with card IDs and references unchanged. Independent specialist review remains open.
+
+## On staging
+
+Every revised reading was written into its book’s Vulgate comparison pages on the Saints.Bible staging site (the live site is unchanged), each saved page was checked against its expected fingerprint, and each book was read back afterwards to confirm every revised reading was in place. Card IDs repeat from chapter to chapter only in 1–2 Maccabees; a card-by-card audit there found every reading in its own card.
+
+- Comparison notes and wording cues beside a revised reading were not rewritten, so a few may still quote the older English (for example Exodus 29:42, Romans 13:3, 1 Corinthians 1:31 and 6:13, 2 Timothy 4:15).
+- Revised readings show without their Rainbow colour highlighting until those colour plans are rebuilt for the new text, as with the earlier passes.
 
 - [Verse-level changes with reasons](changes.json)
 - [Points for a specialist](for-review.md)
