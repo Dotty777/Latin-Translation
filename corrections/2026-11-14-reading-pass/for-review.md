@@ -994,3 +994,83 @@ Data: none of the rows I changed carries a bracketed tag. The 2:19–2:32 rows h
 - Romans 12:17 — revision drops the “not only … but also” of non tantum coram Deo, sed etiam coram omnibus; minor, left.
 - Data: spelling mixes US and British forms within the chunk (honor/dishonor vs dishonour, offence, neighbour, counsellor); left as is per brief.
 - Data: archaic inverted questions/imperatives remain in places (e.g. Romans 13:14 “put you on”); only the hardest to follow aloud were changed.
+
+## Romans 15–16; 1 Corinthians 1–15
+
+# latin-064 notes (Romans 15–16; 1 Corinthians 1–15:53)
+
+- **1 Cor 12:16 — possible source data problem.** SRC reads “num ideo est de corpore?”; the Clementine (and the parallel 12:15) has “num ideo non est de corpore?”. EN follows the expected text (“Is it therefore not of the body?”), so left unchanged; please check the Latin source data.
+- Capitalisation inconsistencies (not changed, per the brief): 1 Cor 1:3 “God our father”; 7:40 “the spirit of God” (Spiritum Dei); 12:9 “in the same spirit” beside “in one Spirit” in the same verse; 11:16 “the Church of God” vs “church of God” elsewhere. Editorial decision needed.
+- Spelling inconsistency (not changed): 1 Cor 9:10 “plows, should plough”; mixed “labor”/“labourer”, “honor”/“dishonour”, “defence/offence” across the chunk.
+- 1 Cor 7:39 “if her husband die”: Latin is “si dormierit” (falls asleep), Paul’s usual euphemism (cf. 15:6, 15:18). Left as is; editor may prefer to keep the image.
+- 1 Cor 12:27 “members of member” (membra de membro) is literal Douay and hard aloud; meaning disputed (“members in part”, “members of one another”). Needs a specialist call.
+- 1 Cor 6:10 “liers with mankind” (masculorum concubitores) is archaic and sensitive; left for an editorial decision.
+- 1 Cor 14:18 “I speak with all your tongues”: Latin “omnium vestrum lingua loquor” is ambiguous (more than all of you?); kept Douay.
+- Rom 15:14 “replenished with all knowledge” and Rom 16:16 “an holy kiss” are archaic but intelligible; left.
+- The chunk ends at 1 Cor 15:53 (verses 54–58 presumably in the next chunk).
+
+## 1 Corinthians 16–16; 2 Corinthians 1–13; Galatians 1–6; Ephesians 1–2
+
+# latin-065 notes
+
+- **Data: 2 Corinthians 1:23/1:24.** The 1:23 row holds both 1:23 and 1:24 (SRC and EN run on to “nam fide statis” / “For in faith you stand”), and 1:24 is LOCKED with no source or English. Needs splitting at data level; not touched.
+- **Data: source typo** in 2 Corinthians 1:23 SRC: “vestæ” should be “vestræ”.
+- **2 Corinthians 3:13**: EN “look on the face of that which is made void” follows Douay/Greek; the Clementine has “in faciem ejus, quod evacuatur” (“on his face — that which is being done away”). Editorial call whether to follow the Latin more closely.
+- **Archaic spelling “burthen/burthensome/burthened”** (2 Cor 5:4, 11:9, 12:13, 12:14, 12:16) left as is (spelling-only); suggest a column-wide decision to modernise to “burden”.
+- **Archaic senses left as is, column-wide decision**: “carefulness” for sollicitudo (2 Cor 7:11, 7:12, 8:7, 8:8, 8:16, 8:17), “forward” = eager (2 Cor 8:11, 8:12, 9:2), “an holy”/“an habitation” (Eph 2:21–22).
+- **Capitalisation inconsistencies (not changed)**: Eph 1:6 “his beloved son” (elsewhere “Son”); Eph 1:13 “holy Spirit of promise”; 2 Cor 3:6 “in the spirit … the spirit gives life” where the Latin has Spiritu/Spiritus; 2 Cor 11:4 “another Spirit” where the Latin is alium spiritum.
+- **Register**: Galatians and parts of 2 Cor 5–9 are modern renderings while the rest is close Douay; a style reviewer may want to harmonise.
+
+## Ephesians 3–6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–2
+
+# latin-066 notes (Ephesians 3 – 1 Timothy 2)
+
+- Philippians 3:20 “our conversation is in heaven” (conversatio): not changed because the verse is well known, but “conversation” misleads modern listeners the same way it did in 1:27 and 3:6 (changed). Editorial call: “way of life” / “manner of life” / “citizenship”.
+- Style break: Ephesians to Colossians are Douay-based (“Put you on”, “speak you the truth”, “do you all things”, “Serve you the Lord Christ”, “quickened”, “translated us”), while 1 Thessalonians to 1 Timothy are fresh modern renderings. Only the “verb + you” imperative that could be misheard (Philippians 4:21) was changed; whether to modernise the rest consistently is an editorial decision.
+- Philippians 1:12 and 1:19 “fallen out … / fall out to me to salvation”: archaic (“turn out”); left, but could be modernised for the ear.
+- Philippians 2:17–18 “congratulate with”: archaic intransitive sense (“rejoice with”); left.
+- Colossians 2:18 and 2:23: Douay wording (“willing in humility and religion of angels”, “a show of wisdom in superstition … not in any honor to the filling of the flesh”) is very hard to follow aloud; the Latin itself is obscure, so a specialist rewrite is better than a spot fix.
+- Colossians 4:15 “Nymphas … his house”: the Latin Nympham/ejus does not fix gender; left as is.
+- Data: stray space before comma in several SRC lines (Ephesians 6:1 “Filii ,”, Colossians 3:1 “Igitur ,”, Colossians 4:1 “Domini ,”, 1 Thessalonians 1:1 and 2 Thessalonians 1:1 “Paulus ,”).
+
+## 1 Timothy 3–6; 2 Timothy 1–4; Titus 1–3; Philemon 1–1; Hebrews 1–11
+
+# latin-067 notes (1 Timothy 3 – Hebrews 11)
+
+## For a specialist / editorial decision (not changed)
+- Register switch: 1 Timothy, Titus and Philemon are fresh modern renderings; 2 Timothy and Hebrews are lightly modernised Douay-Rheims with many archaisms ("you are become", "for that he continues", "by the which", "sprung"). Only the archaisms that trip a listener were changed; a decision on whether to modernise these books further is editorial.
+- Philemon 1:9 "cum sis talis, ut Paulus senex": current "since you are such a man as Paul, an old man" makes Philemon the one like Paul. The Latin is hard (some witnesses read *sim*); a specialist should settle it.
+- Hebrews 4:8 "Jesus" = Joshua (Vulgate *Jesus*). Kept per Latin; may deserve a site note.
+- Hebrews 6:14 "Unless blessing I shall bless you" (Hebraic oath *Nisi*) and 3:11 / 4:3 / 4:5 "If they shall enter into my rest": literal and odd aloud; kept as the column's deliberate oath idiom.
+- Hebrews 11:5 "translated" (three times, of Enoch): traditional term, kept; could be "taken up" if the column wants it.
+- Hebrews 11:9 "dwelling in cottages" (*casulis*): "huts" or "tents" would mislead less; left as taste.
+- 2 Timothy 1:18 "you very well know" flattens *melius nosti* ("you know better than I").
+
+## Data / consistency
+- Titus rows carry `vulgate_reference` one verse ahead (titus-1-1 → 1:2 … titus-1-16 → 2:1, titus-2-15 → 3:1), yet the SRC text matches the row's own verse. Looks like a labelling bug.
+- Spelling mixed within the column: "to-day" (Heb 1:5, 3:7) vs "today" (3:13, 3:15, 4:7); "an high priest"/"an heifer" (Heb 8:1, 9:11, 9:13) vs "a high priest"; British "dishonour", "sceptre", "succour", "neighbour", "unskilful", "wilfully" vs American "honor", "labor".
+- Stray punctuation: 2 Tim 3:13 and Heb 7:12 end with a comma before a new sentence; 2 Tim 4:21 "all the brothers, greet you"; Heb 11:15 "they had doubtless, time to return"; Heb 3:1 lacks a comma after "heavenly vocation".
+- Hebrews 1:1 and 3:1 SRC have a stray space before the comma ("Multifariam ,", "Unde ,").
+
+## Hebrews 12–13; James 1–5; 1 Peter 1–5; 2 Peter 1–3; 1 John 1–5; 2 John 1–1; 3 John 1–1; Jude 1–1
+
+# latin-068 notes (Hebrews 12 – Jude)
+
+- **“conversation” for conversatio / conversari (editorial, column-wide):** Heb 13:7 (“the end of their conversation”), 1 Pet 1:15, 1:17 (“converse in fear”), 1:18, 2:12, 3:1, 3:2, 3:16, 2 Pet 2:7 (“lewd conversation”), 2:18 (“such as converse in error”), 3:11. Aloud these sound like talk, not conduct/way of life; 2 Pet 2:7 and 1 Pet 1:17 actively mislead. Left unchanged so the column stays consistent; recommend a single decision (e.g. “conduct”/“way of life”) applied across the NT.
+- **1 Pet 5:3 “lording it over the clergy”:** Vulgate in cleris = over the (allotted) portions/heritages (Greek klēroi). Douay’s “clergy” misleads a modern listener; needs an editorial call.
+- **“empire” for imperium** (1 Pet 4:11, 5:11): Douay word; “dominion” (as in Jude 1:25) would read better aloud. Not changed.
+- Minor archaisms left as is (understandable, Douay flavour): Heb 12:21 “frighted”, James 4:13 “traffic”, James 5:9 “Grudge not”, 1 Pet 3:11 “decline from evil”.
+- 1 Pet 4:13 “But if you partake”: communicantes is causal/participial (“inasmuch as you share”), not conditional; Douay has “if”. Not changed.
+- Data: 3 John 1:15 is LOCKED with no source or English (Vulgate joins it to 1:14); fine. James 1:3 EN lacks final punctuation (left, punctuation-only).
+
+## Revelation 1–22
+
+# latin-069 (Revelation 1–22) · notes
+
+- Revelation is already in good shape in this column; only 1 change (6:6, spoken).
+- Data: the row for card `revelation-20-8` is labelled “Revelation 20:9” in the input (`[vulgate_reference: 20:8]`), so two rows carry the reference 20:9. The text is Vulgate 20:8; check the reference label in the export.
+- 17:9 “Here is the understanding that has wisdom” (Latin *hic est sensus, qui habet sapientiam*) follows Douay and is hard to follow aloud; *qui* may refer to the reader (“here is the meaning, for the one who has wisdom”). Editorial call, not changed.
+- 11:13 “Seven thousand people” smooths *nomina hominum septem millia* (“names of men”); keep or restore the idiom? Editorial call.
+- 15:4 “you alone are holy” renders *pius* (Douay also has “holy”); a specialist could weigh “devout/kind”. Not changed.
+- 10:7 “when he began to sound his trumpet” renders future perfect *cum cœperit* in backshifted reported speech; a listener may hear it as past. Not changed.
+- 22:3 “thrones” (plural) follows the Vulgate’s plural verb *erunt*; looks deliberate, left as is.
