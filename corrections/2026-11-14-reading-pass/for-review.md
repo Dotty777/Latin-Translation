@@ -323,6 +323,37 @@ No changes made: I checked every editable row against the Clementine, and all nu
 - Editorial: 2 Chronicles 31:16 “except for males three years old and above” renders exceptis literally; the sense (in addition to / apart from the genealogical list) is debated, worth a specialist look.
 - Editorial: 2 Chronicles 31:13 “Under them” for post quem (“after him”, i.e. next in rank after Shimei); left.
 
+## Ezra 7–10; Nehemiah 1–12
+
+# latin-023 notes (Ezra 7–10; Nehemiah 1–12)
+
+## Data problems
+- Missing rows (no row in the input for these Clementine verses, though the Vulgate has them): Nehemiah 3:7; Vulgate 4:6 (= Hebrew 3:38, “Itaque ædificavimus murum…”), between Nehemiah 3:37 (vg 4:5) and 4:1 (vg 4:7); Nehemiah 11:16, 11:20–21, 11:28–29, 11:32–35; Nehemiah 12:4–6. Check whether the cards are absent on the site or just left out of the export.
+- Nehemiah 3:30/3:31 and 12:33/12:34 each share one card (locked). The 3:31 row repeats the whole of vg 3:30, so Hebrew 3:31 is shown twice.
+
+## For an editor (not changed)
+- Nehemiah 3:8 “They left Jerusalem as far as the wall of the broader street”: this follows dimiserunt literally, but read aloud it sounds like the builders went away from the city. Commentators read it as “left [that stretch] as it was”. Consider a gloss such as “left Jerusalem as it was, as far as…”.
+- Ezra 7:26: diligenter could go with fecerit (“does not diligently observe”) or with the judgment. The English takes the second reading, which matches the Aramaic. Left as it is.
+- Ezra 8:5 “a son of Ezekiel” for filius Ezechiel: the Vulgate leaves out the leader’s name (Hebrew: Shecaniah son of Jahaziel). The English is acceptable as it stands.
+- Ezra 7:6 scriba velox is rendered “skilled scribe” (Douay has “ready scribe”). Left as it is.
+- Style: the column uses straight apostrophes (Lord's, God's) all through this chunk. None of my changes add an apostrophe.
+
+## Nehemiah 13–13; Esther 1–10; Job 1–8
+
+# latin-024 notes (Nehemiah 13; Esther 1–10; Job 1–8)
+
+Data problems
+- Esther 4:6, 9:5 and 9:30 have no row in the input, though the Clementine has these verses (4:6 Hathach goes out to Mordecai; 9:5 the Jews strike their enemies; 9:30 letters sent to the 127 provinces). Check whether the Latin column is missing these cards or the export skipped them.
+- All the Greek additions (Esther 1:1a–r, 3:13a–g, 4:17a–z, 5:1–2b, 8:12a–x, 10:3a–k) and Job 2:9–9e are LOCKED as shared cards, so they were not reviewed. Each 1:1x row repeats the whole 11:2–12:6 block with the same 11:2 Latin.
+- The Latin of Job 3–8 still has the editorial square brackets ([ … ]). The English correctly leaves them out.
+
+For a specialist / editorial decision (not changed)
+- Job 5:24: “when you inspect your property, you shall not go wrong” follows the Hebrew (navekha / lo techeta). The Vulgate has visitans speciem tuam, non peccabis (“visiting your beauty, you shall not sin”). Changing it means deciding how to render species.
+- Esther 4:13: “you alone will save your life” is closer to the Hebrew. The Vulgate (animam tuam tantum liberes) stresses saving only her own life. This is acceptable as it stands, but worth a look.
+- Esther 3:8: novis utens legibus is rendered “strange laws”. Douay has “new laws”. It is probably a deliberate choice, so I left it.
+- Esther 2:12: in “the twelfth month was coming to its close”, mensis duodecimus means the twelfth month of the preparation. Listeners may hear it as the calendar month (Adar). It is ambiguous in the Latin too.
+- Job 7:4: Si dormiero (“If I sleep”) is rendered “If I lie down”, after the Hebrew. The difference is small, so I left it.
+
 ## Job 9–28
 
 # latin-025 (Job 9–28) · notes
@@ -336,3 +367,90 @@ No changes made: I checked every editable row against the Clementine, and all nu
 - Job 20:26 “affligetur relictus in tabernaculo suo”: the row reads “whoever remains in his tent shall be afflicted”; Douay takes it as “he shall be afflicted when left in his tent”. The Latin allows either.
 - Job 27:22 “Et mittet super eum… de manu ejus fugiens fugiet”: “hurl itself” and “from its power” are free renderings (the Latin has no reflexive, and it says “from its hand”). Acceptable, but could be made more literal.
 - Job 15:3 “eum qui non est æqualis tibi” is printed as “One” (God). This follows Gregory’s reading, but the Latin itself is ambiguous.
+
+## Job 29–42; Psalms 1–7
+
+# latin-026 notes (Job 29–42; Psalms 1–7)
+
+## Data problems
+- Psalms 2:12 (psalms-unit-18): EN also carries Vulgate 2:13 (“When His anger quickly blazes up, blessed are all who trust in Him”), which is not in the row’s SRC; there is no 2:13 row in this chunk. Not moved (brief forbids moving content between rows).
+- Psalms 4:9 (psalms-unit-34): EN also carries Vulgate 4:10 (“for You, Lord, have established me uniquely in hope”), not in the row’s SRC. Not moved.
+- Locked shared-card rows (Job 36:28/28a/28b, Job 42:16–17e, Ps 3:7–8, 4:7–8, 5:4–5) repeat one Vulgate verse across several Greek-numbered rows; their EN merges two Vulgate verses (e.g. Ps 3:7–8, 4:7–8, 5:4–5). Left as is.
+- The column’s existing Job text uses straight apostrophes (e.g. “widow's”, “Job's”); none of the changes touch them.
+
+## For a specialist / editorial decision (not changed)
+- Job 30:8 “in terra penitus non parentes”: EN “altogether without standing in the land” interprets parentes (from pareo, “appearing”); Douay has “not appearing at all upon the earth”.
+- Job 31:34: EN turns the last clause (“et non magis tacui, nec egressus sum ostium”) into a rhetorical question; the Latin is still inside the si-series. Defensible, but worth a look.
+- Job 32:13 “Ne forte dicatis”: EN “Do not say” makes it an imperative; “lest perhaps you say” would keep the Latin purpose clause. Left as taste.
+- Job 40:19 “applicabit gladium ejus”: EN “will bring His sword against it” decides that ejus is the Maker’s; the Latin may mean Behemoth’s own sword (Gregory’s reading). Ambiguous.
+- Psalms 3:6 “Ego dormivi, et soporatus sum”: EN “I lay down and slept” follows the Hebrew; the Latin is “I slept and fell into deep sleep”. Small enough to leave.
+- Psalms 4:9 “in idipsum” rendered “together”; the Latin tradition (Augustine) reads “in the selfsame”. Editorial call.
+
+## Psalms 8–36
+
+# latin-027 notes (Psalms 8–36, Vulgate numbering)
+
+## Data problems
+- Psalms 10:1 (psalms-unit-123): EN also carries Vulgate 10:2 (“In the Lord I trust… like a sparrow”), but SRC shows only the title “In finem. Psalmus David.”; the following row is tagged vulgate_reference 10:3, so Vulgate 10:2 has no row of its own. Left as is.
+- Psalms 12:3 (psalms-unit-140): EN includes “How long will my enemy be exalted above me?” (Clementine 12:2b, “usquequo exaltabitur inimicus meus super me?”), but SRC is truncated and lacks it. EN is right; the SRC text needs fixing.
+- Psalms 19:1 and 20:1 (title rows) carry vulgate_reference 18:1 and 19:1, which looks like a mis-tag (the titles are 19:1 and 20:1 in the Vulgate).
+- Mixed apostrophes in the column (“name’s” in 22:3 vs “name's” elsewhere); not changed on its own.
+
+## For a specialist / editorial decision (not changed)
+- Psalms 11:7 “tested for the earth” (probatum terrae): opaque aloud; Douay has “purged from the earth”, and commentators differ (purified of earthy dross vs tested on earth). Needs a decision.
+- Psalms 18:6–7: “ipse tamquam sponsus” is lower-cased (“he”, the sun); patristic reading takes the bridegroom as Christ, which would favour “He”. Column’s choice kept.
+- Psalms 20:9–13: lower-case “you/your” treats these verses as addressed to the king (God is “the Lord” in 20:10); a defensible reading, but should be checked for consistency with the Hebrew column.
+- Psalms 30:12 “More than all my enemies I have become a reproach” (super omnes inimicos meos): could also be “among/because of all my enemies”; kept.
+- Psalms 9:18 “return to the underworld” (convertantur in infernum): Douay “be turned into hell”; “return” is defensible but may read oddly.
+
+## Psalms 37–67
+
+# latin-028 (Psalms 37–67, Clementine) · notes
+
+## For a specialist / editorial decision (not changed)
+
+- **Ps 54:21–22**: the EN reads “He has stretched out His hand … the anger of His face, and his heart has drawn near. His words have become softer than oil.” Capitalised He/His makes God the one whose words are “softer than oil, yet javelins”, but “his heart” is lower case in the same verse. Augustine reads it of God/Christ; Douay leaves all lower case. Please make the capitals consistent one way or the other.
+- **Ps 58:12**: “God will show me over my enemies” (Deus ostendet mihi super inimicos meos) is hard to follow aloud. Douay has “God shall let me see over my enemies.” A clearer rendering would need an editorial choice, so I left it.
+- **Ps 43:19**: “and You have turned our paths aside from Your way” renders the Latin positive *et declinasti* literally. Douay supplies a negative (“neither hast thou turned aside”) from the Hebrew. Both readings are defensible, so I kept the literal one.
+- **Ps 67:13–14** (Rex virtutum dilecti, dilecti; pennae columbae deargentatae): the obscure Vulgate is rendered nominally and literally. That is acceptable, but a specialist may want to look at it.
+- **Ps 48:15**: *mors depascet eos* is rendered “death will pasture them” (the shepherd image). “Death will feed on them” (Douay) is the other way to read *depascere*. I left it.
+
+## Data problems
+
+- Shared-card LOCKED pairs repeat the first verse’s SRC on the second row, so the SRC for the second verse is missing: 43:22/23, 48:10/11, 52:1/2, 55:11/12, 58:4/5, 59:6/7, 61:12/13, 63:5/6. In several of these (48:10, 58:4, 59:6, 61:12, 63:5) the EN covers two Latin verses but the SRC shows only the first. Rows after these splits carry vulgate_reference offsets (e.g. 43:24 = Vg 43:23, 55:13 = Vg 55:12).
+- Row 40:1 is tagged vulgate_reference 39:1, 42:5 is tagged 41:12, 45:12 is tagged 45:8, 58:15 is tagged 58:7, 54:1 is tagged 53:1 and 66:6 is tagged 66:4. Each of these has the same text as the row it points to, but the tags look like a dedupe artefact. Please check the numbering.
+- The EN column uses straight apostrophes throughout this span (“Lord's”, “enemies'”, “king's”), against the house style of ’. I did not touch them, apart from the one row I rewrote (44:14).
+
+## Psalms 68–90
+
+# latin-029 notes (Psalms 68–90, Vulgate numbering)
+
+Editorial questions (not changed):
+- Ps 72:4 “et firmamentum in plaga eorum”: rendered positively (“there is strength in their affliction”); Douay carries the negative over (“nor is there strength in their stripes”). Both defensible; worth a specialist's decision.
+- Ps 77:69 “sicut unicornium sanctificium suum”: “like the one-horned beasts” can sound as if the sanctuary resembles the beasts (Douay “as of unicorns”). Consider “like that of the one-horned beasts”.
+- Ps 86:5 “Numquid Sion dicet”: column has “Will Zion say…?”; Douay reads “Shall not Sion say”. Question of how to take numquid here; left as the 9 November revision has it.
+- Ps 86:4 “scientium me … who know Me”: capitalised Me makes God the speaker; fine if intended, but the psalmist reading is also traditional.
+- Ps 70:17 “until now I will proclaim” is literal (usque nunc pronuntiabo) but sounds odd aloud; left.
+- Ps 70:20 “How many great and evil distresses” compresses “tribulationes multas et malas”; acceptable, left.
+
+Data:
+- Locked shared-card rows (71:1/2, 73:5/6, 83:12/13, 89:5/6, 90:4/5) carry merged English for two Vulgate verses each, while SRC shows only the first verse; not touched.
+- Title wording varies slightly: “For understanding, of Asaph.” (73:1) vs “For understanding. Of Asaph.” (77:1); left.
+- Apostrophes in this column are straight (') throughout the chunk; no new apostrophes were introduced.
+
+## Psalms 91–117
+
+# latin-030 (Psalms 91–117, Vulgate numbering) · notes
+
+## Data problems
+- Psalms 108:16 / 108:17: the 108:16 EN also contains the content of Vulgate 108:17 (“but persecuted the needy and destitute person … to put him to death”), while the 108:17 row (LOCKED, vulgate_reference 108:18) shows 108:18’s Latin and English. The 108:17 Latin (“et persecutus est hominem inopem et mendicum…”) has no row of its own. Not changed; needs a row/card fix.
+- Psalms 115:5 (psalms-unit-1959, Vulgate 115:14 “Vota mea Domino reddam…”) is missing from the input; 115:1–10 carry vulgate_reference 115:10–19.
+- Locked shared-card rows (94:8/9, 99:1/2, 108:1/2, 110:6/7, 113:9/10) show one combined EN for two rows; the SRC shown is only the first part of the verse.
+
+## For a specialist or editorial decision (not changed)
+- Psalms 109:1: “The Lord said to my lord” (lowercase “lord”, “your”) for Domino meo; the Latin column may want “my Lord” given Christian reading of this psalm. Editorial call.
+- Psalms 109:6: “fill them with ruins” adds “them” (Latin implebit ruinas, “He will fill ruins”; Augustine reads “fill up the ruins”). Consider “He will fill up ruins”.
+- Psalms 108:24: “my flesh has changed because of oil” is literal for propter oleum, but listeners may miss the usual sense “for lack of oil” (Challoner).
+- Psalms 105:13: “They acted quickly: they forgot His works” is literal for Cito fecerunt; obliti sunt, but the sense is “they were quick to forget.”
+- Psalms 96:1: “For this David” (Huic David) is odd aloud; Douay has “For the same David.”
+- Psalms 91:4: “on the ten-stringed harp” merges decachordo and psalterio; acceptable as apposition.

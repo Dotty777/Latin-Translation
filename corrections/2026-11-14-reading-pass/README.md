@@ -2,7 +2,7 @@
 
 Continues the Genesis pass of 13 November across the rest of the Bible. Every row was read against the Clementine Latin, for fidelity first and clarity when read aloud second. Readings were changed only where the English said something the source does not (major), lost something the source does deliberately (minor), or was hard to follow aloud (spoken).
 
-So far: 13 books, 10,489 rows reviewed, 92 readings revised (0 major, 36 minor, 56 spoken).
+So far: 17 books, 12,491 rows reviewed, 105 readings revised (0 major, 42 minor, 63 spoken).
 
 | Book | Rows reviewed | Revised | Major | Minor | Spoken | On staging |
 | --- | ---: | ---: | ---: | ---: | ---: | --- |
@@ -19,6 +19,10 @@ So far: 13 books, 10,489 rows reviewed, 92 readings revised (0 major, 36 minor, 
 | 2 Kings | 723 | 7 | 0 | 0 | 7 | pending |
 | 1 Chronicles | 930 | 3 | 0 | 2 | 1 | pending |
 | 2 Chronicles | 833 | 11 | 0 | 5 | 6 | pending |
+| Ezra | 280 | 1 | 0 | 1 | 0 | pending |
+| Nehemiah | 392 | 3 | 0 | 2 | 1 | pending |
+| Esther | 247 | 1 | 0 | 0 | 1 | pending |
+| Job | 1,083 | 8 | 0 | 3 | 5 | pending |
 
 Rows that could not be revised safely were shown to the reviewers for context but locked: rows with no source text or no English, placeholder rows (“No MT counterpart …”), rows sharing one site card, and grouped Vulgate verses. Bracketed tags inside readings (“[BHS 3:1]”, “[Aramaic]”) were kept exactly.
 
