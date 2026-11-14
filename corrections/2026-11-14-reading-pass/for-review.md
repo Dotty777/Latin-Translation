@@ -1074,3 +1074,12 @@ Data: none of the rows I changed carries a bracketed tag. The 2:19–2:32 rows h
 - 15:4 “you alone are holy” renders *pius* (Douay also has “holy”); a specialist could weigh “devout/kind”. Not changed.
 - 10:7 “when he began to sound his trumpet” renders future perfect *cum cœperit* in backshifted reported speech; a listener may hear it as past. Not changed.
 - 22:3 “thrones” (plural) follows the Vulgate’s plural verb *erunt*; looks deliberate, left as is.
+
+## Comparison notes and classifications
+
+Left unchanged in the notes refresh, or changed but worth a second look.
+
+- **Wisdom 11:7 (page 39072)** (changed quote only): it still opens “Different.” and says the difference “changes a local detail or emphasis”. Both columns now have “rebuke”, so the grade may need softening.
+- **Exodus 32:10 (page 20676)** (changed): “Both: leave Me” became “Both: let Me alone”. This is a paraphrase-level fix and is optional.
+- **Proverbs 19:21 (page 20715):** The paragraphs are generic. The other-column note still says the Latin “will… remains”, while the reading now says “endure”. That text is outside the paragraphs.
+- **Wisdom 16:14 (page 39072):** “Recepta est is received or taken away” was left as a statement about the Latin word. The reading now says “taken”.

@@ -84,8 +84,8 @@ The review was AI-assisted: parallel readers worked from a shared brief, each ch
 
 Every revised reading was written into its book’s Vulgate comparison pages on the Saints.Bible staging site (the live site is unchanged), each saved page was checked against its expected fingerprint, and each book was read back afterwards to confirm every revised reading was in place. Card IDs repeat from chapter to chapter only in 1–2 Maccabees; a card-by-card audit there found every reading in its own card.
 
-- Comparison notes and wording cues beside a revised reading were not rewritten, so a few may still quote the older English (for example Exodus 29:42, Romans 13:3, 1 Corinthians 1:31 and 6:13, 2 Timothy 4:15).
-- Revised readings show without their Rainbow colour highlighting until those colour plans are rebuilt for the new text, as with the earlier passes.
+- Comparison notes: the generated wording cues were rewritten when each reading was published. Every other note paragraph beside a revised reading that used a word the revision removed was reviewed afterwards; the paragraphs that described or quoted the old English were rewritten to match (see [notes-changes.json](notes-changes.json); points for a specialist are at the end of [for-review.md](for-review.md)).
+- Rainbow colour highlighting: the colour maps of every comparison page edited on staging were rebuilt for the current text. Unchanged words keep their exact colours; revised readings take their colours from the old wording they replace. The Rainbow plugin's own audit passes with full coverage on every rebuilt page section; one highlighted comparison line of Galatians 2:6 could not be mapped and shows without colour.
 
 - [Verse-level changes with reasons](changes.json)
 - [Points for a specialist](for-review.md)
