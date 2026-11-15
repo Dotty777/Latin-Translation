@@ -14,8 +14,8 @@
 | `Yahweh` | 0 books | Clean across all 70 books. |
 | Douay-Rheims negative/archaic syntax | 18+ books | `"know not"` (14 books), `"believe not"` (4 books / 10 matches), `"receive not"` (4 books), `"make not"` (2 books), `"in building"` (2 books), `"have well drunk"` (1 book). |
 | Glued Latin initials (`Ohomo`, `Oaltitudo`) | 1 book (2 verses) | `Romans 9:20` and `Romans 11:33` repaired on this branch in `romans/Romans.txt`. |
-
+| `prevent` / `prevented` | 12 books | Matched in `1-maccabees/1-Maccabees.txt`, `1-thessalonians/1-Thessalonians.txt`, `2-samuel/2-Samuel.txt`, `acts/Acts.txt`, `esther/Esther.txt`, `job/Job.txt`, `judges/Judges.txt`, `matthew/Matthew.txt` (line 196), `numbers/Numbers.txt`, `proverbs/Proverbs.txt`, `ruth/Ruth.txt`, `sirach/Sirach.txt`. |
 ## 3. Resolution of `source-check-needed.json` Discrepancies
 - **`Matthew 17:4` (`matthew-17-4`):** External Vulgate witness confirms second `hic` (`si vis, faciamus hic tria tabernacula`), validating `"let us make here"` once `hic` is restored to recorded Latin.
 - **`1 Corinthians 12:28` (`1-corinthians-12-28`):** Standard Clementine reads `tertio doctores` (`"thirdly teachers/doctors"`); recorded `exinde doctores` is a dittography from later `exinde gratias`.
-- **`Matthew 2:5` (`matthew-2-5`):** Verify `At illi dixerunt [ei]` against printed Clementine; restore `ei` in Latin or omit `"to him"` so Latin and English match.
+- **`Matthew 2:5` (`matthew-2-5`):** External Vulgate witnesses confirm `At illi dixerunt ei: In Bethleem`; restore `ei` in Latin so Latin and English ("to him") match.
