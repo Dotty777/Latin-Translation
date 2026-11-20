@@ -1,0 +1,271 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "psalms",
+  "book_title": "Psalms",
+  "usfm_code": "PSA",
+  "chapter": 125,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:24Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "VulgConte (2009): 125:7 folded into verse 6 (the reference prints these words there)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 79071,
+      "verse": 1,
+      "critical_text": "Canticum graduum. In convertendo Dominus captivitatem Sion, facti sumus sicut consolati.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Canticum graduum. In convertendo Dominus captivitatem Sion, facti sumus sicut consolati.",
+        "Clem-Saints": "Canticum graduum. In convertendo Dominus captivitatem Sion, facti sumus sicut consolati.",
+        "VulgHetzenauer (1906)": "Canticum graduum. In convertendo Dominus captivitatem Sion: facti sumus sicut consolati:",
+        "VulgConte (2009)": "Canticum graduum. In convertendo Dominus captivitatem Sion: facti sumus sicut consolati:",
+        "VulgSistina (1590)": "Canticum graduum. In convertendo Dominus captivitatem Sion: facti sumus sicut consolati:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79072,
+      "verse": 2,
+      "critical_text": "Tunc repletum est gaudio os nostrum, et lingua nostra exsultatione. Tunc dicent inter gentes: Magnificavit Dominus facere cum eis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tunc repletum est gaudio os nostrum, et lingua nostra exsultatione. Tunc dicent inter gentes: Magnificavit Dominus facere cum eis.",
+        "Clem-Saints": "Tunc repletum est gaudio os nostrum, et lingua nostra exsultatione. Tunc dicent inter gentes: Magnificavit Dominus facere cum eis.",
+        "VulgHetzenauer (1906)": "Tunc repletum est gaudio os nostrum: et lingua nostra exultatione. Tunc dicent inter gentes: Magnificavit Dominus facere cum eis.",
+        "VulgConte (2009)": "Tunc repletum est gaudio os nostrum: et lingua nostra exultatione. Tunc dicent inter gentes: Magnificavit Dominus facere cum eis.",
+        "VulgSistina (1590)": "Tunc repletum est gaudio os nostrum: et lingua nostra exultatione. Tunc dicent inter gentes: Magnificavit Dominus facere cum eis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exsultatione. / exultatione.",
+            "exsultatione. / exultatione.",
+            "exsultatione. / exultatione."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79073,
+      "verse": 3,
+      "critical_text": "Magnificavit Dominus facere nobiscum; facti sumus lætantes.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Magnificavit Dominus facere nobiscum; facti sumus lætantes.",
+        "Clem-Saints": "Magnificavit Dominus facere nobiscum; facti sumus lætantes.",
+        "VulgHetzenauer (1906)": "Magnificavit Dominus facere nobiscum: facti sumus lætantes.",
+        "VulgConte (2009)": "Magnificavit Dominus facere nobiscum: facti sumus lætantes.",
+        "VulgSistina (1590)": "Magnificavit Dominus facere nobiscum: facti sumus laetantes."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79074,
+      "verse": 4,
+      "critical_text": "Converte, Domine, captivitatem nostram, sicut torrens in austro.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Converte, Domine, captivitatem nostram, sicut torrens in austro.",
+        "Clem-Saints": "Converte, Domine, captivitatem nostram, sicut torrens in austro.",
+        "VulgHetzenauer (1906)": "Converte Domine captivitatem nostram, sicut torrens in Austro.",
+        "VulgConte (2009)": "Converte Domine captivitatem nostram, sicut torrens in Austro.",
+        "VulgSistina (1590)": "Converte Domine captivitatem nostram, sicut torrens in Austro."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79075,
+      "verse": 5,
+      "critical_text": "Qui seminant in lacrimis, in exsultatione metent.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui seminant in lacrimis, in exsultatione metent.",
+        "Clem-Saints": "Qui seminant in lacrimis, in exsultatione metent.",
+        "VulgHetzenauer (1906)": "Qui seminant in lacrymis, in exultatione metent.",
+        "VulgConte (2009)": "Qui seminant in lacrymis, in exultatione metent.",
+        "VulgSistina (1590)": "Qui seminant in lacrymis, in exultatione metent."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "lacrimis, / lacrymis,",
+            "exsultatione / exultatione",
+            "lacrimis, / lacrymis,",
+            "exsultatione / exultatione",
+            "lacrimis, / lacrymis,",
+            "exsultatione / exultatione"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79076,
+      "verse": 6,
+      "critical_text": "Euntes ibant et flebant, mittentes semina sua. Venientes autem venient cum exsultatione, portantes manipulos suos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Euntes ibant et flebant, mittentes semina sua. Venientes autem venient cum exsultatione, portantes manipulos suos.",
+        "Clem-Saints": "Euntes ibant et flebant, mittentes semina sua. Venientes autem venient cum exsultatione, portantes manipulos suos.",
+        "VulgHetzenauer (1906)": "Euntes ibant et flebant, mittentes semina sua. Venientes autem venient cum exultatione, portantes manipulos suos.",
+        "VulgConte (2009)": "Euntes ibant et flebant, mittentes semina sua. Venientes autem venient cum exultatione, portantes manipulos suos.",
+        "VulgSistina (1590)": "Euntes ibant et flebant, mittentes semina sua. Venientes autem venient cum exultatione, portantes manipulos suos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exsultatione, / exultatione,",
+            "exsultatione, / exultatione,",
+            "exsultatione, / exultatione,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

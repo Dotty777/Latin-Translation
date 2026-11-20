@@ -1,0 +1,409 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "01_Law",
+  "book_slug": "deuteronomy",
+  "book_title": "Deuteronomy",
+  "usfm_code": "DEU",
+  "chapter": 34,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:29Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 67255,
+      "verse": 1,
+      "critical_text": "Ascendit ergo Moyses de campestribus Moab super montem Nebo, in verticem Phasga contra Jericho: ostenditque ei Dominus omnem terram Galaad usque Dan,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ascendit ergo Moyses de campestribus Moab super montem Nebo, in verticem Phasga contra Jericho: ostenditque ei Dominus omnem terram Galaad usque Dan,",
+        "Clem-Saints": "Ascendit ergo Moyses de campestribus Moab super montem Nebo, in verticem Phasga contra Jericho: ostenditque ei Dominus omnem terram Galaad usque Dan,",
+        "VulgHetzenauer (1906)": "Ascendit ergo Moyses de campestribus Moab super montem Nebo, in verticem Phasga contra Iericho: ostenditque ei Dominus omnem Terram Galaad usque Dan,",
+        "VulgConte (2009)": "Ascendit ergo Moyses de campestribus Moab super montem Nebo, in verticem Phasga contra Iericho: ostenditque ei Dominus omnem Terram Galaad usque Dan,",
+        "VulgSistina (1590)": "Ascendit ergo Moyses de campestribus Moab super montem Nebo, in verticem Phasga contra Iericho: ostenditque ei Dominus omnem Terram Galaad usque Dan,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67256,
+      "verse": 2,
+      "critical_text": "et universum Nephthali, terramque Ephraim et Manasse, et omnem terram Juda usque ad mare novissimum,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et universum Nephthali, terramque Ephraim et Manasse, et omnem terram Juda usque ad mare novissimum,",
+        "Clem-Saints": "et universum Nephthali, terramque Ephraim et Manasse, et omnem terram Juda usque ad mare novissimum,",
+        "VulgHetzenauer (1906)": "et universum Nephthali, terramque Ephraim et Manasse, et omnem terram Iuda usque ad mare novissimum,",
+        "VulgConte (2009)": "et universum Nephthali, terramque Ephraim et Manasse, et omnem terram Iuda usque ad mare novissimum,",
+        "VulgSistina (1590)": "et universum Nephthali, terramque Ephraim et Manasse, et omnem terram usque ad mare novissimum,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Juda",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iuda",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67257,
+      "verse": 3,
+      "critical_text": "et australem partem, et latitudinem campi Jericho civitatis palmarum usque Segor.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et australem partem, et latitudinem campi Jericho civitatis palmarum usque Segor.",
+        "Clem-Saints": "et australem partem, et latitudinem campi Jericho civitatis palmarum usque Segor.",
+        "VulgHetzenauer (1906)": "et australem partem, et latitudinem campi Iericho civitatis palmarum usque Segor.",
+        "VulgConte (2009)": "et australem partem, et latitudinem campi Iericho civitatis palmarum usque Segor.",
+        "VulgSistina (1590)": "et australem partem, et latitudinem campi Iericho civitatis palmarum usque Segor."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67258,
+      "verse": 4,
+      "critical_text": "Dixitque Dominus ad eum: Hæc est terra, pro qua juravi Abraham, Isaac, et Jacob, dicens: Semini tuo dabo eam. Vidisti eam oculis tuis, et non transibis ad illam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque Dominus ad eum: Hæc est terra, pro qua juravi Abraham, Isaac, et Jacob, dicens: Semini tuo dabo eam. Vidisti eam oculis tuis, et non transibis ad illam.",
+        "Clem-Saints": "Dixitque Dominus ad eum: Hæc est terra, pro qua juravi Abraham, Isaac, et Jacob, dicens: Semini tuo dabo eam. Vidisti eam oculis tuis, et non transibis ad illam.",
+        "VulgHetzenauer (1906)": "Dixitque Dominus ad eum: Hæc est terra, pro qua iuravi Abraham, Isaac, et Iacob, dicens: Semini tuo dabo eam. Vidisti eam oculis tuis, et non transibis ad illam.",
+        "VulgConte (2009)": "Dixitque Dominus ad eum: Hæc est terra, pro qua iuravi Abraham, Isaac, et Iacob, dicens: Semini tuo dabo eam. Vidisti eam oculis tuis, et non transibis ad illam.",
+        "VulgSistina (1590)": "Dixitque Dominus ad eum: Haec est terra, pro qua iuravi Abraham, Isaac, et Iacob, dicens: Semini tuo dabo eam. Vidisti eam oculis tuis, et non transibis ad illam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67259,
+      "verse": 5,
+      "critical_text": "Mortuusque est ibi Moyses servus Domini, in terra Moab, jubente Domino:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Mortuusque est ibi Moyses servus Domini, in terra Moab, jubente Domino:",
+        "Clem-Saints": "Mortuusque est ibi Moyses servus Domini, in terra Moab, jubente Domino:",
+        "VulgHetzenauer (1906)": "Mortuusque est ibi Moyses servus Domini, in terra Moab, iubente Domino:",
+        "VulgConte (2009)": "Mortuusque est ibi Moyses servus Domini, in terra Moab, iubente Domino:",
+        "VulgSistina (1590)": "Mortuusque est ibi Moyses servus Domini, in terra Moab, iubente Domino:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67260,
+      "verse": 6,
+      "critical_text": "et sepelivit eum in valle terræ Moab contra Phogor: et non cognovit homo sepulchrum ejus usque in præsentem diem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et sepelivit eum in valle terræ Moab contra Phogor: et non cognovit homo sepulchrum ejus usque in præsentem diem.",
+        "Clem-Saints": "et sepelivit eum in valle terræ Moab contra Phogor: et non cognovit homo sepulchrum ejus usque in præsentem diem.",
+        "VulgHetzenauer (1906)": "et sepelivit eum in valle Terræ Moab contra Phogor: et non cognovit homo sepulchrum eius usque in præsentem diem.",
+        "VulgConte (2009)": "et sepelivit eum in valle Terræ Moab contra Phogor: et non cognovit homo sepulchrum eius usque in præsentem diem.",
+        "VulgSistina (1590)": "et sepelivit eum in valle Terrae Moab contra Phogor: et non cognovit homo sepulchrum eius usque in praesentem diem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67261,
+      "verse": 7,
+      "critical_text": "Moyses centum et viginti annorum erat quando mortuus est: non caligavit oculus ejus, nec dentes illius moti sunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Moyses centum et viginti annorum erat quando mortuus est: non caligavit oculus ejus, nec dentes illius moti sunt.",
+        "Clem-Saints": "Moyses centum et viginti annorum erat quando mortuus est: non caligavit oculus ejus, nec dentes illius moti sunt.",
+        "VulgHetzenauer (1906)": "Moyses centum et viginti annorum erat quando mortuus est: non caligavit oculus eius, nec dentes illius moti sunt.",
+        "VulgConte (2009)": "Moyses centum et viginti annorum erat quando mortuus est: non caligavit oculus eius, nec dentes illius moti sunt.",
+        "VulgSistina (1590)": "Moyses centum et viginti annorum erat quando mortuus est: non caligavit oculus eius, nec dentes illius moti sunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67262,
+      "verse": 8,
+      "critical_text": "Fleveruntque eum filii Israël in campestribus Moab triginta diebus: et completi sunt dies planctus lugentium Moysen.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fleveruntque eum filii Israël in campestribus Moab triginta diebus: et completi sunt dies planctus lugentium Moysen.",
+        "Clem-Saints": "Fleveruntque eum filii Israël in campestribus Moab triginta diebus: et completi sunt dies planctus lugentium Moysen.",
+        "VulgHetzenauer (1906)": "Fleveruntque eum filii Israel in campestribus Moab triginta diebus: et completi sunt dies planctus lugentium Moysen.",
+        "VulgConte (2009)": "Fleveruntque eum filii Israel in campestribus Moab triginta diebus: et completi sunt dies planctus lugentium Moysen.",
+        "VulgSistina (1590)": "Fleveruntque eum filii Israel in campestribus Moab triginta diebus: et completi sunt dies planctus lugentium Moysen."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67263,
+      "verse": 9,
+      "critical_text": "Josue vero filius Nun repletus est spiritu sapientiæ, quia Moyses posuit super eum manus suas. Et obedierunt ei filii Israël, feceruntque sicut præcepit Dominus Moysi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Josue vero filius Nun repletus est spiritu sapientiæ, quia Moyses posuit super eum manus suas. Et obedierunt ei filii Israël, feceruntque sicut præcepit Dominus Moysi.",
+        "Clem-Saints": "Josue vero filius Nun repletus est spiritu sapientiæ, quia Moyses posuit super eum manus suas. Et obedierunt ei filii Israël, feceruntque sicut præcepit Dominus Moysi.",
+        "VulgHetzenauer (1906)": "Iosue vero filius Nun repletus est Spiritu sapientiæ, quia Moyses posuit super eum manus suas. Et obedierunt ei filii Israel, feceruntque sicut præcepit Dominus Moysi.",
+        "VulgConte (2009)": "Iosue vero filius Nun repletus est Spiritu sapientiæ, quia Moyses posuit super eum manus suas. Et obedierunt ei filii Israel, feceruntque sicut præcepit Dominus Moysi.",
+        "VulgSistina (1590)": "Iosue vero filius Nun repletus est Spiritu sapientiae, quia Moyses posuit super eum manus suas. Et obedierunt ei filii Israel, feceruntque sicut praecepit Dominus Moysi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67264,
+      "verse": 10,
+      "critical_text": "Et non surrexit ultra propheta in Israël sicut Moyses, quem nosset Dominus facie ad faciem,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et non surrexit ultra propheta in Israël sicut Moyses, quem nosset Dominus facie ad faciem,",
+        "Clem-Saints": "Et non surrexit ultra propheta in Israël sicut Moyses, quem nosset Dominus facie ad faciem,",
+        "VulgHetzenauer (1906)": "Et non surrexit ultra propheta in Israel sicut Moyses, quem nosset Dominus facie ad faciem,",
+        "VulgConte (2009)": "Et non surrexit ultra propheta in Israel sicut Moyses, quem nosset Dominus facie ad faciem,",
+        "VulgSistina (1590)": "Et non surrexit ultra propheta in Israel sicut Moyses, quem nosset Dominus facie ad faciem,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67265,
+      "verse": 11,
+      "critical_text": "in omnibus signis atque portentis, quæ misit per eum, ut faceret in terra Ægypti Pharaoni, et omnibus servis ejus, universæque terræ illius,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "in omnibus signis atque portentis, quæ misit per eum, ut faceret in terra Ægypti Pharaoni, et omnibus servis ejus, universæque terræ illius,",
+        "Clem-Saints": "in omnibus signis atque portentis, quæ misit per eum, ut faceret in terra Ægypti Pharaoni, et omnibus servis ejus, universæque terræ illius,",
+        "VulgHetzenauer (1906)": "in omnibus signis atque portentis, quæ misit per eum, ut faceret in Terra Ægypti Pharaoni, et omnibus servis eius, universæque terræ illius,",
+        "VulgConte (2009)": "in omnibus signis atque portentis, quæ misit per eum, ut faceret in Terra Ægypti Pharaoni, et omnibus servis eius, universæque terræ illius,",
+        "VulgSistina (1590)": "in omnibus signis atque portentis, quae misit per eum, ut faceret in Terra Aegypti Pharaoni, et omnibus servis eius, universaeque terrae illius,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67266,
+      "verse": 12,
+      "critical_text": "et cunctam manum robustam, magnaque mirabilia, quæ fecit Moyses coram universo Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et cunctam manum robustam, magnaque mirabilia, quæ fecit Moyses coram universo Israël.",
+        "Clem-Saints": "et cunctam manum robustam, magnaque mirabilia, quæ fecit Moyses coram universo Israël.",
+        "VulgHetzenauer (1906)": "et cunctam manum robustam, magnaque mirabilia, quæ fecit Moyses coram universo Israel.",
+        "VulgConte (2009)": "et cunctam manum robustam, magnaque mirabilia, quæ fecit Moyses coram universo Israel.",
+        "VulgSistina (1590)": "et cunctam manum robustam, magnaque mirabilia, quae fecit Moyses coram universo Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

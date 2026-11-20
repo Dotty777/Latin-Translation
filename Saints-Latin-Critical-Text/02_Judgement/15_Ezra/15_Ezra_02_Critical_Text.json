@@ -1,0 +1,2622 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "ezra",
+  "book_title": "Ezra",
+  "usfm_code": "EZR",
+  "chapter": 2,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:01Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 73437,
+      "verse": 1,
+      "critical_text": "Hi sunt autem provinciæ filii, qui ascenderunt de captivitate, quam transtulerat Nabuchodonosor rex Babylonis in Babylonem, et reversi sunt in Jerusalem et Judam, unusquisque in civitatem suam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hi sunt autem provinciæ filii, qui ascenderunt de captivitate, quam transtulerat Nabuchodonosor rex Babylonis in Babylonem, et reversi sunt in Jerusalem et Judam, unusquisque in civitatem suam.",
+        "Clem-Saints": "Hi sunt autem provinciæ filii, qui ascenderunt de captivitate, quam transtulerat Nabuchodonosor rex Babylonis in Babylonem, et reversi sunt in Jerusalem et Judam, unusquisque in civitatem suam.",
+        "VulgHetzenauer (1906)": "Hi sunt autem provinciæ filii, qui ascenderunt de captivitate, quam transtulerat Nabuchodonosor rex Babylonis in Babylonem, et reversi sunt in Ierusalem et Iudam, unusquisque in civitatem suam.",
+        "VulgConte (2009)": "Hi sunt autem provinciæ filii, qui ascenderunt de captivitate, quam transtulerat Nabuchodonosor rex Babylonis in Babylonem, et reversi sunt in Ierusalem et Iudam, unusquisque in civitatem suam.",
+        "VulgSistina (1590)": "Hi sunt autem provinciae filii, qui ascenderunt de captivitate, quam transtulerat Nabuchodonosor rex Babylonis in Babylonem, et reversi sunt in Ierusalem et Iuda, unusquisque in civitatem suam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Judam,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Iuda,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 22,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iudam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73438,
+      "verse": 2,
+      "critical_text": "Qui venerunt cum Zorobabel, Josue, Nehemia, Saraia, Rahelaia, Mardochai, Belsan, Mesphar, Beguai, Rehum, Baana. Numerus virorum populi Israël:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui venerunt cum Zorobabel, Josue, Nehemia, Saraia, Rahelaia, Mardochai, Belsan, Mesphar, Beguai, Rehum, Baana. Numerus virorum populi Israël:",
+        "Clem-Saints": "Qui venerunt cum Zorobabel, Josue, Nehemia, Saraia, Rahelaia, Mardochai, Belsan, Mesphar, Beguai, Rehum, Baana. Numerus virorum populi Israël:",
+        "VulgHetzenauer (1906)": "Qui venerunt cum Zorobabel, Iosue, Nehemia, Saraia, Rahelaia, Mardochai, Belsan, Mesphar, Beguai, Rehum, Baana. Numerus virorum populi Israel:",
+        "VulgConte (2009)": "Qui venerunt cum Zorobabel, Iosue, Nehemia, Saraia, Rahelaia, Mardochai, Belsan, Mesphar, Beguai, Rehum, Baana. Numerus virorum populi Israel:",
+        "VulgSistina (1590)": "Qui venerunt cum Zorobabel, Iosue, Nehemia, Saraia, Rahelaia, Mardochai, Belsan, Mesphar, Beguai, Rehum, Baana. Numerus virorum populi Israel:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73439,
+      "verse": 3,
+      "critical_text": "filii Pharos duo millia centum septuaginta duo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii Pharos duo millia centum septuaginta duo.",
+        "Clem-Saints": "filii Pharos duo millia centum septuaginta duo.",
+        "VulgHetzenauer (1906)": "Filii Pharos duo millia centum septuagintaduo.",
+        "VulgConte (2009)": "Filii Pharos, duo millia centum septuagintaduo.",
+        "VulgSistina (1590)": "Filii Pharos duo millia centum septuagintaduo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "septuaginta duo. / septuagintaduo.",
+            "septuaginta duo. / septuagintaduo.",
+            "septuaginta duo. / septuagintaduo."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73440,
+      "verse": 4,
+      "critical_text": "Filii Sephatia, trecenti septuaginta duo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Sephatia, trecenti septuaginta duo.",
+        "Clem-Saints": "Filii Sephatia, trecenti septuaginta duo.",
+        "VulgHetzenauer (1906)": "Filii Sephatia, trecenti septuagintaduo.",
+        "VulgConte (2009)": "Filii Sephatia, trecenti septuagintaduo.",
+        "VulgSistina (1590)": "Filii Sephatia, trecenti septuagintaduo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "septuaginta duo. / septuagintaduo.",
+            "septuaginta duo. / septuagintaduo.",
+            "septuaginta duo. / septuagintaduo."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73441,
+      "verse": 5,
+      "critical_text": "Filii Area, septingenti septuaginta quinque.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Area, septingenti septuaginta quinque.",
+        "Clem-Saints": "Filii Area, septingenti septuaginta quinque.",
+        "VulgHetzenauer (1906)": "Filii Area, septingenti septuagintaquinque.",
+        "VulgConte (2009)": "Filii Area, septingenti septuagintaquinque.",
+        "VulgSistina (1590)": "Filii Area, septingenti septuagintaquinque."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "septuaginta quinque. / septuagintaquinque.",
+            "septuaginta quinque. / septuagintaquinque.",
+            "septuaginta quinque. / septuagintaquinque."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73442,
+      "verse": 6,
+      "critical_text": "Filii Phahath Moab, filiorum Josue: Joab, duo millia octingenti duodecim.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Phahath Moab, filiorum Josue: Joab, duo millia octingenti duodecim.",
+        "Clem-Saints": "Filii Phahath Moab, filiorum Josue: Joab, duo millia octingenti duodecim.",
+        "VulgHetzenauer (1906)": "Filii Phahath Moab, filiorum Iosue: Ioab duo millia octingenti duodecim.",
+        "VulgConte (2009)": "Filii Phahath-moab, filiorum Iosue: Ioab, duo millia octingenti duodecim.",
+        "VulgSistina (1590)": "Filii Phahath Moab, filiorum Iosue: Ioab duo millia octingenti duodecim."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Phahath Moab, / Phahath-moab,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73443,
+      "verse": 7,
+      "critical_text": "Filii Ælam, mille ducenti quinquaginta quatuor.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Ælam, mille ducenti quinquaginta quatuor.",
+        "Clem-Saints": "Filii Ælam, mille ducenti quinquaginta quatuor.",
+        "VulgHetzenauer (1906)": "Filii Ælam mille ducenti quinquagintaquattuor.",
+        "VulgConte (2009)": "Filii Ælam, mille ducenti quinquagintaquattuor.",
+        "VulgSistina (1590)": "Filii Aelam mille ducenti quinquagintaquattuor."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quinquaginta quatuor. / quinquagintaquattuor.",
+            "quinquaginta quatuor. / quinquagintaquattuor.",
+            "quinquaginta quatuor. / quinquagintaquattuor."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs, with a spelling difference"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73444,
+      "verse": 8,
+      "critical_text": "Filii Zethua, nongenti quadraginta quinque.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Zethua, nongenti quadraginta quinque.",
+        "Clem-Saints": "Filii Zethua, nongenti quadraginta quinque.",
+        "VulgHetzenauer (1906)": "Filii Zethua, nongenti quadragintaquinque.",
+        "VulgConte (2009)": "Filii Zethua, nongenti quadragintaquinque.",
+        "VulgSistina (1590)": "Filii Zethua, nongenti quadragintaquinque."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quadraginta quinque. / quadragintaquinque.",
+            "quadraginta quinque. / quadragintaquinque.",
+            "quadraginta quinque. / quadragintaquinque."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73445,
+      "verse": 9,
+      "critical_text": "Filii Zachai, septingenti sexaginta.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Zachai, septingenti sexaginta.",
+        "Clem-Saints": "Filii Zachai, septingenti sexaginta.",
+        "VulgHetzenauer (1906)": "Filii Zachai, septingenti sexaginta.",
+        "VulgConte (2009)": "Filii Zachai, septingenti sexaginta.",
+        "VulgSistina (1590)": "Filii Zachai, septingenti sexaginta."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73446,
+      "verse": 10,
+      "critical_text": "Filii Bani, sexcenti quadraginta duo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Bani, sexcenti quadraginta duo.",
+        "Clem-Saints": "Filii Bani, sexcenti quadraginta duo.",
+        "VulgHetzenauer (1906)": "Filii Bani, sexcenti quadragintaduo.",
+        "VulgConte (2009)": "Filii Bani, sexcenti quadragintaduo.",
+        "VulgSistina (1590)": "Filii Bani, sexcenti quadragintaduo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quadraginta duo. / quadragintaduo.",
+            "quadraginta duo. / quadragintaduo.",
+            "quadraginta duo. / quadragintaduo."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73447,
+      "verse": 11,
+      "critical_text": "Filii Bebai, sexcenti viginti tres.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Bebai, sexcenti viginti tres.",
+        "Clem-Saints": "Filii Bebai, sexcenti viginti tres.",
+        "VulgHetzenauer (1906)": "Filii Bebai, sexcenti vigintitres.",
+        "VulgConte (2009)": "Filii Bebai, sexcenti vigintitres.",
+        "VulgSistina (1590)": "Filii Bebai, sexcenti vigintitres."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "viginti tres. / vigintitres.",
+            "viginti tres. / vigintitres.",
+            "viginti tres. / vigintitres."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73448,
+      "verse": 12,
+      "critical_text": "Filii Azgad, mille ducenti viginti duo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Azgad, mille ducenti viginti duo.",
+        "Clem-Saints": "Filii Azgad, mille ducenti viginti duo.",
+        "VulgHetzenauer (1906)": "Filii Azgad, mille ducenti viginti duo.",
+        "VulgConte (2009)": "Filii Azgad, mille ducenti viginti duo.",
+        "VulgSistina (1590)": "Filii Azgad, mille ducenti viginti duo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73449,
+      "verse": 13,
+      "critical_text": "Filii Adonicam, sexcenti sexaginta sex.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Adonicam, sexcenti sexaginta sex.",
+        "Clem-Saints": "Filii Adonicam, sexcenti sexaginta sex.",
+        "VulgHetzenauer (1906)": "Filii Adonicam, sexcenti sexagintasex.",
+        "VulgConte (2009)": "Filii Adonicam, sexcenti sexagintasex.",
+        "VulgSistina (1590)": "Filii Adonicam, sexcenti sexagintasex."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "sexaginta sex. / sexagintasex.",
+            "sexaginta sex. / sexagintasex.",
+            "sexaginta sex. / sexagintasex."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73450,
+      "verse": 14,
+      "critical_text": "Filii Beguai, duo millia quinquaginta sex.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Beguai, duo millia quinquaginta sex.",
+        "Clem-Saints": "Filii Beguai, duo millia quinquaginta sex.",
+        "VulgHetzenauer (1906)": "Filii Beguai, duo millia quinquagintasex.",
+        "VulgConte (2009)": "Filii Beguai, duo millia quinquagintasex.",
+        "VulgSistina (1590)": "Filii Beguai, duo millia quinquagintasex."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quinquaginta sex. / quinquagintasex.",
+            "quinquaginta sex. / quinquagintasex.",
+            "quinquaginta sex. / quinquagintasex."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73451,
+      "verse": 15,
+      "critical_text": "Filii Adin, quadringenti quinquaginta quatuor.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Adin, quadringenti quinquaginta quatuor.",
+        "Clem-Saints": "Filii Adin, quadringenti quinquaginta quatuor.",
+        "VulgHetzenauer (1906)": "Filii Adin, quadringenti quinquagintaquattuor.",
+        "VulgConte (2009)": "Filii Adin, quadringenti quinquagintaquattuor.",
+        "VulgSistina (1590)": "Filii Adin, quadringenti quinquagintaquattuor."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quinquaginta quatuor. / quinquagintaquattuor.",
+            "quinquaginta quatuor. / quinquagintaquattuor.",
+            "quinquaginta quatuor. / quinquagintaquattuor."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs, with a spelling difference"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73452,
+      "verse": 16,
+      "critical_text": "Filii Ather, qui erant ex Ezechia, nonaginta octo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Ather, qui erant ex Ezechia, nonaginta octo.",
+        "Clem-Saints": "Filii Ather, qui erant ex Ezechia, nonaginta octo.",
+        "VulgHetzenauer (1906)": "Filii Ather, qui erant ex Ezechia, nonagintaocto.",
+        "VulgConte (2009)": "Filii Ather, qui erant ex Ezechia, nonagintaocto.",
+        "VulgSistina (1590)": "Filii Ather, qui erant ex Ezechia, nonagintaocto."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nonaginta octo. / nonagintaocto.",
+            "nonaginta octo. / nonagintaocto.",
+            "nonaginta octo. / nonagintaocto."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73453,
+      "verse": 17,
+      "critical_text": "Filii Besai, trecenti viginti tres.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Besai, trecenti viginti tres.",
+        "Clem-Saints": "Filii Besai, trecenti viginti tres.",
+        "VulgHetzenauer (1906)": "Filii Besai, trecenti vigintitres.",
+        "VulgConte (2009)": "Filii Besai, trecenti vigintitres.",
+        "VulgSistina (1590)": "Filii Besai, trecenti vigintitres."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "viginti tres. / vigintitres.",
+            "viginti tres. / vigintitres.",
+            "viginti tres. / vigintitres."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73454,
+      "verse": 18,
+      "critical_text": "Filii Jora, centum duodecim.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Jora, centum duodecim.",
+        "Clem-Saints": "Filii Jora, centum duodecim.",
+        "VulgHetzenauer (1906)": "Filii Iora, centum duodecim.",
+        "VulgConte (2009)": "Filii Iora, centum duodecim.",
+        "VulgSistina (1590)": "Filii Iora, centum duodecim."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73455,
+      "verse": 19,
+      "critical_text": "Filii Hasum, ducenti viginti tres.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Hasum, ducenti viginti tres.",
+        "Clem-Saints": "Filii Hasum, ducenti viginti tres.",
+        "VulgHetzenauer (1906)": "Filii Hasum, ducenti vigintitres.",
+        "VulgConte (2009)": "Filii Hasum, ducenti vigintitres.",
+        "VulgSistina (1590)": "Filii Hasum, ducenti vigintitres."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "viginti tres. / vigintitres.",
+            "viginti tres. / vigintitres.",
+            "viginti tres. / vigintitres."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73456,
+      "verse": 20,
+      "critical_text": "Filii Gebbar, nonaginta quinque.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Gebbar, nonaginta quinque.",
+        "Clem-Saints": "Filii Gebbar, nonaginta quinque.",
+        "VulgHetzenauer (1906)": "Filii Gebbar, nonagintaquinque.",
+        "VulgConte (2009)": "Filii Gebbar, nonagintaquinque.",
+        "VulgSistina (1590)": "Filii Gebbar, nonagintaquinque."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nonaginta quinque. / nonagintaquinque.",
+            "nonaginta quinque. / nonagintaquinque.",
+            "nonaginta quinque. / nonagintaquinque."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73457,
+      "verse": 21,
+      "critical_text": "Filii Bethlehem, centum viginti tres.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Bethlehem, centum viginti tres.",
+        "Clem-Saints": "Filii Bethlehem, centum viginti tres.",
+        "VulgHetzenauer (1906)": "Filii Bethlehem, centum vigintitres.",
+        "VulgConte (2009)": "Filii Bethlehem, centum vigintitres.",
+        "VulgSistina (1590)": "Filii Bethlehem, centum vigintitres."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "viginti tres. / vigintitres.",
+            "viginti tres. / vigintitres.",
+            "viginti tres. / vigintitres."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73458,
+      "verse": 22,
+      "critical_text": "Viri Netupha, quinquaginta sex.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Viri Netupha, quinquaginta sex.",
+        "Clem-Saints": "Viri Netupha, quinquaginta sex.",
+        "VulgHetzenauer (1906)": "Viri Netupha, quinquagintasex.",
+        "VulgConte (2009)": "Viri Netupha, quinquagintasex.",
+        "VulgSistina (1590)": "Viri Netupha, quinquagintasex."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quinquaginta sex. / quinquagintasex.",
+            "quinquaginta sex. / quinquagintasex.",
+            "quinquaginta sex. / quinquagintasex."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73459,
+      "verse": 23,
+      "critical_text": "Viri Anathoth, centum viginti octo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Viri Anathoth, centum viginti octo.",
+        "Clem-Saints": "Viri Anathoth, centum viginti octo.",
+        "VulgHetzenauer (1906)": "Viri Anathoth, centum vigintiocto.",
+        "VulgConte (2009)": "Viri Anathoth, centum vigintiocto.",
+        "VulgSistina (1590)": "Viri Anathoth, centum vigintiocto."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "viginti octo. / vigintiocto.",
+            "viginti octo. / vigintiocto.",
+            "viginti octo. / vigintiocto."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73460,
+      "verse": 24,
+      "critical_text": "Filii Azmaveth, quadraginta duo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Azmaveth, quadraginta duo.",
+        "Clem-Saints": "Filii Azmaveth, quadraginta duo.",
+        "VulgHetzenauer (1906)": "Filii Azmaveth, quadraginta duo.",
+        "VulgConte (2009)": "Filii Azmaveth, quadraginta duo.",
+        "VulgSistina (1590)": "Filii Azmaveth, quadraginta duo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73461,
+      "verse": 25,
+      "critical_text": "Filii Cariathiarim, Cephira et Beroth, septingenti quadraginta tres.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Cariathiarim, Cephira et Beroth, septingenti quadraginta tres.",
+        "Clem-Saints": "Filii Cariathiarim, Cephira et Beroth, septingenti quadraginta tres.",
+        "VulgHetzenauer (1906)": "Filii Cariathiarim, Cephira, et Beroth, septingenti quadragintatres.",
+        "VulgConte (2009)": "Filii Cariathiarim, Cephira, et Beroth, septingenti quadragintatres.",
+        "VulgSistina (1590)": "Filii Cariathiarim, Cephira, et Beroth, septingenti quadragintatres."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quadraginta tres. / quadragintatres.",
+            "quadraginta tres. / quadragintatres.",
+            "quadraginta tres. / quadragintatres."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73462,
+      "verse": 26,
+      "critical_text": "Filii Rama et Gabaa, sexcenti viginti unus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Rama et Gabaa, sexcenti viginti unus.",
+        "Clem-Saints": "Filii Rama et Gabaa, sexcenti viginti unus.",
+        "VulgHetzenauer (1906)": "Filii Rama et Gabaa, sexcenti vigintiunus.",
+        "VulgConte (2009)": "Filii Rama et Gabaa, sexcenti vigintiunus.",
+        "VulgSistina (1590)": "Filii Rama et Gabaa, sexcenti vigintiunus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "viginti unus. / vigintiunus.",
+            "viginti unus. / vigintiunus.",
+            "viginti unus. / vigintiunus."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73463,
+      "verse": 27,
+      "critical_text": "Viri Machmas, centum viginti duo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Viri Machmas, centum viginti duo.",
+        "Clem-Saints": "Viri Machmas, centum viginti duo.",
+        "VulgHetzenauer (1906)": "Viri Machmas, centum viginti duo.",
+        "VulgConte (2009)": "Viri Machmas, centum viginti duo.",
+        "VulgSistina (1590)": "Viri Machmas, centum viginti duo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73464,
+      "verse": 28,
+      "critical_text": "Viri Bethel et Hai, ducenti viginti tres.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Viri Bethel et Hai, ducenti viginti tres.",
+        "Clem-Saints": "Viri Bethel et Hai, ducenti viginti tres.",
+        "VulgHetzenauer (1906)": "Viri Bethel et Hai, ducenti vigintitres.",
+        "VulgConte (2009)": "Viri Bethel et Hai, ducenti vigintitres.",
+        "VulgSistina (1590)": "Viri Bethel et Hai, ducenti vigintitres."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "viginti tres. / vigintitres.",
+            "viginti tres. / vigintitres.",
+            "viginti tres. / vigintitres."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73465,
+      "verse": 29,
+      "critical_text": "Filii Nebo, quinquaginta duo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Nebo, quinquaginta duo.",
+        "Clem-Saints": "Filii Nebo, quinquaginta duo.",
+        "VulgHetzenauer (1906)": "Filii Nebo, quinquagintaduo.",
+        "VulgConte (2009)": "Filii Nebo, quinquagintaduo.",
+        "VulgSistina (1590)": "Filii Nebo, quinquagintaduo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quinquaginta duo. / quinquagintaduo.",
+            "quinquaginta duo. / quinquagintaduo.",
+            "quinquaginta duo. / quinquagintaduo."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73466,
+      "verse": 30,
+      "critical_text": "Filii Megbis, centum quinquaginta sex.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Megbis, centum quinquaginta sex.",
+        "Clem-Saints": "Filii Megbis, centum quinquaginta sex.",
+        "VulgHetzenauer (1906)": "Filii Megbis, centum quinquagintasex.",
+        "VulgConte (2009)": "Filii Megbis, centum quinquagintasex.",
+        "VulgSistina (1590)": "Filii Megbis, centum quinquagintasex."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quinquaginta sex. / quinquagintasex.",
+            "quinquaginta sex. / quinquagintasex.",
+            "quinquaginta sex. / quinquagintasex."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73467,
+      "verse": 31,
+      "critical_text": "Filii Ælam alterius, mille ducenti quinquaginta quatuor.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Ælam alterius, mille ducenti quinquaginta quatuor.",
+        "Clem-Saints": "Filii Ælam alterius, mille ducenti quinquaginta quatuor.",
+        "VulgHetzenauer (1906)": "Filii Ælam alterius, mille ducenti quinquagintaquattuor.",
+        "VulgConte (2009)": "Filii Ælam alterius, mille ducenti quinquagintaquattuor.",
+        "VulgSistina (1590)": "Filii Aelam alterius, mille ducenti quinquagintaquattuor."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quinquaginta quatuor. / quinquagintaquattuor.",
+            "quinquaginta quatuor. / quinquagintaquattuor.",
+            "quinquaginta quatuor. / quinquagintaquattuor."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs, with a spelling difference"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73468,
+      "verse": 32,
+      "critical_text": "Filii Harim, trecenti viginti.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Harim, trecenti viginti.",
+        "Clem-Saints": "Filii Harim, trecenti viginti.",
+        "VulgHetzenauer (1906)": "Filii Harim, trecenti viginti.",
+        "VulgConte (2009)": "Filii Harim, trecenti viginti.",
+        "VulgSistina (1590)": "Filii Harim, trecenti viginti."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73469,
+      "verse": 33,
+      "critical_text": "Filii Lod Hadid, et Ono, septingenti viginti quinque.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Lod Hadid, et Ono, septingenti viginti quinque.",
+        "Clem-Saints": "Filii Lod Hadid, et Ono, septingenti viginti quinque.",
+        "VulgHetzenauer (1906)": "Filii Lod Hadid, et Ono, septingenti vigintiquinque.",
+        "VulgConte (2009)": "Filii Lod Hadid, et Ono, septingenti vigintiquinque.",
+        "VulgSistina (1590)": "Filii Lod Hadid, et Ono, septingenti vigintiquinque."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "viginti quinque. / vigintiquinque.",
+            "viginti quinque. / vigintiquinque.",
+            "viginti quinque. / vigintiquinque."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73470,
+      "verse": 34,
+      "critical_text": "Filii Jericho, trecenti quadraginta quinque.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Jericho, trecenti quadraginta quinque.",
+        "Clem-Saints": "Filii Jericho, trecenti quadraginta quinque.",
+        "VulgHetzenauer (1906)": "Filii Iericho, trecenti quadragintaquinque.",
+        "VulgConte (2009)": "Filii Iericho, trecenti quadragintaquinque.",
+        "VulgSistina (1590)": "Filii Iericho, trecenti quadragintaquinque."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quadraginta quinque. / quadragintaquinque.",
+            "quadraginta quinque. / quadragintaquinque.",
+            "quadraginta quinque. / quadragintaquinque."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73471,
+      "verse": 35,
+      "critical_text": "Filii Senaa, tria millia sexcenti triginta.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Senaa, tria millia sexcenti triginta.",
+        "Clem-Saints": "Filii Senaa, tria millia sexcenti triginta.",
+        "VulgHetzenauer (1906)": "Filii Senaa, tria millia sexcenti triginta.",
+        "VulgConte (2009)": "Filii Senaa, tria millia sexcenti triginta.",
+        "VulgSistina (1590)": "Filii Senaa, tria millia sexcenti triginta."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73472,
+      "verse": 36,
+      "critical_text": "Sacerdotes: filii Jadaia in domo Josue, nongenti septuaginta tres.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sacerdotes: filii Jadaia in domo Josue, nongenti septuaginta tres.",
+        "Clem-Saints": "Sacerdotes: filii Jadaia in domo Josue, nongenti septuaginta tres.",
+        "VulgHetzenauer (1906)": "Sacerdotes: Filii Iadaia in domo Iosue nongenti septuaginta tres.",
+        "VulgConte (2009)": "Sacerdotes: Filii Iadaia in domo Iosue, nongenti septuaginta tres.",
+        "VulgSistina (1590)": "Sacerdotes: Filii Iadaia in domo Iosue nongenti septuaginta tres."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73473,
+      "verse": 37,
+      "critical_text": "Filii Emmer, mille quinquaginta duo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Emmer, mille quinquaginta duo.",
+        "Clem-Saints": "Filii Emmer, mille quinquaginta duo.",
+        "VulgHetzenauer (1906)": "Filii Emmer, mille quinquagintaduo.",
+        "VulgConte (2009)": "Filii Emmer, mille quinquagintaduo.",
+        "VulgSistina (1590)": "Filii Emmer, mille quinquagintaduo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quinquaginta duo. / quinquagintaduo.",
+            "quinquaginta duo. / quinquagintaduo.",
+            "quinquaginta duo. / quinquagintaduo."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73474,
+      "verse": 38,
+      "critical_text": "Filii Pheshur, mille ducenti quadraginta septem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Pheshur, mille ducenti quadraginta septem.",
+        "Clem-Saints": "Filii Pheshur, mille ducenti quadraginta septem.",
+        "VulgHetzenauer (1906)": "Filii Pheshur, mille ducenti quadraginta septem.",
+        "VulgConte (2009)": "Filii Pheshur, mille ducenti quadraginta septem.",
+        "VulgSistina (1590)": "Filii Pheshur, mille ducenti quadraginta septem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73475,
+      "verse": 39,
+      "critical_text": "Filii Harim, mille decem et septem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Harim, mille decem et septem.",
+        "Clem-Saints": "Filii Harim, mille decem et septem.",
+        "VulgHetzenauer (1906)": "Filii Harim, mille decem et septem.",
+        "VulgConte (2009)": "Filii Harim, mille decem et septem.",
+        "VulgSistina (1590)": "Filii Harim, mille decem et septem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73476,
+      "verse": 40,
+      "critical_text": "Levitæ: filii Josue et Cedmihel filiorum Odoviæ, septuaginta quatuor.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Levitæ: filii Josue et Cedmihel filiorum Odoviæ, septuaginta quatuor.",
+        "Clem-Saints": "Levitæ: filii Josue et Cedmihel filiorum Odoviæ, septuaginta quatuor.",
+        "VulgHetzenauer (1906)": "Levitæ: Filii Iosue et Cedmihel filiorum Odoviæ septuagintaquattuor.",
+        "VulgConte (2009)": "Levitæ: Filii Iosue et Cedmihel filiorum Odoviæ, septuagintaquattuor.",
+        "VulgSistina (1590)": "Levitae: Filii Iosue et Cedmihel filiorum Odoviae septuagintaquattuor."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "septuaginta quatuor. / septuagintaquattuor.",
+            "septuaginta quatuor. / septuagintaquattuor.",
+            "septuaginta quatuor. / septuagintaquattuor."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs, with a spelling difference"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73477,
+      "verse": 41,
+      "critical_text": "Cantores: filii Asaph, centum viginti octo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cantores: filii Asaph, centum viginti octo.",
+        "Clem-Saints": "Cantores: filii Asaph, centum viginti octo.",
+        "VulgHetzenauer (1906)": "Cantores: Filii Asaph, centum vigintiocto.",
+        "VulgConte (2009)": "Cantores: Filii Asaph, centum vigintiocto.",
+        "VulgSistina (1590)": "Cantores: Filii Asaph, centum vigintiocto."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "viginti octo. / vigintiocto.",
+            "viginti octo. / vigintiocto.",
+            "viginti octo. / vigintiocto."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73478,
+      "verse": 42,
+      "critical_text": "Filii janitorum: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatitha, filii Sobai: universi centum triginta novem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii janitorum: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatitha, filii Sobai: universi centum triginta novem.",
+        "Clem-Saints": "Filii janitorum: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatitha, filii Sobai: universi centum triginta novem.",
+        "VulgHetzenauer (1906)": "Filii Ianitorum: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatita, filii Sobai: universi centum trigintanovem.",
+        "VulgConte (2009)": "Filii Ianitorum: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatita, filii Sobai: universi centum trigintanovem.",
+        "VulgSistina (1590)": "Filii Ianitorum: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatita, filii Sobai: universi centum trigintanovem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Hatitha, / Hatita,",
+            "Hatitha, / Hatita,",
+            "Hatitha, / Hatita,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "triginta novem. / trigintanovem.",
+            "triginta novem. / trigintanovem.",
+            "triginta novem. / trigintanovem."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73479,
+      "verse": 43,
+      "critical_text": "Nathinæi: filii Siha, filii Hasupha, filii Tabbaoth,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nathinæi: filii Siha, filii Hasupha, filii Tabbaoth,",
+        "Clem-Saints": "Nathinæi: filii Siha, filii Hasupha, filii Tabbaoth,",
+        "VulgHetzenauer (1906)": "Nathinæi: filii Siha, filii Hasupha, filii Tabbaoth,",
+        "VulgConte (2009)": "Nathinæi: filii Siha, filii Hasupha, filii Tabbaoth,",
+        "VulgSistina (1590)": "Nathinaei: filii Siha, filii Hasupha, filii Tabbaoth,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73480,
+      "verse": 44,
+      "critical_text": "filii Ceros, filii Siaa, filii Phadon,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii Ceros, filii Siaa, filii Phadon,",
+        "Clem-Saints": "filii Ceros, filii Siaa, filii Phadon,",
+        "VulgHetzenauer (1906)": "filii Ceros, filii Siaa, filii Phadon,",
+        "VulgConte (2009)": "filii Ceros, filii Siaa, filii Phadon,",
+        "VulgSistina (1590)": "filii Ceros, filii Siaa, filii Phadon,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73481,
+      "verse": 45,
+      "critical_text": "filii Lebana, filii Hagaba, filii Accub,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii Lebana, filii Hagaba, filii Accub,",
+        "Clem-Saints": "filii Lebana, filii Hagaba, filii Accub,",
+        "VulgHetzenauer (1906)": "filii Lebana, filii Hagaba, filii Accub,",
+        "VulgConte (2009)": "filii Lebana, filii Hagaba, filii Accub,",
+        "VulgSistina (1590)": "filii Lebana, filii Hagaba, filii Accub,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73482,
+      "verse": 46,
+      "critical_text": "filii Hagab, filii Semlai, filii Hanan,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii Hagab, filii Semlai, filii Hanan,",
+        "Clem-Saints": "filii Hagab, filii Semlai, filii Hanan,",
+        "VulgHetzenauer (1906)": "filii Hagab, filii Semlai, filii Hanan,",
+        "VulgConte (2009)": "filii Hagab, filii Semlai, filii Hanan,",
+        "VulgSistina (1590)": "filii Hagab, filii Semlai, filii Hanan,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73483,
+      "verse": 47,
+      "critical_text": "filii Gaddel, filii Gaher, filii Raaia,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii Gaddel, filii Gaher, filii Raaia,",
+        "Clem-Saints": "filii Gaddel, filii Gaher, filii Raaia,",
+        "VulgHetzenauer (1906)": "filii Gaddel, filii Gaher, filii Raaia,",
+        "VulgConte (2009)": "filii Gaddel, filii Gaher, filii Raaia,",
+        "VulgSistina (1590)": "filii Gaddel, filii Gaher, filii Raaia,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73484,
+      "verse": 48,
+      "critical_text": "filii Rasin, filii Necoda, filii Gazam,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii Rasin, filii Necoda, filii Gazam,",
+        "Clem-Saints": "filii Rasin, filii Necoda, filii Gazam,",
+        "VulgHetzenauer (1906)": "filii Rasin, filii Necoda, filii Gazam,",
+        "VulgConte (2009)": "filii Rasin, filii Necoda, filii Gazam,",
+        "VulgSistina (1590)": "filii Rasin, filii Necoda, filii Gazam,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73485,
+      "verse": 49,
+      "critical_text": "filii Aza, filii Phasea, filii Besee,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii Aza, filii Phasea, filii Besee,",
+        "Clem-Saints": "filii Aza, filii Phasea, filii Besee,",
+        "VulgHetzenauer (1906)": "filii Aza, filii Phasea, filii Besee,",
+        "VulgConte (2009)": "filii Aza, filii Phasea, filii Besee,",
+        "VulgSistina (1590)": "filii Aza, filii Phasea, filii Besee,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73486,
+      "verse": 50,
+      "critical_text": "filii Asena, filii Munim, filii Nephusim,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii Asena, filii Munim, filii Nephusim,",
+        "Clem-Saints": "filii Asena, filii Munim, filii Nephusim,",
+        "VulgHetzenauer (1906)": "filii Asena, filii Munim, filii Nephusim,",
+        "VulgConte (2009)": "filii Asena, filii Munim, filii Nephusim,",
+        "VulgSistina (1590)": "filii Asena, filii Munim, filii Nephusim,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73487,
+      "verse": 51,
+      "critical_text": "filii Bacbuc, filii Hacupha, filii Harhur,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii Bacbuc, filii Hacupha, filii Harhur,",
+        "Clem-Saints": "filii Bacbuc, filii Hacupha, filii Harhur,",
+        "VulgHetzenauer (1906)": "filii Bacbuc, filii Hacupha, filii Harhur,",
+        "VulgConte (2009)": "filii Bacbuc, filii Hacupha, filii Harhur,",
+        "VulgSistina (1590)": "filii Bacbuc, filii Hacupha, filii Harhur,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73488,
+      "verse": 52,
+      "critical_text": "filii Besluth, filii Mahida, filii Harsa,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii Besluth, filii Mahida, filii Harsa,",
+        "Clem-Saints": "filii Besluth, filii Mahida, filii Harsa,",
+        "VulgHetzenauer (1906)": "filii Besluth, filii Mahida, filii Harsa,",
+        "VulgConte (2009)": "filii Besluth, filii Mahida, filii Harsa,",
+        "VulgSistina (1590)": "filii Besluth, filii Mahida, filii Harsa,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73489,
+      "verse": 53,
+      "critical_text": "filii Bercos, filii Sisara, filii Thema,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii Bercos, filii Sisara, filii Thema,",
+        "Clem-Saints": "filii Bercos, filii Sisara, filii Thema,",
+        "VulgHetzenauer (1906)": "filii Bercos, filii Sisara, filii Thema,",
+        "VulgConte (2009)": "filii Bercos, filii Sisara, filii Thema,",
+        "VulgSistina (1590)": "filii Bercos, filii Sisara, filii Thema,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73490,
+      "verse": 54,
+      "critical_text": "filii Nasia, filii Hatipha,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii Nasia, filii Hatipha,",
+        "Clem-Saints": "filii Nasia, filii Hatipha,",
+        "VulgHetzenauer (1906)": "filii Nasia, filii Hatipha,",
+        "VulgConte (2009)": "filii Nasia, filii Hatipha,",
+        "VulgSistina (1590)": "filii Nasia, filii Hatipha,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73491,
+      "verse": 55,
+      "critical_text": "filii servorum Salomonis, filii Sotai, filii Sophereth, filii Pharuda,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii servorum Salomonis, filii Sotai, filii Sophereth, filii Pharuda,",
+        "Clem-Saints": "filii servorum Salomonis, filii Sotai, filii Sophereth, filii Pharuda,",
+        "VulgHetzenauer (1906)": "filii servorum Salomonis, filii Sotai, filii Sophereth, filii Pharuda,",
+        "VulgConte (2009)": "filii servorum Salomonis, filii Sotai, filii Sophereth, filii Pharuda,",
+        "VulgSistina (1590)": "filii servorum Salomonis, filii Sotai, filii Sophereth, filii Pharuda,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73492,
+      "verse": 56,
+      "critical_text": "filii Jala, filii Dercon, filii Geddel,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii Jala, filii Dercon, filii Geddel,",
+        "Clem-Saints": "filii Jala, filii Dercon, filii Geddel,",
+        "VulgHetzenauer (1906)": "filii Iala, filii Dercon, filii Geddel,",
+        "VulgConte (2009)": "filii Iala, filii Dercon, filii Geddel,",
+        "VulgSistina (1590)": "filii Iala, filii Dercon, filii Geddel,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73493,
+      "verse": 57,
+      "critical_text": "filii Saphatia, filii Hatil, filii Phochereth, qui erant de Asebaim, filii Ami:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filii Saphatia, filii Hatil, filii Phochereth, qui erant de Asebaim, filii Ami:",
+        "Clem-Saints": "filii Saphatia, filii Hatil, filii Phochereth, qui erant de Asebaim, filii Ami:",
+        "VulgHetzenauer (1906)": "filii Saphatia, filii Hatil, filii Phochereth, qui erant de Asebaim, filii Ami.",
+        "VulgConte (2009)": "filii Saphatia, filii Hatil, filii Phochereth, qui erant de Asebaim, filii Ami:",
+        "VulgSistina (1590)": "filii Saphatia, filii Hatil, filii Phochereth, qui erant de Asebaim, filii Ami."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73494,
+      "verse": 58,
+      "critical_text": "omnes Nathinæi, et filii servorum Salomonis, trecenti nonaginta duo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "omnes Nathinæi, et filii servorum Salomonis, trecenti nonaginta duo.",
+        "Clem-Saints": "omnes Nathinæi, et filii servorum Salomonis, trecenti nonaginta duo.",
+        "VulgHetzenauer (1906)": "omnes Nathinæi, et filii servorum Salomonis, trecenti nonagintaduo.",
+        "VulgConte (2009)": "omnes Nathinæi, et filii servorum Salomonis, trecenti nonagintaduo.",
+        "VulgSistina (1590)": "omnes Nathinaei, et filii servorum Salomonis, trecenti nonagintaduo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nonaginta duo. / nonagintaduo.",
+            "nonaginta duo. / nonagintaduo.",
+            "nonaginta duo. / nonagintaduo."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73495,
+      "verse": 59,
+      "critical_text": "Et hi qui ascenderunt de Thelmala, Thelharsa, Cherub, et Adon, et Emer: et non potuerunt indicare domum patrum suorum et semen suum, utrum ex Israël essent.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et hi qui ascenderunt de Thelmala, Thelharsa, Cherub, et Adon, et Emer: et non potuerunt indicare domum patrum suorum et semen suum, utrum ex Israël essent.",
+        "Clem-Saints": "Et hi qui ascenderunt de Thelmala, Thelharsa, Cherub, et Adon, et Emer: et non potuerunt indicare domum patrum suorum et semen suum, utrum ex Israël essent.",
+        "VulgHetzenauer (1906)": "Et hi qui ascenderunt de Thelmala, Thelharsa, Cherub, et Adon, et Emer: et non potuerunt indicare domum patrum suorum et semen suum, utrum ex Israel essent.",
+        "VulgConte (2009)": "Et hi qui ascenderunt de Thelmala, Thelharsa, Cherub, et Adon, et Emer: et non potuerunt indicare domum patrum suorum et semen suum, utrum ex Israel essent.",
+        "VulgSistina (1590)": "Et hi qui ascenderunt de Thelmala, Thelharsa, Cherub, et Adon, et Emer: et non potuerunt indicare domum patrum suorum et semen suum, utrum ex Israel essent."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73496,
+      "verse": 60,
+      "critical_text": "Filii Dalaia, filii Tobia, filii Necoda, sexcenti quinquaginta duo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Dalaia, filii Tobia, filii Necoda, sexcenti quinquaginta duo.",
+        "Clem-Saints": "Filii Dalaia, filii Tobia, filii Necoda, sexcenti quinquaginta duo.",
+        "VulgHetzenauer (1906)": "Filii Dalaia, filii Tobia, filii Necoda, sexcenti quinquagintaduo.",
+        "VulgConte (2009)": "Filii Dalaia, filii Tobia, filii Necoda, sexcenti quinquagintaduo.",
+        "VulgSistina (1590)": "Filii Dalaia, filii Tobia, filii Necoda, sexcenti quinquagintaduo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quinquaginta duo. / quinquagintaduo.",
+            "quinquaginta duo. / quinquagintaduo.",
+            "quinquaginta duo. / quinquagintaduo."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73497,
+      "verse": 61,
+      "critical_text": "Et de filiis sacerdotum: filii Hobia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis, uxorem, et vocatus est nomine eorum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et de filiis sacerdotum: filii Hobia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis, uxorem, et vocatus est nomine eorum:",
+        "Clem-Saints": "Et de filiis sacerdotum: filii Hobia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis, uxorem, et vocatus est nomine eorum:",
+        "VulgHetzenauer (1906)": "Et de filiis Sacerdotum: Filii Hobia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis, uxorem, et vocatus est nomine eorum:",
+        "VulgConte (2009)": "Et de filiis Sacerdotum: Filii Hobia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis, uxorem, et vocatus est nomine eorum:",
+        "VulgSistina (1590)": "Et de filiis Sacerdotum: Filii Hobia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis, uxorem, et vocatus est nomine eorum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73498,
+      "verse": 62,
+      "critical_text": "hi quæsierunt scripturam genealogiæ suæ, et non invenerunt, et ejecti sunt de sacerdotio.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "hi quæsierunt scripturam genealogiæ suæ, et non invenerunt, et ejecti sunt de sacerdotio.",
+        "Clem-Saints": "hi quæsierunt scripturam genealogiæ suæ, et non invenerunt, et ejecti sunt de sacerdotio.",
+        "VulgHetzenauer (1906)": "hi quæsierunt scripturam genealogiæ suæ, et non invenerunt, et eiecti sunt de sacerdotio.",
+        "VulgConte (2009)": "hi quæsierunt scripturam genealogiæ suæ, et non invenerunt, et eiecti sunt de sacerdotio.",
+        "VulgSistina (1590)": "hi quaesierunt scripturam genealogiae suae, et non invenerunt, et eiecti sunt de sacerdotio."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73499,
+      "verse": 63,
+      "critical_text": "Et dixit Athersatha eis ut non comederent de Sancto sanctorum, donec surgeret sacerdos doctus atque perfectus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixit Athersatha eis ut non comederent de Sancto sanctorum, donec surgeret sacerdos doctus atque perfectus.",
+        "Clem-Saints": "Et dixit Athersatha eis ut non comederent de Sancto sanctorum, donec surgeret sacerdos doctus atque perfectus.",
+        "VulgHetzenauer (1906)": "Et dixit Athersatha eis ut non comederent de Sancto sanctorum, donec surgeret sacerdos doctus atque perfectus.",
+        "VulgConte (2009)": "Et dixit Athersatha eis ut non comederent de Sancto Sanctorum, donec surgeret sacerdos doctus atque perfectus.",
+        "VulgSistina (1590)": "Et dixit Athersatha eis ut non comederent de Sancto sanctorum, donec surgeret sacerdos doctus atque perfectus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73500,
+      "verse": 64,
+      "critical_text": "Omnis multitudo quasi unus, quadraginta duo millia trecenti sexaginta:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Omnis multitudo quasi unus, quadraginta duo millia trecenti sexaginta:",
+        "Clem-Saints": "Omnis multitudo quasi unus, quadraginta duo millia trecenti sexaginta:",
+        "VulgHetzenauer (1906)": "Omnis multitudo quasi unus, quadraginta duo millia trecenti sexaginta:",
+        "VulgConte (2009)": "Omnis multitudo quasi unus, quadraginta duo millia trecenti sexaginta:",
+        "VulgSistina (1590)": "Omnis multitudo quasi unus, quadraginta duo millia trecenti sexaginta:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73501,
+      "verse": 65,
+      "critical_text": "exceptis servis eorum, et ancillis, qui erant septem millia trecenti triginta septem: et in ipsis cantores atque cantatrices ducenti.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "exceptis servis eorum, et ancillis, qui erant septem millia trecenti triginta septem: et in ipsis cantores atque cantatrices ducenti.",
+        "Clem-Saints": "exceptis servis eorum, et ancillis, qui erant septem millia trecenti triginta septem: et in ipsis cantores atque cantatrices ducenti.",
+        "VulgHetzenauer (1906)": "exceptis servis eorum, et ancillis, qui erant septem millia trecenti trigintaseptem: et in ipsis cantores, atque cantatrices ducenti.",
+        "VulgConte (2009)": "exceptis servis eorum, et ancillis, qui erant septem millia trecenti trigintaseptem: et in ipsis cantores, atque cantatrices ducenti.",
+        "VulgSistina (1590)": "exceptis servis eorum, et ancillis, qui erant septem millia trecenti trigintaseptem: et in ipsis cantores, atque cantatrices ducenti."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "triginta septem: / trigintaseptem:",
+            "triginta septem: / trigintaseptem:",
+            "triginta septem: / trigintaseptem:"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73502,
+      "verse": 66,
+      "critical_text": "Equi eorum septingenti triginta sex, muli eorum, ducenti quadraginta quinque,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Equi eorum septingenti triginta sex, muli eorum, ducenti quadraginta quinque,",
+        "Clem-Saints": "Equi eorum septingenti triginta sex, muli eorum, ducenti quadraginta quinque,",
+        "VulgHetzenauer (1906)": "Equi eorum septingenti trigintasex, muli eorum, ducenti quadragintaquinque,",
+        "VulgConte (2009)": "Equi eorum septingenti trigintasex, muli eorum, ducenti quadragintaquinque,",
+        "VulgSistina (1590)": "Equi eorum sexcenti triginta sex, muli eorum, ducenti quadragintaquinque,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "septingenti",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "sexcenti",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "septingenti",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "triginta sex, / trigintasex,",
+            "quadraginta quinque, / quadragintaquinque,",
+            "triginta sex, / trigintasex,",
+            "quadraginta quinque, / quadragintaquinque,",
+            "quadraginta quinque, / quadragintaquinque,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73503,
+      "verse": 67,
+      "critical_text": "cameli eorum, quadringenti triginta quinque, asini eorum, sex millia septingenti viginti.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "cameli eorum, quadringenti triginta quinque, asini eorum, sex millia septingenti viginti.",
+        "Clem-Saints": "cameli eorum, quadringenti triginta quinque, asini eorum, sex millia septingenti viginti.",
+        "VulgHetzenauer (1906)": "cameli eorum, quadringenti trigintaquinque, asini eorum, sex millia septingenti viginti.",
+        "VulgConte (2009)": "cameli eorum, quadringenti trigintaquinque, asini eorum, sex millia septingenti viginti.",
+        "VulgSistina (1590)": "cameli eorum, quadringenti trigintaquinque, asini eorum, sex millia septingenti viginti."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "triginta quinque, / trigintaquinque,",
+            "triginta quinque, / trigintaquinque,",
+            "triginta quinque, / trigintaquinque,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73504,
+      "verse": 68,
+      "critical_text": "Et de principibus patrum, cum ingrederentur templum Domini, quod est in Jerusalem, sponte obtulerunt in domum Dei ad exstruendam eam in loco suo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et de principibus patrum, cum ingrederentur templum Domini, quod est in Jerusalem, sponte obtulerunt in domum Dei ad exstruendam eam in loco suo.",
+        "Clem-Saints": "Et de principibus patrum, cum ingrederentur templum Domini, quod est in Jerusalem, sponte obtulerunt in domum Dei ad exstruendam eam in loco suo.",
+        "VulgHetzenauer (1906)": "Et de principibus patrum, cum ingrederentur templum Domini, quod est in Ierusalem, sponte obtulerunt in domum Dei ad extruendam eam in loco suo.",
+        "VulgConte (2009)": "Et de principibus patrum, cum ingrederentur templum Domini, quod est in Ierusalem, sponte obtulerunt in domum Dei ad extruendam eam in loco suo.",
+        "VulgSistina (1590)": "Et de principibus patrum, cum ingrederentur templum Domini, quod est in Ierusalem, sponte obtulerunt in domum Dei ad extruendam eam in loco suo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exstruendam / extruendam",
+            "exstruendam / extruendam",
+            "exstruendam / extruendam"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73505,
+      "verse": 69,
+      "critical_text": "Secundum vires suas dederunt impensas operis, auri solidos sexaginta millia et mille, argenti mnas quinque millia, et vestes sacerdotales centum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Secundum vires suas dederunt impensas operis, auri solidos sexaginta millia et mille, argenti mnas quinque millia, et vestes sacerdotales centum.",
+        "Clem-Saints": "Secundum vires suas dederunt impensas operis, auri solidos sexaginta millia et mille, argenti mnas quinque millia, et vestes sacerdotales centum.",
+        "VulgHetzenauer (1906)": "Secundum vires suas dederunt impensas operis, auri solidos sexaginta millia et mille, argenti mnas quinque millia, et vestes sacerdotales centum.",
+        "VulgConte (2009)": "Secundum vires suas dederunt impensas operis, auri solidos sexaginta millia et mille, argenti mnas quinque millia, et vestes sacerdotales centum.",
+        "VulgSistina (1590)": "Secundum vires suas dederunt impensas operis, auri solidos quadraginta millia et mille, argenti mnas quinque millia, et vestes sacerdotales centum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "sexaginta",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "quadraginta",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "sexaginta",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73506,
+      "verse": 70,
+      "critical_text": "Habitaverunt ergo sacerdotes, et Levitæ, et de populo, et cantores, et janitores, et Nathinæi, in urbibus suis, universusque Israël in civitatibus suis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Habitaverunt ergo sacerdotes, et Levitæ, et de populo, et cantores, et janitores, et Nathinæi, in urbibus suis, universusque Israël in civitatibus suis.",
+        "Clem-Saints": "Habitaverunt ergo sacerdotes, et Levitæ, et de populo, et cantores, et janitores, et Nathinæi, in urbibus suis, universusque Israël in civitatibus suis.",
+        "VulgHetzenauer (1906)": "Habitaverunt ergo Sacerdotes, et Levitæ, et de populo, et cantores, et ianitores, et Nathinæi in urbibus suis, universusque Israel in civitatibus suis.",
+        "VulgConte (2009)": "Habitaverunt ergo Sacerdotes, et Levitæ, et de populo, et cantores, et ianitores, et Nathinæi in urbibus suis, universusque Israel in civitatibus suis.",
+        "VulgSistina (1590)": "Habitaverunt ergo Sacerdotes, et Levitae, et de populo, et cantores, et ianitores, et Nathinaei in urbibus suis, universusque Israel in civitatibus suis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

@@ -1,0 +1,924 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "ecclesiastes",
+  "book_title": "Ecclesiastes",
+  "usfm_code": "ECC",
+  "chapter": 2,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:30Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 80289,
+      "verse": 1,
+      "critical_text": "Dixi ego in corde meo: Vadam, et affluam deliciis, et fruar bonis; et vidi quod hoc quoque esset vanitas.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixi ego in corde meo: Vadam, et affluam deliciis, et fruar bonis; et vidi quod hoc quoque esset vanitas.",
+        "Clem-Saints": "Dixi ego in corde meo: Vadam, et affluam deliciis, et fruar bonis; et vidi quod hoc quoque esset vanitas.",
+        "VulgHetzenauer (1906)": "Dixi ego in corde meo: Vadam, et affluam deliciis, et fruar bonis. Et vidi quod hoc quoque esset vanitas.",
+        "VulgConte (2009)": "Dixi ego in corde meo: Vadam, et affluam deliciis, et fruar bonis. Et vidi quod hoc quoque esset vanitas.",
+        "VulgSistina (1590)": "Dixi ergo in corde meo: Vadam, et affluam deliciis, et fruar bonis. Et vidi quod hoc quoque esset vanitas."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ego",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "ergo",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ego",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80290,
+      "verse": 2,
+      "critical_text": "Risum reputavi errorem, et gaudio dixi: Quid frustra deciperis?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Risum reputavi errorem, et gaudio dixi: Quid frustra deciperis?",
+        "Clem-Saints": "Risum reputavi errorem, et gaudio dixi: Quid frustra deciperis?",
+        "VulgHetzenauer (1906)": "Risum reputavi errorem: et gaudio dixi: Quid frustra deciperis?",
+        "VulgConte (2009)": "Risum reputavi errorem: et gaudio dixi: Quid frustra deciperis?",
+        "VulgSistina (1590)": "Risum reputavi errorem: et gaudio dixi: Quid frustra deciperis?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80291,
+      "verse": 3,
+      "critical_text": "Cogitavi in corde meo abstrahere a vino carnem meam, ut animam meam transferrem ad sapientiam, devitaremque stultitiam, donec viderem quid esset utile filiis hominum, quo facto opus est sub sole numero dierum vitæ suæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cogitavi in corde meo abstrahere a vino carnem meam, ut animam meam transferrem ad sapientiam, devitaremque stultitiam, donec viderem quid esset utile filiis hominum, quo facto opus est sub sole numero dierum vitæ suæ.",
+        "Clem-Saints": "Cogitavi in corde meo abstrahere a vino carnem meam, ut animam meam transferrem ad sapientiam, devitaremque stultitiam, donec viderem quid esset utile filiis hominum, quo facto opus est sub sole numero dierum vitæ suæ.",
+        "VulgHetzenauer (1906)": "Cogitavi in corde meo abstrahere a vino carnem meam, ut animam meam transferrem ad sapientiam, devitaremque stultitiam, donec viderem quid esset utile filiis hominum: quo facto opus est sub sole numero dierum vitæ suæ.",
+        "VulgConte (2009)": "Cogitavi in corde meo abstrahere a vino carnem meam, ut animam meam transferrem ad sapientiam, devitaremque stultitiam, donec viderem quid esset utile filiis hominum: quo facto opus est sub sole numero dierum vitæ suæ.",
+        "VulgSistina (1590)": "Cogitavi in corde meo abstrahere a vino carnem meam, ut animam meam transferrem ad sapientiam, devitaremque stultitiam, donec viderem quid esset utile filiis hominum: quo facto opus est sub sole numero dierum vitae suae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80292,
+      "verse": 4,
+      "critical_text": "Magnificavi opera mea, ædificavi mihi domos, et plantavi vineas;",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Magnificavi opera mea, ædificavi mihi domos, et plantavi vineas;",
+        "Clem-Saints": "Magnificavi opera mea, ædificavi mihi domos, et plantavi vineas;",
+        "VulgHetzenauer (1906)": "Magnificavi opera mea, ædificavi mihi domos, et plantavi vineas,",
+        "VulgConte (2009)": "Magnificavi opera mea, ædificavi mihi domos, et plantavi vineas,",
+        "VulgSistina (1590)": "Magnificavi opera mea, aedificavi mihi domos, et plantavi vineas,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80293,
+      "verse": 5,
+      "critical_text": "feci hortos et pomaria, et consevi ea cuncti generis arboribus;",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "feci hortos et pomaria, et consevi ea cuncti generis arboribus;",
+        "Clem-Saints": "feci hortos et pomaria, et consevi ea cuncti generis arboribus;",
+        "VulgHetzenauer (1906)": "feci hortos, et pomaria, et consevi ea cuncti generis arboribus,",
+        "VulgConte (2009)": "feci hortos, et pomaria, et consevi ea cuncti generis arboribus,",
+        "VulgSistina (1590)": "feci hortos, et pomaria, et consevi ea cuncti generis arboribus,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80294,
+      "verse": 6,
+      "critical_text": "et exstruxi mihi piscinas aquarum, ut irrigarem silvam lignorum germinantium.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et exstruxi mihi piscinas aquarum, ut irrigarem silvam lignorum germinantium.",
+        "Clem-Saints": "et exstruxi mihi piscinas aquarum, ut irrigarem silvam lignorum germinantium.",
+        "VulgHetzenauer (1906)": "et extruxi mihi piscinas aquarum, ut irrigarem silvam lignorum germinantium,",
+        "VulgConte (2009)": "et extruxi mihi piscinas aquarum, ut irrigarem silvam lignorum germinantium,",
+        "VulgSistina (1590)": "et extruxi mihi piscinas aquarum, ut irrigarem silvam lignorum germinantium,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exstruxi / extruxi",
+            "exstruxi / extruxi",
+            "exstruxi / extruxi"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80295,
+      "verse": 7,
+      "critical_text": "Possedi servos et ancillas, multamque familiam habui: armenta quoque, et magnos ovium greges, ultra omnes qui fuerunt ante me in Jerusalem;",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Possedi servos et ancillas, multamque familiam habui: armenta quoque, et magnos ovium greges, ultra omnes qui fuerunt ante me in Jerusalem;",
+        "Clem-Saints": "Possedi servos et ancillas, multamque familiam habui: armenta quoque, et magnos ovium greges, ultra omnes qui fuerunt ante me in Jerusalem;",
+        "VulgHetzenauer (1906)": "possedi servos et ancillas, multamque familiam habui: armenta quoque, et magnos ovium greges ultra omnes qui fuerunt ante me in Ierusalem:",
+        "VulgConte (2009)": "possedi servos et ancillas, multamque familiam habui: armenta quoque, et magnos ovium greges ultra omnes qui fuerunt ante me in Ierusalem:",
+        "VulgSistina (1590)": "possedi servos et ancillas, multamque familiam habui: armenta quoque, et magnos ovium greges ultra omnes qui fuerunt ante me in Ierusalem:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80296,
+      "verse": 8,
+      "critical_text": "coacervavi mihi argentum et aurum, et substantias regum ac provinciarum; feci mihi cantores et cantatrices, et delicias filiorum hominum, scyphos, et urceos in ministerio ad vina fundenda;",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "coacervavi mihi argentum et aurum, et substantias regum ac provinciarum; feci mihi cantores et cantatrices, et delicias filiorum hominum, scyphos, et urceos in ministerio ad vina fundenda;",
+        "Clem-Saints": "coacervavi mihi argentum et aurum, et substantias regum ac provinciarum; feci mihi cantores et cantatrices, et delicias filiorum hominum, scyphos, et urceos in ministerio ad vina fundenda;",
+        "VulgHetzenauer (1906)": "coacervavi mihi argentum, et aurum, et substantias regum, ac provinciarum: feci mihi cantores, et cantatrices, et delicias filiorum hominum, scyphos, et urceos in ministerio ad vina fundenda:",
+        "VulgConte (2009)": "coacervavi mihi argentum, et aurum, et substantias regum, ac provinciarum: feci mihi cantores, et cantatrices, et delicias filiorum hominum, scyphos, et urceos in ministerio ad vina fundenda:",
+        "VulgSistina (1590)": "coacervavi mihi argentum, et aurum, et substantias regum, ac provinciarum: feci mihi cantores, et cantatrices, et delicias filiorum hominum, scyphos, et urceos in ministerio ad vina fundenda:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80297,
+      "verse": 9,
+      "critical_text": "et supergressus sum opibus omnes qui ante me fuerunt in Jerusalem: sapientia quoque perseveravit mecum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et supergressus sum opibus omnes qui ante me fuerunt in Jerusalem: sapientia quoque perseveravit mecum.",
+        "Clem-Saints": "et supergressus sum opibus omnes qui ante me fuerunt in Jerusalem: sapientia quoque perseveravit mecum.",
+        "VulgHetzenauer (1906)": "et supergressus sum opibus omnes, qui ante me fuerunt in Ierusalem: sapientia quoque perseveravit mecum.",
+        "VulgConte (2009)": "et supergressus sum opibus omnes, qui ante me fuerunt in Ierusalem: sapientia quoque perseveravit mecum.",
+        "VulgSistina (1590)": "et supergressus sum opibus omnes, qui ante me fuerunt in Ierusalem: sapientia quoque perseveravit mecum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80298,
+      "verse": 10,
+      "critical_text": "Et omnia quæ desideraverunt oculi mei non negavi eis, nec prohibui cor meum quin omni voluptate frueretur, et oblectaret se in his quæ præparaveram; et hanc ratus sum partem meam si uterer labore meo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et omnia quæ desideraverunt oculi mei non negavi eis, nec prohibui cor meum quin omni voluptate frueretur, et oblectaret se in his quæ præparaveram; et hanc ratus sum partem meam si uterer labore meo.",
+        "Clem-Saints": "Et omnia quæ desideraverunt oculi mei non negavi eis, nec prohibui cor meum quin omni voluptate frueretur, et oblectaret se in his quæ præparaveram; et hanc ratus sum partem meam si uterer labore meo.",
+        "VulgHetzenauer (1906)": "Et omnia, quæ desideraverunt oculi mei, non negavi eis: nec prohibui cor meum quin omni voluptate frueretur, et oblectaret se in his, quæ præparaveram: et hanc ratus sum partem meam, si uterer labore meo.",
+        "VulgConte (2009)": "Et omnia, quæ desideraverunt oculi mei, non negavi eis: nec prohibui cor meum quin omni voluptate frueretur, et oblectaret se in his, quæ præparaveram: et hanc ratus sum partem meam, si uterer labore meo.",
+        "VulgSistina (1590)": "Et omnia, quae desideraverunt oculi mei, non negavi eis: nec prohibui cor meum quin omni voluptate frueretur, et oblectaret se in his, quae praeparaveram: et hanc ratus sum partem meam, si uterer labore meo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80299,
+      "verse": 11,
+      "critical_text": "Cumque me convertissem ad universa opera quæ fecerant manus meæ, et ad labores in quibus frustra sudaveram, vidi in omnibus vanitatem et afflictionem animi, et nihil permanere sub sole.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque me convertissem ad universa opera quæ fecerant manus meæ, et ad labores in quibus frustra sudaveram, vidi in omnibus vanitatem et afflictionem animi, et nihil permanere sub sole.",
+        "Clem-Saints": "Cumque me convertissem ad universa opera quæ fecerant manus meæ, et ad labores in quibus frustra sudaveram, vidi in omnibus vanitatem et afflictionem animi, et nihil permanere sub sole.",
+        "VulgHetzenauer (1906)": "Cumque me convertissem ad universa opera, quæ fecerant manus meæ, et ad labores, in quibus frustra sudaveram, vidi in omnibus vanitatem et afflictionem animi, et nihil permanere sub sole.",
+        "VulgConte (2009)": "Cumque me convertissem ad universa opera, quæ fecerant manus meæ, et ad labores, in quibus frustra sudaveram, vidi in omnibus vanitatem et afflictionem animi, et nihil permanere sub sole.",
+        "VulgSistina (1590)": "Cumque me convertissem ad universa opera, quae fecerant manus meae, et ad labores, in quibus frustra sudaveram, vidi in omnibus vanitatem et afflictionem animi, et nihil permanere sub sole."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80300,
+      "verse": 12,
+      "critical_text": "Transivi ad contemplandam sapientiam, erroresque, et stultitiam. (Quid est, inquam, homo, ut sequi possit regem, factorem suum?)",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Transivi ad contemplandam sapientiam, erroresque, et stultitiam. (Quid est, inquam, homo, ut sequi possit regem, factorem suum?)",
+        "Clem-Saints": "Transivi ad contemplandam sapientiam, erroresque, et stultitiam. (Quid est, inquam, homo, ut sequi possit regem, factorem suum?)",
+        "VulgHetzenauer (1906)": "Transivi ad contemplandam sapientiam, erroresque et stultitiam (quid est, inquam, homo, ut sequi possit regem Factorem suum?)",
+        "VulgConte (2009)": "Transivi ad contemplandam sapientiam, erroresque et stultitiam (quid est, inquam, homo, ut sequi possit regem Factorem suum?)",
+        "VulgSistina (1590)": "Transivi ad contemplandam sapientiam, erroresque et stultitiam (quid est, inquam, homo, ut sequi possit regem Factorem suum?)"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80301,
+      "verse": 13,
+      "critical_text": "Et vidi quod tantum præcederet sapientia stultitiam, quantum differt lux a tenebris.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et vidi quod tantum præcederet sapientia stultitiam, quantum differt lux a tenebris.",
+        "Clem-Saints": "Et vidi quod tantum præcederet sapientia stultitiam, quantum differt lux a tenebris.",
+        "VulgHetzenauer (1906)": "et vidi quod tantum præcederet sapientia stultitiam, quantum differt lux a tenebris.",
+        "VulgConte (2009)": "et vidi quod tantum præcederet sapientia stultitiam, quantum differt lux a tenebris.",
+        "VulgSistina (1590)": "et vidi quod tantum praecederet sapientia stultitiam, quantum differt lux a tenebris."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80302,
+      "verse": 14,
+      "critical_text": "Sapientis oculi in capite ejus; stultus in tenebris ambulat: et didici quod unus utriusque esset interitus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sapientis oculi in capite ejus; stultus in tenebris ambulat: et didici quod unus utriusque esset interitus.",
+        "Clem-Saints": "Sapientis oculi in capite ejus; stultus in tenebris ambulat: et didici quod unus utriusque esset interitus.",
+        "VulgHetzenauer (1906)": "Sapientis oculi in capite eius: stultus in tenebris ambulat: et didici quod unus utriusque esset interitus.",
+        "VulgConte (2009)": "Sapientis oculi in capite eius: stultus in tenebris ambulat: et didici quod unus utriusque esset interitus.",
+        "VulgSistina (1590)": "Sapientis oculi in capite eius: stultus in tenebris ambulat: et didici quod unus utriusque esset interitus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80303,
+      "verse": 15,
+      "critical_text": "Et dixi in corde meo: Si unus et stulti et meus occasus erit, quid mihi prodest quod majorem sapientiæ dedi operam? Locutusque cum mente mea, animadverti quod hoc quoque esset vanitas.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixi in corde meo: Si unus et stulti et meus occasus erit, quid mihi prodest quod majorem sapientiæ dedi operam? Locutusque cum mente mea, animadverti quod hoc quoque esset vanitas.",
+        "Clem-Saints": "Et dixi in corde meo: Si unus et stulti et meus occasus erit, quid mihi prodest quod majorem sapientiæ dedi operam? Locutusque cum mente mea, animadverti quod hoc quoque esset vanitas.",
+        "VulgHetzenauer (1906)": "Et dixi in corde meo: Si unus et stulti et meus occasus erit, quid mihi prodest quod maiorem sapientiæ dedi operam? Locutusque cum mente mea, animadverti quod hoc quoque esset vanitas.",
+        "VulgConte (2009)": "Et dixi in corde meo: Si unus et stulti et meus occasus erit, quid mihi prodest quod maiorem sapientiæ dedi operam? Locutusque cum mente mea, animadverti quod hoc quoque esset vanitas.",
+        "VulgSistina (1590)": "Et dixi in corde meo: Si unus et stulti et meus occasus erit, quid mihi prodest quod maiorem sapientiae dedi operam? Locutusque cum mente mea, animadverti quod hoc quoque esset vanitas."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80304,
+      "verse": 16,
+      "critical_text": "Non enim erit memoria sapientis similiter ut stulti in perpetuum, et futura tempora oblivione cuncta pariter operient: moritur doctus similiter ut indoctus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non enim erit memoria sapientis similiter ut stulti in perpetuum, et futura tempora oblivione cuncta pariter operient: moritur doctus similiter ut indoctus.",
+        "Clem-Saints": "Non enim erit memoria sapientis similiter ut stulti in perpetuum, et futura tempora oblivione cuncta pariter operient: moritur doctus similiter ut indoctus.",
+        "VulgHetzenauer (1906)": "Non enim erit memoria sapientis similiter ut stulti in perpetuum, et futura tempora oblivione cuncta pariter operient: moritur doctus similiter ut indoctus.",
+        "VulgConte (2009)": "Non enim erit memoria sapientis similiter ut stulti in perpetuum, et futura tempora oblivione cuncta pariter operient: moritur doctus similiter ut indoctus.",
+        "VulgSistina (1590)": "Non enim erit memoria sapientis similiter ut stulti in perpetuum, et futura tempora oblivione cuncta pariter operient: moritur doctus similiter et indoctus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ut",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "et",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 20,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ut",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80305,
+      "verse": 17,
+      "critical_text": "Et idcirco tæduit me vitæ meæ, videntem mala universa esse sub sole, et cuncta vanitatem et afflictionem spiritus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et idcirco tæduit me vitæ meæ, videntem mala universa esse sub sole, et cuncta vanitatem et afflictionem spiritus.",
+        "Clem-Saints": "Et idcirco tæduit me vitæ meæ, videntem mala universa esse sub sole, et cuncta vanitatem et afflictionem spiritus.",
+        "VulgHetzenauer (1906)": "Et idcirco tæduit me vitæ meæ videntem mala universa esse sub sole, et cuncta vanitatem et afflictionem spiritus.",
+        "VulgConte (2009)": "Et idcirco tæduit me vitæ meæ videntem mala universa esse sub sole, et cuncta vanitatem et afflictionem spiritus.",
+        "VulgSistina (1590)": "Et idcirco taeduit me vite meae videntem mala universa esse sub sole, et cuncta vanitatem et afflictionem spiritus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "vitæ / vite"
+          ],
+          "witnesses": [
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80306,
+      "verse": 18,
+      "critical_text": "Rursus detestatus sum omnem industriam meam, qua sub sole studiosissime laboravi, habiturus hæredem post me,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Rursus detestatus sum omnem industriam meam, qua sub sole studiosissime laboravi, habiturus hæredem post me,",
+        "Clem-Saints": "Rursus detestatus sum omnem industriam meam, qua sub sole studiosissime laboravi, habiturus hæredem post me,",
+        "VulgHetzenauer (1906)": "Rursus detestatus sum omnem industriam meam, qua sub sole studiosissime laboravi, habiturus heredem post me,",
+        "VulgConte (2009)": "Rursus detestatus sum omnem industriam meam, qua sub sole studiosissime laboravi, habiturus heredem post me,",
+        "VulgSistina (1590)": "Rursus detestatus sum omnem industriam meam, qua sub sole studiosissime laboravi, habiturus heredem post me,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "hæredem / heredem",
+            "hæredem / heredem",
+            "hæredem / heredem"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80307,
+      "verse": 19,
+      "critical_text": "quem ignoro utrum sapiens an stultus futurus sit, et dominabitur in laboribus meis, quibus desudavi et sollicitus fui: et est quidquam tam vanum?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quem ignoro utrum sapiens an stultus futurus sit, et dominabitur in laboribus meis, quibus desudavi et sollicitus fui: et est quidquam tam vanum?",
+        "Clem-Saints": "quem ignoro utrum sapiens an stultus futurus sit, et dominabitur in laboribus meis, quibus desudavi et sollicitus fui: et est quidquam tam vanum?",
+        "VulgHetzenauer (1906)": "quem ignoro, utrum sapiens an stultus futurus sit, et dominabitur in laboribus meis, quibus desudavi et solicitus fui. et est quidquam tam vanum?",
+        "VulgConte (2009)": "quem ignoro, utrum sapiens an stultus futurus sit, et dominabitur in laboribus meis, quibus desudavi et solicitus fui. Et est quidquam tam vanum?",
+        "VulgSistina (1590)": "quem ignoro, utrum sapiens an stultus futurus sit, et dominabitur in laboribus meis, quibus desudavi et solicitus fui. et est quidquam tam vanum?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "sollicitus / solicitus",
+            "sollicitus / solicitus",
+            "sollicitus / solicitus"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80308,
+      "verse": 20,
+      "critical_text": "Unde cessavi, renuntiavitque cor meum ultra laborare sub sole.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Unde cessavi, renuntiavitque cor meum ultra laborare sub sole.",
+        "Clem-Saints": "Unde cessavi, renuntiavitque cor meum ultra laborare sub sole.",
+        "VulgHetzenauer (1906)": "Unde cessavi, renunciavitque cor meum ultra laborare sub sole.",
+        "VulgConte (2009)": "Unde cessavi, renunciavitque cor meum ultra laborare sub sole.",
+        "VulgSistina (1590)": "Unde cessavi, renunciavitque cor meum ultra laborare sub sole."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "renuntiavitque / renunciavitque",
+            "renuntiavitque / renunciavitque",
+            "renuntiavitque / renunciavitque"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80309,
+      "verse": 21,
+      "critical_text": "Nam cum alius laboret in sapientia, et doctrina, et sollicitudine, homini otioso quæsita dimittit; et hoc ergo vanitas et magnum malum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nam cum alius laboret in sapientia, et doctrina, et sollicitudine, homini otioso quæsita dimittit; et hoc ergo vanitas et magnum malum.",
+        "Clem-Saints": "Nam cum alius laboret in sapientia, et doctrina, et sollicitudine, homini otioso quæsita dimittit; et hoc ergo vanitas et magnum malum.",
+        "VulgHetzenauer (1906)": "Nam cum alius laboret in sapientia, et doctrina, et solicitudine, homini otioso quæsita dimittit: et hoc ergo, vanitas, et magnum malum.",
+        "VulgConte (2009)": "Nam cum alius laboret in sapientia, et doctrina, et solicitudine, homini otioso quæsita dimittit: et hoc ergo, vanitas, et magnum malum.",
+        "VulgSistina (1590)": "Nam cum alius laboret in sapientia, et doctrina, et solicitudine, homini otioso quaesita dimittit: et hoc ergo, vanitas, et magnum malum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "sollicitudine, / solicitudine,",
+            "sollicitudine, / solicitudine,",
+            "sollicitudine, / solicitudine,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80310,
+      "verse": 22,
+      "critical_text": "Quid enim proderit homini de universo labore suo, et afflictione spiritus, qua sub sole cruciatus est?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quid enim proderit homini de universo labore suo, et afflictione spiritus, qua sub sole cruciatus est?",
+        "Clem-Saints": "Quid enim proderit homini de universo labore suo, et afflictione spiritus, qua sub sole cruciatus est?",
+        "VulgHetzenauer (1906)": "Quid enim proderit homini de universo labore suo, et afflictione spiritus, qua sub sole cruciatus est?",
+        "VulgConte (2009)": "Quid enim proderit homini de universo labore suo, et afflictione spiritus, qua sub sole cruciatus est?",
+        "VulgSistina (1590)": "Quid enim proderit homini de universo labore suo, et afflictione spiritus, qua sub sole cruciatus est?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80311,
+      "verse": 23,
+      "critical_text": "Cuncti dies ejus doloribus et ærumnis pleni sunt, nec per noctem mente requiescit. Et hoc nonne vanitas est?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cuncti dies ejus doloribus et ærumnis pleni sunt, nec per noctem mente requiescit. Et hoc nonne vanitas est?",
+        "Clem-Saints": "Cuncti dies ejus doloribus et ærumnis pleni sunt, nec per noctem mente requiescit. Et hoc nonne vanitas est?",
+        "VulgHetzenauer (1906)": "Cuncti dies eius doloribus et ærumnis pleni sunt, nec per noctem mente requiescit: et hoc nonne vanitas est?",
+        "VulgConte (2009)": "Cuncti dies eius doloribus et ærumnis pleni sunt, nec per noctem mente requiescit: et hoc nonne vanitas est?",
+        "VulgSistina (1590)": "Cuncti dies eius doloribus et aerumnis pleni sunt, nec per noctem mente requiescit: et hoc nonne vanitas est?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80312,
+      "verse": 24,
+      "critical_text": "Nonne melius est comedere et bibere, et ostendere animæ suæ bona de laboribus suis? et hoc de manu Dei est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nonne melius est comedere et bibere, et ostendere animæ suæ bona de laboribus suis? et hoc de manu Dei est.",
+        "Clem-Saints": "Nonne melius est comedere et bibere, et ostendere animæ suæ bona de laboribus suis? et hoc de manu Dei est.",
+        "VulgHetzenauer (1906)": "Nonne melius est comedere et bibere, et ostendere animæ suæ bona de laboribus suis? et hoc de manu Dei est.",
+        "VulgConte (2009)": "Nonne melius est comedere et bibere, et ostendere animæ suæ bona de laboribus suis? Et hoc de manu Dei est.",
+        "VulgSistina (1590)": "Nonne melius est comedere et bibere, et ostendere animae suae bona de laboribus suis? et hoc de manu Dei est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80313,
+      "verse": 25,
+      "critical_text": "Quis ita devorabit et deliciis affluet ut ego?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quis ita devorabit et deliciis affluet ut ego?",
+        "Clem-Saints": "Quis ita devorabit et deliciis affluet ut ego?",
+        "VulgHetzenauer (1906)": "Quis ita devorabit, et deliciis affluet ut ego?",
+        "VulgConte (2009)": "Quis ita devorabit, et deliciis affluet ut ego?",
+        "VulgSistina (1590)": "Quis ita devorabit, et deliciis affluet ut ego?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80314,
+      "verse": 26,
+      "critical_text": "Homini bono in conspectu suo dedit Deus sapientiam, et scientiam, et lætitiam; peccatori autem dedit afflictionem et curam superfluam, ut addat, et congreget, et tradat ei qui placuit Deo; sed et hoc vanitas est, et cassa sollicitudo mentis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Homini bono in conspectu suo dedit Deus sapientiam, et scientiam, et lætitiam; peccatori autem dedit afflictionem et curam superfluam, ut addat, et congreget, et tradat ei qui placuit Deo; sed et hoc vanitas est, et cassa sollicitudo mentis.",
+        "Clem-Saints": "Homini bono in conspectu suo dedit Deus sapientiam, et scientiam, et lætitiam; peccatori autem dedit afflictionem et curam superfluam, ut addat, et congreget, et tradat ei qui placuit Deo; sed et hoc vanitas est, et cassa sollicitudo mentis.",
+        "VulgHetzenauer (1906)": "Homini bono in conspectu suo dedit Deus sapientiam, et scientiam, et lætitiam: peccatori autem dedit afflictionem, et curam superfluam, ut addat, et congreget, et tradat ei qui placuit Deo: sed et hoc vanitas est, et cassa solicitudo mentis.",
+        "VulgConte (2009)": "Homini bono in conspectu suo dedit Deus sapientiam, et scientiam, et lætitiam: peccatori autem dedit afflictionem, et curam superfluam, ut addat, et congreget, et tradat ei qui placuit Deo: sed et hoc vanitas est, et cassa solicitudo mentis.",
+        "VulgSistina (1590)": "Homini bono in conspectu suo dedit Deus sapientiam, et scientiam, et laetitiam: peccatori autem dedit afflictionem, et curam superfluam, ut addat, et congreget, et tradat ei qui placuit Deo: sed et hoc vanitas est, et cassa solicitudo mentis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "sollicitudo / solicitudo",
+            "sollicitudo / solicitudo",
+            "sollicitudo / solicitudo"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

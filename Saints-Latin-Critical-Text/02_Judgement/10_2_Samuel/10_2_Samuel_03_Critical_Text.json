@@ -1,0 +1,1317 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "2-samuel",
+  "book_title": "2 Samuel (2 Kingdoms)",
+  "usfm_code": "2SA",
+  "chapter": 3,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:41Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 69496,
+      "verse": 1,
+      "critical_text": "Facta est ergo longa concertatio inter domum Saul et inter domum David: David proficiscens, et semper seipso robustior, domus autem Saul decrescens quotidie.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Facta est ergo longa concertatio inter domum Saul et inter domum David: David proficiscens, et semper seipso robustior, domus autem Saul decrescens quotidie.",
+        "Clem-Saints": "Facta est ergo longa concertatio inter domum Saul et inter domum David: David proficiscens, et semper seipso robustior, domus autem Saul decrescens quotidie.",
+        "VulgHetzenauer (1906)": "Facta est ergo longa concertatio inter domum Saul, et inter domum David: David proficiscens, et semper seipso robustior, domus autem Saul decrescens quotidie.",
+        "VulgConte (2009)": "Facta est ergo longa concertatio inter domum Saul, et inter domum David: David proficiscens, et semper seipso robustior, domus autem Saul decrescens quotidie.",
+        "VulgSistina (1590)": "Facta est ergo longa concertatio inter domum David, et inter domum Saulis: David proficiscens, et semper seipso robustior, domus autem Saul decrescens quotidie."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Saul",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "David,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "saul",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "David:",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Saulis:",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 11,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "dauid",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69497,
+      "verse": 2,
+      "critical_text": "Natique sunt filii David in Hebron: fuitque primogenitus ejus Amnon, de Achinoam Jezraëlitide.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Natique sunt filii David in Hebron: fuitque primogenitus ejus Amnon, de Achinoam Jezraëlitide.",
+        "Clem-Saints": "Natique sunt filii David in Hebron: fuitque primogenitus ejus Amnon, de Achinoam Jezraëlitide.",
+        "VulgHetzenauer (1906)": "Natique sunt filii David in Hebron: fuitque primogenitus eius Amnon de Achinoam Iezraelitide.",
+        "VulgConte (2009)": "Natique sunt filii David in Hebron: fuitque primogenitus eius Amnon de Achinoam Iezraelitide.",
+        "VulgSistina (1590)": "Natique sunt filii David in Hebron: fuitque primogenitus eius Amnon de Achinoam Iezraelitide."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69498,
+      "verse": 3,
+      "critical_text": "Et post eum Cheleab, de Abigail uxore Nabal Carmeli: porro tertius Absalom, filius Maacha filiæ Tholmai regis Gessur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et post eum Cheleab, de Abigail uxore Nabal Carmeli: porro tertius Absalom, filius Maacha filiæ Tholmai regis Gessur.",
+        "Clem-Saints": "Et post eum Cheleab, de Abigail uxore Nabal Carmeli: porro tertius Absalom, filius Maacha filiæ Tholmai regis Gessur.",
+        "VulgHetzenauer (1906)": "Et post eum Cheleab de Abigail uxore Nabal Carmeli: porro tertius Absalom filius Maacha filiæ Tholmai regis Gessur.",
+        "VulgConte (2009)": "Et post eum Cheleab de Abigail uxore Nabal Carmeli: porro tertius Absalom filius Maacha filiæ Tholmai regis Gessur.",
+        "VulgSistina (1590)": "Et post eum Cheleab de Abigail uxore Nabal Carmeli: porro tertius Absalom filius Maacha filiae Tholmai regis Gessur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69499,
+      "verse": 4,
+      "critical_text": "Quartus autem Adonias, filius Haggith: et quintus Saphathia, filius Abital.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quartus autem Adonias, filius Haggith: et quintus Saphathia, filius Abital.",
+        "Clem-Saints": "Quartus autem Adonias, filius Haggith: et quintus Saphathia, filius Abital.",
+        "VulgHetzenauer (1906)": "Quartus autem Adonias, filius Haggith: et quintus Saphathia, filius Abital.",
+        "VulgConte (2009)": "Quartus autem Adonias, filius Haggith: et quintus Saphathia, filius Abital.",
+        "VulgSistina (1590)": "Quartus autem Adonias, filius Haggith: et quintus Saphathia, filius Abital."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69500,
+      "verse": 5,
+      "critical_text": "Sextus quoque Jethraam, de Egla uxore David: hi nati sunt David in Hebron.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sextus quoque Jethraam, de Egla uxore David: hi nati sunt David in Hebron.",
+        "Clem-Saints": "Sextus quoque Jethraam, de Egla uxore David: hi nati sunt David in Hebron.",
+        "VulgHetzenauer (1906)": "Sextus quoque Iethraam de Egla uxore David. hi nati sunt David in Hebron.",
+        "VulgConte (2009)": "Sextus quoque Iethraam de Egla uxore David. Hi nati sunt David in Hebron.",
+        "VulgSistina (1590)": "Sextus quoque Iethraam de Egla uxore David. hi nati sunt David in Hebron."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69501,
+      "verse": 6,
+      "critical_text": "Cum ergo esset prælium inter domum Saul et domum David, Abner filius Ner regebat domum Saul.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cum ergo esset prælium inter domum Saul et domum David, Abner filius Ner regebat domum Saul.",
+        "Clem-Saints": "Cum ergo esset prælium inter domum Saul et domum David, Abner filius Ner regebat domum Saul.",
+        "VulgHetzenauer (1906)": "Cum ergo esset prælium inter domum Saul et domum David, Abner filius Ner regebat domum Saul.",
+        "VulgConte (2009)": "Cum ergo esset prælium inter domum Saul et domum David, Abner filius Ner regebat domum Saul.",
+        "VulgSistina (1590)": "Cum ergo esset praelium inter domum Saul et domum David, Abner filius Ner regebat domum Saul."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69502,
+      "verse": 7,
+      "critical_text": "Fuerat autem Sauli concubina nomine Respha, filia Aja. Dixitque Isboseth ad Abner:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fuerat autem Sauli concubina nomine Respha, filia Aja. Dixitque Isboseth ad Abner:",
+        "Clem-Saints": "Fuerat autem Sauli concubina nomine Respha, filia Aja. Dixitque Isboseth ad Abner:",
+        "VulgHetzenauer (1906)": "Fuerat autem Sauli concubina nomine Respha, filia Aia. Dixitque Isboseth ad Abner:",
+        "VulgConte (2009)": "Fuerat autem Sauli concubina nomine Respha, filia Aia. Dixitque Isboseth ad Abner:",
+        "VulgSistina (1590)": "Fuerat autem Sauli concubina nomine Respha, filia Aia. Dixitque Isboseth ad Abner:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69503,
+      "verse": 8,
+      "critical_text": "Quare ingressus es ad concubinam patris mei? Qui iratus nimis propter verba Isboseth, ait: Numquid caput canis ego sum adversum Judam hodie, qui fecerim misericordiam super domum Saul patris tui, et super fratres et proximos ejus, et non tradidi te in manus David, et tu requisisti in me quod argueres pro muliere hodie?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quare ingressus es ad concubinam patris mei? Qui iratus nimis propter verba Isboseth, ait: Numquid caput canis ego sum adversum Judam hodie, qui fecerim misericordiam super domum Saul patris tui, et super fratres et proximos ejus, et non tradidi te in manus David, et tu requisisti in me quod argueres pro muliere hodie?",
+        "Clem-Saints": "Quare ingressus es ad concubinam patris mei? Qui iratus nimis propter verba Isboseth, ait: Numquid caput canis ego sum adversum Judam hodie, qui fecerim misericordiam super domum Saul patris tui, et super fratres et proximos ejus, et non tradidi te in manus David, et tu requisisti in me quod argueres pro muliere hodie?",
+        "VulgHetzenauer (1906)": "Quare ingressus es ad concubinam patris mei? Qui iratus nimis propter verba Isboseth, ait: Numquid caput canis ego sum adversum Iudam hodie, qui fecerim misericordiam super domum Saul patris tui, et super fratres et proximos eius, et non tradidi te in manus David, et tu requisisti in me quod argueres pro muliere hodie?",
+        "VulgConte (2009)": "Quare ingressus es ad concubinam patris mei? Qui iratus nimis propter verba Isboseth, ait: Numquid caput canis ego sum adversum Iudam hodie, qui fecerim misericordiam super domum Saul patris tui, et super fratres et proximos eius, et non tradidi te in manus David, et tu requisisti in me quod argueres pro muliere hodie?",
+        "VulgSistina (1590)": "Quare ingressus es ad concubinam patris mei? Qui iratus nimis propter verba Isboseth, ait: Numquid caput canis ego sum adversum Iudam hodie, qui fecerim misericordiam super domum Saul patris tui, et super fratres et proximos eius, et non tradidi te in manus David, et tu requisisti in me quod argueres pro muliere hodie?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69504,
+      "verse": 9,
+      "critical_text": "Hæc faciat Deus Abner, et hæc addat ei, nisi quomodo juravit Dominus David, sic faciam cum eo,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hæc faciat Deus Abner, et hæc addat ei, nisi quomodo juravit Dominus David, sic faciam cum eo,",
+        "Clem-Saints": "Hæc faciat Deus Abner, et hæc addat ei, nisi quomodo juravit Dominus David, sic faciam cum eo,",
+        "VulgHetzenauer (1906)": "Hæc faciat Deus Abner, et hæc addat ei, nisi quomodo iuravit Dominus David, sic faciam cum eo,",
+        "VulgConte (2009)": "Hæc faciat Deus Abner, et hæc addat ei, nisi quomodo iuravit Dominus David, sic faciam cum eo,",
+        "VulgSistina (1590)": "Haec faciat Deus Abner, et haec addat ei, nisi quomodo iuravit Dominus David, sic faciam cum eo,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69505,
+      "verse": 10,
+      "critical_text": "ut transferatur regnum de domo Saul, et elevetur thronus David super Israël et super Judam, a Dan usque Bersabee.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ut transferatur regnum de domo Saul, et elevetur thronus David super Israël et super Judam, a Dan usque Bersabee.",
+        "Clem-Saints": "ut transferatur regnum de domo Saul, et elevetur thronus David super Israël et super Judam, a Dan usque Bersabee.",
+        "VulgHetzenauer (1906)": "ut transferatur regnum de domo Saul, et elevetur thronus David super Israel, et super Iudam, a Dan usque Bersabee.",
+        "VulgConte (2009)": "ut transferatur regnum de domo Saul, et elevetur thronus David super Israel, et super Iudam, a Dan usque Bersabee.",
+        "VulgSistina (1590)": "ut transferatur regnum de domo Saul, et elevetur thronus David super Israel, et super Iudam, a Dan usque Bersabee."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69506,
+      "verse": 11,
+      "critical_text": "Et non potuit respondere ei quidquam, quia metuebat illum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et non potuit respondere ei quidquam, quia metuebat illum.",
+        "Clem-Saints": "Et non potuit respondere ei quidquam, quia metuebat illum.",
+        "VulgHetzenauer (1906)": "Et non potuit respondere ei quidquam, quia metuebat illum.",
+        "VulgConte (2009)": "Et non potuit respondere ei quidquam, quia metuebat illum.",
+        "VulgSistina (1590)": "Et non potuit respondere ei quidquam, quia metuebat illum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69507,
+      "verse": 12,
+      "critical_text": "Misit ergo Abner nuntios ad David pro se dicentes: Cujus est terra? et ut loquerentur: Fac mecum amicitias, et erit manus mea tecum, et reducam ad te universum Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Misit ergo Abner nuntios ad David pro se dicentes: Cujus est terra? et ut loquerentur: Fac mecum amicitias, et erit manus mea tecum, et reducam ad te universum Israël.",
+        "Clem-Saints": "Misit ergo Abner nuntios ad David pro se dicentes: Cujus est terra? et ut loquerentur: Fac mecum amicitias, et erit manus mea tecum, et reducam ad te universum Israël.",
+        "VulgHetzenauer (1906)": "Misit ergo Abner nuncios ad David pro se dicentes: Cuius est terra? Et ut loquerentur: Fac mecum amicitias, et erit manus mea tecum, et reducam ad te universum Israel.",
+        "VulgConte (2009)": "Misit ergo Abner nuncios ad David pro se dicentes: Cuius est terra? et ut loquerentur: Fac mecum amicitias, et erit manus mea tecum, et reducam ad te universum Israel.",
+        "VulgSistina (1590)": "Misit ergo Abner nuncios ad David pro se dicentes: Cuius est terra? Et ut loquerentur: Fac mecum amicitias, et erit manus mea tecum, et reducam ad te universum Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntios / nuncios",
+            "nuntios / nuncios",
+            "nuntios / nuncios"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69508,
+      "verse": 13,
+      "critical_text": "Qui ait: Optime: ego faciam tecum amicitias: sed unam rem peto a te, dicens: Non videbis faciem meam antequam adduxeris Michol filiam Saul: et sic venies, et videbis me.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui ait: Optime: ego faciam tecum amicitias: sed unam rem peto a te, dicens: Non videbis faciem meam antequam adduxeris Michol filiam Saul: et sic venies, et videbis me.",
+        "Clem-Saints": "Qui ait: Optime: ego faciam tecum amicitias: sed unam rem peto a te, dicens: Non videbis faciem meam antequam adduxeris Michol filiam Saul: et sic venies, et videbis me.",
+        "VulgHetzenauer (1906)": "Qui ait: Optime: ego faciam tecum amicitias: sed unam rem peto a te, dicens: Non videbis faciem meam antequam adduxeris Michol filiam Saul: et sic venies, et videbis me.",
+        "VulgConte (2009)": "Qui ait: Optime: Ego faciam tecum amicitias: sed unam rem peto a te, dicens: Non videbis faciem meam antequam adduxeris Michol filiam Saul: et sic venies, et videbis me.",
+        "VulgSistina (1590)": "Qui ait: Optime: ego faciam tecum amicitias: sed unam rem peto a te, dicens: Non videbis faciem meam antequam adduxeris Michol filiam Saul: et sic venies, et videbis me."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69509,
+      "verse": 14,
+      "critical_text": "Misit autem David nuntios ad Isboseth filium Saul, dicens: Redde uxorem meam Michol, quam despondi mihi centum præputiis Philisthiim.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Misit autem David nuntios ad Isboseth filium Saul, dicens: Redde uxorem meam Michol, quam despondi mihi centum præputiis Philisthiim.",
+        "Clem-Saints": "Misit autem David nuntios ad Isboseth filium Saul, dicens: Redde uxorem meam Michol, quam despondi mihi centum præputiis Philisthiim.",
+        "VulgHetzenauer (1906)": "Misit autem David nuncios ad Isboseth filium Saul, dicens: Redde uxorem meam Michol, quam despondi mihi centum præputiis Philisthiim.",
+        "VulgConte (2009)": "Misit autem David nuncios ad Isboseth filium Saul, dicens: Redde uxorem meam Michol, quam despondi mihi centum præputiis Philisthiim.",
+        "VulgSistina (1590)": "Misit autem David nuncios ad Isboseth filium Saul, dicens: Redde uxorem meam Michol, quam despondi mihi centum praeputiis Philisthiim."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntios / nuncios",
+            "nuntios / nuncios",
+            "nuntios / nuncios"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69510,
+      "verse": 15,
+      "critical_text": "Misit ergo Isboseth, et tulit eam a viro suo Phaltiel filio Lais.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Misit ergo Isboseth, et tulit eam a viro suo Phaltiel filio Lais.",
+        "Clem-Saints": "Misit ergo Isboseth, et tulit eam a viro suo Phaltiel filio Lais.",
+        "VulgHetzenauer (1906)": "Misit ergo Isboseth, et tulit eam a viro suo Phaltiel, filio Lais.",
+        "VulgConte (2009)": "Misit ergo Isboseth, et tulit eam a viro suo Phaltiel, filio Lais.",
+        "VulgSistina (1590)": "Misit ergo Isboseth, et tulit eam a viro suo Phaltiel, filio Lais."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69511,
+      "verse": 16,
+      "critical_text": "Sequebaturque eam vir suus, plorans usque Bahurim: et dixit ad eum Abner: Vade, et revertere. Qui reversus est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sequebaturque eam vir suus, plorans usque Bahurim: et dixit ad eum Abner: Vade, et revertere. Qui reversus est.",
+        "Clem-Saints": "Sequebaturque eam vir suus, plorans usque Bahurim: et dixit ad eum Abner: Vade, et revertere. Qui reversus est.",
+        "VulgHetzenauer (1906)": "Sequebaturque eam vir suus, plorans usque Bahurim: et dixit ad eum Abner: Vade, et revertere. Qui reversus est.",
+        "VulgConte (2009)": "Sequebaturque eam vir suus, plorans usque Bahurim: et dixit ad eum Abner: Vade, et revertere. Qui reversus est.",
+        "VulgSistina (1590)": "Sequebaturque eam vir suus, plorans usque Bahurim: et dixit ad eum Abner: Vade, et revertere. Qui reversus est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69512,
+      "verse": 17,
+      "critical_text": "Sermonem quoque intulit Abner ad seniores Israël, dicens: Tam heri quam nudiustertius quærebatis David ut regnaret super vos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sermonem quoque intulit Abner ad seniores Israël, dicens: Tam heri quam nudiustertius quærebatis David ut regnaret super vos.",
+        "Clem-Saints": "Sermonem quoque intulit Abner ad seniores Israël, dicens: Tam heri quam nudiustertius quærebatis David ut regnaret super vos.",
+        "VulgHetzenauer (1906)": "Sermonem quoque intulit Abner ad seniores Israel, dicens: Tam heri quam nudiustertius quærebatis David ut regnaret super vos.",
+        "VulgConte (2009)": "Sermonem quoque intulit Abner ad seniores Israel, dicens: Tam heri quam nudiustertius quærebatis David ut regnaret super vos.",
+        "VulgSistina (1590)": "Sermonem quoque intulit Abner ad seniores Israel, dicens: Tam heri quam nudiustertius quaerebatis David ut regnaret super vos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69513,
+      "verse": 18,
+      "critical_text": "Nunc ergo facite: quoniam Dominus locutus est ad David, dicens: In manu servi mei David salvabo populum meum Israël de manu Philisthiim, et omnium inimicorum ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nunc ergo facite: quoniam Dominus locutus est ad David, dicens: In manu servi mei David salvabo populum meum Israël de manu Philisthiim, et omnium inimicorum ejus.",
+        "Clem-Saints": "Nunc ergo facite: quoniam Dominus locutus est ad David, dicens: In manu servi mei David salvabo populum meum Israël de manu Philisthiim, et omnium inimicorum ejus.",
+        "VulgHetzenauer (1906)": "Nunc ergo facite: quoniam Dominus locutus est ad David, dicens: In manu servi mei David salvabo populum meum Israel de manu Philisthiim, et omnium inimicorum eius.",
+        "VulgConte (2009)": "Nunc ergo facite: quoniam Dominus locutus est ad David, dicens: In manu servi mei David salvabo populum meum Israel de manu Philisthiim, et omnium inimicorum eius.",
+        "VulgSistina (1590)": "Nunc ergo facite: quoniam Dominus locutus est ad David, dicens: In manu servi mei David salvabo populum meum Israel de manu Philisthiim, et omnium inimicorum eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69514,
+      "verse": 19,
+      "critical_text": "Locutus est autem Abner etiam ad Benjamin. Et abiit ut loqueretur ad David in Hebron omnia quæ placuerant Israëli et universo Benjamin.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Locutus est autem Abner etiam ad Benjamin. Et abiit ut loqueretur ad David in Hebron omnia quæ placuerant Israëli et universo Benjamin.",
+        "Clem-Saints": "Locutus est autem Abner etiam ad Benjamin. Et abiit ut loqueretur ad David in Hebron omnia quæ placuerant Israëli et universo Benjamin.",
+        "VulgHetzenauer (1906)": "Locutus est autem Abner etiam ad Beniamin. Et abiit ut loqueretur ad David in Hebron omnia quæ placuerant Israeli, et universo Beniamin.",
+        "VulgConte (2009)": "Locutus est autem Abner etiam ad Beniamin. Et abiit ut loqueretur ad David in Hebron omnia quæ placuerant Israeli, et universo Beniamin.",
+        "VulgSistina (1590)": "Locutus est autem Abner etiam ad Beniamin. Et abiit ut loqueretur ad David in Hebron omnia quae placuerant Israeli, et universo Beniamin."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69515,
+      "verse": 20,
+      "critical_text": "Venitque ad David in Hebron cum viginti viris: et fecit David Abner, et viris ejus qui venerant cum eo, convivium.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Venitque ad David in Hebron cum viginti viris: et fecit David Abner, et viris ejus qui venerant cum eo, convivium.",
+        "Clem-Saints": "Venitque ad David in Hebron cum viginti viris: et fecit David Abner, et viris ejus qui venerant cum eo, convivium.",
+        "VulgHetzenauer (1906)": "Venitque ad David in Hebron cum viginti viris: et fecit David Abner, et viris eius qui venerant cum eo, convivium.",
+        "VulgConte (2009)": "Venitque ad David in Hebron cum viginti viris: et fecit David Abner, et viris eius qui venerant cum eo, convivium.",
+        "VulgSistina (1590)": "Venitque ad David in Hebron cum viginti viris: et fecit David Abner, et viri eius qui venerant cum eo, convivium."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "viris",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "viri",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 13,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "uiris",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69516,
+      "verse": 21,
+      "critical_text": "Et dixit Abner ad David: Surgam, ut congregem ad te dominum meum regem omnem Israël, et ineam tecum fœdus, et imperes omnibus, sicut desiderat anima tua. Cum ergo deduxisset David Abner, et ille isset in pace,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixit Abner ad David: Surgam, ut congregem ad te dominum meum regem omnem Israël, et ineam tecum fœdus, et imperes omnibus, sicut desiderat anima tua. Cum ergo deduxisset David Abner, et ille isset in pace,",
+        "Clem-Saints": "Et dixit Abner ad David: Surgam, ut congregem ad te dominum meum regem omnem Israël, et ineam tecum fœdus, et imperes omnibus, sicut desiderat anima tua. Cum ergo deduxisset David Abner, et ille isset in pace,",
+        "VulgHetzenauer (1906)": "Et dixit Abner ad David: Surgam, ut congregem ad te dominum meum regem omnem Israel, et ineam tecum fœdus, et imperes omnibus, sicut desiderat anima tua. Cum ergo deduxisset David Abner, et ille isset in pace,",
+        "VulgConte (2009)": "Et dixit Abner ad David: Surgam, ut congregem ad te dominum meum regem omnem Israel, et ineam tecum fœdus, et imperes omnibus, sicut desiderat anima tua. Cum ergo deduxisset David Abner, et ille isset in pace,",
+        "VulgSistina (1590)": "Et dixit Abner ad David: Surgam, ut congregem ad te dominum meum regem omnem Israel, et ineam tecum foedus, et imperes omnibus, sicut desiderat anima tua. Cum ergo deduxisset David Abner, et ille isset in pace,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69517,
+      "verse": 22,
+      "critical_text": "statim pueri David et Joab venerunt, cæsis latronibus, cum præda magna nimis: Abner autem non erat cum David in Hebron, quia jam dimiserat eum, et profectus fuerat in pace.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "statim pueri David et Joab venerunt, cæsis latronibus, cum præda magna nimis: Abner autem non erat cum David in Hebron, quia jam dimiserat eum, et profectus fuerat in pace.",
+        "Clem-Saints": "statim pueri David et Joab venerunt, cæsis latronibus, cum præda magna nimis: Abner autem non erat cum David in Hebron, quia jam dimiserat eum, et profectus fuerat in pace.",
+        "VulgHetzenauer (1906)": "statim pueri David, et Ioab venerunt, cæsis latronibus, cum præda magna nimis: Abner autem non erat cum David in Hebron, quia iam dimiserat eum, et profectus fuerat in pace.",
+        "VulgConte (2009)": "statim pueri David, et Ioab venerunt, cæsis latronibus, cum præda magna nimis: Abner autem non erat cum David in Hebron, quia iam dimiserat eum, et profectus fuerat in pace.",
+        "VulgSistina (1590)": "statim pueri David, et Ioab venerunt, caesis latronibus, cum praeda magna nimis: Abner autem non erat cum David in Hebron, quia iam dimiserat eum, et profectus fuerat in pace."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69518,
+      "verse": 23,
+      "critical_text": "Et Joab, et omnis exercitus qui erat cum eo, postea venerunt: nuntiatum est itaque Joab a narrantibus: Venit Abner filius Ner ad regem, et dimisit eum, et abiit in pace.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et Joab, et omnis exercitus qui erat cum eo, postea venerunt: nuntiatum est itaque Joab a narrantibus: Venit Abner filius Ner ad regem, et dimisit eum, et abiit in pace.",
+        "Clem-Saints": "Et Joab, et omnis exercitus qui erat cum eo, postea venerunt: nuntiatum est itaque Joab a narrantibus: Venit Abner filius Ner ad regem, et dimisit eum, et abiit in pace.",
+        "VulgHetzenauer (1906)": "Et Ioab, et omnis exercitus, qui erat cum eo, postea venerunt: nunciatum est itaque Ioab a narrantibus: Venit Abner filius Ner ad regem, et dimisit eum, et abiit in pace.",
+        "VulgConte (2009)": "Et Ioab, et omnis exercitus, qui erat cum eo, postea venerunt: nunciatum est itaque Ioab a narrantibus: Venit Abner filius Ner ad regem, et dimisit eum, et abiit in pace.",
+        "VulgSistina (1590)": "Et Ioab, et omnis exercitus, qui erant cum eo, postea venerunt: nunciatum est itaque Ioab a narrantibus: Venit Abner filius Ner ad regem, et dimisit eum, et abiit in pace."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "erat",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "erant",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 6,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "erat",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntiatum / nunciatum",
+            "nuntiatum / nunciatum",
+            "nuntiatum / nunciatum"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69519,
+      "verse": 24,
+      "critical_text": "Et ingressus est Joab ad regem, et ait: Quid fecisti? Ecce venit Abner ad te: quare dimisisti eum, et abiit et recessit?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ingressus est Joab ad regem, et ait: Quid fecisti? Ecce venit Abner ad te: quare dimisisti eum, et abiit et recessit?",
+        "Clem-Saints": "Et ingressus est Joab ad regem, et ait: Quid fecisti? Ecce venit Abner ad te: quare dimisisti eum, et abiit et recessit?",
+        "VulgHetzenauer (1906)": "Et ingressus est Ioab ad regem, et ait: Quid fecisti? Ecce venit Abner ad te: quare dimisisti eum, et abiit et recessit?",
+        "VulgConte (2009)": "Et ingressus est Ioab ad regem, et ait: Quid fecisti? Ecce venit Abner ad te: quare dimisisti eum, et abiit et recessit?",
+        "VulgSistina (1590)": "Et ingressus est Ioab ad regem, et ait: Quid fecisti? Ecce venit Abner ad te: quare dimisisti eum, et abiit et recessit?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69520,
+      "verse": 25,
+      "critical_text": "ignoras Abner filium Ner, quoniam ad hoc venit ad te ut deciperet te, et sciret exitum tuum et introitum tuum, et nosset omnia quæ agis?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ignoras Abner filium Ner, quoniam ad hoc venit ad te ut deciperet te, et sciret exitum tuum et introitum tuum, et nosset omnia quæ agis?",
+        "Clem-Saints": "ignoras Abner filium Ner, quoniam ad hoc venit ad te ut deciperet te, et sciret exitum tuum et introitum tuum, et nosset omnia quæ agis?",
+        "VulgHetzenauer (1906)": "ignoras Abner filium Ner, quoniam ad hoc venit ad te ut deciperet te, et sciret exitum tuum, et introitum tuum, et nosset omnia quæ agis?",
+        "VulgConte (2009)": "Ignoras Abner filium Ner, quoniam ad hoc venit ad te ut deciperet te, et sciret exitum tuum, et introitum tuum, et nosset omnia quæ agis?",
+        "VulgSistina (1590)": "ignoras Abner filium Ner, quoniam ad hoc venit ad te ut deciperet te, et sciret exitum tuum, et introitum tuum, et nosset omnia quae agis?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69521,
+      "verse": 26,
+      "critical_text": "Egressus itaque Joab a David, misit nuntios post Abner, et reduxit eum a cisterna Sira, ignorante David.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Egressus itaque Joab a David, misit nuntios post Abner, et reduxit eum a cisterna Sira, ignorante David.",
+        "Clem-Saints": "Egressus itaque Joab a David, misit nuntios post Abner, et reduxit eum a cisterna Sira, ignorante David.",
+        "VulgHetzenauer (1906)": "Egressus itaque Ioab a David, misit nuncios post Abner, et reduxit eum a cisterna Sira, ignorante David.",
+        "VulgConte (2009)": "Egressus itaque Ioab a David, misit nuncios post Abner, et reduxit eum a cisterna Sira, ignorante David.",
+        "VulgSistina (1590)": "Egressus itaque Ioab a David, misit nuncios post Abner, et reduxit eum a cisterna Sira, ignorante David."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntios / nuncios",
+            "nuntios / nuncios",
+            "nuntios / nuncios"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69522,
+      "verse": 27,
+      "critical_text": "Cumque rediisset Abner in Hebron, seorsum adduxit eum Joab ad medium portæ ut loqueretur ei, in dolo: et percussit illum ibi in inguine, et mortuus est in ultionem sanguinis Asaël fratris ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque rediisset Abner in Hebron, seorsum adduxit eum Joab ad medium portæ ut loqueretur ei, in dolo: et percussit illum ibi in inguine, et mortuus est in ultionem sanguinis Asaël fratris ejus.",
+        "Clem-Saints": "Cumque rediisset Abner in Hebron, seorsum adduxit eum Joab ad medium portæ ut loqueretur ei, in dolo: et percussit illum ibi in inguine, et mortuus est in ultionem sanguinis Asaël fratris ejus.",
+        "VulgHetzenauer (1906)": "Cumque rediisset Abner in Hebron, seorsum adduxit eum Ioab ad medium portæ, ut loqueretur ei, in dolo: et percussit illum ibi in inguine, et mortuus est in ultionem sanguinis Asael fratris eius.",
+        "VulgConte (2009)": "Cumque rediisset Abner in Hebron, seorsum adduxit eum Ioab ad medium portæ, ut loqueretur ei, in dolo: et percussit illum ibi in inguine, et mortuus est in ultionem sanguinis Asael fratris eius.",
+        "VulgSistina (1590)": "Cumque rediisset Abner in Hebron, seorsum adduxit eum Ioab ad medium portae, ut loqueretur ei, in dolo: et percussit illum ibi in inguine, et mortuus est in ultionem sanguinis Asael fratris eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69523,
+      "verse": 28,
+      "critical_text": "Quod cum audisset David rem jam gestam, ait: Mundus ego sum, et regnum meum apud Dominum usque in sempiternum, a sanguine Abner filii Ner:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quod cum audisset David rem jam gestam, ait: Mundus ego sum, et regnum meum apud Dominum usque in sempiternum, a sanguine Abner filii Ner:",
+        "Clem-Saints": "Quod cum audisset David rem jam gestam, ait: Mundus ego sum, et regnum meum apud Dominum usque in sempiternum, a sanguine Abner filii Ner:",
+        "VulgHetzenauer (1906)": "Quod cum audisset David rem iam gestam, ait: Mundus ego sum, et regnum meum apud Dominum usque in sempiternum a sanguine Abner filii Ner,",
+        "VulgConte (2009)": "Quod cum audisset David rem iam gestam, ait: Mundus ego sum, et regnum meum apud Dominum usque in sempiternum a sanguine Abner filii Ner,",
+        "VulgSistina (1590)": "Quod cum audisset David rem iam gestam, ait: Mundus ego sum, et regnum meum apud Deum usque in sempiternum a sanguine Abner filii Ner,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Dominum",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Deum",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 15,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "dominum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69524,
+      "verse": 29,
+      "critical_text": "et veniat super caput Joab, et super omnem domum patris ejus: nec deficiat de domo Joab fluxum seminis sustinens, et leprosus, et tenens fusum, et cadens gladio, et indigens pane.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et veniat super caput Joab, et super omnem domum patris ejus: nec deficiat de domo Joab fluxum seminis sustinens, et leprosus, et tenens fusum, et cadens gladio, et indigens pane.",
+        "Clem-Saints": "et veniat super caput Joab, et super omnem domum patris ejus: nec deficiat de domo Joab fluxum seminis sustinens, et leprosus, et tenens fusum, et cadens gladio, et indigens pane.",
+        "VulgHetzenauer (1906)": "et veniat super caput Ioab, et super omnem domum patris eius: nec deficiat de domo Ioab fluxum seminis sustinens, et leprosus, et tenens fusum, et cadens gladio, et indigens pane.",
+        "VulgConte (2009)": "et veniat super caput Ioab, et super omnem domum patris eius: nec deficiat de domo Ioab fluxum seminis sustinens, et leprosus, et tenens fusum, et cadens gladio, et indigens pane.",
+        "VulgSistina (1590)": "et veniat super caput Ioab, et super omnem domum patris eius: nec deficiat de domo Ioab fluxum seminis sustinens, et leprosus, et tenens fusum, et cadens gladio, et indigens pane."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69525,
+      "verse": 30,
+      "critical_text": "Igitur Joab et Abisai frater ejus interfecerunt Abner, eo quod occidisset Asaël fratrem eorum in Gabaon in prælio.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Igitur Joab et Abisai frater ejus interfecerunt Abner, eo quod occidisset Asaël fratrem eorum in Gabaon in prælio.",
+        "Clem-Saints": "Igitur Joab et Abisai frater ejus interfecerunt Abner, eo quod occidisset Asaël fratrem eorum in Gabaon in prælio.",
+        "VulgHetzenauer (1906)": "Igitur Ioab et Abisai frater eius interfecerunt Abner, eo quod occidisset Asael fratrem eorum in Gabaon in prælio.",
+        "VulgConte (2009)": "Igitur Ioab et Abisai frater eius interfecerunt Abner, eo quod occidisset Asael fratrem eorum in Gabaon in prælio.",
+        "VulgSistina (1590)": "Igitur Ioab et Abisai frater eius interfecerunt Abner, eo quod occidisset Asael fratrem eorum in Gabaon in praelio."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69526,
+      "verse": 31,
+      "critical_text": "Dixit autem David ad Joab, et ad omnem populum qui erat cum eo: Scindite vestimenta vestra, et accingimini saccis, et plangite ante exequias Abner. Porro rex David sequebatur feretrum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixit autem David ad Joab, et ad omnem populum qui erat cum eo: Scindite vestimenta vestra, et accingimini saccis, et plangite ante exequias Abner. Porro rex David sequebatur feretrum.",
+        "Clem-Saints": "Dixit autem David ad Joab, et ad omnem populum qui erat cum eo: Scindite vestimenta vestra, et accingimini saccis, et plangite ante exequias Abner. Porro rex David sequebatur feretrum.",
+        "VulgHetzenauer (1906)": "Dixit autem David ad Ioab, et ad omnem populum, qui erat cum eo: Scindite vestimenta vestra, et accingimini saccis, et plangite ante exequias Abner. porro rex David sequebatur feretrum.",
+        "VulgConte (2009)": "Dixit autem David ad Ioab, et ad omnem populum, qui erat cum eo: Scindite vestimenta vestra, et accingimini saccis, et plangite ante exequias Abner. Porro rex David sequebatur feretrum.",
+        "VulgSistina (1590)": "Dixit autem David ad Ioab, et ad omnem populum, qui erat cum eo: Scindite vestimenta vestra, et accingimini saccis, et plangite ante exequias Abner. porro rex David sequebatur feretrum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69527,
+      "verse": 32,
+      "critical_text": "Cumque sepelissent Abner in Hebron, levavit rex David vocem suam, et flevit super tumulum Abner: flevit autem et omnis populus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque sepelissent Abner in Hebron, levavit rex David vocem suam, et flevit super tumulum Abner: flevit autem et omnis populus.",
+        "Clem-Saints": "Cumque sepelissent Abner in Hebron, levavit rex David vocem suam, et flevit super tumulum Abner: flevit autem et omnis populus.",
+        "VulgHetzenauer (1906)": "Cumque sepelissent Abner in Hebron, levavit rex David vocem suam, et flevit super tumulum Abner: flevit autem et omnis populus.",
+        "VulgConte (2009)": "Cumque sepelissent Abner in Hebron, levavit rex David vocem suam, et flevit super tumulum Abner: flevit autem et omnis populus.",
+        "VulgSistina (1590)": "Cumque sepelissent Abner in Hebron, levavit rex David vocem suam, et flevit super tumulum Abner: flevit autem et omnis populus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69528,
+      "verse": 33,
+      "critical_text": "Plangensque rex, et lugens Abner, ait: Nequaquam ut mori solent ignavi, mortuus est Abner.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Plangensque rex, et lugens Abner, ait: Nequaquam ut mori solent ignavi, mortuus est Abner.",
+        "Clem-Saints": "Plangensque rex, et lugens Abner, ait: Nequaquam ut mori solent ignavi, mortuus est Abner.",
+        "VulgHetzenauer (1906)": "Plangensque rex et lugens Abner, ait: Nequaquam ut mori solent ignavi, mortuus est Abner.",
+        "VulgConte (2009)": "Plangensque rex et lugens Abner, ait: Nequaquam ut mori solent ignavi, mortuus est Abner.",
+        "VulgSistina (1590)": "Plangensque rex et lugens Abner, ait: Nequaquam ut mori solent ignavi, mortuus est Abner."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69529,
+      "verse": 34,
+      "critical_text": "Manus tuæ ligatæ non sunt, et pedes tui non sunt compedibus aggravati: sed sicut solent cadere coram filiis iniquitatis, sic corruisti. Congeminansque omnis populus flevit super eum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Manus tuæ ligatæ non sunt, et pedes tui non sunt compedibus aggravati: sed sicut solent cadere coram filiis iniquitatis, sic corruisti. Congeminansque omnis populus flevit super eum.",
+        "Clem-Saints": "Manus tuæ ligatæ non sunt, et pedes tui non sunt compedibus aggravati: sed sicut solent cadere coram filiis iniquitatis, sic corruisti. Congeminansque omnis populus flevit super eum.",
+        "VulgHetzenauer (1906)": "Manus tuæ ligatæ non sunt, et pedes tui non sunt compedibus aggravati: sed sicut solent cadere coram filiis iniquitatis, sic corruisti. Congeminansque omnis populus flevit super eum.",
+        "VulgConte (2009)": "Manus tuæ ligatæ non sunt, et pedes tui non sunt compedibus aggravati: sed sicut solent cadere coram filiis iniquitatis, sic corruisti. Congeminansque omnis populus flevit super eum.",
+        "VulgSistina (1590)": "Manus tuae ligatae non sunt, et pedes tui non sunt compedibus aggravati: sed sicut solent cadere coram filiis iniquitatis, sic corruisti. Congeminansque omnis populus flevit super eum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69530,
+      "verse": 35,
+      "critical_text": "Cumque venisset universa multitudo cibum capere cum David, clara adhuc die juravit David, dicens: Hæc faciat mihi Deus, et hæc addat, si ante occasum solis gustavero panem vel aliud quidquam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque venisset universa multitudo cibum capere cum David, clara adhuc die juravit David, dicens: Hæc faciat mihi Deus, et hæc addat, si ante occasum solis gustavero panem vel aliud quidquam.",
+        "Clem-Saints": "Cumque venisset universa multitudo cibum capere cum David, clara adhuc die juravit David, dicens: Hæc faciat mihi Deus, et hæc addat, si ante occasum solis gustavero panem vel aliud quidquam.",
+        "VulgHetzenauer (1906)": "Cumque venisset universa multitudo cibum capere cum David, clara adhuc die iuravit David, dicens: Hæc faciat mihi Deus, et hæc addat, si ante occasum solis gustavero panem vel aliud quidquam.",
+        "VulgConte (2009)": "Cumque venisset universa multitudo cibum capere cum David, clara adhuc die iuravit David, dicens: Hæc faciat mihi Deus, et hæc addat, si ante occasum solis gustavero panem vel aliud quidquam.",
+        "VulgSistina (1590)": "Cumque venisset universa multitudo cibum capere cum David, clara adhuc die iuravit David, dicens: Haec faciat mihi Deus, et haec addat, si ante occasum solis gustavero panem vel aliud quidquam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69531,
+      "verse": 36,
+      "critical_text": "Omnisque populus audivit, et placuerunt eis cuncta quæ fecit rex in conspectu totius populi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Omnisque populus audivit, et placuerunt eis cuncta quæ fecit rex in conspectu totius populi.",
+        "Clem-Saints": "Omnisque populus audivit, et placuerunt eis cuncta quæ fecit rex in conspectu totius populi.",
+        "VulgHetzenauer (1906)": "Omnisque populus audivit, et placuerunt eis cuncta quæ fecit rex in conspectu totius populi.",
+        "VulgConte (2009)": "Omnisque populus audivit, et placuerunt eis cuncta quæ fecit rex in conspectu totius populi.",
+        "VulgSistina (1590)": "Omnisque populus audivit, et placuerunt eis cuncta quae fecit rex in conspectu totius populi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69532,
+      "verse": 37,
+      "critical_text": "Et cognovit omne vulgus et universus Israël in die illa, quoniam non actum fuisset a rege ut occideretur Abner filius Ner.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et cognovit omne vulgus et universus Israël in die illa, quoniam non actum fuisset a rege ut occideretur Abner filius Ner.",
+        "Clem-Saints": "Et cognovit omne vulgus et universus Israël in die illa, quoniam non actum fuisset a rege ut occideretur Abner filius Ner.",
+        "VulgHetzenauer (1906)": "et cognovit omne vulgus, et universus Israel in die illa quoniam non actum fuisset a rege ut occideretur Abner filius Ner.",
+        "VulgConte (2009)": "Et cognovit omne vulgus, et universus Israel in die illa quoniam non actum fuisset a rege ut occideretur Abner filius Ner.",
+        "VulgSistina (1590)": "et cognovit omne vulgus, et universus Israel in die illa quoniam non actum fuisset a rege ut occideretur Abner filius Ner."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69533,
+      "verse": 38,
+      "critical_text": "Dixit quoque rex ad servos suos: Num ignoratis quoniam princeps et maximus cecidit hodie in Israël?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixit quoque rex ad servos suos: Num ignoratis quoniam princeps et maximus cecidit hodie in Israël?",
+        "Clem-Saints": "Dixit quoque rex ad servos suos: Num ignoratis quoniam princeps et maximus cecidit hodie in Israël?",
+        "VulgHetzenauer (1906)": "Dixit quoque rex ad servos suos: Num ignoratis quoniam princeps et maximus cecidit hodie in Israel?",
+        "VulgConte (2009)": "Dixit quoque rex ad servos suos: Num ignoratis quoniam princeps et maximus cecidit hodie in Israel?",
+        "VulgSistina (1590)": "Dixit quoque rex ad servos suos: Num ignoratis quoniam princeps et maximus cecidit hodie in Israel?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69534,
+      "verse": 39,
+      "critical_text": "Ego autem adhuc delicatus, et unctus rex: porro viri isti filii Sarviæ duri sunt mihi: retribuat Dominus facienti malum juxta malitiam suam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ego autem adhuc delicatus, et unctus rex: porro viri isti filii Sarviæ duri sunt mihi: retribuat Dominus facienti malum juxta malitiam suam.",
+        "Clem-Saints": "Ego autem adhuc delicatus, et unctus rex: porro viri isti filii Sarviæ duri sunt mihi: retribuat Dominus facienti malum juxta malitiam suam.",
+        "VulgHetzenauer (1906)": "Ego autem adhuc delicatus, et unctus rex: porro viri isti filii Sarviæ duri sunt mihi: retribuat Dominus facienti malum iuxta malitiam suam.",
+        "VulgConte (2009)": "Ego autem adhuc delicatus, et unctus rex: porro viri isti filii Sarviæ duri sunt mihi: retribuat Dominus facienti malum iuxta malitiam suam.",
+        "VulgSistina (1590)": "Ego autem adhuc delicatus, et unctus rex: porro viri isti filii Sarviae duri sunt mihi: retribuat Dominus facienti malum iuxta malitiam suam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

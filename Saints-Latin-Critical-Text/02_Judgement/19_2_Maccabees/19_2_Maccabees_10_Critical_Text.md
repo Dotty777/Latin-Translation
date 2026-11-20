@@ -1,0 +1,451 @@
+# 2 Maccabees 10 — Saints Latin Critical Text
+
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:11Z`
+
+**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+
+**Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
+
+---
+
+## Section I — Admitted Witnesses & Gatekeeper Quarantine Declaration
+
+### Admitted Collation Witnesses (Open-Source Tiers 1–4)
+| Siglum | Witness Title | Tier | Weight | License | Text-Type |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
+
+### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
+
+| Siglum | Witness Title | Tier | License | Text-Type |
+| :--- | :--- | :---: | :--- | :--- |
+| **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
+
+### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
+| Source | Status | Reason Excluded from Open Critical Text |
+| :--- | :---: | :--- |
+| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+
+---
+
+## Section II — Continuous Latin Critical Text
+
+**1** Machabæus autem, et qui cum eo erant, Domino se protegente, templum quidem et civitatem recepit:
+**2** aras autem quas alienigenæ per plateas exstruxerant, itemque delubra demolitus est:
+**3** et purgato templo, aliud altare fecerunt, et de ignitis lapidibus igne concepto sacrificia obtulerunt post biennium, et incensum, et lucernas, et panes propositionis posuerunt.
+**4** Quibus gestis, rogabant Dominum prostrati in terram, ne amplius talibus malis inciderent: sed et, siquando peccassent, ut ab ipso mitius corriperentur, et non barbaris ac blasphemis hominibus traderentur.
+**5** Qua die autem templum ab alienigenis pollutum fuerat, contigit eadem die purificationem fieri, vigesima quinta mensis qui fuit Casleu.
+**6** Et cum lætitia diebus octo egerunt in modum tabernaculorum, recordantes quod ante modicum temporis diem solemnem tabernaculorum in montibus et in speluncis more bestiarum egerant.
+**7** Propter quod thyrsos, et ramos virides, et palmas præferebant ei qui prosperavit mundari locum suum.
+**8** Et decreverunt communi præcepto et decreto universæ genti Judæorum omnibus annis agere dies istos.
+**9** Et Antiochi quidem, qui appellatus est Nobilis, vitæ excessus ita se habuit.
+**10** Nunc autem de Eupatore Antiochi impii filio quæ gesta sunt narrabimus, breviantes mala quæ in bellis gesta sunt.
+**11** Hic enim suscepto regno, constituit super negotia regni Lysiam quemdam, Phœnicis et Syriæ militiæ principem.
+**12** Nam Ptolemæus, qui dicebatur Macer, justi tenax erga Judæos esse constituit, et præcipue propter iniquitatem quæ facta erat in eos, et pacifice agere cum eis.
+**13** Sed ob hoc accusatus ab amicis apud Eupatorem, cum frequenter proditor audiret, eo quod Cyprum creditam sibi a Philometore deseruisset, et ad Antiochum Nobilem translatus etiam ab eo recessisset, veneno vitam finivit.
+**14** Gorgias autem cum esset dux locorum, assumptis advenis, frequenter Judæos debellabat.
+**15** Judæi vero qui tenebant opportunas munitiones, fugatos ab Jerosolymis suscipiebant, et bellare tentabant.
+**16** Hi vero qui erant cum Machabæo, per orationes Dominum rogantes ut esset sibi adjutor, impetum fecerunt in munitiones Idumæorum:
+**17** multaque vi insistentes, loca obtinuerunt, occurrentes interemerunt, et omnes simul non minus viginti millibus trucidaverunt.
+**18** Quidam autem cum confugissent in duas turres valde munitas, omnem apparatum ad repugnandum habentes,
+**19** Machabæus ad eorum expugnationem relicto Simone, et Josepho, itemque Zachæo, eisque qui cum ipsis erant satis multis, ipse ad eas quæ amplius perurgebant pugnas conversus est.
+**20** Hi vero qui cum Simone erant, cupiditate ducti, a quibusdam qui in turribus erant, suasi sunt pecunia: et septuaginta millibus didrachmis acceptis, dimiserunt quosdam effugere.
+**21** Cum autem Machabæo nuntiatum esset quod factum est, principibus populi congregatis accusavit quod pecunia fratres vendidissent, adversariis eorum dimissis.
+**22** Hos igitur proditores factos interfecit, et confestim duas turres occupavit.
+**23** Armis autem ac manibus omnia prospere agendo in duabus munitionibus plus quam viginti millia peremit.
+**24** At Timotheus, qui prius a Judæis fuerat superatus, convocato exercitu peregrinæ multitudinis, et congregato equitatu Asiano, advenit quasi armis Judæam capturus.
+**25** Machabæus autem et qui cum ipso erant, appropinquante illo, deprecabantur Dominum, caput terra aspergentes, lumbosque ciliciis præcincti,
+**26** ad altaris crepidinem provoluti, ut sibi propitius, inimicis autem eorum esset inimicus, et adversariis adversaretur, sicut lex dicit.
+**27** Et ita post orationem, sumptis armis, longius de civitate procedentes, et proximi hostibus effecti, resederunt.
+**28** Primo autem solis ortu utrique commiserunt: isti quidem victoriæ et prosperitatis sponsorem cum virtute Dominum habentes: illi autem ducem belli animum habebant.
+**29** Sed cum vehemens pugna esset, apparuerunt adversariis de cælo viri quinque in equis, frenis aureis decori, ducatum Judæis præstantes:
+**30** ex quibus duo Machabæum medium habentes, armis suis circumseptum incolumem conservabant: in adversarios autem tela et fulmina jaciebant, ex quo et cæcitate confusi et repleti perturbatione, cadebant.
+**31** Interfecti sunt autem viginti millia quingenti, et equites sexcenti.
+**32** Timotheus vero confugit in Gazaram præsidium munitum, cui præerat Chæreas.
+**33** Machabæus autem et qui cum eo erant, lætantes obsederunt præsidium diebus quatuor.
+**34** At hi qui intus erant, loci firmitate confisi, supra modum maledicebant, et sermones nefandos jactabant.
+**35** Sed cum dies quinta illucesceret, viginti juvenes ex his qui cum Machabæo erant, accensi animis propter blasphemiam, viriliter accesserunt ad murum, et feroci animo incedentes ascendebant:
+**36** sed et alii similiter ascendentes, turres portasque succendere aggressi sunt, atque ipsos maledicos vivos concremare.
+**37** Per continuum autem biduum præsidio vastato, Timotheum occultantem se in quodam repertum loco peremerunt: et fratrem illius Chæream et Apollophanem occiderunt.
+**38** Quibus gestis, in hymnis et confessionibus benedicebant Dominum, qui magna fecit in Israël, et victoriam dedit illis.
+
+---
+
+## Section III — Critical Apparatus & Disregarded Surface Noise
+
+### 2 Maccabees 10:1
+- *Disregarded Surface Variant:* kept `Machabæus` over `Machab æus` (Clem-Saints) — *Word division differs (same letters written as one word or two)*
+
+### 2 Maccabees 10:2
+- *Disregarded Surface Variant:* kept `(adopted text)` over `exstruxerant, / extruxerant,`, `exstruxerant, / extruxerant,`, `exstruxerant, / extruxerant,` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### 2 Maccabees 10:4
+- *Disregarded Surface Variant:* kept `(adopted text)` over `siquando / si quando`, `siquando / si quando`, `siquando / si quando` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
+
+### 2 Maccabees 10:6
+- *Disregarded Surface Variant:* kept `(adopted text)` over `solemnem / sollemnem`, `solemnem / sollemnem`, `solemnem / sollemnem` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### 2 Maccabees 10:7
+- **Apparatus:** `mundari` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **mundare** VulgSistina (1590)
+
+### 2 Maccabees 10:17
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **quinque** VulgSistina (1590)
+
+### 2 Maccabees 10:21
+- *Disregarded Surface Variant:* kept `(adopted text)` over `nuntiatum / nunciatum`, `nuntiatum / nunciatum`, `nuntiatum / nunciatum` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### 2 Maccabees 10:31
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **peditum,** VulgSistina (1590)
+
+### 2 Maccabees 10:33
+- *Disregarded Surface Variant:* kept `(adopted text)` over `quatuor. / quattuor.` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+---
+
+## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
+
+### Verse 1 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Machabæus autem, et qui cum eo erant, Domino se protegente, templum quidem et civitatem recepit:
+  - `Clem1598-USFX`: Machabæus autem, et qui cum eo erant, Domino se protegente, templum quidem et civitatem recepit:
+  - `Clem-Saints`: Machab æus autem, et qui cum eo erant, Domino se protegente, templum quidem et civitatem recepit:
+  - `VulgHetzenauer (1906)`: Machabæus autem, et qui cum eo erant, Domino se protegente, templum quidem, et civitatem recepit:
+  - `VulgConte (2009)`: Machabæus autem, et qui cum eo erant, Domino se protegente, templum quidem, et civitatem recepit:
+  - `VulgSistina (1590)`: Machabaeus autem, et qui cum eo erant, Domino se protegente, templum quidem, et civitatem recepit:
+- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Word division differs (same letters written as one word or two)).
+
+### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** aras autem quas alienigenæ per plateas exstruxerant, itemque delubra demolitus est:
+  - `Clem1598-USFX`: aras autem quas alienigenæ per plateas exstruxerant, itemque delubra demolitus est:
+  - `Clem-Saints`: aras autem quas alienigenæ per plateas exstruxerant, itemque delubra demolitus est:
+  - `VulgHetzenauer (1906)`: aras autem, quas alienigenæ per plateas extruxerant, itemque delubra demolitus est.
+  - `VulgConte (2009)`: aras autem, quas alienigenæ per plateas extruxerant, itemque delubra demolitus est.
+  - `VulgSistina (1590)`: aras autem, quas alienigenae per plateas extruxerant, itemque delubra demolitus est.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** et purgato templo, aliud altare fecerunt, et de ignitis lapidibus igne concepto sacrificia obtulerunt post biennium, et incensum, et lucernas, et panes propositionis posuerunt.
+  - `Clem1598-USFX`: et purgato templo, aliud altare fecerunt, et de ignitis lapidibus igne concepto sacrificia obtulerunt post biennium, et incensum, et lucernas, et panes propositionis posuerunt.
+  - `Clem-Saints`: et purgato templo, aliud altare fecerunt, et de ignitis lapidibus igne concepto sacrificia obtulerunt post biennium, et incensum, et lucernas, et panes propositionis posuerunt.
+  - `VulgHetzenauer (1906)`: et purgato templo, aliud altare fecerunt: et de ignitis lapidibus igne concepto sacrificia obtulerunt post biennium, et incensum, et lucernas, et panes propositionis posuerunt.
+  - `VulgConte (2009)`: Et purgato templo, aliud altare fecerunt: et de ignitis lapidibus igne concepto sacrificia obtulerunt post biennium, et incensum, et lucernas, et panes propositionis posuerunt.
+  - `VulgSistina (1590)`: et purgato templo, aliud altare fecerunt: et de ignitis lapidibus igne concepto sacrificia obtulerunt post biennium, et incensum, et lucernas, et panes propositionis posuerunt.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Quibus gestis, rogabant Dominum prostrati in terram, ne amplius talibus malis inciderent: sed et, siquando peccassent, ut ab ipso mitius corriperentur, et non barbaris ac blasphemis hominibus traderentur.
+  - `Clem1598-USFX`: Quibus gestis, rogabant Dominum prostrati in terram, ne amplius talibus malis inciderent: sed et, siquando peccassent, ut ab ipso mitius corriperentur, et non barbaris ac blasphemis hominibus traderentur.
+  - `Clem-Saints`: Quibus gestis, rogabant Dominum prostrati in terram, ne amplius talibus malis inciderent: sed et, siquando peccassent, ut ab ipso mitius corriperentur, et non barbaris ac blasphemis hominibus traderentur.
+  - `VulgHetzenauer (1906)`: Quibus gestis, rogabant Dominum prostrati in terram, ne amplius talibus malis inciderent: sed et, si quando peccassent, ut ab ipso mitius corriperentur, et non barbaris, ac blasphemis hominibus traderentur.
+  - `VulgConte (2009)`: Quibus gestis, rogabant Dominum prostrati in terram, ne amplius talibus malis inciderent: sed et, si quando peccassent, ut ab ipso mitius corriperentur, et non barbaris, ac blasphemis hominibus traderentur.
+  - `VulgSistina (1590)`: Quibus gestis, rogabant Dominum prostrati in terram, ne amplius talibus malis inciderent: sed et, si quando peccassent, ut ab ipso mitius corriperentur, et non barbaris, ac blasphemis hominibus traderentur.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Qua die autem templum ab alienigenis pollutum fuerat, contigit eadem die purificationem fieri, vigesima quinta mensis qui fuit Casleu.
+  - `Clem1598-USFX`: Qua die autem templum ab alienigenis pollutum fuerat, contigit eadem die purificationem fieri, vigesima quinta mensis qui fuit Casleu.
+  - `Clem-Saints`: Qua die autem templum ab alienigenis pollutum fuerat, contigit eadem die purificationem fieri, vigesima quinta mensis qui fuit Casleu.
+  - `VulgHetzenauer (1906)`: Qua die autem templum ab alienigenis pollutum fuerat, contigit eadem die purificationem fieri, vigesima quinta mensis, qui fuit Casleu.
+  - `VulgConte (2009)`: Qua die autem templum ab alienigenis pollutum fuerat, contigit eadem die purificationem fieri, vigesima quinta mensis, qui fuit Casleu.
+  - `VulgSistina (1590)`: Qua die autem templum ab alienigenis pollutum fuerat, contigit eadem die purificationem fieri, vigesima quinta mensis, qui fuit Casleu.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Et cum lætitia diebus octo egerunt in modum tabernaculorum, recordantes quod ante modicum temporis diem solemnem tabernaculorum in montibus et in speluncis more bestiarum egerant.
+  - `Clem1598-USFX`: Et cum lætitia diebus octo egerunt in modum tabernaculorum, recordantes quod ante modicum temporis diem solemnem tabernaculorum in montibus et in speluncis more bestiarum egerant.
+  - `Clem-Saints`: Et cum lætitia diebus octo egerunt in modum tabernaculorum, recordantes quod ante modicum temporis diem solemnem tabernaculorum in montibus et in speluncis more bestiarum egerant.
+  - `VulgHetzenauer (1906)`: Et cum lætitia diebus octo egerunt in modum tabernaculorum, recordantes quod ante modicum temporis diem sollemnem tabernaculorum in montibus, et in speluncis more bestiarum egerant.
+  - `VulgConte (2009)`: Et cum lætitia diebus octo egerunt in modum tabernaculorum, recordantes quod ante modicum temporis diem sollemnem tabernaculorum in montibus, et in speluncis more bestiarum egerant.
+  - `VulgSistina (1590)`: Et cum laetitia diebus octo egerunt in modum tabernaculorum, recordantes quod ante modicum temporis diem sollemnem tabernaculorum in montibus, et in speluncis more bestiarum egerant.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Propter quod thyrsos, et ramos virides, et palmas præferebant ei qui prosperavit mundari locum suum.
+  - `Clem1598-USFX`: Propter quod thyrsos, et ramos virides, et palmas præferebant ei qui prosperavit mundari locum suum.
+  - `Clem-Saints`: Propter quod thyrsos, et ramos virides, et palmas præferebant ei qui prosperavit mundari locum suum.
+  - `VulgHetzenauer (1906)`: Propter quod Thyrsos, et ramos virides, et palmas præferebant ei, qui prosperavit mundari locum suum.
+  - `VulgConte (2009)`: Propter quod thyrsos, et ramos virides, et palmas præferebant ei, qui prosperavit mundari locum suum.
+  - `VulgSistina (1590)`: Propter quod Thyrsos, et ramos virides, et palmas praeferebant ei, qui prosperavit mundare locum suum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Et decreverunt communi præcepto et decreto universæ genti Judæorum omnibus annis agere dies istos.
+  - `Clem1598-USFX`: Et decreverunt communi præcepto et decreto universæ genti Judæorum omnibus annis agere dies istos.
+  - `Clem-Saints`: Et decreverunt communi præcepto et decreto universæ genti Judæorum omnibus annis agere dies istos.
+  - `VulgHetzenauer (1906)`: Et decreverunt communi præcepto, et decreto, universæ genti Iudæorum omnibus annis agere dies istos.
+  - `VulgConte (2009)`: Et decreverunt communi præcepto, et decreto, universæ genti Iudæorum omnibus annis agere dies istos.
+  - `VulgSistina (1590)`: Et decreverunt communi praecepto, et decreto, universae genti Iudaeorum omnibus annis agere dies istos.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Et Antiochi quidem, qui appellatus est Nobilis, vitæ excessus ita se habuit.
+  - `Clem1598-USFX`: Et Antiochi quidem, qui appellatus est Nobilis, vitæ excessus ita se habuit.
+  - `Clem-Saints`: Et Antiochi quidem, qui appellatus est Nobilis, vitæ excessus ita se habuit.
+  - `VulgHetzenauer (1906)`: Et Antiochi quidem, qui appellatus est Nobilis, vitæ excessus ita se habuit.
+  - `VulgConte (2009)`: Et Antiochi quidem, qui appellatus est Nobilis, vitæ excessus ita se habuit.
+  - `VulgSistina (1590)`: Et Antiochi quidem, qui appellatus est Nobilis, vitae excessus ita se habuit.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Nunc autem de Eupatore Antiochi impii filio quæ gesta sunt narrabimus, breviantes mala quæ in bellis gesta sunt.
+  - `Clem1598-USFX`: Nunc autem de Eupatore Antiochi impii filio quæ gesta sunt narrabimus, breviantes mala quæ in bellis gesta sunt.
+  - `Clem-Saints`: Nunc autem de Eupatore Antiochi impii filio quæ gesta sunt narrabimus, breviantes mala quæ in bellis gesta sunt.
+  - `VulgHetzenauer (1906)`: Nunc autem de Eupatore Antiochi impii filio, quæ gesta sunt narrabimus, breviantes mala, quæ in bellis gesta sunt.
+  - `VulgConte (2009)`: Nunc autem de Eupatore Antiochi impii filio, quæ gesta sunt narrabimus, breviantes mala, quæ in bellis gesta sunt.
+  - `VulgSistina (1590)`: Nunc autem de Eupatore Antiochi impii filio, quae gesta sunt narrabimus, breviantes mala, quae in bellis gesta sunt.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Hic enim suscepto regno, constituit super negotia regni Lysiam quemdam, Phœnicis et Syriæ militiæ principem.
+  - `Clem1598-USFX`: Hic enim suscepto regno, constituit super negotia regni Lysiam quemdam, Phœnicis et Syriæ militiæ principem.
+  - `Clem-Saints`: Hic enim suscepto regno, constituit super negotia regni Lysiam quemdam, Phœnicis et Syriæ militiæ principem.
+  - `VulgHetzenauer (1906)`: Hic enim suscepto regno, constituit super negotia regni Lysiam quemdam, Phœnicis, et Syriæ militiæ principem.
+  - `VulgConte (2009)`: Hic enim suscepto regno, constituit super negotia regni Lysiam quemdam, Phœnicis, et Syriæ militiæ principem.
+  - `VulgSistina (1590)`: Hic enim suscepto regno, constituit super negotia regni Lysiam quemdam, Phoenicis, et Syriae militiae principem.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Nam Ptolemæus, qui dicebatur Macer, justi tenax erga Judæos esse constituit, et præcipue propter iniquitatem quæ facta erat in eos, et pacifice agere cum eis.
+  - `Clem1598-USFX`: Nam Ptolemæus, qui dicebatur Macer, justi tenax erga Judæos esse constituit, et præcipue propter iniquitatem quæ facta erat in eos, et pacifice agere cum eis.
+  - `Clem-Saints`: Nam Ptolemæus, qui dicebatur Macer, justi tenax erga Judæos esse constituit, et præcipue propter iniquitatem quæ facta erat in eos, et pacifice agere cum eis.
+  - `VulgHetzenauer (1906)`: Nam Ptolemæus, qui dicebatur Macer, iusti tenax, erga Iudæos esse constituit, et præcipue propter iniquitatem, quæ facta erat in eos, et pacifice agere cum eis.
+  - `VulgConte (2009)`: Nam Ptolemæus, qui dicebatur Macer, iusti tenax, erga Iudæos esse constituit, et præcipue propter iniquitatem, quæ facta erat in eos, et pacifice agere cum eis.
+  - `VulgSistina (1590)`: Nam Ptolemaeus, qui dicebatur Macer, iusti tenax, erga Iudaeos esse constituit, et praecipue propter iniquitatem, quae facta erat in eos, et pacifice agere cum eis.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Sed ob hoc accusatus ab amicis apud Eupatorem, cum frequenter proditor audiret, eo quod Cyprum creditam sibi a Philometore deseruisset, et ad Antiochum Nobilem translatus etiam ab eo recessisset, veneno vitam finivit.
+  - `Clem1598-USFX`: Sed ob hoc accusatus ab amicis apud Eupatorem, cum frequenter proditor audiret, eo quod Cyprum creditam sibi a Philometore deseruisset, et ad Antiochum Nobilem translatus etiam ab eo recessisset, veneno vitam finivit.
+  - `Clem-Saints`: Sed ob hoc accusatus ab amicis apud Eupatorem, cum frequenter proditor audiret, eo quod Cyprum creditam sibi a Philometore deseruisset, et ad Antiochum Nobilem translatus etiam ab eo recessisset, veneno vitam finivit.
+  - `VulgHetzenauer (1906)`: Sed ob hoc accusatus ab amicis apud Eupatorem, cum frequenter proditor audiret, eo quod Cyprum creditam sibi a Philometore deseruisset, et ad Antiochum Nobilem translatus etiam ab eo recessisset, veneno vitam finivit.
+  - `VulgConte (2009)`: Sed ob hoc accusatus ab amicis apud Eupatorem, cum frequenter proditor audiret, eo quod Cyprum creditam sibi a Philometore deseruisset, et ad Antiochum Nobilem translatus etiam ab eo recessisset, veneno vitam finivit.
+  - `VulgSistina (1590)`: Sed ob hoc accusatus ab amicis apud Eupatorem, cum frequenter proditor audiret, eo quod Cyprum creditam sibi a Philometore deseruisset, et ad Antiochum Nobilem translatus etiam ab eo recessisset, veneno vitam finivit.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Gorgias autem cum esset dux locorum, assumptis advenis, frequenter Judæos debellabat.
+  - `Clem1598-USFX`: Gorgias autem cum esset dux locorum, assumptis advenis, frequenter Judæos debellabat.
+  - `Clem-Saints`: Gorgias autem cum esset dux locorum, assumptis advenis, frequenter Judæos debellabat.
+  - `VulgHetzenauer (1906)`: Gorgias autem, cum esset dux locorum, assumptis advenis frequenter Iudæos debellabat.
+  - `VulgConte (2009)`: Gorgias autem, cum esset dux locorum, assumptis advenis frequenter Iudæos debellabat.
+  - `VulgSistina (1590)`: Gorgias autem, cum esset dux locorum, assumptis advenis frequenter Iudaeos debellabat.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Judæi vero qui tenebant opportunas munitiones, fugatos ab Jerosolymis suscipiebant, et bellare tentabant.
+  - `Clem1598-USFX`: Judæi vero qui tenebant opportunas munitiones, fugatos ab Jerosolymis suscipiebant, et bellare tentabant.
+  - `Clem-Saints`: Judæi vero qui tenebant opportunas munitiones, fugatos ab Jerosolymis suscipiebant, et bellare tentabant.
+  - `VulgHetzenauer (1906)`: Iudæi vero, qui tenebant opportunas munitiones, fugatos ab Ierosolymis suscipiebant, et bellare tentabant.
+  - `VulgConte (2009)`: Iudæi vero, qui tenebant opportunas munitiones, fugatos ab Ierosolymis suscipiebant, et bellare tentabant.
+  - `VulgSistina (1590)`: Iudaei vero, qui tenebant opportunas munitiones, fugatos ab Ierosolymis suscipiebant, et bellare tentabant.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Hi vero qui erant cum Machabæo, per orationes Dominum rogantes ut esset sibi adjutor, impetum fecerunt in munitiones Idumæorum:
+  - `Clem1598-USFX`: Hi vero qui erant cum Machabæo, per orationes Dominum rogantes ut esset sibi adjutor, impetum fecerunt in munitiones Idumæorum:
+  - `Clem-Saints`: Hi vero qui erant cum Machabæo, per orationes Dominum rogantes ut esset sibi adjutor, impetum fecerunt in munitiones Idumæorum:
+  - `VulgHetzenauer (1906)`: Hi vero, qui erant cum Machabæo, per orationes Dominum rogantes ut esset sibi adiutor, impetum fecerunt in munitiones Idumæorum:
+  - `VulgConte (2009)`: Hi vero, qui erant cum Machabæo, per orationes Dominum rogantes ut esset sibi adiutor, impetum fecerunt in munitiones Idumæorum:
+  - `VulgSistina (1590)`: Hi vero, qui erant cum Machabaeo, per orationes Dominum rogantes ut esset sibi adiutor, impetum fecerunt in munitiones Idumaeorum:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** multaque vi insistentes, loca obtinuerunt, occurrentes interemerunt, et omnes simul non minus viginti millibus trucidaverunt.
+  - `Clem1598-USFX`: multaque vi insistentes, loca obtinuerunt, occurrentes interemerunt, et omnes simul non minus viginti millibus trucidaverunt.
+  - `Clem-Saints`: multaque vi insistentes, loca obtinuerunt, occurrentes interemerunt, et omnes simul non minus viginti millibus trucidaverunt.
+  - `VulgHetzenauer (1906)`: multaque vi insistentes, loca obtinuerunt, occurrentes interemerunt, et omnes simul non minus viginti millibus trucidaverunt.
+  - `VulgConte (2009)`: multaque vi insistentes, loca obtinuerunt, occurrentes interemerunt, et omnes simul non minus viginti millibus trucidaverunt.
+  - `VulgSistina (1590)`: multaque vi insistentes, loca obtinuerunt, occurrentes interemerunt, et omnes simul non minus viginti quinque millibus trucidaverunt.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Quidam autem cum confugissent in duas turres valde munitas, omnem apparatum ad repugnandum habentes,
+  - `Clem1598-USFX`: Quidam autem cum confugissent in duas turres valde munitas, omnem apparatum ad repugnandum habentes,
+  - `Clem-Saints`: Quidam autem cum confugissent in duas turres valde munitas, omnem apparatum ad repugnandum habentes,
+  - `VulgHetzenauer (1906)`: Quidam autem, cum confugissent in duas turres valde munitas, omnem apparatum ad repugnandum habentes,
+  - `VulgConte (2009)`: Quidam autem, cum confugissent in duas turres valde munitas, omnem apparatum ad repugnandum habentes,
+  - `VulgSistina (1590)`: Quidam autem, cum confugissent in duas turres valde munitas, omnem apparatum ad repugnandum habentes,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Machabæus ad eorum expugnationem relicto Simone, et Josepho, itemque Zachæo, eisque qui cum ipsis erant satis multis, ipse ad eas quæ amplius perurgebant pugnas conversus est.
+  - `Clem1598-USFX`: Machabæus ad eorum expugnationem relicto Simone, et Josepho, itemque Zachæo, eisque qui cum ipsis erant satis multis, ipse ad eas quæ amplius perurgebant pugnas conversus est.
+  - `Clem-Saints`: Machabæus ad eorum expugnationem relicto Simone, et Josepho, itemque Zachæo, eisque qui cum ipsis erant satis multis, ipse ad eas quæ amplius perurgebant pugnas conversus est.
+  - `VulgHetzenauer (1906)`: Machabæus ad eorum expugnationem, relicto Simone, et Iosepho, itemque Zachæo: eisque qui cum ipsis erant satis multis, ipse ad eas, quæ amplius perurgebant, pugnas conversus est.
+  - `VulgConte (2009)`: Machabæus ad eorum expugnationem, relicto Simone, et Iosepho, itemque Zachæo: eisque qui cum ipsis erant satis multis, ipse ad eas, quæ amplius perurgebant, pugnas conversus est.
+  - `VulgSistina (1590)`: Machabaeus ad eorum expugnationem, relicto Simone, et Iosepho, itemque Zachaeo: eisque qui cum ipsis erant satis multis, ipse ad eas, quae amplius perurgebant, pugnas conversus est.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Hi vero qui cum Simone erant, cupiditate ducti, a quibusdam qui in turribus erant, suasi sunt pecunia: et septuaginta millibus didrachmis acceptis, dimiserunt quosdam effugere.
+  - `Clem1598-USFX`: Hi vero qui cum Simone erant, cupiditate ducti, a quibusdam qui in turribus erant, suasi sunt pecunia: et septuaginta millibus didrachmis acceptis, dimiserunt quosdam effugere.
+  - `Clem-Saints`: Hi vero qui cum Simone erant, cupiditate ducti, a quibusdam qui in turribus erant, suasi sunt pecunia: et septuaginta millibus didrachmis acceptis, dimiserunt quosdam effugere.
+  - `VulgHetzenauer (1906)`: Hi vero, qui cum Simone erant, cupiditate ducti, a quibusdam, qui in turribus erant, suasi sunt pecunia: et septuaginta millibus didrachmis acceptis, dimiserunt quosdam effugere.
+  - `VulgConte (2009)`: Hi vero, qui cum Simone erant, cupiditate ducti, a quibusdam, qui in turribus erant, suasi sunt pecunia: et septuaginta millibus didrachmis acceptis, dimiserunt quosdam effugere.
+  - `VulgSistina (1590)`: Hi vero, qui cum Simone erant, cupiditate ducti, a quibusdam, qui in turribus erant, suasi sunt pecunia: et septuaginta millibus didrachmis acceptis, dimiserunt quosdam effugere.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Cum autem Machabæo nuntiatum esset quod factum est, principibus populi congregatis accusavit quod pecunia fratres vendidissent, adversariis eorum dimissis.
+  - `Clem1598-USFX`: Cum autem Machabæo nuntiatum esset quod factum est, principibus populi congregatis accusavit quod pecunia fratres vendidissent, adversariis eorum dimissis.
+  - `Clem-Saints`: Cum autem Machabæo nuntiatum esset quod factum est, principibus populi congregatis accusavit quod pecunia fratres vendidissent, adversariis eorum dimissis.
+  - `VulgHetzenauer (1906)`: Cum autem Machabæo nunciatum esset quod factum est, principibus populi congregatis, accusavit, quod pecunia fratres vendidissent, adversariis eorum dimissis.
+  - `VulgConte (2009)`: Cum autem Machabæo nunciatum esset quod factum est, principibus populi congregatis, accusavit, quod pecunia fratres vendidissent, adversariis eorum dimissis.
+  - `VulgSistina (1590)`: Cum autem Machabaeo nunciatum esset quod factum est, principibus populi congregatis, accusavit, quod pecunia fratres vendidissent, adversariis eorum dimissis.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Hos igitur proditores factos interfecit, et confestim duas turres occupavit.
+  - `Clem1598-USFX`: Hos igitur proditores factos interfecit, et confestim duas turres occupavit.
+  - `Clem-Saints`: Hos igitur proditores factos interfecit, et confestim duas turres occupavit.
+  - `VulgHetzenauer (1906)`: Hos igitur proditores factos interfecit, et confestim duas turres occupavit.
+  - `VulgConte (2009)`: Hos igitur proditores factos interfecit, et confestim duas turres occupavit.
+  - `VulgSistina (1590)`: Hos igitur proditores factos interfecit, et confestim duas turres occupavit.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Armis autem ac manibus omnia prospere agendo in duabus munitionibus plus quam viginti millia peremit.
+  - `Clem1598-USFX`: Armis autem ac manibus omnia prospere agendo in duabus munitionibus plus quam viginti millia peremit.
+  - `Clem-Saints`: Armis autem ac manibus omnia prospere agendo in duabus munitionibus plus quam viginti millia peremit.
+  - `VulgHetzenauer (1906)`: Armis autem ac manibus omnia prospere agendo in duabus munitionibus plus quam viginti millia peremit.
+  - `VulgConte (2009)`: Armis autem ac manibus omnia prospere agendo in duabus munitionibus plus quam viginti millia peremit.
+  - `VulgSistina (1590)`: Armis autem ac manibus omnia prospere agendo in duabus munitionibus plus quam viginti millia peremit.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** At Timotheus, qui prius a Judæis fuerat superatus, convocato exercitu peregrinæ multitudinis, et congregato equitatu Asiano, advenit quasi armis Judæam capturus.
+  - `Clem1598-USFX`: At Timotheus, qui prius a Judæis fuerat superatus, convocato exercitu peregrinæ multitudinis, et congregato equitatu Asiano, advenit quasi armis Judæam capturus.
+  - `Clem-Saints`: At Timotheus, qui prius a Judæis fuerat superatus, convocato exercitu peregrinæ multitudinis, et congregato equitatu Asiano, advenit quasi armis Judæam capturus.
+  - `VulgHetzenauer (1906)`: At Timotheus, qui prius a Iudæis fuerat superatus, convocato exercitu peregrinæ multitudinis, et congregato equitatu Asiano, advenit quasi armis Iudæam capturus.
+  - `VulgConte (2009)`: At Timotheus, qui prius a Iudæis fuerat superatus, convocato exercitu peregrinæ multitudinis, et congregato equitatu Asiano, advenit quasi armis Iudæam capturus.
+  - `VulgSistina (1590)`: At Timotheus, qui prius a Iudaeis fuerat superatus, convocato exercitu peregrinae multitudinis, et congregato equitatu Asiano, advenit quasi armis Iudaeam capturus.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Machabæus autem et qui cum ipso erant, appropinquante illo, deprecabantur Dominum, caput terra aspergentes, lumbosque ciliciis præcincti,
+  - `Clem1598-USFX`: Machabæus autem et qui cum ipso erant, appropinquante illo, deprecabantur Dominum, caput terra aspergentes, lumbosque ciliciis præcincti,
+  - `Clem-Saints`: Machabæus autem et qui cum ipso erant, appropinquante illo, deprecabantur Dominum, caput terra aspergentes, lumbosque ciliciis præcincti,
+  - `VulgHetzenauer (1906)`: Machabæus autem, et qui cum ipso erant, appropinquante illo, deprecabantur Dominum, caput terra aspergentes, lumbosque ciliciis præcincti,
+  - `VulgConte (2009)`: Machabæus autem, et qui cum ipso erant, appropinquante illo, deprecabantur Dominum, caput terra aspergentes, lumbosque ciliciis præcincti,
+  - `VulgSistina (1590)`: Machabaeus autem, et qui cum ipso erant, appropinquante illo, deprecabantur Dominum, caput terra aspergentes, lumbosque ciliciis praecincti,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** ad altaris crepidinem provoluti, ut sibi propitius, inimicis autem eorum esset inimicus, et adversariis adversaretur, sicut lex dicit.
+  - `Clem1598-USFX`: ad altaris crepidinem provoluti, ut sibi propitius, inimicis autem eorum esset inimicus, et adversariis adversaretur, sicut lex dicit.
+  - `Clem-Saints`: ad altaris crepidinem provoluti, ut sibi propitius, inimicis autem eorum esset inimicus, et adversariis adversaretur, sicut lex dicit.
+  - `VulgHetzenauer (1906)`: ad altaris crepidinem provoluti, ut sibi propitius, inimicis autem eorum esset inimicus, et adversariis adversaretur, sicut lex dicit.
+  - `VulgConte (2009)`: ad altaris crepidinem provoluti, ut sibi propitius, inimicis autem eorum esset inimicus, et adversariis adversaretur, sicut lex dicit.
+  - `VulgSistina (1590)`: ad altaris crepidinem provoluti, ut sibi propitius, inimicis autem eorum esset inimicus, et adversariis adversaretur, sicut lex dicit.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Et ita post orationem, sumptis armis, longius de civitate procedentes, et proximi hostibus effecti, resederunt.
+  - `Clem1598-USFX`: Et ita post orationem, sumptis armis, longius de civitate procedentes, et proximi hostibus effecti, resederunt.
+  - `Clem-Saints`: Et ita post orationem, sumptis armis, longius de civitate procedentes, et proximi hostibus effecti, resederunt.
+  - `VulgHetzenauer (1906)`: Et ita post orationem, sumptis armis, longius de civitate procedentes, et proximi hostibus effecti, resederunt.
+  - `VulgConte (2009)`: Et ita post orationem, sumptis armis, longius de civitate procedentes, et proximi hostibus effecti, resederunt.
+  - `VulgSistina (1590)`: Et ita post orationem, sumptis armis, longius de civitate procedentes, et proximi hostibus effecti, resederunt.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Primo autem solis ortu utrique commiserunt: isti quidem victoriæ et prosperitatis sponsorem cum virtute Dominum habentes: illi autem ducem belli animum habebant.
+  - `Clem1598-USFX`: Primo autem solis ortu utrique commiserunt: isti quidem victoriæ et prosperitatis sponsorem cum virtute Dominum habentes: illi autem ducem belli animum habebant.
+  - `Clem-Saints`: Primo autem solis ortu utrique commiserunt: isti quidem victoriæ et prosperitatis sponsorem cum virtute Dominum habentes: illi autem ducem belli animum habebant.
+  - `VulgHetzenauer (1906)`: Primo autem solis ortu utrique commiserunt: isti quidem victoriæ, et prosperitatis sponsorem cum virtute Dominum habentes: illi autem ducem belli animum habebant.
+  - `VulgConte (2009)`: Primo autem solis ortu utrique commiserunt: isti quidem victoriæ, et prosperitatis sponsorem cum virtute Dominum habentes: illi autem ducem belli animum habebant.
+  - `VulgSistina (1590)`: Primo autem solis ortu utrique commiserunt: isti quidem victoriae, et prosperitatis sponsorem cum virtute Dominum habentes: illi autem ducem belli animum habebant.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Sed cum vehemens pugna esset, apparuerunt adversariis de cælo viri quinque in equis, frenis aureis decori, ducatum Judæis præstantes:
+  - `Clem1598-USFX`: Sed cum vehemens pugna esset, apparuerunt adversariis de cælo viri quinque in equis, frenis aureis decori, ducatum Judæis præstantes:
+  - `Clem-Saints`: Sed cum vehemens pugna esset, apparuerunt adversariis de cælo viri quinque in equis, frenis aureis decori, ducatum Judæis præstantes:
+  - `VulgHetzenauer (1906)`: Sed, cum vehemens pugna esset, apparuerunt adversariis de cælo viri quinque in equis, frenis aureis decori, ducatum Iudæis præstantes:
+  - `VulgConte (2009)`: Sed, cum vehemens pugna esset, apparuerunt adversariis de cælo viri quinque in equis, frenis aureis decori, ducatum Iudæis præstantes:
+  - `VulgSistina (1590)`: Sed, cum vehemens pugna esset, apparuerunt adversariis de caelo viri quinque in equis, frenis aureis decori, ducatum Iudaeis praestantes:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** ex quibus duo Machabæum medium habentes, armis suis circumseptum incolumem conservabant: in adversarios autem tela et fulmina jaciebant, ex quo et cæcitate confusi et repleti perturbatione, cadebant.
+  - `Clem1598-USFX`: ex quibus duo Machabæum medium habentes, armis suis circumseptum incolumem conservabant: in adversarios autem tela et fulmina jaciebant, ex quo et cæcitate confusi et repleti perturbatione, cadebant.
+  - `Clem-Saints`: ex quibus duo Machabæum medium habentes, armis suis circumseptum incolumem conservabant: in adversarios autem tela et fulmina jaciebant, ex quo et cæcitate confusi et repleti perturbatione, cadebant.
+  - `VulgHetzenauer (1906)`: ex quibus duo Machabæum medium habentes, armis suis circumseptum incolumem conservabant: in adversarios autem tela, et fulmina iaciebant, ex quo et cæcitate confusi, et repleti perturbatione cadebant.
+  - `VulgConte (2009)`: ex quibus duo Machabæum medium habentes, armis suis circumseptum incolumem conservabant: in adversarios autem tela, et fulmina iaciebant, ex quo et cæcitate confusi, et repleti perturbatione cadebant.
+  - `VulgSistina (1590)`: ex quibus duo Machabaeum medium habentes, armis suis circumseptum incolumem conservabant: in adversarios autem tela, et fulmina iaciebant, ex quo et caecitate confusi, et repleti perturbatione cadebant.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Interfecti sunt autem viginti millia quingenti, et equites sexcenti.
+  - `Clem1598-USFX`: Interfecti sunt autem viginti millia quingenti, et equites sexcenti.
+  - `Clem-Saints`: Interfecti sunt autem viginti millia quingenti, et equites sexcenti.
+  - `VulgHetzenauer (1906)`: Interfecti sunt autem viginti millia quingenti, et equites sexcenti.
+  - `VulgConte (2009)`: Interfecti sunt autem viginti millia quingenti, et equites sexcenti.
+  - `VulgSistina (1590)`: Interfecti sunt autem viginti millia quingenti peditum, et equites sexcenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Timotheus vero confugit in Gazaram præsidium munitum, cui præerat Chæreas.
+  - `Clem1598-USFX`: Timotheus vero confugit in Gazaram præsidium munitum, cui præerat Chæreas.
+  - `Clem-Saints`: Timotheus vero confugit in Gazaram præsidium munitum, cui præerat Chæreas.
+  - `VulgHetzenauer (1906)`: Timotheus vero confugit in Gazaram præsidium munitum, cui præerat Chæreas.
+  - `VulgConte (2009)`: Timotheus vero confugit in Gazaram præsidium munitum, cui præerat Chæreas.
+  - `VulgSistina (1590)`: Timotheus vero confugit in Gazaram praesidium munitum, cui praeerat Chaereas.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Machabæus autem et qui cum eo erant, lætantes obsederunt præsidium diebus quatuor.
+  - `Clem1598-USFX`: Machabæus autem et qui cum eo erant, lætantes obsederunt præsidium diebus quatuor.
+  - `Clem-Saints`: Machabæus autem et qui cum eo erant, lætantes obsederunt præsidium diebus quatuor.
+  - `VulgHetzenauer (1906)`: Machabæus autem, et qui cum eo erant, lætantes obsederunt præsidium diebus quatuor.
+  - `VulgConte (2009)`: Machabæus autem, et qui cum eo erant, lætantes obsederunt præsidium diebus quatuor.
+  - `VulgSistina (1590)`: Machabaeus autem, et qui cum eo erant, laetantes obsederunt praesidium diebus quattuor.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 34 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** At hi qui intus erant, loci firmitate confisi, supra modum maledicebant, et sermones nefandos jactabant.
+  - `Clem1598-USFX`: At hi qui intus erant, loci firmitate confisi, supra modum maledicebant, et sermones nefandos jactabant.
+  - `Clem-Saints`: At hi qui intus erant, loci firmitate confisi, supra modum maledicebant, et sermones nefandos jactabant.
+  - `VulgHetzenauer (1906)`: At hi, qui intus erant, loci firmitate confisi, supra modum maledicebant, et sermones nefandos iactabant.
+  - `VulgConte (2009)`: At hi, qui intus erant, loci firmitate confisi, supra modum maledicebant, et sermones nefandos iactabant.
+  - `VulgSistina (1590)`: At hi, qui intus erant, loci firmitate confisi, supra modum maledicebant, et sermones nefandos iactabant.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 35 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Sed cum dies quinta illucesceret, viginti juvenes ex his qui cum Machabæo erant, accensi animis propter blasphemiam, viriliter accesserunt ad murum, et feroci animo incedentes ascendebant:
+  - `Clem1598-USFX`: Sed cum dies quinta illucesceret, viginti juvenes ex his qui cum Machabæo erant, accensi animis propter blasphemiam, viriliter accesserunt ad murum, et feroci animo incedentes ascendebant:
+  - `Clem-Saints`: Sed cum dies quinta illucesceret, viginti juvenes ex his qui cum Machabæo erant, accensi animis propter blasphemiam, viriliter accesserunt ad murum, et feroci animo incedentes ascendebant:
+  - `VulgHetzenauer (1906)`: Sed cum dies quinta illucesceret, viginti iuvenes ex his, qui cum Machabæo erant, accensi animis propter blasphemiam, viriliter accesserunt ad murum, et feroci animo incedentes ascendebant:
+  - `VulgConte (2009)`: Sed cum dies quinta illucesceret, viginti iuvenes ex his, qui cum Machabæo erant, accensi animis propter blasphemiam, viriliter accesserunt ad murum, et feroci animo incedentes ascendebant:
+  - `VulgSistina (1590)`: Sed cum dies quinta illucesceret, viginti iuvenes ex his, qui cum Machabaeo erant, accensi animis propter blasphemiam, viriliter accesserunt ad murum, et feroci animo incedentes ascendebant:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 36 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** sed et alii similiter ascendentes, turres portasque succendere aggressi sunt, atque ipsos maledicos vivos concremare.
+  - `Clem1598-USFX`: sed et alii similiter ascendentes, turres portasque succendere aggressi sunt, atque ipsos maledicos vivos concremare.
+  - `Clem-Saints`: sed et alii similiter ascendentes, turres portasque succendere aggressi sunt, atque ipsos maledicos vivos concremare.
+  - `VulgHetzenauer (1906)`: sed et alii similiter ascendentes, turres, portasque succendere aggressi sunt, atque ipsos maledicos vivos concremare.
+  - `VulgConte (2009)`: sed et alii similiter ascendentes, turres, portasque succendere aggressi sunt, atque ipsos maledicos vivos concremare.
+  - `VulgSistina (1590)`: sed et alii similiter ascendentes, turres, portasque succendere aggressi sunt, atque ipsos maledicos vivos concremare.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 37 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Per continuum autem biduum præsidio vastato, Timotheum occultantem se in quodam repertum loco peremerunt: et fratrem illius Chæream et Apollophanem occiderunt.
+  - `Clem1598-USFX`: Per continuum autem biduum præsidio vastato, Timotheum occultantem se in quodam repertum loco peremerunt: et fratrem illius Chæream et Apollophanem occiderunt.
+  - `Clem-Saints`: Per continuum autem biduum præsidio vastato, Timotheum occultantem se in quodam repertum loco peremerunt: et fratrem illius Chæream et Apollophanem occiderunt.
+  - `VulgHetzenauer (1906)`: Per continuum autem biduum præsidio vastato, Timotheum occultantem se in quodam repertum loco peremerunt: et fratrem illius Chæream, et Apollophanem occiderunt.
+  - `VulgConte (2009)`: Per continuum autem biduum præsidio vastato, Timotheum occultantem se in quodam repertum loco peremerunt: et fratrem illius Chæream, et Apollophanem occiderunt.
+  - `VulgSistina (1590)`: Per continuum autem biduum praesidio vastato, Timotheum occultantem se in quodam repertum loco peremerunt: et fratrem illius Chaeream, et Apollophanem occiderunt.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 38 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Quibus gestis, in hymnis et confessionibus benedicebant Dominum, qui magna fecit in Israël, et victoriam dedit illis.
+  - `Clem1598-USFX`: Quibus gestis, in hymnis et confessionibus benedicebant Dominum, qui magna fecit in Israël, et victoriam dedit illis.
+  - `Clem-Saints`: Quibus gestis, in hymnis et confessionibus benedicebant Dominum, qui magna fecit in Israël, et victoriam dedit illis.
+  - `VulgHetzenauer (1906)`: Quibus gestis, in hymnis et confessionibus benedicebant Dominum, qui magna fecit in Israel, et victoriam dedit illis.
+  - `VulgConte (2009)`: Quibus gestis, in hymnis et confessionibus benedicebant Dominum, qui magna fecit in Israel, et victoriam dedit illis.
+  - `VulgSistina (1590)`: Quibus gestis, in hymnis et confessionibus benedicebant Dominum, qui magna fecit in Israel, et victoriam dedit illis.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

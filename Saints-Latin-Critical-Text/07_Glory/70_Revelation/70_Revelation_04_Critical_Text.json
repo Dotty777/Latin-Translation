@@ -1,0 +1,507 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "07_Glory",
+  "book_slug": "revelation",
+  "book_title": "Revelation",
+  "usfm_code": "REV",
+  "chapter": 4,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:18:51Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 95603,
+      "verse": 1,
+      "critical_text": "Post hæc vidi: et ecce ostium apertum in cælo, et vox prima, quam audivi tamquam tubæ loquentis mecum, dicens: Ascende huc, et ostendam tibi quæ oportet fieri post hæc.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Post hæc vidi: et ecce ostium apertum in cælo, et vox prima, quam audivi tamquam tubæ loquentis mecum, dicens: Ascende huc, et ostendam tibi quæ oportet fieri post hæc.",
+        "Clem-Saints": "Post hæc vidi: et ecce ostium apertum in cælo, et vox prima, quam audivi tamquam tubæ loquentis mecum, dicens: Ascende huc, et ostendam tibi quæ oportet fieri post hæc.",
+        "VulgHetzenauer (1906)": "Post hæc vidi: et ecce ostium apertum in cælo, et vox prima, quam audivi tamquam tubæ loquentis mecum, dicens: Ascende huc, et ostendam tibi quæ oportet fieri post hæc.",
+        "VulgConte (2009)": "Post hæc vidi: et ecce ostium apertum in cælo, et vox prima, quam audivi tamquam tubæ loquentis mecum, dicens: Ascende huc, et ostendam tibi quæ oportet fieri post hæc.",
+        "VulgSistina (1590)": "Post haec vidi: et ecce ostium apertum in caelo, et vox prima, quam audivi tamquam tubae loquentis mecum, dicens: Ascende huc, et ostendam tibi quae oportet fieri cito post haec."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "cito",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 27,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95604,
+      "verse": 2,
+      "critical_text": "Et statim fui in spiritu: et ecce sedes posita erat in cælo, et supra sedem sedens.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et statim fui in spiritu: et ecce sedes posita erat in cælo, et supra sedem sedens.",
+        "Clem-Saints": "Et statim fui in spiritu: et ecce sedes posita erat in cælo, et supra sedem sedens.",
+        "VulgHetzenauer (1906)": "Et statim fui in spiritu: et ecce sedes posita erat in cælo, et supra sedem sedens.",
+        "VulgConte (2009)": "Et statim fui in Spiritu: et ecce sedes posita erat in cælo, et supra sedem sedens.",
+        "VulgSistina (1590)": "Statim fui in spiritu: et ecce sedes posita erat in caelo, et supra sedem sedens."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95605,
+      "verse": 3,
+      "critical_text": "Et qui sedebat similis erat aspectui lapidis jaspidis, et sardinis: et iris erat in circuitu sedis similis visioni smaragdinæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et qui sedebat similis erat aspectui lapidis jaspidis, et sardinis: et iris erat in circuitu sedis similis visioni smaragdinæ.",
+        "Clem-Saints": "Et qui sedebat similis erat aspectui lapidis jaspidis, et sardinis: et iris erat in circuitu sedis similis visioni smaragdinæ.",
+        "VulgHetzenauer (1906)": "Et qui sedebat similis erat aspectui lapidis iaspidis, et sardinis: et iris erat in circuitu sedis similis visioni smaragdinæ.",
+        "VulgConte (2009)": "Et qui sedebat similis erat aspectui lapidis iaspidis, et sardinis: et iris erat in circuitu sedis similis visioni smaragdinæ.",
+        "VulgSistina (1590)": "Et qui sedebat similis erat aspectui lapidis iaspidis, et sardinis: et iris erat in circuitu sedis similis visioni smaragdinae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95606,
+      "verse": 4,
+      "critical_text": "Et in circuitu sedis sedilia viginti quatuor: et super thronos viginti quatuor seniores sedentes, circumamicti vestimentis albis, et in capitibus eorum coronæ aureæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et in circuitu sedis sedilia viginti quatuor: et super thronos viginti quatuor seniores sedentes, circumamicti vestimentis albis, et in capitibus eorum coronæ aureæ.",
+        "Clem-Saints": "Et in circuitu sedis sedilia viginti quatuor: et super thronos viginti quatuor seniores sedentes, circumamicti vestimentis albis, et in capitibus eorum coronæ aureæ.",
+        "VulgHetzenauer (1906)": "Et in circuitu sedis sedilia vigintiquattuor: et super thronos vigintiquattuor seniores sedentes, circumamicti vestimentis albis, et in capitibus eorum coronæ aureæ:",
+        "VulgConte (2009)": "Et in circuitu sedis sedilia vigintiquattuor: et super thronos vigintiquattuor seniores sedentes, circumamicti vestimentis albis, et in capitibus eorum coronæ aureæ:",
+        "VulgSistina (1590)": "Et in circuitu sedis sedilia vigintiquattuor: et super thronos vigintiquattuor seniores sedentes, circumamicti vestimentis albis, et in capitibus eorum coronae aureae:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "viginti quatuor: / vigintiquattuor:",
+            "viginti quatuor / vigintiquattuor",
+            "viginti quatuor: / vigintiquattuor:",
+            "viginti quatuor / vigintiquattuor",
+            "viginti quatuor: / vigintiquattuor:",
+            "viginti quatuor / vigintiquattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs, with a spelling difference"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95607,
+      "verse": 5,
+      "critical_text": "Et de throno procedebant fulgura, et voces, et tonitrua: et septem lampades ardentes ante thronum, qui sunt septem spiritus Dei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et de throno procedebant fulgura, et voces, et tonitrua: et septem lampades ardentes ante thronum, qui sunt septem spiritus Dei.",
+        "Clem-Saints": "Et de throno procedebant fulgura, et voces, et tonitrua: et septem lampades ardentes ante thronum, qui sunt septem spiritus Dei.",
+        "VulgHetzenauer (1906)": "Et de throno procedebant fulgura, et voces, et tonitrua: et septem lampades ardentes ante thronum, qui sunt septem spiritus Dei.",
+        "VulgConte (2009)": "Et de throno procedebant fulgura, et voces, et tonitrua: et septem lampades ardentes ante thronum, qui sunt septem spiritus Dei.",
+        "VulgSistina (1590)": "Et de throno procedebant fulgura, et voces, et tonitrua: et septem lampades ardentes ante thronum, qui sunt septem spiritus Dei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95608,
+      "verse": 6,
+      "critical_text": "Et in conspectu sedis tamquam mare vitreum simile crystallo: et in medio sedis, et in circuitu sedis quatuor animalia plena oculis ante et retro.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et in conspectu sedis tamquam mare vitreum simile crystallo: et in medio sedis, et in circuitu sedis quatuor animalia plena oculis ante et retro.",
+        "Clem-Saints": "Et in conspectu sedis tamquam mare vitreum simile crystallo: et in medio sedis, et in circuitu sedis quatuor animalia plena oculis ante et retro.",
+        "VulgHetzenauer (1906)": "Et in conspectu sedis tamquam mare vitreum simile crystallo: et in medio sedis, et in circuitu sedis quattuor animalia plena oculis ante et retro.",
+        "VulgConte (2009)": "Et in conspectu sedis tamquam mare vitreum simile crystallo: et in medio sedis, et in circuitu sedis quattuor animalia plena oculis ante et retro.",
+        "VulgSistina (1590)": "Et in conspectu sedis tamquam mare vitreum simile crystallo: et in medio sedis, et in circuitu sedis quattuor animalia plena oculis ante et retro."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95609,
+      "verse": 7,
+      "critical_text": "Et animal primum simile leoni, et secundum animal simile vitulo, et tertium animal habens faciem quasi hominis, et quartum animal simile aquilæ volanti.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et animal primum simile leoni, et secundum animal simile vitulo, et tertium animal habens faciem quasi hominis, et quartum animal simile aquilæ volanti.",
+        "Clem-Saints": "Et animal primum simile leoni, et secundum animal simile vitulo, et tertium animal habens faciem quasi hominis, et quartum animal simile aquilæ volanti.",
+        "VulgHetzenauer (1906)": "Et animal primum simile leoni, et secundum animal simile vitulo, et tertium animal habens faciem quasi hominis, et quartum animal simile aquilæ volanti.",
+        "VulgConte (2009)": "Et animal primum simile leoni, et secundum animal simile vitulo, et tertium animal habens faciem quasi hominis, et quartum animal simile aquilæ volanti.",
+        "VulgSistina (1590)": "Et animal primum simile leoni, et secundum animal simile vitulo, et tertium animal habens faciem quasi hominis, et quartum animal simile aquilae volanti."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95610,
+      "verse": 8,
+      "critical_text": "Et quatuor animalia, singula eorum habebant alas senas: et in circuitu, et intus plena sunt oculis: et requiem non habebant die ac nocte, dicentia: Sanctus, Sanctus, Sanctus Dominus Deus omnipotens, qui erat, et qui est, et qui venturus est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et quatuor animalia, singula eorum habebant alas senas: et in circuitu, et intus plena sunt oculis: et requiem non habebant die ac nocte, dicentia: Sanctus, Sanctus, Sanctus Dominus Deus omnipotens, qui erat, et qui est, et qui venturus est.",
+        "Clem-Saints": "Et quatuor animalia, singula eorum habebant alas senas: et in circuitu, et intus plena sunt oculis: et requiem non habebant die ac nocte, dicentia: Sanctus, Sanctus, Sanctus Dominus Deus omnipotens, qui erat, et qui est, et qui venturus est.",
+        "VulgHetzenauer (1906)": "Et quattuor animalia, singula eorum habebant alas senas: et in circuitu, et intus plena sunt oculis: et requiem non habebant die ac nocte, dicentia: Sanctus, Sanctus, Sanctus Dominus Deus omnipotens, qui erat, et qui est, et qui venturus est.",
+        "VulgConte (2009)": "Et quattuor animalia, singula eorum habebant alas senas: et in circuitu, et intus plena sunt oculis: et requiem non habebant die ac nocte, dicentia: Sanctus, Sanctus, Sanctus Dominus Deus omnipotens, qui erat, et qui est, et qui venturus est.",
+        "VulgSistina (1590)": "Et quattuor animalia, singula eorum habebant alas senas in circuitu: et intus plena sunt oculis: et requiem non habebant die ac nocte, dicentia: Sanctus, Sanctus, Sanctus Dominus Deus omnipotens, qui erat, et qui est, et qui venturus est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95611,
+      "verse": 9,
+      "critical_text": "Et cum darent illa animalia gloriam, et honorem, et benedictionem sedenti super thronum, viventi in sæcula sæculorum,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et cum darent illa animalia gloriam, et honorem, et benedictionem sedenti super thronum, viventi in sæcula sæculorum,",
+        "Clem-Saints": "Et cum darent illa animalia gloriam, et honorem, et benedictionem sedenti super thronum, viventi in sæcula sæculorum,",
+        "VulgHetzenauer (1906)": "Et cum darent illa animalia gloriam, et honorem, et benedictionem sedenti super thronum, viventi in sæcula sæculorum,",
+        "VulgConte (2009)": "Et cum darent illa animalia gloriam, et honorem, et benedictionem sedenti super thronum, viventi in sæcula sæculorum,",
+        "VulgSistina (1590)": "Et cum darent illa animalia gloriam, et honorem, et benedictionem sedenti super thronum, viventi in saecula saeculorum,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95612,
+      "verse": 10,
+      "critical_text": "procidebant viginti quatuor seniores ante sedentem in throno, et adorabant viventem in sæcula sæculorum, et mittebant coronas suas ante thronum, dicentes:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "procidebant viginti quatuor seniores ante sedentem in throno, et adorabant viventem in sæcula sæculorum, et mittebant coronas suas ante thronum, dicentes:",
+        "Clem-Saints": "procidebant viginti quatuor seniores ante sedentem in throno, et adorabant viventem in sæcula sæculorum, et mittebant coronas suas ante thronum, dicentes:",
+        "VulgHetzenauer (1906)": "procidebant vigintiquattuor seniores ante sedentem in throno, et adorabant viventem in sæcula sæculorum, et mittebant coronas suas ante thronum dicentes:",
+        "VulgConte (2009)": "procidebant vigintiquattuor seniores ante sedentem in throno, et adorabant viventem in sæcula sæculorum, et mittebant coronas suas ante thronum, dicentes:",
+        "VulgSistina (1590)": "procidebant vigintiquattuor seniores ante sedentem in throno, et adorabant viventem in saecula saeculorum, et mittebant coronas suas ante thronum dicentes:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "viginti quatuor / vigintiquattuor",
+            "viginti quatuor / vigintiquattuor",
+            "viginti quatuor / vigintiquattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs, with a spelling difference"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95613,
+      "verse": 11,
+      "critical_text": "Dignus es Domine Deus noster accipere gloriam, et honorem, et virtutem: quia tu creasti omnia, et propter voluntatem tuam erant, et creata sunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dignus es Domine Deus noster accipere gloriam, et honorem, et virtutem: quia tu creasti omnia, et propter voluntatem tuam erant, et creata sunt.",
+        "Clem-Saints": "Dignus es Domine Deus noster accipere gloriam, et honorem, et virtutem: quia tu creasti omnia, et propter voluntatem tuam erant, et creata sunt.",
+        "VulgHetzenauer (1906)": "Dignus es Domine Deus noster accipere gloriam, et honorem, et virtutem: quia tu creasti omnia, et propter voluntatem tuam erant, et creata sunt.",
+        "VulgConte (2009)": "Dignus es Domine Deus noster accipere gloriam, et honorem, et virtutem: quia tu creasti omnia, et propter voluntatem tuam erant, et creata sunt.",
+        "VulgSistina (1590)": "Dignus es Domine Deus noster accipere gloriam, et honorem, et virtutem: quia tu creasti omnia, et propter voluntatem tuam erant, et creata sunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

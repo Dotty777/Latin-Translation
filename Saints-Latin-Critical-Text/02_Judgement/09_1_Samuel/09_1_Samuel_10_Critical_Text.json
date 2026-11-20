@@ -1,0 +1,862 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "1-samuel",
+  "book_title": "1 Samuel (1 Kingdoms)",
+  "usfm_code": "1SA",
+  "chapter": 10,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:37Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 68832,
+      "verse": 1,
+      "critical_text": "Tulit autem Samuel lenticulam olei, et effudit super caput ejus: et deosculatus est eum, et ait: Ecce unxit te Dominus super hæreditatem suam in principem, et liberabis populum suum de manibus inimicorum ejus qui in circuitu ejus sunt. Et hoc tibi signum, quia unxit te Deus in principem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tulit autem Samuel lenticulam olei, et effudit super caput ejus: et deosculatus est eum, et ait: Ecce unxit te Dominus super hæreditatem suam in principem, et liberabis populum suum de manibus inimicorum ejus qui in circuitu ejus sunt. Et hoc tibi signum, quia unxit te Deus in principem.",
+        "Clem-Saints": "Tulit autem Samuel lenticulam olei, et effudit super caput ejus: et deosculatus est eum, et ait: Ecce unxit te Dominus super hæreditatem suam in principem, et liberabis populum suum de manibus inimicorum ejus qui in circuitu ejus sunt. Et hoc tibi signum, quia unxit te Deus in principem.",
+        "VulgHetzenauer (1906)": "Tulit autem Samuel lenticulam olei, et effudit super caput eius, et deosculatus est eum, et ait: Ecce, unxit te Dominus super hereditatem suam in principem, et liberabis populum suum de manibus inimicorum eius, qui in circuitu eius sunt. Et hoc tibi signum, quia unxit te Deus in principem.",
+        "VulgConte (2009)": "Tulit autem Samuel lenticulam olei, et effudit super caput eius, et deosculatus est eum, et ait: Ecce, unxit te Dominus super hereditatem suam in principem, et liberabis populum suum de manibus inimicorum eius, qui in circuitu eius sunt. Et hoc tibi signum, quia unxit te Deus in principem.",
+        "VulgSistina (1590)": "Tulit autem Samuel lenticulam olei, et effudit super caput eius, et deosculatus est eum, et ait: Ecce, unxit te Dominus super hereditatem suam in principem, et liberabis populum suum de manibus inimicorum eius, qui in circuitu eius sunt. Et hoc tibi signum, quia unxit te Deus in principem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "hæreditatem / hereditatem",
+            "hæreditatem / hereditatem",
+            "hæreditatem / hereditatem"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68833,
+      "verse": 2,
+      "critical_text": "Cum abieris hodie a me, invenies duos viros juxta sepulchrum Rachel in finibus Benjamin, in meridie: dicentque tibi: Inventæ sunt asinæ ad quas ieras perquirendas: et intermissis pater tuus asinis, sollicitus est pro vobis, et dicit: Quid faciam de filio meo?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cum abieris hodie a me, invenies duos viros juxta sepulchrum Rachel in finibus Benjamin, in meridie: dicentque tibi: Inventæ sunt asinæ ad quas ieras perquirendas: et intermissis pater tuus asinis, sollicitus est pro vobis, et dicit: Quid faciam de filio meo?",
+        "Clem-Saints": "Cum abieris hodie a me, invenies duos viros juxta sepulchrum Rachel in finibus Benjamin, in meridie: dicentque tibi: Inventæ sunt asinæ ad quas ieras perquirendas: et intermissis pater tuus asinis, sollicitus est pro vobis, et dicit: Quid faciam de filio meo?",
+        "VulgHetzenauer (1906)": "Cum abieris hodie a me, invenies duos viros iuxta sepulchrum Rachel in finibus Beniamin, in Meridie, dicentque tibi: Inventæ sunt asinæ, ad quas ieras perquirendas: et intermissis pater tuus asinis, solicitus est pro vobis, et dicit: Quid faciam de filio meo?",
+        "VulgConte (2009)": "Cum abieris hodie a me, invenies duos viros iuxta sepulchrum Rachel in finibus Beniamin, in Meridie, dicentque tibi: Inventæ sunt asinæ, ad quas ieras perquirendas: et intermissis pater tuus asinis, solicitus est pro vobis, et dicit: Quid faciam de filio meo?",
+        "VulgSistina (1590)": "Cum abieris hodie a me, invenies duos viros iuxta sepulchrum Rachel in finibus Beniamin, in Meridie, dicentque tibi: Inventae sunt asinae, ad quas ieras perquirendas: et intermissis pater tuus asinis, solicitus est pro vobis, et dicit: Quid faciam de filio meo?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "sollicitus / solicitus",
+            "sollicitus / solicitus",
+            "sollicitus / solicitus"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68834,
+      "verse": 3,
+      "critical_text": "Cumque abieris inde, et ultra transieris, et veneris ad quercum Thabor, invenient te ibi tres viri ascendentes ad Deum in Bethel, unus portans tres hædos, et alius tres tortas panis, et alius portans lagenam vini.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque abieris inde, et ultra transieris, et veneris ad quercum Thabor, invenient te ibi tres viri ascendentes ad Deum in Bethel, unus portans tres hædos, et alius tres tortas panis, et alius portans lagenam vini.",
+        "Clem-Saints": "Cumque abieris inde, et ultra transieris, et veneris ad quercum Thabor, invenient te ibi tres viri ascendentes ad Deum in Bethel, unus portans tres hædos, et alius tres tortas panis, et alius portans lagenam vini.",
+        "VulgHetzenauer (1906)": "Cumque abieris inde, et ultra transieris, et veneris ad quercum Thabor, invenient te ibi tres viri ascendentes ad Deum in Bethel, unus portans tres hœdos, et alius tres tortas panis, et alius portans lagenam vini.",
+        "VulgConte (2009)": "Cumque abieris inde, et ultra transieris, et veneris ad quercum Thabor, invenient te ibi tres viri ascendentes ad Deum in Bethel, unus portans tres hœdos, et alius tres tortas panis, et alius portans lagenam vini.",
+        "VulgSistina (1590)": "Cumque abieris inde, et ultra transieris, et veneris ad quercum Thabor, invenient te ibi tres viri ascendentes ad Deum in Bethel, unus portans tres hoedos, et alius tres tortas panis, et alius portans lagenam vini."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "hædos, / hœdos,",
+            "hædos, / hœdos,",
+            "hædos, / hoedos,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68835,
+      "verse": 4,
+      "critical_text": "Cumque te salutaverint, dabunt tibi duos panes, et accipies de manu eorum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque te salutaverint, dabunt tibi duos panes, et accipies de manu eorum.",
+        "Clem-Saints": "Cumque te salutaverint, dabunt tibi duos panes, et accipies de manu eorum.",
+        "VulgHetzenauer (1906)": "Cumque te salutaverint, dabunt tibi duos panes, et accipies de manu eorum.",
+        "VulgConte (2009)": "Cumque te salutaverint, dabunt tibi duos panes, et accipies de manu eorum.",
+        "VulgSistina (1590)": "Cumque te salutaverint, dabunt tibi duos panes, et accipies de manu eorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68836,
+      "verse": 5,
+      "critical_text": "Post hæc venies in collem Dei, ubi est statio Philisthinorum: et cum ingressus fueris ibi urbem, obvium habebis gregem prophetarum descendentium de excelso, et ante eos psalterium, et tympanum, et tibiam, et citharam, ipsosque prophetantes.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Post hæc venies in collem Dei, ubi est statio Philisthinorum: et cum ingressus fueris ibi urbem, obvium habebis gregem prophetarum descendentium de excelso, et ante eos psalterium, et tympanum, et tibiam, et citharam, ipsosque prophetantes.",
+        "Clem-Saints": "Post hæc venies in collem Dei, ubi est statio Philisthinorum: et cum ingressus fueris ibi urbem, obvium habebis gregem prophetarum descendentium de excelso, et ante eos psalterium, et tympanum, et tibiam, et citharam, ipsosque prophetantes.",
+        "VulgHetzenauer (1906)": "Post hæc venies in collem Dei, ubi est statio Philisthinorum: et cum ingressus fueris ibi urbem, obvium habebis gregem prophetarum descendentium de excelso, et ante eos psalterium et tympanum, et tibiam, et citharam, ipsosque prophetantes.",
+        "VulgConte (2009)": "Post hæc venies in collem Dei, ubi est statio Philisthinorum: et cum ingressus fueris ibi urbem, obvium habebis gregem prophetarum descendentium de excelso, et ante eos psalterium et tympanum, et tibiam, et citharam, ipsosque prophetantes.",
+        "VulgSistina (1590)": "Post haec venies in collem Dei, ubi est statio Philisthinorum: et cum ingressus fueris ibi urbem, obvium habebis gregem prophetarum descendentium de excelso, et ante eos psalterium et tympanum, et tibiam, et citharam, ipsosque prophetantes."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68837,
+      "verse": 6,
+      "critical_text": "Et insiliet in te spiritus Domini, et prophetabis cum eis, et mutaberis in virum alium.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et insiliet in te spiritus Domini, et prophetabis cum eis, et mutaberis in virum alium.",
+        "Clem-Saints": "Et insiliet in te spiritus Domini, et prophetabis cum eis, et mutaberis in virum alium.",
+        "VulgHetzenauer (1906)": "Et insiliet in te Spiritus Domini, et prophetabis cum eis, et mutaberis in virum alium.",
+        "VulgConte (2009)": "Et insiliet in te Spiritus Domini, et prophetabis cum eis, et mutaberis in virum alium.",
+        "VulgSistina (1590)": "Et insiliet in te Spiritus Domini, et prophetabis cum eis, et mutaberis in virum alium."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68838,
+      "verse": 7,
+      "critical_text": "Quando ergo evenerint signa hæc omnia tibi, fac quæcumque invenerit manus tua, quia Dominus tecum est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quando ergo evenerint signa hæc omnia tibi, fac quæcumque invenerit manus tua, quia Dominus tecum est.",
+        "Clem-Saints": "Quando ergo evenerint signa hæc omnia tibi, fac quæcumque invenerit manus tua, quia Dominus tecum est.",
+        "VulgHetzenauer (1906)": "Quando ergo evenerint signa hæc omnia tibi, fac quæcumque invenerit manus tua, quia Dominus tecum est.",
+        "VulgConte (2009)": "Quando ergo evenerint signa hæc omnia tibi, fac quæcumque invenerit manus tua, quia Dominus tecum est.",
+        "VulgSistina (1590)": "Quando ergo evenerint signa haec omnia tibi, fac quaecumque invenerit manus tua, quia Dominus tecum est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68839,
+      "verse": 8,
+      "critical_text": "Et descendes ante me in Galgala (ego quippe descendam ad te), ut offeras oblationem, et immoles victimas pacificas: septem diebus expectabis, donec veniam ad te, et ostendam tibi quid facias.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et descendes ante me in Galgala (ego quippe descendam ad te), ut offeras oblationem, et immoles victimas pacificas: septem diebus expectabis, donec veniam ad te, et ostendam tibi quid facias.",
+        "Clem-Saints": "Et descendes ante me in Galgala (ego quippe descendam ad te), ut offeras oblationem, et immoles victimas pacificas: septem diebus expectabis, donec veniam ad te, et ostendam tibi quid facias.",
+        "VulgHetzenauer (1906)": "Et descendes ante me in Galgala, (ego quippe descendam ad te) ut offeras oblationem, et immoles victimas pacificas: septem diebus expectabis, donec veniam ad te, et ostendam tibi quid facias.",
+        "VulgConte (2009)": "Et descendes ante me in Galgala, (ego quippe descendam ad te) ut offeras oblationem, et immoles victimas pacificas: septem diebus expectabis, donec veniam ad te, et ostendam tibi quid facias.",
+        "VulgSistina (1590)": "Et descendes ante me in Galgala, (ego quippe descendam ad te) ut offeras oblationem, et immoles victimas pacificas: septem diebus expectabis, donec veniam ad te, et ostendam tibi quid facias."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68840,
+      "verse": 9,
+      "critical_text": "Itaque cum avertisset humerum suum ut abiret a Samuele, immutavit ei Deus cor aliud, et venerunt omnia signa hæc in die illa.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Itaque cum avertisset humerum suum ut abiret a Samuele, immutavit ei Deus cor aliud, et venerunt omnia signa hæc in die illa.",
+        "Clem-Saints": "Itaque cum avertisset humerum suum ut abiret a Samuele, immutavit ei Deus cor aliud, et venerunt omnia signa hæc in die illa.",
+        "VulgHetzenauer (1906)": "Itaque cum avertisset humerum suum ut abiret a Samuele, immutavit ei Deus cor aliud, et venerunt omnia signa hæc in die illa.",
+        "VulgConte (2009)": "Itaque cum avertisset humerum suum ut abiret a Samuele, immutavit ei Deus cor aliud, et venerunt omnia signa hæc in die illa.",
+        "VulgSistina (1590)": "Itaque cum avertisset humerum suum ut abiret a Samuele, immutavit ei Deus cor aliud, et venerunt omnia signa haec in die illa."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68841,
+      "verse": 10,
+      "critical_text": "Veneruntque ad prædictum collem, et ecce cuneus prophetarum obvius ei: et insiluit super eum spiritus Domini, et prophetavit in medio eorum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Veneruntque ad prædictum collem, et ecce cuneus prophetarum obvius ei: et insiluit super eum spiritus Domini, et prophetavit in medio eorum.",
+        "Clem-Saints": "Veneruntque ad prædictum collem, et ecce cuneus prophetarum obvius ei: et insiluit super eum spiritus Domini, et prophetavit in medio eorum.",
+        "VulgHetzenauer (1906)": "Veneruntque ad prædictum collem, et ecce cuneus prophetarum obvius ei: et insiluit super eum Spiritus Domini, et prophetavit in medio eorum.",
+        "VulgConte (2009)": "Veneruntque ad prædictum collem, et ecce cuneus prophetarum obvius ei: et insiluit super eum Spiritus Domini, et prophetavit in medio eorum.",
+        "VulgSistina (1590)": "Veneruntque ad praedictum collem, et ecce cuneus prophetarum obvius ei: et insiluit super eum Spiritus Domini, et prophetavit in medio eorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68842,
+      "verse": 11,
+      "critical_text": "Videntes autem omnes qui noverant eum heri et nudiustertius quod esset cum prophetis, et prophetaret, dixerunt ad invicem: Quænam res accidit filio Cis? num et Saul inter prophetas?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Videntes autem omnes qui noverant eum heri et nudiustertius quod esset cum prophetis, et prophetaret, dixerunt ad invicem: Quænam res accidit filio Cis? num et Saul inter prophetas?",
+        "Clem-Saints": "Videntes autem omnes qui noverant eum heri et nudiustertius quod esset cum prophetis, et prophetaret, dixerunt ad invicem: Quænam res accidit filio Cis? num et Saul inter prophetas?",
+        "VulgHetzenauer (1906)": "Videntes autem omnes qui noverant eum heri et nudiustertius, quod esset cum prophetis, et prophetaret, dixerunt ad invicem: Quænam res accidit filio Cis? num et Saul inter prophetas?",
+        "VulgConte (2009)": "Videntes autem omnes qui noverant eum heri et nudiustertius, quod esset cum prophetis, et prophetaret, dixerunt ad invicem: Quænam res accidit filio Cis? Num et Saul inter prophetas?",
+        "VulgSistina (1590)": "Videntes autem omnes qui noverant eum heri et nudiustertius, quod esset cum prophetis, et prophetaret, dixerunt ad invicem: Quaenam res accidit filio Cis? num et Saul inter prophetas?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68843,
+      "verse": 12,
+      "critical_text": "Responditque alius ad alterum, dicens: Et quis pater eorum? Propterea versum est in proverbium: Num et Saul inter prophetas?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Responditque alius ad alterum, dicens: Et quis pater eorum? Propterea versum est in proverbium: Num et Saul inter prophetas?",
+        "Clem-Saints": "Responditque alius ad alterum, dicens: Et quis pater eorum? Propterea versum est in proverbium: Num et Saul inter prophetas?",
+        "VulgHetzenauer (1906)": "Responditque alius ad alterum, dicens: Et quis pater eorum? propterea versum est in proverbium: Num et Saul inter prophetas?",
+        "VulgConte (2009)": "Responditque alius ad alterum, dicens: Et quis pater eorum? Propterea versum est in proverbium: Num et Saul inter prophetas?",
+        "VulgSistina (1590)": "Responditque alius ad alterum, dicens: Et quis pater eius? propterea versum est in proverbium: Num et Saul inter prophetas?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "eorum?",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "eius?",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "eorum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68844,
+      "verse": 13,
+      "critical_text": "Cessavit autem prophetare, et venit ad excelsum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cessavit autem prophetare, et venit ad excelsum.",
+        "Clem-Saints": "Cessavit autem prophetare, et venit ad excelsum.",
+        "VulgHetzenauer (1906)": "Cessavit autem prophetare, et venit ad excelsum.",
+        "VulgConte (2009)": "Cessavit autem prophetare, et venit ad excelsum.",
+        "VulgSistina (1590)": "Cessavit autem prophetare, et venit ad excelsum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68845,
+      "verse": 14,
+      "critical_text": "Dixitque patruus Saul ad eum, et ad puerum ejus: Quo abistis? Qui responderunt: Quærere asinas: quas cum non reperissemus, venimus ad Samuelem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque patruus Saul ad eum, et ad puerum ejus: Quo abistis? Qui responderunt: Quærere asinas: quas cum non reperissemus, venimus ad Samuelem.",
+        "Clem-Saints": "Dixitque patruus Saul ad eum, et ad puerum ejus: Quo abistis? Qui responderunt: Quærere asinas: quas cum non reperissemus, venimus ad Samuelem.",
+        "VulgHetzenauer (1906)": "Dixitque patruus Saul ad eum, et ad puerum eius: Quo abistis? Qui responderunt: Quærere asinas: quas cum non reperissemus, venimus ad Samuelem.",
+        "VulgConte (2009)": "Dixitque patruus Saul ad eum, et ad puerum eius: Quo abistis? Qui responderunt: Quærere asinas: quas cum non reperissemus, venimus ad Samuelem.",
+        "VulgSistina (1590)": "Dixitque patruus Saul ad eum, et ad puerum eius: Quo abistis? Qui responderunt: Quaerere asinas: quas cum non reperissemus, venimus ad Samuelem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68846,
+      "verse": 15,
+      "critical_text": "Et dixit ei patruus suus: Indica mihi quid dixerit tibi Samuel.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixit ei patruus suus: Indica mihi quid dixerit tibi Samuel.",
+        "Clem-Saints": "Et dixit ei patruus suus: Indica mihi quid dixerit tibi Samuel.",
+        "VulgHetzenauer (1906)": "Et dixit ei patruus suus: Indica mihi quid dixerit tibi Samuel.",
+        "VulgConte (2009)": "Et dixit ei patruus suus: Indica mihi quid dixerit tibi Samuel.",
+        "VulgSistina (1590)": "Et dixit ei patruus suus: Indica mihi quid dixerit tibi Samuel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68847,
+      "verse": 16,
+      "critical_text": "Et ait Saul ad patruum suum: Indicavit nobis quia inventæ essent asinæ. De sermone autem regni non indicavit ei quem locutus fuerat ei Samuel.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ait Saul ad patruum suum: Indicavit nobis quia inventæ essent asinæ. De sermone autem regni non indicavit ei quem locutus fuerat ei Samuel.",
+        "Clem-Saints": "Et ait Saul ad patruum suum: Indicavit nobis quia inventæ essent asinæ. De sermone autem regni non indicavit ei quem locutus fuerat ei Samuel.",
+        "VulgHetzenauer (1906)": "Et ait Saul ad patruum suum: Indicavit nobis quia inventæ essent asinæ. De sermone autem regni non indicavit ei quem locutus fuerat ei Samuel.",
+        "VulgConte (2009)": "Et ait Saul ad patruum suum: Indicavit nobis quia inventæ essent asinæ. De sermone autem regni non indicavit ei quem locutus fuerat ei Samuel.",
+        "VulgSistina (1590)": "Et ait Saul ad patruum suum: Indicavit nobis quia inventae essent asinae. De sermone autem regni non indicavit ei quem locutus fuerat ei Samuel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68848,
+      "verse": 17,
+      "critical_text": "Et convocavit Samuel populum ad Dominum in Maspha:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et convocavit Samuel populum ad Dominum in Maspha:",
+        "Clem-Saints": "Et convocavit Samuel populum ad Dominum in Maspha:",
+        "VulgHetzenauer (1906)": "Et convocavit Samuel populum ad Dominum in Maspha:",
+        "VulgConte (2009)": "Et convocavit Samuel populum ad Dominum in Maspha:",
+        "VulgSistina (1590)": "Et convocavit Samuel populum ad Dominum in Maspha:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68849,
+      "verse": 18,
+      "critical_text": "et ait ad filios Israël: Hæc dicit Dominus Deus Israël: Ego eduxi Israël de Ægypto, et erui vos de manu Ægyptiorum, et de manu omnium regum qui affligebant vos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et ait ad filios Israël: Hæc dicit Dominus Deus Israël: Ego eduxi Israël de Ægypto, et erui vos de manu Ægyptiorum, et de manu omnium regum qui affligebant vos.",
+        "Clem-Saints": "et ait ad filios Israël: Hæc dicit Dominus Deus Israël: Ego eduxi Israël de Ægypto, et erui vos de manu Ægyptiorum, et de manu omnium regum qui affligebant vos.",
+        "VulgHetzenauer (1906)": "et ait ad filios Israel: Hæc dicit Dominus Deus Israel: Ego eduxi Israel de Ægypto, et erui vos de manu Ægyptiorum, et de manu omnium regum qui affligebant vos.",
+        "VulgConte (2009)": "et ait ad filios Israel: Hæc dicit Dominus Deus Israel: Ego eduxi Israel de Ægypto, et erui vos de manu Ægyptiorum, et de manu omnium regum qui affligebant vos.",
+        "VulgSistina (1590)": "et ait ad filios Israel: Haec dicit Dominus Deus Israel: Ego eduxi Israel de Aegypto, et erui vos de manu Aegyptiorum, et de manu omnium regum qui affligebant vos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68850,
+      "verse": 19,
+      "critical_text": "Vos autem hodie projecistis Deum vestrum, qui solus salvavit vos de universis malis et tribulationibus vestris: et dixistis: Nequaquam: sed regem constitue super nos. Nunc ergo state coram Domino per tribus vestras, et per familias.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Vos autem hodie projecistis Deum vestrum, qui solus salvavit vos de universis malis et tribulationibus vestris: et dixistis: Nequaquam: sed regem constitue super nos. Nunc ergo state coram Domino per tribus vestras, et per familias.",
+        "Clem-Saints": "Vos autem hodie projecistis Deum vestrum, qui solus salvavit vos de universis malis et tribulationibus vestris: et dixistis: Nequaquam: sed regem constitue super nos. Nunc ergo state coram Domino per tribus vestras, et per familias.",
+        "VulgHetzenauer (1906)": "Vos autem hodie proiecistis Deum vestrum, qui solus salvavit vos de universis malis et tribulationibus vestris: et dixistis: Nequaquam: sed regem constitue super nos. Nunc ergo state coram Domino per tribus vestras, et per familias.",
+        "VulgConte (2009)": "Vos autem hodie proiecistis Deum vestrum, qui solus salvavit vos de universis malis et tribulationibus vestris: et dixistis: Nequaquam: sed regem constitue super nos. Nunc ergo state coram Domino per tribus vestras, et per familias.",
+        "VulgSistina (1590)": "Vos autem hodie proiecistis Deum vestrum, qui solus salvavit vos de universis malis et tribulationibus vestris: et dixistis: Nequaquam: sed regem constitue super nos. Nunc ergo state coram Domino per tribus vestras, et per familias."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68851,
+      "verse": 20,
+      "critical_text": "Et applicuit Samuel omnes tribus Israël, et cecidit sors tribus Benjamin.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et applicuit Samuel omnes tribus Israël, et cecidit sors tribus Benjamin.",
+        "Clem-Saints": "Et applicuit Samuel omnes tribus Israël, et cecidit sors tribus Benjamin.",
+        "VulgHetzenauer (1906)": "Et applicuit Samuel omnes tribus Israel, et cecidit sors tribus Beniamin.",
+        "VulgConte (2009)": "Et applicuit Samuel omnes tribus Israel, et cecidit sors tribus Beniamin.",
+        "VulgSistina (1590)": "Et applicuit Samuel omnes tribus Israel, et cecidit sors tribus Beniamin."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68852,
+      "verse": 21,
+      "critical_text": "Et applicuit tribum Benjamin et cognationes ejus, et cecidit cognatio Metri: et pervenit usque ad Saul filium Cis. Quæsierunt ergo eum, et non est inventus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et applicuit tribum Benjamin et cognationes ejus, et cecidit cognatio Metri: et pervenit usque ad Saul filium Cis. Quæsierunt ergo eum, et non est inventus.",
+        "Clem-Saints": "Et applicuit tribum Benjamin et cognationes ejus, et cecidit cognatio Metri: et pervenit usque ad Saul filium Cis. Quæsierunt ergo eum, et non est inventus.",
+        "VulgHetzenauer (1906)": "Et applicuit tribum Beniamin et cognationes eius, et cecidit cognatio Metri, et pervenit usque ad Saul filium Cis. Quæsierunt ergo eum, et non est inventus.",
+        "VulgConte (2009)": "Et applicuit tribum Beniamin et cognationes eius, et cecidit cognatio Metri, et pervenit usque ad Saul filium Cis. Quæsierunt ergo eum, et non est inventus.",
+        "VulgSistina (1590)": "Et applicuit tribum Beniamin et cognationes eius, et cecidit cognatio Metri, et pervenit usque ad Saul filium Cis. Quaesierunt ergo eum, et non est inventus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68853,
+      "verse": 22,
+      "critical_text": "Et consuluerunt post hæc Dominum utrumnam venturus esset illuc. Responditque Dominus: Ecce absconditus est domi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et consuluerunt post hæc Dominum utrumnam venturus esset illuc. Responditque Dominus: Ecce absconditus est domi.",
+        "Clem-Saints": "Et consuluerunt post hæc Dominum utrumnam venturus esset illuc. Responditque Dominus: Ecce absconditus est domi.",
+        "VulgHetzenauer (1906)": "Et consuluerunt post hæc Dominum utrumnam venturus esset illuc. Responditque Dominus: Ecce absconditus est domi.",
+        "VulgConte (2009)": "Et consuluerunt post hæc Dominum utrumnam venturus esset illuc. Responditque Dominus: Ecce absconditus est domi.",
+        "VulgSistina (1590)": "Et consuluerunt post haec Dominum utrumnam venturus esset illuc. Responditque Dominus: Ecce absconditus est domi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68854,
+      "verse": 23,
+      "critical_text": "Cucurrerunt itaque et tulerunt eum inde: stetitque in medio populi, et altior fuit universo populo ab humero et sursum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cucurrerunt itaque et tulerunt eum inde: stetitque in medio populi, et altior fuit universo populo ab humero et sursum.",
+        "Clem-Saints": "Cucurrerunt itaque et tulerunt eum inde: stetitque in medio populi, et altior fuit universo populo ab humero et sursum.",
+        "VulgHetzenauer (1906)": "Cucurrerunt itaque et tulerunt eum inde: stetitque in medio populi, et altior fuit universo populo ab humero et sursum.",
+        "VulgConte (2009)": "Cucurrerunt itaque et tulerunt eum inde: stetitque in medio populi, et altior fuit universo populo ab humero et sursum.",
+        "VulgSistina (1590)": "Cucurrerunt itaque et tulerunt eum inde: stetitque in medio populi, et altior fuit universo populo ab humero et sursum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68855,
+      "verse": 24,
+      "critical_text": "Et ait Samuel ad omnem populum: Certe videtis quem elegit Dominus, quoniam non sit similis illi in omni populo. Et clamavit omnis populus, et ait: Vivat rex.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ait Samuel ad omnem populum: Certe videtis quem elegit Dominus, quoniam non sit similis illi in omni populo. Et clamavit omnis populus, et ait: Vivat rex.",
+        "Clem-Saints": "Et ait Samuel ad omnem populum: Certe videtis quem elegit Dominus, quoniam non sit similis illi in omni populo. Et clamavit omnis populus, et ait: Vivat rex.",
+        "VulgHetzenauer (1906)": "Et ait Samuel ad omnem populum: Certe videtis quem elegit Dominus, quoniam non sit similis illi in omni populo. Et clamavit omnis populus, et ait: Vivat rex.",
+        "VulgConte (2009)": "Et ait Samuel ad omnem populum: Certe videtis quem elegit Dominus, quoniam non sit similis illi in omni populo. Et clamavit omnis populus, et ait: Vivat rex.",
+        "VulgSistina (1590)": "Et ait Samuel ad omnem populum: Certe videtis quem elegit Dominus, quoniam non sit similis illi in omni populo. Et clamavit omnis populus, et ait: Vivat rex."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68856,
+      "verse": 25,
+      "critical_text": "Locutus est autem Samuel ad populum legem regni, et scripsit in libro, et reposuit coram Domino: et dimisit Samuel omnem populum, singulos in domum suam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Locutus est autem Samuel ad populum legem regni, et scripsit in libro, et reposuit coram Domino: et dimisit Samuel omnem populum, singulos in domum suam.",
+        "Clem-Saints": "Locutus est autem Samuel ad populum legem regni, et scripsit in libro, et reposuit coram Domino: et dimisit Samuel omnem populum, singulos in domum suam.",
+        "VulgHetzenauer (1906)": "Locutus est autem Samuel ad populum legem regni, et scripsit in libro, et reposuit coram Domino: et dimisit Samuel omnem populum, singulos in domum suam.",
+        "VulgConte (2009)": "Locutus est autem Samuel ad populum legem regni, et scripsit in libro, et reposuit coram Domino: et dimisit Samuel omnem populum, singulos in domum suam.",
+        "VulgSistina (1590)": "Locutus est autem Samuel ad populum legem regni, et scripsit in libro, et reposuit coram Domino: et dimisit Samuel omnem populum, singulos in domum suam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68857,
+      "verse": 26,
+      "critical_text": "Sed et Saul abiit in domum suam in Gabaa: et abiit cum eo pars exercitus, quorum tetigerat Deus corda.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sed et Saul abiit in domum suam in Gabaa: et abiit cum eo pars exercitus, quorum tetigerat Deus corda.",
+        "Clem-Saints": "Sed et Saul abiit in domum suam in Gabaa: et abiit cum eo pars exercitus, quorum tetigerat Deus corda.",
+        "VulgHetzenauer (1906)": "Sed et Saul abiit in domum suam in Gabaa: et abiit cum eo pars exercitus, quorum tetigerat Deus corda.",
+        "VulgConte (2009)": "Sed et Saul abiit in domum suam in Gabaa: et abiit cum eo pars exercitus, quorum tetigerat Deus corda.",
+        "VulgSistina (1590)": "Sed et Saul abiit in domum suam in Gabaa: et abiit cum eo pars exercitus, quorum tetigerat Deus corda."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68858,
+      "verse": 27,
+      "critical_text": "Filii vero Belial dixerunt: Num salvare nos poterit iste? Et despexerunt eum, et non attulerunt ei munera: ille vero dissimulabat se audire.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii vero Belial dixerunt: Num salvare nos poterit iste? Et despexerunt eum, et non attulerunt ei munera: ille vero dissimulabat se audire.",
+        "Clem-Saints": "Filii vero Belial dixerunt: Num salvare nos poterit iste? Et despexerunt eum, et non attulerunt ei munera: ille vero dissimulabat se audire.",
+        "VulgHetzenauer (1906)": "Filii vero Belial dixerunt: Num salvare nos poterit iste? Et despexerunt eum, et non attulerunt ei munera: ille vero dissimulabat se audire.",
+        "VulgConte (2009)": "Filii vero Belial dixerunt: Num salvare nos poterit iste? Et despexerunt eum, et non attulerunt ei munera: ille vero dissimulabat se audire.",
+        "VulgSistina (1590)": "Filii vero Belial dixerunt: Num salvare nos poterit iste? Et despexerunt eum, et non attulerunt ei munera: ille vero dissimulabat se audire."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

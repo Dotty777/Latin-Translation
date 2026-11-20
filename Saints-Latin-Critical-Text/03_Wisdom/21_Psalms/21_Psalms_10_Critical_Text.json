@@ -1,0 +1,341 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "psalms",
+  "book_title": "Psalms",
+  "usfm_code": "PSA",
+  "chapter": 10,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:16Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "Clem1598-USFX: 10:2 not collated (no verse of the reference matches its wording)",
+    "Clem1598-USFX: 6 verse(s) re-aligned by content (2←10:3, 3←10:4, 4←10:5, 5←10:6, 6←10:7, 7←10:8)",
+    "VulgHetzenauer (1906): 10:2 not collated (no verse of the reference matches its wording)",
+    "VulgHetzenauer (1906): 6 verse(s) re-aligned by content (2←10:3, 3←10:4, 4←10:5, 5←10:6, 6←10:7, 7←10:8)",
+    "VulgConte (2009): 10:2 not collated (no verse of the reference matches its wording)",
+    "VulgConte (2009): 6 verse(s) re-aligned by content (2←10:3, 3←10:4, 4←10:5, 5←10:6, 6←10:7, 7←10:8)",
+    "VulgSistina (1590): 10:2 not collated (no verse of the reference matches its wording)",
+    "VulgSistina (1590): 6 verse(s) re-aligned by content (2←10:3, 3←10:4, 4←10:5, 5←10:6, 6←10:7, 7←10:8)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 76963,
+      "verse": 1,
+      "critical_text": "In finem. Psalmus David.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In finem. Psalmus David.",
+        "Clem-Saints": "In finem. Psalmus David.",
+        "VulgHetzenauer (1906)": "In finem, Psalmus David.",
+        "VulgConte (2009)": "In finem, Psalmus David.",
+        "VulgSistina (1590)": "Psalmus David, in finem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Psalmus David,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 0,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "Psalmus David.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 2,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "psalmus dauid",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 76964,
+      "verse": 2,
+      "critical_text": "Quoniam ecce peccatores intenderunt arcum; paraverunt sagittas suas in pharetra, ut sagittent in obscuro rectos corde:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quoniam ecce peccatores intenderunt arcum; paraverunt sagittas suas in pharetra, ut sagittent in obscuro rectos corde:",
+        "Clem-Saints": "Quoniam ecce peccatores intenderunt arcum; paraverunt sagittas suas in pharetra, ut sagittent in obscuro rectos corde:",
+        "VulgHetzenauer (1906)": "Quoniam ecce peccatores intenderunt arcum, paraverunt sagittas suas in pharetra, ut sagittent in obscuro rectos corde.",
+        "VulgConte (2009)": "Quoniam ecce peccatores intenderunt arcum, paraverunt sagittas suas in pharetra, ut sagittent in obscuro rectos corde.",
+        "VulgSistina (1590)": "Quoniam ecce peccatores intenderunt arcum, paraverunt sagittas suas in pharetra, ut sagittent in obscuro rectos corde."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "10:3",
+        "VulgHetzenauer (1906)": "10:3",
+        "VulgConte (2009)": "10:3",
+        "VulgSistina (1590)": "10:3"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 10:3 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 76965,
+      "verse": 3,
+      "critical_text": "quoniam quæ perfecisti destruxerunt; justus autem, quid fecit?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quoniam quæ perfecisti destruxerunt; justus autem, quid fecit?",
+        "Clem-Saints": "quoniam quæ perfecisti destruxerunt; justus autem, quid fecit?",
+        "VulgHetzenauer (1906)": "Quoniam quæ perfecisti, destruxerunt: iustus autem quid fecit?",
+        "VulgConte (2009)": "Quoniam quæ perfecisti, destruxerunt: iustus autem quid fecit?",
+        "VulgSistina (1590)": "Quoniam quae perfecisti, destruxerunt: iustus autem quid fecit?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "10:4",
+        "VulgHetzenauer (1906)": "10:4",
+        "VulgConte (2009)": "10:4",
+        "VulgSistina (1590)": "10:4"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 10:4 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 76966,
+      "verse": 4,
+      "critical_text": "Dominus in templo sancto suo; Dominus in cælo sedes ejus. Oculi ejus in pauperem respiciunt; palpebræ ejus interrogant filios hominum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dominus in templo sancto suo; Dominus in cælo sedes ejus. Oculi ejus in pauperem respiciunt; palpebræ ejus interrogant filios hominum.",
+        "Clem-Saints": "Dominus in templo sancto suo; Dominus in cælo sedes ejus. Oculi ejus in pauperem respiciunt; palpebræ ejus interrogant filios hominum.",
+        "VulgHetzenauer (1906)": "Dominus in templo sancto suo, Dominus in cælo sedes eius: Oculi eius in pauperem respiciunt: palpebræ eius interrogant filios hominum.",
+        "VulgConte (2009)": "Dominus in templo sancto suo, Dominus in cælo sedes eius: Oculi eius in pauperem respiciunt: palpebræ eius interrogant filios hominum.",
+        "VulgSistina (1590)": "Dominus in templo sancto suo, Dominus in caelo sedes eius: Oculi eius in pauperem respiciunt: palpebrae eius interrogant filios hominum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "10:5",
+        "VulgHetzenauer (1906)": "10:5",
+        "VulgConte (2009)": "10:5",
+        "VulgSistina (1590)": "10:5"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 10:5 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 76967,
+      "verse": 5,
+      "critical_text": "Dominus interrogat justum et impium; qui autem diligit iniquitatem, odit animam suam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dominus interrogat justum et impium; qui autem diligit iniquitatem, odit animam suam.",
+        "Clem-Saints": "Dominus interrogat justum et impium; qui autem diligit iniquitatem, odit animam suam.",
+        "VulgHetzenauer (1906)": "Dominus interrogat iustum et impium: qui autem diligit iniquitatem, odit animam suam.",
+        "VulgConte (2009)": "Dominus interrogat iustum et impium: qui autem diligit iniquitatem, odit animam suam.",
+        "VulgSistina (1590)": "Dominus interrogat iustum et impium: qui autem diligit iniquitatem, odit animam suam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "10:6",
+        "VulgHetzenauer (1906)": "10:6",
+        "VulgConte (2009)": "10:6",
+        "VulgSistina (1590)": "10:6"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 10:6 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 76968,
+      "verse": 6,
+      "critical_text": "Pluet super peccatores laqueos; ignis et sulphur, et spiritus procellarum, pars calicis eorum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Pluet super peccatores laqueos; ignis et sulphur, et spiritus procellarum, pars calicis eorum.",
+        "Clem-Saints": "Pluet super peccatores laqueos; ignis et sulphur, et spiritus procellarum, pars calicis eorum.",
+        "VulgHetzenauer (1906)": "Pluet super peccatores laqueos: ignis, et sulphur, et spiritus procellarum pars calicis eorum.",
+        "VulgConte (2009)": "Pluet super peccatores laqueos: ignis, et sulphur, et spiritus procellarum pars calicis eorum.",
+        "VulgSistina (1590)": "Pluet super peccatores laqueos: ignis, et sulphur, et spiritus procellarum pars calicis eorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "10:7",
+        "VulgHetzenauer (1906)": "10:7",
+        "VulgConte (2009)": "10:7",
+        "VulgSistina (1590)": "10:7"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 10:7 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 76969,
+      "verse": 7,
+      "critical_text": "Quoniam justus Dominus, et justitias dilexit: æquitatem vidit vultus ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quoniam justus Dominus, et justitias dilexit: æquitatem vidit vultus ejus.",
+        "Clem-Saints": "Quoniam justus Dominus, et justitias dilexit: æquitatem vidit vultus ejus.",
+        "VulgHetzenauer (1906)": "Quoniam iustus Dominus et iustitias dilexit: æquitatem vidit vultus eius.",
+        "VulgConte (2009)": "Quoniam iustus Dominus et iustitias dilexit: æquitatem vidit vultus eius.",
+        "VulgSistina (1590)": "Quoniam iustus Dominus et iustitias dilexit: aequitatem vidit vultus eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "10:8",
+        "VulgHetzenauer (1906)": "10:8",
+        "VulgConte (2009)": "10:8",
+        "VulgSistina (1590)": "10:8"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 10:8 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

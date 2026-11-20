@@ -1,0 +1,580 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "01_Law",
+  "book_slug": "numbers",
+  "book_title": "Numbers",
+  "usfm_code": "NUM",
+  "chapter": 12,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:21Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "Clem1598-USFX: verse 13:1 moved to 12:16 across chapter break before re-division",
+    "VulgHetzenauer (1906): verse 13:1 moved to 12:16 across chapter break before re-division",
+    "VulgConte (2009): verse 13:1 moved to 12:16 across chapter break before re-division",
+    "VulgSistina (1590): verse 13:1 moved to 12:16 across chapter break before re-division"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 65502,
+      "verse": 1,
+      "critical_text": "Locutaque est Maria et Aaron contra Moysen propter uxorem ejus Æthiopissam,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Locutaque est Maria et Aaron contra Moysen propter uxorem ejus Æthiopissam,",
+        "Clem-Saints": "Locutaque est Maria et Aaron contra Moysen propter uxorem ejus Æthiopissam,",
+        "VulgHetzenauer (1906)": "Locutaque est Maria et Aaron contra Moysen propter uxorem eius Æthiopissam,",
+        "VulgConte (2009)": "Locutaque est Maria et Aaron contra Moysen propter uxorem eius Æthiopissam,",
+        "VulgSistina (1590)": "Locutaque est Maria et Aaron contra Moysen propter uxorem eius Aethiopissam,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65503,
+      "verse": 2,
+      "critical_text": "et dixerunt: Num per solum Moysen locutus est Dominus? nonne et nobis similiter est locutus? Quod cum audisset Dominus",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et dixerunt: Num per solum Moysen locutus est Dominus? nonne et nobis similiter est locutus? Quod cum audisset Dominus",
+        "Clem-Saints": "et dixerunt: Num per solum Moysen locutus est Dominus? nonne et nobis similiter est locutus? Quod cum audisset Dominus",
+        "VulgHetzenauer (1906)": "et dixerunt: Num per solum Moysen locutus est Dominus? nonne et nobis similiter est locutus? Quod cum audisset Dominus,",
+        "VulgConte (2009)": "et dixerunt: Num per solum Moysen locutus est Dominus? Nonne et nobis similiter est locutus? Quod cum audisset Dominus,",
+        "VulgSistina (1590)": "et dixerunt: Num per solum Moysen locutus est Dominus? nonne et nobis similiter est locutus? Quod cum audisset Dominus iratus est,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "iratus est,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 19,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65504,
+      "verse": 3,
+      "critical_text": "(erat enim Moyses vir mitissimus super omnes homines qui morabantur in terra),",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "(erat enim Moyses vir mitissimus super omnes homines qui morabantur in terra),",
+        "Clem-Saints": "(erat enim Moyses vir mitissimus super omnes homines qui morabantur in terra),",
+        "VulgHetzenauer (1906)": "(Erat enim Moyses vir mitissimus super omnes homines qui morabantur in terra)",
+        "VulgConte (2009)": "(erat enim Moyses vir mitissimus super omnes homines qui morabantur in terra)",
+        "VulgSistina (1590)": "(Erat enim Moyses vir mitissimus super omnes homines qui morabantur in terra)"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65505,
+      "verse": 4,
+      "critical_text": "statim locutus est ad eum, et ad Aaron et Mariam: Egredimini vos tantum tres ad tabernaculum fœderis. Cumque fuissent egressi,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "statim locutus est ad eum, et ad Aaron et Mariam: Egredimini vos tantum tres ad tabernaculum fœderis. Cumque fuissent egressi,",
+        "Clem-Saints": "statim locutus est ad eum, et ad Aaron et Mariam: Egredimini vos tantum tres ad tabernaculum fœderis. Cumque fuissent egressi,",
+        "VulgHetzenauer (1906)": "statim locutus est ad eum, et ad Aaron et Mariam: Egredimini vos tantum tres ad tabernaculum fœderis. Cumque fuissent egressi,",
+        "VulgConte (2009)": "statim locutus est ad eum, et ad Aaron et Mariam: Egredimini vos tantum tres ad tabernaculum fœderis. Cumque fuissent egressi,",
+        "VulgSistina (1590)": "statim locutus est Dominus ad eum, et ad Aaron et Mariam: Egredimini vos tantum tres ad tabernaculum foederis. Cumque fuissent egressi,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Dominus",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 3,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65506,
+      "verse": 5,
+      "critical_text": "descendit Dominus in columna nubis, et stetit in introitu tabernaculi, vocans Aaron et Mariam. Qui cum issent,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "descendit Dominus in columna nubis, et stetit in introitu tabernaculi, vocans Aaron et Mariam. Qui cum issent,",
+        "Clem-Saints": "descendit Dominus in columna nubis, et stetit in introitu tabernaculi, vocans Aaron et Mariam. Qui cum issent,",
+        "VulgHetzenauer (1906)": "descendit Dominus in columna nubis, et stetit in introitu tabernaculi vocans Aaron et Mariam. Qui cum issent,",
+        "VulgConte (2009)": "descendit Dominus in columna nubis, et stetit in introitu tabernaculi vocans Aaron et Mariam. Qui cum issent,",
+        "VulgSistina (1590)": "descendit Dominus in columna nubis, et stetit in introitu tabernaculi vocans Aaron et Mariam. Qui cum issent,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65507,
+      "verse": 6,
+      "critical_text": "dixit ad eos: Audite sermones meos: si quis fuerit inter vos propheta Domini, in visione apparebo ei, vel per somnium loquar ad illum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "dixit ad eos: Audite sermones meos: si quis fuerit inter vos propheta Domini, in visione apparebo ei, vel per somnium loquar ad illum.",
+        "Clem-Saints": "dixit ad eos: Audite sermones meos: si quis fuerit inter vos propheta Domini, in visione apparebo ei, vel per somnium loquar ad illum.",
+        "VulgHetzenauer (1906)": "dixit ad eos: Audite sermones meos: si quis fuerit inter vos propheta Domini, in visione apparebo ei, vel per somnium loquar ad illum.",
+        "VulgConte (2009)": "dixit ad eos: Audite sermones meos: si quis fuerit inter vos propheta Domini, in visione apparebo ei, vel per somnium loquar ad illum.",
+        "VulgSistina (1590)": "dixit ad eos: Audite sermones meos: si quis fuerit inter vos propheta Domini, in visione apparebo ei, vel per somnium loquar ad illum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65508,
+      "verse": 7,
+      "critical_text": "At non talis servus meus Moyses, qui in omni domo mea fidelissimus est:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "At non talis servus meus Moyses, qui in omni domo mea fidelissimus est:",
+        "Clem-Saints": "At non talis servus meus Moyses, qui in omni domo mea fidelissimus est:",
+        "VulgHetzenauer (1906)": "At non talis servus meus Moyses, qui in omni domo mea fidelissimus est:",
+        "VulgConte (2009)": "At non talis servus meus Moyses, qui in omni domo mea fidelissimus est:",
+        "VulgSistina (1590)": "At non talis servus meus Moyses, qui in omni domo mea fidelissimus est:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65509,
+      "verse": 8,
+      "critical_text": "ore enim ad os loquor ei: et palam, et non per ænigmata et figuras Dominum videt. Quare ergo non timuistis detrahere servo meo Moysi?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ore enim ad os loquor ei: et palam, et non per ænigmata et figuras Dominum videt. Quare ergo non timuistis detrahere servo meo Moysi?",
+        "Clem-Saints": "ore enim ad os loquor ei: et palam, et non per ænigmata et figuras Dominum videt. Quare ergo non timuistis detrahere servo meo Moysi?",
+        "VulgHetzenauer (1906)": "ore enim ad os loquor ei: et palam, et non per ænigmata et figuras Dominum videt. Quare ergo non timuistis detrahere servo meo Mosyi?",
+        "VulgConte (2009)": "ore enim ad os loquor ei: et palam, et non per ænigmata et figuras Dominum videt. Quare ergo non timuistis detrahere servo meo Mosyi?",
+        "VulgSistina (1590)": "ore enim ad os loquor ei: et palam, et non per aenigmata et figuras Dominum videt. Quare ergo non timuistis detrahere servo meo Moysi?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Moysi?",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Mosyi?",
+              "witnesses": [
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 23,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "moysi",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65510,
+      "verse": 9,
+      "critical_text": "Iratusque contra eos, abiit:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Iratusque contra eos, abiit:",
+        "Clem-Saints": "Iratusque contra eos, abiit:",
+        "VulgHetzenauer (1906)": "Iratusque contra eos, abiit:",
+        "VulgConte (2009)": "Iratusque contra eos, abiit:",
+        "VulgSistina (1590)": "Iratusque contra eos, abiit:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65511,
+      "verse": 10,
+      "critical_text": "nubes quoque recessit quæ erat super tabernaculum: et ecce Maria apparuit candens lepra quasi nix. Cumque respexisset eam Aaron, et vidisset perfusam lepra,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "nubes quoque recessit quæ erat super tabernaculum: et ecce Maria apparuit candens lepra quasi nix. Cumque respexisset eam Aaron, et vidisset perfusam lepra,",
+        "Clem-Saints": "nubes quoque recessit quæ erat super tabernaculum: et ecce Maria apparuit candens lepra quasi nix. Cumque respexisset eam Aaron, et vidisset perfusam lepra,",
+        "VulgHetzenauer (1906)": "nubes quoque recessit quæ erat super tabernaculum: et ecce Maria apparuit candens lepra quasi nix. Cumque respexisset eam Aaron, et vidisset perfusam lepra,",
+        "VulgConte (2009)": "nubes quoque recessit quæ erat super tabernaculum: et ecce Maria apparuit candens lepra quasi nix. Cumque respexisset eam Aaron, et vidisset perfusam lepra,",
+        "VulgSistina (1590)": "nubes quoque recessit quae erat super tabernaculum: et ecce Maria apparuit candens lepra quasi nix. Cumque respexisset eam Aaron, et vidisset perfusam lepra,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65512,
+      "verse": 11,
+      "critical_text": "ait ad Moysen: Obsecro, domine mi, ne imponas nobis hoc peccatum quod stulte commisimus,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ait ad Moysen: Obsecro, domine mi, ne imponas nobis hoc peccatum quod stulte commisimus,",
+        "Clem-Saints": "ait ad Moysen: Obsecro, domine mi, ne imponas nobis hoc peccatum quod stulte commisimus,",
+        "VulgHetzenauer (1906)": "ait ad Moysen: Obsecro domine mi, ne imponas nobis hoc peccatum quod stulte commisimus,",
+        "VulgConte (2009)": "ait ad Moysen: Obsecro domine mi, ne imponas nobis hoc peccatum quod stulte commisimus,",
+        "VulgSistina (1590)": "ait ad Moysen: Obsecro domine mi, ne imponas nobis hoc peccatum quod stulte commisimus,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65513,
+      "verse": 12,
+      "critical_text": "ne fiat hæc quasi mortua, et ut abortivum quod projicitur de vulva matris suæ: ecce jam medium carnis ejus devoratum est a lepra.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ne fiat hæc quasi mortua, et ut abortivum quod projicitur de vulva matris suæ: ecce jam medium carnis ejus devoratum est a lepra.",
+        "Clem-Saints": "ne fiat hæc quasi mortua, et ut abortivum quod projicitur de vulva matris suæ: ecce jam medium carnis ejus devoratum est a lepra.",
+        "VulgHetzenauer (1906)": "ne fiat hæc quasi mortua, et ut abortivum quod proiicitur de vulva matris suæ. ecce iam medium carnis eius devoratum est a lepra.",
+        "VulgConte (2009)": "ne fiat hæc quasi mortua, et ut abortivum quod proiicitur de vulva matris suæ. Ecce iam medium carnis eius devoratum est a lepra.",
+        "VulgSistina (1590)": "ne fiat haec quasi mortua, et ut abortivum quod proiicitur de vulva matris suae. ecce iam medium carnis eius devoratum est a lepra."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65514,
+      "verse": 13,
+      "critical_text": "Clamavitque Moyses ad Dominum, dicens: Deus, obsecro, sana eam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Clamavitque Moyses ad Dominum, dicens: Deus, obsecro, sana eam.",
+        "Clem-Saints": "Clamavitque Moyses ad Dominum, dicens: Deus, obsecro, sana eam.",
+        "VulgHetzenauer (1906)": "Clamavitque Moyses ad Dominum, dicens: Deus, obsecro, sana eam.",
+        "VulgConte (2009)": "Clamavitque Moyses ad Dominum, dicens: Deus, obsecro, sana eam.",
+        "VulgSistina (1590)": "Clamavitque Moyses ad Dominum, dicens: Deus, obsecro, sana eam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65515,
+      "verse": 14,
+      "critical_text": "Cui respondit Dominus: Si pater ejus spuisset in faciem illius, nonne debuerat saltem septem diebus rubore suffundi? separetur septem diebus extra castra, et postea revocabitur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cui respondit Dominus: Si pater ejus spuisset in faciem illius, nonne debuerat saltem septem diebus rubore suffundi? separetur septem diebus extra castra, et postea revocabitur.",
+        "Clem-Saints": "Cui respondit Dominus: Si pater ejus spuisset in faciem illius, nonne debuerat saltem septem diebus rubore suffundi? separetur septem diebus extra castra, et postea revocabitur.",
+        "VulgHetzenauer (1906)": "Cui respondit Dominus: Si pater eius spuisset in faciem illius, nonne debuerat saltem septem diebus rubore suffundi? Separetur septem diebus extra castra, et postea revocabitur.",
+        "VulgConte (2009)": "Cui respondit Dominus: Si pater eius spuisset in faciem illius, nonne debuerat saltem septem diebus rubore suffundi? Separetur septem diebus extra castra, et postea revocabitur.",
+        "VulgSistina (1590)": "Cui respondit Dominus: Si pater eius spuisset in faciem illius, nonne debuerat saltem septem diebus rubore suffundi? Separetur septem diebus extra castra, et postea revocabitur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65516,
+      "verse": 15,
+      "critical_text": "Exclusa est itaque Maria extra castra septem diebus: et populus non est motus de loco illo, donec revocata est Maria.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Exclusa est itaque Maria extra castra septem diebus: et populus non est motus de loco illo, donec revocata est Maria.",
+        "Clem-Saints": "Exclusa est itaque Maria extra castra septem diebus: et populus non est motus de loco illo, donec revocata est Maria.",
+        "VulgHetzenauer (1906)": "Exclusa est itaque Maria extra castra septem diebus: et populus non est motus de loco illo, donec revocata est Maria.",
+        "VulgConte (2009)": "Exclusa est itaque Maria extra castra septem diebus: et populus non est motus de loco illo, donec revocata est Maria.",
+        "VulgSistina (1590)": "Exclusa est itaque Maria extra castra septem diebus: et populus non est motus de loco illo, donec revocata est Maria."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65517,
+      "verse": 16,
+      "critical_text": "Profectusque est populus de Haseroth, fixis tentoriis in deserto Pharan.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Profectusque est populus de Haseroth, fixis tentoriis in deserto Pharan.",
+        "Clem-Saints": "Profectusque est populus de Haseroth, fixis tentoriis in deserto Pharan.",
+        "VulgHetzenauer (1906)": "Profectusque est populus de Haseroth fixis tentoriis in deserto Pharan.",
+        "VulgConte (2009)": "Profectusque est populus de Haseroth fixis tentoriis in deserto Pharan.",
+        "VulgSistina (1590)": "Profectusque est populus de Haseroth fixis tentoriis in deserto Pharan."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

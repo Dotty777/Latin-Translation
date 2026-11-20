@@ -1,0 +1,618 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "esther",
+  "book_title": "Esther",
+  "usfm_code": "EST",
+  "chapter": 1,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:04Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "Clem1598-USFX: 1:1 not collated (wording does not match the reference verse)",
+    "VulgHetzenauer (1906): 1:1 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 1:2 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 1:3 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 1:4 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 1:5 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 1:6 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 1:7 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 1:8 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 1:9 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 1:10 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 1:11 not collated (wording does not match the reference verse)",
+    "VulgSistina (1590): 1:1 not collated (wording does not match the reference verse)",
+    "Clem-Saints: the words of verse 1 are also printed by Clem1598-USFX at 11:2 (numbering differs; kept at the anchor's number)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 74109,
+      "verse": 1,
+      "critical_text": "Anno secundo, regnante Artaxerxe maximo, prima die mensis Nisan, vidit somnium Mardochæus filius Jairi, filii Semei, filii Cis, de tribu Benjamin:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem-Saints": "Anno secundo, regnante Artaxerxe maximo, prima die mensis Nisan, vidit somnium Mardochæus filius Jairi, filii Semei, filii Cis, de tribu Benjamin:",
+        "VulgConte (2009)": "Anno secundo, regnante Artaxerxe maximo, prima die mensis Nisan, vidit somnium Mardochæus filius Iairi, filii Semei, filii Cis, de tribu Beniamin:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem-Saints (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74110,
+      "verse": 2,
+      "critical_text": "quando sedit in solio regni sui, Susan civitas regni ejus exordium fuit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quando sedit in solio regni sui, Susan civitas regni ejus exordium fuit.",
+        "Clem-Saints": "quando sedit in solio regni sui, Susan civitas regni ejus exordium fuit.",
+        "VulgHetzenauer (1906)": "quando sedit in solio regni sui, Susan civitas regni eius exordium fuit.",
+        "VulgSistina (1590)": "quando sedit in solio regni sui, Susan civitas regni eius exordium fuit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74111,
+      "verse": 3,
+      "critical_text": "Tertio igitur anno imperii sui fecit grande convivium cunctis principibus et pueris suis, fortissimis Persarum, et Medorum inclytis, et præfectis provinciarum coram se,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tertio igitur anno imperii sui fecit grande convivium cunctis principibus et pueris suis, fortissimis Persarum, et Medorum inclytis, et præfectis provinciarum coram se,",
+        "Clem-Saints": "Tertio igitur anno imperii sui fecit grande convivium cunctis principibus et pueris suis, fortissimis Persarum, et Medorum inclytis, et præfectis provinciarum coram se,",
+        "VulgHetzenauer (1906)": "Tertio igitur anno imperii sui fecit grande convivium cunctis principibus, et pueris suis, fortissimis Persarum, et Medorum inclytis, et præfectis provinciarum coram se,",
+        "VulgSistina (1590)": "Tertio igitur anno imperii sui fecit grande convivium cunctis principibus, et pueris suis, fortissimis Persarum, et Medorum inclytis, et praefectis provinciarum coram se,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74112,
+      "verse": 4,
+      "critical_text": "ut ostenderet divitias gloriæ regni sui, ac magnitudinem atque jactantiam potentiæ suæ, multo tempore, centum videlicet et octoginta diebus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ut ostenderet divitias gloriæ regni sui, ac magnitudinem atque jactantiam potentiæ suæ, multo tempore, centum videlicet et octoginta diebus.",
+        "Clem-Saints": "ut ostenderet divitias gloriæ regni sui, ac magnitudinem atque jactantiam potentiæ suæ, multo tempore, centum videlicet et octoginta diebus.",
+        "VulgHetzenauer (1906)": "ut ostenderet divitias gloriæ regni sui, ac magnitudinem, atque iactantiam potentiæ suæ, multo tempore, centum videlicet et octoginta diebus.",
+        "VulgSistina (1590)": "ut ostenderet divitias gloriae regni sui, ac magnitudinem, atque iactantiam potentiae suae, multo tempore, centum videlicet et octoginta diebus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74113,
+      "verse": 5,
+      "critical_text": "Cumque implerentur dies convivii, invitavit omnem populum, qui inventus est in Susan, a maximo usque ad minimum: et jussit septem diebus convivium præparari in vestibulo horti, et nemoris quod regio cultu et manu consitum erat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque implerentur dies convivii, invitavit omnem populum, qui inventus est in Susan, a maximo usque ad minimum: et jussit septem diebus convivium præparari in vestibulo horti, et nemoris quod regio cultu et manu consitum erat.",
+        "Clem-Saints": "Cumque implerentur dies convivii, invitavit omnem populum, qui inventus est in Susan, a maximo usque ad minimum: et jussit septem diebus convivium præparari in vestibulo horti, et nemoris quod regio cultu et manu consitum erat.",
+        "VulgHetzenauer (1906)": "Cumque implerentur dies convivii, invitavit omnem populum, qui inventus est in Susan, a maximo usque ad minimum: et iussit septem diebus convivium præparari in vestibulo horti, et nemoris, quod regio cultu et manu consitum erat.",
+        "VulgSistina (1590)": "Cumque implerentur dies convivii, invitavit omnem populum, qui inventus est in Susan, a maximo usque ad minimum: et iussit septem diebus convivium praeparari in vestibulo horti, et nemoris, quod regio cultu et manu consitum erat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74114,
+      "verse": 6,
+      "critical_text": "Et pendebant ex omni parte tentoria ærii coloris et carbasini ac hyacinthini, sustentata funibus byssinis atque purpureis, qui eburneis circulis inserti erant, et columnis marmoreis fulciebantur. Lectuli quoque aurei et argentei, super pavimentum smaragdino et pario stratum lapide, dispositi erant: quod mira varietate pictura decorabat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et pendebant ex omni parte tentoria ærii coloris et carbasini ac hyacinthini, sustentata funibus byssinis atque purpureis, qui eburneis circulis inserti erant, et columnis marmoreis fulciebantur. Lectuli quoque aurei et argentei, super pavimentum smaragdino et pario stratum lapide, dispositi erant: quod mira varietate pictura decorabat.",
+        "Clem-Saints": "Et pendebant ex omni parte tentoria ærii coloris et carbasini ac hyacinthini, sustentata funibus byssinis atque purpureis, qui eburneis circulis inserti erant, et columnis marmoreis fulciebantur. Lectuli quoque aurei et argentei, super pavimentum smaragdino et pario stratum lapide, dispositi erant: quod mira varietate pictura decorabat.",
+        "VulgHetzenauer (1906)": "Et pendebant ex omni parte tentoria aerii coloris et carbasini ac hyacinthini, sustentata funibus byssinis, atque purpureis, qui eburneis circulis inserti erant, et columnis marmoreis fulciebantur. Lectuli quoque aurei et argentei, super pavimentum smaragdino et pario stratum lapide, dispositi erant: quod mira varietate pictura decorabat.",
+        "VulgSistina (1590)": "Et pendebant ex omni parte tentoria aerii coloris et carbasini ac hyacinthini, sustentata funibus byssinis, atque purpureis, qui eburneis circulis inserti erant, et columnis marmoreis fulciebantur. Lectuli quoque aurei et argentei, super pavimentum smaragdino et pario stratum lapide, dispositi erant: quod mira varietate pictura decorabat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74115,
+      "verse": 7,
+      "critical_text": "Bibebant autem qui invitati erant aureis poculis, et aliis atque aliis vasis cibi inferebantur. Vinum quoque, ut magnificentia regia dignum erat, abundans, et præcipuum ponebatur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Bibebant autem qui invitati erant aureis poculis, et aliis atque aliis vasis cibi inferebantur. Vinum quoque, ut magnificentia regia dignum erat, abundans, et præcipuum ponebatur.",
+        "Clem-Saints": "Bibebant autem qui invitati erant aureis poculis, et aliis atque aliis vasis cibi inferebantur. Vinum quoque, ut magnificentia regia dignum erat, abundans, et præcipuum ponebatur.",
+        "VulgHetzenauer (1906)": "Bibebant autem qui invitati erant, aureis poculis, et aliis atque aliis vasis cibi inferebantur. Vinum quoque, ut magnificentia regia dignum erat, abundans, et præcipuum ponebatur.",
+        "VulgSistina (1590)": "Bibebant autem qui invitati erant, aureis poculis, et aliis atque aliis vasis cibi inferebantur. Vinum quoque, ut magnificentia regia dignum erat, abundans, et praecipuum ponebatur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74116,
+      "verse": 8,
+      "critical_text": "Nec erat qui nolentes cogeret ad bibendum, sed sicut rex statuerat, præponens mensis singulos de principibus suis ut sumeret unusquisque quod vellet.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nec erat qui nolentes cogeret ad bibendum, sed sicut rex statuerat, præponens mensis singulos de principibus suis ut sumeret unusquisque quod vellet.",
+        "Clem-Saints": "Nec erat qui nolentes cogeret ad bibendum, sed sicut rex statuerat, præponens mensis singulos de principibus suis ut sumeret unusquisque quod vellet.",
+        "VulgHetzenauer (1906)": "Nec erat qui nolentes cogeret ad bibendum, sed sicut rex statuerat, præponens mensis singulos de principibus suis ut sumeret unusquisque quod vellet.",
+        "VulgSistina (1590)": "Nec erat qui nolentes cogeret ad bibendum, sed sicut rex statuerat, praeponens mensis singulos de principibus suis ut sumeret unusquisque quod vellet."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74117,
+      "verse": 9,
+      "critical_text": "Vasthi quoque regina fecit convivium feminarum in palatio, ubi rex Assuerus manere consueverat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Vasthi quoque regina fecit convivium feminarum in palatio, ubi rex Assuerus manere consueverat.",
+        "Clem-Saints": "Vasthi quoque regina fecit convivium feminarum in palatio, ubi rex Assuerus manere consueverat.",
+        "VulgHetzenauer (1906)": "Vasthi quoque regina fecit convivium feminarum in palatio, ubi rex Assuerus manere consueverat.",
+        "VulgSistina (1590)": "Vasthi quoque regina fecit convivium feminarum in palatio, ubi rex Assuerus manere consueverat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74118,
+      "verse": 10,
+      "critical_text": "Itaque die septimo, cum rex esset hilarior, et post nimiam potationem incaluisset mero, præcepit Maumam, et Bazatha, et Harbona, et Bagatha, et Abgatha, et Zethar, et Charchas, septem eunuchis qui in conspectu ejus ministrabant,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Itaque die septimo, cum rex esset hilarior, et post nimiam potationem incaluisset mero, præcepit Maumam, et Bazatha, et Harbona, et Bagatha, et Abgatha, et Zethar, et Charchas, septem eunuchis qui in conspectu ejus ministrabant,",
+        "Clem-Saints": "Itaque die septimo, cum rex esset hilarior, et post nimiam potationem incaluisset mero, præcepit Maumam, et Bazatha, et Harbona, et Bagatha, et Abgatha, et Zethar, et Charchas, septem eunuchis qui in conspectu ejus ministrabant,",
+        "VulgHetzenauer (1906)": "Itaque die septimo, cum rex esset hilarior, et post nimiam potationem incaluisset mero, præcepit Maumam, et Bazatha, et Harbona, et Bagatha, et Abgatha, et Zethar, et Charchas, septem eunuchis, qui in conspectu eius ministrabant,",
+        "VulgSistina (1590)": "Itaque die septimo, cum rex esset hilarior, et post nimiam potationem incaluisset mero, praecepit Maumam, et Bazatha, et Harbona, et Bagatha, et Abgatha, et Zethar, et Charchas, septem eunuchis, qui in conspectu eius ministrabant,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74119,
+      "verse": 11,
+      "critical_text": "ut introducerent reginam Vasthi coram rege, posito super caput ejus diademate, ut ostenderet cunctis populis et principibus pulchritudinem illius: erat enim pulchra valde.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ut introducerent reginam Vasthi coram rege, posito super caput ejus diademate, ut ostenderet cunctis populis et principibus pulchritudinem illius: erat enim pulchra valde.",
+        "Clem-Saints": "ut introducerent reginam Vasthi coram rege, posito super caput ejus diademate, ut ostenderet cunctis populis et principibus pulchritudinem illius: erat enim pulchra valde.",
+        "VulgHetzenauer (1906)": "ut introducerent reginam Vasthi coram rege, posito super caput eius diademate, ut ostenderet cunctis populis et principibus pulchritudinem illius: erat enim pulchra valde.",
+        "VulgSistina (1590)": "ut introducerent reginam Vasthi coram rege, posito super caput eius diademate, ut ostenderet cunctis populis et principibus pulchritudinem illius: erat enim pulchra valde."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74120,
+      "verse": 12,
+      "critical_text": "Quæ renuit, et ad regis imperium quod per eunuchos mandaverat, venire contempsit. Unde iratus rex, et nimio furore succensus,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quæ renuit, et ad regis imperium quod per eunuchos mandaverat, venire contempsit. Unde iratus rex, et nimio furore succensus,",
+        "Clem-Saints": "Quæ renuit, et ad regis imperium quod per eunuchos mandaverat, venire contempsit. Unde iratus rex, et nimio furore succensus,",
+        "VulgHetzenauer (1906)": "Quæ renuit, et ad regis imperium, quod per eunuchos mandaverat, venire contempsit. Unde iratus rex, et nimio furore succensus,",
+        "VulgSistina (1590)": "Quae renuit, et ad regis imperium, quod per eunuchos mandaverat, venire contempsit. Unde iratus rex, et nimio furore succensus,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74121,
+      "verse": 13,
+      "critical_text": "interrogavit sapientes, qui ex more regio semper ei aderant, et illorum faciebat cuncta consilio, scientium leges, ac jura majorum",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "interrogavit sapientes, qui ex more regio semper ei aderant, et illorum faciebat cuncta consilio, scientium leges, ac jura majorum",
+        "Clem-Saints": "interrogavit sapientes, qui ex more regio semper ei aderant, et illorum faciebat cuncta consilio, scientium leges, ac jura majorum",
+        "VulgHetzenauer (1906)": "interrogavit sapientes, qui ex more regio semper ei aderant, et illorum faciebat cuncta consilio, scientium leges, ac iura maiorum:",
+        "VulgSistina (1590)": "interrogavit sapientes, qui ex more regio semper ei aderant, et illorum faciebat cuncta consilio, scientium leges, ac iura maiorum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74122,
+      "verse": 14,
+      "critical_text": "(erant autem primi et proximi, Charsena, et Sethar, et Admatha, et Tharsis, et Mares, et Marsana, et Mamuchan, septem duces Persarum, atque Medorum, qui videbant faciem regis, et primi post eum residere soliti erant):",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "(erant autem primi et proximi, Charsena, et Sethar, et Admatha, et Tharsis, et Mares, et Marsana, et Mamuchan, septem duces Persarum, atque Medorum, qui videbant faciem regis, et primi post eum residere soliti erant):",
+        "Clem-Saints": "(erant autem primi et proximi, Charsena, et Sethar, et Admatha, et Tharsis, et Mares, et Marsana, et Mamuchan, septem duces Persarum, atque Medorum, qui videbant faciem regis, et primi post eum residere soliti erant):",
+        "VulgHetzenauer (1906)": "(erant autem primi et proximi, Charsena, et Sethar, et Admatha, et Tharsis, et Mares, et Marsana, et Mamuchan, septem duces Persarum, atque Medorum, qui videbant faciem regis, et primi post eum residere soliti erant)",
+        "VulgSistina (1590)": "(erant autem primi et proximi, Charsena, et Sethar, et Admatha, et Tharsis, et Mares, et Marsana, et Mamuchan, septem duces Persarum, atque Medorum, qui videbant faciem regis, et primi post eum residere soliti erant)"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74123,
+      "verse": 15,
+      "critical_text": "cui sententiæ Vasthi regina subjaceret, quæ Assueri regis imperium, quod per eunuchos mandaverat, facere noluisset.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "cui sententiæ Vasthi regina subjaceret, quæ Assueri regis imperium, quod per eunuchos mandaverat, facere noluisset.",
+        "Clem-Saints": "cui sententiæ Vasthi regina subjaceret, quæ Assueri regis imperium, quod per eunuchos mandaverat, facere noluisset.",
+        "VulgHetzenauer (1906)": "cui sententiæ Vasthi regina subiaceret, quæ Assueri regis imperium, quod per eunuchos mandaverat, facere noluisset.",
+        "VulgSistina (1590)": "cui sententiae Vasthi regina subiaceret, quae Assueri regis imperium, quod per eunuchos mandaverat, facere noluisset."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74124,
+      "verse": 16,
+      "critical_text": "Responditque Mamuchan, audiente rege atque principibus: Non solum regem læsit regina Vasthi, sed et omnes populos et principes qui sunt in cunctis provinciis regis Assueri.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Responditque Mamuchan, audiente rege atque principibus: Non solum regem læsit regina Vasthi, sed et omnes populos et principes qui sunt in cunctis provinciis regis Assueri.",
+        "Clem-Saints": "Responditque Mamuchan, audiente rege atque principibus: Non solum regem læsit regina Vasthi, sed et omnes populos et principes qui sunt in cunctis provinciis regis Assueri.",
+        "VulgHetzenauer (1906)": "Responditque Mamuchan, audiente rege, atque principibus, Non solum regem læsit regina Vasthi, sed et omnes populos, et principes, qui sunt in cunctis provinciis regis Assueri.",
+        "VulgSistina (1590)": "Responditque Mamuchan, audiente rege, atque principibus, Non solum regem laesit regina Vasthi, sed et omnes populos, et principes, qui sunt in cunctis provinciis regis Assueri."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74125,
+      "verse": 17,
+      "critical_text": "Egredietur enim sermo reginæ ad omnes mulieres, ut contemnant viros suos, et dicant: Rex Assuerus jussit ut regina Vasthi intraret ad eum, et illa noluit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Egredietur enim sermo reginæ ad omnes mulieres, ut contemnant viros suos, et dicant: Rex Assuerus jussit ut regina Vasthi intraret ad eum, et illa noluit.",
+        "Clem-Saints": "Egredietur enim sermo reginæ ad omnes mulieres, ut contemnant viros suos, et dicant: Rex Assuerus jussit ut regina Vasthi intraret ad eum, et illa noluit.",
+        "VulgHetzenauer (1906)": "Egredietur enim sermo reginæ ad omnes mulieres, ut contemnant viros suos, et dicant: Rex Assuerus iussit ut regina Vasthi intraret ad eum, et illa noluit.",
+        "VulgSistina (1590)": "Egredietur enim sermo reginae ad omnes mulieres, ut contemnant viros suos, et dicant: Rex Assuerus iussit ut regina Vasthi intraret ad eum, et illa noluit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74126,
+      "verse": 18,
+      "critical_text": "Atque hoc exemplo omnes principum conjuges Persarum atque Medorum parvipendent imperia maritorum: unde regis justa est indignatio.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Atque hoc exemplo omnes principum conjuges Persarum atque Medorum parvipendent imperia maritorum: unde regis justa est indignatio.",
+        "Clem-Saints": "Atque hoc exemplo omnes principum conjuges Persarum atque Medorum parvipendent imperia maritorum: unde regis justa est indignatio.",
+        "VulgHetzenauer (1906)": "Atque hoc exemplo omnes principum coniuges Persarum atque Medorum, parvipendent imperia maritorum: unde regis iusta est indignatio.",
+        "VulgSistina (1590)": "Atque hoc exemplo omnes principum coniuges Persarum atque Medorum, parvipendent imperia maritorum: unde regis iusta est indignatio."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74127,
+      "verse": 19,
+      "critical_text": "Si tibi placet, egrediatur edictum a facie tua, et scribatur juxta legem Persarum atque Medorum, quam præteriri illicitum est, ut nequaquam ultra Vasthi ingrediatur ad regem, sed regnum illius altera, quæ melior est illa, accipiat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si tibi placet, egrediatur edictum a facie tua, et scribatur juxta legem Persarum atque Medorum, quam præteriri illicitum est, ut nequaquam ultra Vasthi ingrediatur ad regem, sed regnum illius altera, quæ melior est illa, accipiat.",
+        "Clem-Saints": "Si tibi placet, egrediatur edictum a facie tua, et scribatur juxta legem Persarum atque Medorum, quam præteriri illicitum est, ut nequaquam ultra Vasthi ingrediatur ad regem, sed regnum illius altera, quæ melior est illa, accipiat.",
+        "VulgHetzenauer (1906)": "Si tibi placet, egrediatur edictum a facie tua, et scribatur iuxta legem Persarum atque Medorum, quam præteriri illicitum est, ut nequaquam ultra Vasthi ingrediatur ad regem, sed regnum illius, altera, quæ melior est illa, accipiat.",
+        "VulgSistina (1590)": "Si tibi placet, egrediatur edictum a facie tua, et scribatur iuxta legem Persarum atque Medorum, quam praeteriri illicitum est, ut nequaquam ultra Vasthi ingrediatur ad regem, sed regnum illius, altera, quae melior est illa, accipiat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74128,
+      "verse": 20,
+      "critical_text": "Et hoc in omne (quod latissimum est) provinciarum tuarum divulgetur imperium, et cunctæ uxores, tam majorum quam minorum, deferant maritis suis honorem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et hoc in omne (quod latissimum est) provinciarum tuarum divulgetur imperium, et cunctæ uxores, tam majorum quam minorum, deferant maritis suis honorem.",
+        "Clem-Saints": "Et hoc in omne (quod latissimum est) provinciarum tuarum divulgetur imperium, et cunctæ uxores, tam majorum quam minorum, deferant maritis suis honorem.",
+        "VulgHetzenauer (1906)": "Et hoc in omne (quod latissimum est) provinciarum tuarum divulgetur imperium, et cunctæ uxores tam maiorum, quam minorum deferant maritis suis honorem.",
+        "VulgSistina (1590)": "Et hoc in omne (quod latissimum est) provinciarum tuarum divulgetur imperium, et cunctae uxores tam maiorum, quam minorum deferant maritis suis honorem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74129,
+      "verse": 21,
+      "critical_text": "Placuit consilium ejus regi et principibus: fecitque rex juxta consilium Mamuchan,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Placuit consilium ejus regi et principibus: fecitque rex juxta consilium Mamuchan,",
+        "Clem-Saints": "Placuit consilium ejus regi et principibus: fecitque rex juxta consilium Mamuchan,",
+        "VulgHetzenauer (1906)": "placuit consilium eius regi, et principibus: fecitque rex iuxta consilium Mamuchan,",
+        "VulgSistina (1590)": "placuit consilium eius regi, et principibus: fecitque rex iuxta consilium Mamuchan,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 74130,
+      "verse": 22,
+      "critical_text": "et misit epistolas ad universas provincias regni sui, ut quæque gens audire et legere poterat, diversis linguis et litteris, esse viros principes ac majores in domibus suis: et hoc per cunctos populos divulgari.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et misit epistolas ad universas provincias regni sui, ut quæque gens audire et legere poterat, diversis linguis et litteris, esse viros principes ac majores in domibus suis: et hoc per cunctos populos divulgari.",
+        "Clem-Saints": "et misit epistolas ad universas provincias regni sui, ut quæque gens audire et legere poterat, diversis linguis et litteris, esse viros principes ac majores in domibus suis: et hoc per cunctos populos divulgari.",
+        "VulgHetzenauer (1906)": "et misit epistolas ad universas provincias regni sui, ut quæque gens audire et legere poterat, diversis linguis et litteris, esse viros principes ac maiores in domibus suis: et hoc per cunctos populos divulgari.",
+        "VulgSistina (1590)": "et misit epistolas ad universas provincias regni sui, ut quaeque gens audire et legere poterat, diversis linguis et litteris, esse viros principes ac maiores in domibus suis: et hoc per cunctos populos divulgari."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

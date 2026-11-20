@@ -1,0 +1,413 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "psalms",
+  "book_title": "Psalms",
+  "usfm_code": "PSA",
+  "chapter": 149,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:25Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 79342,
+      "verse": 1,
+      "critical_text": "Alleluja. Cantate Domino canticum novum; laus ejus in ecclesia sanctorum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Alleluja. Cantate Domino canticum novum; laus ejus in ecclesia sanctorum.",
+        "Clem-Saints": "Alleluja . Cantate Domino canticum novum; laus ejus in ecclesia sanctorum.",
+        "VulgHetzenauer (1906)": "Alleluia. Cantate Domino canticum novum: laus eius in ecclesia sanctorum.",
+        "VulgConte (2009)": "Alleluia. Cantate Domino canticum novum: laus eius in Ecclesia sanctorum.",
+        "VulgSistina (1590)": "Alleluia. Cantate Domino canticum novum: laus eius in ecclesia sanctorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Alleluja.",
+          "disregarded_forms": [
+            "Alleluja"
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79343,
+      "verse": 2,
+      "critical_text": "Lætetur Israël in eo qui fecit eum, et filii Sion exsultent in rege suo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Lætetur Israël in eo qui fecit eum, et filii Sion exsultent in rege suo.",
+        "Clem-Saints": "Lætetur Israël in eo qui fecit eum, et filii Sion exsultent in rege suo.",
+        "VulgHetzenauer (1906)": "Lætetur Israel in eo, qui fecit eum: et filii Sion exultent in rege suo.",
+        "VulgConte (2009)": "Lætetur Israel in eo, qui fecit eum: et filii Sion exultent in rege suo.",
+        "VulgSistina (1590)": "Laetetur Israel in eo, qui fecit eum: et filiae Sion exultent in rege suo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "filii",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "filiae",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "filii",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exsultent / exultent",
+            "exsultent / exultent",
+            "exsultent / exultent"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79344,
+      "verse": 3,
+      "critical_text": "Laudent nomen ejus in choro; in tympano et psalterio psallant ei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Laudent nomen ejus in choro; in tympano et psalterio psallant ei.",
+        "Clem-Saints": "Laudent nomen ejus in choro; in tympano et psalterio psallant ei.",
+        "VulgHetzenauer (1906)": "Laudent nomen eius in choro: in tympano, et psalterio psallant ei:",
+        "VulgConte (2009)": "Laudent nomen eius in choro: in tympano, et psalterio psallant ei:",
+        "VulgSistina (1590)": "Laudent nomen eius in choro: in tympano, et psalterio psallant ei:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79345,
+      "verse": 4,
+      "critical_text": "Quia beneplacitum est Domino in populo suo, et exaltabit mansuetos in salutem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quia beneplacitum est Domino in populo suo, et exaltabit mansuetos in salutem.",
+        "Clem-Saints": "Quia beneplacitum est Domino in populo suo, et exaltabit mansuetos in salutem.",
+        "VulgHetzenauer (1906)": "Quia beneplacitum est Domino in populo suo: et exaltabit mansuetos in salutem.",
+        "VulgConte (2009)": "Quia beneplacitum est Domino in populo suo: et exaltabit mansuetos in salutem.",
+        "VulgSistina (1590)": "Quia beneplacitum est Domino in populo suo: et exaltavit mansuetos in salutem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exaltabit / exaltavit"
+          ],
+          "witnesses": [
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79346,
+      "verse": 5,
+      "critical_text": "Exsultabunt sancti in gloria; lætabuntur in cubilibus suis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Exsultabunt sancti in gloria; lætabuntur in cubilibus suis.",
+        "Clem-Saints": "Exsultabunt sancti in gloria; lætabuntur in cubilibus suis.",
+        "VulgHetzenauer (1906)": "Exultabunt sancti in gloria: lætabuntur in cubilibus suis.",
+        "VulgConte (2009)": "Exultabunt sancti in gloria: lætabuntur in cubilibus suis.",
+        "VulgSistina (1590)": "Exultabunt sancti in gloria: laetabuntur in cubilibus suis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Exsultabunt / Exultabunt",
+            "Exsultabunt / Exultabunt",
+            "Exsultabunt / Exultabunt"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79347,
+      "verse": 6,
+      "critical_text": "Exaltationes Dei in gutture eorum, et gladii ancipites in manibus eorum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Exaltationes Dei in gutture eorum, et gladii ancipites in manibus eorum:",
+        "Clem-Saints": "Exaltationes Dei in gutture eorum, et gladii ancipites in manibus eorum:",
+        "VulgHetzenauer (1906)": "Exaltationes Dei in gutture eorum: et gladii ancipites in manibus eorum:",
+        "VulgConte (2009)": "Exaltationes Dei in gutture eorum: et gladii ancipites in manibus eorum:",
+        "VulgSistina (1590)": "Exultationes Dei in gutture eorum: et gladii ancipites in manibus eorum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Exaltationes",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Exultationes",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "exaltationes",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79348,
+      "verse": 7,
+      "critical_text": "ad faciendam vindictam in nationibus, increpationes in populis;",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ad faciendam vindictam in nationibus, increpationes in populis;",
+        "Clem-Saints": "ad faciendam vindictam in nationibus, increpationes in populis;",
+        "VulgHetzenauer (1906)": "Ad faciendam vindictam in nationibus: increpationes in populis.",
+        "VulgConte (2009)": "Ad faciendam vindictam in nationibus: increpationes in populis.",
+        "VulgSistina (1590)": "Ad faciendam vindictam in nationibus: increpationes in populis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79349,
+      "verse": 8,
+      "critical_text": "ad alligandos reges eorum in compedibus, et nobiles eorum in manicis ferreis;",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ad alligandos reges eorum in compedibus, et nobiles eorum in manicis ferreis;",
+        "Clem-Saints": "ad alligandos reges eorum in compedibus, et nobiles eorum in manicis ferreis;",
+        "VulgHetzenauer (1906)": "Ad alligandos reges eorum in compedibus: et nobiles eorum in manicis ferreis.",
+        "VulgConte (2009)": "Ad alligandos reges eorum in compedibus: et nobiles eorum in manicis ferreis.",
+        "VulgSistina (1590)": "Ad alligandos reges eorum in compedibus: et nobiles eorum in manicis ferreis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79350,
+      "verse": 9,
+      "critical_text": "ut faciant in eis judicium conscriptum: gloria hæc est omnibus sanctis ejus. Alleluja.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ut faciant in eis judicium conscriptum: gloria hæc est omnibus sanctis ejus. Alleluja.",
+        "Clem-Saints": "ut faciant in eis judicium conscriptum: gloria hæc est omnibus sanctis ejus. Alleluja.",
+        "VulgHetzenauer (1906)": "Ut faciant in eis iudicium conscriptum: gloria hæc est omnibus sanctis eius. Alleluia.",
+        "VulgConte (2009)": "Ut faciant in eis iudicium conscriptum: gloria hæc est omnibus sanctis eius. Alleluia.",
+        "VulgSistina (1590)": "Ut faciant in eis iudicium conscriptum: gloria haec est omnibus sanctis eius. Alleluia."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "04_Providence",
+  "book_slug": "zechariah",
+  "book_title": "Zechariah",
+  "usfm_code": "ZEC",
+  "chapter": 3,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:18:19Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 87757,
+      "verse": 1,
+      "critical_text": "Et ostendit mihi Dominus Jesum sacerdotem magnum, stantem coram angelo Domini: et Satan stabat a dextris ejus ut adversaretur ei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ostendit mihi Dominus Jesum sacerdotem magnum, stantem coram angelo Domini: et Satan stabat a dextris ejus ut adversaretur ei.",
+        "Clem-Saints": "Et ostendit mihi Dominus Jesum sacerdotem magnum, stantem coram angelo Domini: et Satan stabat a dextris ejus ut adversaretur ei.",
+        "VulgHetzenauer (1906)": "Et ostendit mihi Dominus Iesum sacerdotem magnum stantem coram angelo Domini: et satan stabat a dextris eius ut adversaretur ei.",
+        "VulgConte (2009)": "Et ostendit mihi Dominus Iesum sacerdotem magnum stantem coram angelo Domini: et Satan stabat a dextris eius ut adversaretur ei.",
+        "VulgSistina (1590)": "Et ostendit mihi Dominus Iesum sacerdotem magnum stantem coram angelo Domini: et satan stabat a dextris eius ut adversaretur ei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87758,
+      "verse": 2,
+      "critical_text": "Et dixit Dominus ad Satan: Increpet Dominus in te, Satan! et increpet Dominus in te, qui elegit Jerusalem! numquid non iste torris est erutus de igne?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixit Dominus ad Satan: Increpet Dominus in te, Satan! et increpet Dominus in te, qui elegit Jerusalem! numquid non iste torris est erutus de igne?",
+        "Clem-Saints": "Et dixit Dominus ad Satan: Increpet Dominus in te, Satan! et increpet Dominus in te, qui elegit Jerusalem! numquid non iste torris est erutus de igne?",
+        "VulgHetzenauer (1906)": "Et dixit Dominus ad satan: Increpet Dominus in te Satan: et increpet Dominus in te, qui elegit Ierusalem! numquid non iste torris est erutus de igne?",
+        "VulgConte (2009)": "Et dixit Dominus ad Satan: Increpet Dominus in te Satan: et increpet Dominus in te, qui elegit Ierusalem! numquid non iste torris est erutus de igne?",
+        "VulgSistina (1590)": "Et dixit Dominus ad satan: Increpet Dominus te Satan: et increpet Dominus te, qui elegit Ierusalem! numquid non iste torris est erutus de igne?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "in",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "in",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "in",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 13,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "in",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87759,
+      "verse": 3,
+      "critical_text": "Et Jesus erat indutus vestibus sordidis, et stabat ante faciem angeli.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et Jesus erat indutus vestibus sordidis, et stabat ante faciem angeli.",
+        "Clem-Saints": "Et Jesus erat indutus vestibus sordidis, et stabat ante faciem angeli.",
+        "VulgHetzenauer (1906)": "Et Iesus erat indutus vestibus sordidis: et stabat ante faciem angeli.",
+        "VulgConte (2009)": "Et Iesus erat indutus vestibus sordidis: et stabat ante faciem angeli.",
+        "VulgSistina (1590)": "Et Iesus erat indutus vestibus sordidis: et stabat ante faciem angeli."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87760,
+      "verse": 4,
+      "critical_text": "Qui respondit, et ait ad eos qui stabant coram se, dicens: Auferte vestimenta sordida ab eo. Et dixit ad eum: Ecce abstuli a te iniquitatem tuam, et indui te mutatoriis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui respondit, et ait ad eos qui stabant coram se, dicens: Auferte vestimenta sordida ab eo. Et dixit ad eum: Ecce abstuli a te iniquitatem tuam, et indui te mutatoriis.",
+        "Clem-Saints": "Qui respondit, et ait ad eos qui stabant coram se, dicens: Auferte vestimenta sordida ab eo. Et dixit ad eum: Ecce abstuli a te iniquitatem tuam, et indui te mutatoriis.",
+        "VulgHetzenauer (1906)": "Qui respondit, et ait ad eos, qui stabant coram se, dicens: Auferte vestimenta sordida ab eo. Et dixit ad eum: Ecce abstuli a te iniquitatem tuam, et indui te mutatoriis.",
+        "VulgConte (2009)": "Qui respondit, et ait ad eos, qui stabant coram se, dicens: Auferte vestimenta sordida ab eo. Et dixit ad eum: Ecce abstuli a te iniquitatem tuam, et indui te mutatoriis.",
+        "VulgSistina (1590)": "Qui respondit, et ait ad eos, qui stabant coram se, dicens: Auferte vestimenta sordida ab eo. Et dixit ad eum: Ecce abstuli a te iniquitatem tuam, et indui te mutatoriis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87761,
+      "verse": 5,
+      "critical_text": "Et dixit: Ponite cidarim mundam super caput ejus. Et posuerunt cidarim mundam super caput ejus, et induerunt eum vestibus: et angelus Domini stabat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixit: Ponite cidarim mundam super caput ejus. Et posuerunt cidarim mundam super caput ejus, et induerunt eum vestibus: et angelus Domini stabat.",
+        "Clem-Saints": "Et dixit: Ponite cidarim mundam super caput ejus. Et posuerunt cidarim mundam super caput ejus, et induerunt eum vestibus: et angelus Domini stabat.",
+        "VulgHetzenauer (1906)": "Et dixit: Ponite cidarim mundam super caput eius. Et posuerunt cidarim mundam super caput eius, et induerunt eum vestibus: et angelus Domini stabat.",
+        "VulgConte (2009)": "Et dixit: Ponite cidarim mundam super caput eius. Et posuerunt cidarim mundam super caput eius, et induerunt eum vestibus: et angelus Domini stabat.",
+        "VulgSistina (1590)": "Et dixit: Ponite cidarim mundam super caput eius. Et posuerunt cidarim mundam super caput eius, et induerunt eum vestibus: et angelus Domini stabat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87762,
+      "verse": 6,
+      "critical_text": "Et contestabatur angelus Domini Jesum, dicens:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et contestabatur angelus Domini Jesum, dicens:",
+        "Clem-Saints": "Et contestabatur angelus Domini Jesum, dicens:",
+        "VulgHetzenauer (1906)": "Et contestabatur angelus Domini Iesum, dicens:",
+        "VulgConte (2009)": "Et contestabatur angelus Domini Iesum, dicens:",
+        "VulgSistina (1590)": "Et contestabatur angelus Domini Iesum, dicens:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87763,
+      "verse": 7,
+      "critical_text": "Hæc dicit Dominus exercituum: Si in viis meis ambulaveris, et custodiam meam custodieris, tu quoque judicabis domum meam, et custodies atria mea, et dabo tibi ambulantes de his qui nunc hic assistunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hæc dicit Dominus exercituum: Si in viis meis ambulaveris, et custodiam meam custodieris, tu quoque judicabis domum meam, et custodies atria mea, et dabo tibi ambulantes de his qui nunc hic assistunt.",
+        "Clem-Saints": "Hæc dicit Dominus exercituum: Si in viis meis ambulaveris, et custodiam meam custodieris, tu quoque judicabis domum meam, et custodies atria mea, et dabo tibi ambulantes de his qui nunc hic assistunt.",
+        "VulgHetzenauer (1906)": "Hæc dicit Dominus exercituum: Si in viis meis ambulaveris, et custodiam meam custodieris: tu quoque iudicabis domum meam, et custodies atria mea, et dabo tibi ambulantes de his, qui nunc hic assistunt.",
+        "VulgConte (2009)": "Hæc dicit Dominus exercituum: Si in viis meis ambulaveris, et custodiam meam custodieris: tu quoque iudicabis domum meam, et custodies atria mea, et dabo tibi ambulantes de his, qui nunc hic assistunt.",
+        "VulgSistina (1590)": "Haec dicit Dominus exercituum: Si in viis meis ambulaveris, et custodiam meam custodieris: tu quoque iudicabis domum meam, et custodies atria mea, et dabo tibi ambulantes de his, qui nunc hic assistunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87764,
+      "verse": 8,
+      "critical_text": "Audi, Jesu sacerdos magne, tu et amici tui, qui habitant coram te, quia viri portendentes sunt: ecce enim ego adducam servum meum Orientem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Audi, Jesu sacerdos magne, tu et amici tui, qui habitant coram te, quia viri portendentes sunt: ecce enim ego adducam servum meum Orientem.",
+        "Clem-Saints": "Audi, Jesu sacerdos magne, tu et amici tui, qui habitant coram te, quia viri portendentes sunt: ecce enim ego adducam servum meum Orientem.",
+        "VulgHetzenauer (1906)": "Audi Iesu sacerdos magne, tu et amici tui, qui habitant coram te, quia viri portendentes sunt. ecce enim ego ADDUCAM SERVUM MEUM ORIENTEM.",
+        "VulgConte (2009)": "Audi Iesu sacerdos magne, tu et amici tui, qui habitant coram te, quia viri portendentes sunt: ecce enim ego adducam servum meum Orientem.",
+        "VulgSistina (1590)": "Audi Iesu sacerdos magne, tu et amici tui, qui habitant coram te, quia viri portendentes sunt. ecce enim ego ADDUCAM SERVUM MEUM ORIENTEM."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87765,
+      "verse": 9,
+      "critical_text": "Quia ecce lapis quem dedi coram Jesu: super lapidem unum septem oculi sunt: ecce ego cælabo sculpturam ejus, ait Dominus exercituum, et auferam iniquitatem terræ illius in die una.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quia ecce lapis quem dedi coram Jesu: super lapidem unum septem oculi sunt: ecce ego cælabo sculpturam ejus, ait Dominus exercituum, et auferam iniquitatem terræ illius in die una.",
+        "Clem-Saints": "Quia ecce lapis quem dedi coram Jesu: super lapidem unum septem oculi sunt: ecce ego cælabo sculpturam ejus, ait Dominus exercituum, et auferam iniquitatem terræ illius in die una.",
+        "VulgHetzenauer (1906)": "Quia ecce lapis, quem dedi coram Iesu: super lapidem unum septem oculi sunt: ecce ego cælabo sculpturam eius, ait Dominus exercituum: et auferam iniquitatem terræ illius in die una.",
+        "VulgConte (2009)": "Quia ecce lapis, quem dedi coram Iesu: super lapidem unum septem oculi sunt: ecce ego cælabo sculpturam eius, ait Dominus exercituum: et auferam iniquitatem terræ illius in die una.",
+        "VulgSistina (1590)": "Quia ecce lapis, quem dedi coram Iesu: super lapidem unum septem oculi sunt: ecce ego celabo sculpturam eius, ait Dominus exercituum: et auferam iniquitatem terrae illius in die una."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "cælabo / celabo"
+          ],
+          "witnesses": [
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87766,
+      "verse": 10,
+      "critical_text": "In die illa, dicit Dominus exercituum, vocabit vir amicum suum subter vitem et subter ficum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In die illa, dicit Dominus exercituum, vocabit vir amicum suum subter vitem et subter ficum.",
+        "Clem-Saints": "In die illa, dicit Dominus exercituum, vocabit vir amicum suum subter vitem et subter ficum.",
+        "VulgHetzenauer (1906)": "In die illa, dicit Dominus exercituum, vocabit vir amicum suum subter vitem, et subter ficum.",
+        "VulgConte (2009)": "In die illa, dicit Dominus exercituum, vocabit vir amicum suum subter vitem, et subter ficum.",
+        "VulgSistina (1590)": "In die illa, dicit Dominus exercituum, vocabit vir amicum suum subter vitem, et subter ficum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

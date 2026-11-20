@@ -1,0 +1,166 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "psalms",
+  "book_title": "Psalms",
+  "usfm_code": "PSA",
+  "chapter": 132,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:24Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 79124,
+      "verse": 1,
+      "critical_text": "Canticum graduum David. Ecce quam bonum et quam jucundum, habitare fratres in unum!",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Canticum graduum David. Ecce quam bonum et quam jucundum, habitare fratres in unum!",
+        "Clem-Saints": "Canticum graduum David. Ecce quam bonum et quam jucundum, habitare fratres in unum!",
+        "VulgHetzenauer (1906)": "Canticum graduum David. Ecce quam bonum et quam iucundum habitare fratres in unum:",
+        "VulgConte (2009)": "Canticum graduum David. Ecce quam bonum et quam iucundum habitare fratres in unum:",
+        "VulgSistina (1590)": "Canticum graduum. Ecce quam bonum et quam iucundum habitare fratres in unum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "David.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "dauid",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79125,
+      "verse": 2,
+      "critical_text": "Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, quod descendit in oram vestimenti ejus;",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, quod descendit in oram vestimenti ejus;",
+        "Clem-Saints": "Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, quod descendit in oram vestimenti ejus;",
+        "VulgHetzenauer (1906)": "Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, Quod descendit in oram vestimenti eius:",
+        "VulgConte (2009)": "Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, Quod descendit in oram vestimenti eius:",
+        "VulgSistina (1590)": "Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, Quod descendit in oram vestimenti eius:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 79126,
+      "verse": 3,
+      "critical_text": "sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in sæculum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in sæculum.",
+        "Clem-Saints": "sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in sæculum.",
+        "VulgHetzenauer (1906)": "sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in sæculum.",
+        "VulgConte (2009)": "sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in sæculum.",
+        "VulgSistina (1590)": "sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in saeculum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

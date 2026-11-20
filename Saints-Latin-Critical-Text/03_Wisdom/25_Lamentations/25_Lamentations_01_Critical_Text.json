@@ -1,0 +1,1041 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "lamentations",
+  "book_title": "Lamentations",
+  "usfm_code": "LAM",
+  "chapter": 1,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:32Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "VulgHetzenauer (1906): Source file gap, 1:1: the file leaves out Jerome's prologue 'Et factum est, postquam in captivitatem …', which the printed edition has; marked lost (…), so it is not recorded as the edition's omission. Original file unchanged.",
+    "VulgConte (2009): Source file gap, 1:1: the file leaves out Jerome's prologue 'Et factum est, postquam in captivitatem …', which the printed edition has; marked lost (…), so it is not recorded as the edition's omission. Original file unchanged."
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 80608,
+      "verse": 1,
+      "critical_text": "Et factum est, postquam in captivitatem redactus est Israël, et Jerusalem deserta est, sedit Jeremias propheta flens, et planxit lamentatione hac in Jerusalem: et amaro animo suspirans et ejulans, dixit: Aleph Quomodo sedet sola civitas plena populo! Facta est quasi vidua domina gentium; princeps provinciarum facta est sub tributo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et factum est, postquam in captivitatem redactus est Israël, et Jerusalem deserta est, sedit Jeremias propheta flens, et planxit lamentatione hac in Jerusalem: et amaro animo suspirans et ejulans, dixit: Aleph Quomodo sedet sola civitas plena populo! Facta est quasi vidua domina gentium; princeps provinciarum facta est sub tributo.",
+        "Clem-Saints": "Quomodo sedet sola civitas plena populo! Facta est quasi vidua domina gentium; princeps provinciarum facta est sub tributo.",
+        "VulgHetzenauer (1906)": "… Aleph Quomodo sedet sola civitas plena populo: facta est quasi vidua domina Gentium: princeps provinciarum facta est sub tributo.",
+        "VulgConte (2009)": "… Aleph Quomodo sedet sola civitas plena populo: facta est quasi vidua domina Gentium: princeps provinciarum facta est sub tributo.",
+        "VulgSistina (1590)": "Et factum est, postquam in captivitatem redactus est Israel, et Ierusalem deserta est, sedit Ieremias propheta flens, et planxit lamentatione hac in Ierusalem, et amaro animo suspirans, et eiulans dixit: ALEPH. Quomodo sedet sola civitas plena populo: facta est quasi vidua domina Gentium: princeps provinciarum facta est sub tributo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Et factum est, postquam in captivitatem redactus est",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "Israël, et Jerusalem deserta est, sedit Jeremias propheta",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "flens, et planxit lamentatione hac in Jerusalem: et",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "amaro animo suspirans et ejulans, dixit: Aleph",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 4 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80609,
+      "verse": 2,
+      "critical_text": "Beth Plorans ploravit in nocte, et lacrimæ ejus in maxillis ejus: non est qui consoletur eam ex omnibus caris ejus; omnes amici ejus spreverunt eam, et facti sunt ei inimici.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Beth Plorans ploravit in nocte, et lacrimæ ejus in maxillis ejus: non est qui consoletur eam ex omnibus caris ejus; omnes amici ejus spreverunt eam, et facti sunt ei inimici.",
+        "Clem-Saints": "Plorans ploravit in nocte, et lacrimæ ejus in maxillis ejus: non est qui consoletur eam ex omnibus caris ejus; omnes amici ejus spreverunt eam, et facti sunt ei inimici.",
+        "VulgHetzenauer (1906)": "Beth Plorans ploravit in nocte, et lacrymæ eius in maxillis eius: non est qui consoletur eam et omnibus charis eius: omnes amici eius spreverunt eam, et facti sunt ei inimici.",
+        "VulgConte (2009)": "Beth Plorans ploravit in nocte, et lacrymæ eius in maxillis eius: non est qui consoletur eam et omnibus charis eius: omnes amici eius spreverunt eam, et facti sunt ei inimici.",
+        "VulgSistina (1590)": "Beth Plorans ploravit in nocte, et lacrymae eius in maxillis eius: non est qui consoletur eam et omnibus charis eius: omnes amici eius spreverunt eam, et facti sunt ei inimici."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ex",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX"
+          ],
+          "variants": [
+            {
+              "reading": "et",
+              "witnesses": [
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 16,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ex",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Beth",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "lacrimæ / lacrymæ",
+            "caris / charis",
+            "lacrimæ / lacrymæ",
+            "caris / charis",
+            "lacrimæ / lacrymae",
+            "caris / charis"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80610,
+      "verse": 3,
+      "critical_text": "Ghimel Migravit Judas propter afflictionem, et multitudinem servitutis; habitavit inter gentes, nec invenit requiem: omnes persecutores ejus apprehenderunt eam inter angustias.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ghimel Migravit Judas propter afflictionem, et multitudinem servitutis; habitavit inter gentes, nec invenit requiem: omnes persecutores ejus apprehenderunt eam inter angustias.",
+        "Clem-Saints": "Migravit Judas propter afflictionem, et multitudinem servitutis; habitavit inter gentes, nec invenit requiem: omnes persecutores ejus apprehenderunt eam inter angustias.",
+        "VulgHetzenauer (1906)": "Ghimel Migravit Iudas propter afflictionem, et multitudinem servitutis: habitavit inter gentes, nec invenit requiem: omnes persecutores eius apprehenderunt eam inter angustias.",
+        "VulgConte (2009)": "Ghimel Migravit Iudas propter afflictionem, et multitudinem servitutis: habitavit inter gentes, nec invenit requiem: omnes persecutores eius apprehenderunt eam inter angustias.",
+        "VulgSistina (1590)": "Ghimel Migravit Iuda propter afflictionem, et multitudinem servitutis: habitavit inter gentes, nec invenit requiem: omnes persecutores eius apprehenderunt eam inter angustias."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Judas",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Iuda",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iudas",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Ghimel",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80611,
+      "verse": 4,
+      "critical_text": "Daleth Viæ Sion lugent, eo quod non sint qui veniant ad solemnitatem: omnes portæ ejus destructæ, sacerdotes ejus gementes; virgines ejus squalidæ, et ipsa oppressa amaritudine.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Daleth Viæ Sion lugent, eo quod non sint qui veniant ad solemnitatem: omnes portæ ejus destructæ, sacerdotes ejus gementes; virgines ejus squalidæ, et ipsa oppressa amaritudine.",
+        "Clem-Saints": "Viæ Sion lugent, eo quod non sint qui veniant ad solemnitatem: omnes portæ ejus destructæ, sacerdotes ejus gementes; virgines ejus squalidæ, et ipsa oppressa amaritudine.",
+        "VulgHetzenauer (1906)": "Daleth Viæ Sion lugent eo quod non sint qui veniant ad sollemnitatem: omnes portæ eius destructæ: sacerdotes eius gementes: virgines eius squalidæ, et ipsa oppressa amaritudine.",
+        "VulgConte (2009)": "Daleth Viæ Sion lugent eo quod non sint qui veniant ad sollemnitatem: omnes portæ eius destructæ: sacerdotes eius gementes: virgines eius squalidæ, et ipsa oppressa amaritudine.",
+        "VulgSistina (1590)": "Daleth Viae Sion lugent eo quod non sint qui veniant ad sollemnitatem: omnes portae eius destructae: sacerdotes eius gementes: virgines eius squalidae, et ipsa oppressa amaritudine."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Daleth",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "solemnitatem: / sollemnitatem:",
+            "solemnitatem: / sollemnitatem:",
+            "solemnitatem: / sollemnitatem:"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80612,
+      "verse": 5,
+      "critical_text": "He Facti sunt hostes ejus in capite; inimici ejus locupletati sunt: quia Dominus locutus est super eam propter multitudinem iniquitatum ejus. Parvuli ejus ducti sunt in captivitatem ante faciem tribulantis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "He Facti sunt hostes ejus in capite; inimici ejus locupletati sunt: quia Dominus locutus est super eam propter multitudinem iniquitatum ejus. Parvuli ejus ducti sunt in captivitatem ante faciem tribulantis.",
+        "Clem-Saints": "Facti sunt hostes ejus in capite; inimici ejus locupletati sunt: quia Dominus locutus est super eam propter multitudinem iniquitatum ejus. Parvuli ejus ducti sunt in captivitatem ante faciem tribulantis.",
+        "VulgHetzenauer (1906)": "He Facti sunt hostes eius in capite, inimici eius locupletati sunt: quia Dominus locutus est super eam propter multitudinem iniquitatum eius: parvuli eius ducti sunt in captivitatem ante faciem tribulantis.",
+        "VulgConte (2009)": "He Facti sunt hostes eius in capite, inimici eius locupletati sunt: quia Dominus locutus est super eam propter multitudinem iniquitatum eius: parvuli eius ducti sunt in captivitatem ante faciem tribulantis.",
+        "VulgSistina (1590)": "He Facti sunt hostes eius in capite, inimici eius locupletati sunt: quia Dominus locutus est super eam propter multitudinem iniquitatum eius: parvuli eius ducti sunt in captivitatem ante faciem tribulantis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "He",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80613,
+      "verse": 6,
+      "critical_text": "Vau Et egressus est a filia Sion omnis decor ejus; facti sunt principes ejus velut arietes non invenientes pascua, et abierunt absque fortitudine ante faciem subsequentis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Vau Et egressus est a filia Sion omnis decor ejus; facti sunt principes ejus velut arietes non invenientes pascua, et abierunt absque fortitudine ante faciem subsequentis.",
+        "Clem-Saints": "Et egressus est a filia Sion omnis decor ejus; facti sunt principes ejus velut arietes non invenientes pascua, et abierunt absque fortitudine ante faciem subsequentis.",
+        "VulgHetzenauer (1906)": "Vau Et egressus est a filia Sion omnis decor eius: facti sunt principes eius velut arietes non invenientes pascua: et abierunt absque fortitudine ante faciem subsequentis.",
+        "VulgConte (2009)": "Vau Et egressus est a filia Sion omnis decor eius: facti sunt principes eius velut arietes non invenientes pascua: et abierunt absque fortitudine ante faciem subsequentis.",
+        "VulgSistina (1590)": "Vau Et egressus est a filia Sion omnis decor eius: facti sunt principes eius velut arietes non invenientes pascua: et abierunt absque fortitudine ante faciem subsequentis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Vau",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80614,
+      "verse": 7,
+      "critical_text": "Zain Recordata est Jerusalem dierum afflictionis suæ, et prævaricationis, omnium desiderabilium suorum, quæ habuerat a diebus antiquis, cum caderet populus ejus in manu hostili, et non esset auxiliator: viderunt eam hostes, et deriserunt sabbata ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Zain Recordata est Jerusalem dierum afflictionis suæ, et prævaricationis, omnium desiderabilium suorum, quæ habuerat a diebus antiquis, cum caderet populus ejus in manu hostili, et non esset auxiliator: viderunt eam hostes, et deriserunt sabbata ejus.",
+        "Clem-Saints": "Recordata est Jerusalem dierum afflictionis suæ, et prævaricationis, omnium desiderabilium suorum, quæ habuerat a diebus antiquis, cum caderet populus ejus in manu hostili, et non esset auxiliator: viderunt eam hostes, et deriserunt sabbata ejus.",
+        "VulgHetzenauer (1906)": "Zain Recordata est Ierusalem dierum afflictionis suæ, et prævaricationis omnium desiderabilium suorum, quæ habuerat a diebus antiquis, cum caderet populus eius in manu hostili, et non esset auxiliator: viderunt eam hostes, et deriserunt sabbata eius.",
+        "VulgConte (2009)": "Zain Recordata est Ierusalem dierum afflictionis suæ, et prævaricationis omnium desiderabilium suorum, quæ habuerat a diebus antiquis, cum caderet populus eius in manu hostili, et non esset auxiliator: viderunt eam hostes, et deriserunt Sabbata eius.",
+        "VulgSistina (1590)": "Zain Recordata est Ierusalem dierum afflictionis suae, et praevaricationis omnium desiderabilium suorum, quae habuerat a diebus antiquis, cum caderet populus eius in manu hostili, et non esset auxiliator: viderunt eam hostes, et deriserunt sabbata eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Zain",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80615,
+      "verse": 8,
+      "critical_text": "Heth Peccatum peccavit Jerusalem, propterea instabilis facta est; omnes qui glorificabant eam spreverunt illam, quia viderunt ignominiam ejus: ipsa autem gemens conversa est retrorsum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Heth Peccatum peccavit Jerusalem, propterea instabilis facta est; omnes qui glorificabant eam spreverunt illam, quia viderunt ignominiam ejus: ipsa autem gemens conversa est retrorsum.",
+        "Clem-Saints": "Peccatum peccavit Jerusalem, propterea instabilis facta est; omnes qui glorificabant eam spreverunt illam, quia viderunt ignominiam ejus: ipsa autem gemens conversa est retrorsum.",
+        "VulgHetzenauer (1906)": "Heth Peccatum peccavit Ierusalem, propterea instabilis facta est: omnes, qui glorificabant eam, spreverunt illam, quia viderunt ignominiam eius: ipsa autem gemens conversa est retrorsum.",
+        "VulgConte (2009)": "Heth Peccatum peccavit Ierusalem, propterea instabilis facta est: omnes, qui glorificabant eam, spreverunt illam, quia viderunt ignominiam eius: ipsa autem gemens conversa est retrorsum.",
+        "VulgSistina (1590)": "Heth Peccatum peccavit Ierusalem, propterea instabilis facta est: omnes, qui glorificabant eam, spreverunt illam, quia viderunt ignominiam eius: ipsa autem gemens conversa est retrorsum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Heth",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80616,
+      "verse": 9,
+      "critical_text": "Teth Sordes ejus in pedibus ejus, nec recordata est finis sui; deposita est vehementer, non habens consolatorem. Vide, Domine, afflictionem meam, quoniam erectus est inimicus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Teth Sordes ejus in pedibus ejus, nec recordata est finis sui; deposita est vehementer, non habens consolatorem. Vide, Domine, afflictionem meam, quoniam erectus est inimicus.",
+        "Clem-Saints": "Sordes ejus in pedibus ejus, nec recordata est finis sui; deposita est vehementer, non habens consolatorem. Vide, Domine, afflictionem meam, quoniam erectus est inimicus.",
+        "VulgHetzenauer (1906)": "Teth Sordes eius in pedibus eius, nec recordata est finis sui: deposita est vehementer, non habens consolatorem: vide Domine afflictionem meam, quoniam erectus est inimicus.",
+        "VulgConte (2009)": "Teth Sordes eius in pedibus eius, nec recordata est finis sui: deposita est vehementer, non habens consolatorem: vide Domine afflictionem meam, quoniam erectus est inimicus.",
+        "VulgSistina (1590)": "Teth Sordes eius in pedibus eius, nec recordata est finis sui: deposita est vehementer, non habens consolatorem: vide Domine afflictionem meam, quoniam erectus est inimicus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Teth",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80617,
+      "verse": 10,
+      "critical_text": "Jod Manum suam misit hostis ad omnia desiderabilia ejus, quia vidit gentes ingressas sanctuarium suum, de quibus præceperas ne intrarent in ecclesiam tuam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Jod Manum suam misit hostis ad omnia desiderabilia ejus, quia vidit gentes ingressas sanctuarium suum, de quibus præceperas ne intrarent in ecclesiam tuam.",
+        "Clem-Saints": "Manum suam misit hostis ad omnia desiderabilia ejus, quia vidit gentes ingressas sanctuarium suum, de quibus præceperas ne intrarent in ecclesiam tuam.",
+        "VulgHetzenauer (1906)": "Iod Manum suam misit hostis ad omnia desiderabilia eius: quia vidit Gentes ingressas sanctuarium suum, de quibus præceperas ne intrarent in ecclesiam tuam.",
+        "VulgConte (2009)": "Iod Manum suam misit hostis ad omnia desiderabilia eius: quia vidit Gentes ingressas sanctuarium suum, de quibus præceperas ne intrarent in ecclesiam tuam.",
+        "VulgSistina (1590)": "Iod Manum suam misit hostis ad omnia desiderabilia eius: quia vidit Gentes ingressas sanctuarium suum, de quibus praeceperas ne intrarent in ecclesiam tuam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Jod",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80618,
+      "verse": 11,
+      "critical_text": "Caph Omnis populus ejus gemens, et quærens panem; dederunt pretiosa quæque pro cibo ad refocillandam animam. Vide, Domine, et considera quoniam facta sum vilis!",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Caph Omnis populus ejus gemens, et quærens panem; dederunt pretiosa quæque pro cibo ad refocillandam animam. Vide, Domine, et considera quoniam facta sum vilis!",
+        "Clem-Saints": "Omnis populus ejus gemens, et quærens panem; dederunt pretiosa quæque pro cibo ad refocillandam animam. Vide, Domine, et considera quoniam facta sum vilis!",
+        "VulgHetzenauer (1906)": "Caph Omnis populus eius gemens, et quærens panem: dederunt pretiosa quæque pro cibo ad refocillandam animam. vide Domine et considera, quoniam facta sum vilis.",
+        "VulgConte (2009)": "Caph Omnis populus eius gemens, et quærens panem: dederunt pretiosa quæque pro cibo ad refocillandam animam. Vide Domine et considera, quoniam facta sum vilis.",
+        "VulgSistina (1590)": "Caph Omnis populus eius gemens, et quaerens panem: dederunt pretiosa quaeque pro cibo ad refocillandam animam. vide Domine et considera, quoniam facta sum vilis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Caph",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80619,
+      "verse": 12,
+      "critical_text": "Lamed O vos omnes qui transitis per viam, attendite, et videte si est dolor sicut dolor meus! quoniam vindemiavit me, ut locutus est Dominus, in die iræ furoris sui.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Lamed O vos omnes qui transitis per viam, attendite, et videte si est dolor sicut dolor meus! quoniam vindemiavit me, ut locutus est Dominus, in die iræ furoris sui.",
+        "Clem-Saints": "O vos omnes qui transitis per viam, attendite, et videte si est dolor sicut dolor meus! quoniam vindemiavit me, ut locutus est Dominus, in die iræ furoris sui.",
+        "VulgHetzenauer (1906)": "Lamed O vos omnes, qui transitis per viam, attendite, et videte si est dolor sicut dolor meus: quoniam vindemiavit me ut locutus est Dominus in die iræ furoris sui.",
+        "VulgConte (2009)": "Lamed O vos omnes, qui transitis per viam, attendite, et videte si est dolor sicut dolor meus: quoniam vindemiavit me ut locutus est Dominus in die iræ furoris sui.",
+        "VulgSistina (1590)": "Lamed O vos omnes, qui transitis per viam, attendite, et videte si est dolor sicut dolor meus: quoniam vindemiavit me ut locutus est Dominus in die irae furoris sui."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Lamed",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80620,
+      "verse": 13,
+      "critical_text": "Mem De excelso misit ignem in ossibus meis, et erudivit me: expandit rete pedibus meis, convertit me retrorsum; posuit me desolatam, tota die mœrore confectam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Mem De excelso misit ignem in ossibus meis, et erudivit me: expandit rete pedibus meis, convertit me retrorsum; posuit me desolatam, tota die mœrore confectam.",
+        "Clem-Saints": "De excelso misit ignem in ossibus meis, et erudivit me: expandit rete pedibus meis, convertit me retrorsum; posuit me desolatam, tota die mœrore confectam.",
+        "VulgHetzenauer (1906)": "Mem De excelso misit ignem in ossibus meis, et erudivit me: expandit rete pedibus meis, convertit me retrorsum: posuit me desolatam, tota die mœrore confectam.",
+        "VulgConte (2009)": "Mem De excelso misit ignem in ossibus meis, et erudivit me: expandit rete pedibus meis, convertit me retrorsum: posuit me desolatam, tota die mœrore confectam.",
+        "VulgSistina (1590)": "Mem De excelso misit ignem in ossibus meis, et erudivit me: expandit rete pedibus meis, convertit me retrorsum: posuit me desolatam, tota die moerore confectam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Mem",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80621,
+      "verse": 14,
+      "critical_text": "Nun Vigilavit jugum iniquitatum mearum; in manu ejus convolutæ sunt, et impositæ collo meo. Infirmata est virtus mea: dedit me Dominus in manu de qua non potero surgere.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nun Vigilavit jugum iniquitatum mearum; in manu ejus convolutæ sunt, et impositæ collo meo. Infirmata est virtus mea: dedit me Dominus in manu de qua non potero surgere.",
+        "Clem-Saints": "Vigilavit jugum iniquitatum mearum; in manu ejus convolutæ sunt, et impositæ collo meo. Infirmata est virtus mea: dedit me Dominus in manu de qua non potero surgere.",
+        "VulgHetzenauer (1906)": "Nun Vigilavit iugum iniquitatum mearum: in manu eius convolutæ sunt, et impositæ collo meo: Infirmata est virtus mea: dedit me Dominus in manu, de qua non potero surgere.",
+        "VulgConte (2009)": "Nun Vigilavit iugum iniquitatum mearum: in manu eius convolutæ sunt, et impositæ collo meo: Infirmata est virtus mea: dedit me Dominus in manu, de qua non potero surgere.",
+        "VulgSistina (1590)": "Nun Vigilavit iugum iniquitatum mearum: in manu eius convolutae sunt, et impositae collo meo: Infirmata est virtus mea: dedit me Dominus in manu, de qua non potero surgere."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Nun",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80622,
+      "verse": 15,
+      "critical_text": "Samech Abstulit omnes magnificos meos Dominus de medio mei; vocavit adversum me tempus ut contereret electos meos. Torcular calcavit Dominus virgini filiæ Juda.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Samech Abstulit omnes magnificos meos Dominus de medio mei; vocavit adversum me tempus ut contereret electos meos. Torcular calcavit Dominus virgini filiæ Juda.",
+        "Clem-Saints": "Abstulit omnes magnificos meos Dominus de medio mei; vocavit adversum me tempus ut contereret electos meos. Torcular calcavit Dominus virgini filiæ Juda.",
+        "VulgHetzenauer (1906)": "Samech Abstulit omnes magnificos meos Dominus de medio mei: vocavit adversum me tempus, ut contereret electos meos: torcular calcavit Dominus virgini filiæ Iuda.",
+        "VulgConte (2009)": "Samech Abstulit omnes magnificos meos Dominus de medio mei: vocavit adversum me tempus, ut contereret electos meos: torcular calcavit Dominus virgini filiæ Iuda.",
+        "VulgSistina (1590)": "Samech Abstulit omnes magnificos meos Dominus de medio mei: vocavit adversum me tempus, ut contereret electos meos: torcular calcavit Dominus virgini filiae Iuda."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Samech",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80623,
+      "verse": 16,
+      "critical_text": "Ain Idcirco ego plorans, et oculus meus deducens aquas, quia longe factus est a me consolator, convertens animam meam. Facti sunt filii mei perditi, quoniam invaluit inimicus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ain Idcirco ego plorans, et oculus meus deducens aquas, quia longe factus est a me consolator, convertens animam meam. Facti sunt filii mei perditi, quoniam invaluit inimicus.",
+        "Clem-Saints": "Idcirco ego plorans, et oculus meus deducens aquas, quia longe factus est a me consolator, convertens animam meam. Facti sunt filii mei perditi, quoniam invaluit inimicus.",
+        "VulgHetzenauer (1906)": "Ain Idcirco ego plorans, et oculus meus deducens aquas: quia longe factus est a me consolator, convertens animam meam: facti sunt filii mei perditi, quoniam invaluit inimicus.",
+        "VulgConte (2009)": "Ain Idcirco ego plorans, et oculus meus deducens aquas: quia longe factus est a me consolator, convertens animam meam: facti sunt filii mei perditi, quoniam invaluit inimicus.",
+        "VulgSistina (1590)": "Ain Idcirco ego plorans, et oculus meus deducens aquas: quia longe factus est a me consolator, convertens animam meam: facti sunt filii mei perditi, quoniam invaluit inimicus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Ain",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80624,
+      "verse": 17,
+      "critical_text": "Phe Expandit Sion manus suas; non est qui consoletur eam. Mandavit Dominus adversum Jacob in circuitu ejus hostes ejus; facta est Jerusalem quasi polluta menstruis inter eos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Phe Expandit Sion manus suas; non est qui consoletur eam. Mandavit Dominus adversum Jacob in circuitu ejus hostes ejus; facta est Jerusalem quasi polluta menstruis inter eos.",
+        "Clem-Saints": "Expandit Sion manus suas; non est qui consoletur eam. Mandavit Dominus adversum Jacob in circuitu ejus hostes ejus; facta est Jerusalem quasi polluta menstruis inter eos.",
+        "VulgHetzenauer (1906)": "Phe Expandit Sion manus suas, non est qui consoletur eam: mandavit Dominus adversum Iacob in circuitu eius hostes eius: facta est Ierusalem quasi polluta menstruis inter eos.",
+        "VulgConte (2009)": "Phe Expandit Sion manus suas, non est qui consoletur eam: mandavit Dominus adversum Iacob in circuitu eius hostes eius: facta est Ierusalem quasi polluta menstruis inter eos.",
+        "VulgSistina (1590)": "Phe Expandit Sion manus suas, non est qui consoletur eam: mandavit Dominus adversum Iacob in circuitu eius hostes eius: facta est Ierusalem quasi polluta menstruis inter eos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Phe",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80625,
+      "verse": 18,
+      "critical_text": "Sade Justus est Dominus, quia os ejus ad iracundiam provocavi. Audite, obsecro, universi populi, et videte dolorem meum: virgines meæ et juvenes mei abierunt in captivitatem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sade Justus est Dominus, quia os ejus ad iracundiam provocavi. Audite, obsecro, universi populi, et videte dolorem meum: virgines meæ et juvenes mei abierunt in captivitatem.",
+        "Clem-Saints": "Justus est Dominus, quia os ejus ad iracundiam provocavi. Audite, obsecro, universi populi, et videte dolorem meum: virgines meæ et juvenes mei abierunt in captivitatem.",
+        "VulgHetzenauer (1906)": "Sade Iustus est Dominus, quia os eius ad iracundiam provocavi. audite obsecro universi populi, et videte dolorem meum: virgines meæ, et iuvenes mei abierunt in captivitatem.",
+        "VulgConte (2009)": "Sade Iustus est Dominus, quia os eius ad iracundiam provocavi. Audite obsecro universi populi, et videte dolorem meum: virgines meæ, et iuvenes mei abierunt in captivitatem.",
+        "VulgSistina (1590)": "Sade Iustus est Dominus, quia os eius ad iracundiam provocavi. audite obsecro universi populi, et videte dolorem meum: virgines meae, et iuvenes mei abierunt in captivitatem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Sade",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80626,
+      "verse": 19,
+      "critical_text": "Coph Vocavi amicos meos, et ipsi deceperunt me; sacerdotes mei et senes mei in urbe consumpti sunt, quia quæsierunt cibum sibi ut refocillarent animam suam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Coph Vocavi amicos meos, et ipsi deceperunt me; sacerdotes mei et senes mei in urbe consumpti sunt, quia quæsierunt cibum sibi ut refocillarent animam suam.",
+        "Clem-Saints": "Vocavi amicos meos, et ipsi deceperunt me; sacerdotes mei et senes mei in urbe consumpti sunt, quia quæsierunt cibum sibi ut refocillarent animam suam.",
+        "VulgHetzenauer (1906)": "Coph Vocavi amicos meos, et ipsi deceperunt me: sacerdotes mei, et senes mei in urbe consumpti sunt: quia quæsierunt cibum sibi ut refocillarent animam suam.",
+        "VulgConte (2009)": "Coph Vocavi amicos meos, et ipsi deceperunt me: sacerdotes mei, et senes mei in urbe consumpti sunt: quia quæsierunt cibum sibi ut refocillarent animam suam.",
+        "VulgSistina (1590)": "Coph Vocavi amicos meos, et ipsi deceperunt me: sacerdotes mei, et senes mei in urbe consumpti sunt: quia quaesierunt cibum sibi ut refocillarent animam suam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Coph",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80627,
+      "verse": 20,
+      "critical_text": "Res Vide, Domine, quoniam tribulor: conturbatus est venter meus, subversum est cor meum in memetipsa, quoniam amaritudine plena sum. Foris interfecit gladius, et domi mors similis est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Res Vide, Domine, quoniam tribulor: conturbatus est venter meus, subversum est cor meum in memetipsa, quoniam amaritudine plena sum. Foris interfecit gladius, et domi mors similis est.",
+        "Clem-Saints": "Vide, Domine, quoniam tribulor: conturbatus est venter meus, subversum est cor meum in memetipsa, quoniam amaritudine plena sum. Foris interfecit gladius, et domi mors similis est.",
+        "VulgHetzenauer (1906)": "Res Vide Domine quoniam tribulor, conturbatus est venter meus: subversum est cor meum in memetipsa, quoniam amaritudine plena sum. foris interfecit gladius, et domi mors similis est.",
+        "VulgConte (2009)": "Res Vide Domine quoniam tribulor: conturbatus est venter meus, subversum est cor meum in memetipsa, quoniam amaritudine plena sum. Foris interfecit gladius, et domi mors similis est.",
+        "VulgSistina (1590)": "Res Vide Domine quoniam tribulor, conturbatus est venter meus: subversum est cor meum in memetipsa, quoniam amaritudine plena sum. foris interfecit gladius, et domi mors similis est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Res",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80628,
+      "verse": 21,
+      "critical_text": "Sin Audierunt quia ingemisco ego, et non est qui consoletur me; omnes inimici mei audierunt malum meum, lætati sunt quoniam tu fecisti: adduxisti diem consolationis, et fient similes mei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sin Audierunt quia ingemisco ego, et non est qui consoletur me; omnes inimici mei audierunt malum meum, lætati sunt quoniam tu fecisti: adduxisti diem consolationis, et fient similes mei.",
+        "Clem-Saints": "Audierunt quia ingemisco ego, et non est qui consoletur me; omnes inimici mei audierunt malum meum, lætati sunt quoniam tu fecisti: adduxisti diem consolationis, et fient similes mei.",
+        "VulgHetzenauer (1906)": "Sin Audierunt quia ingemisco ego, et non est qui consoletur me: omnes inimici mei audierunt malum meum lætati sunt, quoniam tu fecisti: adduxisti diem consolationis, et fient similes mei.",
+        "VulgConte (2009)": "Sin Audierunt quia ingemisco ego, et non est qui consoletur me: omnes inimici mei audierunt malum meum lætati sunt, quoniam tu fecisti: adduxisti diem consolationis, et fient similes mei.",
+        "VulgSistina (1590)": "Sin Audierunt quia ingemisco ego, et non est qui consoletur me: omnes inimici mei audierunt malum meum laetati sunt, quoniam tu fecisti: adduxisti diem consolationis, et fient similes mei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Sin",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80629,
+      "verse": 22,
+      "critical_text": "Thau Ingrediatur omne malum eorum coram te: et vindemia eos, sicut vindemiasti me propter omnes iniquitates meas: multi enim gemitus mei, et cor meum mœrens.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Thau Ingrediatur omne malum eorum coram te: et vindemia eos, sicut vindemiasti me propter omnes iniquitates meas: multi enim gemitus mei, et cor meum mœrens.",
+        "Clem-Saints": "Ingrediatur omne malum eorum coram te: et vindemia eos, sicut vindemiasti me propter omnes iniquitates meas: multi enim gemitus mei, et cor meum mœrens.",
+        "VulgHetzenauer (1906)": "Thau Ingrediatur omne malum eorum coram te: et vindemia eos sicut vindemiasti me propter omnes iniquitates meas: multi enim gemitus mei, et cor meum mœrens.",
+        "VulgConte (2009)": "Thau Ingrediatur omne malum eorum coram te: et vindemia eos sicut vindemiasti me propter omnes iniquitates meas: multi enim gemitus mei, et cor meum mœrens.",
+        "VulgSistina (1590)": "Thau Ingrediatur omne malum eorum coram te: et vindemia eos sicut vindemiasti me propter omnes iniquitates meas: multi enim gemitus mei, et cor meum moerens."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Thau",
+          "disregarded_forms": [
+            "om."
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Encoding difference between digital copies of the same printed edition (not a textual variant)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

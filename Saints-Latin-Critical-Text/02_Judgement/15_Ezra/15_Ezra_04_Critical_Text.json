@@ -1,0 +1,826 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "ezra",
+  "book_title": "Ezra",
+  "usfm_code": "EZR",
+  "chapter": 4,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:01Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 73520,
+      "verse": 1,
+      "critical_text": "Audierunt autem hostes Judæ et Benjamin, quia filii captivitatis ædificarent templum Domino Deo Israël:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Audierunt autem hostes Judæ et Benjamin, quia filii captivitatis ædificarent templum Domino Deo Israël:",
+        "Clem-Saints": "Audierunt autem hostes Judæ et Benjamin, quia filii captivitatis ædificarent templum Domino Deo Israël:",
+        "VulgHetzenauer (1906)": "Audierunt autem hostes Iudæ, et Beniamin, quia filii captivitatis ædificarent templum Domino Deo Israel:",
+        "VulgConte (2009)": "Audierunt autem hostes Iudæ, et Beniamin, quia filii captivitatis ædificarent templum Domino Deo Israel:",
+        "VulgSistina (1590)": "Audierunt autem hostes Iuda, et Beniamin, quia filii captivitatis aedificarent templum Domino Deo Israel:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Judæ",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Iuda,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iudae",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73521,
+      "verse": 2,
+      "critical_text": "et accedentes ad Zorobabel, et ad principes patrum, dixerunt eis: Ædificemus vobiscum, quia ita ut vos, quærimus Deum vestrum: ecce nos immolavimus victimas a diebus Asor Haddan regis Assur, qui adduxit nos huc.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et accedentes ad Zorobabel, et ad principes patrum, dixerunt eis: Ædificemus vobiscum, quia ita ut vos, quærimus Deum vestrum: ecce nos immolavimus victimas a diebus Asor Haddan regis Assur, qui adduxit nos huc.",
+        "Clem-Saints": "et accedentes ad Zorobabel, et ad principes patrum, dixerunt eis: Ædificemus vobiscum, quia ita ut vos, quærimus Deum vestrum: ecce nos immolavimus victimas a diebus Asor Haddan regis Assur, qui adduxit nos huc.",
+        "VulgHetzenauer (1906)": "et accedentes ad Zorobabel, et ad principes patrum dixerunt eis: Ædificemus vobiscum, quia ita ut vos, quærimus Deum vestrum: ecce nos immolavimus victimas a diebus Asor Haddan regis Assur, qui adduxit nos huc.",
+        "VulgConte (2009)": "et accedentes ad Zorobabel, et ad principes patrum dixerunt eis: Ædificemus vobiscum, quia ita ut vos, quærimus Deum vestrum: ecce nos immolavimus victimas a diebus Asor Haddan regis Assur, qui adduxit nos huc.",
+        "VulgSistina (1590)": "et accedentes ad Zorobabel, et ad principes patrum dixerunt eis: Aedificemus vobiscum, quia ita ut vos, quaerimus Deum vestrum: ecce nos immolavimus victimas a diebus Asor Haddan regis Assur, qui adduxit nos huc."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73522,
+      "verse": 3,
+      "critical_text": "Et dixit eis Zorobabel, et Josue, et reliqui principes patrum Israël: Non est vobis et nobis ut ædificemus domum Deo nostro, sed nos ipsi soli ædificabimus Domino Deo nostro, sicut præcepit nobis Cyrus rex Persarum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixit eis Zorobabel, et Josue, et reliqui principes patrum Israël: Non est vobis et nobis ut ædificemus domum Deo nostro, sed nos ipsi soli ædificabimus Domino Deo nostro, sicut præcepit nobis Cyrus rex Persarum.",
+        "Clem-Saints": "Et dixit eis Zorobabel, et Josue, et reliqui principes patrum Israël: Non est vobis et nobis ut ædificemus domum Deo nostro, sed nos ipsi soli ædificabimus Domino Deo nostro, sicut præcepit nobis Cyrus rex Persarum.",
+        "VulgHetzenauer (1906)": "Et dixit eis Zorobabel, et Iosue, et reliqui principes patrum Israel: Non est vobis et nobis ut ædificemus domum Deo nostro, sed nosipsi soli ædificabimus Domino Deo nostro, sicut præcepit nobis Cyrus rex Persarum.",
+        "VulgConte (2009)": "Et dixit eis Zorobabel, et Iosue, et reliqui principes patrum Israel: Non est vobis et nobis ut ædificemus domum Deo nostro, sed nosipsi soli ædificabimus Domino Deo nostro, sicut præcepit nobis Cyrus rex Persarum.",
+        "VulgSistina (1590)": "Et dixit eis Zorobabel, et Iosue, et reliqui principes patrum Israel: Non est vobis et nobis ut aedificemus domum Deo nostro, sed nosipsi soli aedificabimus Domino Deo nostro, sicut praecepit nobis Cyrus rex Persarum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nos ipsi / nosipsi",
+            "nos ipsi / nosipsi",
+            "nos ipsi / nosipsi"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73523,
+      "verse": 4,
+      "critical_text": "Factum est igitur ut populus terræ impediret manus populi Judæ, et turbaret eos in ædificando.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Factum est igitur ut populus terræ impediret manus populi Judæ, et turbaret eos in ædificando.",
+        "Clem-Saints": "Factum est igitur ut populus terræ impediret manus populi Judæ, et turbaret eos in ædificando.",
+        "VulgHetzenauer (1906)": "Factum est igitur ut populus terræ impediret manus populi Iudæ, et turbaret eos in ædificando.",
+        "VulgConte (2009)": "Factum est igitur ut populus terræ impediret manus populi Iudæ, et turbaret eos in ædificando.",
+        "VulgSistina (1590)": "Factum est igitur ut populus terrae impediret manus populi Iudae, et turbaret eos in aedificando."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73524,
+      "verse": 5,
+      "critical_text": "Conduxerunt autem adversus eos consiliatores, ut destruerent consilium eorum omnibus diebus Cyri regis Persarum, et usque ad regnum Darii regis Persarum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Conduxerunt autem adversus eos consiliatores, ut destruerent consilium eorum omnibus diebus Cyri regis Persarum, et usque ad regnum Darii regis Persarum.",
+        "Clem-Saints": "Conduxerunt autem adversus eos consiliatores, ut destruerent consilium eorum omnibus diebus Cyri regis Persarum, et usque ad regnum Darii regis Persarum.",
+        "VulgHetzenauer (1906)": "Conduxerunt autem adversus eos consiliatores, ut destruerent consilium eorum omnibus diebus Cyri regis Persarum, et usque ad regnum Darii regis Persarum.",
+        "VulgConte (2009)": "Conduxerunt autem adversus eos consiliatores, ut destruerent consilium eorum omnibus diebus Cyri regis Persarum, et usque ad regnum Darii regis Persarum.",
+        "VulgSistina (1590)": "Conduxerunt autem adversus eos consiliatores, ut destruerent consilium eorum omnibus diebus Cyri regis Persarum, et usque ad regnum Darii regis Persarum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73525,
+      "verse": 6,
+      "critical_text": "In regno autem Assueri, in principio regni ejus, scripserunt accusationem adversus habitatores Judæ et Jerusalem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In regno autem Assueri, in principio regni ejus, scripserunt accusationem adversus habitatores Judæ et Jerusalem.",
+        "Clem-Saints": "In regno autem Assueri, in principio regni ejus, scripserunt accusationem adversus habitatores Judæ et Jerusalem.",
+        "VulgHetzenauer (1906)": "In regno autem Assueri, in principio regni eius, scripserunt accusationem adversus habitatores Iudæ et Ierusalem.",
+        "VulgConte (2009)": "In regno autem Assueri, in principio regni eius, scripserunt accusationem adversus habitatores Iudæ et Ierusalem.",
+        "VulgSistina (1590)": "In regno autem Assueri, in principio regni eius, scripserunt accusationem adversus habitatores Iudae et Ierusalem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73526,
+      "verse": 7,
+      "critical_text": "Et in diebus Artaxerxis scripsit Beselam, Mithridates, et Thabeel, et reliqui qui erant in consilio eorum, ad Artaxerxem regem Persarum: epistola autem accusationis scripta erat syriace, et legebatur sermone syro.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et in diebus Artaxerxis scripsit Beselam, Mithridates, et Thabeel, et reliqui qui erant in consilio eorum, ad Artaxerxem regem Persarum: epistola autem accusationis scripta erat syriace, et legebatur sermone syro.",
+        "Clem-Saints": "Et in diebus Artaxerxis scripsit Beselam, Mithridates, et Thabeel, et reliqui qui erant in consilio eorum, ad Artaxerxem regem Persarum: epistola autem accusationis scripta erat syriace, et legebatur sermone syro.",
+        "VulgHetzenauer (1906)": "Et in diebus Artaxerxis scripsit Beselam Mithridates, et Thabeel, et reliqui, qui erant in consilio eorum, ad Artaxerxem regem Persarum: epistola autem accusationis scripta erat Syriace, et legebatur sermone Syro.",
+        "VulgConte (2009)": "Et in diebus Artaxerxis scripsit Beselam Mithridates, et Thabeel, et reliqui, qui erant in consilio eorum, ad Artaxerxem regem Persarum: epistola autem accusationis scripta erat Syriace, et legebatur sermone Syro.",
+        "VulgSistina (1590)": "Et in diebus Artaxerxis scripsit Beselam Mithridates, et Thabeel, et reliqui, qui erant in consilio eorum, ad Artaxerxem regem Persarum: epistola autem accusationis scripta erat Syriace, et legebatur sermone Syro."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73527,
+      "verse": 8,
+      "critical_text": "Reum Beelteem, et Samsai scriba, scripserunt epistolam unam de Jerusalem Artaxerxi regi, hujuscemodi:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Reum Beelteem, et Samsai scriba, scripserunt epistolam unam de Jerusalem Artaxerxi regi, hujuscemodi:",
+        "Clem-Saints": "Reum Beelteem, et Samsai scriba, scripserunt epistolam unam de Jerusalem Artaxerxi regi, hujuscemodi:",
+        "VulgHetzenauer (1906)": "Reum Beelteem, et Samsai scriba scripserunt epistolam unam de Ierusalem Artaxerxi regi, huiuscemodi:",
+        "VulgConte (2009)": "Reum Beelteem, et Samsai scriba scripserunt epistolam unam de Ierusalem Artaxerxi regi, huiuscemodi:",
+        "VulgSistina (1590)": "Reum Beelteem, et Samsai scriba scripserunt epistolam unam de Ierusalem Artaxerxi regi, huiuscemodi:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73528,
+      "verse": 9,
+      "critical_text": "Reum Beelteem, et Samsai scriba, et reliqui consiliatores eorum, Dinæi, et Apharsathachæi, Terphalæi, Apharsæi, Erchuæi, Babylonii, Susanechæi, Dievi, et Ælamitæ,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Reum Beelteem, et Samsai scriba, et reliqui consiliatores eorum, Dinæi, et Apharsathachæi, Terphalæi, Apharsæi, Erchuæi, Babylonii, Susanechæi, Dievi, et Ælamitæ,",
+        "Clem-Saints": "Reum Beelteem, et Samsai scriba, et reliqui consiliatores eorum, Dinæi, et Apharsathachæi, Terphalæi, Apharsæi, Erchuæi, Babylonii, Susanechæi, Dievi, et Ælamitæ,",
+        "VulgHetzenauer (1906)": "Reum Beelteem, et Samsai scriba, et reliqui consiliatores eorum, Dinæi, et Apharsathachæi, Terphalæi, Apharsæi, Erchuæi, Babylonii, Susanechæi, Dievi, et Ælamitæ,",
+        "VulgConte (2009)": "Reum Beelteem, et Samsai scriba, et reliqui consiliatores eorum, Dinæi, et Apharsathachæi, Terphalæi, Apharsæi, Erchuæi, Babylonii, Susanechæi, Dievi, et Ælamitæ,",
+        "VulgSistina (1590)": "Reum Beelteem, et Samsai scriba, et reliqui consiliatores eorum, Dinaei, et Apharsathachaei, Terphalaei, Apharsaei, Erchuae, Babylonii, Susanechaei, Dievi, et Aelamitae,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Erchuæi,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Erchuae,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 14,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "erchuaei",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73529,
+      "verse": 10,
+      "critical_text": "et ceteri de gentibus, quas transtulit Asenaphar magnus et gloriosus, et habitare eas fecit in civitatibus Samariæ, et in reliquis regionibus trans flumen in pace",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et ceteri de gentibus, quas transtulit Asenaphar magnus et gloriosus, et habitare eas fecit in civitatibus Samariæ, et in reliquis regionibus trans flumen in pace",
+        "Clem-Saints": "et ceteri de gentibus, quas transtulit Asenaphar magnus et gloriosus, et habitare eas fecit in civitatibus Samariæ, et in reliquis regionibus trans flumen in pace",
+        "VulgHetzenauer (1906)": "et ceteri de Gentibus, quas transtulit Asenaphar magnus et gloriosus: et habitare eas fecit in civitatibus Samariæ, et in reliquis regionibus trans Flumen in pace:",
+        "VulgConte (2009)": "et ceteri de gentibus, quas transtulit Asenaphar magnus et gloriosus: et habitare eas fecit in civitatibus Samariæ, et in reliquis regionibus trans Flumen in pace:",
+        "VulgSistina (1590)": "et ceteri de Gentibus, quas transtulit Asenaphar magnus et gloriosus: et habitare eas fecit in civitatibus Samariae, et in reliquis regionibus trans Flumen in pace:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73530,
+      "verse": 11,
+      "critical_text": "(hoc est exemplar epistolæ, quam miserunt ad eum), Artaxerxi regi, servi tui, viri qui sunt trans fluvium, salutem dicunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "(hoc est exemplar epistolæ, quam miserunt ad eum), Artaxerxi regi, servi tui, viri qui sunt trans fluvium, salutem dicunt.",
+        "Clem-Saints": "(hoc est exemplar epistolæ, quam miserunt ad eum), Artaxerxi regi, servi tui, viri qui sunt trans fluvium, salutem dicunt.",
+        "VulgHetzenauer (1906)": "(Hoc est exemplar epistolæ, quam miserunt ad eum) Artaxerxi regi, servi tui, viri qui sunt trans Fluvium, salutem dicunt.",
+        "VulgConte (2009)": "(Hoc est exemplar epistolæ, quam miserunt ad eum) Artaxerxi regi, servi tui, viri qui sunt trans Fluvium, salutem dicunt.",
+        "VulgSistina (1590)": "(Hoc est exemplar epistolae, quam miserunt ad eum) Artaxerxi regi, servi tui, viri qui sunt trans Fluvium, salutem dicunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73531,
+      "verse": 12,
+      "critical_text": "Notum sit regi quia Judæi, qui ascenderunt a te ad nos, venerunt in Jerusalem civitatem rebellem et pessimam, quam ædificant exstruentes muros ejus, et parietes componentes.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Notum sit regi quia Judæi, qui ascenderunt a te ad nos, venerunt in Jerusalem civitatem rebellem et pessimam, quam ædificant exstruentes muros ejus, et parietes componentes.",
+        "Clem-Saints": "Notum sit regi quia Judæi, qui ascenderunt a te ad nos, venerunt in Jerusalem civitatem rebellem et pessimam, quam ædificant exstruentes muros ejus, et parietes componentes.",
+        "VulgHetzenauer (1906)": "Notum sit regi, quia Iudæi, qui ascenderunt a te ad nos, venerunt in Ierusalem civitatem rebellem et pessimam, quam ædificant extruentes muros eius, et parietes componentes.",
+        "VulgConte (2009)": "Notum sit regi, quia Iudæi, qui ascenderunt a te ad nos, venerunt in Ierusalem civitatem rebellem et pessimam, quam ædificant extruentes muros eius, et parietes componentes.",
+        "VulgSistina (1590)": "Notum sit regi, quia Iudaei, qui ascenderunt a te ad nos, venerunt in Ierusalem civitatem rebellem et pessimam, quam aedificant extruentes muros eius, et parietes componentes."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exstruentes / extruentes",
+            "exstruentes / extruentes",
+            "exstruentes / extruentes"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73532,
+      "verse": 13,
+      "critical_text": "Nunc igitur notum sit regi, quia si civitas illa ædificata fuerit, et muri ejus instaurati, tributum, et vectigal, et annuos reditus non dabunt, et usque ad reges hæc noxa perveniet.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nunc igitur notum sit regi, quia si civitas illa ædificata fuerit, et muri ejus instaurati, tributum, et vectigal, et annuos reditus non dabunt, et usque ad reges hæc noxa perveniet.",
+        "Clem-Saints": "Nunc igitur notum sit regi, quia si civitas illa ædificata fuerit, et muri ejus instaurati, tributum, et vectigal, et annuos reditus non dabunt, et usque ad reges hæc noxa perveniet.",
+        "VulgHetzenauer (1906)": "Nunc igitur notum sit regi, quia si civitas illa ædificata fuerit, et muri eius instaurati, tributum, et vectigal, et annuos reditus non dabunt, et usque ad reges hæc noxa perveniet.",
+        "VulgConte (2009)": "Nunc igitur notum sit regi, quia si civitas illa ædificata fuerit, et muri eius instaurati, tributum, et vectigal, et annuos reditus non dabunt, et usque ad reges hæc noxa perveniet.",
+        "VulgSistina (1590)": "Nunc igitur notum sit regi, quia si civitas illa aedificata fuerit, et muri eius instaurati, tributum, et vectigal, et annuos reditus non dabunt, et usque ad reges haec noxa perveniet."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73533,
+      "verse": 14,
+      "critical_text": "Nos autem memores salis, quod in palatio comedimus, et quia læsiones regis videre nefas ducimus, idcirco misimus et nuntiavimus regi,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nos autem memores salis, quod in palatio comedimus, et quia læsiones regis videre nefas ducimus, idcirco misimus et nuntiavimus regi,",
+        "Clem-Saints": "Nos autem memores salis, quod in palatio comedimus, et quia læsiones regis videre nefas ducimus, idcirco misimus et nuntiavimus regi,",
+        "VulgHetzenauer (1906)": "Nos autem memores salis, quod in palatio comedimus, et quia læsiones regis videre nefas ducimus, idcirco misimus et nunciavimus regi,",
+        "VulgConte (2009)": "Nos autem memores salis, quod in palatio comedimus, et quia læsiones regis videre nefas ducimus, idcirco misimus et nunciavimus regi,",
+        "VulgSistina (1590)": "Nos autem memores salis, quod in palatio comedimus, et quia laesiones regis videre nefas ducimus, idcirco misimus et nunciavimus regi,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntiavimus / nunciavimus",
+            "nuntiavimus / nunciavimus",
+            "nuntiavimus / nunciavimus"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73534,
+      "verse": 15,
+      "critical_text": "ut recenseas in libris historiarum patrum tuorum, et invenies scriptum in commentariis: et scies quoniam urbs illa, urbs rebellis est, et nocens regibus et provinciis, et bella concitantur in ea ex diebus antiquis: quam ob rem et civitas ipsa destructa est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ut recenseas in libris historiarum patrum tuorum, et invenies scriptum in commentariis: et scies quoniam urbs illa, urbs rebellis est, et nocens regibus et provinciis, et bella concitantur in ea ex diebus antiquis: quam ob rem et civitas ipsa destructa est.",
+        "Clem-Saints": "ut recenseas in libris historiarum patrum tuorum, et invenies scriptum in commentariis: et scies quoniam urbs illa, urbs rebellis est, et nocens regibus et provinciis, et bella concitantur in ea ex diebus antiquis: quam ob rem et civitas ipsa destructa est.",
+        "VulgHetzenauer (1906)": "ut recenseas in libris historiarum patrum tuorum, et invenies scriptum in commentariis: et scies quoniam urbs illa, urbs rebellis est, et nocens regibus et provinciis, et bella concitantur in ea ex diebus antiquis: quam ob rem et civitas ipsa destructa est.",
+        "VulgConte (2009)": "ut recenseas in libris historiarum patrum tuorum, et invenies scriptum in commentariis: et scies quoniam urbs illa, urbs rebellis est, et nocens regibus et provinciis, et bella concitantur in ea ex diebus antiquis: quam ob rem et civitas ipsa destructa est.",
+        "VulgSistina (1590)": "ut recenseas in libris historiarum patrum tuorum, et invenies scriptum in commentariis: et scies quoniam urbs illa, urbs rebellis est, et nocens regibus et provinciis, et bella concitantur in ea ex diebus antiquis: quam ob rem et civitas ipsa destructa est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73535,
+      "verse": 16,
+      "critical_text": "Nuntiamus nos regi, quoniam si civitas illa ædificata fuerit, et muri ipsius instaurati, possessionem trans fluvium non habebis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nuntiamus nos regi, quoniam si civitas illa ædificata fuerit, et muri ipsius instaurati, possessionem trans fluvium non habebis.",
+        "Clem-Saints": "Nuntiamus nos regi, quoniam si civitas illa ædificata fuerit, et muri ipsius instaurati, possessionem trans fluvium non habebis.",
+        "VulgHetzenauer (1906)": "Nunciamus nos regi, quoniam si civitas illa ædificata fuerit, et muri ipsius instaurati, possessionem trans Fluvium non habebis.",
+        "VulgConte (2009)": "Nunciamus nos regi, quoniam si civitas illa ædificata fuerit, et muri ipsius instaurati, possessionem trans Fluvium non habebis.",
+        "VulgSistina (1590)": "Nunciamus nos regi, quoniam si civitas illa aedificata fuerit, et muri ipsius instaurati, possessionem trans Fluvium non habebis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Nuntiamus / Nunciamus",
+            "Nuntiamus / Nunciamus",
+            "Nuntiamus / Nunciamus"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73536,
+      "verse": 17,
+      "critical_text": "Verbum misit rex ad Reum Beelteem, et Samsai scribam, et ad reliquos, qui erant in consilio eorum habitatores Samariæ, et ceteris trans fluvium, salutem dicens et pacem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Verbum misit rex ad Reum Beelteem, et Samsai scribam, et ad reliquos, qui erant in consilio eorum habitatores Samariæ, et ceteris trans fluvium, salutem dicens et pacem.",
+        "Clem-Saints": "Verbum misit rex ad Reum Beelteem, et Samsai scribam, et ad reliquos, qui erant in consilio eorum habitatores Samariæ, et ceteris trans fluvium, salutem dicens et pacem.",
+        "VulgHetzenauer (1906)": "Verbum misit rex ad Reum Beelteem, et Samsai scribam, et ad reliquos, qui erant in consilio eorum habitatores Samariæ, et ceteris trans Fluvium, salutem dicens et pacem.",
+        "VulgConte (2009)": "Verbum misit rex ad Reum Beelteem, et Samsai scribam, et ad reliquos, qui erant in consilio eorum habitatores Samariæ, et ceteris trans Fluvium, salutem dicens et pacem.",
+        "VulgSistina (1590)": "Verbum misit rex ad Reum Beelteem, et Samsai scribam, et ad reliquos, qui erant in consilio eorum habitatores Samariae, et ceteris trans Fluvium, salutem dicens et pacem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73537,
+      "verse": 18,
+      "critical_text": "Accusatio, quam misistis ad nos, manifeste lecta est coram me,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Accusatio, quam misistis ad nos, manifeste lecta est coram me,",
+        "Clem-Saints": "Accusatio, quam misistis ad nos, manifeste lecta est coram me,",
+        "VulgHetzenauer (1906)": "Accusatio, quam misistis ad nos, manifeste lecta est coram me.",
+        "VulgConte (2009)": "Accusatio, quam misistis ad nos, manifeste lecta est coram me.",
+        "VulgSistina (1590)": "Accusatio, quam misistis ad nos, manifeste lecta est coram me."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73538,
+      "verse": 19,
+      "critical_text": "et a me præceptum est: et recensuerunt, inveneruntque quoniam civitas illa a diebus antiquis adversum reges rebellat, et seditiones, et prælia concitantur in ea:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et a me præceptum est: et recensuerunt, inveneruntque quoniam civitas illa a diebus antiquis adversum reges rebellat, et seditiones, et prælia concitantur in ea:",
+        "Clem-Saints": "et a me præceptum est: et recensuerunt, inveneruntque quoniam civitas illa a diebus antiquis adversum reges rebellat, et seditiones, et prælia concitantur in ea:",
+        "VulgHetzenauer (1906)": "et a me præceptum est: et recensuerunt, inveneruntque quoniam civitas illa a diebus antiquis adversum reges rebellat, et seditiones, et prælia concitantur in ea:",
+        "VulgConte (2009)": "Et a me præceptum est: et recensuerunt, inveneruntque quoniam civitas illa a diebus antiquis adversum reges rebellat, et seditiones, et prælia concitantur in ea:",
+        "VulgSistina (1590)": "et a me praeceptum est: et recensuerunt, inveneruntque quoniam civitas illa a diebus antiquis adversum reges rebellat, et seditiones, et praelia concitantur in ea:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73539,
+      "verse": 20,
+      "critical_text": "nam et reges fortissimi fuerunt in Jerusalem, qui et dominati sunt omni regioni quæ trans fluvium est: tributum quoque et vectigal, et reditus accipiebant.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "nam et reges fortissimi fuerunt in Jerusalem, qui et dominati sunt omni regioni quæ trans fluvium est: tributum quoque et vectigal, et reditus accipiebant.",
+        "Clem-Saints": "nam et reges fortissimi fuerunt in Jerusalem, qui et dominati sunt omni regioni quæ trans fluvium est: tributum quoque et vectigal, et reditus accipiebant.",
+        "VulgHetzenauer (1906)": "nam et reges fortissimi fuerunt in Ierusalem, qui et dominati sunt omni regioni. quæ trans Fluvium est: tributum quoque et vectigal, et reditus accipiebant.",
+        "VulgConte (2009)": "nam et reges fortissimi fuerunt in Ierusalem, qui et dominati sunt omni regioni, quæ trans Fluvium est: tributum quoque et vectigal, et reditus accipiebant.",
+        "VulgSistina (1590)": "nam et reges fortissimi fuerunt in Ierusalem, qui et dominati sunt omni regioni. quae trans Fluvium est: tributum quoque et vectigal, et reditus accipiebant."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73540,
+      "verse": 21,
+      "critical_text": "Nunc ergo audite sententiam: prohibeatis viros illos, ut urbs illa non ædificetur donec si forte a me jussum fuerit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nunc ergo audite sententiam: prohibeatis viros illos, ut urbs illa non ædificetur donec si forte a me jussum fuerit.",
+        "Clem-Saints": "Nunc ergo audite sententiam: prohibeatis viros illos, ut urbs illa non ædificetur donec si forte a me jussum fuerit.",
+        "VulgHetzenauer (1906)": "Nunc ergo audite sententiam: Prohibeatis viros illos ut urbs illa non ædificetur, donec si forte a me iussum fuerit.",
+        "VulgConte (2009)": "Nunc ergo audite sententiam: Prohibeatis viros illos ut urbs illa non ædificetur, donec si forte a me iussum fuerit.",
+        "VulgSistina (1590)": "Nunc ergo audite sententiam: Prohibeatis viros illos ut urbs illa non aedificetur, donec si forte a me iussum fuerit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73541,
+      "verse": 22,
+      "critical_text": "Videte ne negligenter hoc impleatis, et paulatim crescat malum contra reges.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Videte ne negligenter hoc impleatis, et paulatim crescat malum contra reges.",
+        "Clem-Saints": "Videte ne negligenter hoc impleatis, et paulatim crescat malum contra reges.",
+        "VulgHetzenauer (1906)": "Videte ne negligenter hoc impleatis, et paulatim crescat malum contra reges.",
+        "VulgConte (2009)": "Videte ne negligenter hoc impleatis, et paulatim crescat malum contra reges.",
+        "VulgSistina (1590)": "Videte ne negligenter hoc impleatis, et paulatim crescat malum contra reges."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73542,
+      "verse": 23,
+      "critical_text": "Itaque exemplum edicti Artaxerxis regis lectum est coram Reum Beelteem, et Samsai scriba, et consiliariis eorum: et abierunt festini in Jerusalem ad Judæos, et prohibuerunt eos in brachio et robore.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Itaque exemplum edicti Artaxerxis regis lectum est coram Reum Beelteem, et Samsai scriba, et consiliariis eorum: et abierunt festini in Jerusalem ad Judæos, et prohibuerunt eos in brachio et robore.",
+        "Clem-Saints": "Itaque exemplum edicti Artaxerxis regis lectum est coram Reum Beelteem, et Samsai scriba, et consiliariis eorum: et abierunt festini in Jerusalem ad Judæos, et prohibuerunt eos in brachio et robore.",
+        "VulgHetzenauer (1906)": "Itaque exemplum edicti Artaxerxis regis lectum est coram Reum Beelteem, et Samsai scriba, et consiliariis eorum: et abierunt festini in Ierusalem ad Iudæos, et prohibuerunt eos in brachio et robore.",
+        "VulgConte (2009)": "Itaque exemplum edicti Artaxerxis regis lectum est coram Reum Beelteem, et Samsai scriba, et consiliariis eorum: et abierunt festini in Ierusalem ad Iudæos, et prohibuerunt eos in brachio et robore.",
+        "VulgSistina (1590)": "Itaque exemplum edicti Artaxerxis regis lectum est coram Reum Beelteem, et Samsai scriba, et consiliariis eorum: et abierunt festini in Ierusalem ad Iudaeos, et prohibuerunt eos in brachio et robore."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73543,
+      "verse": 24,
+      "critical_text": "Tunc intermissum est opus domus Domini in Jerusalem, et non fiebat usque ad annum secundum regni Darii regis Persarum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tunc intermissum est opus domus Domini in Jerusalem, et non fiebat usque ad annum secundum regni Darii regis Persarum.",
+        "Clem-Saints": "Tunc intermissum est opus domus Domini in Jerusalem, et non fiebat usque ad annum secundum regni Darii regis Persarum.",
+        "VulgHetzenauer (1906)": "Tunc intermissum est opus domus Domini in Ierusalem, et non fiebat usque ad annum secundum regni Darii regis Persarum.",
+        "VulgConte (2009)": "Tunc intermissum est opus domus Domini in Ierusalem, et non fiebat usque ad annum secundum regni Darii regis Persarum.",
+        "VulgSistina (1590)": "Tunc intermissum est opus domus Domini in Ierusalem, et non fiebat usque ad annum secundum regni Darii regis Persarum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

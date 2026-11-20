@@ -1,0 +1,1370 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "1-kings",
+  "book_title": "1 Kings (3 Kingdoms)",
+  "usfm_code": "1KI",
+  "chapter": 11,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:46Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "Clem1598-USFX: 4 verse(s) re-aligned by content (5←11:7, 6←11:5, 7←11:8, 8←11:6)",
+    "VulgHetzenauer (1906): 4 verse(s) re-aligned by content (5←11:7, 6←11:5, 7←11:8, 8←11:6)",
+    "VulgConte (2009): 4 verse(s) re-aligned by content (5←11:7, 6←11:5, 7←11:8, 8←11:6)",
+    "VulgSistina (1590): 4 verse(s) re-aligned by content (5←11:7, 6←11:5, 7←11:8, 8←11:6)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 70520,
+      "verse": 1,
+      "critical_text": "Rex autem Salomon adamavit mulieres alienigenas multas, filiam quoque Pharaonis, et Moabitidas, et Ammonitidas, Idumæas, et Sidonias, et Hethæas:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Rex autem Salomon adamavit mulieres alienigenas multas, filiam quoque Pharaonis, et Moabitidas, et Ammonitidas, Idumæas, et Sidonias, et Hethæas:",
+        "Clem-Saints": "Rex autem Salomon adamavit mulieres alienigenas multas, filiam quoque Pharaonis, et Moabitidas, et Ammonitidas, Idumæas, et Sidonias, et Hethæas:",
+        "VulgHetzenauer (1906)": "Rex autem Salomon adamavit mulieres alienigenas multas, filiam quoque Pharaonis, et Moabitidas, et Ammonitidas, Idumæas, et Sidonias, et Hetthæas:",
+        "VulgConte (2009)": "Rex autem Salomon adamavit mulieres alienigenas multas, filiam quoque Pharaonis, et Moabitidas, et Ammonitidas, Idumæas, et Sidonias, et Hethæas:",
+        "VulgSistina (1590)": "Rex autem Salomon adamavit mulieres alienigenas multas, filiam quoque Pharaonis, et Moabitidas, et Ammonitidas, Idumaeas, et Sidonias, et Cethaeas:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Hethæas:",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Cethaeas:",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 18,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "hethaeas",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Hethæas: / Hetthæas:"
+          ],
+          "witnesses": [
+            "VulgHetzenauer (1906)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70521,
+      "verse": 2,
+      "critical_text": "de gentibus super quibus dixit Dominus filiis Israël: Non ingrediemini ad eas, neque de illis ingredientur ad vestras: certissime enim avertent corda vestra ut sequamini deos earum. His itaque copulatus est Salomon ardentissimo amore.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "de gentibus super quibus dixit Dominus filiis Israël: Non ingrediemini ad eas, neque de illis ingredientur ad vestras: certissime enim avertent corda vestra ut sequamini deos earum. His itaque copulatus est Salomon ardentissimo amore.",
+        "Clem-Saints": "de gentibus super quibus dixit Dominus filiis Israël: Non ingrediemini ad eas, neque de illis ingredientur ad vestras: certissime enim avertent corda vestra ut sequamini deos earum. His itaque copulatus est Salomon ardentissimo amore.",
+        "VulgHetzenauer (1906)": "de gentibus, super quibus dixit Dominus filiis Israel: Non ingrediemini ad eas, neque de illis ingredientur ad vestras: certissime enim avertent corda vestra ut sequamini deos earum. His itaque copulatus est Salomon ardentissimo amore.",
+        "VulgConte (2009)": "de gentibus, super quibus dixit Dominus filiis Israel: Non ingrediemini ad eas, neque de illis ingredientur ad vestras: certissime enim avertent corda vestra ut sequamini deos earum. His itaque copulatus est Salomon ardentissimo amore.",
+        "VulgSistina (1590)": "de gentibus, super quibus dixit Dominus filiis Israel: Non ingrediemini ad eas, neque de illis ingredientur ad vestras: certissime enim avertent corda vestra ut sequamini deos earum. His itaque copulatus est Salomon ardentissimo amore."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70522,
+      "verse": 3,
+      "critical_text": "Fueruntque ei uxores quasi reginæ septingentæ, et concubinæ trecentæ: et averterunt mulieres cor ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fueruntque ei uxores quasi reginæ septingentæ, et concubinæ trecentæ: et averterunt mulieres cor ejus.",
+        "Clem-Saints": "Fueruntque ei uxores quasi reginæ septingentæ, et concubinæ trecentæ: et averterunt mulieres cor ejus.",
+        "VulgHetzenauer (1906)": "Fueruntque ei uxores quasi reginæ septingentæ, et concubinæ trecentæ: et averterunt mulieres cor eius.",
+        "VulgConte (2009)": "Fueruntque ei uxores quasi reginæ septingentæ, et concubinæ trecentæ: et averterunt mulieres cor eius.",
+        "VulgSistina (1590)": "Fueruntque ei uxores quasi reginae septingentae, et concubinae trecentae: et averterunt mulieres cor eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70523,
+      "verse": 4,
+      "critical_text": "Cumque jam esset senex, depravatum est cor ejus per mulieres, ut sequeretur deos alienos: nec erat cor ejus perfectum cum Domino Deo suo, sicut cor David patris ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque jam esset senex, depravatum est cor ejus per mulieres, ut sequeretur deos alienos: nec erat cor ejus perfectum cum Domino Deo suo, sicut cor David patris ejus.",
+        "Clem-Saints": "Cumque jam esset senex, depravatum est cor ejus per mulieres, ut sequeretur deos alienos: nec erat cor ejus perfectum cum Domino Deo suo, sicut cor David patris ejus.",
+        "VulgHetzenauer (1906)": "Cumque iam esset senex, depravatum est cor eius per mulieres, ut sequeretur deos alienos: nec erat cor eius perfectum cum Domino Deo suo, sicut cor David patris eius.",
+        "VulgConte (2009)": "Cumque iam esset senex, depravatum est cor eius per mulieres, ut sequeretur deos alienos: nec erat cor eius perfectum cum Domino Deo suo, sicut cor David patris eius.",
+        "VulgSistina (1590)": "Cumque iam esset senex, depravatum est cor eius per mulieres, ut sequeretur deos alienos: nec erat cor eius perfectum cum Domino Deo suo, sicut cor David patris eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70524,
+      "verse": 5,
+      "critical_text": "Tunc ædificavit Salomon fanum Chamos idolo Moab in monte qui est contra Jerusalem, et Moloch idolo filiorum Ammon.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tunc ædificavit Salomon fanum Chamos idolo Moab in monte qui est contra Jerusalem, et Moloch idolo filiorum Ammon.",
+        "Clem-Saints": "Tunc ædificavit Salomon fanum Chamos idolo Moab in monte qui est contra Jerusalem, et Moloch idolo filiorum Ammon.",
+        "VulgHetzenauer (1906)": "Tunc ædificavit Salomon fanum Chamos, idolo Moab, in monte qui est contra Ierusalem, et Moloch idolo filiorum Ammon.",
+        "VulgConte (2009)": "Tunc ædificavit Salomon fanum Chamos, idolo Moab, in monte qui est contra Ierusalem, et Moloch idolo filiorum Ammon.",
+        "VulgSistina (1590)": "Tunc aedificavit Salomon fanum Chamos, idolo Moab, in monte qui est contra Ierusalem, et Moloch idolo filiorum Ammon."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "11:7",
+        "VulgHetzenauer (1906)": "11:7",
+        "VulgConte (2009)": "11:7",
+        "VulgSistina (1590)": "11:7"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 11:7 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70525,
+      "verse": 6,
+      "critical_text": "Sed colebat Salomon Astarthen deam Sidoniorum, et Moloch idolum Ammonitarum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sed colebat Salomon Astarthen deam Sidoniorum, et Moloch idolum Ammonitarum.",
+        "Clem-Saints": "Sed colebat Salomon Astarthen deam Sidoniorum, et Moloch idolum Ammonitarum.",
+        "VulgHetzenauer (1906)": "Sed colebat Salomon Astarthen deam Sidoniorum, et Moloch idolum Ammonitarum.",
+        "VulgConte (2009)": "Sed colebat Salomon Astarthen deam Sidoniorum, et Moloch idolum Ammonitarum.",
+        "VulgSistina (1590)": "Sed colebat Salomon Astarthen deam Sidoniorum, et Chamos Deus Moabitarum, et Moloch idolum Ammonitarum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "11:5",
+        "VulgHetzenauer (1906)": "11:5",
+        "VulgConte (2009)": "11:5",
+        "VulgSistina (1590)": "11:5"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Chamos Deus Moabitarum, et",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 7,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 11:5 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70526,
+      "verse": 7,
+      "critical_text": "Atque in hunc modum fecit universis uxoribus suis alienigenis, quæ adolebant thura, et immolabant diis suis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Atque in hunc modum fecit universis uxoribus suis alienigenis, quæ adolebant thura, et immolabant diis suis.",
+        "Clem-Saints": "Atque in hunc modum fecit universis uxoribus suis alienigenis, quæ adolebant thura, et immolabant diis suis.",
+        "VulgHetzenauer (1906)": "Atque in hunc modum fecit universis uxoribus suis alienigenis, quæ adolebant thura, et immolabant diis suis.",
+        "VulgConte (2009)": "Atque in hunc modum fecit universis uxoribus suis alienigenis, quæ adolebant thura, et immolabant diis suis.",
+        "VulgSistina (1590)": "Atque in hunc modum fecit universis uxoribus suis alienigenis, quae adolebant thura, et immolabant diis suis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "11:8",
+        "VulgHetzenauer (1906)": "11:8",
+        "VulgConte (2009)": "11:8",
+        "VulgSistina (1590)": "11:8"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 11:8 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70527,
+      "verse": 8,
+      "critical_text": "Fecitque Salomon quod non placuerat coram Domino, et non adimplevit ut sequeretur Dominum sicut David pater ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fecitque Salomon quod non placuerat coram Domino, et non adimplevit ut sequeretur Dominum sicut David pater ejus.",
+        "Clem-Saints": "Fecitque Salomon quod non placuerat coram Domino, et non adimplevit ut sequeretur Dominum sicut David pater ejus.",
+        "VulgHetzenauer (1906)": "Fecitque Salomon quod non placuerat coram Domino, et non adimplevit ut sequeretur Dominum, sicut David pater eius.",
+        "VulgConte (2009)": "Fecitque Salomon quod non placuerat coram Domino, et non adimplevit ut sequeretur Dominum, sicut David pater eius.",
+        "VulgSistina (1590)": "Fecitque Salomon quod non placuerat coram Domino, et non adimplevit ut sequeretur Dominum, sicut David pater eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "11:6",
+        "VulgHetzenauer (1906)": "11:6",
+        "VulgConte (2009)": "11:6",
+        "VulgSistina (1590)": "11:6"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 11:6 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70528,
+      "verse": 9,
+      "critical_text": "Igitur iratus est Dominus Salomoni, quod aversa esset mens ejus a Domino Deo Israël, qui apparuerat ei secundo,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Igitur iratus est Dominus Salomoni, quod aversa esset mens ejus a Domino Deo Israël, qui apparuerat ei secundo,",
+        "Clem-Saints": "Igitur iratus est Dominus Salomoni, quod aversa esset mens ejus a Domino Deo Israël, qui apparuerat ei secundo,",
+        "VulgHetzenauer (1906)": "Igitur iratus est Dominus Salomoni, quod aversa esset mens eius a Domino Deo Israel, qui apparuerat ei secundo,",
+        "VulgConte (2009)": "Igitur iratus est Dominus Salomoni, quod aversa esset mens eius a Domino Deo Israel, qui apparuerat ei secundo,",
+        "VulgSistina (1590)": "Igitur iratus est Dominus Salomoni, quod aversa esset mens eius a Domino Deo Israel, qui apparuerat ei secundo,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70529,
+      "verse": 10,
+      "critical_text": "et præceperat de verbo hoc ne sequeretur deos alienos: et non custodivit quæ mandavit ei Dominus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et præceperat de verbo hoc ne sequeretur deos alienos: et non custodivit quæ mandavit ei Dominus.",
+        "Clem-Saints": "et præceperat de verbo hoc ne sequeretur deos alienos: et non custodivit quæ mandavit ei Dominus.",
+        "VulgHetzenauer (1906)": "et præceperat de verbo hoc ne sequeretur deos alienos, et non custodivit quæ mandavit ei Dominus.",
+        "VulgConte (2009)": "et præceperat de verbo hoc ne sequeretur deos alienos, et non custodivit quæ mandavit ei Dominus.",
+        "VulgSistina (1590)": "et praeceperat de verbo hoc ne sequeretur deos alienos, et non custodivit quae mandavit ei Dominus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70530,
+      "verse": 11,
+      "critical_text": "Dixit itaque Dominus Salomoni: Quia habuisti hoc apud te, et non custodisti pactum meum, et præcepta mea quæ mandavi tibi, disrumpens scindam regnum tuum, et dabo illud servo tuo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixit itaque Dominus Salomoni: Quia habuisti hoc apud te, et non custodisti pactum meum, et præcepta mea quæ mandavi tibi, disrumpens scindam regnum tuum, et dabo illud servo tuo.",
+        "Clem-Saints": "Dixit itaque Dominus Salomoni: Quia habuisti hoc apud te, et non custodisti pactum meum, et præcepta mea quæ mandavi tibi, disrumpens scindam regnum tuum, et dabo illud servo tuo.",
+        "VulgHetzenauer (1906)": "Dixit itaque Dominus Salomoni: Quia habuisti hoc apud te, et non custodisti pactum meum, et præcepta mea, quæ mandavi tibi, dirumpens scindam regnum tuum, et dabo illud servo tuo.",
+        "VulgConte (2009)": "Dixit itaque Dominus Salomoni: Quia habuisti hoc apud te, et non custodisti pactum meum, et præcepta mea, quæ mandavi tibi, dirumpens scindam regnum tuum, et dabo illud servo tuo.",
+        "VulgSistina (1590)": "Dixit itaque Dominus Salomoni: Quia habuisti hoc apud te, et non custodisti pactum meum, et praecepta mea, quae mandavi tibi, disrumpens scindam regnum tuum, et dabo illud servo tuo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "disrumpens",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "dirumpens",
+              "witnesses": [
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 20,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "disrumpens",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70531,
+      "verse": 12,
+      "critical_text": "Verumtamen in diebus tuis non faciam propter David patrem tuum: de manu filii tui scindam illud,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Verumtamen in diebus tuis non faciam propter David patrem tuum: de manu filii tui scindam illud,",
+        "Clem-Saints": "Verumtamen in diebus tuis non faciam propter David patrem tuum: de manu filii tui scindam illud,",
+        "VulgHetzenauer (1906)": "Verumtamen in diebus tuis non faciam propter David patrem tuum: de manu filii tui scindam illud,",
+        "VulgConte (2009)": "Verumtamen in diebus tuis non faciam propter David patrem tuum: de manu filii tui scindam illud,",
+        "VulgSistina (1590)": "Verumtamen in diebus tuis non faciam propter David patrem tuum: de manu filii tui scindam illud,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70532,
+      "verse": 13,
+      "critical_text": "nec totum regnum auferam, sed tribum unam dabo filio tuo propter David servum meum, et Jerusalem, quam elegi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "nec totum regnum auferam, sed tribum unam dabo filio tuo propter David servum meum, et Jerusalem, quam elegi.",
+        "Clem-Saints": "nec totum regnum auferam, sed tribum unam dabo filio tuo propter David servum meum, et Jerusalem, quam elegi.",
+        "VulgHetzenauer (1906)": "nec totum regnum auferam, sed tribum unam dabo filio tuo propter David servum meum, et Ierusalem quam elegi.",
+        "VulgConte (2009)": "nec totum regnum auferam, sed tribum unam dabo filio tuo propter David servum meum, et Ierusalem quam elegi.",
+        "VulgSistina (1590)": "nec totum regnum auferam, sed tribum unam dabo filio tuo propter David servum meum, et Ierusalem quam elegi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70533,
+      "verse": 14,
+      "critical_text": "Suscitavit autem Dominus adversarium Salomoni Adad Idumæum de semine regio, qui erat in Edom.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Suscitavit autem Dominus adversarium Salomoni Adad Idumæum de semine regio, qui erat in Edom.",
+        "Clem-Saints": "Suscitavit autem Dominus adversarium Salomoni Adad Idumæum de semine regio, qui erat in Edom.",
+        "VulgHetzenauer (1906)": "Suscitavit autem Dominus adversarium Salomoni Adad Idumæum de semine regio, qui erat in Edom.",
+        "VulgConte (2009)": "Suscitavit autem Dominus adversarium Salomoni Adad Idumæum de semine regio, qui erat in Edom.",
+        "VulgSistina (1590)": "Suscitavit autem Dominus adversarium Salomoni Adad Idumaeum de semine regio, qui erat in Edom."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70534,
+      "verse": 15,
+      "critical_text": "Cum enim esset David in Idumæa, et ascendisset Joab princeps militiæ ad sepeliendum eos qui fuerant interfecti, et occidisset omnem masculinum in Idumæa",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cum enim esset David in Idumæa, et ascendisset Joab princeps militiæ ad sepeliendum eos qui fuerant interfecti, et occidisset omnem masculinum in Idumæa",
+        "Clem-Saints": "Cum enim esset David in Idumæa, et ascendisset Joab princeps militiæ ad sepeliendum eos qui fuerant interfecti, et occidisset omnem masculinum in Idumæa",
+        "VulgHetzenauer (1906)": "Cum enim esset David in Idumæa, et ascendisset Ioab princeps militiæ ad sepeliendum eos, qui fuerant interfecti, et occidisset omnem masculinum in Idumæa",
+        "VulgConte (2009)": "Cum enim esset David in Idumæa, et ascendisset Ioab princeps militiæ ad sepeliendum eos, qui fuerant interfecti, et occidisset omnem masculinum in Idumæa",
+        "VulgSistina (1590)": "Cum enim esset David in Idumaea, et ascendisset Ioab princeps militiae ad sepeliendum eos, qui fuerant interfecti, et occidisset omnem masculinum in Idumaea"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70535,
+      "verse": 16,
+      "critical_text": "(sex enim mensibus ibi moratus est Joab, et omnis Israël, donec interimeret omne masculinum in Idumæa),",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "(sex enim mensibus ibi moratus est Joab, et omnis Israël, donec interimeret omne masculinum in Idumæa),",
+        "Clem-Saints": "(sex enim mensibus ibi moratus est Joab, et omnis Israël, donec interimeret omne masculinum in Idumæa),",
+        "VulgHetzenauer (1906)": "(sex enim mensibus ibi moratus est Ioad, et omnis Israel, donec interimeret omne masculinum in Idumæa)",
+        "VulgConte (2009)": "(sex enim mensibus ibi moratus est Ioad, et omnis Israel, donec interimeret omne masculinum in Idumæa)",
+        "VulgSistina (1590)": "(sex enim mensibus ibi moratus est Ioab, et omnis Israel, donec interimeret omne masculinum in Idumaea)"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Joab,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Ioad,",
+              "witnesses": [
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 6,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ioab",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70536,
+      "verse": 17,
+      "critical_text": "fugit Adad ipse, et viri Idumæi de servis patris ejus cum eo, ut ingrederetur Ægyptum: erat autem Adad puer parvulus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "fugit Adad ipse, et viri Idumæi de servis patris ejus cum eo, ut ingrederetur Ægyptum: erat autem Adad puer parvulus.",
+        "Clem-Saints": "fugit Adad ipse, et viri Idumæi de servis patris ejus cum eo, ut ingrederetur Ægyptum: erat autem Adad puer parvulus.",
+        "VulgHetzenauer (1906)": "fugit Adad ipse, et viri Idumæi de servis patris eius cum eo, ut ingrederetur Ægyptum: erat autem Adad puer parvulus.",
+        "VulgConte (2009)": "fugit Adad ipse, et viri Idumæi de servis patris eius cum eo, ut ingrederetur Ægyptum: erat autem Adad puer parvulus.",
+        "VulgSistina (1590)": "fugit Adad ipse, et viri Idumaei de servis patris eius cum eo, ut ingrederetur Aegyptum: erat autem Adad puer parvulus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70537,
+      "verse": 18,
+      "critical_text": "Cumque surrexissent de Madian, venerunt in Pharan, tuleruntque secum viros de Pharan, et introierunt Ægyptum ad Pharaonem regem Ægypti: qui dedit ei domum, et cibos constituit, et terram delegavit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque surrexissent de Madian, venerunt in Pharan, tuleruntque secum viros de Pharan, et introierunt Ægyptum ad Pharaonem regem Ægypti: qui dedit ei domum, et cibos constituit, et terram delegavit.",
+        "Clem-Saints": "Cumque surrexissent de Madian, venerunt in Pharan, tuleruntque secum viros de Pharan, et introierunt Ægyptum ad Pharaonem regem Ægypti: qui dedit ei domum, et cibos constituit, et terram delegavit.",
+        "VulgHetzenauer (1906)": "Cumque surrexissent de Madian, venerunt in Pharan, tuleruntque secum viros de Pharan, et introierunt Ægyptum ad Pharaonem regem Ægypti: qui dedit ei domum, et cibos constituit, et terram delegavit.",
+        "VulgConte (2009)": "Cumque surrexissent de Madian, venerunt in Pharan, tuleruntque secum viros de Pharan, et introierunt Ægyptum ad Pharaonem regem Ægypti: qui dedit ei domum, et cibos constituit, et terram delegavit.",
+        "VulgSistina (1590)": "Cumque surrexissent de Madian, venerunt in Pharan, tuleruntque secum viros de Pharan, et introierunt Aegyptum ad Pharaonem regem Aegypti: qui dedit ei domum, et cibos constituit, et terram delegavit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70538,
+      "verse": 19,
+      "critical_text": "Et invenit Adad gratiam coram Pharaone valde, in tantum ut daret ei uxorem sororem uxoris suæ germanam Taphnes reginæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et invenit Adad gratiam coram Pharaone valde, in tantum ut daret ei uxorem sororem uxoris suæ germanam Taphnes reginæ.",
+        "Clem-Saints": "Et invenit Adad gratiam coram Pharaone valde, in tantum ut daret ei uxorem sororem uxoris suæ germanam Taphnes reginæ.",
+        "VulgHetzenauer (1906)": "Et invenit Adad gratiam coram Pharaone valde, in tantum ut daret ei uxorem, sororem uxoris suæ germanam Taphnes reginæ.",
+        "VulgConte (2009)": "Et invenit Adad gratiam coram Pharaone valde, in tantum ut daret ei uxorem, sororem uxoris suæ germanam Taphnes reginæ.",
+        "VulgSistina (1590)": "Et invenit Adad gratiam coram Pharaone valde, in tantum ut daret ei uxorem, sororem uxoris suae germanam Taphnes reginae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70539,
+      "verse": 20,
+      "critical_text": "Genuitque ei soror Taphnes Genubath filium, et nutrivit eum Taphnes in domo Pharaonis: eratque Genubath habitans apud Pharaonem cum filiis ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Genuitque ei soror Taphnes Genubath filium, et nutrivit eum Taphnes in domo Pharaonis: eratque Genubath habitans apud Pharaonem cum filiis ejus.",
+        "Clem-Saints": "Genuitque ei soror Taphnes Genubath filium, et nutrivit eum Taphnes in domo Pharaonis: eratque Genubath habitans apud Pharaonem cum filiis ejus.",
+        "VulgHetzenauer (1906)": "Genuitque ei soror Taphnes Genubath filium, et nutrivit eum Taphnes in domo Pharaonis: eratque Genubath habitans apud Pharaonem cum filiis eius.",
+        "VulgConte (2009)": "Genuitque ei soror Taphnes Genubath filium, et nutrivit eum Taphnes in domo Pharaonis: eratque Genubath habitans apud Pharaonem cum filiis eius.",
+        "VulgSistina (1590)": "Genuitque ei soror Taphnes Genubath filium, et nutrivit eum Taphnes in domo Pharaonis: eratque Genubath habitans apud Pharaonem cum filiis eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70540,
+      "verse": 21,
+      "critical_text": "Cumque audisset Adad in Ægypto dormisse David cum patribus suis, et mortuum esse Joab principem militiæ, dixit Pharaoni: Dimitte me, ut vadam in terram meam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque audisset Adad in Ægypto dormisse David cum patribus suis, et mortuum esse Joab principem militiæ, dixit Pharaoni: Dimitte me, ut vadam in terram meam.",
+        "Clem-Saints": "Cumque audisset Adad in Ægypto dormisse David cum patribus suis, et mortuum esse Joab principem militiæ, dixit Pharaoni: Dimitte me, ut vadam in terram meam.",
+        "VulgHetzenauer (1906)": "Cumque audisset Adad in Ægypto, dormisse David cum patribus suis, et mortuum esse Ioab principem militiæ, dixit Pharaoni: Dimitte me, ut vadam in terram meam.",
+        "VulgConte (2009)": "Cumque audisset Adad in Ægypto, dormisse David cum patribus suis, et mortuum esse Ioab principem militiæ, dixit Pharaoni: Dimitte me, ut vadam in terram meam.",
+        "VulgSistina (1590)": "Cumque audisset Adad in Aegypto, dormisse David cum patribus suis, et mortuum esse Ioab principem militiae, dixit Pharaoni: Dimitte me, ut vadam in terram meam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70541,
+      "verse": 22,
+      "critical_text": "Dixitque ei Pharao: Qua enim re apud me indiges, ut quæras ire ad terram tuam? At ille respondit: Nulla: sed obsecro te ut dimittas me.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque ei Pharao: Qua enim re apud me indiges, ut quæras ire ad terram tuam? At ille respondit: Nulla: sed obsecro te ut dimittas me.",
+        "Clem-Saints": "Dixitque ei Pharao: Qua enim re apud me indiges, ut quæras ire ad terram tuam? At ille respondit: Nulla: sed obsecro te ut dimittas me.",
+        "VulgHetzenauer (1906)": "Dixitque ei Pharao: Qua enim re apud me indiges, ut quæras ire ad terram tuam? At ille respondit: Nulla: sed obsecro te ut dimittas me.",
+        "VulgConte (2009)": "Dixitque ei Pharao: Qua enim re apud me indiges, ut quæras ire ad terram tuam? At ille respondit: Nulla: sed obsecro te ut dimittas me.",
+        "VulgSistina (1590)": "Dixitque ei Pharao: Qua enim re apud me indiges, ut quaeras ire ad terram tuam? At ille respondit: Nulla: sed obsecro te ut dimittas me."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70542,
+      "verse": 23,
+      "critical_text": "Suscitavit quoque ei Deus adversarium Razon filium Eliada, qui fugerat Adarezer regem Soba dominum suum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Suscitavit quoque ei Deus adversarium Razon filium Eliada, qui fugerat Adarezer regem Soba dominum suum:",
+        "Clem-Saints": "Suscitavit quoque ei Deus adversarium Razon filium Eliada, qui fugerat Adarezer regem Soba dominum suum:",
+        "VulgHetzenauer (1906)": "Suscitavit quoque ei Deus adversarium Razon filium Eliada, qui fugerat Adarezer regem Soba dominum suum:",
+        "VulgConte (2009)": "Suscitavit quoque ei Deus adversarium Razon filium Eliada, qui fugerat Adarezer regem Soba dominum suum:",
+        "VulgSistina (1590)": "Suscitavit quoque ei Deus adversarium Razon filium Eliada, qui fugerat Adarezer regem Soba dominum suum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70543,
+      "verse": 24,
+      "critical_text": "et congregavit contra eum viros, et factus est princeps latronum cum interficeret eos David: abieruntque Damascum, et habitaverunt ibi, et constituerunt eum regem in Damasco:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et congregavit contra eum viros, et factus est princeps latronum cum interficeret eos David: abieruntque Damascum, et habitaverunt ibi, et constituerunt eum regem in Damasco:",
+        "Clem-Saints": "et congregavit contra eum viros, et factus est princeps latronum cum interficeret eos David: abieruntque Damascum, et habitaverunt ibi, et constituerunt eum regem in Damasco:",
+        "VulgHetzenauer (1906)": "et congregavit contra eum viros, et factus est princeps latronum cum interficeret eos David: abieruntque Damascum, et habitaverunt ibi, et constituerunt eum regem in Damasco,",
+        "VulgConte (2009)": "et congregavit contra eum viros, et factus est princeps latronum cum interficeret eos David: abieruntque Damascum, et habitaverunt ibi, et constituerunt eum regem in Damasco,",
+        "VulgSistina (1590)": "et congregavit contra eum viros, et factus est princeps latronum cum interficeret eos David: abieruntque Damascum, et habitaverunt ibi, et constituerunt eum regem in Damasco,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70544,
+      "verse": 25,
+      "critical_text": "eratque adversarius Israëli cunctis diebus Salomonis: et hoc est malum Adad, et odium contra Israël: regnavitque in Syria.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "eratque adversarius Israëli cunctis diebus Salomonis: et hoc est malum Adad, et odium contra Israël: regnavitque in Syria.",
+        "Clem-Saints": "eratque adversarius Israëli cunctis diebus Salomonis: et hoc est malum Adad, et odium contra Israël: regnavitque in Syria.",
+        "VulgHetzenauer (1906)": "eratque adversarius Israeli cunctis diebus Salomonis: et hoc est malum Adad, et odium contra Israel, regnavitque in Syria.",
+        "VulgConte (2009)": "eratque adversarius Israeli cunctis diebus Salomonis: et hoc est malum Adad, et odium contra Israel, regnavitque in Syria.",
+        "VulgSistina (1590)": "eratque adversarius Israeli cunctis diebus Salomonis: et hoc est malum Adad, et odium contra Israel, regnavitque in Syria."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70545,
+      "verse": 26,
+      "critical_text": "Jeroboam quoque filius Nabat, Ephrathæus, de Sareda, servus Salomonis, cujus mater erat nomine Sarva, mulier vidua, levavit manum contra regem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Jeroboam quoque filius Nabat, Ephrathæus, de Sareda, servus Salomonis, cujus mater erat nomine Sarva, mulier vidua, levavit manum contra regem.",
+        "Clem-Saints": "Jeroboam quoque filius Nabat, Ephrathæus, de Sareda, servus Salomonis, cujus mater erat nomine Sarva, mulier vidua, levavit manum contra regem.",
+        "VulgHetzenauer (1906)": "Ieroboam quoque filius Nabat, Ephrathæus, de Sareda, servus Salomonis, cuius mater erat nomine Sarva, mulier vidua: levavit manum contra regem.",
+        "VulgConte (2009)": "Ieroboam quoque filius Nabat, Ephrathæus, de Sareda, servus Salomonis, cuius mater erat nomine Sarva, mulier vidua: levavit manum contra regem.",
+        "VulgSistina (1590)": "Ieroboam quoque filius Nabat, Ephrathaeus, de Sareda, servus Salomonis, cuius mater erat nomine Sarva, mulier vidua: levavit manum contra regem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70546,
+      "verse": 27,
+      "critical_text": "Et hæc est causa rebellionis adversus eum, quia Salomon ædificavit Mello, et coæquavit voraginem civitatis David patris sui.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et hæc est causa rebellionis adversus eum, quia Salomon ædificavit Mello, et coæquavit voraginem civitatis David patris sui.",
+        "Clem-Saints": "Et hæc est causa rebellionis adversus eum, quia Salomon ædificavit Mello, et coæquavit voraginem civitatis David patris sui.",
+        "VulgHetzenauer (1906)": "Et hæc est causa rebellionis adversus eum, quia Salomon ædificavit Mello, et coæquavit voraginem civitatis David patris sui.",
+        "VulgConte (2009)": "Et hæc est causa rebellionis adversus eum, quia Salomon ædificavit Mello, et coæquavit voraginem civitatis David patris sui.",
+        "VulgSistina (1590)": "Et haec est causa rebellionis adversus eum, quia Salomon aedificavit Mello, et coaequavit voraginem civitatis David patris sui."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70547,
+      "verse": 28,
+      "critical_text": "Erat autem Jeroboam vir fortis et potens: vidensque Salomon adolescentem bonæ indolis et industrium, constituerat eum præfectum super tributa universæ domus Joseph.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Erat autem Jeroboam vir fortis et potens: vidensque Salomon adolescentem bonæ indolis et industrium, constituerat eum præfectum super tributa universæ domus Joseph.",
+        "Clem-Saints": "Erat autem Jeroboam vir fortis et potens: vidensque Salomon adolescentem bonæ indolis et industrium, constituerat eum præfectum super tributa universæ domus Joseph.",
+        "VulgHetzenauer (1906)": "Erat autem Ieroboam vir fortis et potens: vidensque Salomon adolescentem bonæ indolis et industrium, constituerat eum præfectum super tributa universæ domus Ioseph.",
+        "VulgConte (2009)": "Erat autem Ieroboam vir fortis et potens: vidensque Salomon adolescentem bonæ indolis et industrium, constituerat eum præfectum super tributa universæ domus Ioseph.",
+        "VulgSistina (1590)": "Erat autem Ieroboam vir fortis et potens: vidensque Salomon adolescentem bonae indolis et industrium, constituerat eum praefectum super tributa universae domus Ioseph."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70548,
+      "verse": 29,
+      "critical_text": "Factum est igitur in tempore illo, ut Jeroboam egrederetur de Jerusalem, et inveniret eum Ahias Silonites propheta in via, opertus pallio novo: erant autem duo tantum in agro.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Factum est igitur in tempore illo, ut Jeroboam egrederetur de Jerusalem, et inveniret eum Ahias Silonites propheta in via, opertus pallio novo: erant autem duo tantum in agro.",
+        "Clem-Saints": "Factum est igitur in tempore illo, ut Jeroboam egrederetur de Jerusalem, et inveniret eum Ahias Silonites propheta in via, opertus pallio novo: erant autem duo tantum in agro.",
+        "VulgHetzenauer (1906)": "Factum est igitur in tempore illo, ut Ieroboam egrederetur de Ierusalem, et inveniret eum Ahias Silonites propheta in via, opertus pallio novo: erant autem duo tantum in agro.",
+        "VulgConte (2009)": "Factum est igitur in tempore illo, ut Ieroboam egrederetur de Ierusalem, et inveniret eum Ahias Silonites propheta in via, opertus pallio novo: erant autem duo tantum in agro.",
+        "VulgSistina (1590)": "Factum est igitur in tempore illo, ut Ieroboam egrederetur de Ierusalem, et inveniret eum Ahias Silonites propheta in via, opertus pallio novo: erant autem duo tantum in agro."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70549,
+      "verse": 30,
+      "critical_text": "Apprehendensque Ahias pallium suum novum quo coopertus erat, scidit in duodecim partes.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Apprehendensque Ahias pallium suum novum quo coopertus erat, scidit in duodecim partes.",
+        "Clem-Saints": "Apprehendensque Ahias pallium suum novum quo coopertus erat, scidit in duodecim partes.",
+        "VulgHetzenauer (1906)": "Apprehendensque Ahias pallium suum novum, quo coopertus erat, scidit in duodecim partes.",
+        "VulgConte (2009)": "Apprehendensque Ahias pallium suum novum, quo coopertus erat, scidit in duodecim partes.",
+        "VulgSistina (1590)": "Apprehendensque Ahias pallium suum novum, quo coopertus erat, scidit in duodecim partes."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70550,
+      "verse": 31,
+      "critical_text": "Et ait ad Jeroboam: Tolle tibi decem scissuras: hæc enim dicit Dominus Deus Israël: Ecce ego scindam regnum de manu Salomonis, et dabo tibi decem tribus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ait ad Jeroboam: Tolle tibi decem scissuras: hæc enim dicit Dominus Deus Israël: Ecce ego scindam regnum de manu Salomonis, et dabo tibi decem tribus.",
+        "Clem-Saints": "Et ait ad Jeroboam: Tolle tibi decem scissuras: hæc enim dicit Dominus Deus Israël: Ecce ego scindam regnum de manu Salomonis, et dabo tibi decem tribus.",
+        "VulgHetzenauer (1906)": "Et ait ad Ieroboam: Tolle tibi decem scissuras: hæc enim dicit Dominus Deus Israel: Ecce ego scindam regnum de manu Salomonis, et dabo tibi decem tribus.",
+        "VulgConte (2009)": "Et ait ad Ieroboam: Tolle tibi decem scissuras: hæc enim dicit Dominus Deus Israel: Ecce ego scindam regnum de manu Salomonis, et dabo tibi decem tribus.",
+        "VulgSistina (1590)": "Et ait ad Ieroboam: Tolle tibi decem scissuras: haec enim dicit Dominus Deus Israel: Ecce ego scindam regnum de manu Salomonis, et dabo tibi decem tribus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70551,
+      "verse": 32,
+      "critical_text": "Porro una tribus remanebit ei propter servum meum David, et Jerusalem civitatem, quam elegi ex omnibus tribubus Israël:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Porro una tribus remanebit ei propter servum meum David, et Jerusalem civitatem, quam elegi ex omnibus tribubus Israël:",
+        "Clem-Saints": "Porro una tribus remanebit ei propter servum meum David, et Jerusalem civitatem, quam elegi ex omnibus tribubus Israël:",
+        "VulgHetzenauer (1906)": "Porro una tribus remanebit ei propter servum meum David, et Ierusalem civitatem, quam elegi ex omnibus tribubus Israel:",
+        "VulgConte (2009)": "Porro una tribus remanebit ei propter servum meum David, et Ierusalem civitatem, quam elegi ex omnibus tribubus Israel:",
+        "VulgSistina (1590)": "Porro una tribus remanebit ei propter servum meum David, et Ierusalem civitatem, quam elegi ex omnibus tribubus Israel:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70552,
+      "verse": 33,
+      "critical_text": "eo quod dereliquerit me, et adoraverit Astarthen deam Sidoniorum, et Chamos deum Moab, et Moloch deum filiorum Ammon: et non ambulaverit in viis meis, ut faceret justitiam coram me, et præcepta mea et judicia, sicut David pater ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "eo quod dereliquerit me, et adoraverit Astarthen deam Sidoniorum, et Chamos deum Moab, et Moloch deum filiorum Ammon: et non ambulaverit in viis meis, ut faceret justitiam coram me, et præcepta mea et judicia, sicut David pater ejus.",
+        "Clem-Saints": "eo quod dereliquerit me, et adoraverit Astarthen deam Sidoniorum, et Chamos deum Moab, et Moloch deum filiorum Ammon: et non ambulaverit in viis meis, ut faceret justitiam coram me, et præcepta mea et judicia, sicut David pater ejus.",
+        "VulgHetzenauer (1906)": "eo quod dereliquerit me, et adoraverit Astarthen deam Sidoniorum, et Chamos deum Moab, et Moloch deum filiorum Ammon: et non ambulaverit in viis meis, ut faceret iustitiam coram me, et præcepta mea, et iudicia sicut David pater eius.",
+        "VulgConte (2009)": "eo quod dereliquerit me, et adoraverit Astarthen deam Sidoniorum, et Chamos deum Moab, et Moloch deum filiorum Ammon: et non ambulaverit in viis meis, ut faceret iustitiam coram me, et præcepta mea, et iudicia sicut David pater eius.",
+        "VulgSistina (1590)": "eo quod dereliquerit me, et adoraverit Astarthen deam Sidoniorum, et Chamos deum Moab, et Moloch deum filiorum Ammon: et non ambulaverit in viis meis, ut faceret iustitiam coram me, et praecepta mea, et iudicia sicut David pater eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70553,
+      "verse": 34,
+      "critical_text": "Nec auferam omne regnum de manu ejus, sed ducem ponam eum cunctis diebus vitæ suæ, propter David servum meum quem elegi, qui custodivit mandata mea et præcepta mea.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nec auferam omne regnum de manu ejus, sed ducem ponam eum cunctis diebus vitæ suæ, propter David servum meum quem elegi, qui custodivit mandata mea et præcepta mea.",
+        "Clem-Saints": "Nec auferam omne regnum de manu ejus, sed ducem ponam eum cunctis diebus vitæ suæ, propter David servum meum quem elegi, qui custodivit mandata mea et præcepta mea.",
+        "VulgHetzenauer (1906)": "Nec auferam omne regnum de manu eius, sed ducem ponam eum cunctis diebus vitæ suæ, propter David servum meum, quem elegi, qui custodivit mandata mea et præcepta mea.",
+        "VulgConte (2009)": "Nec auferam omne regnum de manu eius, sed ducem ponam eum cunctis diebus vitæ suæ, propter David servum meum, quem elegi, qui custodivit mandata mea et præcepta mea.",
+        "VulgSistina (1590)": "Nec auferam omne regnum de manu eius, sed ducem ponam eum cunctis diebus vitae suae, propter David servum meum, quem elegi, qui custodivit mandata mea et praecepta mea."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70554,
+      "verse": 35,
+      "critical_text": "Auferam autem regnum de manu filii ejus, et dabo tibi decem tribus:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Auferam autem regnum de manu filii ejus, et dabo tibi decem tribus:",
+        "Clem-Saints": "Auferam autem regnum de manu filii ejus, et dabo tibi decem tribus:",
+        "VulgHetzenauer (1906)": "Auferam autem regnum de manu filii eius, et dabo tibi decem tribus:",
+        "VulgConte (2009)": "Auferam autem regnum de manu filii eius, et dabo tibi decem tribus:",
+        "VulgSistina (1590)": "Auferam autem regnum de manu filii eius, et dabo tibi decem tribus:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70555,
+      "verse": 36,
+      "critical_text": "filio autem ejus dabo tribum unam, ut remaneat lucerna David servo meo cunctis diebus coram me in Jerusalem civitate, quam elegi ut esset nomen meum ibi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "filio autem ejus dabo tribum unam, ut remaneat lucerna David servo meo cunctis diebus coram me in Jerusalem civitate, quam elegi ut esset nomen meum ibi.",
+        "Clem-Saints": "filio autem ejus dabo tribum unam, ut remaneat lucerna David servo meo cunctis diebus coram me in Jerusalem civitate, quam elegi ut esset nomen meum ibi.",
+        "VulgHetzenauer (1906)": "filio autem eius dabo tribum unam, ut remaneat lucerna David servo meo cunctis diebus coram me in Ierusalem civitate, quam elegi ut esset nomen meum ibi.",
+        "VulgConte (2009)": "filio autem eius dabo tribum unam, ut remaneat lucerna David servo meo cunctis diebus coram me in Ierusalem civitate, quam elegi ut esset nomen meum ibi.",
+        "VulgSistina (1590)": "filio autem eius dabo tribum unam, ut remaneat lucerna David servo meo cunctis diebus coram me in Ierusalem civitate, quam elegi ut esset nomen meum ibi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70556,
+      "verse": 37,
+      "critical_text": "Te autem assumam, et regnabis super omnia quæ desiderat anima tua, erisque rex super Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Te autem assumam, et regnabis super omnia quæ desiderat anima tua, erisque rex super Israël.",
+        "Clem-Saints": "Te autem assumam, et regnabis super omnia quæ desiderat anima tua, erisque rex super Israël.",
+        "VulgHetzenauer (1906)": "Te autem assumam, et regnabis super omnia, quæ desiderat anima tua, erisque rex super Israel.",
+        "VulgConte (2009)": "Te autem assumam, et regnabis super omnia, quæ desiderat anima tua, erisque rex super Israel.",
+        "VulgSistina (1590)": "Te autem assumam, et regnabis super omnia, quae desiderat anima tua, erisque rex super Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70557,
+      "verse": 38,
+      "critical_text": "Si igitur audieris omnia quæ præcepero tibi, et ambulaveris in viis meis, et feceris quod rectum est coram me, custodiens mandata mea et præcepta mea, sicut fecit David servus meus: ero tecum, et ædificabo tibi domum fidelem, quomodo ædificavi David domum: et tradam tibi Israël:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si igitur audieris omnia quæ præcepero tibi, et ambulaveris in viis meis, et feceris quod rectum est coram me, custodiens mandata mea et præcepta mea, sicut fecit David servus meus: ero tecum, et ædificabo tibi domum fidelem, quomodo ædificavi David domum: et tradam tibi Israël:",
+        "Clem-Saints": "Si igitur audieris omnia quæ præcepero tibi, et ambulaveris in viis meis, et feceris quod rectum est coram me, custodiens mandata mea et præcepta mea, sicut fecit David servus meus: ero tecum, et ædificabo tibi domum fidelem, quomodo ædificavi David domum: et tradam tibi Israël:",
+        "VulgHetzenauer (1906)": "Si igitur audieris omnia, quæ præcepero tibi, et ambulaveris in viis meis, et feceris quod rectum est coram me, custodiens mandata mea et præcepta mea, sicut fecit David servus meus: ero tecum, et ædificabo tibi domum fidelem, quomodo ædificavi David domum, et tradam tibi Israel:",
+        "VulgConte (2009)": "Si igitur audieris omnia, quæ præcepero tibi, et ambulaveris in viis meis, et feceris quod rectum est coram me, custodiens mandata mea et præcepta mea, sicut fecit David servus meus: ero tecum, et ædificabo tibi domum fidelem, quomodo ædificavi David domum, et tradam tibi Israel:",
+        "VulgSistina (1590)": "Si igitur audieris omnia, quae praecepero tibi, et ambulaveris in viis meis, et feceris quod rectum est coram me, custodiens mandata mea et praecepta mea, sicut fecit David servus meus: ero tecum, et aedificabo tibi domum fidelem, quomodo aedificavi David domum, et tradam tibi Israel:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70558,
+      "verse": 39,
+      "critical_text": "et affligam semen David super hoc, verumtamen non cunctis diebus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et affligam semen David super hoc, verumtamen non cunctis diebus.",
+        "Clem-Saints": "et affligam semen David super hoc, verumtamen non cunctis diebus.",
+        "VulgHetzenauer (1906)": "et affligam semen David super hoc, verumtamen non cunctis diebus.",
+        "VulgConte (2009)": "et affligam semen David super hoc, verumtamen non cunctis diebus.",
+        "VulgSistina (1590)": "et affligam semen David super hoc, verumtamen non cunctis diebus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70559,
+      "verse": 40,
+      "critical_text": "Voluit ergo Salomon interficere Jeroboam: qui surrexit, et aufugit in Ægyptum ad Sesac regem Ægypti, et fuit in Ægypto usque ad mortem Salomonis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Voluit ergo Salomon interficere Jeroboam: qui surrexit, et aufugit in Ægyptum ad Sesac regem Ægypti, et fuit in Ægypto usque ad mortem Salomonis.",
+        "Clem-Saints": "Voluit ergo Salomon interficere Jeroboam: qui surrexit, et aufugit in Ægyptum ad Sesac regem Ægypti, et fuit in Ægypto usque ad mortem Salomonis.",
+        "VulgHetzenauer (1906)": "Voluit ergo Salomon interficere Ieroboam: qui surrexit, et aufugit in Ægyptum ad Sesac regem Ægypti, et fuit in Ægypto usque ad mortem Salomonis.",
+        "VulgConte (2009)": "Voluit ergo Salomon interficere Ieroboam: qui surrexit, et aufugit in Ægyptum ad Sesac regem Ægypti, et fuit in Ægypto usque ad mortem Salomonis.",
+        "VulgSistina (1590)": "Voluit ergo Salomon interficere Ieroboam: qui surrexit, et aufugit in Aegyptum ad Sesac regem Aegypti, et fuit in Aegypto usque ad mortem Salomonis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70560,
+      "verse": 41,
+      "critical_text": "Reliquum autem verborum Salomonis, et omnia quæ fecit, et sapientia ejus, ecce universa scripta sunt in libro verborum dierum Salomonis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Reliquum autem verborum Salomonis, et omnia quæ fecit, et sapientia ejus, ecce universa scripta sunt in libro verborum dierum Salomonis.",
+        "Clem-Saints": "Reliquum autem verborum Salomonis, et omnia quæ fecit, et sapientia ejus, ecce universa scripta sunt in libro verborum dierum Salomonis.",
+        "VulgHetzenauer (1906)": "Reliquum autem verborum Salomonis, et omnia quæ fecit, et sapientia eius: ecce universa scripta sunt in Libro verborum dierum Salomonis.",
+        "VulgConte (2009)": "Reliquum autem verborum Salomonis, et omnia quæ fecit, et sapientia eius: ecce universa scripta sunt in Libro verborum dierum Salomonis.",
+        "VulgSistina (1590)": "Reliquum autem verborum Salomonis, et omnia quae fecit, et sapientia eius: ecce universa scripta sunt in Libro verborum dierum Salomonis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70561,
+      "verse": 42,
+      "critical_text": "Dies autem quos regnavit Salomon in Jerusalem super omnem Israël, quadraginta anni sunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dies autem quos regnavit Salomon in Jerusalem super omnem Israël, quadraginta anni sunt.",
+        "Clem-Saints": "Dies autem quos regnavit Salomon in Jerusalem super omnem Israël, quadraginta anni sunt.",
+        "VulgHetzenauer (1906)": "Dies autem, quos regnavit Salomon in Ierusalem super omnem Israel, quadraginta anni sunt.",
+        "VulgConte (2009)": "Dies autem, quos regnavit Salomon in Ierusalem super omnem Israel, quadraginta anni sunt.",
+        "VulgSistina (1590)": "Dies autem, quos regnavit Salomon in Ierusalem super omnem Israel, quadraginta anni sunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 70562,
+      "verse": 43,
+      "critical_text": "Dormivitque Salomon cum patribus suis, et sepultus est in civitate David patris sui: regnavitque Roboam filius ejus pro eo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dormivitque Salomon cum patribus suis, et sepultus est in civitate David patris sui: regnavitque Roboam filius ejus pro eo.",
+        "Clem-Saints": "Dormivitque Salomon cum patribus suis, et sepultus est in civitate David patris sui: regnavitque Roboam filius ejus pro eo.",
+        "VulgHetzenauer (1906)": "Dormivitque Salomon cum patribus suis, et sepultus est in Civitate David patris sui, regnavitque Roboam filius eius pro eo.",
+        "VulgConte (2009)": "Dormivitque Salomon cum patribus suis, et sepultus est in Civitate David patris sui, regnavitque Roboam filius eius pro eo.",
+        "VulgSistina (1590)": "Dormivitque Salomon cum patribus suis, et sepultus est in Civitate David patris sui, regnavitque Roboam filius eius pro eo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

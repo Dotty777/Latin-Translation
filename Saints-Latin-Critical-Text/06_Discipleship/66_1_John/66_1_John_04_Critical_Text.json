@@ -1,0 +1,867 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "06_Discipleship",
+  "book_slug": "1-john",
+  "book_title": "1 John",
+  "usfm_code": "1JN",
+  "chapter": 4,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:18:50Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 95438,
+      "verse": 1,
+      "critical_text": "Carissimi, nolite omni spiritui credere, sed probate spiritus si ex Deo sint: quoniam multi pseudoprophetæ exierunt in mundum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Carissimi, nolite omni spiritui credere, sed probate spiritus si ex Deo sint: quoniam multi pseudoprophetæ exierunt in mundum.",
+        "Clem-Saints": "Carissimi , nolite omni spiritui credere, sed probate spiritus si ex Deo sint: quoniam multi pseudoprophetæ exierunt in mundum.",
+        "VulgHetzenauer (1906)": "Charissimi, nolite omni spiritui credere, sed probate spiritus si ex Deo sint: quoniam multi pseudoprophetæ exierunt in mundum.",
+        "VulgConte (2009)": "Charissimi, nolite omni spiritui credere, sed probate spiritus si ex Deo sint: quoniam multi pseudoprophetæ exierunt in mundum.",
+        "VulgSistina (1590)": "Charissimi, nolite omni spiritui credere, sed probate spiritus si ex Deo sint: quoniam multi pseudoprophetae exierunt in mundum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Carissimi,",
+          "disregarded_forms": [
+            "Carissimi"
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Carissimi, / Charissimi,",
+            "Carissimi, / Charissimi,",
+            "Carissimi, / Charissimi,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95439,
+      "verse": 2,
+      "critical_text": "In hoc cognoscitur Spiritus Dei: omnis spiritus qui confitetur Jesum Christum in carne venisse, ex Deo est:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In hoc cognoscitur Spiritus Dei: omnis spiritus qui confitetur Jesum Christum in carne venisse, ex Deo est:",
+        "Clem-Saints": "In hoc cognoscitur Spiritus Dei: omnis spiritus qui confitetur Jesum Christum in carne venisse, ex Deo est:",
+        "VulgHetzenauer (1906)": "in hoc cognoscitur spiritus Dei: omnis spiritus qui confitetur Iesum Christum in carne venisse, ex Deo est:",
+        "VulgConte (2009)": "in hoc cognoscitur Spiritus Dei: omnis spiritus qui confitetur Iesum Christum in carne venisse, ex Deo est:",
+        "VulgSistina (1590)": "in hoc cognoscitur spiritus Dei: omnis spiritus qui confitetur Iesum Christum in carne venisse, ex Deo est:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95440,
+      "verse": 3,
+      "critical_text": "et omnis spiritus qui solvit Jesum, ex Deo non est, et hic est antichristus, de quo audistis quoniam venit, et nunc jam in mundo est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et omnis spiritus qui solvit Jesum, ex Deo non est, et hic est antichristus, de quo audistis quoniam venit, et nunc jam in mundo est.",
+        "Clem-Saints": "et omnis spiritus qui solvit Jesum, ex Deo non est, et hic est antichristus, de quo audistis quoniam venit, et nunc jam in mundo est.",
+        "VulgHetzenauer (1906)": "et omnis spiritus, qui solvit Iesum, ex Deo non est, et hic est Antichristus, de quo audistis quoniam venit, et nunc iam in mundo est.",
+        "VulgConte (2009)": "et omnis spiritus, qui solvit Iesum, ex Deo non est, et hic est Antichristus, de quo audistis quoniam venit, et nunc iam in mundo est.",
+        "VulgSistina (1590)": "et omnis spiritus, qui solvit Iesum, ex Deo non est, et hic est Antichristus, de quo audistis quoniam venit, et nunc iam in mundo est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95441,
+      "verse": 4,
+      "critical_text": "Vos ex Deo estis filioli, et vicistis eum, quoniam major est qui in vobis est, quam qui in mundo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Vos ex Deo estis filioli, et vicistis eum, quoniam major est qui in vobis est, quam qui in mundo.",
+        "Clem-Saints": "Vos ex Deo estis filioli, et vicistis eum, quoniam major est qui in vobis est, quam qui in mundo.",
+        "VulgHetzenauer (1906)": "Vos ex Deo estis filioli, et vicistis eum, quoniam maior est qui in vobis est, quam qui in mundo.",
+        "VulgConte (2009)": "Vos ex Deo estis filioli, et vicistis eum, quoniam maior est qui in vobis est, quam qui in mundo.",
+        "VulgSistina (1590)": "Vos ex Deo estis filioli, et vicistis eum, quoniam maior est qui in vobis est, quam qui in mundo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95442,
+      "verse": 5,
+      "critical_text": "Ipsi de mundo sunt: ideo de mundo loquuntur, et mundus eos audit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ipsi de mundo sunt: ideo de mundo loquuntur, et mundus eos audit.",
+        "Clem-Saints": "Ipsi de mundo sunt: ideo de mundo loquuntur, et mundus eos audit.",
+        "VulgHetzenauer (1906)": "Ipsi de mundo sunt: ideo de mundo loquuntur, et mundus eos audit.",
+        "VulgConte (2009)": "Ipsi de mundo sunt: ideo de mundo loquuntur, et mundus eos audit.",
+        "VulgSistina (1590)": "Ipsi de mundo sunt: ideo de mundo loquuntur, et mundus eos audit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95443,
+      "verse": 6,
+      "critical_text": "Nos ex Deo sumus. Qui novit Deum, audit nos; qui non est ex Deo, non audit nos: in hoc cognoscimus Spiritum veritatis, et spiritum erroris.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nos ex Deo sumus. Qui novit Deum, audit nos; qui non est ex Deo, non audit nos: in hoc cognoscimus Spiritum veritatis, et spiritum erroris.",
+        "Clem-Saints": "Nos ex Deo sumus. Qui novit Deum, audit nos; qui non est ex Deo, non audit nos: in hoc cognoscimus Spiritum veritatis, et spiritum erroris.",
+        "VulgHetzenauer (1906)": "Nos ex Deo sumus. Qui novit Deum, audit nos: qui non est ex Deo, non audit nos: in hoc cognoscimus Spiritum veritatis, et spiritum erroris.",
+        "VulgConte (2009)": "Nos ex Deo sumus. Qui novit Deum, audit nos: qui non est ex Deo, non audit nos: in hoc cognoscimus Spiritum veritatis, et spiritum erroris.",
+        "VulgSistina (1590)": "Nos ex Deo sumus. Qui novit Deum, audit nos: qui non est ex Deo, non audit nos: in hoc cognoscimus Spiritum veritatis, et spiritum erroris."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95444,
+      "verse": 7,
+      "critical_text": "Carissimi, diligamus nos invicem: quia caritas ex Deo est. Et omnis qui diligit, ex Deo natus est, et cognoscit Deum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Carissimi, diligamus nos invicem: quia caritas ex Deo est. Et omnis qui diligit, ex Deo natus est, et cognoscit Deum.",
+        "Clem-Saints": "Carissimi, diligamus nos invicem: quia caritas ex Deo est. Et omnis qui diligit, ex Deo natus est, et cognoscit Deum.",
+        "VulgHetzenauer (1906)": "Charissimi, diligamus nos invicem: quia charitas ex Deo est. Et omnis, qui diligit, ex Deo natus est, et cognoscit Deum.",
+        "VulgConte (2009)": "Charissimi, diligamus nos invicem: quia charitas ex Deo est. Et omnis, qui diligit, ex Deo natus est, et cognoscit Deum.",
+        "VulgSistina (1590)": "Charissimi, diligamus nos invicem: quia charitas ex Deo est. Et omnis, qui diligit, ex Deo natus est, et cognoscit Deum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Carissimi, / Charissimi,",
+            "caritas / charitas",
+            "Carissimi, / Charissimi,",
+            "caritas / charitas",
+            "Carissimi, / Charissimi,",
+            "caritas / charitas"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95445,
+      "verse": 8,
+      "critical_text": "Qui non diligit, non novit Deum: quoniam Deus caritas est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui non diligit, non novit Deum: quoniam Deus caritas est.",
+        "Clem-Saints": "Qui non diligit, non novit Deum: quoniam Deus caritas est.",
+        "VulgHetzenauer (1906)": "Qui non diligit, non novit Deum: quoniam Deus charitas est.",
+        "VulgConte (2009)": "Qui non diligit, non novit Deum: quoniam Deus charitas est.",
+        "VulgSistina (1590)": "Qui non diligit, non novit Deum: quoniam Deus charitas est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "caritas / charitas",
+            "caritas / charitas",
+            "caritas / charitas"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95446,
+      "verse": 9,
+      "critical_text": "In hoc apparuit caritas Dei in nobis, quoniam Filium suum unigenitum misit Deus in mundum, ut vivamus per eum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In hoc apparuit caritas Dei in nobis, quoniam Filium suum unigenitum misit Deus in mundum, ut vivamus per eum.",
+        "Clem-Saints": "In hoc apparuit caritas Dei in nobis, quoniam Filium suum unigenitum misit Deus in mundum, ut vivamus per eum.",
+        "VulgHetzenauer (1906)": "In hoc apparuit charitas Dei in nobis, quoniam Filium suum unigenitum misit Deus in mundum, ut vivamus per eum.",
+        "VulgConte (2009)": "In hoc apparuit charitas Dei in nobis, quoniam Filium suum unigenitum misit Deus in mundum, ut vivamus per eum.",
+        "VulgSistina (1590)": "In hoc apparuit charitas Dei in nobis, quoniam Filium suum unigenitum misit Deus in mundum, ut vivamus per eum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "caritas / charitas",
+            "caritas / charitas",
+            "caritas / charitas"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95447,
+      "verse": 10,
+      "critical_text": "In hoc est caritas: non quasi nos dilexerimus Deum, sed quoniam ipse prior dilexit nos, et misit Filium suum propitiationem pro peccatis nostris.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In hoc est caritas: non quasi nos dilexerimus Deum, sed quoniam ipse prior dilexit nos, et misit Filium suum propitiationem pro peccatis nostris.",
+        "Clem-Saints": "In hoc est caritas: non quasi nos dilexerimus Deum, sed quoniam ipse prior dilexit nos, et misit Filium suum propitiationem pro peccatis nostris.",
+        "VulgHetzenauer (1906)": "In hoc est charitas: non quasi nos dilexerimus Deum, sed quoniam ipse prior dilexit nos, et misit Filium suum propitiationem pro peccatis nostris.",
+        "VulgConte (2009)": "In hoc est charitas: non quasi nos dilexerimus Deum, sed quoniam ipse prior dilexit nos, et misit Filium suum propitiationem pro peccatis nostris.",
+        "VulgSistina (1590)": "In hoc est charitas: non quasi nos dilexerimus Deum, sed quoniam ipse prior dilexit nos, et misit Filium suum propitiationem pro peccatis nostris."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "caritas: / charitas:",
+            "caritas: / charitas:",
+            "caritas: / charitas:"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95448,
+      "verse": 11,
+      "critical_text": "Carissimi, si sic Deus dilexit nos: et nos debemus alterutrum diligere.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Carissimi, si sic Deus dilexit nos: et nos debemus alterutrum diligere.",
+        "Clem-Saints": "Carissimi, si sic Deus dilexit nos: et nos debemus alterutrum diligere.",
+        "VulgHetzenauer (1906)": "Charissimi, si sic Deus dilexit nos: et nos debemus alterutrum diligere.",
+        "VulgConte (2009)": "Charissimi, si sic Deus dilexit nos: et nos debemus alterutrum diligere.",
+        "VulgSistina (1590)": "Charissimi, si sic Deus dilexit nos: et nos debemus alterutrum diligere."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Carissimi, / Charissimi,",
+            "Carissimi, / Charissimi,",
+            "Carissimi, / Charissimi,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95449,
+      "verse": 12,
+      "critical_text": "Deum nemo vidit umquam. Si diligamus invicem, Deus in nobis manet, et caritas ejus in nobis perfecta est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Deum nemo vidit umquam. Si diligamus invicem, Deus in nobis manet, et caritas ejus in nobis perfecta est.",
+        "Clem-Saints": "Deum nemo vidit umquam. Si diligamus invicem, Deus in nobis manet, et caritas ejus in nobis perfecta est.",
+        "VulgHetzenauer (1906)": "Deum nemo vidit umquam. Si diligamus invicem, Deus in nobis manet, et charitas eius in nobis perfecta est.",
+        "VulgConte (2009)": "Deum nemo vidit umquam. Si diligamus invicem, Deus in nobis manet, et charitas eius in nobis perfecta est.",
+        "VulgSistina (1590)": "Deum nemo vidit umquam. Si diligamus invicem, Deus in nobis manet, et charitas eius in nobis perfecta est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "caritas / charitas",
+            "caritas / charitas",
+            "caritas / charitas"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95450,
+      "verse": 13,
+      "critical_text": "In hoc cognoscimus quoniam in eo manemus, et ipse in nobis: quoniam de Spiritu suo dedit nobis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In hoc cognoscimus quoniam in eo manemus, et ipse in nobis: quoniam de Spiritu suo dedit nobis.",
+        "Clem-Saints": "In hoc cognoscimus quoniam in eo manemus, et ipse in nobis: quoniam de Spiritu suo dedit nobis.",
+        "VulgHetzenauer (1906)": "In hoc cognoscimus quoniam in eo manemus, et ipse in nobis: quoniam de Spiritu suo dedit nobis.",
+        "VulgConte (2009)": "In hoc cognoscimus quoniam in eo manemus, et ipse in nobis: quoniam de Spiritu suo dedit nobis.",
+        "VulgSistina (1590)": "In hoc cognoscimus quoniam in eo manemus, et ipse in nobis: quoniam de Spiritu sancto suo dedit nobis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "sancto",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 14,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95451,
+      "verse": 14,
+      "critical_text": "Et nos vidimus, et testificamur quoniam Pater misit Filium suum Salvatorem mundi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et nos vidimus, et testificamur quoniam Pater misit Filium suum Salvatorem mundi.",
+        "Clem-Saints": "Et nos vidimus, et testificamur quoniam Pater misit Filium suum Salvatorem mundi.",
+        "VulgHetzenauer (1906)": "Et vos vidimus, et testificamur quoniam Pater misit Filium suum Salvatorem mundi.",
+        "VulgConte (2009)": "Et vos vidimus, et testificamur quoniam Pater misit Filium suum Salvatorem mundi.",
+        "VulgSistina (1590)": "Et nos vidimus, et testificamur quoniam Pater misit Filium suum Salvatorem mundi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "nos",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "vos",
+              "witnesses": [
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "nos",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95452,
+      "verse": 15,
+      "critical_text": "Quisquis confessus fuerit quoniam Jesus est Filius Dei, Deus in eo manet, et ipse in Deo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quisquis confessus fuerit quoniam Jesus est Filius Dei, Deus in eo manet, et ipse in Deo.",
+        "Clem-Saints": "Quisquis confessus fuerit quoniam Jesus est Filius Dei, Deus in eo manet, et ipse in Deo.",
+        "VulgHetzenauer (1906)": "Quisquis confessus fuerit quoniam Iesus est Filius Dei, Deus in eo manet, et ipse in Deo.",
+        "VulgConte (2009)": "Quisquis confessus fuerit quoniam Iesus est Filius Dei, Deus in eo manet, et ipse in Deo.",
+        "VulgSistina (1590)": "Quisquis confessus fuerit quoniam Iesus est Filius Dei, Deus in eo manet, et ipse in Deo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95453,
+      "verse": 16,
+      "critical_text": "Et nos cognovimus, et credidimus caritati, quam habet Deus in nobis. Deus caritas est: et qui manet in caritate, in Deo manet, et Deus in eo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et nos cognovimus, et credidimus caritati, quam habet Deus in nobis. Deus caritas est: et qui manet in caritate, in Deo manet, et Deus in eo.",
+        "Clem-Saints": "Et nos cognovimus, et credidimus caritati, quam habet Deus in nobis. Deus caritas est: et qui manet in caritate, in Deo manet, et Deus in eo.",
+        "VulgHetzenauer (1906)": "Et nos cognovimus, et credidimus charitati, quam habet Deus in nobis. Deus charitas est: et qui manet in charitate, in Deo manet, et Deus in eo.",
+        "VulgConte (2009)": "Et nos cognovimus, et credidimus charitati, quam habet Deus in nobis. Deus charitas est: et qui manet in charitate, in Deo manet, et Deus in eo.",
+        "VulgSistina (1590)": "Et nos cognovimus, et credidimus charitati, quam habet Deus in nobis. Deus charitas est: et qui manet in charitate, in Deo manet, et Deus in eo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "caritati, / charitati,",
+            "caritas / charitas",
+            "caritate, / charitate,",
+            "caritati, / charitati,",
+            "caritas / charitas",
+            "caritate, / charitate,",
+            "caritati, / charitati,",
+            "caritas / charitas",
+            "caritate, / charitate,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95454,
+      "verse": 17,
+      "critical_text": "In hoc perfecta est caritas Dei nobiscum, ut fiduciam habeamus in die judicii: quia sicut ille est, et nos sumus in hoc mundo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In hoc perfecta est caritas Dei nobiscum, ut fiduciam habeamus in die judicii: quia sicut ille est, et nos sumus in hoc mundo.",
+        "Clem-Saints": "In hoc perfecta est caritas Dei nobiscum, ut fiduciam habeamus in die judicii: quia sicut ille est, et nos sumus in hoc mundo.",
+        "VulgHetzenauer (1906)": "In hoc perfecta est charitas Dei nobiscum, ut fiduciam habeamus in die iudicii: quia sicut ille est, et nos sumus in hoc mundo.",
+        "VulgConte (2009)": "In hoc perfecta est charitas Dei nobiscum, ut fiduciam habeamus in die iudicii: quia sicut ille est, et nos sumus in hoc mundo.",
+        "VulgSistina (1590)": "In hoc perfecta est charitas Dei nobiscum, ut fiduciam habeamus in die iudicii: quia sicut ille est, et nos sumus in hoc mundo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "caritas / charitas",
+            "caritas / charitas",
+            "caritas / charitas"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95455,
+      "verse": 18,
+      "critical_text": "Timor non est in caritate: sed perfecta caritas foras mittit timorem, quoniam timor pœnam habet: qui autem timet, non est perfectus in caritate.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Timor non est in caritate: sed perfecta caritas foras mittit timorem, quoniam timor pœnam habet: qui autem timet, non est perfectus in caritate.",
+        "Clem-Saints": "Timor non est in caritate: sed perfecta caritas foras mittit timorem, quoniam timor pœnam habet: qui autem timet, non est perfectus in caritate.",
+        "VulgHetzenauer (1906)": "Timor non est in charitate: sed perfecta charitas foras mittit timorem, quoniam timor pœnam habet. qui autem timet, non est perfectus in charitate.",
+        "VulgConte (2009)": "Timor non est in charitate: sed perfecta charitas foras mittit timorem, quoniam timor pœnam habet. Qui autem timet, non est perfectus in charitate.",
+        "VulgSistina (1590)": "Timor non est in charitate: sed perfecta charitas foras mittit timorem, quoniam timor poenam habet. qui autem timet, non est perfectus in charitate."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "caritate: / charitate:",
+            "caritas / charitas",
+            "caritate. / charitate.",
+            "caritate: / charitate:",
+            "caritas / charitas",
+            "caritate. / charitate.",
+            "caritate: / charitate:",
+            "caritas / charitas",
+            "caritate. / charitate."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95456,
+      "verse": 19,
+      "critical_text": "Nos ergo diligamus Deum, quoniam Deus prior dilexit nos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nos ergo diligamus Deum, quoniam Deus prior dilexit nos.",
+        "Clem-Saints": "Nos ergo diligamus Deum, quoniam Deus prior dilexit nos.",
+        "VulgHetzenauer (1906)": "Nos ergo diligamus Deum, quoniam Deus prior dilexit nos.",
+        "VulgConte (2009)": "Nos ergo diligamus Deum, quoniam Deus prior dilexit nos.",
+        "VulgSistina (1590)": "Nos ergo diligamus Deum, quoniam Deus prior dilexit nos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95457,
+      "verse": 20,
+      "critical_text": "Si quis dixerit: Quoniam diligo Deum, et fratrem suum oderit, mendax est. Qui enim non diligit fratrem suum quem vidit, Deum, quem non vidit, quomodo potest diligere?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si quis dixerit: Quoniam diligo Deum, et fratrem suum oderit, mendax est. Qui enim non diligit fratrem suum quem vidit, Deum, quem non vidit, quomodo potest diligere?",
+        "Clem-Saints": "Si quis dixerit: Quoniam diligo Deum, et fratrem suum oderit, mendax est. Qui enim non diligit fratrem suum quem vidit, Deum, quem non vidit, quomodo potest diligere?",
+        "VulgHetzenauer (1906)": "Si quis dixerit quoniam diligo Deum, et fratrem suum oderit, mendax est. Qui enim non diligit fratrem suum quem vidit, Deum, quem non vidit, quomodo potest diligere?",
+        "VulgConte (2009)": "Si quis dixerit quoniam diligo Deum, et fratrem suum oderit, mendax est. Qui enim non diligit fratrem suum quem vidit, Deum, quem non vidit, quomodo potest diligere?",
+        "VulgSistina (1590)": "Si quis dixerit quoniam diligo Deum, et fratrem suum oderit, mendax est. Qui enim non diligit fratrem suum quem vidit, Deum, quem non vidit, quomodo potest diligere?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95458,
+      "verse": 21,
+      "critical_text": "Et hoc mandatum habemus a Deo: ut qui diligit Deum, diligat et fratrem suum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et hoc mandatum habemus a Deo: ut qui diligit Deum, diligat et fratrem suum.",
+        "Clem-Saints": "Et hoc mandatum habemus a Deo: ut qui diligit Deum, diligat et fratrem suum.",
+        "VulgHetzenauer (1906)": "Et hoc mandatum habemus a Deo: ut qui diligit Deum, diligat et fratrem suum.",
+        "VulgConte (2009)": "Et hoc mandatum habemus a Deo: ut qui diligit Deum, diligat et fratrem suum.",
+        "VulgSistina (1590)": "Et hoc mandatum habemus a Deo: ut qui diligit Deum, diligat et fratrem suum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

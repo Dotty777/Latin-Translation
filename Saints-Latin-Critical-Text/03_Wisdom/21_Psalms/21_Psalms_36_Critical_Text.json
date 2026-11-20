@@ -1,0 +1,1380 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "psalms",
+  "book_title": "Psalms",
+  "usfm_code": "PSA",
+  "chapter": 36,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:17Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 77362,
+      "verse": 1,
+      "critical_text": "Psalmus ipsi David. Noli æmulari in malignantibus, neque zelaveris facientes iniquitatem:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Psalmus ipsi David. Noli æmulari in malignantibus, neque zelaveris facientes iniquitatem:",
+        "Clem-Saints": "Psalmus ipsi David. Noli æmulari in malignantibus, neque zelaveris facientes iniquitatem:",
+        "VulgHetzenauer (1906)": "Psalmus ipsi David. Noli æmulari in malignantibus: neque zelaveris facientes iniquitatem.",
+        "VulgConte (2009)": "Psalmus ipsi David. Noli æmulari in malignantibus: neque zelaveris facientes iniquitatem.",
+        "VulgSistina (1590)": "Psalmus David. Noli aemulari in malignantibus: neque zelaveris facientes iniquitatem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ipsi",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ipsi",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77363,
+      "verse": 2,
+      "critical_text": "quoniam tamquam fœnum velociter arescent, et quemadmodum olera herbarum cito decident.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quoniam tamquam fœnum velociter arescent, et quemadmodum olera herbarum cito decident.",
+        "Clem-Saints": "quoniam tamquam fœnum velociter arescent, et quemadmodum olera herbarum cito decident.",
+        "VulgHetzenauer (1906)": "Quoniam tamquam fœnum velociter arescent: et quemadmodum olera herbarum cito decident.",
+        "VulgConte (2009)": "Quoniam tamquam fœnum velociter arescent: et quemadmodum olera herbarum cito decident.",
+        "VulgSistina (1590)": "Quoniam tamquam foenum velociter arescent: quemadmodum olera herbarum cito decident."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77364,
+      "verse": 3,
+      "critical_text": "Spera in Domino, et fac bonitatem; et inhabita terram, et pasceris in divitiis ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Spera in Domino, et fac bonitatem; et inhabita terram, et pasceris in divitiis ejus.",
+        "Clem-Saints": "Spera in Domino, et fac bonitatem; et inhabita terram, et pasceris in divitiis ejus.",
+        "VulgHetzenauer (1906)": "Spera in Domino, et fac bonitatem: et inhabita terram, et pasceris in divitiis eius.",
+        "VulgConte (2009)": "Spera in Domino, et fac bonitatem: et inhabita terram, et pasceris in divitiis eius.",
+        "VulgSistina (1590)": "Spera in Domino, et fac bonitatem: et inhabita terram, et pasceris in divitiis eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77365,
+      "verse": 4,
+      "critical_text": "Delectare in Domino, et dabit tibi petitiones cordis tui.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Delectare in Domino, et dabit tibi petitiones cordis tui.",
+        "Clem-Saints": "Delectare in Domino, et dabit tibi petitiones cordis tui.",
+        "VulgHetzenauer (1906)": "Delectare in Domino: et dabit tibi petitiones cordis tui.",
+        "VulgConte (2009)": "Delectare in Domino: et dabit tibi petitiones cordis tui.",
+        "VulgSistina (1590)": "Delectare in Domino: et dabit tibi petitiones cordis tui."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77366,
+      "verse": 5,
+      "critical_text": "Revela Domino viam tuam, et spera in eo, et ipse faciet.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Revela Domino viam tuam, et spera in eo, et ipse faciet.",
+        "Clem-Saints": "Revela Domino viam tuam, et spera in eo, et ipse faciet.",
+        "VulgHetzenauer (1906)": "Revela Domino viam tuam, et spera in eo: et ipse faciet.",
+        "VulgConte (2009)": "Revela Domino viam tuam, et spera in eo: et ipse faciet.",
+        "VulgSistina (1590)": "Revela Domino viam tuam, et spera in eo: et ipse faciet."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77367,
+      "verse": 6,
+      "critical_text": "Et educet quasi lumen justitiam tuam, et judicium tuum tamquam meridiem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et educet quasi lumen justitiam tuam, et judicium tuum tamquam meridiem.",
+        "Clem-Saints": "Et educet quasi lumen justitiam tuam, et judicium tuum tamquam meridiem.",
+        "VulgHetzenauer (1906)": "Et educet quasi lumen iustitiam tuam: et iudicium tuum tamquam meridiem:",
+        "VulgConte (2009)": "Et educet quasi lumen iustitiam tuam: et iudicium tuum tamquam meridiem:",
+        "VulgSistina (1590)": "Et educet quasi lumen iustitiam tuam: et iudicium tuum tamquam meridiem:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77368,
+      "verse": 7,
+      "critical_text": "Subditus esto Domino, et ora eum. Noli æmulari in eo qui prosperatur in via sua; in homine faciente injustitias.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Subditus esto Domino, et ora eum. Noli æmulari in eo qui prosperatur in via sua; in homine faciente injustitias.",
+        "Clem-Saints": "Subditus esto Domino, et ora eum. Noli æmulari in eo qui prosperatur in via sua; in homine faciente injustitias.",
+        "VulgHetzenauer (1906)": "subditus esto Domino, et ora eum. Noli æmulari in eo, qui prosperatur in via sua: in homine faciente iniustitias.",
+        "VulgConte (2009)": "subditus esto Domino, et ora eum. Noli æmulari in eo, qui prosperatur in via sua: in homine faciente iniustitias.",
+        "VulgSistina (1590)": "subditus esto Domino, et ora eum. Noli aemulari in eo, qui prosperatur in via sua: in homine faciente iniustitias."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77369,
+      "verse": 8,
+      "critical_text": "Desine ab ira, et derelinque furorem; noli æmulari ut maligneris.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Desine ab ira, et derelinque furorem; noli æmulari ut maligneris.",
+        "Clem-Saints": "Desine ab ira, et derelinque furorem; noli æmulari ut maligneris.",
+        "VulgHetzenauer (1906)": "Desine ab ira, et derelinque furorem: noli æmulari ut maligneris.",
+        "VulgConte (2009)": "Desine ab ira, et derelinque furorem: noli æmulari ut maligneris.",
+        "VulgSistina (1590)": "Desine ab ira, et derelinque furorem: noli aemulari ut maligneris."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77370,
+      "verse": 9,
+      "critical_text": "Quoniam qui malignantur exterminabuntur; sustinentes autem Dominum, ipsi hæreditabunt terram.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quoniam qui malignantur exterminabuntur; sustinentes autem Dominum, ipsi hæreditabunt terram.",
+        "Clem-Saints": "Quoniam qui malignantur exterminabuntur; sustinentes autem Dominum, ipsi hæreditabunt terram.",
+        "VulgHetzenauer (1906)": "Quoniam qui malignantur, exterminabuntur: sustinentes autem Dominum, ipsi hereditabunt terram.",
+        "VulgConte (2009)": "Quoniam qui malignantur, exterminabuntur: sustinentes autem Dominum, ipsi hereditabunt terram.",
+        "VulgSistina (1590)": "Quoniam qui malignantur, exterminabuntur: sustinentes autem Dominum, ipsi hereditabunt terram."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "hæreditabunt / hereditabunt",
+            "hæreditabunt / hereditabunt",
+            "hæreditabunt / hereditabunt"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77371,
+      "verse": 10,
+      "critical_text": "Et adhuc pusillum, et non erit peccator; et quæres locum ejus, et non invenies.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et adhuc pusillum, et non erit peccator; et quæres locum ejus, et non invenies.",
+        "Clem-Saints": "Et adhuc pusillum, et non erit peccator; et quæres locum ejus, et non invenies.",
+        "VulgHetzenauer (1906)": "Et adhuc pusillum, et non erit peccator: et quæres locum eius, et non invenies.",
+        "VulgConte (2009)": "Et adhuc pusillum, et non erit peccator: et quæres locum eius, et non invenies.",
+        "VulgSistina (1590)": "Et adhuc pusillum, et non erit peccator: et quaeres locum eius, et non invenies."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77372,
+      "verse": 11,
+      "critical_text": "Mansueti autem hæreditabunt terram, et delectabuntur in multitudine pacis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Mansueti autem hæreditabunt terram, et delectabuntur in multitudine pacis.",
+        "Clem-Saints": "Mansueti autem hæreditabunt terram, et delectabuntur in multitudine pacis.",
+        "VulgHetzenauer (1906)": "Mansueti autem hereditabunt terram, et delectabuntur in multitudine pacis.",
+        "VulgConte (2009)": "Mansueti autem hereditabunt terram, et delectabuntur in multitudine pacis.",
+        "VulgSistina (1590)": "Mansueti autem hereditabunt terram, et delectabuntur in multitudine pacis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "hæreditabunt / hereditabunt",
+            "hæreditabunt / hereditabunt",
+            "hæreditabunt / hereditabunt"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77373,
+      "verse": 12,
+      "critical_text": "Observabit peccator justum, et stridebit super eum dentibus suis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Observabit peccator justum, et stridebit super eum dentibus suis.",
+        "Clem-Saints": "Observabit peccator justum, et stridebit super eum dentibus suis.",
+        "VulgHetzenauer (1906)": "Observabit peccator iustum: et stridebit super eum dentibus suis.",
+        "VulgConte (2009)": "Observabit peccator iustum: et stridebit super eum dentibus suis.",
+        "VulgSistina (1590)": "Observabit peccator iustum: et stridebit super eum dentibus suis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77374,
+      "verse": 13,
+      "critical_text": "Dominus autem irridebit eum, quoniam prospicit quod veniet dies ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dominus autem irridebit eum, quoniam prospicit quod veniet dies ejus.",
+        "Clem-Saints": "Dominus autem irridebit eum, quoniam prospicit quod veniet dies ejus.",
+        "VulgHetzenauer (1906)": "Dominus autem irridebit eum: quoniam prospicit quod veniet dies eius.",
+        "VulgConte (2009)": "Dominus autem irridebit eum: quoniam prospicit quod veniet dies eius.",
+        "VulgSistina (1590)": "Dominus autem irridebit eum: quoniam prospicit quod veniet dies eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77375,
+      "verse": 14,
+      "critical_text": "Gladium evaginaverunt peccatores; intenderunt arcum suum: ut dejiciant pauperem et inopem, ut trucident rectos corde.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Gladium evaginaverunt peccatores; intenderunt arcum suum: ut dejiciant pauperem et inopem, ut trucident rectos corde.",
+        "Clem-Saints": "Gladium evaginaverunt peccatores; intenderunt arcum suum: ut dejiciant pauperem et inopem, ut trucident rectos corde.",
+        "VulgHetzenauer (1906)": "Gladium evaginaverunt peccatores: intenderunt arcum suum. Ut deiiciant pauperem et inopem: ut trucident rectos corde.",
+        "VulgConte (2009)": "Gladium evaginaverunt peccatores: intenderunt arcum suum. Ut deiiciant pauperem et inopem: ut trucident rectos corde.",
+        "VulgSistina (1590)": "Gladium evaginaverunt peccatores: intenderunt arcum suum. Ut decipiant pauperem et inopem: ut trucident rectos corde."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "dejiciant",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "decipiant",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "deiiciant",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77376,
+      "verse": 15,
+      "critical_text": "Gladius eorum intret in corda ipsorum, et arcus eorum confringatur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Gladius eorum intret in corda ipsorum, et arcus eorum confringatur.",
+        "Clem-Saints": "Gladius eorum intret in corda ipsorum, et arcus eorum confringatur.",
+        "VulgHetzenauer (1906)": "Gladius eorum intret in corda ipsorum: et arcus eorum confringatur.",
+        "VulgConte (2009)": "Gladius eorum intret in corda ipsorum: et arcus eorum confringatur.",
+        "VulgSistina (1590)": "Gladius eorum intret in corda ipsorum: et arcus eorum confringatur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77377,
+      "verse": 16,
+      "critical_text": "Melius est modicum justo, super divitias peccatorum multas:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Melius est modicum justo, super divitias peccatorum multas:",
+        "Clem-Saints": "Melius est modicum justo, super divitias peccatorum multas:",
+        "VulgHetzenauer (1906)": "Melius est modicum iusto, super divitias peccatorum multas.",
+        "VulgConte (2009)": "Melius est modicum iusto, super divitias peccatorum multas.",
+        "VulgSistina (1590)": "Melius est modicum iusto, super divitias peccatorum multas."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77378,
+      "verse": 17,
+      "critical_text": "quoniam brachia peccatorum conterentur: confirmat autem justos Dominus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quoniam brachia peccatorum conterentur: confirmat autem justos Dominus.",
+        "Clem-Saints": "quoniam brachia peccatorum conterentur: confirmat autem justos Dominus.",
+        "VulgHetzenauer (1906)": "Quoniam brachia peccatorum conterentur: confirmat autem iustos Dominus.",
+        "VulgConte (2009)": "Quoniam brachia peccatorum conterentur: confirmat autem iustos Dominus.",
+        "VulgSistina (1590)": "Quoniam brachia peccatorum conterentur: confirmat autem iustos Dominus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77379,
+      "verse": 18,
+      "critical_text": "Novit Dominus dies immaculatorum, et hæreditas eorum in æternum erit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Novit Dominus dies immaculatorum, et hæreditas eorum in æternum erit.",
+        "Clem-Saints": "Novit Dominus dies immaculatorum, et hæreditas eorum in æternum erit.",
+        "VulgHetzenauer (1906)": "Novit Dominus dies immaculatorum: et hereditas eorum in æternum erit.",
+        "VulgConte (2009)": "Novit Dominus dies immaculatorum: et hereditas eorum in æternum erit.",
+        "VulgSistina (1590)": "Novit Dominus dies immaculatorum: et hereditas eorum in aeternum erit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "hæreditas / hereditas",
+            "hæreditas / hereditas",
+            "hæreditas / hereditas"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77380,
+      "verse": 19,
+      "critical_text": "Non confundentur in tempore malo, et in diebus famis saturabuntur:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non confundentur in tempore malo, et in diebus famis saturabuntur:",
+        "Clem-Saints": "Non confundentur in tempore malo, et in diebus famis saturabuntur:",
+        "VulgHetzenauer (1906)": "Non confundentur in tempore malo, et in diebus famis saturabuntur:",
+        "VulgConte (2009)": "Non confundentur in tempore malo, et in diebus famis saturabuntur:",
+        "VulgSistina (1590)": "Non confundentur in tempore malo, et in diebus famis saturabuntur:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77381,
+      "verse": 20,
+      "critical_text": "quia peccatores peribunt. Inimici vero Domini mox ut honorificati fuerint et exaltati, deficientes quemadmodum fumus deficient.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quia peccatores peribunt. Inimici vero Domini mox ut honorificati fuerint et exaltati, deficientes quemadmodum fumus deficient.",
+        "Clem-Saints": "quia peccatores peribunt. Inimici vero Domini mox ut honorificati fuerint et exaltati, deficientes quemadmodum fumus deficient.",
+        "VulgHetzenauer (1906)": "quia peccatores peribunt. Inimici vero Domini mox ut honorificati fuerint et exaltati: deficientes, quemadmodum fumus deficient.",
+        "VulgConte (2009)": "quia peccatores peribunt. Inimici vero Domini mox ut honorificati fuerint et exaltati: deficientes, quemadmodum fumus deficient.",
+        "VulgSistina (1590)": "quia peccatores peribunt. Inimici vero Domini mox ut honorificati fuerint et exaltati: deficientes, quemadmodum fumus deficient."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77382,
+      "verse": 21,
+      "critical_text": "Mutuabitur peccator, et non solvet; justus autem miseretur et tribuet:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Mutuabitur peccator, et non solvet; justus autem miseretur et tribuet:",
+        "Clem-Saints": "Mutuabitur peccator, et non solvet; justus autem miseretur et tribuet:",
+        "VulgHetzenauer (1906)": "Mutuabitur peccator, et non solvet: iustus autem miseretur et tribuet.",
+        "VulgConte (2009)": "Mutuabitur peccator, et non solvet: iustus autem miseretur et tribuet.",
+        "VulgSistina (1590)": "Mutuabitur peccator, et non solvet: iustus autem miseretur et retribuet."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "tribuet:",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "retribuet.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 9,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "tribuet",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77383,
+      "verse": 22,
+      "critical_text": "quia benedicentes ei hæreditabunt terram; maledicentes autem ei disperibunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quia benedicentes ei hæreditabunt terram; maledicentes autem ei disperibunt.",
+        "Clem-Saints": "quia benedicentes ei hæreditabunt terram; maledicentes autem ei disperibunt.",
+        "VulgHetzenauer (1906)": "Quia benedicentes ei hereditabunt terram: maledicentes autem ei disperibunt.",
+        "VulgConte (2009)": "Quia benedicentes ei hereditabunt terram: maledicentes autem ei disperibunt.",
+        "VulgSistina (1590)": "Quia benedicentes ei hereditabunt terram: maledicentes autem ei disperibunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "hæreditabunt / hereditabunt",
+            "hæreditabunt / hereditabunt",
+            "hæreditabunt / hereditabunt"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77384,
+      "verse": 23,
+      "critical_text": "Apud Dominum gressus hominis dirigentur, et viam ejus volet.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Apud Dominum gressus hominis dirigentur, et viam ejus volet.",
+        "Clem-Saints": "Apud Dominum gressus hominis dirigentur, et viam ejus volet.",
+        "VulgHetzenauer (1906)": "Apud Dominum gressus hominis dirigentur: et viam eius volet.",
+        "VulgConte (2009)": "Apud Dominum gressus hominis dirigentur: et viam eius volet.",
+        "VulgSistina (1590)": "Apud Dominum gressus hominis dirigentur: et viam eius volet."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77385,
+      "verse": 24,
+      "critical_text": "Cum ceciderit, non collidetur, quia Dominus supponit manum suam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cum ceciderit, non collidetur, quia Dominus supponit manum suam.",
+        "Clem-Saints": "Cum ceciderit, non collidetur, quia Dominus supponit manum suam.",
+        "VulgHetzenauer (1906)": "Cum ceciderit, non collidetur: quia Dominus supponit manum suam.",
+        "VulgConte (2009)": "Cum ceciderit, non collidetur: quia Dominus supponit manum suam.",
+        "VulgSistina (1590)": "Cum ceciderit, non collidetur: quia Dominus supponit manum suam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77386,
+      "verse": 25,
+      "critical_text": "Junior fui, etenim senui; et non vidi justum derelictum, nec semen ejus quærens panem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Junior fui, etenim senui; et non vidi justum derelictum, nec semen ejus quærens panem.",
+        "Clem-Saints": "Junior fui, etenim senui; et non vidi justum derelictum, nec semen ejus quærens panem.",
+        "VulgHetzenauer (1906)": "Iunior fui, etenim senui: et non vidi iustum derelictum, nec semen eius quærens panem.",
+        "VulgConte (2009)": "Iunior fui, etenim senui: et non vidi iustum derelictum, nec semen eius quærens panem.",
+        "VulgSistina (1590)": "Iunior fui, etenim senui: et non vidi iustum derelictum, nec semen eius quaerens panem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77387,
+      "verse": 26,
+      "critical_text": "Tota die miseretur et commodat; et semen illius in benedictione erit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tota die miseretur et commodat; et semen illius in benedictione erit.",
+        "Clem-Saints": "Tota die miseretur et commodat; et semen illius in benedictione erit.",
+        "VulgHetzenauer (1906)": "Tota die miseretur et commodat: et semen illius in benedictione erit.",
+        "VulgConte (2009)": "Tota die miseretur et commodat: et semen illius in benedictione erit.",
+        "VulgSistina (1590)": "Tota die miseretur et commodat: et semen illius in benedictione erit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77388,
+      "verse": 27,
+      "critical_text": "Declina a malo, et fac bonum, et inhabita in sæculum sæculi:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Declina a malo, et fac bonum, et inhabita in sæculum sæculi:",
+        "Clem-Saints": "Declina a malo, et fac bonum, et inhabita in sæculum sæculi:",
+        "VulgHetzenauer (1906)": "Declina a malo, et fac bonum: et inhabita in sæculum sæculi.",
+        "VulgConte (2009)": "Declina a malo, et fac bonum: et inhabita in sæculum sæculi.",
+        "VulgSistina (1590)": "Declina a malo, et fac bonum: et inhabita in saeculum saeculi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77389,
+      "verse": 28,
+      "critical_text": "quia Dominus amat judicium, et non derelinquet sanctos suos: in æternum conservabuntur. Injusti punientur, et semen impiorum peribit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quia Dominus amat judicium, et non derelinquet sanctos suos: in æternum conservabuntur. Injusti punientur, et semen impiorum peribit.",
+        "Clem-Saints": "quia Dominus amat judicium, et non derelinquet sanctos suos: in æternum conservabuntur. Injusti punientur, et semen impiorum peribit.",
+        "VulgHetzenauer (1906)": "Quia Dominus amat iudicium, et non derelinquet sanctos suos: in æternum conservabuntur. Iniusti punientur: et semen impiorum peribit.",
+        "VulgConte (2009)": "Quia Dominus amat iudicium, et non derelinquet sanctos suos: in æternum conservabuntur. Iniusti punientur: et semen impiorum peribit.",
+        "VulgSistina (1590)": "Quia Dominus amat iudicium, et non derelinquet sanctos suos: in aeternum conservabuntur. Iniusti punientur: et semen impiorum peribit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77390,
+      "verse": 29,
+      "critical_text": "Justi autem hæreditabunt terram, et inhabitabunt in sæculum sæculi super eam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Justi autem hæreditabunt terram, et inhabitabunt in sæculum sæculi super eam.",
+        "Clem-Saints": "Justi autem hæreditabunt terram, et inhabitabunt in sæculum sæculi super eam.",
+        "VulgHetzenauer (1906)": "Iusti autem hereditabunt terram: et inhabitabunt in sæculum sæculi super eam.",
+        "VulgConte (2009)": "Iusti autem hereditabunt terram: et inhabitabunt in sæculum sæculi super eam.",
+        "VulgSistina (1590)": "Iusti autem hereditabunt terram: et inhabitabunt in saeculum saeculi super eam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "hæreditabunt / hereditabunt",
+            "hæreditabunt / hereditabunt",
+            "hæreditabunt / hereditabunt"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77391,
+      "verse": 30,
+      "critical_text": "Os justi meditabitur sapientiam, et lingua ejus loquetur judicium.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Os justi meditabitur sapientiam, et lingua ejus loquetur judicium.",
+        "Clem-Saints": "Os justi meditabitur sapientiam, et lingua ejus loquetur judicium.",
+        "VulgHetzenauer (1906)": "Os iusti meditabitur sapientiam, et lingua eius loquetur iudicium.",
+        "VulgConte (2009)": "Os iusti meditabitur sapientiam, et lingua eius loquetur iudicium.",
+        "VulgSistina (1590)": "Os iusti meditabitur sapientiam, et lingua eius loquetur iudicium."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77392,
+      "verse": 31,
+      "critical_text": "Lex Dei ejus in corde ipsius, et non supplantabuntur gressus ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Lex Dei ejus in corde ipsius, et non supplantabuntur gressus ejus.",
+        "Clem-Saints": "Lex Dei ejus in corde ipsius, et non supplantabuntur gressus ejus.",
+        "VulgHetzenauer (1906)": "Lex Dei eius in corde ipsius: et non supplantabuntur gressus eius.",
+        "VulgConte (2009)": "Lex Dei eius in corde ipsius: et non supplantabuntur gressus eius.",
+        "VulgSistina (1590)": "Lex Dei eius in corde ipsius: et non supplantabuntur gressus eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77393,
+      "verse": 32,
+      "critical_text": "Considerat peccator justum, et quærit mortificare eum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Considerat peccator justum, et quærit mortificare eum.",
+        "Clem-Saints": "Considerat peccator justum, et quærit mortificare eum.",
+        "VulgHetzenauer (1906)": "Considerat peccator iustum: et quærit mortificare eum.",
+        "VulgConte (2009)": "Considerat peccator iustum: et quærit mortificare eum.",
+        "VulgSistina (1590)": "Considerat peccator iustum: et quaerit mortificare eum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77394,
+      "verse": 33,
+      "critical_text": "Dominus autem non derelinquet eum in manibus ejus, nec damnabit eum cum judicabitur illi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dominus autem non derelinquet eum in manibus ejus, nec damnabit eum cum judicabitur illi.",
+        "Clem-Saints": "Dominus autem non derelinquet eum in manibus ejus, nec damnabit eum cum judicabitur illi.",
+        "VulgHetzenauer (1906)": "Dominus autem non derelinquet eum in manibus eius: nec damnabit eum cum iudicabitur illi.",
+        "VulgConte (2009)": "Dominus autem non derelinquet eum in manibus eius: nec damnabit eum cum iudicabitur illi.",
+        "VulgSistina (1590)": "Dominus autem non derelinquet eum in manibus eius: nec damnabit eum cum iudicabitur illi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77395,
+      "verse": 34,
+      "critical_text": "Exspecta Dominum, et custodi viam ejus, et exaltabit te ut hæreditate capias terram: cum perierint peccatores, videbis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Exspecta Dominum, et custodi viam ejus, et exaltabit te ut hæreditate capias terram: cum perierint peccatores, videbis.",
+        "Clem-Saints": "Exspecta Dominum, et custodi viam ejus, et exaltabit te ut hæreditate capias terram: cum perierint peccatores, videbis.",
+        "VulgHetzenauer (1906)": "Expecta Dominum, et custodi viam eius: et exaltabit te ut hereditate capias terram: cum perierint peccatores videbis.",
+        "VulgConte (2009)": "Expecta Dominum, et custodi viam eius: et exaltabit te ut hereditate capias terram: cum perierint peccatores videbis.",
+        "VulgSistina (1590)": "Expecta Dominum, et custodi viam eius: et exaltabit te ut hereditate capias terram: cum perierint peccatores videbis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Exspecta / Expecta",
+            "hæreditate / hereditate",
+            "Exspecta / Expecta",
+            "hæreditate / hereditate",
+            "Exspecta / Expecta",
+            "hæreditate / hereditate"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77396,
+      "verse": 35,
+      "critical_text": "Vidi impium superexaltatum, et elevatum sicut cedros Libani:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Vidi impium superexaltatum, et elevatum sicut cedros Libani:",
+        "Clem-Saints": "Vidi impium superexaltatum, et elevatum sicut cedros Libani:",
+        "VulgHetzenauer (1906)": "Vidi impium superexaltatum, et elevatum sicut cedros Libani.",
+        "VulgConte (2009)": "Vidi impium superexaltatum, et elevatum sicut cedros Libani.",
+        "VulgSistina (1590)": "Vidi impium superexaltatum, et elevatum sicut cedros Libani."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77397,
+      "verse": 36,
+      "critical_text": "et transivi, et ecce non erat; et quæsivi eum, et non est inventus locus ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et transivi, et ecce non erat; et quæsivi eum, et non est inventus locus ejus.",
+        "Clem-Saints": "et transivi, et ecce non erat; et quæsivi eum, et non est inventus locus ejus.",
+        "VulgHetzenauer (1906)": "Et transivi, et ecce non erat: et quæsivi eum, et non est inventus locus eius.",
+        "VulgConte (2009)": "Et transivi, et ecce non erat: et quæsivi eum, et non est inventus locus eius.",
+        "VulgSistina (1590)": "Et transivi, et ecce non erat: quaesivi eum, et non est inventus locus eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 6,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77398,
+      "verse": 37,
+      "critical_text": "Custodi innocentiam, et vide æquitatem, quoniam sunt reliquiæ homini pacifico.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Custodi innocentiam, et vide æquitatem, quoniam sunt reliquiæ homini pacifico.",
+        "Clem-Saints": "Custodi innocentiam, et vide æquitatem, quoniam sunt reliquiæ homini pacifico.",
+        "VulgHetzenauer (1906)": "Custodi innocentiam, et vide æquitatem: quoniam sunt reliquiæ homini pacifico.",
+        "VulgConte (2009)": "Custodi innocentiam, et vide æquitatem: quoniam sunt reliquiæ homini pacifico.",
+        "VulgSistina (1590)": "Custodi innocentiam, et vide aequitatem: quoniam sunt reliquiae homini pacifico."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77399,
+      "verse": 38,
+      "critical_text": "Injusti autem disperibunt simul; reliquiæ impiorum interibunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Injusti autem disperibunt simul; reliquiæ impiorum interibunt.",
+        "Clem-Saints": "Injusti autem disperibunt simul; reliquiæ impiorum interibunt.",
+        "VulgHetzenauer (1906)": "Iniusti autem disperibunt simul: reliquiæ impiorum interibunt.",
+        "VulgConte (2009)": "Iniusti autem disperibunt simul: reliquiæ impiorum interibunt.",
+        "VulgSistina (1590)": "Iniusti autem disperibunt simul: reliquiae impiorum interibunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77400,
+      "verse": 39,
+      "critical_text": "Salus autem justorum a Domino; et protector eorum in tempore tribulationis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Salus autem justorum a Domino; et protector eorum in tempore tribulationis.",
+        "Clem-Saints": "Salus autem justorum a Domino; et protector eorum in tempore tribulationis.",
+        "VulgHetzenauer (1906)": "Salus autem iustorum a Domino: et protector eorum in tempore tribulationis.",
+        "VulgConte (2009)": "Salus autem iustorum a Domino: et protector eorum in tempore tribulationis.",
+        "VulgSistina (1590)": "Salus autem iustorum a Domino: et protector eorum in tempore tribulationis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77401,
+      "verse": 40,
+      "critical_text": "Et adjuvabit eos Dominus, et liberabit eos; et eruet eos a peccatoribus, et salvabit eos, quia speraverunt in eo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et adjuvabit eos Dominus, et liberabit eos; et eruet eos a peccatoribus, et salvabit eos, quia speraverunt in eo.",
+        "Clem-Saints": "Et adjuvabit eos Dominus, et liberabit eos; et eruet eos a peccatoribus, et salvabit eos, quia speraverunt in eo.",
+        "VulgHetzenauer (1906)": "Et adiuvabit eos Dominus, et liberabit eos: et eruet eos a peccatoribus, et salvabit eos: quia speraverunt in eo.",
+        "VulgConte (2009)": "Et adiuvabit eos Dominus, et liberabit eos: et eruet eos a peccatoribus, et salvabit eos: quia speraverunt in eo.",
+        "VulgSistina (1590)": "Et adiuvabit eos Dominus, et liberabit eos: et eruet eos a peccatoribus, et salvabit eos: quia speraverunt in eo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

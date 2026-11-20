@@ -1,0 +1,940 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "judges",
+  "book_title": "Judges",
+  "usfm_code": "JDG",
+  "chapter": 19,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:35Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 68439,
+      "verse": 1,
+      "critical_text": "Fuit quidam vir Levites habitans in latere montis Ephraim, qui accepit uxorem de Bethlehem Juda:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fuit quidam vir Levites habitans in latere montis Ephraim, qui accepit uxorem de Bethlehem Juda:",
+        "Clem-Saints": "Fuit quidam vir Levites habitans in latere montis Ephraim, qui accepit uxorem de Bethlehem Juda:",
+        "VulgHetzenauer (1906)": "Fuit quidam vir Levites habitans in latere montis Ephraim, qui accepit uxorem de Bethlehem Iuda:",
+        "VulgConte (2009)": "Fuit quidam vir Levites habitans in latere montis Ephraim, qui accepit uxorem de Bethlehem Iuda:",
+        "VulgSistina (1590)": "Fuit quidam vir Levites habitans in latere montis Ephraim, qui accepit uxorem de Bethlehem Iuda:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68440,
+      "verse": 2,
+      "critical_text": "quæ reliquit eum, et reversa est in domum patris sui in Bethlehem, mansitque apud eum quatuor mensibus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quæ reliquit eum, et reversa est in domum patris sui in Bethlehem, mansitque apud eum quatuor mensibus.",
+        "Clem-Saints": "quæ reliquit eum, et reversa est in domum patris sui in Bethlehem, mansitque apud eum quatuor mensibus.",
+        "VulgHetzenauer (1906)": "quæ reliquit eum, et reversa est in domum patris sui in Bethlehem, mansitque apud eum quattuor mensibus.",
+        "VulgConte (2009)": "quæ reliquit eum, et reversa est in domum patris sui in Bethlehem, mansitque apud eum quattuor mensibus.",
+        "VulgSistina (1590)": "quae reliquit eum, et reversa est in domum patris sui in Bethlehem, mansitque apud eum quattuor mensibus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68441,
+      "verse": 3,
+      "critical_text": "Secutusque est eam vir suus, volens reconciliari ei, atque blandiri, et secum reducere, habens in comitatu puerum et duos asinos: quæ suscepit eum, et introduxit in domum patris sui. Quod cum audisset socer ejus, eumque vidisset, occurrit ei lætus,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Secutusque est eam vir suus, volens reconciliari ei, atque blandiri, et secum reducere, habens in comitatu puerum et duos asinos: quæ suscepit eum, et introduxit in domum patris sui. Quod cum audisset socer ejus, eumque vidisset, occurrit ei lætus,",
+        "Clem-Saints": "Secutusque est eam vir suus, volens reconciliari ei, atque blandiri, et secum reducere, habens in comitatu puerum et duos asinos: quæ suscepit eum, et introduxit in domum patris sui. Quod cum audisset socer ejus, eumque vidisset, occurrit ei lætus,",
+        "VulgHetzenauer (1906)": "Secutusque est eam vir suus, volens reconciliari ei, atque blandiri, et secum reducere, habens in comitatu puerum et duos asinos: quæ suscepit eum, et introduxit in domum patris sui. Quod cum audisset socer eius, eumque vidisset, occurrit ei lætus,",
+        "VulgConte (2009)": "Secutusque est eam vir suus, volens reconciliari ei, atque blandiri, et secum reducere, habens in comitatu puerum et duos asinos: quæ suscepit eum, et introduxit in domum patris sui. Quod cum audisset socer eius, eumque vidisset, occurrit ei lætus,",
+        "VulgSistina (1590)": "Secutusque est eam vir suus, volens reconciliari ei, atque blandiri, et secum reducere, habens in comitatu puerum et duos asinos: quae suscepit eum, et introduxit in domum patris sui. Quod cum audisset socer eius, eumque vidisset, occurrit ei laetus,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68442,
+      "verse": 4,
+      "critical_text": "et amplexatus est hominem. Mansitque gener in domo soceri tribus diebus, comedens cum eo et bibens familiariter.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et amplexatus est hominem. Mansitque gener in domo soceri tribus diebus, comedens cum eo et bibens familiariter.",
+        "Clem-Saints": "et amplexatus est hominem. Mansitque gener in domo soceri tribus diebus, comedens cum eo et bibens familiariter.",
+        "VulgHetzenauer (1906)": "et amplexatus est hominem. Mansitque gener in domo soceri tribus diebus, comedens cum eo et bibens familiariter.",
+        "VulgConte (2009)": "et amplexatus est hominem. Mansitque gener in domo soceri tribus diebus, comedens cum eo et bibens familiariter.",
+        "VulgSistina (1590)": "et amplexatus est hominem. Mansitque gener in domo soceri tribus diebus, comedens cum eo et bibens familiariter."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68443,
+      "verse": 5,
+      "critical_text": "Die autem quarto de nocte consurgens, proficisci voluit: quem tenuit socer, et ait ad eum: Gusta prius pauxillum panis, et conforta stomachum, et sic proficisceris.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Die autem quarto de nocte consurgens, proficisci voluit: quem tenuit socer, et ait ad eum: Gusta prius pauxillum panis, et conforta stomachum, et sic proficisceris.",
+        "Clem-Saints": "Die autem quarto de nocte consurgens, proficisci voluit: quem tenuit socer, et ait ad eum: Gusta prius pauxillum panis, et conforta stomachum, et sic proficisceris.",
+        "VulgHetzenauer (1906)": "Die autem quarto de nocte consurgens, proficisci voluit. Quem tenuit socer, et ait ad eum: Gusta prius pauxillum panis, et conforta stomachum, et sic proficisceris.",
+        "VulgConte (2009)": "Die autem quarto de nocte consurgens, proficisci voluit. Quem tenuit socer, et ait ad eum: Gusta prius pauxillum panis, et conforta stomachum, et sic proficisceris.",
+        "VulgSistina (1590)": "Die autem quarto de nocte consurgens, proficisci voluit. Quem tenuit socer, et ait ad eum: Gusta prius pusillum panis, et conforta stomachum, et sic proficisceris."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "pauxillum",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "pusillum",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 17,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "pauxillum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68444,
+      "verse": 6,
+      "critical_text": "Sederuntque simul, ac comederunt et biberunt. Dixitque pater puellæ ad generum suum: Quæso te ut hodie hic maneas, pariterque lætemur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sederuntque simul, ac comederunt et biberunt. Dixitque pater puellæ ad generum suum: Quæso te ut hodie hic maneas, pariterque lætemur.",
+        "Clem-Saints": "Sederuntque simul, ac comederunt et biberunt. Dixitque pater puellæ ad generum suum: Quæso te ut hodie hic maneas, pariterque lætemur.",
+        "VulgHetzenauer (1906)": "Sederuntque simul, ac comederunt et biberunt. Dixitque pater puellæ ad generum suum: Quæso te ut hodie hic maneas, pariterque lætemur.",
+        "VulgConte (2009)": "Sederuntque simul, ac comederunt et biberunt. Dixitque pater puellæ ad generum suum: Quæso te ut hodie hic maneas, pariterque lætemur.",
+        "VulgSistina (1590)": "Sederuntque simul, ac comederunt et biberunt. Dixitque pater puellae ad generum suum: Quaeso te ut hodie hic maneas, pariterque laetemur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68445,
+      "verse": 7,
+      "critical_text": "At ille consurgens, cœpit velle proficisci. Et nihilominus obnixe eum socer tenuit, et apud se fecit manere.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "At ille consurgens, cœpit velle proficisci. Et nihilominus obnixe eum socer tenuit, et apud se fecit manere.",
+        "Clem-Saints": "At ille consurgens, cœpit velle proficisci. Et nihilominus obnixe eum socer tenuit, et apud se fecit manere.",
+        "VulgHetzenauer (1906)": "At ille consurgens, cœpit velle proficisci. Et nihilominus obnixe eum socer tenuit, et apud se fecit manere.",
+        "VulgConte (2009)": "At ille consurgens, cœpit velle proficisci. Et nihilominus obnixe eum socer tenuit, et apud se fecit manere.",
+        "VulgSistina (1590)": "At ille consurgens, coepit velle proficisci. Et nihilominus obnixe eum socer tenuit, et apud se fecit manere."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68446,
+      "verse": 8,
+      "critical_text": "Mane autem facto, parabat Levites iter. Cui socer rursum: Oro te, inquit, ut paululum cibi capias, et assumptis viribus donec increscat dies, postea proficiscaris. Comederunt ergo simul.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Mane autem facto, parabat Levites iter. Cui socer rursum: Oro te, inquit, ut paululum cibi capias, et assumptis viribus donec increscat dies, postea proficiscaris. Comederunt ergo simul.",
+        "Clem-Saints": "Mane autem facto, parabat Levites iter. Cui socer rursum: Oro te, inquit, ut paululum cibi capias, et assumptis viribus donec increscat dies, postea proficiscaris. Comederunt ergo simul.",
+        "VulgHetzenauer (1906)": "Mane autem facto, parabat Levites iter. Cui socer rursum: Oro te, inquit, ut paululum cibi capias, et assumptis viribus, donec increscat dies, postea proficiscaris. Comederunt ergo simul.",
+        "VulgConte (2009)": "Mane autem facto, parabat Levites iter. Cui socer rursum: Oro te, inquit, ut paululum cibi capias, et assumptis viribus, donec increscat dies, postea proficiscaris. Comederunt ergo simul.",
+        "VulgSistina (1590)": "Mane autem facto, parabat Levites iter. Cui socer rursum: Oro te, inquit, ut paululum cibi capias, et assumptis viribus, donec increscat dies, postea proficiscaris. Comederunt ergo simul."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68447,
+      "verse": 9,
+      "critical_text": "Surrexitque adolescens, ut pergeret cum uxore sua et puero. Cui rursum locutus est socer: Considera quod dies ad occasum declivior sit, et propinquat ad vesperum: mane apud me etiam hodie, et duc lætum diem, et cras proficisceris ut vadas in domum tuam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Surrexitque adolescens, ut pergeret cum uxore sua et puero. Cui rursum locutus est socer: Considera quod dies ad occasum declivior sit, et propinquat ad vesperum: mane apud me etiam hodie, et duc lætum diem, et cras proficisceris ut vadas in domum tuam.",
+        "Clem-Saints": "Surrexitque adolescens, ut pergeret cum uxore sua et puero. Cui rursum locutus est socer: Considera quod dies ad occasum declivior sit, et propinquat ad vesperum: mane apud me etiam hodie, et duc lætum diem, et cras proficisceris ut vadas in domum tuam.",
+        "VulgHetzenauer (1906)": "Surrexitque adolescens, ut pergeret cum uxore sua et puero. Cui rursum locutus est socer: Considera quod dies ad occasum declivior sit, et propinquat ad vesperum: mane apud me etiam hodie, et duc lætum diem, et cras proficisceris ut vadas in domum tuam.",
+        "VulgConte (2009)": "Surrexitque adolescens, ut pergeret cum uxore sua et puero. Cui rursum locutus est socer: Considera quod dies ad occasum declivior sit, et propinquat ad vesperum: mane apud me etiam hodie, et duc lætum diem, et cras proficisceris ut vadas in domum tuam.",
+        "VulgSistina (1590)": "Surrexitque adolescens, ut pergeret cum uxore sua et puero. Cui rursum locutus est socer: Considera quod dies ad occasum declivior sit, et propinquat ad vesperum: mane apud me etiam hodie, et duc laetum diem, et cras proficisceris ut vadas in domum tuam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68448,
+      "verse": 10,
+      "critical_text": "Noluit gener acquiescere sermonibus ejus: sed statim perrexit, et venit contra Jebus, quæ altero nomine vocatur Jerusalem, ducens secum duos asinos onustos, et concubinam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Noluit gener acquiescere sermonibus ejus: sed statim perrexit, et venit contra Jebus, quæ altero nomine vocatur Jerusalem, ducens secum duos asinos onustos, et concubinam.",
+        "Clem-Saints": "Noluit gener acquiescere sermonibus ejus: sed statim perrexit, et venit contra Jebus, quæ altero nomine vocatur Jerusalem, ducens secum duos asinos onustos, et concubinam.",
+        "VulgHetzenauer (1906)": "Noluit gener acquiescere sermonibus eius: sed statim perrexit, et venit contra Iebus, quæ altero nomine vocatur Ierusalem, ducens secum duos asinos onustos, et concubinam.",
+        "VulgConte (2009)": "Noluit gener acquiescere sermonibus eius: sed statim perrexit, et venit contra Iebus, quæ altero nomine vocatur Ierusalem, ducens secum duos asinos onustos, et concubinam.",
+        "VulgSistina (1590)": "Noluit gener acquiescere sermonibus eius: sed statim perrexit, et venit contra Iebus, quae altero nomine vocatur Ierusalem, ducens secum duos asinos onustos, et concubinam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68449,
+      "verse": 11,
+      "critical_text": "Jamque erant juxta Jebus, et dies mutabatur in noctem: dixitque puer ad dominum suum: Veni, obsecro: declinemus ad urbem Jebusæorum, et maneamus in ea.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Jamque erant juxta Jebus, et dies mutabatur in noctem: dixitque puer ad dominum suum: Veni, obsecro: declinemus ad urbem Jebusæorum, et maneamus in ea.",
+        "Clem-Saints": "Jamque erant juxta Jebus, et dies mutabatur in noctem: dixitque puer ad dominum suum: Veni, obsecro: declinemus ad urbem Jebusæorum, et maneamus in ea.",
+        "VulgHetzenauer (1906)": "Iamque erant iuxta Iebus, et dies mutabatur in noctem: dixitque puer ad dominum suum: Veni, obsecro, declinemus ad urbem Iebusæorum, et maneamus in ea.",
+        "VulgConte (2009)": "Iamque erant iuxta Iebus, et dies mutabatur in noctem: dixitque puer ad dominum suum: Veni, obsecro, declinemus ad urbem Iebusæorum, et maneamus in ea.",
+        "VulgSistina (1590)": "Iamque aderant iuxta Iebus, et dies mutabatur in noctem: dixitque puer ad dominum suum: Veni, obsecro, declinemus ad urbem Iebusaeorum, et maneamus in ea."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "erant",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "aderant",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "erant",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68450,
+      "verse": 12,
+      "critical_text": "Cui respondit dominus: Non ingrediar oppidum gentis alienæ, quæ non est de filiis Israël: sed transibo usque Gabaa,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cui respondit dominus: Non ingrediar oppidum gentis alienæ, quæ non est de filiis Israël: sed transibo usque Gabaa,",
+        "Clem-Saints": "Cui respondit dominus: Non ingrediar oppidum gentis alienæ, quæ non est de filiis Israël: sed transibo usque Gabaa,",
+        "VulgHetzenauer (1906)": "Cui respondit dominus: Non ingrediar oppidum gentis alienæ, quæ non est de filiis Israel, sed transibo usque Gabaa:",
+        "VulgConte (2009)": "Cui respondit dominus: Non ingrediar oppidum gentis alienæ, quæ non est de filiis Israel, sed transibo usque Gabaa:",
+        "VulgSistina (1590)": "Cui respondit dominus: Non ingrediar oppidum gentis alienae, quae non est de filiis Israel, sed transibo usque Gabaa:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68451,
+      "verse": 13,
+      "critical_text": "et cum illuc pervenero, manebimus in ea, aut certe in urbe Rama.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et cum illuc pervenero, manebimus in ea, aut certe in urbe Rama.",
+        "Clem-Saints": "et cum illuc pervenero, manebimus in ea, aut certe in urbe Rama.",
+        "VulgHetzenauer (1906)": "et cum illuc pervenero, manebimus in ea, aut certe in urbe Rama.",
+        "VulgConte (2009)": "et cum illuc pervenero, manebimus in ea, aut certe in urbe Rama.",
+        "VulgSistina (1590)": "et cum illuc pervenero, manebimus in ea, aut certe in urbe Rama."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68452,
+      "verse": 14,
+      "critical_text": "Transierunt ergo Jebus, et cœptum carpebant iter, occubuitque eis sol juxta Gabaa, quæ est in tribu Benjamin:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Transierunt ergo Jebus, et cœptum carpebant iter, occubuitque eis sol juxta Gabaa, quæ est in tribu Benjamin:",
+        "Clem-Saints": "Transierunt ergo Jebus, et cœptum carpebant iter, occubuitque eis sol juxta Gabaa, quæ est in tribu Benjamin:",
+        "VulgHetzenauer (1906)": "Transierunt ergo Iebus, et cœptum carpebant iter, occubuitque eis sol iuxta Gabaa, quæ est in tribu Beniamin:",
+        "VulgConte (2009)": "Transierunt ergo Iebus, et cœptum carpebant iter, occubuitque eis sol iuxta Gabaa, quæ est in tribu Beniamin:",
+        "VulgSistina (1590)": "Transierunt ergo Iebus, et coeptum carpebant iter, occubuitque eis sol iuxta Gabaa, quae est in tribu Beniamin:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68453,
+      "verse": 15,
+      "critical_text": "diverteruntque ad eam, ut manerent ibi. Quo cum intrassent, sedebant in platea civitatis, et nullus eos recipere voluit hospitio.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "diverteruntque ad eam, ut manerent ibi. Quo cum intrassent, sedebant in platea civitatis, et nullus eos recipere voluit hospitio.",
+        "Clem-Saints": "diverteruntque ad eam, ut manerent ibi. Quo cum intrassent, sedebant in platea civitatis, et nullus eos recipere voluit hospitio.",
+        "VulgHetzenauer (1906)": "diverteruntque ad eam, ut manerent ibi. Quo cum intrassent, sedebant in platea civitatis, et nullus eos recipere voluit hospitio.",
+        "VulgConte (2009)": "diverteruntque ad eam, ut manerent ibi. Quo cum intrassent, sedebant in platea civitatis, et nullus eos recipere voluit hospitio.",
+        "VulgSistina (1590)": "diverteruntque ad eam, ut manerent ibi. Quo cum intrassent, sedebant in platea civitatis, et nullus eos recipere voluit hospitio."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68454,
+      "verse": 16,
+      "critical_text": "Et ecce, apparuit homo senex, revertens de agro et de opere suo vesperi, qui et ipse de monte erat Ephraim, et peregrinus habitabat in Gabaa: homines autem regionis illius erant filii Jemini.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ecce, apparuit homo senex, revertens de agro et de opere suo vesperi, qui et ipse de monte erat Ephraim, et peregrinus habitabat in Gabaa: homines autem regionis illius erant filii Jemini.",
+        "Clem-Saints": "Et ecce, apparuit homo senex, revertens de agro et de opere suo vesperi, qui et ipse de monte erat Ephraim, et peregrinus habitabat in Gabaa: homines autem regionis illius erant filii Jemini.",
+        "VulgHetzenauer (1906)": "Et ecce, apparuit homo senex, revertens de agro et de opere suo vesperi, qui et ipse de monte erat Ephraim, et peregrinus habitabat in Gabaa. homines autem regionis illius erant filii Iemini.",
+        "VulgConte (2009)": "Et ecce, apparuit homo senex, revertens de agro et de opere suo vesperi, qui et ipse de monte erat Ephraim, et peregrinus habitabat in Gabaa. Homines autem regionis illius erant filii Iemini.",
+        "VulgSistina (1590)": "Et ecce, apparuit homo senex, revertens de agro et de opere suo vesperi, qui et ipse de monte erat Ephraim, et peregrinus habitabat in Gabaa. homines autem regionis illius erant filii Iemini."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68455,
+      "verse": 17,
+      "critical_text": "Elevatisque oculis, vidit senex sedentem hominem cum sarcinulis suis in platea civitatis, et dixit ad eum: Unde venis? et quo vadis?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Elevatisque oculis, vidit senex sedentem hominem cum sarcinulis suis in platea civitatis, et dixit ad eum: Unde venis? et quo vadis?",
+        "Clem-Saints": "Elevatisque oculis, vidit senex sedentem hominem cum sarcinulis suis in platea civitatis, et dixit ad eum: Unde venis? et quo vadis?",
+        "VulgHetzenauer (1906)": "Elevatisque oculis, vidit senex sedentem hominem cum sarcinulis suis in platea civitatis: et dixit ad eum: Unde venis? et quo vadis?",
+        "VulgConte (2009)": "Elevatisque oculis, vidit senex sedentem hominem cum sarcinulis suis in platea civitatis: et dixit ad eum: Unde venis? Et quo vadis?",
+        "VulgSistina (1590)": "Elevatisque oculis, vidit senex sedentem hominem cum sarcinulis suis in platea civitatis: et dixit ad eum: Unde venis? et quo vadis?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68456,
+      "verse": 18,
+      "critical_text": "Qui respondit ei: Profecti sumus de Bethlehem Juda, et pergimus ad locum nostrum, qui est in latere montis Ephraim, unde ieramus in Bethlehem: et nunc vadimus ad domum Dei, nullusque sub tectum suum nos vult recipere,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui respondit ei: Profecti sumus de Bethlehem Juda, et pergimus ad locum nostrum, qui est in latere montis Ephraim, unde ieramus in Bethlehem: et nunc vadimus ad domum Dei, nullusque sub tectum suum nos vult recipere,",
+        "Clem-Saints": "Qui respondit ei: Profecti sumus de Bethlehem Juda, et pergimus ad locum nostrum, qui est in latere montis Ephraim, unde ieramus in Bethlehem: et nunc vadimus ad domum Dei, nullusque sub tectum suum nos vult recipere,",
+        "VulgHetzenauer (1906)": "Qui respondit ei: Profecti sumus de Bethlehem Iuda, et pergimus ad locum nostrum, qui est in latere montis Ephraim, unde ieramus in Bethlehem: et nunc vadimus ad domum Dei, nullusque sub tectum suum nos vult recipere,",
+        "VulgConte (2009)": "Qui respondit ei: Profecti sumus de Bethlehem Iuda, et pergimus ad locum nostrum, qui est in latere montis Ephraim, unde ieramus in Bethlehem: et nunc vadimus ad domum Dei, nullusque sub tectum suum nos vult recipere,",
+        "VulgSistina (1590)": "Qui respondit ei: Profecti sumus de Bethlehem Iuda, et pergimus ad locum nostrum, qui est in latere montis Ephraim, unde ieramus in Bethlehem: et nunc vadimus ad domum Dei, nullusque sub tectum suum nos vult recipere,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68457,
+      "verse": 19,
+      "critical_text": "habentes paleas et fœnum in asinorum pabulum, et panem ac vinum in meos et ancillæ tuæ usus, et pueri qui mecum est: nulla re indigemus nisi hospitio.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "habentes paleas et fœnum in asinorum pabulum, et panem ac vinum in meos et ancillæ tuæ usus, et pueri qui mecum est: nulla re indigemus nisi hospitio.",
+        "Clem-Saints": "habentes paleas et fœnum in asinorum pabulum, et panem ac vinum in meos et ancillæ tuæ usus, et pueri qui mecum est: nulla re indigemus nisi hospitio.",
+        "VulgHetzenauer (1906)": "habentes paleas et fœnum in asinorum pabulum, et panem ac vinum in meos et ancillæ tuæ usus, et pueri, qui mecum est: nulla re indigemus nisi hospitio.",
+        "VulgConte (2009)": "habentes paleas et fœnum in asinorum pabulum, et panem ac vinum in meos et ancillæ tuæ usus, et pueri, qui mecum est: nulla re indigemus nisi hospitio.",
+        "VulgSistina (1590)": "habentes paleas et foenum in asinorum pabulum, et panem ac vinum in meos et ancillae tuae usus, et pueri, qui mecum est: nulla re indigemus nisi hospitio."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68458,
+      "verse": 20,
+      "critical_text": "Cui respondit senex: Pax tecum sit, ego præbebo omnia quæ necessaria sunt: tantum, quæso, ne in platea maneas.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cui respondit senex: Pax tecum sit, ego præbebo omnia quæ necessaria sunt: tantum, quæso, ne in platea maneas.",
+        "Clem-Saints": "Cui respondit senex: Pax tecum sit, ego præbebo omnia quæ necessaria sunt: tantum, quæso, ne in platea maneas.",
+        "VulgHetzenauer (1906)": "Cui respondit senex: Pax tecum sit, ego præbebo omnia quæ necessaria sunt: tantum, quæso, ne in platea maneas.",
+        "VulgConte (2009)": "Cui respondit senex: Pax tecum sit, ego præbebo omnia quæ necessaria sunt: tantum, quæso, ne in platea maneas.",
+        "VulgSistina (1590)": "Cui respondit senex: Pax tecum sit, ego praebebo omnia quae necessaria sunt: tantum, quaeso, ne in platea maneas."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68459,
+      "verse": 21,
+      "critical_text": "Introduxitque eum in domum suam, et pabulum asinis præbuit: ac postquam laverunt pedes suos, recepit eos in convivium.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Introduxitque eum in domum suam, et pabulum asinis præbuit: ac postquam laverunt pedes suos, recepit eos in convivium.",
+        "Clem-Saints": "Introduxitque eum in domum suam, et pabulum asinis præbuit: ac postquam laverunt pedes suos, recepit eos in convivium.",
+        "VulgHetzenauer (1906)": "Introduxitque eum in domum suam, et pabulum asinis præbuit: ac postquam laverunt pedes suos, recepit eos in convivium.",
+        "VulgConte (2009)": "Introduxitque eum in domum suam, et pabulum asinis præbuit: ac postquam laverunt pedes suos, recepit eos in convivium.",
+        "VulgSistina (1590)": "Introduxitque eum in domum suam, et pabulum asinis praebuit: ac postquam laverunt pedes suos, recepit eos in convivium."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68460,
+      "verse": 22,
+      "critical_text": "Illis epulantibus, et post laborem itineris cibo et potu reficientibus corpora, venerunt viri civitatis illius, filii Belial (id est, absque jugo), et circumdantes domum senis, fores pulsare cœperunt, clamantes ad dominum domus atque dicentes: Educ virum, qui ingressus est domum tuam, ut abutamur eo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Illis epulantibus, et post laborem itineris cibo et potu reficientibus corpora, venerunt viri civitatis illius, filii Belial (id est, absque jugo), et circumdantes domum senis, fores pulsare cœperunt, clamantes ad dominum domus atque dicentes: Educ virum, qui ingressus est domum tuam, ut abutamur eo.",
+        "Clem-Saints": "Illis epulantibus, et post laborem itineris cibo et potu reficientibus corpora, venerunt viri civitatis illius, filii Belial (id est, absque jugo), et circumdantes domum senis, fores pulsare cœperunt, clamantes ad dominum domus atque dicentes: Educ virum, qui ingressus est domum tuam, ut abutamur eo.",
+        "VulgHetzenauer (1906)": "Illis epulantibus, et post laborem itineris, cibo et potu reficientibus corpora, venerunt viri civitatis illius, filii Belial, (id est, absque iugo) et circumdantes domum senis, fores pulsare cœperunt, clamantes ad dominum domus, atque dicentes: Educ virum, qui ingressus est domum tuam, ut abutamur eo.",
+        "VulgConte (2009)": "Illis epulantibus, et post laborem itineris, cibo et potu reficientibus corpora, venerunt viri civitatis illius, filii Belial, (id est, absque iugo) et circumdantes domum senis, fores pulsare cœperunt, clamantes ad dominum domus, atque dicentes: Educ virum, qui ingressus est domum tuam, ut abutamur eo.",
+        "VulgSistina (1590)": "Illis epulantibus, et post laborem itineris, cibo et potu reficientibus corpora, venerunt viri civitatis illius, filii Belial, (id est, absque iugo) et circumdantes domum senis, fores pulsare coeperunt, clamantes ad dominum domus, atque dicentes: Educ virum, qui ingressus est domum tuam, ut abutamur eo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68461,
+      "verse": 23,
+      "critical_text": "Egressusque est ad eos senex, et ait: Nolite, fratres, nolite facere malum hoc, quia ingressus est homo hospitium meum: et cessate ab hac stultitia.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Egressusque est ad eos senex, et ait: Nolite, fratres, nolite facere malum hoc, quia ingressus est homo hospitium meum: et cessate ab hac stultitia.",
+        "Clem-Saints": "Egressusque est ad eos senex, et ait: Nolite, fratres, nolite facere malum hoc, quia ingressus est homo hospitium meum: et cessate ab hac stultitia.",
+        "VulgHetzenauer (1906)": "Egressusque est ad eos senex, et ait: Nolite fratres, nolite facere malum hoc: quia ingressus est homo hospitium meum, et cessate ab hac stultitia:",
+        "VulgConte (2009)": "Egressusque est ad eos senex, et ait: Nolite fratres, nolite facere malum hoc: quia ingressus est homo hospitium meum, et cessate ab hac stultitia:",
+        "VulgSistina (1590)": "Egressusque est ad eos senex, et ait: Nolite fratres, nolite facere malum hoc: quia ingressus est homo hospitium meum, et cessate ab hac stultitia:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68462,
+      "verse": 24,
+      "critical_text": "Habeo filiam virginem, et hic homo habet concubinam: educam eas ad vos, ut humilietis eas, et vestram libidinem compleatis: tantum, obsecro, ne scelus hoc contra naturam operemini in virum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Habeo filiam virginem, et hic homo habet concubinam: educam eas ad vos, ut humilietis eas, et vestram libidinem compleatis: tantum, obsecro, ne scelus hoc contra naturam operemini in virum.",
+        "Clem-Saints": "Habeo filiam virginem, et hic homo habet concubinam: educam eas ad vos, ut humilietis eas, et vestram libidinem compleatis: tantum, obsecro, ne scelus hoc contra naturam operemini in virum.",
+        "VulgHetzenauer (1906)": "habeo filiam virginem, et hic homo habet concubinam, educam eas ad vos, ut humilietis eas, et vestram libidinem compleatis: tantum, obsecro, ne scelus hoc contra naturam operemini in virum.",
+        "VulgConte (2009)": "habeo filiam virginem, et hic homo habet concubinam, educam eas ad vos, ut humilietis eas, et vestram libidinem compleatis: tantum, obsecro, ne scelus hoc contra naturam operemini in virum.",
+        "VulgSistina (1590)": "habeo filiam virginem, et hic homo habet concubinam, educam eas ad vos, ut humilietis eas, et vestram libidinem compleatis: tantum, obsecro, ne scelus hoc contra naturam operemini in virum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68463,
+      "verse": 25,
+      "critical_text": "Nolebant acquiescere sermonibus illius: quod cernens homo, eduxit ad eos concubinam suam, et eis tradidit illudendam: qua cum tota nocte abusi essent, dimiserunt eam mane.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nolebant acquiescere sermonibus illius: quod cernens homo, eduxit ad eos concubinam suam, et eis tradidit illudendam: qua cum tota nocte abusi essent, dimiserunt eam mane.",
+        "Clem-Saints": "Nolebant acquiescere sermonibus illius: quod cernens homo, eduxit ad eos concubinam suam, et eis tradidit illudendam: qua cum tota nocte abusi essent, dimiserunt eam mane.",
+        "VulgHetzenauer (1906)": "Nolebant acquiescere sermonibus illius. quod cernens homo, eduxit ad eos concubinam suam, et eis tradidit illudendam: qua cum tota nocte abusi essent, dimiserunt eam mane.",
+        "VulgConte (2009)": "Nolebant acquiescere sermonibus illius. Quod cernens homo, eduxit ad eos concubinam suam, et eis tradidit illudendam: qua cum tota nocte abusi essent, dimiserunt eam mane.",
+        "VulgSistina (1590)": "Nolebant acquiescere sermonibus illius. quod cernens homo, eduxit ad eos concubinam suam, et eis tradidit illudendam: qua cum tota nocte abusi essent, dimiserunt eam mane."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68464,
+      "verse": 26,
+      "critical_text": "At mulier, recedentibus tenebris, venit ad ostium domus, ubi manebat dominus suus, et ibi corruit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "At mulier, recedentibus tenebris, venit ad ostium domus, ubi manebat dominus suus, et ibi corruit.",
+        "Clem-Saints": "At mulier, recedentibus tenebris, venit ad ostium domus, ubi manebat dominus suus, et ibi corruit.",
+        "VulgHetzenauer (1906)": "At mulier, recedentibus tenebris, venit ad ostium domus, ubi manebat dominus suus, et ibi corruit.",
+        "VulgConte (2009)": "At mulier, recedentibus tenebris, venit ad ostium domus, ubi manebat dominus suus, et ibi corruit.",
+        "VulgSistina (1590)": "At mulier, recedentibus tenebris, venit ad ostium domus, ubi manebat dominus suus, et ibi corruit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68465,
+      "verse": 27,
+      "critical_text": "Mane facto, surrexit homo, et aperuit ostium, ut cœptam expleret viam: et ecce concubina ejus jacebat ante ostium sparsis in limine manibus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Mane facto, surrexit homo, et aperuit ostium, ut cœptam expleret viam: et ecce concubina ejus jacebat ante ostium sparsis in limine manibus.",
+        "Clem-Saints": "Mane facto, surrexit homo, et aperuit ostium, ut cœptam expleret viam: et ecce concubina ejus jacebat ante ostium sparsis in limine manibus.",
+        "VulgHetzenauer (1906)": "Mane facto, surrexit homo, et aperuit ostium, ut cœptam expleret viam: et ecce concubina eius iacebat ante ostium sparsis in limine manibus.",
+        "VulgConte (2009)": "Mane facto, surrexit homo, et aperuit ostium, ut cœptam expleret viam: et ecce concubina eius iacebat ante ostium sparsis in limine manibus.",
+        "VulgSistina (1590)": "Mane facto, surrexit homo, et aperuit ostium, ut coeptam expleret viam: et ecce concubina eius iacebat ante ostium sparsis in limine manibus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68466,
+      "verse": 28,
+      "critical_text": "Cui ille, putans eam quiescere, loquebatur: Surge, et ambulemus. Qua nihil respondente, intelligens quod erat mortua, tulit eam, et imposuit asino, reversusque est in domum suam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cui ille, putans eam quiescere, loquebatur: Surge, et ambulemus. Qua nihil respondente, intelligens quod erat mortua, tulit eam, et imposuit asino, reversusque est in domum suam.",
+        "Clem-Saints": "Cui ille, putans eam quiescere, loquebatur: Surge, et ambulemus. Qua nihil respondente, intelligens quod erat mortua, tulit eam, et imposuit asino, reversusque est in domum suam.",
+        "VulgHetzenauer (1906)": "Cui ille, putans eam quiescere, loquebatur: Surge, et ambulemus. Qua nihil respondente, intelligens quod erat mortua; tulit eam, et imposuit asino, reversusque est in domum suam.",
+        "VulgConte (2009)": "Cui ille, putans eam quiescere, loquebatur: Surge, et ambulemus. Qua nihil respondente, intelligens quod erat mortua; tulit eam, et imposuit asino, reversusque est in domum suam.",
+        "VulgSistina (1590)": "Cui ille, putans eam quiescere, loquebatur: Surge, et ambulemus. Qua nihil respondente, intelligens quod erat mortua; tulit eam, et imposuit asino, reversusque est in domum suam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68467,
+      "verse": 29,
+      "critical_text": "Quam cum esset ingressus, arripuit gladium, et cadaver uxoris cum ossibus suis in duodecim partes ac frustra concidens, misit in omnes terminos Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quam cum esset ingressus, arripuit gladium, et cadaver uxoris cum ossibus suis in duodecim partes ac frustra concidens, misit in omnes terminos Israël.",
+        "Clem-Saints": "Quam cum esset ingressus, arripuit gladium, et cadaver uxoris cum ossibus suis in duodecim partes ac frustra concidens, misit in omnes terminos Israël.",
+        "VulgHetzenauer (1906)": "Quam cum esset ingressus, arripuit gladium, et cadaver uxoris cum ossibus suis in duodecim partes ac frustra concidens, misit in omnes terminos Israel.",
+        "VulgConte (2009)": "Quam cum esset ingressus, arripuit gladium, et cadaver uxoris cum ossibus suis in duodecim partes ac frustra concidens, misit in omnes terminos Israel.",
+        "VulgSistina (1590)": "Quam cum esset ingressus, arripuit gladium, et cadaver uxoris cum ossibus suis in duodecim partes ac frustra concidens, misit in omnes terminos Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68468,
+      "verse": 30,
+      "critical_text": "Quod cum vidissent singuli, conclamabant: Numquam res talis facta est in Israël, ex eo die quo ascenderunt patres nostri de Ægypto usque in præsens tempus: ferte sententiam, et in commune decernite quid facto opus sit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quod cum vidissent singuli, conclamabant: Numquam res talis facta est in Israël, ex eo die quo ascenderunt patres nostri de Ægypto usque in præsens tempus: ferte sententiam, et in commune decernite quid facto opus sit.",
+        "Clem-Saints": "Quod cum vidissent singuli, conclamabant: Numquam res talis facta est in Israël, ex eo die quo ascenderunt patres nostri de Ægypto usque in præsens tempus: ferte sententiam, et in commune decernite quid facto opus sit.",
+        "VulgHetzenauer (1906)": "Quod cum vidissent singuli, conclamabant. Numquam res talis facta est in Israel ex eo die, quo ascenderunt patres nostri de Ægypto, usque in præsens tempus: ferte sententiam, et in commune decernite quid facto opus sit.",
+        "VulgConte (2009)": "Quod cum vidissent singuli, conclamabant. Numquam res talis facta est in Israel ex eo die, quo ascenderunt patres nostri de Ægypto, usque in præsens tempus: ferte sententiam, et in commune decernite quid facto opus sit.",
+        "VulgSistina (1590)": "Quod cum vidissent singuli, conclamabant. Numquam res talis facta est in Israel ex eo die, quo ascenderunt patres nostri de Aegypto, usque in praesens tempus: ferte sententiam, et in commune decernite quid facto opus sit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

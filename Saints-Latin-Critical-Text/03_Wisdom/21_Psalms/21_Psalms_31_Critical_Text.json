@@ -1,0 +1,442 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "psalms",
+  "book_title": "Psalms",
+  "usfm_code": "PSA",
+  "chapter": 31,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:17Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 77265,
+      "verse": 1,
+      "critical_text": "Ipsi David intellectus. Beati quorum remissæ sunt iniquitates, et quorum tecta sunt peccata.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ipsi David intellectus. Beati quorum remissæ sunt iniquitates, et quorum tecta sunt peccata.",
+        "Clem-Saints": "Ipsi David intellectus. Beati quorum remissæ sunt iniquitates, et quorum tecta sunt peccata.",
+        "VulgHetzenauer (1906)": "Ipsi David intellectus. Beati, quorum remissæ sunt iniquitates: et quorum tecta sunt peccata.",
+        "VulgConte (2009)": "Ipsi David intellectus. Beati, quorum remissæ sunt iniquitates: et quorum tecta sunt peccata.",
+        "VulgSistina (1590)": "Psalmus David, intelligentia. Beati, quorum remissae sunt iniquitates: et quorum tecta sunt peccata."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Ipsi",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Psalmus",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ipsi",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "intellectus.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "intelligentia.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "intellectus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77266,
+      "verse": 2,
+      "critical_text": "Beatus vir cui non imputavit Dominus peccatum, nec est in spiritu ejus dolus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Beatus vir cui non imputavit Dominus peccatum, nec est in spiritu ejus dolus.",
+        "Clem-Saints": "Beatus vir cui non imputavit Dominus peccatum, nec est in spiritu ejus dolus.",
+        "VulgHetzenauer (1906)": "Beatus vir, cui non imputavit Dominus peccatum, nec est in spiritu eius dolus.",
+        "VulgConte (2009)": "Beatus vir, cui non imputavit Dominus peccatum, nec est in spiritu eius dolus.",
+        "VulgSistina (1590)": "Beatus vir, cui non imputavit Dominus peccatum, nec est in spiritu eius dolus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77267,
+      "verse": 3,
+      "critical_text": "Quoniam tacui, inveteraverunt ossa mea, dum clamarem tota die.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quoniam tacui, inveteraverunt ossa mea, dum clamarem tota die.",
+        "Clem-Saints": "Quoniam tacui, inveteraverunt ossa mea, dum clamarem tota die.",
+        "VulgHetzenauer (1906)": "Quoniam tacui, inveteraverunt ossa mea, dum clamarem tota die.",
+        "VulgConte (2009)": "Quoniam tacui, inveteraverunt ossa mea, dum clamarem tota die.",
+        "VulgSistina (1590)": "Quoniam tacui, inveteraverunt ossa mea, dum clamarem tota die."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77268,
+      "verse": 4,
+      "critical_text": "Quoniam die ac nocte gravata est super me manus tua, conversus sum in ærumna mea, dum configitur spina.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quoniam die ac nocte gravata est super me manus tua, conversus sum in ærumna mea, dum configitur spina.",
+        "Clem-Saints": "Quoniam die ac nocte gravata est super me manus tua, conversus sum in ærumna mea, dum configitur spina.",
+        "VulgHetzenauer (1906)": "Quoniam die ac nocte gravata est super me manus tua: conversus sum in ærumna mea, dum configitur spina.",
+        "VulgConte (2009)": "Quoniam die ac nocte gravata est super me manus tua: conversus sum in ærumna mea, dum configitur spina.",
+        "VulgSistina (1590)": "Quoniam die ac nocte gravata est super me manus tua: conversus sum in aerumna mea, dum configitur spina."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77269,
+      "verse": 5,
+      "critical_text": "Delictum meum cognitum tibi feci, et injustitiam meam non abscondi. Dixi: Confitebor adversum me injustitiam meam Domino; et tu remisisti impietatem peccati mei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Delictum meum cognitum tibi feci, et injustitiam meam non abscondi. Dixi: Confitebor adversum me injustitiam meam Domino; et tu remisisti impietatem peccati mei.",
+        "Clem-Saints": "Delictum meum cognitum tibi feci, et injustitiam meam non abscondi. Dixi: Confitebor adversum me injustitiam meam Domino; et tu remisisti impietatem peccati mei.",
+        "VulgHetzenauer (1906)": "Delictum meum cognitum tibi feci: et iniustitiam meam non abscondi. Dixi: Confitebor adversum me iniustitiam meam Domino: et tu remisisti impietatem peccati mei.",
+        "VulgConte (2009)": "Delictum meum cognitum tibi feci: et iniustitiam meam non abscondi. Dixi: Confitebor adversum me iniustitiam meam Domino: et tu remisisti impietatem peccati mei.",
+        "VulgSistina (1590)": "Delictum meum cognitum tibi feci: et iniustitiam meam non abscondi. Dixi: Confitebor adversum me iniustitiam meam Domino: et tu remisisti impietatem peccati mei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77270,
+      "verse": 6,
+      "critical_text": "Pro hac orabit ad te omnis sanctus in tempore opportuno. Verumtamen in diluvio aquarum multarum, ad eum non approximabunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Pro hac orabit ad te omnis sanctus in tempore opportuno. Verumtamen in diluvio aquarum multarum, ad eum non approximabunt.",
+        "Clem-Saints": "Pro hac orabit ad te omnis sanctus in tempore opportuno. Verumtamen in diluvio aquarum multarum, ad eum non approximabunt.",
+        "VulgHetzenauer (1906)": "Pro hac orabit ad te omnis sanctus, in tempore opportuno. Verumtamen in diluvio aquarum multarum, ad eum non approximabunt.",
+        "VulgConte (2009)": "Pro hac orabit ad te omnis sanctus, in tempore opportuno. Verumtamen in diluvio aquarum multarum, ad eum non approximabunt.",
+        "VulgSistina (1590)": "Pro hac orabit ad te omnis sanctus, in tempore opportuno. Verumtamen in diluvio aquarum multarum, ad eum non approximabunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77271,
+      "verse": 7,
+      "critical_text": "Tu es refugium meum a tribulatione quæ circumdedit me; exsultatio mea, erue me a circumdantibus me.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tu es refugium meum a tribulatione quæ circumdedit me; exsultatio mea, erue me a circumdantibus me.",
+        "Clem-Saints": "Tu es refugium meum a tribulatione quæ circumdedit me; exsultatio mea, erue me a circumdantibus me.",
+        "VulgHetzenauer (1906)": "Tu es refugium meum a tribulatione, quæ circumdedit me: exultatio mea erue me a circumdantibus me.",
+        "VulgConte (2009)": "Tu es refugium meum a tribulatione, quæ circumdedit me: exultatio mea erue me a circumdantibus me.",
+        "VulgSistina (1590)": "Tu es refugium meum a tribulatione, quae circumdedit me: exultatio mea erue me a circumdantibus me."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exsultatio / exultatio",
+            "exsultatio / exultatio",
+            "exsultatio / exultatio"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77272,
+      "verse": 8,
+      "critical_text": "Intellectum tibi dabo, et instruam te in via hac qua gradieris; firmabo super te oculos meos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Intellectum tibi dabo, et instruam te in via hac qua gradieris; firmabo super te oculos meos.",
+        "Clem-Saints": "Intellectum tibi dabo, et instruam te in via hac qua gradieris; firmabo super te oculos meos.",
+        "VulgHetzenauer (1906)": "Intellectum tibi dabo, et instruam te in via hac, qua gradieris: firmabo super te oculos meos.",
+        "VulgConte (2009)": "Intellectum tibi dabo, et instruam te in via hac, qua gradieris: firmabo super te oculos meos.",
+        "VulgSistina (1590)": "Intellectum tibi dabo, et instruam te in via hac, qua gradieris: firmabo super te oculos meos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77273,
+      "verse": 9,
+      "critical_text": "Nolite fieri sicut equus et mulus, quibus non est intellectus. In camo et freno maxillas eorum constringe, qui non approximant ad te.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nolite fieri sicut equus et mulus, quibus non est intellectus. In camo et freno maxillas eorum constringe, qui non approximant ad te.",
+        "Clem-Saints": "Nolite fieri sicut equus et mulus, quibus non est intellectus. In camo et freno maxillas eorum constringe, qui non approximant ad te.",
+        "VulgHetzenauer (1906)": "Nolite fieri sicut equus et mulus, quibus non est intellectus. In camo et freno maxillas eorum constringe, qui non approximant ad te.",
+        "VulgConte (2009)": "Nolite fieri sicut equus et mulus, quibus non est intellectus. In camo et freno maxillas eorum constringe, qui non approximant ad te.",
+        "VulgSistina (1590)": "Nolite fieri sicut equus et mulus, quibus non est intellectus. In camo et freno maxillas eorum constringe, qui non approximant ad te."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77274,
+      "verse": 10,
+      "critical_text": "Multa flagella peccatoris; sperantem autem in Domino misericordia circumdabit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Multa flagella peccatoris; sperantem autem in Domino misericordia circumdabit.",
+        "Clem-Saints": "Multa flagella peccatoris; sperantem autem in Domino misericordia circumdabit.",
+        "VulgHetzenauer (1906)": "Multa flagella peccatoris, sperantem autem in Domino misericordia circumdabit.",
+        "VulgConte (2009)": "Multa flagella peccatoris, sperantem autem in Domino misericordia circumdabit.",
+        "VulgSistina (1590)": "Multa flagella peccatoris, sperantem autem in Domino misericordia circumdabit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 77275,
+      "verse": 11,
+      "critical_text": "Lætamini in Domino, et exsultate, justi; et gloriamini, omnes recti corde.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Lætamini in Domino, et exsultate, justi; et gloriamini, omnes recti corde.",
+        "Clem-Saints": "Lætamini in Domino, et exsultate, justi; et gloriamini, omnes recti corde.",
+        "VulgHetzenauer (1906)": "Lætamini in Domino et exultate iusti, et gloriamini omnes recti corde.",
+        "VulgConte (2009)": "Lætamini in Domino et exultate iusti, et gloriamini omnes recti corde.",
+        "VulgSistina (1590)": "Laetamini in Domino et exultate iusti, et gloriamini omnes recti corde."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exsultate, / exultate",
+            "exsultate, / exultate",
+            "exsultate, / exultate"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

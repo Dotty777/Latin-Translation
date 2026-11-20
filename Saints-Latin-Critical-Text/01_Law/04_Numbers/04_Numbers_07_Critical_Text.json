@@ -1,0 +1,2623 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "01_Law",
+  "book_slug": "numbers",
+  "book_title": "Numbers",
+  "usfm_code": "NUM",
+  "chapter": 7,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:21Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 65294,
+      "verse": 1,
+      "critical_text": "Factum est autem in die qua complevit Moyses tabernaculum, et erexit illud, unxitque et sanctificavit cum omnibus vasis suis, altare similiter et omnia vasa ejus:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Factum est autem in die qua complevit Moyses tabernaculum, et erexit illud, unxitque et sanctificavit cum omnibus vasis suis, altare similiter et omnia vasa ejus:",
+        "Clem-Saints": "Factum est autem in die qua complevit Moyses tabernaculum, et erexit illud, unxitque et sanctificavit cum omnibus vasis suis, altare similiter et omnia vasa ejus:",
+        "VulgHetzenauer (1906)": "Factum est autem in die qua complevit Moyses tabernaculum, et erexit illud: unxitque et sanctificavit cum omnibus vasis suis, altare similiter et omnia vasa eius.",
+        "VulgConte (2009)": "Factum est autem in die qua complevit Moyses tabernaculum, et erexit illud: unxitque et sanctificavit cum omnibus vasis suis, altare similiter et omnia vasa eius:",
+        "VulgSistina (1590)": "Factum est autem in die qua complevit Moyses tabernaculum, et erexit illud: unxitque et sanctificavit cum omnibus vasis suis, altare similiter et omnia vasa eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65295,
+      "verse": 2,
+      "critical_text": "obtulerunt principes Israël et capita familiarum, qui erant per singulas tribus, præfectique eorum, qui numerati fuerant,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "obtulerunt principes Israël et capita familiarum, qui erant per singulas tribus, præfectique eorum, qui numerati fuerant,",
+        "Clem-Saints": "obtulerunt principes Israël et capita familiarum, qui erant per singulas tribus, præfectique eorum, qui numerati fuerant,",
+        "VulgHetzenauer (1906)": "Obtulerunt principes Israel et capita familiarum, qui erant per singulas tribus, præfectique eorum, qui numerati fuerant,",
+        "VulgConte (2009)": "obtulerunt principes Israel et capita familiarum, qui erant per singulas tribus, præfectique eorum, qui numerati fuerant,",
+        "VulgSistina (1590)": "Obtulerunt principes Israel et capita familiarum, qui erant per singulas tribus, praefecti eorum, qui numerati fuerant,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "præfectique",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "praefecti",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 11,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "praefectique",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65296,
+      "verse": 3,
+      "critical_text": "munera coram Domino sex plaustra tecta cum duodecim bobus. Unum plaustrum obtulere duo duces, et unum bovem singuli, obtuleruntque ea in conspectu tabernaculi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "munera coram Domino sex plaustra tecta cum duodecim bobus. Unum plaustrum obtulere duo duces, et unum bovem singuli, obtuleruntque ea in conspectu tabernaculi.",
+        "Clem-Saints": "munera coram Domino sex plaustra tecta cum duodecim bobus. Unum plaustrum obtulere duo duces, et unum bovem singuli, obtuleruntque ea in conspectu tabernaculi.",
+        "VulgHetzenauer (1906)": "munera coram Domino sex plaustra tecta cum duodecim bobus. Unum plaustrum obtulere duo duces, et unum bovem singuli, obtuleruntque ea in conspectu tabernaculi.",
+        "VulgConte (2009)": "munera coram Domino sex plaustra tecta cum duodecim bobus. Unum plaustrum obtulere duo duces, et unum bovem singuli, obtuleruntque ea in conspectu tabernaculi.",
+        "VulgSistina (1590)": "munera coram Domino sex plaustra tecta cum duodecim bobus. Unum plaustrum obtulere duo duces, et unum bovem singuli, obtuleruntque ea in conspectu tabernaculi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65297,
+      "verse": 4,
+      "critical_text": "Ait autem Dominus ad Moysen:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ait autem Dominus ad Moysen:",
+        "Clem-Saints": "Ait autem Dominus ad Moysen:",
+        "VulgHetzenauer (1906)": "Ait autem Dominus ad Moysen:",
+        "VulgConte (2009)": "Ait autem Dominus ad Moysen:",
+        "VulgSistina (1590)": "Ait autem Dominus ad Moysen:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65298,
+      "verse": 5,
+      "critical_text": "Suscipe ab eis ut serviant in ministerio tabernaculi, et trades ea Levitis juxta ordinem ministerii sui.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Suscipe ab eis ut serviant in ministerio tabernaculi, et trades ea Levitis juxta ordinem ministerii sui.",
+        "Clem-Saints": "Suscipe ab eis ut serviant in ministerio tabernaculi, et trades ea Levitis juxta ordinem ministerii sui.",
+        "VulgHetzenauer (1906)": "Suscipe ab eis ut serviant in ministerio tabernaculi, et trades ea Levitis iuxta ordinem ministerii sui.",
+        "VulgConte (2009)": "Suscipe ab eis ut serviant in ministerio tabernaculi, et trades ea Levitis iuxta ordinem ministerii sui.",
+        "VulgSistina (1590)": "Suscipe ab eis ut serviant in ministerio tabernaculi, et trades ea Levitis iuxta ordinem ministerii sui."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65299,
+      "verse": 6,
+      "critical_text": "Itaque cum suscepisset Moyses plaustra et boves, tradidit eos Levitis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Itaque cum suscepisset Moyses plaustra et boves, tradidit eos Levitis.",
+        "Clem-Saints": "Itaque cum suscepisset Moyses plaustra et boves, tradidit eos Levitis.",
+        "VulgHetzenauer (1906)": "Itaque cum suscepisset Moyses plaustra et boves, tradidit eos Levitis.",
+        "VulgConte (2009)": "Itaque cum suscepisset Moyses plaustra et boves, tradidit eos Levitis.",
+        "VulgSistina (1590)": "Itaque cum suscepisset Moyses plaustra et boves, tradidit eos Levitis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65300,
+      "verse": 7,
+      "critical_text": "Duo plaustra et quatuor boves dedit filiis Gerson, juxta id quod habebant necessarium.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Duo plaustra et quatuor boves dedit filiis Gerson, juxta id quod habebant necessarium.",
+        "Clem-Saints": "Duo plaustra et quatuor boves dedit filiis Gerson, juxta id quod habebant necessarium.",
+        "VulgHetzenauer (1906)": "Duo plaustra et quattuor boves dedit filiis Gerson, iuxta id quod habebant necessarium.",
+        "VulgConte (2009)": "Duo plaustra et quattuor boves dedit filiis Gerson, iuxta id quod habebant necessarium.",
+        "VulgSistina (1590)": "Duo plaustra et quattuor boves dedit filiis Gerson, iuxta id quod habebant necessarium."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65301,
+      "verse": 8,
+      "critical_text": "Quatuor alia plaustra et octo boves dedit filiis Merari secundum officia et cultum suum, sub manu Ithamar filii Aaron sacerdotis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quatuor alia plaustra et octo boves dedit filiis Merari secundum officia et cultum suum, sub manu Ithamar filii Aaron sacerdotis.",
+        "Clem-Saints": "Quatuor alia plaustra et octo boves dedit filiis Merari secundum officia et cultum suum, sub manu Ithamar filii Aaron sacerdotis.",
+        "VulgHetzenauer (1906)": "quattuor alia plaustra, et octo boves dedit filiis Merari secundum officia et cultum suum, sub manu Ithamar filii Aaron sacerdotis.",
+        "VulgConte (2009)": "Quattuor alia plaustra, et octo boves dedit filiis Merari secundum officia et cultum suum, sub manu Ithamar filii Aaron sacerdotis.",
+        "VulgSistina (1590)": "quattuor alia plaustra, et octo boves dedit filiis Merari secundum officia et cultum suum, sub manu Ithamar filii Aaron sacerdotis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Quatuor / Quattuor",
+            "Quatuor / quattuor",
+            "Quatuor / quattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65302,
+      "verse": 9,
+      "critical_text": "Filiis autem Caath non dedit plaustra et boves: quia in sanctuario serviunt, et onera propriis portant humeris.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filiis autem Caath non dedit plaustra et boves: quia in sanctuario serviunt, et onera propriis portant humeris.",
+        "Clem-Saints": "Filiis autem Caath non dedit plaustra et boves: quia in sanctuario serviunt, et onera propriis portant humeris.",
+        "VulgHetzenauer (1906)": "filiis autem Caath non dedit plaustra et boves: quia in Sanctuario serviunt, et onera propriis portant humeris.",
+        "VulgConte (2009)": "Filiis autem Caath non dedit plaustra et boves: quia in Sanctuario serviunt, et onera propriis portant humeris.",
+        "VulgSistina (1590)": "filiis autem Caath non dedit plaustra et boves: quia in Sanctuario serviunt, et onera propriis portant humeris."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65303,
+      "verse": 10,
+      "critical_text": "Igitur obtulerunt duces in dedicationem altaris, die qua unctum est, oblationem suam ante altare.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Igitur obtulerunt duces in dedicationem altaris, die qua unctum est, oblationem suam ante altare.",
+        "Clem-Saints": "Igitur obtulerunt duces in dedicationem altaris, die qua unctum est, oblationem suam ante altare.",
+        "VulgHetzenauer (1906)": "Igitur obtulerunt duces in dedicationem altaris, die qua unctum est, oblationem suam ante altare.",
+        "VulgConte (2009)": "Igitur obtulerunt duces in dedicationem altaris, die qua unctum est, oblationem suam ante altare.",
+        "VulgSistina (1590)": "Igitur obtulerunt duces in dedicationem altaris, die qua unctum est, oblationem suam ante altare."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65304,
+      "verse": 11,
+      "critical_text": "Dixitque Dominus ad Moysen: Singuli duces per singulos dies offerant munera in dedicationem altaris.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque Dominus ad Moysen: Singuli duces per singulos dies offerant munera in dedicationem altaris.",
+        "Clem-Saints": "Dixitque Dominus ad Moysen: Singuli duces per singulos dies offerant munera in dedicationem altaris.",
+        "VulgHetzenauer (1906)": "Dixitque Dominus ad Moysen: Singuli duces per singulos dies offerant munera in dedicationem altaris.",
+        "VulgConte (2009)": "Dixitque Dominus ad Moysen: Singuli duces per singulos dies offerant munera in dedicationem altaris.",
+        "VulgSistina (1590)": "Dixitque Dominus ad Moysen: Singuli duces per singulos dies offerant munera in dedicationem altaris."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65305,
+      "verse": 12,
+      "critical_text": "Primo die obtulit oblationem suam Nahasson filius Aminadab de tribu Juda:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Primo die obtulit oblationem suam Nahasson filius Aminadab de tribu Juda:",
+        "Clem-Saints": "Primo die obtulit oblationem suam Nahasson filius Aminadab de tribu Juda:",
+        "VulgHetzenauer (1906)": "Primo die obtulit oblationem suam Nahasson filius Aminadab de tribu Iuda:",
+        "VulgConte (2009)": "Primo die obtulit oblationem suam Nahasson filius Aminadab de tribu Iuda:",
+        "VulgSistina (1590)": "Primo die obtulit oblationem suam Nahasson filius Aminadab de tribu Iuda:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65306,
+      "verse": 13,
+      "critical_text": "fueruntque in ea acetabulum argenteum pondo centum triginta siclorum, phiala argentea habens septuaginta siclos, juxta pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "fueruntque in ea acetabulum argenteum pondo centum triginta siclorum, phiala argentea habens septuaginta siclos, juxta pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:",
+        "Clem-Saints": "fueruntque in ea acetabulum argenteum pondo centum triginta siclorum, phiala argentea habens septuaginta siclos, juxta pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:",
+        "VulgHetzenauer (1906)": "fueruntque in ea acetabulum argenteum pondo centum triginta siclorum, phiala argentea habens septuaginta siclos iuxta pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:",
+        "VulgConte (2009)": "fueruntque in ea acetabulum argenteum pondo centum triginta siclorum, phiala argentea habens septuaginta siclos iuxta pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:",
+        "VulgSistina (1590)": "fueruntque in ea acetabulum argenteum pondo centum triginta siclorum, phiala argentea habens septuaginta siclos iuxta pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65307,
+      "verse": 14,
+      "critical_text": "mortariolum ex decem siclis aureis plenum incenso:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "mortariolum ex decem siclis aureis plenum incenso:",
+        "Clem-Saints": "mortariolum ex decem siclis aureis plenum incenso:",
+        "VulgHetzenauer (1906)": "mortariolum ex decem siclis aureis plenum incenso:",
+        "VulgConte (2009)": "mortariolum ex decem siclis aureis plenum incenso:",
+        "VulgSistina (1590)": "mortariolum ex decem siclis aureis plenum incenso:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65308,
+      "verse": 15,
+      "critical_text": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "Clem-Saints": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgHetzenauer (1906)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgConte (2009)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgSistina (1590)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65309,
+      "verse": 16,
+      "critical_text": "hircumque pro peccato:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "hircumque pro peccato:",
+        "Clem-Saints": "hircumque pro peccato:",
+        "VulgHetzenauer (1906)": "hircumque pro peccato:",
+        "VulgConte (2009)": "hircumque pro peccato:",
+        "VulgSistina (1590)": "hircumque pro peccato:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65310,
+      "verse": 17,
+      "critical_text": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc est oblatio Nahasson filii Aminadab.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc est oblatio Nahasson filii Aminadab.",
+        "Clem-Saints": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc est oblatio Nahasson filii Aminadab.",
+        "VulgHetzenauer (1906)": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc est oblatio Nahasson filii Aminadab.",
+        "VulgConte (2009)": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc est oblatio Nahasson filii Aminadab.",
+        "VulgSistina (1590)": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec est oblatio Nahasson filii Aminadab."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65311,
+      "verse": 18,
+      "critical_text": "Secundo die obtulit Nathanaël filius Suar, dux de tribu Issachar,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Secundo die obtulit Nathanaël filius Suar, dux de tribu Issachar,",
+        "Clem-Saints": "Secundo die obtulit Nathanaël filius Suar, dux de tribu Issachar,",
+        "VulgHetzenauer (1906)": "Secundo die obtulit Nathanael filius Suar, dux de tribu Issachar,",
+        "VulgConte (2009)": "Secundo die obtulit Nathanael filius Suar, dux de tribu Issachar,",
+        "VulgSistina (1590)": "Secundo die obtulit Nathanael filius Suar, dux de tribu Issachar,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65312,
+      "verse": 19,
+      "critical_text": "acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, juxta pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, juxta pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:",
+        "Clem-Saints": "acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, juxta pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:",
+        "VulgHetzenauer (1906)": "acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, iuxta pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:",
+        "VulgConte (2009)": "acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, iuxta pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:",
+        "VulgSistina (1590)": "acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, iuxta pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65313,
+      "verse": 20,
+      "critical_text": "mortariolum aureum habens decem siclos plenum incenso:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "mortariolum aureum habens decem siclos plenum incenso:",
+        "Clem-Saints": "mortariolum aureum habens decem siclos plenum incenso:",
+        "VulgHetzenauer (1906)": "mortariolum aureum habens decem siclos plenum incenso:",
+        "VulgConte (2009)": "mortariolum aureum habens decem siclos plenum incenso:",
+        "VulgSistina (1590)": "mortariolum aureum habens decem siclos plenum incenso:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65314,
+      "verse": 21,
+      "critical_text": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "Clem-Saints": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgHetzenauer (1906)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgConte (2009)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgSistina (1590)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65315,
+      "verse": 22,
+      "critical_text": "hircumque pro peccato:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "hircumque pro peccato:",
+        "Clem-Saints": "hircumque pro peccato:",
+        "VulgHetzenauer (1906)": "hircumque pro peccato:",
+        "VulgConte (2009)": "hircumque pro peccato:",
+        "VulgSistina (1590)": "hircumque pro peccato:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65316,
+      "verse": 23,
+      "critical_text": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Nathanaël filii Suar.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Nathanaël filii Suar.",
+        "Clem-Saints": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Nathanaël filii Suar.",
+        "VulgHetzenauer (1906)": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Nathanael filii Suar.",
+        "VulgConte (2009)": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Nathanael filii Suar.",
+        "VulgSistina (1590)": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Nathanael filii Suar."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65317,
+      "verse": 24,
+      "critical_text": "Tertio die princeps filiorum Zabulon, Eliab filius Helon,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tertio die princeps filiorum Zabulon, Eliab filius Helon,",
+        "Clem-Saints": "Tertio die princeps filiorum Zabulon, Eliab filius Helon,",
+        "VulgHetzenauer (1906)": "Tertio die princeps filiorum Zabulon Eliab filius Helon,",
+        "VulgConte (2009)": "Tertio die princeps filiorum Zabulon Eliab filius Helon,",
+        "VulgSistina (1590)": "Tertio die princeps filiorum Zabulon Eliab filius Helon,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65318,
+      "verse": 25,
+      "critical_text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:",
+        "Clem-Saints": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:",
+        "VulgHetzenauer (1906)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum similia conspersa oleo in sacrificium:",
+        "VulgConte (2009)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum similia conspersa oleo in sacrificium:",
+        "VulgSistina (1590)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum similia conspersa oleo in sacrificium:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "simila",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX"
+          ],
+          "variants": [
+            {
+              "reading": "similia",
+              "witnesses": [
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 17,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "simila",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65319,
+      "verse": 26,
+      "critical_text": "mortariolum aureum appendens decem siclos, plenum incenso:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "Clem-Saints": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "VulgHetzenauer (1906)": "mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgConte (2009)": "mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgSistina (1590)": "mortariolum aureum appendens decem siclos plenum incenso:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65320,
+      "verse": 27,
+      "critical_text": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "Clem-Saints": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgHetzenauer (1906)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgConte (2009)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgSistina (1590)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65321,
+      "verse": 28,
+      "critical_text": "hircumque pro peccato:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "hircumque pro peccato:",
+        "Clem-Saints": "hircumque pro peccato:",
+        "VulgHetzenauer (1906)": "hircumque pro peccato:",
+        "VulgConte (2009)": "hircumque pro peccato:",
+        "VulgSistina (1590)": "hircumque pro peccato:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65322,
+      "verse": 29,
+      "critical_text": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc est oblatio Eliab filii Helon.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc est oblatio Eliab filii Helon.",
+        "Clem-Saints": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc est oblatio Eliab filii Helon.",
+        "VulgHetzenauer (1906)": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc est oblatio Eliab filii Helon.",
+        "VulgConte (2009)": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc est oblatio Eliab filii Helon.",
+        "VulgSistina (1590)": "et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec est oblatio Eliab filii Helon."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65323,
+      "verse": 30,
+      "critical_text": "Die quarto princeps filiorum Ruben, Elisur filius Sedeur,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Die quarto princeps filiorum Ruben, Elisur filius Sedeur,",
+        "Clem-Saints": "Die quarto princeps filiorum Ruben, Elisur filius Sedeur,",
+        "VulgHetzenauer (1906)": "Die quarto princeps filiorum Ruben, Elisur filius Sedeur,",
+        "VulgConte (2009)": "Die quarto princeps filiorum Ruben, Elisur filius Sedeur,",
+        "VulgSistina (1590)": "Die quarto princeps filiorum Ruben, Elisur filius Sedeur,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65324,
+      "verse": 31,
+      "critical_text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "Clem-Saints": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgHetzenauer (1906)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgConte (2009)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgSistina (1590)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65325,
+      "verse": 32,
+      "critical_text": "mortariolum aureum appendens decem siclos, plenum incenso:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "Clem-Saints": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "VulgHetzenauer (1906)": "mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgConte (2009)": "mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgSistina (1590)": "mortariolum aureum appendens decem siclos plenum incenso:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65326,
+      "verse": 33,
+      "critical_text": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "Clem-Saints": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgHetzenauer (1906)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgConte (2009)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgSistina (1590)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65327,
+      "verse": 34,
+      "critical_text": "hircumque pro peccato:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "hircumque pro peccato:",
+        "Clem-Saints": "hircumque pro peccato:",
+        "VulgHetzenauer (1906)": "hircumque pro peccato:",
+        "VulgConte (2009)": "hircumque pro peccato:",
+        "VulgSistina (1590)": "hircumque pro peccato:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65328,
+      "verse": 35,
+      "critical_text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Elisur filii Sedeur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Elisur filii Sedeur.",
+        "Clem-Saints": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Elisur filii Sedeur.",
+        "VulgHetzenauer (1906)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Elisur filii Sedeur.",
+        "VulgConte (2009)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Elisur filii Sedeur.",
+        "VulgSistina (1590)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Elisur filii Sedeur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65329,
+      "verse": 36,
+      "critical_text": "Die quinto princeps filiorum Simeon, Salamiel filius Surisaddai,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Die quinto princeps filiorum Simeon, Salamiel filius Surisaddai,",
+        "Clem-Saints": "Die quinto princeps filiorum Simeon, Salamiel filius Surisaddai,",
+        "VulgHetzenauer (1906)": "Die quinto princeps filiorum Simeon Salamiel filius Surisaddai",
+        "VulgConte (2009)": "Die quinto princeps filiorum Simeon Salamiel filius Surisaddai",
+        "VulgSistina (1590)": "Die quinto princeps filiorum Simeon Salamiel filius Surisaddai"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65330,
+      "verse": 37,
+      "critical_text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "Clem-Saints": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgHetzenauer (1906)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgConte (2009)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgSistina (1590)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65331,
+      "verse": 38,
+      "critical_text": "mortariolum aureum appendens decem siclos, plenum incenso:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "Clem-Saints": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "VulgHetzenauer (1906)": "mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgConte (2009)": "mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgSistina (1590)": "mortariolum aureum appendens decem siclos plenum incenso:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65332,
+      "verse": 39,
+      "critical_text": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "Clem-Saints": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgHetzenauer (1906)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgConte (2009)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgSistina (1590)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65333,
+      "verse": 40,
+      "critical_text": "hircumque pro peccato:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "hircumque pro peccato:",
+        "Clem-Saints": "hircumque pro peccato:",
+        "VulgHetzenauer (1906)": "hircumque pro peccato:",
+        "VulgConte (2009)": "hircumque pro peccato:",
+        "VulgSistina (1590)": "hircumque pro peccato:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65334,
+      "verse": 41,
+      "critical_text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Salamiel filii Surisaddai.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Salamiel filii Surisaddai.",
+        "Clem-Saints": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Salamiel filii Surisaddai.",
+        "VulgHetzenauer (1906)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Salamiel filii Surisaddai.",
+        "VulgConte (2009)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Salamiel filii Surisaddai.",
+        "VulgSistina (1590)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Salamiel filii Surisaddai."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65335,
+      "verse": 42,
+      "critical_text": "Die sexto princeps filiorum Gad, Eliasaph filius Duel,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Die sexto princeps filiorum Gad, Eliasaph filius Duel,",
+        "Clem-Saints": "Die sexto princeps filiorum Gad, Eliasaph filius Duel,",
+        "VulgHetzenauer (1906)": "Die sexto princeps filiorum Gad, Eliasaph filius Duel",
+        "VulgConte (2009)": "Die sexto princeps filiorum Gad, Eliasaph filius Duel",
+        "VulgSistina (1590)": "Die sexto princeps filiorum Gad, Eliasaph filius Duel"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65336,
+      "verse": 43,
+      "critical_text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "Clem-Saints": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgHetzenauer (1906)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgConte (2009)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgSistina (1590)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65337,
+      "verse": 44,
+      "critical_text": "mortariolum aureum appendens decem siclos, plenum incenso:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "Clem-Saints": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "VulgHetzenauer (1906)": "mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgConte (2009)": "mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgSistina (1590)": "mortariolum aureum appendens decem siclos plenum incenso:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65338,
+      "verse": 45,
+      "critical_text": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "Clem-Saints": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgHetzenauer (1906)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgConte (2009)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgSistina (1590)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65339,
+      "verse": 46,
+      "critical_text": "hircumque pro peccato:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "hircumque pro peccato:",
+        "Clem-Saints": "hircumque pro peccato:",
+        "VulgHetzenauer (1906)": "hircumque pro peccato:",
+        "VulgConte (2009)": "hircumque pro peccato:",
+        "VulgSistina (1590)": "hircumque pro peccato:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65340,
+      "verse": 47,
+      "critical_text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Eliasaph filii Duel.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Eliasaph filii Duel.",
+        "Clem-Saints": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Eliasaph filii Duel.",
+        "VulgHetzenauer (1906)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Eliasaph filii Duel.",
+        "VulgConte (2009)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Eliasaph filii Duel.",
+        "VulgSistina (1590)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Eliasaph filii Duel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65341,
+      "verse": 48,
+      "critical_text": "Die septimo princeps filiorum Ephraim, Elisama filius Ammiud,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Die septimo princeps filiorum Ephraim, Elisama filius Ammiud,",
+        "Clem-Saints": "Die septimo princeps filiorum Ephraim, Elisama filius Ammiud,",
+        "VulgHetzenauer (1906)": "Die septimo princeps filiorum Ephraim, Elisama filius Ammiud",
+        "VulgConte (2009)": "Die septimo princeps filiorum Ephraim, Elisama filius Ammiud",
+        "VulgSistina (1590)": "Die septimo princeps filiorum Ephraim, Elisama filius Ammiud"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65342,
+      "verse": 49,
+      "critical_text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "Clem-Saints": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgHetzenauer (1906)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgConte (2009)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgSistina (1590)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65343,
+      "verse": 50,
+      "critical_text": "mortariolum aureum appendens decem siclos, plenum incenso:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "Clem-Saints": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "VulgHetzenauer (1906)": "mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgConte (2009)": "mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgSistina (1590)": "mortariolum aureum appendens decem siclos plenum incenso:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65344,
+      "verse": 51,
+      "critical_text": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "Clem-Saints": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgHetzenauer (1906)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgConte (2009)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgSistina (1590)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65345,
+      "verse": 52,
+      "critical_text": "hircumque pro peccato:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "hircumque pro peccato:",
+        "Clem-Saints": "hircumque pro peccato:",
+        "VulgHetzenauer (1906)": "hircumque pro peccato:",
+        "VulgConte (2009)": "hircumque pro peccato:",
+        "VulgSistina (1590)": "hircumque pro peccato:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65346,
+      "verse": 53,
+      "critical_text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Elisama filii Ammiud.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Elisama filii Ammiud.",
+        "Clem-Saints": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Elisama filii Ammiud.",
+        "VulgHetzenauer (1906)": "et in hostias pacificorum, boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Elisama filii Ammiud.",
+        "VulgConte (2009)": "et in hostias pacificorum, boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Elisama filii Ammiud.",
+        "VulgSistina (1590)": "et in hostias pacificorum, boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Elisama filii Ammiud."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65347,
+      "verse": 54,
+      "critical_text": "Die octavo, princeps filiorum Manasse, Gamaliel filius Phadassur,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Die octavo, princeps filiorum Manasse, Gamaliel filius Phadassur,",
+        "Clem-Saints": "Die octavo, princeps filiorum Manasse, Gamaliel filius Phadassur,",
+        "VulgHetzenauer (1906)": "Die octavo, princeps filiorum Manasse, Gamaliel filius Phadassur,",
+        "VulgConte (2009)": "Die octavo, princeps filiorum Manasse, Gamaliel filius Phadassur,",
+        "VulgSistina (1590)": "Die octavo, princeps filiorum Manasse, Gamaliel filius Phadassur,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65348,
+      "verse": 55,
+      "critical_text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "Clem-Saints": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgHetzenauer (1906)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgConte (2009)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgSistina (1590)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65349,
+      "verse": 56,
+      "critical_text": "mortariolum aureum appendens decem siclos, plenum incenso:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "Clem-Saints": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "VulgHetzenauer (1906)": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "VulgConte (2009)": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "VulgSistina (1590)": "mortariolum aureum appendens decem siclos, plenum incenso:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65350,
+      "verse": 57,
+      "critical_text": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "Clem-Saints": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgHetzenauer (1906)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgConte (2009)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgSistina (1590)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65351,
+      "verse": 58,
+      "critical_text": "hircumque pro peccato:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "hircumque pro peccato:",
+        "Clem-Saints": "hircumque pro peccato:",
+        "VulgHetzenauer (1906)": "hircumque pro peccato:",
+        "VulgConte (2009)": "hircumque pro peccato:",
+        "VulgSistina (1590)": "hircumque pro peccato:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65352,
+      "verse": 59,
+      "critical_text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Gamaliel filii Phadassur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Gamaliel filii Phadassur.",
+        "Clem-Saints": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Gamaliel filii Phadassur.",
+        "VulgHetzenauer (1906)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Gamaliel filii Phadassur.",
+        "VulgConte (2009)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Gamaliel filii Phadassur.",
+        "VulgSistina (1590)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Gamaliel filii Phadassur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65353,
+      "verse": 60,
+      "critical_text": "Die nono princeps filiorum Benjamin, Abidan filius Gedeonis,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Die nono princeps filiorum Benjamin, Abidan filius Gedeonis,",
+        "Clem-Saints": "Die nono princeps filiorum Benjamin, Abidan filius Gedeonis,",
+        "VulgHetzenauer (1906)": "Die nono princeps filiorum Beniamin, Abidan filius Gedeonis,",
+        "VulgConte (2009)": "Die nono princeps filiorum Beniamin, Abidan filius Gedeonis,",
+        "VulgSistina (1590)": "Die nono princeps filiorum Beniamin, Abidan filius Gedeonis,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65354,
+      "verse": 61,
+      "critical_text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "Clem-Saints": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgHetzenauer (1906)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgConte (2009)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgSistina (1590)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65355,
+      "verse": 62,
+      "critical_text": "et mortariolum aureum appendens decem siclos, plenum incenso:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et mortariolum aureum appendens decem siclos, plenum incenso:",
+        "Clem-Saints": "et mortariolum aureum appendens decem siclos, plenum incenso:",
+        "VulgHetzenauer (1906)": "et mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgConte (2009)": "et mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgSistina (1590)": "et mortariolum aureum appendens decem siclos plenum incenso:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65356,
+      "verse": 63,
+      "critical_text": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "Clem-Saints": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgHetzenauer (1906)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgConte (2009)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgSistina (1590)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65357,
+      "verse": 64,
+      "critical_text": "hircumque pro peccato:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "hircumque pro peccato:",
+        "Clem-Saints": "hircumque pro peccato:",
+        "VulgHetzenauer (1906)": "hircumque pro peccato:",
+        "VulgConte (2009)": "hircumque pro peccato:",
+        "VulgSistina (1590)": "hircumque pro peccato:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65358,
+      "verse": 65,
+      "critical_text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Abidan filii Gedeonis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Abidan filii Gedeonis.",
+        "Clem-Saints": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Abidan filii Gedeonis.",
+        "VulgHetzenauer (1906)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Abidan filii Gedeonis.",
+        "VulgConte (2009)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Abidan filii Gedeonis.",
+        "VulgSistina (1590)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Abidan filii Gedeonis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65359,
+      "verse": 66,
+      "critical_text": "Die decimo princeps filiorum Dan, Ahiezer filius Ammisaddai,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Die decimo princeps filiorum Dan, Ahiezer filius Ammisaddai,",
+        "Clem-Saints": "Die decimo princeps filiorum Dan, Ahiezer filius Ammisaddai,",
+        "VulgHetzenauer (1906)": "Die decimo princeps filiorum Dan, Ahiezer filius Ammisaddai",
+        "VulgConte (2009)": "Die decimo princeps filiorum Dan, Ahiezer filius Ammisaddai",
+        "VulgSistina (1590)": "Die decimo princeps filiorum Dan, Ahiezer filius Ammisaddai"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65360,
+      "verse": 67,
+      "critical_text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "Clem-Saints": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgHetzenauer (1906)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgConte (2009)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgSistina (1590)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65361,
+      "verse": 68,
+      "critical_text": "mortariolum aureum appendens decem siclos, plenum incenso:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "Clem-Saints": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "VulgHetzenauer (1906)": "mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgConte (2009)": "mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgSistina (1590)": "mortariolum aureum appendens decem siclos plenum incenso:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65362,
+      "verse": 69,
+      "critical_text": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "Clem-Saints": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgHetzenauer (1906)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgConte (2009)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgSistina (1590)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65363,
+      "verse": 70,
+      "critical_text": "hircumque pro peccato:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "hircumque pro peccato:",
+        "Clem-Saints": "hircumque pro peccato:",
+        "VulgHetzenauer (1906)": "hircumque pro peccato:",
+        "VulgConte (2009)": "hircumque pro peccato:",
+        "VulgSistina (1590)": "hircumque pro peccato:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65364,
+      "verse": 71,
+      "critical_text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Ahiezer filii Ammisaddai.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Ahiezer filii Ammisaddai.",
+        "Clem-Saints": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Ahiezer filii Ammisaddai.",
+        "VulgHetzenauer (1906)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Ahiezer filii Ammisaddai.",
+        "VulgConte (2009)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Ahiezer filii Ammisaddai.",
+        "VulgSistina (1590)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Ahiezer filii Ammisaddai."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65365,
+      "verse": 72,
+      "critical_text": "Die undecimo princeps filiorum Aser, Phegiel filius Ochran,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Die undecimo princeps filiorum Aser, Phegiel filius Ochran,",
+        "Clem-Saints": "Die undecimo princeps filiorum Aser, Phegiel filius Ochran,",
+        "VulgHetzenauer (1906)": "Die undecimo princeps filiorum Aser, Phegiel filius Ochran",
+        "VulgConte (2009)": "Die undecimo princeps filiorum Aser, Phegiel filius Ochran",
+        "VulgSistina (1590)": "Die undecimo princeps filiorum Aser, Phegiel filius Ochran"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65366,
+      "verse": 73,
+      "critical_text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "Clem-Saints": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgHetzenauer (1906)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgConte (2009)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:",
+        "VulgSistina (1590)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65367,
+      "verse": 74,
+      "critical_text": "mortariolum aureum appendens decem siclos, plenum incenso:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "Clem-Saints": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "VulgHetzenauer (1906)": "mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgConte (2009)": "mortariolum aureum appendens decem siclos plenum incenso:",
+        "VulgSistina (1590)": "mortariolum aureum appendens decem siclos plenum incenso:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65368,
+      "verse": 75,
+      "critical_text": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "Clem-Saints": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgHetzenauer (1906)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgConte (2009)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgSistina (1590)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65369,
+      "verse": 76,
+      "critical_text": "hircumque pro peccato:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "hircumque pro peccato:",
+        "Clem-Saints": "hircumque pro peccato:",
+        "VulgHetzenauer (1906)": "hircumque pro peccato:",
+        "VulgConte (2009)": "hircumque pro peccato:",
+        "VulgSistina (1590)": "hircumque pro peccato:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65370,
+      "verse": 77,
+      "critical_text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Phegiel filii Ochran.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Phegiel filii Ochran.",
+        "Clem-Saints": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Phegiel filii Ochran.",
+        "VulgHetzenauer (1906)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Phegiel filii Ochran.",
+        "VulgConte (2009)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Phegiel filii Ochran.",
+        "VulgSistina (1590)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Phegiel filii Ochran."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65371,
+      "verse": 78,
+      "critical_text": "Die duodecimo princeps filiorum Nephthali, Ahira filius Enan,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Die duodecimo princeps filiorum Nephthali, Ahira filius Enan,",
+        "Clem-Saints": "Die duodecimo princeps filiorum Nephthali, Ahira filius Enan,",
+        "VulgHetzenauer (1906)": "Die duodecimo princeps filiorum Nephthali, Ahira filius Enan",
+        "VulgConte (2009)": "Die duodecimo princeps filiorum Nephthali, Ahira filius Enan",
+        "VulgSistina (1590)": "Die duodecimo princeps filiorum Nephthali, Ahira filius Enan"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65372,
+      "verse": 79,
+      "critical_text": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila oleo conspersa in sacrificum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila oleo conspersa in sacrificum:",
+        "Clem-Saints": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila oleo conspersa in sacrificum:",
+        "VulgHetzenauer (1906)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila oleo conspersa in sacrificum:",
+        "VulgConte (2009)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila oleo conspersa in sacrificum:",
+        "VulgSistina (1590)": "obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos ad pondus Sanctuarii, utrumque plenum simila oleo conspersa in sacrificum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65373,
+      "verse": 80,
+      "critical_text": "mortariolum aureum appendens decem siclos, plenum incenso:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "Clem-Saints": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "VulgHetzenauer (1906)": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "VulgConte (2009)": "mortariolum aureum appendens decem siclos, plenum incenso:",
+        "VulgSistina (1590)": "mortariolum aureum appendens decem siclos, plenum incenso:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65374,
+      "verse": 81,
+      "critical_text": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "Clem-Saints": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgHetzenauer (1906)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgConte (2009)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:",
+        "VulgSistina (1590)": "bovem de armento, et arietem, et agnum anniculum in holocaustum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65375,
+      "verse": 82,
+      "critical_text": "hircumque pro peccato:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "hircumque pro peccato:",
+        "Clem-Saints": "hircumque pro peccato:",
+        "VulgHetzenauer (1906)": "hircumque pro peccato:",
+        "VulgConte (2009)": "hircumque pro peccato:",
+        "VulgSistina (1590)": "hircumque pro peccato:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65376,
+      "verse": 83,
+      "critical_text": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Ahira filii Enan.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Ahira filii Enan.",
+        "Clem-Saints": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Ahira filii Enan.",
+        "VulgHetzenauer (1906)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Ahira filii Enan.",
+        "VulgConte (2009)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Ahira filii Enan.",
+        "VulgSistina (1590)": "et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Ahira filii Enan."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65377,
+      "verse": 84,
+      "critical_text": "Hæc in dedicatione altaris oblata sunt a principibus Israël, in die qua consecratum est: acetabula argentea duodecim: phialæ argenteæ duodecim: mortariola aurea duodecim:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hæc in dedicatione altaris oblata sunt a principibus Israël, in die qua consecratum est: acetabula argentea duodecim: phialæ argenteæ duodecim: mortariola aurea duodecim:",
+        "Clem-Saints": "Hæc in dedicatione altaris oblata sunt a principibus Israël, in die qua consecratum est: acetabula argentea duodecim: phialæ argenteæ duodecim: mortariola aurea duodecim:",
+        "VulgHetzenauer (1906)": "Hæc in dedicatione altaris oblata sunt a principibus Israel, in die qua consecratum est. acetabula argentea duodecim: phialæ argenteæ duodecim: mortariola aurea duodecim:",
+        "VulgConte (2009)": "Hæc in dedicatione altaris oblata sunt a principibus Israel, in die qua consecratum est: acetabula argentea duodecim: phialæ argenteæ duodecim: mortariola aurea duodecim:",
+        "VulgSistina (1590)": "Haec in dedicationem altaris oblata sunt a principibus Israel, in die qua consecratum est. acetabula argentea duodecim: phialae argenteae duodecim: mortariola aurea duodecim:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "dedicatione",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "dedicationem",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "dedicatione",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65378,
+      "verse": 85,
+      "critical_text": "ita ut centum triginta siclos argenti haberet unum acetabulum, et septuaginta siclos haberet una phiala: id est, in commune vasorum omnium ex argento sicli duo millia quadringenti, pondere sanctuarii:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ita ut centum triginta siclos argenti haberet unum acetabulum, et septuaginta siclos haberet una phiala: id est, in commune vasorum omnium ex argento sicli duo millia quadringenti, pondere sanctuarii:",
+        "Clem-Saints": "ita ut centum triginta siclos argenti haberet unum acetabulum, et septuaginta siclos haberet una phiala: id est, in commune vasorum omnium ex argento sicli duo millia quadringenti, pondere sanctuarii:",
+        "VulgHetzenauer (1906)": "ita ut centum triginta siclos argenti haberet unum acetabulum, et septuaginta siclos haberet una phiala: id est, in commune vasorum omnium ex argento sicli duo millia quadringenti, pondere Sanctuarii.",
+        "VulgConte (2009)": "ita ut centum triginta siclos argenti haberet unum acetabulum, et septuaginta siclos haberet una phiala: id est, in commune vasorum omnium ex argento sicli duo millia quadringenti, pondere Sanctuarii:",
+        "VulgSistina (1590)": "ita ut centum triginta siclos argenti haberet unum acetabulum, et septuaginta siclos haberet una phiala: id est, in commune vasorum omnium ex argento sicli duo millia quadringenti, pondere Sanctuarii."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65379,
+      "verse": 86,
+      "critical_text": "mortariola aurea duodecim plena incenso, denos siclos appendentia pondere sanctuarii: id est, simul auri sicli centum viginti:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "mortariola aurea duodecim plena incenso, denos siclos appendentia pondere sanctuarii: id est, simul auri sicli centum viginti:",
+        "Clem-Saints": "mortariola aurea duodecim plena incenso, denos siclos appendentia pondere sanctuarii: id est, simul auri sicli centum viginti:",
+        "VulgHetzenauer (1906)": "mortariola aurea duodecim plena incenso denos siclos appendentia pondere Sanctuarii: id est, simul auri sicli centum viginti:",
+        "VulgConte (2009)": "mortariola aurea duodecim plena incenso denos siclos appendentia pondere Sanctuarii: id est, simul auri sicli centum viginti:",
+        "VulgSistina (1590)": "mortariola aurea duodecim plena incenso denos siclos appendentia pondere Sanctuarii: id est, simul auri sicli centum viginti:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65380,
+      "verse": 87,
+      "critical_text": "boves de armento in holocaustum duodecim, arietes duodecim, agni anniculi duodecim, et libamenta eorum: hirci duodecim pro peccato.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "boves de armento in holocaustum duodecim, arietes duodecim, agni anniculi duodecim, et libamenta eorum: hirci duodecim pro peccato.",
+        "Clem-Saints": "boves de armento in holocaustum duodecim, arietes duodecim, agni anniculi duodecim, et libamenta eorum: hirci duodecim pro peccato.",
+        "VulgHetzenauer (1906)": "boves de armento in holocaustum duodecim, arietes duodecim, agni anniculi duodecim, et libamenta eorum: hirci duodecim pro peccato.",
+        "VulgConte (2009)": "boves de armento in holocaustum duodecim, arietes duodecim, agni anniculi duodecim, et libamenta eorum: hirci duodecim pro peccato.",
+        "VulgSistina (1590)": "boves de armento in holocaustum duodecim, arietes duodecim, agni anniculi duodecim, et libamenta eorum: hirci duodecim pro peccato."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65381,
+      "verse": 88,
+      "critical_text": "In hostias pacificorum, boves viginti quatuor, arietes sexaginta, hirci sexaginta, agni anniculi sexaginta. Hæc oblata sunt in dedicatione altaris, quando unctum est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In hostias pacificorum, boves viginti quatuor, arietes sexaginta, hirci sexaginta, agni anniculi sexaginta. Hæc oblata sunt in dedicatione altaris, quando unctum est.",
+        "Clem-Saints": "In hostias pacificorum, boves viginti quatuor, arietes sexaginta, hirci sexaginta, agni anniculi sexaginta. Hæc oblata sunt in dedicatione altaris, quando unctum est.",
+        "VulgHetzenauer (1906)": "In hostias pacificorum, boves viginti quattuor, arietes sexaginta, hirci sexaginta, agni anniculi sexaginta. Hæc oblata sunt in dedicatione altaris, quando unctum est.",
+        "VulgConte (2009)": "In hostias pacificorum, boves viginti quattuor, arietes sexaginta, hirci sexaginta, agni anniculi sexaginta. Hæc oblata sunt in dedicatione altaris, quando unctum est.",
+        "VulgSistina (1590)": "In hostias pacificorum, boves viginti quattuor, arietes sexaginta, hirci sexaginta, agni anniculi sexaginta. Haec oblata sunt in dedicationem altaris, quando unctum est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "dedicatione",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "dedicationem",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 17,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "dedicatione",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor, / quattuor,",
+            "quatuor, / quattuor,",
+            "quatuor, / quattuor,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65382,
+      "verse": 89,
+      "critical_text": "Cumque ingrederetur Moyses tabernaculum fœderis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos cherubim, unde et loquebatur ei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque ingrederetur Moyses tabernaculum fœderis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos cherubim, unde et loquebatur ei.",
+        "Clem-Saints": "Cumque ingrederetur Moyses tabernaculum fœderis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos cherubim, unde et loquebatur ei.",
+        "VulgHetzenauer (1906)": "Cumque ingrederetur Moyses tabernaculum fœderis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos Cherubim, unde et loquebatur ei.",
+        "VulgConte (2009)": "Cumque ingrederetur Moyses tabernaculum fœderis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos Cherubim, unde et loquebatur ei.",
+        "VulgSistina (1590)": "Cumque ingrederetur Moyses tabernaculum foederis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos Cherubim, unde et loquebatur ei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

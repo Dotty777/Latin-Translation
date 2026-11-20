@@ -1,0 +1,882 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "04_Providence",
+  "book_slug": "daniel",
+  "book_title": "Daniel",
+  "usfm_code": "DAN",
+  "chapter": 7,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:18:14Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 86780,
+      "verse": 1,
+      "critical_text": "Anno primo Baltassar regis Babylonis, Daniel somnium vidit: visio autem capitis ejus in cubili suo: et somnium scribens, brevi sermone comprehendit: summatimque perstringens, ait:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Anno primo Baltassar regis Babylonis, Daniel somnium vidit: visio autem capitis ejus in cubili suo: et somnium scribens, brevi sermone comprehendit: summatimque perstringens, ait:",
+        "Clem-Saints": "Anno primo Baltassar regis Babylonis, Daniel somnium vidit: visio autem capitis ejus in cubili suo: et somnium scribens, brevi sermone comprehendit: summatimque perstringens, ait:",
+        "VulgHetzenauer (1906)": "Anno primo Baltassar regis Babylonis, Daniel somnium vidit: visio autem capitis eius in cubili suo: et somnium scribens, brevi sermone comprehendit: summatimque perstringens, ait:",
+        "VulgConte (2009)": "Anno primo Baltassar regis Babylonis, Daniel somnium vidit: visio autem capitis eius in cubili suo: et somnium scribens, brevi sermone comprehendit: summatimque perstringens, ait:",
+        "VulgSistina (1590)": "Anno primo Baltassar regis Babylonis, Daniel somnium vidit: visio autem capitis eius in cubili suo: et somnium scribens, brevi sermone comprehendit: summatimque perstringens, ait:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86781,
+      "verse": 2,
+      "critical_text": "Videbam in visione mea nocte: et ecce quatuor venti cæli pugnabant in mari magno.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Videbam in visione mea nocte: et ecce quatuor venti cæli pugnabant in mari magno.",
+        "Clem-Saints": "Videbam in visione mea nocte: et ecce quatuor venti cæli pugnabant in mari magno.",
+        "VulgHetzenauer (1906)": "Videbam in visione mea nocte, et ecce quattuor venti cæli pugnabant in mari magno.",
+        "VulgConte (2009)": "Videbam in visione mea nocte, et ecce quattuor venti cæli pugnabant in mari magno.",
+        "VulgSistina (1590)": "Videbam in visione mea nocte, et ecce quattuor venti caeli pugnabant in mari magno."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86782,
+      "verse": 3,
+      "critical_text": "Et quatuor bestiæ grandes ascendebant de mari diversæ inter se.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et quatuor bestiæ grandes ascendebant de mari diversæ inter se.",
+        "Clem-Saints": "Et quatuor bestiæ grandes ascendebant de mari diversæ inter se.",
+        "VulgHetzenauer (1906)": "Et quattuor bestiæ grandes ascendebant de mari diversæ inter se.",
+        "VulgConte (2009)": "Et quattuor bestiæ grandes ascendebant de mari diversæ inter se.",
+        "VulgSistina (1590)": "Et quattuor bestiae grandes ascendebant de mari diversae inter se."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86783,
+      "verse": 4,
+      "critical_text": "Prima quasi leæna, et alas habebat aquilæ: aspiciebam donec evulsæ sunt alæ ejus, et sublata est de terra, et super pedes quasi homo stetit; et cor hominis datum est ei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Prima quasi leæna, et alas habebat aquilæ: aspiciebam donec evulsæ sunt alæ ejus, et sublata est de terra, et super pedes quasi homo stetit; et cor hominis datum est ei.",
+        "Clem-Saints": "Prima quasi leæna, et alas habebat aquilæ: aspiciebam donec evulsæ sunt alæ ejus, et sublata est de terra, et super pedes quasi homo stetit; et cor hominis datum est ei.",
+        "VulgHetzenauer (1906)": "Prima quasi leæna, et alas habebat aquilæ: aspiciebam donec evulsæ sunt alæ eius, et sublata est de terra, et super pedes quasi homo stetit, et cor hominis datum est ei.",
+        "VulgConte (2009)": "Prima quasi leæna, et alas habebat aquilæ: aspiciebam donec evulsæ sunt alæ eius, et sublata est de terra, et super pedes quasi homo stetit, et cor hominis datum est ei.",
+        "VulgSistina (1590)": "Prima quasi leaena, et alas habebat aquilae: aspiciebam donec evulsae sunt alae eius, et sublata est de terra, et super pedes quasi homo stetit, et cor hominis datum est ei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86784,
+      "verse": 5,
+      "critical_text": "Et ecce bestia alia similis urso in parte stetit: et tres ordines erant in ore ejus, et in dentibus ejus, et sic dicebant ei: Surge, comede carnes plurimas.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ecce bestia alia similis urso in parte stetit: et tres ordines erant in ore ejus, et in dentibus ejus, et sic dicebant ei: Surge, comede carnes plurimas.",
+        "Clem-Saints": "Et ecce bestia alia similis urso in parte stetit: et tres ordines erant in ore ejus, et in dentibus ejus, et sic dicebant ei: Surge, comede carnes plurimas.",
+        "VulgHetzenauer (1906)": "Et ecce bestia alia similis urso in parte stetit: et tres ordines erant in ore eius, et in dentibus eius, et sic dicebant ei: Surge, comede carnes plurimas.",
+        "VulgConte (2009)": "Et ecce bestia alia similis urso in parte stetit: et tres ordines erant in ore eius, et in dentibus eius, et sic dicebant ei: Surge, comede carnes plurimas.",
+        "VulgSistina (1590)": "Et ecce bestia alia similis urso in parte stetit: et tres ordines erant in ore eius, et in dentibus eius, et sic dicebant ei: Surge, comede carnes plurimas."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86785,
+      "verse": 6,
+      "critical_text": "Post hæc aspiciebam, et ecce alia quasi pardus, et alas habebat quasi avis, quatuor super se: et quatuor capita erant in bestia, et potestas data est ei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Post hæc aspiciebam, et ecce alia quasi pardus, et alas habebat quasi avis, quatuor super se: et quatuor capita erant in bestia, et potestas data est ei.",
+        "Clem-Saints": "Post hæc aspiciebam, et ecce alia quasi pardus, et alas habebat quasi avis, quatuor super se: et quatuor capita erant in bestia, et potestas data est ei.",
+        "VulgHetzenauer (1906)": "Post hæc aspiciebam, et ecce alia quasi pardus, et alas habebat quasi avis, quattuor super se, et quattuor capita erant in bestia, et potestas data est ei.",
+        "VulgConte (2009)": "Post hæc aspiciebam, et ecce alia quasi pardus, et alas habebat quasi avis, quattuor super se, et quattuor capita erant in bestia, et potestas data est ei.",
+        "VulgSistina (1590)": "Post haec aspiciebam, et ecce alia quasi pardus, et alas habebat quasi avis, quattuor super se, et quattuor capita erant in bestia, et potestas data est ei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86786,
+      "verse": 7,
+      "critical_text": "Post hæc aspiciebam in visione noctis, et ecce bestia quarta terribilis atque mirabilis, et fortis nimis: dentes ferreos habebat magnos, comedens atque comminuens, et reliqua pedibus suis conculcans: dissimilis autem erat ceteris bestiis quas videram ante eam, et habebat cornua decem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Post hæc aspiciebam in visione noctis, et ecce bestia quarta terribilis atque mirabilis, et fortis nimis: dentes ferreos habebat magnos, comedens atque comminuens, et reliqua pedibus suis conculcans: dissimilis autem erat ceteris bestiis quas videram ante eam, et habebat cornua decem.",
+        "Clem-Saints": "Post hæc aspiciebam in visione noctis, et ecce bestia quarta terribilis atque mirabilis, et fortis nimis: dentes ferreos habebat magnos, comedens atque comminuens, et reliqua pedibus suis conculcans: dissimilis autem erat ceteris bestiis quas videram ante eam, et habebat cornua decem.",
+        "VulgHetzenauer (1906)": "Post hæc aspiciebam in visione noctis, et ecce bestia quarta terribilis, atque mirabilis, et fortis nimis, dentes ferreos habebat magnos, comedens atque comminuens, et reliqua pedibus suis conculcans: dissimilis autem erat ceteris bestiis, quas videram ante eam, et habebat cornua decem.",
+        "VulgConte (2009)": "Post hæc aspiciebam in visione noctis, et ecce bestia quarta terribilis, atque mirabilis, et fortis nimis, dentes ferreos habebat magnos, comedens atque comminuens, et reliqua pedibus suis conculcans: dissimilis autem erat ceteris bestiis, quas videram ante eam, et habebat cornua decem.",
+        "VulgSistina (1590)": "Post haec aspiciebam in visione noctis, et ecce bestia quarta terribilis, atque mirabilis, et fortis nimis, dentes ferreos habebat magnos, comedens atque comminuens, et reliqua pedibus suis conculcans: dissimilis autem erat ceteris bestiis, quas videram ante eam, et habebat cornua decem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86787,
+      "verse": 8,
+      "critical_text": "Considerabam cornua, et ecce cornu aliud parvulum ortum est de medio eorum: et tria de cornibus primis evulsa sunt a facie ejus: et ecce oculi, quasi oculi hominis erant in cornu isto, et os loquens ingentia.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Considerabam cornua, et ecce cornu aliud parvulum ortum est de medio eorum: et tria de cornibus primis evulsa sunt a facie ejus: et ecce oculi, quasi oculi hominis erant in cornu isto, et os loquens ingentia.",
+        "Clem-Saints": "Considerabam cornua, et ecce cornu aliud parvulum ortum est de medio eorum: et tria de cornibus primis evulsa sunt a facie ejus: et ecce oculi, quasi oculi hominis erant in cornu isto, et os loquens ingentia.",
+        "VulgHetzenauer (1906)": "Considerabam cornua, et ecce cornu aliud parvulum ortum est de medio eorum: et tria de cornibus primis evulsa sunt a facie eius: et ecce oculi, quasi oculi hominis erant in cornu isto, et os loquens ingentia.",
+        "VulgConte (2009)": "Considerabam cornua, et ecce cornu aliud parvulum ortum est de medio eorum: et tria de cornibus primis evulsa sunt a facie eius: et ecce oculi, quasi oculi hominis erant in cornu isto, et os loquens ingentia.",
+        "VulgSistina (1590)": "Considerabam cornua, et ecce cornu aliud parvulum ortum est de medio eorum: et tria de cornibus primis evulsa sunt a facie eius: et ecce oculi, quasi oculi hominis erant in cornu isto, et os loquens ingentia."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86788,
+      "verse": 9,
+      "critical_text": "Aspiciebam donec throni positi sunt, et antiquus dierum sedit. Vestimentum ejus candidum quasi nix, et capilli capitis ejus quasi lana munda: thronus ejus flammæ ignis: rotæ ejus ignis accensus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Aspiciebam donec throni positi sunt, et antiquus dierum sedit. Vestimentum ejus candidum quasi nix, et capilli capitis ejus quasi lana munda: thronus ejus flammæ ignis: rotæ ejus ignis accensus.",
+        "Clem-Saints": "Aspiciebam donec throni positi sunt, et antiquus dierum sedit. Vestimentum ejus candidum quasi nix, et capilli capitis ejus quasi lana munda: thronus ejus flammæ ignis: rotæ ejus ignis accensus.",
+        "VulgHetzenauer (1906)": "Aspiciebam donec throni positi sunt, et antiquus dierum sedit: vestimentum eius candidum quasi nix, et capilli capitis eius quasi lana munda: thronus eius flammæ ignis: rotæ eius ignis accensus.",
+        "VulgConte (2009)": "Aspiciebam donec throni positi sunt, et Antiquus dierum sedit: vestimentum eius candidum quasi nix, et capilli capitis eius quasi lana munda: thronus eius flammæ ignis: rotæ eius ignis accensus.",
+        "VulgSistina (1590)": "Aspiciebam donec throni positi sunt, et antiquus dierum sedit: vestimentum eius candidum quasi nix, et capilli capitis eius quasi lana munda: thronus eius flammae ignis: rotae eius ignis accensus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86789,
+      "verse": 10,
+      "critical_text": "Fluvius igneus rapidusque egrediebatur a facie ejus. Millia millium ministrabant ei, et decies millies centena millia assistebant ei: judicium sedit, et libri aperti sunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fluvius igneus rapidusque egrediebatur a facie ejus. Millia millium ministrabant ei, et decies millies centena millia assistebant ei: judicium sedit, et libri aperti sunt.",
+        "Clem-Saints": "Fluvius igneus rapidusque egrediebatur a facie ejus. Millia millium ministrabant ei, et decies millies centena millia assistebant ei: judicium sedit, et libri aperti sunt.",
+        "VulgHetzenauer (1906)": "Fluvius igneus, rapidusque egrediebatur a facie eius. millia millium ministrabant ei, et decies millies centena millia assistebant ei: iudicium sedit, et libri aperti sunt.",
+        "VulgConte (2009)": "Fluvius igneus, rapidusque egrediebatur a facie eius. Millia millium ministrabant ei, et decies millies centena millia assistebant ei: iudicium sedit, et libri aperti sunt.",
+        "VulgSistina (1590)": "Fluvius igneus, rapidusque egrediebatur a facie eius. millia millium ministrabant ei, et decies millies centena millia assistebant ei: iudicium sedit, et libri aperti sunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86790,
+      "verse": 11,
+      "critical_text": "Aspiciebam propter vocem sermonum grandium, quos cornu illud loquebatur: et vidi quoniam interfecta esset bestia, et perisset corpus ejus, et traditum esset ad comburendum igni:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Aspiciebam propter vocem sermonum grandium, quos cornu illud loquebatur: et vidi quoniam interfecta esset bestia, et perisset corpus ejus, et traditum esset ad comburendum igni:",
+        "Clem-Saints": "Aspiciebam propter vocem sermonum grandium, quos cornu illud loquebatur: et vidi quoniam interfecta esset bestia, et perisset corpus ejus, et traditum esset ad comburendum igni:",
+        "VulgHetzenauer (1906)": "Aspiciebam propter vocem sermonum grandium, quos cornu illud loquebatur: et vidi quoniam interfecta esset bestia, et perisset corpus eius, et traditum esset ad comburendum igni:",
+        "VulgConte (2009)": "Aspiciebam propter vocem sermonum grandium, quos cornu illud loquebatur: et vidi quoniam interfecta esset bestia, et perisset corpus eius, et traditum esset ad comburendum igni:",
+        "VulgSistina (1590)": "Aspiciebam propter vocem sermonum grandium, quos cornu illud loquebatur: et vidi quoniam interfecta esset bestia, et perisset corpus eius, et traditum esset ad comburendum igni:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86791,
+      "verse": 12,
+      "critical_text": "aliarum quoque bestiarum ablata esset potestas, et tempora vitæ constituta essent eis usque ad tempus et tempus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "aliarum quoque bestiarum ablata esset potestas, et tempora vitæ constituta essent eis usque ad tempus et tempus.",
+        "Clem-Saints": "aliarum quoque bestiarum ablata esset potestas, et tempora vitæ constituta essent eis usque ad tempus et tempus.",
+        "VulgHetzenauer (1906)": "aliarum quoque bestiarum ablata esset potestas, et tempora vitæ constituta essent eis usque ad tempus, et tempus.",
+        "VulgConte (2009)": "aliarum quoque bestiarum ablata esset potestas, et tempora vitæ constituta essent eis usque ad tempus, et tempus.",
+        "VulgSistina (1590)": "aliarum quoque bestiarum ablata esset potestas, et tempora vitae constituta essent eis usque ad tempus, et tempus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86792,
+      "verse": 13,
+      "critical_text": "Aspiciebam ergo in visione noctis, et ecce cum nubibus cæli quasi filius hominis veniebat, et usque ad antiquum dierum pervenit: et in conspectu ejus obtulerunt eum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Aspiciebam ergo in visione noctis, et ecce cum nubibus cæli quasi filius hominis veniebat, et usque ad antiquum dierum pervenit: et in conspectu ejus obtulerunt eum.",
+        "Clem-Saints": "Aspiciebam ergo in visione noctis, et ecce cum nubibus cæli quasi filius hominis veniebat, et usque ad antiquum dierum pervenit: et in conspectu ejus obtulerunt eum.",
+        "VulgHetzenauer (1906)": "Aspiciebam ergo in visione noctis, et ecce cum nubibus cæli quasi filius hominis veniebat, et usque ad antiquum dierum pervenit: et in conspectu eius obtulerunt eum.",
+        "VulgConte (2009)": "Aspiciebam ergo in visione noctis, et ecce cum nubibus cæli quasi filius hominis veniebat, et usque ad Antiquum dierum pervenit: et in conspectu eius obtulerunt eum.",
+        "VulgSistina (1590)": "Aspiciebam ergo in visione noctis, et ecce cum nubibus caeli quasi filius hominis veniebat, et usque ad antiquum dierum pervenit: et in conspectu eius obtulerunt eum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86793,
+      "verse": 14,
+      "critical_text": "Et dedit ei potestatem, et honorem, et regnum: et omnes populi, tribus, et linguæ ipsi servient: potestas ejus, potestas æterna, quæ non auferetur: et regnum ejus, quod non corrumpetur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dedit ei potestatem, et honorem, et regnum: et omnes populi, tribus, et linguæ ipsi servient: potestas ejus, potestas æterna, quæ non auferetur: et regnum ejus, quod non corrumpetur.",
+        "Clem-Saints": "Et dedit ei potestatem, et honorem, et regnum: et omnes populi, tribus, et linguæ ipsi servient: potestas ejus, potestas æterna, quæ non auferetur: et regnum ejus, quod non corrumpetur.",
+        "VulgHetzenauer (1906)": "Et dedit ei potestatem, et honorem, et regnum: et omnes populi, tribus, et linguæ ipsi servient: potestas eius, potestas æterna, quæ non auferetur: et regnum eius, quod non corrumpetur.",
+        "VulgConte (2009)": "Et dedit ei potestatem, et honorem, et regnum: et omnes populi, tribus, et linguæ ipsi servient: potestas eius, potestas æterna, quæ non auferetur: et regnum eius, quod non corrumpetur.",
+        "VulgSistina (1590)": "Et dedit ei potestatem, et honorem, et regnum: et omnes populi, tribus, et linguae ipsi servient: potestas eius, potestas aeterna, quae non auferetur: et regnum eius, quod non corrumpetur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86794,
+      "verse": 15,
+      "critical_text": "Horruit spiritus meus: ego Daniel territus sum in his, et visiones capitis mei conturbaverunt me.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Horruit spiritus meus: ego Daniel territus sum in his, et visiones capitis mei conturbaverunt me.",
+        "Clem-Saints": "Horruit spiritus meus: ego Daniel territus sum in his, et visiones capitis mei conturbaverunt me.",
+        "VulgHetzenauer (1906)": "Horruit spiritus meus, ego Daniel territus sum in his, et visiones capitis mei conturbaverunt me.",
+        "VulgConte (2009)": "Horruit spiritus meus, ego Daniel territus sum in his, et visiones capitis mei conturbaverunt me.",
+        "VulgSistina (1590)": "Horruit spiritus meus, ego Daniel territus sum in his, et visiones capitis mei conturbaverunt me."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86795,
+      "verse": 16,
+      "critical_text": "Accessi ad unum de assistentibus, et veritatem quærebam ab eo de omnibus his. Qui dixit mihi interpretationem sermonum, et docuit me:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Accessi ad unum de assistentibus, et veritatem quærebam ab eo de omnibus his. Qui dixit mihi interpretationem sermonum, et docuit me:",
+        "Clem-Saints": "Accessi ad unum de assistentibus, et veritatem quærebam ab eo de omnibus his. Qui dixit mihi interpretationem sermonum, et docuit me:",
+        "VulgHetzenauer (1906)": "Accessi ad unum de assistentibus, et veritatem quærebam ab eo de omnibus his. Qui dixit mihi interpretationem sermonum, et docuit me:",
+        "VulgConte (2009)": "Accessi ad unum de assistentibus, et veritatem quærebam ab eo de omnibus his. Qui dixit mihi interpretationem sermonum, et docuit me:",
+        "VulgSistina (1590)": "Accessi ad unum de assistentibus, et veritatem quaerebam ab eo de omnibus his. Qui dixit mihi interpretationem sermonum, et docuit me:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86796,
+      "verse": 17,
+      "critical_text": "Hæ quatuor bestiæ magnæ, quatuor sunt regna, quæ consurgent de terra.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hæ quatuor bestiæ magnæ, quatuor sunt regna, quæ consurgent de terra.",
+        "Clem-Saints": "Hæ quatuor bestiæ magnæ, quatuor sunt regna, quæ consurgent de terra.",
+        "VulgHetzenauer (1906)": "Hæ quattuor bestiæ magnæ: quattuor sunt regna, quæ consurgent de terra.",
+        "VulgConte (2009)": "Hæ quattuor bestiæ magnæ: quattuor sunt regna, quæ consurgent de terra.",
+        "VulgSistina (1590)": "Hae quattuor bestiae magnae: quattuor sunt regna, quae consurgent de terra."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86797,
+      "verse": 18,
+      "critical_text": "Suscipient autem regnum sancti Dei altissimi, et obtinebunt regnum usque in sæculum, et sæculum sæculorum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Suscipient autem regnum sancti Dei altissimi, et obtinebunt regnum usque in sæculum, et sæculum sæculorum.",
+        "Clem-Saints": "Suscipient autem regnum sancti Dei altissimi, et obtinebunt regnum usque in sæculum, et sæculum sæculorum.",
+        "VulgHetzenauer (1906)": "Suscipient autem regnum sancti Dei altissimi: et obtinebunt regnum usque in sæculum, et sæculum sæculorum.",
+        "VulgConte (2009)": "Suscipient autem regnum sancti Dei altissimi: et obtinebunt regnum usque in sæculum, et sæculum sæculorum.",
+        "VulgSistina (1590)": "Suscipient autem regnum sancti Dei altissimi: et obtinebunt regnum usque in saeculum, et saeculum saeculorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86798,
+      "verse": 19,
+      "critical_text": "Post hoc volui diligenter discere de bestia quarta, quæ erat dissimilis valde ab omnibus, et terribilis nimis: dentes et ungues ejus ferrei: comedebat, et comminuebat, et reliqua pedibus suis conculcabat:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Post hoc volui diligenter discere de bestia quarta, quæ erat dissimilis valde ab omnibus, et terribilis nimis: dentes et ungues ejus ferrei: comedebat, et comminuebat, et reliqua pedibus suis conculcabat:",
+        "Clem-Saints": "Post hoc volui diligenter discere de bestia quarta, quæ erat dissimilis valde ab omnibus, et terribilis nimis: dentes et ungues ejus ferrei: comedebat, et comminuebat, et reliqua pedibus suis conculcabat:",
+        "VulgHetzenauer (1906)": "Post hoc volui diligenter discere de bestia quarta, quæ erat dissimilis valde ab omnibus, et terribilis nimis: dentes et ungues eius ferrei: comedebat, et comminuebat, et reliqua pedibus suis conculcabat:",
+        "VulgConte (2009)": "Post hoc volui diligenter discere de bestia quarta, quæ erat dissimilis valde ab omnibus, et terribilis nimis: dentes et ungues eius ferrei: comedebat, et comminuebat, et reliqua pedibus suis conculcabat:",
+        "VulgSistina (1590)": "Post hoc volui diligenter discere de bestia quarta, quae erat dissimilis valde ab omnibus, et terribilis nimis: dentes et ungues eius ferrei: comedebat, et comminuebat, et reliqua pedibus suis conculcabat:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86799,
+      "verse": 20,
+      "critical_text": "et de cornibus decem, quæ habebat in capite, et de alio, quod ortum fuerat, ante quod ceciderant tria cornua: et de cornu illo, quod habebat oculos, et os loquens grandia, et majus erat ceteris.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et de cornibus decem, quæ habebat in capite, et de alio, quod ortum fuerat, ante quod ceciderant tria cornua: et de cornu illo, quod habebat oculos, et os loquens grandia, et majus erat ceteris.",
+        "Clem-Saints": "et de cornibus decem, quæ habebat in capite, et de alio, quod ortum fuerat, ante quod ceciderant tria cornua: et de cornu illo, quod habebat oculos, et os loquens grandia, et majus erat ceteris.",
+        "VulgHetzenauer (1906)": "et de cornibus decem, quæ habebat in capite: et de alio, quod ortum fuerat, ante quod ceciderant tria cornua: et de cornu illo, quod habebat oculos, et os loquens grandia, et maius erat ceteris.",
+        "VulgConte (2009)": "et de cornibus decem, quæ habebat in capite: et de alio, quod ortum fuerat, ante quod ceciderant tria cornua: et de cornu illo, quod habebat oculos, et os loquens grandia, et maius erat ceteris.",
+        "VulgSistina (1590)": "et de cornibus decem, quae habebat in capite: et de alio, quod ortum fuerat, ante quod ceciderant tria cornua: et de cornu illo, quod habebat oculos, et os loquens grandia, et maius erat ceteris."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86800,
+      "verse": 21,
+      "critical_text": "Aspiciebam, et ecce cornu illud faciebat bellum adversus sanctos, et prævalebat eis,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Aspiciebam, et ecce cornu illud faciebat bellum adversus sanctos, et prævalebat eis,",
+        "Clem-Saints": "Aspiciebam, et ecce cornu illud faciebat bellum adversus sanctos, et prævalebat eis,",
+        "VulgHetzenauer (1906)": "Aspiciebam, et ecce cornu illud faciebat bellum adversus sanctos, et prævalebat eis,",
+        "VulgConte (2009)": "Aspiciebam, et ecce cornu illud faciebat bellum adversus sanctos, et prævalebat eis,",
+        "VulgSistina (1590)": "Aspiciebam, et ecce cornu illud faciebat bellum adversus sanctos, et praevalebat eis,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86801,
+      "verse": 22,
+      "critical_text": "donec venit antiquus dierum, et judicium dedit sanctis Excelsi, et tempus advenit, et regnum obtinuerunt sancti.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "donec venit antiquus dierum, et judicium dedit sanctis Excelsi, et tempus advenit, et regnum obtinuerunt sancti.",
+        "Clem-Saints": "donec venit antiquus dierum, et judicium dedit sanctis Excelsi, et tempus advenit, et regnum obtinuerunt sancti.",
+        "VulgHetzenauer (1906)": "donec venit antiquus dierum, et iudicium dedit sanctis Excelsi, et tempus advenit, et regnum obtinuerunt sancti.",
+        "VulgConte (2009)": "donec venit Antiquus dierum, et iudicium dedit sanctis Excelsi, et tempus advenit, et regnum obtinuerunt sancti.",
+        "VulgSistina (1590)": "donec venit antiquus dierum, et iudicium dedit sanctis Excelsi, et tempus advenit, et regnum obtinuerunt sancti."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86802,
+      "verse": 23,
+      "critical_text": "Et sic ait: Bestia quarta, regnum quartum erit in terra, quod majus erit omnibus regnis, et devorabit universam terram, et conculcabit, et comminuet eam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et sic ait: Bestia quarta, regnum quartum erit in terra, quod majus erit omnibus regnis, et devorabit universam terram, et conculcabit, et comminuet eam.",
+        "Clem-Saints": "Et sic ait: Bestia quarta, regnum quartum erit in terra, quod majus erit omnibus regnis, et devorabit universam terram, et conculcabit, et comminuet eam.",
+        "VulgHetzenauer (1906)": "Et sic ait: Bestia quarta, regnum quartum erit in terra, quod maius erit omnibus regnis, et devorabit universam terram, et conculcabit, et comminuet eam.",
+        "VulgConte (2009)": "Et sic ait: Bestia quarta, regnum quartum erit in terra, quod maius erit omnibus regnis, et devorabit universam terram, et conculcabit, et comminuet eam.",
+        "VulgSistina (1590)": "Et sic ait: Bestia quarta, regnum quartum erit in terra, quod maius erit omnibus regnis, et devorabit universam terram, et conculcabit, et comminuet eam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86803,
+      "verse": 24,
+      "critical_text": "Porro cornua decem ipsius regni, decem reges erunt: et alius consurget post eos, et ipse potentior erit prioribus, et tres reges humiliabit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Porro cornua decem ipsius regni, decem reges erunt: et alius consurget post eos, et ipse potentior erit prioribus, et tres reges humiliabit.",
+        "Clem-Saints": "Porro cornua decem ipsius regni, decem reges erunt: et alius consurget post eos, et ipse potentior erit prioribus, et tres reges humiliabit.",
+        "VulgHetzenauer (1906)": "Porro cornua decem ipsius regni, decem reges erunt: et alius consurget post eos, et ipse potentior erit prioribus, et tres reges humiliabit.",
+        "VulgConte (2009)": "Porro cornua decem ipsius regni, decem reges erunt: et alius consurget post eos, et ipse potentior erit prioribus, et tres reges humiliabit.",
+        "VulgSistina (1590)": "Porro cornua decem ipsius regni, decem reges erunt: et alius consurget post eos, et ipse potentior erit prioribus, et tres reges humiliabit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86804,
+      "verse": 25,
+      "critical_text": "Et sermones contra Excelsum loquetur, et sanctos Altissimi conteret: et putabit quod possit mutare tempora, et leges: et tradentur in manu ejus usque ad tempus, et tempora, et dimidium temporis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et sermones contra Excelsum loquetur, et sanctos Altissimi conteret: et putabit quod possit mutare tempora, et leges: et tradentur in manu ejus usque ad tempus, et tempora, et dimidium temporis.",
+        "Clem-Saints": "Et sermones contra Excelsum loquetur, et sanctos Altissimi conteret: et putabit quod possit mutare tempora, et leges: et tradentur in manu ejus usque ad tempus, et tempora, et dimidium temporis.",
+        "VulgHetzenauer (1906)": "Et sermones contra Excelsum loquetur, et sanctos Altissimi conteret: et putabit quod possit mutare tempora, et leges, et tradentur in manu eius usque ad tempus, et tempora, et dimidium temporis.",
+        "VulgConte (2009)": "Et sermones contra Excelsum loquetur, et sanctos Altissimi conteret: et putabit quod possit mutare tempora, et leges, et tradentur in manu eius usque ad tempus, et tempora, et dimidium temporis.",
+        "VulgSistina (1590)": "Et sermones contra Excelsum loquetur, et sanctos Altissimi conteret: et putabit quod possit mutare tempora, et leges, et tradentur in manu eius usque ad tempus, et tempora, et dimidium temporis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86805,
+      "verse": 26,
+      "critical_text": "Et judicium sedebit, ut auferatur potentia, et conteratur, et dispereat usque in finem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et judicium sedebit, ut auferatur potentia, et conteratur, et dispereat usque in finem.",
+        "Clem-Saints": "Et judicium sedebit, ut auferatur potentia, et conteratur, et dispereat usque in finem.",
+        "VulgHetzenauer (1906)": "Et iudicium sedebit ut auferatur potentia, et conteratur, et dispereat usque in finem.",
+        "VulgConte (2009)": "Et iudicium sedebit ut auferatur potentia, et conteratur, et dispereat usque in finem.",
+        "VulgSistina (1590)": "Et iudicium sedebit ut auferatur potentia, et conteratur, et dispereat usque in finem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86806,
+      "verse": 27,
+      "critical_text": "Regnum autem, et potestas, et magnitudo regni, quæ est subter omne cælum, detur populo sanctorum Altissimi: cujus regnum, regnum sempiternum est, et omnes reges servient ei, et obedient.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Regnum autem, et potestas, et magnitudo regni, quæ est subter omne cælum, detur populo sanctorum Altissimi: cujus regnum, regnum sempiternum est, et omnes reges servient ei, et obedient.",
+        "Clem-Saints": "Regnum autem, et potestas, et magnitudo regni, quæ est subter omne cælum, detur populo sanctorum Altissimi: cujus regnum, regnum sempiternum est, et omnes reges servient ei, et obedient.",
+        "VulgHetzenauer (1906)": "Regnum autem, et potestas, et magnitudo regni, quæ est subter omne cælum, detur populo sanctorum Altissimi: cuius regnum, regnum sempiternum est, et omnes reges servient ei, et obedient.",
+        "VulgConte (2009)": "Regnum autem, et potestas, et magnitudo regni, quæ est subter omne cælum, detur populo sanctorum Altissimi: cuius regnum, regnum sempiternum est, et omnes reges servient ei, et obedient.",
+        "VulgSistina (1590)": "Regnum autem, et potestas, et magnitudo regni, quae est subter omne caelum, detur populo sanctorum Altissimi: cuius regnum, regnum sempiternum est, et omnes reges servient ei, et obedient."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86807,
+      "verse": 28,
+      "critical_text": "Hucusque finis verbi. Ego Daniel multum cogitationibus meis conturbabar, et facies mea mutata est in me: verbum autem in corde meo conservavi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hucusque finis verbi. Ego Daniel multum cogitationibus meis conturbabar, et facies mea mutata est in me: verbum autem in corde meo conservavi.",
+        "Clem-Saints": "Hucusque finis verbi. Ego Daniel multum cogitationibus meis conturbabar, et facies mea mutata est in me: verbum autem in corde meo conservavi.",
+        "VulgHetzenauer (1906)": "Hucusque finis verbi. Ego Daniel multum cogitationibus meis conturbabar, et facies mea mutata est in me: verbum autem in corde meo conservavi.",
+        "VulgConte (2009)": "Hucusque finis verbi. Ego Daniel multum cogitationibus meis conturbabar, et facies mea mutata est in me: verbum autem in corde meo conservavi.",
+        "VulgSistina (1590)": "Hucusque finis verbi. Ego Daniel multum cogitationibus meis conturbabar, et facies mea mutata est in me: verbum autem in corde meo conservavi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

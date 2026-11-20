@@ -1,0 +1,465 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "06_Discipleship",
+  "book_slug": "hebrews",
+  "book_title": "Hebrews",
+  "usfm_code": "HEB",
+  "chapter": 8,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:18:48Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 94927,
+      "verse": 1,
+      "critical_text": "Capitulum autem super ea quæ dicuntur: Talem habemus pontificem, qui consedit in dextera sedis magnitudinis in cælis,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Capitulum autem super ea quæ dicuntur: Talem habemus pontificem, qui consedit in dextera sedis magnitudinis in cælis,",
+        "Clem-Saints": "Capitulum autem super ea quæ dicuntur: Talem habemus pontificem, qui consedit in dextera sedis magnitudinis in cælis,",
+        "VulgHetzenauer (1906)": "Capitulum autem super ea, quæ dicuntur: Talem habemus Pontificem, qui consedit in dextera sedis magnitudinis in cælis,",
+        "VulgConte (2009)": "Capitulum autem super ea, quæ dicuntur: Talem habemus Pontificem, qui consedit in dextera sedis magnitudinis in cælis,",
+        "VulgSistina (1590)": "Capitulum autem super ea, quae dicuntur: Talem habemus Pontificem, qui consedit in dextera sedis magnitudinis in caelis,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 94928,
+      "verse": 2,
+      "critical_text": "sanctorum minister, et tabernaculi veri, quod fixit Dominus, et non homo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "sanctorum minister, et tabernaculi veri, quod fixit Dominus, et non homo.",
+        "Clem-Saints": "sanctorum minister, et tabernaculi veri, quod fixit Dominus, et non homo.",
+        "VulgHetzenauer (1906)": "sanctorum minister, et tabernaculi veri, quod fixit Dominus, et non homo.",
+        "VulgConte (2009)": "sanctorum minister, et tabernaculi veri, quod fixit Dominus, et non homo.",
+        "VulgSistina (1590)": "sanctorum minister, et tabernaculi veri, quod fixit Deus, et non homo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Dominus,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Deus,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "dominus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 94929,
+      "verse": 3,
+      "critical_text": "Omnis enim pontifex ad offerendum munera, et hostias constituitur: unde necesse est et hunc habere aliquid, quod offerat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Omnis enim pontifex ad offerendum munera, et hostias constituitur: unde necesse est et hunc habere aliquid, quod offerat.",
+        "Clem-Saints": "Omnis enim pontifex ad offerendum munera, et hostias constituitur: unde necesse est et hunc habere aliquid, quod offerat.",
+        "VulgHetzenauer (1906)": "Omnis enim pontifex ad offerendum munera, et hostias constituitur: unde necesse est et hunc habere aliquid, quod offerat:",
+        "VulgConte (2009)": "Omnis enim pontifex ad offerendum munera, et hostias constituitur: unde necesse est et hunc habere aliquid, quod offerat:",
+        "VulgSistina (1590)": "Omnis enim pontifex ad offerendum munera, et hostias constituitur: unde necesse est et hunc habere aliquid, quod offerat:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 94930,
+      "verse": 4,
+      "critical_text": "Si ergo esset super terram, nec esset sacerdos: cum essent qui offerent secundum legem munera,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si ergo esset super terram, nec esset sacerdos: cum essent qui offerent secundum legem munera,",
+        "Clem-Saints": "Si ergo esset super terram, nec esset sacerdos: cum essent qui offerent secundum legem munera,",
+        "VulgHetzenauer (1906)": "si ergo esset super terram, nec esset sacerdos: cum essent qui offerent secundum legem munera,",
+        "VulgConte (2009)": "si ergo esset super terram, nec esset sacerdos: cum essent qui offerent secundum legem munera,",
+        "VulgSistina (1590)": "si ergo esset super terram, nec esset sacerdos: cum essent qui offerent secundum legem munera,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 94931,
+      "verse": 5,
+      "critical_text": "qui exemplari, et umbræ deserviunt cælestium. Sicut responsum est Moysi, cum consummaret tabernaculum: Vide (inquit) omnia facito secundum exemplar, quod tibi ostensum est in monte.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "qui exemplari, et umbræ deserviunt cælestium. Sicut responsum est Moysi, cum consummaret tabernaculum: Vide (inquit) omnia facito secundum exemplar, quod tibi ostensum est in monte.",
+        "Clem-Saints": "qui exemplari, et umbræ deserviunt cælestium. Sicut responsum est Moysi, cum consummaret tabernaculum: Vide (inquit) omnia facito secundum exemplar, quod tibi ostensum est in monte.",
+        "VulgHetzenauer (1906)": "qui exemplari, et umbræ deserviunt cælestium. Sicut responsum est Moysi, cum consummaret tabernaculum: Vide (inquit) omnia facito secundum exemplar, quod tibi ostensum est in monte.",
+        "VulgConte (2009)": "qui exemplari, et umbræ deserviunt cælestium. Sicut responsum est Moysi, cum consummaret tabernaculum: Vide (inquit) omnia facito secundum exemplar, quod tibi ostensum est in monte.",
+        "VulgSistina (1590)": "qui exemplari, et umbrae deserviunt caelestium. Sicut responsum est Moysi, cum consummaret tabernaculum: Vide (inquit) omnia facito secundum exemplar, quod tibi ostensum est in monte."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 94932,
+      "verse": 6,
+      "critical_text": "Nunc autem melius sortitus est ministerium, quanto et melioris testamenti mediator est, quod in melioribus repromissionibus sancitum est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nunc autem melius sortitus est ministerium, quanto et melioris testamenti mediator est, quod in melioribus repromissionibus sancitum est.",
+        "Clem-Saints": "Nunc autem melius sortitus est ministerium, quanto et melioris testamenti mediator est, quod in melioribus repromissionibus sancitum est.",
+        "VulgHetzenauer (1906)": "Nunc autem melius sortitus est ministerium, quanto et melioris testamenti mediator est, quod in melioribus repromissionibus sancitum est.",
+        "VulgConte (2009)": "Nunc autem melius sortitus est ministerium, quanto et melioris testamenti mediator est, quod in melioribus repromissionibus sancitum est.",
+        "VulgSistina (1590)": "Nunc autem melius sortitus est ministerium, quanto et melioris testamenti mediator est, quod in melioribus repromissionibus sancitum est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 94933,
+      "verse": 7,
+      "critical_text": "Nam si illud prius culpa vacasset, non utique secundi locus inquireretur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nam si illud prius culpa vacasset, non utique secundi locus inquireretur.",
+        "Clem-Saints": "Nam si illud prius culpa vacasset, non utique secundi locus inquireretur.",
+        "VulgHetzenauer (1906)": "Nam si illud prius culpa vacasset: non utique secundi locus inquireretur.",
+        "VulgConte (2009)": "Nam si illud prius culpa vacasset: non utique secundi locus inquireretur.",
+        "VulgSistina (1590)": "Nam si illud prius culpa vacasset: non utique secundi locus inquireretur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 94934,
+      "verse": 8,
+      "critical_text": "Vituperans enim eos dicit: Ecce dies venient, dicit Dominus: et consummabo super domum Israël, et super domum Juda, testamentum novum,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Vituperans enim eos dicit: Ecce dies venient, dicit Dominus: et consummabo super domum Israël, et super domum Juda, testamentum novum,",
+        "Clem-Saints": "Vituperans enim eos dicit: Ecce dies venient, dicit Dominus: et consummabo super domum Israël, et super domum Juda, testamentum novum,",
+        "VulgHetzenauer (1906)": "Vituperans enim eos dicit: Ecce dies venient, dicit Dominus: et consummabo super domum Israel, et super domum Iuda testamentum novum,",
+        "VulgConte (2009)": "Vituperans enim eos dicit: Ecce dies venient, dicit Dominus: et consummabo super domum Israel, et super domum Iuda testamentum novum,",
+        "VulgSistina (1590)": "Vituperans enim eos dicit: Ecce dies venient, dicit Dominus: et consummabo super domum Israel, et super domum Iuda testamentum novum,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 94935,
+      "verse": 9,
+      "critical_text": "non secundum testamentum quod feci patribus eorum in die qua apprehendi manum eorum ut educerem illos de terra Ægypti: quoniam ipsi non permanserunt in testamento meo: et ego neglexi eos, dicit Dominus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "non secundum testamentum quod feci patribus eorum in die qua apprehendi manum eorum ut educerem illos de terra Ægypti: quoniam ipsi non permanserunt in testamento meo: et ego neglexi eos, dicit Dominus.",
+        "Clem-Saints": "non secundum testamentum quod feci patribus eorum in die qua apprehendi manum eorum ut educerem illos de terra Ægypti: quoniam ipsi non permanserunt in testamento meo: et ego neglexi eos, dicit Dominus.",
+        "VulgHetzenauer (1906)": "non secundum testamentum, quod feci patribus eorum in die, qua apprehendi manum eorum ut educerem illos de Terra Ægypti: quoniam ipsi non permanserunt in testamento meo: et ego neglexi eos, dicit Dominus:",
+        "VulgConte (2009)": "non secundum testamentum, quod feci patribus eorum in die, qua apprehendi manum eorum ut educerem illos de Terra Ægypti: quoniam ipsi non permanserunt in testamento meo: et ego neglexi eos, dicit Dominus:",
+        "VulgSistina (1590)": "non secundum testamentum, quod feci patribus eorum in die, qua apprehendi manum eorum ut educerem illos de Terra Aegypti: quoniam ipsi non permanserunt in testamento meo: et ego neglexi eos, dicit Dominus:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 94936,
+      "verse": 10,
+      "critical_text": "Quia hoc est testamentum quod disponam domui Israël post dies illos, dicit Dominus: dando leges meas in mentem eorum, et in corde eorum superscribam eas: et ero eis in Deum, et ipsi erunt mihi in populum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quia hoc est testamentum quod disponam domui Israël post dies illos, dicit Dominus: dando leges meas in mentem eorum, et in corde eorum superscribam eas: et ero eis in Deum, et ipsi erunt mihi in populum:",
+        "Clem-Saints": "Quia hoc est testamentum quod disponam domui Israël post dies illos, dicit Dominus: dando leges meas in mentem eorum, et in corde eorum superscribam eas: et ero eis in Deum, et ipsi erunt mihi in populum:",
+        "VulgHetzenauer (1906)": "Quia hoc est testamentum, quod disponam domui Israel post dies illos, dicit Dominus: Dando leges meas in mentem eorum, et in corde eorum superscribam eas: et ero eis in Deum, et ipsi erunt mihi in populum:",
+        "VulgConte (2009)": "Quia hoc est testamentum, quod disponam domui Israel post dies illos, dicit Dominus: Dando leges meas in mentem eorum, et in corde eorum superscribam eas: et ero eis in Deum, et ipsi erunt mihi in populum:",
+        "VulgSistina (1590)": "Quia hoc est testamentum, quod disponam domui Israel post dies illos, dicit Dominus: Dabo leges meas in mentem eorum, et in corde eorum superscribam eas: et ero eis in Deum, et ipsi erunt mihi in populum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "dando",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Dabo",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 13,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "dando",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 94937,
+      "verse": 11,
+      "critical_text": "et non docebit unusquisque proximum suum, et unusquisque fratrem suum, dicens: Cognosce Dominum: quoniam omnes scient me a minore usque ad majorem eorum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et non docebit unusquisque proximum suum, et unusquisque fratrem suum, dicens: Cognosce Dominum: quoniam omnes scient me a minore usque ad majorem eorum:",
+        "Clem-Saints": "et non docebit unusquisque proximum suum, et unusquisque fratrem suum, dicens: Cognosce Dominum: quoniam omnes scient me a minore usque ad majorem eorum:",
+        "VulgHetzenauer (1906)": "et non docebit unusquisque proximum suum, et unusquisque fratrem suum, dicens: Cognosce Dominum: quoniam omnes scient me a minore usque ad maiorem eorum:",
+        "VulgConte (2009)": "et non docebit unusquisque proximum suum, et unusquisque fratrem suum, dicens: Cognosce Dominum: quoniam omnes scient me a minore usque ad maiorem eorum:",
+        "VulgSistina (1590)": "et non docebit unusquisque proximum suum, et unusquisque fratrem suum, dicens: Cognosce Dominum: quoniam omnes scient me a minore usque ad maiorem eorum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 94938,
+      "verse": 12,
+      "critical_text": "quia propitius ero iniquitatibus eorum, et peccatorum eorum jam non memorabor.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quia propitius ero iniquitatibus eorum, et peccatorum eorum jam non memorabor.",
+        "Clem-Saints": "quia propitius ero iniquitatibus eorum, et peccatorum eorum jam non memorabor.",
+        "VulgHetzenauer (1906)": "quia propitius ero iniquitatibus eorum, et peccatorum eorum iam non memorabor.",
+        "VulgConte (2009)": "quia propitius ero iniquitatibus eorum, et peccatorum eorum iam non memorabor.",
+        "VulgSistina (1590)": "quia propitius ero iniquitatibus eorum, et peccatorum eorum iam non memorabor."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 94939,
+      "verse": 13,
+      "critical_text": "Dicendo autem novum: veteravit prius. Quod autem antiquatur, et senescit, prope interitum est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dicendo autem novum: veteravit prius. Quod autem antiquatur, et senescit, prope interitum est.",
+        "Clem-Saints": "Dicendo autem novum: veteravit prius. Quod autem antiquatur, et senescit, prope interitum est.",
+        "VulgHetzenauer (1906)": "Dicendo autem novum: veteravit prius. Quod autem antiquatur, et senescit, prope interitum est.",
+        "VulgConte (2009)": "Dicendo autem novum: veteravit prius. Quod autem antiquatur, et senescit, prope interitum est.",
+        "VulgSistina (1590)": "Dicendo autem novum: veteravit prius. Quod autem antiquatur, et senescit, prope interitum est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

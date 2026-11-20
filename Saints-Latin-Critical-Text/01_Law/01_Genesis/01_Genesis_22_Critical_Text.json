@@ -1,0 +1,3789 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "01_Law",
+  "book_slug": "genesis",
+  "book_title": "Genesis",
+  "usfm_code": "GEN",
+  "chapter": 22,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:05Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Amiatinus (A)",
+      "title": "Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only)",
+      "tier": 2,
+      "weight": 0.97,
+      "license": "CC BY-SA 4.0 (Digital Latin Library transcription)"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 62038,
+      "verse": 1,
+      "critical_text": "Quæ postquam gesta sunt, tentavit Deus Abraham, et dixit ad eum: Abraham, ille respondit: Adsum.",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quæ postquam gesta sunt, tentavit Deus Abraham, et dixit ad eum: Abraham, Abraham. At ille respondit: Adsum.",
+        "Clem-Saints": "Quæ postquam gesta sunt, tentavit Deus Abraham, et dixit ad eum: Abraham, Abraham. At ille respondit: Adsum.",
+        "Amiatinus (A)": "Quae postquam gesta sunt temptauit deus abraham et dixit ad eum abraham ille respondit adsum",
+        "VulgHetzenauer (1906)": "Quæ postquam gesta sunt, tentavit Deus Abraham, et dixit ad eum: Abraham, Abraham. At ille respondit: Adsum.",
+        "VulgConte (2009)": "Quæ postquam gesta sunt, tentavit Deus Abraham, et dixit ad eum: Abraham, Abraham. At ille respondit: Adsum.",
+        "VulgSistina (1590)": "Quae postquam gesta sunt, tentavit Deus Abraham, et dixit ad eum: Abraham, Abraham. At ille respondit: Adsum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 12,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "Abraham At",
+              "adopt_text": "Abraham At",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Variation unit spanning several words] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over Abraham At (Clem1598-USFX, Clem-Saints).",
+          "word_index": 12,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Quæ",
+          "disregarded_forms": [
+            "Quae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "sunt,",
+          "disregarded_forms": [
+            "sunt"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "tentavit",
+          "disregarded_forms": [
+            "temptauit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "Deus",
+          "disregarded_forms": [
+            "deus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "Abraham,",
+          "disregarded_forms": [
+            "abraham"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "eum:",
+          "disregarded_forms": [
+            "eum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "Abraham,",
+          "disregarded_forms": [
+            "abraham"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "respondit:",
+          "disregarded_forms": [
+            "respondit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "Adsum.",
+          "disregarded_forms": [
+            "adsum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        }
+      ],
+      "rationale": "[Variation unit spanning several words] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over Abraham At (Clem1598-USFX, Clem-Saints). Also normalised 9 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 62039,
+      "verse": 2,
+      "critical_text": "Ait ei: Tolle filium tuum unigenitum, quem diligis, Isaac, et vade in terram visionis, atque offer eum ibi holocaustum super unum montium quem monstravero tibi.",
+      "confidence": 0.28,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ait illi: Tolle filium tuum unigenitum, quem diligis, Isaac, et vade in terram visionis, atque ibi offeres eum in holocaustum super unum montium quem monstravero tibi.",
+        "Clem-Saints": "Ait illi: Tolle filium tuum unigenitum, quem diligis, Isaac, et vade in terram visionis, atque ibi offeres eum in holocaustum super unum montium quem monstravero tibi.",
+        "Amiatinus (A)": "ait ei tolle filium tuum unigenitum quem diligis isaac et uade in terram uisionis atque offer eum ibi holocaustum super unum montium quem monstrauero tibi",
+        "VulgHetzenauer (1906)": "Ait illi: Tolle filium tuum unigenitum, quem diligis, Isaac, et vade in terram visionis: atque ibi offeres eum in holocaustum super unum montium quem monstravero tibi.",
+        "VulgConte (2009)": "Ait illi: Tolle filium tuum unigenitum, quem diligis, Isaac, et vade in terram visionis: atque ibi offeres eum in holocaustum super unum montium quem monstravero tibi.",
+        "VulgSistina (1590)": "Ait illi: Tolle filium tuum unigenitum, quem diligis, Isaac, et vade in terram visionis: atque ibi offeres eum in holocaustum super unum montium quem monstravero tibi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 1,
+          "lemma": "ei",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "illi",
+              "adopt_text": "illi",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'ei' [Amiatinus (A)] (weight 0.97, confidence 53%) over illi (Clem1598-USFX, Clem-Saints).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "ei",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 15,
+          "lemma": "offer eum ibi",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "ibi offeres eum in",
+              "adopt_text": "ibi offeres eum in",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Variation unit spanning several words] Adopted 'offer eum ibi' [Amiatinus (A)] (weight 0.97, confidence 53%) over ibi offeres eum in (Clem1598-USFX, Clem-Saints).",
+          "word_index": 15,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "partial substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "offer eum ibi",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Ait",
+          "disregarded_forms": [
+            "ait"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "Tolle",
+          "disregarded_forms": [
+            "tolle"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "unigenitum,",
+          "disregarded_forms": [
+            "unigenitum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "diligis,",
+          "disregarded_forms": [
+            "diligis"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "Isaac,",
+          "disregarded_forms": [
+            "isaac"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "vade",
+          "disregarded_forms": [
+            "uade"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "visionis,",
+          "disregarded_forms": [
+            "uisionis"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 21,
+          "kept_form": "monstravero",
+          "disregarded_forms": [
+            "monstrauero"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 22,
+          "kept_form": "tibi.",
+          "disregarded_forms": [
+            "tibi"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'ei' [Amiatinus (A)] (weight 0.97, confidence 53%) over illi (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'offer eum ibi' [Amiatinus (A)] (weight 0.97, confidence 53%) over ibi offeres eum in (Clem1598-USFX, Clem-Saints). Also normalised 9 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 62040,
+      "verse": 3,
+      "critical_text": "Igitur Abraham de nocte consurgens, stravit asinum suum, ducens secum duos juvenes, et Isaac filium suum: cumque concidisset ligna in holocaustum, abiit ad locum quem præceperat ei Deus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Igitur Abraham de nocte consurgens, stravit asinum suum, ducens secum duos juvenes, et Isaac filium suum: cumque concidisset ligna in holocaustum, abiit ad locum quem præceperat ei Deus.",
+        "Clem-Saints": "Igitur Abraham de nocte consurgens, stravit asinum suum, ducens secum duos juvenes, et Isaac filium suum: cumque concidisset ligna in holocaustum, abiit ad locum quem præceperat ei Deus.",
+        "Amiatinus (A)": "igitur abraham de nocte consurgens strauit asinum suum ducens secum duos iuuenes et isaac filium suum cumque concidisset ligna in holocaustum abiit ad locum quem prae ceperat ei deus",
+        "VulgHetzenauer (1906)": "Igitur Abraham de nocte consurgens, stravit asinum suum: ducens secum duos iuvenes, et Isaac filium suum: cumque concidisset ligna in holocaustum, abiit ad locum quem præceperat ei Deus.",
+        "VulgConte (2009)": "Igitur Abraham de nocte consurgens, stravit asinum suum: ducens secum duos iuvenes, et Isaac filium suum: cumque concidisset ligna in holocaustum, abiit ad locum quem præceperat ei Deus.",
+        "VulgSistina (1590)": "Igitur Abraham de nocte consurgens, stravit asinum suum: ducens secum duos iuvenes, et Isaac filium suum: cumque concidisset ligna in holocaustum, abiit ad locum quem praeceperat ei Deus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Igitur",
+          "disregarded_forms": [
+            "igitur"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "Abraham",
+          "disregarded_forms": [
+            "abraham"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "consurgens,",
+          "disregarded_forms": [
+            "consurgens"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "stravit",
+          "disregarded_forms": [
+            "strauit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "suum,",
+          "disregarded_forms": [
+            "suum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "juvenes,",
+          "disregarded_forms": [
+            "iuuenes"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "Isaac",
+          "disregarded_forms": [
+            "isaac"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "suum:",
+          "disregarded_forms": [
+            "suum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 20,
+          "kept_form": "holocaustum,",
+          "disregarded_forms": [
+            "holocaustum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 25,
+          "kept_form": "præceperat",
+          "disregarded_forms": [
+            "prae ceperat"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Word division differs (same letters written as one word or two)"
+        },
+        {
+          "slot_index": 27,
+          "kept_form": "Deus.",
+          "disregarded_forms": [
+            "deus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 11 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only; Word division differs (same letters written as one word or two)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 62041,
+      "verse": 4,
+      "critical_text": "Die autem tertio, elevatis oculis, vidit locum procul:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Die autem tertio, elevatis oculis, vidit locum procul:",
+        "Clem-Saints": "Die autem tertio, elevatis oculis, vidit locum procul:",
+        "Amiatinus (A)": "die autem tertio eleuatis oculis uidit locum procul",
+        "VulgHetzenauer (1906)": "Die autem tertio, elevatis oculis, vidit locum procul:",
+        "VulgConte (2009)": "Die autem tertio, elevatis oculis, vidit locum procul:",
+        "VulgSistina (1590)": "Die autem tertio, elevatis oculis, vidit locum procul:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Die",
+          "disregarded_forms": [
+            "die"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "tertio,",
+          "disregarded_forms": [
+            "tertio"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "elevatis",
+          "disregarded_forms": [
+            "eleuatis"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "oculis,",
+          "disregarded_forms": [
+            "oculis"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "vidit",
+          "disregarded_forms": [
+            "uidit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "procul:",
+          "disregarded_forms": [
+            "procul"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 6 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 62042,
+      "verse": 5,
+      "critical_text": "dixitque ad pueros suos: Expectate hic cum asino: ego et puer illuc usque properantes, postquam adoraverimus, revertemur ad vos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "dixitque ad pueros suos: Expectate hic cum asino: ego et puer illuc usque properantes, postquam adoraverimus, revertemur ad vos.",
+        "Clem-Saints": "dixitque ad pueros suos: Expectate hic cum asino: ego et puer illuc usque properantes, postquam adoraverimus, revertemur ad vos.",
+        "Amiatinus (A)": "dixitque ad pueros suos expectate hic cum asino ego et puer illuc usque properantes postquam adorauerimus reuertemur ad uos",
+        "VulgHetzenauer (1906)": "dixitque ad pueros suos: Expectate hic cum asino: ego et puer illuc usque properantes, postquam adoraverimus, revertemur ad vos.",
+        "VulgConte (2009)": "dixitque ad pueros suos: Expectate hic cum asino: ego et puer illuc usque properantes, postquam adoraverimus, revertemur ad vos.",
+        "VulgSistina (1590)": "dixitque ad pueros suos: Expectate hic cum asino: ego autem et puer illuc usque properantes, postquam adoraverimus, revertemur ad vos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Amiatinus (A)",
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "autem",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 9,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 3,
+          "kept_form": "suos:",
+          "disregarded_forms": [
+            "suos"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "Expectate",
+          "disregarded_forms": [
+            "expectate"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "asino:",
+          "disregarded_forms": [
+            "asino"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "properantes,",
+          "disregarded_forms": [
+            "properantes"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "adoraverimus,",
+          "disregarded_forms": [
+            "adorauerimus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "revertemur",
+          "disregarded_forms": [
+            "reuertemur"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 18,
+          "kept_form": "vos.",
+          "disregarded_forms": [
+            "uos"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 7 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 62043,
+      "verse": 6,
+      "critical_text": "Tulit quoque ligna holocausti, et imposuit super Isaac filium suum: ipse vero portabat in manibus ignem et gladium. Cumque duo pergerent simul,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tulit quoque ligna holocausti, et imposuit super Isaac filium suum: ipse vero portabat in manibus ignem et gladium. Cumque duo pergerent simul,",
+        "Clem-Saints": "Tulit quoque ligna holocausti, et imposuit super Isaac filium suum: ipse vero portabat in manibus ignem et gladium. Cumque duo pergerent simul,",
+        "Amiatinus (A)": "tulit quoque ligna holocausti et inposuit super isaac filium suum ipse uero portabat in manibus ignem et gladium cumque duo pergerent simul",
+        "VulgHetzenauer (1906)": "Tulit quoque ligna holocausti, et imposuit super Isaac filium suum: ipse vero portabat in manibus ignem et gladium. Cumque duo pergerent simul,",
+        "VulgConte (2009)": "Tulit quoque ligna holocausti, et imposuit super Isaac filium suum: ipse vero portabat in manibus ignem et gladium. Cumque duo pergerent simul,",
+        "VulgSistina (1590)": "Tulit quoque ligna holocausti, et imposuit super Isaac filium suum: ipse vero portabat in manibus ignem et gladium. Cumque duo pergerent simul,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Tulit",
+          "disregarded_forms": [
+            "tulit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "holocausti,",
+          "disregarded_forms": [
+            "holocausti"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "imposuit",
+          "disregarded_forms": [
+            "inposuit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "Isaac",
+          "disregarded_forms": [
+            "isaac"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "suum:",
+          "disregarded_forms": [
+            "suum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "vero",
+          "disregarded_forms": [
+            "uero"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "gladium.",
+          "disregarded_forms": [
+            "gladium"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 18,
+          "kept_form": "Cumque",
+          "disregarded_forms": [
+            "cumque"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 21,
+          "kept_form": "simul,",
+          "disregarded_forms": [
+            "simul"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 9 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 62044,
+      "verse": 7,
+      "critical_text": "dixit Isaac patri suo: Pater mi. At ille respondit: Quid vis, fili? Ecce, inquit, ignis et ligna: ubi est victima holocausti?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "dixit Isaac patri suo: Pater mi. At ille respondit: Quid vis, fili? Ecce, inquit, ignis et ligna: ubi est victima holocausti?",
+        "Clem-Saints": "dixit Isaac patri suo: Pater mi. At ille respondit: Quid vis, fili? Ecce, inquit, ignis et ligna: ubi est victima holocausti?",
+        "Amiatinus (A)": "dixit isaac patri suo pater mi at ille respondit quid uis fili ecce inquit ignis et ligna ubi est uictima holocausti",
+        "VulgHetzenauer (1906)": "dixit Isaac patri suo: Pater mi. At ille respondit: Quid vis fili? Ecce, inquit, ignis et ligna: ubi est victima holocausti?",
+        "VulgConte (2009)": "dixit Isaac patri suo: Pater mi. At ille respondit: Quid vis fili? Ecce, inquit, ignis et ligna: ubi est victima holocausti?",
+        "VulgSistina (1590)": "dixit Isaac patri suo: Pater mi. At ille respondit: Quid vis fili? Ecce, inquit, ignis et ligna: ubi est victima holocausti?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 1,
+          "kept_form": "Isaac",
+          "disregarded_forms": [
+            "isaac"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "suo:",
+          "disregarded_forms": [
+            "suo"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "Pater",
+          "disregarded_forms": [
+            "pater"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "mi.",
+          "disregarded_forms": [
+            "mi"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "At",
+          "disregarded_forms": [
+            "at"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "respondit:",
+          "disregarded_forms": [
+            "respondit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "Quid",
+          "disregarded_forms": [
+            "quid"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "vis,",
+          "disregarded_forms": [
+            "uis"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "fili?",
+          "disregarded_forms": [
+            "fili"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "Ecce,",
+          "disregarded_forms": [
+            "ecce"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "inquit,",
+          "disregarded_forms": [
+            "inquit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "ligna:",
+          "disregarded_forms": [
+            "ligna"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 19,
+          "kept_form": "victima",
+          "disregarded_forms": [
+            "uictima"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 20,
+          "kept_form": "holocausti?",
+          "disregarded_forms": [
+            "holocausti"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 14 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 62045,
+      "verse": 8,
+      "critical_text": "Dixit Abraham: Deus providebit sibi victimam holocausti, fili mi. Pergebant ergo pariter.",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixit autem Abraham: Deus providebit sibi victimam holocausti, fili mi. Pergebant ergo pariter.",
+        "Clem-Saints": "Dixit autem Abraham: Deus providebit sibi victimam holocausti, fili mi. Pergebant ergo pariter.",
+        "Amiatinus (A)": "dixit abraham deus prouidebit sibi uictimam holocausti fili mi pergebant ergo pariter",
+        "VulgHetzenauer (1906)": "Dixit autem Abraham: Deus providebit sibi victimam holocausti, fili mi. Pergebant ergo pariter:",
+        "VulgConte (2009)": "Dixit autem Abraham: Deus providebit sibi victimam holocausti, fili mi. Pergebant ergo pariter:",
+        "VulgSistina (1590)": "Dixit autem Abraham: Deus providebit sibi victimam holocausti, fili mi. Pergebant ergo pariter:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "autem",
+              "adopt_text": "autem",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over autem (Clem1598-USFX, Clem-Saints).",
+          "word_index": 1,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Dixit",
+          "disregarded_forms": [
+            "dixit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "Abraham:",
+          "disregarded_forms": [
+            "abraham"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "Deus",
+          "disregarded_forms": [
+            "deus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "providebit",
+          "disregarded_forms": [
+            "prouidebit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "victimam",
+          "disregarded_forms": [
+            "uictimam"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "holocausti,",
+          "disregarded_forms": [
+            "holocausti"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "mi.",
+          "disregarded_forms": [
+            "mi"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "Pergebant",
+          "disregarded_forms": [
+            "pergebant"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "pariter.",
+          "disregarded_forms": [
+            "pariter"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "[Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over autem (Clem1598-USFX, Clem-Saints). Also normalised 9 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 62046,
+      "verse": 9,
+      "critical_text": "Veneruntque ad locum quem ostenderat ei Deus, in quo ædificavit altare, et desuper ligna composuit; cumque conligasset Isaac filium suum, posuit eum in altari super struem lignorum.",
+      "confidence": 0.148,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et venerunt ad locum quem ostenderat ei Deus, in quo ædificavit altare, et desuper ligna composuit; cumque alligasset Isaac filium suum, posuit eum in altare super struem lignorum.",
+        "Clem-Saints": "Et venerunt ad locum quem ostenderat ei Deus, in quo ædificavit altare, et desuper ligna composuit; cumque alligasset Isaac filium suum, posuit eum in altare super struem lignorum.",
+        "Amiatinus (A)": "ueneruntque ad locum quem ostenderat ei deus in quo aedificauit altare et desuper ligna conposuit cumque conligasset isaac filium suum posuit eum in altari super struem lignorum",
+        "VulgHetzenauer (1906)": "et venerunt ad locum quem ostenderat ei Deus, in quo ædificavit altare, et desuper ligna composuit: cumque alligasset Isaac filium suum, posuit eum in altare super struem lignorum.",
+        "VulgConte (2009)": "et venerunt ad locum quem ostenderat ei Deus, in quo ædificavit altare, et desuper ligna composuit: cumque alligasset Isaac filium suum, posuit eum in altare super struem lignorum.",
+        "VulgSistina (1590)": "et venerunt ad locum quem ostenderat ei Deus, in quo aedificavit altare, et desuper ligna composuit: cumque alligasset Isaac filium suum, posuit eum in altare super struem lignorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 0,
+          "lemma": "Veneruntque",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "Et venerunt",
+              "adopt_text": "Et venerunt",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Variation unit spanning several words] Adopted 'Veneruntque' [Amiatinus (A)] (weight 0.97, confidence 53%) over Et venerunt (Clem1598-USFX, Clem-Saints).",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "ueneruntque",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 16,
+          "lemma": "conligasset",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "alligasset",
+              "adopt_text": "alligasset",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'conligasset' [Amiatinus (A)] (weight 0.97, confidence 53%) over alligasset (Clem1598-USFX, Clem-Saints).",
+          "word_index": 16,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "conligasset",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 23,
+          "lemma": "altari",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "altare",
+              "adopt_text": "altare",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'altari' [Amiatinus (A)] (weight 0.97, confidence 53%) over altare (Clem1598-USFX, Clem-Saints).",
+          "word_index": 23,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "inflection or spelling (same stem)",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "altari",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 6,
+          "kept_form": "Deus,",
+          "disregarded_forms": [
+            "deus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "ædificavit",
+          "disregarded_forms": [
+            "aedificauit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "altare,",
+          "disregarded_forms": [
+            "altare"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "composuit;",
+          "disregarded_forms": [
+            "conposuit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "Isaac",
+          "disregarded_forms": [
+            "isaac"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 19,
+          "kept_form": "suum,",
+          "disregarded_forms": [
+            "suum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 26,
+          "kept_form": "lignorum.",
+          "disregarded_forms": [
+            "lignorum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "[Variation unit spanning several words] Adopted 'Veneruntque' [Amiatinus (A)] (weight 0.97, confidence 53%) over Et venerunt (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'conligasset' [Amiatinus (A)] (weight 0.97, confidence 53%) over alligasset (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'altari' [Amiatinus (A)] (weight 0.97, confidence 53%) over altare (Clem1598-USFX, Clem-Saints). Also normalised 7 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 15% = product of 3 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 62047,
+      "verse": 10,
+      "critical_text": "Extenditque manum, et arripuit gladium, ut immolaret filium",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Extenditque manum, et arripuit gladium, ut immolaret filium suum.",
+        "Clem-Saints": "Extenditque manum, et arripuit gladium, ut immolaret filium suum.",
+        "Amiatinus (A)": "extenditque manum et arripuit gladium ut immolaret filium",
+        "VulgHetzenauer (1906)": "Extenditque manum, et arripuit gladium, ut immolaret filium suum.",
+        "VulgConte (2009)": "Extenditque manum, et arripuit gladium, ut immolaret filium suum.",
+        "VulgSistina (1590)": "Extenditque manum, et arripuit gladium, ut immolaret filium suum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 8,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "suum",
+              "adopt_text": "suum",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over suum (Clem1598-USFX, Clem-Saints).",
+          "word_index": 8,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Extenditque",
+          "disregarded_forms": [
+            "extenditque"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "manum,",
+          "disregarded_forms": [
+            "manum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "gladium,",
+          "disregarded_forms": [
+            "gladium"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "[Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over suum (Clem1598-USFX, Clem-Saints). Also normalised 3 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 62048,
+      "verse": 11,
+      "critical_text": "Et ecce angelus Domini de cælo clamavit, dicens: Abraham, Abraham. Qui respondit: Adsum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ecce angelus Domini de cælo clamavit, dicens: Abraham, Abraham. Qui respondit: Adsum.",
+        "Clem-Saints": "Et ecce angelus Domini de cælo clamavit, dicens: Abraham, Abraham. Qui respondit: Adsum.",
+        "Amiatinus (A)": "et ecce angelus domini de caelo clamauit dicens abraham abraham qui respondit adsum ·",
+        "VulgHetzenauer (1906)": "Et ecce Angelus Domini de cælo clamavit, dicens: Abraham, Abraham. Qui respondit: Adsum.",
+        "VulgConte (2009)": "Et ecce Angelus Domini de cælo clamavit, dicens: Abraham, Abraham. Qui respondit: Adsum.",
+        "VulgSistina (1590)": "Et ecce Angelus Domini de caelo clamavit, dicens: Abraham, Abraham. Qui respondit: Adsum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Et",
+          "disregarded_forms": [
+            "et"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "Domini",
+          "disregarded_forms": [
+            "domini"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "cælo",
+          "disregarded_forms": [
+            "caelo"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "clamavit,",
+          "disregarded_forms": [
+            "clamauit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "dicens:",
+          "disregarded_forms": [
+            "dicens"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "Abraham,",
+          "disregarded_forms": [
+            "abraham"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "Abraham.",
+          "disregarded_forms": [
+            "abraham"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "Qui",
+          "disregarded_forms": [
+            "qui"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "respondit:",
+          "disregarded_forms": [
+            "respondit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "Adsum.",
+          "disregarded_forms": [
+            "adsum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 10 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 62049,
+      "verse": 12,
+      "critical_text": "Dixitque ei: Non extendas manum tuam super puerum, neque facias ei quidquam: nunc cognovi quod timeas dominum, et non peperceris filio tuo unigenito propter me.",
+      "confidence": 0.078,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque ei: Non extendas manum tuam super puerum, neque facias illi quidquam: nunc cognovi quod times Deum, et non pepercisti unigenito filio tuo propter me.",
+        "Clem-Saints": "Dixitque ei: Non extendas manum tuam super puerum, neque facias illi quidquam: nunc cognovi quod times Deum, et non pepercisti unigenito filio tuo propter me.",
+        "Amiatinus (A)": "dixitque ei non extendas manum tuam super puerum neque facias ei quicquam nunc cognoui quod timeas dominum et non peperceris filio tuo unigenito propter me",
+        "VulgHetzenauer (1906)": "Dixitque ei: Non extendas manum tuam super puerum, neque facias illi quidquam: nunc cognovi quod times Deum, et non pepercisti unigenito filio tuo propter me.",
+        "VulgConte (2009)": "Dixitque ei: Non extendas manum tuam super puerum, neque facias illi quidquam: nunc cognovi quod times Deum, et non pepercisti unigenito filio tuo propter me.",
+        "VulgSistina (1590)": "Dixitque ei: Non extendas manum tuam super puerum, neque facias illi quidquam: nunc cognovi quod timeas Dominum, et non pepercisti unigenito filio tuo propter me."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 10,
+          "lemma": "ei",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "illi",
+              "adopt_text": "illi",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'ei' [Amiatinus (A)] (weight 0.97, confidence 53%) over illi (Clem1598-USFX, Clem-Saints).",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "ei",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 15,
+          "lemma": "timeas dominum",
+          "lemma_witnesses": [
+            "Amiatinus (A)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "times Deum",
+              "adopt_text": "times Deum",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Variation unit spanning several words] Adopted 'timeas dominum' [Amiatinus (A)] (weight 0.97, confidence 53%) over times Deum (Clem1598-USFX, Clem-Saints).",
+          "word_index": 15,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "timeas dominum",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 18,
+          "lemma": "peperceris",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "pepercisti unigenito",
+              "adopt_text": "pepercisti unigenito",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Variation unit spanning several words] Adopted 'peperceris' [Amiatinus (A)] (weight 0.97, confidence 53%) over pepercisti unigenito (Clem1598-USFX, Clem-Saints).",
+          "word_index": 19,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "peperceris",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 21,
+          "lemma": "unigenito",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "adopt_text": "",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Addition / omission between witnesses] Adopted 'unigenito' [Amiatinus (A)] (weight 0.97, confidence 53%) over om. (Clem1598-USFX, Clem-Saints).",
+          "word_index": 22,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "unigenito",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Dixitque",
+          "disregarded_forms": [
+            "dixitque"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "ei:",
+          "disregarded_forms": [
+            "ei"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "Non",
+          "disregarded_forms": [
+            "non"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "puerum,",
+          "disregarded_forms": [
+            "puerum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "quidquam:",
+          "disregarded_forms": [
+            "quicquam"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "cognovi",
+          "disregarded_forms": [
+            "cognoui"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 23,
+          "kept_form": "me.",
+          "disregarded_forms": [
+            "me"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'ei' [Amiatinus (A)] (weight 0.97, confidence 53%) over illi (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'timeas dominum' [Amiatinus (A)] (weight 0.97, confidence 53%) over times Deum (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'peperceris' [Amiatinus (A)] (weight 0.97, confidence 53%) over pepercisti unigenito (Clem1598-USFX, Clem-Saints). [Addition / omission between witnesses] Adopted 'unigenito' [Amiatinus (A)] (weight 0.97, confidence 53%) over om. (Clem1598-USFX, Clem-Saints). Also normalised 7 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 8% = product of 4 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 62050,
+      "verse": 13,
+      "critical_text": "Levavit Abraham oculos viditque post tergum arietem inter vepres hærentem cornibus, quem assumens obtulit holocaustum pro filio.",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Levavit Abraham oculos suos, viditque post tergum arietem inter vepres hærentem cornibus, quem assumens obtulit holocaustum pro filio.",
+        "Clem-Saints": "Levavit Abraham oculos suos, viditque post tergum arietem inter vepres hærentem cornibus, quem assumens obtulit holocaustum pro filio.",
+        "Amiatinus (A)": "leuauit abraham oculos uiditque post tergum arietem inter uepres herentem cornibus quem adsumens obtulit holocaustum pro filio",
+        "VulgHetzenauer (1906)": "Levavit Abraham oculos suos, viditque post tergum arietem inter vepres hærentem cornibus, quem assumens obtulit holocaustum pro filio.",
+        "VulgConte (2009)": "Levavit Abraham oculos suos, viditque post tergum arietem inter vepres hærentem cornibus, quem assumens obtulit holocaustum pro filio.",
+        "VulgSistina (1590)": "Levavit Abraham oculos suos, viditque post tergum arietem inter vepres haerentem cornibus, quem assumens obtulit holocaustum pro filio."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 3,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "suos",
+              "adopt_text": "suos",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over suos (Clem1598-USFX, Clem-Saints).",
+          "word_index": 3,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Levavit",
+          "disregarded_forms": [
+            "leuauit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "Abraham",
+          "disregarded_forms": [
+            "abraham"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "viditque",
+          "disregarded_forms": [
+            "uiditque"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "vepres",
+          "disregarded_forms": [
+            "uepres"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "hærentem",
+          "disregarded_forms": [
+            "herentem"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "cornibus,",
+          "disregarded_forms": [
+            "cornibus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "assumens",
+          "disregarded_forms": [
+            "adsumens"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "filio.",
+          "disregarded_forms": [
+            "filio"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "[Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over suos (Clem1598-USFX, Clem-Saints). Also normalised 8 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 62051,
+      "verse": 14,
+      "critical_text": "Appellavitque nomen loci illius, Dominus videt. Unde usque hodie dicitur: In monte Dominus videbit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Appellavitque nomen loci illius, Dominus videt. Unde usque hodie dicitur: In monte Dominus videbit.",
+        "Clem-Saints": "Appellavitque nomen loci illius, Dominus videt. Unde usque hodie dicitur: In monte Dominus videbit.",
+        "Amiatinus (A)": "appellauitque nomen loci illius dominus uidet unde usque hodie dicitur in monte dominus uideuit",
+        "VulgHetzenauer (1906)": "Appellavitque nomen loci illius, Dominus videt. Unde usque hodie dicitur: In monte Dominus videbit.",
+        "VulgConte (2009)": "Appellavitque nomen loci illius, Dominus videt. Unde usque hodie dicitur: In monte Dominus videbit.",
+        "VulgSistina (1590)": "Appellavitque nomen loci illius, Dominus videt. Unde usque hodie dicitur: In monte Dominus videbit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Appellavitque",
+          "disregarded_forms": [
+            "appellauitque"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "illius,",
+          "disregarded_forms": [
+            "illius"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "Dominus",
+          "disregarded_forms": [
+            "dominus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "videt.",
+          "disregarded_forms": [
+            "uidet"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "Unde",
+          "disregarded_forms": [
+            "unde"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "dicitur:",
+          "disregarded_forms": [
+            "dicitur"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "In",
+          "disregarded_forms": [
+            "in"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "Dominus",
+          "disregarded_forms": [
+            "dominus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "videbit.",
+          "disregarded_forms": [
+            "uideuit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 9 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only; b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 62052,
+      "verse": 15,
+      "critical_text": "Vocavit autem angelus Domini Abraham secundo de cælo, dicens:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Vocavit autem angelus Domini Abraham secundo de cælo, dicens:",
+        "Clem-Saints": "Vocavit autem angelus Domini Abraham secundo de cælo, dicens:",
+        "Amiatinus (A)": "uocauit autem angelus domini abraham secundo de caelo dicens",
+        "VulgHetzenauer (1906)": "Vocavit autem Angelus Domini Abraham secundo de cælo, dicens:",
+        "VulgConte (2009)": "Vocavit autem Angelus Domini Abraham secundo de cælo, dicens:.",
+        "VulgSistina (1590)": "Vocavit autem Angelus Domini Abraham secundo de caelo, dicens:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Vocavit",
+          "disregarded_forms": [
+            "uocauit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "Domini",
+          "disregarded_forms": [
+            "domini"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "Abraham",
+          "disregarded_forms": [
+            "abraham"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "cælo,",
+          "disregarded_forms": [
+            "caelo"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "dicens:",
+          "disregarded_forms": [
+            "dicens"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 5 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 62053,
+      "verse": 16,
+      "critical_text": "Per memetipsum juravi, dicit Dominus: quia fecisti rem hanc, et non pepercisti filio tuo unigenito",
+      "confidence": 0.28,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Per memetipsum juravi, dicit Dominus: quia fecisti hanc rem, et non pepercisti filio tuo unigenito propter me:",
+        "Clem-Saints": "Per memetipsum juravi, dicit Dominus: quia fecisti hanc rem, et non pepercisti filio tuo unigenito propter me:",
+        "Amiatinus (A)": "per memet ipsum iuraui dicit dominus quia fecisti rem hanc et non pepercisti filio tuo unigenito",
+        "VulgHetzenauer (1906)": "Per memetipsum iuravi, dicit Dominus: quia fecisti hanc rem, et non pepercisti filio tuo unigenito propter me:",
+        "VulgConte (2009)": "Per memetipsum iuravi, dicit Dominus: quia fecisti hanc rem, et non pepercisti filio tuo unigenito propter me:",
+        "VulgSistina (1590)": "Per memetipsum iuravi, dicit Dominus: quia fecisti hanc rem, et non pepercisti filio tuo unigenito propter me:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 7,
+          "lemma": "rem hanc",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "hanc rem",
+              "adopt_text": "hanc rem",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints"
+              ],
+              "weight_sum": 0.88
+            },
+            {
+              "reading": "rem,",
+              "witnesses": [
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "[Variation unit spanning several words] Adopted 'rem hanc' [Amiatinus (A)] (weight 0.97, confidence 53%) over hanc rem (Clem1598-USFX, Clem-Saints). [Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.]",
+          "word_index": 7,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "word-order transposition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "rem hanc",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 14,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "propter me",
+              "adopt_text": "propter me",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Variation unit spanning several words] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over propter me (Clem1598-USFX, Clem-Saints).",
+          "word_index": 15,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Per",
+          "disregarded_forms": [
+            "per"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "memetipsum",
+          "disregarded_forms": [
+            "memet ipsum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Word division differs (same letters written as one word or two)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "juravi,",
+          "disregarded_forms": [
+            "iuraui"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "Dominus:",
+          "disregarded_forms": [
+            "dominus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        }
+      ],
+      "rationale": "[Variation unit spanning several words] Adopted 'rem hanc' [Amiatinus (A)] (weight 0.97, confidence 53%) over hanc rem (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over propter me (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 62054,
+      "verse": 17,
+      "critical_text": "benedicam tibi, et multiplicabo semen tuum sicut stellas cæli, et velut arenam quæ est in littore maris: possidebit semen tuum portas inimicorum suorum,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "benedicam tibi, et multiplicabo semen tuum sicut stellas cæli, et velut arenam quæ est in littore maris: possidebit semen tuum portas inimicorum suorum,",
+        "Clem-Saints": "benedicam tibi, et multiplicabo semen tuum sicut stellas cæli, et velut arenam quæ est in littore maris: possidebit semen tuum portas inimicorum suorum,",
+        "Amiatinus (A)": "benedicam tibi et multiplicabo semen tuum sicut stellas caeli et uelut harenam quae est in litore maris possideuit semen tuum portas inimicorum suorum",
+        "VulgHetzenauer (1906)": "benedicam tibi, et multiplicabo semen tuum sicut stellas cæli, et velut arenam quæ est in littore maris: possidebit semen tuum portas inimicorum suorum,",
+        "VulgConte (2009)": "benedicam tibi, et multiplicabo semen tuum sicut stellas cæli, et velut arenam quæ est in littore maris: possidebit semen tuum portas inimicorum suorum,",
+        "VulgSistina (1590)": "benedicam tibi, et multiplicabo semen tuum sicut stellas caeli, et velut arenam quae est in littore maris: possidebit semen tuum portas inimicorum suorum,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 1,
+          "kept_form": "tibi,",
+          "disregarded_forms": [
+            "tibi"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "cæli,",
+          "disregarded_forms": [
+            "caeli"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "velut",
+          "disregarded_forms": [
+            "uelut"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "arenam",
+          "disregarded_forms": [
+            "harenam"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "quæ",
+          "disregarded_forms": [
+            "quae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "littore",
+          "disregarded_forms": [
+            "litore"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "maris:",
+          "disregarded_forms": [
+            "maris"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "possidebit",
+          "disregarded_forms": [
+            "possideuit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)"
+        },
+        {
+          "slot_index": 22,
+          "kept_form": "suorum,",
+          "disregarded_forms": [
+            "suorum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 9 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type); Punctuation / spacing difference only; b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 62055,
+      "verse": 18,
+      "critical_text": "et benedicentur in semine tuo omnes gentes terræ, quia obedisti voci meæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et benedicentur in semine tuo omnes gentes terræ, quia obedisti voci meæ.",
+        "Clem-Saints": "et benedicentur in semine tuo omnes gentes terræ, quia obedisti voci meæ.",
+        "Amiatinus (A)": "et benedicentur in semine tuo omnes gentes terrae quia oboedisti uoci meae",
+        "VulgHetzenauer (1906)": "et BENEDICENTUR in semine tuo omnes gentes terræ, quia obedisti voci meæ.",
+        "VulgConte (2009)": "et benedicentur in semine tuo omnes gentes terræ, quia obedisti voci meæ.",
+        "VulgSistina (1590)": "et BENEDICENTUR in semine tuo omnes gentes terrae, quia obedisti voci meae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 7,
+          "kept_form": "terræ,",
+          "disregarded_forms": [
+            "terrae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "obedisti",
+          "disregarded_forms": [
+            "oboedisti"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "voci",
+          "disregarded_forms": [
+            "uoci"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "meæ.",
+          "disregarded_forms": [
+            "meae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 4 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 62056,
+      "verse": 19,
+      "critical_text": "Reversus est Abraham ad pueros suos, abieruntque Bersabee simul, et habitavit ibi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Reversus est Abraham ad pueros suos, abieruntque Bersabee simul, et habitavit ibi.",
+        "Clem-Saints": "Reversus est Abraham ad pueros suos, abieruntque Bersabee simul, et habitavit ibi.",
+        "Amiatinus (A)": "reuersus est abraham ad pueros suos abieruntque bersabee simul et habitauit ibi",
+        "VulgHetzenauer (1906)": "Reversus est Abraham ad pueros suos, abieruntque Bersabee simul, et habitavit ibi.",
+        "VulgConte (2009)": "Reversus est Abraham ad pueros suos, abieruntque Bersabee simul, et habitavit ibi.",
+        "VulgSistina (1590)": "Reversus est Abraham ad pueros suos, abieruntque Bersabee simul, et habitavit ibi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Reversus",
+          "disregarded_forms": [
+            "reuersus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "Abraham",
+          "disregarded_forms": [
+            "abraham"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "suos,",
+          "disregarded_forms": [
+            "suos"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "Bersabee",
+          "disregarded_forms": [
+            "bersabee"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "simul,",
+          "disregarded_forms": [
+            "simul"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "habitavit",
+          "disregarded_forms": [
+            "habitauit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "ibi.",
+          "disregarded_forms": [
+            "ibi"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 7 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 62057,
+      "verse": 20,
+      "critical_text": "His itaque gestis, nuntiatum est Abraham quod Melcha quoque genuisset filios Nahor fratri suo:",
+      "confidence": 0.148,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "His ita gestis, nuntiatum est Abrahæ quod Melcha quoque genuisset filios Nachor fratri suo:",
+        "Clem-Saints": "His ita gestis, nuntiatum est Abrahæ quod Melcha quoque genuisset filios Nachor fratri suo:",
+        "Amiatinus (A)": "His itaque gestis nuntiatum est abraham quod melcha quoque genuisset filios nahor fratri suo",
+        "VulgHetzenauer (1906)": "His ita gestis, nunciatum est Abrahæ quod Melcha quoque genuisset filios Nachor fratri suo,",
+        "VulgConte (2009)": "His ita gestis, nunciatum est Abrahæ quod Melcha quoque genuisset filios Nachor fratri suo,",
+        "VulgSistina (1590)": "His itaque gestis, nunciatum est Abrahae quod Melcha quoque genuisset filios Nachor fratri suo,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 1,
+          "lemma": "itaque",
+          "lemma_witnesses": [
+            "Amiatinus (A)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "ita",
+              "adopt_text": "ita",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'itaque' [Amiatinus (A)] (weight 0.97, confidence 53%) over ita (Clem1598-USFX, Clem-Saints).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "inflection or spelling (same stem)",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "itaque",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 5,
+          "lemma": "Abraham",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "Abrahæ",
+              "adopt_text": "Abrahæ",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'Abraham' [Amiatinus (A)] (weight 0.97, confidence 53%) over Abrahæ (Clem1598-USFX, Clem-Saints).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "inflection or spelling (same stem)",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "abraham",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 11,
+          "lemma": "Nahor",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "Nachor",
+              "adopt_text": "Nachor",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'Nahor' [Amiatinus (A)] (weight 0.97, confidence 53%) over Nachor (Clem1598-USFX, Clem-Saints).",
+          "word_index": 11,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "nahor",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 2,
+          "kept_form": "gestis,",
+          "disregarded_forms": [
+            "gestis"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "Melcha",
+          "disregarded_forms": [
+            "melcha"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "suo:",
+          "disregarded_forms": [
+            "suo"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntiatum / nunciatum",
+            "nuntiatum / nunciatum",
+            "nuntiatum / nunciatum"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'itaque' [Amiatinus (A)] (weight 0.97, confidence 53%) over ita (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'Abraham' [Amiatinus (A)] (weight 0.97, confidence 53%) over Abrahæ (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'Nahor' [Amiatinus (A)] (weight 0.97, confidence 53%) over Nachor (Clem1598-USFX, Clem-Saints). Also normalised 3 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 15% = product of 3 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 62058,
+      "verse": 21,
+      "critical_text": "Hus primogenitum, et Buz fratrem ejus, Camuel patrem Syrorum,",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hus primogenitum, et Buz fratrem ejus, et Camuel patrem Syrorum,",
+        "Clem-Saints": "Hus primogenitum, et Buz fratrem ejus, et Camuel patrem Syrorum,",
+        "Amiatinus (A)": "hus primogenitum et buz fratrem eius camuhel patrem syrorum",
+        "VulgHetzenauer (1906)": "Hus primogenitum, et Buz fratrem eius, et Camuel patrem Syrorum,",
+        "VulgConte (2009)": "Hus primogenitum, et Buz fratrem eius, et Camuel patrem Syrorum,",
+        "VulgSistina (1590)": "Hus primogenitum, et Buz fratrem eius, et Camuel patrem Syrorum,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 6,
+          "lemma": "Camuel",
+          "lemma_witnesses": [
+            "Amiatinus (A)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "et Camuel",
+              "adopt_text": "et Camuel",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Variation unit spanning several words] Adopted 'Camuel' [Amiatinus (A)] (weight 0.97, confidence 53%) over et Camuel (Clem1598-USFX, Clem-Saints).",
+          "word_index": 6,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "partial substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "camuhel",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Hus",
+          "disregarded_forms": [
+            "hus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "primogenitum,",
+          "disregarded_forms": [
+            "primogenitum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "Buz",
+          "disregarded_forms": [
+            "buz"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "ejus,",
+          "disregarded_forms": [
+            "eius"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "Syrorum,",
+          "disregarded_forms": [
+            "syrorum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        }
+      ],
+      "rationale": "[Variation unit spanning several words] Adopted 'Camuel' [Amiatinus (A)] (weight 0.97, confidence 53%) over et Camuel (Clem1598-USFX, Clem-Saints). Also normalised 5 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 62059,
+      "verse": 22,
+      "critical_text": "et Cased, et Azau, Pheldas quoque et Jedlaph,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Cased, et Azau, Pheldas quoque et Jedlaph,",
+        "Clem-Saints": "et Cased, et Azau, Pheldas quoque et Jedlaph,",
+        "Amiatinus (A)": "et chased et azau pheldas quoque et iedlaph",
+        "VulgHetzenauer (1906)": "et Cased, et Azau, Pheldas quoque et Iedlaph,",
+        "VulgConte (2009)": "et Cased, et Azau, Pheldas quoque et Iedlaph,",
+        "VulgSistina (1590)": "et Cased, et Azau, Pheldas quoque et Iedlaph,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 1,
+          "kept_form": "Cased,",
+          "disregarded_forms": [
+            "chased"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "Azau,",
+          "disregarded_forms": [
+            "azau"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "Pheldas",
+          "disregarded_forms": [
+            "pheldas"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "Jedlaph,",
+          "disregarded_forms": [
+            "iedlaph"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 4 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 62060,
+      "verse": 23,
+      "critical_text": "ac Bathuel, de quo nata est Rebecca: octo istos genuit Melcha, Nahor fratri Abraham.",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ac Bathuel, de quo nata est Rebecca: octo istos genuit Melcha, Nachor fratri Abrahæ.",
+        "Clem-Saints": "ac Bathuel, de quo nata est Rebecca: octo istos genuit Melcha, Nachor fratri Abrahæ.",
+        "Amiatinus (A)": "ac batuel de quo nata est rebecca octo istos genuit melcha nahor fratri abraham",
+        "VulgHetzenauer (1906)": "ac Bathuel, de quo nata est Rebecca: octo istos genuit Melcha, Nachor fratri Abrahæ.",
+        "VulgConte (2009)": "ac Bathuel, de quo nata est Rebecca: octo istos genuit Melcha, Nachor fratri Abrahæ.",
+        "VulgSistina (1590)": "ac Bathuel, de quo nata est Rebecca: octo istos genuit Melcha, Nachor fratri Abrahae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 11,
+          "lemma": "Nahor fratri Abraham",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "Nachor fratri Abrahæ",
+              "adopt_text": "Nachor fratri Abrahæ",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Variation unit spanning several words] Adopted 'Nahor fratri Abraham' [Amiatinus (A)] (weight 0.97, confidence 53%) over Nachor fratri Abrahæ (Clem1598-USFX, Clem-Saints).",
+          "word_index": 11,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "partial substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "nahor fratri abraham",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 1,
+          "kept_form": "Bathuel,",
+          "disregarded_forms": [
+            "batuel"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "Rebecca:",
+          "disregarded_forms": [
+            "rebecca"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "Melcha,",
+          "disregarded_forms": [
+            "melcha"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        }
+      ],
+      "rationale": "[Variation unit spanning several words] Adopted 'Nahor fratri Abraham' [Amiatinus (A)] (weight 0.97, confidence 53%) over Nachor fratri Abrahæ (Clem1598-USFX, Clem-Saints). Also normalised 3 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 62061,
+      "verse": 24,
+      "critical_text": "Concubina vero illius, nomine Roma, peperit Tabee, et Gaom, et Thahas, et Maacha.",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Concubina vero illius, nomine Roma, peperit Tabee, et Gaham, et Thahas, et Maacha.",
+        "Clem-Saints": "Concubina vero illius, nomine Roma, peperit Tabee, et Gaham, et Thahas, et Maacha.",
+        "Amiatinus (A)": "concubina uero illius nomine roma peperit tabee et gaom et thaas et maacha",
+        "VulgHetzenauer (1906)": "Concubina vero illius, nomine Roma, peperit Tabee, et Gaham, et Tahas, et Maacha.",
+        "VulgConte (2009)": "Concubina vero illius, nomine Roma, peperit Tabee, et Gaham, et Tahas, et Maacha.",
+        "VulgSistina (1590)": "Concubina vero illius, nomine Roma, peperit Tabee, et Gaham, et Thahas, et Maacha."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 8,
+          "lemma": "Gaom",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "Gaham",
+              "adopt_text": "Gaham",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'Gaom' [Amiatinus (A)] (weight 0.97, confidence 53%) over Gaham (Clem1598-USFX, Clem-Saints).",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "proper-name spelling",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "gaom",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Concubina",
+          "disregarded_forms": [
+            "concubina"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "vero",
+          "disregarded_forms": [
+            "uero"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "illius,",
+          "disregarded_forms": [
+            "illius"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "Roma,",
+          "disregarded_forms": [
+            "roma"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "Tabee,",
+          "disregarded_forms": [
+            "tabee"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "Thahas,",
+          "disregarded_forms": [
+            "thaas"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "Maacha.",
+          "disregarded_forms": [
+            "maacha"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Thahas, / Tahas,",
+            "Thahas, / Tahas,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'Gaom' [Amiatinus (A)] (weight 0.97, confidence 53%) over Gaham (Clem1598-USFX, Clem-Saints). Also normalised 7 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    }
+  ]
+}

@@ -1,0 +1,2649 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "01_Law",
+  "book_slug": "genesis",
+  "book_title": "Genesis",
+  "usfm_code": "GEN",
+  "chapter": 6,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:03Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Amiatinus (A)",
+      "title": "Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only)",
+      "tier": 2,
+      "weight": 0.97,
+      "license": "CC BY-SA 4.0 (Digital Latin Library transcription)"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 61628,
+      "verse": 1,
+      "critical_text": "Cumque cœpissent homines multiplicari super terram, et filias procreassent,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque cœpissent homines multiplicari super terram, et filias procreassent,",
+        "Clem-Saints": "Cumque cœpissent homines multiplicari super terram, et filias procreassent,",
+        "Amiatinus (A)": "cumque coepissent homines multiplicari super terram et filias procreassent",
+        "VulgHetzenauer (1906)": "Cumque cœpissent homines multiplicari super terram, et filias procreassent,",
+        "VulgConte (2009)": "Cumque cœpissent homines multiplicari super terram, et filias procreassent,",
+        "VulgSistina (1590)": "Cumque coepissent homines multiplicari super terram, et filias procreassent,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Cumque",
+          "disregarded_forms": [
+            "cumque"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "cœpissent",
+          "disregarded_forms": [
+            "coepissent"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "terram,",
+          "disregarded_forms": [
+            "terram"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "procreassent,",
+          "disregarded_forms": [
+            "procreassent"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 4 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61629,
+      "verse": 2,
+      "critical_text": "videntes filii Dei filias hominum quod essent pulchræ, acceperunt uxores sibi ex omnibus, quas elegerant.",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "videntes filii Dei filias hominum quod essent pulchræ, acceperunt sibi uxores ex omnibus, quas elegerant.",
+        "Clem-Saints": "videntes filii Dei filias hominum quod essent pulchræ, acceperunt sibi uxores ex omnibus, quas elegerant.",
+        "Amiatinus (A)": "uidentes filii dei filias hominum quod essent pulchrae acceperunt uxores sibi ex omnibus quas elegerant",
+        "VulgHetzenauer (1906)": "Videntes filii Dei filias hominum quod essent pulchræ, acceperunt sibi uxores ex omnibus, quas elegerant.",
+        "VulgConte (2009)": "videntes filii Dei filias hominum quod essent pulchræ, acceperunt sibi uxores ex omnibus, quas elegerant.",
+        "VulgSistina (1590)": "Videntes filii Dei filias hominum quod essent pulchrae, acceperunt sibi uxores ex omnibus, quas elegerant."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 9,
+          "lemma": "uxores sibi",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "sibi uxores",
+              "adopt_text": "sibi uxores",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints"
+              ],
+              "weight_sum": 0.88
+            },
+            {
+              "reading": "uxores",
+              "witnesses": [
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "[Variation unit spanning several words] Adopted 'uxores sibi' [Amiatinus (A)] (weight 0.97, confidence 53%) over sibi uxores (Clem1598-USFX, Clem-Saints). [Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.]",
+          "word_index": 9,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "word-order transposition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "uxores sibi",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "videntes",
+          "disregarded_forms": [
+            "uidentes"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "Dei",
+          "disregarded_forms": [
+            "dei"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "pulchræ,",
+          "disregarded_forms": [
+            "pulchrae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "omnibus,",
+          "disregarded_forms": [
+            "omnibus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "elegerant.",
+          "disregarded_forms": [
+            "elegerant"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "[Variation unit spanning several words] Adopted 'uxores sibi' [Amiatinus (A)] (weight 0.97, confidence 53%) over sibi uxores (Clem1598-USFX, Clem-Saints). Also normalised 5 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 61630,
+      "verse": 3,
+      "critical_text": "Dixitque Deus: Non permanebit spiritus meus in homine in æternum, quia caro est: eruntque dies illius centum viginti annorum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque Deus: Non permanebit spiritus meus in homine in æternum, quia caro est: eruntque dies illius centum viginti annorum.",
+        "Clem-Saints": "Dixitque Deus: Non permanebit spiritus meus in homine in æternum, quia caro est: eruntque dies illius centum viginti annorum.",
+        "Amiatinus (A)": "dixitque deus non permanebit spiritus meus in homine in aeternum quia caro est eruntque dies illius centum uiginti annorum",
+        "VulgHetzenauer (1906)": "Dixitque Deus: Non permanebit spiritus meus in homine in æternum, quia caro est: eruntque dies illius centum viginti annorum.",
+        "VulgConte (2009)": "Dixitque Deus: Non permanebit spiritus meus in homine in æternum, quia caro est: eruntque dies illius centum viginti annorum.",
+        "VulgSistina (1590)": "Dixitque Deus: Non permanebit spiritus meus in homine in aeternum, quia caro est: eruntque dies illius centum viginti annorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Dixitque",
+          "disregarded_forms": [
+            "dixitque"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "Deus:",
+          "disregarded_forms": [
+            "deus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "Non",
+          "disregarded_forms": [
+            "non"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "æternum,",
+          "disregarded_forms": [
+            "aeternum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "est:",
+          "disregarded_forms": [
+            "est"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "viginti",
+          "disregarded_forms": [
+            "uiginti"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 18,
+          "kept_form": "annorum.",
+          "disregarded_forms": [
+            "annorum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 7 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61631,
+      "verse": 4,
+      "critical_text": "Gigantes autem erant super terram in diebus illis: postquam enim ingressi sunt filii Dei ad filias hominum, illæque genuerunt, isti sunt potentes a sæculo viri famosi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Gigantes autem erant super terram in diebus illis: postquam enim ingressi sunt filii Dei ad filias hominum, illæque genuerunt, isti sunt potentes a sæculo viri famosi.",
+        "Clem-Saints": "Gigantes autem erant super terram in diebus illis: postquam enim ingressi sunt filii Dei ad filias hominum, illæque genuerunt, isti sunt potentes a sæculo viri famosi.",
+        "Amiatinus (A)": "gigantes autem erant super terram in diebus illis postquam enim ingressi sunt filii dei ad filias hominum illaeque genuerunt Isti sunt potentes a saeculo uiri famosi",
+        "VulgHetzenauer (1906)": "Gigantes autem erant super terram in diebus illis. postquam enim ingressi sunt filii Dei ad filias hominum, illæque genuerunt, isti sunt potentes a sæculo viri famosi.",
+        "VulgConte (2009)": "Gigantes autem erant super terram in diebus illis. Postquam enim ingressi sunt filii Dei ad filias hominum, illæque genuerunt, isti sunt potentes a sæculo viri famosi.",
+        "VulgSistina (1590)": "Gigantes autem erant super terram in diebus illis. postquam enim ingressi sunt filii Dei ad filias hominum, illaeque genuerunt, isti sunt potentes a saeculo viri famosi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Gigantes",
+          "disregarded_forms": [
+            "gigantes"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "illis:",
+          "disregarded_forms": [
+            "illis"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "Dei",
+          "disregarded_forms": [
+            "dei"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "hominum,",
+          "disregarded_forms": [
+            "hominum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "illæque",
+          "disregarded_forms": [
+            "illaeque"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 18,
+          "kept_form": "genuerunt,",
+          "disregarded_forms": [
+            "genuerunt"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 19,
+          "kept_form": "isti",
+          "disregarded_forms": [
+            "Isti"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 23,
+          "kept_form": "sæculo",
+          "disregarded_forms": [
+            "saeculo"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 24,
+          "kept_form": "viri",
+          "disregarded_forms": [
+            "uiri"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 25,
+          "kept_form": "famosi.",
+          "disregarded_forms": [
+            "famosi"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 10 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61632,
+      "verse": 5,
+      "critical_text": "Videns autem Deus quod multa malitia hominum esset in terra, et cuncta cogitatio cordis intenta esset ad malum omni tempore,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Videns autem Deus quod multa malitia hominum esset in terra, et cuncta cogitatio cordis intenta esset ad malum omni tempore,",
+        "Clem-Saints": "Videns autem Deus quod multa malitia hominum esset in terra, et cuncta cogitatio cordis intenta esset ad malum omni tempore,",
+        "Amiatinus (A)": "uidens autem deus quod multa malitia hominum esset in terra et cuncta cogitatio cordis intenta esset ad malum omni tempore",
+        "VulgHetzenauer (1906)": "Videns autem Deus quod multa malitia hominum esset in terra, et cuncta cogitatio cordis intenta esset ad malum omni tempore,",
+        "VulgConte (2009)": "Videns autem Deus quod multa malitia hominum esset in terra, et cuncta cogitatio cordis intenta esset ad malum omni tempore,",
+        "VulgSistina (1590)": "Videns autem Deus quod multa malitia hominum esset in terra, et cuncta cogitatio cordis intenta esset ad malum omni tempore,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Videns",
+          "disregarded_forms": [
+            "uidens"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "Deus",
+          "disregarded_forms": [
+            "deus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "terra,",
+          "disregarded_forms": [
+            "terra"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 19,
+          "kept_form": "tempore,",
+          "disregarded_forms": [
+            "tempore"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 4 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61633,
+      "verse": 6,
+      "critical_text": "pœnituit eum quod hominem fecisset in terra. Et tactus dolore cordis intrinsecus,",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "pœnituit eum quod hominum fecisset in terra. Et tactus dolore cordis intrinsecus,",
+        "Clem-Saints": "pœnituit eum quod hominum fecisset in terra. Et tactus dolore cordis intrinsecus,",
+        "Amiatinus (A)": "paenituit eum quod hominem fecisset in terra et tactus dolore cordis intrinsecus",
+        "VulgHetzenauer (1906)": "pœnituit eum quod hominum fecisset in terra. Et tactus dolore cordis intrinsecus,",
+        "VulgConte (2009)": "pœnituit eum quod hominum fecisset in terra. Et tactus dolore cordis intrinsecus,",
+        "VulgSistina (1590)": "poenituit eum quod hominum fecisset in terra. Et tactus dolore cordis intrinsecus,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 3,
+          "lemma": "hominem",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "hominum",
+              "adopt_text": "hominum",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'hominem' [Amiatinus (A)] (weight 0.97, confidence 53%) over hominum (Clem1598-USFX, Clem-Saints).",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "inflection or spelling (same stem)",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "hominem",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "pœnituit",
+          "disregarded_forms": [
+            "paenituit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "terra.",
+          "disregarded_forms": [
+            "terra"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "Et",
+          "disregarded_forms": [
+            "et"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "intrinsecus,",
+          "disregarded_forms": [
+            "intrinsecus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'hominem' [Amiatinus (A)] (weight 0.97, confidence 53%) over hominum (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 61634,
+      "verse": 7,
+      "critical_text": "Delebo, inquit, hominem, quem creavi, a facie terræ, ab homine usque ad animantia, a reptili usque ad volucres cæli: pœnitet enim me fecisse eos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Delebo, inquit, hominem, quem creavi, a facie terræ, ab homine usque ad animantia, a reptili usque ad volucres cæli: pœnitet enim me fecisse eos.",
+        "Clem-Saints": "Delebo, inquit, hominem, quem creavi, a facie terræ, ab homine usque ad animantia, a reptili usque ad volucres cæli: pœnitet enim me fecisse eos.",
+        "Amiatinus (A)": "delebo inquit hominem quem creaui a facie terrae ab homine usque ad animantia a reptili usque ad uolucres caeli paenitet enim me fecisse eos",
+        "VulgHetzenauer (1906)": "Delebo, inquit, hominem, quem creavi, a facie terræ, ab homine usque ad animantia, a reptili usque ad volucres cæli. pœnitet enim me fecisse eos.",
+        "VulgConte (2009)": "delebo, inquit, hominem, quem creavi, a facie terræ, ab homine usque ad animantia, a reptili usque ad volucres cæli. Pœnitet enim me fecisse eos.",
+        "VulgSistina (1590)": "Delebo, inquit, hominem, quem creavi, a facie terrae, ab homine usque ad animantia, a reptili usque ad volucres caeli. poenitet enim me fecisse eos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Delebo,",
+          "disregarded_forms": [
+            "delebo"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "inquit,",
+          "disregarded_forms": [
+            "inquit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "hominem,",
+          "disregarded_forms": [
+            "hominem"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "creavi,",
+          "disregarded_forms": [
+            "creaui"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "terræ,",
+          "disregarded_forms": [
+            "terrae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "animantia,",
+          "disregarded_forms": [
+            "animantia"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "volucres",
+          "disregarded_forms": [
+            "uolucres"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 18,
+          "kept_form": "cæli:",
+          "disregarded_forms": [
+            "caeli"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 19,
+          "kept_form": "pœnitet",
+          "disregarded_forms": [
+            "paenitet"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 23,
+          "kept_form": "eos.",
+          "disregarded_forms": [
+            "eos"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 10 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61635,
+      "verse": 8,
+      "critical_text": "Noë vero invenit gratiam coram Domino.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Noë vero invenit gratiam coram Domino.",
+        "Clem-Saints": "Noë vero invenit gratiam coram Domino.",
+        "Amiatinus (A)": "Noe uero inuenit gratiam coram domino",
+        "VulgHetzenauer (1906)": "Noe vero invenit gratiam coram Domino.",
+        "VulgConte (2009)": "Noe vero invenit gratiam coram Domino.",
+        "VulgSistina (1590)": "Noe vero invenit gratiam coram Domino."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Noë",
+          "disregarded_forms": [
+            "Noe"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "vero",
+          "disregarded_forms": [
+            "uero"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "invenit",
+          "disregarded_forms": [
+            "inuenit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "Domino.",
+          "disregarded_forms": [
+            "domino"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 4 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61636,
+      "verse": 9,
+      "critical_text": "Hæ sunt generationes Noë: Noë vir justus atque perfectus fuit in generationibus suis; cum Deo ambulavit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hæ sunt generationes Noë: Noë vir justus atque perfectus fuit in generationibus suis; cum Deo ambulavit.",
+        "Clem-Saints": "Hæ sunt generationes Noë: Noë vir justus atque perfectus fuit in generationibus suis; cum Deo ambulavit.",
+        "Amiatinus (A)": "hae sunt generationes noe noe uir iustus atque perfectus fuit in generationibus suis cum deo ambulauit",
+        "VulgHetzenauer (1906)": "Hæ sunt generationes Noe: Noe vir iustus atque perfectus fuit in generationibus suis, cum Deo ambulavit.",
+        "VulgConte (2009)": "Hæ sunt generationes Noe: Noe vir iustus atque perfectus fuit in generationibus suis, cum Deo ambulavit.",
+        "VulgSistina (1590)": "Hae sunt generationes Noe: Noe vir iustus atque perfectus fuit in generationibus suis, cum Deo ambulavit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Hæ",
+          "disregarded_forms": [
+            "hae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "Noë:",
+          "disregarded_forms": [
+            "noe"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "Noë",
+          "disregarded_forms": [
+            "noe"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "vir",
+          "disregarded_forms": [
+            "uir"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "justus",
+          "disregarded_forms": [
+            "iustus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "suis;",
+          "disregarded_forms": [
+            "suis"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 14,
+          "kept_form": "Deo",
+          "disregarded_forms": [
+            "deo"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "ambulavit.",
+          "disregarded_forms": [
+            "ambulauit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 8 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61637,
+      "verse": 10,
+      "critical_text": "Et genuit tres filios, Sem, Ham et Japheth.",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et genuit tres filios, Sem, Cham et Japheth.",
+        "Clem-Saints": "Et genuit tres filios, Sem, Cham et Japheth.",
+        "Amiatinus (A)": "et genuit tres filios sem ham […] iafeth",
+        "VulgHetzenauer (1906)": "Et genuit tres filios, Sem, Cham et Iapheth.",
+        "VulgConte (2009)": "Et genuit tres filios, Sem, Cham et Iapheth.",
+        "VulgSistina (1590)": "Et genuit tres filios, Sem, Cham et Iapheth."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 5,
+          "lemma": "Ham",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "Cham",
+              "adopt_text": "Cham",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'Ham' [Amiatinus (A)] (weight 0.97, confidence 53%) over Cham (Clem1598-USFX, Clem-Saints).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "proper-name spelling",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "ham",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Et",
+          "disregarded_forms": [
+            "et"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "filios,",
+          "disregarded_forms": [
+            "filios"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "Sem,",
+          "disregarded_forms": [
+            "sem"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "Japheth.",
+          "disregarded_forms": [
+            "iafeth"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'Ham' [Amiatinus (A)] (weight 0.97, confidence 53%) over Cham (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 61638,
+      "verse": 11,
+      "critical_text": "Corrupta est autem terra coram Deo, et repleta est iniquitate.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Corrupta est autem terra coram Deo, et repleta est iniquitate.",
+        "Clem-Saints": "Corrupta est autem terra coram Deo, et repleta est iniquitate.",
+        "Amiatinus (A)": "corrupta est autem terra coram deo et repleta est iniquitate",
+        "VulgHetzenauer (1906)": "Corrupta est autem terra coram Deo, et repleta est iniquitate.",
+        "VulgConte (2009)": "Corrupta est autem terra coram Deo, et repleta est iniquitate.",
+        "VulgSistina (1590)": "Corrupta est autem terra coram Deo, et repleta est iniquitate."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Corrupta",
+          "disregarded_forms": [
+            "corrupta"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "Deo,",
+          "disregarded_forms": [
+            "deo"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "iniquitate.",
+          "disregarded_forms": [
+            "iniquitate"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 3 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61639,
+      "verse": 12,
+      "critical_text": "Cumque vidisset Deus terram esse corruptam (omnis quippe caro corruperat viam suam super terram),",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque vidisset Deus terram esse corruptam (omnis quippe caro corruperat viam suam super terram),",
+        "Clem-Saints": "Cumque vidisset Deus terram esse corruptam (omnis quippe caro corruperat viam suam super terram),",
+        "Amiatinus (A)": "cumque uidisset deus terram esse corruptam omnis quippe caro corruperat uiam suam super terram",
+        "VulgHetzenauer (1906)": "Cumque vidisset Deus terram esse corruptam, (omnis quippe caro corruperat viam suam super terram)",
+        "VulgConte (2009)": "Cumque vidisset Deus terram esse corruptam, (omnis quippe caro corruperat viam suam super terram)",
+        "VulgSistina (1590)": "Cumque vidisset Deus terram esse corruptam, (omnis quippe caro corruperat viam suam super terram)"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Cumque",
+          "disregarded_forms": [
+            "cumque"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "vidisset",
+          "disregarded_forms": [
+            "uidisset"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "Deus",
+          "disregarded_forms": [
+            "deus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "(omnis",
+          "disregarded_forms": [
+            "omnis"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "viam",
+          "disregarded_forms": [
+            "uiam"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "terram),",
+          "disregarded_forms": [
+            "terram"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 6 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61640,
+      "verse": 13,
+      "critical_text": "dixit ad Noë: Finis universæ carnis venit coram me: repleta est terra iniquitate a facie eorum, et ego disperdam eos cum terra.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "dixit ad Noë: Finis universæ carnis venit coram me: repleta est terra iniquitate a facie eorum, et ego disperdam eos cum terra.",
+        "Clem-Saints": "dixit ad Noë: Finis universæ carnis venit coram me: repleta est terra iniquitate a facie eorum, et ego disperdam eos cum terra.",
+        "Amiatinus (A)": "Dixit ad noe finis uniuersae carnis uenit coram me repleta est terra iniquitate a facie eorum et ego disperdam eos cum terra",
+        "VulgHetzenauer (1906)": "dixit ad Noe: Finis universæ carnis venit coram me: repleta est terra iniquitate a facie eorum, et ego disperdam eos cum terra.",
+        "VulgConte (2009)": "dixit ad Noe: Finis universæ carnis venit coram me: repleta est terra iniquitate a facie eorum, et ego disperdam eos cum terra.",
+        "VulgSistina (1590)": "dixit ad Noe: Finis universae carnis venit coram me: repleta est terra iniquitate a facie eorum, et ego disperdam eos cum terra."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "dixit",
+          "disregarded_forms": [
+            "Dixit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "Noë:",
+          "disregarded_forms": [
+            "noe"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "Finis",
+          "disregarded_forms": [
+            "finis"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "universæ",
+          "disregarded_forms": [
+            "uniuersae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "venit",
+          "disregarded_forms": [
+            "uenit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "me:",
+          "disregarded_forms": [
+            "me"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "eorum,",
+          "disregarded_forms": [
+            "eorum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 21,
+          "kept_form": "terra.",
+          "disregarded_forms": [
+            "terra"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 8 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61641,
+      "verse": 14,
+      "critical_text": "Fac tibi arcam de lignis lævigatis; mansiunculas in arca facies, et bitumine linies intrinsecus et extrinsecus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fac tibi arcam de lignis lævigatis; mansiunculas in arca facies, et bitumine linies intrinsecus et extrinsecus.",
+        "Clem-Saints": "Fac tibi arcam de lignis lævigatis; mansiunculas in arca facies, et bitumine linies intrinsecus et extrinsecus.",
+        "Amiatinus (A)": "fac tibi arcam de lignis leuigatis mansiunculas in arca facies et uitumine linies intrinsecus et extrinsecus",
+        "VulgHetzenauer (1906)": "Fac tibi arcam de lignis lævigatis: mansiunculas in arca facies, et bitumine linies intrinsecus, et extrinsecus.",
+        "VulgConte (2009)": "Fac tibi arcam de lignis lævigatis: mansiunculas in arca facies, et bitumine linies intrinsecus, et extrinsecus.",
+        "VulgSistina (1590)": "Fac tibi arcam de lignis laevigatis: mansiunculas in arca facies, et bitumine linies intrinsecus, et extrinsecus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Fac",
+          "disregarded_forms": [
+            "fac"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "lævigatis;",
+          "disregarded_forms": [
+            "leuigatis"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "facies,",
+          "disregarded_forms": [
+            "facies"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "bitumine",
+          "disregarded_forms": [
+            "uitumine"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "extrinsecus.",
+          "disregarded_forms": [
+            "extrinsecus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 5 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type); Punctuation / spacing difference only; b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61642,
+      "verse": 15,
+      "critical_text": "Et sic facies eam: trecentorum cubitorum erit longitudo arcæ, quinquaginta cubitorum latitudo, et triginta cubitorum altitudo illius.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et sic facies eam: trecentorum cubitorum erit longitudo arcæ, quinquaginta cubitorum latitudo, et triginta cubitorum altitudo illius.",
+        "Clem-Saints": "Et sic facies eam: trecentorum cubitorum erit longitudo arcæ, quinquaginta cubitorum latitudo, et triginta cubitorum altitudo illius.",
+        "Amiatinus (A)": "et sic facies eam trecentorum cubitorum erit longitudo arcae quinquaginta cubitorum latitudo et triginta cubitorum altitudo illius",
+        "VulgHetzenauer (1906)": "Et sic facies eam: Trecentorum cubitorum erit longitudo arcæ, quinquaginta cubitorum latitudo, et triginta cubitorum altitudo illius.",
+        "VulgConte (2009)": "Et sic facies eam: Trecentorum cubitorum erit longitudo arcæ, quinquaginta cubitorum latitudo, et triginta cubitorum altitudo illius.",
+        "VulgSistina (1590)": "Et sic facies eam: Trecentorum cubitorum erit longitudo arcae, quinquaginta cubitorum latitudo, et triginta cubitorum altitudo illius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Et",
+          "disregarded_forms": [
+            "et"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "eam:",
+          "disregarded_forms": [
+            "eam"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "arcæ,",
+          "disregarded_forms": [
+            "arcae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "latitudo,",
+          "disregarded_forms": [
+            "latitudo"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "illius.",
+          "disregarded_forms": [
+            "illius"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 5 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61643,
+      "verse": 16,
+      "critical_text": "Fenestram in arca facies, et in cubito consummabis summitatem ostium autem arcæ pones ex latere; deorsum, cœnacula et tristega facies in ea.",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fenestram in arca facies, et in cubito consummabis summitatem ejus: ostium autem arcæ pones ex latere; deorsum, cœnacula et tristega facies in ea.",
+        "Clem-Saints": "Fenestram in arca facies, et in cubito consummabis summitatem ejus: ostium autem arcæ pones ex latere; deorsum, cœnacula et tristega facies in ea.",
+        "Amiatinus (A)": "fenestram in arca facies et in cubito consummabis summitatem ostium autem arcae pones ex latere deorsum cenacula et tristega facies in ea",
+        "VulgHetzenauer (1906)": "Fenestram in arca facies, et in cubito consummabis summitatem eius: ostium autem arcæ pones ex latere: deorsum, cœnacula, et tristega facies in ea.",
+        "VulgConte (2009)": "Fenestram in arca facies, et in cubito consummabis summitatem eius: ostium autem arcæ pones ex latere: deorsum, cœnacula, et tristega facies in ea.",
+        "VulgSistina (1590)": "Fenestram in arca facies, et in cubito consummabis summitatem eius: ostium autem arcae pones ex latere: deorsum, coenacula, et tristega facies in ea."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 9,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "ejus",
+              "adopt_text": "ejus",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over ejus (Clem1598-USFX, Clem-Saints).",
+          "word_index": 9,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "omission / addition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Fenestram",
+          "disregarded_forms": [
+            "fenestram"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "facies,",
+          "disregarded_forms": [
+            "facies"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "arcæ",
+          "disregarded_forms": [
+            "arcae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "latere;",
+          "disregarded_forms": [
+            "latere"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "deorsum,",
+          "disregarded_forms": [
+            "deorsum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "cœnacula",
+          "disregarded_forms": [
+            "cenacula"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 22,
+          "kept_form": "ea.",
+          "disregarded_forms": [
+            "ea"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "[Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over ejus (Clem1598-USFX, Clem-Saints). Also normalised 7 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 61644,
+      "verse": 17,
+      "critical_text": "Ecce ego adducam diluvii aquas super terram, ut interficiam omnem carnem, in qua spiritus vitæ est subter cælum: universa quæ in terra sunt, consumentur.",
+      "confidence": 0.529,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ecce ego adducam aquas diluvii super terram, ut interficiam omnem carnem, in qua spiritus vitæ est subter cælum: universa quæ in terra sunt, consumentur.",
+        "Clem-Saints": "Ecce ego adducam aquas diluvii super terram, ut interficiam omnem carnem, in qua spiritus vitæ est subter cælum: universa quæ in terra sunt, consumentur.",
+        "Amiatinus (A)": "ecce ego adducam diluuii aquas super terram ut interficiam omnem carnem in qua spiritus uitae est subter caelum uniuersa quae in terra sunt consumentur",
+        "VulgHetzenauer (1906)": "Ecce ego adducam aquas diluvii super terram, ut interficiam omnem carnem, in qua spiritus vitæ est subter cælum: Universa quæ in terra sunt, consumentur.",
+        "VulgConte (2009)": "Ecce ego adducam aquas diluvii super terram, ut interficiam omnem carnem, in qua spiritus vitæ est subter cælum: Universa quæ in terra sunt, consumentur.",
+        "VulgSistina (1590)": "Ecce ego adducam aquas diluvii super terram, ut interficiam omnem carnem, in qua spiritus vitae est subter caelum: et Universa quae in terra sunt, consumentur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 3,
+          "lemma": "diluvii aquas",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "aquas diluvii",
+              "adopt_text": "aquas diluvii",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints"
+              ],
+              "weight_sum": 0.88
+            },
+            {
+              "reading": "diluvii",
+              "witnesses": [
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "[Variation unit spanning several words] Adopted 'diluvii aquas' [Amiatinus (A)] (weight 0.97, confidence 53%) over aquas diluvii (Clem1598-USFX, Clem-Saints). [Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.]",
+          "word_index": 3,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "word-order transposition",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "diluuii aquas",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Amiatinus (A)",
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "et",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 18,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Ecce",
+          "disregarded_forms": [
+            "ecce"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "terram,",
+          "disregarded_forms": [
+            "terram"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "carnem,",
+          "disregarded_forms": [
+            "carnem"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 13,
+          "kept_form": "vitæ",
+          "disregarded_forms": [
+            "uitae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "cælum:",
+          "disregarded_forms": [
+            "caelum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "universa",
+          "disregarded_forms": [
+            "uniuersa"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 18,
+          "kept_form": "quæ",
+          "disregarded_forms": [
+            "quae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 21,
+          "kept_form": "sunt,",
+          "disregarded_forms": [
+            "sunt"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 22,
+          "kept_form": "consumentur.",
+          "disregarded_forms": [
+            "consumentur"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "[Variation unit spanning several words] Adopted 'diluvii aquas' [Amiatinus (A)] (weight 0.97, confidence 53%) over aquas diluvii (Clem1598-USFX, Clem-Saints). Also normalised 9 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    },
+    {
+      "id": 61645,
+      "verse": 18,
+      "critical_text": "Ponamque fœdus meum tecum: et ingredieris arcam tu et filii tui, uxor tua, et uxores filiorum tuorum tecum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ponamque fœdus meum tecum: et ingredieris arcam tu et filii tui, uxor tua, et uxores filiorum tuorum tecum.",
+        "Clem-Saints": "Ponamque fœdus meum tecum: et ingredieris arcam tu et filii tui, uxor tua, et uxores filiorum tuorum tecum.",
+        "Amiatinus (A)": "ponamque foedus meum tecum et ingredieris arcam tu et filii tui uxor tua et uxores filiorum tuorum tecum",
+        "VulgHetzenauer (1906)": "Ponamque fœdus meum tecum: et ingredieris arcam tu et filii tui, uxor tua, et uxores filiorum tuorum tecum.",
+        "VulgConte (2009)": "Ponamque fœdus meum tecum: et ingredieris arcam tu et filii tui, uxor tua, et uxores filiorum tuorum tecum.",
+        "VulgSistina (1590)": "Ponamque foedus meum tecum: et ingredieris arcam tu et filii tui, uxor tua, et uxores filiorum tuorum tecum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Ponamque",
+          "disregarded_forms": [
+            "ponamque"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "fœdus",
+          "disregarded_forms": [
+            "foedus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "tecum:",
+          "disregarded_forms": [
+            "tecum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "tui,",
+          "disregarded_forms": [
+            "tui"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "tua,",
+          "disregarded_forms": [
+            "tua"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 17,
+          "kept_form": "tecum.",
+          "disregarded_forms": [
+            "tecum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 6 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61646,
+      "verse": 19,
+      "critical_text": "Et ex cunctis animantibus universæ carnis bina induces in arcam, ut vivant tecum: masculini sexus et feminini.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ex cunctis animantibus universæ carnis bina induces in arcam, ut vivant tecum: masculini sexus et feminini.",
+        "Clem-Saints": "Et ex cunctis animantibus universæ carnis bina induces in arcam, ut vivant tecum: masculini sexus et feminini.",
+        "Amiatinus (A)": "et ex cunctis animantibus uniuersae carnis bina induces in arcam ut uiuant tecum masculini sexus et feminini",
+        "VulgHetzenauer (1906)": "Et ex cunctis animantibus universæ carnis bina induces in arcam, ut vivant tecum: masculini sexus et feminini.",
+        "VulgConte (2009)": "Et ex cunctis animantibus universæ carnis bina induces in arcam, ut vivant tecum: masculini sexus et feminini.",
+        "VulgSistina (1590)": "Et ex cunctis animantibus universae carnis bina induces in arcam, ut vivant tecum: masculini sexus et feminini."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Et",
+          "disregarded_forms": [
+            "et"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "universæ",
+          "disregarded_forms": [
+            "uniuersae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 9,
+          "kept_form": "arcam,",
+          "disregarded_forms": [
+            "arcam"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "vivant",
+          "disregarded_forms": [
+            "uiuant"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "tecum:",
+          "disregarded_forms": [
+            "tecum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "feminini.",
+          "disregarded_forms": [
+            "feminini"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 6 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61647,
+      "verse": 20,
+      "critical_text": "De volucribus juxta genus suum, et de jumentis in genere suo, et ex omni reptili terræ secundum genus suum: bina de omnibus ingredientur tecum, ut possint vivere.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "De volucribus juxta genus suum, et de jumentis in genere suo, et ex omni reptili terræ secundum genus suum: bina de omnibus ingredientur tecum, ut possint vivere.",
+        "Clem-Saints": "De volucribus juxta genus suum, et de jumentis in genere suo, et ex omni reptili terræ secundum genus suum: bina de omnibus ingredientur tecum, ut possint vivere.",
+        "Amiatinus (A)": "de uolucribus iuxta genus suum et de iumentis in genere suo et ex omni reptili terrae secundum genus suum bina de omnibus ingredientur tecum ut possint uiuere",
+        "VulgHetzenauer (1906)": "De volucribus iuxta genus suum, et de iumentis in genere suo, et ex omni reptili terræ secundum genus suum: bina de omnibus ingredientur tecum, ut possint vivere.",
+        "VulgConte (2009)": "De volucribus iuxta genus suum, et de iumentis in genere suo, et ex omni reptili terræ secundum genus suum: bina de omnibus ingredientur tecum, ut possint vivere.",
+        "VulgSistina (1590)": "De volucribus iuxta genus suum, et de iumentis in genere suo, et ex omni reptili terrae secundum genus suum: bina de omnibus ingredientur tecum, ut possint vivere."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "De",
+          "disregarded_forms": [
+            "de"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 1,
+          "kept_form": "volucribus",
+          "disregarded_forms": [
+            "uolucribus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "juxta",
+          "disregarded_forms": [
+            "iuxta"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "suum,",
+          "disregarded_forms": [
+            "suum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 7,
+          "kept_form": "jumentis",
+          "disregarded_forms": [
+            "iumentis"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "suo,",
+          "disregarded_forms": [
+            "suo"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 15,
+          "kept_form": "terræ",
+          "disregarded_forms": [
+            "terrae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 18,
+          "kept_form": "suum:",
+          "disregarded_forms": [
+            "suum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 23,
+          "kept_form": "tecum,",
+          "disregarded_forms": [
+            "tecum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 26,
+          "kept_form": "vivere.",
+          "disregarded_forms": [
+            "uiuere"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 10 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61648,
+      "verse": 21,
+      "critical_text": "Tolles igitur tecum ex omnibus escis, quæ mandi possunt, et comportabis apud te: et erunt tam tibi, quam illis in cibum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tolles igitur tecum ex omnibus escis, quæ mandi possunt, et comportabis apud te: et erunt tam tibi, quam illis in cibum.",
+        "Clem-Saints": "Tolles igitur tecum ex omnibus escis, quæ mandi possunt, et comportabis apud te: et erunt tam tibi, quam illis in cibum.",
+        "Amiatinus (A)": "tolles igitur tecum ex omnibus escis quae mandi possunt et conportauis aput te et erunt tam tibi quam illis in cibum",
+        "VulgHetzenauer (1906)": "Tolles igitur tecum ex omnibus escis, quæ mandi possunt, et comportabis apud te: et erunt tam tibi, quam illis in cibum.",
+        "VulgConte (2009)": "Tolles igitur tecum ex omnibus escis, quæ mandi possunt, et comportabis apud te: et erunt tam tibi, quam illis in cibum.",
+        "VulgSistina (1590)": "Tolles igitur tecum ex omnibus escis, quae mandi possunt, et comportabis apud te: et erunt tam tibi, quam illis in cibum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Tolles",
+          "disregarded_forms": [
+            "tolles"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "escis,",
+          "disregarded_forms": [
+            "escis"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 6,
+          "kept_form": "quæ",
+          "disregarded_forms": [
+            "quae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 8,
+          "kept_form": "possunt,",
+          "disregarded_forms": [
+            "possunt"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "comportabis",
+          "disregarded_forms": [
+            "conportauis"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)"
+        },
+        {
+          "slot_index": 11,
+          "kept_form": "apud",
+          "disregarded_forms": [
+            "aput"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
+          "slot_index": 12,
+          "kept_form": "te:",
+          "disregarded_forms": [
+            "te"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 16,
+          "kept_form": "tibi,",
+          "disregarded_forms": [
+            "tibi"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        },
+        {
+          "slot_index": 20,
+          "kept_form": "cibum.",
+          "disregarded_forms": [
+            "cibum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 9 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type); Punctuation / spacing difference only; b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 61649,
+      "verse": 22,
+      "critical_text": "Fecit ergo Noë omnia quæ præceperat illi Dominus.",
+      "confidence": 0.28,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fecit igitur Noë omnia quæ præceperat illi Deus.",
+        "Clem-Saints": "Fecit igitur Noë omnia quæ præceperat illi Deus.",
+        "Amiatinus (A)": "fecit ergo noe omnia quae praeceperat illi dominus",
+        "VulgHetzenauer (1906)": "Fecit igitur Noe omnia, quæ præceperat illi Deus.",
+        "VulgConte (2009)": "Fecit igitur Noe omnia, quæ præceperat illi Deus.",
+        "VulgSistina (1590)": "Fecit igitur Noe omnia, quae praeceperat illi Deus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": 1,
+          "lemma": "ergo",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "igitur",
+              "adopt_text": "igitur",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'ergo' [Amiatinus (A)] (weight 0.97, confidence 53%) over igitur (Clem1598-USFX, Clem-Saints).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "ergo",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": 7,
+          "lemma": "Dominus",
+          "lemma_witnesses": [
+            "Amiatinus (A)"
+          ],
+          "variants": [
+            {
+              "reading": "Deus",
+              "adopt_text": "Deus",
+              "witnesses": [
+                "Clem1598-USFX",
+                "Clem-Saints",
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.88
+            }
+          ],
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'Dominus' [Amiatinus (A)] (weight 0.97, confidence 53%) over Deus (Clem1598-USFX, Clem-Saints).",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "lexical substitution",
+          "analysis": [
+            {
+              "canon": "external: independent streams",
+              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            },
+            {
+              "canon": "external: two-stream policy",
+              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
+              "favours": "neither",
+              "reading": "",
+              "key": "",
+              "strength": "info"
+            }
+          ],
+          "lemma_key": "dominus",
+          "confidence": 0.529,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Fecit",
+          "disregarded_forms": [
+            "fecit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 2,
+          "kept_form": "Noë",
+          "disregarded_forms": [
+            "noe"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 4,
+          "kept_form": "quæ",
+          "disregarded_forms": [
+            "quae"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 5,
+          "kept_form": "præceperat",
+          "disregarded_forms": [
+            "praeceperat"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        }
+      ],
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'ergo' [Amiatinus (A)] (weight 0.97, confidence 53%) over igitur (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'Dominus' [Amiatinus (A)] (weight 0.97, confidence 53%) over Deus (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).",
+      "human_locked": false,
+      "analysis": [
+        {
+          "canon": "confidence",
+          "note": "Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "favours": "neither",
+          "reading": "",
+          "strength": "info",
+          "key": ""
+        }
+      ],
+      "needs_review": false
+    }
+  ]
+}

@@ -1,0 +1,947 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "joshua",
+  "book_title": "Joshua",
+  "usfm_code": "JOS",
+  "chapter": 6,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:30Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 67365,
+      "verse": 1,
+      "critical_text": "Jericho autem clausa erat atque munita, timore filiorum Israël, et nullus egredi audebat aut ingredi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Jericho autem clausa erat atque munita, timore filiorum Israël, et nullus egredi audebat aut ingredi.",
+        "Clem-Saints": "Jericho autem clausa erat atque munita, timore filiorum Israël, et nullus egredi audebat aut ingredi.",
+        "VulgHetzenauer (1906)": "Iericho autem clausa erat atque munita, timore filiorum Israel, et nullus egredi audebat aut ingredi.",
+        "VulgConte (2009)": "Iericho autem clausa erat atque munita, timore filiorum Israel, et nullus egredi audebat aut ingredi.",
+        "VulgSistina (1590)": "Iericho autem clausa erat atque munita, timore filiorum Israel, et nullus egredi audebat aut ingredi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67366,
+      "verse": 2,
+      "critical_text": "Dixitque Dominus ad Josue: Ecce dedi in manu tua Jericho, et regem ejus, omnesque fortes viros.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque Dominus ad Josue: Ecce dedi in manu tua Jericho, et regem ejus, omnesque fortes viros.",
+        "Clem-Saints": "Dixitque Dominus ad Josue: Ecce dedi in manu tua Jericho, et regem ejus, omnesque fortes viros.",
+        "VulgHetzenauer (1906)": "Dixitque Dominus ad Iosue: Ecce dedi in manu tua Iericho, et regem eius, omnesque fortes viros.",
+        "VulgConte (2009)": "Dixitque Dominus ad Iosue: Ecce dedi in manu tua Iericho, et regem eius, omnesque fortes viros.",
+        "VulgSistina (1590)": "Dixitque Dominus ad Iosue: Ecce dedi in manus tuas Iericho, et regem eius, omnesque fortes viros."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "manu tua",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "manus tuas",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 7,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "manu tua",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67367,
+      "verse": 3,
+      "critical_text": "Circuite urbem cuncti bellatores semel per diem: sic facietis sex diebus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Circuite urbem cuncti bellatores semel per diem: sic facietis sex diebus.",
+        "Clem-Saints": "Circuite urbem cuncti bellatores semel per diem: sic facietis sex diebus.",
+        "VulgHetzenauer (1906)": "Circuite urbem cuncti bellatores semel per diem: sic facietis sex diebus.",
+        "VulgConte (2009)": "Circuite urbem cuncti bellatores semel per diem: sic facietis sex diebus.",
+        "VulgSistina (1590)": "Circuite urbem cuncti bellatores semel per diem: sic facietis sex diebus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67368,
+      "verse": 4,
+      "critical_text": "Septimo autem die, sacerdotes tollant septem buccinas, quarum usus est in jubilæo, et præcedant arcam fœderis: septiesque circuibitis civitatem, et sacerdotes clangent buccinis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Septimo autem die, sacerdotes tollant septem buccinas, quarum usus est in jubilæo, et præcedant arcam fœderis: septiesque circuibitis civitatem, et sacerdotes clangent buccinis.",
+        "VulgHetzenauer (1906)": "Septimo autem die sacerdotes tollant septem buccinas, quarum usus est in iubilæo, et præcedant arcam fœderis: septiesque circuibitis civitatem, et sacerdotes clangent buccinis.",
+        "VulgConte (2009)": "Septimo autem die sacerdotes tollant septem buccinas, quarum usus est in iubilæo, et præcedant arcam fœderis: septiesque circuibitis civitatem, et sacerdotes clangent buccinis.",
+        "VulgSistina (1590)": "Septimo autem die sacerdotes tollent septem buccinas, quarum usus est in iubilaeo, et praecedant arcam foederis: septiesque circuibitis civitatem, et sacerdotes clangent buccinis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "tollant",
+          "lemma_witnesses": [
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "tollent",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 4,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "tollant",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67369,
+      "verse": 5,
+      "critical_text": "Cumque insonuerit vox tubæ longior atque concisior, et in auribus vestris increpuerit, conclamabit omnis populus vociferatione maxima, et muri funditus corruent civitatis, ingredienturque singuli per locum contra quem steterint.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque insonuerit vox tubæ longior atque concisior, et in auribus vestris increpuerit, conclamabit omnis populus vociferatione maxima, et muri funditus corruent civitatis, ingredienturque singuli per locum contra quem steterint.",
+        "Clem-Saints": "Cumque insonuerit vox tubæ longior atque concisior, et in auribus vestris increpuerit, conclamabit omnis populus vociferatione maxima, et muri funditus corruent civitatis, ingredienturque singuli per locum contra quem steterint.",
+        "VulgHetzenauer (1906)": "Cumque insonuerit vox tubæ longior atque concisior, et in auribus vestris increpuerit, conclamabit omnis populus vociferatione maxima, et muri funditus corruent civitatis, ingredienturque singuli per locum contra quem steterint.",
+        "VulgConte (2009)": "Cumque insonuerit vox tubæ longior atque concisior, et in auribus vestris increpuerit, conclamabit omnis populus vociferatione maxima, et muri funditus corruent civitatis, ingredienturque singuli per locum contra quem steterint.",
+        "VulgSistina (1590)": "Cumque insonuerit vox tubae longior atque concisior, et in auribus vestris increpuerit, conclamabit omnis populus vociferatione maxima, et muri funditus corruent civitatis, ingredienturque singuli per locum contra quem steterint."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67370,
+      "verse": 6,
+      "critical_text": "Vocavit ergo Josue filius Nun sacerdotes, et dixit ad eos: Tollite arcam fœderis: et septem alii sacerdotes tollant septem jubilæorum buccinas, et incedant ante arcam Domini.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Vocavit ergo Josue filius Nun sacerdotes, et dixit ad eos: Tollite arcam fœderis: et septem alii sacerdotes tollant septem jubilæorum buccinas, et incedant ante arcam Domini.",
+        "Clem-Saints": "Vocavit ergo Josue filius Nun sacerdotes, et dixit ad eos: Tollite arcam fœderis: et septem alii sacerdotes tollant septem jubilæorum buccinas, et incedant ante arcam Domini.",
+        "VulgHetzenauer (1906)": "Vocavit ergo Iosue filius Nun sacerdotes, et dixit ad eos: Tollite arcam fœderis: et septem alii sacerdotes tollant septem iubilæorum buccinas, et incedant ante arcam Domini.",
+        "VulgConte (2009)": "Vocavit ergo Iosue filius Nun sacerdotes, et dixit ad eos: Tollite arcam fœderis: et septem alii sacerdotes tollant septem iubilæorum buccinas, et incedant ante arcam Domini.",
+        "VulgSistina (1590)": "Vocavit ergo Iosue filius Nun sacerdotes, et dixit ad eos: Tollite arcam foederis: et septem alii sacerdotes tollant septem iubilaeorum buccinas, et incedant ante arcam Domini."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67371,
+      "verse": 7,
+      "critical_text": "Ad populum quoque ait: Ite, et circuite civitatem, armati, præcedentes arcam Domini.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ad populum quoque ait: Ite, et circuite civitatem, armati, præcedentes arcam Domini.",
+        "Clem-Saints": "Ad populum quoque ait: Ite, et circuite civitatem, armati, præcedentes arcam Domini.",
+        "VulgHetzenauer (1906)": "Ad populum quoque ait: Ite, et circuite civitatem, armati, præcedentes arcam Domini.",
+        "VulgConte (2009)": "Ad populum quoque ait: Ite, et circuite civitatem, armati, præcedentes arcam Domini.",
+        "VulgSistina (1590)": "Ad populum quoque ait: Ite, et circuite civitatem, armati, praecedentes arcam Domini."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67372,
+      "verse": 8,
+      "critical_text": "Cumque Josue verba finisset, et septem sacerdotes septem buccinis clangerent ante arcam fœderis Domini,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque Josue verba finisset, et septem sacerdotes septem buccinis clangerent ante arcam fœderis Domini,",
+        "Clem-Saints": "Cumque Josue verba finisset, et septem sacerdotes septem buccinis clangerent ante arcam fœderis Domini,",
+        "VulgHetzenauer (1906)": "Cumque Iosue verba finisset, et septem sacerdotes septem buccinis clangerent ante arcam fœderis Domini,",
+        "VulgConte (2009)": "Cumque Iosue verba finisset, et septem sacerdotes septem buccinis clangerent ante arcam fœderis Domini,",
+        "VulgSistina (1590)": "Cumque Iosue verba finisset, et septem sacerdotes septem buccinis clangerent ante arcam foederis Domini,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67373,
+      "verse": 9,
+      "critical_text": "omnisque præcederet armatus exercitus, reliquum vulgus arcam sequebatur, ac buccinis omnia concrepabant.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "omnisque præcederet armatus exercitus, reliquum vulgus arcam sequebatur, ac buccinis omnia concrepabant.",
+        "Clem-Saints": "omnisque præcederet armatus exercitus, reliquum vulgus arcam sequebatur, ac buccinis omnia concrepabant.",
+        "VulgHetzenauer (1906)": "omnisque præcederet armatus exercitus, reliquum vulgus arcam sequebatur, ac buccinis omnia concrepabant.",
+        "VulgConte (2009)": "omnisque præcederet armatus exercitus, reliquum vulgus arcam sequebatur, ac buccinis omnia concrepabant.",
+        "VulgSistina (1590)": "omnisque praecederet armatus exercitus, reliquum vulgus arcam sequebatur, ac buccinis omnia concrepabant."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67374,
+      "verse": 10,
+      "critical_text": "Præceperat autem Josue populo, dicens: Non clamabitis, nec audietur vox vestra, neque ullus sermo ex ore vestro egredietur, donec veniat dies in quo dicam vobis: Clamate, et vociferamini.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Præceperat autem Josue populo, dicens: Non clamabitis, nec audietur vox vestra, neque ullus sermo ex ore vestro egredietur, donec veniat dies in quo dicam vobis: Clamate, et vociferamini.",
+        "Clem-Saints": "Præceperat autem Josue populo, dicens: Non clamabitis, nec audietur vox vestra, neque ullus sermo ex ore vestro egredietur, donec veniat dies in quo dicam vobis: Clamate, et vociferamini.",
+        "VulgHetzenauer (1906)": "Præceperat autem Iosue populo, dicens: Non clamabitis, nec audietur vox vestra, neque ullus sermo ex ore vestro egredietur: donec veniat dies in quo dicam vobis: Clamate, et vociferamini.",
+        "VulgConte (2009)": "Præceperat autem Iosue populo, dicens: Non clamabitis, nec audietur vox vestra, neque ullus sermo ex ore vestro egredietur: donec veniat dies in quo dicam vobis: Clamate, et vociferamini.",
+        "VulgSistina (1590)": "Praeceperat autem Iosue populo, dicens: Non clamabitis, nec audietur vox vestra, neque ullus sermo ex ore vestro egredietur: donec veniat dies in quo dicam vobis: Clamate, et vociferamini."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67375,
+      "verse": 11,
+      "critical_text": "Circuivit ergo arca Domini civitatem semel per diem, et reversa in castra mansit ibi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Circuivit ergo arca Domini civitatem semel per diem, et reversa in castra mansit ibi.",
+        "Clem-Saints": "Circuivit ergo arca Domini civitatem semel per diem, et reversa in castra mansit ibi.",
+        "VulgHetzenauer (1906)": "Circuivit ergo arca Domini civitatem semel per diem, et reversa in castra, mansit ibi.",
+        "VulgConte (2009)": "Circuivit ergo arca Domini civitatem semel per diem, et reversa in castra, mansit ibi.",
+        "VulgSistina (1590)": "Circuivit ergo arca Domini civitatem semel per diem, et reversa in castra, mansit ibi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67376,
+      "verse": 12,
+      "critical_text": "Igitur Josue de nocte consurgente, tulerunt sacerdotes arcam Domini,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Igitur Josue de nocte consurgente, tulerunt sacerdotes arcam Domini,",
+        "Clem-Saints": "Igitur Josue de nocte consurgente, tulerunt sacerdotes arcam Domini,",
+        "VulgHetzenauer (1906)": "Igitur Iosue de nocte consurgente, tulerunt sacerdotes arcam Domini,",
+        "VulgConte (2009)": "Igitur Iosue de nocte consurgente, tulerunt sacerdotes arcam Domini,",
+        "VulgSistina (1590)": "Igitur Iosue de nocte consurgente, tulerunt sacerdotes arcam Domini,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67377,
+      "verse": 13,
+      "critical_text": "et septem ex eis septem buccinas, quarum in jubilæo usus est: præcedebantque arcam Domini ambulantes atque clangentes: et armatus populus ibat ante eos, vulgus autem reliquum sequebatur arcam, et buccinis personabat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et septem ex eis septem buccinas, quarum in jubilæo usus est: præcedebantque arcam Domini ambulantes atque clangentes: et armatus populus ibat ante eos, vulgus autem reliquum sequebatur arcam, et buccinis personabat.",
+        "Clem-Saints": "et septem ex eis septem buccinas, quarum in jubilæo usus est: præcedebantque arcam Domini ambulantes atque clangentes: et armatus populus ibat ante eos, vulgus autem reliquum sequebatur arcam, et buccinis personabat.",
+        "VulgHetzenauer (1906)": "et septem ex eis septem buccinas, quarum in iubileo usus est: præcedebantque arcam Domini ambulantes atque clangentes: et armatus populus ibat ante eos, vulgus autem reliquum sequebatur arcam, et buccinis personabat.",
+        "VulgConte (2009)": "et septem ex eis septem buccinas, quarum in iubileo usus est: præcedebantque arcam Domini ambulantes atque clangentes: et armatus populus ibat ante eos, vulgus autem reliquum sequebatur arcam, et buccinis personabat.",
+        "VulgSistina (1590)": "et septem ex eis septem buccinas, quarum in iubileo usus est: praecedebantque arcam Domini ambulantes atque clangentes: et armatus populus ibat ante eos, vulgus autem reliquum sequebatur arcam, et buccinis personabat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "jubilæo / iubileo",
+            "jubilæo / iubileo",
+            "jubilæo / iubileo"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67378,
+      "verse": 14,
+      "critical_text": "Circuieruntque civitatem secundo die semel, et reversi sunt in castra. Sic fecerunt sex diebus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Circuieruntque civitatem secundo die semel, et reversi sunt in castra. Sic fecerunt sex diebus.",
+        "Clem-Saints": "Circuieruntque civitatem secundo die semel, et reversi sunt in castra. Sic fecerunt sex diebus.",
+        "VulgHetzenauer (1906)": "Circuieruntque civitatem secundo die semel, et reversi sunt in castra. Sic fecerunt sex diebus.",
+        "VulgConte (2009)": "Circuieruntque civitatem secundo die semel, et reversi sunt in castra. Sic fecerunt sex diebus.",
+        "VulgSistina (1590)": "Circuieruntque civitatem secundo die semel, et reversi sunt in castra. Sic fecerunt sex diebus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67379,
+      "verse": 15,
+      "critical_text": "Dies autem septimo, diluculo consurgentes, circuierunt urbem, sicut dispositum erat, septies.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dies autem septimo, diluculo consurgentes, circuierunt urbem, sicut dispositum erat, septies.",
+        "Clem-Saints": "Dies autem septimo, diluculo consurgentes, circuierunt urbem, sicut dispositum erat, septies.",
+        "VulgHetzenauer (1906)": "Dies autem septimo, diluculo consurgentes, circuierunt urbem, sicut dispositum erat, septies.",
+        "VulgConte (2009)": "Dies autem septimo, diluculo consurgentes, circuierunt urbem, sicut dispositum erat, septies.",
+        "VulgSistina (1590)": "Dies autem septimo, diluculo consurgentes, circuierunt urbem, sicut dispositum erat, septies."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67380,
+      "verse": 16,
+      "critical_text": "Cumque septimo circuitu clangerent buccinis sacerdotes, dixit Josue ad omnem Israël: Vociferamini: tradidit enim vobis Dominus civitatem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque septimo circuitu clangerent buccinis sacerdotes, dixit Josue ad omnem Israël: Vociferamini: tradidit enim vobis Dominus civitatem.",
+        "Clem-Saints": "Cumque septimo circuitu clangerent buccinis sacerdotes, dixit Josue ad omnem Israël: Vociferamini: tradidit enim vobis Dominus civitatem.",
+        "VulgHetzenauer (1906)": "Cumque septimo circuitu clangerent buccinis sacerdotes, dixit Iosue ad omnem Israel: Vociferamini: tradidit enim vobis Dominus civitatem:",
+        "VulgConte (2009)": "Cumque septimo circuitu clangerent buccinis sacerdotes, dixit Iosue ad omnem Israel: Vociferamini: tradidit enim vobis Dominus civitatem:",
+        "VulgSistina (1590)": "Cumque septimo circuitu clangerent buccinis sacerdotes, dixit Iosue ad omnem Israel: Vociferamini: tradidit enim vobis Dominus civitatem:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67381,
+      "verse": 17,
+      "critical_text": "Sitque civitas hæc anathema, et omnia quæ in ea sunt, Domino: sola Rahab meretrix vivat, cum universis qui cum ea in domo sunt: abscondit enim nuntios quos direximus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sitque civitas hæc anathema, et omnia quæ in ea sunt, Domino: sola Rahab meretrix vivat, cum universis qui cum ea in domo sunt: abscondit enim nuntios quos direximus.",
+        "Clem-Saints": "Sitque civitas hæc anathema, et omnia quæ in ea sunt, Domino: sola Rahab meretrix vivat, cum universis qui cum ea in domo sunt: abscondit enim nuntios quos direximus.",
+        "VulgHetzenauer (1906)": "sitque civitas hæc anathema: et omnia quæ in ea sunt, Domino. sola Rahab meretrix vivat cum universis, qui cum ea in domo sunt: abscondit enim nuncios quos direximus.",
+        "VulgConte (2009)": "sitque civitas hæc anathema: et omnia quæ in ea sunt, Domino. Sola Rahab meretrix vivat cum universis, qui cum ea in domo sunt: abscondit enim nuncios quos direximus.",
+        "VulgSistina (1590)": "sitque civitas haec anathema: et omnia quae in ea sunt, Domino. sola Rahab meretrix vivat cum universis, qui cum ea in domo sunt: abscondit enim nuncios quos direximus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntios / nuncios",
+            "nuntios / nuncios",
+            "nuntios / nuncios"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67382,
+      "verse": 18,
+      "critical_text": "Vos autem cavete ne de his, quæ præcepta sunt, quippiam contingatis, et sitis prævaricationis rei, et omnia castra Israël sub peccato sint atque turbentur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Vos autem cavete ne de his, quæ præcepta sunt, quippiam contingatis, et sitis prævaricationis rei, et omnia castra Israël sub peccato sint atque turbentur.",
+        "Clem-Saints": "Vos autem cavete ne de his, quæ præcepta sunt, quippiam contingatis, et sitis prævaricationis rei, et omnia castra Israël sub peccato sint atque turbentur.",
+        "VulgHetzenauer (1906)": "Vos autem cavete ne de his, quæ præcepta sunt, quippiam contingatis, et sitis prævaricationis rei, et omnia castra Israel sub peccato sint atque turbentur.",
+        "VulgConte (2009)": "Vos autem cavete ne de his, quæ præcepta sunt, quippiam contingatis, et sitis prævaricationis rei, et omnia castra Israel sub peccato sint atque turbentur.",
+        "VulgSistina (1590)": "Vos autem cavete ne de his, quae praecepta sunt, quippiam contingatis, et sitis praevaricationis rei, et omnia castra Israel sub peccato sint atque turbentur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67383,
+      "verse": 19,
+      "critical_text": "Quidquid autem auri et argenti fuerit, et vasorum æneorum ac ferri, Domino consecretur, repositum in thesauris ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quidquid autem auri et argenti fuerit, et vasorum æneorum ac ferri, Domino consecretur, repositum in thesauris ejus.",
+        "Clem-Saints": "Quidquid autem auri et argenti fuerit, et vasorum æneorum ac ferri, Domino consecretur, repositum in thesauris ejus.",
+        "VulgHetzenauer (1906)": "Quidquid autem auri et argenti fuerit, et vasorum æneorum ac ferri, Domino consecretur, repositum in thesauris eius.",
+        "VulgConte (2009)": "Quidquid autem auri et argenti fuerit, et vasorum æneorum ac ferri, Domino consecretur, repositum in thesauris eius.",
+        "VulgSistina (1590)": "Quidquid autem auri aut argenti fuerit, et vasorum aeneorum ac ferri, Domino consecretur, repositum in thesauris eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "aut",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67384,
+      "verse": 20,
+      "critical_text": "Igitur omni populo vociferante, et clangentibus tubis, postquam in aures multitudinis vox sonitusque increpuit, muri illico corruerunt: et ascendit unusquisque per locum qui contra se erat: ceperuntque civitatem,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Igitur omni populo vociferante, et clangentibus tubis, postquam in aures multitudinis vox sonitusque increpuit, muri illico corruerunt: et ascendit unusquisque per locum qui contra se erat: ceperuntque civitatem,",
+        "Clem-Saints": "Igitur omni populo vociferante, et clangentibus tubis, postquam in aures multitudinis vox sonitusque increpuit, muri illico corruerunt: et ascendit unusquisque per locum qui contra se erat: ceperuntque civitatem,",
+        "VulgHetzenauer (1906)": "Igitur omni populo vociferante, et clangentibus tubis, postquam in aures multitudinis vox sonitusque increpuit, muri illico corruerunt: et ascendit unusquisque per locum, qui contra se erat: ceperuntque civitatem,",
+        "VulgConte (2009)": "Igitur omni populo vociferante, et clangentibus tubis, postquam in aures multitudinis vox sonitusque increpuit, muri illico corruerunt: et ascendit unusquisque per locum, qui contra se erat: ceperuntque civitatem,",
+        "VulgSistina (1590)": "Igitur omni populo vociferante, et clangentibus tubis, postquam in aures multitudinis vox sonitusque increpuit, muri illico corruerunt: et ascendit unusquisque per locum, qui contra se erat: ceperuntque civitatem,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67385,
+      "verse": 21,
+      "critical_text": "et interfecerunt omnia quæ erant in ea, a viro usque ad mulierem, ab infante usque ad senem. Boves quoque et oves et asinos in ore gladii percusserunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et interfecerunt omnia quæ erant in ea, a viro usque ad mulierem, ab infante usque ad senem. Boves quoque et oves et asinos in ore gladii percusserunt.",
+        "Clem-Saints": "et interfecerunt omnia quæ erant in ea, a viro usque ad mulierem, ab infante usque ad senem. Boves quoque et oves et asinos in ore gladii percusserunt.",
+        "VulgHetzenauer (1906)": "et interfecerunt omnia quæ erant in ea, a viro usque ad mulierem, ab infante usque ad senem. Boves quoque et oves et asinos in ore gladii percusserunt.",
+        "VulgConte (2009)": "et interfecerunt omnia quæ erant in ea, a viro usque ad mulierem, ab infante usque ad senem. Boves quoque et oves et asinos in ore gladii percusserunt.",
+        "VulgSistina (1590)": "et interfecerunt omnia quae erant in ea, a viro usque ad mulierem, ab infante usque ad senem. Boves quoque et oves et asinos in ore gladii percusserunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67386,
+      "verse": 22,
+      "critical_text": "Duobus autem viris, qui exploratores missi fuerant, dixit Josue: Ingredimini domum mulieris meretricis, et producite eam, et omnia quæ illius sunt, sicut illi juramento firmastis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Duobus autem viris, qui exploratores missi fuerant, dixit Josue: Ingredimini domum mulieris meretricis, et producite eam, et omnia quæ illius sunt, sicut illi juramento firmastis.",
+        "Clem-Saints": "Duobus autem viris, qui exploratores missi fuerant, dixit Josue: Ingredimini domum mulieris meretricis, et producite eam, et omnia quæ illius sunt, sicut illi juramento firmastis.",
+        "VulgHetzenauer (1906)": "Duobus autem viris, qui exploratores missi fuerant, dixit Iosue: Ingredimini domum mulieris meretricis, et producite eam, et omnia quæ illius sunt, sicut illi iuramento firmastis.",
+        "VulgConte (2009)": "Duobus autem viris, qui exploratores missi fuerant, dixit Iosue: Ingredimini domum mulieris meretricis, et producite eam, et omnia quæ illius sunt, sicut illi iuramento firmastis.",
+        "VulgSistina (1590)": "Duobus autem viris, qui exploratores missi fuerant, dixit Iosue: Ingredimini domum mulieris meretricis, et producite eam, et omnia quae illius sunt, sicut illi iuramento firmastis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67387,
+      "verse": 23,
+      "critical_text": "Ingressique juvenes eduxerunt Rahab, et parentes ejus, fratres quoque, et cunctam supellectilem ac cognationem illius, et extra castra Israël manere fecerunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ingressique juvenes eduxerunt Rahab, et parentes ejus, fratres quoque, et cunctam supellectilem ac cognationem illius, et extra castra Israël manere fecerunt.",
+        "Clem-Saints": "Ingressique juvenes eduxerunt Rahab, et parentes ejus, fratres quoque, et cunctam supellectilem ac cognationem illius, et extra castra Israël manere fecerunt.",
+        "VulgHetzenauer (1906)": "Ingressique iuvenes, eduxerunt Rahab, et parentes eius, fratres quoque, et cunctam supellectilem ac cognationem illius, et extra castra Israel manere fecerunt.",
+        "VulgConte (2009)": "Ingressique iuvenes, eduxerunt Rahab, et parentes eius, fratres quoque, et cunctam supellectilem ac cognationem illius, et extra castra Israel manere fecerunt.",
+        "VulgSistina (1590)": "Ingressique iuvenes, eduxerunt Rahab, et parentes eius, fratres quoque, et cunctam supellectilem ac cognationem illius, et extra castra Israel manere fecerunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67388,
+      "verse": 24,
+      "critical_text": "Urbem autem, et omnia quæ erant in ea, succenderunt, absque auro et argento, et vasis æneis, ac ferro, quæ in ærarium Domini consecrarunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Urbem autem, et omnia quæ erant in ea, succenderunt, absque auro et argento, et vasis æneis, ac ferro, quæ in ærarium Domini consecrarunt.",
+        "Clem-Saints": "Urbem autem, et omnia quæ erant in ea, succenderunt, absque auro et argento, et vasis æneis, ac ferro, quæ in ærarium Domini consecrarunt.",
+        "VulgHetzenauer (1906)": "Urbem autem, et omnia, quæ erant in ea, succenderunt; absque auro et argento, et vasis æneis, ac ferro, quæ in ærarium Domini consecrarunt.",
+        "VulgConte (2009)": "Urbem autem, et omnia, quæ erant in ea, succenderunt; absque auro et argento, et vasis æneis, ac ferro, quæ in ærarium Domini consecrarunt.",
+        "VulgSistina (1590)": "Urbem autem, et omnia, quae inventa sunt in ea, succenderunt; absque auro et argento, et vasis aeneis, ac ferro, quae in aerarium Domini consecrarunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "erant",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "inventa sunt",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "erant",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67389,
+      "verse": 25,
+      "critical_text": "Rahab vero meretricem, et domum patris ejus, et omnia quæ habebat, fecit Josue vivere, et habitaverunt in medio Israël, usque in præsentem diem: eo quod absconderit nuntios, quos miserat ut explorarent Jericho. In tempore illo, imprecatus est Josue, dicens:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Rahab vero meretricem, et domum patris ejus, et omnia quæ habebat, fecit Josue vivere, et habitaverunt in medio Israël, usque in præsentem diem: eo quod absconderit nuntios, quos miserat ut explorarent Jericho. In tempore illo, imprecatus est Josue, dicens:",
+        "Clem-Saints": "Rahab vero meretricem, et domum patris ejus, et omnia quæ habebat, fecit Josue vivere, et habitaverunt in medio Israël, usque in præsentem diem: eo quod absconderit nuntios, quos miserat ut explorarent Jericho. In tempore illo, imprecatus est Josue, dicens:",
+        "VulgHetzenauer (1906)": "Rahab vero meretricem, et domum patris eius, et omnia quæ habebat, fecit Iosue vivere, et habitaverunt in medio Israel usque in præsentem diem: eo quod absconderit nuncios, quos miserat ut explorarent Iericho. In tempore illo, imprecatus est Iosue, dicens:",
+        "VulgConte (2009)": "Rahab vero meretricem, et domum patris eius, et omnia quæ habebat, fecit Iosue vivere, et habitaverunt in medio Israel usque in præsentem diem: eo quod absconderit nuncios, quos miserat ut explorarent Iericho. In tempore illo, imprecatus est Iosue, dicens:",
+        "VulgSistina (1590)": "Rahab vero meretricem, et domum patris eius, et omnia quae habebat, fecit Iosue vivere, et habitaverunt in medio Israel usque in praesentem diem: eo quod absconderit nuncios, quos miserat ut explorarent Iericho. In tempore illo, imprecatus est Iosue, dicens:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntios, / nuncios,",
+            "nuntios, / nuncios,",
+            "nuntios, / nuncios,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67390,
+      "verse": 26,
+      "critical_text": "Maledictus vir coram Domino, qui suscitaverit et ædificaverit civitatem Jericho. In primogenito suo fundamenta illius jaciat, et in novissimo liberorum ponat portas ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Maledictus vir coram Domino, qui suscitaverit et ædificaverit civitatem Jericho. In primogenito suo fundamenta illius jaciat, et in novissimo liberorum ponat portas ejus.",
+        "Clem-Saints": "Maledictus vir coram Domino, qui suscitaverit et ædificaverit civitatem Jericho. In primogenito suo fundamenta illius jaciat, et in novissimo liberorum ponat portas ejus.",
+        "VulgHetzenauer (1906)": "Maledictus vir coram Domino, qui suscitaverit et ædificaverit civitatem Iericho. In primogenito suo fundamenta illius iaciat, et in novissimo liberorum ponat portas eius.",
+        "VulgConte (2009)": "Maledictus vir coram Domino, qui suscitaverit et ædificaverit civitatem Iericho. In primogenito suo fundamenta illius iaciat, et in novissimo liberorum ponat portas eius.",
+        "VulgSistina (1590)": "Maledictus vir coram Domino, qui suscitaverit et aedificaverit civitatem Iericho. In primogenito suo fundamenta illius iaciat, et in novissimo liberorum ponat portas eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67391,
+      "verse": 27,
+      "critical_text": "Fuit ergo Dominus cum Josue, et nomen ejus vulgatum est in omni terra.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fuit ergo Dominus cum Josue, et nomen ejus vulgatum est in omni terra.",
+        "Clem-Saints": "Fuit ergo Dominus cum Josue, et nomen ejus vulgatum est in omni terra.",
+        "VulgHetzenauer (1906)": "Fuit ergo Dominus cum Iosue, et nomen eius vulgatum est in omni terra.",
+        "VulgConte (2009)": "Fuit ergo Dominus cum Iosue, et nomen eius vulgatum est in omni terra.",
+        "VulgSistina (1590)": "Fuit ergo Dominus cum Iosue, et nomen eius vulgatum est in omni terra."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

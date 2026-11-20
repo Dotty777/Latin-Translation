@@ -1,0 +1,569 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "04_Providence",
+  "book_slug": "haggai",
+  "book_title": "Haggai",
+  "usfm_code": "HAG",
+  "chapter": 1,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:18:18Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "Clem1598-USFX: verse 2:1 moved to 1:15 across chapter break before re-division",
+    "VulgHetzenauer (1906): verse 2:1 moved to 1:15 across chapter break before re-division",
+    "VulgConte (2009): verse 2:1 moved to 1:15 across chapter break before re-division",
+    "VulgSistina (1590): verse 2:1 moved to 1:15 across chapter break before re-division"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 87685,
+      "verse": 1,
+      "critical_text": "In anno secundo Darii regis, in mense sexto, in die una mensis, factum est verbum Domini in manu Aggæi prophetæ, ad Zorobabel, filium Salathiel, ducem Juda, et ad Jesum, filium Josedec, sacerdotem magnum, dicens:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In anno secundo Darii regis, in mense sexto, in die una mensis, factum est verbum Domini in manu Aggæi prophetæ, ad Zorobabel, filium Salathiel, ducem Juda, et ad Jesum, filium Josedec, sacerdotem magnum, dicens:",
+        "Clem-Saints": "In anno secundo Darii regis, in mense sexto, in die una mensis, factum est verbum Domini in manu Aggæi prophetæ, ad Zorobabel, filium Salathiel, ducem Juda, et ad Jesum, filium Josedec, sacerdotem magnum, dicens:",
+        "VulgHetzenauer (1906)": "In anno secundo Darii regis, in mense sexto, in die una mensis, factum est verbum Domini in manu Aggæi prophetæ ad Zorobabel filium Salathiel, ducem Iuda, et ad Iesum, filium Iosedec, sacerdotem magnum, dicens:",
+        "VulgConte (2009)": "In anno secundo Darii regis, in mense sexto, in die una mensis, factum est verbum Domini in manu Aggæi prophetæ ad Zorobabel filium Salathiel, ducem Iuda, et ad Iesum, filium Iosedec, sacerdotem magnum, dicens:",
+        "VulgSistina (1590)": "In anno secundo Darii regis, in mense sexto, in die una mensis, factum est verbum Domini in manu Aggaei prophetae ad Zorobabel filium Salathiel, ducem Iuda, et ad Iesum, filium Iosadec, sacerdotem magnum, dicens:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Josedec,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Iosadec,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 30,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iosedec",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87686,
+      "verse": 2,
+      "critical_text": "Hæc ait Dominus exercituum, dicens: Populus iste dicit: Nondum venit tempus domus Domini ædificandæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hæc ait Dominus exercituum, dicens: Populus iste dicit: Nondum venit tempus domus Domini ædificandæ.",
+        "Clem-Saints": "Hæc ait Dominus exercituum, dicens: Populus iste dicit: Nondum venit tempus domus Domini ædificandæ.",
+        "VulgHetzenauer (1906)": "Hæc ait Dominus exercituum, dicens: Populus iste dicit: Nondum venit tempus domus Domini ædificandæ.",
+        "VulgConte (2009)": "Hæc ait Dominus exercituum, dicens: Populus iste dicit: Nondum venit tempus domus Domini ædificandæ.",
+        "VulgSistina (1590)": "Haec ait Dominus exercituum, dicens: Populus iste dicit: Nondum venit tempus domus Domini aedificandae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87687,
+      "verse": 3,
+      "critical_text": "Et factum est verbum Domini in manu Aggæi prophetæ, dicens:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et factum est verbum Domini in manu Aggæi prophetæ, dicens:",
+        "Clem-Saints": "Et factum est verbum Domini in manu Aggæi prophetæ, dicens:",
+        "VulgHetzenauer (1906)": "Et factum est verbum Domini in manu Aggæi prophetæ, dicens:",
+        "VulgConte (2009)": "Et factum est verbum Domini in manu Aggæi prophetæ, dicens:",
+        "VulgSistina (1590)": "Et factum est verbum Domini in manu Aggaei prophetae, dicens:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87688,
+      "verse": 4,
+      "critical_text": "Numquid tempus vobis est ut habitetis in domibus laqueatis, et domus ista deserta?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Numquid tempus vobis est ut habitetis in domibus laqueatis, et domus ista deserta?",
+        "Clem-Saints": "Numquid tempus vobis est ut habitetis in domibus laqueatis, et domus ista deserta?",
+        "VulgHetzenauer (1906)": "Numquid tempus vobis est ut habitetis in domibus laqueatis, et domus ista deserta?",
+        "VulgConte (2009)": "Numquid tempus vobis est ut habitetis in domibus laqueatis, et domus ista deserta?",
+        "VulgSistina (1590)": "Numquid tempus vobis est ut habitetis in domibus laqueatis, et domus ista deserta?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87689,
+      "verse": 5,
+      "critical_text": "Et nunc hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et nunc hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras.",
+        "Clem-Saints": "Et nunc hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras.",
+        "VulgHetzenauer (1906)": "Et nunc hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras.",
+        "VulgConte (2009)": "Et nunc hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras.",
+        "VulgSistina (1590)": "Et nunc haec dicit Dominus exercituum: Ponite corda vestra super vias vestras."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87690,
+      "verse": 6,
+      "critical_text": "Seminastis multum, et intulistis parum; comedistis, et non estis satiati; bibistis, et non estis inebriati; operuistis vos, et non estis calefacti; et qui mercedes congregavit, misit eas in sacculum pertusum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Seminastis multum, et intulistis parum; comedistis, et non estis satiati; bibistis, et non estis inebriati; operuistis vos, et non estis calefacti; et qui mercedes congregavit, misit eas in sacculum pertusum.",
+        "Clem-Saints": "Seminastis multum, et intulistis parum; comedistis, et non estis satiati; bibistis, et non estis inebriati; operuistis vos, et non estis calefacti; et qui mercedes congregavit, misit eas in sacculum pertusum.",
+        "VulgHetzenauer (1906)": "Seminastis multum, et intulistis parum: comedistis, et non estis satiati: bibistis, et non estis inebriati: operuistis vos, et non estis calefacti: et qui mercedes congregavit, misit eas in sacculum pertusum.",
+        "VulgConte (2009)": "Seminastis multum, et intulistis parum: comedistis, et non estis satiati: bibistis, et non estis inebriati: operuistis vos, et non estis calefacti: et qui mercedes congregavit, misit eas in sacculum pertusum.",
+        "VulgSistina (1590)": "Seminastis multum, et intulistis parum: comedistis, et non estis satiati: bibistis, et non estis inebriati: operuistis vos, et non estis calefacti: et qui mercedes congregavit, misit eas in sacculum pertusum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87691,
+      "verse": 7,
+      "critical_text": "Hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras;",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras;",
+        "Clem-Saints": "Hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras;",
+        "VulgHetzenauer (1906)": "Hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras:",
+        "VulgConte (2009)": "Hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras:",
+        "VulgSistina (1590)": "Haec dicit Dominus exercituum: Ponite corda vestra super vias vestras:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87692,
+      "verse": 8,
+      "critical_text": "ascendite in montem, portate ligna, et ædificate domum: et acceptabilis mihi erit, et glorificabor, dicit Dominus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ascendite in montem, portate ligna, et ædificate domum: et acceptabilis mihi erit, et glorificabor, dicit Dominus.",
+        "Clem-Saints": "ascendite in montem, portate ligna, et ædificate domum: et acceptabilis mihi erit, et glorificabor, dicit Dominus.",
+        "VulgHetzenauer (1906)": "ascendite in montem, portate ligna, et ædificate domum: et acceptabilis mihi erit, et glorificabor, dicit Dominus.",
+        "VulgConte (2009)": "ascendite in montem, portate ligna, et ædificate domum: et acceptabilis mihi erit, et glorificabor, dicit Dominus.",
+        "VulgSistina (1590)": "ascendite in montem, portate ligna, et aedificate domum: et acceptabilis mihi erit, et glorificabor, dicit Dominus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87693,
+      "verse": 9,
+      "critical_text": "Respexistis ad amplius, et ecce factum est minus; et intulistis in domum, et exsufflavi illud: quam ob causam? dicit Dominus exercituum: quia domus mea deserta est, et vos festinatis unusquisque in domum suam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Respexistis ad amplius, et ecce factum est minus; et intulistis in domum, et exsufflavi illud: quam ob causam? dicit Dominus exercituum: quia domus mea deserta est, et vos festinatis unusquisque in domum suam.",
+        "Clem-Saints": "Respexistis ad amplius, et ecce factum est minus; et intulistis in domum, et exsufflavi illud: quam ob causam? dicit Dominus exercituum: quia domus mea deserta est, et vos festinatis unusquisque in domum suam.",
+        "VulgHetzenauer (1906)": "Respexistis ad amplius, et ecce factum est minus: et intulistis in domum, et exufflavi illud: quam ob causam, dicit Dominus exercituum? quia domus mea deserta est, et vos festinatis unusquisque in domum suam.",
+        "VulgConte (2009)": "Respexistis ad amplius, et ecce factum est minus: et intulistis in domum, et exufflavi illud: quam ob causam, dicit Dominus exercituum? quia domus mea deserta est, et vos festinatis unusquisque in domum suam.",
+        "VulgSistina (1590)": "Respexistis ad amplius, et ecce factum est minus: et intulistis in domum, et exufflavi illud: quam ob causam, dicit Dominus exercituum? quia domus mea deserta est, et vos festinatis unusquisque in domum suam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exsufflavi / exufflavi",
+            "exsufflavi / exufflavi",
+            "exsufflavi / exufflavi"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87694,
+      "verse": 10,
+      "critical_text": "Propter hoc super vos prohibiti sunt cæli ne darent rorem, et terra prohibita est ne daret germen suum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Propter hoc super vos prohibiti sunt cæli ne darent rorem, et terra prohibita est ne daret germen suum:",
+        "Clem-Saints": "Propter hoc super vos prohibiti sunt cæli ne darent rorem, et terra prohibita est ne daret germen suum:",
+        "VulgHetzenauer (1906)": "Propter hoc super vos prohibiti sunt cæli ne darent rorem, et terra prohibita est ne daret germen suum:",
+        "VulgConte (2009)": "Propter hoc super vos prohibiti sunt cæli ne darent rorem, et terra prohibita est ne daret germen suum:",
+        "VulgSistina (1590)": "Propter hoc super vos prohibiti sunt caeli ne darent rorem, et terra prohibita est ne daret germen suum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87695,
+      "verse": 11,
+      "critical_text": "et vocavi siccitatem super terram, et super montes, et super triticum, et super vinum, et super oleum, et quæcumque profert humus, et super homines, et super jumenta, et super omnem laborem manuum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et vocavi siccitatem super terram, et super montes, et super triticum, et super vinum, et super oleum, et quæcumque profert humus, et super homines, et super jumenta, et super omnem laborem manuum.",
+        "Clem-Saints": "et vocavi siccitatem super terram, et super montes, et super triticum, et super vinum, et super oleum, et quæcumque profert humus, et super homines, et super jumenta, et super omnem laborem manuum.",
+        "VulgHetzenauer (1906)": "et vocavi siccitatem super terram, et super montes, et super triticum, et super vinum, et super oleum, et quæcumque profert humus, et super homines, et super iumenta, et super omnem laborem manuum.",
+        "VulgConte (2009)": "et vocavi siccitatem super terram, et super montes, et super triticum, et super vinum, et super oleum, et quæcumque profert humus, et super homines, et super iumenta, et super omnem laborem manuum.",
+        "VulgSistina (1590)": "et vocavi siccitatem super terram, et super montes, et super triticum, et super vinum, et super oleum, et quaecumque profert humus, et super homines, et super iumenta, et super omnem laborem manuum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87696,
+      "verse": 12,
+      "critical_text": "Et audivit Zorobabel, filius Salathiel, et Jesus, filius Josedec, sacerdos magnus, et omnes reliquiæ populi, vocem Domini Dei sui, et verba Aggæi prophetæ, sicut misit eum Dominus Deus eorum ad eos, et timuit populus a facie Domini.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et audivit Zorobabel, filius Salathiel, et Jesus, filius Josedec, sacerdos magnus, et omnes reliquiæ populi, vocem Domini Dei sui, et verba Aggæi prophetæ, sicut misit eum Dominus Deus eorum ad eos, et timuit populus a facie Domini.",
+        "Clem-Saints": "Et audivit Zorobabel, filius Salathiel, et Jesus, filius Josedec, sacerdos magnus, et omnes reliquiæ populi, vocem Domini Dei sui, et verba Aggæi prophetæ, sicut misit eum Dominus Deus eorum ad eos, et timuit populus a facie Domini.",
+        "VulgHetzenauer (1906)": "Et audivit Zorobabel filius Salathiel, et Iesus filius Iosedec sacerdos magnus, et omnes reliquiæ populi vocem Domini Dei sui, et verba Aggæi prophetæ, sicut misit eum Dominus Deus eorum ad eos: et timuit populus a facie Domini.",
+        "VulgConte (2009)": "Et audivit Zorobabel filius Salathiel, et Iesus filius Iosedec sacerdos magnus, et omnes reliquiæ populi vocem Domini Dei sui, et verba Aggæi prophetæ, sicut misit eum Dominus Deus eorum ad eos: et timuit populus a facie Domini.",
+        "VulgSistina (1590)": "Et audivit Zorobabel filius Salathiel, et Iesus filius Iosedech sacerdos magnus, et omnes reliquiae populi vocem Dei sui, et verba Aggaei prophetae, sicut misit eum Dominus Deus eorum ad eos: et timuit populus a facie Domini."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Domini",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 16,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "domini",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Josedec, / Iosedech"
+          ],
+          "witnesses": [
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87697,
+      "verse": 13,
+      "critical_text": "Et dixit Aggæus, nuntius Domini de nuntiis Domini, populo dicens: Ego vobiscum sum, dicit Dominus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixit Aggæus, nuntius Domini de nuntiis Domini, populo dicens: Ego vobiscum sum, dicit Dominus.",
+        "Clem-Saints": "Et dixit Aggæus, nuntius Domini de nuntiis Domini, populo dicens: Ego vobiscum sum, dicit Dominus.",
+        "VulgHetzenauer (1906)": "Et dixit Aggæus nuncius Domini de nuntiis Domini, populo dicens: Ego vobiscum sum, dicit Dominus.",
+        "VulgConte (2009)": "Et dixit Aggæus nuncius Domini de nuntiis Domini, populo dicens: Ego vobiscum sum, dicit Dominus.",
+        "VulgSistina (1590)": "Et dixit Aggaeus nuncius Domini de nunciis Domini, populo dicens: Ego vobiscum sum, dicit Dominus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntius / nuncius",
+            "nuntius / nuncius",
+            "nuntius / nuncius",
+            "nuntiis / nunciis"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87698,
+      "verse": 14,
+      "critical_text": "Et suscitavit Dominus spiritum Zorobabel, filii Salathiel, ducis Juda, et spiritum Jesu, filii Josedec, sacerdotis magni, et spiritum reliquorum de omni populo: et ingressi sunt, et faciebant opus in domo Domini exercituum, Dei sui.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et suscitavit Dominus spiritum Zorobabel, filii Salathiel, ducis Juda, et spiritum Jesu, filii Josedec, sacerdotis magni, et spiritum reliquorum de omni populo: et ingressi sunt, et faciebant opus in domo Domini exercituum, Dei sui.",
+        "Clem-Saints": "Et suscitavit Dominus spiritum Zorobabel, filii Salathiel, ducis Juda, et spiritum Jesu, filii Josedec, sacerdotis magni, et spiritum reliquorum de omni populo: et ingressi sunt, et faciebant opus in domo Domini exercituum, Dei sui.",
+        "VulgHetzenauer (1906)": "Et suscitavit Dominus spiritum Zorobabel filii Salathiel, ducis Iuda, et spiritum Iesu filii Iosedec sacerdotis magni, et spiritum reliquorum de omni populo: et ingressi sunt, et faciebant opus in domo Domini exercituum Dei sui.",
+        "VulgConte (2009)": "Et suscitavit Dominus spiritum Zorobabel filii Salathiel, ducis Iuda, et spiritum Iesu filii Iosedec sacerdotis magni, et spiritum reliquorum de omni populo: et ingressi sunt, et faciebant opus in domo Domini exercituum Dei sui:",
+        "VulgSistina (1590)": "Et suscitavit Dominus spiritum Zorobabel filii Salathiel, ducis Iuda, et spiritum Iesu filii Iosedec sacerdotis magni, et spiritum reliquorum de omni populo: et ingressi sunt, et faciebant opus in domo Domini exercituum Dei sui."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87699,
+      "verse": 15,
+      "critical_text": "In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.",
+        "Clem-Saints": "In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.",
+        "VulgHetzenauer (1906)": "In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.",
+        "VulgConte (2009)": "in die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.",
+        "VulgSistina (1590)": "In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

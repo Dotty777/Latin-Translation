@@ -1,0 +1,611 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "song-of-songs",
+  "book_title": "Song of Songs",
+  "usfm_code": "SNG",
+  "chapter": 5,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:31Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "VulgConte (2009): 5:3 folded into verse 2 (the reference prints these words there)",
+    "VulgConte (2009): 5:1 folded into verse 1 (the reference prints these words there)",
+    "VulgConte (2009): 15 verse(s) re-aligned by content (1←5:2, 2←5:4, 3←5:5, 4←5:6, 5←5:7, 6←5:8…)",
+    "Clem1598-USFX: verse 17 left out as a versification/conversion duplicate (Clem-Saints prints these words at 6:1)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 80553,
+      "verse": 1,
+      "critical_text": "Veniat dilectus meus in hortum suum, et comedat fructum pomorum suorum. Veni in hortum meum, soror mea, sponsa; messui myrrham meam cum aromatibus meis; comedi favum cum melle meo; bibi vinum meum cum lacte meo; comedite, amici, et bibite, et inebriamini, carissimi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Veniat dilectus meus in hortum suum, et comedat fructum pomorum suorum. Veni in hortum meum, soror mea, sponsa; messui myrrham meam cum aromatibus meis; comedi favum cum melle meo; bibi vinum meum cum lacte meo; comedite, amici, et bibite, et inebriamini, carissimi.",
+        "Clem-Saints": "Veniat dilectus meus in hortum suum, et comedat fructum pomorum suorum. Veni in hortum meum, soror mea, sponsa; messui myrrham meam cum aromatibus meis; comedi favum cum melle meo; bibi vinum meum cum lacte meo; comedite, amici, et bibite, et inebriamini, carissimi.",
+        "VulgHetzenauer (1906)": "Veniat dilectus meus in hortum suum, et comedat fructum pomorum suorum. Sponsus. Veni in hortum meum soror mea sponsa, messui myrrham meam cum aromatibus meis: comedi favum cum melle meo, bibi vinum meum cum lacte meo: comedite amici, et bibite, et inebriamini charissimi.",
+        "VulgConte (2009)": "Veniat dilectus meus in hortum suum, et comedat fructum pomorum suorum. Veni in hortum meum soror mea sponsa: messui myrrham meam cum aromatibus meis: comedi favum cum melle meo, bibi vinum meum cum lacte meo: comedite amici, et bibite, et inebriamini charissimi.",
+        "VulgSistina (1590)": "Veniat dilectus meus in hortum suum, et comedat fructum pomorum suorum. Veni in hortum meum soror mea sponsa, messui myrrham meam cum aromatibus meis: comedi favum cum melle meo, bibi vinum meum cum lacte meo: comedite amici, et bibite, et inebriamini charissimi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:2"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Sponsus.",
+              "witnesses": [
+                "VulgHetzenauer (1906)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 11,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "carissimi. / charissimi.",
+            "carissimi. / charissimi.",
+            "carissimi. / charissimi."
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80554,
+      "verse": 2,
+      "critical_text": "Ego dormio, et cor meum vigilat. Vox dilecti mei pulsantis: Aperi mihi, soror mea, amica mea, columba mea, immaculata mea, quia caput meum plenum est rore, et cincinni mei guttis noctium.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ego dormio, et cor meum vigilat. Vox dilecti mei pulsantis: Aperi mihi, soror mea, amica mea, columba mea, immaculata mea, quia caput meum plenum est rore, et cincinni mei guttis noctium.",
+        "Clem-Saints": "Ego dormio, et cor meum vigilat. Vox dilecti mei pulsantis: Aperi mihi, soror mea, amica mea, columba mea, immaculata mea, quia caput meum plenum est rore, et cincinni mei guttis noctium.",
+        "VulgHetzenauer (1906)": "Ego dormio, et cor meum vigilat: vox dilecti mei pulsantis: Aperi mihi soror mea, amica mea, columba mea, immaculata mea: quia caput meum plenum est rore, et cincinni mei guttis noctium.",
+        "VulgConte (2009)": "Ego dormio, et cor meum vigilat: vox dilecti mei pulsantis: Aperi mihi soror mea, amica mea, columba mea, immaculata mea: quia caput meum plenum est rore, et cincinni mei guttis noctium.",
+        "VulgSistina (1590)": "Ego dormio, et cor meum vigilat: vox dilecti mei pulsantis: Aperi mihi soror mea, amica mea, columba mea, immaculata mea: quia caput meum plenum est rore, et cincinni mei guttis noctium."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:4"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80555,
+      "verse": 3,
+      "critical_text": "Expoliavi me tunica mea: quomodo induar illa? lavi pedes meos: quomodo inquinabo illos?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Expoliavi me tunica mea: quomodo induar illa? lavi pedes meos: quomodo inquinabo illos?",
+        "Clem-Saints": "Expoliavi me tunica mea: quomodo induar illa? lavi pedes meos: quomodo inquinabo illos?",
+        "VulgHetzenauer (1906)": "Expoliavi me tunica mea, quomodo induar illa? lavi pedes meos, quomodo inquinabo illos?",
+        "VulgConte (2009)": "Expoliavi me tunica mea, quomodo induar illa? Lavi pedes meos, quomodo inquinabo illos?",
+        "VulgSistina (1590)": "Expoliavi me tunica mea, quomodo induar illa? lavi pedes meos, quomodo inquinabo illos?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:5"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80556,
+      "verse": 4,
+      "critical_text": "Dilectus meus misit manum suam per foramen, et venter meus intremuit ad tactum ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dilectus meus misit manum suam per foramen, et venter meus intremuit ad tactum ejus.",
+        "Clem-Saints": "Dilectus meus misit manum suam per foramen, et venter meus intremuit ad tactum ejus.",
+        "VulgHetzenauer (1906)": "Dilectus meus misit manum suam per foramen, et venter meus intremuit ad tactum eius.",
+        "VulgConte (2009)": "Dilectus meus misit manum suam per foramen, et venter meus intremuit ad tactum eius.",
+        "VulgSistina (1590)": "Dilectus meus misit manum suam per foramen, et venter meus intremuit ad tactum eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:6"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80557,
+      "verse": 5,
+      "critical_text": "Surrexi ut aperirem dilecto meo; manus meæ stillaverunt myrrham, et digiti mei pleni myrrha probatissima.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Surrexi ut aperirem dilecto meo; manus meæ stillaverunt myrrham, et digiti mei pleni myrrha probatissima.",
+        "Clem-Saints": "Surrexi ut aperirem dilecto meo; manus meæ stillaverunt myrrham, et digiti mei pleni myrrha probatissima.",
+        "VulgHetzenauer (1906)": "Surrexi, ut aperirem dilecto meo: manus meæ stillaverunt myrrham, et digiti mei pleni myrrha probatissima.",
+        "VulgConte (2009)": "Surrexi, ut aperirem dilecto meo: manus meæ stillaverunt myrrham, et digiti mei pleni myrrha probatissima.",
+        "VulgSistina (1590)": "Surrexi, ut aperirem dilecto meo: manus meae stillaverunt myrrham, et digiti mei pleni myrrha probatissima."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:7"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80558,
+      "verse": 6,
+      "critical_text": "Pessulum ostii mei aperui dilecto meo, at ille declinaverat, atque transierat. Anima mea liquefacta est, ut locutus est; quæsivi, et non inveni illum; vocavi, et non respondit mihi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Pessulum ostii mei aperui dilecto meo, at ille declinaverat, atque transierat. Anima mea liquefacta est, ut locutus est; quæsivi, et non inveni illum; vocavi, et non respondit mihi.",
+        "Clem-Saints": "Pessulum ostii mei aperui dilecto meo, at ille declinaverat, atque transierat. Anima mea liquefacta est, ut locutus est; quæsivi, et non inveni illum; vocavi, et non respondit mihi.",
+        "VulgHetzenauer (1906)": "Pessulum ostii mei aperui dilecto meo: at ille declinaverat, atque transierat. Anima mea liquefacta est, ut locutus est: quæsivi, et non inveni illum: vocavi, et non respondit mihi.",
+        "VulgConte (2009)": "Pessulum ostii mei aperui dilecto meo: at ille declinaverat, atque transierat. Anima mea liquefacta est, ut locutus est: quæsivi, et non inveni illum: vocavi, et non respondit mihi.",
+        "VulgSistina (1590)": "Pessulum ostii mei aperui dilecto meo: at ille declinaverat, atque transierat. Anima mea liquefacta est, ut locutus est: quaesivi, et non inveni illum: vocavi, et non respondit mihi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:8"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80559,
+      "verse": 7,
+      "critical_text": "Invenerunt me custodes qui circumeunt civitatem; percusserunt me, et vulneraverunt me. Tulerunt pallium meum mihi custodes murorum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Invenerunt me custodes qui circumeunt civitatem; percusserunt me, et vulneraverunt me. Tulerunt pallium meum mihi custodes murorum.",
+        "Clem-Saints": "Invenerunt me custodes qui circumeunt civitatem; percusserunt me, et vulneraverunt me. Tulerunt pallium meum mihi custodes murorum.",
+        "VulgHetzenauer (1906)": "Invenerunt me custodes qui circumeunt civitatem: percusserunt me, et vulneraverunt me: tulerunt pallium meum mihi custodes murorum.",
+        "VulgConte (2009)": "Invenerunt me custodes qui circumeunt civitatem: percusserunt me, et vulneraverunt me: tulerunt pallium meum mihi custodes murorum.",
+        "VulgSistina (1590)": "Invenerunt me custodes qui circumeunt civitatem: percusserunt me, et vulneraverunt me: tulerunt pallium meum mihi custodes murorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:9"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80560,
+      "verse": 8,
+      "critical_text": "Adjuro vos, filiæ Jerusalem, si inveneritis dilectum meum, ut nuntietis ei quia amore langueo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Adjuro vos, filiæ Jerusalem, si inveneritis dilectum meum, ut nuntietis ei quia amore langueo.",
+        "Clem-Saints": "Adjuro vos, filiæ Jerusalem, si inveneritis dilectum meum, ut nuntietis ei quia amore langueo.",
+        "VulgHetzenauer (1906)": "Adiuro vos filiæ Ierusalem, si inveneritis dilectum meum, ut nuncietis ei quia amore langueo.",
+        "VulgConte (2009)": "Adiuro vos filiæ Ierusalem, si inveneritis dilectum meum, ut nuncietis ei quia amore langueo.",
+        "VulgSistina (1590)": "Adiuro vos filiae Ierusalem, si inveneritis dilectum meum, ut nuncietis ei quia amore langueo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:10"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntietis / nuncietis",
+            "nuntietis / nuncietis",
+            "nuntietis / nuncietis"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80561,
+      "verse": 9,
+      "critical_text": "Qualis est dilectus tuus ex dilecto, o pulcherrima mulierum? qualis est dilectus tuus ex dilecto, quia sic adjurasti nos?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qualis est dilectus tuus ex dilecto, o pulcherrima mulierum? qualis est dilectus tuus ex dilecto, quia sic adjurasti nos?",
+        "Clem-Saints": "Qualis est dilectus tuus ex dilecto, o pulcherrima mulierum? qualis est dilectus tuus ex dilecto, quia sic adjurasti nos?",
+        "VulgHetzenauer (1906)": "Qualis est dilectus tuus ex dilecto, o pulcherrima mulierum? qualis est dilectus tuus ex dilecto, quia sic adiurasti nos?",
+        "VulgConte (2009)": "Qualis est dilectus tuus ex dilecto, o pulcherrima mulierum? Qualis est dilectus tuus ex dilecto, quia sic adiurasti nos?",
+        "VulgSistina (1590)": "Qualis est dilectus tuus ex dilecto, o pulcherrima mulierum? qualis est dilectus tuus ex dilecto, quia sic adiurasti nos?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:11"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80562,
+      "verse": 10,
+      "critical_text": "Dilectus meus candidus et rubicundus; electus ex millibus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dilectus meus candidus et rubicundus; electus ex millibus.",
+        "Clem-Saints": "Dilectus meus candidus et rubicundus; electus ex millibus.",
+        "VulgHetzenauer (1906)": "Dilectus meus candidus et rubicundus, electus ex millibus.",
+        "VulgConte (2009)": "Dilectus meus candidus et rubicundus, electus ex millibus.",
+        "VulgSistina (1590)": "Dilectus meus candidus et rubicundus, electus ex millibus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:12"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80563,
+      "verse": 11,
+      "critical_text": "Caput ejus aurum optimum; comæ ejus sicut elatæ palmarum, nigræ quasi corvus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Caput ejus aurum optimum; comæ ejus sicut elatæ palmarum, nigræ quasi corvus.",
+        "Clem-Saints": "Caput ejus aurum optimum; comæ ejus sicut elatæ palmarum, nigræ quasi corvus.",
+        "VulgHetzenauer (1906)": "Caput eius aurum optimum: Comæ eius sicut elatæ palmarum, nigræ quasi corvus.",
+        "VulgConte (2009)": "Caput eius aurum optimum: Comæ eius sicut elatæ palmarum, nigræ quasi corvus.",
+        "VulgSistina (1590)": "Caput eius aurum optimum: Comae eius sicut elatae palmarum, nigrae quasi corvus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:13"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80564,
+      "verse": 12,
+      "critical_text": "Oculi ejus sicut columbæ super rivulos aquarum, quæ lacte sunt lotæ, et resident juxta fluenta plenissima.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Oculi ejus sicut columbæ super rivulos aquarum, quæ lacte sunt lotæ, et resident juxta fluenta plenissima.",
+        "Clem-Saints": "Oculi ejus sicut columbæ super rivulos aquarum, quæ lacte sunt lotæ, et resident juxta fluenta plenissima.",
+        "VulgHetzenauer (1906)": "Oculi eius sicut columbæ super rivulos aquarum, quæ lacte sunt lotæ, et resident iuxta fluenta plenissima.",
+        "VulgConte (2009)": "Oculi eius sicut columbæ super rivulos aquarum, quæ lacte sunt lotæ, et resident iuxta fluenta plenissima.",
+        "VulgSistina (1590)": "Oculi eius sicut columbae super rivulos aquarum, quae lacte sunt lotae, et resident iuxta fluenta plenissima."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:14"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80565,
+      "verse": 13,
+      "critical_text": "Genæ illius sicut areolæ aromatum, consitæ a pigmentariis. Labia ejus lilia, distillantia myrrham primam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Genæ illius sicut areolæ aromatum, consitæ a pigmentariis. Labia ejus lilia, distillantia myrrham primam.",
+        "Clem-Saints": "Genæ illius sicut areolæ aromatum, consitæ a pigmentariis. Labia ejus lilia, distillantia myrrham primam.",
+        "VulgHetzenauer (1906)": "Genæ illius sicut areolæ aromatum consitæ a pigmentariis. Labia eius lilia distillantia myrrham primam.",
+        "VulgConte (2009)": "Genæ illius sicut areolæ aromatum consitæ a pigmentariis. Labia eius lilia distillantia myrrham primam.",
+        "VulgSistina (1590)": "Genae illius sicut areolae aromatum consitae a pigmentariis. Labia eius lilia distillantia myrrham primam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:15"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80566,
+      "verse": 14,
+      "critical_text": "Manus illius tornatiles, aureæ, plenæ hyacinthis. Venter ejus eburneus, distinctus sapphiris.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Manus illius tornatiles, aureæ, plenæ hyacinthis. Venter ejus eburneus, distinctus sapphiris.",
+        "Clem-Saints": "Manus illius tornatiles, aureæ, plenæ hyacinthis. Venter ejus eburneus, distinctus sapphiris.",
+        "VulgHetzenauer (1906)": "Manus illius tornatiles aureæ, plenæ hyacinthis. Venter eius eburneus, distinctus sapphiris.",
+        "VulgConte (2009)": "Manus illius tornatiles aureæ, plenæ hyacinthis. Venter eius eburneus, distinctus sapphiris.",
+        "VulgSistina (1590)": "Manus illius tornatiles aureae, plenae hyacinthis. Venter eius eburneus, distinctus sapphiris."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:16"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80567,
+      "verse": 15,
+      "critical_text": "Crura illius columnæ marmoreæ quæ fundatæ sunt super bases aureas. Species ejus ut Libani, electus ut cedri.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Crura illius columnæ marmoreæ quæ fundatæ sunt super bases aureas. Species ejus ut Libani, electus ut cedri.",
+        "Clem-Saints": "Crura illius columnæ marmoreæ quæ fundatæ sunt super bases aureas. Species ejus ut Libani, electus ut cedri.",
+        "VulgHetzenauer (1906)": "Crura illius columnæ marmoreæ, quæ fundatæ sunt super bases aureas. Species eius ut Libani, electus ut cedri.",
+        "VulgConte (2009)": "Crura illius columnæ marmoreæ, quæ fundatæ sunt super bases aureas. Species eius ut Libani, electus ut cedri. Guttur illius suavissimum, et totus desiderabilis: talis est dilectus meus, et ipse est amicus meus, filiæ Ierusalem. Quo abiit dilectus tuus o pulcherrima mulierum? Quo declinavit dilectus tuus, et quæremus eum tecum?",
+        "VulgSistina (1590)": "Crura illius columnae marmoreae, quae fundatae sunt super bases aureas. Species eius ut Libani, electus ut cedri."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "5:17"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Guttur illius suavissimum, et totus desiderabilis: talis est dilectus meus, et ipse est amicus meus, filiæ Ierusalem. Quo abiit dilectus tuus o pulcherrima mulierum? Quo declinavit dilectus tuus, et quæremus eum tecum?",
+              "witnesses": [
+                "VulgConte (2009)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 17,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80568,
+      "verse": 16,
+      "critical_text": "Guttur illius suavissimum, et totus desiderabilis. Talis est dilectus meus, et ipse est amicus meus, filiæ Jerusalem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Guttur illius suavissimum, et totus desiderabilis. Talis est dilectus meus, et ipse est amicus meus, filiæ Jerusalem.",
+        "Clem-Saints": "Guttur illius suavissimum, et totus desiderabilis. Talis est dilectus meus, et ipse est amicus meus, filiæ Jerusalem.",
+        "VulgHetzenauer (1906)": "Guttur illius suavissimum, et totus desiderabilis: talis est dilectus meus, et ipse est amicus meus, filiæ Ierusalem.",
+        "VulgSistina (1590)": "Guttur illius suavissimum, et totus desiderabilis: talis est dilectus meus, et ipse est amicus meus, filiae Ierusalem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

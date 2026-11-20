@@ -1,0 +1,742 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "06_Discipleship",
+  "book_slug": "romans",
+  "book_title": "Romans",
+  "usfm_code": "ROM",
+  "chapter": 5,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:18:39Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 92884,
+      "verse": 1,
+      "critical_text": "Justificati ergo ex fide, pacem habeamus ad Deum per Dominum nostrum Jesum Christum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Justificati ergo ex fide, pacem habeamus ad Deum per Dominum nostrum Jesum Christum:",
+        "Clem-Saints": "Justificati ergo ex fide, pacem habeamus ad Deum per Dominum nostrum Jesum Christum:",
+        "VulgHetzenauer (1906)": "Iustificati ergo ex fide, pacem habeamus ad Deum per Dominum nostrum Iesum Christum:",
+        "VulgConte (2009)": "Iustificati ergo ex fide, pacem habeamus ad Deum per Dominum nostrum Iesum Christum:",
+        "VulgSistina (1590)": "Iustificati ergo ex fide, pacem habeamus ad Deum per Dominum nostrum Iesum Christum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92885,
+      "verse": 2,
+      "critical_text": "per quem et habemus accessum per fidem in gratiam istam, in qua stamus, et gloriamur in spe gloriæ filiorum Dei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "per quem et habemus accessum per fidem in gratiam istam, in qua stamus, et gloriamur in spe gloriæ filiorum Dei.",
+        "Clem-Saints": "per quem et habemus accessum per fidem in gratiam istam, in qua stamus, et gloriamur in spe gloriæ filiorum Dei.",
+        "VulgHetzenauer (1906)": "per quem et habemus accessum per fidem in gratiam istam, in qua stamus, et gloriamur in spe gloriæ filiorum Dei.",
+        "VulgConte (2009)": "per quem et habemus accessum per fidem in gratiam istam, in qua stamus, et gloriamur in spe gloriæ filiorum Dei.",
+        "VulgSistina (1590)": "per quem habemus accessum per fidem in gratiam istam, in qua stamus, et gloriamur in spe gloriae filiorum Dei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92886,
+      "verse": 3,
+      "critical_text": "Non solum autem, sed et gloriamur in tribulationibus: scientes quod tribulatio patientiam operatur:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non solum autem, sed et gloriamur in tribulationibus: scientes quod tribulatio patientiam operatur:",
+        "Clem-Saints": "Non solum autem, sed et gloriamur in tribulationibus: scientes quod tribulatio patientiam operatur:",
+        "VulgHetzenauer (1906)": "Non solum autem, sed et gloriamur in tribulationibus: scientes quod tribulatio patientiam operatur:",
+        "VulgConte (2009)": "Non solum autem, sed et gloriamur in tribulationibus: scientes quod tribulatio patientiam operatur:",
+        "VulgSistina (1590)": "Non solum autem, sed et gloriamur in tribulationibus: scientes quod tribulatio patientiam operatur:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92887,
+      "verse": 4,
+      "critical_text": "patientia autem probationem, probatio vero spem,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "patientia autem probationem, probatio vero spem,",
+        "Clem-Saints": "patientia autem probationem, probatio vero spem,",
+        "VulgHetzenauer (1906)": "patientia autem probationem, probatio vero spem,",
+        "VulgConte (2009)": "patientia autem probationem, probatio vero spem,",
+        "VulgSistina (1590)": "patientia autem probationem, probatio vero spem,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92888,
+      "verse": 5,
+      "critical_text": "spes autem non confundit: quia caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum, qui datus est nobis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "spes autem non confundit: quia caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum, qui datus est nobis.",
+        "Clem-Saints": "spes autem non confundit: quia caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum, qui datus est nobis.",
+        "VulgHetzenauer (1906)": "spes autem non confundit: quia charitas Dei diffusa est in cordibus nostris per Spiritum sanctum, qui datus est nobis.",
+        "VulgConte (2009)": "spes autem non confundit: quia charitas Dei diffusa est in cordibus nostris per Spiritum sanctum, qui datus est nobis.",
+        "VulgSistina (1590)": "spes autem non confundit: quia charitas Dei diffusa est in cordibus nostris per Spiritum sanctum, qui datus est nobis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "caritas / charitas",
+            "caritas / charitas",
+            "caritas / charitas"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92889,
+      "verse": 6,
+      "critical_text": "Ut quid enim Christus, cum adhuc infirmi essemus, secundum tempus, pro impiis mortuus est?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ut quid enim Christus, cum adhuc infirmi essemus, secundum tempus, pro impiis mortuus est?",
+        "Clem-Saints": "Ut quid enim Christus, cum adhuc infirmi essemus, secundum tempus, pro impiis mortuus est?",
+        "VulgHetzenauer (1906)": "Ut quid enim Christus, cum adhuc infirmi essemus, secundum tempus pro impiis mortuus est?",
+        "VulgConte (2009)": "Ut quid enim Christus, cum adhuc infirmi essemus, secundum tempus pro impiis mortuus est?",
+        "VulgSistina (1590)": "Ut quid enim Christus, cum adhuc infirmi essemus, secundum tempus pro impiis mortuus est?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92890,
+      "verse": 7,
+      "critical_text": "vix enim pro justo quis moritur: nam pro bono forsitan quis audeat mori.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "vix enim pro justo quis moritur: nam pro bono forsitan quis audeat mori.",
+        "Clem-Saints": "vix enim pro justo quis moritur: nam pro bono forsitan quis audeat mori.",
+        "VulgHetzenauer (1906)": "Vix enim pro iusto quis moritur: nam pro bono forsitan quis audeat mori.",
+        "VulgConte (2009)": "Vix enim pro iusto quis moritur: nam pro bono forsitan quis audeat mori.",
+        "VulgSistina (1590)": "Vix enim pro iusto quis moritur: nam pro bono forsitan quis audeat mori."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92891,
+      "verse": 8,
+      "critical_text": "Commendat autem caritatem suam Deus in nobis: quoniam cum adhuc peccatores essemus, secundum tempus,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Commendat autem caritatem suam Deus in nobis: quoniam cum adhuc peccatores essemus, secundum tempus,",
+        "Clem-Saints": "Commendat autem caritatem suam Deus in nobis: quoniam cum adhuc peccatores essemus, secundum tempus,",
+        "VulgHetzenauer (1906)": "Commendat autem charitatem suam Deus in nobis: quoniam cum adhuc peccatores essemus, secundum tempus,",
+        "VulgConte (2009)": "Commendat autem charitatem suam Deus in nobis: quoniam cum adhuc peccatores essemus, secundum tempus,",
+        "VulgSistina (1590)": "Commendat autem charitatem suam Deus in nobis: quoniam si cum adhuc peccatores essemus, secundum tempus,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "si",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 8,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "caritatem / charitatem",
+            "caritatem / charitatem",
+            "caritatem / charitatem"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92892,
+      "verse": 9,
+      "critical_text": "Christus pro nobis mortuus est: multo igitur magis nunc justificati in sanguine ipsius, salvi erimus ab ira per ipsum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Christus pro nobis mortuus est: multo igitur magis nunc justificati in sanguine ipsius, salvi erimus ab ira per ipsum.",
+        "Clem-Saints": "Christus pro nobis mortuus est: multo igitur magis nunc justificati in sanguine ipsius, salvi erimus ab ira per ipsum.",
+        "VulgHetzenauer (1906)": "Christus pro nobis mortuus est: multo igitur magis nunc iustificati in sanguine ipsius, salvi erimus ab ira per ipsum.",
+        "VulgConte (2009)": "Christus pro nobis mortuus est: multo igitur magis nunc iustificati in sanguine ipsius, salvi erimus ab ira per ipsum.",
+        "VulgSistina (1590)": "Christus pro nobis mortuus est: multo igitur magis nunc iustificati in sanguine ipsius, salvi erimus ab ira per ipsum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92893,
+      "verse": 10,
+      "critical_text": "Si enim cum inimici essemus, reconciliati sumus Deo per mortem filii ejus: multo magis reconciliati, salvi erimus in vita ipsius.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si enim cum inimici essemus, reconciliati sumus Deo per mortem filii ejus: multo magis reconciliati, salvi erimus in vita ipsius.",
+        "Clem-Saints": "Si enim cum inimici essemus, reconciliati sumus Deo per mortem filii ejus: multo magis reconciliati, salvi erimus in vita ipsius.",
+        "VulgHetzenauer (1906)": "Si enim cum inimici essemus, reconciliati sumus Deo per mortem filii eius: multo magis reconciliati, salvi erimus in vita ipsius.",
+        "VulgConte (2009)": "Si enim cum inimici essemus, reconciliati sumus Deo per mortem Filii eius: multo magis reconciliati, salvi erimus in vita ipsius.",
+        "VulgSistina (1590)": "Si enim cum inimici essemus, reconciliati sumus Deo per mortem filii eius: multo magis reconciliati, salvi erimus in vita ipsius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92894,
+      "verse": 11,
+      "critical_text": "Non solum autem: sed et gloriamur in Deo per Dominum nostrum Jesum Christum, per quem nunc reconciliationem accepimus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non solum autem: sed et gloriamur in Deo per Dominum nostrum Jesum Christum, per quem nunc reconciliationem accepimus.",
+        "Clem-Saints": "Non solum autem: sed et gloriamur in Deo per Dominum nostrum Jesum Christum, per quem nunc reconciliationem accepimus.",
+        "VulgHetzenauer (1906)": "Non solum autem: sed et gloriamur in Deo per Dominum nostrum Iesum Christum, per quem nunc reconciliationem accepimus.",
+        "VulgConte (2009)": "Non solum autem: sed et gloriamur in Deo per Dominum nostrum Iesum Christum, per quem nunc reconciliationem accepimus.",
+        "VulgSistina (1590)": "Non solum autem: sed et gloriamur in Deo per Dominum nostrum Iesum Christum, per quem nunc reconciliationem accepimus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92895,
+      "verse": 12,
+      "critical_text": "Propterea sicut per unum hominem peccatum in hunc mundum intravit, et per peccatum mors, et ita in omnes homines mors pertransiit, in quo omnes peccaverunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Propterea sicut per unum hominem peccatum in hunc mundum intravit, et per peccatum mors, et ita in omnes homines mors pertransiit, in quo omnes peccaverunt.",
+        "Clem-Saints": "Propterea sicut per unum hominem peccatum in hunc mundum intravit, et per peccatum mors, et ita in omnes homines mors pertransiit, in quo omnes peccaverunt.",
+        "VulgHetzenauer (1906)": "Propterea sicut per unum hominem peccatum in hunc mundum intravit, et per peccatum mors, et ita in omnes homines mors pertransiit, in quo omnes peccaverunt:",
+        "VulgConte (2009)": "Propterea sicut per unum hominem peccatum in hunc mundum intravit, et per peccatum mors, et ita in omnes homines mors pertransiit, in quo omnes peccaverunt:",
+        "VulgSistina (1590)": "Propterea sicut per unum hominem peccatum in hunc mundum intravit, et per peccatum mors, et ita in omnes homines mors pertransiit, in quo omnes peccaverunt:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92896,
+      "verse": 13,
+      "critical_text": "Usque ad legem enim peccatum erat in mundo: peccatum autem non imputabatur, cum lex non esset.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Usque ad legem enim peccatum erat in mundo: peccatum autem non imputabatur, cum lex non esset.",
+        "Clem-Saints": "Usque ad legem enim peccatum erat in mundo: peccatum autem non imputabatur, cum lex non esset.",
+        "VulgHetzenauer (1906)": "Usque ad legem enim peccatum erat in mundo: peccatum autem non imputabatur, cum lex non esset.",
+        "VulgConte (2009)": "Usque ad legem enim peccatum erat in mundo: peccatum autem non imputabatur, cum lex non esset.",
+        "VulgSistina (1590)": "Usque ad legem enim peccatum erat in mundo: peccatum autem non imputabatur, cum lex non esset."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92897,
+      "verse": 14,
+      "critical_text": "Sed regnavit mors ab Adam usque ad Moysen etiam in eos qui non peccaverunt in similitudinem prævaricationis Adæ, qui est forma futuri.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sed regnavit mors ab Adam usque ad Moysen etiam in eos qui non peccaverunt in similitudinem prævaricationis Adæ, qui est forma futuri.",
+        "Clem-Saints": "Sed regnavit mors ab Adam usque ad Moysen etiam in eos qui non peccaverunt in similitudinem prævaricationis Adæ, qui est forma futuri.",
+        "VulgHetzenauer (1906)": "Sed regnavit mors ab Adam usque ad Moysen etiam in eos, qui non peccaverunt in similitudinem prævaricationis Adæ, qui est forma futuri.",
+        "VulgConte (2009)": "Sed regnavit mors ab Adam usque ad Moysen etiam in eos, qui non peccaverunt in similitudinem prævaricationis Adæ, qui est forma futuri.",
+        "VulgSistina (1590)": "Sed regnavit mors ab Adam usque ad Moysen etiam in eos, qui non peccaverunt in similitudinem praevaricationis Adae, qui est forma futuri."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92898,
+      "verse": 15,
+      "critical_text": "Sed non sicut delictum, ita et donum: si enim unius delicto multi mortui sunt: multo magis gratia Dei et donum in gratia unius hominis Jesu Christi in plures abundavit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sed non sicut delictum, ita et donum: si enim unius delicto multi mortui sunt: multo magis gratia Dei et donum in gratia unius hominis Jesu Christi in plures abundavit.",
+        "Clem-Saints": "Sed non sicut delictum, ita et donum: si enim unius delicto multi mortui sunt: multo magis gratia Dei et donum in gratia unius hominis Jesu Christi in plures abundavit.",
+        "VulgHetzenauer (1906)": "Sed non sicut delictum, ita et donum. si enim unius delicto multi mortui sunt: multo magis gratia Dei et donum in gratia unius hominis Iesu Christi in plures abundavit.",
+        "VulgConte (2009)": "Sed non sicut delictum, ita et donum. Si enim unius delicto multi mortui sunt: multo magis gratia Dei et donum in gratia unius hominis Iesu Christi in plures abundavit.",
+        "VulgSistina (1590)": "Sed non sicut delictum, ita et donum. si enim unius delicto multi mortui sunt: multo magis gratia Dei et donum in gratia unius hominis Iesu Christi in plures abundavit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92899,
+      "verse": 16,
+      "critical_text": "Et non sicut per unum peccatum, ita et donum. Nam judicium quidem ex uno in condemnationem: gratia autem ex multis delictis in justificationem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et non sicut per unum peccatum, ita et donum. Nam judicium quidem ex uno in condemnationem: gratia autem ex multis delictis in justificationem.",
+        "Clem-Saints": "Et non sicut per unum peccatum, ita et donum. Nam judicium quidem ex uno in condemnationem: gratia autem ex multis delictis in justificationem.",
+        "VulgHetzenauer (1906)": "Et non sicut per unum peccatum, ita et donum. nam iudicium quidem ex uno in condemnationem: gratia autem ex multis delictis in iustificationem.",
+        "VulgConte (2009)": "Et non sicut per unum peccatum, ita et donum. Nam iudicium quidem ex uno in condemnationem: gratia autem ex multis delictis in iustificationem.",
+        "VulgSistina (1590)": "Et non sicut per unum peccatum, ita et donum. nam iudicium quidem ex uno in condemnationem: gratia autem ex multis delictis in iustificationem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92900,
+      "verse": 17,
+      "critical_text": "Si enim unius delicto mors regnavit per unum: multo magis abundantiam gratiæ, et donationis, et justitiæ accipientes, in vita regnabunt per unum Jesum Christum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si enim unius delicto mors regnavit per unum: multo magis abundantiam gratiæ, et donationis, et justitiæ accipientes, in vita regnabunt per unum Jesum Christum.",
+        "Clem-Saints": "Si enim unius delicto mors regnavit per unum: multo magis abundantiam gratiæ, et donationis, et justitiæ accipientes, in vita regnabunt per unum Jesum Christum.",
+        "VulgHetzenauer (1906)": "Si enim unius delicto mors regnavit per unum: multo magis abundantiam gratiæ, et donationis, et iustitiæ accipientes, in vita regnabunt per unum Iesum Christum.",
+        "VulgConte (2009)": "Si enim unius delicto mors regnavit per unum: multo magis abundantiam gratiæ, et donationis, et iustitiæ accipientes, in vita regnabunt per unum Iesum Christum.",
+        "VulgSistina (1590)": "Si enim unius delicto mors regnavit per unum: multo magis abundantiam gratiae, et donationis, et iustitiae accipientes in vita, regnabunt per unum Iesum Christum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92901,
+      "verse": 18,
+      "critical_text": "Igitur sicut per unius delictum in omnes homines in condemnationem: sic et per unius justitiam in omnes homines in justificationem vitæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Igitur sicut per unius delictum in omnes homines in condemnationem: sic et per unius justitiam in omnes homines in justificationem vitæ.",
+        "Clem-Saints": "Igitur sicut per unius delictum in omnes homines in condemnationem: sic et per unius justitiam in omnes homines in justificationem vitæ.",
+        "VulgHetzenauer (1906)": "Igitur sicut per unius delictum in omnes homines in condemnationem: sic et per unius iustitiam in omnes homines in iustificationem vitæ.",
+        "VulgConte (2009)": "Igitur sicut per unius delictum in omnes homines in condemnationem: sic et per unius iustitiam in omnes homines in iustificationem vitæ.",
+        "VulgSistina (1590)": "Igitur sicut per unius delictum in omnes homines in condemnationem: sic et per unius iustitiam in omnes homines in iustificationem vitae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92902,
+      "verse": 19,
+      "critical_text": "Sicut enim per inobedientiam unius hominis, peccatores constituti sunt multi: ita et per unius obeditionem, justi constituentur multi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sicut enim per inobedientiam unius hominis, peccatores constituti sunt multi: ita et per unius obeditionem, justi constituentur multi.",
+        "Clem-Saints": "Sicut enim per inobedientiam unius hominis, peccatores constituti sunt multi: ita et per unius obeditionem, justi constituentur multi.",
+        "VulgHetzenauer (1906)": "Sicut enim per inobedientiam unius hominis, peccatores constituti sunt multi: ita et per unius obeditionem, iusti constituentur multi.",
+        "VulgConte (2009)": "Sicut enim per inobedientiam unius hominis, peccatores constituti sunt multi: ita et per unius obeditionem, iusti constituentur multi.",
+        "VulgSistina (1590)": "Sicut enim per inobedientiam unius hominis, peccatores constituti sunt multi: ita et per unius obeditionem, iusti constituentur multi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92903,
+      "verse": 20,
+      "critical_text": "Lex autem subintravit ut abundaret delictum. Ubi autem abundavit delictum, superabundavit gratia:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Lex autem subintravit ut abundaret delictum. Ubi autem abundavit delictum, superabundavit gratia:",
+        "Clem-Saints": "Lex autem subintravit ut abundaret delictum. Ubi autem abundavit delictum, superabundavit gratia:",
+        "VulgHetzenauer (1906)": "Lex autem subintravit ut abundaret delictum. Ubi autem abundavit delictum, superabundavit gratia.",
+        "VulgConte (2009)": "Lex autem subintravit ut abundaret delictum. Ubi autem abundavit delictum, superabundavit gratia.",
+        "VulgSistina (1590)": "Lex autem subintravit ut abundaret delictum. Ubi autem abundavit delictum, superabundavit et gratia."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "et",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 11,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 92904,
+      "verse": 21,
+      "critical_text": "ut sicut regnavit peccatum in mortem: ita et gratia regnet per justitiam in vitam æternam, per Jesum Christum Dominum nostrum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ut sicut regnavit peccatum in mortem: ita et gratia regnet per justitiam in vitam æternam, per Jesum Christum Dominum nostrum.",
+        "Clem-Saints": "ut sicut regnavit peccatum in mortem: ita et gratia regnet per justitiam in vitam æternam, per Jesum Christum Dominum nostrum.",
+        "VulgHetzenauer (1906)": "ut sicut regnavit peccatum in mortem: ita et gratia regnet per iustitiam in vitam æternam, per Iesum Christum Dominum nostrum.",
+        "VulgConte (2009)": "Ut sicut regnavit peccatum in mortem: ita et gratia regnet per iustitiam in vitam æternam, per Iesum Christum Dominum nostrum.",
+        "VulgSistina (1590)": "ut sicut regnavit peccatum in mortem: ita et gratia regnet per iustitiam in vitam aeternam, per Iesum Christum Dominum nostrum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

@@ -1,0 +1,904 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "2-chronicles",
+  "book_title": "2 Chronicles",
+  "usfm_code": "2CH",
+  "chapter": 33,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:00Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 73318,
+      "verse": 1,
+      "critical_text": "Duodecim annorum erat Manasses cum regnare cœpisset, et quinquaginta quinque annis regnavit in Jerusalem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Duodecim annorum erat Manasses cum regnare cœpisset, et quinquaginta quinque annis regnavit in Jerusalem.",
+        "Clem-Saints": "Duodecim annorum erat Manasses cum regnare cœpisset, et quinquaginta quinque annis regnavit in Jerusalem.",
+        "VulgHetzenauer (1906)": "Duodecim annorum erat Manasses cum regnare cœpisset, et quinquagintaquinque annis regnavit in Ierusalem.",
+        "VulgConte (2009)": "Duodecim annorum erat Manasses cum regnare cœpisset, et quinquaginta quinque annis regnavit in Ierusalem.",
+        "VulgSistina (1590)": "Duodecim annorum erat Manasses cum regnare coepisset, et quinquagintaquinque annis regnavit in Ierusalem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quinquaginta quinque / quinquagintaquinque",
+            "quinquaginta quinque / quinquagintaquinque"
+          ],
+          "witnesses": [
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73319,
+      "verse": 2,
+      "critical_text": "Fecit autem malum coram Domino, juxta abominationes gentium quas subvertit Dominus coram filiis Israël:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fecit autem malum coram Domino, juxta abominationes gentium quas subvertit Dominus coram filiis Israël:",
+        "Clem-Saints": "Fecit autem malum coram Domino, juxta abominationes gentium quas subvertit Dominus coram filiis Israël:",
+        "VulgHetzenauer (1906)": "Fecit autem malum coram Domino iuxta abominationes gentium, quas subvertit Dominus coram filiis Israel:",
+        "VulgConte (2009)": "Fecit autem malum coram Domino iuxta abominationes gentium, quas subvertit Dominus coram filiis Israel:",
+        "VulgSistina (1590)": "Fecit autem malum coram Domino iuxta abominationes gentium, quas subvertit Dominus coram filiis Israel:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73320,
+      "verse": 3,
+      "critical_text": "et conversus instauravit excelsa quæ demolitus fuerat Ezechias pater ejus: construxitque aras Baalim, et fecit lucos, et adoravit omnem militiam cæli, et coluit eam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et conversus instauravit excelsa quæ demolitus fuerat Ezechias pater ejus: construxitque aras Baalim, et fecit lucos, et adoravit omnem militiam cæli, et coluit eam.",
+        "Clem-Saints": "et conversus instauravit excelsa quæ demolitus fuerat Ezechias pater ejus: construxitque aras Baalim, et fecit lucos, et adoravit omnem militiam cæli, et coluit eam.",
+        "VulgHetzenauer (1906)": "et conversus instauravit excelsa, quæ demolitus fuerat Ezechias pater eius: construxitque aras Baalim, et fecit lucos, et adoravit omnem militiam cæli, et coluit eam.",
+        "VulgConte (2009)": "et conversus instauravit excelsa, quæ demolitus fuerat Ezechias pater eius: construxitque aras Baalim, et fecit lucos, et adoravit omnem militiam cæli, et coluit eam.",
+        "VulgSistina (1590)": "et conversus instauravit excelsa, quae demolitus fuerat Ezechias pater eius: construxitque aras Baalim, et fecit lucos, et adoravit omnem militiam caeli, et coluit eam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73321,
+      "verse": 4,
+      "critical_text": "Ædificavit quoque altaria in domo Domini, de qua dixerat Dominus: In Jerusalem erit nomen meum in æternum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ædificavit quoque altaria in domo Domini, de qua dixerat Dominus: In Jerusalem erit nomen meum in æternum.",
+        "Clem-Saints": "Ædificavit quoque altaria in domo Domini, de qua dixerat Dominus: In Jerusalem erit nomen meum in æternum.",
+        "VulgHetzenauer (1906)": "Ædificavit quoque altaria in domo Domini, de qua dixerat Dominus: In Ierusalem erit nomen meum in æternum.",
+        "VulgConte (2009)": "Ædificavit quoque altaria in domo Domini, de qua dixerat Dominus: In Ierusalem erit nomen meum in æternum.",
+        "VulgSistina (1590)": "Aedificavit quoque altaria in domo Domini, de qua dixerat Dominus: In Ierusalem erit nomen meum in aeternum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73322,
+      "verse": 5,
+      "critical_text": "Ædificavit autem ea cuncto exercitui cæli in duobus atriis domus Domini.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ædificavit autem ea cuncto exercitui cæli in duobus atriis domus Domini.",
+        "Clem-Saints": "Ædificavit autem ea cuncto exercitui cæli in duobus atriis domus Domini.",
+        "VulgHetzenauer (1906)": "Ædificavit autem ea cuncto exercitui cæli in duobus atriis domus Domini.",
+        "VulgConte (2009)": "Ædificavit autem ea cuncto exercitui cæli in duobus atriis domus Domini.",
+        "VulgSistina (1590)": "Aedificavit autem ea cuncto exercitui caeli in duobus atriis domus Domini."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73323,
+      "verse": 6,
+      "critical_text": "Transireque fecit filios suos per ignem in valle Benennom: observabat somnia, sectabatur auguria, maleficis artibus inserviebat, habebat secum magos et incantatores, multaque mala operatus est coram Domino ut irritaret eum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Transireque fecit filios suos per ignem in valle Benennom: observabat somnia, sectabatur auguria, maleficis artibus inserviebat, habebat secum magos et incantatores, multaque mala operatus est coram Domino ut irritaret eum.",
+        "Clem-Saints": "Transireque fecit filios suos per ignem in valle Benennom: observabat somnia, sectabatur auguria, maleficis artibus inserviebat, habebat secum magos et incantatores, multaque mala operatus est coram Domino ut irritaret eum.",
+        "VulgHetzenauer (1906)": "Transireque fecit filios suos per ignem in Vallebenennom: observabat somnia, sectabatur auguria, maleficis artibus inserviebat, habebat secum magos, et incantatores: multaque mala operatus est coram Domino ut irritaret eum.",
+        "VulgConte (2009)": "Transireque fecit filios suos per ignem in Valle Benennom: observabat somnia, sectabatur auguria, maleficis artibus inserviebat, habebat secum magos, et incantatores: multaque mala operatus est coram Domino ut irritaret eum.",
+        "VulgSistina (1590)": "Transireque fecit filios suos per ignem in Vallebenennom: observabat somnia, sectabatur auguria, maleficis artibus inserviebat, habebat secum magos, et incantatores: multaque mala operatus est coram Domino ut irritaret eum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "valle Benennom: / Vallebenennom:",
+            "valle Benennom: / Vallebenennom:"
+          ],
+          "witnesses": [
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73324,
+      "verse": 7,
+      "critical_text": "Sculptile quoque et conflatile signum posuit in domo Dei, de qua locutus est Deus ad David, et ad Salomonem filium ejus, dicens: In domo hac, et in Jerusalem quam elegi de cunctis tribubus Israël, ponam nomen meum in sempiternum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sculptile quoque et conflatile signum posuit in domo Dei, de qua locutus est Deus ad David, et ad Salomonem filium ejus, dicens: In domo hac, et in Jerusalem quam elegi de cunctis tribubus Israël, ponam nomen meum in sempiternum.",
+        "Clem-Saints": "Sculptile quoque et conflatile signum posuit in domo Dei, de qua locutus est Deus ad David, et ad Salomonem filium ejus, dicens: In domo hac, et in Jerusalem quam elegi de cunctis tribubus Israël, ponam nomen meum in sempiternum.",
+        "VulgHetzenauer (1906)": "Sculptile quoque, et conflatile signum posuit in domo Dei, de qua locutus est Deus ad David, et ad Salomonem filium eius, dicens: In domo hac et in Ierusalem, quam elegi de cunctis tribubus Israel, ponam nomen meum in sempiternum.",
+        "VulgConte (2009)": "Sculptile quoque, et conflatile signum posuit in domo Dei, de qua locutus est Deus ad David, et ad Salomonem filium eius, dicens: In domo hac et in Ierusalem, quam elegi de cunctis tribubus Israel, ponam nomen meum in sempiternum.",
+        "VulgSistina (1590)": "Sculptile quoque, et conflatile signum posuit in domo Domini, de qua locutus est Dominus ad David, et ad Salomonem filium eius, dicens: In domo hac et in Ierusalem, quam elegi de cunctis tribubus Israel, ponam nomen meum in sempiternum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Dei,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Domini,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "dei",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "Deus",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Dominus",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 13,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "deus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73325,
+      "verse": 8,
+      "critical_text": "Et moveri non faciam pedem Israël de terra quam tradidi patribus eorum: ita dumtaxat si custodierint facere quæ præcepi eis, cunctamque legem, et cæremonias atque judicia, per manum Moysi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et moveri non faciam pedem Israël de terra quam tradidi patribus eorum: ita dumtaxat si custodierint facere quæ præcepi eis, cunctamque legem, et cæremonias atque judicia, per manum Moysi.",
+        "Clem-Saints": "Et moveri non faciam pedem Israël de terra quam tradidi patribus eorum: ita dumtaxat si custodierint facere quæ præcepi eis, cunctamque legem, et cæremonias atque judicia, per manum Moysi.",
+        "VulgHetzenauer (1906)": "Et moveri non faciam pedem Israel de terra, quam tradidi patribus eorum: ita dumtaxat si custodierint facere quæ præcepi eis, cunctamque legem, et ceremonias, atque iudicia per manum Moysi.",
+        "VulgConte (2009)": "Et moveri non faciam pedem Israel de terra, quam tradidi patribus eorum: ita dumtaxat si custodierint facere quæ præcepi eis, cunctamque legem, et ceremonias, atque iudicia per manum Moysi.",
+        "VulgSistina (1590)": "Et moveri non faciam pedem Israel de terra, quam tradidi patribus eorum: ita dumtaxat si custodierint facere quae praecepi eis, cunctamque legem, et ceremonias, atque iudicia per manum Moysi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "cæremonias / ceremonias,",
+            "cæremonias / ceremonias,",
+            "cæremonias / ceremonias,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73326,
+      "verse": 9,
+      "critical_text": "Igitur Manasses seduxit Judam, et habitatores Jerusalem, ut facerent malum super omnes gentes quas subverterat Dominus a facie filiorum Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Igitur Manasses seduxit Judam, et habitatores Jerusalem, ut facerent malum super omnes gentes quas subverterat Dominus a facie filiorum Israël.",
+        "Clem-Saints": "Igitur Manasses seduxit Judam, et habitatores Jerusalem, ut facerent malum super omnes gentes quas subverterat Dominus a facie filiorum Israël.",
+        "VulgHetzenauer (1906)": "Igitur Manasses seduxit Iudam, et habitatores Ierusalem ut facerent malum super omnes gentes, quas subverterat Dominus a facie filiorum Israel.",
+        "VulgConte (2009)": "Igitur Manasses seduxit Iudam, et habitatores Ierusalem ut facerent malum super omnes gentes, quas subverterat Dominus a facie filiorum Israel.",
+        "VulgSistina (1590)": "Igitur Manasses seduxit Iuda, et habitatores Ierusalem ut facerent malum super omnes gentes, quas subverterat Dominus a facie filiorum Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Judam,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Iuda,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iudam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73327,
+      "verse": 10,
+      "critical_text": "Locutusque est Dominus ad eum, et ad populum illius, et attendere noluerunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Locutusque est Dominus ad eum, et ad populum illius, et attendere noluerunt.",
+        "Clem-Saints": "Locutusque est Dominus ad eum, et ad populum illius, et attendere noluerunt.",
+        "VulgHetzenauer (1906)": "Locutusque est Dominus ad eum, et ad populum illius, et attendere noluerunt.",
+        "VulgConte (2009)": "Locutusque est Dominus ad eum, et ad populum illius, et attendere noluerunt.",
+        "VulgSistina (1590)": "Locutusque est Dominus ad eum, et ad populum illius, et attendere noluerunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73328,
+      "verse": 11,
+      "critical_text": "Idcirco superinduxit eis principes exercitus regis Assyriorum: ceperuntque Manassen, et vinctum catenis atque compedibus duxerunt in Babylonem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Idcirco superinduxit eis principes exercitus regis Assyriorum: ceperuntque Manassen, et vinctum catenis atque compedibus duxerunt in Babylonem.",
+        "Clem-Saints": "Idcirco superinduxit eis principes exercitus regis Assyriorum: ceperuntque Manassen, et vinctum catenis atque compedibus duxerunt in Babylonem.",
+        "VulgHetzenauer (1906)": "Idcirco superinduxit eis principes exercitus regis Assyriorum: ceperuntque Manassen, et vinctum catenis, atque compedibus duxerunt in Babylonem.",
+        "VulgConte (2009)": "Idcirco superinduxit eis principes exercitus regis Assyriorum: ceperuntque Manassen, et vinctum catenis, atque compedibus duxerunt in Babylonem.",
+        "VulgSistina (1590)": "Idcirco superinduxit eis principes exercitus regis Assyriorum: ceperuntque Manassen, et vinctum catenis, atque compedibus duxerunt in Babylonem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73329,
+      "verse": 12,
+      "critical_text": "Qui postquam coangustatus est, oravit Dominum Deum suum: et egit pœnitentiam valde coram Deo patrum suorum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui postquam coangustatus est, oravit Dominum Deum suum: et egit pœnitentiam valde coram Deo patrum suorum.",
+        "Clem-Saints": "Qui postquam coangustatus est, oravit Dominum Deum suum: et egit pœnitentiam valde coram Deo patrum suorum.",
+        "VulgHetzenauer (1906)": "Qui postquam coangustatus est, oravit Dominum Deum suum: et egit pœnitentiam valde coram Deo patrum suorum.",
+        "VulgConte (2009)": "Qui postquam coangustatus est, oravit Dominum Deum suum: et egit pœnitentiam valde coram Deo patrum suorum.",
+        "VulgSistina (1590)": "Qui postquam coangustatus est, oravit Dominum Deum suum: et egit poenitentiam valde coram Deo patrum suorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73330,
+      "verse": 13,
+      "critical_text": "Deprecatusque est eum, et obsecravit intente: et exaudivit orationem ejus, reduxitque eum Jerusalem in regnum suum, et cognovit Manasses quod Dominus ipse esset Deus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Deprecatusque est eum, et obsecravit intente: et exaudivit orationem ejus, reduxitque eum Jerusalem in regnum suum, et cognovit Manasses quod Dominus ipse esset Deus.",
+        "Clem-Saints": "Deprecatusque est eum, et obsecravit intente: et exaudivit orationem ejus, reduxitque eum Jerusalem in regnum suum, et cognovit Manasses quod Dominus ipse esset Deus.",
+        "VulgHetzenauer (1906)": "Deprecatusque est eum, et obsecravit intente: et exaudivit orationem eius, reduxitque eum Ierusalem in regnum suum, et cognovit Manasses quod Dominus ipse esset Deus.",
+        "VulgConte (2009)": "Deprecatusque est eum, et obsecravit intente: et exaudivit orationem eius, reduxitque eum Ierusalem in regnum suum, et cognovit Manasses quod Dominus ipse esset Deus.",
+        "VulgSistina (1590)": "Deprecatusque est eum, et obsecravit intente: et exaudivit orationem eius, reduxitque eum Ierusalem in regnum suum, et cognovit Manasses quod Dominus ipse esset Deus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73331,
+      "verse": 14,
+      "critical_text": "Post hæc ædificavit murum extra civitatem David ad occidentem Gihon in convalle, ab introitu portæ piscium per circuitum usque ad Ophel, et exaltavit illum vehementer: constituitque principes exercitus in cunctis civitatibus Juda munitis:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Post hæc ædificavit murum extra civitatem David ad occidentem Gihon in convalle, ab introitu portæ piscium per circuitum usque ad Ophel, et exaltavit illum vehementer: constituitque principes exercitus in cunctis civitatibus Juda munitis:",
+        "Clem-Saints": "Post hæc ædificavit murum extra civitatem David ad occidentem Gihon in convalle, ab introitu portæ piscium per circuitum usque ad Ophel, et exaltavit illum vehementer: constituitque principes exercitus in cunctis civitatibus Juda munitis:",
+        "VulgHetzenauer (1906)": "Post hæc ædificavit murum extra civitatem David ad Occidentem Gihon in convalle, ab introitu portæ piscium per circuitum usque ad Ophel, et exaltavit illum vehementer: constituitque principes exercitus in cunctis civitatibus Iuda munitis:",
+        "VulgConte (2009)": "Post hæc ædificavit murum extra civitatem David ad Occidentem Gihon in convalle, ab introitu portæ piscium per circuitum usque ad Ophel, et exaltavit illum vehementer: constituitque principes exercitus in cunctis civitatibus Iuda munitis:",
+        "VulgSistina (1590)": "Post haec aedificavit murum extra civitatem David ad Occidentem Gihon in convalle, ab introitu portae piscium per circuitum usque ad Ophel, et exaltavit illum vehementer: constituitque principes exercitus in cunctis civitatibus Iuda munitis:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73332,
+      "verse": 15,
+      "critical_text": "et abstulit deos alienos, et simulacrum de domo Domini: aras quoque, quas fecerat in monte domus Domini et in Jerusalem: et projecit omnia extra urbem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et abstulit deos alienos, et simulacrum de domo Domini: aras quoque, quas fecerat in monte domus Domini et in Jerusalem: et projecit omnia extra urbem.",
+        "Clem-Saints": "et abstulit deos alienos, et simulacrum de domo Domini: aras quoque, quas fecerat in monte domus Domini et in Jerusalem: et projecit omnia extra urbem.",
+        "VulgHetzenauer (1906)": "et abstulit deos alienos, et simulacrum de domo Domini: aras quoque, quas fecerat in monte domus Domini, et in Ierusalem, et proiecit omnia extra urbem.",
+        "VulgConte (2009)": "et abstulit deos alienos, et simulacrum de domo Domini: aras quoque, quas fecerat in monte domus Domini, et in Ierusalem, et proiecit omnia extra urbem.",
+        "VulgSistina (1590)": "et abstulit deos alienos, et simulacrum de domo Domini: aras quoque, quas fecerat in monte domus Domini, et in Ierusalem, et proiecit omnia extra urbem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73333,
+      "verse": 16,
+      "critical_text": "Porro instauravit altare Domini, et immolavit super illud victimas, et pacifica, et laudem: præcepitque Judæ ut serviret Domino Deo Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Porro instauravit altare Domini, et immolavit super illud victimas, et pacifica, et laudem: præcepitque Judæ ut serviret Domino Deo Israël.",
+        "Clem-Saints": "Porro instauravit altare Domini, et immolavit super illud victimas, et pacifica, et laudem: præcepitque Judæ ut serviret Domino Deo Israël.",
+        "VulgHetzenauer (1906)": "Porro instauravit altare Domini, et immolavit super illud victimas, et pacifica, et laudem: præcepitque Iudæ ut serviret Domino Deo Israel.",
+        "VulgConte (2009)": "Porro instauravit altare Domini, et immolavit super illud victimas, et pacifica, et laudem: præcepitque Iudæ ut serviret Domino Deo Israel.",
+        "VulgSistina (1590)": "Porro instauravit altare Domini, et immolavit super illud victimas, et pacifica, et laudem: praecepitque Iuda ut serviret Domino Deo Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Judæ",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Iuda",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 14,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iudae",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73334,
+      "verse": 17,
+      "critical_text": "Attamen adhuc populus immolabat in excelsis Domino Deo suo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Attamen adhuc populus immolabat in excelsis Domino Deo suo.",
+        "Clem-Saints": "Attamen adhuc populus immolabat in excelsis Domino Deo suo.",
+        "VulgHetzenauer (1906)": "Attamen adhuc populus immolabat in excelsis Domino Deo suo.",
+        "VulgConte (2009)": "Attamen adhuc populus immolabat in excelsis Domino Deo suo.",
+        "VulgSistina (1590)": "Attamen adhuc populus immolabat in excelsis Domino Deo suo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73335,
+      "verse": 18,
+      "critical_text": "Reliqua autem gestorum Manasse, et obsecratio ejus ad Deum suum, verba quoque videntium qui loquebantur ad eum in nomine Domini Dei Israël, continentur in sermonibus regum Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Reliqua autem gestorum Manasse, et obsecratio ejus ad Deum suum, verba quoque videntium qui loquebantur ad eum in nomine Domini Dei Israël, continentur in sermonibus regum Israël.",
+        "Clem-Saints": "Reliqua autem gestorum Manasse, et obsecratio ejus ad Deum suum, verba quoque videntium qui loquebantur ad eum in nomine Domini Dei Israël, continentur in sermonibus regum Israël.",
+        "VulgHetzenauer (1906)": "Reliqua autem gestorum Manasse: et obsecratio eius ad Deum suum: verba quoque Videntium, qui loquebantur ad eum in nomine Domini Dei Israel, continentur in sermonibus regum Israel.",
+        "VulgConte (2009)": "Reliqua autem gestorum Manasse: et obsecratio eius ad Deum suum: verba quoque Videntium, qui loquebantur ad eum in nomine Domini Dei Israel, continentur in sermonibus regum Israel.",
+        "VulgSistina (1590)": "Reliqua autem gestorum Manasse: et obsecratio eius ad Deum suum: verba quoque Videntium, qui loquebantur ad eum in nomine Domini Dei Israel, continentur in sermonibus regum Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73336,
+      "verse": 19,
+      "critical_text": "Oratio quoque ejus et exauditio, et cuncta peccata atque contemptus, loca etiam in quibus ædificavit excelsa, et fecit lucos et statuas antequam ageret pœnitentiam, scripta sunt in sermonibus Hozai.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Oratio quoque ejus et exauditio, et cuncta peccata atque contemptus, loca etiam in quibus ædificavit excelsa, et fecit lucos et statuas antequam ageret pœnitentiam, scripta sunt in sermonibus Hozai.",
+        "Clem-Saints": "Oratio quoque ejus et exauditio, et cuncta peccata atque contemptus, loca etiam in quibus ædificavit excelsa, et fecit lucos et statuas antequam ageret pœnitentiam, scripta sunt in sermonibus Hozai.",
+        "VulgHetzenauer (1906)": "Oratio quoque eius et exauditio, et cuncta peccata, atque contemptus, loca etiam, in quibus ædificavit excelsa, et fecit lucos, et statuas antequam ageret pœnitentiam, scripta sunt in sermonibus Hozai.",
+        "VulgConte (2009)": "Oratio quoque eius et exauditio, et cuncta peccata, atque contemptus, loca etiam, in quibus ædificavit excelsa, et fecit lucos, et statuas antequam ageret pœnitentiam, scripta sunt in sermonibus Hozai.",
+        "VulgSistina (1590)": "Oratio quoque eius et exauditio, et cuncta peccata, atque contemptus, loca etiam, in quibus aedificavit excelsa, et fecit lucos, et statuas antequam ageret poenitentiam, scripta sunt in sermonibus Hozai."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73337,
+      "verse": 20,
+      "critical_text": "Dormivit ergo Manasses cum patribus suis, et sepelierunt eum in domo sua: regnavitque pro eo filius ejus Amon.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dormivit ergo Manasses cum patribus suis, et sepelierunt eum in domo sua: regnavitque pro eo filius ejus Amon.",
+        "Clem-Saints": "Dormivit ergo Manasses cum patribus suis, et sepelierunt eum in domo sua: regnavitque pro eo filius ejus Amon.",
+        "VulgHetzenauer (1906)": "Dormivit ergo Manasses cum patribus suis, et sepelierunt eum in domo sua: regnavitque pro eo filius eius Amon.",
+        "VulgConte (2009)": "Dormivit ergo Manasses cum patribus suis, et sepelierunt eum in domo sua: regnavitque pro eo filius eius Amon.",
+        "VulgSistina (1590)": "Dormivit ergo Manasses cum patribus suis, et sepelierunt eum in domo sua: regnavitque pro eo filius eius Amon."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73338,
+      "verse": 21,
+      "critical_text": "Viginti duorum annorum erat Amon cum regnare cœpisset, et duobus annis regnavit in Jerusalem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Viginti duorum annorum erat Amon cum regnare cœpisset, et duobus annis regnavit in Jerusalem.",
+        "Clem-Saints": "Viginti duorum annorum erat Amon cum regnare cœpisset, et duobus annis regnavit in Jerusalem.",
+        "VulgHetzenauer (1906)": "Vigintiduorum annorum erat Amon cum regnare cœpisset, et duobus annis regnavit in Ierusalem.",
+        "VulgConte (2009)": "Viginti duorum annorum erat Amon cum regnare cœpisset, et duobus annis regnavit in Ierusalem.",
+        "VulgSistina (1590)": "Vigintiduorum annorum erat Amon cum regnare coepisset, et duobus annis regnavit in Ierusalem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Viginti duorum / Vigintiduorum",
+            "Viginti duorum / Vigintiduorum"
+          ],
+          "witnesses": [
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73339,
+      "verse": 22,
+      "critical_text": "Fecitque malum in conspectu Domini, sicut fecerat Manasses pater ejus: et cunctis idolis quæ Manasses fuerat fabricatus, immolavit atque servivit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fecitque malum in conspectu Domini, sicut fecerat Manasses pater ejus: et cunctis idolis quæ Manasses fuerat fabricatus, immolavit atque servivit.",
+        "Clem-Saints": "Fecitque malum in conspectu Domini, sicut fecerat Manasses pater ejus: et cunctis idolis quæ Manasses fuerat fabricatus, immolavit atque servivit.",
+        "VulgHetzenauer (1906)": "Fecitque malum in conspectu Domini, sicut fecerat Manasses pater eius: et cunctis idolis, quæ Manasses fuerat fabricatus, immolavit atque servivit.",
+        "VulgConte (2009)": "Fecitque malum in conspectu Domini, sicut fecerat Manasses pater eius: et cunctis idolis, quæ Manasses fuerat fabricatus, immolavit atque servivit.",
+        "VulgSistina (1590)": "Fecitque malum in conspectu Domini, sicut fecerat Manasses pater eius: et cunctis idolis, quae Manasses fuerat fabricatus, immolavit atque servivit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73340,
+      "verse": 23,
+      "critical_text": "Et non est reveritus faciem Domini, sicut reveritus est Manasses pater ejus, et multo majora deliquit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et non est reveritus faciem Domini, sicut reveritus est Manasses pater ejus, et multo majora deliquit.",
+        "Clem-Saints": "Et non est reveritus faciem Domini, sicut reveritus est Manasses pater ejus, et multo majora deliquit.",
+        "VulgHetzenauer (1906)": "Et non est reveritus faciem Domini, sicut reveritus est Manasses pater eius: et multo maiora deliquit.",
+        "VulgConte (2009)": "Et non est reveritus faciem Domini, sicut reveritus est Manasses pater eius: et multo maiora deliquit.",
+        "VulgSistina (1590)": "Et non est reveritus faciem Domini, sicut reveritus est Manasses pater eius: et multo maiora deliquit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73341,
+      "verse": 24,
+      "critical_text": "Cumque conjurassent adversus eum servi sui, interfecerunt eum in domo sua.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque conjurassent adversus eum servi sui, interfecerunt eum in domo sua.",
+        "Clem-Saints": "Cumque conjurassent adversus eum servi sui, interfecerunt eum in domo sua.",
+        "VulgHetzenauer (1906)": "Cumque coniurassent adversus eum servi sui, interfecerunt eum in domo sua.",
+        "VulgConte (2009)": "Cumque coniurassent adversus eum servi sui, interfecerunt eum in domo sua.",
+        "VulgSistina (1590)": "Cumque coniurassent adversus eum servi sui, interfecerunt eum in domo sua."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73342,
+      "verse": 25,
+      "critical_text": "Porro reliqua populi multitudo, cæsis iis qui Amon percusserant, constituit regem Josiam filium ejus pro eo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Porro reliqua populi multitudo, cæsis iis qui Amon percusserant, constituit regem Josiam filium ejus pro eo.",
+        "Clem-Saints": "Porro reliqua populi multitudo, cæsis iis qui Amon percusserant, constituit regem Josiam filium ejus pro eo.",
+        "VulgHetzenauer (1906)": "Porro reliqua populi multitudo, cæsis iis, qui Amon percusserant, constituit regem Iosiam filium eius pro eo.",
+        "VulgConte (2009)": "Porro reliqua populi multitudo, cæsis iis, qui Amon percusserant, constituit regem Iosiam filium eius pro eo.",
+        "VulgSistina (1590)": "Porro reliqua populi multitudo, caesis iis, qui Amon percusserant, constituit regem Iosiam filium eius pro eo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

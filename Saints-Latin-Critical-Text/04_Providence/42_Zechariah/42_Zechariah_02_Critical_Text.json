@@ -1,0 +1,740 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "04_Providence",
+  "book_slug": "zechariah",
+  "book_title": "Zechariah",
+  "usfm_code": "ZEC",
+  "chapter": 2,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:18:19Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "Clem1598-USFX: 17 verse(s) re-aligned by content (1←1:18, 2←1:19, 3←1:20, 4←1:21, 5←2:1, 6←2:2…)",
+    "VulgHetzenauer (1906): 17 verse(s) re-aligned by content (1←1:18, 2←1:19, 3←1:20, 4←1:21, 5←2:1, 6←2:2…)",
+    "VulgConte (2009): 17 verse(s) re-aligned by content (1←1:18, 2←1:19, 3←1:20, 4←1:21, 5←2:1, 6←2:2…)",
+    "VulgSistina (1590): 17 verse(s) re-aligned by content (1←1:18, 2←1:19, 3←1:20, 4←1:21, 5←2:1, 6←2:2…)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 87740,
+      "verse": 1,
+      "critical_text": "Et levavi oculos meos, et vidi, et ecce quatuor cornua.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et levavi oculos meos, et vidi, et ecce quatuor cornua.",
+        "Clem-Saints": "Et levavi oculos meos, et vidi, et ecce quatuor cornua.",
+        "VulgHetzenauer (1906)": "Et levavi oculos meos, et vidi: et ecce quattuor cornua.",
+        "VulgConte (2009)": "Et levavi oculos meos, et vidi: et ecce quattuor cornua.",
+        "VulgSistina (1590)": "Et levavi oculos meos, et vidi: et ecce quattuor cornua."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "1:18",
+        "VulgHetzenauer (1906)": "1:18",
+        "VulgConte (2009)": "1:18",
+        "VulgSistina (1590)": "1:18"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:18 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87741,
+      "verse": 2,
+      "critical_text": "Et dixi ad angelum qui loquebatur in me: Quid sunt hæc? Et dixit ad me: Hæc sunt cornua quæ ventilaverunt Judam, et Israël, et Jerusalem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixi ad angelum qui loquebatur in me: Quid sunt hæc? Et dixit ad me: Hæc sunt cornua quæ ventilaverunt Judam, et Israël, et Jerusalem.",
+        "Clem-Saints": "Et dixi ad angelum qui loquebatur in me: Quid sunt hæc? Et dixit ad me: Hæc sunt cornua quæ ventilaverunt Judam, et Israël, et Jerusalem.",
+        "VulgHetzenauer (1906)": "Et dixi ad angelum, qui loquebatur in me: Quid sunt hæc? Et dixit ad me: Hæc sunt cornua, quæ ventilaverunt Iudam, et Israel, et Ierusalem.",
+        "VulgConte (2009)": "Et dixi ad angelum, qui loquebatur in me: Quid sunt hæc? Et dixit ad me: Hæc sunt cornua, quæ ventilaverunt Iudam, et Israel, et Ierusalem.",
+        "VulgSistina (1590)": "Et dixi ad angelum, qui loquebatur in me: Quid sunt haec? Et dixit ad me: Haec sunt cornua, quae ventilaverunt Iuda, et Israel, et Ierusalem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "1:19",
+        "VulgHetzenauer (1906)": "1:19",
+        "VulgConte (2009)": "1:19",
+        "VulgSistina (1590)": "1:19"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Judam,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Iuda,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 20,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iudam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:19 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87742,
+      "verse": 3,
+      "critical_text": "Et ostendit mihi Dominus quatuor fabros.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ostendit mihi Dominus quatuor fabros.",
+        "Clem-Saints": "Et ostendit mihi Dominus quatuor fabros.",
+        "VulgHetzenauer (1906)": "Et ostendit mihi Dominus quattuor fabros.",
+        "VulgConte (2009)": "Et ostendit mihi Dominus quattuor fabros.",
+        "VulgSistina (1590)": "Et ostendit mihi Dominus quattuor fabros."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "1:20",
+        "VulgHetzenauer (1906)": "1:20",
+        "VulgConte (2009)": "1:20",
+        "VulgSistina (1590)": "1:20"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:20 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87743,
+      "verse": 4,
+      "critical_text": "Et dixi: Quid isti veniunt facere? Qui ait, dicens: Hæc sunt cornua quæ ventilaverunt Judam per singulos viros, et nemo eorum levavit caput suum: et venerunt isti deterrere ea, ut dejiciant cornua gentium, quæ levaverunt cornu super terram Juda ut dispergerent eam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixi: Quid isti veniunt facere? Qui ait, dicens: Hæc sunt cornua quæ ventilaverunt Judam per singulos viros, et nemo eorum levavit caput suum: et venerunt isti deterrere ea, ut dejiciant cornua gentium, quæ levaverunt cornu super terram Juda ut dispergerent eam.",
+        "Clem-Saints": "Et dixi: Quid isti veniunt facere? Qui ait, dicens: Hæc sunt cornua quæ ventilaverunt Judam per singulos viros, et nemo eorum levavit caput suum: et venerunt isti deterrere ea, ut dejiciant cornua gentium, quæ levaverunt cornu super terram Juda ut dispergerent eam.",
+        "VulgHetzenauer (1906)": "Et dixi: Quid isti veniunt facere? Qui ait, dicens: Hæc sunt cornua, quæ ventilaverunt Iudam per singulos viros, et nemo eorum levavit caput suum: et venerunt isti deterrere ea, ut deiiciant cornua gentium, quæ levaverunt cornu super terram Iuda ut dispergerent eam.",
+        "VulgConte (2009)": "Et dixi: Quid isti veniunt facere? Qui ait, dicens: Hæc sunt cornua, quæ ventilaverunt Iudam per singulos viros, et nemo eorum levavit caput suum: et venerunt isti deterrere ea, ut deiiciant cornua Gentium, quæ levaverunt cornu super terram Iuda ut dispergerent eam.",
+        "VulgSistina (1590)": "Et dixi: Quid isti veniunt facere? Qui ait, dicens: Haec sunt cornua, quae ventilaverunt Iuda per singulos viros, et nemo eorum levavit caput suum: et venerunt isti deterrere ea, ut deiiciant cornua gentium, quae levaverunt cornu super terram Iuda ut dispergerent eam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "1:21",
+        "VulgHetzenauer (1906)": "1:21",
+        "VulgConte (2009)": "1:21",
+        "VulgSistina (1590)": "1:21"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Judam",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Iuda",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 14,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iudam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:21 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87744,
+      "verse": 5,
+      "critical_text": "Et levavi oculos meos, et vidi, et ecce vir, et in manu ejus funiculus mensorum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et levavi oculos meos, et vidi, et ecce vir, et in manu ejus funiculus mensorum.",
+        "Clem-Saints": "Et levavi oculos meos, et vidi, et ecce vir, et in manu ejus funiculus mensorum.",
+        "VulgHetzenauer (1906)": "Et levavi oculos meos, et vidi: et ecce vir, et in manu eius funiculus mensorum.",
+        "VulgConte (2009)": "Et levavi oculos meos, et vidi: et ecce vir, et in manu eius funiculus mensorum.",
+        "VulgSistina (1590)": "Et levavi oculos meos, et vidi: et ecce vir, et in manu eius funiculus mensorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "2:1",
+        "VulgHetzenauer (1906)": "2:1",
+        "VulgConte (2009)": "2:1",
+        "VulgSistina (1590)": "2:1"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 2:1 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87745,
+      "verse": 6,
+      "critical_text": "Et dixi: Quo tu vadis? Et dixit ad me: Ut metiar Jerusalem, et videam quanta sit latitudo ejus, et quanta longitudo ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixi: Quo tu vadis? Et dixit ad me: Ut metiar Jerusalem, et videam quanta sit latitudo ejus, et quanta longitudo ejus.",
+        "Clem-Saints": "Et dixi: Quo tu vadis? Et dixit ad me: Ut metiar Jerusalem, et videam quanta sit latitudo ejus, et quanta longitudo ejus.",
+        "VulgHetzenauer (1906)": "Et dixi: Quo tu vadis? Et dixit ad me: Ut metiar Ierusalem, et videam quanta sit latitudo eius, et quanta longitudo eius.",
+        "VulgConte (2009)": "Et dixi: Quo tu vadis? Et dixit ad me: Ut metiar Ierusalem, et videam quanta sit latitudo eius, et quanta longitudo eius.",
+        "VulgSistina (1590)": "Et dixi: Quo tu vadis? Et dixit ad me: Ut metiar Ierusalem, et videam quanta sit latitudo eius, et quanta longitudo eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "2:2",
+        "VulgHetzenauer (1906)": "2:2",
+        "VulgConte (2009)": "2:2",
+        "VulgSistina (1590)": "2:2"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 2:2 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87746,
+      "verse": 7,
+      "critical_text": "Et ecce angelus qui loquebatur in me egrediebatur, et angelus alius egrediebatur in occursum ejus:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ecce angelus qui loquebatur in me egrediebatur, et angelus alius egrediebatur in occursum ejus:",
+        "Clem-Saints": "Et ecce angelus qui loquebatur in me egrediebatur, et angelus alius egrediebatur in occursum ejus:",
+        "VulgHetzenauer (1906)": "Et ecce angelus, qui loquebatur in me, egrediebatur, et angelus alius egrediebatur in occursum eius.",
+        "VulgConte (2009)": "Et ecce angelus, qui loquebatur in me, egrediebatur, et angelus alius egrediebatur in occursum eius.",
+        "VulgSistina (1590)": "Et ecce angelus, qui loquebatur in me, egrediebatur, et angelus alius egrediebatur in occursum eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "2:3",
+        "VulgHetzenauer (1906)": "2:3",
+        "VulgConte (2009)": "2:3",
+        "VulgSistina (1590)": "2:3"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 2:3 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87747,
+      "verse": 8,
+      "critical_text": "et dixit ad eum: Curre, loquere ad puerum istum, dicens: Absque muro habitabitur Jerusalem, præ multitudine hominum et jumentorum in medio ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et dixit ad eum: Curre, loquere ad puerum istum, dicens: Absque muro habitabitur Jerusalem, præ multitudine hominum et jumentorum in medio ejus.",
+        "Clem-Saints": "et dixit ad eum: Curre, loquere ad puerum istum, dicens: Absque muro habitabitur Jerusalem, præ multitudine hominum et jumentorum in medio ejus.",
+        "VulgHetzenauer (1906)": "Et dixit ad eum: Curre, loquere ad puerum istum, dicens: Absque muro habitabitur Ierusalem præ multitudine hominum, et iumentorum in medio eius.",
+        "VulgConte (2009)": "Et dixit ad eum: Curre, loquere ad puerum istum, dicens: Absque muro habitabitur Ierusalem præ multitudine hominum, et iumentorum in medio eius.",
+        "VulgSistina (1590)": "Et dixit ad eum: Curre, loquere ad puerum istum, dicens: Absque muro habitabitur Ierusalem prae multitudine hominum, et iumentorum in medio eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "2:4",
+        "VulgHetzenauer (1906)": "2:4",
+        "VulgConte (2009)": "2:4",
+        "VulgSistina (1590)": "2:4"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 2:4 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87748,
+      "verse": 9,
+      "critical_text": "Et ego ero ei, ait Dominus, murus ignis in circuitu, et in gloria ero in medio ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ego ero ei, ait Dominus, murus ignis in circuitu, et in gloria ero in medio ejus.",
+        "Clem-Saints": "Et ego ero ei, ait Dominus, murus ignis in circuitu, et in gloria ero in medio ejus.",
+        "VulgHetzenauer (1906)": "Et ego ero ei, ait Dominus, murus ignis in circuitu: et in gloria ero in medio eius.",
+        "VulgConte (2009)": "Et ego ero ei, ait Dominus, murus ignis in circuitu: et in gloria ero in medio eius.",
+        "VulgSistina (1590)": "Et ego ero ei, ait Dominus, murus ignis in circuitu: et in gloria ero in medio eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "2:5",
+        "VulgHetzenauer (1906)": "2:5",
+        "VulgConte (2009)": "2:5",
+        "VulgSistina (1590)": "2:5"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 2:5 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87749,
+      "verse": 10,
+      "critical_text": "O, o, fugite de terra aquilonis, dicit Dominus, quoniam in quatuor ventos cæli dispersi vos, dicit Dominus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "O, o, fugite de terra aquilonis, dicit Dominus, quoniam in quatuor ventos cæli dispersi vos, dicit Dominus.",
+        "Clem-Saints": "O, o, fugite de terra aquilonis, dicit Dominus, quoniam in quatuor ventos cæli dispersi vos, dicit Dominus.",
+        "VulgHetzenauer (1906)": "O, o fugite de terra Aquilonis, dicit Dominus: quoniam in quattuor ventos cæli dispersi vos, dicit Dominus.",
+        "VulgConte (2009)": "O, o fugite de terra Aquilonis, dicit Dominus: quoniam in quattuor ventos cæli dispersi vos, dicit Dominus.",
+        "VulgSistina (1590)": "O, o fugite de terra Aquilonis, dicit Dominus: quoniam in quattuor ventos caeli dispersi vos, dicit Dominus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "2:6",
+        "VulgHetzenauer (1906)": "2:6",
+        "VulgConte (2009)": "2:6",
+        "VulgSistina (1590)": "2:6"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 2:6 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87750,
+      "verse": 11,
+      "critical_text": "O Sion! fuge, quæ habitas apud filiam Babylonis:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "O Sion! fuge, quæ habitas apud filiam Babylonis:",
+        "Clem-Saints": "O Sion! fuge, quæ habitas apud filiam Babylonis:",
+        "VulgHetzenauer (1906)": "O Sion, fuge quæ habitas apud filiam Babylonis:",
+        "VulgConte (2009)": "O Sion, fuge quæ habitas apud filiam Babylonis:",
+        "VulgSistina (1590)": "O Sion, fuge quae habitas apud filiam Babylonis:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "2:7",
+        "VulgHetzenauer (1906)": "2:7",
+        "VulgConte (2009)": "2:7",
+        "VulgSistina (1590)": "2:7"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 2:7 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87751,
+      "verse": 12,
+      "critical_text": "quia hæc dicit Dominus exercituum: Post gloriam misit me ad gentes quæ spoliaverunt vos: qui enim tetigerit vos, tangit pupillam oculi mei:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quia hæc dicit Dominus exercituum: Post gloriam misit me ad gentes quæ spoliaverunt vos: qui enim tetigerit vos, tangit pupillam oculi mei:",
+        "Clem-Saints": "quia hæc dicit Dominus exercituum: Post gloriam misit me ad gentes quæ spoliaverunt vos: qui enim tetigerit vos, tangit pupillam oculi mei:",
+        "VulgHetzenauer (1906)": "quia hæc dicit Dominus exercituum: Post gloriam misit me ad gentes, quæ spoliaverunt vos: qui enim tetigerit vos, tangit pupillam oculi mei:",
+        "VulgConte (2009)": "quia hæc dicit Dominus exercituum: Post gloriam misit me ad Gentes, quæ spoliaverunt vos: qui enim tetigerit vos, tangit pupillam oculi mei:",
+        "VulgSistina (1590)": "quia haec dicit Dominus exercituum: Post gloriam misit me ad gentes, quae spoliaverunt vos: qui enim tetigerit vos, tangit pupillam oculi mei:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "2:8",
+        "VulgHetzenauer (1906)": "2:8",
+        "VulgConte (2009)": "2:8",
+        "VulgSistina (1590)": "2:8"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 2:8 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87752,
+      "verse": 13,
+      "critical_text": "quia ecce ego levo manum meam super eos, et erunt prædæ his qui serviebant sibi: et cognoscetis quia Dominus exercituum misit me.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quia ecce ego levo manum meam super eos, et erunt prædæ his qui serviebant sibi: et cognoscetis quia Dominus exercituum misit me.",
+        "Clem-Saints": "quia ecce ego levo manum meam super eos, et erunt prædæ his qui serviebant sibi: et cognoscetis quia Dominus exercituum misit me.",
+        "VulgHetzenauer (1906)": "quia ecce ego levo manum meam super eos, et erunt prædæ his, qui serviebant sibi: et cognoscetis quia Dominus exercituum misit me.",
+        "VulgConte (2009)": "quia ecce ego levo manum meam super eos, et erunt prædæ his, qui serviebant sibi: et cognoscetis quia Dominus exercituum misit me.",
+        "VulgSistina (1590)": "quia ecce ego levo manum meam super eos, et erunt praedae his, qui serviebant sibi: et cognoscetis quia Dominus exercituum misit me."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "2:9",
+        "VulgHetzenauer (1906)": "2:9",
+        "VulgConte (2009)": "2:9",
+        "VulgSistina (1590)": "2:9"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 2:9 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87753,
+      "verse": 14,
+      "critical_text": "Lauda et lætare, filia Sion, quia ecce ego venio, et habitabo in medio tui, ait Dominus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Lauda et lætare, filia Sion, quia ecce ego venio, et habitabo in medio tui, ait Dominus.",
+        "Clem-Saints": "Lauda et lætare, filia Sion, quia ecce ego venio, et habitabo in medio tui, ait Dominus.",
+        "VulgHetzenauer (1906)": "Lauda, et lætare filia Sion: quia ecce ego venio, et habitabo in medio tui, ait Dominus.",
+        "VulgConte (2009)": "Lauda, et lætare filia Sion: quia ecce ego venio, et habitabo in medio tui, ait Dominus.",
+        "VulgSistina (1590)": "Lauda, et laetare filia Sion: quia ecce ego venio, et habitabo in medio tui, ait Dominus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "2:10",
+        "VulgHetzenauer (1906)": "2:10",
+        "VulgConte (2009)": "2:10",
+        "VulgSistina (1590)": "2:10"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 2:10 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87754,
+      "verse": 15,
+      "critical_text": "Et applicabuntur gentes multæ ad Dominum in die illa, et erunt mihi in populum, et habitabo in medio tui: et scies quia Dominus exercituum misit me ad te.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et applicabuntur gentes multæ ad Dominum in die illa, et erunt mihi in populum, et habitabo in medio tui: et scies quia Dominus exercituum misit me ad te.",
+        "Clem-Saints": "Et applicabuntur gentes multæ ad Dominum in die illa, et erunt mihi in populum, et habitabo in medio tui: et scies quia Dominus exercituum misit me ad te.",
+        "VulgHetzenauer (1906)": "Et applicabuntur Gentes multæ ad Dominum in die illa, et erunt mihi in populum, et habitabo in medio tui: et scies quia Dominus exercituum misit me ad te.",
+        "VulgConte (2009)": "Et applicabuntur gentes multæ ad Dominum in die illa, et erunt mihi in populum, et habitabo in medio tui: et scies quia Dominus exercituum misit me ad te.",
+        "VulgSistina (1590)": "Et applicabuntur Gentes multae ad Dominum in die illa, et erunt mihi in populum, et habitabo in medio tui: et scies quia Dominus exercituum misit me ad te."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "2:11",
+        "VulgHetzenauer (1906)": "2:11",
+        "VulgConte (2009)": "2:11",
+        "VulgSistina (1590)": "2:11"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 2:11 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87755,
+      "verse": 16,
+      "critical_text": "Et possidebit Dominus Judam partem suam in terra sanctificata, et eliget adhuc Jerusalem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et possidebit Dominus Judam partem suam in terra sanctificata, et eliget adhuc Jerusalem.",
+        "Clem-Saints": "Et possidebit Dominus Judam partem suam in terra sanctificata, et eliget adhuc Jerusalem.",
+        "VulgHetzenauer (1906)": "Et possidebit Dominus Iudam partem suam in terra sanctificata: et eliget adhuc Ierusalem.",
+        "VulgConte (2009)": "Et possidebit Dominus Iudam partem suam in terra sanctificata: et eliget adhuc Ierusalem.",
+        "VulgSistina (1590)": "Et possidebit Dominus Iuda partem suam in terra sanctificata: et eliget adhuc Ierusalem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "2:12",
+        "VulgHetzenauer (1906)": "2:12",
+        "VulgConte (2009)": "2:12",
+        "VulgSistina (1590)": "2:12"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Judam",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Iuda",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iudam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 2:12 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87756,
+      "verse": 17,
+      "critical_text": "Sileat omnis caro a facie Domini, quia consurrexit de habitaculo sancto suo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sileat omnis caro a facie Domini, quia consurrexit de habitaculo sancto suo.",
+        "Clem-Saints": "Sileat omnis caro a facie Domini, quia consurrexit de habitaculo sancto suo.",
+        "VulgHetzenauer (1906)": "Sileat omnis caro a facie Domini: quia consurrexit de habitaculo sancto suo.",
+        "VulgConte (2009)": "Sileat omnis caro a facie Domini: quia consurrexit de habitaculo sancto suo.",
+        "VulgSistina (1590)": "Sileat omnis caro a facie Domini: quia consurrexit de habitaculo sancto suo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "2:13",
+        "VulgHetzenauer (1906)": "2:13",
+        "VulgConte (2009)": "2:13",
+        "VulgSistina (1590)": "2:13"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 2:13 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

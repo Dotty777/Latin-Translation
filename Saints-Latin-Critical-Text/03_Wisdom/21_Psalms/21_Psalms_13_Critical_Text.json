@@ -1,0 +1,316 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "psalms",
+  "book_title": "Psalms",
+  "usfm_code": "PSA",
+  "chapter": 13,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:16Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "VulgConte (2009): 13:5 folded into verse 3 (the reference prints these words there)",
+    "VulgConte (2009): 13:6 folded into verse 3 (the reference prints these words there)",
+    "VulgConte (2009): 13:3 folded into verse 3 (the reference prints these words there)",
+    "VulgConte (2009): 13:7 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 1 verse(s) re-aligned by content (3←13:4)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 76984,
+      "verse": 1,
+      "critical_text": "In finem. Psalmus David. Dixit insipiens in corde suo: Non est Deus. Corrupti sunt, et abominabiles facti sunt in studiis suis; non est qui faciat bonum, non est usque ad unum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In finem. Psalmus David. Dixit insipiens in corde suo: Non est Deus. Corrupti sunt, et abominabiles facti sunt in studiis suis; non est qui faciat bonum, non est usque ad unum.",
+        "Clem-Saints": "In finem. Psalmus David. Dixit insipiens in corde suo: Non est Deus. Corrupti sunt, et abominabiles facti sunt in studiis suis; non est qui faciat bonum, non est usque ad unum.",
+        "VulgHetzenauer (1906)": "In finem, Psalmus David. Dixit insipiens in corde suo: Non est Deus. Corrupti sunt, et abominabiles facti sunt in studiis suis: non est qui faciat bonum, non est usque ad unum.",
+        "VulgConte (2009)": "In finem, Psalmus David. Dixit insipiens in corde suo: Non est Deus. Corrupti sunt, et abominabiles facti sunt in studiis suis: non est qui faciat bonum, non est usque ad unum.",
+        "VulgSistina (1590)": "Psalmus David, in finem. Dixit insipiens in corde suo: Non est Deus. Corrupti sunt, et abominabiles facti sunt in studiis suis: non est qui faciat bonum, non est usque ad unum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Psalmus David,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 0,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "Psalmus David.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 2,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "psalmus dauid",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 76985,
+      "verse": 2,
+      "critical_text": "Dominus de cælo prospexit super filios hominum, ut videat si est intelligens, aut requirens Deum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dominus de cælo prospexit super filios hominum, ut videat si est intelligens, aut requirens Deum.",
+        "Clem-Saints": "Dominus de cælo prospexit super filios hominum, ut videat si est intelligens, aut requirens Deum.",
+        "VulgHetzenauer (1906)": "Dominus de cælo prospexit super filios hominum, ut videat si est intelligens, aut requirens Deum.",
+        "VulgConte (2009)": "Dominus de cælo prospexit super filios hominum, ut videat si est intelligens, aut requirens Deum.",
+        "VulgSistina (1590)": "Dominus de caelo prospexit super filios hominum, ut videat si est intelligens, aut requirens Deum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 76986,
+      "verse": 3,
+      "critical_text": "Omnes declinaverunt, simul inutiles facti sunt. Non est qui faciat bonum, non est usque ad unum. Sepulchrum patens est guttur eorum; linguis suis dolose agebant. Venenum aspidum sub labiis eorum, quorum os maledictione et amaritudine plenum est; veloces pedes eorum ad effundendum sanguinem. Contritio et infelicitas in viis eorum, et viam pacis non cognoverunt; non est timor Dei ante oculos eorum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Omnes declinaverunt, simul inutiles facti sunt. Non est qui faciat bonum, non est usque ad unum. Sepulchrum patens est guttur eorum; linguis suis dolose agebant. Venenum aspidum sub labiis eorum, quorum os maledictione et amaritudine plenum est; veloces pedes eorum ad effundendum sanguinem. Contritio et infelicitas in viis eorum, et viam pacis non cognoverunt; non est timor Dei ante oculos eorum.",
+        "Clem-Saints": "Omnes declinaverunt, simul inutiles facti sunt. Non est qui faciat bonum, non est usque ad unum. Sepulchrum patens est guttur eorum; linguis suis dolose agebant. Venenum aspidum sub labiis eorum, quorum os maledictione et amaritudine plenum est; veloces pedes eorum ad effundendum sanguinem. Contritio et infelicitas in viis eorum, et viam pacis non cognoverunt; non est timor Dei ante oculos eorum.",
+        "VulgHetzenauer (1906)": "Omnes declinaverunt, simul inutiles facti sunt: non est qui faciat bonum, non est usque ad unum. Sepulchrum patens est guttur eorum: linguis suis dolose agebant, venenum aspidum sub labiis eorum. Quorum os maledictione et amaritudine plenum est: veloces pedes eorum ad effundendum sanguinem. Contritio et infelicitas in viis eorum, et viam pacis non cognoverunt: non est timor Dei ante oculos eorum.",
+        "VulgConte (2009)": "Omnes declinaverunt, simul inutiles facti sunt: non est qui faciat bonum, non est usque ad unum. Sepulchrum patens est guttur eorum: linguis suis dolose agebant, venenum aspidum sub labiis eorum. Quorum os maledictione et amaritudine plenum est: veloces pedes eorum ad effundendum sanguinem. Contritio et infelicitas in viis eorum, et viam pacis non cognoverunt: non est timor Dei ante oculos eorum.",
+        "VulgSistina (1590)": "Omnes declinaverunt, simul inutiles facti sunt: non est qui faciat bonum, non est usque ad unum. Sepulchrum patens est guttur eorum: linguis suis dolose agebant, venenum aspidum sub labiis eorum. Quorum os maledictione et amaritudine plenum est: veloces pedes eorum ad effundendum sanguinem. Contritio et infelicitas in viis eorum, et viam pacis non cognoverunt: non est timor Dei ante oculos eorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "13:4"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 76987,
+      "verse": 4,
+      "critical_text": "Nonne cognoscent omnes qui operantur iniquitatem, qui devorant plebem meam sicut escam panis?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nonne cognoscent omnes qui operantur iniquitatem, qui devorant plebem meam sicut escam panis?",
+        "Clem-Saints": "Nonne cognoscent omnes qui operantur iniquitatem, qui devorant plebem meam sicut escam panis?",
+        "VulgHetzenauer (1906)": "Nonne cognoscent omnes qui operantur iniquitatem, qui devorant plebem meam sicut escam panis?",
+        "VulgSistina (1590)": "Nonne cognoscent omnes qui operantur iniquitatem, qui devorant plebem meam sicut escam panis?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 76988,
+      "verse": 5,
+      "critical_text": "Dominum non invocaverunt; illic trepidaverunt timore, ubi non erat timor.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dominum non invocaverunt; illic trepidaverunt timore, ubi non erat timor.",
+        "Clem-Saints": "Dominum non invocaverunt; illic trepidaverunt timore, ubi non erat timor.",
+        "VulgHetzenauer (1906)": "Dominum non invocaverunt, illic trepidaverunt timore, ubi non erat timor.",
+        "VulgSistina (1590)": "Dominum non invocaverunt, illic trepidaverunt timore, ubi non erat timor."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 76989,
+      "verse": 6,
+      "critical_text": "Quoniam Dominus in generatione justa est: consilium inopis confudistis, quoniam Dominus spes ejus est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quoniam Dominus in generatione justa est: consilium inopis confudistis, quoniam Dominus spes ejus est.",
+        "Clem-Saints": "Quoniam Dominus in generatione justa est: consilium inopis confudistis, quoniam Dominus spes ejus est.",
+        "VulgHetzenauer (1906)": "Quoniam Dominus in generatione iusta est, consilium inopis confudistis, quoniam Dominus spes eius est.",
+        "VulgSistina (1590)": "Quoniam Dominus in generatione iusta est, consilium inopis confudistis, quoniam Dominus spes eius est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 76990,
+      "verse": 7,
+      "critical_text": "Quis dabit ex Sion salutare Israël? Cum averterit Dominus captivitatem plebis suæ, exsultabit Jacob, et lætabitur Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quis dabit ex Sion salutare Israël? Cum averterit Dominus captivitatem plebis suæ, exsultabit Jacob, et lætabitur Israël.",
+        "Clem-Saints": "Quis dabit ex Sion salutare Israël? Cum averterit Dominus captivitatem plebis suæ, exsultabit Jacob, et lætabitur Israël.",
+        "VulgHetzenauer (1906)": "Quis dabit ex Sion salutare Israel? cum averterit Dominus captivitatem plebis suæ, exultabit Iacob, et lætabitur Israel.",
+        "VulgSistina (1590)": "Quis dabit ex Sion salutare Israel? cum averterit Dominus captivitatem plebis suae, exultabit Iacob, et laetabitur Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exsultabit / exultabit",
+            "exsultabit / exultabit"
+          ],
+          "witnesses": [
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "nehemiah",
+  "book_title": "Nehemiah",
+  "usfm_code": "NEH",
+  "chapter": 1,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:02Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 73706,
+      "verse": 1,
+      "critical_text": "Verba Nehemiæ filii Helchiæ. Et factum est in mense Casleu, anno vigesimo, et ego eram in Susis castro.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Verba Nehemiæ filii Helchiæ. Et factum est in mense Casleu, anno vigesimo, et ego eram in Susis castro.",
+        "Clem-Saints": "Verba Nehemiæ filii Helchiæ. Et factum est in mense Casleu, anno vigesimo, et ego eram in Susis castro.",
+        "VulgHetzenauer (1906)": "Verba Nehemiæ filii Helchiæ. Et factum est in mense Casleu, anno vigesimo, et ego eram in Susis castro.",
+        "VulgConte (2009)": "Verba Nehemiæ filii Helchiæ. Et factum est in mense Casleu, anno vigesimo, et ego eram in Susis castro.",
+        "VulgSistina (1590)": "Verba Nehemiae filii Helchiae. Et factum est in mense Casleu, anno vigesimo, et ego eram in Susis castro."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73707,
+      "verse": 2,
+      "critical_text": "Et venit Hanani, unus de fratribus meis, ipse et viri ex Juda: et interrogavi eos de Judæis qui remanserant, et supererant de captivitate, et Jerusalem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et venit Hanani, unus de fratribus meis, ipse et viri ex Juda: et interrogavi eos de Judæis qui remanserant, et supererant de captivitate, et Jerusalem.",
+        "Clem-Saints": "Et venit Hanani, unus de fratribus meis, ipse et viri ex Juda: et interrogavi eos de Judæis qui remanserant, et supererant de captivitate, et Jerusalem.",
+        "VulgHetzenauer (1906)": "Et venit Hanani unus de fratribus meis, ipse et viri ex Iuda: et interrogavi eos de Iudæis, qui remanserant, et supererant de captivitate, et Ierusalem.",
+        "VulgConte (2009)": "Et venit Hanani unus de fratribus meis, ipse et viri ex Iuda: et interrogavi eos de Iudæis, qui remanserant, et supererant de captivitate, et Ierusalem.",
+        "VulgSistina (1590)": "Et venit Hanani unus de fratribus meis, ipse et viri Iuda: et interrogavi eos de Iudaeis, qui remanserant, et supererant de captivitate, et Ierusalem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ex",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ex",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73708,
+      "verse": 3,
+      "critical_text": "Et dixerunt mihi: Qui remanserunt, et relicti sunt de captivitate ibi in provincia, in afflictione magna sunt, et in opprobrio: et murus Jerusalem dissipatus est, et portæ ejus combustæ sunt igni.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixerunt mihi: Qui remanserunt, et relicti sunt de captivitate ibi in provincia, in afflictione magna sunt, et in opprobrio: et murus Jerusalem dissipatus est, et portæ ejus combustæ sunt igni.",
+        "Clem-Saints": "Et dixerunt mihi: Qui remanserunt, et relicti sunt de captivitate ibi in provincia, in afflictione magna sunt, et in opprobrio: et murus Jerusalem dissipatus est, et portæ ejus combustæ sunt igni.",
+        "VulgHetzenauer (1906)": "Et dixerunt mihi: Qui remanserunt, et relicti sunt de captivitate ibi in provincia, in afflictione magna sunt, et in opprobrio: et murus Ierusalem dissipatus est, et portæ eius combustæ sunt igni.",
+        "VulgConte (2009)": "Et dixerunt mihi: Qui remanserunt, et relicti sunt de captivitate ibi in provincia, in afflictione magna sunt, et in opprobrio: et murus Ierusalem dissipatus est, et portæ eius combustæ sunt igni.",
+        "VulgSistina (1590)": "Et dixerunt mihi: Qui remanserunt, et relicti sunt de captivitate ibi in provincia, in afflictione magna sunt, et in opprobrio: et murus Ierusalem dissipatus est, et portae eius combustae sunt igni."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73709,
+      "verse": 4,
+      "critical_text": "Cumque audissem verba hujuscemodi, sedi, et flevi, et luxi diebus multis: jejunabam, et orabam ante faciem Dei cæli:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque audissem verba hujuscemodi, sedi, et flevi, et luxi diebus multis: jejunabam, et orabam ante faciem Dei cæli:",
+        "Clem-Saints": "Cumque audissem verba hujuscemodi, sedi, et flevi, et luxi diebus multis: jejunabam, et orabam ante faciem Dei cæli:",
+        "VulgHetzenauer (1906)": "Cumque audissem verba huiuscemodi, sedi, et flevi, et luxi diebus multis: ieiunabam, et orabam ante faciem Dei cæli.",
+        "VulgConte (2009)": "Cumque audissem verba huiuscemodi, sedi, et flevi, et luxi diebus multis: ieiunabam, et orabam ante faciem Dei cæli.",
+        "VulgSistina (1590)": "Cumque audissem verba huiuscemodi, sedi, et flevi, et luxi diebus multis: ieiunabam, et orabam ante faciem Dei caeli."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73710,
+      "verse": 5,
+      "critical_text": "et dixi: Quæso, Domine Deus cæli fortis, magne atque terribilis, qui custodis pactum et misericordiam cum his qui te diligunt, et custodiunt mandata tua:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et dixi: Quæso, Domine Deus cæli fortis, magne atque terribilis, qui custodis pactum et misericordiam cum his qui te diligunt, et custodiunt mandata tua:",
+        "Clem-Saints": "et dixi: Quæso, Domine Deus cæli fortis, magne atque terribilis, qui custodis pactum et misericordiam cum his qui te diligunt, et custodiunt mandata tua:",
+        "VulgHetzenauer (1906)": "Et dixi: Quæso Domine Deus cæli fortis, magne atque terribilis, qui custodis pactum et misericordiam cum his qui te diligunt, et custodiunt mandata tua:",
+        "VulgConte (2009)": "Et dixi: Quæso Domine Deus cæli fortis, magne atque terribilis, qui custodis pactum et misericordiam cum his qui te diligunt, et custodiunt mandata tua:",
+        "VulgSistina (1590)": "Et dixi: Quaeso Domine Deus caeli fortis, magne atque terribilis, qui custodis pactum et misericordiam cum his qui te diligunt, et custodiunt mandata tua:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73711,
+      "verse": 6,
+      "critical_text": "fiant aures tuæ auscultantes, et oculi tui aperti, ut audias orationem servi tui, quam ego oro coram te hodie nocte et die pro filiis Israël servis tuis: et confiteor pro peccatis filiorum Israël, quibus peccaverunt tibi: ego et domus patris mei peccavimus,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "fiant aures tuæ auscultantes, et oculi tui aperti, ut audias orationem servi tui, quam ego oro coram te hodie nocte et die pro filiis Israël servis tuis: et confiteor pro peccatis filiorum Israël, quibus peccaverunt tibi: ego et domus patris mei peccavimus,",
+        "Clem-Saints": "fiant aures tuæ auscultantes, et oculi tui aperti, ut audias orationem servi tui, quam ego oro coram te hodie nocte et die pro filiis Israël servis tuis: et confiteor pro peccatis filiorum Israël, quibus peccaverunt tibi: ego et domus patris mei peccavimus,",
+        "VulgHetzenauer (1906)": "fiant aures tuæ auscultantes, et oculi tui aperti ut audias orationem servi tui, quam ego oro coram te hodie nocte et die pro filiis Israel servis tuis: et confiteor pro peccatis filiorum Israel, quibus peccaverunt tibi: ego, et domus patris mei peccavimus,",
+        "VulgConte (2009)": "fiant aures tuæ auscultantes, et oculi tui aperti ut audias orationem servi tui, quam ego oro coram te hodie nocte et die pro filiis Israel servis tuis: et confiteor pro peccatis filiorum Israel, quibus peccaverunt tibi: ego, et domus patris mei peccavimus,",
+        "VulgSistina (1590)": "fiant aures tuae auscultantes, et oculi tui aperti ut audias orationem servi tui, quam ego oro coram te hodie nocte et die pro filiis Israel servis tuis: et confiteor pro peccatis filiorum Israel, quibus peccaverunt tibi: ego, et domus patris mei peccavimus,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73712,
+      "verse": 7,
+      "critical_text": "vanitate seducti sumus, et non custodivimus mandatum tuum, et cæremonias, et judicia quæ præcepisti Moysi famulo tuo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "vanitate seducti sumus, et non custodivimus mandatum tuum, et cæremonias, et judicia quæ præcepisti Moysi famulo tuo.",
+        "Clem-Saints": "vanitate seducti sumus, et non custodivimus mandatum tuum, et cæremonias, et judicia quæ præcepisti Moysi famulo tuo.",
+        "VulgHetzenauer (1906)": "vanitate seducti sumus, et non custodivimus mandatum tuum, et ceremonias, et iudicia quæ præcepisti Moysi famulo tuo.",
+        "VulgConte (2009)": "vanitate seducti sumus, et non custodivimus mandatum tuum, et ceremonias, et iudicia quæ præcepisti Moysi famulo tuo.",
+        "VulgSistina (1590)": "vanitate seducti sumus, et non custodivimus mandatum tuum, et ceremonias, et iudicia quae praecepisti Moysi famulo tuo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "cæremonias, / ceremonias,",
+            "cæremonias, / ceremonias,",
+            "cæremonias, / ceremonias,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73713,
+      "verse": 8,
+      "critical_text": "Memento verbi quod mandasti Moysi servo tuo, dicens: Cum transgressi fueritis, ego dispergam vos in populos:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Memento verbi quod mandasti Moysi servo tuo, dicens: Cum transgressi fueritis, ego dispergam vos in populos:",
+        "Clem-Saints": "Memento verbi quod mandasti Moysi servo tuo, dicens: Cum transgressi fueritis, ego dispergam vos in populos:",
+        "VulgHetzenauer (1906)": "Memento verbi, quod mandasti Moysi servo tuo, dicens: Cum transgressi fueritis, ego dispergam vos in populos:",
+        "VulgConte (2009)": "Memento verbi, quod mandasti Moysi servo tuo, dicens: Cum transgressi fueritis, ego dispergam vos in populos:",
+        "VulgSistina (1590)": "Memento verbi, quod mandasti Moysi servo tuo, dicens: Cum transgressi fueritis, ego dispergam vos in populos:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73714,
+      "verse": 9,
+      "critical_text": "et si revertamini ad me, et custodiatis præcepta mea, et faciatis ea: etiamsi abducti fueritis ad extrema cæli, inde congregabo vos, et reducam in locum quem elegi ut habitaret nomen meum ibi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et si revertamini ad me, et custodiatis præcepta mea, et faciatis ea: etiamsi abducti fueritis ad extrema cæli, inde congregabo vos, et reducam in locum quem elegi ut habitaret nomen meum ibi.",
+        "Clem-Saints": "et si revertamini ad me, et custodiatis præcepta mea, et faciatis ea: etiamsi abducti fueritis ad extrema cæli, inde congregabo vos, et reducam in locum quem elegi ut habitaret nomen meum ibi.",
+        "VulgHetzenauer (1906)": "et si revertamini ad me, et custodiatis præcepta mea, et faciatis ea; etiamsi abducti fueritis ad extrema cæli, inde congregabo vos, et reducam in locum, quem elegi ut habitaret nomen meum ibi.",
+        "VulgConte (2009)": "et si revertamini ad me, et custodiatis præcepta mea, et faciatis ea; etiamsi abducti fueritis ad extrema cæli, inde congregabo vos, et reducam in locum, quem elegi ut habitaret nomen meum ibi.",
+        "VulgSistina (1590)": "et si revertamini ad me, et custodiatis praecepta mea, et faciatis ea; etiamsi abducti fueritis ad extrema caeli, inde congregabo vos, et reducam in locum, quem elegi ut habitaret nomen meum ibi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73715,
+      "verse": 10,
+      "critical_text": "Et ipsi servi tui, et populus tuus, quos redemisti in fortitudine tua magna, et in manu tua valida.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ipsi servi tui, et populus tuus, quos redemisti in fortitudine tua magna, et in manu tua valida.",
+        "Clem-Saints": "Et ipsi servi tui, et populus tuus, quos redemisti in fortitudine tua magna, et in manu tua valida.",
+        "VulgHetzenauer (1906)": "Et ipsi servi tui, et populus tuus: quos redemisti in fortitudine tua magna, et in manu tua valida.",
+        "VulgConte (2009)": "Et ipsi servi tui, et populus tuus: quos redemisti in fortitudine tua magna, et in manu tua valida.",
+        "VulgSistina (1590)": "Et ipsi servi tui, et populus tuus: quos redemisti in fortitudine tua magna, et in manu tua valida."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73716,
+      "verse": 11,
+      "critical_text": "Obsecro, Domine, sit auris tua attendens ad orationem servi tui, et ad orationem servorum tuorum, qui volunt timere nomen tuum: et dirige servum tuum hodie, et da ei misericordiam ante virum hunc. Ego enim eram pincerna regis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Obsecro, Domine, sit auris tua attendens ad orationem servi tui, et ad orationem servorum tuorum, qui volunt timere nomen tuum: et dirige servum tuum hodie, et da ei misericordiam ante virum hunc. Ego enim eram pincerna regis.",
+        "Clem-Saints": "Obsecro, Domine, sit auris tua attendens ad orationem servi tui, et ad orationem servorum tuorum, qui volunt timere nomen tuum: et dirige servum tuum hodie, et da ei misericordiam ante virum hunc. Ego enim eram pincerna regis.",
+        "VulgHetzenauer (1906)": "Obsecro Domine, sit auris tua attendens ad orationem servi tui, et ad orationem servorum tuorum, qui volunt timere nomen tuum: et dirige servum tuum hodie, et da ei misericordiam ante virum hunc. ego enim eram pincerna regis.",
+        "VulgConte (2009)": "Obsecro Domine, sit auris tua attendens ad orationem servi tui, et ad orationem servorum tuorum, qui volunt timere nomen tuum: et dirige servum tuum hodie, et da ei misericordiam ante virum hunc. Ego enim eram pincerna regis.",
+        "VulgSistina (1590)": "Obsecro Domine, sit auris tua attendens ad orationem servi tui, et ad orationem servorum tuorum, qui volunt timere nomen tuum: et dirige servum tuum hodie, et da ei misericordiam ante virum hunc. ego enim eram pincerna regis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

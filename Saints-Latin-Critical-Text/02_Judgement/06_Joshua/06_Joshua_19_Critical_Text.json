@@ -1,0 +1,1674 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "joshua",
+  "book_title": "Joshua",
+  "usfm_code": "JOS",
+  "chapter": 19,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:32Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "Clem1598-USFX: 2 verse(s) re-aligned by content (47←19:48, 48←19:47)",
+    "VulgHetzenauer (1906): 2 verse(s) re-aligned by content (47←19:48, 48←19:47)",
+    "VulgConte (2009): 2 verse(s) re-aligned by content (47←19:48, 48←19:47)",
+    "VulgSistina (1590): 2 verse(s) re-aligned by content (47←19:48, 48←19:47)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 67737,
+      "verse": 1,
+      "critical_text": "Et egressa est sors secunda filiorum Simeon per cognationes suas: fuitque hæreditas",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et egressa est sors secunda filiorum Simeon per cognationes suas: fuitque hæreditas",
+        "Clem-Saints": "Et egressa est sors secunda filiorum Simeon per cognationes suas: fuitque hæreditas",
+        "VulgHetzenauer (1906)": "Et egressa est sors secunda filiorum Simeon per cognationes suas: fuitque hereditas",
+        "VulgConte (2009)": "Et egressa est sors secunda filiorum Simeon per cognationes suas: fuitque hereditas eorum",
+        "VulgSistina (1590)": "Et egressa est sors secunda filiorum Simeon per cognationes suas: fuitque hereditas"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "hæreditas",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "hereditas eorum",
+              "witnesses": [
+                "VulgConte (2009)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 11,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "haereditas",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "hæreditas / hereditas",
+            "hæreditas / hereditas"
+          ],
+          "witnesses": [
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67738,
+      "verse": 2,
+      "critical_text": "eorum in medio possessionis filiorum Juda: Bersabee et Sabee et Molada",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "eorum in medio possessionis filiorum Juda: Bersabee et Sabee et Molada",
+        "Clem-Saints": "eorum in medio possessionis filiorum Juda: Bersabee et Sabee et Molada",
+        "VulgHetzenauer (1906)": "eorum in medio possessionis filiorum Iuda: Bersabee et Sabee et Molada",
+        "VulgConte (2009)": "in medio possessionis filiorum Iuda: Bersabee et Sabee et Molada,",
+        "VulgSistina (1590)": "eorum in medio possessionis filiorum Iuda: Bersabee et Sabee et Molada"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "eorum",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgConte (2009)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "eorum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67739,
+      "verse": 3,
+      "critical_text": "et Hasersual, Bala et Asem",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Hasersual, Bala et Asem",
+        "Clem-Saints": "et Hasersual, Bala et Asem",
+        "VulgHetzenauer (1906)": "et Hasersual, Bala et Asem",
+        "VulgConte (2009)": "et Hasersual, Bala et Asem,",
+        "VulgSistina (1590)": "et Hasersual, Bala et Asem"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67740,
+      "verse": 4,
+      "critical_text": "et Eltholad, Bethul et Harma",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Eltholad, Bethul et Harma",
+        "Clem-Saints": "et Eltholad, Bethul et Harma",
+        "VulgHetzenauer (1906)": "et Eltholad, Bethul et Harma",
+        "VulgConte (2009)": "et Eltholad, Bethul et Harma,",
+        "VulgSistina (1590)": "et Eltholad, Bethul et Harma"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67741,
+      "verse": 5,
+      "critical_text": "et Siceleg et Bethmarchaboth et Hasersusa",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Siceleg et Bethmarchaboth et Hasersusa",
+        "Clem-Saints": "et Siceleg et Bethmarchaboth et Hasersusa",
+        "VulgHetzenauer (1906)": "et Siceleg et Bethmarchaboth et Hasersusa",
+        "VulgConte (2009)": "et Siceleg et Bethmarchaboth et Hasersusa,",
+        "VulgSistina (1590)": "et Siceleg et Bethmarchaboth et Hasersusa"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67742,
+      "verse": 6,
+      "critical_text": "et Bethlebaoth et Sarohen: civitates tredecim, et villæ earum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Bethlebaoth et Sarohen: civitates tredecim, et villæ earum.",
+        "Clem-Saints": "et Bethlebaoth et Sarohen: civitates tredecim, et villæ earum.",
+        "VulgHetzenauer (1906)": "et Bethlebaoth et Sarohen: civitates tredecim, et villæ earum.",
+        "VulgConte (2009)": "et Bethlebaoth et Sarohen: civitates tredecim, et villæ earum.",
+        "VulgSistina (1590)": "et Bethlebaoth et Sarohen: civitates tredecim, et villae earum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67743,
+      "verse": 7,
+      "critical_text": "Ain et Remmon et Athar et Asan: civitates quatuor, et villæ earum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ain et Remmon et Athar et Asan: civitates quatuor, et villæ earum:",
+        "Clem-Saints": "Ain et Remmon et Athar et Asan: civitates quatuor, et villæ earum:",
+        "VulgHetzenauer (1906)": "Ain et Remmon et Athar et Asan: civitates quattuor, et villæ earum:",
+        "VulgConte (2009)": "Ain et Remmon et Athar et Asan: civitates quattuor, et villæ earum:",
+        "VulgSistina (1590)": "Ain et Remmon et Athar et Asan: civitates quattuor, et villae earum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor, / quattuor,",
+            "quatuor, / quattuor,",
+            "quatuor, / quattuor,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67744,
+      "verse": 8,
+      "critical_text": "omnes viculi per circuitum urbium istarum usque ad Baalath Beer Ramath contra australem plagam. Hæc est hæreditas filiorum Simeon juxta cognationes suas,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "omnes viculi per circuitum urbium istarum usque ad Baalath Beer Ramath contra australem plagam. Hæc est hæreditas filiorum Simeon juxta cognationes suas,",
+        "Clem-Saints": "omnes viculi per circuitum urbium istarum usque ad Baalath Beer Ramath contra australem plagam. Hæc est hæreditas filiorum Simeon juxta cognationes suas,",
+        "VulgHetzenauer (1906)": "omnes viculi per circuitum urbium istarum usque ad Baalath Beer Ramath contra australem plagam. Hæc est hereditas filiorum Simeon iuxta cognationes suas,",
+        "VulgConte (2009)": "omnes viculi per circuitum urbium istarum usque ad Baalath Beer Ramath contra australem plagam. Hæc est hereditas filiorum Simeon iuxta cognationes suas,",
+        "VulgSistina (1590)": "omnes viculi per circuitum urbium istarum usque ad Baalath Beer Ramath contra australem plagam. Haec est hereditas filiorum Simeon iuxta cognationes suas,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "hæreditas / hereditas",
+            "hæreditas / hereditas",
+            "hæreditas / hereditas"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67745,
+      "verse": 9,
+      "critical_text": "in possessione et funiculo filiorum Juda: quia major erat, et idcirco filii Simeon possederunt in medio hæreditatis eorum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "in possessione et funiculo filiorum Juda: quia major erat, et idcirco filii Simeon possederunt in medio hæreditatis eorum.",
+        "Clem-Saints": "in possessione et funiculo filiorum Juda: quia major erat, et idcirco filii Simeon possederunt in medio hæreditatis eorum.",
+        "VulgHetzenauer (1906)": "in possessione et funiculo filiorum Iuda: quia maior erat. et idcirco filii Simeon possederunt in medio hereditatis eorum.",
+        "VulgConte (2009)": "in possessione et funiculo filiorum Iuda: quia maior erat, et idcirco filii Simeon possederunt in medio hereditatis eorum.",
+        "VulgSistina (1590)": "in possessione et funiculo filiorum Iuda: quia maior erat. et idcirco filii Simeon possederunt in medio hereditatis eorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "hæreditatis / hereditatis",
+            "hæreditatis / hereditatis",
+            "hæreditatis / hereditatis"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67746,
+      "verse": 10,
+      "critical_text": "Ceciditque sors tertia filiorum Zabulon per cognationes suas: factus est terminus possessionis eorum usque Sarid.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ceciditque sors tertia filiorum Zabulon per cognationes suas: factus est terminus possessionis eorum usque Sarid.",
+        "Clem-Saints": "Ceciditque sors tertia filiorum Zabulon per cognationes suas: factus est terminus possessionis eorum usque Sarid.",
+        "VulgHetzenauer (1906)": "Ceciditque sors tertia filiorum Zabulon per cognationes suas: factus est terminus possessionis eorum usque Sarid.",
+        "VulgConte (2009)": "Ceciditque sors tertia filiorum Zabulon per cognationes suas: factus est terminus possessionis eorum usque Sarid.",
+        "VulgSistina (1590)": "Ceciditque sors tertia filiorum Zabulon per cognationes suas: factus est terminus possessionis eorum usque Sarid."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67747,
+      "verse": 11,
+      "critical_text": "Ascenditque de mari et Merala, et pervenit in Debbaseth, usque ad torrentem qui est contra Jeconam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ascenditque de mari et Merala, et pervenit in Debbaseth, usque ad torrentem qui est contra Jeconam.",
+        "Clem-Saints": "Ascenditque de mari et Merala, et pervenit in Debbaseth, usque ad torrentem qui est contra Jeconam.",
+        "VulgHetzenauer (1906)": "Ascenditque de Mari et Merala, et pervenit in Debbaseth, usque ad torrentem qui est contra Ieconam.",
+        "VulgConte (2009)": "Ascenditque de mari et Merala, et pervenit in Debbaseth, usque ad torrentem qui est contra Ieconam.",
+        "VulgSistina (1590)": "Ascenditque de Mari et Medalaa, et pervenit in Debbaseth, usque ad torrentem qui est contra Ieconam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Merala,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Medalaa,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 4,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "merala",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67748,
+      "verse": 12,
+      "critical_text": "Et revertitur de Sared contra orientem in fines Ceseleththabor: et egreditur ad Dabereth, ascenditque contra Japhie.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et revertitur de Sared contra orientem in fines Ceseleththabor: et egreditur ad Dabereth, ascenditque contra Japhie.",
+        "Clem-Saints": "Et revertitur de Sared contra orientem in fines Ceseleththabor: et egreditur ad Dabereth, ascenditque contra Japhie.",
+        "VulgHetzenauer (1906)": "Et revertitur de Sared contra Orientem in fines Ceseleththabor: et egreditur ad Dabereth, ascenditque contra Iaphie.",
+        "VulgConte (2009)": "Et revertitur de Sared contra Orientem in fines Ceseleththabor: et egreditur ad Dabereth, ascenditque contra Iaphie.",
+        "VulgSistina (1590)": "Et revertitur de Sared contra Orientem in fines Ceseleththabor: et egreditur ad Dabereth, ascenditque contra Iaphie."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67749,
+      "verse": 13,
+      "critical_text": "Et inde pertransit usque ad orientalem plagam Gethepher et Thacasin: et egreditur in Remmon, Amthar et Noa.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et inde pertransit usque ad orientalem plagam Gethepher et Thacasin: et egreditur in Remmon, Amthar et Noa.",
+        "Clem-Saints": "Et inde pertransit usque ad orientalem plagam Gethepher et Thacasin: et egreditur in Remmon, Amthar et Noa.",
+        "VulgHetzenauer (1906)": "Et inde pertransit usque ad orientalem plagam Gethhepher et Thacasin: et egreditur in Remmon, Amthar et Noa.",
+        "VulgConte (2009)": "Et inde pertransit usque ad orientalem plagam Gethhepher et Thacasin: et egreditur in Remmon, Amthar et Noa.",
+        "VulgSistina (1590)": "Et inde pertransit usque ad orientalem plagam Gethhepher et Thacasin: et egreditur in Remmon, Amthar et Noa."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Gethepher / Gethhepher",
+            "Gethepher / Gethhepher",
+            "Gethepher / Gethhepher"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67750,
+      "verse": 14,
+      "critical_text": "Et circuit ad aquilonem Hanathon: suntque egressus ejus vallis Jephthaël,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et circuit ad aquilonem Hanathon: suntque egressus ejus vallis Jephthaël,",
+        "Clem-Saints": "Et circuit ad aquilonem Hanathon: suntque egressus ejus vallis Jephthaël,",
+        "VulgHetzenauer (1906)": "Et circuit ad Aquilonem Hanathon: suntque egressus eius Vallis Iephthael,",
+        "VulgConte (2009)": "Et circuit ad Aquilonem Hanathon: suntque egressus eius Vallis Iephthael,",
+        "VulgSistina (1590)": "Et circuit ad Aquilonem Hanathon: suntque egressus eius Vallis Iephthael,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67751,
+      "verse": 15,
+      "critical_text": "et Cateth et Naalol et Semeron et Jerala et Bethlehem: civitates duodecim, et villæ earum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Cateth et Naalol et Semeron et Jerala et Bethlehem: civitates duodecim, et villæ earum.",
+        "Clem-Saints": "et Cateth et Naalol et Semeron et Jerala et Bethlehem: civitates duodecim, et villæ earum.",
+        "VulgHetzenauer (1906)": "et Cateth et Naalol et Semeron et Ierala et Bethlehem: civitates duodecim, et villæ earum.",
+        "VulgConte (2009)": "et Cateth et Naalol et Semeron et Ierala et Bethlehem: civitates duodecim, et villæ earum.",
+        "VulgSistina (1590)": "et Cateth et Naalol et Semeron et Iedala et Bethlehem: civitates duodecim, et villae earum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Jerala",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Iedala",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ierala",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67752,
+      "verse": 16,
+      "critical_text": "Hæc est hæreditas tribus filiorum Zabulon per cognationes suas, urbes et viculi earum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hæc est hæreditas tribus filiorum Zabulon per cognationes suas, urbes et viculi earum.",
+        "Clem-Saints": "Hæc est hæreditas tribus filiorum Zabulon per cognationes suas, urbes et viculi earum.",
+        "VulgHetzenauer (1906)": "Hæc est hereditas tribus filiorum Zabulon per cognationes suas, urbes et viculi earum.",
+        "VulgConte (2009)": "Hæc est hereditas tribus filiorum Zabulon per cognationes suas, urbes et viculi earum.",
+        "VulgSistina (1590)": "Haec est hereditas tribus filiorum Zabulon per cognationes suas, urbes et viculi earum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "hæreditas / hereditas",
+            "hæreditas / hereditas",
+            "hæreditas / hereditas"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67753,
+      "verse": 17,
+      "critical_text": "Issachar egressa est sors quarta per cognationes suas:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Issachar egressa est sors quarta per cognationes suas:",
+        "Clem-Saints": "Issachar egressa est sors quarta per cognationes suas:",
+        "VulgHetzenauer (1906)": "Issachar egressa est sors quarta per cognationes suas.",
+        "VulgConte (2009)": "Issachar egressa est sors quarta per cognationes suas.",
+        "VulgSistina (1590)": "Issachar egressa est sors quarta per cognationes suas."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67754,
+      "verse": 18,
+      "critical_text": "fuitque ejus hæreditas Jezraël et Casaloth et Sunem",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "fuitque ejus hæreditas Jezraël et Casaloth et Sunem",
+        "Clem-Saints": "fuitque ejus hæreditas Jezraël et Casaloth et Sunem",
+        "VulgHetzenauer (1906)": "fuitque eius hereditas Iezrael et Casaloth et Sunem",
+        "VulgConte (2009)": "Fuitque eius hereditas Iezrael et Casaloth et Sunem",
+        "VulgSistina (1590)": "fuitque eius hereditas Iezrael et Casaloth et Sunem"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "hæreditas / hereditas",
+            "hæreditas / hereditas",
+            "hæreditas / hereditas"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67755,
+      "verse": 19,
+      "critical_text": "et Hapharaim et Seon, et Anaharath",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Hapharaim et Seon, et Anaharath",
+        "Clem-Saints": "et Hapharaim et Seon, et Anaharath",
+        "VulgHetzenauer (1906)": "et Hapharaim et Seon, et Anaharath",
+        "VulgConte (2009)": "et Hapharaim et Seon, et Anaharath",
+        "VulgSistina (1590)": "et Hapharaim et Seon, et Anaharath"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67756,
+      "verse": 20,
+      "critical_text": "et Rabboth et Cesion, Abes,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Rabboth et Cesion, Abes,",
+        "Clem-Saints": "et Rabboth et Cesion, Abes,",
+        "VulgHetzenauer (1906)": "et Rabboth et Cesion, Abes,",
+        "VulgConte (2009)": "et Rabboth et Cesion, Abes,",
+        "VulgSistina (1590)": "et Rabboth et Cesion, Abes,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67757,
+      "verse": 21,
+      "critical_text": "et Rameth, et Engannim, et Enhadda et Bethpheses.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Rameth, et Engannim, et Enhadda et Bethpheses.",
+        "Clem-Saints": "et Rameth, et Engannim, et Enhadda et Bethpheses.",
+        "VulgHetzenauer (1906)": "et Rameth, et Engannim, et Enhadda et Bethpheses.",
+        "VulgConte (2009)": "et Rameth, et Engannim, et Enhadda et Bethpheses.",
+        "VulgSistina (1590)": "et Rameth, et Engannim, et Enhadda et Bethpheses."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67758,
+      "verse": 22,
+      "critical_text": "Et pervenit terminus ejus usque Thabor et Sehesima et Bethsames, eruntque exitus ejus Jordanis: civitates sedecim, et villæ earum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et pervenit terminus ejus usque Thabor et Sehesima et Bethsames, eruntque exitus ejus Jordanis: civitates sedecim, et villæ earum.",
+        "Clem-Saints": "Et pervenit terminus ejus usque Thabor et Sehesima et Bethsames, eruntque exitus ejus Jordanis: civitates sedecim, et villæ earum.",
+        "VulgHetzenauer (1906)": "Et pervenit terminus eius usque Thabor et Sehesima et Bethsames: eruntque exitus eius Iordanis: civitates sedecim, et villæ earum.",
+        "VulgConte (2009)": "Et pervenit terminus eius usque Thabor et Sehesima et Bethsames: eruntque exitus eius Iordanis: civitates sedecim, et villæ earum.",
+        "VulgSistina (1590)": "Et pervenit terminus eius usque Thabor et Sehesima et Bethsames: eruntque exitus eius Iordanis: civitates sedecim, et villae earum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67759,
+      "verse": 23,
+      "critical_text": "Hæc est possessio filiorum Issachar per cognationes suas, urbes et viculi earum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hæc est possessio filiorum Issachar per cognationes suas, urbes et viculi earum.",
+        "Clem-Saints": "Hæc est possessio filiorum Issachar per cognationes suas, urbes et viculi earum.",
+        "VulgHetzenauer (1906)": "Hæc est possessio filiorum Issachar per cognationes suas, urbes, et viculi earum.",
+        "VulgConte (2009)": "Hæc est possessio filiorum Issachar per cognationes suas, urbes, et viculi earum.",
+        "VulgSistina (1590)": "Haec est possessio filiorum Issachar per cognationes suas, urbes, et viculi earum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67760,
+      "verse": 24,
+      "critical_text": "Ceciditque sors quinta tribui filiorum Aser per cognationes suas:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ceciditque sors quinta tribui filiorum Aser per cognationes suas:",
+        "Clem-Saints": "Ceciditque sors quinta tribui filiorum Aser per cognationes suas:",
+        "VulgHetzenauer (1906)": "Ceciditque sors quinta tribui filiorum Aser per cognationes suas:",
+        "VulgConte (2009)": "Ceciditque sors quinta tribui filiorum Aser per cognationes suas:",
+        "VulgSistina (1590)": "Ceciditque sors quinta tribui filiorum Aser per cognationes suas:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67761,
+      "verse": 25,
+      "critical_text": "fuitque terminus eorum Halcath et Chali et Beten et Axaph",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "fuitque terminus eorum Halcath et Chali et Beten et Axaph",
+        "Clem-Saints": "fuitque terminus eorum Halcath et Chali et Beten et Axaph",
+        "VulgHetzenauer (1906)": "fuitque terminus eorum Halcath et Chali et Beten et Axaph",
+        "VulgConte (2009)": "fuitque terminus eorum Halcath et Chali et Beten et Axaph",
+        "VulgSistina (1590)": "fuitque terminus eorum Halcath et Chali et Beten et Axaph"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67762,
+      "verse": 26,
+      "critical_text": "et Elmelech et Amaad et Messal: et pervenit usque ad Carmelum maris et Sihor et Labanath,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Elmelech et Amaad et Messal: et pervenit usque ad Carmelum maris et Sihor et Labanath,",
+        "Clem-Saints": "et Elmelech et Amaad et Messal: et pervenit usque ad Carmelum maris et Sihor et Labanath,",
+        "VulgHetzenauer (1906)": "et Elmelech et Amaad et Messal: et pervenit usque ad Carmelum maris et Sihor et Labanath.",
+        "VulgConte (2009)": "et Elmelech et Amaad et Messal: et pervenit usque ad Carmelum maris et Sihor et Labanath.",
+        "VulgSistina (1590)": "et Elmelech et Amaad et Messal: et pervenit usque ad Carmelum maris et Sihor et Labanath."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67763,
+      "verse": 27,
+      "critical_text": "ac revertitur contra orientem Bethdagon: et pertransit usque Zabulon et vallem Jephthaël contra aquilonem in Bethemec et Nehiel. Egrediturque ad lævam Cabul,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ac revertitur contra orientem Bethdagon: et pertransit usque Zabulon et vallem Jephthaël contra aquilonem in Bethemec et Nehiel. Egrediturque ad lævam Cabul,",
+        "Clem-Saints": "ac revertitur contra orientem Bethdagon: et pertransit usque Zabulon et vallem Jephthaël contra aquilonem in Bethemec et Nehiel. Egrediturque ad lævam Cabul,",
+        "VulgHetzenauer (1906)": "Ac revertitur contra orientem Bethdagon: et pertransit usque Zabulon et Vallem Iephthael contra Aquilonem in Bethemec et Nehiel. Egrediturque ad lævam Cabul,",
+        "VulgConte (2009)": "Ac revertitur contra orientem Bethdagon: et pertransit usque Zabulon et Vallem Iephthael contra Aquilonem in Bethemec et Nehiel. Egrediturque ad lævam Cabul,",
+        "VulgSistina (1590)": "Ac revertitur contra orientem Bethdagon: et pertransit usque Zabulon et Vallem Iephthael contra Aquilonem in Bethemec et Nehiel. Egrediturque ad laevam Cabul,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67764,
+      "verse": 28,
+      "critical_text": "et Abran et Rohob et Hamon et Cana, usque ad Sidonem magnam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Abran et Rohob et Hamon et Cana, usque ad Sidonem magnam.",
+        "Clem-Saints": "et Abran et Rohob et Hamon et Cana, usque ad Sidonem magnam.",
+        "VulgHetzenauer (1906)": "et Abran et Rohob et Hamon et Cana, usque ad Sidonem magnam.",
+        "VulgConte (2009)": "et Abran et Rohob et Hamon et Cana, usque ad Sidonem magnam.",
+        "VulgSistina (1590)": "et Abran et Rohob et Hamon et Cana, usque ad Sidonem magnam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67765,
+      "verse": 29,
+      "critical_text": "Revertiturque in Horma usque ad civitatem munitissimam Tyrum, et usque Hosa: eruntque exitus ejus in mare de funiculo Achziba:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Revertiturque in Horma usque ad civitatem munitissimam Tyrum, et usque Hosa: eruntque exitus ejus in mare de funiculo Achziba:",
+        "Clem-Saints": "Revertiturque in Horma usque ad civitatem munitissimam Tyrum, et usque Hosa: eruntque exitus ejus in mare de funiculo Achziba:",
+        "VulgHetzenauer (1906)": "revertiturque in Horma usque ad civitatem munitissimam Tyrum, et usque Hosa: eruntque exitus eius in mare de funiculo Achziba:",
+        "VulgConte (2009)": "Revertiturque in Horma usque ad civitatem munitissimam Tyrum, et usque Hosa: eruntque exitus eius in mare de funiculo Achziba:",
+        "VulgSistina (1590)": "revertiturque in Horma usque ad civitatem munitissimam Tyrum, et usque Hosa: eruntque exitus eius in mare de funiculo Achziba:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67766,
+      "verse": 30,
+      "critical_text": "et Amma et Aphec et Rohob: civitates viginti duæ, et villæ earum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Amma et Aphec et Rohob: civitates viginti duæ, et villæ earum.",
+        "Clem-Saints": "et Amma et Aphec et Rohob: civitates viginti duæ, et villæ earum.",
+        "VulgHetzenauer (1906)": "et Amma et Aphec et Rohob. civitates viginti duæ, et villæ earum.",
+        "VulgConte (2009)": "et Amma et Aphec et Rohob: civitates viginti duæ, et villæ earum.",
+        "VulgSistina (1590)": "et Amma et Aphec et Rohob. civitates viginti duae, et villae earum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67767,
+      "verse": 31,
+      "critical_text": "Hæc est possessio filiorum Aser per cognationes suas, urbesque et viculi earum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hæc est possessio filiorum Aser per cognationes suas, urbesque et viculi earum.",
+        "Clem-Saints": "Hæc est possessio filiorum Aser per cognationes suas, urbesque et viculi earum.",
+        "VulgHetzenauer (1906)": "Hæc est possessio filiorum Aser per cognationes suas, urbesque et viculi earum.",
+        "VulgConte (2009)": "Hæc est possessio filiorum Aser per cognationes suas, urbesque et viculi earum.",
+        "VulgSistina (1590)": "Haec est possessio filiorum Aser per cognationes suas, urbesque et viculi earum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67768,
+      "verse": 32,
+      "critical_text": "Filiorum Nephthali sexta sors cecidit per familias suas:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filiorum Nephthali sexta sors cecidit per familias suas:",
+        "Clem-Saints": "Filiorum Nephthali sexta sors cecidit per familias suas:",
+        "VulgHetzenauer (1906)": "Filiorum Nephthali sexta sors cecidit per familias suas:",
+        "VulgConte (2009)": "Filiorum Nephthali sexta sors cecidit per familias suas:",
+        "VulgSistina (1590)": "Filiorum Nephthali sexta sors cecidit per familias suas:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67769,
+      "verse": 33,
+      "critical_text": "et cœpit terminus de Heleph et Elon in Saananim, et Adami, quæ est Neceb, et Jebnaël usque Lecum: et egressus eorum usque ad Jordanem:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et cœpit terminus de Heleph et Elon in Saananim, et Adami, quæ est Neceb, et Jebnaël usque Lecum: et egressus eorum usque ad Jordanem:",
+        "Clem-Saints": "et cœpit terminus de Heleph et Elon in Saananim, et Adami, quæ est Neceb, et Jebnaël usque Lecum: et egressus eorum usque ad Jordanem:",
+        "VulgHetzenauer (1906)": "et cœpit terminus de Heleph et Elon in Saananim, et Adami, quæ est Neceb, et Iebnael usque Lecum: et egressus eorum usque ad Iordanem:",
+        "VulgConte (2009)": "et cœpit terminus de Heleph et Elon in Saananim, et Adami, quæ est Neceb, et Iebnael usque Lecum: et egressus eorum usque ad Iordanem:",
+        "VulgSistina (1590)": "et coepit terminus de Heleph et Elon in Saananim, et Adami, quae est Neceb, et Iebnael usque Lecum: et egressus eorum usque ad Iordanem:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67770,
+      "verse": 34,
+      "critical_text": "revertiturque terminus contra occidentem in Azanotthabor, atque inde egreditur in Hucuca, et pertransit in Zabulon contra meridiem, et in Aser contra occidentem, et in Juda ad Jordanem contra ortum solis:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "revertiturque terminus contra occidentem in Azanotthabor, atque inde egreditur in Hucuca, et pertransit in Zabulon contra meridiem, et in Aser contra occidentem, et in Juda ad Jordanem contra ortum solis:",
+        "Clem-Saints": "revertiturque terminus contra occidentem in Azanotthabor, atque inde egreditur in Hucuca, et pertransit in Zabulon contra meridiem, et in Aser contra occidentem, et in Juda ad Jordanem contra ortum solis:",
+        "VulgHetzenauer (1906)": "revertiturque terminus contra Occidentem in Azanotthabor, atque inde egreditur in Hucuca, et pertransit in Zabulon contra Meridiem, et in Aser contra Occidentem, et in Iuda ad Iordanem contra ortum solis.",
+        "VulgConte (2009)": "revertiturque terminus contra Occidentem in Azanotthabor, atque inde egreditur in Hucuca, et pertransit in Zabulon contra Meridiem, et in Aser contra Occidentem, et in Iuda ad Iordanem contra ortum solis.",
+        "VulgSistina (1590)": "revertiturque terminus contra Occidentem in Azanotthabor, atque inde egreditur in Hucuca, et pertransit in Zabulon contra Meridiem, et in Aser contra Occidentem, et in Iuda ad Iordanem contra ortum solis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67771,
+      "verse": 35,
+      "critical_text": "civitates munitissimæ, Assedim, Ser, et Emath, et Reccath et Cenereth,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "civitates munitissimæ, Assedim, Ser, et Emath, et Reccath et Cenereth,",
+        "Clem-Saints": "civitates munitissimæ, Assedim, Ser, et Emath, et Reccath et Cenereth,",
+        "VulgHetzenauer (1906)": "civitates munitissimæ, Assedim, Ser, et Emath, et Reccath et Cenereth,",
+        "VulgConte (2009)": "Civitates munitissimæ, Assedim, Ser, et Emath, et Reccath et Cenereth,",
+        "VulgSistina (1590)": "civitates munitissimae, Assedim, Ser, et Emath, et Reccath et Cenereth,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67772,
+      "verse": 36,
+      "critical_text": "et Edema et Arama, Asor",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Edema et Arama, Asor",
+        "Clem-Saints": "et Edema et Arama, Asor",
+        "VulgHetzenauer (1906)": "et Edema et Arama, Asor",
+        "VulgConte (2009)": "et Edema et Arama, Asor",
+        "VulgSistina (1590)": "et Edema et Arama, Asor"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67773,
+      "verse": 37,
+      "critical_text": "et Cedes et Edrai, Enhasor,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Cedes et Edrai, Enhasor,",
+        "Clem-Saints": "et Cedes et Edrai, Enhasor,",
+        "VulgHetzenauer (1906)": "et Cedes et Edrai, Enhasor",
+        "VulgConte (2009)": "et Cedes et Edrai, Enhasor",
+        "VulgSistina (1590)": "et Cedes et Edrai, Enhasor"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67774,
+      "verse": 38,
+      "critical_text": "et Jeron et Magdalel, Horem et Bethanath et Bethsames: civitates decem et novem, et villæ earum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Jeron et Magdalel, Horem et Bethanath et Bethsames: civitates decem et novem, et villæ earum.",
+        "Clem-Saints": "et Jeron et Magdalel, Horem et Bethanath et Bethsames: civitates decem et novem, et villæ earum.",
+        "VulgHetzenauer (1906)": "et Ieron et Magdalel, Horem et Bethanath et Bethsames: civitates decem et novem, et villæ earum.",
+        "VulgConte (2009)": "et Ieron et Magdalel, Horem et Bethanath et Bethsames: civitates decem et novem, et villæ earum.",
+        "VulgSistina (1590)": "et Ieron et Magdalel, Horem et Bethanath et Bethsames: civitates decem et novem, et villae earum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67775,
+      "verse": 39,
+      "critical_text": "Hæc est possessio tribus filiorum Nephthali per cognationes suas, urbes et viculi earum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hæc est possessio tribus filiorum Nephthali per cognationes suas, urbes et viculi earum.",
+        "Clem-Saints": "Hæc est possessio tribus filiorum Nephthali per cognationes suas, urbes et viculi earum.",
+        "VulgHetzenauer (1906)": "Hæc est possessio tribus filiorum Nephthali per cognationes suas, urbes et viculi earum.",
+        "VulgConte (2009)": "Hæc est possessio tribus filiorum Nephthali per cognationes suas, urbes et viculi earum.",
+        "VulgSistina (1590)": "Haec est possessio tribus filiorum Nephthali per cognationes suas, urbes et viculi earum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67776,
+      "verse": 40,
+      "critical_text": "Tribui filiorum Dan per familias suas egressa est sors septima:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tribui filiorum Dan per familias suas egressa est sors septima:",
+        "Clem-Saints": "Tribui filiorum Dan per familias suas egressa est sors septima:",
+        "VulgHetzenauer (1906)": "Tribui filiorum Dan per familias suas egressa est sors septima:",
+        "VulgConte (2009)": "Tribui filiorum Dan per familias suas egressa est sors septima:",
+        "VulgSistina (1590)": "Tribui filiorum Dan per familias suas egressa est sors septima:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67777,
+      "verse": 41,
+      "critical_text": "et fuit terminus possessionis ejus Sara et Esthaol, et Hirsemes, id est, civitas solis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et fuit terminus possessionis ejus Sara et Esthaol, et Hirsemes, id est, civitas solis.",
+        "Clem-Saints": "et fuit terminus possessionis ejus Sara et Esthaol, et Hirsemes, id est, civitas solis.",
+        "VulgHetzenauer (1906)": "et fuit terminus possessionis eius Sara et Esthaol, et Hirsemes, id est civitas solis.",
+        "VulgConte (2009)": "et fuit terminus possessionis eius Sara et Esthaol, et Hirsemes, id est, civitas solis.",
+        "VulgSistina (1590)": "et fuit terminus possessionis eius Sara et Esthaol, et Hirsemes, id est civitas solis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67778,
+      "verse": 42,
+      "critical_text": "Selebin et Ajalon et Jethela,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Selebin et Ajalon et Jethela,",
+        "Clem-Saints": "Selebin et Ajalon et Jethela,",
+        "VulgHetzenauer (1906)": "Selebin et Aialon et Iethela,",
+        "VulgConte (2009)": "Selebin et Aialon et Iethela,",
+        "VulgSistina (1590)": "Selebin et Aialon et Iethela,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67779,
+      "verse": 43,
+      "critical_text": "Elon et Themna et Acron,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Elon et Themna et Acron,",
+        "Clem-Saints": "Elon et Themna et Acron,",
+        "VulgHetzenauer (1906)": "Elon et Themna et Acron,",
+        "VulgConte (2009)": "Elon et Themna et Acron,",
+        "VulgSistina (1590)": "Elon et Themna et Acron,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67780,
+      "verse": 44,
+      "critical_text": "Elthece, Gebbethon et Balaath,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Elthece, Gebbethon et Balaath,",
+        "Clem-Saints": "Elthece, Gebbethon et Balaath,",
+        "VulgHetzenauer (1906)": "Elthece, Gebbethon et Balaath,",
+        "VulgConte (2009)": "Elthece, Gebbethon et Balaath,",
+        "VulgSistina (1590)": "Elthece, Gebbethon et Balaath,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67781,
+      "verse": 45,
+      "critical_text": "et Jud et Bane et Barach et Gethremmon:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Jud et Bane et Barach et Gethremmon:",
+        "Clem-Saints": "et Jud et Bane et Barach et Gethremmon:",
+        "VulgHetzenauer (1906)": "et Iud et Bane et Barach et Gethremmon:",
+        "VulgConte (2009)": "et Iud et Bane et Barach et Gethremmon:",
+        "VulgSistina (1590)": "et Iud et Bane et Barach et Gethremmon:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67782,
+      "verse": 46,
+      "critical_text": "et Mejarcon et Arecon, cum termino qui respicit Joppen,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et Mejarcon et Arecon, cum termino qui respicit Joppen,",
+        "Clem-Saints": "et Mejarcon et Arecon, cum termino qui respicit Joppen,",
+        "VulgHetzenauer (1906)": "et Meiarcon et Arecon, cum termino qui respicit Ioppen,",
+        "VulgConte (2009)": "et Meiarcon et Arecon, cum termino qui respicit Ioppen,",
+        "VulgSistina (1590)": "et Meiarcon et Arecon, cum termino qui respicit Ioppen,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67783,
+      "verse": 47,
+      "critical_text": "Hæc est possessio tribus filiorum Dan, per cognationes suas, urbes et viculi earum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hæc est possessio tribus filiorum Dan, per cognationes suas, urbes et viculi earum.",
+        "Clem-Saints": "Hæc est possessio tribus filiorum Dan, per cognationes suas, urbes et viculi earum.",
+        "VulgHetzenauer (1906)": "Hæc est possessio tribus filiorum Dan, per cognationes suas, urbes et viculi earum.",
+        "VulgConte (2009)": "Hæc est possessio tribus filiorum Dan, per cognationes suas, urbes et viculi earum.",
+        "VulgSistina (1590)": "Haec est possessio tribus filiorum Dan, per cognationes suas, urbes et viculi earum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "19:48",
+        "VulgHetzenauer (1906)": "19:48",
+        "VulgConte (2009)": "19:48",
+        "VulgSistina (1590)": "19:48"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 19:48 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67784,
+      "verse": 48,
+      "critical_text": "et ipso fine concluditur. Ascenderuntque filii Dan, et pugnaverunt contra Lesem, ceperuntque eam: et percusserunt eam in ore gladii, et possederunt, et habitaverunt in ea, vocantes nomen ejus Lesem Dan, ex nomine Dan patris sui.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et ipso fine concluditur. Ascenderuntque filii Dan, et pugnaverunt contra Lesem, ceperuntque eam: et percusserunt eam in ore gladii, et possederunt, et habitaverunt in ea, vocantes nomen ejus Lesem Dan, ex nomine Dan patris sui.",
+        "Clem-Saints": "et ipso fine concluditur. Ascenderuntque filii Dan, et pugnaverunt contra Lesem, ceperuntque eam: et percusserunt eam in ore gladii, et possederunt, et habitaverunt in ea, vocantes nomen ejus Lesem Dan, ex nomine Dan patris sui.",
+        "VulgHetzenauer (1906)": "et ipso fine concluditur. Ascenderuntque filii Dan, et pugnaverunt contra Lesem, ceperuntque eam: et percusserunt eam in ore gladii, et possederunt, et habitaverunt in ea, vocantes nomen eius Lesem Dan, ex nomine Dan patris sui.",
+        "VulgConte (2009)": "et ipso fine concluditur. Ascenderuntque filii Dan, et pugnaverunt contra Lesem, ceperuntque eam: et percusserunt eam in ore gladii, et possederunt, et habitaverunt in ea, vocantes nomen eius Lesem Dan, ex nomine Dan patris sui.",
+        "VulgSistina (1590)": "et ipso fine concluditur. Ascenderuntque filii Dan, et pugnaverunt contra Lesem, ceperuntque eam: et percusserunt eam in ore gladii, et possederunt, et habitaverunt in ea, vocantes nomen eius Lesem Dan, ex nomine Dan patris sui."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "19:47",
+        "VulgHetzenauer (1906)": "19:47",
+        "VulgConte (2009)": "19:47",
+        "VulgSistina (1590)": "19:47"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 19:47 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67785,
+      "verse": 49,
+      "critical_text": "Cumque complesset sorte dividere terram singulis per tribus suas, dederunt filii Israël possessionem Josue filio Nun in medio sui,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque complesset sorte dividere terram singulis per tribus suas, dederunt filii Israël possessionem Josue filio Nun in medio sui,",
+        "Clem-Saints": "Cumque complesset sorte dividere terram singulis per tribus suas, dederunt filii Israël possessionem Josue filio Nun in medio sui,",
+        "VulgHetzenauer (1906)": "Cumque complesset sorte dividere Terram singulis per tribus suas, dederunt filii Israel possessionem Iosue filio Nun in medio sui,",
+        "VulgConte (2009)": "Cumque complesset sorte dividere Terram singulis per tribus suas, dederunt filii Israel possessionem Iosue filio Nun in medio sui,",
+        "VulgSistina (1590)": "Cumque complesset sorte dividere Terram singulis per tribus suas, dederunt filii Israel possessionem Iosue filio Nun in medio sui,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67786,
+      "verse": 50,
+      "critical_text": "juxta præceptum Domini, urbem quam postulavit Thamnath Saraa in monte Ephraim: et ædificavit civitatem, habitavitque in ea.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "juxta præceptum Domini, urbem quam postulavit Thamnath Saraa in monte Ephraim: et ædificavit civitatem, habitavitque in ea.",
+        "Clem-Saints": "juxta præceptum Domini, urbem quam postulavit Thamnath Saraa in monte Ephraim: et ædificavit civitatem, habitavitque in ea.",
+        "VulgHetzenauer (1906)": "iuxta præceptum Domini, urbem quam postulavit, Thamnath Saraa in monte Ephraim: et ædificavit civitatem, habitavitque in ea.",
+        "VulgConte (2009)": "iuxta præceptum Domini, urbem quam postulavit, Thamnath Saraa in monte Ephraim: et ædificavit civitatem, habitavitque in ea.",
+        "VulgSistina (1590)": "iuxta praeceptum Domini, urbem quam postulavit, Thamnath Saraa in monte Ephraim: et aedificavit civitatem, habitavitque in ea."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67787,
+      "verse": 51,
+      "critical_text": "Hæ sunt possessiones, quas sorte diviserunt Eleazar sacerdos, et Josue filius Nun, et principes familiarum ac tribuum filiorum Israël in Silo, coram Domino ad ostium tabernaculi testimonii: partitique sunt terram.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hæ sunt possessiones, quas sorte diviserunt Eleazar sacerdos, et Josue filius Nun, et principes familiarum ac tribuum filiorum Israël in Silo, coram Domino ad ostium tabernaculi testimonii: partitique sunt terram.",
+        "Clem-Saints": "Hæ sunt possessiones, quas sorte diviserunt Eleazar sacerdos, et Josue filius Nun, et principes familiarum ac tribuum filiorum Israël in Silo, coram Domino ad ostium tabernaculi testimonii: partitique sunt terram.",
+        "VulgHetzenauer (1906)": "Hæ sunt possessiones, quas sorte diviserunt Eleazar sacerdos, et Iosue filius Nun, et principes familiarum, ac tribuum filiorum Israel in Silo, coram Domino ad ostium tabernaculi testimonii, partitique sunt Terram.",
+        "VulgConte (2009)": "Hæ sunt possessiones, quas sorte diviserunt Eleazar sacerdos, et Iosue filius Nun, et principes familiarum, ac tribuum filiorum Israel in Silo, coram Domino ad ostium tabernaculi testimonii, partitique sunt Terram.",
+        "VulgSistina (1590)": "Hae sunt possessiones, quas sorte diviserunt Eleazar sacerdos, et Iosue filius Nun, et principes familiarum, ac tribuum filiorum Israel in Silo, coram Domino ad ostium tabernaculi testimonii, partitique sunt Terram."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

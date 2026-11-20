@@ -1,0 +1,387 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "joshua",
+  "book_title": "Joshua",
+  "usfm_code": "JOS",
+  "chapter": 16,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:31Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 67681,
+      "verse": 1,
+      "critical_text": "Cecidit quoque sors filiorum Joseph ab Jordane contra Jericho et aquas ejus ab oriente: solitudo quæ ascendit de Jericho ad montem Bethel:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cecidit quoque sors filiorum Joseph ab Jordane contra Jericho et aquas ejus ab oriente: solitudo quæ ascendit de Jericho ad montem Bethel:",
+        "Clem-Saints": "Cecidit quoque sors filiorum Joseph ab Jordane contra Jericho et aquas ejus ab oriente: solitudo quæ ascendit de Jericho ad montem Bethel:",
+        "VulgHetzenauer (1906)": "Cecidit quoque sors filiorum Ioseph ab Iordane contra Iericho et aquas eius ab Oriente: solitudo quæ ascendit de Iericho ad montem Bethel:",
+        "VulgConte (2009)": "Cecidit quoque sors filiorum Ioseph ab Iordane contra Iericho et aquas eius ab Oriente: solitudo quæ ascendit de Iericho ad montem Bethel:",
+        "VulgSistina (1590)": "Cecidit quoque sors filiorum Ioseph ab Iordane contra Iericho et aquas eius ab Oriente: solitudo quae ascendit de Iericho ad montem Bethel:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67682,
+      "verse": 2,
+      "critical_text": "et egreditur de Bethel Luza: transitque terminum Archi, Ataroth:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et egreditur de Bethel Luza: transitque terminum Archi, Ataroth:",
+        "Clem-Saints": "et egreditur de Bethel Luza: transitque terminum Archi, Ataroth:",
+        "VulgHetzenauer (1906)": "et egreditur de Bethel Luza: transitque terminum Archi, Ataroth.",
+        "VulgConte (2009)": "et egreditur de Bethel Luza: transitque terminum Archi, Ataroth.",
+        "VulgSistina (1590)": "et egreditur de Bethel Luzam: transitque terminum Archi, Ataroth."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Luza:",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Luzam:",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 4,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "luza",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67683,
+      "verse": 3,
+      "critical_text": "et descendit ad occidentem juxta terminum Jephleti, usque ad terminos Beth-horon inferioris, et Gazer: finiunturque regiones ejus mari magno:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et descendit ad occidentem juxta terminum Jephleti, usque ad terminos Beth-horon inferioris, et Gazer: finiunturque regiones ejus mari magno:",
+        "Clem-Saints": "et descendit ad occidentem juxta terminum Jephleti, usque ad terminos Beth-horon inferioris, et Gazer: finiunturque regiones ejus mari magno:",
+        "VulgHetzenauer (1906)": "et descendit ad Occidentem iuxta terminum Iephleti, usque ad terminos Beth horon inferioris, et Gazer: finiunturque regiones eius mari magno:",
+        "VulgConte (2009)": "Et descendit ad Occidentem iuxta terminum Iephleti, usque ad terminos Beth horon inferioris, et Gazer: finiunturque regiones eius mari magno:",
+        "VulgSistina (1590)": "et descendit ad Occidentem iuxta terminum Iephleti, usque ad terminos Beth horon inferioris, et Gazer: finiunturque regiones eius mari magno:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Beth-horon / Beth horon",
+            "Beth-horon / Beth horon",
+            "Beth-horon / Beth horon"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67684,
+      "verse": 4,
+      "critical_text": "possederuntque filii Joseph, Manasses et Ephraim.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "possederuntque filii Joseph, Manasses et Ephraim.",
+        "Clem-Saints": "possederuntque filii Joseph, Manasses et Ephraim.",
+        "VulgHetzenauer (1906)": "possederuntque filii Ioseph Manasses et Ephraim.",
+        "VulgConte (2009)": "possederuntque filii Ioseph, Manasses et Ephraim.",
+        "VulgSistina (1590)": "possederuntque filii Ioseph Manasses et Ephraim."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67685,
+      "verse": 5,
+      "critical_text": "Et factus est terminus filiorum Ephraim per cognationes suas: et possessio eorum contra orientem Ataroth Addar usque Beth-horon superiorem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et factus est terminus filiorum Ephraim per cognationes suas: et possessio eorum contra orientem Ataroth Addar usque Beth-horon superiorem.",
+        "Clem-Saints": "Et factus est terminus filiorum Ephraim per cognationes suas: et possessio eorum contra orientem Ataroth Addar usque Beth-horon superiorem.",
+        "VulgHetzenauer (1906)": "Et factus est terminus filiorum Ephraim per cognationes suas: et possessio eorum contra Orientem Ataroth addar usque Beth horon superiorem.",
+        "VulgConte (2009)": "Et factus est terminus filiorum Ephraim per cognationes suas: et possessio eorum contra Orientem Ataroth addar usque Beth horon superiorem.",
+        "VulgSistina (1590)": "Et factus est terminus filiorum Ephraim per cognationes suas: et possessio eorum contra Orientem Ataroth addar usque Beth horon superiorem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Beth-horon / Beth horon",
+            "Beth-horon / Beth horon",
+            "Beth-horon / Beth horon"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67686,
+      "verse": 6,
+      "critical_text": "Egrediunturque confinia in mare: Machmethath vero aquilonem respicit, et circuit terminos contra orientem in Thanathselo: et pertransit ab oriente Janoë.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Egrediunturque confinia in mare: Machmethath vero aquilonem respicit, et circuit terminos contra orientem in Thanathselo: et pertransit ab oriente Janoë.",
+        "Clem-Saints": "Egrediunturque confinia in mare: Machmethath vero aquilonem respicit, et circuit terminos contra orientem in Thanathselo: et pertransit ab oriente Janoë.",
+        "VulgHetzenauer (1906)": "Egrediunturque confinia in mare: Machmethath vero Aquilonem respicit, et circuit terminos contra Orientem in Thanathselo: et pertransit ab Oriente Ianoe.",
+        "VulgConte (2009)": "Egrediunturque confinia in mare: Machmethath vero Aquilonem respicit, et circuit terminos contra Orientem in Thanathselo: et pertransit ab Oriente Ianoe.",
+        "VulgSistina (1590)": "Egrediunturque confinia in mare: Machmethath vero Aquilonem respicit, et circuit terminos contra Orientem in Thanathselo: et pertransit ab Oriente Ianoe."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67687,
+      "verse": 7,
+      "critical_text": "Descenditque de Janoë in Ataroth et Naaratha: et pervenit in Jericho, egrediturque ad Jordanem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Descenditque de Janoë in Ataroth et Naaratha: et pervenit in Jericho, egrediturque ad Jordanem.",
+        "Clem-Saints": "Descenditque de Janoë in Ataroth et Naaratha: et pervenit in Jericho, egrediturque ad Jordanem.",
+        "VulgHetzenauer (1906)": "descenditque de Ianoe in Ataroth et Naaratha: et pervenit in Iericho, egrediturque ad Iordanem.",
+        "VulgConte (2009)": "Descenditque de Ianoe in Ataroth et Naaratha: et pervenit in Iericho, egrediturque ad Iordanem.",
+        "VulgSistina (1590)": "descenditque de Ianoe in Ataroth et Naaratha: et pervenit in Iericho, egrediturque ad Iordanem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67688,
+      "verse": 8,
+      "critical_text": "De Taphua pertransit contra mare in vallem arundineti, suntque egressus ejus in mare salsissimum. Hæc est possessio tribus filiorum Ephraim per familias suas.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "De Taphua pertransit contra mare in vallem arundineti, suntque egressus ejus in mare salsissimum. Hæc est possessio tribus filiorum Ephraim per familias suas.",
+        "Clem-Saints": "De Taphua pertransit contra mare in vallem arundineti, suntque egressus ejus in mare salsissimum. Hæc est possessio tribus filiorum Ephraim per familias suas.",
+        "VulgHetzenauer (1906)": "De Taphua pertransit contra mare in Vallem arundineti, suntque egressus eius in mare salsissimum. hæc est possessio tribus filiorum Ephraim per familias suas.",
+        "VulgConte (2009)": "De Taphua pertransit contra mare in Vallem Arundineti, suntque egressus eius in mare salsissimum. Hæc est possessio tribus filiorum Ephraim per familias suas.",
+        "VulgSistina (1590)": "De Taphua pertransit contra mare in Vallem arundineti, suntque egressus eius in mare salsissimum. haec est possessio tribus filiorum Ephraim per familias suas."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67689,
+      "verse": 9,
+      "critical_text": "Urbesque separatæ sunt filiis Ephraim in medio possessionis filiorum Manasse, et villæ earum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Urbesque separatæ sunt filiis Ephraim in medio possessionis filiorum Manasse, et villæ earum.",
+        "Clem-Saints": "Urbesque separatæ sunt filiis Ephraim in medio possessionis filiorum Manasse, et villæ earum.",
+        "VulgHetzenauer (1906)": "Urbesque separatæ sunt filiis Ephraim in medio possessionis filiorum Manasse, et villæ earum.",
+        "VulgConte (2009)": "Urbesque separatæ sunt filiis Ephraim in medio possessionis filiorum Manasse, et villæ earum.",
+        "VulgSistina (1590)": "Urbesque separatae sunt filiis Ephraim in medio possessionis filiorum Manasse, et villae earum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67690,
+      "verse": 10,
+      "critical_text": "Et non interfecerunt filii Ephraim Chananæum, qui habitabat in Gazer: habitavitque Chananæus in medio Ephraim usque in diem hanc tributarius.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et non interfecerunt filii Ephraim Chananæum, qui habitabat in Gazer: habitavitque Chananæus in medio Ephraim usque in diem hanc tributarius.",
+        "Clem-Saints": "Et non interfecerunt filii Ephraim Chananæum, qui habitabat in Gazer: habitavitque Chananæus in medio Ephraim usque in diem hanc tributarius.",
+        "VulgHetzenauer (1906)": "Et non interfecerunt filii Ephraim Chananæum, qui habitabat in Gazer: habitavitque Chananæus in medio Ephraim usque in diem hanc tributarius.",
+        "VulgConte (2009)": "Et non interfecerunt filii Ephraim Chananæum, qui habitabat in Gazer: habitavitque Chananæus in medio Ephraim usque in diem hanc tributarius.",
+        "VulgSistina (1590)": "Et non interfecerunt filii Ephraim Chananaeum, qui habitabat in Gazer: habitavitque Chananaeus in medio Ephraim usque in diem hanc tributarius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "psalms",
+  "book_title": "Psalms",
+  "usfm_code": "PSA",
+  "chapter": 92,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:21Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "VulgConte (2009): 92:2 folded into verse 1 (the reference prints these words there)",
+    "VulgConte (2009): 92:3 folded into verse 1 (the reference prints these words there)",
+    "VulgConte (2009): 2 verse(s) re-aligned by content (1←92:2, 2←92:4)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 78381,
+      "verse": 1,
+      "critical_text": "Laus cantici ipsi David, in die ante sabbatum, quando fundata est terra. Dominus regnavit, decorem indutus est: indutus est Dominus fortitudinem, et præcinxit se. Etenim firmavit orbem terræ, qui non commovebitur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Laus cantici ipsi David, in die ante sabbatum, quando fundata est terra. Dominus regnavit, decorem indutus est: indutus est Dominus fortitudinem, et præcinxit se. Etenim firmavit orbem terræ, qui non commovebitur.",
+        "Clem-Saints": "Laus cantici ipsi David, in die ante sabbatum, quando fundata est terra. Dominus regnavit, decorem indutus est: indutus est Dominus fortitudinem, et præcinxit se. Etenim firmavit orbem terræ, qui non commovebitur.",
+        "VulgHetzenauer (1906)": "Laus Cantici ipsi David in die ante sabbatum, quando fundata est terra. Dominus regnavit, decorem indutus est: indutus est Dominus fortitudinem, et præcinxit se. Etenim firmavit orbem terræ, qui non commovebitur.",
+        "VulgConte (2009)": "Laus Cantici ipsi David, in die ante Sabbatum, quando fundata est terra. Dominus regnavit, decorem indutus est: indutus est Dominus fortitudinem, et præcinxit se. Etenim firmavit orbem terræ, qui non commovebitur.",
+        "VulgSistina (1590)": "Psalmus, laus Cantici David in die ante sabbatum, quando fundata est terra. Dominus regnavit, decorem indutus est: indutus est Dominus fortitudinem, et praecinxit se. Etenim firmavit orbem terrae, qui non commovebitur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "92:2"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Psalmus,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 0,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ipsi",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ipsi",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 78382,
+      "verse": 2,
+      "critical_text": "Parata sedes tua ex tunc; a sæculo tu es.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Parata sedes tua ex tunc; a sæculo tu es.",
+        "Clem-Saints": "Parata sedes tua ex tunc; a sæculo tu es.",
+        "VulgHetzenauer (1906)": "Parata sedes tua ex tunc: a sæculo tu es.",
+        "VulgConte (2009)": "Parata sedes tua ex tunc: a sæculo tu es.",
+        "VulgSistina (1590)": "Parata sedes tua Deus ex tunc: a saeculo tu es."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "VulgConte (2009)": "92:4"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Deus",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 3,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 78383,
+      "verse": 3,
+      "critical_text": "Elevaverunt flumina, Domine, elevaverunt flumina vocem suam; elevaverunt flumina fluctus suos,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Elevaverunt flumina, Domine, elevaverunt flumina vocem suam; elevaverunt flumina fluctus suos,",
+        "Clem-Saints": "Elevaverunt flumina, Domine, elevaverunt flumina vocem suam; elevaverunt flumina fluctus suos,",
+        "VulgHetzenauer (1906)": "Elevaverunt flumina Domine: elevaverunt flumina vocem suam. Elevaverunt flumina fluctus suos,",
+        "VulgSistina (1590)": "Elevaverunt flumina Domine: elevaverunt flumina vocem suam. Elevaverunt flumina fluctus suos,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 78384,
+      "verse": 4,
+      "critical_text": "a vocibus aquarum multarum. Mirabiles elationes maris; mirabilis in altis Dominus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "a vocibus aquarum multarum. Mirabiles elationes maris; mirabilis in altis Dominus.",
+        "Clem-Saints": "a vocibus aquarum multarum. Mirabiles elationes maris; mirabilis in altis Dominus.",
+        "VulgHetzenauer (1906)": "a vocibus aquarum multarum. Mirabiles elationes maris, mirabilis in altis Dominus.",
+        "VulgSistina (1590)": "a vocibus aquarum multarum. Mirabiles elationes maris, mirabilis in altis Dominus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 78385,
+      "verse": 5,
+      "critical_text": "Testimonia tua credibilia facta sunt nimis; domum tuam decet sanctitudo, Domine, in longitudinem dierum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Testimonia tua credibilia facta sunt nimis; domum tuam decet sanctitudo, Domine, in longitudinem dierum.",
+        "Clem-Saints": "Testimonia tua credibilia facta sunt nimis; domum tuam decet sanctitudo, Domine, in longitudinem dierum.",
+        "VulgHetzenauer (1906)": "Testimonia tua credibilia facta sunt nimis: domum tuam decet sanctitudo Domine in longitudinem dierum.",
+        "VulgConte (2009)": "Testimonia tua credibilia facta sunt nimis: domum tuam decet sanctitudo Domine in longitudinem dierum.",
+        "VulgSistina (1590)": "Testimonia tua credibilia facta sunt nimis: domum tuam decet sanctitudo Domine in longitudine dierum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "longitudinem",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "longitudine",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 12,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "longitudinem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

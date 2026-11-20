@@ -1,0 +1,355 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "ecclesiastes",
+  "book_title": "Ecclesiastes",
+  "usfm_code": "ECC",
+  "chapter": 11,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:31Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 80469,
+      "verse": 1,
+      "critical_text": "Mitte panem tuum super transeuntes aquas, quia post tempora multa invenies illum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Mitte panem tuum super transeuntes aquas, quia post tempora multa invenies illum.",
+        "Clem-Saints": "Mitte panem tuum super transeuntes aquas, quia post tempora multa invenies illum.",
+        "VulgHetzenauer (1906)": "Mitte panem tuum super transeuntes aquas: quia post tempora multa invenies illum.",
+        "VulgConte (2009)": "Mitte panem tuum super transeuntes aquas: quia post tempora multa invenies illum.",
+        "VulgSistina (1590)": "Mitte panem tuum super transeuntes aquas: quia post tempora multa invenies illum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80470,
+      "verse": 2,
+      "critical_text": "Da partem septem necnon et octo, quia ignoras quid futurum sit mali super terram.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Da partem septem necnon et octo, quia ignoras quid futurum sit mali super terram.",
+        "Clem-Saints": "Da partem septem necnon et octo, quia ignoras quid futurum sit mali super terram.",
+        "VulgHetzenauer (1906)": "Da partem septem, necnon et octo: quia ignoras quid futurum sit mali super terram.",
+        "VulgConte (2009)": "Da partem septem, necnon et octo: quia ignoras quid futurum sit mali super terram.",
+        "VulgSistina (1590)": "Da partes septem, necnon et octo: quia ignoras quid futurum sit mali super terram."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "partem",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "partes",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "partem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80471,
+      "verse": 3,
+      "critical_text": "Si repletæ fuerint nubes, imbrem super terram effundent. Si ceciderit lignum ad austrum aut ad aquilonem, in quocumque loco ceciderit, ibi erit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si repletæ fuerint nubes, imbrem super terram effundent. Si ceciderit lignum ad austrum aut ad aquilonem, in quocumque loco ceciderit, ibi erit.",
+        "Clem-Saints": "Si repletæ fuerint nubes, imbrem super terram effundent. Si ceciderit lignum ad austrum aut ad aquilonem, in quocumque loco ceciderit, ibi erit.",
+        "VulgHetzenauer (1906)": "Si repletæ fuerint nubes, imbrem super terram effundent. Si ceciderit lignum ad Austrum, aut ad Aquilonem, in quocumque loco ceciderit, ibi erit.",
+        "VulgConte (2009)": "Si repletæ fuerint nubes, imbrem super terram effundent. Si ceciderit lignum ad Austrum, aut ad Aquilonem, in quocumque loco ceciderit, ibi erit.",
+        "VulgSistina (1590)": "Si repletae fuerint nubes, imbrem super terram effundent. Si ceciderit lignum ad Austrum, aut ad Aquilonem, in quocumque loco ceciderit, ibi erit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80472,
+      "verse": 4,
+      "critical_text": "Qui observat ventum non seminat; et qui considerat nubes numquam metet.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui observat ventum non seminat; et qui considerat nubes numquam metet.",
+        "Clem-Saints": "Qui observat ventum non seminat; et qui considerat nubes numquam metet.",
+        "VulgHetzenauer (1906)": "Qui observat ventum, non seminat: et qui considerat nubes, numquam metet.",
+        "VulgConte (2009)": "Qui observat ventum, non seminat: et qui considerat nubes, numquam metet.",
+        "VulgSistina (1590)": "Qui observat ventum, non seminat: et qui considerat nubes, numquam metet."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80473,
+      "verse": 5,
+      "critical_text": "Quomodo ignoras quæ sit via spiritus, et qua ratione compingantur ossa in ventre prægnantis, sic nescis opera Dei, qui fabricator est omnium.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quomodo ignoras quæ sit via spiritus, et qua ratione compingantur ossa in ventre prægnantis, sic nescis opera Dei, qui fabricator est omnium.",
+        "Clem-Saints": "Quomodo ignoras quæ sit via spiritus, et qua ratione compingantur ossa in ventre prægnantis, sic nescis opera Dei, qui fabricator est omnium.",
+        "VulgHetzenauer (1906)": "Quomodo ignoras quæ sit via spiritus, et qua ratione compingantur ossa in ventre prægnantis; sic nescis opera Dei, qui fabricator est omnium.",
+        "VulgConte (2009)": "Quomodo ignoras quæ sit via spiritus, et qua ratione compingantur ossa in ventre prægnantis; sic nescis opera Dei, qui Fabricator est omnium.",
+        "VulgSistina (1590)": "Quomodo ignoras quae sit via spiritus, et qua ratione compingantur ossa in ventre praegnantis; sic nescis opera Dei, qui fabricator est omnium."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80474,
+      "verse": 6,
+      "critical_text": "Mane semina semen tuum, et vespere ne cesset manus tua: quia nescis quid magis oriatur, hoc aut illud; et si utrumque simul, melius erit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Mane semina semen tuum, et vespere ne cesset manus tua: quia nescis quid magis oriatur, hoc aut illud; et si utrumque simul, melius erit.",
+        "Clem-Saints": "Mane semina semen tuum, et vespere ne cesset manus tua: quia nescis quid magis oriatur, hoc aut illud; et si utrumque simul, melius erit.",
+        "VulgHetzenauer (1906)": "Mane semina semen tuum, et vespere ne cesset manus tua: quia nescis quid magis oriatur, hoc aut illud: et si utrumque simul, melius erit.",
+        "VulgConte (2009)": "Mane semina semen tuum, et vespere ne cesset manus tua: quia nescis quid magis oriatur, hoc aut illud: et si utrumque simul, melius erit.",
+        "VulgSistina (1590)": "Mane semina semen tuum, et vespere ne cesset manus tua: quia nescis quid magis oriatur, hoc aut illud: et si utrumque simul, melius erit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80475,
+      "verse": 7,
+      "critical_text": "Dulce lumen, et delectabile est oculis videre solem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dulce lumen, et delectabile est oculis videre solem.",
+        "Clem-Saints": "Dulce lumen, et delectabile est oculis videre solem.",
+        "VulgHetzenauer (1906)": "Dulce lumen, et delectabile est oculis videre solem.",
+        "VulgConte (2009)": "Dulce lumen, et delectabile est oculis videre solem.",
+        "VulgSistina (1590)": "Dulce lumen, et delectabile est oculis videre solem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80476,
+      "verse": 8,
+      "critical_text": "Si annis multis vixerit homo, et in his omnibus lætatus fuerit, meminisse debet tenebrosi temporis, et dierum multorum, qui cum venerint, vanitatis arguentur præterita.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si annis multis vixerit homo, et in his omnibus lætatus fuerit, meminisse debet tenebrosi temporis, et dierum multorum, qui cum venerint, vanitatis arguentur præterita.",
+        "Clem-Saints": "Si annis multis vixerit homo, et in his omnibus lætatus fuerit, meminisse debet tenebrosi temporis, et dierum multorum, qui cum venerint, vanitatis arguentur præterita.",
+        "VulgHetzenauer (1906)": "Si annis multis vixerit homo, et in his omnibus lætatus fuerit, meminisse debet tenebrosi temporis, et dierum multorum: qui cum venerint, vanitatis arguentur præterita.",
+        "VulgConte (2009)": "Si annis multis vixerit homo, et in his omnibus lætatus fuerit, meminisse debet tenebrosi temporis, et dierum multorum: qui cum venerint, vanitatis arguentur præterita.",
+        "VulgSistina (1590)": "Si annis multis vixerit homo, et in his omnibus laetatus fuerit, meminisse debet tenebrosi temporis, et dierum multorum: qui cum venerint, vanitatis arguentur praeterita."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80477,
+      "verse": 9,
+      "critical_text": "Lætare ergo, juvenis, in adolescentia tua, et in bono sit cor tuum in diebus juventutis tuæ: et ambula in viis cordis tui, et in intuitu oculorum tuorum, et scito quod pro omnibus his adducet te Deus in judicium.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Lætare ergo, juvenis, in adolescentia tua, et in bono sit cor tuum in diebus juventutis tuæ: et ambula in viis cordis tui, et in intuitu oculorum tuorum, et scito quod pro omnibus his adducet te Deus in judicium.",
+        "Clem-Saints": "Lætare ergo, juvenis, in adolescentia tua, et in bono sit cor tuum in diebus juventutis tuæ: et ambula in viis cordis tui, et in intuitu oculorum tuorum, et scito quod pro omnibus his adducet te Deus in judicium.",
+        "VulgHetzenauer (1906)": "Lætare ergo iuvenis in adolescentia tua, et in bono sit cor tuum in diebus iuventutis tuæ, et ambula in viis cordis tui, et in intuitu oculorum tuorum: et scito quod pro omnibus his adducet te Deus in iudicium.",
+        "VulgConte (2009)": "Lætare ergo iuvenis in adolescentia tua, et in bono sit cor tuum in diebus iuventutis tuæ, et ambula in viis cordis tui, et in intuitu oculorum tuorum: et scito quod pro omnibus his adducet te Deus in iudicium.",
+        "VulgSistina (1590)": "Laetare ergo iuvenis in adolescentia tua, et in bono sit cor tuum in diebus iuventutis tuae, et ambula in viis cordis tui, et in intuitu oculorum tuorum: et scito quod pro omnibus his adducet te Deus in iudicium."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 80478,
+      "verse": 10,
+      "critical_text": "Aufer iram a corde tuo, et amove malitiam a carne tua: adolescentia enim et voluptas vana sunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Aufer iram a corde tuo, et amove malitiam a carne tua: adolescentia enim et voluptas vana sunt.",
+        "Clem-Saints": "Aufer iram a corde tuo, et amove malitiam a carne tua: adolescentia enim et voluptas vana sunt.",
+        "VulgHetzenauer (1906)": "Aufer iram a corde tuo, et amove malitiam a carne tua. Adolescentia enim et voluptas vana sunt.",
+        "VulgConte (2009)": "Aufer iram a corde tuo, et amove malitiam a carne tua. Adolescentia enim et voluptas vana sunt.",
+        "VulgSistina (1590)": "Aufer iram a corde tuo, et amove malitiam a carne tua. Adolescentia enim et voluptas vana sunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

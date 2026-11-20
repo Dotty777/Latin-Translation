@@ -1,0 +1,318 @@
+# 2 Maccabees 05 — Saints Latin Critical Text
+
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:10Z`
+
+**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+
+**Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
+
+---
+
+## Section I — Admitted Witnesses & Gatekeeper Quarantine Declaration
+
+### Admitted Collation Witnesses (Open-Source Tiers 1–4)
+| Siglum | Witness Title | Tier | Weight | License | Text-Type |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
+
+### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
+
+| Siglum | Witness Title | Tier | License | Text-Type |
+| :--- | :--- | :---: | :--- | :--- |
+| **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
+
+### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
+| Source | Status | Reason Excluded from Open Critical Text |
+| :--- | :---: | :--- |
+| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+
+---
+
+## Section II — Continuous Latin Critical Text
+
+**1** Eodem tempore, Antiochus secundam profectionem paravit in Ægyptum.
+**2** Contigit autem per universam Jerosolymorum civitatem videri diebus quadraginta per aëra equites discurrentes, auratas stolas habentes et hastis, quasi cohortes armatos:
+**3** et cursus equorum per ordines digestos, et congressiones fieri cominus, et scutorum motus, et galeatorum multitudinem gladiis districtis, et telorum jactus, et aureorum armorum splendorem, omnisque generis loricarum.
+**4** Quapropter omnes rogabant in bonum monstra converti.
+**5** Sed cum falsus rumor exisset, tamquam vita excessisset Antiochus, assumptis Jason non minus mille viris, repente agressus est civitatem: et civibus ad murum convolantibus ad ultimum apprehensa civitate, Menelaus fugit in arcem:
+**6** Jason vero non parcebat in cæde civibus suis, nec cogitabat prosperitatem adversum cognatos malum esse maximum, arbitrans hostium et non civium se trophæa capturum.
+**7** Et principatum quidem non obtinuit, finem vero insidiarum suarum confusionem accepit, et profugus iterum abiit in Ammanitem.
+**8** Ad ultimum, in exitium sui conclusus ab Areta Arabum tyranno fugiens de civitate in civitatem, omnibus odiosus, ut refuga legum et execrabilis, ut patriæ et civium hostis, in Ægyptum extrusus est:
+**9** et qui multos de patria sua expulerat, peregre periit, Lacedæmonas profectus, quasi pro cognatione ibi refugium habiturus:
+**10** et qui insepultos multos abjecerat, ipse et illamentatus et insepultus abjicitur, sepultura neque peregrina usus, neque patrio sepulchro participans.
+**11** His itaque gestis, suspicatus est rex societatem deserturos Judæos: et ob hoc profectus ex Ægypto efferatis animis, civitatem quidem armis cepit.
+**12** Jussit autem militibus interficere, nec parcere occursantibus, et per domos ascendentes trucidare.
+**13** Fiebant ergo cædes juvenum ac seniorum, et mulierum et natorum exterminia, virginumque et parvulorum neces.
+**14** Erant autem toto triduo octoginta millia interfecti, quadraginta millia vincti, non minus autem venundati.
+**15** Sed nec ista sufficiunt: ausus est etiam intrare templum universa terra sanctius, Menelao ductore, qui legum et patriæ fuit proditor:
+**16** et scelestis manibus sumens sancta vasa, quæ ab aliis regibus et civitatibus erant posita ad ornatum loci, et gloriam, contrectabat indigne, et contaminabat.
+**17** Ita alienatus mente Antiochus, non considerabat quod propter peccata habitantium civitatem, modicum Deus fuerat iratus: propter quod et accidit circa locum despectio:
+**18** alioquin nisi contigisset eos multis peccatis esse involutos, sicut Heliodorus, qui missus est a Seleuco rege ad expoliandum ærarium, etiam hic statim adveniens flagellatus, et repulsus utique fuisset ab audacia.
+**19** Verum non propter locum, gentem: sed propter gentem, locum Deus elegit.
+**20** Ideoque et ipse locus particeps factus est populi malorum: postea autem fiet socius bonorum, et qui derelictus in ira Dei omnipotentis est, iterum in magni Domini reconciliatione cum summa gloria exaltabitur.
+**21** Igitur Antiochus mille et octingentis ablatis de templo talentis, velociter Antiochiam regressus est, existimans se præ superbia terram ad navigandum, pelagus vero ad iter agendum deducturum propter mentis elationem.
+**22** Reliquit autem et præpositos ad affligendam gentem: Jerosolymis quidem Philippum genere Phrygem, moribus crudeliorem eo ipso a quo constitutus est:
+**23** in Garizim autem Andronicum et Menelaum, qui gravius quam ceteri imminebant civibus.
+**24** Cumque appositus esset contra Judæos, misit odiosum principem Apollonium cum exercitu viginti et duobus millibus, præcipiens ei omnes perfectæ ætatis interficere, mulieres ac juvenes vendere.
+**25** Qui cum venisset Jerosolymam, pacem simulans, quievit usque ad diem sanctum sabbati: et tunc feriatis Judæis arma capere suis præcepit.
+**26** Omnesque qui ad spectaculum processerant, trucidavit: et civitatem cum armatis discurrens, ingentem multitudinem peremit.
+**27** Judas autem Machabæus, qui decimus fuerat, secesserat in desertum locum, ibique inter feras vitam in montibus cum suis agebat: et fœni cibo vescentes, demorabantur, ne participes essent coinquinationis.
+
+---
+
+## Section III — Critical Apparatus & Disregarded Surface Noise
+
+### 2 Maccabees 5:2
+- **Apparatus:** `hastis,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **hastas,** VulgSistina (1590)
+- **Apparatus:** `armatos:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **armatas,** VulgSistina (1590)
+
+---
+
+## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
+
+### Verse 1 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Eodem tempore, Antiochus secundam profectionem paravit in Ægyptum.
+  - `Clem1598-USFX`: Eodem tempore, Antiochus secundam profectionem paravit in Ægyptum.
+  - `Clem-Saints`: Eodem tempore, Antiochus secundam profectionem paravit in Ægyptum.
+  - `VulgHetzenauer (1906)`: Eodem tempore Antiochus secundam profectionem paravit in Ægyptum.
+  - `VulgConte (2009)`: Eodem tempore Antiochus secundam profectionem paravit in Ægyptum.
+  - `VulgSistina (1590)`: Eodem tempore Antiochus secundam profectionem paravit in Aegyptum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Contigit autem per universam Jerosolymorum civitatem videri diebus quadraginta per aëra equites discurrentes, auratas stolas habentes et hastis, quasi cohortes armatos:
+  - `Clem1598-USFX`: Contigit autem per universam Jerosolymorum civitatem videri diebus quadraginta per aëra equites discurrentes, auratas stolas habentes et hastis, quasi cohortes armatos:
+  - `Clem-Saints`: Contigit autem per universam Jerosolymorum civitatem videri diebus quadraginta per aëra equites discurrentes, auratas stolas habentes et hastis, quasi cohortes armatos:
+  - `VulgHetzenauer (1906)`: Contigit autem per universam Ierosolymorum civitatem videri diebus quadraginta per aera equites discurrentes, auratas stolas habentes, et hastis, quasi cohortes, armatos,
+  - `VulgConte (2009)`: Contigit autem per universam Ierosolymorum civitatem videri diebus quadraginta per aera equites discurrentes, auratas stolas habentes, et hastis, quasi cohortes, armatos,
+  - `VulgSistina (1590)`: Contigit autem per universam Ierosolymorum civitatem videri diebus quadraginta per aera equites discurrentes, auratas stolas habentes, et hastas, quasi cohortes, armatas,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** et cursus equorum per ordines digestos, et congressiones fieri cominus, et scutorum motus, et galeatorum multitudinem gladiis districtis, et telorum jactus, et aureorum armorum splendorem, omnisque generis loricarum.
+  - `Clem1598-USFX`: et cursus equorum per ordines digestos, et congressiones fieri cominus, et scutorum motus, et galeatorum multitudinem gladiis districtis, et telorum jactus, et aureorum armorum splendorem, omnisque generis loricarum.
+  - `Clem-Saints`: et cursus equorum per ordines digestos, et congressiones fieri cominus, et scutorum motus, et galeatorum multitudinem gladiis districtis, et telorum jactus, et aureorum armorum splendorem, omnisque generis loricarum.
+  - `VulgHetzenauer (1906)`: et cursus equorum per ordines digestos, et congressiones fieri cominus, et scutorum motus, et galeatorum multitudinem gladiis districtis, et telorum iactus, et aureorum armorum splendorem, omnisque generis loricarum.
+  - `VulgConte (2009)`: et cursus equorum per ordines digestos, et congressiones fieri cominus, et scutorum motus, et galeatorum multitudinem gladiis districtis, et telorum iactus, et aureorum armorum splendorem, omnisque generis loricarum.
+  - `VulgSistina (1590)`: et cursus equorum per ordines digestos, et congressiones fieri cominus, et scutorum motus, et galeatorum multitudinem gladiis districtis, et telorum iactus, et aureorum armorum splendorem, omnisque generis loricarum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Quapropter omnes rogabant in bonum monstra converti.
+  - `Clem1598-USFX`: Quapropter omnes rogabant in bonum monstra converti.
+  - `Clem-Saints`: Quapropter omnes rogabant in bonum monstra converti.
+  - `VulgHetzenauer (1906)`: Quapropter omnes rogabant in bonum monstra converti.
+  - `VulgConte (2009)`: Quapropter omnes rogabant in bonum monstra converti.
+  - `VulgSistina (1590)`: Quapropter omnes rogabant in bonum monstra converti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Sed cum falsus rumor exisset, tamquam vita excessisset Antiochus, assumptis Jason non minus mille viris, repente agressus est civitatem: et civibus ad murum convolantibus ad ultimum apprehensa civitate, Menelaus fugit in arcem:
+  - `Clem1598-USFX`: Sed cum falsus rumor exisset, tamquam vita excessisset Antiochus, assumptis Jason non minus mille viris, repente agressus est civitatem: et civibus ad murum convolantibus ad ultimum apprehensa civitate, Menelaus fugit in arcem:
+  - `Clem-Saints`: Sed cum falsus rumor exisset, tamquam vita excessisset Antiochus, assumptis Jason non minus mille viris, repente agressus est civitatem: et civibus ad murum convolantibus ad ultimum apprehensa civitate, Menelaus fugit in arcem:
+  - `VulgHetzenauer (1906)`: Sed cum falsus rumor exisset, tamquam vita excessisset Antiochus, assumptis Iason non minus mille viris, repente agressus est civitatem: et civibus ad murum convolantibus ad ultimum apprehensa civitate, Menelaus fugit in arcem:
+  - `VulgConte (2009)`: Sed cum falsus rumor exisset, tamquam vita excessisset Antiochus, assumptis Iason non minus mille viris, repente agressus est civitatem: et civibus ad murum convolantibus ad ultimum apprehensa civitate, Menelaus fugit in arcem:
+  - `VulgSistina (1590)`: Sed cum falsus rumor exisset, tamquam vita excessisset Antiochus, assumptis Iason non minus mille viris, repente agressus est civitatem: et civibus ad murum convolantibus ad ultimum apprehensa civitate, Menelaus fugit in arcem:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Jason vero non parcebat in cæde civibus suis, nec cogitabat prosperitatem adversum cognatos malum esse maximum, arbitrans hostium et non civium se trophæa capturum.
+  - `Clem1598-USFX`: Jason vero non parcebat in cæde civibus suis, nec cogitabat prosperitatem adversum cognatos malum esse maximum, arbitrans hostium et non civium se trophæa capturum.
+  - `Clem-Saints`: Jason vero non parcebat in cæde civibus suis, nec cogitabat prosperitatem adversum cognatos malum esse maximum, arbitrans hostium et non civium se trophæa capturum.
+  - `VulgHetzenauer (1906)`: Iason vero non parcebat in cæde civibus suis, nec cogitabat prosperitatem adversum cognatos malum esse maximum, arbitrans hostium et non civium se trophæa capturum.
+  - `VulgConte (2009)`: Iason vero non parcebat in cæde civibus suis, nec cogitabat prosperitatem adversum cognatos malum esse maximum, arbitrans hostium et non civium se trophæa capturum.
+  - `VulgSistina (1590)`: Iason vero non parcebat in caede civibus suis, nec cogitabat prosperitatem adversum cognatos malum esse maximum, arbitrans hostium et non civium se trophaea capturum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Et principatum quidem non obtinuit, finem vero insidiarum suarum confusionem accepit, et profugus iterum abiit in Ammanitem.
+  - `Clem1598-USFX`: Et principatum quidem non obtinuit, finem vero insidiarum suarum confusionem accepit, et profugus iterum abiit in Ammanitem.
+  - `Clem-Saints`: Et principatum quidem non obtinuit, finem vero insidiarum suarum confusionem accepit, et profugus iterum abiit in Ammanitem.
+  - `VulgHetzenauer (1906)`: Et principatum quidem non obtinuit, finem vero insidiarum suarum confusionem accepit, et profugus iterum abiit in Ammanitem.
+  - `VulgConte (2009)`: Et principatum quidem non obtinuit, finem vero insidiarum suarum confusionem accepit, et profugus iterum abiit in Ammanitem.
+  - `VulgSistina (1590)`: Et principatum quidem non obtinuit, finem vero insidiarum suarum confusionem accepit, et profugus iterum abiit in Ammanitem.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Ad ultimum, in exitium sui conclusus ab Areta Arabum tyranno fugiens de civitate in civitatem, omnibus odiosus, ut refuga legum et execrabilis, ut patriæ et civium hostis, in Ægyptum extrusus est:
+  - `Clem1598-USFX`: Ad ultimum, in exitium sui conclusus ab Areta Arabum tyranno fugiens de civitate in civitatem, omnibus odiosus, ut refuga legum et execrabilis, ut patriæ et civium hostis, in Ægyptum extrusus est:
+  - `Clem-Saints`: Ad ultimum, in exitium sui conclusus ab Areta Arabum tyranno fugiens de civitate in civitatem, omnibus odiosus, ut refuga legum et execrabilis, ut patriæ et civium hostis, in Ægyptum extrusus est:
+  - `VulgHetzenauer (1906)`: Ad ultimum, in exitium sui conclusus ab Areta Arabum tyranno fugiens de civitate in civitatem, omnibus odiosus, ut refuga legum et execrabilis, ut patriæ et civium hostis, in Ægyptum extrusus est:
+  - `VulgConte (2009)`: Ad ultimum, in exitium sui conclusus ab Areta Arabum tyranno fugiens de civitate in civitatem, omnibus odiosus, ut refuga legum et execrabilis, ut patriæ et civium hostis, in Ægyptum extrusus est:
+  - `VulgSistina (1590)`: Ad ultimum, in exitium sui conclusus ab Areta Arabum tyranno fugiens de civitate in civitatem, omnibus odiosus, ut refuga legum et execrabilis, ut patriae et civium hostis, in Aegyptum extrusus est:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** et qui multos de patria sua expulerat, peregre periit, Lacedæmonas profectus, quasi pro cognatione ibi refugium habiturus:
+  - `Clem1598-USFX`: et qui multos de patria sua expulerat, peregre periit, Lacedæmonas profectus, quasi pro cognatione ibi refugium habiturus:
+  - `Clem-Saints`: et qui multos de patria sua expulerat, peregre periit, Lacedæmonas profectus, quasi pro cognatione ibi refugium habiturus:
+  - `VulgHetzenauer (1906)`: et qui multos de patria sua expulerat, peregre periit, Lacedæmonas profectus, quasi pro cognatione ibi refugium habiturus:
+  - `VulgConte (2009)`: et qui multos de patria sua expulerat, peregre periit, Lacedæmonas profectus, quasi pro cognatione ibi refugium habiturus:
+  - `VulgSistina (1590)`: et qui multos de patria sua expulerat, peregre periit, Lacedaemonas profectus, quasi pro cognatione ibi refugium habiturus:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** et qui insepultos multos abjecerat, ipse et illamentatus et insepultus abjicitur, sepultura neque peregrina usus, neque patrio sepulchro participans.
+  - `Clem1598-USFX`: et qui insepultos multos abjecerat, ipse et illamentatus et insepultus abjicitur, sepultura neque peregrina usus, neque patrio sepulchro participans.
+  - `Clem-Saints`: et qui insepultos multos abjecerat, ipse et illamentatus et insepultus abjicitur, sepultura neque peregrina usus, neque patrio sepulchro participans.
+  - `VulgHetzenauer (1906)`: et qui insepultos multos abiecerat, ipse et illamentatus, et insepultus abiicitur, sepultura neque peregrina usus, neque patrio sepulchro participans.
+  - `VulgConte (2009)`: et qui insepultos multos abiecerat, ipse et illamentatus, et insepultus abiicitur, sepultura neque peregrina usus, neque patrio sepulchro participans.
+  - `VulgSistina (1590)`: et qui insepultos multos abiecerat, ipse et illamentatus, et insepultus abiicitur, sepultura neque peregrina usus, neque patrio sepulchro participans.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** His itaque gestis, suspicatus est rex societatem deserturos Judæos: et ob hoc profectus ex Ægypto efferatis animis, civitatem quidem armis cepit.
+  - `Clem1598-USFX`: His itaque gestis, suspicatus est rex societatem deserturos Judæos: et ob hoc profectus ex Ægypto efferatis animis, civitatem quidem armis cepit.
+  - `Clem-Saints`: His itaque gestis, suspicatus est rex societatem deserturos Judæos: et ob hoc profectus ex Ægypto efferatis animis, civitatem quidem armis cepit.
+  - `VulgHetzenauer (1906)`: His itaque gestis, suspicatus est rex societatem deserturos Iudæos: et ob hoc profectus ex Ægypto efferatis animis, civitatem quidem armis cepit.
+  - `VulgConte (2009)`: His itaque gestis, suspicatus est rex societatem deserturos Iudæos: et ob hoc profectus ex Ægypto efferatis animis, civitatem quidem armis cepit.
+  - `VulgSistina (1590)`: His itaque gestis, suspicatus est rex societatem deserturos Iudaeos: et ob hoc profectus ex Aegypto efferatis animis, civitatem quidem armis cepit.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Jussit autem militibus interficere, nec parcere occursantibus, et per domos ascendentes trucidare.
+  - `Clem1598-USFX`: Jussit autem militibus interficere, nec parcere occursantibus, et per domos ascendentes trucidare.
+  - `Clem-Saints`: Jussit autem militibus interficere, nec parcere occursantibus, et per domos ascendentes trucidare.
+  - `VulgHetzenauer (1906)`: Iussit autem militibus interficere, nec parcere occursantibus, et per domos ascendentes trucidare.
+  - `VulgConte (2009)`: Iussit autem militibus interficere, nec parcere occursantibus, et per domos ascendentes trucidare.
+  - `VulgSistina (1590)`: Iussit autem militibus interficere, nec parcere occursantibus, et per domos ascendentes trucidare.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Fiebant ergo cædes juvenum ac seniorum, et mulierum et natorum exterminia, virginumque et parvulorum neces.
+  - `Clem1598-USFX`: Fiebant ergo cædes juvenum ac seniorum, et mulierum et natorum exterminia, virginumque et parvulorum neces.
+  - `Clem-Saints`: Fiebant ergo cædes juvenum ac seniorum, et mulierum et natorum exterminia, virginumque et parvulorum neces.
+  - `VulgHetzenauer (1906)`: Fiebant ergo cædes iuvenum, ac seniorum, et mulierum, et natorum exterminia, virginumque et parvulorum neces.
+  - `VulgConte (2009)`: Fiebant ergo cædes iuvenum, ac seniorum, et mulierum, et natorum exterminia, virginumque et parvulorum neces.
+  - `VulgSistina (1590)`: Fiebant ergo caedes iuvenum, ac seniorum, et mulierum, et natorum exterminia, virginumque et parvulorum neces.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Erant autem toto triduo octoginta millia interfecti, quadraginta millia vincti, non minus autem venundati.
+  - `Clem1598-USFX`: Erant autem toto triduo octoginta millia interfecti, quadraginta millia vincti, non minus autem venundati.
+  - `Clem-Saints`: Erant autem toto triduo octoginta millia interfecti, quadraginta millia vincti, non minus autem venundati.
+  - `VulgHetzenauer (1906)`: Erant autem toto triduo octoginta millia interfecti, quadraginta millia vincti, non minus autem venundati.
+  - `VulgConte (2009)`: Erant autem toto triduo octoginta millia interfecti, quadraginta millia vincti, non minus autem venundati.
+  - `VulgSistina (1590)`: Erant autem toto triduo octoginta millia interfecti, quadraginta millia vincti, non minus autem venundati.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Sed nec ista sufficiunt: ausus est etiam intrare templum universa terra sanctius, Menelao ductore, qui legum et patriæ fuit proditor:
+  - `Clem1598-USFX`: Sed nec ista sufficiunt: ausus est etiam intrare templum universa terra sanctius, Menelao ductore, qui legum et patriæ fuit proditor:
+  - `Clem-Saints`: Sed nec ista sufficiunt: ausus est etiam intrare templum universa terra sanctius, Menelao ductore, qui legum et patriæ fuit proditor:
+  - `VulgHetzenauer (1906)`: Sed nec ista sufficiunt: ausus est etiam intrare templum universa terra sanctius, Menelao ductore, qui legum, et patriæ fuit proditor:
+  - `VulgConte (2009)`: Sed nec ista sufficiunt: ausus est etiam intrare templum universa terra sanctius, Menelao ductore, qui legum, et patriæ fuit proditor:
+  - `VulgSistina (1590)`: Sed nec ista sufficiunt: ausus est etiam intrare templum universa terra sanctius, Menelao ductore, qui legum, et patriae fuit proditor:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** et scelestis manibus sumens sancta vasa, quæ ab aliis regibus et civitatibus erant posita ad ornatum loci, et gloriam, contrectabat indigne, et contaminabat.
+  - `Clem1598-USFX`: et scelestis manibus sumens sancta vasa, quæ ab aliis regibus et civitatibus erant posita ad ornatum loci, et gloriam, contrectabat indigne, et contaminabat.
+  - `Clem-Saints`: et scelestis manibus sumens sancta vasa, quæ ab aliis regibus et civitatibus erant posita ad ornatum loci, et gloriam, contrectabat indigne, et contaminabat.
+  - `VulgHetzenauer (1906)`: et scelestis manibus sumens sancta vasa, quæ ab aliis regibus, et civitatibus erant posita ad ornatum loci, et gloriam, contrectabat indigne, et contaminabat.
+  - `VulgConte (2009)`: et scelestis manibus sumens sancta vasa, quæ ab aliis regibus, et civitatibus erant posita ad ornatum loci, et gloriam, contrectabat indigne, et contaminabat.
+  - `VulgSistina (1590)`: et scelestis manibus sumens sancta vasa, quae ab aliis regibus, et civitatibus erant posita ad ornatum loci, et gloriam, contrectabat indigne, et contaminabat.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Ita alienatus mente Antiochus, non considerabat quod propter peccata habitantium civitatem, modicum Deus fuerat iratus: propter quod et accidit circa locum despectio:
+  - `Clem1598-USFX`: Ita alienatus mente Antiochus, non considerabat quod propter peccata habitantium civitatem, modicum Deus fuerat iratus: propter quod et accidit circa locum despectio:
+  - `Clem-Saints`: Ita alienatus mente Antiochus, non considerabat quod propter peccata habitantium civitatem, modicum Deus fuerat iratus: propter quod et accidit circa locum despectio:
+  - `VulgHetzenauer (1906)`: Ita alienatus mente Antiochus, non considerabat quod propter peccata habitantium civitatem, modicum Deus fuerat iratus: propter quod et accidit circa locum despectio:
+  - `VulgConte (2009)`: Ita alienatus mente Antiochus, non considerabat quod propter peccata habitantium civitatem, modicum Deus fuerat iratus: propter quod et accidit circa locum despectio:
+  - `VulgSistina (1590)`: Ita alienatus mente Antiochus, non considerabat quod propter peccata habitantium civitatem, modicum Deus fuerat iratus: propter quod et accidit circa locum despectio:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** alioquin nisi contigisset eos multis peccatis esse involutos, sicut Heliodorus, qui missus est a Seleuco rege ad expoliandum ærarium, etiam hic statim adveniens flagellatus, et repulsus utique fuisset ab audacia.
+  - `Clem1598-USFX`: alioquin nisi contigisset eos multis peccatis esse involutos, sicut Heliodorus, qui missus est a Seleuco rege ad expoliandum ærarium, etiam hic statim adveniens flagellatus, et repulsus utique fuisset ab audacia.
+  - `Clem-Saints`: alioquin nisi contigisset eos multis peccatis esse involutos, sicut Heliodorus, qui missus est a Seleuco rege ad expoliandum ærarium, etiam hic statim adveniens flagellatus, et repulsus utique fuisset ab audacia.
+  - `VulgHetzenauer (1906)`: alioquin nisi contigisset eos multis peccatis esse involutos, sicut Heliodorus, qui missus est a Seleuco rege ad expoliandum ærarium, etiam hic statim adveniens flagellatus, et repulsus utique fuisset ab audacia.
+  - `VulgConte (2009)`: alioquin nisi contigisset eos multis peccatis esse involutos, sicut Heliodorus, qui missus est a Seleuco rege ad expoliandum ærarium, etiam hic statim adveniens flagellatus, et repulsus utique fuisset ab audacia.
+  - `VulgSistina (1590)`: alioquin nisi contigisset eos multis peccatis esse involutos, sicut Heliodorus, qui missus est a Seleuco rege ad expoliandum aerarium, etiam hic statim adveniens flagellatus, et repulsus utique fuisset ab audacia.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Verum non propter locum, gentem: sed propter gentem, locum Deus elegit.
+  - `Clem1598-USFX`: Verum non propter locum, gentem: sed propter gentem, locum Deus elegit.
+  - `Clem-Saints`: Verum non propter locum, gentem: sed propter gentem, locum Deus elegit.
+  - `VulgHetzenauer (1906)`: Verum non propter locum, gentem: sed propter gentem, locum Deus elegit.
+  - `VulgConte (2009)`: Verum non propter locum, gentem: sed propter gentem, locum Deus elegit.
+  - `VulgSistina (1590)`: Verum non propter locum, gentem: sed propter gentem, locum Deus elegit.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Ideoque et ipse locus particeps factus est populi malorum: postea autem fiet socius bonorum, et qui derelictus in ira Dei omnipotentis est, iterum in magni Domini reconciliatione cum summa gloria exaltabitur.
+  - `Clem1598-USFX`: Ideoque et ipse locus particeps factus est populi malorum: postea autem fiet socius bonorum, et qui derelictus in ira Dei omnipotentis est, iterum in magni Domini reconciliatione cum summa gloria exaltabitur.
+  - `Clem-Saints`: Ideoque et ipse locus particeps factus est populi malorum: postea autem fiet socius bonorum, et qui derelictus in ira Dei omnipotentis est, iterum in magni Domini reconciliatione cum summa gloria exaltabitur.
+  - `VulgHetzenauer (1906)`: Ideoque et ipse locus particeps factus est populi malorum. postea autem fiet socius bonorum. et qui derelictus in ira Dei omnipotentis est, iterum in magni Domini reconciliatione cum summa gloria exaltabitur.
+  - `VulgConte (2009)`: Ideoque et ipse locus particeps factus est populi malorum. Postea autem fiet socius bonorum. Et qui derelictus in ira Dei omnipotentis est, iterum in magni Domini reconciliatione cum summa gloria exaltabitur.
+  - `VulgSistina (1590)`: Ideoque et ipse locus particeps factus est populi malorum. postea autem fiet socius bonorum. et qui derelictus in ira Dei omnipotentis est, iterum in magni Domini reconciliatione cum summa gloria exaltabitur.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Igitur Antiochus mille et octingentis ablatis de templo talentis, velociter Antiochiam regressus est, existimans se præ superbia terram ad navigandum, pelagus vero ad iter agendum deducturum propter mentis elationem.
+  - `Clem1598-USFX`: Igitur Antiochus mille et octingentis ablatis de templo talentis, velociter Antiochiam regressus est, existimans se præ superbia terram ad navigandum, pelagus vero ad iter agendum deducturum propter mentis elationem.
+  - `Clem-Saints`: Igitur Antiochus mille et octingentis ablatis de templo talentis, velociter Antiochiam regressus est, existimans se præ superbia terram ad navigandum, pelagus vero ad iter agendum deducturum propter mentis elationem.
+  - `VulgHetzenauer (1906)`: Igitur Antiochus mille et octingentis ablatis de templo talentis, velociter Antiochiam regressus est, existimans se præ superbia terram ad navigandum, pelagus vero ad iter agendum deducturum propter mentis elationem.
+  - `VulgConte (2009)`: Igitur Antiochus mille et octingentis ablatis de templo talentis, velociter Antiochiam regressus est, existimans se præ superbia terram ad navigandum, pelagus vero ad iter agendum deducturum propter mentis elationem.
+  - `VulgSistina (1590)`: Igitur Antiochus mille et octingentis ablatis de templo talentis, velociter Antiochiam regressus est, existimans se prae superbia terram ad navigandum, pelagus vero ad iter agendum deducturum propter mentis elationem.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Reliquit autem et præpositos ad affligendam gentem: Jerosolymis quidem Philippum genere Phrygem, moribus crudeliorem eo ipso a quo constitutus est:
+  - `Clem1598-USFX`: Reliquit autem et præpositos ad affligendam gentem: Jerosolymis quidem Philippum genere Phrygem, moribus crudeliorem eo ipso a quo constitutus est:
+  - `Clem-Saints`: Reliquit autem et præpositos ad affligendam gentem: Jerosolymis quidem Philippum genere Phrygem, moribus crudeliorem eo ipso a quo constitutus est:
+  - `VulgHetzenauer (1906)`: Reliquit autem et præpositos ad affligendam gentem: Ierosolymis quidem Philippum genere Phrygem, moribus crudeliorem eo ipso, a quo constitutus est:
+  - `VulgConte (2009)`: Reliquit autem et præpositos ad affligendam gentem: Ierosolymis quidem Philippum genere Phrygem, moribus crudeliorem eo ipso, a quo constitutus est:
+  - `VulgSistina (1590)`: Reliquit autem et praepositos ad affligendam gentem: Ierosolymis quidem Philippum genere Phrygem, moribus crudeliorem eo ipso, a quo constitutus est:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** in Garizim autem Andronicum et Menelaum, qui gravius quam ceteri imminebant civibus.
+  - `Clem1598-USFX`: in Garizim autem Andronicum et Menelaum, qui gravius quam ceteri imminebant civibus.
+  - `Clem-Saints`: in Garizim autem Andronicum et Menelaum, qui gravius quam ceteri imminebant civibus.
+  - `VulgHetzenauer (1906)`: in Garizim autem Andronicum, et Menelaum, qui gravius quam ceteri imminebant civibus.
+  - `VulgConte (2009)`: in Garizim autem Andronicum, et Menelaum, qui gravius quam ceteri imminebant civibus.
+  - `VulgSistina (1590)`: in Garizim autem Andronicum, et Menelaum, qui gravius quam ceteri imminebant civibus.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Cumque appositus esset contra Judæos, misit odiosum principem Apollonium cum exercitu viginti et duobus millibus, præcipiens ei omnes perfectæ ætatis interficere, mulieres ac juvenes vendere.
+  - `Clem1598-USFX`: Cumque appositus esset contra Judæos, misit odiosum principem Apollonium cum exercitu viginti et duobus millibus, præcipiens ei omnes perfectæ ætatis interficere, mulieres ac juvenes vendere.
+  - `Clem-Saints`: Cumque appositus esset contra Judæos, misit odiosum principem Apollonium cum exercitu viginti et duobus millibus, præcipiens ei omnes perfectæ ætatis interficere, mulieres ac juvenes vendere.
+  - `VulgHetzenauer (1906)`: Cumque appositus esset contra Iudæos, misit odiosum principem Apollonium cum exercitu viginti et duobus millibus, præcipiens ei omnes perfectæ ætatis interficere, mulieres, ac iuvenes vendere.
+  - `VulgConte (2009)`: Cumque appositus esset contra Iudæos, misit odiosum principem Apollonium cum exercitu viginti et duobus millibus, præcipiens ei omnes perfectæ ætatis interficere, mulieres, ac iuvenes vendere.
+  - `VulgSistina (1590)`: Cumque appositus esset contra Iudaeos, misit odiosum principem Apollonium cum exercitu viginti et duobus millibus, praecipiens ei omnes perfectae aetatis interficere, mulieres, ac iuvenes vendere.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Qui cum venisset Jerosolymam, pacem simulans, quievit usque ad diem sanctum sabbati: et tunc feriatis Judæis arma capere suis præcepit.
+  - `Clem1598-USFX`: Qui cum venisset Jerosolymam, pacem simulans, quievit usque ad diem sanctum sabbati: et tunc feriatis Judæis arma capere suis præcepit.
+  - `Clem-Saints`: Qui cum venisset Jerosolymam, pacem simulans, quievit usque ad diem sanctum sabbati: et tunc feriatis Judæis arma capere suis præcepit.
+  - `VulgHetzenauer (1906)`: Qui cum venisset Ierosolymam, pacem simulans, quievit usque ad diem sanctum sabbati: et tunc feriatis Iudæis arma capere suis præcepit.
+  - `VulgConte (2009)`: Qui cum venisset Ierosolymam, pacem simulans, quievit usque ad diem sanctum sabbati: et tunc feriatis Iudæis arma capere suis præcepit.
+  - `VulgSistina (1590)`: Qui cum venisset Ierosolymam, pacem simulans, quievit usque ad diem sanctum sabbati: et tunc feriatis Iudaeis arma capere suis praecepit.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Omnesque qui ad spectaculum processerant, trucidavit: et civitatem cum armatis discurrens, ingentem multitudinem peremit.
+  - `Clem1598-USFX`: Omnesque qui ad spectaculum processerant, trucidavit: et civitatem cum armatis discurrens, ingentem multitudinem peremit.
+  - `Clem-Saints`: Omnesque qui ad spectaculum processerant, trucidavit: et civitatem cum armatis discurrens, ingentem multitudinem peremit.
+  - `VulgHetzenauer (1906)`: Omnesque qui ad spectaculum processerant, trucidavit: et civitatem cum armatis discurrens, ingentem multitudinem peremit.
+  - `VulgConte (2009)`: Omnesque qui ad spectaculum processerant, trucidavit: et civitatem cum armatis discurrens, ingentem multitudinem peremit.
+  - `VulgSistina (1590)`: Omnesque qui ad spectaculum processerant, trucidavit: et civitatem cum armatis discurrens, ingentem multitudinem peremit.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Judas autem Machabæus, qui decimus fuerat, secesserat in desertum locum, ibique inter feras vitam in montibus cum suis agebat: et fœni cibo vescentes, demorabantur, ne participes essent coinquinationis.
+  - `Clem1598-USFX`: Judas autem Machabæus, qui decimus fuerat, secesserat in desertum locum, ibique inter feras vitam in montibus cum suis agebat: et fœni cibo vescentes, demorabantur, ne participes essent coinquinationis.
+  - `Clem-Saints`: Judas autem Machabæus, qui decimus fuerat, secesserat in desertum locum, ibique inter feras vitam in montibus cum suis agebat: et fœni cibo vescentes, demorabantur, ne participes essent coinquinationis.
+  - `VulgHetzenauer (1906)`: Iudas autem Machabæus, qui decimus fuerat, secesserat in desertum locum, ibique inter feras vitam in montibus cum suis agebat: et fœni cibo vescentes, demorabantur, ne participes essent coinquinationis.
+  - `VulgConte (2009)`: Iudas autem Machabæus, qui decimus fuerat, secesserat in desertum locum, ibique inter feras vitam in montibus cum suis agebat: et fœni cibo vescentes, demorabantur, ne participes essent coinquinationis.
+  - `VulgSistina (1590)`: Iudas autem Machabaeus, qui decimus fuerat, secesserat in desertum locum, ibique inter feras vitam in montibus cum suis agebat: et foeni cibo vescentes, demorabantur, ne participes essent coinquinationis.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

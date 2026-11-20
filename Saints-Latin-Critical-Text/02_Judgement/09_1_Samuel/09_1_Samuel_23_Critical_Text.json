@@ -1,0 +1,978 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "1-samuel",
+  "book_title": "1 Samuel (1 Kingdoms)",
+  "usfm_code": "1SA",
+  "chapter": 23,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:39Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 69225,
+      "verse": 1,
+      "critical_text": "Et annuntiaverunt David, dicentes: Ecce Philisthiim oppugnant Ceilam et diripiunt areas.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et annuntiaverunt David, dicentes: Ecce Philisthiim oppugnant Ceilam et diripiunt areas.",
+        "Clem-Saints": "Et annuntiaverunt David, dicentes: Ecce Philisthiim oppugnant Ceilam et diripiunt areas.",
+        "VulgHetzenauer (1906)": "Et annunciaverunt David, dicentes: Ecce Philisthiim oppugnant Ceilam, et diripiunt areas.",
+        "VulgConte (2009)": "Et annunciaverunt David, dicentes: Ecce Philisthiim oppugnant Ceilam, et diripiunt areas.",
+        "VulgSistina (1590)": "Et annunciaverunt David, dicentes: Ecce Philisthiim oppugnant Ceilam, et diripiunt areas."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "annuntiaverunt / annunciaverunt",
+            "annuntiaverunt / annunciaverunt",
+            "annuntiaverunt / annunciaverunt"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69226,
+      "verse": 2,
+      "critical_text": "Consuluit ergo David Dominum, dicens: Num vadam, et percutiam Philisthæos istos? Et ait Dominus ad David: Vade, et percuties Philisthæos, et Ceilam salvabis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Consuluit ergo David Dominum, dicens: Num vadam, et percutiam Philisthæos istos? Et ait Dominus ad David: Vade, et percuties Philisthæos, et Ceilam salvabis.",
+        "Clem-Saints": "Consuluit ergo David Dominum, dicens: Num vadam, et percutiam Philisthæos istos? Et ait Dominus ad David: Vade, et percuties Philisthæos, et Ceilam salvabis.",
+        "VulgHetzenauer (1906)": "Consuluit ergo David Dominum, dicens: Num vadam, et percutiam Philisthæos istos? Et ait Dominus ad David: Vade, et percuties Philisthæos, et Ceilam salvabis.",
+        "VulgConte (2009)": "Consuluit ergo David Dominum, dicens: Num vadam, et percutiam Philisthæos istos? Et ait Dominus ad David: Vade, et percuties Philisthæos, et Ceilam salvabis.",
+        "VulgSistina (1590)": "Consuluit ergo David Dominum, dicens: Num vadam, et percutiam Philisthaeos istos? Et ait Dominus ad David: Vade, et percuties Philisthaeos, et Ceilam salvabis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69227,
+      "verse": 3,
+      "critical_text": "Et dixerunt viri qui erant cum David ad eum: Ecce nos hic in Judæa consistentes timemus: quanto magis si ierimus in Ceilam adversum agmina Philisthinorum?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixerunt viri qui erant cum David ad eum: Ecce nos hic in Judæa consistentes timemus: quanto magis si ierimus in Ceilam adversum agmina Philisthinorum?",
+        "Clem-Saints": "Et dixerunt viri qui erant cum David ad eum: Ecce nos hic in Judæa consistentes timemus: quanto magis si ierimus in Ceilam adversum agmina Philisthinorum?",
+        "VulgHetzenauer (1906)": "Et dixerunt viri, qui erant cum David, ad eum: Ecce nos hic in Iudæa consistentes timemus: quanto magis si ierimus in Ceilam adversum agmina Philisthinorum?",
+        "VulgConte (2009)": "Et dixerunt viri, qui erant cum David, ad eum: Ecce nos hic in Iudæa consistentes timemus: quanto magis si ierimus in Ceilam adversum agmina Philisthinorum?",
+        "VulgSistina (1590)": "Et dixerunt viri, qui erant cum David, ad eum: Ecce nos hic in Iudaea consistentes timemus: quanto magis si ierimus in Ceilam adversum agmina Philisthinorum?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69228,
+      "verse": 4,
+      "critical_text": "Rursum ergo David consuluit Dominum. Qui respondens, ait ei: Surge, et vade in Ceilam: ego enim tradam Philisthæos in manu tua.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Rursum ergo David consuluit Dominum. Qui respondens, ait ei: Surge, et vade in Ceilam: ego enim tradam Philisthæos in manu tua.",
+        "Clem-Saints": "Rursum ergo David consuluit Dominum. Qui respondens, ait ei: Surge, et vade in Ceilam: ego enim tradam Philisthæos in manu tua.",
+        "VulgHetzenauer (1906)": "Rursum ergo David consuluit Dominum. Qui respondens, ait ei: Surge, et vade in Ceilam: ego enim tradam Philisthæos in manu tua.",
+        "VulgConte (2009)": "Rursum ergo David consuluit Dominum. Qui respondens, ait ei: Surge, et vade in Ceilam: ego enim tradam Philisthæos in manu tua.",
+        "VulgSistina (1590)": "Rursum ergo David consuluit Dominum. Qui respondens, ait ei: Surge, et vade in Ceilam: ego enim tradam Philisthaeos in manu tua."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69229,
+      "verse": 5,
+      "critical_text": "Abiit ergo David et viri ejus in Ceilam, et pugnavit adversum Philisthæos: et abegit jumenta eorum, et percussit eos plaga magna: et salvavit David habitatores Ceilæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Abiit ergo David et viri ejus in Ceilam, et pugnavit adversum Philisthæos: et abegit jumenta eorum, et percussit eos plaga magna: et salvavit David habitatores Ceilæ.",
+        "Clem-Saints": "Abiit ergo David et viri ejus in Ceilam, et pugnavit adversum Philisthæos: et abegit jumenta eorum, et percussit eos plaga magna: et salvavit David habitatores Ceilæ.",
+        "VulgHetzenauer (1906)": "Abiit ergo David, et viri eius in Ceilam, et pugnavit adversum Philisthæos, et abegit iumenta eorum, et percussit eos plaga magna: et salvavit David habitatores Ceilæ.",
+        "VulgConte (2009)": "Abiit ergo David, et viri eius in Ceilam, et pugnavit adversum Philisthæos, et abegit iumenta eorum, et percussit eos plaga magna: et salvavit David habitatores Ceilæ.",
+        "VulgSistina (1590)": "Abiit ergo David, et viri eius in Ceilam, et pugnavit adversum Philisthaeos, et abegit iumenta eorum, et percussit eos plaga magna: et salvavit David habitatores Ceilae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69230,
+      "verse": 6,
+      "critical_text": "Porro eo tempore quo fugiebat Abiathar filius Achimelech ad David in Ceilam, ephod secum habens descenderat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Porro eo tempore quo fugiebat Abiathar filius Achimelech ad David in Ceilam, ephod secum habens descenderat.",
+        "Clem-Saints": "Porro eo tempore quo fugiebat Abiathar filius Achimelech ad David in Ceilam, ephod secum habens descenderat.",
+        "VulgHetzenauer (1906)": "Porro eo tempore, quo fugiebat Abiathar filius Achimelech ad David in Ceilam, ephod secum habens descenderat.",
+        "VulgConte (2009)": "Porro eo tempore, quo fugiebat Abiathar filius Achimelech ad David, in Ceilam ephod secum habens descenderat.",
+        "VulgSistina (1590)": "Porro eo tempore, quo fugiebat Abiathar filius Achimelech ad David in Ceilam, ephod secum habens descenderat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69231,
+      "verse": 7,
+      "critical_text": "Nuntiatum est autem Sauli quod venisset David in Ceilam: et ait Saul: Tradidit eum Deus in manus meas, conclususque est introgressus urbem, in qua portæ et seræ sunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nuntiatum est autem Sauli quod venisset David in Ceilam: et ait Saul: Tradidit eum Deus in manus meas, conclususque est introgressus urbem, in qua portæ et seræ sunt.",
+        "Clem-Saints": "Nuntiatum est autem Sauli quod venisset David in Ceilam: et ait Saul: Tradidit eum Deus in manus meas, conclususque est introgressus urbem, in qua portæ et seræ sunt.",
+        "VulgHetzenauer (1906)": "Nunciatum est autem Sauli quod venisset David in Ceilam: et ait Saul: Tradidit eum Deus in manus meas, conclususque est introgressus urbem, in qua portæ et seræ sunt.",
+        "VulgConte (2009)": "Nunciatum est autem Sauli quod venisset David in Ceilam: et ait Saul: Tradidit eum Deus in manus meas, conclususque est introgressus urbem, in qua portæ et seræ sunt.",
+        "VulgSistina (1590)": "Nunciatum est autem Sauli quod venisset David in Ceilam: et ait Saul: Tradidit eum Dominus in manus meas, conclususque est introgressus urbem, in qua portae et serae sunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Deus",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Dominus",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 14,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "deus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Nuntiatum / Nunciatum",
+            "Nuntiatum / Nunciatum",
+            "Nuntiatum / Nunciatum"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69232,
+      "verse": 8,
+      "critical_text": "Et præcepit Saul omni populo ut ad pugnam descenderet in Ceilam, et obsideret David et viros ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et præcepit Saul omni populo ut ad pugnam descenderet in Ceilam, et obsideret David et viros ejus.",
+        "Clem-Saints": "Et præcepit Saul omni populo ut ad pugnam descenderet in Ceilam, et obsideret David et viros ejus.",
+        "VulgHetzenauer (1906)": "Et præcepit Saul omni populo ut ad pugnam descenderet in Ceilam: et obsideret David, et viros eius.",
+        "VulgConte (2009)": "Et præcepit Saul omni populo ut ad pugnam descenderet in Ceilam: et obsideret David, et viros eius.",
+        "VulgSistina (1590)": "Et praecepit Saul omni populo ut ad pugnam descenderet in Ceilam: et obsideret David, et viros eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69233,
+      "verse": 9,
+      "critical_text": "Quod cum David rescisset quia præpararet ei Saul clam malum, dixit ad Abiathar sacerdotem: Applica ephod.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quod cum David rescisset quia præpararet ei Saul clam malum, dixit ad Abiathar sacerdotem: Applica ephod.",
+        "Clem-Saints": "Quod cum David rescisset quia præpararet ei Saul clam malum, dixit ad Abiathar sacerdotem: Applica ephod.",
+        "VulgHetzenauer (1906)": "Quod cum David rescisset quia præpararet ei Saul clam malum, dixit ad Abiathar sacerdotem: Applica ephod.",
+        "VulgConte (2009)": "Quod cum David rescisset quia præpararet ei Saul clam malum, dixit ad Abiathar sacerdotem: Applica ephod.",
+        "VulgSistina (1590)": "Quod cum David rescisset quia praepararet ei Saul clam malum, dixit ad Abiathar sacerdotem: Applica ephod."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69234,
+      "verse": 10,
+      "critical_text": "Et ait David: Domine Deus Israël, audivit famam servus tuus, quod disponat Saul venire in Ceilam, ut evertat urbem propter me:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ait David: Domine Deus Israël, audivit famam servus tuus, quod disponat Saul venire in Ceilam, ut evertat urbem propter me:",
+        "Clem-Saints": "Et ait David: Domine Deus Israël, audivit famam servus tuus, quod disponat Saul venire in Ceilam, ut evertat urbem propter me:",
+        "VulgHetzenauer (1906)": "Et ait David: Domine Deus Israel, audivit famam servus tuus, quod disponat Saul venire in Ceilam, ut evertat urbem propter me:",
+        "VulgConte (2009)": "Et ait David: Domine Deus Israel, audivit famam servus tuus, quod disponat Saul venire in Ceilam, ut evertat urbem propter me:",
+        "VulgSistina (1590)": "Et ait David: Domine Deus Israel, audivit famam servus tuus, quod disponat Saul venire in Ceilam, ut evertat urbem propter me:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69235,
+      "verse": 11,
+      "critical_text": "si tradent me viri Ceilæ in manus ejus? et si descendet Saul, sicut audivit servus tuus? Domine Deus Israël, indica servo tuo. Et ait Dominus: Descendet.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "si tradent me viri Ceilæ in manus ejus? et si descendet Saul, sicut audivit servus tuus? Domine Deus Israël, indica servo tuo. Et ait Dominus: Descendet.",
+        "Clem-Saints": "si tradent me viri Ceilæ in manus ejus? et si descendet Saul, sicut audivit servus tuus? Domine Deus Israël, indica servo tuo. Et ait Dominus: Descendet.",
+        "VulgHetzenauer (1906)": "Si tradent me viri Ceilæ in manus eius? et si descendet Saul, sicut audivit servus tuus? Domine Deus Israel indica servo tuo. Et ait Dominus: Descendet.",
+        "VulgConte (2009)": "Si tradent me viri Ceilæ in manus eius? Et si descendet Saul, sicut audivit servus tuus? Domine Deus Israel indica servo tuo. Et ait Dominus: Descendet.",
+        "VulgSistina (1590)": "Si tradent me viri Ceilae in manus eius? et si descendet Saul, sicut audivit servus tuus? Domine Deus Israel indica servo tuo. Et ait Dominus: Descendet."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69236,
+      "verse": 12,
+      "critical_text": "Dixitque David: Si tradent me viri Ceilæ, et viros qui sunt mecum, in manus Saul? Et dixit Dominus: Tradent.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque David: Si tradent me viri Ceilæ, et viros qui sunt mecum, in manus Saul? Et dixit Dominus: Tradent.",
+        "VulgHetzenauer (1906)": "Dixitque David: Si tradent me viri Ceilæ, et viros qui sunt mecum, in manus Saul? et dixit Dominus: Tradent.",
+        "VulgConte (2009)": "Dixitque David: Si tradent me viri Ceilæ, et viros qui sunt mecum, in manus Saul? Et dixit Dominus: Tradent.",
+        "VulgSistina (1590)": "Dixitque David: Si tradent me viri Ceilae, et viros qui sunt mecum, in manus Saul? et dixit Dominus: Tradent."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69237,
+      "verse": 13,
+      "critical_text": "Surrexit ergo David et viri ejus quasi sexcenti, et egressi de Ceila, huc atque illuc vagabantur incerti: nuntiatumque est Sauli quod fugisset David de Ceila, et salvatus esset: quam ob rem dissimulavit exire.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Surrexit ergo David et viri ejus quasi sexcenti, et egressi de Ceila, huc atque illuc vagabantur incerti: nuntiatumque est Sauli quod fugisset David de Ceila, et salvatus esset: quam ob rem dissimulavit exire.",
+        "Clem-Saints": "Surrexit ergo David et viri ejus quasi sexcenti, et egressi de Ceila, huc atque illuc vagabantur incerti: nuntiatumque est Sauli quod fugisset David de Ceila, et salvatus esset: quam ob rem dissimulavit exire.",
+        "VulgHetzenauer (1906)": "Surrexit ergo David et viri eius quasi sexcenti, et egressi de Ceila, huc atque illuc vagabantur incerti: nunciatumque est Sauli quod fugisset David de Ceila, et salvatus esset: quam ob rem dissimulavit exire.",
+        "VulgConte (2009)": "Surrexit ergo David et viri eius quasi sexcenti, et egressi de Ceila, huc atque illuc vagabantur incerti: nunciatumque est Sauli quod fugisset David de Ceila, et salvatus esset: quam ob rem dissimulavit exire.",
+        "VulgSistina (1590)": "Surrexit ergo David et viri eius quasi sexcenti, et egressi de Ceila, huc atque illuc vagabantur incerti: nunciatumque est Sauli quod fugisset David de Ceila, et salvatus esset: quam ob rem dissimulavit exire."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntiatumque / nunciatumque",
+            "nuntiatumque / nunciatumque",
+            "nuntiatumque / nunciatumque"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69238,
+      "verse": 14,
+      "critical_text": "Morabatur autem David in deserto in locis firmissimis, mansitque in monte solitudinis Ziph, in monte opaco: quærebat eum tamen Saul cunctis diebus, et non tradidit eum Deus in manus ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Morabatur autem David in deserto in locis firmissimis, mansitque in monte solitudinis Ziph, in monte opaco: quærebat eum tamen Saul cunctis diebus, et non tradidit eum Deus in manus ejus.",
+        "Clem-Saints": "Morabatur autem David in deserto in locis firmissimis, mansitque in monte solitudinis Ziph, in monte opaco: quærebat eum tamen Saul cunctis diebus, et non tradidit eum Deus in manus ejus.",
+        "VulgHetzenauer (1906)": "Morabatur autem David in deserto in locis firmissimis, mansitque in monte solitudinis Ziph, in monte opaco: quærebat eum tamen Saul cunctis diebus: et non tradidit eum Deus in manus eius.",
+        "VulgConte (2009)": "Morabatur autem David in deserto in locis firmissimis, mansitque in monte solitudinis Ziph, in monte opaco: quærebat eum tamen Saul cunctis diebus: et non tradidit eum Deus in manus eius.",
+        "VulgSistina (1590)": "Morabatur autem David in deserto in locis firmissimis, mansitque in monte solitudinis Ziph, in monte opaco: quaerebat eum tamen Saul cunctis diebus: et non tradidit eum Dominus in manus eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Deus",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Dominus",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 26,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "deus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69239,
+      "verse": 15,
+      "critical_text": "Et vidit David quod egressus esset Saul ut quæreret animam ejus. Porro David erat in deserto Ziph in silva.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et vidit David quod egressus esset Saul ut quæreret animam ejus. Porro David erat in deserto Ziph in silva.",
+        "Clem-Saints": "Et vidit David quod egressus esset Saul ut quæreret animam ejus. Porro David erat in deserto Ziph in silva.",
+        "VulgHetzenauer (1906)": "Et vidit David quod egressus esset Saul ut quæreret animam eius. Porro David erat in deserto Ziph in silva.",
+        "VulgConte (2009)": "Et vidit David quod egressus esset Saul ut quæreret animam eius. Porro David erat in deserto Ziph in silva.",
+        "VulgSistina (1590)": "Et vidit David quod egressus esset Saul ut quaereret animam eius. Porro David erat in deserto Ziph in silva."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69240,
+      "verse": 16,
+      "critical_text": "Et surrexit Jonathas filius Saul, et abiit ad David in silvam, et confortavit manus ejus in Deo: dixitque ei:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et surrexit Jonathas filius Saul, et abiit ad David in silvam, et confortavit manus ejus in Deo: dixitque ei:",
+        "Clem-Saints": "Et surrexit Jonathas filius Saul, et abiit ad David in silvam, et confortavit manus ejus in Deo: dixitque ei:",
+        "VulgHetzenauer (1906)": "Et surrexit Ionathas filius Saul, et abiit ad David in silvam, et confortavit manus eius in Deo: dixitque ei:",
+        "VulgConte (2009)": "Et surrexit Ionathas filius Saul, et abiit ad David in silvam, et confortavit manus eius in Deo: dixitque ei:",
+        "VulgSistina (1590)": "Et surrexit Ionathas filius Saul, et abiit ad David in silvam, et confortavit manus eius in Deo: dixitque ei:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69241,
+      "verse": 17,
+      "critical_text": "Ne timeas: neque enim inveniet te manus Saul patris mei, et tu regnabis super Israël, et ego ero tibi secundus: sed et Saul pater meus scit hoc.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ne timeas: neque enim inveniet te manus Saul patris mei, et tu regnabis super Israël, et ego ero tibi secundus: sed et Saul pater meus scit hoc.",
+        "Clem-Saints": "Ne timeas: neque enim inveniet te manus Saul patris mei, et tu regnabis super Israël, et ego ero tibi secundus: sed et Saul pater meus scit hoc.",
+        "VulgHetzenauer (1906)": "Ne timeas: neque enim inveniet te manus Saul patris mei, et tu regnabis super Israel, et ego ero tibi secundus, sed et Saul pater meus scit hoc.",
+        "VulgConte (2009)": "Ne timeas: neque enim inveniet te manus Saul patris mei, et tu regnabis super Israel, et ego ero tibi secundus, sed et Saul pater meus scit hoc.",
+        "VulgSistina (1590)": "Ne timeas: neque enim inveniet te manus Saul patris mei, et tu regnabis super Israel, et ego ero tibi secundus, sed et Saul pater meus scit hoc."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69242,
+      "verse": 18,
+      "critical_text": "Percussit ergo uterque fœdus coram Domino: mansitque David in silva, Jonathas autem reversus est in domum suam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Percussit ergo uterque fœdus coram Domino: mansitque David in silva, Jonathas autem reversus est in domum suam.",
+        "Clem-Saints": "Percussit ergo uterque fœdus coram Domino: mansitque David in silva, Jonathas autem reversus est in domum suam.",
+        "VulgHetzenauer (1906)": "Percussit ergo uterque fœdus coram Domino: mansitque David in silva: Ionathas autem reversus est in domum suam.",
+        "VulgConte (2009)": "Percussit ergo uterque fœdus coram Domino: mansitque David in silva: Ionathas autem reversus est in domum suam.",
+        "VulgSistina (1590)": "Percussit ergo uterque foedus coram Domino: mansitque David in silva: Ionathas autem reversus est in domum suam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69243,
+      "verse": 19,
+      "critical_text": "Ascenderunt autem Ziphæi ad Saul in Gabaa, dicentes: Nonne ecce David latitat apud nos in locis tutissimis silvæ, in colle Hachila, quæ est ad dexteram deserti?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ascenderunt autem Ziphæi ad Saul in Gabaa, dicentes: Nonne ecce David latitat apud nos in locis tutissimis silvæ, in colle Hachila, quæ est ad dexteram deserti?",
+        "Clem-Saints": "Ascenderunt autem Ziphæi ad Saul in Gabaa, dicentes: Nonne ecce David latitat apud nos in locis tutissimis silvæ, in colle Hachila, quæ est ad dexteram deserti?",
+        "VulgHetzenauer (1906)": "Ascenderunt autem Ziphæi ad Saul in Gabaa, dicentes: Nonne ecce David latitat apud nos in locis tutissimis silvæ, in Colle Hachila, quæ est ad dexteram deserti?",
+        "VulgConte (2009)": "Ascenderunt autem Ziphæi ad Saul in Gabaa, dicentes: Nonne ecce David latitat apud nos in locis tutissimis silvæ, in Colle Hachila, quæ est ad dexteram deserti?",
+        "VulgSistina (1590)": "Ascenderunt autem Ziphaei ad Saul in Gabaa, dicentes: Nonne ecce David latitat apud nos in locis tutissimis silvae, in Colle Hachila, quae est ad dexteram deserti?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69244,
+      "verse": 20,
+      "critical_text": "Nunc ergo, sicut desideravit anima tua ut descenderes, descende: nostrum autem erit ut tradamus eum in manus regis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nunc ergo, sicut desideravit anima tua ut descenderes, descende: nostrum autem erit ut tradamus eum in manus regis.",
+        "Clem-Saints": "Nunc ergo, sicut desideravit anima tua ut descenderes, descende: nostrum autem erit ut tradamus eum in manus regis.",
+        "VulgHetzenauer (1906)": "Nunc ergo, sicut desideravit anima tua ut descenderes, descende: nostrum autem erit ut tradamus eum in manus regis.",
+        "VulgConte (2009)": "Nunc ergo, sicut desideravit anima tua ut descenderes, descende: nostrum autem erit ut tradamus eum in manus regis.",
+        "VulgSistina (1590)": "Nunc ergo, sicut desideravit anima tua ut descenderes, descende: nostrum autem erit ut tradamus eum in manus regis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69245,
+      "verse": 21,
+      "critical_text": "Dixitque Saul: Benedicti vos a Domino, quia doluistis vicem meam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque Saul: Benedicti vos a Domino, quia doluistis vicem meam.",
+        "Clem-Saints": "Dixitque Saul: Benedicti vos a Domino, quia doluistis vicem meam.",
+        "VulgHetzenauer (1906)": "Dixitque Saul: Benedicti vos a Domino, quia doluistis vicem meam.",
+        "VulgConte (2009)": "Dixitque Saul: Benedicti vos a Domino, quia doluistis vicem meam.",
+        "VulgSistina (1590)": "Dixitque Saul: Benedicti vos a Domino, quia doluistis vicem meam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69246,
+      "verse": 22,
+      "critical_text": "Abite ergo, oro, et diligentius præparate, et curiosius agite, et considerate locum ubi sit pes ejus, vel quis viderit eum ibi: recogitat enim de me, quod callide insidier ei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Abite ergo, oro, et diligentius præparate, et curiosius agite, et considerate locum ubi sit pes ejus, vel quis viderit eum ibi: recogitat enim de me, quod callide insidier ei.",
+        "Clem-Saints": "Abite ergo, oro, et diligentius præparate, et curiosius agite, et considerate locum ubi sit pes ejus, vel quis viderit eum ibi: recogitat enim de me, quod callide insidier ei.",
+        "VulgHetzenauer (1906)": "Abite ergo, oro, et diligentius præparate, et curiosius agite, et considerate locum ubi sit pes eius, vel quis viderit eum ibi, recogitat enim de me, quod callide insidier ei.",
+        "VulgConte (2009)": "Abite ergo, oro, et diligentius præparate, et curiosius agite, et considerate locum ubi sit pes eius, vel quis viderit eum ibi, recogitat enim de me, quod callide insidier ei.",
+        "VulgSistina (1590)": "Abite ergo, oro, et diligentius praeparate, et curiosius agite, et considerate locum ubi sit pes eius, vel quis viderit eum ibi, recogitat enim de me, quod callide insidier ei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69247,
+      "verse": 23,
+      "critical_text": "Considerate, et videte omnia latibula ejus in quibus absconditur: et revertimini ad me ad rem certam, ut vadam vobiscum. Quod si etiam in terram se abstruserit, perscrutabor eum in cunctis millibus Juda.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Considerate, et videte omnia latibula ejus in quibus absconditur: et revertimini ad me ad rem certam, ut vadam vobiscum. Quod si etiam in terram se abstruserit, perscrutabor eum in cunctis millibus Juda.",
+        "Clem-Saints": "Considerate, et videte omnia latibula ejus in quibus absconditur: et revertimini ad me ad rem certam, ut vadam vobiscum. Quod si etiam in terram se abstruserit, perscrutabor eum in cunctis millibus Juda.",
+        "VulgHetzenauer (1906)": "Considerate et videte omnia latibula eius, in quibus absconditur: et revertimini ad me ad rem certam, ut vadam vobiscum. quod si etiam in terram se abstruserit, perscrutabor eum in cunctis millibus Iuda.",
+        "VulgConte (2009)": "Considerate et videte omnia latibula eius, in quibus absconditur: et revertimini ad me ad rem certam, ut vadam vobiscum. Quod si etiam in terram se abstruserit, perscrutabor eum in cunctis millibus Iuda.",
+        "VulgSistina (1590)": "Considerate et videte omnia latibula eius, in quibus absconditur: et revertimini ad me ad rem certam, ut vadam vobiscum. quod si etiam in terram se obstruxerit, perscrutabor eum in cunctis millibus Iuda."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "abstruserit,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "obstruxerit,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 25,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "abstruserit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69248,
+      "verse": 24,
+      "critical_text": "At illi surgentes abierunt in Ziph ante Saul: David autem et viri ejus erant in deserto Maon, in campestribus ad dexteram Jesimon.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "At illi surgentes abierunt in Ziph ante Saul: David autem et viri ejus erant in deserto Maon, in campestribus ad dexteram Jesimon.",
+        "Clem-Saints": "At illi surgentes abierunt in Ziph ante Saul: David autem et viri ejus erant in deserto Maon, in campestribus ad dexteram Jesimon.",
+        "VulgHetzenauer (1906)": "At illi surgentes abierunt in Ziph ante Saul: David autem et viri eius erant in deserto Maon, in campestribus ad dexteram Iesimon.",
+        "VulgConte (2009)": "At illi surgentes abierunt in Ziph ante Saul: David autem et viri eius erant in deserto Maon, in campestribus ad dexteram Iesimon.",
+        "VulgSistina (1590)": "At illi surgentes abierunt in Ziph ante Saul: David autem et viri eius erant in deserto Maon, in campestribus ad dexteram Iesimon."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69249,
+      "verse": 25,
+      "critical_text": "Ivit ergo Saul et socii ejus ad quærendum eum. Et nuntiatum est David: statimque descendit ad petram, et versabatur in deserto Maon: quod cum audisset Saul, persecutus est David in deserto Maon.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ivit ergo Saul et socii ejus ad quærendum eum. Et nuntiatum est David: statimque descendit ad petram, et versabatur in deserto Maon: quod cum audisset Saul, persecutus est David in deserto Maon.",
+        "Clem-Saints": "Ivit ergo Saul et socii ejus ad quærendum eum. Et nuntiatum est David: statimque descendit ad petram, et versabatur in deserto Maon: quod cum audisset Saul, persecutus est David in deserto Maon.",
+        "VulgHetzenauer (1906)": "Ivit ergo Saul et socii eius ad quærendum eum: et nunciatum est David, statimque descendit ad petram, et versabatur in deserto Maon. quod cum audisset Saul, persecutus est David in deserto Maon.",
+        "VulgConte (2009)": "Ivit ergo Saul et socii eius ad quærendum eum: et nunciatum est David, statimque descendit ad petram, et versabatur in deserto Maon. Quod cum audisset Saul, persecutus est David in deserto Maon.",
+        "VulgSistina (1590)": "Ivit ergo Saul et socii eius ad quaerendum eum: et nunciatum est David, statimque descendit ad petram, et versabatur in deserto Maon. quod cum audisset Saul, persecutus est David in deserto Maon."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntiatum / nunciatum",
+            "nuntiatum / nunciatum",
+            "nuntiatum / nunciatum"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69250,
+      "verse": 26,
+      "critical_text": "Et ibat Saul ad latus montis ex parte una: David autem et viri ejus erant in latere montis ex parte altera. Porro David desperabat se posse evadere a facie Saul: itaque Saul et viri ejus in modum coronæ cingebant David et viros ejus, ut caperent eos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ibat Saul ad latus montis ex parte una: David autem et viri ejus erant in latere montis ex parte altera. Porro David desperabat se posse evadere a facie Saul: itaque Saul et viri ejus in modum coronæ cingebant David et viros ejus, ut caperent eos.",
+        "Clem-Saints": "Et ibat Saul ad latus montis ex parte una: David autem et viri ejus erant in latere montis ex parte altera. Porro David desperabat se posse evadere a facie Saul: itaque Saul et viri ejus in modum coronæ cingebant David et viros ejus, ut caperent eos.",
+        "VulgHetzenauer (1906)": "Et ibat Saul ad latus montis ex parte una: David autem et viri eius erant in latere montis ex parte altera: porro David desperabat se posse evadere a facie Saul: itaque Saul, et viri eius in modum coronæ cingebant David, et viros eius, ut caperent eos.",
+        "VulgConte (2009)": "Et ibat Saul ad latus montis ex parte una: David autem et viri eius erant in latere montis ex parte altera: porro David desperabat se posse evadere a facie Saul: itaque Saul, et viri eius in modum coronæ cingebant David, et viros eius, ut caperent eos.",
+        "VulgSistina (1590)": "Et ibat Saul ad latus montis ex parte una: David autem et viri eius erant in latere montis ex parte altera: porro David desperabat se posse evadere a facie Saul: itaque Saul, et viri eius in modum coronae cingebant David, et viros eius, ut caperent eos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69251,
+      "verse": 27,
+      "critical_text": "Et nuntius venit ad Saul, dicens: Festina, et veni, quoniam infuderunt se Philisthiim super terram.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et nuntius venit ad Saul, dicens: Festina, et veni, quoniam infuderunt se Philisthiim super terram.",
+        "Clem-Saints": "Et nuntius venit ad Saul, dicens: Festina, et veni, quoniam infuderunt se Philisthiim super terram.",
+        "VulgHetzenauer (1906)": "Et nuncius venit ad Saul, dicens: Festina, et veni, quoniam infuderunt se Philisthiim super terram.",
+        "VulgConte (2009)": "Et nuncius venit ad Saul, dicens: Festina, et veni, quoniam infuderunt se Philisthiim super terram.",
+        "VulgSistina (1590)": "Et nuncius venit ad Saul, dicens: Festina, et veni, quoniam infuderunt se Philisthiim super terram."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntius / nuncius",
+            "nuntius / nuncius",
+            "nuntius / nuncius"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 69252,
+      "verse": 28,
+      "critical_text": "Reversus est ergo Saul desistens persequi David, et perrexit in occursum Philisthinorum: propter hoc vocaverunt locum illum, Petram dividentem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Reversus est ergo Saul desistens persequi David, et perrexit in occursum Philisthinorum: propter hoc vocaverunt locum illum, Petram dividentem.",
+        "Clem-Saints": "Reversus est ergo Saul desistens persequi David, et perrexit in occursum Philisthinorum: propter hoc vocaverunt locum illum, Petram dividentem.",
+        "VulgHetzenauer (1906)": "Reversus est ergo Saul desistens persequi David, et perrexit in occursum Philisthinorum. propter hoc vocaverunt locum illum, Petram dividentem.",
+        "VulgConte (2009)": "Reversus est ergo Saul desistens persequi David, et perrexit in occursum Philisthinorum. Propter hoc vocaverunt locum illum, Petram Dividentem.",
+        "VulgSistina (1590)": "Reversus est ergo Saul desistens persequi David, et perrexit in occursum Philisthinorum. propter hoc vocaverunt locum illum, Petram dividentem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

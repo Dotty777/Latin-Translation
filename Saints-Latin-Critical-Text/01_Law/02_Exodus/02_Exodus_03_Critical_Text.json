@@ -1,0 +1,766 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "01_Law",
+  "book_slug": "exodus",
+  "book_title": "Exodus",
+  "usfm_code": "EXO",
+  "chapter": 3,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:11Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 63068,
+      "verse": 1,
+      "critical_text": "Moyses autem pascebat oves Jethro soceri sui sacerdotis Madian: cumque minasset gregem ad interiora deserti, venit ad montem Dei Horeb.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Moyses autem pascebat oves Jethro soceri sui sacerdotis Madian: cumque minasset gregem ad interiora deserti, venit ad montem Dei Horeb.",
+        "Clem-Saints": "Moyses autem pascebat oves Jethro soceri sui sacerdotis Madian: cumque minasset gregem ad interiora deserti, venit ad montem Dei Horeb.",
+        "VulgHetzenauer (1906)": "Moyses autem pascebat oves Iethro soceri sui sacerdotis Madian: cumque minasset gregem ad interiora deserti, venit ad montem Dei Horeb.",
+        "VulgConte (2009)": "Moyses autem pascebat oves Iethro soceri sui sacerdotis Madian: cumque minasset gregem ad interiora deserti, venit ad montem Dei Horeb.",
+        "VulgSistina (1590)": "Moyses autem pascebat oves Iethro soceri sui sacerdotis Madian: cumque minasset gregem ad interiora deserti, venit ad montem Dei Horeb."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63069,
+      "verse": 2,
+      "critical_text": "Apparuitque ei Dominus in flamma ignis de medio rubi: et videbat quod rubus arderet, et non combureretur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Apparuitque ei Dominus in flamma ignis de medio rubi: et videbat quod rubus arderet, et non combureretur.",
+        "Clem-Saints": "Apparuitque ei Dominus in flamma ignis de medio rubi: et videbat quod rubus arderet, et non combureretur.",
+        "VulgHetzenauer (1906)": "Apparuitque ei Dominus in flamma ignis de medio rubi: et videbat quod rubus arderet, et non combureretur.",
+        "VulgConte (2009)": "Apparuitque ei Dominus in flamma ignis de medio rubi: et videbat quod rubus arderet, et non combureretur.",
+        "VulgSistina (1590)": "Apparuitque ei Dominus in flamma ignis de medio rubi: et videbat quod rubus ardebat, et non combureretur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "arderet,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "ardebat,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 13,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "arderet",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63070,
+      "verse": 3,
+      "critical_text": "Dixit ergo Moyses: Vadam, et videbo visionem hanc magnam, quare non comburatur rubus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixit ergo Moyses: Vadam, et videbo visionem hanc magnam, quare non comburatur rubus.",
+        "Clem-Saints": "Dixit ergo Moyses: Vadam, et videbo visionem hanc magnam, quare non comburatur rubus.",
+        "VulgHetzenauer (1906)": "Dixit ergo Moyses: Vadam, et videbo visionem hanc magnam, quare non comburatur rubus.",
+        "VulgConte (2009)": "Dixit ergo Moyses: Vadam, et videbo visionem hanc magnam, quare non comburatur rubus.",
+        "VulgSistina (1590)": "Dixit ergo Moyses: Vadam, et videbo visionem hanc magnam, quare non comburatur rubus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63071,
+      "verse": 4,
+      "critical_text": "Cernens autem Dominus quod pergeret ad videndum, vocavit eum de medio rubi, et ait: Moyses, Moyses. Qui respondit: Adsum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cernens autem Dominus quod pergeret ad videndum, vocavit eum de medio rubi, et ait: Moyses, Moyses. Qui respondit: Adsum.",
+        "Clem-Saints": "Cernens autem Dominus quod pergeret ad videndum, vocavit eum de medio rubi, et ait: Moyses, Moyses. Qui respondit: Adsum.",
+        "VulgHetzenauer (1906)": "Cernens autem Dominus quod pergeret ad videndum, vocavit eum de medio rubi, et ait: Moyses, Moyses. Qui respondit: Adsum.",
+        "VulgConte (2009)": "Cernens autem Dominus quod pergeret ad videndum, vocavit eum de medio rubi, et ait: Moyses, Moyses. Qui respondit: Adsum.",
+        "VulgSistina (1590)": "Cernens autem Dominus quod pergeret ad videndum, vocavit eum de medio rubi, et ait: Moyses, Moyses. Qui respondit: Adsum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63072,
+      "verse": 5,
+      "critical_text": "At ille: Ne appropies, inquit, huc: solve calceamentum de pedibus tuis: locus enim, in quo stas, terra sancta est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "At ille: Ne appropies, inquit, huc: solve calceamentum de pedibus tuis: locus enim, in quo stas, terra sancta est.",
+        "Clem-Saints": "At ille: Ne appropies, inquit, huc: solve calceamentum de pedibus tuis: locus enim, in quo stas, terra sancta est.",
+        "VulgHetzenauer (1906)": "At ille: Ne appropies, inquit, huc: solve calceamentum de pedibus tuis: locus enim, in quo stas, terra sancta est.",
+        "VulgConte (2009)": "At ille: Ne appropies, inquit, huc: solve calceamentum de pedibus tuis: locus enim, in quo stas, terra sancta est.",
+        "VulgSistina (1590)": "At ille: Ne appropies, inquit, huc: solve calceamentum de pedibus tuis: locus enim, in quo stas, terra sancta est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63073,
+      "verse": 6,
+      "critical_text": "Et ait: Ego sum Deus patris tui, Deus Abraham, Deus Isaac et Deus Jacob. Abscondit Moyses faciem suam: non enim audebat aspicere contra Deum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ait: Ego sum Deus patris tui, Deus Abraham, Deus Isaac et Deus Jacob. Abscondit Moyses faciem suam: non enim audebat aspicere contra Deum.",
+        "Clem-Saints": "Et ait: Ego sum Deus patris tui, Deus Abraham, Deus Isaac et Deus Jacob. Abscondit Moyses faciem suam: non enim audebat aspicere contra Deum.",
+        "VulgHetzenauer (1906)": "Et ait: Ego sum Deus patris tui, Deus Abraham, Deus Isaac, et Deus Iacob. Abscondit Moyses faciem suam: non enim audebat aspicere contra Deum.",
+        "VulgConte (2009)": "Et ait: Ego sum Deus patris tui, Deus Abraham, Deus Isaac, et Deus Iacob. Abscondit Moyses faciem suam: non enim audebat aspicere contra Deum.",
+        "VulgSistina (1590)": "Et ait: Ego sum Deus patris tui, Deus Abraham, Deus Isaac, et Deus Iacob. Abscondit Moyses faciem suam: non enim audebat aspicere contra Deum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63074,
+      "verse": 7,
+      "critical_text": "Cui ait Dominus: Vidi afflictionem populi mei in Ægypto, et clamorem ejus audivi propter duritiam eorum qui præsunt operibus:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cui ait Dominus: Vidi afflictionem populi mei in Ægypto, et clamorem ejus audivi propter duritiam eorum qui præsunt operibus:",
+        "Clem-Saints": "Cui ait Dominus: Vidi afflictionem populi mei in Ægypto, et clamorem ejus audivi propter duritiam eorum qui præsunt operibus:",
+        "VulgHetzenauer (1906)": "Cui ait Dominus: Vidi afflictionem populi mei in Ægypto, et clamorem eius audivi propter duritiam eorum qui præsunt operibus:",
+        "VulgConte (2009)": "Cui ait Dominus: Vidi afflictionem populi mei in Ægypto, et clamorem eius audivi propter duritiam eorum qui præsunt operibus:",
+        "VulgSistina (1590)": "Cui ait Dominus: Vidi afflictionem populi mei in Aegypto, et clamorem eius audivi propter duritiam eorum qui praesunt operibus:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63075,
+      "verse": 8,
+      "critical_text": "et sciens dolorem ejus, descendi ut liberem eum de manibus Ægyptiorum, et educam de terra illa in terram bonam, et spatiosam, in terram quæ fluit lacte et melle, ad loca Chananæi et Hethæi, et Amorrhæi, et Pherezæi, et Hevæi, et Jebusæi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et sciens dolorem ejus, descendi ut liberem eum de manibus Ægyptiorum, et educam de terra illa in terram bonam, et spatiosam, in terram quæ fluit lacte et melle, ad loca Chananæi et Hethæi, et Amorrhæi, et Pherezæi, et Hevæi, et Jebusæi.",
+        "Clem-Saints": "et sciens dolorem ejus, descendi ut liberem eum de manibus Ægyptiorum, et educam de terra illa in terram bonam, et spatiosam, in terram quæ fluit lacte et melle, ad loca Chananæi et Hethæi, et Amorrhæi, et Pherezæi, et Hevæi, et Jebusæi.",
+        "VulgHetzenauer (1906)": "et sciens dolorem eius, descendi ut liberem eum de manibus Ægyptiorum, et educam de terra illa in terram bonam, et spatiosam, in terram quæ fluit lacte et melle, ad loca Chananæi, et Hethæi, et Amorrhæi, et Pherezæi, et Hevæi, et Iebusæi.",
+        "VulgConte (2009)": "et sciens dolorem eius, descendi ut liberem eum de manibus Ægyptiorum, et educam de terra illa in terram bonam, et spatiosam, in terram quæ fluit lacte et melle, ad loca Chananæi, et Hethæi, et Amorrhæi, et Pherezæi, et Hevæi, et Iebusæi.",
+        "VulgSistina (1590)": "et sciens dolorem eius, descendi ut liberem eum de manibus Aegyptiorum, et educam de terra illa in terram bonam, et spatiosam, in terram quae fluit lacte et melle, ad loca Chananaei, et Hethaei, et Amorrhaei, et Pherezaei, et Hevaei, et Iebusaei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63076,
+      "verse": 9,
+      "critical_text": "Clamor ergo filiorum Israël venit ad me: vidique afflictionem eorum, qua ab Ægyptiis opprimuntur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Clamor ergo filiorum Israël venit ad me: vidique afflictionem eorum, qua ab Ægyptiis opprimuntur.",
+        "Clem-Saints": "Clamor ergo filiorum Israël venit ad me: vidique afflictionem eorum, qua ab Ægyptiis opprimuntur.",
+        "VulgHetzenauer (1906)": "Clamor ergo filiorum Israel venit ad me: vidique afflictionem eorum, qua ab Ægyptiis opprimuntur.",
+        "VulgConte (2009)": "Clamor ergo filiorum Israel venit ad me: vidique afflictionem eorum, qua ab Ægyptiis opprimuntur.",
+        "VulgSistina (1590)": "Clamor ergo filiorum Israel venit ad me: vidique afflictionem eorum, qua ab Aegyptiis opprimuntur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63077,
+      "verse": 10,
+      "critical_text": "Sed veni, et mittam te ad Pharaonem, ut educas populum meum, filios Israël, de Ægypto.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sed veni, et mittam te ad Pharaonem, ut educas populum meum, filios Israël, de Ægypto.",
+        "Clem-Saints": "Sed veni, et mittam te ad Pharaonem, ut educas populum meum, filios Israël, de Ægypto.",
+        "VulgHetzenauer (1906)": "Sed veni, et mittam te ad Pharaonem, ut educas populum meum, filios Israel de Ægypto.",
+        "VulgConte (2009)": "Sed veni, et mittam te ad Pharaonem, ut educas populum meum, filios Israel de Ægypto.",
+        "VulgSistina (1590)": "Sed veni, et mittam te ad Pharaonem, ut educas populum meum, filios Israel de Aegypto."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63078,
+      "verse": 11,
+      "critical_text": "Dixitque Moyses ad Deum: Quis sum ego ut vadam ad Pharaonem, et educam filios Israël de Ægypto?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque Moyses ad Deum: Quis sum ego ut vadam ad Pharaonem, et educam filios Israël de Ægypto?",
+        "Clem-Saints": "Dixitque Moyses ad Deum: Quis sum ego ut vadam ad Pharaonem, et educam filios Israël de Ægypto?",
+        "VulgHetzenauer (1906)": "Dixitque Moyses ad Deum: Quis sum ego ut vadam ad Pharaonem, et educam filios Israel de Ægypto?",
+        "VulgConte (2009)": "Dixitque Moyses ad Deum: Quis sum ego ut vadam ad Pharaonem, et educam filios Israel de Ægypto?",
+        "VulgSistina (1590)": "Dixitque Moyses ad Deum: Quis sum ego ut vadam ad Pharaonem, et educam filios Israel de Aegypto?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63079,
+      "verse": 12,
+      "critical_text": "Qui dixit ei: Ego ero tecum: et hoc habebis signum, quod miserim te: cum eduxeris populum meum de Ægypto, immolabis Deo super montem istum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui dixit ei: Ego ero tecum: et hoc habebis signum, quod miserim te: cum eduxeris populum meum de Ægypto, immolabis Deo super montem istum.",
+        "Clem-Saints": "Qui dixit ei: Ego ero tecum: et hoc habebis signum, quod miserim te: cum eduxeris populum meum de Ægypto, immolabis Deo super montem istum.",
+        "VulgHetzenauer (1906)": "Qui dixit ei: Ego ero tecum: et hoc habebis signum, quod miserim te: Cum eduxeris populum meum de Ægypto, immolabis Deo super montem istum.",
+        "VulgConte (2009)": "Qui dixit ei: Ego ero tecum: et hoc habebis signum, quod miserim te: Cum eduxeris populum meum de Ægypto, immolabis Deo super montem istum.",
+        "VulgSistina (1590)": "Qui dixit ei: Ego ero tecum: et hoc habebis signum, quod miserim te: Cum eduxeris populum meum de Aegypto, immolabis Deo super montem istum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63080,
+      "verse": 13,
+      "critical_text": "Ait Moyses ad Deum: Ecce ego vadam ad filios Israël, et dicam eis: Deus patrum vestrorum misit me ad vos. Si dixerint mihi: Quod est nomen ejus? quid dicam eis?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ait Moyses ad Deum: Ecce ego vadam ad filios Israël, et dicam eis: Deus patrum vestrorum misit me ad vos. Si dixerint mihi: Quod est nomen ejus? quid dicam eis?",
+        "Clem-Saints": "Ait Moyses ad Deum: Ecce ego vadam ad filios Israël, et dicam eis: Deus patrum vestrorum misit me ad vos. Si dixerint mihi: Quod est nomen ejus? quid dicam eis?",
+        "VulgHetzenauer (1906)": "Ait Moyses ad Deum: Ecce ego vadam ad filios Israel, et dicam eis: Deus patrum vestrorum misit me ad vos. Si dixerint mihi: Quod est nomen eius? quid dicam eis?",
+        "VulgConte (2009)": "Ait Moyses ad Deum: Ecce ego vadam ad filios Israel, et dicam eis: Deus patrum vestrorum misit me ad vos. Si dixerint mihi: Quod est nomen eius? quid dicam eis?",
+        "VulgSistina (1590)": "Ait Moyses ad Deum: Ecce ego vadam ad filios Israel, et dicam eis: Deus patrum vestrorum misit me ad vos. Si dixerint mihi: Quod est nomen eius? quid dicam eis?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63081,
+      "verse": 14,
+      "critical_text": "Dixit Deus ad Moysen: Ego sum qui sum. Ait: Sic dices filiis Israël: Qui est, misit me ad vos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixit Deus ad Moysen: Ego sum qui sum. Ait: Sic dices filiis Israël: Qui est, misit me ad vos.",
+        "Clem-Saints": "Dixit Deus ad Moysen: Ego sum qui sum. Ait: Sic dices filiis Israël: Qui est, misit me ad vos.",
+        "VulgHetzenauer (1906)": "Dixit Deus ad Moysen: EGO SUM QUI SUM. Ait: Sic dices filiis Israel: QUI EST, misit me ad vos.",
+        "VulgConte (2009)": "Dixit Deus ad Moysen: EGO SUM QUI SUM. Ait: Sic dices filiis Israel: QUI EST, misit me ad vos.",
+        "VulgSistina (1590)": "Dixit Dominus ad Moysen: EGO SUM QUI SUM. Ait: Sic dices filiis Israel: QUI EST, misit me ad vos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Deus",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Dominus",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "deus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63082,
+      "verse": 15,
+      "critical_text": "Dixitque iterum Deus ad Moysen: Hæc dices filiis Israël: Dominus Deus patrum vestrorum, Deus Abraham, Deus Isaac et Deus Jacob, misit me ad vos: hoc nomen mihi est in æternum, et hoc memoriale meum in generationem et generationem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque iterum Deus ad Moysen: Hæc dices filiis Israël: Dominus Deus patrum vestrorum, Deus Abraham, Deus Isaac et Deus Jacob, misit me ad vos: hoc nomen mihi est in æternum, et hoc memoriale meum in generationem et generationem.",
+        "Clem-Saints": "Dixitque iterum Deus ad Moysen: Hæc dices filiis Israël: Dominus Deus patrum vestrorum, Deus Abraham, Deus Isaac et Deus Jacob, misit me ad vos: hoc nomen mihi est in æternum, et hoc memoriale meum in generationem et generationem.",
+        "VulgHetzenauer (1906)": "Dixitque iterum Deus ad Moysen: Hæc dices filiis Israel: Dominus Deus patrum vestrorum, Deus Abraham, Deus Isaac, et Deus Iacob misit me ad vos: hoc nomen mihi est in æternum, et hoc memoriale meum in generationem et generationem.",
+        "VulgConte (2009)": "Dixitque iterum Deus ad Moysen: Hæc dices filiis Israel: Dominus Deus patrum vestrorum, Deus Abraham, Deus Isaac, et Deus Iacob misit me ad vos: hoc nomen mihi est in æternum, et hoc memoriale meum in generationem et generationem.",
+        "VulgSistina (1590)": "Dixitque iterum Deus ad Moysen: Haec dices filiis Israel: Dominus Deus patrum vestrorum, Deus Abraham, Deus Isaac, et Deus Iacob misit me ad vos: hoc nomen mihi est in aeternum, et hoc memoriale meum in generatione et generationem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "generationem",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "generatione",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 35,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "generationem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63083,
+      "verse": 16,
+      "critical_text": "Vade, et congrega seniores Israël, et dices ad eos: Dominus Deus patrum vestrorum apparuit mihi, Deus Abraham, Deus Isaac et Deus Jacob, dicens: Visitans visitavi vos: et vidi omnia quæ acciderunt vobis in Ægypto.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Vade, et congrega seniores Israël, et dices ad eos: Dominus Deus patrum vestrorum apparuit mihi, Deus Abraham, Deus Isaac et Deus Jacob, dicens: Visitans visitavi vos: et vidi omnia quæ acciderunt vobis in Ægypto.",
+        "Clem-Saints": "Vade, et congrega seniores Israël, et dices ad eos: Dominus Deus patrum vestrorum apparuit mihi, Deus Abraham, Deus Isaac et Deus Jacob, dicens: Visitans visitavi vos: et vidi omnia quæ acciderunt vobis in Ægypto.",
+        "VulgHetzenauer (1906)": "Vade, et congrega seniores Israel, et dices ad eos: Dominus Deus patrum vestrorum apparuit mihi, Deus Abraham, Deus Isaac, et Deus Iacob, dicens: Visitans visitavi vos, et vidi omnia quæ acciderunt vobis in Ægypto:",
+        "VulgConte (2009)": "Vade, et congrega seniores Israel, et dices ad eos: Dominus Deus patrum vestrorum apparuit mihi, Deus Abraham, Deus Isaac, et Deus Iacob, dicens: Visitans visitavi vos, et vidi omnia quæ acciderunt vobis in Ægypto:",
+        "VulgSistina (1590)": "Vade, et congrega seniores Israel, et dices ad eos: Dominus Deus patrum vestrorum apparuit mihi, Deus Abraham, Deus Isaac, et Deus Iacob, dicens: Visitans visitavi vos, et vidi omnia quae acciderunt vobis in Aegypto:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63084,
+      "verse": 17,
+      "critical_text": "Et dixi ut educam vos de afflictione Ægypti in terram Chananæi, et Hethæi, et Amorrhæi, et Pherezæi, et Hevæi, et Jebusæi, ad terram fluentem lacte et melle.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixi ut educam vos de afflictione Ægypti in terram Chananæi, et Hethæi, et Amorrhæi, et Pherezæi, et Hevæi, et Jebusæi, ad terram fluentem lacte et melle.",
+        "Clem-Saints": "Et dixi ut educam vos de afflictione Ægypti in terram Chananæi, et Hethæi, et Amorrhæi, et Pherezæi, et Hevæi, et Jebusæi, ad terram fluentem lacte et melle.",
+        "VulgHetzenauer (1906)": "Et dixi ut educam vos de afflictione Ægypti in terram Chananæi et Hethæi et Amorrhæi et Pherezæi et Hevæi et Iebusæi, ad terram fluentem lacte et melle.",
+        "VulgConte (2009)": "Et dixi ut educam vos de afflictione Ægypti in terram Chananæi et Hethæi et Amorrhæi et Pherezæi et Hevæi et Iebusæi, ad terram fluentem lacte et melle.",
+        "VulgSistina (1590)": "Et dixi ut educam vos de afflictione Aegypti in terram Chananaei et Hethaei et Amorrhaei et Pherezaei et Hevaei et Iebusaei, ad terram fluentem lacte et melle."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63085,
+      "verse": 18,
+      "critical_text": "Et audient vocem tuam: ingredierisque tu, et seniores Israël, ad regem Ægypti, et dices ad eum: Dominus Deus Hebræorum vocavit nos: ibimus viam trium dierum in solitudinem, ut immolemus Domino Deo nostro.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et audient vocem tuam: ingredierisque tu, et seniores Israël, ad regem Ægypti, et dices ad eum: Dominus Deus Hebræorum vocavit nos: ibimus viam trium dierum in solitudinem, ut immolemus Domino Deo nostro.",
+        "Clem-Saints": "Et audient vocem tuam: ingredierisque tu, et seniores Israël, ad regem Ægypti, et dices ad eum: Dominus Deus Hebræorum vocavit nos: ibimus viam trium dierum in solitudinem, ut immolemus Domino Deo nostro.",
+        "VulgHetzenauer (1906)": "Et audient vocem tuam: ingredierisque tu, et seniores Israel ad regem Ægypti, et dices ad eum: Dominus Deus Hebræorum vocavit nos: ibimus viam trium dierum in solitudinem, ut immolemus Domino Deo nostro.",
+        "VulgConte (2009)": "Et audient vocem tuam: ingredierisque tu, et seniores Israel ad regem Ægypti, et dices ad eum: Dominus Deus Hebræorum vocavit nos: ibimus viam trium dierum in solitudinem, ut immolemus Domino Deo nostro.",
+        "VulgSistina (1590)": "Et audient vocem tuam: ingredierisque tu, et seniores Israel ad regem Aegypti, et dices ad eum: Dominus Deus Hebraeorum vocavit nos: ibimus viam trium dierum in solitudinem, ut immolemus Domino Deo nostro."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63086,
+      "verse": 19,
+      "critical_text": "Sed ego scio quod non dimittet vos rex Ægypti ut eatis nisi per manum validam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sed ego scio quod non dimittet vos rex Ægypti ut eatis nisi per manum validam.",
+        "Clem-Saints": "Sed ego scio quod non dimittet vos rex Ægypti ut eatis nisi per manum validam.",
+        "VulgHetzenauer (1906)": "Sed ego scio quod non dimittet vos rex Ægypti ut eatis nisi per manum validam.",
+        "VulgConte (2009)": "Sed ego scio quod non dimittet vos rex Ægypti ut eatis nisi per manum validam.",
+        "VulgSistina (1590)": "Sed ego scio quod non dimittet vos rex Aegypti ut eatis nisi per manum validam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63087,
+      "verse": 20,
+      "critical_text": "Extendam enim manum meam, et percutiam Ægyptum in cunctis mirabilibus meis, quæ facturus sum in medio eorum: post hæc dimittet vos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Extendam enim manum meam, et percutiam Ægyptum in cunctis mirabilibus meis, quæ facturus sum in medio eorum: post hæc dimittet vos.",
+        "Clem-Saints": "Extendam enim manum meam, et percutiam Ægyptum in cunctis mirabilibus meis, quæ facturus sum in medio eorum: post hæc dimittet vos.",
+        "VulgHetzenauer (1906)": "Extendam enim manum meam, et percutiam Ægyptum in cunctis mirabilibus meis, quæ facturus sum in medio eorum: post hæc dimittet vos.",
+        "VulgConte (2009)": "Extendam enim manum meam, et percutiam Ægyptum in cunctis mirabilibus meis, quæ facturus sum in medio eorum: post hæc dimittet vos.",
+        "VulgSistina (1590)": "Extendamque manum meam, et percutiam Aegyptum in cunctis mirabilibus meis, quae facturus sum in medio eorum: post haec dimittet vos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Extendam enim",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Extendamque",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 0,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "extendam enim",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63088,
+      "verse": 21,
+      "critical_text": "Daboque gratiam populo huic coram Ægyptiis: et cum egrediemini, non exibitis vacui:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Daboque gratiam populo huic coram Ægyptiis: et cum egrediemini, non exibitis vacui:",
+        "Clem-Saints": "Daboque gratiam populo huic coram Ægyptiis: et cum egrediemini, non exibitis vacui:",
+        "VulgHetzenauer (1906)": "Daboque gratiam populo huic coram Ægyptiis: et cum egrediemini, non exibitis vacui:",
+        "VulgConte (2009)": "Daboque gratiam populo huic coram Ægyptiis: et cum egrediemini, non exibitis vacui:",
+        "VulgSistina (1590)": "Daboque gratiam populo huic coram Aegyptiis: et cum egrediemini, non exibitis vacui:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 63089,
+      "verse": 22,
+      "critical_text": "sed postulabit mulier a vicina sua et ab hospita sua, vasa argentea et aurea, ac vestes: ponetisque eas super filios et filias vestras, et spoliabitis Ægyptum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "sed postulabit mulier a vicina sua et ab hospita sua, vasa argentea et aurea, ac vestes: ponetisque eas super filios et filias vestras, et spoliabitis Ægyptum.",
+        "Clem-Saints": "sed postulabit mulier a vicina sua et ab hospita sua, vasa argentea et aurea, ac vestes: ponetisque eas super filios et filias vestras, et spoliabitis Ægyptum.",
+        "VulgHetzenauer (1906)": "sed postulabit mulier a vicina sua, et ab hospita sua, vasa argentea et aurea, ac vestes: ponetisque eas super filios et filias vestras, et spoliabitis Ægyptum.",
+        "VulgConte (2009)": "sed postulabit mulier a vicina sua, et ab hospita sua, vasa argentea et aurea, ac vestes: ponetisque eas super filios et filias vestras, et spoliabitis Ægyptum.",
+        "VulgSistina (1590)": "sed postulabit mulier a vicina sua, et ab hospita sua, vasa argentea et aurea, ac vestes: ponetisque eas super filios et filias vestras, et spoliabitis Aegyptum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

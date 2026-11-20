@@ -1,0 +1,526 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "ezra",
+  "book_title": "Ezra",
+  "usfm_code": "EZR",
+  "chapter": 3,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:01Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 73507,
+      "verse": 1,
+      "critical_text": "Jamque venerat mensis septimus, et erant filii Israël in civitatibus suis: congregatus est ergo populus quasi vir unus in Jerusalem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Jamque venerat mensis septimus, et erant filii Israël in civitatibus suis: congregatus est ergo populus quasi vir unus in Jerusalem.",
+        "Clem-Saints": "Jamque venerat mensis septimus, et erant filii Israël in civitatibus suis: congregatus est ergo populus quasi vir unus in Jerusalem.",
+        "VulgHetzenauer (1906)": "Iamque venerat mensis septimus, et erant filii Israel in civitatibus suis: congregatus est ergo populus quasi vir unus in Ierusalem.",
+        "VulgConte (2009)": "Iamque venerat mensis septimus, et erant filii Israel in civitatibus suis: congregatus est ergo populus quasi vir unus in Ierusalem.",
+        "VulgSistina (1590)": "Iamque venerat mensis septimus, et erant filii Israel in civitatibus suis: congregatus est ergo populus quasi vir unus in Ierusalem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73508,
+      "verse": 2,
+      "critical_text": "Et surrexit Josue filius Josedec, et fratres ejus sacerdotes, et Zorobabel filius Salathiel, et fratres ejus, et ædificaverunt altare Dei Israël ut offerrent in eo holocautomata, sicut scriptum est in lege Moysi viri Dei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et surrexit Josue filius Josedec, et fratres ejus sacerdotes, et Zorobabel filius Salathiel, et fratres ejus, et ædificaverunt altare Dei Israël ut offerrent in eo holocautomata, sicut scriptum est in lege Moysi viri Dei.",
+        "Clem-Saints": "Et surrexit Josue filius Josedec, et fratres ejus sacerdotes, et Zorobabel filius Salathiel, et fratres ejus, et ædificaverunt altare Dei Israël ut offerrent in eo holocautomata, sicut scriptum est in lege Moysi viri Dei.",
+        "VulgHetzenauer (1906)": "Et surrexit Iosue filius Iosedec, et fratres eius sacerdotes, et Zorobabel filius Salathiel, et fratres eius, et ædificaverunt altare Dei Israel ut offerrent in eo holocautomata, sicut scriptum est in lege Moysi viri Dei:",
+        "VulgConte (2009)": "Et surrexit Iosue filius Iosedec, et fratres eius sacerdotes, et Zorobabel filius Salathiel, et fratres eius, et ædificaverunt altare Dei Israel ut offerrent in eo holocautomata, sicut scriptum est in lege Moysi viri Dei:",
+        "VulgSistina (1590)": "Et surrexit Iosue filius Iosedec, et fratres eius sacerdotes, et Zorobabel filius Salathiel, et fratres eius, et aedificaverunt altare Dei Israel ut offerrent in eo holocaustomata, sicut scriptum est in lege Moysi viri Dei:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "holocautomata,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "holocaustomata,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 25,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "holocautomata",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73509,
+      "verse": 3,
+      "critical_text": "Collocaverunt autem altare Dei super bases suas, deterrentibus eos per circuitum populis terrarum: et obtulerunt super illud holocaustum Domino mane et vespere.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Collocaverunt autem altare Dei super bases suas, deterrentibus eos per circuitum populis terrarum: et obtulerunt super illud holocaustum Domino mane et vespere.",
+        "Clem-Saints": "Collocaverunt autem altare Dei super bases suas, deterrentibus eos per circuitum populis terrarum: et obtulerunt super illud holocaustum Domino mane et vespere.",
+        "VulgHetzenauer (1906)": "Collocaverunt autem altare Dei super bases suas deterrentibus eos per circuitum populis terrarum, et obtulerunt super illud holocaustum Domino mane et vespere:",
+        "VulgConte (2009)": "Collocaverunt autem altare Dei super bases suas deterrentibus eos per circuitum populis terrarum, et obtulerunt super illud holocaustum Domino mane et vespere:",
+        "VulgSistina (1590)": "Collocaverunt autem altare Dei super bases suas deterrentibus eos per circuitum populis terrarum, et obtulerunt super illud holocaustum Domino mane et vespere:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73510,
+      "verse": 4,
+      "critical_text": "Feceruntque solemnitatem tabernaculorum, sicut scriptum est, et holocaustum diebus singulis per ordinem secundum præceptum opus diei in die suo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Feceruntque solemnitatem tabernaculorum, sicut scriptum est, et holocaustum diebus singulis per ordinem secundum præceptum opus diei in die suo.",
+        "Clem-Saints": "Feceruntque solemnitatem tabernaculorum, sicut scriptum est, et holocaustum diebus singulis per ordinem secundum præceptum opus diei in die suo.",
+        "VulgHetzenauer (1906)": "Feceruntque sollemnitatem tabernaculorum, sicut scriptum est, et holocaustum diebus singulis per ordinem secundum præceptum opus diei in die suo.",
+        "VulgConte (2009)": "Feceruntque sollemnitatem tabernaculorum, sicut scriptum est, et holocaustum diebus singulis per ordinem secundum præceptum opus diei in die suo.",
+        "VulgSistina (1590)": "Feceruntque sollemnitatem tabernaculorum, sicut scriptum est, et holocaustum diebus singulis per ordinem secundum praeceptum opus diei in die suo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "solemnitatem / sollemnitatem",
+            "solemnitatem / sollemnitatem",
+            "solemnitatem / sollemnitatem"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73511,
+      "verse": 5,
+      "critical_text": "Et post hæc holocaustum juge, tam in calendis quam in universis solemnitatibus Domini quæ erant consecratæ, et in omnibus in quibus ultro offerebatur munus Domino.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et post hæc holocaustum juge, tam in calendis quam in universis solemnitatibus Domini quæ erant consecratæ, et in omnibus in quibus ultro offerebatur munus Domino.",
+        "Clem-Saints": "Et post hæc holocaustum juge, tam in calendis quam in universis solemnitatibus Domini quæ erant consecratæ, et in omnibus in quibus ultro offerebatur munus Domino.",
+        "VulgHetzenauer (1906)": "Et post hæc holocaustum iuge, tam in Calendis quam in universis sollemnitatibus Domini, quæ erant consecratæ, et in omnibus in quibus ultro offerebatur munus Domino.",
+        "VulgConte (2009)": "Et post hæc holocaustum iuge, tam in Calendis quam in universis sollemnitatibus Domini, quæ erant consecratæ, et in omnibus in quibus ultro offerebatur munus Domino.",
+        "VulgSistina (1590)": "Et post haec holocaustum iuge, tam in Calendis quam in universis sollemnitatibus Domini, quae erant consecratae, et in omnibus in quibus ultro offerebatur munus Domino."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "solemnitatibus / sollemnitatibus",
+            "solemnitatibus / sollemnitatibus",
+            "solemnitatibus / sollemnitatibus"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73512,
+      "verse": 6,
+      "critical_text": "A primo die mensis septimi cœperunt offerre holocaustum Domino: porro templum Dei nondum fundatum erat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "A primo die mensis septimi cœperunt offerre holocaustum Domino: porro templum Dei nondum fundatum erat.",
+        "Clem-Saints": "A primo die mensis septimi cœperunt offerre holocaustum Domino: porro templum Dei nondum fundatum erat.",
+        "VulgHetzenauer (1906)": "A primo die mensis septimi cœperunt offerre holocaustum Domino: porro templum Dei nondum fundatum erat.",
+        "VulgConte (2009)": "A primo die mensis septimi cœperunt offerre holocaustum Domino: porro templum Dei nondum fundatum erat.",
+        "VulgSistina (1590)": "A primo die mensis septimi coeperunt offerre holocaustum Domino: porro templum Dei nondum fundatum erat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73513,
+      "verse": 7,
+      "critical_text": "Dederunt autem pecunias latomis et cæmentariis: cibum quoque, et potum, et oleum Sidoniis Tyriisque, ut deferrent ligna cedrina de Libano ad mare Joppe, juxta quod præceperat Cyrus rex Persarum eis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dederunt autem pecunias latomis et cæmentariis: cibum quoque, et potum, et oleum Sidoniis Tyriisque, ut deferrent ligna cedrina de Libano ad mare Joppe, juxta quod præceperat Cyrus rex Persarum eis.",
+        "Clem-Saints": "Dederunt autem pecunias latomis et cæmentariis: cibum quoque, et potum, et oleum Sidoniis Tyriisque, ut deferrent ligna cedrina de Libano ad mare Joppe, juxta quod præceperat Cyrus rex Persarum eis.",
+        "VulgHetzenauer (1906)": "Dederunt autem pecunias latomis et cæmentariis: cibum quoque, et potum, et oleum Sidoniis, Tyriisque ut deferrent ligna cedrina de Libano ad mare Ioppe, iuxta quod præceperat Cyrus rex Persarum eis.",
+        "VulgConte (2009)": "Dederunt autem pecunias latomis et cæmentariis: cibum quoque, et potum, et oleum Sidoniis, Tyriisque ut deferrent ligna cedrina de Libano ad mare Ioppe, iuxta quod præceperat Cyrus rex Persarum eis.",
+        "VulgSistina (1590)": "Dederunt autem pecunias latomis et caementariis: cibum quoque, et potum, et oleum Sidoniis, Tyriisque ut deferrent ligna cedrina de Libano ad mare Ioppes, iuxta quod praeceperat Cyrus rex Persarum eis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Joppe,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Ioppes,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 22,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ioppe",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73514,
+      "verse": 8,
+      "critical_text": "Anno autem secundo adventus eorum ad templum Dei in Jerusalem, mense secundo, cœperunt Zorobabel filius Salathiel, et Josue filius Josedec, et reliqui de fratribus eorum sacerdotes, et Levitæ, et omnes qui venerant de captivitate in Jerusalem, et constituerunt Levitas a viginti annis et supra, ut urgerent opus Domini.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Anno autem secundo adventus eorum ad templum Dei in Jerusalem, mense secundo, cœperunt Zorobabel filius Salathiel, et Josue filius Josedec, et reliqui de fratribus eorum sacerdotes, et Levitæ, et omnes qui venerant de captivitate in Jerusalem, et constituerunt Levitas a viginti annis et supra, ut urgerent opus Domini.",
+        "Clem-Saints": "Anno autem secundo adventus eorum ad templum Dei in Jerusalem, mense secundo, cœperunt Zorobabel filius Salathiel, et Josue filius Josedec, et reliqui de fratribus eorum sacerdotes, et Levitæ, et omnes qui venerant de captivitate in Jerusalem, et constituerunt Levitas a viginti annis et supra, ut urgerent opus Domini.",
+        "VulgHetzenauer (1906)": "Anno autem secundo adventus eorum ad templum Dei in Ierusalem mense secundo, cœperunt Zorobabel filius Salathiel, et Iosue filius Iosedec, et reliqui de fratribus eorum Sacerdotes, et Levitæ, et omnes qui venerant de captivitate in Ierusalem, et constituerunt Levitas a viginti annis et supra, ut urgerent opus Domini.",
+        "VulgConte (2009)": "Anno autem secundo adventus eorum ad templum Dei in Ierusalem mense secundo, cœperunt Zorobabel filius Salathiel, et Iosue filius Iosedec, et reliqui de fratribus eorum Sacerdotes, et Levitæ, et omnes qui venerant de captivitate in Ierusalem, et constituerunt Levitas a viginti annis et supra, ut urgerent opus Domini.",
+        "VulgSistina (1590)": "Anno autem secundo adventus eorum ad templum Dei in Ierusalem mense secundo, coeperunt Zorobabel filius Salathiel, et Iosue filius Iosedec, et reliqui de fratribus eorum Sacerdotes, et Levitae, et omnes qui venerant de captivitate in Ierusalem, et constituerunt Levitas a viginti annis et supra, ut urgerent opus Domini."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73515,
+      "verse": 9,
+      "critical_text": "Stetitque Josue et filii ejus et fratres ejus, Cedmihel et filii ejus, et filii Juda, quasi vir unus, ut instarent super eos qui faciebant opus in templo Dei: filii Henadad, et filii eorum, et fratres eorum Levitæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Stetitque Josue et filii ejus et fratres ejus, Cedmihel et filii ejus, et filii Juda, quasi vir unus, ut instarent super eos qui faciebant opus in templo Dei: filii Henadad, et filii eorum, et fratres eorum Levitæ.",
+        "Clem-Saints": "Stetitque Josue et filii ejus et fratres ejus, Cedmihel et filii ejus, et filii Juda, quasi vir unus, ut instarent super eos qui faciebant opus in templo Dei: filii Henadad, et filii eorum, et fratres eorum Levitæ.",
+        "VulgHetzenauer (1906)": "Stetitque Iosue et filii eius, et fratres eius, Cedmihel, et filii eius, et filii Iuda, quasi vir unus, ut instarent super eos qui faciebant opus in templo Dei: filii Henadad, et filii eorum, et fratres eorum Levitæ.",
+        "VulgConte (2009)": "Stetitque Iosue et filii eius, et fratres eius, Cedmihel, et filii eius, et filii Iuda, quasi vir unus, ut instarent super eos qui faciebant opus in templo Dei: filii Henadad, et filii eorum, et fratres eorum Levitæ.",
+        "VulgSistina (1590)": "Stetitque Iosue et filii eius, et fratres eius, Cedmihel, et filii eius, et filii Iuda, quasi vir unus, ut instarent super eos qui faciebant opus in templo Dei: filii Henadad, et filii eorum, et fratres eorum Levitae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73516,
+      "verse": 10,
+      "critical_text": "Fundato igitur a cæmentariis templo Domini, steterunt sacerdotes in ornatu suo cum tubis, et Levitæ filii Asaph in cymbalis, ut laudarent Deum per manus David regis Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fundato igitur a cæmentariis templo Domini, steterunt sacerdotes in ornatu suo cum tubis, et Levitæ filii Asaph in cymbalis, ut laudarent Deum per manus David regis Israël.",
+        "Clem-Saints": "Fundato igitur a cæmentariis templo Domini, steterunt sacerdotes in ornatu suo cum tubis, et Levitæ filii Asaph in cymbalis, ut laudarent Deum per manus David regis Israël.",
+        "VulgHetzenauer (1906)": "Fundato igitur a cæmentariis templo Domini, steterunt sacerdotes in ornatu suo cum tubis: et Levitæ filii Asaph in cymbalis, ut laudarent Deum per manus David regis Israel.",
+        "VulgConte (2009)": "Fundato igitur a cæmentariis templo Domini, steterunt sacerdotes in ornatu suo cum tubis: et Levitæ filii Asaph in cymbalis, ut laudarent Deum per manus David regis Israel.",
+        "VulgSistina (1590)": "Fundato igitur a caementariis templo Domini, steterunt sacerdotes in ornatu suo cum tubis: et Levitae filii Asaph in cymbalis, ut laudarent Deum per manus David regis Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73517,
+      "verse": 11,
+      "critical_text": "Et concinebant in hymnis, et confessione Domino: Quoniam bonus, quoniam in æternum misericordia ejus super Israël. Omnis quoque populus vociferabatur clamore magno in laudando Dominum, eo quod fundatum esset templum Domini.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et concinebant in hymnis, et confessione Domino: Quoniam bonus, quoniam in æternum misericordia ejus super Israël. Omnis quoque populus vociferabatur clamore magno in laudando Dominum, eo quod fundatum esset templum Domini.",
+        "Clem-Saints": "Et concinebant in hymnis, et confessione Domino: Quoniam bonus, quoniam in æternum misericordia ejus super Israël. Omnis quoque populus vociferabatur clamore magno in laudando Dominum, eo quod fundatum esset templum Domini.",
+        "VulgHetzenauer (1906)": "Et concinebant in hymnis, et confessione Domino: Quoniam bonus, quoniam in æternum misericordia eius super Israel. Omnis quoque populus vociferabatur clamore magno in laudando Dominum, eo quod fundatum esset templum Domini.",
+        "VulgConte (2009)": "Et concinebant in hymnis, et confessione Domino: Quoniam bonus, quoniam in æternum misericordia eius super Israel. Omnis quoque populus vociferabatur clamore magno in laudando Dominum, eo quod fundatum esset templum Domini.",
+        "VulgSistina (1590)": "Et concinebant in hymnis, et confessione Domino: Quoniam bonus, quoniam in aeternum misericordia eius super Israel. Omnis quoque populus vociferabatur clamore magno in laudando Dominum, eo quod fundatum esset templum Domini."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73518,
+      "verse": 12,
+      "critical_text": "Plurimi etiam de sacerdotibus et Levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum, in oculis eorum, flebant voce magna: et multi vociferantes in lætitia, elevabant vocem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Plurimi etiam de sacerdotibus et Levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum, in oculis eorum, flebant voce magna: et multi vociferantes in lætitia, elevabant vocem.",
+        "Clem-Saints": "Plurimi etiam de sacerdotibus et Levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum, in oculis eorum, flebant voce magna: et multi vociferantes in lætitia, elevabant vocem.",
+        "VulgHetzenauer (1906)": "plurimi etiam de Sacerdotibus et Levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum in oculis eorum, flebant voce magna: et multi vociferantes in lætitia, elevabant vocem.",
+        "VulgConte (2009)": "Plurimi etiam de sacerdotibus et Levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum in oculis eorum, flebant voce magna: et multi vociferantes in lætitia, elevabant vocem.",
+        "VulgSistina (1590)": "plurimi etiam de Sacerdotibus et Levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum in oculis eorum, flebant voce magna: et multi vociferantes in laetitia, elevabant vocem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 73519,
+      "verse": 13,
+      "critical_text": "Nec poterat quisquam agnoscere vocem clamoris lætantium, et vocem fletus populi: commistim enim populus vociferabatur clamore magno, et vox audiebatur procul.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nec poterat quisquam agnoscere vocem clamoris lætantium, et vocem fletus populi: commistim enim populus vociferabatur clamore magno, et vox audiebatur procul.",
+        "Clem-Saints": "Nec poterat quisquam agnoscere vocem clamoris lætantium, et vocem fletus populi: commistim enim populus vociferabatur clamore magno, et vox audiebatur procul.",
+        "VulgHetzenauer (1906)": "Nec poterat quisquam agnoscere vocem clamoris lætantium, et vocem fletus populi: commixtim enim populus vociferabatur clamore magno, et vox audiebatur procul.",
+        "VulgConte (2009)": "Nec poterat quisquam agnoscere vocem clamoris lætantium, et vocem fletus populi: commixtim enim populus vociferabatur clamore magno, et vox audiebatur procul.",
+        "VulgSistina (1590)": "Nec poterat quisquam agnoscere vocem clamoris laetantium, et vocem fletus populi: commixtim enim populus vociferabatur clamore magno, et vox audiebatur procul."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "commistim",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX"
+          ],
+          "variants": [
+            {
+              "reading": "commixtim",
+              "witnesses": [
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 11,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "commistim",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

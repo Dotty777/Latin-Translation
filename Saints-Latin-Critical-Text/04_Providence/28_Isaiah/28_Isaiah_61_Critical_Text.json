@@ -1,0 +1,557 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "04_Providence",
+  "book_slug": "isaiah",
+  "book_title": "Isaiah",
+  "usfm_code": "ISA",
+  "chapter": 61,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:47Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 83780,
+      "verse": 1,
+      "critical_text": "Spiritus Domini super me, eo quod unxerit Dominus me; ad annuntiandum mansuetis misit me, ut mederer contritis corde, et prædicarem captivis indulgentiam, et clausis apertionem;",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Spiritus Domini super me, eo quod unxerit Dominus me; ad annuntiandum mansuetis misit me, ut mederer contritis corde, et prædicarem captivis indulgentiam, et clausis apertionem;",
+        "Clem-Saints": "Spiritus Domini super me, eo quod unxerit Dominus me; ad annuntiandum mansuetis misit me, ut mederer contritis corde, et prædicarem captivis indulgentiam, et clausis apertionem;",
+        "VulgHetzenauer (1906)": "Spiritus Domini super me, eo quod unxerit Dominus me: ad annunciandum mansuetis misit me, ut mederer contritis corde, et prædicarem captivis indulgentiam, et clausis apertionem:",
+        "VulgConte (2009)": "Spiritus Domini super me, eo quod unxerit Dominus me: ad annunciandum mansuetis misit me, ut mederer contritis corde, et prædicarem captivis indulgentiam, et clausis apertionem:",
+        "VulgSistina (1590)": "Spiritus Domini super me, eo quod unxerit me: ad annunciandum mansuetis misit me, ut mederer contritis corde, et praedicarem captivis indulgentiam, et clausis apertionem:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Dominus",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "dominus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "annuntiandum / annunciandum",
+            "annuntiandum / annunciandum",
+            "annuntiandum / annunciandum"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 83781,
+      "verse": 2,
+      "critical_text": "ut prædicarem annum placabilem Domino, et diem ultionis Deo nostro; ut consolarer omnes lugentes,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ut prædicarem annum placabilem Domino, et diem ultionis Deo nostro; ut consolarer omnes lugentes,",
+        "Clem-Saints": "ut prædicarem annum placabilem Domino, et diem ultionis Deo nostro; ut consolarer omnes lugentes,",
+        "VulgHetzenauer (1906)": "Ut prædicarem annum placabilem Domino, et diem ultionis Deo nostro: ut consolarer omnes lugentes:",
+        "VulgConte (2009)": "Ut prædicarem annum placabilem Domino, et diem ultionis Deo nostro: ut consolarer omnes lugentes:",
+        "VulgSistina (1590)": "Ut praedicarem annum placabilem Domino, et diem ultionis Deo nostro: ut consolarer omnes lugentes:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 83782,
+      "verse": 3,
+      "critical_text": "ut ponerem lugentibus Sion, et darem eis coronam pro cinere, oleum gaudii pro luctu, pallium laudis pro spiritu mœroris; et vocabuntur in ea fortes justitiæ, plantatio Domini ad glorificandum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ut ponerem lugentibus Sion, et darem eis coronam pro cinere, oleum gaudii pro luctu, pallium laudis pro spiritu mœroris; et vocabuntur in ea fortes justitiæ, plantatio Domini ad glorificandum.",
+        "Clem-Saints": "ut ponerem lugentibus Sion, et darem eis coronam pro cinere, oleum gaudii pro luctu, pallium laudis pro spiritu mœroris; et vocabuntur in ea fortes justitiæ, plantatio Domini ad glorificandum.",
+        "VulgHetzenauer (1906)": "ut ponerem lugentibus Sion: et darem eis coronam pro cinere, oleum gaudii pro luctu, pallium laudis pro spiritu mœroris: et vocabuntur in ea fortes iustitiæ, plantatio Domini ad glorificandum.",
+        "VulgConte (2009)": "ut ponerem lugentibus Sion: et darem eis coronam pro cinere, oleum gaudii pro luctu, pallium laudis pro spiritu mœroris: et vocabuntur in ea fortes iustitiæ, plantatio Domini ad glorificandum.",
+        "VulgSistina (1590)": "et ponerem fortitudinem lugentibus Sion: ut darem eis coronam pro cinere, oleum gaudii pro luctu, pallium laudis pro spiritu moeroris: et vocabuntur in ea fortes iustitiae, plantatio Domini ad glorificandum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ut",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "et",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ut",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "fortitudinem",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 2,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "ut",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 4,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 83783,
+      "verse": 4,
+      "critical_text": "Et ædificabunt deserta a sæculo, et ruinas antiquas erigent, et instaurabunt civitates desertas, dissipatas in generationem et generationem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ædificabunt deserta a sæculo, et ruinas antiquas erigent, et instaurabunt civitates desertas, dissipatas in generationem et generationem.",
+        "Clem-Saints": "Et ædificabunt deserta a sæculo, et ruinas antiquas erigent, et instaurabunt civitates desertas, dissipatas in generationem et generationem.",
+        "VulgHetzenauer (1906)": "Et ædificabunt deserta a sæculo, et ruinas antiquas erigent, et instaurabunt civitates desertas, dissipatas in generationem et generationem.",
+        "VulgConte (2009)": "Et ædificabunt deserta a sæculo, et ruinas antiquas erigent, et instaurabunt civitates desertas, dissipatas in generationem et generationem.",
+        "VulgSistina (1590)": "Et aedificabunt deserta a saeculo, et ruinas antiquas erigent, et instaurabunt civitates desertas, dissipatas in generatione et generationem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "generationem",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "generatione",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 15,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "generationem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 83784,
+      "verse": 5,
+      "critical_text": "Et stabunt alieni, et pascent pecora vestra, et filii peregrinorum agricolæ et vinitores vestri erunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et stabunt alieni, et pascent pecora vestra, et filii peregrinorum agricolæ et vinitores vestri erunt.",
+        "Clem-Saints": "Et stabunt alieni, et pascent pecora vestra, et filii peregrinorum agricolæ et vinitores vestri erunt.",
+        "VulgHetzenauer (1906)": "Et stabunt alieni, et pascent pecora vestra: et filii peregrinorum agricolæ et vinitores vestri erunt.",
+        "VulgConte (2009)": "Et stabunt alieni, et pascent pecora vestra: et filii peregrinorum agricolæ et vinitores vestri erunt.",
+        "VulgSistina (1590)": "Et stabunt alieni, et pascent pecora vestra: et filii peregrinorum agricolae et vinitores vestri erunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 83785,
+      "verse": 6,
+      "critical_text": "Vos autem sacerdotes Domini vocabimini: Ministri Dei nostri, dicetur vobis, fortitudinem gentium comedetis, et in gloria earum superbietis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Vos autem sacerdotes Domini vocabimini: Ministri Dei nostri, dicetur vobis, fortitudinem gentium comedetis, et in gloria earum superbietis.",
+        "Clem-Saints": "Vos autem sacerdotes Domini vocabimini: Ministri Dei nostri, dicetur vobis, fortitudinem gentium comedetis, et in gloria earum superbietis.",
+        "VulgHetzenauer (1906)": "Vos autem Sacerdotes Domini vocabimini: Ministri Dei nostri, dicetur vobis: Fortitudinem Gentium comedetis, et in gloria earum superbietis.",
+        "VulgConte (2009)": "Vos autem sacerdotes Domini vocabimini: ministri Dei nostri, dicetur vobis: Fortitudinem Gentium comedetis, et in gloria earum superbietis.",
+        "VulgSistina (1590)": "Vos autem Sacerdotes Domini vocabimini: Ministri Dei nostri, dicetur vobis: Fortitudinem Gentium comedetis, et in gloria earum superbietis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 83786,
+      "verse": 7,
+      "critical_text": "Pro confusione vestra duplici et rubore, laudabunt partem suam; propter hoc in terra sua duplicia possidebunt, lætitia sempiterna erit eis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Pro confusione vestra duplici et rubore, laudabunt partem suam; propter hoc in terra sua duplicia possidebunt, lætitia sempiterna erit eis.",
+        "Clem-Saints": "Pro confusione vestra duplici et rubore, laudabunt partem suam; propter hoc in terra sua duplicia possidebunt, lætitia sempiterna erit eis.",
+        "VulgHetzenauer (1906)": "Pro confusione vestra duplici, et rubore laudabunt partem suam: propter hoc in terra sua duplicia possidebunt, lætitia sempiterna erit eis.",
+        "VulgConte (2009)": "Pro confusione vestra duplici, et rubore laudabunt partem suam: propter hoc in terra sua duplicia possidebunt, lætitia sempiterna erit eis.",
+        "VulgSistina (1590)": "Pro confusione vestra duplici, et rubore laudabunt partem eorum: propter hoc in terra sua duplicia possidebunt, laetitia sempiterna erit eis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "suam;",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "eorum:",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "suam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 83787,
+      "verse": 8,
+      "critical_text": "Quia ego Dominus diligens judicium, et odio habens rapinam in holocausto; et dabo opus eorum in veritate, et fœdus perpetuum feriam eis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quia ego Dominus diligens judicium, et odio habens rapinam in holocausto; et dabo opus eorum in veritate, et fœdus perpetuum feriam eis.",
+        "Clem-Saints": "Quia ego Dominus diligens judicium, et odio habens rapinam in holocausto; et dabo opus eorum in veritate, et fœdus perpetuum feriam eis.",
+        "VulgHetzenauer (1906)": "Quia ego Dominus diligens iudicium, et odio habens rapinam in holocausto: et dabo opus eorum in veritate, et fœdus perpetuum feriam eis.",
+        "VulgConte (2009)": "Quia ego Dominus diligens iudicium, et odio habens rapinam in holocausto: et dabo opus eorum in veritate, et fœdus perpetuum feriam eis.",
+        "VulgSistina (1590)": "Quia ego Dominus diligens iudicium, et odio habens rapinam in holocausto: et dabo opus eorum in veritate, et foedus perpetuum feriam eis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 83788,
+      "verse": 9,
+      "critical_text": "Et scient in gentibus semen eorum, et germen eorum in medio populorum; omnes qui viderint eos cognoscent illos, quia isti sunt semen cui benedixit Dominus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et scient in gentibus semen eorum, et germen eorum in medio populorum; omnes qui viderint eos cognoscent illos, quia isti sunt semen cui benedixit Dominus.",
+        "Clem-Saints": "Et scient in gentibus semen eorum, et germen eorum in medio populorum; omnes qui viderint eos cognoscent illos, quia isti sunt semen cui benedixit Dominus.",
+        "VulgHetzenauer (1906)": "Et scient in Gentibus semen eorum, et germen eorum in medio populorum: omnes, qui viderint eos, cognoscent illos, quia isti sunt semen, cui benedixit Dominus.",
+        "VulgConte (2009)": "Et scient in gentibus semen eorum, et germen eorum in medio populorum: omnes, qui viderint eos, cognoscent illos, quia isti sunt semen, cui benedixit Dominus.",
+        "VulgSistina (1590)": "Et scient in Gentibus semen eorum, et germen eorum in medio populorum: omnes, qui viderint eos, cognoscent illos, quia isti sunt semen, cui benedixit Dominus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 83789,
+      "verse": 10,
+      "critical_text": "Gaudens gaudebo in Domino, et exsultabit anima mea in Deo meo, quia induit me vestimentis salutis, et indumento justitiæ circumdedit me, quasi sponsum decoratum corona, et quasi sponsam ornatam monilibus suis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Gaudens gaudebo in Domino, et exsultabit anima mea in Deo meo, quia induit me vestimentis salutis, et indumento justitiæ circumdedit me, quasi sponsum decoratum corona, et quasi sponsam ornatam monilibus suis.",
+        "Clem-Saints": "Gaudens gaudebo in Domino, et exsultabit anima mea in Deo meo, quia induit me vestimentis salutis, et indumento justitiæ circumdedit me, quasi sponsum decoratum corona, et quasi sponsam ornatam monilibus suis.",
+        "VulgHetzenauer (1906)": "Gaudens gaudebo in Domino, et exultabit anima mea in Deo meo: quia induit me vestimentis salutis: et indumento iustitiæ circumdedit me, quasi sponsum decoratum corona, et quasi sponsam ornatam monilibus suis.",
+        "VulgConte (2009)": "Gaudens gaudebo in Domino, et exultabit anima mea in Deo meo: quia induit me vestimentis salutis: et indumento iustitiæ circumdedit me, quasi sponsum decoratum corona, et quasi sponsam ornatam monilibus suis.",
+        "VulgSistina (1590)": "Gaudens gaudebo in Domino, et exultabit anima mea in Deo meo: quia induit me vestimentis salutis: et indumento iustitiae circumdedit me, quasi sponsum decoratum corona, et quasi sponsam ornatam monilibus suis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exsultabit / exultabit",
+            "exsultabit / exultabit",
+            "exsultabit / exultabit"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 83790,
+      "verse": 11,
+      "critical_text": "Sicut enim terra profert germen suum, et sicut hortus semen suum germinat, sic Dominus Deus germinabit justitiam et laudem coram universis gentibus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sicut enim terra profert germen suum, et sicut hortus semen suum germinat, sic Dominus Deus germinabit justitiam et laudem coram universis gentibus.",
+        "Clem-Saints": "Sicut enim terra profert germen suum, et sicut hortus semen suum germinat, sic Dominus Deus germinabit justitiam et laudem coram universis gentibus.",
+        "VulgHetzenauer (1906)": "Sicut enim terra profert germen suum, et sicut hortus semen suum germinat, sic Dominus Deus germinabit iustitiam, et laudem coram universis Gentibus.",
+        "VulgConte (2009)": "Sicut enim terra profert germen suum, et sicut hortus semen suum germinat, sic Dominus Deus germinabit iustitiam, et laudem coram universis gentibus.",
+        "VulgSistina (1590)": "Sicut enim terra profert germen suum, et sicut hortus semen suum germinat, sic Dominus Deus germinabit iustitiam, et laudem coram universis Gentibus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

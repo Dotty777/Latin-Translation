@@ -1,0 +1,659 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "01_Law",
+  "book_slug": "leviticus",
+  "book_title": "Leviticus",
+  "usfm_code": "LEV",
+  "chapter": 1,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:16Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 64195,
+      "verse": 1,
+      "critical_text": "Vocavit autem Moysen, et locutus est ei Dominus de tabernaculo testimonii, dicens:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Vocavit autem Moysen, et locutus est ei Dominus de tabernaculo testimonii, dicens:",
+        "Clem-Saints": "Vocavit autem Moysen, et locutus est ei Dominus de tabernaculo testimonii, dicens:",
+        "VulgHetzenauer (1906)": "Vocavit autem Moysen, et locutus est ei Dominus de tabernaculo testimonii, dicens:",
+        "VulgConte (2009)": "Vocavit autem Moysen, et locutus est ei Dominus de tabernaculo testimonii, dicens:",
+        "VulgSistina (1590)": "Vocavit autem Dominus Moysen et locutus est ei de tabernaculo testimonii, dicens:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Dominus",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 2,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "Dominus",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "dominus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64196,
+      "verse": 2,
+      "critical_text": "Loquere filiis Israël, et dices ad eos: Homo, qui obtulerit ex vobis hostiam Domino de pecoribus, id est, de bobus et ovibus offerens victimas,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Loquere filiis Israël, et dices ad eos: Homo, qui obtulerit ex vobis hostiam Domino de pecoribus, id est, de bobus et ovibus offerens victimas,",
+        "Clem-Saints": "Loquere filiis Israël, et dices ad eos: Homo, qui obtulerit ex vobis hostiam Domino de pecoribus, id est, de bobus et ovibus offerens victimas,",
+        "VulgHetzenauer (1906)": "Loquere filiis Israel, et dices ad eos: Homo, qui obtulerit ex vobis hostiam Domino de pecoribus, id est, de bobus et ovibus offerens victimas,",
+        "VulgConte (2009)": "Loquere filiis Israel, et dices ad eos: Homo, qui obtulerit ex vobis hostiam Domino de pecoribus, id est, de bobus et ovibus offerens victimas,",
+        "VulgSistina (1590)": "Loquere filiis Israel, et dices ad eos: Homo, qui obtulerit ex vobis hostiam Domino de pecoribus, id est, de bobus et ovibus offerens victimas,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64197,
+      "verse": 3,
+      "critical_text": "si holocaustum fuerit ejus oblatio, ac de armento: masculum immaculatum offeret ad ostium tabernaculi testimonii, ad placandum sibi Dominum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "si holocaustum fuerit ejus oblatio, ac de armento: masculum immaculatum offeret ad ostium tabernaculi testimonii, ad placandum sibi Dominum:",
+        "Clem-Saints": "si holocaustum fuerit ejus oblatio, ac de armento: masculum immaculatum offeret ad ostium tabernaculi testimonii, ad placandum sibi Dominum:",
+        "VulgHetzenauer (1906)": "si holocaustum fuerit eius oblatio, ac de armento; masculum immaculatum offeret ad ostium tabernaculi testimonii, ad placandum sibi Dominum:",
+        "VulgConte (2009)": "si holocaustum fuerit eius oblatio, ac de armento; masculum immaculatum offeret ad ostium tabernaculi testimonii, ad placandum sibi Dominum:",
+        "VulgSistina (1590)": "si holocaustum fuerit eius oblatio, ac de armento; masculum immaculatum offeret ad ostium tabernaculi testimonii, ad placandum sibi Dominum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64198,
+      "verse": 4,
+      "critical_text": "ponetque manum super caput hostiæ, et acceptabilis erit, atque in expiationem ejus proficiens.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ponetque manum super caput hostiæ, et acceptabilis erit, atque in expiationem ejus proficiens.",
+        "Clem-Saints": "ponetque manum super caput hostiæ, et acceptabilis erit, atque in expiationem ejus proficiens.",
+        "VulgHetzenauer (1906)": "ponetque manum super caput hostiæ, et acceptabilis erit, atque in expiationem eius proficiens.",
+        "VulgConte (2009)": "ponetque manum super caput hostiæ, et acceptabilis erit, atque in expiationem eius proficiens.",
+        "VulgSistina (1590)": "ponetque manus super caput hostiae, et acceptabilis erit, atque in expiationem eius proficiens."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "manum",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "manus",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "manum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64199,
+      "verse": 5,
+      "critical_text": "Immolabitque vitulum coram Domino, et offerent filii Aaron sacerdotes sanguinem ejus, fundentes per altaris circuitum, quod est ante ostium tabernaculi:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Immolabitque vitulum coram Domino, et offerent filii Aaron sacerdotes sanguinem ejus, fundentes per altaris circuitum, quod est ante ostium tabernaculi:",
+        "Clem-Saints": "Immolabitque vitulum coram Domino, et offerent filii Aaron sacerdotes sanguinem ejus, fundentes per altaris circuitum, quod est ante ostium tabernaculi:",
+        "VulgHetzenauer (1906)": "immolabitque vitulum coram Domino, et offerent filii Aaron sacerdotes sanguinem eius, fundentes per altaris circuitum, quod est ante ostium tabernaculi.",
+        "VulgConte (2009)": "Immolabitque vitulum coram Domino, et offerent filii Aaron sacerdotes sanguinem eius, fundentes per altaris circuitum, quod est ante ostium tabernaculi.",
+        "VulgSistina (1590)": "immolabitque vitulum coram Domino, et offerent filii Aaron sacerdotis sanguinem eius, fundentes per altaris circuitum, quod est ante ostium tabernaculi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "sacerdotes",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "sacerdotis",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "sacerdotes",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64200,
+      "verse": 6,
+      "critical_text": "detractaque pelle hostiæ, artus in frusta concident.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "detractaque pelle hostiæ, artus in frusta concident.",
+        "Clem-Saints": "detractaque pelle hostiæ, artus in frusta concident.",
+        "VulgHetzenauer (1906)": "detractaque pelle hostiæ, artus in frusta concident,",
+        "VulgConte (2009)": "Detractaque pelle hostiæ, artus in frusta concident,",
+        "VulgSistina (1590)": "detractaque pelle hostiae, artus in frusta concident,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64201,
+      "verse": 7,
+      "critical_text": "Et subjicient in altari ignem, strue lignorum ante composita:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et subjicient in altari ignem, strue lignorum ante composita:",
+        "Clem-Saints": "Et subjicient in altari ignem, strue lignorum ante composita:",
+        "VulgHetzenauer (1906)": "et subiicient in altari ignem, strue lignorum ante composita:",
+        "VulgConte (2009)": "et subiicient in altari ignem, strue lignorum ante composita:",
+        "VulgSistina (1590)": "et subiicient in altari ignem, strue lignorum ante composita:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64202,
+      "verse": 8,
+      "critical_text": "et membra quæ sunt cæsa, desuper ordinantes, caput videlicet, et cuncta quæ adhærent jecori,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et membra quæ sunt cæsa, desuper ordinantes, caput videlicet, et cuncta quæ adhærent jecori,",
+        "Clem-Saints": "et membra quæ sunt cæsa, desuper ordinantes, caput videlicet, et cuncta quæ adhærent jecori,",
+        "VulgHetzenauer (1906)": "et membra quæ sunt cæsa, desuper ordinantes, caput videlicet, et cuncta quæ adhærent iecori,",
+        "VulgConte (2009)": "et membra quæ sunt cæsa, desuper ordinantes, caput videlicet, et cuncta quæ adhærent iecori,",
+        "VulgSistina (1590)": "et membra quae sunt caesa, desuper ordinantes, caput videlicet, et cuncta quae adhaerent iecori,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64203,
+      "verse": 9,
+      "critical_text": "intestinis et pedibus lotis aqua: adolebitque ea sacerdos super altare in holocaustum et suavem odorem Domino.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "intestinis et pedibus lotis aqua: adolebitque ea sacerdos super altare in holocaustum et suavem odorem Domino.",
+        "Clem-Saints": "intestinis et pedibus lotis aqua: adolebitque ea sacerdos super altare in holocaustum et suavem odorem Domino.",
+        "VulgHetzenauer (1906)": "intestinis et pedibus lotis aqua: adolebitque ea sacerdos super altare in holocaustum et suavem odorem Domino.",
+        "VulgConte (2009)": "intestinis et pedibus lotis aqua: adolebitque ea sacerdos super altare in holocaustum et suavem odorem Domino.",
+        "VulgSistina (1590)": "intestinis et pedibus lotis aqua: adolebitque ea sacerdos super altare in holocaustum et suavem odorem Domino."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64204,
+      "verse": 10,
+      "critical_text": "Quod si de pecoribus oblatio est, de ovibus sive de capris holocaustum, masculum absque macula offeret:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quod si de pecoribus oblatio est, de ovibus sive de capris holocaustum, masculum absque macula offeret:",
+        "Clem-Saints": "Quod si de pecoribus oblatio est, de ovibus sive de capris holocaustum, masculum absque macula offeret:",
+        "VulgHetzenauer (1906)": "Quod si de pecoribus oblatio est, de ovibus sive de capris holocaustum, masculum absque macula offeret:",
+        "VulgConte (2009)": "Quod si de pecoribus oblatio est, de ovibus sive de capris holocaustum, masculum absque macula offeret:",
+        "VulgSistina (1590)": "Quod si de pecoribus oblatio est, de ovibus sive de capris holocaustum agnum anniculum, et absque macula offeret:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "masculum",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "agnum anniculum, et",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 12,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "masculum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64205,
+      "verse": 11,
+      "critical_text": "immolabitque ad latus altaris, quod respicit ad aquilonem, coram Domino: sanguinem vero illius fundent super altare filii Aaron per circuitum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "immolabitque ad latus altaris, quod respicit ad aquilonem, coram Domino: sanguinem vero illius fundent super altare filii Aaron per circuitum:",
+        "Clem-Saints": "immolabitque ad latus altaris, quod respicit ad aquilonem, coram Domino: sanguinem vero illius fundent super altare filii Aaron per circuitum:",
+        "VulgHetzenauer (1906)": "immolabitque ad latus altaris, quod respicit ad Aquilonem, coram Domino: sanguinem vero illius fundent super altare filii Aaron per circuitum:",
+        "VulgConte (2009)": "immolabitque ad latus altaris, quod respicit ad Aquilonem, coram Domino: sanguinem vero illius fundent super altare filii Aaron per circuitum:",
+        "VulgSistina (1590)": "immolabitque ad latus altaris, quod respicit ad Aquilonem, coram Domino: sanguinem vero illius fundent super altare filii Aaron per circuitum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64206,
+      "verse": 12,
+      "critical_text": "dividentque membra, caput, et omnia quæ adhærent jecori, et ponent super ligna, quibus subjiciendus est ignis:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "dividentque membra, caput, et omnia quæ adhærent jecori, et ponent super ligna, quibus subjiciendus est ignis:",
+        "Clem-Saints": "dividentque membra, caput, et omnia quæ adhærent jecori, et ponent super ligna, quibus subjiciendus est ignis:",
+        "VulgHetzenauer (1906)": "dividentque membra, caput, et omnia quæ adhærent iecori: et ponent super ligna, quibus subiiciendus est ignis:",
+        "VulgConte (2009)": "dividentque membra, caput, et omnia quæ adhærent iecori: et ponent super ligna, quibus subiiciendus est ignis:",
+        "VulgSistina (1590)": "dividentque membra, caput, et omnia quae adhaerent iecori: et ponent super ligna, quibus subiiciendus est ignis:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64207,
+      "verse": 13,
+      "critical_text": "intestina vero et pedes lavabunt aqua. Et oblata omnia adolebit sacerdos super altare in holocaustum et odorem suavissimum Domino.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "intestina vero et pedes lavabunt aqua. Et oblata omnia adolebit sacerdos super altare in holocaustum et odorem suavissimum Domino.",
+        "Clem-Saints": "intestina vero et pedes lavabunt aqua. Et oblata omnia adolebit sacerdos super altare in holocaustum et odorem suavissimum Domino.",
+        "VulgHetzenauer (1906)": "intestina vero et pedes lavabunt aqua. Et oblata omnia adolebit sacerdos super altare in holocaustum et odorem suavissimum Domino.",
+        "VulgConte (2009)": "intestina vero et pedes lavabunt aqua. Et oblata omnia adolebit sacerdos super altare in holocaustum et odorem suavissimum Domino.",
+        "VulgSistina (1590)": "intestina vero et pedes lavabunt aqua. Et oblata omnia adolebit sacerdos super altare in holocaustum et odorem suavissimum Domino."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64208,
+      "verse": 14,
+      "critical_text": "Si autem de avibus, holocausti oblatio fuerit Domino, de turturibus, aut pullis columbæ,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si autem de avibus, holocausti oblatio fuerit Domino, de turturibus, aut pullis columbæ,",
+        "Clem-Saints": "Si autem de avibus, holocausti oblatio fuerit Domino, de turturibus, aut pullis columbæ,",
+        "VulgHetzenauer (1906)": "Si autem de avibus, holocausti oblatio fuerit Domino, de turturibus, aut pullis columbæ,",
+        "VulgConte (2009)": "Si autem de avibus, holocausti oblatio fuerit Domino, de turturibus, aut pullis columbæ,",
+        "VulgSistina (1590)": "Si autem de avibus, holocausti oblatio fuerit Domino, de turturibus, aut pullis columbae,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64209,
+      "verse": 15,
+      "critical_text": "offeret eam sacerdos ad altare: et retorto ad collum capite, ac rupto vulneris loco, decurrere faciet sanguinem super crepidinem altaris:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "offeret eam sacerdos ad altare: et retorto ad collum capite, ac rupto vulneris loco, decurrere faciet sanguinem super crepidinem altaris:",
+        "Clem-Saints": "offeret eam sacerdos ad altare: et retorto ad collum capite, ac rupto vulneris loco, decurrere faciet sanguinem super crepidinem altaris:",
+        "VulgHetzenauer (1906)": "offeret eam sacerdos ad altare: et retorto ad collum capite, ac rupto vulneris loco, decurrere faciet sanguinem super crepidinem altaris:",
+        "VulgConte (2009)": "offeret eam sacerdos ad altare: et retorto ad collum capite, ac rupto vulneris loco, decurrere faciet sanguinem super crepidinem altaris:",
+        "VulgSistina (1590)": "offeret eam sacerdos ad altare: et retorto ad collum capite, ac rupto vulneris loco, decurrere faciet sanguinem super crepidinem altaris:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64210,
+      "verse": 16,
+      "critical_text": "vesiculam vero gutturis, et plumas projiciet prope altare ad orientalem plagam, in loco in quo cineres effundi solent,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "vesiculam vero gutturis, et plumas projiciet prope altare ad orientalem plagam, in loco in quo cineres effundi solent,",
+        "Clem-Saints": "vesiculam vero gutturis, et plumas projiciet prope altare ad orientalem plagam, in loco in quo cineres effundi solent,",
+        "VulgHetzenauer (1906)": "vesiculam vero gutturis, et plumas proiiciet prope altare ad orientalem plagam, in loco in quo cineres effundi solent,",
+        "VulgConte (2009)": "vesiculam vero gutturis, et plumas proiiciet prope altare ad orientalem plagam, in loco in quo cineres effundi solent,",
+        "VulgSistina (1590)": "vesiculam vero gutturis, et plumas proiiciet prope altare ad orientalem plagam, in loco in quo cineres effundi solent,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 64211,
+      "verse": 17,
+      "critical_text": "confringetque ascellas ejus, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "confringetque ascellas ejus, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino.",
+        "Clem-Saints": "confringetque ascellas ejus, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino.",
+        "VulgHetzenauer (1906)": "confringetque ascellas eius, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino.",
+        "VulgConte (2009)": "confringetque ascellas eius, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino.",
+        "VulgSistina (1590)": "confringetque ascellas eius, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

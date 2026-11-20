@@ -1,0 +1,629 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "ruth",
+  "book_title": "Ruth",
+  "usfm_code": "RUT",
+  "chapter": 3,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:36Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 68586,
+      "verse": 1,
+      "critical_text": "Postquam autem reversa est ad socrum suam, audivit ab ea: Filia mea, quæram tibi requiem, et providebo ut bene sit tibi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Postquam autem reversa est ad socrum suam, audivit ab ea: Filia mea, quæram tibi requiem, et providebo ut bene sit tibi.",
+        "Clem-Saints": "Postquam autem reversa est ad socrum suam, audivit ab ea: Filia mea, quæram tibi requiem, et providebo ut bene sit tibi.",
+        "VulgHetzenauer (1906)": "Postquam autem reversa est ad socrum suam, audivit ab ea: Filia mea, quæram tibi requiem, et providebo ut bene sit tibi.",
+        "VulgConte (2009)": "Postquam autem reversa est ad socrum suam, audivit ab ea: Filia mea, quæram tibi requiem, et providebo ut bene sit tibi.",
+        "VulgSistina (1590)": "Postquam autem reversa est ad socrum suam, audivit ab ea: Filia mi, quaeram tibi requiem, et providebo ut bene sit tibi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "mea,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "mi,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 11,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "mea",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68587,
+      "verse": 2,
+      "critical_text": "Booz iste, cujus puellis in agro juncta es, propinquus noster est, et hac nocte aream hordei ventilat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Booz iste, cujus puellis in agro juncta es, propinquus noster est, et hac nocte aream hordei ventilat.",
+        "Clem-Saints": "Booz iste, cujus puellis in agro juncta es, propinquus noster est, et hac nocte aream hordei ventilat.",
+        "VulgHetzenauer (1906)": "Booz iste, cuius puellis in agro iuncta es, propinquus noster est, et hac nocte aream hordei ventilat.",
+        "VulgConte (2009)": "Booz iste, cuius puellis in agro iuncta es, propinquus noster est, et hac nocte aream hordei ventilat.",
+        "VulgSistina (1590)": "Booz iste, cuius puellis in agro iuncta es, propinquus noster est, et hac nocte aream hordei ventilat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68588,
+      "verse": 3,
+      "critical_text": "Lavare igitur, et ungere, et induere cultioribus vestimentis, et descende in aream: non te videat homo, donec esum potumque finierit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Lavare igitur, et ungere, et induere cultioribus vestimentis, et descende in aream: non te videat homo, donec esum potumque finierit.",
+        "Clem-Saints": "Lavare igitur, et ungere, et induere cultioribus vestimentis, et descende in aream: non te videat homo, donec esum potumque finierit.",
+        "VulgHetzenauer (1906)": "Lavare igitur, et undere, et induere cultioribus vestimentis, et descende in aream. non te videat homo, donec esum potumque finierit.",
+        "VulgConte (2009)": "Lavare igitur, et undere, et induere cultioribus vestimentis, et descende in aream. Non te videat homo, donec esum potumque finierit.",
+        "VulgSistina (1590)": "Lavare igitur, et ungere, et induere cultioribus vestimentis, et descende in aream. non te videat homo, donec esum potumque finierit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ungere,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "undere,",
+              "witnesses": [
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ungere",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68589,
+      "verse": 4,
+      "critical_text": "Quando autem ierit ad dormiendum, nota locum in quo dormiat: veniesque et discooperies pallium, quo operitur a parte pedum, et projicies te, et ibi jacebis: ipse autem dicet quid agere debeas.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quando autem ierit ad dormiendum, nota locum in quo dormiat: veniesque et discooperies pallium, quo operitur a parte pedum, et projicies te, et ibi jacebis: ipse autem dicet quid agere debeas.",
+        "Clem-Saints": "Quando autem ierit ad dormiendum, nota locum in quo dormiat: veniesque et discooperies pallium, quo operitur a parte pedum, et projicies te, et ibi jacebis: ipse autem dicet quid agere debeas.",
+        "VulgHetzenauer (1906)": "Quando autem ierit ad dormiendum, nota locum in quo dormiat: veniesque et discooperies pallium, quo operitur a parte pedum, et proiicies te, et ibi iacebis: ipse autem dicet tibi quid agere debeas.",
+        "VulgConte (2009)": "Quando autem ierit ad dormiendum, nota locum in quo dormiat: veniesque et discooperies pallium, quo operitur a parte pedum, et proiicies te, et ibi iacebis: ipse autem dicet tibi quid agere debeas.",
+        "VulgSistina (1590)": "Quando autem ierit ad dormiendum, nota locum in quo dormiat: veniesque et discooperies pallium, quo operitur a parte pedum, et proiicies te, et ibi iacebis: ipse autem dicet tibi quid agere debeas."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX"
+          ],
+          "variants": [
+            {
+              "reading": "tibi",
+              "witnesses": [
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 28,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68590,
+      "verse": 5,
+      "critical_text": "Quæ respondit: Quidquid præceperis, faciam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quæ respondit: Quidquid præceperis, faciam.",
+        "Clem-Saints": "Quæ respondit: Quidquid præceperis, faciam.",
+        "VulgHetzenauer (1906)": "Quæ respondit: Quidquid præceperis, faciam.",
+        "VulgConte (2009)": "Quæ respondit: Quidquid præceperis, faciam.",
+        "VulgSistina (1590)": "Quae respondit: Quidquid praeceperis, faciam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68591,
+      "verse": 6,
+      "critical_text": "Descenditque in aream, et fecit omnia quæ sibi imperaverat socrus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Descenditque in aream, et fecit omnia quæ sibi imperaverat socrus.",
+        "Clem-Saints": "Descenditque in aream, et fecit omnia quæ sibi imperaverat socrus.",
+        "VulgHetzenauer (1906)": "Descenditque in aream, et fecit omnia, quæ sibi imperaverat socrus.",
+        "VulgConte (2009)": "Descenditque in aream, et fecit omnia, quæ sibi imperaverat socrus.",
+        "VulgSistina (1590)": "Descenditque in aream, et fecit omnia, quae sibi imperaverat socrus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68592,
+      "verse": 7,
+      "critical_text": "Cumque comedisset Booz, et bibisset, et factus esset hilarior, issetque ad dormiendum juxta acervum manipulorum, venit abscondite, et discooperto pallio, a pedibus ejus se projecit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque comedisset Booz, et bibisset, et factus esset hilarior, issetque ad dormiendum juxta acervum manipulorum, venit abscondite, et discooperto pallio, a pedibus ejus se projecit.",
+        "Clem-Saints": "Cumque comedisset Booz, et bibisset, et factus esset hilarior, issetque ad dormiendum juxta acervum manipulorum, venit abscondite, et discooperto pallio, a pedibus ejus se projecit.",
+        "VulgHetzenauer (1906)": "Cumque comedisset Booz, et bibisset, et factus esset hilarior, issetque ad dormiendum iuxta acervum manipulorum, venit abscondite, et discooperto pallio a pedibus eius, se proiecit.",
+        "VulgConte (2009)": "Cumque comedisset Booz, et bibisset, et factus esset hilarior, issetque ad dormiendum iuxta acervum manipulorum, venit abscondite, et discooperto pallio a pedibus eius, se proiecit.",
+        "VulgSistina (1590)": "Cumque comedisset Booz, et bibisset, et factus esset hilarior, issetque ad dormiendum iuxta acervum manipulorum, venit abscondite, et discooperto pallio a pedibus eius, se proiecit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68593,
+      "verse": 8,
+      "critical_text": "Et ecce, nocte jam media expavit homo, et conturbatus est: viditque mulierem jacentem ad pedes suos,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ecce, nocte jam media expavit homo, et conturbatus est: viditque mulierem jacentem ad pedes suos,",
+        "Clem-Saints": "Et ecce, nocte jam media expavit homo, et conturbatus est: viditque mulierem jacentem ad pedes suos,",
+        "VulgHetzenauer (1906)": "Et ecce, nocte iam media expavit homo, et conturbatus est: viditque mulierem iacentem ad pedes suos,",
+        "VulgConte (2009)": "Et ecce, nocte iam media expavit homo, et conturbatus est: viditque mulierem iacentem ad pedes suos,",
+        "VulgSistina (1590)": "Et ecce, nocte iam media expavit homo, et conturbatus est: viditque mulierem iacentem ad pedes suos,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68594,
+      "verse": 9,
+      "critical_text": "et ait illi: Quæ es? Illaque respondit: Ego sum Ruth ancilla tua: expande pallium tuum super famulam tuam, quia propinquus es.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et ait illi: Quæ es? Illaque respondit: Ego sum Ruth ancilla tua: expande pallium tuum super famulam tuam, quia propinquus es.",
+        "Clem-Saints": "et ait illi: Quæ es? Illaque respondit: Ego sum Ruth ancilla tua: expande pallium tuum super famulam tuam, quia propinquus es.",
+        "VulgHetzenauer (1906)": "et ait illi: Quæ es? Illaque respondit: Ego sum Ruth ancilla tua: expande pallium tuum super famulam tuam, quia propinquus es.",
+        "VulgConte (2009)": "et ait illi: Quæ es? Illaque respondit: Ego sum Ruth ancilla tua: expande pallium tuum super famulam tuam, quia propinquus es.",
+        "VulgSistina (1590)": "et ait illi: Quae es? Illaque respondit: Ego sum Ruth ancilla tua: expande pallium tuum super famulam tuam, quia propinquus es."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68595,
+      "verse": 10,
+      "critical_text": "Et ille: Benedicta, inquit, es a Domino, filia, et priorem misericordiam posteriore superasti: quia non est secuta juvenes, pauperes sive divites.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ille: Benedicta, inquit, es a Domino, filia, et priorem misericordiam posteriore superasti: quia non est secuta juvenes, pauperes sive divites.",
+        "Clem-Saints": "Et ille: Benedicta, inquit, es a Domino, filia, et priorem misericordiam posteriore superasti: quia non est secuta juvenes, pauperes sive divites.",
+        "VulgHetzenauer (1906)": "Et ille, Benedicta, inquit, es a Domino filia, et priorem misericordiam posteriore superasti: quia non est secuta iuvenes pauperes, sive divites.",
+        "VulgConte (2009)": "Et ille, Benedicta, inquit, es a Domino filia, et priorem misericordiam posteriore superasti: quia non est secuta iuvenes pauperes, sive divites.",
+        "VulgSistina (1590)": "Et ille, Benedicta, inquit, es a Domino filia, et priorem misericordiam posteriore superasti: quia non est secuta iuvenes pauperes, sive divites."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68596,
+      "verse": 11,
+      "critical_text": "Noli ergo metuere, sed quidquid dixeris mihi, faciam tibi. Scit enim omnis populus, qui habitat intra portas urbis meæ, mulierem te esse virtutis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Noli ergo metuere, sed quidquid dixeris mihi, faciam tibi. Scit enim omnis populus, qui habitat intra portas urbis meæ, mulierem te esse virtutis.",
+        "Clem-Saints": "Noli ergo metuere, sed quidquid dixeris mihi, faciam tibi. Scit enim omnis populus, qui habitat intra portas urbis meæ, mulierem te esse virtutis.",
+        "VulgHetzenauer (1906)": "Noli ergo metuere, sed quidquid dixeris mihi, faciam tibi. Scit enim omnis populus, qui habitat intra portas urbis meæ, mulierem te esse virtutis.",
+        "VulgConte (2009)": "Noli ergo metuere, sed quidquid dixeris mihi, faciam tibi. Scit enim omnis populus, qui habitat intra portas urbis meæ, mulierem te esse virtutis.",
+        "VulgSistina (1590)": "Noli ergo metuere, sed quidquid dixeris mihi, faciam tibi. Scit enim omnis populus, qui habitat intra portas urbis meae, mulierem te esse virtutis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68597,
+      "verse": 12,
+      "critical_text": "Nec abnuo me propinquum, sed est alius me propinquior.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nec abnuo me propinquum, sed est alius me propinquior.",
+        "Clem-Saints": "Nec abnuo me propinquum, sed est alius me propinquior.",
+        "VulgHetzenauer (1906)": "Nec abnuo me propinquum, sed est alius me propinquior.",
+        "VulgConte (2009)": "Nec abnuo me propinquum, sed est alius me propinquior.",
+        "VulgSistina (1590)": "Nec abnuo me propinquum, sed est alius me propinquior."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68598,
+      "verse": 13,
+      "critical_text": "Quiesce hac nocte: et facto mane, si te voluerit propinquitatis jure retinere, bene res acta est: sin autem ille noluerit, ego te absque ulla dubitatione suscipiam, vivit Dominus. Dormi usque mane.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quiesce hac nocte: et facto mane, si te voluerit propinquitatis jure retinere, bene res acta est: sin autem ille noluerit, ego te absque ulla dubitatione suscipiam, vivit Dominus. Dormi usque mane.",
+        "Clem-Saints": "Quiesce hac nocte: et facto mane, si te voluerit propinquitatis jure retinere, bene res acta est: sin autem ille noluerit, ego te absque ulla dubitatione suscipiam, vivit Dominus. Dormi usque mane.",
+        "VulgHetzenauer (1906)": "Quiesce hac nocte: et facto mane, si te voluerit propinquitatis iure retinere, bene res acta est: sin autem ille noluerit, ego te absque ulla dubitatione suscipiam, vivit Dominus. dormi usque mane.",
+        "VulgConte (2009)": "Quiesce hac nocte: et facto mane, si te voluerit propinquitatis iure retinere, bene res acta est: sin autem ille noluerit, ego te absque ulla dubitatione suscipiam, vivit Dominus. Dormi usque mane.",
+        "VulgSistina (1590)": "Quiesce hac nocte: et facto mane, si te voluerit propinquitatis iure retinere, bene res acta est: sin autem ille noluerit, ego te absque ulla dubitatione suscipiam, vivit Dominus. dormi usque mane."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68599,
+      "verse": 14,
+      "critical_text": "Dormivit itaque ad pedes ejus, usque ad noctis abscessum. Surrexit itaque antequam homines se cognoscerent mutuo, et dixit Booz: Cave ne quis noverit quod huc veneris.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dormivit itaque ad pedes ejus, usque ad noctis abscessum. Surrexit itaque antequam homines se cognoscerent mutuo, et dixit Booz: Cave ne quis noverit quod huc veneris.",
+        "Clem-Saints": "Dormivit itaque ad pedes ejus, usque ad noctis abscessum. Surrexit itaque antequam homines se cognoscerent mutuo, et dixit Booz: Cave ne quis noverit quod huc veneris.",
+        "VulgHetzenauer (1906)": "Dormivit itaque ad pedes eius, usque ad noctis abscessum. Surrexit itaque antequam homines se cognoscerent mutuo, et dixit Booz: Cave ne quis noverit quod huc veneris.",
+        "VulgConte (2009)": "Dormivit itaque ad pedes eius, usque ad noctis abscessum. Surrexit itaque antequam homines se cognoscerent mutuo, et dixit Booz: Cave ne quis noverit quod huc veneris.",
+        "VulgSistina (1590)": "Dormivit itaque ad pedes eius, usque ad noctis abscessum. Surrexit itaque antequam homines se cognoscerent mutuo, et dixit Booz: Cave ne quis noverit quod huc veneris."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68600,
+      "verse": 15,
+      "critical_text": "Et rursum: Expande, inquit, pallium tuum, quo operiris, et tene utraque manu. Qua extendente, et tenente, mensus est sex modios hordei, et posuit super eam. Quæ portans ingressa est civitatem,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et rursum: Expande, inquit, pallium tuum, quo operiris, et tene utraque manu. Qua extendente, et tenente, mensus est sex modios hordei, et posuit super eam. Quæ portans ingressa est civitatem,",
+        "Clem-Saints": "Et rursum: Expande, inquit, pallium tuum, quo operiris, et tene utraque manu. Qua extendente, et tenente, mensus est sex modios hordei, et posuit super eam. Quæ portans ingressa est civitatem,",
+        "VulgHetzenauer (1906)": "Et rursum, Expande, inquit, pallium tuum, quo operiris, et tene utraque manu. Qua extendente, et tenente, mensus est sex modios hordei, et posuit super eam. Quæ portans ingressa est civitatem,",
+        "VulgConte (2009)": "Et rursum, Expande, inquit, pallium tuum, quo operiris, et tene utraque manu. Qua extendente, et tenente, mensus est sex modios hordei, et posuit super eam. Quæ portans ingressa est civitatem,",
+        "VulgSistina (1590)": "Et rursum, Expande, inquit, pallium tuum, quo operiris, et tene utraque manu. Qua extendente, et tenente, mensus est sex modios hordei, et posuit super eam. Quae portans ingressa est civitatem,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68601,
+      "verse": 16,
+      "critical_text": "et venit ad socrum suam. Quæ dixit ei: Quid egisti, filia? Narravitque ei omnia, quæ sibi fecisset homo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et venit ad socrum suam. Quæ dixit ei: Quid egisti, filia? Narravitque ei omnia, quæ sibi fecisset homo.",
+        "Clem-Saints": "et venit ad socrum suam. Quæ dixit ei: Quid egisti, filia? Narravitque ei omnia, quæ sibi fecisset homo.",
+        "VulgHetzenauer (1906)": "et venit ad socrum suam. Quæ dixit ei: Quid egisti filia? Narravitque ei omnia, quæ sibi fecisset homo.",
+        "VulgConte (2009)": "et venit ad socrum suam. Quæ dixit ei: Quid egisti filia? Narravitque ei omnia, quæ sibi fecisset homo.",
+        "VulgSistina (1590)": "et venit ad socrum suam. Quae dixit ei: Quid egisti filia? Narravitque ei omnia, quae sibi fecisset homo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68602,
+      "verse": 17,
+      "critical_text": "Et ait: Ecce sex modios hordei dedit mihi, et ait: Nolo vacuam te reverti ad socrum tuam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ait: Ecce sex modios hordei dedit mihi, et ait: Nolo vacuam te reverti ad socrum tuam.",
+        "Clem-Saints": "Et ait: Ecce sex modios hordei dedit mihi, et ait: Nolo vacuam te reverti ad socrum tuam.",
+        "VulgHetzenauer (1906)": "Et ait: Ecce sex modios hordei dedit mihi, et ait: Nolo vacuam te reverti ad socrum tuam.",
+        "VulgConte (2009)": "Et ait: Ecce sex modios hordei dedit mihi, et ait: Nolo vacuam te reverti ad socrum tuam.",
+        "VulgSistina (1590)": "Et ait: Ecce sex modios hordei dedit mihi, et ait: Nolo vacuam te reverti ad socrum tuam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68603,
+      "verse": 18,
+      "critical_text": "Dixitque Noëmi: Expecta, filia, donec videamus quem res exitum habeat: neque enim cessabit homo, nisi compleverit quod locutus est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque Noëmi: Expecta, filia, donec videamus quem res exitum habeat: neque enim cessabit homo, nisi compleverit quod locutus est.",
+        "Clem-Saints": "Dixitque Noëmi: Expecta, filia, donec videamus quem res exitum habeat: neque enim cessabit homo, nisi compleverit quod locutus est.",
+        "VulgHetzenauer (1906)": "Dixitque Noemi: Expecta filia donec videamus quem res exitum habeat. neque enim cessabit homo nisi compleverit quod locutus est.",
+        "VulgConte (2009)": "Dixitque Noemi: Expecta filia donec videamus quem res exitum habeat. Neque enim cessabit homo nisi compleverit quod locutus est.",
+        "VulgSistina (1590)": "Dixitque Noemi: Expecta filia donec videamus quem res exitum habeat. neque enim cessabit homo nisi compleverit quod locutus est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

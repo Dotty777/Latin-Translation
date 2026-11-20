@@ -1,0 +1,952 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "sirach",
+  "book_title": "Sirach",
+  "usfm_code": "SIR",
+  "chapter": 28,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:38Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "Clem1598-USFX: 28:7 not collated (no verse of the reference matches its wording)",
+    "Clem1598-USFX: 28:9 not collated (no verse of the reference matches its wording)",
+    "Clem1598-USFX: 28:17 not collated (no verse of the reference matches its wording)",
+    "Clem1598-USFX: 28:18 not collated (no verse of the reference matches its wording)",
+    "Clem1598-USFX: 20 verse(s) re-aligned by content (7←28:8, 8←28:10, 9←28:11, 10←28:12, 11←28:13, 12←28:14…)",
+    "VulgHetzenauer (1906): 28:7 not collated (no verse of the reference matches its wording)",
+    "VulgHetzenauer (1906): 28:9 not collated (no verse of the reference matches its wording)",
+    "VulgHetzenauer (1906): 28:17 not collated (no verse of the reference matches its wording)",
+    "VulgHetzenauer (1906): 28:18 not collated (no verse of the reference matches its wording)",
+    "VulgHetzenauer (1906): 20 verse(s) re-aligned by content (7←28:8, 8←28:10, 9←28:11, 10←28:12, 11←28:13, 12←28:14…)",
+    "VulgConte (2009): 28:7 not collated (no verse of the reference matches its wording)",
+    "VulgConte (2009): 28:9 not collated (no verse of the reference matches its wording)",
+    "VulgConte (2009): 28:17 not collated (no verse of the reference matches its wording)",
+    "VulgConte (2009): 28:18 not collated (no verse of the reference matches its wording)",
+    "VulgConte (2009): 20 verse(s) re-aligned by content (7←28:8, 8←28:10, 9←28:11, 10←28:12, 11←28:13, 12←28:14…)",
+    "VulgSistina (1590): 28:7 not collated (no verse of the reference matches its wording)",
+    "VulgSistina (1590): 28:9 not collated (no verse of the reference matches its wording)",
+    "VulgSistina (1590): 28:17 not collated (no verse of the reference matches its wording)",
+    "VulgSistina (1590): 28:18 not collated (no verse of the reference matches its wording)",
+    "VulgSistina (1590): 20 verse(s) re-aligned by content (7←28:8, 8←28:10, 9←28:11, 10←28:12, 11←28:13, 12←28:14…)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 81937,
+      "verse": 1,
+      "critical_text": "Qui vindicari vult, a Domino inveniet vindictam, et peccata illius servans servabit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui vindicari vult, a Domino inveniet vindictam, et peccata illius servans servabit.",
+        "Clem-Saints": "Qui vindicari vult, a Domino inveniet vindictam, et peccata illius servans servabit.",
+        "VulgHetzenauer (1906)": "Qui vindicari vult, a Domino inveniet vindictam, et peccata illius servans servabit.",
+        "VulgConte (2009)": "Qui vindicari vult, a Domino inveniet vindictam, et peccata illius servans servabit.",
+        "VulgSistina (1590)": "Qui vindicari vult, a Domino inveniet vindictam, et peccata illius servans servabit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81938,
+      "verse": 2,
+      "critical_text": "Relinque proximo tuo nocenti te, et tunc deprecanti tibi peccata solventur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Relinque proximo tuo nocenti te, et tunc deprecanti tibi peccata solventur.",
+        "Clem-Saints": "Relinque proximo tuo nocenti te, et tunc deprecanti tibi peccata solventur.",
+        "VulgHetzenauer (1906)": "Relinque proximo tuo nocenti te: et tunc deprecanti tibi peccata solventur.",
+        "VulgConte (2009)": "Relinque proximo tuo nocenti te: et tunc deprecanti tibi peccata solventur.",
+        "VulgSistina (1590)": "Relinque proximo tuo nocenti te: et tunc deprecanti tibi peccata solventur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81939,
+      "verse": 3,
+      "critical_text": "Homo homini reservat iram, et a Deo quærit medelam:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Homo homini reservat iram, et a Deo quærit medelam:",
+        "Clem-Saints": "Homo homini reservat iram, et a Deo quærit medelam:",
+        "VulgHetzenauer (1906)": "Homo homini reservat iram, et a Deo quærit medelam?",
+        "VulgConte (2009)": "Homo homini reservat iram, et a Deo quærit medelam?",
+        "VulgSistina (1590)": "Homo homini reservat iram, et a Deo quaerit medelam?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81940,
+      "verse": 4,
+      "critical_text": "in hominem similem sibi non habet misericordiam, et de peccatis suis deprecatur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "in hominem similem sibi non habet misericordiam, et de peccatis suis deprecatur.",
+        "Clem-Saints": "in hominem similem sibi non habet misericordiam, et de peccatis suis deprecatur.",
+        "VulgHetzenauer (1906)": "In hominem similem sibi non habet misericordiam, et de peccatis suis deprecatur?",
+        "VulgConte (2009)": "In hominem similem sibi non habet misericordiam, et de peccatis suis deprecatur?",
+        "VulgSistina (1590)": "In hominem similem sibi non habet misericordiam, et de peccatis suis deprecatur?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81941,
+      "verse": 5,
+      "critical_text": "Ipse cum caro sit reservat iram, et propitiationem petit a Deo: quis exorabit pro delictis illius?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ipse cum caro sit reservat iram, et propitiationem petit a Deo: quis exorabit pro delictis illius?",
+        "Clem-Saints": "Ipse cum caro sit reservat iram, et propitiationem petit a Deo: quis exorabit pro delictis illius?",
+        "VulgHetzenauer (1906)": "Ipse cum caro sit, reservat iram, et propitiationem petit a Deo? quis exorabit pro delictis illius?",
+        "VulgConte (2009)": "Ipse cum caro sit, reservat iram, et propitiationem petit a Deo? Quis exorabit pro delictis illius?",
+        "VulgSistina (1590)": "Ipse cum caro sit, reservat iram, et propitiationem petit a Deo? quis exorabit pro delictis illius?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81942,
+      "verse": 6,
+      "critical_text": "Memento novissimorum, et desine inimicari:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Memento novissimorum, et desine inimicari:",
+        "Clem-Saints": "Memento novissimorum, et desine inimicari:",
+        "VulgHetzenauer (1906)": "Memento novissimorum, et desine inimicari:",
+        "VulgConte (2009)": "Memento novissimorum, et desine inimicari:",
+        "VulgSistina (1590)": "Memento novissimorum, et desine inimicari:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81943,
+      "verse": 7,
+      "critical_text": "Memorare timorem Dei, et non irascaris proximo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Memorare timorem Dei, et non irascaris proximo.",
+        "Clem-Saints": "Memorare timorem Dei, et non irascaris proximo.",
+        "VulgHetzenauer (1906)": "Memorare timorem Dei, et non irascaris proximo.",
+        "VulgConte (2009)": "Memorare timorem Dei, et non irascaris proximo.",
+        "VulgSistina (1590)": "Memorare timorem Dei, et non irascaris proximo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:8",
+        "VulgHetzenauer (1906)": "28:8",
+        "VulgConte (2009)": "28:8",
+        "VulgSistina (1590)": "28:8"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:8 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81944,
+      "verse": 8,
+      "critical_text": "Abstine te a lite, et minues peccata.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Abstine te a lite, et minues peccata.",
+        "Clem-Saints": "Abstine te a lite, et minues peccata.",
+        "VulgHetzenauer (1906)": "Abstine te a lite, et minues peccata:",
+        "VulgConte (2009)": "Abstine te a lite, et minues peccata:",
+        "VulgSistina (1590)": "Abstine te a lite, et minues peccata:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:10",
+        "VulgHetzenauer (1906)": "28:10",
+        "VulgConte (2009)": "28:10",
+        "VulgSistina (1590)": "28:10"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:10 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81945,
+      "verse": 9,
+      "critical_text": "Homo enim iracundus incendit litem, et vir peccator turbabit amicos, et in medio pacem habentium immittet inimicitiam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Homo enim iracundus incendit litem, et vir peccator turbabit amicos, et in medio pacem habentium immittet inimicitiam.",
+        "Clem-Saints": "Homo enim iracundus incendit litem, et vir peccator turbabit amicos, et in medio pacem habentium immittet inimicitiam.",
+        "VulgHetzenauer (1906)": "homo enim iracundus incendit litem, et vir peccator turbabit amicos, et in medio pacem habentium immittet inimicitiam.",
+        "VulgConte (2009)": "homo enim iracundus incendit litem, et vir peccator turbabit amicos, et in medio pacem habentium immittet inimicitiam.",
+        "VulgSistina (1590)": "homo enim iracundus incendit litem, et vir peccator turbabit amicos, et in medio pacem habentium immittet inimicitiam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:11",
+        "VulgHetzenauer (1906)": "28:11",
+        "VulgConte (2009)": "28:11",
+        "VulgSistina (1590)": "28:11"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:11 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81946,
+      "verse": 10,
+      "critical_text": "Secundum enim ligna silvæ sic ignis exardescit: et secundum virtutem hominis sic iracundia illius erit, et secundum substantiam suam exaltabit iram suam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Secundum enim ligna silvæ sic ignis exardescit: et secundum virtutem hominis sic iracundia illius erit, et secundum substantiam suam exaltabit iram suam.",
+        "Clem-Saints": "Secundum enim ligna silvæ sic ignis exardescit: et secundum virtutem hominis sic iracundia illius erit, et secundum substantiam suam exaltabit iram suam.",
+        "VulgHetzenauer (1906)": "Secundum enim ligna silvæ sic ignis exardescit: et secundum virtutem hominis, sic iracundia illius erit, et secundum substantiam suam exaltabit iram suam.",
+        "VulgConte (2009)": "Secundum enim ligna silvæ sic ignis exardescit: et secundum virtutem hominis, sic iracundia illius erit, et secundum substantiam suam exaltabit iram suam.",
+        "VulgSistina (1590)": "Secundum enim ligna silvae sic ignis exardescit: et secundum virtutem hominis, sic iracundia illius erit, et secundum substantiam suam exaltabit iram suam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:12",
+        "VulgHetzenauer (1906)": "28:12",
+        "VulgConte (2009)": "28:12",
+        "VulgSistina (1590)": "28:12"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:12 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81947,
+      "verse": 11,
+      "critical_text": "Certamen festinatum incendit ignem, et lis festinans effundit sanguinem: et lingua testificans adducit mortem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Certamen festinatum incendit ignem, et lis festinans effundit sanguinem: et lingua testificans adducit mortem.",
+        "Clem-Saints": "Certamen festinatum incendit ignem, et lis festinans effundit sanguinem: et lingua testificans adducit mortem.",
+        "VulgHetzenauer (1906)": "Certamen festinatum incendit ignem: et lis festinans effundit sanguinem: et lingua testificans adducit mortem.",
+        "VulgConte (2009)": "Certamen festinatum incendit ignem: et lis festinans effundit sanguinem: et lingua testificans adducit mortem.",
+        "VulgSistina (1590)": "Certamen festinatum incendit ignem: et lis festinans effundit sanguinem: et lingua testificans adducit mortem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:13",
+        "VulgHetzenauer (1906)": "28:13",
+        "VulgConte (2009)": "28:13",
+        "VulgSistina (1590)": "28:13"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:13 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81948,
+      "verse": 12,
+      "critical_text": "Si sufflaveris in scintillam, quasi ignis exardebit: et si exspueris super illam, extinguetur: utraque ex ore proficiscuntur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si sufflaveris in scintillam, quasi ignis exardebit: et si exspueris super illam, extinguetur: utraque ex ore proficiscuntur.",
+        "Clem-Saints": "Si sufflaveris in scintillam, quasi ignis exardebit: et si exspueris super illam, extinguetur: utraque ex ore proficiscuntur.",
+        "VulgHetzenauer (1906)": "Si sufflaveris in scintillam, quasi ignis exardebit: et si expueris super illam, extinguetur: utraque ex ore proficiscuntur.",
+        "VulgConte (2009)": "Si sufflaveris in scintillam, quasi ignis exardebit: et si expueris super illam, extinguetur: utraque ex ore proficiscuntur.",
+        "VulgSistina (1590)": "Si sufflaveris in scintillam, quasi ignis exardebit: et si expueris super illam, extinguetur: utraque ex ore proficiscuntur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:14",
+        "VulgHetzenauer (1906)": "28:14",
+        "VulgConte (2009)": "28:14",
+        "VulgSistina (1590)": "28:14"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exspueris / expueris",
+            "exspueris / expueris",
+            "exspueris / expueris"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:14 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81949,
+      "verse": 13,
+      "critical_text": "Susurro et bilinguis maledictus, multos enim turbabit pacem habentes.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Susurro et bilinguis maledictus, multos enim turbabit pacem habentes.",
+        "Clem-Saints": "Susurro et bilinguis maledictus, multos enim turbabit pacem habentes.",
+        "VulgHetzenauer (1906)": "Susurro et bilinguis maledictus: multos enim turbabit pacem habentes.",
+        "VulgConte (2009)": "Susurro et bilinguis maledictus: multos enim turbabit pacem habentes.",
+        "VulgSistina (1590)": "Susurro et bilinguis maledictus: multos enim turbabit pacem habentes."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:15",
+        "VulgHetzenauer (1906)": "28:15",
+        "VulgConte (2009)": "28:15",
+        "VulgSistina (1590)": "28:15"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:15 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81950,
+      "verse": 14,
+      "critical_text": "Lingua tertia multos commovit, et dispersit illos de gente in gentem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Lingua tertia multos commovit, et dispersit illos de gente in gentem.",
+        "Clem-Saints": "Lingua tertia multos commovit, et dispersit illos de gente in gentem.",
+        "VulgHetzenauer (1906)": "Lingua tertia multos commovit, et dispersit illos de gente in gentem.",
+        "VulgConte (2009)": "Lingua tertia multos commovit, et dispersit illos de gente in gentem.",
+        "VulgSistina (1590)": "Lingua tertia multos commovit, et dispersit illos de gente in gentem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:16",
+        "VulgHetzenauer (1906)": "28:16",
+        "VulgConte (2009)": "28:16",
+        "VulgSistina (1590)": "28:16"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:16 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81951,
+      "verse": 15,
+      "critical_text": "Lingua tertia mulieres viratas ejecit, et privavit illas laboribus suis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Lingua tertia mulieres viratas ejecit, et privavit illas laboribus suis.",
+        "Clem-Saints": "Lingua tertia mulieres viratas ejecit, et privavit illas laboribus suis.",
+        "VulgHetzenauer (1906)": "Lingua tertia mulieres viratas eiecit, et privavit illas laboribus suis.",
+        "VulgConte (2009)": "Lingua tertia mulieres viratas eiecit, et privavit illas laboribus suis.",
+        "VulgSistina (1590)": "Lingua tertia mulieres viratas eiecit, et privavit illas laboribus suis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:19",
+        "VulgHetzenauer (1906)": "28:19",
+        "VulgConte (2009)": "28:19",
+        "VulgSistina (1590)": "28:19"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:19 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81952,
+      "verse": 16,
+      "critical_text": "Qui respicit illam non habebit requiem, nec habebit amicum in quo requiescat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui respicit illam non habebit requiem, nec habebit amicum in quo requiescat.",
+        "Clem-Saints": "Qui respicit illam non habebit requiem, nec habebit amicum in quo requiescat.",
+        "VulgHetzenauer (1906)": "qui respicit illam, non habebit requiem, nec habebit amicum, in quo requiescat.",
+        "VulgConte (2009)": "Qui respicit illam, non habebit requiem, nec habebit amicum, in quo requiescat.",
+        "VulgSistina (1590)": "qui respicit illam, non habebit requiem, nec habebit amicum, in quo requiescat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:20",
+        "VulgHetzenauer (1906)": "28:20",
+        "VulgConte (2009)": "28:20",
+        "VulgSistina (1590)": "28:20"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:20 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81953,
+      "verse": 17,
+      "critical_text": "Flagelli plaga livorem facit: plaga autem linguæ comminuet ossa.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Flagelli plaga livorem facit: plaga autem linguæ comminuet ossa.",
+        "Clem-Saints": "Flagelli plaga livorem facit: plaga autem linguæ comminuet ossa.",
+        "VulgHetzenauer (1906)": "Flagelli plaga livorem facit: plaga autem linguæ comminuet ossa.",
+        "VulgConte (2009)": "Flagelli plaga livorem facit: plaga autem linguæ comminuet ossa.",
+        "VulgSistina (1590)": "Flagelli plaga livorem facit: plaga autem linguae comminuet ossa."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:21",
+        "VulgHetzenauer (1906)": "28:21",
+        "VulgConte (2009)": "28:21",
+        "VulgSistina (1590)": "28:21"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:21 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81954,
+      "verse": 18,
+      "critical_text": "Multi ceciderunt in ore gladii: sed non sic quasi qui interierunt per linguam suam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Multi ceciderunt in ore gladii: sed non sic quasi qui interierunt per linguam suam.",
+        "Clem-Saints": "Multi ceciderunt in ore gladii: sed non sic quasi qui interierunt per linguam suam.",
+        "VulgHetzenauer (1906)": "Multi ceciderunt in ore gladii, sed non sic quasi qui interierunt per linguam suam.",
+        "VulgConte (2009)": "Multi ceciderunt in ore gladii, sed non sic quasi qui interierunt per linguam suam.",
+        "VulgSistina (1590)": "Multi ceciderunt in ore gladii, sed non sic quasi qui interierunt per linguam suam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:22",
+        "VulgHetzenauer (1906)": "28:22",
+        "VulgConte (2009)": "28:22",
+        "VulgSistina (1590)": "28:22"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:22 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81955,
+      "verse": 19,
+      "critical_text": "Beatus qui tectus est a lingua nequam, qui in iracundiam illius non transivit, et qui non attraxit jugum illius, et in vinculis ejus non est ligatus:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Beatus qui tectus est a lingua nequam, qui in iracundiam illius non transivit, et qui non attraxit jugum illius, et in vinculis ejus non est ligatus:",
+        "Clem-Saints": "Beatus qui tectus est a lingua nequam, qui in iracundiam illius non transivit, et qui non attraxit jugum illius, et in vinculis ejus non est ligatus:",
+        "VulgHetzenauer (1906)": "Beatus qui tectus est a lingua nequam, qui in iracundiam illius non transivit, et qui non attraxit iugum illius, et in vinculis eius non est ligatus:",
+        "VulgConte (2009)": "Beatus qui tectus est a lingua nequam, qui in iracundiam illius non transivit, et qui non attraxit iugum illius, et in vinculis eius non est ligatus:",
+        "VulgSistina (1590)": "Beatus qui tectus est a lingua nequam, qui in iracundiam illius non transivit, et qui non attraxit iugum illius, et in vinculis eius non est ligatus:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:23",
+        "VulgHetzenauer (1906)": "28:23",
+        "VulgConte (2009)": "28:23",
+        "VulgSistina (1590)": "28:23"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:23 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81956,
+      "verse": 20,
+      "critical_text": "jugum enim illius jugum ferreum est, et vinculum illius vinculum æreum est;",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "jugum enim illius jugum ferreum est, et vinculum illius vinculum æreum est;",
+        "Clem-Saints": "jugum enim illius jugum ferreum est, et vinculum illius vinculum æreum est;",
+        "VulgHetzenauer (1906)": "iugum enim illius, iugum ferreum est: et vinculum illius, vinculum æreum est.",
+        "VulgConte (2009)": "iugum enim illius, iugum ferreum est: et vinculum illius, vinculum æreum est.",
+        "VulgSistina (1590)": "iugum enim illius, iugum ferreum est: et vinculum illius, vinculum aereum est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:24",
+        "VulgHetzenauer (1906)": "28:24",
+        "VulgConte (2009)": "28:24",
+        "VulgSistina (1590)": "28:24"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:24 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81957,
+      "verse": 21,
+      "critical_text": "mors illius mors nequissima: et utilis potius infernus quam illa.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "mors illius mors nequissima: et utilis potius infernus quam illa.",
+        "Clem-Saints": "mors illius mors nequissima: et utilis potius infernus quam illa.",
+        "VulgHetzenauer (1906)": "Mors illius, mors nequissima: et utilis potius infernus quam illa.",
+        "VulgConte (2009)": "Mors illius, mors nequissima: et utilis potius infernus quam illa.",
+        "VulgSistina (1590)": "Mors illius, mors nequissima: et utilis potius infernus quam illa."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:25",
+        "VulgHetzenauer (1906)": "28:25",
+        "VulgConte (2009)": "28:25",
+        "VulgSistina (1590)": "28:25"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:25 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81958,
+      "verse": 22,
+      "critical_text": "Perseverantia illius non permanebit, sed obtinebit vias injustorum, et in flamma sua non comburet justos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Perseverantia illius non permanebit, sed obtinebit vias injustorum, et in flamma sua non comburet justos.",
+        "Clem-Saints": "Perseverantia illius non permanebit, sed obtinebit vias injustorum, et in flamma sua non comburet justos.",
+        "VulgHetzenauer (1906)": "Perseverantia illius non permanebit, sed obtinebit vias iniustorum: et in flamma sua non comburet iustos.",
+        "VulgConte (2009)": "Perseverantia illius non permanebit, sed obtinebit vias iniustorum: et in flamma sua non comburet iustos.",
+        "VulgSistina (1590)": "Perseverantia illius non permanebit, sed obtinebit vias iniustorum: et in flamma sua non comburet iustos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:26",
+        "VulgHetzenauer (1906)": "28:26",
+        "VulgConte (2009)": "28:26",
+        "VulgSistina (1590)": "28:26"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:26 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81959,
+      "verse": 23,
+      "critical_text": "Qui relinquunt Deum incident in illam, et exardebit in illis, et non extinguetur, et immittetur in illos quasi leo, et quasi pardus lædet illos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui relinquunt Deum incident in illam, et exardebit in illis, et non extinguetur, et immittetur in illos quasi leo, et quasi pardus lædet illos.",
+        "Clem-Saints": "Qui relinquunt Deum incident in illam, et exardebit in illis, et non extinguetur, et immittetur in illos quasi leo, et quasi pardus lædet illos.",
+        "VulgHetzenauer (1906)": "Qui relinquunt Deum, incident in illam, et exardebit in illis, et non extinguetur, et immittetur in illos quasi leo, et quasi pardus lædet illos.",
+        "VulgConte (2009)": "Qui relinquunt Deum, incident in illam, et exardebit in illis, et non extinguetur, et immittetur in illos quasi leo, et quasi pardus lædet illos.",
+        "VulgSistina (1590)": "Qui relinquunt Deum, incident in illam, et exardebit in illis, et non extinguetur, et immittetur in illos quasi leo, et quasi pardus laedet illos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:27",
+        "VulgHetzenauer (1906)": "28:27",
+        "VulgConte (2009)": "28:27",
+        "VulgSistina (1590)": "28:27"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:27 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81960,
+      "verse": 24,
+      "critical_text": "Sepi aures tuas spinis: linguam nequam noli audire: et ori tuo facito ostia et seras.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sepi aures tuas spinis: linguam nequam noli audire: et ori tuo facito ostia et seras.",
+        "Clem-Saints": "Sepi aures tuas spinis: linguam nequam noli audire: et ori tuo facito ostia et seras.",
+        "VulgHetzenauer (1906)": "Sepi aures tuas spinis, linguam nequam noli audire, et ori tuo facito ostia, et seras.",
+        "VulgConte (2009)": "Sepi aures tuas spinis, linguam nequam noli audire, et ori tuo facito ostia, et seras.",
+        "VulgSistina (1590)": "Sepi aures tuas spinis, et linguam nequam noli audire, et ori tuo facito ostia, et seras auribus tuis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:28",
+        "VulgHetzenauer (1906)": "28:28",
+        "VulgConte (2009)": "28:28",
+        "VulgSistina (1590)": "28:28"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "et",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 4,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "auribus tuis.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 15,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:28 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81961,
+      "verse": 25,
+      "critical_text": "Aurum tuum et argentum tuum confla, et verbis tuis facito stateram, et frenos ori tuo rectos:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Aurum tuum et argentum tuum confla, et verbis tuis facito stateram, et frenos ori tuo rectos:",
+        "Clem-Saints": "Aurum tuum et argentum tuum confla, et verbis tuis facito stateram, et frenos ori tuo rectos:",
+        "VulgHetzenauer (1906)": "Aurum tuum et argentum tuum confla, et verbis tuis facito stateram, et frenos ori tuo rectos:",
+        "VulgConte (2009)": "Aurum tuum et argentum tuum confla, et verbis tuis facito stateram, et frenos ori tuo rectos:",
+        "VulgSistina (1590)": "Aurum tuum et argentum tuum confla, et verbis tuis facito stateram, et frenos ori tuo rectos:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:29",
+        "VulgHetzenauer (1906)": "28:29",
+        "VulgConte (2009)": "28:29",
+        "VulgSistina (1590)": "28:29"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:29 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 81962,
+      "verse": 26,
+      "critical_text": "et attende ne forte labaris in lingua, et cadas in conspectu inimicorum insidiantium tibi, et sit casus tuus insanabilis in mortem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et attende ne forte labaris in lingua, et cadas in conspectu inimicorum insidiantium tibi, et sit casus tuus insanabilis in mortem.",
+        "Clem-Saints": "et attende ne forte labaris in lingua, et cadas in conspectu inimicorum insidiantium tibi, et sit casus tuus insanabilis in mortem.",
+        "VulgHetzenauer (1906)": "et attende ne forte labaris in lingua, et cadas in conspectu inimicorum insidiantium tibi, et sit casus tuus insanabilis in mortem.",
+        "VulgConte (2009)": "et attende ne forte labaris in lingua, et cadas in conspectu inimicorum insidiantium tibi, et sit casus tuus insanabilis in mortem.",
+        "VulgSistina (1590)": "et attende ne forte labaris in lingua, et cadas in conspectu inimicorum insidiantium tibi, et sit casus tuus insanabilis in mortem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "28:30",
+        "VulgHetzenauer (1906)": "28:30",
+        "VulgConte (2009)": "28:30",
+        "VulgSistina (1590)": "28:30"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 28:30 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

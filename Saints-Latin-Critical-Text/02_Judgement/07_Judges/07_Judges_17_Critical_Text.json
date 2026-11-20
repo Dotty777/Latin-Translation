@@ -1,0 +1,522 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "judges",
+  "book_title": "Judges",
+  "usfm_code": "JDG",
+  "chapter": 17,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:35Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 68395,
+      "verse": 1,
+      "critical_text": "Fuit eo tempore vir quidam de monte Ephraim nomine Michas,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fuit eo tempore vir quidam de monte Ephraim nomine Michas,",
+        "Clem-Saints": "Fuit eo tempore vir quidam de monte Ephraim nomine Michas,",
+        "VulgHetzenauer (1906)": "Fuit eo tempore vir quidam de monte Ephraim nomine Michas,",
+        "VulgConte (2009)": "Fuit eo tempore vir quidam de monte Ephraim nomine Michas,",
+        "VulgSistina (1590)": "Fuitque eo tempore vir quidam de monte Ephraim nomine Michas,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Fuit",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Fuitque",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "fuit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68396,
+      "verse": 2,
+      "critical_text": "qui dixit matri suæ: Mille et centum argenteos, quos separaveras tibi, et super quibus me audiente juraveras, ecce ego habeo, et apud me sunt. Cui illa respondit: Benedictus filius meus Domino.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "qui dixit matri suæ: Mille et centum argenteos, quos separaveras tibi, et super quibus me audiente juraveras, ecce ego habeo, et apud me sunt. Cui illa respondit: Benedictus filius meus Domino.",
+        "Clem-Saints": "qui dixit matri suæ: Mille et centum argenteos, quos separaveras tibi, et super quibus me audiente juraveras, ecce ego habeo, et apud me sunt. Cui illa respondit: Benedictus filius meus Domino.",
+        "VulgHetzenauer (1906)": "qui dixit matri suæ: Mille et centum argenteos, quos separaveras tibi, et super quibus me audiente iuraveras, ecce ego habeo, et apud me sunt. Cui illa respondit: Benedictus filius meus Domino.",
+        "VulgConte (2009)": "qui dixit matri suæ: Mille et centum argenteos, quos separaveras tibi, et super quibus me audiente iuraveras, ecce ego habeo, et apud me sunt. Cui illa respondit: Benedictus filius meus Domino.",
+        "VulgSistina (1590)": "qui dixit matri suae: Mille et centum argenteos, quos separaveras tibi, et super quibus me audiente iuraveras, ecce ego habeo, et apud me sunt. Cui illa respondit: Benedictus filius meus a Domino."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "a",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 30,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68397,
+      "verse": 3,
+      "critical_text": "Reddidit ergo eos matri suæ, quæ dixerat ei: Consecravi et vovi hoc argentum Domino, ut de manu mea suscipiat filius meus, et faciat sculptile atque conflatile: et nunc trado illud tibi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Reddidit ergo eos matri suæ, quæ dixerat ei: Consecravi et vovi hoc argentum Domino, ut de manu mea suscipiat filius meus, et faciat sculptile atque conflatile: et nunc trado illud tibi.",
+        "Clem-Saints": "Reddidit ergo eos matri suæ, quæ dixerat ei: Consecravi et vovi hoc argentum Domino, ut de manu mea suscipiat filius meus, et faciat sculptile atque conflatile: et nunc trado illud tibi.",
+        "VulgHetzenauer (1906)": "Reddidit ergo eos matri suæ, quæ dixerat ei: Consecravi et vovi hoc argentum Domino, ut de manu mea suscipiat filius meus, et faciat sculptile atque conflatile: et nunc trado illud tibi.",
+        "VulgConte (2009)": "Reddidit ergo eos matri suæ, quæ dixerat ei: Consecravi et vovi hoc argentum Domino, ut de manu mea suscipiat filius meus, et faciat sculptile atque conflatile: et nunc trado illud tibi.",
+        "VulgSistina (1590)": "Consecravi enim et vovi hoc argentum Domino, ut de manu mea suscipiat filius meus, et faciat sculptile atque conflatile: et nunc trado illud tibi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Reddidit ergo eos matri suæ, quæ dixerat ei:",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 0,
+          "word_count": 8,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "reddidit ergo eos matri suae quae dixerat ei",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "enim",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 9,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68398,
+      "verse": 4,
+      "critical_text": "Reddidit igitur eos matri suæ: quæ tulit ducentos argenteos, et dedit eos argentario, ut faceret ex eis sculptile atque conflatile, quod fuit in domo Michæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Reddidit igitur eos matri suæ: quæ tulit ducentos argenteos, et dedit eos argentario, ut faceret ex eis sculptile atque conflatile, quod fuit in domo Michæ.",
+        "Clem-Saints": "Reddidit igitur eos matri suæ: quæ tulit ducentos argenteos, et dedit eos argentario, ut faceret ex eis sculptile atque conflatile, quod fuit in domo Michæ.",
+        "VulgHetzenauer (1906)": "Reddidit igitur eos matri suæ: quæ tulit ducentos argenteos, et dedit eos argentario, ut faceret ex eis sculptile atque conflatile, quod fuit in domo Michæ.",
+        "VulgConte (2009)": "Reddidit igitur eos matri suæ: quæ tulit ducentos argenteos, et dedit eos argentario, ut faceret ex eis sculptile atque conflatile, quod fuit in domo Michæ.",
+        "VulgSistina (1590)": "Reddidit igitur eos matri suae: quae tulit ducentos argenteos, et dedit eos argentario, ut faceret ex eis sculptile atque conflatile, quod fuit in domo Michae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68399,
+      "verse": 5,
+      "critical_text": "Qui ædiculam quoque in ea deo separavit, et fecit ephod, et theraphim, id est, vestem sacerdotalem, et idola: implevitque unius filiorum suorum manum, et factus est ei sacerdos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui ædiculam quoque in ea deo separavit, et fecit ephod, et theraphim, id est, vestem sacerdotalem, et idola: implevitque unius filiorum suorum manum, et factus est ei sacerdos.",
+        "Clem-Saints": "Qui ædiculam quoque in ea deo separavit, et fecit ephod, et theraphim, id est, vestem sacerdotalem, et idola: implevitque unius filiorum suorum manum, et factus est ei sacerdos.",
+        "VulgHetzenauer (1906)": "Qui ædiculam quoque in ea Deo separavit, et fecit ephod, et theraphim, id est, vestem sacerdotalem, et idola: implevitque unius filiorum suorum manum, et factus est ei sacerdos.",
+        "VulgConte (2009)": "Qui ædiculam quoque in ea deo separavit, et fecit ephod, et theraphim, id est, vestem sacerdotalem, et idola: implevitque unius filiorum suorum manum, et factus est ei sacerdos.",
+        "VulgSistina (1590)": "Qui aediculam quoque in ea Deo separavit, et fecit ephod, et theraphim, id est, vestem sacerdotalem, et idola: implevitque unius filiorum suorum manum, et factus est ei sacerdos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68400,
+      "verse": 6,
+      "critical_text": "In diebus illis non erat rex in Israël, sed unusquisque quod sibi rectum videbatur, hoc faciebat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In diebus illis non erat rex in Israël, sed unusquisque quod sibi rectum videbatur, hoc faciebat.",
+        "Clem-Saints": "In diebus illis non erat rex in Israël, sed unusquisque quod sibi rectum videbatur, hoc faciebat.",
+        "VulgHetzenauer (1906)": "In diebus illis non erat rex in Israel, sed unusquisque quod sibi rectum videbatur, hoc faciebat.",
+        "VulgConte (2009)": "In diebus illis non erat rex in Israel, sed unusquisque quod sibi rectum videbatur, hoc faciebat.",
+        "VulgSistina (1590)": "In diebus illis non erat rex in Israel, sed unusquisque quod sibi rectum videbatur, hoc faciebat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68401,
+      "verse": 7,
+      "critical_text": "Fuit quoque alter adolescens de Bethlehem Juda, ex cognatione ejus: eratque ipse Levites, et habitabat ibi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fuit quoque alter adolescens de Bethlehem Juda, ex cognatione ejus: eratque ipse Levites, et habitabat ibi.",
+        "Clem-Saints": "Fuit quoque alter adolescens de Bethlehem Juda, ex cognatione ejus: eratque ipse Levites, et habitabat ibi.",
+        "VulgHetzenauer (1906)": "Fuit quoque alter adolescens de Bethlehem Iuda, ex cognatione eius: eratque ipse Levites, et habitabat ibi.",
+        "VulgConte (2009)": "Fuit quoque alter adolescens de Bethlehem Iuda, ex cognatione eius: eratque ipse Levites, et habitabat ibi.",
+        "VulgSistina (1590)": "Fuit quoque alter adolescens de Bethlehem Iuda, ex cognatione eius: eratque ipse Levites, et habitabat ibi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68402,
+      "verse": 8,
+      "critical_text": "Egressusque de civitate Bethlehem, peregrinari voluit ubicumque sibi commodum reperisset. Cumque venisset in montem Ephraim, iter faciens, et declinasset parumper in domum Michæ,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Egressusque de civitate Bethlehem, peregrinari voluit ubicumque sibi commodum reperisset. Cumque venisset in montem Ephraim, iter faciens, et declinasset parumper in domum Michæ,",
+        "Clem-Saints": "Egressusque de civitate Bethlehem, peregrinari voluit ubicumque sibi commodum reperisset. Cumque venisset in montem Ephraim, iter faciens, et declinasset parumper in domum Michæ,",
+        "VulgHetzenauer (1906)": "Egressusque de civitate Bethlehem, peregrinari voluit ubicumque sibi commodum reperisset. Cumque venisset in montem Ephraim, iter faciens, et declinasset parumper in domum Michæ,",
+        "VulgConte (2009)": "Egressusque de civitate Bethlehem, peregrinari voluit ubicumque sibi commodum reperisset. Cumque venisset in montem Ephraim, iter faciens, et declinasset parumper in domum Michæ,",
+        "VulgSistina (1590)": "Egressusque de civitate Bethlehem, peregrinari voluit ubicumque sibi commodum reperisset. Cumque venisset in montem Ephraim, iter faciens, et declinasset parumper in domum Michae,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68403,
+      "verse": 9,
+      "critical_text": "interrogatus est ab eo unde venisset. Qui respondit: Levita sum de Bethlehem Juda, et vado ut habitem ubi potuero, et utile mihi esse perspexero.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "interrogatus est ab eo unde venisset. Qui respondit: Levita sum de Bethlehem Juda, et vado ut habitem ubi potuero, et utile mihi esse perspexero.",
+        "Clem-Saints": "interrogatus est ab eo unde venisset. Qui respondit: Levita sum de Bethlehem Juda, et vado ut habitem ubi potuero, et utile mihi esse perspexero.",
+        "VulgHetzenauer (1906)": "interrogatus est ab eo unde venisset. Qui respondit: Levita sum de Bethlehem Iuda, et vado ut habitem ubi potuero, et utile mihi esse perspexero.",
+        "VulgConte (2009)": "interrogatus est ab eo unde venisset. Qui respondit: Levita sum de Bethlehem Iuda, et vado ut habitem ubi potuero, et utile mihi esse perspexero.",
+        "VulgSistina (1590)": "interrogatus est ab eo unde venisset. Qui respondit: Levita sum de Bethlehem Iuda, et vado ut habitem ubi potuero, et utile mihi esse perspexero."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68404,
+      "verse": 10,
+      "critical_text": "Dixitque Michas: Mane apud me, et esto mihi parens ac sacerdos: daboque tibi per annos singulos decem argenteos, ac vestem duplicem, et quæ ad victum sunt necessaria.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque Michas: Mane apud me, et esto mihi parens ac sacerdos: daboque tibi per annos singulos decem argenteos, ac vestem duplicem, et quæ ad victum sunt necessaria.",
+        "Clem-Saints": "Dixitque Michas: Mane apud me, et esto mihi parens ac sacerdos: daboque tibi per annos singulos decem argenteos, ac vestem duplicem, et quæ ad victum sunt necessaria.",
+        "VulgHetzenauer (1906)": "Dixitque Michas: Mane apud me, et esto mihi parens ac sacerdos: daboque tibi per annos singulos decem argenteos, ac vestem duplicem, et quæ ad victum sunt necessaria.",
+        "VulgConte (2009)": "Dixitque Michas: Mane apud me, et esto mihi parens ac sacerdos: daboque tibi per annos singulos decem argenteos, ac vestem duplicem, et quæ ad victum sunt necessaria.",
+        "VulgSistina (1590)": "Dixitque Michas: Mane apud me, et esto mihi parens ac sacerdos: daboque tibi per annos singulos decem argenteos, ac vestem duplicem, et quae ad victum sunt necessaria."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68405,
+      "verse": 11,
+      "critical_text": "Acquievit, et mansit apud hominem, fuitque illi quasi unus de filiis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Acquievit, et mansit apud hominem, fuitque illi quasi unus de filiis.",
+        "Clem-Saints": "Acquievit, et mansit apud hominem, fuitque illi quasi unus de filiis.",
+        "VulgHetzenauer (1906)": "Acquievit, et mansit apud hominem, fuitque illi quasi unus de filiis.",
+        "VulgConte (2009)": "Acquievit, et mansit apud hominem, fuitque illi quasi unus de filiis.",
+        "VulgSistina (1590)": "Acquievit, et mansit apud hominem, fuitque illi quasi unus de filiis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68406,
+      "verse": 12,
+      "critical_text": "Implevitque Michas manum ejus, et habuit puerum sacerdotem apud se:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Implevitque Michas manum ejus, et habuit puerum sacerdotem apud se:",
+        "Clem-Saints": "Implevitque Michas manum ejus, et habuit puerum sacerdotem apud se:",
+        "VulgHetzenauer (1906)": "implevitque Michas manum eius, et habuit puerum sacerdotem apud se,",
+        "VulgConte (2009)": "Implevitque Michas manum eius, et habuit puerum sacerdotem apud se,",
+        "VulgSistina (1590)": "implevitque Michas manum eius, et habuit puerum sacerdotem apud se,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68407,
+      "verse": 13,
+      "critical_text": "Nunc scio, dicens, quod benefaciet mihi Deus habenti Levitici generis sacerdotem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nunc scio, dicens, quod benefaciet mihi Deus habenti Levitici generis sacerdotem.",
+        "Clem-Saints": "Nunc scio, dicens, quod benefaciet mihi Deus habenti Levitici generis sacerdotem.",
+        "VulgHetzenauer (1906)": "Nunc scio, dicens, quod benefaciet mihi Deus habenti Levitici generis sacerdotem.",
+        "VulgConte (2009)": "Nunc scio, dicens, quod benefaciet mihi Deus habenti Levitici generis sacerdotem.",
+        "VulgSistina (1590)": "Nunc scio, dicens, quod benefaciet mihi Deus habenti Levitici generis sacerdotem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

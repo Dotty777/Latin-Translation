@@ -1,0 +1,634 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "2-chronicles",
+  "book_title": "2 Chronicles",
+  "usfm_code": "2CH",
+  "chapter": 1,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:56Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "Clem1598-USFX: verse 2:1 moved to 1:18 across chapter break before re-division",
+    "VulgHetzenauer (1906): verse 2:1 moved to 1:18 across chapter break before re-division",
+    "VulgConte (2009): verse 2:1 moved to 1:18 across chapter break before re-division",
+    "VulgSistina (1590): verse 2:1 moved to 1:18 across chapter break before re-division"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 72604,
+      "verse": 1,
+      "critical_text": "Confortatus est ergo Salomon filius David in regno suo, et Dominus Deus ejus erat cum eo, et magnificavit eum in excelsum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Confortatus est ergo Salomon filius David in regno suo, et Dominus Deus ejus erat cum eo, et magnificavit eum in excelsum.",
+        "Clem-Saints": "Confortatus est ergo Salomon filius David in regno suo, et Dominus Deus ejus erat cum eo, et magnificavit eum in excelsum.",
+        "VulgHetzenauer (1906)": "Confortatus est ergo Salomon filius David in regno suo, et Dominus Deus eius erat cum eo, et magnificavit eum in excelsum.",
+        "VulgConte (2009)": "Confortatus est ergo Salomon filius David in regno suo, et Dominus Deus eius erat cum eo, et magnificavit eum in excelsum.",
+        "VulgSistina (1590)": "Confortatus est ergo Salomon filius David in regno suo, et Dominus erat cum eo, et magnificavit eum in excelsum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Deus ejus",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 11,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "deus eius",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72605,
+      "verse": 2,
+      "critical_text": "Præcepitque Salomon universo Israëli, tribunis, et centurionibus, et ducibus, et judicibus omnis Israël, et principibus familiarum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Præcepitque Salomon universo Israëli, tribunis, et centurionibus, et ducibus, et judicibus omnis Israël, et principibus familiarum:",
+        "Clem-Saints": "Præcepitque Salomon universo Israëli, tribunis, et centurionibus, et ducibus, et judicibus omnis Israël, et principibus familiarum:",
+        "VulgHetzenauer (1906)": "Præcepitque Salomon universo Israeli, tribunis, et centurionibus, et ducibus, et iudicibus omnis Israel, et principibus familiarum:",
+        "VulgConte (2009)": "Præcepitque Salomon universo Israeli, tribunis, et centurionibus, et ducibus, et iudicibus omnis Israel, et principibus familiarum:",
+        "VulgSistina (1590)": "Praecepitque Salomon universo Israeli, tribunis, et centurionibus, et ducibus, et iudicibus omnis Israel, et principibus familiarum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72606,
+      "verse": 3,
+      "critical_text": "et abiit cum universa multitudine in excelsum Gabaon, ubi erat tabernaculum fœderis Dei, quod fecit Moyses famulus Dei in solitudine.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et abiit cum universa multitudine in excelsum Gabaon, ubi erat tabernaculum fœderis Dei, quod fecit Moyses famulus Dei in solitudine.",
+        "Clem-Saints": "et abiit cum universa multitudine in excelsum Gabaon, ubi erat tabernaculum fœderis Dei, quod fecit Moyses famulus Dei in solitudine.",
+        "VulgHetzenauer (1906)": "et abiit cum universa multitudine in Excelsum Gabaon, ubi erat tabernaculum fœderis Dei, quod fecit Moyses famulus Dei in solitudine.",
+        "VulgConte (2009)": "et abiit cum universa multitudine in Excelsum Gabaon, ubi erat tabernaculum fœderis Dei, quod fecit Moyses famulus Dei in solitudine.",
+        "VulgSistina (1590)": "et abiit cum universa multitudine in Excelsum Gabaon, ubi erat tabernaculum foederis Domini, quod fecit Moyses famulus Dei in solitudine."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Dei,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Domini,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 12,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "dei",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72607,
+      "verse": 4,
+      "critical_text": "Arcam autem Dei adduxerat David de Cariathiarim in locum quem præparaverat ei, et ubi fixerat illi tabernaculum, hoc est, in Jerusalem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Arcam autem Dei adduxerat David de Cariathiarim in locum quem præparaverat ei, et ubi fixerat illi tabernaculum, hoc est, in Jerusalem.",
+        "Clem-Saints": "Arcam autem Dei adduxerat David de Cariathiarim in locum quem præparaverat ei, et ubi fixerat illi tabernaculum, hoc est, in Jerusalem.",
+        "VulgHetzenauer (1906)": "Arcam autem Dei adduxerat David de Cariathiarim in locum, quem præparaverat ei, et ubi fixerat illi tabernaculum, hoc est, in Ierusalem.",
+        "VulgConte (2009)": "Arcam autem Dei adduxerat David de Cariathiarim in locum, quem præparaverat ei, et ubi fixerat illi tabernaculum, hoc est, in Ierusalem.",
+        "VulgSistina (1590)": "Arcam autem Dei adduxerat David de Cariathiarim in locum, quem praeparaverat ei, et ubi fixerat illi tabernaculum, hoc est, in Ierusalem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72608,
+      "verse": 5,
+      "critical_text": "Altare quoque æneum quod fabricatus fuerat Beseleel filius Uri filii Hur, ibi erat coram tabernaculo Domini: quod et requisivit Salomon, et omnis ecclesia.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Altare quoque æneum quod fabricatus fuerat Beseleel filius Uri filii Hur, ibi erat coram tabernaculo Domini: quod et requisivit Salomon, et omnis ecclesia.",
+        "Clem-Saints": "Altare quoque æneum quod fabricatus fuerat Beseleel filius Uri filii Hur, ibi erat coram tabernaculo Domini: quod et requisivit Salomon, et omnis ecclesia.",
+        "VulgHetzenauer (1906)": "Altare quoque æneum, quod fabricatus fuerat Beseleel filius Uri filii Hur, ibi erat coram tabernaculo Domini: quod et requisivit Salomon, et omnis ecclesia.",
+        "VulgConte (2009)": "Altare quoque æneum, quod fabricatus fuerat Beseleel filius Uri filii Hur, ibi erat coram tabernaculo Domini: quod et requisivit Salomon, et omnis ecclesia.",
+        "VulgSistina (1590)": "Altare quoque aeneum, quod fabricatus fuerat Beseleel filius Uri filii Hur, ibi erat coram tabernaculo Domini: quod et requisivit Salomon, et omnis ecclesia."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72609,
+      "verse": 6,
+      "critical_text": "Ascenditque Salomon ad altare æneum, coram tabernaculo fœderis Domini, et obtulit in eo mille hostias.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ascenditque Salomon ad altare æneum, coram tabernaculo fœderis Domini, et obtulit in eo mille hostias.",
+        "Clem-Saints": "Ascenditque Salomon ad altare æneum, coram tabernaculo fœderis Domini, et obtulit in eo mille hostias.",
+        "VulgHetzenauer (1906)": "Ascenditque Salomon ad altare æneum, coram tabernaculo fœderis Domini, et obtulit in eo mille hostias.",
+        "VulgConte (2009)": "Ascenditque Salomon ad altare æneum, coram tabernaculo fœderis Domini, et obtulit in eo mille hostias.",
+        "VulgSistina (1590)": "Ascenditque Salomon ad altare aeneum, coram tabernaculo foederis Domini, et obtulit in eo mille hostias."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72610,
+      "verse": 7,
+      "critical_text": "Ecce autem in ipsa nocte apparuit ei Deus, dicens: Postula quod vis, ut dem tibi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ecce autem in ipsa nocte apparuit ei Deus, dicens: Postula quod vis, ut dem tibi.",
+        "Clem-Saints": "Ecce autem in ipsa nocte apparuit ei Deus, dicens: Postula quod vis, ut dem tibi.",
+        "VulgHetzenauer (1906)": "Ecce autem in ipsa nocte apparuit ei Deus, dicens: Postula quod vis, ut dem tibi.",
+        "VulgConte (2009)": "Ecce autem in ipsa nocte apparuit ei Deus, dicens: Postula quod vis, ut dem tibi.",
+        "VulgSistina (1590)": "Ecce autem in ipsa nocte apparuit ei Deus, dicens: Postula quod vis, ut dem tibi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72611,
+      "verse": 8,
+      "critical_text": "Dixitque Salomon Deo: Tu fecisti cum David patre meo misericordiam magnam, et constituisti me regem pro eo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque Salomon Deo: Tu fecisti cum David patre meo misericordiam magnam, et constituisti me regem pro eo.",
+        "Clem-Saints": "Dixitque Salomon Deo: Tu fecisti cum David patre meo misericordiam magnam, et constituisti me regem pro eo.",
+        "VulgHetzenauer (1906)": "Dixitque Salomon Deo: Tu fecisti cum David patre meo misericordiam magnam: et constituisti me regem pro eo.",
+        "VulgConte (2009)": "Dixitque Salomon Deo: Tu fecisti cum David patre meo misericordiam magnam: et constituisti me regem pro eo.",
+        "VulgSistina (1590)": "Dixitque Salomon Deo: Tu fecisti cum David patre meo misericordiam magnam: et constituisti me regem pro eo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72612,
+      "verse": 9,
+      "critical_text": "Nunc ergo Domine Deus, impleatur sermo tuus quem pollicitus es David patri meo: tu enim me fecisti regem super populum tuum multum, qui tam innumerabilis est quam pulvis terræ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nunc ergo Domine Deus, impleatur sermo tuus quem pollicitus es David patri meo: tu enim me fecisti regem super populum tuum multum, qui tam innumerabilis est quam pulvis terræ.",
+        "Clem-Saints": "Nunc ergo Domine Deus, impleatur sermo tuus quem pollicitus es David patri meo: tu enim me fecisti regem super populum tuum multum, qui tam innumerabilis est quam pulvis terræ.",
+        "VulgHetzenauer (1906)": "Nunc ergo Domine Deus impleatur sermo tuus, quem pollicitus es David patri meo: tu enim me fecisti regem super populum tuum multum, qui tam innumerabilis est, quam pulvis terræ.",
+        "VulgConte (2009)": "Nunc ergo Domine Deus impleatur sermo tuus, quem pollicitus es David patri meo: tu enim me fecisti regem super populum tuum multum, qui tam innumerabilis est, quam pulvis terræ.",
+        "VulgSistina (1590)": "Nunc ergo Domine Deus impleatur sermo tuus, quem pollicitus es David patri meo: tu enim me fecisti regem super populum tuum multum, qui tam innumerabilis est, quam pulvis terrae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72613,
+      "verse": 10,
+      "critical_text": "Da mihi sapientiam et intelligentiam, ut ingrediar et egrediar coram populo tuo: quis enim potest hunc populum tuum digne, qui tam grandis est, judicare?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Da mihi sapientiam et intelligentiam, ut ingrediar et egrediar coram populo tuo: quis enim potest hunc populum tuum digne, qui tam grandis est, judicare?",
+        "Clem-Saints": "Da mihi sapientiam et intelligentiam, ut ingrediar et egrediar coram populo tuo: quis enim potest hunc populum tuum digne, qui tam grandis est, judicare?",
+        "VulgHetzenauer (1906)": "Da mihi sapientiam et intelligentiam, ut ingrediar et egrediar coram populo tuo: quis enim potest hunc populum tuum digne, qui tam grandis est, iudicare?",
+        "VulgConte (2009)": "Da mihi sapientiam et intelligentiam, ut ingrediar et egrediar coram populo tuo: quis enim potest hunc populum tuum digne, qui tam grandis est, iudicare?",
+        "VulgSistina (1590)": "Da mihi sapientiam et intelligentiam, ut ingrediar et egrediar coram populo tuo: quis enim potest hunc populum tuum digne, qui tam grandis est, iudicare?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72614,
+      "verse": 11,
+      "critical_text": "Dixit autem Deus ad Salomonem: Quia hoc magis placuit cordi tuo, et non postulasti divitias, et substantiam, et gloriam, neque animas eorum qui te oderant, sed nec dies vitæ plurimos: petisti autem sapientiam et scientiam, ut judicare possis populum meum super quem constitui te regem:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixit autem Deus ad Salomonem: Quia hoc magis placuit cordi tuo, et non postulasti divitias, et substantiam, et gloriam, neque animas eorum qui te oderant, sed nec dies vitæ plurimos: petisti autem sapientiam et scientiam, ut judicare possis populum meum super quem constitui te regem:",
+        "Clem-Saints": "Dixit autem Deus ad Salomonem: Quia hoc magis placuit cordi tuo, et non postulasti divitias, et substantiam, et gloriam, neque animas eorum qui te oderant, sed nec dies vitæ plurimos: petisti autem sapientiam et scientiam, ut judicare possis populum meum super quem constitui te regem:",
+        "VulgHetzenauer (1906)": "Dixit autem Deus ad Salomonem: Quia hoc magis placuit cordi tuo, et non postulasti divitias, et substantiam, et gloriam, neque animas eorum qui te oderant, sed nec dies vitæ plurimos: petisti autem sapientiam et scientiam, ut iudicare possis populum meum, super quem constitui te regem.",
+        "VulgConte (2009)": "Dixit autem Deus ad Salomonem: Quia hoc magis placuit cordi tuo, et non postulasti divitias, et substantiam, et gloriam, neque animas eorum qui te oderant, sed nec dies vitæ plurimos: petisti autem sapientiam et scientiam, ut iudicare possis populum meum, super quem constitui te regem.",
+        "VulgSistina (1590)": "Dixit autem Deus ad Salomonem: Quia hoc magis placuit cordi tuo, et non postulasti divitias, et substantiam, et gloriam, neque animas eorum qui te oderant, sed nec dies vitae plurimos: petisti autem sapientiam et scientiam, ut iudicare possis populum meum, super quem constitui te regem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72615,
+      "verse": 12,
+      "critical_text": "sapientia et scientia data sunt tibi: divitias autem et substantiam et gloriam dabo tibi, ita ut nullus in regibus nec ante te nec post te fuerit similis tui.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "sapientia et scientia data sunt tibi: divitias autem et substantiam et gloriam dabo tibi, ita ut nullus in regibus nec ante te nec post te fuerit similis tui.",
+        "Clem-Saints": "sapientia et scientia data sunt tibi: divitias autem et substantiam et gloriam dabo tibi, ita ut nullus in regibus nec ante te nec post te fuerit similis tui.",
+        "VulgHetzenauer (1906)": "Sapientia et scientia data sunt tibi: divitias autem et substantiam et gloriam dabo tibi, ita ut nullus in regibus nec ante te nec post te fuerit similis tui.",
+        "VulgConte (2009)": "Sapientia et scientia data sunt tibi: divitias autem et substantiam et gloriam dabo tibi, ita ut nullus in regibus nec ante te nec post te fuerit similis tui.",
+        "VulgSistina (1590)": "Sapientia et scientia data sunt tibi: divitias autem et substantiam et gloriam dabo tibi, ita ut nullus in regibus nec ante te nec post te fuerit similis tui."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72616,
+      "verse": 13,
+      "critical_text": "Venit ergo Salomon ab excelso Gabaon in Jerusalem coram tabernaculo fœderis, et regnavit super Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Venit ergo Salomon ab excelso Gabaon in Jerusalem coram tabernaculo fœderis, et regnavit super Israël.",
+        "Clem-Saints": "Venit ergo Salomon ab excelso Gabaon in Jerusalem coram tabernaculo fœderis, et regnavit super Israël.",
+        "VulgHetzenauer (1906)": "Venit ergo Salomon ab Excelso Gabaon in Ierusalem coram tabernaculo fœderis, et regnavit super Israel.",
+        "VulgConte (2009)": "Venit ergo Salomon ab Excelso Gabaon in Ierusalem coram tabernaculo fœderis, et regnavit super Israel.",
+        "VulgSistina (1590)": "Venit ergo Salomon ab Excelso Gabaon in Ierusalem coram tabernaculo foederis, et regnavit super Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72617,
+      "verse": 14,
+      "critical_text": "Congregavitque sibi currus et equites, et facti sunt ei mille quadringenti currus, et duodecim millia equitum: et fecit eos esse in urbibus quadrigarum, et cum rege in Jerusalem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Congregavitque sibi currus et equites, et facti sunt ei mille quadringenti currus, et duodecim millia equitum: et fecit eos esse in urbibus quadrigarum, et cum rege in Jerusalem.",
+        "Clem-Saints": "Congregavitque sibi currus et equites, et facti sunt ei mille quadringenti currus, et duodecim millia equitum: et fecit eos esse in urbibus quadrigarum, et cum rege in Jerusalem.",
+        "VulgHetzenauer (1906)": "Congregavitque sibi currus et equites, et facti sunt ei mille quadringenti currus, et duodecim millia equitum: et fecit eos esse in urbibus quadrigarum, et cum rege in Ierusalem.",
+        "VulgConte (2009)": "Congregavitque sibi currus et equites, et facti sunt ei mille quadringenti currus, et duodecim millia equitum: et fecit eos esse in urbibus quadrigarum, et cum rege in Ierusalem.",
+        "VulgSistina (1590)": "Congregavitque sibi currus et equites, et facti sunt ei mille quadringenti currus, et duodecim millia equitum: et fecit eos esse in urbibus quadrigarum, et cum rege in Ierusalem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72618,
+      "verse": 15,
+      "critical_text": "Præbuitque rex argentum et aurum in Jerusalem quasi lapides, et cedros quasi sycomoros quæ nascuntur in campestribus multitudine magna.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Præbuitque rex argentum et aurum in Jerusalem quasi lapides, et cedros quasi sycomoros quæ nascuntur in campestribus multitudine magna.",
+        "Clem-Saints": "Præbuitque rex argentum et aurum in Jerusalem quasi lapides, et cedros quasi sycomoros quæ nascuntur in campestribus multitudine magna.",
+        "VulgHetzenauer (1906)": "Præbuitque rex argentum et aurum in Ierusalem quasi lapides, et cedros quasi sycomoros, quæ nascuntur in campestribus multitudine magna.",
+        "VulgConte (2009)": "Præbuitque rex argentum et aurum in Ierusalem quasi lapides, et cedros quasi sycomoros, quæ nascuntur in campestribus multitudine magna.",
+        "VulgSistina (1590)": "Praebuitque rex argentum et aurum in Ierusalem quasi lapides, et cedros quasi sycomoros, quae nascuntur in campestribus multitudine magna."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72619,
+      "verse": 16,
+      "critical_text": "Adducebantur autem ei equi de Ægypto et de Coa a negotiatoribus regis, qui ibant et emebant pretio,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Adducebantur autem ei equi de Ægypto et de Coa a negotiatoribus regis, qui ibant et emebant pretio,",
+        "Clem-Saints": "Adducebantur autem ei equi de Ægypto et de Coa a negotiatoribus regis, qui ibant et emebant pretio,",
+        "VulgHetzenauer (1906)": "Adducebantur autem ei equi de Ægypto, et de Coa a negotiatoribus regis, qui ibant, et emebant pretio,",
+        "VulgConte (2009)": "Adducebantur autem ei equi de Ægypto, et de Coa a negotiatoribus regis, qui ibant, et emebant pretio,",
+        "VulgSistina (1590)": "Adducebantur autem ei equi de Aegypto, et de Coa a negotiatoribus regis, qui ibant, et emebant pretio,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72620,
+      "verse": 17,
+      "critical_text": "quadrigam equorum sexcentis argenteis, et equum centum quinquaginta: similiter de universis regnis Hethæorum, et a regibus Syriæ emptio celebrabatur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quadrigam equorum sexcentis argenteis, et equum centum quinquaginta: similiter de universis regnis Hethæorum, et a regibus Syriæ emptio celebrabatur.",
+        "Clem-Saints": "quadrigam equorum sexcentis argenteis, et equum centum quinquaginta: similiter de universis regnis Hethæorum, et a regibus Syriæ emptio celebrabatur.",
+        "VulgHetzenauer (1906)": "quadrigam equorum sexcentis argenteis, et equum centum quinquaginta: similiter de universis regnis Hethæorum, et a regibus Syriæ emptio celebrabatur.",
+        "VulgConte (2009)": "quadrigam equorum sexcentis argenteis, et equum centum quinquaginta: similiter de universis regnis Hethæorum, et a regibus Syriæ emptio celebrabatur.",
+        "VulgSistina (1590)": "quadrigam equorum sexcentis argenteis, et equum centum quinquaginta: similiter de universis regnis Cethaeorum, et a regibus Syriae emptio celebrabatur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Hethæorum,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Cethaeorum,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 12,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "hethaeorum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72621,
+      "verse": 18,
+      "critical_text": "Decrevit autem Salomon ædificare domum nomini Domini, et palatium sibi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Decrevit autem Salomon ædificare domum nomini Domini, et palatium sibi.",
+        "Clem-Saints": "Decrevit autem Salomon ædificare domum nomini Domini, et palatium sibi.",
+        "VulgHetzenauer (1906)": "Decrevit autem Salomon ædificare domum nomini Domini, et palatium sibi.",
+        "VulgConte (2009)": "Decrevit autem Salomon ædificare domum nomini Domini, et palatium sibi.",
+        "VulgSistina (1590)": "Decrevit autem Salomon aedificare domum nomini Domini, et palatium sibi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

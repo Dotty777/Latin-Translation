@@ -1,0 +1,874 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "1-samuel",
+  "book_title": "1 Samuel (1 Kingdoms)",
+  "usfm_code": "1SA",
+  "chapter": 4,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:37Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 68711,
+      "verse": 1,
+      "critical_text": "Et factum est in diebus illis, convenerunt Philisthiim in pugnam: et egressus est Israël obviam Philisthiim in prælium, et castrametatus est juxta lapidem Adjutorii. Porro Philisthiim venerunt in Aphec,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et factum est in diebus illis, convenerunt Philisthiim in pugnam: et egressus est Israël obviam Philisthiim in prælium, et castrametatus est juxta lapidem Adjutorii. Porro Philisthiim venerunt in Aphec,",
+        "Clem-Saints": "Et factum est in diebus illis, convenerunt Philisthiim in pugnam: et egressus est Israël obviam Philisthiim in prælium, et castrametatus est juxta lapidem Adjutorii. Porro Philisthiim venerunt in Aphec,",
+        "VulgHetzenauer (1906)": "Et factum est in diebus illis, convenerunt Philisthiim in pugnam: et egressus est Israel obviam Philisthiim in prælium, et castrametatus est iuxta Lapidem adiutorii. Porro Philisthiim venerunt in Aphec,",
+        "VulgConte (2009)": "Et factum est in diebus illis, convenerunt Philisthiim in pugnam: et egressus est Israel obviam Philisthiim in prælium, et castrametatus est iuxta Lapidem Adiutorii. Porro Philisthiim venerunt in Aphec,",
+        "VulgSistina (1590)": "Et factum est in diebus illis, convenerunt Philisthiim in pugnam: egressus est namque Israel obviam Philisthiim in praelium, et castrametatus est iuxta Lapidem adiutorii. Porro Philisthiim venerunt in Aphec,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "namque",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 13,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68712,
+      "verse": 2,
+      "critical_text": "et instruxerunt aciem contra Israël. Inito autem certamine, terga vertit Israël Philisthæis: et cæsa sunt in illo certamine passim per agros, quasi quatuor millia virorum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et instruxerunt aciem contra Israël. Inito autem certamine, terga vertit Israël Philisthæis: et cæsa sunt in illo certamine passim per agros, quasi quatuor millia virorum.",
+        "Clem-Saints": "et instruxerunt aciem contra Israël. Inito autem certamine, terga vertit Israël Philisthæis: et cæsa sunt in illo certamine passim per agros, quasi quatuor millia virorum.",
+        "VulgHetzenauer (1906)": "et instruxerunt aciem contra Israel. Inito autem certamine, terga vertit Israel Philisthæis: et cæsa sunt in illo certamine passim per agros, quasi quattuor millia virorum.",
+        "VulgConte (2009)": "et instruxerunt aciem contra Israel. Inito autem certamine, terga vertit Israel Philisthæis: et cæsa sunt in illo certamine passim per agros, quasi quattuor millia virorum.",
+        "VulgSistina (1590)": "et instruxerunt aciem contra Israel. Inito autem certamine, terga vertit Israel Philisthaeis: et caesa sunt in illo certamine passim per agros, quasi quattuor millia virorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68713,
+      "verse": 3,
+      "critical_text": "Et reversus est populus ad castra: dixeruntque majores natu de Israël: Quare percussit nos Dominus hodie coram Philisthiim? afferamus ad nos de Silo arcam fœderis Domini, et veniat in medium nostri, ut salvet nos de manu inimicorum nostrorum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et reversus est populus ad castra: dixeruntque majores natu de Israël: Quare percussit nos Dominus hodie coram Philisthiim? afferamus ad nos de Silo arcam fœderis Domini, et veniat in medium nostri, ut salvet nos de manu inimicorum nostrorum.",
+        "Clem-Saints": "Et reversus est populus ad castra: dixeruntque majores natu de Israël: Quare percussit nos Dominus hodie coram Philisthiim? afferamus ad nos de Silo arcam fœderis Domini, et veniat in medium nostri, ut salvet nos de manu inimicorum nostrorum.",
+        "VulgHetzenauer (1906)": "Et reversus est populus ad castra: dixeruntque maiores natu de Israel: Quare percussit nos Dominus hodie coram Philisthiim? Afferamus ad nos de Silo arcam fœderis Domini, et veniat in medium nostri, ut salvet nos de manu inimicorum nostrorum.",
+        "VulgConte (2009)": "Et reversus est populus ad castra: dixeruntque maiores natu de Israel: Quare percussit nos Dominus hodie coram Philisthiim? Afferamus ad nos de Silo arcam fœderis Domini, et veniat in medium nostri, ut salvet nos de manu inimicorum nostrorum.",
+        "VulgSistina (1590)": "Et reversus est populus ad castra: dixeruntque maiores natu de Israel: Quare percussit nos Dominus hodie coram Philisthiim? Afferamus ad nos de Silo arcam foederis Domini, et veniat in medium nostri, ut salvet nos de manu inimicorum nostrorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68714,
+      "verse": 4,
+      "critical_text": "Misit ergo populus in Silo, et tulerunt inde arcam fœderis Domini exercituum sedentis super cherubim: erantque duo filii Heli cum arca fœderis Dei, Ophni et Phinees.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Misit ergo populus in Silo, et tulerunt inde arcam fœderis Domini exercituum sedentis super cherubim: erantque duo filii Heli cum arca fœderis Dei, Ophni et Phinees.",
+        "Clem-Saints": "Misit ergo populus in Silo, et tulerunt inde arcam fœderis Domini exercituum sedentis super cherubim: erantque duo filii Heli cum arca fœderis Dei, Ophni et Phinees.",
+        "VulgHetzenauer (1906)": "Misit ergo populus in Silo, et tulerunt inde arcam fœderis Domini exercituum sedentis super Cherubim: erantque duo filii Heli cum arca fœderis Dei, Ophni et Phinees.",
+        "VulgConte (2009)": "Misit ergo populus in Silo, et tulerunt inde arcam fœderis Domini exercituum sedentis super Cherubim: erantque duo filii Heli cum arca fœderis Dei, Ophni et Phinees.",
+        "VulgSistina (1590)": "Misit ergo populus in Silo, et tulerunt inde arcam foederis Domini exercituum sedentis super Cherubim: erantque duo filii Heli cum arca foederis Domini, Ophni et Phinees."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Dei,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Domini,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 22,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "dei",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68715,
+      "verse": 5,
+      "critical_text": "Cumque venisset arca fœderis Domini in castra, vociferatus est omnis Israël clamore grandi, et personuit terra.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque venisset arca fœderis Domini in castra, vociferatus est omnis Israël clamore grandi, et personuit terra.",
+        "Clem-Saints": "Cumque venisset arca fœderis Domini in castra, vociferatus est omnis Israël clamore grandi, et personuit terra.",
+        "VulgHetzenauer (1906)": "Cumque venisset arca fœderis Domini in castra, vociferatus est omnis Israel clamore grandi, et personuit terra.",
+        "VulgConte (2009)": "Cumque venisset arca fœderis Domini in castra, vociferatus est omnis Israel clamore grandi, et personuit terra.",
+        "VulgSistina (1590)": "Cumque venisset arca foederis Domini in castra, vociferatus est omnis Israel clamore grandi, et personuit terra."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68716,
+      "verse": 6,
+      "critical_text": "Et audierunt Philisthiim vocem clamoris, dixeruntque: Quænam est hæc vox clamoris magni in castris Hebræorum? Et cognoverunt quod arca Domini venisset in castra.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et audierunt Philisthiim vocem clamoris, dixeruntque: Quænam est hæc vox clamoris magni in castris Hebræorum? Et cognoverunt quod arca Domini venisset in castra.",
+        "Clem-Saints": "Et audierunt Philisthiim vocem clamoris, dixeruntque: Quænam est hæc vox clamoris magni in castris Hebræorum? Et cognoverunt quod arca Domini venisset in castra.",
+        "VulgHetzenauer (1906)": "Et audierunt Philisthiim vocem clamoris, dixeruntque: Quænam est hæc vox clamoris magni in castris Hebræorum? Et cognoverunt quod arca Domini venisset in castra.",
+        "VulgConte (2009)": "Et audierunt Philisthiim vocem clamoris, dixeruntque: Quænam est hæc vox clamoris magni in castris Hebræorum? Et cognoverunt quod arca Domini venisset in castra.",
+        "VulgSistina (1590)": "Et audierunt Philisthiim vocem clamoris, dixeruntque: Quaenam est haec vox clamoris magni in castris Hebraeorum? Et cognoverunt quod arca Domini venisset in castra."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68717,
+      "verse": 7,
+      "critical_text": "Timueruntque Philisthiim, dicentes: Venit Deus in castra. Et ingemuerunt, dicentes:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Timueruntque Philisthiim, dicentes: Venit Deus in castra. Et ingemuerunt, dicentes:",
+        "Clem-Saints": "Timueruntque Philisthiim, dicentes: Venit Deus in castra. Et ingemuerunt, dicentes:",
+        "VulgHetzenauer (1906)": "Timueruntque Philisthiim, dicentes: Venit Deus in castra. Et ingemuerunt, dicentes:",
+        "VulgConte (2009)": "Timueruntque Philisthiim, dicentes: Venit Deus in castra. Et ingemuerunt, dicentes:",
+        "VulgSistina (1590)": "Timueruntque Philisthiim, dicentes: Venit Deus in castra. Et ingemuerunt, dicentes:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68718,
+      "verse": 8,
+      "critical_text": "Væ nobis: non enim fuit tanta exultatio heri et nudiustertius: væ nobis. Quis nos salvabit de manu deorum sublimium istorum? hi sunt dii, qui percusserunt Ægyptum omni plaga in deserto.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Væ nobis: non enim fuit tanta exultatio heri et nudiustertius: væ nobis. Quis nos salvabit de manu deorum sublimium istorum? hi sunt dii, qui percusserunt Ægyptum omni plaga in deserto.",
+        "Clem-Saints": "Væ nobis: non enim fuit tanta exultatio heri et nudiustertius: væ nobis. Quis nos salvabit de manu deorum sublimium istorum? hi sunt dii, qui percusserunt Ægyptum omni plaga in deserto.",
+        "VulgHetzenauer (1906)": "Væ nobis: non enim fuit tanta exultatio heri et nudiustertius: væ nobis. Quis nos salvabit de manu Deorum sublimium istorum? hi sunt Dii, qui percusserunt Ægyptum omni plaga, in deserto.",
+        "VulgConte (2009)": "Væ nobis: non enim fuit tanta exultatio heri et nudiustertius: Væ nobis! Quis nos salvabit de manu deorum sublimium istorum? Hi sunt dii, qui percusserunt Ægyptum omni plaga, in deserto.",
+        "VulgSistina (1590)": "Vae nobis: non enim fuit tanta exultatio heri et nudiustertius: vae nobis. Quis nos salvabit de manu Deorum sublimium istorum? hi sunt Dii, qui percusserunt Aegyptum omni plaga, in deserto."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68719,
+      "verse": 9,
+      "critical_text": "Confortamini, et estote viri, Philisthiim, ne serviatis Hebræis, sicut et illi servierunt vobis: confortamini, et bellate.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Confortamini, et estote viri, Philisthiim, ne serviatis Hebræis, sicut et illi servierunt vobis: confortamini, et bellate.",
+        "Clem-Saints": "Confortamini, et estote viri, Philisthiim, ne serviatis Hebræis, sicut et illi servierunt vobis: confortamini, et bellate.",
+        "VulgHetzenauer (1906)": "Confortamini, et estote viri, Philisthiim: ne serviatis Hebræis, sicut et illi servierunt vobis: confortamini, et bellate.",
+        "VulgConte (2009)": "Confortamini, et estote viri, Philisthiim: ne serviatis Hebræis, sicut et illi servierunt vobis: confortamini, et bellate.",
+        "VulgSistina (1590)": "Confortamini, et estote viri, Philisthiim: ne serviatis Hebraeis, sicut et illi servierunt nobis: confortamini, et bellate."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "vobis:",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "nobis:",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 12,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "uobis",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68720,
+      "verse": 10,
+      "critical_text": "Pugnaverunt ergo Philisthiim, et cæsus est Israël, et fugit unusquisque in tabernaculum suum: et facta est plaga magna nimis, et ceciderunt de Israël triginta millia peditum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Pugnaverunt ergo Philisthiim, et cæsus est Israël, et fugit unusquisque in tabernaculum suum: et facta est plaga magna nimis, et ceciderunt de Israël triginta millia peditum.",
+        "Clem-Saints": "Pugnaverunt ergo Philisthiim, et cæsus est Israël, et fugit unusquisque in tabernaculum suum: et facta est plaga magna nimis, et ceciderunt de Israël triginta millia peditum.",
+        "VulgHetzenauer (1906)": "Pugnaverunt ergo Philisthiim, et cæsus est Israel, et fugit unusquisque in tabernaculum suum: et facta est plaga magna nimis: et ceciderunt de Israel triginta millia peditum.",
+        "VulgConte (2009)": "Pugnaverunt ergo Philisthiim, et cæsus est Israel, et fugit unusquisque in tabernaculum suum: et facta est plaga magna nimis: et ceciderunt de Israel triginta millia peditum.",
+        "VulgSistina (1590)": "Pugnaverunt ergo Philisthiim, et caesus est Israel, et fugit unusquisque in tabernaculum suum: et facta est plaga magna nimis: et ceciderunt de Israel triginta millia peditum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68721,
+      "verse": 11,
+      "critical_text": "Et arca Dei capta est: duo quoque filii Heli mortui sunt, Ophni et Phinees.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et arca Dei capta est: duo quoque filii Heli mortui sunt, Ophni et Phinees.",
+        "Clem-Saints": "Et arca Dei capta est: duo quoque filii Heli mortui sunt, Ophni et Phinees.",
+        "VulgHetzenauer (1906)": "Et arca Dei capta est: duo quoque filii Heli mortui sunt, Ophni et Phinees.",
+        "VulgConte (2009)": "Et arca Dei capta est: duo quoque filii Heli mortui sunt, Ophni et Phinees.",
+        "VulgSistina (1590)": "Et arca Dei capta est: duo quoque filii Heli mortui sunt, Ophni et Phinees."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68722,
+      "verse": 12,
+      "critical_text": "Currens autem vir de Benjamin ex acie, venit in Silo in die illa, scissa veste, et conspersus pulvere caput.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Currens autem vir de Benjamin ex acie, venit in Silo in die illa, scissa veste, et conspersus pulvere caput.",
+        "Clem-Saints": "Currens autem vir de Benjamin ex acie, venit in Silo in die illa, scissa veste, et conspersus pulvere caput.",
+        "VulgHetzenauer (1906)": "Currens autem vir de Beniamin ex acie, venit in Silo in die illa, scissa veste, et conspersus pulvere caput.",
+        "VulgConte (2009)": "Currens autem vir de Beniamin ex acie, venit in Silo in die illa, scissa veste, et conspersus pulvere caput.",
+        "VulgSistina (1590)": "Currens autem vir de Beniamin ex acie, venit in Silo in die illa, scissa veste, et conspersus pulvere caput."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68723,
+      "verse": 13,
+      "critical_text": "Cumque ille venisset, Heli sedebat super sellam contra viam spectans. Erat enim cor ejus pavens pro arca Dei. Vir autem ille postquam ingressus est, nuntiavit urbi: et ululavit omnis civitas.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque ille venisset, Heli sedebat super sellam contra viam spectans. Erat enim cor ejus pavens pro arca Dei. Vir autem ille postquam ingressus est, nuntiavit urbi: et ululavit omnis civitas.",
+        "Clem-Saints": "Cumque ille venisset, Heli sedebat super sellam contra viam spectans. Erat enim cor ejus pavens pro arca Dei. Vir autem ille postquam ingressus est, nuntiavit urbi: et ululavit omnis civitas.",
+        "VulgHetzenauer (1906)": "Cumque ille venisset, Heli sedebat super sellam contra viam spectans. Erat enim cor eius pavens pro arca Dei. Vir autem ille postquam ingressus est, nunciavit urbi: et ululavit omnis civitas.",
+        "VulgConte (2009)": "Cumque ille venisset, Heli sedebat super sellam contra viam spectans. Erat enim cor eius pavens pro arca Dei. Vir autem ille postquam ingressus est, nunciavit urbi: et ululavit omnis civitas.",
+        "VulgSistina (1590)": "Cumque ille venisset, Heli sedebat super sellam contra viam spectans. Erat enim cor eius pavens pro arca Dei. Vir autem ille postquam ingressus est, nunciavit urbi: et ululavit omnis civitas."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntiavit / nunciavit",
+            "nuntiavit / nunciavit",
+            "nuntiavit / nunciavit"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68724,
+      "verse": 14,
+      "critical_text": "Et audivit Heli sonitum clamoris, dixitque: Quis est hic sonitus tumultus hujus? At ille festinavit, et venit, et nuntiavit Heli.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et audivit Heli sonitum clamoris, dixitque: Quis est hic sonitus tumultus hujus? At ille festinavit, et venit, et nuntiavit Heli.",
+        "Clem-Saints": "Et audivit Heli sonitum clamoris, dixitque: Quis est hic sonitus tumultus hujus? At ille festinavit, et venit, et nuntiavit Heli.",
+        "VulgHetzenauer (1906)": "Et audivit Heli sonitum clamoris, dixitque: Quis est hic sonitus tumultus huius? At ille festinavit, et venit, et nunciavit Heli.",
+        "VulgConte (2009)": "Et audivit Heli sonitum clamoris, dixitque: Quis est hic sonitus tumultus huius? At ille festinavit, et venit, et nunciavit Heli.",
+        "VulgSistina (1590)": "Et audivit Heli sonitum clamoris, dixitque: Quis est hic sonitus tumultus huius? At ille festinavit, et venit, et nunciavit Heli."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntiavit / nunciavit",
+            "nuntiavit / nunciavit",
+            "nuntiavit / nunciavit"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68725,
+      "verse": 15,
+      "critical_text": "Heli autem erat nonaginta et octo annorum, et oculi ejus caligaverant, et videre non poterat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Heli autem erat nonaginta et octo annorum, et oculi ejus caligaverant, et videre non poterat.",
+        "Clem-Saints": "Heli autem erat nonaginta et octo annorum, et oculi ejus caligaverant, et videre non poterat.",
+        "VulgHetzenauer (1906)": "Heli autem erat nonaginta et octo annorum, et oculi eius caligaverant, et videre non poterat.",
+        "VulgConte (2009)": "Heli autem erat nonaginta et octo annorum, et oculi eius caligaverant, et videre non poterat.",
+        "VulgSistina (1590)": "Heli autem erat nonaginta et octo annorum, et oculi eius caligaverant, et videre non poterat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68726,
+      "verse": 16,
+      "critical_text": "Et dixit ad Heli: Ego sum qui veni de prælio, et ego qui de acie fugi hodie. Cui ille ait: Quid actum est, fili mi?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et dixit ad Heli: Ego sum qui veni de prælio, et ego qui de acie fugi hodie. Cui ille ait: Quid actum est, fili mi?",
+        "Clem-Saints": "Et dixit ad Heli: Ego sum qui veni de prælio, et ego qui de acie fugi hodie. Cui ille ait: Quid actum est, fili mi?",
+        "VulgHetzenauer (1906)": "Et dixit ad Heli: Ego sum qui veni de prælio, et ego qui de acie fugi hodie. Cui ille ait: Quid actum est fili mi?",
+        "VulgConte (2009)": "Et dixit ad Heli: Ego sum qui veni de prælio, et ego qui de acie fugi hodie. Cui ille ait: Quid actum est fili mi?",
+        "VulgSistina (1590)": "Et dixit ad Heli: Ego sum qui veni de praelio, et ego qui de acie fugi hodie. Cui ille ait: Quid actum est fili mi?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68727,
+      "verse": 17,
+      "critical_text": "Respondens autem ille qui nuntiabat: Fugit, inquit, Israël coram Philisthiim, et ruina magna facta est in populo: insuper et duo filii tui mortui sunt, Ophni et Phinees, et arca Dei capta est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Respondens autem ille qui nuntiabat: Fugit, inquit, Israël coram Philisthiim, et ruina magna facta est in populo: insuper et duo filii tui mortui sunt, Ophni et Phinees, et arca Dei capta est.",
+        "Clem-Saints": "Respondens autem ille qui nuntiabat: Fugit, inquit, Israël coram Philisthiim, et ruina magna facta est in populo: insuper et duo filii tui mortui sunt, Ophni et Phinees, et arca Dei capta est.",
+        "VulgHetzenauer (1906)": "Respondens autem ille, qui nunciabat, Fugit, inquit, Israel coram Philisthiim, et ruina magna facta est in populo: insuper et duo filii tui mortui sunt, Ophni et Phinees: et arca Dei capta est.",
+        "VulgConte (2009)": "Respondens autem ille, qui nunciabat: Fugit, inquit, Israel coram Philisthiim, et ruina magna facta est in populo: insuper et duo filii tui mortui sunt, Ophni et Phinees: et arca Dei capta est.",
+        "VulgSistina (1590)": "Respondens autem ille, qui nunciabat, Fugit, inquit, Israel coram Philisthiim, et ruina magna facta est in populo: insuper et duo filii tui mortui sunt, Ophni et Phinees: et arca Dei capta est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntiabat: / nunciabat:",
+            "nuntiabat: / nunciabat,",
+            "nuntiabat: / nunciabat,"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68728,
+      "verse": 18,
+      "critical_text": "Cumque ille nominasset arcam Dei, cecidit de sella retrorsum juxta ostium, et fractis cervicibus mortuus est. Senex enim erat vir et grandævus: et ipse judicavit Israël quadraginta annis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque ille nominasset arcam Dei, cecidit de sella retrorsum juxta ostium, et fractis cervicibus mortuus est. Senex enim erat vir et grandævus: et ipse judicavit Israël quadraginta annis.",
+        "Clem-Saints": "Cumque ille nominasset arcam Dei, cecidit de sella retrorsum juxta ostium, et fractis cervicibus mortuus est. Senex enim erat vir et grandævus: et ipse judicavit Israël quadraginta annis.",
+        "VulgHetzenauer (1906)": "Cumque ille nominasset arcam Dei, cecidit de sella retrorsum iuxta ostium, et fractis cervicibus mortuus est. Senex enim erat vir et grandævus: et ipse iudicavit Israel quadraginta annis.",
+        "VulgConte (2009)": "Cumque ille nominasset arcam Dei, cecidit de sella retrorsum iuxta ostium, et fractis cervicibus mortuus est. Senex enim erat vir et grandævus: et ipse iudicavit Israel quadraginta annis.",
+        "VulgSistina (1590)": "Cumque ille nominasset arcam Dei, cecidit de sella retrorsum iuxta ostium, et fractis cervicibus mortuus est. Senex enim erat vir et grandaevus: et ipse iudicavit Israel quadraginta annis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68729,
+      "verse": 19,
+      "critical_text": "Nurus autem ejus, uxor Phinees, prægnans erat, vicinaque partui: et audito nuntio quod capta esset arca Dei, et mortuus esset socer suus et vir suus, incurvavit se et peperit: irruerant enim in eam dolores subiti.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nurus autem ejus, uxor Phinees, prægnans erat, vicinaque partui: et audito nuntio quod capta esset arca Dei, et mortuus esset socer suus et vir suus, incurvavit se et peperit: irruerant enim in eam dolores subiti.",
+        "Clem-Saints": "Nurus autem ejus, uxor Phinees, prægnans erat, vicinaque partui: et audito nuntio quod capta esset arca Dei, et mortuus esset socer suus et vir suus, incurvavit se et peperit: irruerant enim in eam dolores subiti.",
+        "VulgHetzenauer (1906)": "Nurus autem eius, uxor Phinees, prægnans erat, vicinaque partui: et audito nuncio quod capta esset arca Dei, et mortuus esset socer suus, et vir suus, incurvavit se et peperit: irruerant enim in eam dolores subiti.",
+        "VulgConte (2009)": "Nurus autem eius, uxor Phinees, prægnans erat, vicinaque partui: et audito nuncio quod capta esset arca Dei, et mortuus esset socer suus, et vir suus, incurvavit se et peperit: irruerant enim in eam dolores subiti.",
+        "VulgSistina (1590)": "Nurus autem eius, uxor Phinees, praegnans erat, vicinaque partui: et audito nuncio quod capta esset arca Dei, et mortuus esset socer suus, et vir suus, incurvavit se et peperit: irruerant enim in eam dolores subiti."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntio / nuncio",
+            "nuntio / nuncio",
+            "nuntio / nuncio"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68730,
+      "verse": 20,
+      "critical_text": "In ipso autem momento mortis ejus, dixerunt ei quæ stabant circa eam: Ne timeas, quia filium peperisti. Quæ non respondit eis, neque animadvertit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In ipso autem momento mortis ejus, dixerunt ei quæ stabant circa eam: Ne timeas, quia filium peperisti. Quæ non respondit eis, neque animadvertit.",
+        "Clem-Saints": "In ipso autem momento mortis ejus, dixerunt ei quæ stabant circa eam: Ne timeas, quia filium peperisti. Quæ non respondit eis, neque animadvertit.",
+        "VulgHetzenauer (1906)": "In ipso autem momento mortis eius, dixerunt ei quæ stabant circa eam: Ne timeas, quia filium peperisti. Quæ non respondit eis, neque animadvertit.",
+        "VulgConte (2009)": "In ipso autem momento mortis eius, dixerunt ei quæ stabant circa eam: Ne timeas, quia filium peperisti. Quæ non respondit eis, neque animadvertit.",
+        "VulgSistina (1590)": "In ipso autem momento mortis eius, dixerunt ei quae stabant circa eam: Ne timeas, quia filium peperisti. Quae non respondit eis, neque animadvertit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68731,
+      "verse": 21,
+      "critical_text": "Et vocabit puerum Ichabod, dicens: Translata est gloria de Israël, quia capta est arca Dei, et pro socero suo et pro viro suo;",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et vocabit puerum Ichabod, dicens: Translata est gloria de Israël, quia capta est arca Dei, et pro socero suo et pro viro suo;",
+        "Clem-Saints": "Et vocabit puerum Ichabod, dicens: Translata est gloria de Israël, quia capta est arca Dei, et pro socero suo et pro viro suo;",
+        "VulgHetzenauer (1906)": "Et vocabit puerum, Ichabod, dicens: Translata est gloria de Israel, quia capta est arca Dei, et pro socero suo et pro viro suo;",
+        "VulgConte (2009)": "Et vocabit puerum, Ichabod, dicens: Translata est gloria de Israel, quia capta est arca Dei, et pro socero suo et pro viro suo;",
+        "VulgSistina (1590)": "Et vocabit puerum, Ichabod, dicens: Translata est gloria de Israel, pro socero suo et pro viro suo;"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "quia capta est arca Dei, et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 10,
+          "word_count": 6,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "quia capta est arca dei et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 68732,
+      "verse": 22,
+      "critical_text": "et ait: Translata est gloria ab Israël, eo quod capta esset arca Dei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et ait: Translata est gloria ab Israël, eo quod capta esset arca Dei.",
+        "Clem-Saints": "et ait: Translata est gloria ab Israël, eo quod capta esset arca Dei.",
+        "VulgHetzenauer (1906)": "et ait: Translata est gloria ab Israel, eo quod capta esset arca Dei.",
+        "VulgConte (2009)": "et ait: Translata est gloria ab Israel, eo quod capta esset arca Dei.",
+        "VulgSistina (1590)": "et ait: Translata est gloria ab Israel, eo quod capta esset arca Dei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

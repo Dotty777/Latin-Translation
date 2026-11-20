@@ -1,0 +1,1255 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "05_Salvation",
+  "book_slug": "john",
+  "book_title": "John",
+  "usfm_code": "JHN",
+  "chapter": 13,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:18:33Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 91470,
+      "verse": 1,
+      "critical_text": "Ante diem festum Paschæ, sciens Jesus quia venit hora ejus ut transeat ex hoc mundo ad Patrem: cum dilexisset suos, qui erant in mundo, in finem dilexit eos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ante diem festum Paschæ, sciens Jesus quia venit hora ejus ut transeat ex hoc mundo ad Patrem: cum dilexisset suos, qui erant in mundo, in finem dilexit eos.",
+        "Clem-Saints": "Ante diem festum Paschæ, sciens Jesus quia venit hora ejus ut transeat ex hoc mundo ad Patrem: cum dilexisset suos, qui erant in mundo, in finem dilexit eos.",
+        "VulgHetzenauer (1906)": "Ante diem festum Paschæ, sciens Iesus quia venit hora eius ut transeat ex hoc mundo ad Patrem: cum dilexisset suos, qui erant in mundo, in finem dilexit eos.",
+        "VulgConte (2009)": "Ante diem festum Paschæ, sciens Iesus quia venit hora eius ut transeat ex hoc mundo ad Patrem: cum dilexisset suos, qui erant in mundo, in finem dilexit eos.",
+        "VulgSistina (1590)": "Ante diem festum Paschae, sciens Iesus quia venit hora eius ut transeat ex hoc mundo ad Patrem: cum dilexisset suos, qui erant in mundo, in finem dilexit eos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91471,
+      "verse": 2,
+      "critical_text": "Et cœna facta, cum diabolus jam misisset in cor ut traderet eum Judas Simonis Iscariotæ:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et cœna facta, cum diabolus jam misisset in cor ut traderet eum Judas Simonis Iscariotæ:",
+        "Clem-Saints": "Et cœna facta, cum diabolus jam misisset in cor ut traderet eum Judas Simonis Iscariotæ:",
+        "VulgHetzenauer (1906)": "Et cœna facta, cum diabolus iam misisset in cor ut traderet eum Iudas Simonis Iscariotæ:",
+        "VulgConte (2009)": "Et cœna facta, cum diabolus iam misisset in cor ut traderet eum Iudas Simonis Iscariotæ:",
+        "VulgSistina (1590)": "Et coena facta, cum diabolus iam misisset in cor ut traderet eum Iudas Simonis Iscariotis:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Iscariotæ:",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Iscariotis:",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 14,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iscariotae",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91472,
+      "verse": 3,
+      "critical_text": "sciens quia omnia dedit ei Pater in manus, et quia a Deo exivit, et ad Deum vadit:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "sciens quia omnia dedit ei Pater in manus, et quia a Deo exivit, et ad Deum vadit:",
+        "Clem-Saints": "sciens quia omnia dedit ei Pater in manus, et quia a Deo exivit, et ad Deum vadit:",
+        "VulgHetzenauer (1906)": "sciens quia omnia dedit ei Pater in manus, et quia a Deo exivit, et ad Deum vadit:",
+        "VulgConte (2009)": "sciens quia omnia dedit ei Pater in manus, et quia a Deo exivit, et ad Deum vadit:",
+        "VulgSistina (1590)": "sciens quia omnia dedit ei Pater in manus, et quia a Deo exivit, et ad Deum vadit:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91473,
+      "verse": 4,
+      "critical_text": "surgit a cœna, et ponit vestimenta sua, et cum accepisset linteum, præcinxit se.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "surgit a cœna, et ponit vestimenta sua, et cum accepisset linteum, præcinxit se.",
+        "Clem-Saints": "surgit a cœna, et ponit vestimenta sua, et cum accepisset linteum, præcinxit se.",
+        "VulgHetzenauer (1906)": "surgit a cœna, et ponit vestimenta sua: et cum accepisset linteum, præcinxit se.",
+        "VulgConte (2009)": "surgit a cœna, et ponit vestimenta sua: et cum accepisset linteum, præcinxit se.",
+        "VulgSistina (1590)": "surgit a coena, et ponit vestimenta sua: et cum accepisset linteum, praecinxit se."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91474,
+      "verse": 5,
+      "critical_text": "Deinde mittit aquam in pelvim, et cœpit lavare pedes discipulorum, et extergere linteo, quo erat præcinctus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Deinde mittit aquam in pelvim, et cœpit lavare pedes discipulorum, et extergere linteo, quo erat præcinctus.",
+        "Clem-Saints": "Deinde mittit aquam in pelvim, et cœpit lavare pedes discipulorum, et extergere linteo, quo erat præcinctus.",
+        "VulgHetzenauer (1906)": "Deinde mittit aquam in pelvim, et cœpit lavare pedes discipulorum, et extergere linteo, quo erat præcinctus.",
+        "VulgConte (2009)": "Deinde mittit aquam in pelvim, et cœpit lavare pedes discipulorum, et extergere linteo, quo erat præcinctus.",
+        "VulgSistina (1590)": "Deinde misit aquam in pelvim, et coepit lavare pedes discipulorum, et extergere linteo, quo erat praecinctus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "mittit",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "misit",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "mittit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91475,
+      "verse": 6,
+      "critical_text": "Venit ergo ad Simonem Petrum. Et dicit ei Petrus: Domine, tu mihi lavas pedes?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Venit ergo ad Simonem Petrum. Et dicit ei Petrus: Domine, tu mihi lavas pedes?",
+        "Clem-Saints": "Venit ergo ad Simonem Petrum. Et dicit ei Petrus: Domine, tu mihi lavas pedes?",
+        "VulgHetzenauer (1906)": "Venit ergo ad Simonem Petrum. Et dicit ei Petrus: Domine, tu mihi lavas pedes?",
+        "VulgConte (2009)": "Venit ergo ad Simonem Petrum. Et dicit ei Petrus: Domine, tu mihi lavas pedes?",
+        "VulgSistina (1590)": "Venit ergo ad Simonem Petrum. Et dicit ei Petrus: Domine, tu mihi lavas pedes?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91476,
+      "verse": 7,
+      "critical_text": "Respondit Jesus, et dixit ei: Quod ego facio, tu nescis modo: scies autem postea.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Respondit Jesus, et dixit ei: Quod ego facio, tu nescis modo: scies autem postea.",
+        "Clem-Saints": "Respondit Jesus, et dixit ei: Quod ego facio, tu nescis modo: scies autem postea.",
+        "VulgHetzenauer (1906)": "Respondit Iesus, et dixit ei: Quod ego facio, tu nescis modo, scies autem postea.",
+        "VulgConte (2009)": "Respondit Iesus, et dixit ei: Quod ego facio, tu nescis modo, scies autem postea.",
+        "VulgSistina (1590)": "Respondit Iesus, et dixit ei: Quod ego facio, tu nescis modo, scies autem postea."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91477,
+      "verse": 8,
+      "critical_text": "Dicit ei Petrus: Non lavabis mihi pedes in æternum. Respondit ei Jesus: Si non lavero te, non habebis partem mecum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dicit ei Petrus: Non lavabis mihi pedes in æternum. Respondit ei Jesus: Si non lavero te, non habebis partem mecum.",
+        "Clem-Saints": "Dicit ei Petrus: Non lavabis mihi pedes in æternum. Respondit ei Jesus: Si non lavero te, non habebis partem mecum.",
+        "VulgHetzenauer (1906)": "Dicit ei Petrus: Non lavabis mihi pedes in æternum. Respondit ei Iesus: Si non lavero te, non habebis partem mecum.",
+        "VulgConte (2009)": "Dicit ei Petrus: Non lavabis mihi pedes in æternum. Respondit ei Iesus: Si non lavero te, non habebis partem mecum.",
+        "VulgSistina (1590)": "Dicit ei Petrus: Non lavabis mihi pedes in aeternum. Respondit ei Iesus: Si non lavero te, non habebis partem mecum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91478,
+      "verse": 9,
+      "critical_text": "Dicit ei Simon Petrus: Domine, non tantum pedes meos, sed et manus, et caput.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dicit ei Simon Petrus: Domine, non tantum pedes meos, sed et manus, et caput.",
+        "Clem-Saints": "Dicit ei Simon Petrus: Domine, non tantum pedes meos, sed et manus, et caput.",
+        "VulgHetzenauer (1906)": "Dicit ei Simon Petrus: Domine, non tantum pedes meos, sed et manus, et caput.",
+        "VulgConte (2009)": "Dicit ei Simon Petrus: Domine, non tantum pedes meos, sed et manus, et caput.",
+        "VulgSistina (1590)": "Dicit ei Simon Petrus: Domine, non tantum pedes meos, sed et manus, et caput."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91479,
+      "verse": 10,
+      "critical_text": "Dicit ei Jesus: Qui lotus est, non indiget nisi ut pedes lavet, sed est mundus totus. Et vos mundi estis, sed non omnes.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dicit ei Jesus: Qui lotus est, non indiget nisi ut pedes lavet, sed est mundus totus. Et vos mundi estis, sed non omnes.",
+        "Clem-Saints": "Dicit ei Jesus: Qui lotus est, non indiget nisi ut pedes lavet, sed est mundus totus. Et vos mundi estis, sed non omnes.",
+        "VulgHetzenauer (1906)": "Dicit ei Iesus: Qui lotus est, non indiget nisi ut pedes lavet, sed est mundus totus. Et vos mundi estis, sed non omnes.",
+        "VulgConte (2009)": "Dicit ei Iesus: Qui lotus est, non indiget nisi ut pedes lavet, sed est mundus totus. Et vos mundi estis, sed non omnes.",
+        "VulgSistina (1590)": "Dicit ei Iesus: Qui lotus est, non indiget nisi ut pedes lavet, et est mundus totus. Et vos mundi estis, sed non omnes."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "sed",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "et",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 12,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "sed",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91480,
+      "verse": 11,
+      "critical_text": "Sciebat enim quisnam esset qui traderet eum; propterea dixit: Non estis mundi omnes.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sciebat enim quisnam esset qui traderet eum; propterea dixit: Non estis mundi omnes.",
+        "Clem-Saints": "Sciebat enim quisnam esset qui traderet eum; propterea dixit: Non estis mundi omnes.",
+        "VulgHetzenauer (1906)": "Sciebat enim quisnam esset qui traderet eum: propterea dixit: Non estis mundi omnes.",
+        "VulgConte (2009)": "Sciebat enim quisnam esset qui traderet eum: propterea dixit: Non estis mundi omnes.",
+        "VulgSistina (1590)": "Sciebat enim quisnam esset qui traderet eum: propterea dixit: Non estis mundi omnes."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91481,
+      "verse": 12,
+      "critical_text": "Postquam ergo lavit pedes eorum, et accepit vestimenta sua, cum recubuisset iterum, dixit eis: Scitis quid fecerim vobis?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Postquam ergo lavit pedes eorum, et accepit vestimenta sua, cum recubuisset iterum, dixit eis: Scitis quid fecerim vobis?",
+        "Clem-Saints": "Postquam ergo lavit pedes eorum, et accepit vestimenta sua, cum recubuisset iterum, dixit eis: Scitis quid fecerim vobis?",
+        "VulgHetzenauer (1906)": "Postquam ergo lavit pedes eorum, et accepit vestimenta sua: cum recubuisset iterum dixit eis: Scitis quid fecerim vobis?",
+        "VulgConte (2009)": "Postquam ergo lavit pedes eorum, et accepit vestimenta sua: cum recubuisset iterum dixit eis: Scitis quid fecerim vobis?",
+        "VulgSistina (1590)": "Postquam ergo lavit pedes eorum, accepit vestimenta sua: et cum recubuisset iterum dixit eis: Scitis quid fecerim vobis?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "et",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 9,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91482,
+      "verse": 13,
+      "critical_text": "Vos vocatis me Magister et Domine, et bene dicitis: sum etenim.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Vos vocatis me Magister et Domine, et bene dicitis: sum etenim.",
+        "Clem-Saints": "Vos vocatis me Magister et Domine, et bene dicitis: sum etenim.",
+        "VulgHetzenauer (1906)": "Vos vocatis me Magister, et Domine, et bene dicitis: sum etenim.",
+        "VulgConte (2009)": "Vos vocatis me Magister, et Domine, et bene dicitis: sum etenim.",
+        "VulgSistina (1590)": "Vos vocatis me Magister, et Domine, et bene dicitis: sum etenim."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91483,
+      "verse": 14,
+      "critical_text": "Si ergo ego lavi pedes vestros, Dominus et Magister, et vos debetis alter alterius lavare pedes.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si ergo ego lavi pedes vestros, Dominus et Magister, et vos debetis alter alterius lavare pedes.",
+        "Clem-Saints": "Si ergo ego lavi pedes vestros, Dominus et Magister, et vos debetis alter alterius lavare pedes.",
+        "VulgHetzenauer (1906)": "Si ergo ego lavi pedes vestros, Dominus, et Magister: et vos debetis alter alterius lavare pedes.",
+        "VulgConte (2009)": "Si ergo ego lavi pedes vestros, Dominus, et Magister: et vos debetis alter alterius lavare pedes.",
+        "VulgSistina (1590)": "Si ergo ego lavi pedes vestros, Dominus, et Magister: et vos debetis alter alterius lavare pedes."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91484,
+      "verse": 15,
+      "critical_text": "Exemplum enim dedi vobis, ut quemadmodum ego feci vobis, ita et vos faciatis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Exemplum enim dedi vobis, ut quemadmodum ego feci vobis, ita et vos faciatis.",
+        "Clem-Saints": "Exemplum enim dedi vobis, ut quemadmodum ego feci vobis, ita et vos faciatis.",
+        "VulgHetzenauer (1906)": "Exemplum enim dedi vobis, ut quemadmodum ego feci vobis, ita et vos faciatis.",
+        "VulgConte (2009)": "Exemplum enim dedi vobis, ut quemadmodum ego feci vobis, ita et vos faciatis.",
+        "VulgSistina (1590)": "Exemplum enim dedi vobis, ut quemadmodum ego feci vobis, ita et vos faciatis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91485,
+      "verse": 16,
+      "critical_text": "Amen, amen dico vobis: non est servus major domino suo: neque apostolus major est eo qui misit illum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Amen, amen dico vobis: non est servus major domino suo: neque apostolus major est eo qui misit illum.",
+        "Clem-Saints": "Amen, amen dico vobis: non est servus major domino suo: neque apostolus major est eo qui misit illum.",
+        "VulgHetzenauer (1906)": "Amen, amen dico vobis: non est servus maior Domino suo: neque apostolus maior est eo, qui misit illum.",
+        "VulgConte (2009)": "Amen, amen dico vobis: non est servus maior Domino suo: neque apostolus maior est eo, qui misit illum.",
+        "VulgSistina (1590)": "Amen, amen dico vobis: non est servus maior Domino suo: neque apostolus maior est eo, qui misit illum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91486,
+      "verse": 17,
+      "critical_text": "Si hæc scitis, beati eritis si feceritis ea.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si hæc scitis, beati eritis si feceritis ea.",
+        "Clem-Saints": "Si hæc scitis, beati eritis si feceritis ea.",
+        "VulgHetzenauer (1906)": "Si hæc scitis, beati eritis si feceritis ea.",
+        "VulgConte (2009)": "Si hæc scitis, beati eritis si feceritis ea.",
+        "VulgSistina (1590)": "Si haec scitis, beati eritis si feceritis ea."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91487,
+      "verse": 18,
+      "critical_text": "Non de omnibus vobis dico: ego scio quos elegerim; sed ut adimpleatur Scriptura: Qui manducat mecum panem, levabit contra me calcaneum suum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non de omnibus vobis dico: ego scio quos elegerim; sed ut adimpleatur Scriptura: Qui manducat mecum panem, levabit contra me calcaneum suum.",
+        "Clem-Saints": "Non de omnibus vobis dico: ego scio quos elegerim; sed ut adimpleatur Scriptura: Qui manducat mecum panem, levabit contra me calcaneum suum.",
+        "VulgHetzenauer (1906)": "Non de omnibus vobis dico: ego scio quos elegerim: sed ut adimpleatur Scriptura: Qui manducat mecum panem, levabit contra me calcaneum suum.",
+        "VulgConte (2009)": "Non de omnibus vobis dico: ego scio quos elegerim: sed ut adimpleatur Scriptura: Qui manducat mecum panem, levabit contra me calcaneum suum.",
+        "VulgSistina (1590)": "Non de omnibus vobis dico: ego scio quos elegerim: sed ut adimpleatur Scriptura: Qui manducat mecum panem, levabit contra me calcaneum suum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91488,
+      "verse": 19,
+      "critical_text": "Amodo dico vobis, priusquam fiat: ut cum factum fuerit, credatis quia ego sum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Amodo dico vobis, priusquam fiat: ut cum factum fuerit, credatis quia ego sum.",
+        "Clem-Saints": "Amodo dico vobis, priusquam fiat: ut cum factum fuerit, credatis quia ego sum.",
+        "VulgHetzenauer (1906)": "Amodo dico vobis, priusquam fiat: ut cum factum fuerit, credatis, quia ego sum.",
+        "VulgConte (2009)": "Amodo dico vobis, priusquam fiat: ut cum factum fuerit, credatis, quia ego sum.",
+        "VulgSistina (1590)": "Amodo dico vobis, priusquam fiat: ut cum factum fuerit, credatis, quia ego sum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91489,
+      "verse": 20,
+      "critical_text": "Amen, amen dico vobis: qui accipit si quem misero, me accipit; qui autem me accipit, accipit eum qui me misit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Amen, amen dico vobis: qui accipit si quem misero, me accipit; qui autem me accipit, accipit eum qui me misit.",
+        "Clem-Saints": "Amen, amen dico vobis: qui accipit si quem misero, me accipit; qui autem me accipit, accipit eum qui me misit.",
+        "VulgHetzenauer (1906)": "Amen, amen dico vobis: Qui accipit si quem misero, me accipit: qui autem me accipit, accipit eum, qui me misit.",
+        "VulgConte (2009)": "Amen, amen dico vobis: Qui accipit si quem misero, me accipit: qui autem me accipit, accipit eum, qui me misit.",
+        "VulgSistina (1590)": "Amen, amen dico vobis: Qui accipit si quem misero, me accipit: qui autem me accipit, accipit eum, qui me misit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91490,
+      "verse": 21,
+      "critical_text": "Cum hæc dixisset Jesus, turbatus est spiritu: et protestatus est, et dixit: Amen, amen dico vobis, quia unus ex vobis tradet me.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cum hæc dixisset Jesus, turbatus est spiritu: et protestatus est, et dixit: Amen, amen dico vobis, quia unus ex vobis tradet me.",
+        "Clem-Saints": "Cum hæc dixisset Jesus, turbatus est spiritu: et protestatus est, et dixit: Amen, amen dico vobis, quia unus ex vobis tradet me.",
+        "VulgHetzenauer (1906)": "Cum hæc dixisset Iesus, turbatus est spiritu: et protestatus est, et dixit: Amen, amen dico vobis: Quia unus ex vobis tradet me.",
+        "VulgConte (2009)": "Cum hæc dixisset Iesus, turbatus est spiritu: et protestatus est, et dixit: Amen, amen dico vobis: Quia unus ex vobis tradet me.",
+        "VulgSistina (1590)": "Cum haec dixisset Iesus, turbatus est spiritu: et protestatus est, et dixit: Amen, amen dico vobis: Quia unus ex vobis tradet me."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91491,
+      "verse": 22,
+      "critical_text": "Aspiciebant ergo ad invicem discipuli, hæsitantes de quo diceret.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Aspiciebant ergo ad invicem discipuli, hæsitantes de quo diceret.",
+        "Clem-Saints": "Aspiciebant ergo ad invicem discipuli, hæsitantes de quo diceret.",
+        "VulgHetzenauer (1906)": "Aspiciebant ergo ad invicem discipuli, hæsitantes de quo diceret.",
+        "VulgConte (2009)": "Aspiciebant ergo ad invicem discipuli, hæsitantes de quo diceret.",
+        "VulgSistina (1590)": "Aspiciebant ergo ad invicem discipuli, haesitantes de quo diceret."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91492,
+      "verse": 23,
+      "critical_text": "Erat ergo recumbens unus ex discipulis ejus in sinu Jesu, quem diligebat Jesus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Erat ergo recumbens unus ex discipulis ejus in sinu Jesu, quem diligebat Jesus.",
+        "Clem-Saints": "Erat ergo recumbens unus ex discipulis ejus in sinu Jesu, quem diligebat Jesus.",
+        "VulgHetzenauer (1906)": "Erat ergo recumbens unus ex discipulis eius in sinu Iesu, quem diligebat Iesus.",
+        "VulgConte (2009)": "Erat ergo recumbens unus ex discipulis eius in sinu Iesu, quem diligebat Iesus.",
+        "VulgSistina (1590)": "Erat ergo recumbens unus ex discipulis eius in sinu Iesu, quem diligebat Iesus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91493,
+      "verse": 24,
+      "critical_text": "Innuit ergo huic Simon Petrus, et dixit ei: Quis est, de quo dicit?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Innuit ergo huic Simon Petrus, et dixit ei: Quis est, de quo dicit?",
+        "Clem-Saints": "Innuit ergo huic Simon Petrus, et dixit ei: Quis est, de quo dicit?",
+        "VulgHetzenauer (1906)": "Innuit ergo huic Simon Petrus: et dixit ei: Quis est, de quo dicit?",
+        "VulgConte (2009)": "Innuit ergo huic Simon Petrus: et dixit ei: Quis est, de quo dicit?",
+        "VulgSistina (1590)": "Innuit ergo huic Simon Petrus: et dixit ei: Quis est, de quo dicit?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91494,
+      "verse": 25,
+      "critical_text": "Itaque cum recubuisset ille supra pectus Jesu, dicit ei: Domine, quis est?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Itaque cum recubuisset ille supra pectus Jesu, dicit ei: Domine, quis est?",
+        "Clem-Saints": "Itaque cum recubuisset ille supra pectus Jesu, dicit ei: Domine, quis est?",
+        "VulgHetzenauer (1906)": "Itaque cum recubuisset ille supra pectus Iesu, dicit ei: Domine quis est?",
+        "VulgConte (2009)": "Itaque cum recubuisset ille supra pectus Iesu, dicit ei: Domine quis est?",
+        "VulgSistina (1590)": "Itaque cum recubuisset ille supra pectus Iesu, dicit ei: Domine quis est?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91495,
+      "verse": 26,
+      "critical_text": "Respondit Jesus: Ille est cui ego intinctum panem porrexero. Et cum intinxisset panem, dedit Judæ Simonis Iscariotæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Respondit Jesus: Ille est cui ego intinctum panem porrexero. Et cum intinxisset panem, dedit Judæ Simonis Iscariotæ.",
+        "Clem-Saints": "Respondit Jesus: Ille est cui ego intinctum panem porrexero. Et cum intinxisset panem, dedit Judæ Simonis Iscariotæ.",
+        "VulgHetzenauer (1906)": "Respondit Iesus: Ille est, cui ego intinctum panem porrexero. Et cum intinxisset panem, dedit Iudæ Simonis Iscariotæ.",
+        "VulgConte (2009)": "Respondit Iesus: Ille est, cui ego intinctum panem porrexero. Et cum intinxisset panem, dedit Iudæ Simonis Iscariotæ.",
+        "VulgSistina (1590)": "Respondit Iesus: Ille est, cui ego intinctum panem porrexero. Et cum intinxisset panem, dedit Iudae Simonis Iscariotis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Iscariotæ.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Iscariotis.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 16,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iscariotae",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91496,
+      "verse": 27,
+      "critical_text": "Et post buccellam, introivit in eum Satanas. Et dixit ei Jesus: Quod facis, fac citius.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et post buccellam, introivit in eum Satanas. Et dixit ei Jesus: Quod facis, fac citius.",
+        "Clem-Saints": "Et post buccellam, introivit in eum Satanas. Et dixit ei Jesus: Quod facis, fac citius.",
+        "VulgHetzenauer (1906)": "Et post buccellam, introivit in eum satanas. Et dixit ei Iesus: Quod facis, fac citius.",
+        "VulgConte (2009)": "Et post buccellam, introivit in eum Satanas. Et dixit ei Iesus: Quod facis, fac citius.",
+        "VulgSistina (1590)": "Et post buccellam, introivit in eum satanas. Et dixit ei Iesus: Quod facis, fac citius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91497,
+      "verse": 28,
+      "critical_text": "Hoc autem nemo scivit discumbentium ad quid dixerit ei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hoc autem nemo scivit discumbentium ad quid dixerit ei.",
+        "Clem-Saints": "Hoc autem nemo scivit discumbentium ad quid dixerit ei.",
+        "VulgHetzenauer (1906)": "Hoc autem nemo scivit discumbentium ad quid dixerit ei.",
+        "VulgConte (2009)": "Hoc autem nemo scivit discumbentium ad quid dixerit ei.",
+        "VulgSistina (1590)": "Hoc autem nemo scivit discumbentium ad quid dixerit ei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91498,
+      "verse": 29,
+      "critical_text": "Quidam enim putabant, quia loculos habebat Judas, quod dixisset ei Jesus: Eme ea quæ opus sunt nobis ad diem festum: aut egenis ut aliquid daret.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quidam enim putabant, quia loculos habebat Judas, quod dixisset ei Jesus: Eme ea quæ opus sunt nobis ad diem festum: aut egenis ut aliquid daret.",
+        "Clem-Saints": "Quidam enim putabant, quia loculos habebat Judas, quod dixisset ei Jesus: Eme ea quæ opus sunt nobis ad diem festum: aut egenis ut aliquid daret.",
+        "VulgHetzenauer (1906)": "Quidam enim putabant, quia loculos habebat Iudas, quod dixisset ei Iesus: Eme ea, quæ opus sunt nobis ad diem festum: aut egenis ut aliquid daret.",
+        "VulgConte (2009)": "Quidam enim putabant, quia loculos habebat Iudas, quod dixisset ei Iesus: Eme ea, quæ opus sunt nobis ad diem festum: aut egenis ut aliquid daret.",
+        "VulgSistina (1590)": "Quidam enim putabant, quia loculos habebat Iudas, quod dixisset ei Iesus: Eme ea, quae opus sunt nobis ad diem festum: aut egenis ut aliquid daret."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91499,
+      "verse": 30,
+      "critical_text": "Cum ergo accepisset ille buccellam, exivit continuo. Erat autem nox.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cum ergo accepisset ille buccellam, exivit continuo. Erat autem nox.",
+        "Clem-Saints": "Cum ergo accepisset ille buccellam, exivit continuo. Erat autem nox.",
+        "VulgHetzenauer (1906)": "Cum ergo accepisset ille buccellam, exivit continuo. Erat autem nox.",
+        "VulgConte (2009)": "Cum ergo accepisset ille buccellam, exivit continuo. Erat autem nox.",
+        "VulgSistina (1590)": "Cum ergo accepisset ille buccellam, exivit continuo. Erat autem nox."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91500,
+      "verse": 31,
+      "critical_text": "Cum ergo exisset, dixit Jesus: Nunc clarificatus est Filius hominis, et Deus clarificatus est in eo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cum ergo exisset, dixit Jesus: Nunc clarificatus est Filius hominis, et Deus clarificatus est in eo.",
+        "Clem-Saints": "Cum ergo exisset, dixit Jesus: Nunc clarificatus est Filius hominis, et Deus clarificatus est in eo.",
+        "VulgHetzenauer (1906)": "Cum ergo exisset, dixit Iesus: Nunc clarificatus est filius hominis: et Deus clarificatus est in eo.",
+        "VulgConte (2009)": "Cum ergo exisset, dixit Iesus: Nunc clarificatus est Filius hominis: et Deus clarificatus est in eo.",
+        "VulgSistina (1590)": "Cum ergo exisset, dixit Iesus: Nunc clarificatus est filius hominis: et Deus clarificatus est in eo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91501,
+      "verse": 32,
+      "critical_text": "Si Deus clarificatus est in eo, et Deus clarificabit eum in semetipso: et continuo clarificabit eum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si Deus clarificatus est in eo, et Deus clarificabit eum in semetipso: et continuo clarificabit eum.",
+        "Clem-Saints": "Si Deus clarificatus est in eo, et Deus clarificabit eum in semetipso: et continuo clarificabit eum.",
+        "VulgHetzenauer (1906)": "Si Deus clarificatus est in eo, et Deus clarificabit eum in semetipso: et continuo clarificabit eum.",
+        "VulgConte (2009)": "Si Deus clarificatus est in eo, et Deus clarificabit eum in semetipso: et continuo clarificabit eum.",
+        "VulgSistina (1590)": "Si Deus clarificatus est in eo, et Deus clarificabit eum in semetipso: et continuo clarificabit eum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91502,
+      "verse": 33,
+      "critical_text": "Filioli, adhuc modicum vobiscum sum. Quæretis me; et sicut dixi Judæis, quo ego vado, vos non potestis venire: et vobis dico modo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filioli, adhuc modicum vobiscum sum. Quæretis me; et sicut dixi Judæis, quo ego vado, vos non potestis venire: et vobis dico modo.",
+        "Clem-Saints": "Filioli, adhuc modicum vobiscum sum. Quæretis me; et sicut dixi Judæis, quo ego vado, vos non potestis venire: et vobis dico modo.",
+        "VulgHetzenauer (1906)": "Filioli, adhuc modicum vobiscum sum. Quæretis me: et sicut dixi Iudæis: Quo ego vado, vos non potestis venire: et vobis dico modo.",
+        "VulgConte (2009)": "Filioli, adhuc modicum vobiscum sum. Quæretis me: et sicut dixi Iudæis: Quo ego vado, vos non potestis venire: et vobis dico modo.",
+        "VulgSistina (1590)": "Filioli, adhuc modicum vobiscum sum. Quaeretis me: et sicut dixi Iudaeis: Quo ego vado, vos non potestis venire: et vobis dico modo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91503,
+      "verse": 34,
+      "critical_text": "Mandatum novum do vobis: ut diligatis invicem: sicut dilexi vos, ut et vos diligatis invicem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Mandatum novum do vobis: ut diligatis invicem: sicut dilexi vos, ut et vos diligatis invicem.",
+        "Clem-Saints": "Mandatum novum do vobis: ut diligatis invicem: sicut dilexi vos, ut et vos diligatis invicem.",
+        "VulgHetzenauer (1906)": "Mandatum novum do vobis: Ut diligatis invicem, sicut dilexi vos, ut et vos diligatis invicem.",
+        "VulgConte (2009)": "Mandatum novum do vobis: Ut diligatis invicem, sicut dilexi vos, ut et vos diligatis invicem.",
+        "VulgSistina (1590)": "Mandatum novum do vobis: Ut diligatis invicem, sicut dilexi vos, ut et vos diligatis invicem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91504,
+      "verse": 35,
+      "critical_text": "In hoc cognoscent omnes quia discipuli mei estis, si dilectionem habueritis ad invicem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In hoc cognoscent omnes quia discipuli mei estis, si dilectionem habueritis ad invicem.",
+        "Clem-Saints": "In hoc cognoscent omnes quia discipuli mei estis, si dilectionem habueritis ad invicem.",
+        "VulgHetzenauer (1906)": "In hoc cognoscent omnes quia discipuli mei estis, si dilectionem habueritis ad invicem.",
+        "VulgConte (2009)": "In hoc cognoscent omnes quia discipuli mei estis, si dilectionem habueritis ad invicem.",
+        "VulgSistina (1590)": "In hoc cognoscent omnes quia discipuli mei estis, si dilectionem habueritis ad invicem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91505,
+      "verse": 36,
+      "critical_text": "Dicit ei Simon Petrus: Domine, quo vadis? Respondit Jesus: Quo ego vado non potes me modo sequi: sequeris autem postea.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dicit ei Simon Petrus: Domine, quo vadis? Respondit Jesus: Quo ego vado non potes me modo sequi: sequeris autem postea.",
+        "Clem-Saints": "Dicit ei Simon Petrus: Domine, quo vadis? Respondit Jesus: Quo ego vado non potes me modo sequi: sequeris autem postea.",
+        "VulgHetzenauer (1906)": "Dicit ei Simon Petrus: Domine, quo vadis? Respondit Iesus: Quo ego vado, non potes me modo sequi: sequeris autem postea.",
+        "VulgConte (2009)": "Dicit ei Simon Petrus: Domine, quo vadis? Respondit Iesus: Quo ego vado, non potes me modo sequi: sequeris autem postea.",
+        "VulgSistina (1590)": "Dicit ei Simon Petrus: Domine, quo vadis? Respondit Iesus: Quo ego vado, non potes me modo sequi: sequeris autem postea."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91506,
+      "verse": 37,
+      "critical_text": "Dicit ei Petrus: Quare non possum te sequi modo? animam meam pro te ponam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dicit ei Petrus: Quare non possum te sequi modo? animam meam pro te ponam.",
+        "Clem-Saints": "Dicit ei Petrus: Quare non possum te sequi modo? animam meam pro te ponam.",
+        "VulgHetzenauer (1906)": "Dicit ei Petrus: Quare non possum te sequi modo? animam meam pro te ponam.",
+        "VulgConte (2009)": "Dicit ei Petrus: Quare non possum te sequi modo? Animam meam pro te ponam.",
+        "VulgSistina (1590)": "Dicit ei Petrus: Quare non possum te sequi modo? animam meam pro te ponam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 91507,
+      "verse": 38,
+      "critical_text": "Respondit ei Jesus: Animam tuam pro me pones? amen, amen dico tibi: non cantabit gallus, donec ter me neges.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Respondit ei Jesus: Animam tuam pro me pones? amen, amen dico tibi: non cantabit gallus, donec ter me neges.",
+        "Clem-Saints": "Respondit ei Jesus: Animam tuam pro me pones? amen, amen dico tibi: non cantabit gallus, donec ter me neges.",
+        "VulgHetzenauer (1906)": "Respondit ei Iesus: Animam tuam pro me pones? Amen, amen dico tibi: non cantabit gallus, donec ter me neges.",
+        "VulgConte (2009)": "Respondit ei Iesus: Animam tuam pro me pones? Amen, amen dico tibi: non cantabit gallus, donec ter me neges.",
+        "VulgSistina (1590)": "Respondit ei Iesus: Animam tuam pro me pones? Amen, amen dico tibi: non cantabit gallus, donec ter me neges."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

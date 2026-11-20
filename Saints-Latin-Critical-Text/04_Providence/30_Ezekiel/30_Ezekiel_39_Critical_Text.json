@@ -1,0 +1,926 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "04_Providence",
+  "book_slug": "ezekiel",
+  "book_title": "Ezekiel",
+  "usfm_code": "EZK",
+  "chapter": 39,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:18:10Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 86198,
+      "verse": 1,
+      "critical_text": "Tu autem, fili hominis, vaticinare adversum Gog, et dices: Hæc dicit Dominus Deus: Ecce ego super te, Gog, principem capitis Mosoch et Thubal.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tu autem, fili hominis, vaticinare adversum Gog, et dices: Hæc dicit Dominus Deus: Ecce ego super te, Gog, principem capitis Mosoch et Thubal.",
+        "Clem-Saints": "Tu autem, fili hominis, vaticinare adversum Gog, et dices: Hæc dicit Dominus Deus: Ecce ego super te, Gog, principem capitis Mosoch et Thubal.",
+        "VulgHetzenauer (1906)": "Tu autem fili hominis vaticinare adversum Gog, et dices: Hæc dicit Dominus Deus: Ecce ego super te Gog principem capitis Mosoch et Thubal:",
+        "VulgConte (2009)": "Tu autem fili hominis vaticinare adversum Gog, et dices: Hæc dicit Dominus Deus: Ecce ego super te Gog principem capitis Mosoch et Thubal:",
+        "VulgSistina (1590)": "Tu autem fili hominis vaticinare adversum Gog, et dices: Haec dicit Dominus Deus: Ecce ego super te Gog principem capitis Mosoch et Thubal:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86199,
+      "verse": 2,
+      "critical_text": "Et circumagam te, et educam te, et ascendere te faciam de lateribus aquilonis, et adducam te super montes Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et circumagam te, et educam te, et ascendere te faciam de lateribus aquilonis, et adducam te super montes Israël.",
+        "Clem-Saints": "Et circumagam te, et educam te, et ascendere te faciam de lateribus aquilonis, et adducam te super montes Israël.",
+        "VulgHetzenauer (1906)": "et circumagam te, et educam te, et ascendere te faciam de lateribus Aquilonis: et adducam te super montes Israel.",
+        "VulgConte (2009)": "et circumagam te, et educam te, et ascendere te faciam de lateribus Aquilonis: et adducam te super montes Israel.",
+        "VulgSistina (1590)": "et circumagam te, et seducam te, et ascendere te faciam de lateribus Aquilonis: et adducam te super montes Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "educam",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "seducam",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 4,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "educam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86200,
+      "verse": 3,
+      "critical_text": "Et percutiam arcum tuum in manu sinistra tua, et sagittas tuas de manu dextera tua dejiciam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et percutiam arcum tuum in manu sinistra tua, et sagittas tuas de manu dextera tua dejiciam.",
+        "Clem-Saints": "Et percutiam arcum tuum in manu sinistra tua, et sagittas tuas de manu dextera tua dejiciam.",
+        "VulgHetzenauer (1906)": "Et percutiam arcum tuum in manu sinistra tua, et sagittas tuas de manu dextera tua deiiciam.",
+        "VulgConte (2009)": "Et percutiam arcum tuum in manu sinistra tua, et sagittas tuas de manu dextera tua deiiciam.",
+        "VulgSistina (1590)": "Et percutiam arcum tuum in manu sinistra tua, et sagittas tuas de manu dextera tua deiiciam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86201,
+      "verse": 4,
+      "critical_text": "Super montes Israël cades tu, et omnia agmina tua, et populi tui qui sunt tecum: feris, avibus, omnique volatili et bestiis terræ dedi te ad devorandum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Super montes Israël cades tu, et omnia agmina tua, et populi tui qui sunt tecum: feris, avibus, omnique volatili et bestiis terræ dedi te ad devorandum.",
+        "Clem-Saints": "Super montes Israël cades tu, et omnia agmina tua, et populi tui qui sunt tecum: feris, avibus, omnique volatili et bestiis terræ dedi te ad devorandum.",
+        "VulgHetzenauer (1906)": "Super montes Israel cades tu, et omnia agmina tua, et populi tui, qui sunt tecum: feris, avibus, omnique volatili, et bestiis terræ dedi te ad devorandum.",
+        "VulgConte (2009)": "Super montes Israel cades tu, et omnia agmina tua, et populi tui, qui sunt tecum: feris, avibus, omnique volatili, et bestiis terræ dedi te ad devorandum.",
+        "VulgSistina (1590)": "Super montes Israel cades tu, et omnia agmina tua, et populi tui, qui sunt tecum: feris, avibus, omnique volatili, et bestiis terrae dedi te ad devorandum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86202,
+      "verse": 5,
+      "critical_text": "Super faciem agri cades, quia ego locutus sum, ait Dominus Deus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Super faciem agri cades, quia ego locutus sum, ait Dominus Deus.",
+        "Clem-Saints": "Super faciem agri cades, quia ego locutus sum, ait Dominus Deus.",
+        "VulgHetzenauer (1906)": "Super faciem agri cades: quia ego locutus sum, ait Dominus Deus.",
+        "VulgConte (2009)": "Super faciem agri cades: quia ego locutus sum, ait Dominus Deus.",
+        "VulgSistina (1590)": "Super faciem agri cades: quia ego locutus sum, ait Dominus Deus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86203,
+      "verse": 6,
+      "critical_text": "Et immittam ignem in Magog, et in his qui habitant in insulis confidenter: et scient quia ego Dominus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et immittam ignem in Magog, et in his qui habitant in insulis confidenter: et scient quia ego Dominus.",
+        "Clem-Saints": "Et immittam ignem in Magog, et in his qui habitant in insulis confidenter: et scient quia ego Dominus.",
+        "VulgHetzenauer (1906)": "Et immittam ignem in Magog, et in his, qui habitant in insulis confidenter: et scient quia ego Dominus.",
+        "VulgConte (2009)": "Et immittam ignem in Magog, et in his, qui habitant in insulis confidenter: et scient quia ego Dominus.",
+        "VulgSistina (1590)": "Et immittam ignem in Magog, et in his, qui habitant in insulis confidenter: et scient quia ego Dominus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86204,
+      "verse": 7,
+      "critical_text": "Et nomen sanctum meum notum faciam in medio populi mei Israël, et non polluam nomen sanctum meum amplius: et scient gentes quia ego Dominus, Sanctus Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et nomen sanctum meum notum faciam in medio populi mei Israël, et non polluam nomen sanctum meum amplius: et scient gentes quia ego Dominus, Sanctus Israël.",
+        "Clem-Saints": "Et nomen sanctum meum notum faciam in medio populi mei Israël, et non polluam nomen sanctum meum amplius: et scient gentes quia ego Dominus, Sanctus Israël.",
+        "VulgHetzenauer (1906)": "Et nomen sanctum meum notum faciam in medio populi mei Israel, et non polluam nomen sanctum meum amplius: et scient Gentes quia ego Dominus sanctus Israel.",
+        "VulgConte (2009)": "Et nomen sanctum meum notum faciam in medio populi mei Israel, et non polluam nomen sanctum meum amplius: et scient Gentes quia ego Dominus, Sanctus Israel.",
+        "VulgSistina (1590)": "Et nomen sanctum meum notum faciam in medio populi mei Israel, et non polluam nomen sanctum meum amplius: et scient Gentes quia ego Dominus sanctus Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86205,
+      "verse": 8,
+      "critical_text": "Ecce venit, et factum est, ait Dominus Deus: hæc est dies de qua locutus sum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ecce venit, et factum est, ait Dominus Deus: hæc est dies de qua locutus sum.",
+        "Clem-Saints": "Ecce venit, et factum est, ait Dominus Deus: hæc est dies de qua locutus sum.",
+        "VulgHetzenauer (1906)": "Ecce venit, et factum est, ait Dominus Deus: hæc est dies, de qua locutus sum.",
+        "VulgConte (2009)": "Ecce venit, et factum est, ait Dominus Deus: hæc est dies, de qua locutus sum.",
+        "VulgSistina (1590)": "Ecce venit, et factum est, ait Dominus Deus: haec est dies, de qua locutus sum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86206,
+      "verse": 9,
+      "critical_text": "Et egredientur habitatores de civitatibus Israël, et succendent et comburent arma, clypeum et hastas, arcum et sagittas, et baculos manuum et contos: et succendent ea igni septem annis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et egredientur habitatores de civitatibus Israël, et succendent et comburent arma, clypeum et hastas, arcum et sagittas, et baculos manuum et contos: et succendent ea igni septem annis.",
+        "Clem-Saints": "Et egredientur habitatores de civitatibus Israël, et succendent et comburent arma, clypeum et hastas, arcum et sagittas, et baculos manuum et contos: et succendent ea igni septem annis.",
+        "VulgHetzenauer (1906)": "Et egredientur habitatores de civitatibus Israel, et succendent et comburent arma, clypeum, et hastas, arcum, et sagittas, et baculos manuum, et contos: et succendent ea igni septem annis.",
+        "VulgConte (2009)": "Et egredientur habitatores de civitatibus Israel, et succendent et comburent arma, clypeum, et hastas, arcum, et sagittas, et baculos manuum, et contos: et succendent ea igni septem annis.",
+        "VulgSistina (1590)": "Et egredientur habitatores de civitatibus Israel, et succendent et comburent arma, clypeum, et hastas, arcum, et sagittas, et baculos manuum, et contos: et succendent ea igne septem annis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "igni",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "igne",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 25,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "igni",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86207,
+      "verse": 10,
+      "critical_text": "Et non portabunt ligna de regionibus, neque succident de saltibus: quoniam arma succendent igni, et deprædabuntur eos quibus prædæ fuerant, et diripient vastatores suos, ait Dominus Deus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et non portabunt ligna de regionibus, neque succident de saltibus: quoniam arma succendent igni, et deprædabuntur eos quibus prædæ fuerant, et diripient vastatores suos, ait Dominus Deus.",
+        "Clem-Saints": "Et non portabunt ligna de regionibus, neque succident de saltibus: quoniam arma succendent igni, et deprædabuntur eos quibus prædæ fuerant, et diripient vastatores suos, ait Dominus Deus.",
+        "VulgHetzenauer (1906)": "Et non portabunt ligna de regionibus, neque succident de saltibus: quoniam arma succendent igni, et deprædabuntur eos, quibus prædæ fuerant, et diripient vastatores suos, ait Dominus Deus.",
+        "VulgConte (2009)": "Et non portabunt ligna de regionibus, neque succident de saltibus: quoniam arma succendent igni, et deprædabuntur eos, quibus prædæ fuerant, et diripient vastatores suos, ait Dominus Deus.",
+        "VulgSistina (1590)": "Et non portabunt ligna de regionibus, neque succident de saltibus: quoniam arma succendent igne, et depraedabuntur eos, quibus praedae fuerant, et diripient vastatores suos, ait Dominus Deus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "igni,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "igne,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 13,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "igni",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86208,
+      "verse": 11,
+      "critical_text": "Et erit in die illa: dabo Gog locum nominatum sepulchrum in Israël, vallem viatorum ad orientem maris, quæ obstupescere faciet prætereuntes: et sepelient ibi Gog, et omnem multitudinem ejus, et vocabitur vallis multitudinis Gog.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et erit in die illa: dabo Gog locum nominatum sepulchrum in Israël, vallem viatorum ad orientem maris, quæ obstupescere faciet prætereuntes: et sepelient ibi Gog, et omnem multitudinem ejus, et vocabitur vallis multitudinis Gog.",
+        "Clem-Saints": "Et erit in die illa: dabo Gog locum nominatum sepulchrum in Israël, vallem viatorum ad orientem maris, quæ obstupescere faciet prætereuntes: et sepelient ibi Gog, et omnem multitudinem ejus, et vocabitur vallis multitudinis Gog.",
+        "VulgHetzenauer (1906)": "Et erit in die illa: dabo Gog locum nominatum sepulchrum in Israel: vallem viatorum ad Orientem maris, quæ obstupescere faciet prætereuntes: et sepelient ibi Gog, et omnem multitudinem eius, et vocabitur vallis multitudinis Gog.",
+        "VulgConte (2009)": "Et erit in die illa: dabo Gog locum nominatum sepulchrum in Israel: vallem viatorum ad Orientem maris, quæ obstupescere faciet prætereuntes: et sepelient ibi Gog, et omnem multitudinem eius, et vocabitur vallis multitudinis Gog.",
+        "VulgSistina (1590)": "Et erit in die illa: dabo Gog locum nominatum sepulchrum in Israel: vallem viatorum ad Orientem maris, quae obstupescere faciet praetereuntes: et sepelient ibi Gog, et omnem multitudinem eius, et vocabitur vallis multitudinis Gog."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86209,
+      "verse": 12,
+      "critical_text": "Et sepelient eos domus Israël, ut mundent terram septem mensibus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et sepelient eos domus Israël, ut mundent terram septem mensibus.",
+        "Clem-Saints": "Et sepelient eos domus Israël, ut mundent terram septem mensibus.",
+        "VulgHetzenauer (1906)": "Et sepelient eos domus Israel, ut mundent terram septem mensibus.",
+        "VulgConte (2009)": "Et sepelient eos domus Israel, ut mundent terram septem mensibus.",
+        "VulgSistina (1590)": "Et sepelient eos domus Israel, ut mundent terram septem mensibus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86210,
+      "verse": 13,
+      "critical_text": "Sepeliet autem eum omnis populus terræ: et erit eis nominata dies in qua glorificatus sum, ait Dominus Deus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sepeliet autem eum omnis populus terræ: et erit eis nominata dies in qua glorificatus sum, ait Dominus Deus.",
+        "Clem-Saints": "Sepeliet autem eum omnis populus terræ: et erit eis nominata dies in qua glorificatus sum, ait Dominus Deus.",
+        "VulgHetzenauer (1906)": "Sepeliet autem eum omnis populus terræ, et erit eis nominata dies, in qua glorificatus sum, ait Dominus Deus.",
+        "VulgConte (2009)": "Sepeliet autem eum omnis populus terræ, et erit eis nominata dies, in qua glorificatus sum, ait Dominus Deus.",
+        "VulgSistina (1590)": "Sepeliet autem eum omnis populus terrae, et erit eis nominata dies, in qua glorificatus sum, ait Dominus Deus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86211,
+      "verse": 14,
+      "critical_text": "Et viros jugiter constituent lustrantes terram, qui sepeliant et requirant eos qui remanserant super faciem terræ, ut emundent eam: post menses autem septem quærere incipient.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et viros jugiter constituent lustrantes terram, qui sepeliant et requirant eos qui remanserant super faciem terræ, ut emundent eam: post menses autem septem quærere incipient.",
+        "Clem-Saints": "Et viros jugiter constituent lustrantes terram, qui sepeliant et requirant eos qui remanserant super faciem terræ, ut emundent eam: post menses autem septem quærere incipient.",
+        "VulgHetzenauer (1906)": "Et viros iugiter constituent lustrantes terram, qui sepeliant, et requirant eos, qui remanserant super faciem terræ, ut emundent eam: post menses autem septem quærere incipient.",
+        "VulgConte (2009)": "Et viros iugiter constituent lustrantes terram, qui sepeliant, et requirant eos, qui remanserant super faciem terræ, ut emundent eam: post menses autem septem quærere incipient.",
+        "VulgSistina (1590)": "Et viros iugiter constituent lustrantes terram, qui sepeliant, et requirant eos, qui remanserant super faciem terrae, ut emundent eam: post menses autem septem quaerere incipient."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86212,
+      "verse": 15,
+      "critical_text": "Et circuibunt peragrantes terram: cumque viderint os hominis, statuent juxta illud titulum, donec sepeliant illud pollinctores in valle multitudinis Gog.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et circuibunt peragrantes terram: cumque viderint os hominis, statuent juxta illud titulum, donec sepeliant illud pollinctores in valle multitudinis Gog.",
+        "Clem-Saints": "Et circuibunt peragrantes terram: cumque viderint os hominis, statuent juxta illud titulum, donec sepeliant illud pollinctores in valle multitudinis Gog.",
+        "VulgHetzenauer (1906)": "Et circuibunt peragrantes terram: cumque viderint os hominis, statuent iuxta illud titulum, donec sepeliant illud pollinctores in valle multitudinis Gog.",
+        "VulgConte (2009)": "Et circuibunt peragrantes terram: cumque viderint os hominis, statuent iuxta illud titulum, donec sepeliant illud pollinctores in valle multitudinis Gog.",
+        "VulgSistina (1590)": "Et circuibunt peragrantes terram: cumque viderint os hominis, statuent iuxta illud titulum, donec sepeliant illud pollinctores in valle multitudinis Gog."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86213,
+      "verse": 16,
+      "critical_text": "Nomen autem civitatis Amona: et mundabunt terram.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nomen autem civitatis Amona: et mundabunt terram.",
+        "Clem-Saints": "Nomen autem civitatis Amona: et mundabunt terram.",
+        "VulgHetzenauer (1906)": "Nomen autem civitatis Amona, et mundabunt terram.",
+        "VulgConte (2009)": "Nomen autem civitatis Amona, et mundabunt terram.",
+        "VulgSistina (1590)": "Nomen autem civitatis Amona, et mundabunt terram."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86214,
+      "verse": 17,
+      "critical_text": "Tu ergo, fili hominis, hæc dicit Dominus Deus: Dic omni volucri, et universis avibus, cunctisque bestiis agri: Convenite, properate, concurrite undique ad victimam meam quam ego immolo vobis, victimam grandem super montes Israël, ut comedatis carnem, et bibatis sanguinem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tu ergo, fili hominis, hæc dicit Dominus Deus: Dic omni volucri, et universis avibus, cunctisque bestiis agri: Convenite, properate, concurrite undique ad victimam meam quam ego immolo vobis, victimam grandem super montes Israël, ut comedatis carnem, et bibatis sanguinem.",
+        "Clem-Saints": "Tu ergo, fili hominis, hæc dicit Dominus Deus: Dic omni volucri, et universis avibus, cunctisque bestiis agri: Convenite, properate, concurrite undique ad victimam meam quam ego immolo vobis, victimam grandem super montes Israël, ut comedatis carnem, et bibatis sanguinem.",
+        "VulgHetzenauer (1906)": "Tu ergo fili hominis, hæc dicit Dominus Deus: Dic omni volucri, et universis avibus, cunctisque bestiis agri: Convenite, properate, concurrite undique ad victimam meam, quam ego immolo vobis, victimam grandem super montes Israel: ut comedatis carnem, et bibatis sanguinem.",
+        "VulgConte (2009)": "Tu ergo fili hominis, hæc dicit Dominus Deus: Dic omni volucri, et universis avibus, cunctisque bestiis agri: Convenite, properate, concurrite undique ad victimam meam, quam ego immolo vobis, victimam grandem super montes Israel: ut comedatis carnem, et bibatis sanguinem.",
+        "VulgSistina (1590)": "Tu ergo fili hominis, haec dicit Dominus Deus: Dic omni volucri, et universis avibus, cunctisque bestiis agri: Convenite, properate, concurrite undique ad victimam meam, quam ego immolo vobis, victimam grandem super montes Israel: ut comedatis carnem, et bibatis sanguinem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86215,
+      "verse": 18,
+      "critical_text": "Carnes fortium comedetis, et sanguinem principum terræ bibetis: arietum, et agnorum, et hircorum, taurorumque et altilium, et pinguium omnium.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Carnes fortium comedetis, et sanguinem principum terræ bibetis: arietum, et agnorum, et hircorum, taurorumque et altilium, et pinguium omnium.",
+        "Clem-Saints": "Carnes fortium comedetis, et sanguinem principum terræ bibetis: arietum, et agnorum, et hircorum, taurorumque et altilium, et pinguium omnium.",
+        "VulgHetzenauer (1906)": "Carnes fortium comedetis, et sanguinem principum terræ bibetis: arietum, et agnorum, et hircorum, taurorumque et altilium, et pinguium omnium.",
+        "VulgConte (2009)": "Carnes fortium comedetis, et sanguinem principum terræ bibetis: arietum, et agnorum, et hircorum, taurorumque et altilium, et pinguium omnium.",
+        "VulgSistina (1590)": "Carnes fortium comedetis, et sanguinem principum terrae bibetis: arietum, et agnorum, et hircorum, taurorumque et altilium, et pinguium omnium."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86216,
+      "verse": 19,
+      "critical_text": "Et comedetis adipem in saturitatem, et bibetis sanguinem in ebrietatem, de victima quam ego immolabo vobis:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et comedetis adipem in saturitatem, et bibetis sanguinem in ebrietatem, de victima quam ego immolabo vobis:",
+        "Clem-Saints": "Et comedetis adipem in saturitatem, et bibetis sanguinem in ebrietatem, de victima quam ego immolabo vobis:",
+        "VulgHetzenauer (1906)": "Et comedetis adipem in saturitatem, et bibetis sanguinem in ebrietatem, de victima, quam ego immolabo vobis:",
+        "VulgConte (2009)": "Et comedetis adipem in saturitatem, et bibetis sanguinem in ebrietatem, de victima, quam ego immolabo vobis:",
+        "VulgSistina (1590)": "Et comedetis adipem in saturitatem, et bibetis sanguinem in ebrietatem, de victima, quam ego immolabo vobis:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86217,
+      "verse": 20,
+      "critical_text": "et saturabimini super mensam meam de equo, et equite forti, et de universis viris bellatoribus, ait Dominus Deus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et saturabimini super mensam meam de equo, et equite forti, et de universis viris bellatoribus, ait Dominus Deus.",
+        "Clem-Saints": "et saturabimini super mensam meam de equo, et equite forti, et de universis viris bellatoribus, ait Dominus Deus.",
+        "VulgHetzenauer (1906)": "et saturabimini super mensam meam de equo, et equite forti, et de universis viris bellatoribus, ait Dominus Deus.",
+        "VulgConte (2009)": "et saturabimini super mensam meam de equo, et equite forti, et de universis viris bellatoribus, ait Dominus Deus.",
+        "VulgSistina (1590)": "et saturabimini super mensam meam de equo, et equite forti, et de universis viris bellatoribus, ait Dominus Deus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86218,
+      "verse": 21,
+      "critical_text": "Et ponam gloriam meam in gentibus: et videbunt omnes gentes judicium meum quod fecerim, et manum meam quam posuerim super eos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ponam gloriam meam in gentibus: et videbunt omnes gentes judicium meum quod fecerim, et manum meam quam posuerim super eos.",
+        "Clem-Saints": "Et ponam gloriam meam in gentibus: et videbunt omnes gentes judicium meum quod fecerim, et manum meam quam posuerim super eos.",
+        "VulgHetzenauer (1906)": "Et ponam gloriam meam in Gentibus: et videbunt omnes gentes iudicium meum, quod fecerim, et manum meam, quam posuerim super eos.",
+        "VulgConte (2009)": "Et ponam gloriam meam in Gentibus: et videbunt omnes gentes iudicium meum, quod fecerim, et manum meam, quam posuerim super eos.",
+        "VulgSistina (1590)": "Et ponam gloriam meam in Gentibus: et videbunt omnes gentes iudicium meum, quod fecerim, et manum meam, quam posuerim super eos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86219,
+      "verse": 22,
+      "critical_text": "Et scient domus Israël quia ego Dominus Deus eorum, a die illa et deinceps.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et scient domus Israël quia ego Dominus Deus eorum, a die illa et deinceps.",
+        "Clem-Saints": "Et scient domus Israël quia ego Dominus Deus eorum, a die illa et deinceps.",
+        "VulgHetzenauer (1906)": "Et scient domus Israel quia ego Dominus Deus eorum a die illa, et deinceps.",
+        "VulgConte (2009)": "Et scient domus Israel quia ego Dominus Deus eorum a die illa, et deinceps.",
+        "VulgSistina (1590)": "Et scient domus Israel quia ego Dominus Deus eorum a die illa, et deinceps."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86220,
+      "verse": 23,
+      "critical_text": "Et scient gentes quoniam in iniquitate sua capta sit domus Israël, eo quod dereliquerint me, et absconderim faciem meam ab eis, et tradiderim eos in manus hostium, et ceciderint in gladio universi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et scient gentes quoniam in iniquitate sua capta sit domus Israël, eo quod dereliquerint me, et absconderim faciem meam ab eis, et tradiderim eos in manus hostium, et ceciderint in gladio universi.",
+        "Clem-Saints": "Et scient gentes quoniam in iniquitate sua capta sit domus Israël, eo quod dereliquerint me, et absconderim faciem meam ab eis, et tradiderim eos in manus hostium, et ceciderint in gladio universi.",
+        "VulgHetzenauer (1906)": "Et scient Gentes quoniam in iniquitate sua capta sit domus Israel, eo quod dereliquerint me, et absconderim faciem meam ab eis: et tradiderim eos in manus hostium, et ceciderint in gladio universi.",
+        "VulgConte (2009)": "Et scient Gentes quoniam in iniquitate sua capta sit domus Israel, eo quod dereliquerint me, et absconderim faciem meam ab eis: et tradiderim eos in manus hostium, et ceciderint in gladio universi.",
+        "VulgSistina (1590)": "Et scient Gentes quoniam in iniquitate sua capta sit domus Israel, eo quod dereliquerint me, et absconderim faciem meam ab eis: et tradiderim eos in manus hostium, et ceciderint in gladio universi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86221,
+      "verse": 24,
+      "critical_text": "Juxta immunditiam eorum et scelus feci eis, et abscondi faciem meam ab illis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Juxta immunditiam eorum et scelus feci eis, et abscondi faciem meam ab illis.",
+        "Clem-Saints": "Juxta immunditiam eorum et scelus feci eis, et abscondi faciem meam ab illis.",
+        "VulgHetzenauer (1906)": "Iuxta immunditiam eorum, et scelus feci eis, et abscondi faciem meam ab illis.",
+        "VulgConte (2009)": "Iuxta immunditiam eorum, et scelus feci eis, et abscondi faciem meam ab illis.",
+        "VulgSistina (1590)": "Iuxta immunditiam eorum, et scelus feci eis, et abscondi faciem meam ab illis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86222,
+      "verse": 25,
+      "critical_text": "Propterea hæc dicit Dominus Deus: Nunc reducam captivitatem Jacob, et miserebor omnis domus Israël, et assumam zelum pro nomine sancto meo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Propterea hæc dicit Dominus Deus: Nunc reducam captivitatem Jacob, et miserebor omnis domus Israël, et assumam zelum pro nomine sancto meo.",
+        "Clem-Saints": "Propterea hæc dicit Dominus Deus: Nunc reducam captivitatem Jacob, et miserebor omnis domus Israël, et assumam zelum pro nomine sancto meo.",
+        "VulgHetzenauer (1906)": "Propterea hæc dicit Dominus Deus: Nunc reducam captivitatem Iacob, et miserebor omnis domus Israel: et assumam zelum pro nomine sancto meo.",
+        "VulgConte (2009)": "Propterea hæc dicit Dominus Deus: Nunc reducam captivitatem Iacob, et miserebor omnis domus Israel: et assumam zelum pro nomine sancto meo.",
+        "VulgSistina (1590)": "Propterea haec dicit Dominus Deus: Nunc reducam captivitatem Iacob, et miserebor omnis domus Israel: et assumam zelum pro nomine sancto meo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86223,
+      "verse": 26,
+      "critical_text": "Et portabunt confusionem suam, et omnem prævaricationem qua prævaricati sunt in me, cum habitaverint in terra sua confidenter, neminem formidantes:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et portabunt confusionem suam, et omnem prævaricationem qua prævaricati sunt in me, cum habitaverint in terra sua confidenter, neminem formidantes:",
+        "Clem-Saints": "Et portabunt confusionem suam, et omnem prævaricationem qua prævaricati sunt in me, cum habitaverint in terra sua confidenter, neminem formidantes:",
+        "VulgHetzenauer (1906)": "Et portabunt confusionem suam, et omnem prævaricationem, qua prævaricati sunt in me, cum habitaverint in terra sua confidenter neminem formidantes:",
+        "VulgConte (2009)": "Et portabunt confusionem suam, et omnem prævaricationem, qua prævaricati sunt in me, cum habitaverint in terra sua confidenter neminem formidantes:",
+        "VulgSistina (1590)": "Et portabunt confusionem suam, et omnem praevaricationem, qua praevaricati sunt in me, cum habitaverint in terra sua confidenter neminem formidantes:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86224,
+      "verse": 27,
+      "critical_text": "et reduxero eos de populis, et congregavero de terris inimicorum suorum, et sanctificatus fuero in eis, in oculis gentium plurimarum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et reduxero eos de populis, et congregavero de terris inimicorum suorum, et sanctificatus fuero in eis, in oculis gentium plurimarum.",
+        "Clem-Saints": "et reduxero eos de populis, et congregavero de terris inimicorum suorum, et sanctificatus fuero in eis, in oculis gentium plurimarum.",
+        "VulgHetzenauer (1906)": "et reduxero eos de populis, et congregavero de terris inimicorum suorum, et sanctificatus fuero in eis, in oculis gentium plurimarum.",
+        "VulgConte (2009)": "et reduxero eos de populis, et congregavero de terris inimicorum suorum, et sanctificatus fuero in eis, in oculis gentium plurimarum.",
+        "VulgSistina (1590)": "et reduxero eos de populis, et congregavero de terris inimicorum suorum, et sanctificatus fuero in eis, in oculis gentium plurimarum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86225,
+      "verse": 28,
+      "critical_text": "Et scient quia ego Dominus Deus eorum, eo quod transtulerim eos in nationes, et congregaverim eos super terram suam, et non dereliquerim quemquam ex eis ibi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et scient quia ego Dominus Deus eorum, eo quod transtulerim eos in nationes, et congregaverim eos super terram suam, et non dereliquerim quemquam ex eis ibi.",
+        "Clem-Saints": "Et scient quia ego Dominus Deus eorum, eo quod transtulerim eos in nationes, et congregaverim eos super terram suam, et non dereliquerim quemquam ex eis ibi.",
+        "VulgHetzenauer (1906)": "Et scient quia ego Dominus Deus eorum, eo quod transtulerim eos in nationes; et congregaverim eos super terram suam, et non dereliquerim quemquam ex eis ibi.",
+        "VulgConte (2009)": "Et scient quia ego Dominus Deus eorum, eo quod transtulerim eos in nationes; et congregaverim eos super terram suam, et non dereliquerim quemquam ex eis ibi.",
+        "VulgSistina (1590)": "Et scient quia ego Dominus Deus eorum, eo quod transtulerim eos in nationes; et congregaverim eos super terram suam, et non dereliquerim quemquam ex eis ibi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 86226,
+      "verse": 29,
+      "critical_text": "Et non abscondam ultra faciem meam ab eis, eo quod effuderim spiritum meum super omnem domum Israël, ait Dominus Deus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et non abscondam ultra faciem meam ab eis, eo quod effuderim spiritum meum super omnem domum Israël, ait Dominus Deus.",
+        "Clem-Saints": "Et non abscondam ultra faciem meam ab eis, eo quod effuderim spiritum meum super omnem domum Israël, ait Dominus Deus.",
+        "VulgHetzenauer (1906)": "Et non abscondam ultra faciem meam ab eis, eo quod effuderim spiritum meum super omnem domum Israel, ait Dominus Deus.",
+        "VulgConte (2009)": "Et non abscondam ultra faciem meam ab eis, eo quod effuderim Spiritum meum super omnem domum Israel, ait Dominus Deus.",
+        "VulgSistina (1590)": "Et non abscondam ultra faciem meam ab eis, eo quod effuderim spiritum meum super omnem domum Israel, ait Dominus Deus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

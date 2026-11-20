@@ -1,0 +1,851 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "joshua",
+  "book_title": "Joshua",
+  "usfm_code": "JOS",
+  "chapter": 11,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:31Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 67523,
+      "verse": 1,
+      "critical_text": "Quæ cum audisset Jabin rex Asor, misit ad Jobab regem Madon, et ad regem Semeron, atque ad regem Achsaph:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quæ cum audisset Jabin rex Asor, misit ad Jobab regem Madon, et ad regem Semeron, atque ad regem Achsaph:",
+        "Clem-Saints": "Quæ cum audisset Jabin rex Asor, misit ad Jobab regem Madon, et ad regem Semeron, atque ad regem Achsaph:",
+        "VulgHetzenauer (1906)": "Quæ cum audisset Iabin rex Asor, misit ad Iobab regem Madon, et ad regem Semeron, atque ad regem Achsaph:",
+        "VulgConte (2009)": "Quæ cum audisset Iabin rex Asor, misit ad Iobab regem Madon, et ad regem Semeron, atque ad regem Achsaph:",
+        "VulgSistina (1590)": "Quae cum audisset Iabin rex Asor, misit ad Iobab regem Madon, et ad regem Semeron, atque ad regem Achsaph:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67524,
+      "verse": 2,
+      "critical_text": "ad reges quoque aquilonis, qui habitabant in montanis et in planitie contra meridiem Ceneroth, in campestribus quoque et in regionibus Dor juxta mare:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ad reges quoque aquilonis, qui habitabant in montanis et in planitie contra meridiem Ceneroth, in campestribus quoque et in regionibus Dor juxta mare:",
+        "Clem-Saints": "ad reges quoque aquilonis, qui habitabant in montanis et in planitie contra meridiem Ceneroth, in campestribus quoque et in regionibus Dor juxta mare:",
+        "VulgHetzenauer (1906)": "ad reges quoque Aquilonis, qui habitabant in montanis et in planitie contra meridiem Ceneroth, in campestribus quoque et in regionibus Dor iuxta mare:",
+        "VulgConte (2009)": "ad reges quoque Aquilonis, qui habitabant in montanis et in planitie contra meridiem Ceneroth, in campestribus quoque et in regionibus Dor iuxta mare:",
+        "VulgSistina (1590)": "ad reges quoque Aquilonis, qui habitabant in montanis et in planitie contra meridiem Ceneroth, in campestribus quoque et regionibus Dor iuxta mare:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "in",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 18,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "in",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67525,
+      "verse": 3,
+      "critical_text": "Chananæum quoque ab oriente et occidente, et Amorrhæum atque Hethæum ac Pherezæum et Jebusæum in montanis: Hevæum quoque qui habitabat ad radices Hermon in terra Maspha.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Chananæum quoque ab oriente et occidente, et Amorrhæum atque Hethæum ac Pherezæum et Jebusæum in montanis: Hevæum quoque qui habitabat ad radices Hermon in terra Maspha.",
+        "Clem-Saints": "Chananæum quoque ab oriente et occidente, et Amorrhæum atque Hethæum ac Pherezæum et Jebusæum in montanis: Hevæum quoque qui habitabat ad radices Hermon in terra Maspha.",
+        "VulgHetzenauer (1906)": "Chananæum quoque ab Oriente et Occidente, et Amorrhæum atque Hethæum ac Pherezæum et Iebusæum in montanis: Hevæum quoque qui habitabat ad radices Hermon in Terra Maspha.",
+        "VulgConte (2009)": "Chananæum quoque ab Oriente et Occidente, et Amorrhæum atque Hethæum ac Pherezæum et Iebusæum in montanis: Hevæum quoque qui habitabat ad radices Hermon in Terra Maspha.",
+        "VulgSistina (1590)": "Chananaeum quoque ab Oriente et Occidente, et Amorrhaeum atque Hethaeum ac Pherezaeum et Iebusaeum in montanis: Hevaeum quoque qui habitabat ad radices Hermon in Terra Maspha."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67526,
+      "verse": 4,
+      "critical_text": "Egressique sunt omnes cum turmis suis, populus multus nimis sicut arena quæ est in littore maris, equi quoque et currus immensæ multitudinis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Egressique sunt omnes cum turmis suis, populus multus nimis sicut arena quæ est in littore maris, equi quoque et currus immensæ multitudinis.",
+        "Clem-Saints": "Egressique sunt omnes cum turmis suis, populus multus nimis sicut arena quæ est in littore maris, equi quoque et currus immensæ multitudinis.",
+        "VulgHetzenauer (1906)": "Egressique sunt omnes cum turmis suis, populus multus nimis sicut arena, quæ est in littore maris, equi quoque et currus immensæ multitudinis.",
+        "VulgConte (2009)": "Egressique sunt omnes cum turmis suis, populus multus nimis sicut arena, quæ est in littore maris, equi quoque et currus immensæ multitudinis.",
+        "VulgSistina (1590)": "Egressique sunt omnes cum turmis suis, populus multus nimis sicut arena, quae est in littore maris, equi quoque et currus immensae multitudinis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67527,
+      "verse": 5,
+      "critical_text": "Conveneruntque omnes reges isti in unum ad aquas Merom, ut pugnarent contra Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Conveneruntque omnes reges isti in unum ad aquas Merom, ut pugnarent contra Israël.",
+        "Clem-Saints": "Conveneruntque omnes reges isti in unum ad aquas Merom, ut pugnarent contra Israël.",
+        "VulgHetzenauer (1906)": "Conveneruntque omnes reges isti in unum ad Aquas Merom, ut pugnarent contra Israel.",
+        "VulgConte (2009)": "Conveneruntque omnes reges isti in unum ad Aquas Merom, ut pugnarent contra Israel.",
+        "VulgSistina (1590)": "Conveneruntque omnes reges isti in unum ad Aquas Merom, ut pugnarent contra Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67528,
+      "verse": 6,
+      "critical_text": "Dixitque Dominus ad Josue: Ne timeas eos: cras enim hac eadem hora ego tradam omnes istos vulnerandos in conspectu Israël: equos eorum subnervabis, et currus igne combures.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixitque Dominus ad Josue: Ne timeas eos: cras enim hac eadem hora ego tradam omnes istos vulnerandos in conspectu Israël: equos eorum subnervabis, et currus igne combures.",
+        "Clem-Saints": "Dixitque Dominus ad Josue: Ne timeas eos: cras enim hac eadem hora ego tradam omnes istos vulnerandos in conspectu Israël: equos eorum subnervabis, et currus igne combures.",
+        "VulgHetzenauer (1906)": "Dixitque Dominus ad Iosue: Ne timeas eos: cras enim hac eadem hora ego tradam omnes istos vulnerandos in conspectu Israel: equos eorum subnervabis, et currus igne combures.",
+        "VulgConte (2009)": "Dixitque Dominus ad Iosue: Ne timeas eos: cras enim hac eadem hora ego tradam omnes istos vulnerandos in conspectu Israel: equos eorum subnervabis, et currus igne combures.",
+        "VulgSistina (1590)": "Dixitque Dominus ad Iosue: Ne timeas eos: cras enim hac eadem hora ego tradam omnes istos vulnerandos in conspectu Israel: equos eorum subnervabis, et currus igne combures."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67529,
+      "verse": 7,
+      "critical_text": "Venitque Josue, et omnis exercitus cum eo, adversus illos ad aquas Merom subito, et irruerunt super eos,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Venitque Josue, et omnis exercitus cum eo, adversus illos ad aquas Merom subito, et irruerunt super eos,",
+        "Clem-Saints": "Venitque Josue, et omnis exercitus cum eo, adversus illos ad aquas Merom subito, et irruerunt super eos,",
+        "VulgHetzenauer (1906)": "Venitque Iosue, et omnis exercitus cum eo adversus illos ad Aquas Merom subito, et irruerunt super eos,",
+        "VulgConte (2009)": "Venitque Iosue, et omnis exercitus cum eo adversus illos ad Aquas Merom subito, et irruerunt super eos,",
+        "VulgSistina (1590)": "Venitque Iosue, et omnis exercitus cum eo adversus illos ad Aquas Merom subito, et irruerunt super eos,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67530,
+      "verse": 8,
+      "critical_text": "tradiditque illos Dominus in manus Israël. Qui percusserunt eos, et persecuti sunt usque ad Sidonem magnam, et aquas Maserephoth, campumque Masphe, qui est ad orientalem illius partem. Ita percussit omnes, ut nullas dimitteret ex eis reliquias:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "tradiditque illos Dominus in manus Israël. Qui percusserunt eos, et persecuti sunt usque ad Sidonem magnam, et aquas Maserephoth, campumque Masphe, qui est ad orientalem illius partem. Ita percussit omnes, ut nullas dimitteret ex eis reliquias:",
+        "Clem-Saints": "tradiditque illos Dominus in manus Israël. Qui percusserunt eos, et persecuti sunt usque ad Sidonem magnam, et aquas Maserephoth, campumque Masphe, qui est ad orientalem illius partem. Ita percussit omnes, ut nullas dimitteret ex eis reliquias:",
+        "VulgHetzenauer (1906)": "tradiditque illos Dominus in manus Israel. Qui percusserunt eos, et persecuti sunt usque ad Sidonem magnam, et Aquas Maserephoth, campumque Masphe, qui est ad Orientalem illius partem. Ita percussit omnes, ut nullas dimitteret ex eis reliquias:",
+        "VulgConte (2009)": "tradiditque illos Dominus in manus Israel. Qui percusserunt eos, et persecuti sunt usque ad Sidonem magnam, et Aquas Maserephoth, campumque Masphe, qui est ad Orientalem illius partem. Ita percussit omnes, ut nullas dimitteret ex eis reliquias:",
+        "VulgSistina (1590)": "tradiditque illos Dominus in manus Israel. Qui percusserunt eos, et persecuti sunt usque ad Sidonem magnam, et Aquas Maserephoth, campumque Masphe, qui est ad Orientalem illius partem. Itaque percussit omnes, ut nullas dimitteret ex eis reliquias:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Ita",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Itaque",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 27,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ita",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67531,
+      "verse": 9,
+      "critical_text": "fecitque sicut præceperat ei Dominus: equos eorum subnervavit, currusque combussit igni.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "fecitque sicut præceperat ei Dominus: equos eorum subnervavit, currusque combussit igni.",
+        "Clem-Saints": "fecitque sicut præceperat ei Dominus: equos eorum subnervavit, currusque combussit igni.",
+        "VulgHetzenauer (1906)": "fecitque sicut præceperat ei Dominus, equos eorum subnervavit, currusque combussit igni.",
+        "VulgConte (2009)": "fecitque sicut præceperat ei Dominus, equos eorum subnervavit, currusque combussit igni.",
+        "VulgSistina (1590)": "fecitque sicut praeceperat ei Dominus, equos eorum subnervavit, currusque combussit igni."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67532,
+      "verse": 10,
+      "critical_text": "Reversusque statim cepit Asor, et regem ejus percussit gladio. Asor enim antiquitus inter omnia regna hæc principatum tenebat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Reversusque statim cepit Asor, et regem ejus percussit gladio. Asor enim antiquitus inter omnia regna hæc principatum tenebat.",
+        "Clem-Saints": "Reversusque statim cepit Asor, et regem ejus percussit gladio. Asor enim antiquitus inter omnia regna hæc principatum tenebat.",
+        "VulgHetzenauer (1906)": "Reversusque statim cepit Asor: et regem eius percussit gladio. Asor enim antiquitus inter omnia regna hæc principatum tenebat.",
+        "VulgConte (2009)": "Reversusque statim cepit Asor: et regem eius percussit gladio. Asor enim antiquitus inter omnia regna hæc principatum tenebat.",
+        "VulgSistina (1590)": "Reversusque statim cepit Asor: et regem eius percussit gladio. Asor enim antiquitus inter omnia regna haec principatum tenebat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67533,
+      "verse": 11,
+      "critical_text": "Percussitque omnes animas quæ ibidem morabantur: non dimisit in ea ullas reliquias, sed usque ad internecionem universa vastavit, ipsamque urbem peremit incendio.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Percussitque omnes animas quæ ibidem morabantur: non dimisit in ea ullas reliquias, sed usque ad internecionem universa vastavit, ipsamque urbem peremit incendio.",
+        "Clem-Saints": "Percussitque omnes animas quæ ibidem morabantur: non dimisit in ea ullas reliquias, sed usque ad internecionem universa vastavit, ipsamque urbem peremit incendio.",
+        "VulgHetzenauer (1906)": "Percussitque omnes animas, quæ ibidem morabantur: non dimisit in ea ullas reliquias, sed usque ad internecionem universa vastavit, ipsamque urbem peremit incendio.",
+        "VulgConte (2009)": "Percussitque omnes animas, quæ ibidem morabantur: non dimisit in ea ullas reliquias, sed usque ad internecionem universa vastavit, ipsamque urbem peremit incendio.",
+        "VulgSistina (1590)": "Percussitque omnes animas, quae ibidem morabantur: non dimisit in ea ullas reliquias, sed usque ad internecionem universa vastavit, ipsamque urbem peremit incendio."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67534,
+      "verse": 12,
+      "critical_text": "Et omnes per circuitum civitates, regesque earum, cepit, percussit atque delevit, sicut præceperat ei Moyses famulus Domini.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et omnes per circuitum civitates, regesque earum, cepit, percussit atque delevit, sicut præceperat ei Moyses famulus Domini.",
+        "Clem-Saints": "Et omnes per circuitum civitates, regesque earum, cepit, percussit atque delevit, sicut præceperat ei Moyses famulus Domini.",
+        "VulgHetzenauer (1906)": "Et omnes per circuitum civitates, regesque earum cepit, percussit atque delevit, sicut præceperat ei Moyses famulus Domini.",
+        "VulgConte (2009)": "Et omnes per circuitum civitates, regesque earum cepit, percussit atque delevit, sicut præceperat ei Moyses famulus Domini.",
+        "VulgSistina (1590)": "Et omnes per circuitum civitates, reges quoque earum cepit, percussit atque delevit, sicut praeceperat ei Moyses famulus Domini."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "regesque",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "reges quoque",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "regesque",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67535,
+      "verse": 13,
+      "critical_text": "Absque urbibus, quæ erant in collibus et in tumulis sitæ, ceteras succendit Israël: unam tantum Asor munitissimam flamma consumpsit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Absque urbibus, quæ erant in collibus et in tumulis sitæ, ceteras succendit Israël: unam tantum Asor munitissimam flamma consumpsit.",
+        "Clem-Saints": "Absque urbibus, quæ erant in collibus et in tumulis sitæ, ceteras succendit Israël: unam tantum Asor munitissimam flamma consumpsit.",
+        "VulgHetzenauer (1906)": "Absque urbibus, quæ erant in collibus, et in tumulis sitæ, ceteras succendit Israel: unam tantum Asor munitissimam flamma consumpsit.",
+        "VulgConte (2009)": "Absque urbibus, quæ erant in collibus, et in tumulis sitæ, ceteras succendit Israel: unam tantum Asor munitissimam flamma consumpsit.",
+        "VulgSistina (1590)": "Absque urbibus, quae erant in collibus, et in tumulis sitae, ceteras succendit Israel: unam tantum Asor munitissimam flamma consumpsit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67536,
+      "verse": 14,
+      "critical_text": "Omnemque prædam istarum urbium ac jumenta diviserunt sibi filii Israël, cunctis hominibus interfectis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Omnemque prædam istarum urbium ac jumenta diviserunt sibi filii Israël, cunctis hominibus interfectis.",
+        "Clem-Saints": "Omnemque prædam istarum urbium ac jumenta diviserunt sibi filii Israël, cunctis hominibus interfectis.",
+        "VulgHetzenauer (1906)": "Omnemque prædam istarum urbium ac iumenta diviserunt sibi filii Israel, cunctis hominibus interfectis.",
+        "VulgConte (2009)": "Omnemque prædam istarum urbium ac iumenta diviserunt sibi filii Israel, cunctis hominibus interfectis.",
+        "VulgSistina (1590)": "Omnemque praedam istarum urbium ac iumenta diviserunt sibi filii Israel, cunctis hominibus interfectis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67537,
+      "verse": 15,
+      "critical_text": "Sicut præceperat Dominus Moysi servo suo, ita præcepit Moyses Josue, et ille universa complevit: non præteriit de universis mandatis, nec unum quidem verbum quod jusserat Dominus Moysi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sicut præceperat Dominus Moysi servo suo, ita præcepit Moyses Josue, et ille universa complevit: non præteriit de universis mandatis, nec unum quidem verbum quod jusserat Dominus Moysi.",
+        "Clem-Saints": "Sicut præceperat Dominus Moysi servo suo, ita præcepit Moyses Josue, et ille universa complevit: non præteriit de universis mandatis, nec unum quidem verbum quod jusserat Dominus Moysi.",
+        "VulgHetzenauer (1906)": "Sicut præceperat Dominus Moysi servo suo, ita præcepit Moyses Iosue, et ille universa complevit: non præteriit de universis mandatis, nec unum quidem verbum quod iusserat Dominus Moysi.",
+        "VulgConte (2009)": "Sicut præceperat Dominus Moysi servo suo, ita præcepit Moyses Iosue, et ille universa complevit: non præteriit de universis mandatis, nec unum quidem verbum quod iusserat Dominus Moysi.",
+        "VulgSistina (1590)": "Sicut praeceperat Dominus Moysi servo suo, ita praecepit Moyses Iosue, et ille universa complevit: non praeteriit de universis mandatis, nec unum quidem verbum quod iusserat Dominus Moysi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67538,
+      "verse": 16,
+      "critical_text": "Cepit itaque Josue omnem terram montanam et meridianam, terramque Gosen, et planitiem, et occidentalem plagam, montemque Israël, et campestria ejus,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cepit itaque Josue omnem terram montanam et meridianam, terramque Gosen, et planitiem, et occidentalem plagam, montemque Israël, et campestria ejus,",
+        "Clem-Saints": "Cepit itaque Josue omnem terram montanam et meridianam, terramque Gosen, et planitiem, et occidentalem plagam, montemque Israël, et campestria ejus,",
+        "VulgHetzenauer (1906)": "Cepit itaque Iosue omnem Terram montanam, et meridianam, terramque Gosen, et planitiem, et Occidentalem plagam, montemque Israel, et campestria eius:",
+        "VulgConte (2009)": "Cepit itaque Iosue omnem Terram montanam, et meridianam, terramque Gosen, et planitiem, et Occidentalem plagam, montemque Israel, et campestria eius:",
+        "VulgSistina (1590)": "Cepit itaque Iosue omnem Terram montanam, et meridianam, terramque Gessen, et planitiem, et Occidentalem plagam, montemque Israel, et campestria eius:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Gosen,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Gessen,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 9,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "gosen",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67539,
+      "verse": 17,
+      "critical_text": "et partem montis, quæ ascendit Seir usque Baalgad, per planitiem Libani subter montem Hermon: omnes reges eorum cepit, percussit, et occidit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et partem montis, quæ ascendit Seir usque Baalgad, per planitiem Libani subter montem Hermon: omnes reges eorum cepit, percussit, et occidit.",
+        "Clem-Saints": "et partem montis, quæ ascendit Seir usque Baalgad, per planitiem Libani subter montem Hermon: omnes reges eorum cepit, percussit, et occidit.",
+        "VulgHetzenauer (1906)": "et partem montis, quæ ascendit Seir usque Baalgad per planitiem Libani subter montem Hermon: omnes reges eorum cepit, percussit, et occidit.",
+        "VulgConte (2009)": "et partem montis, quæ ascendit Seir usque Baalgad per planitiem Libani subter montem Hermon: omnes reges eorum cepit, percussit, et occidit.",
+        "VulgSistina (1590)": "et partem montis, quae ascendit Seir usque Baalgad per planitiem Libani subter montem Hermon: omnes reges eorum cepit, percussit, et occidit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67540,
+      "verse": 18,
+      "critical_text": "Multo tempore pugnavit Josue contra reges istos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Multo tempore pugnavit Josue contra reges istos.",
+        "Clem-Saints": "Multo tempore pugnavit Josue contra reges istos.",
+        "VulgHetzenauer (1906)": "Multo tempore pugnavit Iosue contra reges istos.",
+        "VulgConte (2009)": "Multo tempore pugnavit Iosue contra reges istos.",
+        "VulgSistina (1590)": "Multo tempore pugnavit Iosue contra reges istos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67541,
+      "verse": 19,
+      "critical_text": "Non fuit civitas quæ se traderet filiis Israël, præter Hevæum, qui habitabat in Gabaon: omnes enim bellando cepit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non fuit civitas quæ se traderet filiis Israël, præter Hevæum, qui habitabat in Gabaon: omnes enim bellando cepit.",
+        "Clem-Saints": "Non fuit civitas quæ se traderet filiis Israël, præter Hevæum, qui habitabat in Gabaon: omnes enim bellando cepit.",
+        "VulgHetzenauer (1906)": "Non fuit civitas quæ se traderet filiis Israel, præter Hevæum, qui habitabat in Gabaon: omnes enim bellando cepit.",
+        "VulgConte (2009)": "Non fuit civitas quæ se traderet filiis Israel, præter Hevæum, qui habitabat in Gabaon: omnes enim bellando cepit.",
+        "VulgSistina (1590)": "Non fuit civitas quae se non traderet filiis Israel, praeter Hevaeum, qui habitabat in Gabaon: omnes enim bellando cepit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "non",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 5,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67542,
+      "verse": 20,
+      "critical_text": "Domini enim sententia fuerat, ut indurarentur corda eorum, et pugnarent contra Israël, et caderent, et non mererentur ullam clementiam, ac perirent, sicut præceperat Dominus Moysi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Domini enim sententia fuerat, ut indurarentur corda eorum, et pugnarent contra Israël, et caderent, et non mererentur ullam clementiam, ac perirent, sicut præceperat Dominus Moysi.",
+        "Clem-Saints": "Domini enim sententia fuerat, ut indurarentur corda eorum, et pugnarent contra Israël, et caderent, et non mererentur ullam clementiam, ac perirent, sicut præceperat Dominus Moysi.",
+        "VulgHetzenauer (1906)": "Domini enim sententia fuerat, ut indurarentur corda eorum, et pugnarent contra Israel, et caderent, et non mererentur ullam clementiam, ac perirent, sicut præceperat Dominus Moysi.",
+        "VulgConte (2009)": "Domini enim sententia fuerat, ut indurarentur corda eorum, et pugnarent contra Israel, et caderent, et non mererentur ullam clementiam, ac perirent, sicut præceperat Dominus Moysi.",
+        "VulgSistina (1590)": "Domini enim sententia fuerat, ut indurarentur corda eorum, et pugnarent contra Israel, et caderent, et non mererentur ullam clementiam, ac perirent, sicut praeceperat Dominus Moysi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67543,
+      "verse": 21,
+      "critical_text": "In illo tempore venit Josue, et interfecit Enacim de montanis, Hebron, et Dabir, et Anab, et de omni monte Juda et Israël, urbesque eorum delevit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In illo tempore venit Josue, et interfecit Enacim de montanis, Hebron, et Dabir, et Anab, et de omni monte Juda et Israël, urbesque eorum delevit.",
+        "Clem-Saints": "In illo tempore venit Josue, et interfecit Enacim de montanis, Hebron, et Dabir, et Anab, et de omni monte Juda et Israël, urbesque eorum delevit.",
+        "VulgHetzenauer (1906)": "In illo tempore venit Iosue, et interfecit Enacim de montanis, Hebron, et Dabir, et Anab, et de omni monte Iuda et Israel, urbesque eorum delevit.",
+        "VulgConte (2009)": "In illo tempore venit Iosue, et interfecit Enacim de montanis, Hebron, et Dabir, et Anab, et de omni monte Iuda et Israel, urbesque eorum delevit.",
+        "VulgSistina (1590)": "In illo tempore venit Iosue, et interfecit Enacim de montanis, Hebron, et Dabir, et Anab, et de omni monte Iuda et Israel, urbesque eorum delevit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67544,
+      "verse": 22,
+      "critical_text": "Non reliquit ullum de stirpe Enacim, in terra filiorum Israël: absque civitatibus Gaza, et Geth, et Azoto, in quibus solis relicti sunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non reliquit ullum de stirpe Enacim, in terra filiorum Israël: absque civitatibus Gaza, et Geth, et Azoto, in quibus solis relicti sunt.",
+        "Clem-Saints": "Non reliquit ullum de stirpe Enacim, in terra filiorum Israël: absque civitatibus Gaza, et Geth, et Azoto, in quibus solis relicti sunt.",
+        "VulgHetzenauer (1906)": "Non reliquit ullum de stirpe Enacim, in Terra filiorum Israel: absque civitatibus Gaza, et Geth, et Azoto, in quibus solis relicti sunt.",
+        "VulgConte (2009)": "Non reliquit ullum de stirpe Enacim, in Terra filiorum Israel: absque civitatibus Gaza, et Geth, et Azoto, in quibus solis relicti sunt.",
+        "VulgSistina (1590)": "Non reliquit ullum de stirpe Enacim, in Terra filiorum Israel: absque civitatibus Gaza, et Geth, et Azoto, in quibus solum relicti sunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "solis",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "solum",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 19,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "solis",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67545,
+      "verse": 23,
+      "critical_text": "Cepit ergo Josue omnem terram, sicut locutus est Dominus ad Moysen, et tradidit eam in possessionem filiis Israël secundum partes et tribus suas: quievitque terra a præliis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cepit ergo Josue omnem terram, sicut locutus est Dominus ad Moysen, et tradidit eam in possessionem filiis Israël secundum partes et tribus suas: quievitque terra a præliis.",
+        "Clem-Saints": "Cepit ergo Josue omnem terram, sicut locutus est Dominus ad Moysen, et tradidit eam in possessionem filiis Israël secundum partes et tribus suas: quievitque terra a præliis.",
+        "VulgHetzenauer (1906)": "Cepit ergo Iosue omnem Terram, sicut locutus est Dominus ad Moysen, et tradidit eam in possessionem filiis Israel secundum partes et tribus suas. quievitque Terra a præliis.",
+        "VulgConte (2009)": "Cepit ergo Iosue omnem Terram, sicut locutus est Dominus ad Moysen, et tradidit eam in possessionem filiis Israel secundum partes et tribus suas. Quievitque Terra a præliis.",
+        "VulgSistina (1590)": "Cepit ergo Iosue omnem Terram, sicut locutus est Dominus ad Moysen, et tradidit eam in possessionem filiis Israel secundum partes et tribus suas. quievitque Terra a praeliis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

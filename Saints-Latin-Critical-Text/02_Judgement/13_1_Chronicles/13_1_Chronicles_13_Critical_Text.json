@@ -1,0 +1,479 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "1-chronicles",
+  "book_title": "1 Chronicles",
+  "usfm_code": "1CH",
+  "chapter": 13,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:54Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 72171,
+      "verse": 1,
+      "critical_text": "Iniit autem consilium David cum tribunis, et centurionibus, et universis principibus,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Iniit autem consilium David cum tribunis, et centurionibus, et universis principibus,",
+        "Clem-Saints": "Iniit autem consilium David cum tribunis, et centurionibus, et universis principibus,",
+        "VulgHetzenauer (1906)": "Iniit autem consilium David cum tribunis, et centurionibus, et universis principibus,",
+        "VulgConte (2009)": "Iniit autem consilium David cum tribunis, et centurionibus, et universis principibus,",
+        "VulgSistina (1590)": "Iniit autem consilium David cum tribunis, et centurionibus, et universis principibus,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72172,
+      "verse": 2,
+      "critical_text": "et ait ad omnem cœtum Israël: Si placet vobis, et a Domino Deo nostro egreditur sermo quem loquor, mittamus ad fratres nostros reliquos in universas regiones Israël, et ad sacerdotes et Levitas qui habitant in suburbanis urbium, ut congregentur ad nos,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et ait ad omnem cœtum Israël: Si placet vobis, et a Domino Deo nostro egreditur sermo quem loquor, mittamus ad fratres nostros reliquos in universas regiones Israël, et ad sacerdotes et Levitas qui habitant in suburbanis urbium, ut congregentur ad nos,",
+        "Clem-Saints": "et ait ad omnem cœtum Israël: Si placet vobis, et a Domino Deo nostro egreditur sermo quem loquor, mittamus ad fratres nostros reliquos in universas regiones Israël, et ad sacerdotes et Levitas qui habitant in suburbanis urbium, ut congregentur ad nos,",
+        "VulgHetzenauer (1906)": "et ait ad omnem cœtum Israel: Si placet vobis: et a Domino Deo nostro egreditur sermo, quem loquor: mittamus ad fratres nostros reliquos in universas regiones Israel, et ad Sacerdotes, et Levitas, qui habitant in suburbanis urbium, ut congregentur ad nos,",
+        "VulgConte (2009)": "et ait ad omnem cœtum Israel: Si placet vobis: et a Domino Deo nostro egreditur sermo, quem loquor: mittamus ad fratres nostros reliquos in universas regiones Israel, et ad Sacerdotes, et Levitas, qui habitant in suburbanis urbium, ut congregentur ad nos,",
+        "VulgSistina (1590)": "et ait ad omnem coetum Israel: Si placet vobis: a Domino Deo nostro egreditur sermo, quem loquor: mittamus ad fratres nostros reliquos in universas regiones Israel, et ad Sacerdotes, et Levitas, qui habitant in suburbanis urbium, ut congregentur ad nos,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 9,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72173,
+      "verse": 3,
+      "critical_text": "et reducamus arcam Dei nostri ad nos: non enim requisivimus eam in diebus Saul.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et reducamus arcam Dei nostri ad nos: non enim requisivimus eam in diebus Saul.",
+        "Clem-Saints": "et reducamus arcam Dei nostri ad nos: non enim requisivimus eam in diebus Saul.",
+        "VulgHetzenauer (1906)": "et reducamus arcam Dei nostri ad nos: non enim requisivimus eam in diebus Saul.",
+        "VulgConte (2009)": "et reducamus arcam Dei nostri ad nos: non enim requisivimus eam in diebus Saul.",
+        "VulgSistina (1590)": "et reducamus arcam Dei nostri ad nos: non enim requisivimus eam in diebus Saul."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72174,
+      "verse": 4,
+      "critical_text": "Et respondit universa multitudo ut ita fieret: placuerat enim sermo omni populo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et respondit universa multitudo ut ita fieret: placuerat enim sermo omni populo.",
+        "Clem-Saints": "Et respondit universa multitudo ut ita fieret: placuerat enim sermo omni populo.",
+        "VulgHetzenauer (1906)": "Et respondit universa multitudo ut ita fieret: placuerat enim sermo omni populo.",
+        "VulgConte (2009)": "Et respondit universa multitudo ut ita fieret: placuerat enim sermo omni populo.",
+        "VulgSistina (1590)": "Et respondit universa multitudo ut ita fieret: placuerat enim sermo omni populo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72175,
+      "verse": 5,
+      "critical_text": "Congregavit ergo David cunctum Israël, a Sihor Ægypti usque dum ingrediaris Emath, ut adduceret arcam Dei de Cariathiarim.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Congregavit ergo David cunctum Israël, a Sihor Ægypti usque dum ingrediaris Emath, ut adduceret arcam Dei de Cariathiarim.",
+        "Clem-Saints": "Congregavit ergo David cunctum Israël, a Sihor Ægypti usque dum ingrediaris Emath, ut adduceret arcam Dei de Cariathiarim.",
+        "VulgHetzenauer (1906)": "Congregavit ergo David cunctum Israel a Sihor Ægypti, usque dum ingrediaris Emath, ut adduceret arcam Dei de Cariathiarim.",
+        "VulgConte (2009)": "Congregavit ergo David cunctum Israel a Sihor Ægypti, usque dum ingrediaris Emath, ut adduceret arcam Dei de Cariathiarim.",
+        "VulgSistina (1590)": "Congregavit ergo David cunctum Israel a Sihor Aegypti, usque dum ingrediaris Emath, ut adduceret arcam Dei de Cariathiarim."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72176,
+      "verse": 6,
+      "critical_text": "Et ascendit David, et omnis vir Israël, ad collem Cariathiarim, qui est in Juda, ut afferret inde arcam Domini Dei sedentis super cherubim, ubi invocatum est nomen ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ascendit David, et omnis vir Israël, ad collem Cariathiarim, qui est in Juda, ut afferret inde arcam Domini Dei sedentis super cherubim, ubi invocatum est nomen ejus.",
+        "Clem-Saints": "Et ascendit David, et omnis vir Israël, ad collem Cariathiarim, qui est in Juda, ut afferret inde arcam Domini Dei sedentis super cherubim, ubi invocatum est nomen ejus.",
+        "VulgHetzenauer (1906)": "Et ascendit David, et omnis vir Israel ad collem Cariathiarim, qui est in Iuda, ut afferret inde arcam Domini Dei sedentis super cherubim, ubi invocatum est nomen eius.",
+        "VulgConte (2009)": "Et ascendit David, et omnis vir Israel ad collem Cariathiarim, qui est in Iuda, ut afferret inde arcam Domini Dei sedentis super cherubim, ubi invocatum est nomen eius.",
+        "VulgSistina (1590)": "Et ascendit David, et omnis vir Israel ad collem Cariathiarim, qui est in Iuda, ut afferret inde arcam Domini Dei sedentis super cherubim, ubi invocatum est nomen eius."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72177,
+      "verse": 7,
+      "critical_text": "Imposueruntque arcam Dei super plaustrum novum, de domo Abinadab: Oza autem, et frater ejus minabant plaustrum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Imposueruntque arcam Dei super plaustrum novum, de domo Abinadab: Oza autem, et frater ejus minabant plaustrum.",
+        "Clem-Saints": "Imposueruntque arcam Dei super plaustrum novum, de domo Abinadab: Oza autem, et frater ejus minabant plaustrum.",
+        "VulgHetzenauer (1906)": "Imposueruntque arcam Dei super plaustrum novum, de domo Abinadab: Oza autem, et frater eius minabant plaustrum.",
+        "VulgConte (2009)": "Imposueruntque arcam Dei super plaustrum novum, de domo Abinadab: Oza autem, et frater eius minabant plaustrum.",
+        "VulgSistina (1590)": "Imposueruntque arcam Dei super plaustrum novum, de domo Abinadab: Oza autem, et frater eius minabant plaustrum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72178,
+      "verse": 8,
+      "critical_text": "Porro David, et universus Israël, ludebant coram Deo omni virtute in canticis, et in citharis, et psalteriis, et tympanis, et cymbalis, et tubis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Porro David, et universus Israël, ludebant coram Deo omni virtute in canticis, et in citharis, et psalteriis, et tympanis, et cymbalis, et tubis.",
+        "Clem-Saints": "Porro David, et universus Israël, ludebant coram Deo omni virtute in canticis, et in citharis, et psalteriis, et tympanis, et cymbalis, et tubis.",
+        "VulgHetzenauer (1906)": "Porro David, et universus Israel ludebant coram Deo omni virtute in canticis, et in citharis, et psalteriis, et tympanis, et cymbalis, et tubis.",
+        "VulgConte (2009)": "Porro David, et universus Israel ludebant coram Deo omni virtute in canticis, et in citharis, et psalteriis, et tympanis, et cymbalis, et tubis.",
+        "VulgSistina (1590)": "Porro David, et universus Israel ludebant coram Deo omni virtute in canticis, et in citharis, et psalteriis, et tympanis, et cymbalis, et tubis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72179,
+      "verse": 9,
+      "critical_text": "Cum autem pervenisset ad aream Chidon, tetendit Oza manum suam, ut sustentaret arcam: bos quippe lasciviens paululum inclinaverat eam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cum autem pervenisset ad aream Chidon, tetendit Oza manum suam, ut sustentaret arcam: bos quippe lasciviens paululum inclinaverat eam.",
+        "Clem-Saints": "Cum autem pervenisset ad aream Chidon, tetendit Oza manum suam, ut sustentaret arcam: bos quippe lasciviens paululum inclinaverat eam.",
+        "VulgHetzenauer (1906)": "Cum autem pervenisset ad Aream Chidon, tetendit Oza manum suam, ut sustentaret arcam: bos quippe lasciviens paululum inclinaverat eam.",
+        "VulgConte (2009)": "Cum autem pervenisset ad Aream Chidon, tetendit Oza manum suam, ut sustentaret arcam: bos quippe lasciviens paululum inclinaverat eam.",
+        "VulgSistina (1590)": "Cum autem pervenisset ad Aream Chidon, tetendit Oza manum suam, ut sustentaret arcam: bos quippe lasciviens paululum inclinaverat eam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72180,
+      "verse": 10,
+      "critical_text": "Iratus est itaque Dominus contra Ozam, et percussit eum, eo quod tetigisset arcam: et mortuus est ibi coram Domino.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Iratus est itaque Dominus contra Ozam, et percussit eum, eo quod tetigisset arcam: et mortuus est ibi coram Domino.",
+        "Clem-Saints": "Iratus est itaque Dominus contra Ozam, et percussit eum, eo quod tetigisset arcam: et mortuus est ibi coram Domino.",
+        "VulgHetzenauer (1906)": "Iratus est itaque Dominus contra Ozam, et percussit eum, eo quod tetigisset arcam: et mortuus est ibi coram Domino.",
+        "VulgConte (2009)": "Iratus est itaque Dominus contra Ozam, et percussit eum, eo quod tetigisset arcam: et mortuus est ibi coram Domino.",
+        "VulgSistina (1590)": "Iratus est itaque Dominus contra Ozam, et percussit eum, eo quod tetigisset arcam: et mortuus est ibi coram Domino."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72181,
+      "verse": 11,
+      "critical_text": "Contristatusque est David, eo quod divisisset Dominus Ozam: vocavitque locum illum Divisio Ozæ, usque in præsentem diem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Contristatusque est David, eo quod divisisset Dominus Ozam: vocavitque locum illum Divisio Ozæ, usque in præsentem diem.",
+        "Clem-Saints": "Contristatusque est David, eo quod divisisset Dominus Ozam: vocavitque locum illum Divisio Ozæ, usque in præsentem diem.",
+        "VulgHetzenauer (1906)": "Contristatusque est David, eo quod divisisset Dominus Ozam: vocavitque locum illum: Divisio Ozæ usque in præsentem diem.",
+        "VulgConte (2009)": "Contristatusque est David, eo quod divisisset Dominus Ozam: vocavitque locum illum: Divisio Ozæ usque in præsentem diem.",
+        "VulgSistina (1590)": "Contristatusque est David, eo quod divisisset Dominus Ozam: vocavitque locum illum: Divisio Ozae usque in praesentem diem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72182,
+      "verse": 12,
+      "critical_text": "Et timuit Deum tunc temporis, dicens: Quomodo possum ad me introducere arcam Dei?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et timuit Deum tunc temporis, dicens: Quomodo possum ad me introducere arcam Dei?",
+        "Clem-Saints": "Et timuit Deum tunc temporis, dicens: Quomodo possum ad me introducere arcam Dei?",
+        "VulgHetzenauer (1906)": "Et timuit Deum tunc temporis, dicens: Quo modo possum ad me introducere arcam Dei?",
+        "VulgConte (2009)": "Et timuit Deum tunc temporis, dicens: Quo modo possum ad me introducere arcam Dei?",
+        "VulgSistina (1590)": "Et timuit Deum tunc temporis, dicens: Quo modo possum ad me introducere arcam Dei?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Quomodo / Quo modo",
+            "Quomodo / Quo modo",
+            "Quomodo / Quo modo"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72183,
+      "verse": 13,
+      "critical_text": "et ob hanc causam non adduxit eam ad se, hoc est, in civitatem David, sed avertit in domum Obededom Gethæi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et ob hanc causam non adduxit eam ad se, hoc est, in civitatem David, sed avertit in domum Obededom Gethæi.",
+        "Clem-Saints": "et ob hanc causam non adduxit eam ad se, hoc est, in civitatem David, sed avertit in domum Obededom Gethæi.",
+        "VulgHetzenauer (1906)": "Et ob hanc causam non adduxit eam ad se, hoc est, in Civitatem David, sed avertit in domum Obededom Gethæi.",
+        "VulgConte (2009)": "Et ob hanc causam non adduxit eam ad se, hoc est, in Civitatem David, sed avertit in domum Obededom Gethæi.",
+        "VulgSistina (1590)": "Et ob hanc causam non adduxit eam ad se, hoc est, in Civitatem David, sed avertit in domum Obededom Gethaei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 72184,
+      "verse": 14,
+      "critical_text": "Mansit ergo arca Dei in domo Obededom tribus mensibus: et benedixit Dominus domui ejus, et omnibus quæ habebat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Mansit ergo arca Dei in domo Obededom tribus mensibus: et benedixit Dominus domui ejus, et omnibus quæ habebat.",
+        "Clem-Saints": "Mansit ergo arca Dei in domo Obededom tribus mensibus: et benedixit Dominus domui ejus, et omnibus quæ habebat.",
+        "VulgHetzenauer (1906)": "Mansit ergo arca Dei in domo Obededom tribus mensibus: et benedixit Dominus domui eius, et omnibus quæ habebat.",
+        "VulgConte (2009)": "Mansit ergo arca Dei in domo Obededom tribus mensibus: et benedixit Dominus domui eius, et omnibus quæ habebat.",
+        "VulgSistina (1590)": "Mansit ergo arca Dei in domo Obededom tribus mensibus: et benedixit Dominus domui eius, et omnibus quae habebat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

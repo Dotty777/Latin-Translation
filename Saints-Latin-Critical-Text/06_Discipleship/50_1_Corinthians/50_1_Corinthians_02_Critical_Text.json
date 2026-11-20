@@ -1,0 +1,620 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "06_Discipleship",
+  "book_slug": "1-corinthians",
+  "book_title": "1 Corinthians",
+  "usfm_code": "1CO",
+  "chapter": 2,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:18:41Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 93231,
+      "verse": 1,
+      "critical_text": "Et ego, cum venissem ad vos, fratres, veni non in sublimitate sermonis, aut sapientiæ, annuntians vobis testimonium Christi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ego, cum venissem ad vos, fratres, veni non in sublimitate sermonis, aut sapientiæ, annuntians vobis testimonium Christi.",
+        "Clem-Saints": "Et ego, cum venissem ad vos, fratres, veni non in sublimitate sermonis, aut sapientiæ, annuntians vobis testimonium Christi.",
+        "VulgHetzenauer (1906)": "Et ego, cum venissem ad vos, fratres, veni non in sublimitate sermonis, aut sapientiæ, annuncians vobis testimonium Christi.",
+        "VulgConte (2009)": "Et ego, cum venissem ad vos, fratres, veni non in sublimitate sermonis, aut sapientiæ, annuncians vobis testimonium Christi.",
+        "VulgSistina (1590)": "Et ego, cum venissem ad vos, fratres, veni non in sublimitate sermonis, aut sapientiae, annuncians vobis testimonium Christi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "annuntians / annuncians",
+            "annuntians / annuncians",
+            "annuntians / annuncians"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93232,
+      "verse": 2,
+      "critical_text": "Non enim judicavi me scire aliquid inter vos, nisi Jesum Christum, et hunc crucifixum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non enim judicavi me scire aliquid inter vos, nisi Jesum Christum, et hunc crucifixum.",
+        "Clem-Saints": "Non enim judicavi me scire aliquid inter vos, nisi Jesum Christum, et hunc crucifixum.",
+        "VulgHetzenauer (1906)": "Non enim iudicavi me scire aliquid inter vos, nisi Iesum Christum, et hunc crucifixum.",
+        "VulgConte (2009)": "Non enim iudicavi me scire aliquid inter vos, nisi Iesum Christum, et hunc crucifixum.",
+        "VulgSistina (1590)": "Non enim iudicavi me scire aliquid inter vos, nisi Iesum Christum, et hunc crucifixum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93233,
+      "verse": 3,
+      "critical_text": "Et ego in infirmitate, et timore, et tremore multo fui apud vos:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et ego in infirmitate, et timore, et tremore multo fui apud vos:",
+        "Clem-Saints": "Et ego in infirmitate, et timore, et tremore multo fui apud vos:",
+        "VulgHetzenauer (1906)": "Et ego in infirmitate, et timore, et tremore multo fui apud vos:",
+        "VulgConte (2009)": "Et ego in infirmitate, et timore, et tremore multo fui apud vos:",
+        "VulgSistina (1590)": "Et ego in infirmitate, et timore, et tremore multo fui apud vos:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93234,
+      "verse": 4,
+      "critical_text": "et sermo meus, et prædicatio mea non in persuasibilibus humanæ sapientiæ verbis, sed in ostensione spiritus et virtutis:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et sermo meus, et prædicatio mea non in persuasibilibus humanæ sapientiæ verbis, sed in ostensione spiritus et virtutis:",
+        "Clem-Saints": "et sermo meus, et prædicatio mea non in persuasibilibus humanæ sapientiæ verbis, sed in ostensione spiritus et virtutis:",
+        "VulgHetzenauer (1906)": "et sermo meus, et prædicatio mea non in persuasibilibus humanæ sapientiæ verbis, sed in ostensione spiritus, et virtutis:",
+        "VulgConte (2009)": "et sermo meus, et prædicatio mea non in persuasibilibus humanæ sapientiæ verbis, sed in ostensione Spiritus, et virtutis:",
+        "VulgSistina (1590)": "et sermo meus, et praedicatio mea non in persuasibilibus humanae sapientiae verbis, sed in ostensione spiritus, et virtutis:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93235,
+      "verse": 5,
+      "critical_text": "ut fides vestra non sit in sapientia hominum, sed in virtute Dei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ut fides vestra non sit in sapientia hominum, sed in virtute Dei.",
+        "Clem-Saints": "ut fides vestra non sit in sapientia hominum, sed in virtute Dei.",
+        "VulgHetzenauer (1906)": "ut fides vestra non sit in sapientia hominum, sed in virtute Dei.",
+        "VulgConte (2009)": "ut fides vestra non sit in sapientia hominum, sed in virtute Dei.",
+        "VulgSistina (1590)": "ut fides vestra non sit in sapientia hominum, sed in virtute Dei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93236,
+      "verse": 6,
+      "critical_text": "Sapientiam autem loquimur inter perfectos: sapientiam vero non hujus sæculi, neque principum hujus sæculi, qui destruuntur:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sapientiam autem loquimur inter perfectos: sapientiam vero non hujus sæculi, neque principum hujus sæculi, qui destruuntur:",
+        "Clem-Saints": "Sapientiam autem loquimur inter perfectos: sapientiam vero non hujus sæculi, neque principum hujus sæculi, qui destruuntur:",
+        "VulgHetzenauer (1906)": "Sapientiam autem loquimur inter perfectos: sapientiam vero non huius sæculi, neque principum huius sæculi, qui destruuntur:",
+        "VulgConte (2009)": "Sapientiam autem loquimur inter perfectos: sapientiam vero non huius sæculi, neque principum huius sæculi, qui destruuntur:",
+        "VulgSistina (1590)": "Sapientiam autem loquimur inter perfectos: sapientiam vero non huius saeculi, neque principum huius saeculi, qui destruuntur:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93237,
+      "verse": 7,
+      "critical_text": "sed loquimur Dei sapientiam in mysterio, quæ abscondita est, quam prædestinavit Deus ante sæcula in gloriam nostram,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "sed loquimur Dei sapientiam in mysterio, quæ abscondita est, quam prædestinavit Deus ante sæcula in gloriam nostram,",
+        "Clem-Saints": "sed loquimur Dei sapientiam in mysterio, quæ abscondita est, quam prædestinavit Deus ante sæcula in gloriam nostram,",
+        "VulgHetzenauer (1906)": "sed loquimur Dei sapientiam in mysterio, quæ abscondita est, quam prædestinavit Deus ante sæcula in gloriam nostram,",
+        "VulgConte (2009)": "sed loquimur Dei sapientiam in mysterio, quæ abscondita est, quam prædestinavit Deus ante sæcula in gloriam nostram,",
+        "VulgSistina (1590)": "sed loquimur Dei sapientiam in mysterio, quae abscondita est, quam praedestinavit Deus ante saecula in gloriam nostram,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93238,
+      "verse": 8,
+      "critical_text": "quam nemo principum hujus sæculi cognovit: si enim cognovissent, numquam Dominum gloriæ crucifixissent.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quam nemo principum hujus sæculi cognovit: si enim cognovissent, numquam Dominum gloriæ crucifixissent.",
+        "Clem-Saints": "quam nemo principum hujus sæculi cognovit: si enim cognovissent, numquam Dominum gloriæ crucifixissent.",
+        "VulgHetzenauer (1906)": "quam nemo principum huius sæculi cognovit: si enim cognovissent, numquam Dominum gloriæ crucifixissent.",
+        "VulgConte (2009)": "quam nemo principum huius sæculi cognovit: si enim cognovissent, numquam Dominum gloriæ crucifixissent.",
+        "VulgSistina (1590)": "quam nemo principum huius saeculi cognovit: si enim cognovissent, numquam Dominum gloriae crucifixissent."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93239,
+      "verse": 9,
+      "critical_text": "Sed sicut scriptum est: Quod oculus non vidit, nec auris audivit, nec in cor hominis ascendit, quæ præparavit Deus iis qui diligunt illum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sed sicut scriptum est: Quod oculus non vidit, nec auris audivit, nec in cor hominis ascendit, quæ præparavit Deus iis qui diligunt illum:",
+        "Clem-Saints": "Sed sicut scriptum est: Quod oculus non vidit, nec auris audivit, nec in cor hominis ascendit, quæ præparavit Deus iis qui diligunt illum:",
+        "VulgHetzenauer (1906)": "Sed sicut scriptum est: Quod oculus non vidit, nec auris audivit, nec in cor hominis ascendit, quæ præparavit Deus iis, qui diligunt illum:",
+        "VulgConte (2009)": "Sed sicut scriptum est: Quod oculus non vidit, nec auris audivit, nec in cor hominis ascendit, quæ præparavit Deus iis, qui diligunt illum:",
+        "VulgSistina (1590)": "Sed sicut scriptum est: Quod oculus non vidit, nec auris audivit, nec in cor hominis ascenderunt, quae praeparavit Deus iis, qui diligunt illum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ascendit,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "ascenderunt,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 15,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ascendit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93240,
+      "verse": 10,
+      "critical_text": "nobis autem revelavit Deus per Spiritum suum: Spiritus enim omnia scrutatur, etiam profunda Dei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "nobis autem revelavit Deus per Spiritum suum: Spiritus enim omnia scrutatur, etiam profunda Dei.",
+        "Clem-Saints": "nobis autem revelavit Deus per Spiritum suum: Spiritus enim omnia scrutatur, etiam profunda Dei.",
+        "VulgHetzenauer (1906)": "nobis autem revelavit Deus per spiritum suum: Spiritus enim omnia scrutatur, etiam profunda Dei.",
+        "VulgConte (2009)": "nobis autem revelavit Deus per Spiritum suum: Spiritus enim omnia scrutatur, etiam profunda Dei.",
+        "VulgSistina (1590)": "nobis autem revelavit Deus per spiritum suum: Spiritus enim omnia scrutatur, etiam profunda Dei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93241,
+      "verse": 11,
+      "critical_text": "Quis enim hominum scit quæ sunt hominis, nisi spiritus hominis, qui in ipso est? ita et quæ Dei sunt, nemo cognovit, nisi Spiritus Dei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quis enim hominum scit quæ sunt hominis, nisi spiritus hominis, qui in ipso est? ita et quæ Dei sunt, nemo cognovit, nisi Spiritus Dei.",
+        "Clem-Saints": "Quis enim hominum scit quæ sunt hominis, nisi spiritus hominis, qui in ipso est? ita et quæ Dei sunt, nemo cognovit, nisi Spiritus Dei.",
+        "VulgHetzenauer (1906)": "Quis enim hominum scit quæ sunt hominis, nisi spiritus hominis, qui in ipso est? ita et quæ Dei sunt, nemo cognovit, nisi Spiritus Dei.",
+        "VulgConte (2009)": "Quis enim hominum scit quæ sunt hominis, nisi spiritus hominis, qui in ipso est? ita et quæ Dei sunt, nemo cognovit, nisi Spiritus Dei.",
+        "VulgSistina (1590)": "Quis enim hominum scit quae sunt hominis, nisi spiritus hominis, qui in ipso est? ita et quae Dei sunt, nemo cognovit, nisi Spiritus Dei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93242,
+      "verse": 12,
+      "critical_text": "Nos autem non spiritum hujus mundi accepimus, sed Spiritum qui ex Deo est, ut sciamus quæ a Deo donata sunt nobis:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nos autem non spiritum hujus mundi accepimus, sed Spiritum qui ex Deo est, ut sciamus quæ a Deo donata sunt nobis:",
+        "Clem-Saints": "Nos autem non spiritum hujus mundi accepimus, sed Spiritum qui ex Deo est, ut sciamus quæ a Deo donata sunt nobis:",
+        "VulgHetzenauer (1906)": "Nos autem non spiritum huius mundi accepimus, sed Spiritum, qui ex Deo est, ut sciamus quæ a Deo donata sunt nobis:",
+        "VulgConte (2009)": "Nos autem non spiritum huius mundi accepimus, sed Spiritum, qui ex Deo est, ut sciamus quæ a Deo donata sunt nobis:",
+        "VulgSistina (1590)": "Nos autem non spiritum huius mundi accepimus, sed Spiritum, qui ex Deo est, ut sciamus quae a Deo donata sunt nobis:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93243,
+      "verse": 13,
+      "critical_text": "quæ et loquimur non in doctis humanæ sapientiæ verbis, sed in doctrina Spiritus, spiritualibus spiritualia comparantes.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quæ et loquimur non in doctis humanæ sapientiæ verbis, sed in doctrina Spiritus, spiritualibus spiritualia comparantes.",
+        "Clem-Saints": "quæ et loquimur non in doctis humanæ sapientiæ verbis, sed in doctrina Spiritus, spiritualibus spiritualia comparantes.",
+        "VulgHetzenauer (1906)": "quæ et loquimur non in doctis humanæ sapientiæ verbis, sed in doctrina Spiritus, spiritualibus spiritualia comparantes.",
+        "VulgConte (2009)": "quæ et loquimur non in doctis humanæ sapientiæ verbis, sed in doctrina Spiritus, spiritualibus spiritualia comparantes.",
+        "VulgSistina (1590)": "quae et loquimur non in doctis humanae sapientiae verbis, sed in doctrina Spiritus, spiritualibus spiritualia comparantes."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93244,
+      "verse": 14,
+      "critical_text": "Animalis autem homo non percipit ea quæ sunt Spiritus Dei: stultitia enim est illi, et non potest intelligere: quia spiritualiter examinatur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Animalis autem homo non percipit ea quæ sunt Spiritus Dei: stultitia enim est illi, et non potest intelligere: quia spiritualiter examinatur.",
+        "Clem-Saints": "Animalis autem homo non percipit ea quæ sunt Spiritus Dei: stultitia enim est illi, et non potest intelligere: quia spiritualiter examinatur.",
+        "VulgHetzenauer (1906)": "Animalis autem homo non percipit ea, quæ sunt Spiritus Dei: stultitia enim est illi, et non potest intelligere: quia spiritualiter examinatur.",
+        "VulgConte (2009)": "Animalis autem homo non percipit ea, quæ sunt Spiritus Dei: stultitia enim est illi, et non potest intelligere: quia spiritualiter examinatur.",
+        "VulgSistina (1590)": "Animalis autem homo non percipit ea, quae sunt Spiritus Dei: stultitia enim est illi, et non potest intelligere: quia spiritualiter examinantur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "examinatur.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "examinantur.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 20,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "examinatur",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93245,
+      "verse": 15,
+      "critical_text": "Spiritualis autem judicat omnia: et ipse a nemine judicatur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Spiritualis autem judicat omnia: et ipse a nemine judicatur.",
+        "Clem-Saints": "Spiritualis autem judicat omnia: et ipse a nemine judicatur.",
+        "VulgHetzenauer (1906)": "Spiritualis autem iudicat omnia: et ipse a nemine iudicatur.",
+        "VulgConte (2009)": "Spiritualis autem iudicat omnia: et ipse a nemine iudicatur.",
+        "VulgSistina (1590)": "Spiritualis autem iudicat omnia: et ipse a nemine iudicatur, sicut scriptum est:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "sicut scriptum est:",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 9,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93246,
+      "verse": 16,
+      "critical_text": "Quis enim cognovit sensum Domini, qui instruat eum? nos autem sensum Christi habemus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quis enim cognovit sensum Domini, qui instruat eum? nos autem sensum Christi habemus.",
+        "Clem-Saints": "Quis enim cognovit sensum Domini, qui instruat eum? nos autem sensum Christi habemus.",
+        "VulgHetzenauer (1906)": "Quis enim cognovit sensum Domini, qui instruat eum? Nos autem sensum Christi habemus.",
+        "VulgConte (2009)": "Quis enim cognovit sensum Domini, qui instruat eum? Nos autem sensum Christi habemus.",
+        "VulgSistina (1590)": "Quis enim cognovit sensum Domini, aut quis instruxit eum? Nos autem sensum Christi habemus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "qui instruat",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "aut quis instruxit",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 5,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "qui instruat",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

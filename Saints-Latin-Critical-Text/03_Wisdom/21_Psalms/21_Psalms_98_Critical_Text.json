@@ -1,0 +1,328 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "psalms",
+  "book_title": "Psalms",
+  "usfm_code": "PSA",
+  "chapter": 98,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:22Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 78454,
+      "verse": 1,
+      "critical_text": "Psalmus ipsi David. Dominus regnavit: irascantur populi; qui sedet super cherubim: moveatur terra.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Psalmus ipsi David. Dominus regnavit: irascantur populi; qui sedet super cherubim: moveatur terra.",
+        "Clem-Saints": "Psalmus ipsi David. Dominus regnavit: irascantur populi; qui sedet super cherubim: moveatur terra.",
+        "VulgHetzenauer (1906)": "Psalmus ipsi David. Dominus regnavit, irascantur populi: qui sedet super cherubim, moveatur terra.",
+        "VulgConte (2009)": "Psalmus ipsi David. Dominus regnavit, irascantur populi: qui sedet super cherubim, moveatur terra.",
+        "VulgSistina (1590)": "Psalmus David. Dominus regnavit, irascantur populi: qui sedet super cherubim, moveatur terra."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "ipsi",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ipsi",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 78455,
+      "verse": 2,
+      "critical_text": "Dominus in Sion magnus, et excelsus super omnes populos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dominus in Sion magnus, et excelsus super omnes populos.",
+        "Clem-Saints": "Dominus in Sion magnus, et excelsus super omnes populos.",
+        "VulgHetzenauer (1906)": "Dominus in Sion magnus: et excelsus super omnes populos.",
+        "VulgConte (2009)": "Dominus in Sion magnus: et excelsus super omnes populos.",
+        "VulgSistina (1590)": "Dominus in Sion magnus: et excelsus super omnes populos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 78456,
+      "verse": 3,
+      "critical_text": "Confiteantur nomini tuo magno, quoniam terribile et sanctum est,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Confiteantur nomini tuo magno, quoniam terribile et sanctum est,",
+        "Clem-Saints": "Confiteantur nomini tuo magno, quoniam terribile et sanctum est,",
+        "VulgHetzenauer (1906)": "Confiteantur nomini tuo magno: quoniam terribile, et sanctum est:",
+        "VulgConte (2009)": "Confiteantur nomini tuo magno: quoniam terribile, et sanctum est:",
+        "VulgSistina (1590)": "Confiteantur nomini tuo magno: quoniam terribile, et sanctum est:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 78457,
+      "verse": 4,
+      "critical_text": "et honor regis judicium diligit. Tu parasti directiones; judicium et justitiam in Jacob tu fecisti.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et honor regis judicium diligit. Tu parasti directiones; judicium et justitiam in Jacob tu fecisti.",
+        "Clem-Saints": "et honor regis judicium diligit. Tu parasti directiones; judicium et justitiam in Jacob tu fecisti.",
+        "VulgHetzenauer (1906)": "et honor regis iudicium diligit. Tu parasti directiones: iudicium et iustitiam in Iacob tu fecisti.",
+        "VulgConte (2009)": "et honor regis iudicium diligit. Tu parasti directiones: iudicium et iustitiam in Iacob tu fecisti.",
+        "VulgSistina (1590)": "et honor regis iudicium diligit. Tu parasti directiones: iudicium et iustitiam in Iacob tu fecisti."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 78458,
+      "verse": 5,
+      "critical_text": "Exaltate Dominum Deum nostrum, et adorate scabellum pedum ejus, quoniam sanctum est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Exaltate Dominum Deum nostrum, et adorate scabellum pedum ejus, quoniam sanctum est.",
+        "Clem-Saints": "Exaltate Dominum Deum nostrum, et adorate scabellum pedum ejus, quoniam sanctum est.",
+        "VulgHetzenauer (1906)": "Exaltate Dominum Deum nostrum, et adorate scabellum pedum eius: quoniam sanctum est.",
+        "VulgConte (2009)": "Exaltate Dominum Deum nostrum, et adorate scabellum pedum eius: quoniam sanctum est.",
+        "VulgSistina (1590)": "Exaltate Dominum Deum nostrum, et adorate scabellum pedum eius: quoniam sanctum est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 78459,
+      "verse": 6,
+      "critical_text": "Moyses et Aaron in sacerdotibus ejus, et Samuel inter eos qui invocant nomen ejus: invocabant Dominum, et ipse exaudiebat eos;",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Moyses et Aaron in sacerdotibus ejus, et Samuel inter eos qui invocant nomen ejus: invocabant Dominum, et ipse exaudiebat eos;",
+        "Clem-Saints": "Moyses et Aaron in sacerdotibus ejus, et Samuel inter eos qui invocant nomen ejus: invocabant Dominum, et ipse exaudiebat eos;",
+        "VulgHetzenauer (1906)": "Moyses et Aaron in sacerdotibus eius: et Samuel inter eos, qui invocant nomen eius: Invocabant Dominum, et ipse exaudiebat eos:",
+        "VulgConte (2009)": "Moyses et Aaron in sacerdotibus eius: et Samuel inter eos, qui invocant nomen eius: Invocabant Dominum, et ipse exaudiebat eos:",
+        "VulgSistina (1590)": "Moyses et Aaron in sacerdotibus eius: et Samuel inter eos, qui invocant nomen eius: Invocabant Dominum, et ipse exaudiebat eos:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 78460,
+      "verse": 7,
+      "critical_text": "in columna nubis loquebatur ad eos. Custodiebant testimonia ejus, et præceptum quod dedit illis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "in columna nubis loquebatur ad eos. Custodiebant testimonia ejus, et præceptum quod dedit illis.",
+        "Clem-Saints": "in columna nubis loquebatur ad eos. Custodiebant testimonia ejus, et præceptum quod dedit illis.",
+        "VulgHetzenauer (1906)": "in columna nubis loquebatur ad eos. Custodiebant testimonia eius, et præceptum quod dedit illis.",
+        "VulgConte (2009)": "in columna nubis loquebatur ad eos. Custodiebant testimonia eius, et præceptum quod dedit illis.",
+        "VulgSistina (1590)": "in columna nubis loquebatur ad eos. Custodiebant testimonia eius, et praeceptum quod dedit illis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 78461,
+      "verse": 8,
+      "critical_text": "Domine Deus noster, tu exaudiebas eos; Deus, tu propitius fuisti eis, et ulciscens in omnes adinventiones eorum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Domine Deus noster, tu exaudiebas eos; Deus, tu propitius fuisti eis, et ulciscens in omnes adinventiones eorum.",
+        "Clem-Saints": "Domine Deus noster, tu exaudiebas eos; Deus, tu propitius fuisti eis, et ulciscens in omnes adinventiones eorum.",
+        "VulgHetzenauer (1906)": "Domine Deus noster tu exaudiebas eos: Deus tu propitius fuisti eis, et ulciscens in omnes adinventiones eorum.",
+        "VulgConte (2009)": "Domine Deus noster tu exaudiebas eos: Deus tu propitius fuisti eis, et ulciscens in omnes adinventiones eorum.",
+        "VulgSistina (1590)": "Domine Deus noster tu exaudiebas eos: Deus tu propitius fuisti eis, et ulciscens in omnes adinventiones eorum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 78462,
+      "verse": 9,
+      "critical_text": "Exaltate Dominum Deum nostrum, et adorate in monte sancto ejus, quoniam sanctus Dominus Deus noster.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Exaltate Dominum Deum nostrum, et adorate in monte sancto ejus, quoniam sanctus Dominus Deus noster.",
+        "Clem-Saints": "Exaltate Dominum Deum nostrum, et adorate in monte sancto ejus, quoniam sanctus Dominus Deus noster.",
+        "VulgHetzenauer (1906)": "Exaltate Dominum Deum nostrum, et adorate in monte sancto eius: quoniam sanctus Dominus Deus noster.",
+        "VulgConte (2009)": "Exaltate Dominum Deum nostrum, et adorate in monte sancto eius: quoniam sanctus Dominus Deus noster.",
+        "VulgSistina (1590)": "Exaltate Dominum Deum nostrum, et adorate in monte sancto eius: quoniam sanctus Dominus Deus noster."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

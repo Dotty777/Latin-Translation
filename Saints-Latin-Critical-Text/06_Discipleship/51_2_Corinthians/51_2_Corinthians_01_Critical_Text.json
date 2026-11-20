@@ -1,0 +1,910 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "06_Discipleship",
+  "book_slug": "2-corinthians",
+  "book_title": "2 Corinthians",
+  "usfm_code": "2CO",
+  "chapter": 1,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:18:42Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "VulgHetzenauer (1906): 1:24 folded into verse 23 (the reference prints these words there)",
+    "VulgConte (2009): 1:24 folded into verse 23 (the reference prints these words there)",
+    "VulgSistina (1590): 1:24 folded into verse 23 (the reference prints these words there)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 93637,
+      "verse": 1,
+      "critical_text": "Paulus, Apostolus Jesu Christi per voluntatem Dei, et Timotheus frater, ecclesiæ Dei, quæ est Corinthi cum omnibus sanctis, qui sunt in universa Achaia.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Paulus, Apostolus Jesu Christi per voluntatem Dei, et Timotheus frater, ecclesiæ Dei, quæ est Corinthi cum omnibus sanctis, qui sunt in universa Achaia.",
+        "Clem-Saints": "Paulus , Apostolus Jesu Christi per voluntatem Dei, et Timotheus frater, ecclesiæ Dei, quæ est Corinthi cum omnibus sanctis, qui sunt in universa Achaia.",
+        "VulgHetzenauer (1906)": "Paulus Apostolus Iesu Christi per voluntatem Dei, et Timotheus frater, Ecclesiæ Dei, quæ est Corinthi cum omnibus sanctis, qui sunt in universa Achaia.",
+        "VulgConte (2009)": "Paulus Apostolus Iesu Christi per voluntatem Dei, et Timotheus frater, Ecclesiæ Dei, quæ est Corinthi cum omnibus sanctis, qui sunt in universa Achaia.",
+        "VulgSistina (1590)": "Paulus Apostolus Iesu Christi per voluntatem Dei, et Timotheus frater, Ecclesiae Dei, quae est Corinthi cum omnibus sanctis, qui sunt in universa Achaia."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Paulus,",
+          "disregarded_forms": [
+            "Paulus"
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93638,
+      "verse": 2,
+      "critical_text": "Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.",
+        "Clem-Saints": "Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.",
+        "VulgHetzenauer (1906)": "Gratia vobis, et pax a Deo Patre nostro, et Domino Iesu Christo.",
+        "VulgConte (2009)": "Gratia vobis, et pax a Deo Patre nostro, et Domino Iesu Christo.",
+        "VulgSistina (1590)": "Gratia vobis, et pax a Deo Patre nostro, et Domino Iesu Christo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93639,
+      "verse": 3,
+      "critical_text": "Benedictus Deus et Pater Domini nostri Jesu Christi, Pater misericordiarum, et Deus totius consolationis,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Benedictus Deus et Pater Domini nostri Jesu Christi, Pater misericordiarum, et Deus totius consolationis,",
+        "Clem-Saints": "Benedictus Deus et Pater Domini nostri Jesu Christi, Pater misericordiarum, et Deus totius consolationis,",
+        "VulgHetzenauer (1906)": "Benedictus Deus et Pater Domini nostri Iesu Christi, Pater misericordiarum, et Deus totius consolationis,",
+        "VulgConte (2009)": "Benedictus Deus et Pater Domini nostri Iesu Christi, Pater misericordiarum, et Deus totius consolationis,",
+        "VulgSistina (1590)": "Benedictus Deus et Pater Domini nostri Iesu Christi, Pater misericordiarum, et Deus totius consolationis,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93640,
+      "verse": 4,
+      "critical_text": "qui consolatur nos in omni tribulatione nostra: ut possimus et ipsi consolari eos qui in omni pressura sunt, per exhortationem, qua exhortamur et ipsi a Deo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "qui consolatur nos in omni tribulatione nostra: ut possimus et ipsi consolari eos qui in omni pressura sunt, per exhortationem, qua exhortamur et ipsi a Deo.",
+        "Clem-Saints": "qui consolatur nos in omni tribulatione nostra: ut possimus et ipsi consolari eos qui in omni pressura sunt, per exhortationem, qua exhortamur et ipsi a Deo.",
+        "VulgHetzenauer (1906)": "qui consolatur nos in omni tribulatione nostra: ut possimus et ipsi consolari eos, qui in omni pressura sunt, per exhortationem, qua exhortamur et ipsi a Deo.",
+        "VulgConte (2009)": "qui consolatur nos in omni tribulatione nostra: ut possimus et ipsi consolari eos, qui in omni pressura sunt, per exhortationem, qua exhortamur et ipsi a Deo.",
+        "VulgSistina (1590)": "qui consolatur nos in omni tribulatione nostra: ut possimus et ipsi consolari eos, qui in omni pressura sunt, per exhortationem, qua exhortamur et ipsi a Deo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93641,
+      "verse": 5,
+      "critical_text": "Quoniam sicut abundant passiones Christi in nobis: ita et per Christum abundat consolatio nostra.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quoniam sicut abundant passiones Christi in nobis: ita et per Christum abundat consolatio nostra.",
+        "Clem-Saints": "Quoniam sicut abundant passiones Christi in nobis: ita et per Christum abundat consolatio nostra.",
+        "VulgHetzenauer (1906)": "Quoniam sicut abundant passiones Christi in nobis: ita et per Christum abundat consolatio nostra.",
+        "VulgConte (2009)": "Quoniam sicut abundant passiones Christi in nobis: ita et per Christum abundat consolatio nostra.",
+        "VulgSistina (1590)": "Quoniam sicut abundant passiones Christi in nobis: ita et per Christum abundat consolatio nostra."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93642,
+      "verse": 6,
+      "critical_text": "Sive autem tribulamur pro vestra exhortatione et salute, sive consolamur pro vestra consolatione, sive exhortamur pro vestra exhortatione et salute, quæ operatur tolerantiam earumdem passionum, quas et nos patimur:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sive autem tribulamur pro vestra exhortatione et salute, sive consolamur pro vestra consolatione, sive exhortamur pro vestra exhortatione et salute, quæ operatur tolerantiam earumdem passionum, quas et nos patimur:",
+        "Clem-Saints": "Sive autem tribulamur pro vestra exhortatione et salute, sive consolamur pro vestra consolatione, sive exhortamur pro vestra exhortatione et salute, quæ operatur tolerantiam earumdem passionum, quas et nos patimur:",
+        "VulgHetzenauer (1906)": "Sive autem tribulamur pro vestra exhortatione et salute, sive consolamur pro vestra consolatione, sive exhortamur pro vestra exhortatione et salute, quæ operatur tolerantiam earundem passionum, quas et nos patimur:",
+        "VulgConte (2009)": "Sive autem tribulamur pro vestra exhortatione et salute, sive consolamur pro vestra consolatione, sive exhortamur pro vestra exhortatione et salute, quæ operatur tolerantiam earundem passionum, quas et nos patimur:",
+        "VulgSistina (1590)": "Sive autem tribulamur pro vestra salute, sive consolamur pro vestra consolatione, sive exhortamur pro vestra exhortatione, quae operatur tolerantiam earundem passionum, quas et nos patimur:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "exhortatione et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 5,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "exhortatione et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "et salute,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 18,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et salute",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "earumdem / earundem",
+            "earumdem / earundem",
+            "earumdem / earundem"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93643,
+      "verse": 7,
+      "critical_text": "ut spes nostra firma sit pro vobis: scientes quod sicut socii passionum estis, sic eritis et consolationis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ut spes nostra firma sit pro vobis: scientes quod sicut socii passionum estis, sic eritis et consolationis.",
+        "Clem-Saints": "ut spes nostra firma sit pro vobis: scientes quod sicut socii passionum estis, sic eritis et consolationis.",
+        "VulgHetzenauer (1906)": "ut spes nostra firma sit pro vobis: scientes quod sicut socii passionum estis, sic eritis et consolationis.",
+        "VulgConte (2009)": "ut spes nostra firma sit pro vobis: scientes quod sicut socii passionum estis, sic eritis et consolationis.",
+        "VulgSistina (1590)": "ut spes nostra firma sit pro vobis: scientes quod sicut socii passionum estis, sic eritis et consolationis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93644,
+      "verse": 8,
+      "critical_text": "Non enim volumus ignorare vos, fratres, de tribulatione nostra, quæ facta est in Asia, quoniam supra modum gravati sumus supra virtutem, ita ut tæderet nos etiam vivere.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non enim volumus ignorare vos, fratres, de tribulatione nostra, quæ facta est in Asia, quoniam supra modum gravati sumus supra virtutem, ita ut tæderet nos etiam vivere.",
+        "Clem-Saints": "Non enim volumus ignorare vos, fratres, de tribulatione nostra, quæ facta est in Asia, quoniam supra modum gravati sumus supra virtutem, ita ut tæderet nos etiam vivere.",
+        "VulgHetzenauer (1906)": "Non enim volumus ignorare vos fratres de tribulatione nostra, quæ facta est in Asia, quoniam supra modum gravati sumus supra virtutem, ita ut tæderet nos etiam vivere.",
+        "VulgConte (2009)": "Non enim volumus ignorare vos fratres de tribulatione nostra, quæ facta est in Asia, quoniam supra modum gravati sumus supra virtutem, ita ut tæderet nos etiam vivere.",
+        "VulgSistina (1590)": "Non enim volumus ignorare vos fratres de tribulatione nostra, quae facta est in Asia, quoniam supra modum gravati sumus supra virtutem, ita ut taederet nos etiam vivere."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93645,
+      "verse": 9,
+      "critical_text": "Sed ipsi in nobismetipsis responsum mortis habuimus, ut non simus fidentes in nobis, sed in Deo, qui suscitat mortuos:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sed ipsi in nobismetipsis responsum mortis habuimus, ut non simus fidentes in nobis, sed in Deo, qui suscitat mortuos:",
+        "Clem-Saints": "Sed ipsi in nobismetipsis responsum mortis habuimus, ut non simus fidentes in nobis, sed in Deo, qui suscitat mortuos:",
+        "VulgHetzenauer (1906)": "Sed ipsi in nobismetipsis responsum mortis habuimus, ut non simus fidentes in nobis, sed in Deo, qui suscitat mortuos:",
+        "VulgConte (2009)": "Sed ipsi in nobismetipsis responsum mortis habuimus, ut non simus fidentes in nobis, sed in Deo, qui suscitat mortuos:",
+        "VulgSistina (1590)": "Sed ipsi in nobismetipsis responsum mortis habuimus, ut non simus fidentes in nobis, sed in Deo, qui suscitat mortuos:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93646,
+      "verse": 10,
+      "critical_text": "qui de tantis periculis nos eripuit, et eruit: in quem speramus quoniam et adhuc eripiet,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "qui de tantis periculis nos eripuit, et eruit: in quem speramus quoniam et adhuc eripiet,",
+        "Clem-Saints": "qui de tantis periculis nos eripuit, et eruit: in quem speramus quoniam et adhuc eripiet,",
+        "VulgHetzenauer (1906)": "qui de tantis periculis nos eripuit, et eruit: in quem speramus quoniam et adhuc eripiet,",
+        "VulgConte (2009)": "qui de tantis periculis nos eripuit, et eruit: in quem speramus quoniam et adhuc eripiet,",
+        "VulgSistina (1590)": "qui de tantis periculis nos eripuit, et eruit: in quem speramus quoniam et adhuc eripiet,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93647,
+      "verse": 11,
+      "critical_text": "adjuvantibus et vobis in oratione pro nobis: ut ex multorum personis, ejus quæ in nobis est donationis, per multos gratiæ agantur pro nobis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "adjuvantibus et vobis in oratione pro nobis: ut ex multorum personis, ejus quæ in nobis est donationis, per multos gratiæ agantur pro nobis.",
+        "Clem-Saints": "adjuvantibus et vobis in oratione pro nobis: ut ex multorum personis, ejus quæ in nobis est donationis, per multos gratiæ agantur pro nobis.",
+        "VulgHetzenauer (1906)": "adiuvantibus et vobis in oratione pro nobis: ut ex multorum personis, eius quæ in nobis est donationis, per multos gratiæ agantur pro nobis.",
+        "VulgConte (2009)": "adiuvantibus et vobis in oratione pro nobis: ut ex multorum personis, eius quæ in nobis est donationis, per multos gratiæ agantur pro nobis.",
+        "VulgSistina (1590)": "adiuvantibus et vobis in oratione pro nobis: ut ex multarum personis facierum eius quae in nobis est donationis, per multos gratiae agantur pro nobis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "multorum",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "multarum",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 9,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "multorum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "facierum",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 11,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93648,
+      "verse": 12,
+      "critical_text": "Nam gloria nostra hæc est: testimonium conscientiæ nostræ, quod in simplicitate cordis et sinceritate Dei, et non in sapientia carnali, sed in gratia Dei, conversati sumus in hoc mundo: abundantius autem ad vos.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nam gloria nostra hæc est: testimonium conscientiæ nostræ, quod in simplicitate cordis et sinceritate Dei, et non in sapientia carnali, sed in gratia Dei, conversati sumus in hoc mundo: abundantius autem ad vos.",
+        "Clem-Saints": "Nam gloria nostra hæc est: testimonium conscientiæ nostræ, quod in simplicitate cordis et sinceritate Dei, et non in sapientia carnali, sed in gratia Dei, conversati sumus in hoc mundo: abundantius autem ad vos.",
+        "VulgHetzenauer (1906)": "Nam gloria nostra hæc est, testimonium conscientiæ nostræ, quod in simplicitate cordis et sinceritate Dei: et non in sapientia carnali, sed in gratia Dei conversati sumus in hoc mundo: abundantius autem ad vos.",
+        "VulgConte (2009)": "Nam gloria nostra hæc est, testimonium conscientiæ nostræ, quod in simplicitate cordis et sinceritate Dei: et non in sapientia carnali, sed in gratia Dei conversati sumus in hoc mundo: abundantius autem ad vos.",
+        "VulgSistina (1590)": "Nam gloria nostra haec est, testimonium conscientiae nostrae, quod in simplicitate cordis et sinceritate Dei: et non in sapientia carnali, sed in gratia Dei conversati sumus in hoc mundo: abundantius autem ad vos."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93649,
+      "verse": 13,
+      "critical_text": "Non enim alia scribimus vobis, quam quæ legistis, et cognovistis. Spero autem quod usque in finem cognoscetis,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non enim alia scribimus vobis, quam quæ legistis, et cognovistis. Spero autem quod usque in finem cognoscetis,",
+        "Clem-Saints": "Non enim alia scribimus vobis, quam quæ legistis, et cognovistis. Spero autem quod usque in finem cognoscetis,",
+        "VulgHetzenauer (1906)": "Non enim alia scribimus vobis, quam quæ legistis, et cognovistis. Spero autem quod usque in finem cognoscetis,",
+        "VulgConte (2009)": "Non enim alia scribimus vobis, quam quæ legistis, et cognovistis. Spero autem quod usque in finem cognoscetis,",
+        "VulgSistina (1590)": "Non enim alia scribimus vobis, quam quae legistis, et cognovistis. Spero autem quod usque in finem cognoscetis,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93650,
+      "verse": 14,
+      "critical_text": "sicut et cognovistis nos ex parte, quod gloria vestra sumus, sicut et vos nostra, in die Domini nostri Jesu Christi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "sicut et cognovistis nos ex parte, quod gloria vestra sumus, sicut et vos nostra, in die Domini nostri Jesu Christi.",
+        "Clem-Saints": "sicut et cognovistis nos ex parte, quod gloria vestra sumus, sicut et vos nostra, in die Domini nostri Jesu Christi.",
+        "VulgHetzenauer (1906)": "sicut et cognovistis nos ex parte, quod gloria vestra sumus, sicut et vos nostra, in die Domini nostri Iesu Christi.",
+        "VulgConte (2009)": "sicut et cognovistis nos ex parte, quod gloria vestra sumus, sicut et vos nostra, in die Domini nostri Iesu Christi.",
+        "VulgSistina (1590)": "sicut et cognovistis nos ex parte, quod gloria vestra sumus, sicut et vos nostra, in die Domini nostri Iesu Christi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93651,
+      "verse": 15,
+      "critical_text": "Et hac confidentia volui prius venire ad vos, ut secundam gratiam haberetis:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et hac confidentia volui prius venire ad vos, ut secundam gratiam haberetis:",
+        "Clem-Saints": "Et hac confidentia volui prius venire ad vos, ut secundam gratiam haberetis:",
+        "VulgHetzenauer (1906)": "Et hac confidentia volui prius venire ad vos, ut secundum gratiam haberetis:",
+        "VulgConte (2009)": "Et hac confidentia volui prius venire ad vos, ut secundum gratiam haberetis:",
+        "VulgSistina (1590)": "Et hac confidentia volui prius venire ad vos, ut secundum gratiam haberetis:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "secundam",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX"
+          ],
+          "variants": [
+            {
+              "reading": "secundum",
+              "witnesses": [
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)",
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 9,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "secundam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93652,
+      "verse": 16,
+      "critical_text": "et per vos transire in Macedoniam, et iterum a Macedonia venire ad vos, et a vobis deduci in Judæam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et per vos transire in Macedoniam, et iterum a Macedonia venire ad vos, et a vobis deduci in Judæam.",
+        "Clem-Saints": "et per vos transire in Macedoniam, et iterum a Macedonia venire ad vos, et a vobis deduci in Judæam.",
+        "VulgHetzenauer (1906)": "et per vos transire in Macedoniam, et iterum a Macedonia venire ad vos, et a vobis deduci in Iudæam.",
+        "VulgConte (2009)": "et per vos transire in Macedoniam, et iterum a Macedonia venire ad vos, et a vobis deduci in Iudæam.",
+        "VulgSistina (1590)": "et per vos transire in Macedoniam, et iterum a Macedonia venire ad vos, et a vobis deduci in Iudaeam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93653,
+      "verse": 17,
+      "critical_text": "Cum ergo hoc voluissem, numquid levitate usus sum? aut quæ cogito, secundum carnem cogito, ut sit apud me Est et Non?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cum ergo hoc voluissem, numquid levitate usus sum? aut quæ cogito, secundum carnem cogito, ut sit apud me Est et Non?",
+        "Clem-Saints": "Cum ergo hoc voluissem, numquid levitate usus sum? aut quæ cogito, secundum carnem cogito, ut sit apud me Est et Non?",
+        "VulgHetzenauer (1906)": "Cum ergo hoc voluissem, numquid levitate usus sum? Aut quæ cogito, secundum carnem cogito, ut sit apud me EST, et NON?",
+        "VulgConte (2009)": "Cum ergo hoc voluissem, numquid levitate usus sum? Aut quæ cogito, secundum carnem cogito, ut sit apud me EST, et NON?",
+        "VulgSistina (1590)": "Cum ergo hoc voluissem, numquid levitate usus sum? Aut quae cogito, secundum carnem cogito, ut sit apud me EST, et NON?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93654,
+      "verse": 18,
+      "critical_text": "Fidelis autem Deus, quia sermo noster, qui fuit apud vos, non est in illo Est et Non.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Fidelis autem Deus, quia sermo noster, qui fuit apud vos, non est in illo Est et Non.",
+        "Clem-Saints": "Fidelis autem Deus, quia sermo noster, qui fuit apud vos, non est in illo Est et Non.",
+        "VulgHetzenauer (1906)": "Fidelis autem Deus, quia sermo noster, qui fuit apud vos, non est in illo EST, et NON.",
+        "VulgConte (2009)": "Fidelis autem Deus, quia sermo noster, qui fuit apud vos, non est in illo EST, et NON.",
+        "VulgSistina (1590)": "Fidelis autem Deus, quia sermo noster, qui fuit apud vos, non est in illo EST, et NON sed est in illo EST."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "sed est in illo EST.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 17,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93655,
+      "verse": 19,
+      "critical_text": "Dei enim Filius Jesus Christus, qui in vobis per nos prædicatus est, per me, et Silvanum, et Timotheum, non fuit Est et Non, sed Est in illo fuit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dei enim Filius Jesus Christus, qui in vobis per nos prædicatus est, per me, et Silvanum, et Timotheum, non fuit Est et Non, sed Est in illo fuit.",
+        "Clem-Saints": "Dei enim Filius Jesus Christus, qui in vobis per nos prædicatus est, per me, et Silvanum, et Timotheum, non fuit Est et Non, sed Est in illo fuit.",
+        "VulgHetzenauer (1906)": "Dei enim filius Iesus Christus, qui in vobis per nos prædicatus est, per me, et Silvanum, et Timotheum, non fuit EST et NON, sed EST in illo fuit.",
+        "VulgConte (2009)": "Dei enim Filius Iesus Christus, qui in vobis per nos prædicatus est, per me, et Silvanum, et Timotheum, non fuit EST et NON, sed EST in illo fuit.",
+        "VulgSistina (1590)": "Dei enim filius Iesus Christus, qui in vobis per nos praedicatus est, per me, et Silvanum, et Timotheum, non fuit in illo EST et NON, sed EST in illo fuit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "in illo",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 20,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93656,
+      "verse": 20,
+      "critical_text": "Quotquot enim promissiones Dei sunt, in illo Est: ideo et per ipsum Amen Deo ad gloriam nostram.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quotquot enim promissiones Dei sunt, in illo Est: ideo et per ipsum Amen Deo ad gloriam nostram.",
+        "Clem-Saints": "Quotquot enim promissiones Dei sunt, in illo Est: ideo et per ipsum Amen Deo ad gloriam nostram.",
+        "VulgHetzenauer (1906)": "Quotquot enim promissiones Dei sunt, in illo EST: ideo et per ipsum Amen Deo ad gloriam nostram.",
+        "VulgConte (2009)": "Quotquot enim promissiones Dei sunt, in illo EST: ideo et per ipsum Amen Deo ad gloriam nostram.",
+        "VulgSistina (1590)": "Quotquot enim promissiones Dei sunt, in illo EST: ideo et per ipsum Amen Deo ad gloriam nostram."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93657,
+      "verse": 21,
+      "critical_text": "Qui autem confirmat nos vobiscum in Christo, et qui unxit nos Deus:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui autem confirmat nos vobiscum in Christo, et qui unxit nos Deus:",
+        "Clem-Saints": "Qui autem confirmat nos vobiscum in Christo, et qui unxit nos Deus:",
+        "VulgHetzenauer (1906)": "Qui autem confirmat nos vobiscum in Christo, et qui unxit nos Deus:",
+        "VulgConte (2009)": "Qui autem confirmat nos vobiscum in Christo, et qui unxit nos Deus:",
+        "VulgSistina (1590)": "Qui autem confirmat nos vobiscum in Christo, et qui unxit nos Deus:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93658,
+      "verse": 22,
+      "critical_text": "qui et signavit nos, et dedit pignus Spiritus in cordibus nostris.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "qui et signavit nos, et dedit pignus Spiritus in cordibus nostris.",
+        "Clem-Saints": "qui et signavit nos, et dedit pignus Spiritus in cordibus nostris.",
+        "VulgHetzenauer (1906)": "qui et signavit nos, et dedit pignus Spiritus in cordibus nostris.",
+        "VulgConte (2009)": "qui et signavit nos, et dedit pignus Spiritus in cordibus nostris.",
+        "VulgSistina (1590)": "qui et signavit nos, et dedit pignus Spiritus in cordibus nostris."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 93659,
+      "verse": 23,
+      "critical_text": "Ego autem testem Deum invoco in animam meam, quod parcens vobis, non veni ultra Corinthum: non quia dominamur fidei vestæ, sed adjutores sumus gaudii vestri: nam fide statis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ego autem testem Deum invoco in animam meam, quod parcens vobis, non veni ultra Corinthum: non quia dominamur fidei vestæ, sed adjutores sumus gaudii vestri: nam fide statis.",
+        "Clem-Saints": "Ego autem testem Deum invoco in animam meam, quod parcens vobis, non veni ultra Corinthum: non quia dominamur fidei vestæ, sed adjutores sumus gaudii vestri: nam fide statis.",
+        "VulgHetzenauer (1906)": "Ego autem testem Deum invoco in animam meam, quod parcens vobis, non veni ultra Corinthum: non quia dominamur fidei vestæ, sed adiutores sumus gaudii vestri: nam fide statis.",
+        "VulgConte (2009)": "Ego autem testem Deum invoco in animam meam, quod parcens vobis, non veni ultra Corinthum: non quia dominamur fidei vestæ, sed adiutores sumus gaudii vestri: nam fide statis.",
+        "VulgSistina (1590)": "Ego autem testem Deum invoco in animam meam, quod parcens vobis, non veni ultra Corinthum: non quia dominamur fidei vestae, sed adiutores sumus gaudii vestri: nam fide statis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

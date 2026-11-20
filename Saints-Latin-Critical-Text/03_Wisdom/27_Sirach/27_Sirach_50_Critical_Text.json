@@ -1,0 +1,1007 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "03_Wisdom",
+  "book_slug": "sirach",
+  "book_title": "Sirach",
+  "usfm_code": "SIR",
+  "chapter": 50,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:41Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "Clem1598-USFX: 50:10 not collated (no verse of the reference matches its wording)",
+    "Clem1598-USFX: 50:17 not collated (no verse of the reference matches its wording)",
+    "Clem1598-USFX: 20 verse(s) re-aligned by content (10←50:11, 11←50:12, 12←50:13, 13←50:14, 14←50:15, 15←50:16…)",
+    "VulgHetzenauer (1906): 50:10 not collated (no verse of the reference matches its wording)",
+    "VulgHetzenauer (1906): 50:17 not collated (no verse of the reference matches its wording)",
+    "VulgHetzenauer (1906): 20 verse(s) re-aligned by content (10←50:11, 11←50:12, 12←50:13, 13←50:14, 14←50:15, 15←50:16…)",
+    "VulgConte (2009): 50:10 not collated (no verse of the reference matches its wording)",
+    "VulgConte (2009): 50:17 not collated (no verse of the reference matches its wording)",
+    "VulgConte (2009): 20 verse(s) re-aligned by content (10←50:11, 11←50:12, 12←50:13, 13←50:14, 14←50:15, 15←50:16…)",
+    "VulgSistina (1590): 50:10 not collated (no verse of the reference matches its wording)",
+    "VulgSistina (1590): 50:17 not collated (no verse of the reference matches its wording)",
+    "VulgSistina (1590): 20 verse(s) re-aligned by content (10←50:11, 11←50:12, 12←50:13, 13←50:14, 14←50:15, 15←50:16…)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 82532,
+      "verse": 1,
+      "critical_text": "Simon, Oniæ filius, sacerdos magnus, qui in vita sua suffulsit domum, et in diebus suis corroboravit templum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Simon, Oniæ filius, sacerdos magnus, qui in vita sua suffulsit domum, et in diebus suis corroboravit templum.",
+        "Clem-Saints": "Simon , Oniæ filius, sacerdos magnus, qui in vita sua suffulsit domum, et in diebus suis corroboravit templum.",
+        "VulgHetzenauer (1906)": "Simon Oniæ filius, sacerdos magnus, qui in vita sua suffulsit domum, et in diebus suis corroboravit templum.",
+        "VulgConte (2009)": "Simon Oniæ filius, sacerdos magnus, qui in vita sua suffulsit domum, et in diebus suis corroboravit templum.",
+        "VulgSistina (1590)": "Simon Oniae filius, sacerdos magnus, qui in vita sua suffulsit domum, et in diebus suis corroboravit templum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": 0,
+          "kept_form": "Simon,",
+          "disregarded_forms": [
+            "Simon"
+          ],
+          "witnesses": [
+            "Clem-Saints"
+          ],
+          "reason": "Punctuation / spacing difference only"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Punctuation / spacing difference only).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82533,
+      "verse": 2,
+      "critical_text": "Templi etiam altitudo ab ipso fundata est, duplex ædificatio, et excelsi parietes templi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Templi etiam altitudo ab ipso fundata est, duplex ædificatio, et excelsi parietes templi.",
+        "Clem-Saints": "Templi etiam altitudo ab ipso fundata est, duplex ædificatio, et excelsi parietes templi.",
+        "VulgHetzenauer (1906)": "Templi etiam altitudo ab ipso fundata est, duplex ædificatio et excelsi parietes templi.",
+        "VulgConte (2009)": "Templi etiam altitudo ab ipso fundata est, duplex ædificatio et excelsi parietes templi.",
+        "VulgSistina (1590)": "Templi etiam altitudo ab ipso fundata est, duplex aedificatio et excelsi parietes templi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82534,
+      "verse": 3,
+      "critical_text": "In diebus ipsius emanaverunt putei aquarum, et quasi mare adimpleti sunt supra modum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In diebus ipsius emanaverunt putei aquarum, et quasi mare adimpleti sunt supra modum.",
+        "Clem-Saints": "In diebus ipsius emanaverunt putei aquarum, et quasi mare adimpleti sunt supra modum.",
+        "VulgHetzenauer (1906)": "In diebus ipsius emanaverunt putei aquarum, et quasi mare adimpleti sunt supra modum.",
+        "VulgConte (2009)": "In diebus ipsius emanaverunt putei aquarum, et quasi mare adimpleti sunt supra modum.",
+        "VulgSistina (1590)": "In diebus ipsius emanaverunt putei aquarum, et quasi mare adimpleti sunt supra modum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82535,
+      "verse": 4,
+      "critical_text": "Qui curavit gentem suam, et liberavit eam a perditione:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui curavit gentem suam, et liberavit eam a perditione:",
+        "Clem-Saints": "Qui curavit gentem suam, et liberavit eam a perditione:",
+        "VulgHetzenauer (1906)": "Qui curavit gentem suam, et liberavit eam a perditione.",
+        "VulgConte (2009)": "Qui curavit gentem suam, et liberavit eam a perditione.",
+        "VulgSistina (1590)": "Qui curavit gentem suam, et liberavit eam a perditione."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82536,
+      "verse": 5,
+      "critical_text": "qui prævaluit amplificare civitatem, qui adeptus est gloriam in conversatione gentis, et ingressum domus et atrii amplificavit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "qui prævaluit amplificare civitatem, qui adeptus est gloriam in conversatione gentis, et ingressum domus et atrii amplificavit.",
+        "Clem-Saints": "qui prævaluit amplificare civitatem, qui adeptus est gloriam in conversatione gentis, et ingressum domus et atrii amplificavit.",
+        "VulgHetzenauer (1906)": "Qui prævaluit amplificare civitatem, qui adeptus est gloriam in conversatione gentis: et ingressum domus, et atrii amplificavit.",
+        "VulgConte (2009)": "Qui prævaluit amplificare civitatem, qui adeptus est gloriam in conversatione gentis: et ingressum domus, et atrii amplificavit.",
+        "VulgSistina (1590)": "Qui praevaluit amplificare civitatem, qui adeptus est gloriam in conversatione gentis: et ingressum domus, et atrii amplificavit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82537,
+      "verse": 6,
+      "critical_text": "Quasi stella matutina in medio nebulæ, et quasi luna plena, in diebus suis lucet:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quasi stella matutina in medio nebulæ, et quasi luna plena, in diebus suis lucet:",
+        "Clem-Saints": "Quasi stella matutina in medio nebulæ, et quasi luna plena, in diebus suis lucet:",
+        "VulgHetzenauer (1906)": "Quasi stella matutina in medio nebulæ, et quasi luna plena in diebus suis lucet.",
+        "VulgConte (2009)": "Quasi stella matutina in medio nebulæ, et quasi luna plena in diebus suis lucet.",
+        "VulgSistina (1590)": "Quasi stella matutina in medio nebulae, et quasi luna plena in diebus suis lucet."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82538,
+      "verse": 7,
+      "critical_text": "et quasi sol refulgens, sic ille effulsit in templo Dei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et quasi sol refulgens, sic ille effulsit in templo Dei.",
+        "Clem-Saints": "et quasi sol refulgens, sic ille effulsit in templo Dei.",
+        "VulgHetzenauer (1906)": "Et quasi Sol refulgens, sic ille effulsit in templo Dei.",
+        "VulgConte (2009)": "Et quasi Sol refulgens, sic ille effulsit in templo Dei.",
+        "VulgSistina (1590)": "Et quasi Sol refulgens, sic ille effulsit in templo Dei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82539,
+      "verse": 8,
+      "critical_text": "Quasi arcus refulgens inter nebulas gloriæ, et quasi flos rosarum in diebus vernis, et quasi lilia quæ sunt in transitu aquæ, et quasi thus redolens in diebus æstatis:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quasi arcus refulgens inter nebulas gloriæ, et quasi flos rosarum in diebus vernis, et quasi lilia quæ sunt in transitu aquæ, et quasi thus redolens in diebus æstatis:",
+        "Clem-Saints": "Quasi arcus refulgens inter nebulas gloriæ, et quasi flos rosarum in diebus vernis, et quasi lilia quæ sunt in transitu aquæ, et quasi thus redolens in diebus æstatis:",
+        "VulgHetzenauer (1906)": "Quasi arcus refulgens inter nebulas gloriæ, et quasi flos rosarum in diebus vernis, et quasi lilia quæ sunt in transitu aquæ, et quasi thus redolens in diebus æstatis.",
+        "VulgConte (2009)": "Quasi arcus refulgens inter nebulas gloriæ, et quasi flos rosarum in diebus vernis, et quasi lilia quæ sunt in transitu aquæ, et quasi thus redolens in diebus æstatis.",
+        "VulgSistina (1590)": "Quasi arcus refulgens inter nebulas gloriae, et quasi flos rosarum in diebus vernis, et quasi lilia quae sunt in transitu aquae, et quasi thus redolens in diebus aestatis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82540,
+      "verse": 9,
+      "critical_text": "quasi ignis effulgens, et thus ardens in igne:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quasi ignis effulgens, et thus ardens in igne:",
+        "Clem-Saints": "quasi ignis effulgens, et thus ardens in igne:",
+        "VulgHetzenauer (1906)": "Quasi ignis effulgens, et thus ardens in igne.",
+        "VulgConte (2009)": "Quasi ignis effulgens, et thus ardens in igne.",
+        "VulgSistina (1590)": "Quasi ignis effulgens, et thus ardens in igne."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82541,
+      "verse": 10,
+      "critical_text": "quasi oliva pullulans, et cypressus in altitudinem se extollens, in accipiendo ipsum stolam gloriæ, et vestiri eum in consummationem virtutis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quasi oliva pullulans, et cypressus in altitudinem se extollens, in accipiendo ipsum stolam gloriæ, et vestiri eum in consummationem virtutis.",
+        "Clem-Saints": "quasi oliva pullulans, et cypressus in altitudinem se extollens, in accipiendo ipsum stolam gloriæ, et vestiri eum in consummationem virtutis.",
+        "VulgHetzenauer (1906)": "Quasi oliva pullulans, et cypressus in altitudinem se extollens, in accipiendo ipsum stolam gloriæ, et vestiri eum in consummationem virtutis.",
+        "VulgConte (2009)": "Quasi oliva pullulans, et cypressus in altitudinem se extollens, in accipiendo ipsum stolam gloriæ, et vestiri eum in consummationem virtutis.",
+        "VulgSistina (1590)": "Quasi oliva pullulans, et cypressus in altitudinem se extollens, in accipiendo ipsum stolam gloriae, et vestiri eum in consummationem virtutis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:11",
+        "VulgHetzenauer (1906)": "50:11",
+        "VulgConte (2009)": "50:11",
+        "VulgSistina (1590)": "50:11"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:11 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82542,
+      "verse": 11,
+      "critical_text": "In ascensu altaris sancti gloriam dedit sanctitatis amictum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In ascensu altaris sancti gloriam dedit sanctitatis amictum.",
+        "Clem-Saints": "In ascensu altaris sancti gloriam dedit sanctitatis amictum.",
+        "VulgHetzenauer (1906)": "In ascensu altaris sancti, gloriam dedit sanctitatis amictum.",
+        "VulgConte (2009)": "In ascensu altaris sancti, gloriam dedit sanctitatis amictum.",
+        "VulgSistina (1590)": "In ascensu altaris sancti, gloriam dedit sanctitatis amictum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:12",
+        "VulgHetzenauer (1906)": "50:12",
+        "VulgConte (2009)": "50:12",
+        "VulgSistina (1590)": "50:12"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:12 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82543,
+      "verse": 12,
+      "critical_text": "In accipiendo autem partes de manu sacerdotum, et ipse stans juxta aram: et circa illum corona fratrum: quasi plantatio cedri in monte Libano,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In accipiendo autem partes de manu sacerdotum, et ipse stans juxta aram: et circa illum corona fratrum: quasi plantatio cedri in monte Libano,",
+        "Clem-Saints": "In accipiendo autem partes de manu sacerdotum, et ipse stans juxta aram: et circa illum corona fratrum: quasi plantatio cedri in monte Libano,",
+        "VulgHetzenauer (1906)": "In accipiendo autem partes de manu sacerdotum, et ipse stans iuxta aram. Et circa illum corona fratrum: quasi plantatio cedri in monte Libano,",
+        "VulgConte (2009)": "In accipiendo autem partes de manu sacerdotum, et ipse stans iuxta aram. Et circa illum corona fratrum: quasi plantatio cedri in monte Libano,",
+        "VulgSistina (1590)": "In accipiendo autem partes de manu sacerdotum, et ipse stans iuxta aram. Et circa illum corona fratrum: quasi plantatio cedri in monte Libano,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:13",
+        "VulgHetzenauer (1906)": "50:13",
+        "VulgConte (2009)": "50:13",
+        "VulgSistina (1590)": "50:13"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:13 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82544,
+      "verse": 13,
+      "critical_text": "sic circa illum steterunt quasi rami palmæ: et omnes filii Aaron in gloria sua.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "sic circa illum steterunt quasi rami palmæ: et omnes filii Aaron in gloria sua.",
+        "Clem-Saints": "sic circa illum steterunt quasi rami palmæ: et omnes filii Aaron in gloria sua.",
+        "VulgHetzenauer (1906)": "sic circa illum steterunt quasi rami palmæ, et omnes filii Aaron in gloria sua.",
+        "VulgConte (2009)": "sic circa illum steterunt quasi rami palmæ, et omnes filii Aaron in gloria sua.",
+        "VulgSistina (1590)": "sic circa illum steterunt quasi rami palmae, et omnes filii Aaron in gloria sua."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:14",
+        "VulgHetzenauer (1906)": "50:14",
+        "VulgConte (2009)": "50:14",
+        "VulgSistina (1590)": "50:14"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:14 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82545,
+      "verse": 14,
+      "critical_text": "Oblatio autem Domini in manibus ipsorum coram omni synagoga Israël: et consummatione fungens in ara, amplificare oblationem excelsi Regis,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Oblatio autem Domini in manibus ipsorum coram omni synagoga Israël: et consummatione fungens in ara, amplificare oblationem excelsi Regis,",
+        "Clem-Saints": "Oblatio autem Domini in manibus ipsorum coram omni synagoga Israël: et consummatione fungens in ara, amplificare oblationem excelsi Regis,",
+        "VulgHetzenauer (1906)": "Oblatio autem Domini in manibus ipsorum, coram omni synagoga Israel: et consummatione fungens in ara, amplificare oblationem excelsi regis,",
+        "VulgConte (2009)": "Oblatio autem Domini in manibus ipsorum, coram omni synagoga Israel: et consummatione fungens in ara, amplificare oblationem Excelsi Regis,",
+        "VulgSistina (1590)": "Oblatio autem Domini in manibus ipsorum, coram omni synagoga Israel: et consummatione fungens in ara, amplificare oblationem excelsi regis,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:15",
+        "VulgHetzenauer (1906)": "50:15",
+        "VulgConte (2009)": "50:15",
+        "VulgSistina (1590)": "50:15"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:15 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82546,
+      "verse": 15,
+      "critical_text": "porrexit manum suam in libatione, et libavit de sanguine uvæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "porrexit manum suam in libatione, et libavit de sanguine uvæ.",
+        "Clem-Saints": "porrexit manum suam in libatione, et libavit de sanguine uvæ.",
+        "VulgHetzenauer (1906)": "porrexit manum suam in libatione, et libavit de sanguine uvæ.",
+        "VulgConte (2009)": "porrexit manum suam in libatione, et libavit de sanguine uvæ.",
+        "VulgSistina (1590)": "porrexit manum suam in libatione, et libavit de sanguine uvae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:16",
+        "VulgHetzenauer (1906)": "50:16",
+        "VulgConte (2009)": "50:16",
+        "VulgSistina (1590)": "50:16"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:16 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82547,
+      "verse": 16,
+      "critical_text": "Tunc exclamaverunt filii Aaron, in tubis productilibus sonuerunt: et auditam fecerunt vocem magnam in memoriam coram Deo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tunc exclamaverunt filii Aaron, in tubis productilibus sonuerunt: et auditam fecerunt vocem magnam in memoriam coram Deo.",
+        "Clem-Saints": "Tunc exclamaverunt filii Aaron, in tubis productilibus sonuerunt: et auditam fecerunt vocem magnam in memoriam coram Deo.",
+        "VulgHetzenauer (1906)": "Tunc exclamaverunt filii Aaron, in tubis productilibus sonuerunt, et auditam fecerunt vocem magnam in memoriam coram Deo.",
+        "VulgConte (2009)": "Tunc exclamaverunt filii Aaron, in tubis productilibus sonuerunt, et auditam fecerunt vocem magnam in memoriam coram Deo.",
+        "VulgSistina (1590)": "Tunc exclamaverunt filii Aaron, in tubis productilibus sonuerunt, et auditam fecerunt vocem magnam in memoriam coram Deo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:18",
+        "VulgHetzenauer (1906)": "50:18",
+        "VulgConte (2009)": "50:18",
+        "VulgSistina (1590)": "50:18"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:18 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82548,
+      "verse": 17,
+      "critical_text": "Tunc omnis populus simul properaverunt, et ceciderunt in faciem super terram, adorare Dominum Deum suum, et dare preces omnipotenti Deo excelso.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tunc omnis populus simul properaverunt, et ceciderunt in faciem super terram, adorare Dominum Deum suum, et dare preces omnipotenti Deo excelso.",
+        "Clem-Saints": "Tunc omnis populus simul properaverunt, et ceciderunt in faciem super terram, adorare Dominum Deum suum, et dare preces omnipotenti Deo excelso.",
+        "VulgHetzenauer (1906)": "Tunc omnis populus simul properaverunt, et ceciderunt in faciem super terram, adorare Dominum Deum suum, et dare preces omnipotenti Deo excelso.",
+        "VulgConte (2009)": "Tunc omnis populus simul properaverunt, et ceciderunt in faciem super terram, adorare Dominum Deum suum, et dare preces omnipotenti Deo excelso.",
+        "VulgSistina (1590)": "Tunc omnis populus simul properaverunt, et ceciderunt in faciem super terram, adorare Dominum Deum suum, et dare preces omnipotenti Deo excelso."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:19",
+        "VulgHetzenauer (1906)": "50:19",
+        "VulgConte (2009)": "50:19",
+        "VulgSistina (1590)": "50:19"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:19 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82549,
+      "verse": 18,
+      "critical_text": "Et amplificaverunt psallentes in vocibus suis, et in magna domo auctus est sonus suavitatis plenus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et amplificaverunt psallentes in vocibus suis, et in magna domo auctus est sonus suavitatis plenus.",
+        "Clem-Saints": "Et amplificaverunt psallentes in vocibus suis, et in magna domo auctus est sonus suavitatis plenus.",
+        "VulgHetzenauer (1906)": "Et amplificaverunt psallentes in vocibus suis, et in magna domo auctus est sonus suavitatis plenus.",
+        "VulgConte (2009)": "Et amplificaverunt psallentes in vocibus suis, et in magna domo auctus est sonus suavitatis plenus.",
+        "VulgSistina (1590)": "Et amplificaverunt psallentes in vocibus suis, et in magna domo auctus est sonus suavitatis plenus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:20",
+        "VulgHetzenauer (1906)": "50:20",
+        "VulgConte (2009)": "50:20",
+        "VulgSistina (1590)": "50:20"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:20 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82550,
+      "verse": 19,
+      "critical_text": "Et rogavit populus Dominum excelsum in prece, usque dum perfectus est honor Domini, et munus suum perfecerunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et rogavit populus Dominum excelsum in prece, usque dum perfectus est honor Domini, et munus suum perfecerunt.",
+        "Clem-Saints": "Et rogavit populus Dominum excelsum in prece, usque dum perfectus est honor Domini, et munus suum perfecerunt.",
+        "VulgHetzenauer (1906)": "Et rogavit populus Dominum excelsum in prece, usquedum perfectus est honor Domini, et munus suum perfecerunt.",
+        "VulgConte (2009)": "Et rogavit populus Dominum excelsum in prece, usque dum perfectus est honor Domini, et munus suum perfecerunt.",
+        "VulgSistina (1590)": "Et rogavit populus Dominum excelsum in prece, usquedum perfectus est honor Domini, et munus suum perfecerunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:21",
+        "VulgHetzenauer (1906)": "50:21",
+        "VulgConte (2009)": "50:21",
+        "VulgSistina (1590)": "50:21"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "usque dum / usquedum",
+            "usque dum / usquedum"
+          ],
+          "witnesses": [
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:21 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82551,
+      "verse": 20,
+      "critical_text": "Tunc descendens, manus suas extulit in omne congregationem filiorum Israël, dare gloriam Deo a labiis suis, et in nomine ipsius gloriari:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tunc descendens, manus suas extulit in omne congregationem filiorum Israël, dare gloriam Deo a labiis suis, et in nomine ipsius gloriari:",
+        "Clem-Saints": "Tunc descendens, manus suas extulit in omne congregationem filiorum Israël, dare gloriam Deo a labiis suis, et in nomine ipsius gloriari:",
+        "VulgHetzenauer (1906)": "Tunc descendens, manus suas extulit in omne congregationem filiorum Israel dare gloriam Deo a labiis suis, et in nomine ipsius gloriari:",
+        "VulgConte (2009)": "Tunc descendens, manus suas extulit in omne congregationem filiorum Israel dare gloriam Deo a labiis suis, et in nomine ipsius gloriari:",
+        "VulgSistina (1590)": "Tunc descendens, manus suas extulit in omne congregationem filiorum Israel dare gloriam Deo a labiis suis, et in nomine ipsius gloriari:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:22",
+        "VulgHetzenauer (1906)": "50:22",
+        "VulgConte (2009)": "50:22",
+        "VulgSistina (1590)": "50:22"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:22 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82552,
+      "verse": 21,
+      "critical_text": "et iteravit orationem suam, volens ostendere virtutem Dei.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et iteravit orationem suam, volens ostendere virtutem Dei.",
+        "Clem-Saints": "et iteravit orationem suam, volens ostendere virtutem Dei.",
+        "VulgHetzenauer (1906)": "et iteravit orationem suam, volens ostendere virtutem Dei.",
+        "VulgConte (2009)": "et iteravit orationem suam, volens ostendere virtutem Dei.",
+        "VulgSistina (1590)": "et iteravit orationem suam, volens ostendere virtutem Dei."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:23",
+        "VulgHetzenauer (1906)": "50:23",
+        "VulgConte (2009)": "50:23",
+        "VulgSistina (1590)": "50:23"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:23 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82553,
+      "verse": 22,
+      "critical_text": "Et nunc orate Deum omnium, qui magna fecit in omni terra, qui auxit dies nostros a ventre matris nostræ, et fecit nobiscum secundum suam misericordiam:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et nunc orate Deum omnium, qui magna fecit in omni terra, qui auxit dies nostros a ventre matris nostræ, et fecit nobiscum secundum suam misericordiam:",
+        "Clem-Saints": "Et nunc orate Deum omnium, qui magna fecit in omni terra, qui auxit dies nostros a ventre matris nostræ, et fecit nobiscum secundum suam misericordiam:",
+        "VulgHetzenauer (1906)": "Et nunc orate Deum omnium, qui magna fecit in omni terra, qui auxit dies nostros a ventre matris nostræ, et fecit nobiscum secundum suam misericordiam:",
+        "VulgConte (2009)": "Et nunc orate Deum omnium, qui magna fecit in omni terra, qui auxit dies nostros a ventre matris nostræ, et fecit nobiscum secundum suam misericordiam:",
+        "VulgSistina (1590)": "Et nunc orate Deum omnium, qui magna fecit in omni terra, qui auxit dies nostros a ventre matris nostrae, et fecit nobiscum secundum suam misericordiam:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:24",
+        "VulgHetzenauer (1906)": "50:24",
+        "VulgConte (2009)": "50:24",
+        "VulgSistina (1590)": "50:24"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:24 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82554,
+      "verse": 23,
+      "critical_text": "det nobis jucunditatem cordis, et fieri pacem in diebus nostris in Israël per dies sempiternos:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "det nobis jucunditatem cordis, et fieri pacem in diebus nostris in Israël per dies sempiternos:",
+        "Clem-Saints": "det nobis jucunditatem cordis, et fieri pacem in diebus nostris in Israël per dies sempiternos:",
+        "VulgHetzenauer (1906)": "det nobis iucunditatem cordis, et fieri pacem in diebus nostris in Israel per dies sempiternos:",
+        "VulgConte (2009)": "det nobis iucunditatem cordis, et fieri pacem in diebus nostris in Israel per dies sempiternos:",
+        "VulgSistina (1590)": "det nobis iucunditatem cordis, et fieri pacem in diebus nostris in Israel per dies sempiternos:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:25",
+        "VulgHetzenauer (1906)": "50:25",
+        "VulgConte (2009)": "50:25",
+        "VulgSistina (1590)": "50:25"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:25 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82555,
+      "verse": 24,
+      "critical_text": "credere Israël nobiscum esse Dei misericordiam, ut liberet nos in diebus suis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "credere Israël nobiscum esse Dei misericordiam, ut liberet nos in diebus suis.",
+        "Clem-Saints": "credere Israël nobiscum esse Dei misericordiam, ut liberet nos in diebus suis.",
+        "VulgHetzenauer (1906)": "credere Israel nobiscum esse Dei misericordiam, ut liberet nos in diebus suis.",
+        "VulgConte (2009)": "credere Israel nobiscum esse Dei misericordiam, ut liberet nos in diebus suis.",
+        "VulgSistina (1590)": "credere nobiscum esse Dei misericordiam, ut liberet nos in diebus suis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:26",
+        "VulgHetzenauer (1906)": "50:26",
+        "VulgConte (2009)": "50:26",
+        "VulgSistina (1590)": "50:26"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Israël",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "israel",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:26 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82556,
+      "verse": 25,
+      "critical_text": "Duas gentes odit anima mea: tertia autem non est gens quam oderim:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Duas gentes odit anima mea: tertia autem non est gens quam oderim:",
+        "Clem-Saints": "Duas gentes odit anima mea: tertia autem non est gens quam oderim:",
+        "VulgHetzenauer (1906)": "Duas gentes odit anima mea: tertia autem non est gens, quam oderim:",
+        "VulgConte (2009)": "Duas gentes odit anima mea: tertia autem non est gens, quam oderim:",
+        "VulgSistina (1590)": "Duas gentes odit anima mea: tertia autem non est gens, quam oderim:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:27",
+        "VulgHetzenauer (1906)": "50:27",
+        "VulgConte (2009)": "50:27",
+        "VulgSistina (1590)": "50:27"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:27 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82557,
+      "verse": 26,
+      "critical_text": "qui sedent in monte Seir, et Philisthiim, et stultus populus qui habitat in Sichimis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "qui sedent in monte Seir, et Philisthiim, et stultus populus qui habitat in Sichimis.",
+        "Clem-Saints": "qui sedent in monte Seir, et Philisthiim, et stultus populus qui habitat in Sichimis.",
+        "VulgHetzenauer (1906)": "qui sedent in monte Seir, et Philisthiim, et stultus populus, qui habitat in Sichimis.",
+        "VulgConte (2009)": "qui sedent in monte Seir, et Philisthiim, et stultus populus, qui habitat in Sichimis.",
+        "VulgSistina (1590)": "qui sedent in monte Seir, et Philisthiim, et stultus populus, qui habitat in Sichimis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:28",
+        "VulgHetzenauer (1906)": "50:28",
+        "VulgConte (2009)": "50:28",
+        "VulgSistina (1590)": "50:28"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:28 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82558,
+      "verse": 27,
+      "critical_text": "Doctrinam sapientiæ et disciplinæ scripsit in codice isto Jesus, filius Sirach, Jerosolymita, qui renovavit sapientiam de corde suo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Doctrinam sapientiæ et disciplinæ scripsit in codice isto Jesus, filius Sirach, Jerosolymita, qui renovavit sapientiam de corde suo.",
+        "Clem-Saints": "Doctrinam sapientiæ et disciplinæ scripsit in codice isto Jesus, filius Sirach, Jerosolymita, qui renovavit sapientiam de corde suo.",
+        "VulgHetzenauer (1906)": "Doctrinam sapientiæ et disciplinæ scripsit in codice isto Iesus filius Sirach Ierosolymita, qui renovavit sapientiam de corde suo.",
+        "VulgConte (2009)": "Doctrinam sapientiæ et disciplinæ scripsit in codice isto Iesus filius Sirach Ierosolymita, qui renovavit sapientiam de corde suo.",
+        "VulgSistina (1590)": "Doctrinam sapientiae et disciplinae scripsit in codice isto Iesus filius Sirach Ierosolymita, qui renovavit sapientiam de corde suo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:29",
+        "VulgHetzenauer (1906)": "50:29",
+        "VulgConte (2009)": "50:29",
+        "VulgSistina (1590)": "50:29"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:29 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82559,
+      "verse": 28,
+      "critical_text": "Beatus qui in istis versatur bonis: qui ponit illa in corde suo, sapiens erit semper.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Beatus qui in istis versatur bonis: qui ponit illa in corde suo, sapiens erit semper.",
+        "Clem-Saints": "Beatus qui in istis versatur bonis: qui ponit illa in corde suo, sapiens erit semper.",
+        "VulgHetzenauer (1906)": "Beatus, qui in istis versatur bonis: qui ponit illa in corde suo, sapiens erit semper.",
+        "VulgConte (2009)": "Beatus, qui in istis versatur bonis: qui ponit illa in corde suo, sapiens erit semper.",
+        "VulgSistina (1590)": "Beatus, qui in istis versatur bonis: qui ponit illa in corde suo, sapiens erit semper."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:30",
+        "VulgHetzenauer (1906)": "50:30",
+        "VulgConte (2009)": "50:30",
+        "VulgSistina (1590)": "50:30"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:30 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82560,
+      "verse": 29,
+      "critical_text": "Si enim hæc fecerit, ad omnia valebit, quia lux Dei vestigium ejus est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si enim hæc fecerit, ad omnia valebit, quia lux Dei vestigium ejus est.",
+        "Clem-Saints": "Si enim hæc fecerit, ad omnia valebit, quia lux Dei vestigium ejus est.",
+        "VulgHetzenauer (1906)": "Si enim hæc fecerit, ad omnia valebit: quia lux Dei, vestigium eius est.",
+        "VulgConte (2009)": "Si enim hæc fecerit, ad omnia valebit: quia lux Dei, vestigium eius est.",
+        "VulgSistina (1590)": "Si enim haec fecerit, ad omnia valebit: quia lux Dei, vestigium eius est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "50:31",
+        "VulgHetzenauer (1906)": "50:31",
+        "VulgConte (2009)": "50:31",
+        "VulgSistina (1590)": "50:31"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 50:31 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

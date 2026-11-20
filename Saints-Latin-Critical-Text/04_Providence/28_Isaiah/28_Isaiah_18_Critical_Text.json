@@ -1,0 +1,306 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "04_Providence",
+  "book_slug": "isaiah",
+  "book_title": "Isaiah",
+  "usfm_code": "ISA",
+  "chapter": 18,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:17:43Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 82934,
+      "verse": 1,
+      "critical_text": "Væ terræ cymbalo alarum, quæ est trans flumina Æthiopiæ,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Væ terræ cymbalo alarum, quæ est trans flumina Æthiopiæ,",
+        "Clem-Saints": "Væ terræ cymbalo alarum, quæ est trans flumina Æthiopiæ,",
+        "VulgHetzenauer (1906)": "Væ terræ cymbalo alarum, quæ est trans flumina Æthiopiæ,",
+        "VulgConte (2009)": "Væ terræ cymbalo alarum, quæ est trans flumina Æthiopiæ,",
+        "VulgSistina (1590)": "Vae terrae cymbalo alarum, quae est trans flumina Aethiopiae,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82935,
+      "verse": 2,
+      "critical_text": "qui mittit in mare legatos, et in vasis papyri super aquas. Ite, angeli veloces, ad gentem convulsam et dilaceratam; ad populum terribilem, post quem non est alius; ad gentem exspectantem et conculcatam, cujus diripuerunt flumina terram ejus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "qui mittit in mare legatos, et in vasis papyri super aquas. Ite, angeli veloces, ad gentem convulsam et dilaceratam; ad populum terribilem, post quem non est alius; ad gentem exspectantem et conculcatam, cujus diripuerunt flumina terram ejus.",
+        "Clem-Saints": "qui mittit in mare legatos, et in vasis papyri super aquas. Ite, angeli veloces, ad gentem convulsam et dilaceratam; ad populum terribilem, post quem non est alius; ad gentem exspectantem et conculcatam, cujus diripuerunt flumina terram ejus.",
+        "VulgHetzenauer (1906)": "qui mittit in mare legatos, et in vasis papyri super aquas. Ite angeli veloces ad gentem convulsam, et dilaceratam: ad populum terribilem, post quem non est alius: ad gentem expectantem et conculcatam, cuius diripuerunt flumina terram eius:",
+        "VulgConte (2009)": "qui mittit in mare legatos, et in vasis papyri super aquas. Ite Angeli veloces ad gentem convulsam, et dilaceratam: ad populum terribilem, post quem non est alius: ad gentem expectantem et conculcatam, cuius diripuerunt flumina terram eius:",
+        "VulgSistina (1590)": "quae mittit in mare legatos, et in vasis papyri super aquas. Ite angeli veloces ad gentem convulsam, et dilaceratam: ad populum terribilem, post quem non est alius: ad gentem expectantem et conculcatam, cuius diripuerunt flumina terram eius:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "qui",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "quae",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "qui",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exspectantem / expectantem",
+            "exspectantem / expectantem",
+            "exspectantem / expectantem"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82936,
+      "verse": 3,
+      "critical_text": "Omnes habitatores orbis, qui moramini in terra, cum elevatum fuerit signum in montibus, videbitis, et clangorem tubæ audietis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Omnes habitatores orbis, qui moramini in terra, cum elevatum fuerit signum in montibus, videbitis, et clangorem tubæ audietis.",
+        "Clem-Saints": "Omnes habitatores orbis, qui moramini in terra, cum elevatum fuerit signum in montibus, videbitis, et clangorem tubæ audietis.",
+        "VulgHetzenauer (1906)": "omnes habitatores orbis, qui moramini in terra, cum elevatum fuerit signum in montibus, videbitis, et clangorem tubæ audietis:",
+        "VulgConte (2009)": "omnes habitatores orbis, qui moramini in terra, cum elevatum fuerit signum in montibus, videbitis, et clangorem tubæ audietis:",
+        "VulgSistina (1590)": "omnes habitatores orbis, qui moramini in terra, cum elevatum fuerit signum in montibus, videbitis, et clangorem tubae audietis:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82937,
+      "verse": 4,
+      "critical_text": "Quia hæc dicit Dominus ad me: Quiescam et considerabo in loco meo, sicut meridiana lux clara est, et sicut nubes roris in die messis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quia hæc dicit Dominus ad me: Quiescam et considerabo in loco meo, sicut meridiana lux clara est, et sicut nubes roris in die messis.",
+        "Clem-Saints": "Quia hæc dicit Dominus ad me: Quiescam et considerabo in loco meo, sicut meridiana lux clara est, et sicut nubes roris in die messis.",
+        "VulgHetzenauer (1906)": "quia hæc dicit Dominus ad me: Quiescam, et considerabo in loco meo sicut meridiana lux clara est, et sicut nubes roris in die messis.",
+        "VulgConte (2009)": "quia hæc dicit Dominus ad me: Quiescam, et considerabo in loco meo sicut meridiana lux clara est, et sicut nubes roris in die messis.",
+        "VulgSistina (1590)": "quia haec dicit Dominus ad me: Quiescam, et considerabo in loco meo sicut meridiana lux clara est, et sicut nubes roris in die messis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82938,
+      "verse": 5,
+      "critical_text": "Ante messem enim totus effloruit, et immatura perfectio germinabit; et præcidentur ramusculi ejus falcibus, et quæ derelicta fuerint abscindentur et excutientur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ante messem enim totus effloruit, et immatura perfectio germinabit; et præcidentur ramusculi ejus falcibus, et quæ derelicta fuerint abscindentur et excutientur.",
+        "Clem-Saints": "Ante messem enim totus effloruit, et immatura perfectio germinabit; et præcidentur ramusculi ejus falcibus, et quæ derelicta fuerint abscindentur et excutientur.",
+        "VulgHetzenauer (1906)": "Ante messem enim totus effloruit, et immatura perfectio germinabit, et præcidentur ramusculi eius falcibus: et quæ derelicta fuerint, abscindentur, et excutientur.",
+        "VulgConte (2009)": "Ante messem enim totus effloruit, et immatura perfectio germinabit, et præcidentur ramusculi eius falcibus: et quæ derelicta fuerint, abscindentur, et excutientur.",
+        "VulgSistina (1590)": "Ante messem enim totus effloruit, et immatura perfectio germinabit, et praecidentur ramusculi eius falcibus: et quae derelicta fuerint, abscindentur, et excutientur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82939,
+      "verse": 6,
+      "critical_text": "Et relinquentur simul avibus montium et bestiis terræ; et æstate perpetua erunt super eum volucres, et omnes bestiæ terræ super illum hiemabunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et relinquentur simul avibus montium et bestiis terræ; et æstate perpetua erunt super eum volucres, et omnes bestiæ terræ super illum hiemabunt.",
+        "Clem-Saints": "Et relinquentur simul avibus montium et bestiis terræ; et æstate perpetua erunt super eum volucres, et omnes bestiæ terræ super illum hiemabunt.",
+        "VulgHetzenauer (1906)": "Et relinquentur simul avibus montium, et bestiis terræ: et æstate perpetua erunt super eum volucres, et omnes bestiæ terræ super illum hiemabunt.",
+        "VulgConte (2009)": "Et relinquentur simul avibus montium, et bestiis terræ: et æstate perpetua erunt super eum volucres, et omnes bestiæ terræ super illum hiemabunt.",
+        "VulgSistina (1590)": "Et relinquentur simul avibus montium, et bestiis terrae: et aestate perpetua erunt super eum volucres, et omnes bestiae terrae super illum hiemabunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82940,
+      "verse": 7,
+      "critical_text": "In tempore illo deferetur munus Domino exercituum a populo divulso et dilacerato, a populo terribili, post quem non fuit alius; a gente exspectante, exspectante et conculcata, cujus diripuerunt flumina terram ejus; ad locum nominis Domini exercituum, montem Sion.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "In tempore illo deferetur munus Domino exercituum a populo divulso et dilacerato, a populo terribili, post quem non fuit alius; a gente exspectante, exspectante et conculcata, cujus diripuerunt flumina terram ejus; ad locum nominis Domini exercituum, montem Sion.",
+        "Clem-Saints": "In tempore illo deferetur munus Domino exercituum a populo divulso et dilacerato, a populo terribili, post quem non fuit alius; a gente exspectante, exspectante et conculcata, cujus diripuerunt flumina terram ejus; ad locum nominis Domini exercituum, montem Sion.",
+        "VulgHetzenauer (1906)": "In tempore illo deferetur munus Domino exercituum a populo divulso et dilacerato: a populo terribili, post quem non fuit alius, a gente expectante, expectante et conculcata, cuius diripuerunt flumina terram eius, ad locum nominis Domini exercituum montem Sion.",
+        "VulgConte (2009)": "In tempore illo deferetur munus Domino exercituum a populo divulso et dilacerato: a populo terribili, post quem non fuit alius, a gente expectante, expectante et conculcata, cuius diripuerunt flumina terram eius, ad locum nominis Domini exercituum montem Sion.",
+        "VulgSistina (1590)": "In tempore illo deferetur munus Domino exercituum a populo divulso et dilacerato: a populo terribili, post quem non fuit alius, a gente expectante, expectante et conculcata, cuius diripuerunt flumina terram eius, ad locum nominis Domini exercituum montem Sion."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exspectante, exspectante / expectante, expectante",
+            "exspectante, exspectante / expectante, expectante",
+            "exspectante, exspectante / expectante, expectante"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

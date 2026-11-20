@@ -1,0 +1,898 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "01_Law",
+  "book_slug": "deuteronomy",
+  "book_title": "Deuteronomy",
+  "usfm_code": "DEU",
+  "chapter": 22,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:27Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "Clem1598-USFX: verse 30 left out as a versification/conversion duplicate (Clem-Saints prints these words at 23:1)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 66886,
+      "verse": 1,
+      "critical_text": "Non videbis bovem fratris tui, aut ovem errantem, et præteribis: sed reduces fratri tuo,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non videbis bovem fratris tui, aut ovem errantem, et præteribis: sed reduces fratri tuo,",
+        "Clem-Saints": "Non videbis bovem fratris tui, aut ovem errantem, et præteribis: sed reduces fratri tuo,",
+        "VulgHetzenauer (1906)": "Non videbis bovem fratris tui, aut ovem errantem, et præteribis: sed reduces fratri tuo,",
+        "VulgConte (2009)": "Non videbis bovem fratris tui, aut ovem errantem, et præteribis: sed reduces fratri tuo,",
+        "VulgSistina (1590)": "Non videbis bovem fratris tui, aut ovem errantem, et praeteribis: sed reduces fratri tuo,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66887,
+      "verse": 2,
+      "critical_text": "etiamsi non est propinquus frater tuus, nec nosti eum: duces in domum tuam, et erunt apud te quamdiu quærat ea frater tuus, et recipiat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "etiamsi non est propinquus frater tuus, nec nosti eum: duces in domum tuam, et erunt apud te quamdiu quærat ea frater tuus, et recipiat.",
+        "Clem-Saints": "etiamsi non est propinquus frater tuus, nec nosti eum: duces in domum tuam, et erunt apud te quamdiu quærat ea frater tuus, et recipiat.",
+        "VulgHetzenauer (1906)": "etiamsi non est propinquus frater tuus, nec nosti eum: duces in domum tuam, et erunt apud te quamdiu quærat ea frater tuus, et recipiat.",
+        "VulgConte (2009)": "etiam si non est propinquus frater tuus, nec nosti eum: duces in domum tuam, et erunt apud te quamdiu quærat ea frater tuus, et recipiat.",
+        "VulgSistina (1590)": "etiamsi non est propinquus frater tuus, nec nosti eum: duces in domum tuam, et erunt apud te quamdiu quaerat ea frater tuus, et recipiat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "etiamsi / etiam si"
+          ],
+          "witnesses": [
+            "VulgConte (2009)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66888,
+      "verse": 3,
+      "critical_text": "Similiter facies de asino, et de vestimento, et de omni re fratris tui, quæ perierit: si inveneris eam, ne negligas quasi alienam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Similiter facies de asino, et de vestimento, et de omni re fratris tui, quæ perierit: si inveneris eam, ne negligas quasi alienam.",
+        "Clem-Saints": "Similiter facies de asino, et de vestimento, et de omni re fratris tui, quæ perierit: si inveneris eam, ne negligas quasi alienam.",
+        "VulgHetzenauer (1906)": "Similiter facies de asino, et de vestimento, et de omni re fratris tui, quæ perierit: si inveneris eam, ne negligas quasi alienam.",
+        "VulgConte (2009)": "Similiter facies de asino, et de vestimento, et de omni re fratris tui, quæ perierit: si inveneris eam, ne negligas quasi alienam.",
+        "VulgSistina (1590)": "Similiter facies de asino, et de vestimento, et de omni re fratris tui, quae perierit: si inveneris eam, ne negligas quasi alienam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66889,
+      "verse": 4,
+      "critical_text": "Si videris asinum fratris tui aut bovem cecidisse in via, non despicies, sed sublevabis cum eo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si videris asinum fratris tui aut bovem cecidisse in via, non despicies, sed sublevabis cum eo.",
+        "Clem-Saints": "Si videris asinum fratris tui aut bovem cecidisse in via, non despicies, sed sublevabis cum eo.",
+        "VulgHetzenauer (1906)": "Si videris asinum fratris tui aut bovem cecidisse in via, non despicies, sed sublevabis cum eo.",
+        "VulgConte (2009)": "Si videris asinum fratris tui aut bovem cecidisse in via, non despicies, sed sublevabis cum eo.",
+        "VulgSistina (1590)": "Si videris asinum fratris tui aut bovem cecidisse in via, non despicies, sed sublevabis cum eo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66890,
+      "verse": 5,
+      "critical_text": "Non induetur mulier veste virili, nec vir utetur veste feminea: abominabilis enim apud Deum est qui facit hæc.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non induetur mulier veste virili, nec vir utetur veste feminea: abominabilis enim apud Deum est qui facit hæc.",
+        "Clem-Saints": "Non induetur mulier veste virili, nec vir utetur veste feminea: abominabilis enim apud Deum est qui facit hæc.",
+        "VulgHetzenauer (1906)": "Non induetur mulier veste virili, nec vir utetur veste feminea: abominabilis enim apud Deum est qui facit hæc.",
+        "VulgConte (2009)": "Non induetur mulier veste virili, nec vir utetur veste feminea: abominabilis enim apud Deum est qui facit hæc.",
+        "VulgSistina (1590)": "Non induetur mulier veste virili, nec vir utetur veste feminea: abominabilis enim apud Deum est qui facit haec."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66891,
+      "verse": 6,
+      "critical_text": "Si ambulans per viam, in arbore vel in terra nidum avis inveneris, et matrem pullis vel ovis desuper incubantem: non tenebis eam cum filiis,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si ambulans per viam, in arbore vel in terra nidum avis inveneris, et matrem pullis vel ovis desuper incubantem: non tenebis eam cum filiis,",
+        "Clem-Saints": "Si ambulans per viam, in arbore vel in terra nidum avis inveneris, et matrem pullis vel ovis desuper incubantem: non tenebis eam cum filiis,",
+        "VulgHetzenauer (1906)": "Si ambulans per viam, in arbore vel in terra nidum avis inveneris, et matrem pullis vel ovis desuper incubantem: non tenebis eam cum filiis,",
+        "VulgConte (2009)": "Si ambulans per viam, in arbore vel in terra nidum avis inveneris, et matrem pullis vel ovis desuper incubantem: non tenebis eam cum filiis,",
+        "VulgSistina (1590)": "Si ambulans per viam, in arbore vel in terra nidum avis inveneris, et matrem pullis vel ovis desuper incubantem: non tenebis eam cum filiis,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66892,
+      "verse": 7,
+      "critical_text": "sed abire patieris, captos tenens filios: ut bene sit tibi, et longo vivas tempore.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "sed abire patieris, captos tenens filios: ut bene sit tibi, et longo vivas tempore.",
+        "Clem-Saints": "sed abire patieris, captos tenens filios: ut bene sit tibi, et longo vivas tempore.",
+        "VulgHetzenauer (1906)": "sed abire patieris, captos tenens filios: ut bene sit tibi, et longo vivas tempore.",
+        "VulgConte (2009)": "sed abire patieris, captos tenens filios: ut bene sit tibi, et longo vivas tempore.",
+        "VulgSistina (1590)": "sed abire patieris, captos tenens filios: ut bene sit tibi, et longo vivas tempore."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66893,
+      "verse": 8,
+      "critical_text": "Cum ædificaveris domum novam, facies murum tecti per circuitum: ne effundatur sanguis in domo tua, et sis reus labente alio, et in præceps ruente.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cum ædificaveris domum novam, facies murum tecti per circuitum: ne effundatur sanguis in domo tua, et sis reus labente alio, et in præceps ruente.",
+        "Clem-Saints": "Cum ædificaveris domum novam, facies murum tecti per circuitum: ne effundatur sanguis in domo tua, et sis reus labente alio, et in præceps ruente.",
+        "VulgHetzenauer (1906)": "Cum ædificaveris domum novam, facies murum tecti per circuitum: ne effundatur sanguis in domo tua, et sis reus labente alio, et in præceps ruente.",
+        "VulgConte (2009)": "Cum ædificaveris domum novam, facies murum tecti per circuitum: ne effundatur sanguis in domo tua, et sis reus labente alio, et in præceps ruente.",
+        "VulgSistina (1590)": "Cum aedificaveris domum novam, facies murum tecti per circuitum: ne effundatur sanguis in domo tua, et sis reus labente illo, et in praeceps ruente."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "alio,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "illo,",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 19,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "alio",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66894,
+      "verse": 9,
+      "critical_text": "Non seres vineam tuam altero semine: ne et sementis quam sevisti, et quæ nascuntur ex vinea, pariter sanctificentur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non seres vineam tuam altero semine: ne et sementis quam sevisti, et quæ nascuntur ex vinea, pariter sanctificentur.",
+        "Clem-Saints": "Non seres vineam tuam altero semine: ne et sementis quam sevisti, et quæ nascuntur ex vinea, pariter sanctificentur.",
+        "VulgHetzenauer (1906)": "Non seres vineam tuam altero semine: ne et sementis quam sevisti, et quæ nascuntur ex vinea, pariter sanctificentur.",
+        "VulgConte (2009)": "Non seres vineam tuam altero semine: ne et sementis quam sevisti, et quæ nascuntur ex vinea, pariter sanctificentur.",
+        "VulgSistina (1590)": "Non seres vineam tuam altero semine: ne et sementis quam sevisti, et quae nascuntur ex vinea, pariter sanctificentur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66895,
+      "verse": 10,
+      "critical_text": "Non arabis in bove simul et asino.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non arabis in bove simul et asino.",
+        "Clem-Saints": "Non arabis in bove simul et asino.",
+        "VulgHetzenauer (1906)": "Non arabis in bove simul et asino.",
+        "VulgConte (2009)": "Non arabis in bove simul et asino.",
+        "VulgSistina (1590)": "Non arabis in bove simul et asino."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66896,
+      "verse": 11,
+      "critical_text": "Non indueris vestimento, quod ex lana linoque contextum est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Non indueris vestimento, quod ex lana linoque contextum est.",
+        "Clem-Saints": "Non indueris vestimento, quod ex lana linoque contextum est.",
+        "VulgHetzenauer (1906)": "Non indueris vestimento, quod ex lana linoque contextum est.",
+        "VulgConte (2009)": "Non indueris vestimento, quod ex lana linoque contextum est.",
+        "VulgSistina (1590)": "Non indueris vestimento, quod ex lana linoque contextum est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66897,
+      "verse": 12,
+      "critical_text": "Funiculos in fimbriis facies per quatuor angulos pallii tui, quo operieris.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Funiculos in fimbriis facies per quatuor angulos pallii tui, quo operieris.",
+        "Clem-Saints": "Funiculos in fimbriis facies per quatuor angulos pallii tui, quo operieris.",
+        "VulgHetzenauer (1906)": "Funiculos in fimbriis facies per quattuor angulos pallii tui, quo operieris.",
+        "VulgConte (2009)": "Funiculos in fimbriis facies per quattuor angulos pallii tui, quo operieris.",
+        "VulgSistina (1590)": "Funiculos in fimbriis facies per quattuor angulos pallii tui, quo operieris."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quatuor / quattuor",
+            "quatuor / quattuor",
+            "quatuor / quattuor"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66898,
+      "verse": 13,
+      "critical_text": "Si duxerit vir uxorem, et postea odio habuerit eam,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si duxerit vir uxorem, et postea odio habuerit eam,",
+        "Clem-Saints": "Si duxerit vir uxorem, et postea odio habuerit eam,",
+        "VulgHetzenauer (1906)": "Si duxerit vir uxorem, et postea odio habuerit eam,",
+        "VulgConte (2009)": "Si duxerit vir uxorem, et postea odio habuerit eam,",
+        "VulgSistina (1590)": "Si duxerit vir uxorem, et postea odio habuerit eam,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66899,
+      "verse": 14,
+      "critical_text": "quæsieritque occasiones quibus dimittat eam, objiciens ei nomen pessimum, et dixerit: Uxorem hanc accepi, et ingressus ad eam non inveni virginem:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quæsieritque occasiones quibus dimittat eam, objiciens ei nomen pessimum, et dixerit: Uxorem hanc accepi, et ingressus ad eam non inveni virginem:",
+        "Clem-Saints": "quæsieritque occasiones quibus dimittat eam, objiciens ei nomen pessimum, et dixerit: Uxorem hanc accepi, et ingressus ad eam non inveni virginem:",
+        "VulgHetzenauer (1906)": "quæsieritque occasiones quibus dimittat eam, obiiciens ei nomen pessimum, et dixerit: Uxorem hanc accepi, et ingressus ad eam non inveni virginem:",
+        "VulgConte (2009)": "quæsieritque occasiones quibus dimittat eam, obiiciens ei nomen pessimum, et dixerit: Uxorem hanc accepi, et ingressus ad eam non inveni virginem:",
+        "VulgSistina (1590)": "quaesieritque occasiones quibus dimittat eam, obiiciens ei nomen pessimum, et dixerit: Uxorem hanc accepi, et ingressus ad eam non inveni virginem:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66900,
+      "verse": 15,
+      "critical_text": "tollent eam pater et mater ejus, et ferent secum signa virginitatis ejus ad seniores urbis qui in porta sunt:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "tollent eam pater et mater ejus, et ferent secum signa virginitatis ejus ad seniores urbis qui in porta sunt:",
+        "Clem-Saints": "tollent eam pater et mater ejus, et ferent secum signa virginitatis ejus ad seniores urbis qui in porta sunt:",
+        "VulgHetzenauer (1906)": "tollent eam pater et mater eius, et ferent secum signa virginitatis eius ad seniores urbis qui in porta sunt:",
+        "VulgConte (2009)": "tollent eam pater et mater eius, et ferent secum signa virginitatis eius ad seniores urbis qui in porta sunt:",
+        "VulgSistina (1590)": "tollent eam pater et mater eius, et ferent secum signa virginitatis eius ad seniores urbis qui in porta sunt:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66901,
+      "verse": 16,
+      "critical_text": "et dicet pater: Filiam meam dedi huic uxorem: quam quia odit,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et dicet pater: Filiam meam dedi huic uxorem: quam quia odit,",
+        "Clem-Saints": "et dicet pater: Filiam meam dedi huic uxorem: quam quia odit,",
+        "VulgHetzenauer (1906)": "et dicet pater: Filiam meam dedi huic uxorem: quam quia odit,",
+        "VulgConte (2009)": "et dicet pater: Filiam meam dedi huic uxorem: quam quia odit,",
+        "VulgSistina (1590)": "et dicet pater: Filiam meam dedi huic uxorem: quam quia odit,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66902,
+      "verse": 17,
+      "critical_text": "imponit ei nomen pessimum, ut dicat: Non inveni filiam tuam virginem: et ecce hæc sunt signa virginitatis filiæ meæ. Expandent vestimentum coram senioribus civitatis:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "imponit ei nomen pessimum, ut dicat: Non inveni filiam tuam virginem: et ecce hæc sunt signa virginitatis filiæ meæ. Expandent vestimentum coram senioribus civitatis:",
+        "Clem-Saints": "imponit ei nomen pessimum, ut dicat: Non inveni filiam tuam virginem: et ecce hæc sunt signa virginitatis filiæ meæ. Expandent vestimentum coram senioribus civitatis:",
+        "VulgHetzenauer (1906)": "imponit ei nomen pessimum, ut dicat: Non inveni filiam tuam virginem: et ecce hæc sunt signa virginitatis filiæ meæ. expandent vestimentum coram senioribus civitatis:",
+        "VulgConte (2009)": "imponit ei nomen pessimum, ut dicat: Non inveni filiam tuam virginem: et ecce hæc sunt signa virginitatis filiæ meæ. Expandent vestimentum coram senioribus civitatis:",
+        "VulgSistina (1590)": "imponit ei nomen pessimum, ut dicat: Non inveni filiam tuam virginem: et ecce haec sunt signa virginitatis filiae meae. expandent vestimentum coram senioribus civitatis:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66903,
+      "verse": 18,
+      "critical_text": "apprehendentque senes urbis illius virum, et verberabunt illum,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "apprehendentque senes urbis illius virum, et verberabunt illum,",
+        "Clem-Saints": "apprehendentque senes urbis illius virum, et verberabunt illum,",
+        "VulgHetzenauer (1906)": "apprehendentque senes urbis illius virum, et verberabunt illum,",
+        "VulgConte (2009)": "apprehendentque senes urbis illius virum, et verberabunt illum,",
+        "VulgSistina (1590)": "apprehendentque senes urbis illius virum, et verberabunt illum,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66904,
+      "verse": 19,
+      "critical_text": "condemnantes insuper centum siclis argenti, quos dabit patri puellæ, quoniam diffamavit nomen pessimum super virginem Israël: habebitque eam uxorem, et non poterit dimittere eam omnibus diebus vitæ suæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "condemnantes insuper centum siclis argenti, quos dabit patri puellæ, quoniam diffamavit nomen pessimum super virginem Israël: habebitque eam uxorem, et non poterit dimittere eam omnibus diebus vitæ suæ.",
+        "Clem-Saints": "condemnantes insuper centum siclis argenti, quos dabit patri puellæ, quoniam diffamavit nomen pessimum super virginem Israël: habebitque eam uxorem, et non poterit dimittere eam omnibus diebus vitæ suæ.",
+        "VulgHetzenauer (1906)": "condemnantes insuper centum siclis argenti, quos dabit patri puellæ, quoniam diffamavit nomen pessimum super virginem Israel: habebitque eam uxorem, et non poterit dimittere eam omnibus diebus vitæ suæ.",
+        "VulgConte (2009)": "condemnantes insuper centum siclis argenti, quos dabit patri puellæ, quoniam diffamavit nomen pessimum super virginem Israel: habebitque eam uxorem, et non poterit dimittere eam omnibus diebus vitæ suæ.",
+        "VulgSistina (1590)": "condemnantes insuper centum siclis argenti, quos dabit patri puellae, quoniam diffamavit nomen pessimum super virginem Israel: habebitque eam uxorem, et non poterit dimittere eam omnibus diebus vitae suae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66905,
+      "verse": 20,
+      "critical_text": "Quod si verum est quod objicit, et non est in puella inventa virginitas,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quod si verum est quod objicit, et non est in puella inventa virginitas,",
+        "Clem-Saints": "Quod si verum est quod objicit, et non est in puella inventa virginitas,",
+        "VulgHetzenauer (1906)": "Quod si verum est quod obiicit, et non est in puella inventa virginitas:",
+        "VulgConte (2009)": "Quod si verum est quod obiicit, et non est in puella inventa virginitas:",
+        "VulgSistina (1590)": "Quod si verum est quod obiicit, et non est in puella inventa virginitas:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66906,
+      "verse": 21,
+      "critical_text": "ejicient eam extra fores domus patris sui, et lapidibus obruent viri civitatis illius, et morietur: quoniam fecit nefas in Israël, ut fornicaretur in domo patris sui: et auferes malum de medio tui.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ejicient eam extra fores domus patris sui, et lapidibus obruent viri civitatis illius, et morietur: quoniam fecit nefas in Israël, ut fornicaretur in domo patris sui: et auferes malum de medio tui.",
+        "Clem-Saints": "ejicient eam extra fores domus patris sui, et lapidibus obruent viri civitatis illius, et morietur: quoniam fecit nefas in Israël, ut fornicaretur in domo patris sui: et auferes malum de medio tui.",
+        "VulgHetzenauer (1906)": "eiicient eam extra fores domus patris sui, et lapidibus obruent viri civitatis illius, et morietur: quoniam fecit nefas in Israel, ut fornicaretur in domo patris sui: et auferes malum de medio tui.",
+        "VulgConte (2009)": "eiicient eam extra fores domus patris sui, et lapidibus obruent viri civitatis illius, et morietur: quoniam fecit nefas in Israel, ut fornicaretur in domo patris sui: et auferes malum de medio tui.",
+        "VulgSistina (1590)": "eiicient eam extra fores domus patris sui, et lapidibus obruent viri civitatis illius, et morietur: quoniam fecit nefas in Israel, ut fornicaretur in domo patris sui: et auferes malum de medio tui."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66907,
+      "verse": 22,
+      "critical_text": "Si dormierit vir cum uxore alterius, uterque morietur, id est, adulter et adultera: et auferes malum de Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si dormierit vir cum uxore alterius, uterque morietur, id est, adulter et adultera: et auferes malum de Israël.",
+        "Clem-Saints": "Si dormierit vir cum uxore alterius, uterque morietur, id est, adulter et adultera: et auferes malum de Israël.",
+        "VulgHetzenauer (1906)": "Si dormierit vir cum uxore alterius, uterque morietur, id est, adulter et adultera: et auferes malum de Israel.",
+        "VulgConte (2009)": "Si dormierit vir cum uxore alterius, uterque morietur, id est, adulter et adultera: et auferes malum de Israel.",
+        "VulgSistina (1590)": "Si dormierit vir cum uxore alterius, uterque morietur, id est, adulter et adultera: et auferes malum de Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66908,
+      "verse": 23,
+      "critical_text": "Si puellam virginem desponderit vir, et invenerit eam aliquis in civitate, et concubuerit cum ea,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si puellam virginem desponderit vir, et invenerit eam aliquis in civitate, et concubuerit cum ea,",
+        "Clem-Saints": "Si puellam virginem desponderit vir, et invenerit eam aliquis in civitate, et concubuerit cum ea,",
+        "VulgHetzenauer (1906)": "Si puellam virginem desponderit vir, et invenerit eam aliquis in civitate, et concubuerit cum ea,",
+        "VulgConte (2009)": "Si puellam virginem desponderit vir, et invenerit eam aliquis in civitate, et concubuerit cum ea,",
+        "VulgSistina (1590)": "Si puellam virginem desponderit vir, et invenerit eam aliquis in civitate, et concubuerit cum ea,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66909,
+      "verse": 24,
+      "critical_text": "educes utrumque ad portam civitatis illius, et lapidibus obruentur: puella, quia non clamavit, cum esset in civitate: vir, quia humiliavit uxorem proximi sui: et auferes malum de medio tui.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "educes utrumque ad portam civitatis illius, et lapidibus obruentur: puella, quia non clamavit, cum esset in civitate: vir, quia humiliavit uxorem proximi sui: et auferes malum de medio tui.",
+        "Clem-Saints": "educes utrumque ad portam civitatis illius, et lapidibus obruentur: puella, quia non clamavit, cum esset in civitate: vir, quia humiliavit uxorem proximi sui: et auferes malum de medio tui.",
+        "VulgHetzenauer (1906)": "educes utrumque ad portam civitatis illius, et lapidibus obruentur: puella, quia non clamavit, cum esset in civitate: vir, quia humiliavit uxorem proximi sui. et auferes malum de medio tui.",
+        "VulgConte (2009)": "educes utrumque ad portam civitatis illius, et lapidibus obruentur: puella, quia non clamavit, cum esset in civitate: vir, quia humiliavit uxorem proximi sui. Et auferes malum de medio tui.",
+        "VulgSistina (1590)": "educes utrumque ad portam civitatis illius, et lapidibus obruentur: puella, quia non clamavit, cum esset in civitate: vir, quia humiliavit uxorem proximi sui. et auferes malum de medio tui."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66910,
+      "verse": 25,
+      "critical_text": "Sin autem in agro repererit vir puellam, quæ desponsata est, et apprehendens concubuerit cum ea, ipse morietur solus:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sin autem in agro repererit vir puellam, quæ desponsata est, et apprehendens concubuerit cum ea, ipse morietur solus:",
+        "Clem-Saints": "Sin autem in agro repererit vir puellam, quæ desponsata est, et apprehendens concubuerit cum ea, ipse morietur solus:",
+        "VulgHetzenauer (1906)": "Sin autem in agro repererit vir puellam, quæ desponsata est, et apprehendens concubuerit cum ea, ipse morietur solus:",
+        "VulgConte (2009)": "Sin autem in agro repererit vir puellam, quæ desponsata est, et apprehendens concubuerit cum ea, ipse morietur solus:",
+        "VulgSistina (1590)": "Sin autem in agro repererit vir puellam, quae desponsata est, et apprehendens concubuerit cum ea, ipse morietur solus:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66911,
+      "verse": 26,
+      "critical_text": "puella nihil patietur, nec est rea mortis: quoniam sicut latro consurgit contra fratrem suum, et occidit animam ejus, ita et puella perpessa est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "puella nihil patietur, nec est rea mortis: quoniam sicut latro consurgit contra fratrem suum, et occidit animam ejus, ita et puella perpessa est.",
+        "Clem-Saints": "puella nihil patietur, nec est rea mortis: quoniam sicut latro consurgit contra fratrem suum, et occidit animam ejus, ita et puella perpessa est.",
+        "VulgHetzenauer (1906)": "puella nihil patietur, nec est rea mortis: quoniam sicut latro consurgit contra fratrem suum, et occidit animam eius, ita et puella perpessa est.",
+        "VulgConte (2009)": "puella nihil patietur, nec est rea mortis: quoniam sicut latro consurgit contra fratrem suum, et occidit animam eius, ita et puella perpessa est.",
+        "VulgSistina (1590)": "puella nihil patietur, nec est rea mortis: quoniam sicut latro consurgit contra fratrem suum, et occidit animam eius, ita et puella perpessa est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66912,
+      "verse": 27,
+      "critical_text": "Sola erat in agro: clamavit, et nullus affuit qui liberaret eam.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sola erat in agro: clamavit, et nullus affuit qui liberaret eam.",
+        "Clem-Saints": "Sola erat in agro: clamavit, et nullus affuit qui liberaret eam.",
+        "VulgHetzenauer (1906)": "sola erat in agro: clamavit, et nullus affuit qui liberaret eam.",
+        "VulgConte (2009)": "Sola erat in agro: clamavit, et nullus affuit qui liberaret eam.",
+        "VulgSistina (1590)": "sola erat in agro: clamavit, et nullus affuit qui liberaret eam."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66913,
+      "verse": 28,
+      "critical_text": "Si invenerit vir puellam virginem, quæ non habet sponsum, et apprehendens concubuerit cum illa, et res ad judicium venerit:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si invenerit vir puellam virginem, quæ non habet sponsum, et apprehendens concubuerit cum illa, et res ad judicium venerit:",
+        "Clem-Saints": "Si invenerit vir puellam virginem, quæ non habet sponsum, et apprehendens concubuerit cum illa, et res ad judicium venerit:",
+        "VulgHetzenauer (1906)": "Si invenerit vir puellam virginem, quæ non habet sponsum, et apprehendens concubuerit cum illa, et res ad iudicium venerit:",
+        "VulgConte (2009)": "Si invenerit vir puellam virginem, quæ non habet sponsum, et apprehendens concubuerit cum illa, et res ad iudicium venerit:",
+        "VulgSistina (1590)": "Si invenerit vir puellam virginem, quae non habet sponsum, et apprehendens concubuerit cum illa, et res ad iudicium venerit:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 66914,
+      "verse": 29,
+      "critical_text": "dabit qui dormivit cum ea, patri puellæ quinquaginta siclos argenti, et habebit eam uxorem, quia humiliavit illam: non poterit dimittere eam cunctis diebus vitæ suæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "dabit qui dormivit cum ea, patri puellæ quinquaginta siclos argenti, et habebit eam uxorem, quia humiliavit illam: non poterit dimittere eam cunctis diebus vitæ suæ.",
+        "Clem-Saints": "dabit qui dormivit cum ea, patri puellæ quinquaginta siclos argenti, et habebit eam uxorem, quia humiliavit illam: non poterit dimittere eam cunctis diebus vitæ suæ.",
+        "VulgHetzenauer (1906)": "dabit qui dormivit cum ea, patri puellæ quinquaginta siclos argenti, et habebit eam uxorem, quia humiliavit illam: non poterit dimittere eam cunctis diebus vitæ suæ.",
+        "VulgConte (2009)": "dabit qui dormivit cum ea, patri puellæ quinquaginta siclos argenti, et habebit eam uxorem, quia humiliavit illam: non poterit dimittere eam cunctis diebus vitæ suæ.",
+        "VulgSistina (1590)": "dabit qui dormivit cum ea, patri puellae quinquaginta siclos argenti, et habebit eam uxorem, quia humiliavit illam: non poterit dimittere eam cunctis diebus vitae suae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

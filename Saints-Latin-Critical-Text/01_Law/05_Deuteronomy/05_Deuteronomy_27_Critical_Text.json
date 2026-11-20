@@ -1,0 +1,806 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "01_Law",
+  "book_slug": "deuteronomy",
+  "book_title": "Deuteronomy",
+  "usfm_code": "DEU",
+  "chapter": 27,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:16:28Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 67001,
+      "verse": 1,
+      "critical_text": "Præcepit autem Moyses et seniores Israël populo, dicentes: Custodite omne mandatum quod præcipio vobis hodie.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Præcepit autem Moyses et seniores Israël populo, dicentes: Custodite omne mandatum quod præcipio vobis hodie.",
+        "Clem-Saints": "Præcepit autem Moyses et seniores Israël populo, dicentes: Custodite omne mandatum quod præcipio vobis hodie.",
+        "VulgHetzenauer (1906)": "Præcepit autem Moyses et seniores Israel, populo dicentes: Custodite omne mandatum quod præcipio vobis hodie.",
+        "VulgConte (2009)": "Præcepit autem Moyses et seniores Israel, populo dicentes: Custodite omne mandatum quod præcipio vobis hodie.",
+        "VulgSistina (1590)": "Praecepit autem Moyses et seniores Israel, populo dicentes: Custodite omne mandatum quod praecipio vobis hodie."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67002,
+      "verse": 2,
+      "critical_text": "Cumque transieritis Jordanem in terram, quam Dominus Deus tuus dabit tibi, eriges ingentes lapides, et calce lævigabis eos,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque transieritis Jordanem in terram, quam Dominus Deus tuus dabit tibi, eriges ingentes lapides, et calce lævigabis eos,",
+        "Clem-Saints": "Cumque transieritis Jordanem in terram, quam Dominus Deus tuus dabit tibi, eriges ingentes lapides, et calce lævigabis eos,",
+        "VulgHetzenauer (1906)": "Cumque transieritis Iordanem in Terram, quam Dominus Deus tuus dabit tibi, eriges ingentes lapides, et calce levigabis eos,",
+        "VulgConte (2009)": "Cumque transieritis Iordanem in Terram, quam Dominus Deus tuus dabit tibi, eriges ingentes lapides, et calce levigabis eos,",
+        "VulgSistina (1590)": "Cumque transieritis Iordanem in Terram, quam Dominus Deus tuus dabit tibi, eriges ingentes lapides, et calce levigabis eos,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "lævigabis / levigabis",
+            "lævigabis / levigabis",
+            "lævigabis / levigabis"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67003,
+      "verse": 3,
+      "critical_text": "ut possis in eis scribere omnia verba legis hujus, Jordane transmisso: ut introëas terram, quam Dominus Deus tuus dabit tibi, terram lacte et melle manantem, sicut juravit patribus tuis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ut possis in eis scribere omnia verba legis hujus, Jordane transmisso: ut introëas terram, quam Dominus Deus tuus dabit tibi, terram lacte et melle manantem, sicut juravit patribus tuis.",
+        "Clem-Saints": "ut possis in eis scribere omnia verba legis hujus, Jordane transmisso: ut introëas terram, quam Dominus Deus tuus dabit tibi, terram lacte et melle manantem, sicut juravit patribus tuis.",
+        "VulgHetzenauer (1906)": "ut possis in eis scribere omnia verba legis huius, Iordane transmisso: ut introeas Terram, quam Dominus Deus tuus dabit tibi, terram lacte et melle manantem, sicut iuravit patribus tuis.",
+        "VulgConte (2009)": "ut possis in eis scribere omnia verba legis huius, Iordane transmisso: ut introeas Terram, quam Dominus Deus tuus dabit tibi, terram lacte et melle manantem, sicut iuravit patribus tuis.",
+        "VulgSistina (1590)": "ut possis in eis scribere omnia verba legis huius, Iordane transmisso: ut introeas Terram, quam Dominus Deus tuus dabit tibi, terram lacte et melle manantem, sicut iuravit patribus tuis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67004,
+      "verse": 4,
+      "critical_text": "Quando ergo transieritis Jordanem, erigite lapides, quos ego hodie præcipio vobis in monte Hebal, et lævigabis eos calce:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quando ergo transieritis Jordanem, erigite lapides, quos ego hodie præcipio vobis in monte Hebal, et lævigabis eos calce:",
+        "Clem-Saints": "Quando ergo transieritis Jordanem, erigite lapides, quos ego hodie præcipio vobis in monte Hebal, et lævigabis eos calce:",
+        "VulgHetzenauer (1906)": "Quando ergo transieritis Iordanem, erigite lapides, quos ego hodie præcipio vobis in monte Hebal, et levigabis eos calce:",
+        "VulgConte (2009)": "Quando ergo transieritis Iordanem, erigite lapides, quos ego hodie præcipio vobis in monte Hebal, et levigabis eos calce:",
+        "VulgSistina (1590)": "Quando ergo transieritis Iordanem, erigite lapides, quos ego hodie praecipio vobis in monte Hebal, et levigabis eos calce:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "lævigabis / levigabis",
+            "lævigabis / levigabis",
+            "lævigabis / levigabis"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67005,
+      "verse": 5,
+      "critical_text": "et ædificabis ibi altare Domino Deo tuo de lapidibus, quos ferrum non tetigit,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et ædificabis ibi altare Domino Deo tuo de lapidibus, quos ferrum non tetigit,",
+        "Clem-Saints": "et ædificabis ibi altare Domino Deo tuo de lapidibus, quos ferrum non tetigit,",
+        "VulgHetzenauer (1906)": "et ædificabis ibi altare Domino Deo tuo de lapidibus, quos ferrum non tetigit,",
+        "VulgConte (2009)": "et ædificabis ibi altare Domino Deo tuo de lapidibus, quos ferrum non tetigit,",
+        "VulgSistina (1590)": "et aedificabis ibi altare Domino Deo tuo de lapidibus, quos ferrum non tetigit,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67006,
+      "verse": 6,
+      "critical_text": "et de saxis informibus et impolitis: et offeres super eo holocausta Domino Deo tuo,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et de saxis informibus et impolitis: et offeres super eo holocausta Domino Deo tuo,",
+        "Clem-Saints": "et de saxis informibus et impolitis: et offeres super eo holocausta Domino Deo tuo,",
+        "VulgHetzenauer (1906)": "et de saxis informibus et impolitis: et offeres super eo holocausta Domino Deo tuo,",
+        "VulgConte (2009)": "et de saxis informibus et impolitis: et offeres super eo holocausta Domino Deo tuo,",
+        "VulgSistina (1590)": "et de saxis informibus et impolitis: et offeres super eo holocausta Domino Deo tuo,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67007,
+      "verse": 7,
+      "critical_text": "et immolabis hostias pacificas, comedesque ibi, et epulaberis coram Domino Deo tuo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et immolabis hostias pacificas, comedesque ibi, et epulaberis coram Domino Deo tuo.",
+        "Clem-Saints": "et immolabis hostias pacificas, comedesque ibi, et epulaberis coram Domino Deo tuo.",
+        "VulgHetzenauer (1906)": "et immolabis hostias pacificas, comedesque ibi, et epulaberis coram Domino Deo tuo.",
+        "VulgConte (2009)": "et immolabis hostias pacificas, comedesque ibi, et epulaberis coram Domino Deo tuo.",
+        "VulgSistina (1590)": "et immolabis hostias pacificas, comedesque ibi, et epulaberis coram Domino Deo tuo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67008,
+      "verse": 8,
+      "critical_text": "Et scribes super lapides omnia verba legis hujus plane et lucide.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et scribes super lapides omnia verba legis hujus plane et lucide.",
+        "Clem-Saints": "Et scribes super lapides omnia verba legis hujus plane et lucide.",
+        "VulgHetzenauer (1906)": "Et scribes super lapides omnia verba legis huius plane et lucide.",
+        "VulgConte (2009)": "Et scribes super lapides omnia verba legis huius plane et lucide.",
+        "VulgSistina (1590)": "Et scribes super lapides omnia verba legis huius plane et lucide."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67009,
+      "verse": 9,
+      "critical_text": "Dixeruntque Moyses et sacerdotes Levitici generis ad omnem Israëlem: Attende, et audi, Israël: hodie factus es populus Domini Dei tui:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dixeruntque Moyses et sacerdotes Levitici generis ad omnem Israëlem: Attende, et audi, Israël: hodie factus es populus Domini Dei tui:",
+        "Clem-Saints": "Dixeruntque Moyses et sacerdotes Levitici generis ad omnem Israëlem: Attende, et audi, Israël: hodie factus es populus Domini Dei tui:",
+        "VulgHetzenauer (1906)": "Dixeruntque Moyses et sacerdotes Levitici generis ad omnem Israelem: Attende, et audi Israel: Hodie factus es populus Domini Dei tui:",
+        "VulgConte (2009)": "Dixeruntque Moyses et sacerdotes Levitici generis ad omnem Israelem: Attende, et audi Israel: Hodie factus es populus Domini Dei tui:",
+        "VulgSistina (1590)": "Dixeruntque Moyses et sacerdotes Levitici generis ad omnem Israelem: Attende, et audi Israel: Hodie factus es populus Domini Dei tui:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67010,
+      "verse": 10,
+      "critical_text": "audies vocem ejus, et facies mandata atque justitias, quas ego præcipio tibi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "audies vocem ejus, et facies mandata atque justitias, quas ego præcipio tibi.",
+        "Clem-Saints": "audies vocem ejus, et facies mandata atque justitias, quas ego præcipio tibi.",
+        "VulgHetzenauer (1906)": "audies vocem eius, et facies mandata atque iustitias, quas ego præcipio tibi.",
+        "VulgConte (2009)": "audies vocem eius, et facies mandata atque iustitias, quas ego præcipio tibi.",
+        "VulgSistina (1590)": "audies vocem eius, et facies mandata atque iustitias, quas ego praecipio tibi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67011,
+      "verse": 11,
+      "critical_text": "Præcepitque Moyses populo in die illo, dicens:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Præcepitque Moyses populo in die illo, dicens:",
+        "Clem-Saints": "Præcepitque Moyses populo in die illo, dicens:",
+        "VulgHetzenauer (1906)": "Præcepitque Moyses populo in die illo, dicens:",
+        "VulgConte (2009)": "Præcepitque Moyses populo in die illo, dicens:",
+        "VulgSistina (1590)": "Praecepitque Moyses populo in die illo, dicens:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67012,
+      "verse": 12,
+      "critical_text": "Hi stabunt ad benedicendum populo super montem Garizim, Jordane transmisso: Simeon, Levi, Judas, Issachar, Joseph, et Benjamin.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hi stabunt ad benedicendum populo super montem Garizim, Jordane transmisso: Simeon, Levi, Judas, Issachar, Joseph, et Benjamin.",
+        "Clem-Saints": "Hi stabunt ad benedicendum populo super montem Garizim, Jordane transmisso: Simeon, Levi, Judas, Issachar, Joseph, et Benjamin.",
+        "VulgHetzenauer (1906)": "Hi stabunt ad benedicendum populo super montem Garizim, Iordane transmisso: Simeon, Levi, Iudas, Issachar, Ioseph, et Beniamin.",
+        "VulgConte (2009)": "Hi stabunt ad benedicendum populo super montem Garizim, Iordane transmisso: Simeon, Levi, Iudas, Issachar, Ioseph, et Beniamin.",
+        "VulgSistina (1590)": "Hi stabunt ad benedicendum populo super montem Garizim, Iordane transmisso: Simeon, Levi, Iudas, Issachar, Ioseph, et Beniamin."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67013,
+      "verse": 13,
+      "critical_text": "Et e regione isti stabunt ad maledicendum in monte Hebal: Ruben, Gad, et Aser, et Zabulon, Dan, et Nephthali.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et e regione isti stabunt ad maledicendum in monte Hebal: Ruben, Gad, et Aser, et Zabulon, Dan, et Nephthali.",
+        "Clem-Saints": "Et e regione isti stabunt ad maledicendum in monte Hebal: Ruben, Gad, et Aser, et Zabulon, Dan, et Nephthali.",
+        "VulgHetzenauer (1906)": "Et e regione isti stabunt ad maledicendum in monte Hebal: Ruben, Gad, et Aser, et Zabulon, Dan et Nephthali.",
+        "VulgConte (2009)": "Et e regione isti stabunt ad maledicendum in monte Hebal: Ruben, Gad, et Aser, et Zabulon, Dan et Nephthali.",
+        "VulgSistina (1590)": "Et e regione isti stabunt ad maledicendum in monte Hebal: Ruben, Gad, et Aser, et Zabulon, Dan et Nephthali."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67014,
+      "verse": 14,
+      "critical_text": "Et pronuntiabunt Levitæ, dicentque ad omnes viros Israël excelsa voce:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et pronuntiabunt Levitæ, dicentque ad omnes viros Israël excelsa voce:",
+        "Clem-Saints": "Et pronuntiabunt Levitæ, dicentque ad omnes viros Israël excelsa voce:",
+        "VulgHetzenauer (1906)": "Et pronunciabunt Levitæ, dicentque ad omnes viros Israel excelsa voce:",
+        "VulgConte (2009)": "Et pronunciabunt Levitæ, dicentque ad omnes viros Israel excelsa voce:",
+        "VulgSistina (1590)": "Et pronunciabunt Levitae, dicentque ad omnes viros Israel excelsa voce:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "pronuntiabunt / pronunciabunt",
+            "pronuntiabunt / pronunciabunt",
+            "pronuntiabunt / pronunciabunt"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67015,
+      "verse": 15,
+      "critical_text": "Maledictus homo qui facit sculptile et conflatile, abominationem Domini, opus manuum artificum, ponetque illud in abscondito: et respondebit omnis populus, et dicet: Amen.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Maledictus homo qui facit sculptile et conflatile, abominationem Domini, opus manuum artificum, ponetque illud in abscondito: et respondebit omnis populus, et dicet: Amen.",
+        "Clem-Saints": "Maledictus homo qui facit sculptile et conflatile, abominationem Domini, opus manuum artificum, ponetque illud in abscondito: et respondebit omnis populus, et dicet: Amen.",
+        "VulgHetzenauer (1906)": "Maledictus homo, qui facit sculptile et conflatile, abominationem Domini, opus manuum artificum, ponetque illud in abscondito. et respondebit omnis populus, et dicet: Amen.",
+        "VulgConte (2009)": "Maledictus homo, qui facit sculptile et conflatile, abominationem Domini, opus manuum artificum, ponetque illud in abscondito. Et respondebit omnis populus, et dicet: Amen.",
+        "VulgSistina (1590)": "Maledictus homo, qui facit sculptile et conflatile, abominationem Domini, opus manuum artificum, ponetque illud in abscondito. et respondebit omnis populus, et dicet: Amen."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67016,
+      "verse": 16,
+      "critical_text": "Maledictus qui non honorat patrem suum, et matrem: et dicet omnis populus: Amen.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Maledictus qui non honorat patrem suum, et matrem: et dicet omnis populus: Amen.",
+        "Clem-Saints": "Maledictus qui non honorat patrem suum, et matrem: et dicet omnis populus: Amen.",
+        "VulgHetzenauer (1906)": "Maledictus qui non honorat patrem suum, et matrem. et dicet omnis populus: Amen.",
+        "VulgConte (2009)": "Maledictus qui non honorat patrem suum, et matrem. Et dicet omnis populus: Amen.",
+        "VulgSistina (1590)": "Maledictus qui non honorat patrem suum, et matrem. et dicet omnis populus: Amen."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67017,
+      "verse": 17,
+      "critical_text": "Maledictus qui transfert terminos proximi sui: et dicet omnis populus: Amen.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Maledictus qui transfert terminos proximi sui: et dicet omnis populus: Amen.",
+        "Clem-Saints": "Maledictus qui transfert terminos proximi sui: et dicet omnis populus: Amen.",
+        "VulgHetzenauer (1906)": "Maledictus qui transfert terminos proximi sui. et dicet omnis populus: Amen.",
+        "VulgConte (2009)": "Maledictus qui transfert terminos proximi sui. Et dicet omnis populus: Amen.",
+        "VulgSistina (1590)": "Maledictus qui transfert terminos proximi sui. et dicet omnis populus: Amen."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67018,
+      "verse": 18,
+      "critical_text": "Maledictus qui errare facit cæcum in itinere: et dicet omnis populus: Amen.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Maledictus qui errare facit cæcum in itinere: et dicet omnis populus: Amen.",
+        "Clem-Saints": "Maledictus qui errare facit cæcum in itinere: et dicet omnis populus: Amen.",
+        "VulgHetzenauer (1906)": "Maledictus qui errare facit cæcum in itinere. et dicet omnis populus: Amen.",
+        "VulgConte (2009)": "Maledictus qui errare facit cæcum in itinere. Et dicet omnis populus: Amen.",
+        "VulgSistina (1590)": "Maledictus qui errare facit caecum in itinere. et dicet omnis populus: Amen."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67019,
+      "verse": 19,
+      "critical_text": "Maledictus qui pervertit judicium advenæ, pupilli et viduæ: et dicet omnis populus: Amen.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Maledictus qui pervertit judicium advenæ, pupilli et viduæ: et dicet omnis populus: Amen.",
+        "Clem-Saints": "Maledictus qui pervertit judicium advenæ, pupilli et viduæ: et dicet omnis populus: Amen.",
+        "VulgHetzenauer (1906)": "Maledictus qui pervertit iudicium advenæ, pupilli et viduæ. et dicet omnis populus: Amen.",
+        "VulgConte (2009)": "Maledictus qui pervertit iudicium advenæ, pupilli et viduæ. Et dicet omnis populus: Amen.",
+        "VulgSistina (1590)": "Maledictus qui pervertit iudicium advenae, pupilli et viduae. et dicet omnis populus: Amen."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67020,
+      "verse": 20,
+      "critical_text": "Maledictus qui dormit cum uxore patris sui, et revelat operimentum lectuli ejus: et dicet omnis populus: Amen.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Maledictus qui dormit cum uxore patris sui, et revelat operimentum lectuli ejus: et dicet omnis populus: Amen.",
+        "Clem-Saints": "Maledictus qui dormit cum uxore patris sui, et revelat operimentum lectuli ejus: et dicet omnis populus: Amen.",
+        "VulgHetzenauer (1906)": "Maledictus qui dormit cum uxore patris sui, et revelat operimentum lectuli eius. et dicet omnis populus: Amen.",
+        "VulgConte (2009)": "Maledictus qui dormit cum uxore patris sui, et revelat operimentum lectuli eius. Et dicet omnis populus: Amen.",
+        "VulgSistina (1590)": "Maledictus qui dormit cum uxore patris sui, et revelat operimentum lectuli eius. et dicet omnis populus: Amen."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67021,
+      "verse": 21,
+      "critical_text": "Maledictus qui dormit cum omni jumento: et dicet omnis populus: Amen.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Maledictus qui dormit cum omni jumento: et dicet omnis populus: Amen.",
+        "Clem-Saints": "Maledictus qui dormit cum omni jumento: et dicet omnis populus: Amen.",
+        "VulgHetzenauer (1906)": "Maledictus qui dormit cum omni iumento. et dicet omnis populus: Amen.",
+        "VulgConte (2009)": "Maledictus qui dormit cum omni iumento. Et dicet omnis populus: Amen.",
+        "VulgSistina (1590)": "Maledictus qui dormit cum omni iumento. et dicet omnis populus: Amen."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67022,
+      "verse": 22,
+      "critical_text": "Maledictus qui dormit cum sorore sua, filia patris sui, vel matris suæ: et dicet omnis populus: Amen.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Maledictus qui dormit cum sorore sua, filia patris sui, vel matris suæ: et dicet omnis populus: Amen.",
+        "Clem-Saints": "Maledictus qui dormit cum sorore sua, filia patris sui, vel matris suæ: et dicet omnis populus: Amen.",
+        "VulgHetzenauer (1906)": "Maledictus qui dormit cum sorore sua, filia patris sui, vel matris suæ. et dicet omnis populus: Amen.",
+        "VulgConte (2009)": "Maledictus qui dormit cum sorore sua, filia patris sui, vel matris suæ. Et dicet omnis populus: Amen.",
+        "VulgSistina (1590)": "Maledictus qui dormit cum sorore sua, filia patris sui, vel matris suae. et dicet omnis populus: Amen."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67023,
+      "verse": 23,
+      "critical_text": "Maledictus qui dormit cum socru sua: et dicet omnis populus: Amen.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Maledictus qui dormit cum socru sua: et dicet omnis populus: Amen.",
+        "Clem-Saints": "Maledictus qui dormit cum socru sua: et dicet omnis populus: Amen.",
+        "VulgHetzenauer (1906)": "Maledictus qui dormit cum socru sua. et dicet omnis populus: Amen.",
+        "VulgConte (2009)": "Maledictus qui dormit cum socru sua. Et dicet omnis populus: Amen.",
+        "VulgSistina (1590)": "Maledictus qui dormit cum socru sua. et dicet omnis populus: Amen."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67024,
+      "verse": 24,
+      "critical_text": "Maledictus qui clam percusserit proximum suum: et dicet omnis populus: Amen.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Maledictus qui clam percusserit proximum suum: et dicet omnis populus: Amen.",
+        "Clem-Saints": "Maledictus qui clam percusserit proximum suum: et dicet omnis populus: Amen.",
+        "VulgHetzenauer (1906)": "Maledictus qui clam percusserit proximum suum. et dicet omnis populus: Amen.",
+        "VulgConte (2009)": "Maledictus qui clam percusserit proximum suum. Et dicet omnis populus: Amen.",
+        "VulgSistina (1590)": "Maledictus qui clam percusserit proximum suum. et dicet omnis populus: Amen."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67025,
+      "verse": 25,
+      "critical_text": "Maledictus qui accipit munera, ut percutiat animam sanguinis innocentis: et dicet omnis populus: Amen.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Maledictus qui accipit munera, ut percutiat animam sanguinis innocentis: et dicet omnis populus: Amen.",
+        "Clem-Saints": "Maledictus qui accipit munera, ut percutiat animam sanguinis innocentis: et dicet omnis populus: Amen.",
+        "VulgHetzenauer (1906)": "Maledictus qui accipit munera, ut percutiat animam sanguinis innocentis. et dicet omnis populus: Amen.",
+        "VulgConte (2009)": "Maledictus qui accipit munera, ut percutiat animam sanguinis innocentis. Et dicet omnis populus: Amen.",
+        "VulgSistina (1590)": "Maledictus qui accipit munera, ut percutiat animam sanguinis innocentis. et dicet omnis populus: Amen."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 67026,
+      "verse": 26,
+      "critical_text": "Maledictus qui non permanet in sermonibus legis hujus, nec eos opere perficit: et dicet omnis populus: Amen.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Maledictus qui non permanet in sermonibus legis hujus, nec eos opere perficit: et dicet omnis populus: Amen.",
+        "Clem-Saints": "Maledictus qui non permanet in sermonibus legis hujus, nec eos opere perficit: et dicet omnis populus: Amen.",
+        "VulgHetzenauer (1906)": "Maledictus qui non permanet in sermonibus legis huius, nec eos opere perficit. et dicet omnis populus: Amen.",
+        "VulgConte (2009)": "Maledictus qui non permanet in sermonibus legis huius, nec eos opere perficit. Et dicet omnis populus: Amen.",
+        "VulgSistina (1590)": "Maledictus qui non permanet in sermonibus legis huius, nec eos opere perficit. et dicet omnis populus: Amen."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

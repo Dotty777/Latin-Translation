@@ -1,0 +1,377 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "06_Discipleship",
+  "book_slug": "1-john",
+  "book_title": "1 John",
+  "usfm_code": "1JN",
+  "chapter": 1,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:18:49Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 95375,
+      "verse": 1,
+      "critical_text": "Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostræ contrectaverunt de verbo vitæ:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostræ contrectaverunt de verbo vitæ:",
+        "Clem-Saints": "Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostræ contrectaverunt de verbo vitæ:",
+        "VulgHetzenauer (1906)": "Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostræ contrectaverunt de verbo vitæ:",
+        "VulgConte (2009)": "Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostræ contrectaverunt de Verbo Vitæ:",
+        "VulgSistina (1590)": "Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostrae contrectaverunt de verbo vitae:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95376,
+      "verse": 2,
+      "critical_text": "et vita manifestata est, et vidimus, et testamur, et annuntiamus vobis vitam æternam, quæ erat apud Patrem, et apparuit nobis:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et vita manifestata est, et vidimus, et testamur, et annuntiamus vobis vitam æternam, quæ erat apud Patrem, et apparuit nobis:",
+        "Clem-Saints": "et vita manifestata est, et vidimus, et testamur, et annuntiamus vobis vitam æternam, quæ erat apud Patrem, et apparuit nobis:",
+        "VulgHetzenauer (1906)": "et vita manifestata est, et vidimus, et testamur, et annunciamus vobis vitam æternam, quæ erat apud Patrem, et apparuit nobis:",
+        "VulgConte (2009)": "et Vita manifestata est, et vidimus, et testamur, et annunciamus vobis Vitam æternam, quæ erat apud Patrem, et apparuit nobis:",
+        "VulgSistina (1590)": "et vita manifestata est, et vidimus, et testamur, et annunciamus vobis vitam aeternam, quae erat apud Patrem, et apparuit nobis:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "annuntiamus / annunciamus",
+            "annuntiamus / annunciamus",
+            "annuntiamus / annunciamus"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95377,
+      "verse": 3,
+      "critical_text": "quod vidimus et audivimus, annuntiamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Patre, et cum Filio ejus Jesu Christo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "quod vidimus et audivimus, annuntiamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Patre, et cum Filio ejus Jesu Christo.",
+        "Clem-Saints": "quod vidimus et audivimus, annuntiamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Patre, et cum Filio ejus Jesu Christo.",
+        "VulgHetzenauer (1906)": "quod vidimus et audivimus, annunciamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Patre, et cum Filio eius Iesu Christo.",
+        "VulgConte (2009)": "Quod vidimus et audivimus, annunciamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Patre, et cum Filio eius Iesu Christo.",
+        "VulgSistina (1590)": "quod vidimus et audivimus, annunciamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Patre, et cum Filio eius Iesu Christo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "annuntiamus / annunciamus",
+            "annuntiamus / annunciamus",
+            "annuntiamus / annunciamus"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95378,
+      "verse": 4,
+      "critical_text": "Et hæc scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et hæc scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.",
+        "Clem-Saints": "Et hæc scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.",
+        "VulgHetzenauer (1906)": "Et hæc scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.",
+        "VulgConte (2009)": "Et hæc scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.",
+        "VulgSistina (1590)": "Et haec scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95379,
+      "verse": 5,
+      "critical_text": "Et hæc est annuntiatio, quam audivimus ab eo, et annuntiamus vobis: quoniam Deus lux est, et tenebræ in eo non sunt ullæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et hæc est annuntiatio, quam audivimus ab eo, et annuntiamus vobis: quoniam Deus lux est, et tenebræ in eo non sunt ullæ.",
+        "Clem-Saints": "Et hæc est annuntiatio, quam audivimus ab eo, et annuntiamus vobis: quoniam Deus lux est, et tenebræ in eo non sunt ullæ.",
+        "VulgHetzenauer (1906)": "Et hæc est annunciatio, quam audivimus ab eo, et annunciamus vobis: Quoniam Deus lux est, et tenebræ in eo non sunt ullæ.",
+        "VulgConte (2009)": "Et hæc est annunciatio, quam audivimus ab eo, et annunciamus vobis: Quoniam Deus lux est, et tenebræ in eo non sunt ullæ.",
+        "VulgSistina (1590)": "Et haec est annunciatio, quam audivimus ab eo, et annunciamus vobis: Quoniam Deus lux est, et tenebrae in eo non sunt ullae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "annuntiatio, / annunciatio,",
+            "annuntiamus / annunciamus",
+            "annuntiatio, / annunciatio,",
+            "annuntiamus / annunciamus",
+            "annuntiatio, / annunciatio,",
+            "annuntiamus / annunciamus"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95380,
+      "verse": 6,
+      "critical_text": "Si dixerimus quoniam societatem habemus cum eo, et in tenebris ambulamus, mentimur, et veritatem non facimus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si dixerimus quoniam societatem habemus cum eo, et in tenebris ambulamus, mentimur, et veritatem non facimus.",
+        "Clem-Saints": "Si dixerimus quoniam societatem habemus cum eo, et in tenebris ambulamus, mentimur, et veritatem non facimus.",
+        "VulgHetzenauer (1906)": "Si dixerimus quoniam societatem habemus cum eo, et in tenebris ambulamus, mentimur, et veritatem non facimus.",
+        "VulgConte (2009)": "Si dixerimus quoniam societatem habemus cum eo, et in tenebris ambulamus, mentimur, et veritatem non facimus.",
+        "VulgSistina (1590)": "Si dixerimus quoniam societatem habemus cum eo, et in tenebris ambulamus, mentimur, et veritatem non facimus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95381,
+      "verse": 7,
+      "critical_text": "Si autem in luce ambulamus sicut et ipse est in luce, societatem habemus ad invicem, et sanguis Jesu Christi, Filii ejus, emundat nos ab omni peccato.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si autem in luce ambulamus sicut et ipse est in luce, societatem habemus ad invicem, et sanguis Jesu Christi, Filii ejus, emundat nos ab omni peccato.",
+        "Clem-Saints": "Si autem in luce ambulamus sicut et ipse est in luce, societatem habemus ad invicem, et sanguis Jesu Christi, Filii ejus, emundat nos ab omni peccato.",
+        "VulgHetzenauer (1906)": "Si autem in luce ambulamus sicut et ipse est in luce, societatem habemus ad invicem, et sanguis Iesu Christi, Filii eius, emundat nos ab omni peccato.",
+        "VulgConte (2009)": "Si autem in luce ambulamus sicut et ipse est in luce, societatem habemus ad invicem, et sanguis Iesu Christi, Filii eius, emundat nos ab omni peccato.",
+        "VulgSistina (1590)": "Si autem in luce ambulamus sicut et ipse est in luce, societatem habemus ad invicem, et sanguis Iesu Christi, Filii eius, emundat nos ab omni peccato."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95382,
+      "verse": 8,
+      "critical_text": "Si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est.",
+        "Clem-Saints": "Si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est.",
+        "VulgHetzenauer (1906)": "Si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est.",
+        "VulgConte (2009)": "Si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est.",
+        "VulgSistina (1590)": "Si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95383,
+      "verse": 9,
+      "critical_text": "Si confiteamur peccata nostra: fidelis est, et justus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si confiteamur peccata nostra: fidelis est, et justus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate.",
+        "Clem-Saints": "Si confiteamur peccata nostra: fidelis est, et justus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate.",
+        "VulgHetzenauer (1906)": "Si confiteamur peccata nostra: fidelis est, et iustus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate.",
+        "VulgConte (2009)": "Si confiteamur peccata nostra: fidelis est, et iustus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate.",
+        "VulgSistina (1590)": "Si confiteamur peccata nostra: fidelis est, et iustus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 95384,
+      "verse": 10,
+      "critical_text": "Si dixerimus quoniam non peccavimus, mendacem facimus eum, et verbum ejus non est in nobis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Si dixerimus quoniam non peccavimus, mendacem facimus eum, et verbum ejus non est in nobis.",
+        "Clem-Saints": "Si dixerimus quoniam non peccavimus, mendacem facimus eum, et verbum ejus non est in nobis.",
+        "VulgHetzenauer (1906)": "Si dixerimus quoniam non peccavimus: mendacem facimus eum, et verbum eius non est in nobis.",
+        "VulgConte (2009)": "Si dixerimus quoniam non peccavimus: mendacem facimus eum, et verbum eius non est in nobis.",
+        "VulgSistina (1590)": "Si dixerimus quoniam non peccavimus: mendacem facimus eum, et verbum eius non est in nobis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

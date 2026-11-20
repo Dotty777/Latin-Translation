@@ -1,0 +1,507 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "04_Providence",
+  "book_slug": "micah",
+  "book_title": "Micah",
+  "usfm_code": "MIC",
+  "chapter": 5,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-18T03:18:17Z",
+  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
+  "versification_anchor": "Clem-Saints",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "Clem1598-USFX: verse 5:1 moved to 4:14 across chapter break before re-division",
+    "Clem1598-USFX: 10 verse(s) re-aligned by content (1←5:2, 2←5:3, 3←5:4, 4←5:5, 5←5:6, 6←5:7…)",
+    "VulgHetzenauer (1906): verse 5:1 moved to 4:14 across chapter break before re-division",
+    "VulgHetzenauer (1906): 10 verse(s) re-aligned by content (1←5:2, 2←5:3, 3←5:4, 4←5:5, 5←5:6, 6←5:7…)",
+    "VulgConte (2009): verse 5:1 moved to 4:14 across chapter break before re-division",
+    "VulgConte (2009): 10 verse(s) re-aligned by content (1←5:2, 2←5:3, 3←5:4, 4←5:5, 5←5:6, 6←5:7…)",
+    "VulgSistina (1590): verse 5:1 moved to 4:14 across chapter break before re-division",
+    "VulgSistina (1590): 10 verse(s) re-aligned by content (1←5:2, 2←5:3, 3←5:4, 4←5:5, 5←5:6, 6←5:7…)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    },
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "weight": 0.86,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 87480,
+      "verse": 1,
+      "critical_text": "Et tu, Bethlehem Ephrata, parvulus es in millibus Juda; ex te mihi egredietur qui sit dominator in Israël, et egressus ejus ab initio, a diebus æternitatis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et tu, Bethlehem Ephrata, parvulus es in millibus Juda; ex te mihi egredietur qui sit dominator in Israël, et egressus ejus ab initio, a diebus æternitatis.",
+        "Clem-Saints": "Et tu, Bethlehem Ephrata, parvulus es in millibus Juda; ex te mihi egredietur qui sit dominator in Israël, et egressus ejus ab initio, a diebus æternitatis.",
+        "VulgHetzenauer (1906)": "ET TU BETHLEHEM Ephrata parvulus es in millibus Iuda: ex te mihi egredietur qui sit dominator in Israel, et egressus eius ab initio, a diebus æternitatis.",
+        "VulgConte (2009)": "ET TU BETHLEHEM Ephrata parvulus es in millibus Iuda: ex te mihi egredietur qui sit dominator in Israel, et egressus eius ab initio, a diebus æternitatis.",
+        "VulgSistina (1590)": "ET TU BETHLEHEM Ephrata parvulus es in millibus Iuda: ex te mihi egredietur qui sit dominator in Israel, et egressus eius ab initio, a diebus aeternitatis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "5:2",
+        "VulgHetzenauer (1906)": "5:2",
+        "VulgConte (2009)": "5:2",
+        "VulgSistina (1590)": "5:2"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 5:2 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87481,
+      "verse": 2,
+      "critical_text": "Propter hoc dabit eos usque ad tempus in quo parturiens pariet, et reliquiæ fratrum ejus convertentur ad filios Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Propter hoc dabit eos usque ad tempus in quo parturiens pariet, et reliquiæ fratrum ejus convertentur ad filios Israël.",
+        "Clem-Saints": "Propter hoc dabit eos usque ad tempus in quo parturiens pariet, et reliquiæ fratrum ejus convertentur ad filios Israël.",
+        "VulgHetzenauer (1906)": "Propter hoc dabit eos usque ad tempus, in quo parturiens pariet: et reliquiæ fratrum eius convertentur ad filios Israel.",
+        "VulgConte (2009)": "Propter hoc dabit eos usque ad tempus, in quo parturiens pariet: et reliquiæ fratrum eius convertentur ad filios Israel.",
+        "VulgSistina (1590)": "Propter hoc dabit eos usque ad tempus, in quo parturiens pariet: et reliquiae fratrum eius convertentur ad filios Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "5:3",
+        "VulgHetzenauer (1906)": "5:3",
+        "VulgConte (2009)": "5:3",
+        "VulgSistina (1590)": "5:3"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 5:3 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87482,
+      "verse": 3,
+      "critical_text": "Et stabit, et pascet in fortitudine Domini, in sublimitate nominis Domini Dei sui: et convertentur, quia nunc magnificabitur usque ad terminos terræ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et stabit, et pascet in fortitudine Domini, in sublimitate nominis Domini Dei sui: et convertentur, quia nunc magnificabitur usque ad terminos terræ.",
+        "Clem-Saints": "Et stabit, et pascet in fortitudine Domini, in sublimitate nominis Domini Dei sui: et convertentur, quia nunc magnificabitur usque ad terminos terræ.",
+        "VulgHetzenauer (1906)": "Et stabit, et pascet in fortitudine Domini, in sublimitate nominis Domini Dei sui: et convertentur, quia nunc magnificabitur usque ad terminos terræ.",
+        "VulgConte (2009)": "Et stabit, et pascet in fortitudine Domini, in sublimitate nominis Domini Dei sui: et convertentur, quia nunc magnificabitur usque ad terminos terræ.",
+        "VulgSistina (1590)": "Et stabit, et pascet in fortitudine Domini, in sublimitate nominis Domini Dei sui: et convertentur, quia nunc magnificabitur usque ad terminos terrae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "5:4",
+        "VulgHetzenauer (1906)": "5:4",
+        "VulgConte (2009)": "5:4",
+        "VulgSistina (1590)": "5:4"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 5:4 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87483,
+      "verse": 4,
+      "critical_text": "Et erit iste pax: cum venerit Assyrius in terram nostram, et quando calcaverit domibus nostris, et suscitabimus super eum septem pastores et octo primates homines;",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et erit iste pax: cum venerit Assyrius in terram nostram, et quando calcaverit domibus nostris, et suscitabimus super eum septem pastores et octo primates homines;",
+        "Clem-Saints": "Et erit iste pax: cum venerit Assyrius in terram nostram, et quando calcaverit domibus nostris, et suscitabimus super eum septem pastores et octo primates homines;",
+        "VulgHetzenauer (1906)": "Et erit iste pax: cum venerit Assyrius in terram nostram, et quando calcaverit domibus nostris: et suscitabimus super eum septem pastores, et octo primates homines:",
+        "VulgConte (2009)": "Et erit iste pax: cum venerit Assyrius in terram nostram, et quando calcaverit domibus nostris: et suscitabimus super eum septem pastores, et octo primates homines:",
+        "VulgSistina (1590)": "Et erit iste pax: cum venerit Assyrius in terram nostram, et quando calcaverit domibus nostris: et suscitabimus super eum septem pastores, et octo primates homines:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "5:5",
+        "VulgHetzenauer (1906)": "5:5",
+        "VulgConte (2009)": "5:5",
+        "VulgSistina (1590)": "5:5"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 5:5 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87484,
+      "verse": 5,
+      "critical_text": "et pascent terram Assur in gladio, et terram Nemrod in lanceis ejus, et liberabit ab Assur cum venerit in terram nostram, et cum calcaverit in finibus nostris.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et pascent terram Assur in gladio, et terram Nemrod in lanceis ejus, et liberabit ab Assur cum venerit in terram nostram, et cum calcaverit in finibus nostris.",
+        "Clem-Saints": "et pascent terram Assur in gladio, et terram Nemrod in lanceis ejus, et liberabit ab Assur cum venerit in terram nostram, et cum calcaverit in finibus nostris.",
+        "VulgHetzenauer (1906)": "Et pascent terram Assur in gladio, et terram Nemrod in lanceis eius: et liberabit ab Assur cum venerit in terram nostram, et cum calcaverit in finibus nostris.",
+        "VulgConte (2009)": "Et pascent terram Assur in gladio, et terram Nemrod in lanceis eius: et liberabit ab Assur cum venerit in terram nostram, et cum calcaverit in finibus nostris.",
+        "VulgSistina (1590)": "Et pascent terram Assur in gladio, et terram Nemrod in lanceis eius: et liberabit ab Assur cum venerit in terram nostram, et cum calcaverit in finibus nostris."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "5:6",
+        "VulgHetzenauer (1906)": "5:6",
+        "VulgConte (2009)": "5:6",
+        "VulgSistina (1590)": "5:6"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 5:6 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87485,
+      "verse": 6,
+      "critical_text": "Et erunt reliquiæ Jacob in medio populorum multorum quasi ros a Domino, et quasi stillæ super herbam, quæ non exspectat virum, et non præstolatur filios hominum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et erunt reliquiæ Jacob in medio populorum multorum quasi ros a Domino, et quasi stillæ super herbam, quæ non exspectat virum, et non præstolatur filios hominum.",
+        "Clem-Saints": "Et erunt reliquiæ Jacob in medio populorum multorum quasi ros a Domino, et quasi stillæ super herbam, quæ non exspectat virum, et non præstolatur filios hominum.",
+        "VulgHetzenauer (1906)": "Et erunt reliquiæ Iacob in medio populorum multorum quasi ros a Domino, et quasi stillæ super herbam, quæ non exspectat virum, et non præstolatur filios hominum.",
+        "VulgConte (2009)": "Et erunt reliquiæ Iacob in medio populorum multorum quasi ros a Domino, et quasi stillæ super herbam, quæ non exspectat virum, et non præstolatur filios hominum.",
+        "VulgSistina (1590)": "Et erunt reliquiae Iacob in medio populorum multorum quasi ros a Domino, et quasi stillae super herbam, quae non expectat virum, et non praestolatur filios hominum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "5:7",
+        "VulgHetzenauer (1906)": "5:7",
+        "VulgConte (2009)": "5:7",
+        "VulgSistina (1590)": "5:7"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "exspectat / expectat"
+          ],
+          "witnesses": [
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 5:7 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87486,
+      "verse": 7,
+      "critical_text": "Et erunt reliquiæ Jacob in gentibus, in medio populorum multorum, quasi leo in jumentis silvarum, et quasi catulus leonis in gregibus pecorum, qui cum transierit, et conculcaverit, et ceperit, non est qui eruat.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et erunt reliquiæ Jacob in gentibus, in medio populorum multorum, quasi leo in jumentis silvarum, et quasi catulus leonis in gregibus pecorum, qui cum transierit, et conculcaverit, et ceperit, non est qui eruat.",
+        "Clem-Saints": "Et erunt reliquiæ Jacob in gentibus, in medio populorum multorum, quasi leo in jumentis silvarum, et quasi catulus leonis in gregibus pecorum, qui cum transierit, et conculcaverit, et ceperit, non est qui eruat.",
+        "VulgHetzenauer (1906)": "Et erunt reliquiæ Iacob in Gentibus in medio populorum multorum, quasi leo in iumentis silvarum, et quasi catulus leonis in gregibus pecorum: qui cum transierit, et conculcaverit, et ceperit, non est qui eruat.",
+        "VulgConte (2009)": "Et erunt reliquiæ Iacob in Gentibus in medio populorum multorum, quasi leo in iumentis silvarum, et quasi catulus leonis in gregibus pecorum: qui cum transierit, et conculcaverit, et ceperit, non est qui eruat.",
+        "VulgSistina (1590)": "Et erunt reliquiae Iacob in Gentibus in medio populorum multorum, quasi leo in iumentis silvarum, et quasi catulus leonis in gregibus pecorum: qui cum transierit, et conculcaverit, et ceperit, non est qui eruat."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "5:8",
+        "VulgHetzenauer (1906)": "5:8",
+        "VulgConte (2009)": "5:8",
+        "VulgSistina (1590)": "5:8"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 5:8 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87487,
+      "verse": 8,
+      "critical_text": "Exaltabitur manus tua super hostes tuos, et omnes inimici tui interibunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Exaltabitur manus tua super hostes tuos, et omnes inimici tui interibunt.",
+        "Clem-Saints": "Exaltabitur manus tua super hostes tuos, et omnes inimici tui interibunt.",
+        "VulgHetzenauer (1906)": "Exaltabitur manus tua super hostes tuos, et omnes inimici tui interibunt.",
+        "VulgConte (2009)": "Exaltabitur manus tua super hostes tuos, et omnes inimici tui interibunt.",
+        "VulgSistina (1590)": "Et exaltabitur manus tua super hostes tuos, et omnes inimici tui interibunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "5:9",
+        "VulgHetzenauer (1906)": "5:9",
+        "VulgConte (2009)": "5:9",
+        "VulgSistina (1590)": "5:9"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)"
+          ],
+          "variants": [
+            {
+              "reading": "Et",
+              "witnesses": [
+                "VulgSistina (1590)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "word_index": 0,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 5:9 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87488,
+      "verse": 9,
+      "critical_text": "Et erit in die illa, dicit Dominus: auferam equos tuos de medio tui, et disperdam quadrigas tuas.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et erit in die illa, dicit Dominus: auferam equos tuos de medio tui, et disperdam quadrigas tuas.",
+        "Clem-Saints": "Et erit in die illa, dicit Dominus: auferam equos tuos de medio tui, et disperdam quadrigas tuas.",
+        "VulgHetzenauer (1906)": "Et erit in die illa, dicit Dominus: Auferam equos tuos de medio tui, et disperdam quadrigas tuas.",
+        "VulgConte (2009)": "Et erit in die illa, dicit Dominus: Auferam equos tuos de medio tui, et disperdam quadrigas tuas.",
+        "VulgSistina (1590)": "Et erit in die illa, dicit Dominus: Auferam equos tuos de medio tui, et disperdam quadrigas tuas."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "5:10",
+        "VulgHetzenauer (1906)": "5:10",
+        "VulgConte (2009)": "5:10",
+        "VulgSistina (1590)": "5:10"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 5:10 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87489,
+      "verse": 10,
+      "critical_text": "Et perdam civitates terræ tuæ, et destruam omnes munitiones tuas: et auferam maleficia de manu tua, et divinationes non erunt in te:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et perdam civitates terræ tuæ, et destruam omnes munitiones tuas: et auferam maleficia de manu tua, et divinationes non erunt in te:",
+        "Clem-Saints": "Et perdam civitates terræ tuæ, et destruam omnes munitiones tuas: et auferam maleficia de manu tua, et divinationes non erunt in te:",
+        "VulgHetzenauer (1906)": "Et perdam civitates terræ tuæ, et destruam omnes munitiones tuas, et auferam maleficia de manu tua, et divinationes non erunt in te.",
+        "VulgConte (2009)": "Et perdam civitates terræ tuæ, et destruam omnes munitiones tuas, et auferam maleficia de manu tua, et divinationes non erunt in te.",
+        "VulgSistina (1590)": "Et perdam civitates terrae tuae, et destruam omnes munitiones tuas, et auferam maleficia de manu tua, et divinationes non erunt in te."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem1598-USFX": "5:11",
+        "VulgHetzenauer (1906)": "5:11",
+        "VulgConte (2009)": "5:11",
+        "VulgSistina (1590)": "5:11"
+      },
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 5:11 (re-aligned by content).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87490,
+      "verse": 12,
+      "critical_text": "et perire faciam sculptilia tua et statuas tuas de medio tui, et non adorabis ultra opera manuum tuarum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et perire faciam sculptilia tua et statuas tuas de medio tui, et non adorabis ultra opera manuum tuarum:",
+        "Clem-Saints": "et perire faciam sculptilia tua et statuas tuas de medio tui, et non adorabis ultra opera manuum tuarum:",
+        "VulgHetzenauer (1906)": "Et perire faciam sculptilia tua, et statuas tuas de medio tui: et non adorabis ultra opera manuum tuarum.",
+        "VulgConte (2009)": "Et perire faciam sculptilia tua, et statuas tuas de medio tui: et non adorabis ultra opera manuum tuarum.",
+        "VulgSistina (1590)": "Et perire faciam sculptilia tua, et statuas tuas de medio tui: et non adorabis ultra opera manuum tuarum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87491,
+      "verse": 13,
+      "critical_text": "et evellam lucos tuos de medio tui, et conteram civitates tuas.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et evellam lucos tuos de medio tui, et conteram civitates tuas.",
+        "Clem-Saints": "et evellam lucos tuos de medio tui, et conteram civitates tuas.",
+        "VulgHetzenauer (1906)": "Et evellam lucos tuos de medio tui: et conteram civitates tuas.",
+        "VulgConte (2009)": "Et evellam lucos tuos de medio tui: et conteram civitates tuas.",
+        "VulgSistina (1590)": "Et evellam lucos tuos de medio tui: et conteram civitates tuas."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 87492,
+      "verse": 14,
+      "critical_text": "Et faciam, in furore et in indignatione, ultionem in omnibus gentibus quæ non audierunt.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et faciam, in furore et in indignatione, ultionem in omnibus gentibus quæ non audierunt.",
+        "Clem-Saints": "Et faciam, in furore et in indignatione, ultionem in omnibus gentibus quæ non audierunt.",
+        "VulgHetzenauer (1906)": "Et faciam in furore et in indignatione ultionem in omnibus gentibus, quæ non audierunt.",
+        "VulgConte (2009)": "Et faciam in furore et in indignatione ultionem in omnibus gentibus, quæ non audierunt.",
+        "VulgSistina (1590)": "Et faciam in furore et in indignatione ultionem in omnibus gentibus, quae non audierunt."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}
