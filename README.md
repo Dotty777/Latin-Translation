@@ -3,6 +3,7 @@
 The Clementine Vulgate Latin and the Latin–English rendering for every verse of all 70 books of the Saints Holy Bible as shown in the Latin column on Saints.Bible, captured from the staging Parallel Reader on 1 November 2026 (Genesis–Deuteronomy and the four Gospels recaptured on 2 November 2026 after corrections), with an audit of the column's fidelity to the Latin. Companion to [Saints-Translation](https://github.com/Dotty777/Saints-Translation), which records the Saints English (Greek-based) text in the same layout.
 
 - [Saints Latin Critical Text](Saints-Latin-Critical-Text/README.md): the full 70-book, 1,290-chapter open-licence reconstructed Latin critical text (`01_Law/`–`07_Glory/`, `.md`, `.tsv`, `.json`).
+- [Saints Modern English Pilot](Modern-English-Pilot/README.md): reviewed `draft: true` formal-equivalent Modern English pilot from the Saints Latin Critical Text (10 passages, 270 verses, 76 notes, Saints versification).
 - [AUDIT.md](AUDIT.md): the fidelity and accuracy audit (verdict, method, findings, recommendations).
 - `audit/`: the audit's working data — a per-verse check table, the nine glued initials, and the 171 readings whose English spans more Vulgate verses than the Latin shown.
 - `corrections/`: the data files applied to the staging site (and, from 9 November 2026, review proposals not yet applied), with a change log per date ([2 November 2026, Pentateuch](corrections/2026-11-02/README.md); [2 November 2026, Gospels](corrections/2026-11-02-gospels/README.md)); `staging-backups/` holds the pages as they were before.
