@@ -1,6 +1,6 @@
 # Genesis 3 — Saints Modern English Pilot (Latin — Clementine / Vulgate basis)
 
-> **Status:** `draft: true` — Reviewed pilot translation (24 verses, 7 translator notes).  
+> **Status:** `draft: true` — Reviewed pilot translation (24 verses, 9 translator notes).  
 > **Source basis:** `Saints-Latin-Critical-Text` (own-source fidelity; Saints.Bible versification).  
 > **Method:** Literal (formal-equivalent) Modern English smoothed for reading (see [`STYLE.md`](../STYLE.md)).
 
@@ -10,7 +10,7 @@
 
 **3:2** The woman answered it, "From the fruit of the trees that are in paradise we eat;
 
-**3:3** but from the fruit of the tree that is in the midst of paradise, God commanded us not to eat and not to touch it, lest perhaps we die."
+**3:3** but from the fruit of the tree that is in the midst of paradise, God commanded us not to eat and not to touch it, so that we might not die."
 
 **3:4** Then the serpent said to the woman, "By no means will you surely die.
 
@@ -48,7 +48,7 @@
 
 **3:21** The Lord God also made for Adam and his wife tunics of skin, and He clothed them.
 
-**3:22** And He said, "Look, Adam has become like one of Us, knowing good and evil; now therefore, lest perhaps he stretch out his hand and also take from the tree of life, and eat, and live forever"—
+**3:22** And He said, "Look, Adam has become like one of Us, knowing good and evil; now therefore, so that he might not stretch out his hand and also take from the tree of life, and eat, and live forever"—
 
 **3:23** the Lord God sent him out from the paradise of delight to work the earth from which he was taken.
 
@@ -60,6 +60,8 @@
 - **3:6** — Latin reads aspectuque delectabile ("delightful in appearance") rather than "desirable to make one wise."
 - **3:8** — Latin ligni is grammatically singular ("tree") used collectively for the trees/woods of paradise.
 - **3:12** — Latin explicitly adds sociam ("as a companion").
+- **3:14** — Latin super pectus tuum literally reads "upon your chest" rather than "on your belly."
 - **3:15** — The Vulgate famously reads feminine ipsa conteret ("she will crush") rather than masculine "he/it," and insidiaberis ("you will lie in wait for") for the serpent's action against her heel.
+- **3:16** — The Vulgate reads sub viri potestate eris ("you will be under your husband's authority") where the Hebrew reads "your desire shall be for your husband."
 - **3:17** — Latin in opere tuo reads "in your work" rather than "because of you."
 - **3:20** — Latin spelling Heva is rendered with standard modern English "Eve."

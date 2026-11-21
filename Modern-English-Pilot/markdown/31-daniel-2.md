@@ -80,7 +80,7 @@
 
 **2:37** You are a king of kings, and the God of heaven has given you kingdom, strength, dominion, and glory;
 
-**2:38** and all places in which the sons of men dwell, and the wild beasts of the field, and also the birds of heaven, He has given into your hand, and He has set all things under your sway; you therefore are the golden head.
+**2:38** and all places in which the sons of men dwell, and the wild beasts of the field, and also the birds of heaven, He has given into your hand, and He has set all things under your authority; you therefore are the golden head.
 
 **2:39** And after you another kingdom will arise, inferior to you, of silver; and another, a third kingdom, of bronze, which will rule over the whole earth.
 
@@ -92,7 +92,7 @@
 
 **2:43** And whereas you saw iron mixed with clay made of mud, they will indeed mingle with human seed, yet they will not cling to one another, just as iron cannot be mixed with clay.
 
-**2:44** Now in the days of those kingdoms the God of heaven will raise up a kingdom that will never be scattered, and its kingdom will not be handed over to another people; instead, it will shatter and consume all these kingdoms, and it itself will stand forever.
+**2:44** Now in the days of those kingdoms the God of heaven will raise up a kingdom that will never be destroyed, and its kingdom will not be handed over to another people; instead, it will shatter and consume all these kingdoms, and it itself will stand forever.
 
 **2:45** Just as you saw that a stone was cut from the mountain without hands and shattered the clay, the iron, the bronze, the silver, and the gold, the great God has shown the king what is to come afterward; and the dream is true, and its interpretation is trustworthy."
 
@@ -100,7 +100,7 @@
 
 **2:47** Then speaking, the king said to Daniel, "Truly your God is the God of gods, and the Lord of kings, and the One who reveals mysteries, since you were able to open this secret."
 
-**2:48** Then the king raised Daniel to high rank and gave him many great gifts; and he appointed him ruler over all the provinces of Babylon, and chief prefect of the magistrates over all the wise men of Babylon.
+**2:48** Then the king raised Daniel to high rank and gave him many great gifts; and he appointed him ruler over all the provinces of Babylon, and prefect of the magistrates over all the wise men of Babylon.
 
 **2:49** And Daniel requested of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon; but Daniel himself remained at the doors of the king.
 

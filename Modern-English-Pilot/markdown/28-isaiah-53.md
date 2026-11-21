@@ -1,6 +1,6 @@
 # Isaiah 53 — Saints Modern English Pilot (Latin — Clementine / Vulgate basis)
 
-> **Status:** `draft: true` — Reviewed pilot translation (12 verses, 6 translator notes).  
+> **Status:** `draft: true` — Reviewed pilot translation (12 verses, 7 translator notes).  
 > **Source basis:** `Saints-Latin-Critical-Text` (own-source fidelity; Saints.Bible versification).  
 > **Method:** Literal (formal-equivalent) Modern English smoothed for reading (see [`STYLE.md`](../STYLE.md)).
 
@@ -20,7 +20,7 @@
 
 **53:7** He was offered up because he himself willed it, and he did not open his mouth; like a sheep he will be led to slaughter, and like a lamb before the one shearing it he will fall silent, and he will not open his mouth.
 
-**53:8** From distress and from judgment he was taken away. Who will recount his generation? Because he was cut off from the land of the living; on account of the crime of My people I struck him.
+**53:8** From distress and from judgment he was taken away. Who will recount his generation? For he was cut off from the land of the living; on account of the crime of My people I struck him.
 
 **53:9** And he will give the wicked for his burial, and the rich man for his death, because he had committed no iniquity, nor was there deceit in his mouth.
 
@@ -38,3 +38,4 @@
 - **53:7** — The Vulgate distinctly reads Oblatus est quia ipse voluit ("He was offered up because he himself willed it") rather than "He was oppressed and afflicted."
 - **53:8** — Latin percussi eum is first-person singular ("I struck him") with God speaking, contrasting with third-person passive in Hebrew.
 - **53:9** — Latin dabit is future tense ("he will give"), with singular divitem ("the rich man") for his death.
+- **53:12** — Latin dispertiam ei plurimos ("I will allot to him very many") takes "very many" as the direct object rather than "with the many."

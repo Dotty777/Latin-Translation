@@ -1,6 +1,6 @@
 # Genesis 2 — Saints Modern English Pilot (Latin — Clementine / Vulgate basis)
 
-> **Status:** `draft: true` — Reviewed pilot translation (25 verses, 8 translator notes).  
+> **Status:** `draft: true` — Reviewed pilot translation (25 verses, 10 translator notes).  
 > **Source basis:** `Saints-Latin-Critical-Text` (own-source fidelity; Saints.Bible versification).  
 > **Method:** Literal (formal-equivalent) Modern English smoothed for reading (see [`STYLE.md`](../STYLE.md)).
 
@@ -65,4 +65,6 @@
 - **2:11** — Latin spellings Phison and Hevilath are rendered with standard modern English Pishon and Havilah.
 - **2:13** — Latin spelling Gehon is rendered Gihon; Æthiopiæ is translated directly from the Latin as "Ethiopia."
 - **2:17** — Latin morte morieris ("by death you will die") is an emphatic Hebraic idiom rendered "you will surely die."
+- **2:18** — Latin faciamus ("let Us make") is first-person plural, agreeing with the Septuagint against Hebrew singular "I will make."
 - **2:23** — Latin preserves the Hebrew wordplay with Virago ("woman/heroic woman") derived from vir ("man"); rendered "Woman ... man" in natural modern English.
+- **2:24** — Latin erunt duo ("the two will be") explicitly includes "two," agreeing with the Septuagint against the Masoretic Hebrew.

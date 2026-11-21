@@ -14,7 +14,7 @@
 
 **12:4** For just as we have many members in one body, yet all the members do not have the same function,
 
-**12:5** so we, being many, are one body in Christ, and individually members one of another.
+**12:5** so we, being many, are one body in Christ, and individually members of one another.
 
 **12:6** Now having differing gifts according to the grace that has been given to us: whether prophecy, in proportion to faith;
 
@@ -32,7 +32,7 @@
 
 **12:13** sharing in the needs of the saints, pursuing hospitality.
 
-**12:14** Bless those who persecute you; bless and do not curse.
+**12:14** Bless those who are persecuting you; bless, and do not curse.
 
 **12:15** Rejoice with those who rejoice, weep with those who weep;
 

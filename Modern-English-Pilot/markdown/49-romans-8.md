@@ -1,12 +1,12 @@
 # Romans 8 — Saints Modern English Pilot (Latin — Clementine / Vulgate basis)
 
-> **Status:** `draft: true` — Reviewed pilot translation (39 verses, 14 translator notes).  
+> **Status:** `draft: true` — Reviewed pilot translation (39 verses, 15 translator notes).  
 > **Source basis:** `Saints-Latin-Critical-Text` (own-source fidelity; Saints.Bible versification).  
 > **Method:** Literal (formal-equivalent) Modern English smoothed for reading (see [`STYLE.md`](../STYLE.md)).
 
 ## Text
 
-**8:1** Therefore there is now no condemnation for those who are in Christ Jesus, who do not walk according to the flesh.
+**8:1** So then, there is now no condemnation for those who are in Christ Jesus, who do not walk according to the flesh.
 
 **8:2** For the law of the Spirit of life in Christ Jesus has freed me from the law of sin and death.
 
@@ -20,7 +20,7 @@
 
 **8:7** because the wisdom of the flesh is hostile to God; for it is not subject to the law of God, nor indeed can it be.
 
-**8:8** And those who are in the flesh cannot please God.
+**8:8** Now those who are in the flesh are not able to please God.
 
 **8:9** You, however, are not in the flesh, but in the Spirit, if indeed the Spirit of God dwells in you. Yet if anyone does not have the Spirit of Christ, this person does not belong to Him.
 
@@ -56,7 +56,7 @@
 
 **8:25** Yet if we hope for what we do not see, we wait for it with patience.
 
-**8:26** And likewise the Spirit also helps our weakness; for we do not know what we should pray for as we ought, but the Spirit Himself pleads for us with unspeakable groanings.
+**8:26** And likewise the Spirit also helps our weakness; for we do not know what we should pray for as we ought, but the Spirit Himself pleads for us with inexpressible groanings.
 
 **8:27** And the One who searches hearts knows what the Spirit desires, because He pleads for the saints according to God.
 
@@ -91,12 +91,13 @@
 - **8:3** — Latin de peccato literally reads "concerning sin" (often understood in context as "for a sin offering").
 - **8:4** — Latin justificatio legis literally means "the justification/righteous requirement of the Law."
 - **8:7** — Latin shifts from prudentia ("mindset/prudence") in verse 6 to sapientia ("wisdom") here.
-- **8:11** — Latin propter inhabitantem Spiritum ejus ("because of His Spirit who dwells") uses causal propter rather than instrumental "through."
+- **8:11** — Latin reads Jesum Christum ("Jesus Christ") in the second clause, and propter inhabitantem Spiritum ejus ("because of His Spirit who dwells") uses causal propter rather than instrumental "through."
 - **8:13** — The Vulgate reads facta carnis ("the deeds of the flesh") rather than Greek "the deeds of the body."
 - **8:15** — Latin preserves the Aramaic address Abba followed by parenthetical (Pater).
+- **8:16** — Latin testimonium reddit spiritui nostro uses the dative ("bears witness to our spirit") rather than Greek "with our spirit."
 - **8:18** — Latin in nobis reads "in us" rather than "to us."
 - **8:23** — The Vulgate explicitly reads adoptionem filiorum Dei ("adoption as sons of God").
-- **8:28** — Two distinctive Vulgate features: omnia ("all things") is the subject of cooperantur ("work together"), and vocati sunt sancti adds sancti ("called as saints").
+- **8:28** — Two distinctive Vulgate features: omnia ("all things") is the subject of cooperantur ("work together"), and vocati sunt sancti adds sancti ("called as saints"). "His" is implied by secundum propositum ("according to the purpose").
 - **8:32** — Latin donavit is past/perfect tense ("has He not also freely given") rather than future tense.
 - **8:37** — Latin propter eum ("because of Him") is causal rather than instrumental "through Him."
 - **8:38** — The Vulgate includes both virtutes ("powers") and fortitudo ("might") in the list.
