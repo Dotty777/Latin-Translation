@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **15 of 43 Latin OT books complete** (322 chapters, 9,405 verses, 1,563 translator notes; combined with Complete 27/27 Latin NT = **42 of 70 complete Latin books**).  
+> **Current Coverage:** **16 of 43 Latin OT books complete** (472 chapters, 11,924 verses, 2,254 translator notes; combined with Complete 27/27 Latin NT = **43 of 70 complete Latin books**).  
 > **Validation:** 100% validated against `Saints-Latin-Critical-Text` with `validate_modern_english.py --lang lat --strict` (`0` FAIL) and scholarly audits.
 
 ## Overview
@@ -17,7 +17,7 @@ This directory contains the **Saints Modern English** translation of the Latin C
 |---|---|---:|---:|---:|---:|---|
 | **I. Law (Pentateuch)** | In progress | 0 / 5 | — | — | — | — |
 | **II. Judgement (Historical Books & Job)** | **Complete** | 15 / 15 | 322 | 9,405 | 1,563 | [`II-Judgement/`](II-Judgement/README.md) |
-| **III. Wisdom (Wisdom & Poetry)** | In progress | 0 / 7 | — | — | — | — |
+| **III. Wisdom (Wisdom & Poetry)** | In progress (1/7) | 1 / 7 | 150 | 2,519 | 691 | [`III-Wisdom/`](III-Wisdom/README.md) |
 | **IV. Providence (Prophets)** | In progress | 0 / 16 | — | — | — | — |
 
 ## Division II. Judgement (15 / 15 Complete)
@@ -39,3 +39,9 @@ This directory contains the **Saints Modern English** translation of the Latin C
 | 18 | 1 Maccabees | 16 | 923 | 118 | [`II-Judgement/markdown/18-1-maccabees/`](II-Judgement/markdown/18-1-maccabees/README.md) | [`18-1-maccabees.json`](II-Judgement/json/18-1-maccabees.json) |
 | 19 | 2 Maccabees | 15 | 555 | 73 | [`II-Judgement/markdown/19-2-maccabees/`](II-Judgement/markdown/19-2-maccabees/README.md) | [`19-2-maccabees.json`](II-Judgement/json/19-2-maccabees.json) |
 | 20 | Job | 42 | 1,068 | 199 | [`II-Judgement/markdown/20-job/`](II-Judgement/markdown/20-job/README.md) | [`20-job.json`](II-Judgement/json/20-job.json) |
+
+## Division III. Wisdom (1 / 7)
+
+| # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
+|---:|---|---:|---:|---:|---|---|
+| 21 | Psalms | 150 | 2,519 | 691 | [`III-Wisdom/markdown/21-psalms/`](III-Wisdom/markdown/21-psalms/README.md) | [`21-psalms.json`](III-Wisdom/json/21-psalms.json) |
