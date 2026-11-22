@@ -1,0 +1,40 @@
+# 2 John 1 — Saints Modern English (Latin / Clementine Vulgate)
+
+> **Status:** `draft: true` (13 verses, 5 translator notes)  
+> **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`2 John`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
+
+## Text
+
+**1:1** The elder to the chosen lady and to her children, whom I love in truth, and not I alone, but also all those who have come to know the truth,
+
+**1:2** because of the truth, which remains in us and will be with us forever.
+
+**1:3** May grace, mercy, and peace be with you from God the Father and from Christ Jesus, the Son of the Father, in truth and love.
+
+**1:4** I rejoiced greatly because I found some of your children walking in truth, just as we received a commandment from the Father.
+
+**1:5** And now I ask you, lady, not as though writing a new commandment to you, but the one we have had from the beginning, that we love one another.
+
+**1:6** And this is love: that we walk in accordance with His commandments. For this is the commandment: that, just as you heard from the beginning, you walk in it.
+
+**1:7** For many deceivers have gone out into the world, who do not confess that Jesus Christ has come into the flesh; this one is the deceiver and the antichrist.
+
+**1:8** Watch yourselves, so that you do not lose the things you have accomplished, but that you receive a full reward.
+
+**1:9** Everyone who departs and does not remain in the teaching of Christ does not have God; the one who remains in the teaching, this one has both the Father and the Son.
+
+**1:10** If anyone comes to you and does not bring this teaching, do not receive him into the house, nor say "Greetings" to him.
+
+**1:11** For the one who says "Greetings" to him shares in his wicked works.
+
+**1:12** Having many things to write to you, I did not wish to write with paper and ink; for I hope to be with you and to speak mouth to mouth, so that your joy may be full.
+
+**1:13** The children of your chosen sister send greetings to you.
+
+## Translator Notes
+
+- **1:1** — The Clementine Vulgate capitalizes Electæ here and in 1:13; it may be understood either as an adjective ("chosen" or "elect," often interpreted symbolically of a local church) or as a proper name ("Electa").
+- **1:3** — The Vulgate uses a present subjunctive wish with the second-person plural (Sit vobiscum, "May ... be with you") rather than the future indicative first-person plural ("will be with us") found in many Greek manuscripts, and places the name in the order Christo Jesu ("Christ Jesus").
+- **1:7** — The Vulgate reads a perfect infinitive with the accusative (venisse in carnem, "has come into the flesh"), whereas the Greek has a present participle with the dative ("coming in the flesh").
+- **1:8** — The Vulgate maintains the second-person plural consistently across all three verbs (including operati estis, "you have accomplished"), whereas many Greek manuscripts read the first-person plural ("what we have worked for").
+- **1:9** — The Vulgate reads recedit ("departs" or "draws back"), reflecting the reading "transgresses/turns aside" rather than the critical Greek reading "goes on ahead" or "goes too far."
