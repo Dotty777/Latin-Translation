@@ -1,6 +1,6 @@
 # Psalms 23 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:17Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:45Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,29 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -50,8 +60,44 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Psalms 23:1
-- **Apparatus:** `Prima sabbati.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Prima sabbathi.** VulgSistina (1590)
+- **Apparatus:** `Prima sabbati. Psalmus David.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** Psalt-Pianum (1945) ; **Psalmus David, Prima sabbathi.** VulgSistina (1590)
+- **Apparatus:** `Prima sabbati.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590) Psalt-Pianum (1945)
+- **Apparatus:** `Psalmus David.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** Psalt-Pianum (1945) ; **Psalmus David, Prima sabbathi.** VulgSistina (1590)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX Psalt-Pianum (1945) VulgConte (2009) VulgHetzenauer (1906) **]** **Prima sabbathi.** VulgSistina (1590)
+- **Apparatus:** `plenitudo ejus;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quæ replent eam,** Psalt-Pianum (1945)
+- **Apparatus:** `universi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 23:2
+- **Apparatus:** `Quia` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Nam** Psalt-Pianum (1945)
+- **Apparatus:** `præparavit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **firmávit** Psalt-Pianum (1945)
+
+### Psalms 23:4
+- **Apparatus:** `mundo` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **mundus** Psalt-Pianum (1945)
+- **Apparatus:** `accepit in vano animam` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **inténdit mentem** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ad vana,** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cum dolo** Psalt-Pianum (1945)
+- **Apparatus:** `in dolo` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 23:5
+- **Apparatus:** `misericordiam` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **mercédem** Psalt-Pianum (1945)
+- **Apparatus:** `salutari` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Salvatóre** Psalt-Pianum (1945)
+
+### Psalms 23:6
+- **Apparatus:** `Jacob.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Iacóbi.** Psalt-Pianum (1945)
+
+### Psalms 23:7
+- **Apparatus:** `portas, principes, vestras,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **portæ, cápita vestra,** Psalt-Pianum (1945)
+- **Apparatus:** `elevamini, portæ æternales, et introibit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **attóllite vos, fores antíquæ, ut ingrediátur** Psalt-Pianum (1945)
+
+### Psalms 23:8
+- *Disregarded Surface Variant:* kept `(adopted text)` over `prælio. / prœ́lio.` (Psalt-Pianum (1945)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Psalms 23:9
+- **Apparatus:** `portas, principes, vestras,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **portæ, cápita vestra,** Psalt-Pianum (1945)
+- **Apparatus:** `elevamini, portæ æternales, et introibit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **attóllite vos, fores antíquæ, ut ingrediátur** Psalt-Pianum (1945)
+
+### Psalms 23:10
+- **Apparatus:** `virtutum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **exercítuum:** Psalt-Pianum (1945)
 
 ---
 
@@ -62,6 +108,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Prima sabbati. Psalmus David. Domini est terra, et plenitudo ejus; orbis terrarum, et universi qui habitant in eo.
   - `Clem-Saints`: Prima sabbati. Psalmus David. Domini est terra, et plenitudo ejus; orbis terrarum, et universi qui habitant in eo.
   - `VulgHetzenauer (1906)`: Prima sabbati, Psalmus David. Domini est terra, et plenitudo eius: orbis terrarum, et universi, qui habitant in eo.
+  - `Psalt-Pianum (1945)`: Dómini est terra et quæ replent eam, Orbis terrárum et qui hábitant in eo.
   - `VulgConte (2009)`: Prima sabbati, Psalmus David. Domini est terra, et plenitudo eius: orbis terrarum, et universi, qui habitant in eo.
   - `VulgSistina (1590)`: Psalmus David, Prima sabbathi. Domini est terra, et plenitudo eius: orbis terrarum, et universi, qui habitant in eo.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -71,6 +118,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quia ipse super maria fundavit eum, et super flumina præparavit eum.
   - `Clem-Saints`: Quia ipse super maria fundavit eum, et super flumina præparavit eum.
   - `VulgHetzenauer (1906)`: Quia ipse super maria fundavit eum: et super flumina præparavit eum.
+  - `Psalt-Pianum (1945)`: Nam ipse super mária fundávit eum, et super flúmina firmávit eum.
   - `VulgConte (2009)`: Quia ipse super maria fundavit eum: et super flumina præparavit eum.
   - `VulgSistina (1590)`: Quia ipse super maria fundavit eum: et super flumina praeparavit eum.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -80,6 +128,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quis ascendet in montem Domini? aut quis stabit in loco sancto ejus?
   - `Clem-Saints`: Quis ascendet in montem Domini? aut quis stabit in loco sancto ejus?
   - `VulgHetzenauer (1906)`: Quis ascendet in montem Domini? aut quis stabit in loco sancto eius?
+  - `Psalt-Pianum (1945)`: Quis ascéndet in montem Dómini, aut quis stabit in loco sancto ejus?
   - `VulgConte (2009)`: Quis ascendet in montem Domini? aut quis stabit in loco sancto eius?
   - `VulgSistina (1590)`: Quis ascendet in montem Domini? aut quis stabit in loco sancto eius?
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -89,6 +138,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Innocens manibus et mundo corde, qui non accepit in vano animam suam, nec juravit in dolo proximo suo:
   - `Clem-Saints`: Innocens manibus et mundo corde, qui non accepit in vano animam suam, nec juravit in dolo proximo suo:
   - `VulgHetzenauer (1906)`: Innocens manibus et mundo corde, qui non accepit in vano animam suam, nec iuravit in dolo proximo suo.
+  - `Psalt-Pianum (1945)`: Innocens mánibus et mundus corde, qui non inténdit mentem suam ad vana, nec cum dolo jurávit próximo suo.
   - `VulgConte (2009)`: Innocens manibus et mundo corde, qui non accepit in vano animam suam, nec iuravit in dolo proximo suo.
   - `VulgSistina (1590)`: Innocens manibus et mundo corde, qui non accepit in vano animam suam, nec iuravit in dolo proximo suo.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -98,6 +148,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: hic accipiet benedictionem a Domino, et misericordiam a Deo salutari suo.
   - `Clem-Saints`: hic accipiet benedictionem a Domino, et misericordiam a Deo salutari suo.
   - `VulgHetzenauer (1906)`: Hic accipiet benedictionem a Domino: et misericordiam a Deo salutari suo.
+  - `Psalt-Pianum (1945)`: Hic accípiet benedictiónem a Dómino, et mercédem a Deo Salvatóre suo.
   - `VulgConte (2009)`: Hic accipiet benedictionem a Domino: et misericordiam a Deo salutari suo.
   - `VulgSistina (1590)`: Hic accipiet benedictionem a Domino: et misericordiam a Deo salutari suo.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -107,6 +158,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Hæc est generatio quærentium eum, quærentium faciem Dei Jacob.
   - `Clem-Saints`: Hæc est generatio quærentium eum, quærentium faciem Dei Jacob.
   - `VulgHetzenauer (1906)`: Hæc est generatio quærentium eum, quærentium faciem Dei Iacob.
+  - `Psalt-Pianum (1945)`: Hæc est generátio quæréntium eum, quæréntium fáciem Dei Iacóbi.
   - `VulgConte (2009)`: Hæc est generatio quærentium eum, quærentium faciem Dei Iacob.
   - `VulgSistina (1590)`: Haec est generatio quaerentium eum, quaerentium faciem Dei Iacob.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -116,6 +168,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Attollite portas, principes, vestras, et elevamini, portæ æternales, et introibit rex gloriæ.
   - `Clem-Saints`: Attollite portas, principes, vestras, et elevamini, portæ æternales, et introibit rex gloriæ.
   - `VulgHetzenauer (1906)`: Attollite portas principes vestras, et elevamini portæ æternales: et introibit rex gloriæ.
+  - `Psalt-Pianum (1945)`: Attóllite, portæ, cápita vestra, et attóllite vos, fores antíquæ, ut ingrediátur rex glóriæ.
   - `VulgConte (2009)`: Attollite portas principes vestras, et elevamini portæ æternales: et introibit Rex gloriæ.
   - `VulgSistina (1590)`: Attollite portas principes vestras, et elevamini portae aeternales: et introibit rex gloriae.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -125,6 +178,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quis est iste rex gloriæ? Dominus fortis et potens, Dominus potens in prælio.
   - `Clem-Saints`: Quis est iste rex gloriæ? Dominus fortis et potens, Dominus potens in prælio.
   - `VulgHetzenauer (1906)`: Quis est iste rex gloriæ? Dominus fortis et potens: Dominus potens in prælio.
+  - `Psalt-Pianum (1945)`: « Quis est iste rex glóriæ? » « Dóminus fortis et potens, Dóminus potens in prœ́lio. »
   - `VulgConte (2009)`: Quis est iste rex gloriæ? Dominus fortis et potens: Dominus potens in prælio.
   - `VulgSistina (1590)`: Quis est iste rex gloriae? Dominus fortis et potens: Dominus potens in praelio.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -134,6 +188,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Attollite portas, principes, vestras, et elevamini, portæ æternales, et introibit rex gloriæ.
   - `Clem-Saints`: Attollite portas, principes, vestras, et elevamini, portæ æternales, et introibit rex gloriæ.
   - `VulgHetzenauer (1906)`: Attollite portas principes vestras, et elevamini portæ æternales: et introibit rex gloriæ.
+  - `Psalt-Pianum (1945)`: Attóllite, portæ, cápita vestra, et attóllite vos, fores antíquæ, ut ingrediátur rex glóriæ!
   - `VulgConte (2009)`: Attollite portas principes vestras, et elevamini portæ æternales: et introibit Rex gloriæ.
   - `VulgSistina (1590)`: Attollite portas principes vestras, et elevamini portae aeternales: et introibit rex gloriae.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -143,6 +198,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quis est iste rex gloriæ? Dominus virtutum ipse est rex gloriæ.
   - `Clem-Saints`: Quis est iste rex gloriæ? Dominus virtutum ipse est rex gloriæ.
   - `VulgHetzenauer (1906)`: Quis est iste rex gloriæ? Dominus virtutum ipse est rex gloriæ.
+  - `Psalt-Pianum (1945)`: « Quis est iste rex glóriæ? » « Dóminus exercítuum: ipse est rex glóriæ. »
   - `VulgConte (2009)`: Quis est iste rex gloriæ? Dominus virtutum ipse est Rex gloriæ.
   - `VulgSistina (1590)`: Quis est iste rex gloriae? Dominus virtutum ipse est rex gloriae.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

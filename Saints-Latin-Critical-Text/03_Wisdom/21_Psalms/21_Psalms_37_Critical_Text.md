@@ -1,6 +1,6 @@
 # Psalms 37 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:17Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:46Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,40 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+
+### Versification & Alignment Notes
+- Psalt-Pianum (1945): 37:3 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 37:6 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 37:20 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 37:22 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 37:5 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 37:8 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 37:14 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 37:18 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 8 verse(s) re-aligned by content (5←37:4, 8←37:7, 10←37:9, 11←37:10, 14←37:15, 15←37:16…)
 
 ---
 
@@ -65,8 +86,80 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 37:1
 - **Apparatus:** `rememorationem de sabbato.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **recordationem sabbati.** VulgSistina (1590)
 
+### Psalms 37:2
+- **Apparatus:** `ne` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **noli me argúere in ira tua nec me corrípere** Psalt-Pianum (1945)
+- **Apparatus:** `arguas` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Etenim sagíttæ tuæ infíxæ sunt mihi, et descéndit super** Psalt-Pianum (1945)
+- **Apparatus:** `neque in ira` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **manus** Psalt-Pianum (1945)
+- **Apparatus:** `corripias me:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 37:5
+- **Apparatus:** `quoniam iniquitates` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Nam culpæ** Psalt-Pianum (1945)
+- **Apparatus:** `et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `gravatæ sunt super` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **gravant** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **nimis.** Psalt-Pianum (1945)
+
+### Psalms 37:8
+- **Apparatus:** `Quoniam` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Nam** Psalt-Pianum (1945)
+- **Apparatus:** `impleti` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pleni** Psalt-Pianum (1945)
+- **Apparatus:** `illusionibus, et non` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **inflammatióne, nec quicquam** Psalt-Pianum (1945)
+- **Apparatus:** `sanitas` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sani** Psalt-Pianum (1945)
+
+### Psalms 37:10
+- **Apparatus:** `ante` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **coram** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **est** Psalt-Pianum (1945)
+- **Apparatus:** `a` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `est absconditus.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **latet.** Psalt-Pianum (1945)
+
+### Psalms 37:11
+- **Apparatus:** `conturbatum est;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pálpitat,** Psalt-Pianum (1945)
+- **Apparatus:** `virtus mea,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **robur meum,** Psalt-Pianum (1945)
+- **Apparatus:** `lumen` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ipsa lux** Psalt-Pianum (1945)
+- **Apparatus:** `et ipsum non est mecum.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **déficit me.** Psalt-Pianum (1945)
+
+### Psalms 37:12
+- **Apparatus:** `proximi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sodáles** Psalt-Pianum (1945)
+- **Apparatus:** `adversum me appropinquaverunt, et steterunt; et qui juxta me erant, de longe steterunt: et vim faciebant qui quærebant animam meam.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **procul a plaga mea subsístunt,** Psalt-Pianum (1945)
+- **Apparatus:** `adversum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **procul** Psalt-Pianum (1945)
+
+### Psalms 37:13
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **propínqui mei stant e longínquo. Et láqueos tendunt** Psalt-Pianum (1945)
+- **Apparatus:** `inquirebant mala mihi, locuti sunt vanitates, et dolos tota die meditabantur.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **insidiántur vitæ meæ,** Psalt-Pianum (1945)
+
+### Psalms 37:14
+- **Apparatus:** `audiebam;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **áudio,** Psalt-Pianum (1945)
+- **Apparatus:** `sicut` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sum velut** Psalt-Pianum (1945)
+
+### Psalms 37:15
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **qui** Psalt-Pianum (1945)
+- **Apparatus:** `audiens,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **audit,** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **qui** Psalt-Pianum (1945)
+- **Apparatus:** `habens` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **habet respónsum** Psalt-Pianum (1945)
+- **Apparatus:** `redargutiones.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 37:16
+- **Apparatus:** `Quoniam` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **enim,** Psalt-Pianum (1945)
+- **Apparatus:** `speravi;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **confído:** Psalt-Pianum (1945)
+- **Apparatus:** `me,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 37:18
+- **Apparatus:** `Quoniam` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `in flagella paratus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **enim lápsui próximus** Psalt-Pianum (1945)
+- **Apparatus:** `in conspectu meo` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **coram me est** Psalt-Pianum (1945)
+
 ### Psalms 37:19
-- *Disregarded Surface Variant:* kept `(adopted text)` over `annuntiabo, / annunciabo:` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `annuntiabo, / adnuntiabo`, `annuntiabo, / annunciabo:` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Psalms 37:21
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Sed** Psalt-Pianum (1945)
+- **Apparatus:** `retribuunt mala pro bonis detrahebant` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sine causa adversántur** Psalt-Pianum (1945)
+- **Apparatus:** `quoniam sequebar bonitatem.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **poténtes sunt, et multi, qui odérunt me injúste;** Psalt-Pianum (1945)
+
+### Psalms 37:23
+- **Apparatus:** `Intende` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Noli me derelínquere, Dómine, Deus meus, noli procul distáre a me! Festína** Psalt-Pianum (1945)
+- **Apparatus:** `adjutorium` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **auxílium** Psalt-Pianum (1945)
+- **Apparatus:** `Deus salutis meæ.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **salus mea!** Psalt-Pianum (1945)
+- **Apparatus:** `Deus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **salus** Psalt-Pianum (1945)
 
 ---
 
@@ -86,6 +179,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Domine, ne in furore tuo arguas me, neque in ira tua corripias me:
   - `Clem-Saints`: Domine, ne in furore tuo arguas me, neque in ira tua corripias me:
   - `VulgHetzenauer (1906)`: Domine ne in furore tuo arguas me, neque in ira tua corripias me.
+  - `Psalt-Pianum (1945)`: Dómine, noli me argúere in ira tua nec me corrípere in furóre tuo. Etenim sagíttæ tuæ infíxæ sunt mihi, et descéndit super me manus tua.
   - `VulgConte (2009)`: Domine ne in furore tuo arguas me, neque in ira tua corripias me.
   - `VulgSistina (1590)`: Domine ne in furore tuo arguas me, neque in ira tua corripias me.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -113,6 +207,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: quoniam iniquitates meæ supergressæ sunt caput meum, et sicut onus grave gravatæ sunt super me.
   - `Clem-Saints`: quoniam iniquitates meæ supergressæ sunt caput meum, et sicut onus grave gravatæ sunt super me.
   - `VulgHetzenauer (1906)`: Quoniam iniquitates meæ supergressæ sunt caput meum: et sicut onus grave gravatæ sunt super me.
+  - `Psalt-Pianum (1945)` *(numbered 37:4 in this witness)*: Nam culpæ meæ supergréssæ sunt caput meum, sicut onus grave gravant me nimis.
   - `VulgConte (2009)`: Quoniam iniquitates meæ supergressæ sunt caput meum: et sicut onus grave gravatæ sunt super me.
   - `VulgSistina (1590)`: Quoniam iniquitates meae supergressae sunt caput meum: et sicut onus grave gravatae sunt super me.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -140,6 +235,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quoniam lumbi mei impleti sunt illusionibus, et non est sanitas in carne mea.
   - `Clem-Saints`: Quoniam lumbi mei impleti sunt illusionibus, et non est sanitas in carne mea.
   - `VulgHetzenauer (1906)`: Quoniam lumbi mei impleti sunt illusionibus: et non est sanitas in carne mea.
+  - `Psalt-Pianum (1945)` *(numbered 37:7 in this witness)*: Nam lumbi mei pleni sunt inflammatióne, nec quicquam est sani in carne mea.
   - `VulgConte (2009)`: Quoniam lumbi mei impleti sunt illusionibus: et non est sanitas in carne mea.
   - `VulgSistina (1590)`: Quoniam lumbi mei impleti sunt illusionibus: et non est sanitas in carne mea.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -158,6 +254,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Domine, ante te omne desiderium meum, et gemitus meus a te non est absconditus.
   - `Clem-Saints`: Domine, ante te omne desiderium meum, et gemitus meus a te non est absconditus.
   - `VulgHetzenauer (1906)`: Domine, ante te omne desiderium meum: et gemitus meus a te non est absconditus.
+  - `Psalt-Pianum (1945)` *(numbered 37:9 in this witness)*: Dómine, coram te est omne desidérium meum, et gémitus meus te non latet.
   - `VulgConte (2009)`: Domine, ante te omne desiderium meum: et gemitus meus a te non est absconditus.
   - `VulgSistina (1590)`: Domine, ante te omne desiderium meum: et gemitus meus a te non est absconditus.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -167,6 +264,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Cor meum conturbatum est; dereliquit me virtus mea, et lumen oculorum meorum, et ipsum non est mecum.
   - `Clem-Saints`: Cor meum conturbatum est; dereliquit me virtus mea, et lumen oculorum meorum, et ipsum non est mecum.
   - `VulgHetzenauer (1906)`: Cor meum conturbatum est, dereliquit me virtus mea: et lumen oculorum meorum, et ipsum non est mecum.
+  - `Psalt-Pianum (1945)` *(numbered 37:10 in this witness)*: Cor meum pálpitat, derelíquit me robur meum, et ipsa lux oculórum meórum déficit me.
   - `VulgConte (2009)`: Cor meum conturbatum est: dereliquit me virtus mea, et lumen oculorum meorum: et ipsum non est mecum.
   - `VulgSistina (1590)`: Cor meum conturbatum est, dereliquit me virtus mea: et lumen oculorum meorum, et ipsum non est mecum.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -176,6 +274,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Amici mei et proximi mei adversum me appropinquaverunt, et steterunt; et qui juxta me erant, de longe steterunt: et vim faciebant qui quærebant animam meam.
   - `Clem-Saints`: Amici mei et proximi mei adversum me appropinquaverunt, et steterunt; et qui juxta me erant, de longe steterunt: et vim faciebant qui quærebant animam meam.
   - `VulgHetzenauer (1906)`: Amici mei et proximi mei adversum me appropinquaverunt, et steterunt. Et qui iuxta me erant, de longe steterunt: et vim faciebant qui quærebant animam meam.
+  - `Psalt-Pianum (1945)`: Amíci mei et sodáles mei procul a plaga mea subsístunt,
   - `VulgConte (2009)`: Amici mei et proximi mei adversum me appropinquaverunt, et steterunt. Et qui iuxta me erant, de longe steterunt: et vim faciebant qui quærebant animam meam.
   - `VulgSistina (1590)`: Amici mei et proximi mei adversum me appropinquaverunt, et steterunt. Et qui iuxta me erant, de longe steterunt: et vim faciebant qui quaerebant animam meam.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -185,6 +284,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et qui inquirebant mala mihi, locuti sunt vanitates, et dolos tota die meditabantur.
   - `Clem-Saints`: Et qui inquirebant mala mihi, locuti sunt vanitates, et dolos tota die meditabantur.
   - `VulgHetzenauer (1906)`: Et qui inquirebant mala mihi, locuti sunt vanitates: et dolos tota die meditabantur.
+  - `Psalt-Pianum (1945)`: Et propínqui mei stant e longínquo. Et láqueos tendunt qui insidiántur vitæ meæ,
   - `VulgConte (2009)`: Et qui inquirebant mala mihi, locuti sunt vanitates: et dolos tota die meditabantur.
   - `VulgSistina (1590)`: Et qui inquirebant mala mihi, locuti sunt vanitates: et dolos tota die meditabantur.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -194,6 +294,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Ego autem, tamquam surdus, non audiebam; et sicut mutus non aperiens os suum.
   - `Clem-Saints`: Ego autem, tamquam surdus, non audiebam; et sicut mutus non aperiens os suum.
   - `VulgHetzenauer (1906)`: Ego autem tamquam surdus non audiebam: et sicut mutus non aperiens os suum.
+  - `Psalt-Pianum (1945)` *(numbered 37:15 in this witness)*: Ego autem, tamquam surdus, non áudio, et sum velut mutus non apériens os suum.
   - `VulgConte (2009)`: Ego autem tamquam surdus non audiebam: et sicut mutus non aperiens os suum.
   - `VulgSistina (1590)`: Ego autem tamquam surdus non audiebam: et sicut mutus non aperiens os suum.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -203,6 +304,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et factus sum sicut homo non audiens, et non habens in ore suo redargutiones.
   - `Clem-Saints`: Et factus sum sicut homo non audiens, et non habens in ore suo redargutiones.
   - `VulgHetzenauer (1906)`: Et factus sum sicut homo non audiens: et non habens in ore suo redargutiones.
+  - `Psalt-Pianum (1945)` *(numbered 37:16 in this witness)*: Et factus sum sicut homo qui non audit, et qui non habet respónsum in ore suo.
   - `VulgConte (2009)`: Et factus sum sicut homo non audiens: et non habens in ore suo redargutiones.
   - `VulgSistina (1590)`: Et factus sum sicut homo non audiens: et non habens in ore suo redargutiones.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -212,6 +314,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quoniam in te, Domine, speravi; tu exaudies me, Domine Deus meus.
   - `Clem-Saints`: Quoniam in te, Domine, speravi; tu exaudies me, Domine Deus meus.
   - `VulgHetzenauer (1906)`: Quoniam in te Domine speravi: tu exaudies me Domine Deus meus.
+  - `Psalt-Pianum (1945)` *(numbered 37:17 in this witness)*: In te enim, Dómine, confído: tu exáudies, Dómine, Deus meus.
   - `VulgConte (2009)`: Quoniam in te Domine speravi: tu exaudies me Domine Deus meus.
   - `VulgSistina (1590)`: Quoniam in te Domine speravi: tu exaudies me Domine Deus meus.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -230,6 +333,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quoniam ego in flagella paratus sum, et dolor meus in conspectu meo semper.
   - `Clem-Saints`: Quoniam ego in flagella paratus sum, et dolor meus in conspectu meo semper.
   - `VulgHetzenauer (1906)`: Quoniam ego in flagella paratus sum: et dolor meus in conspectu meo semper.
+  - `Psalt-Pianum (1945)` *(numbered 37:19 in this witness)*: Ego enim lápsui próximus sum, et dolor meus coram me est semper.
   - `VulgConte (2009)`: Quoniam ego in flagella paratus sum: et dolor meus in conspectu meo semper.
   - `VulgSistina (1590)`: Quoniam ego in flagella paratus sum: et dolor meus in conspectu meo semper.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -257,6 +361,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Qui retribuunt mala pro bonis detrahebant mihi, quoniam sequebar bonitatem.
   - `Clem-Saints`: Qui retribuunt mala pro bonis detrahebant mihi, quoniam sequebar bonitatem.
   - `VulgHetzenauer (1906)`: Qui retribuunt mala pro bonis, detrahebant mihi: quoniam sequebar bonitatem.
+  - `Psalt-Pianum (1945)`: Sed qui sine causa adversántur mihi, poténtes sunt, et multi, qui odérunt me injúste;
   - `VulgConte (2009)`: Qui retribuunt mala pro bonis, detrahebant mihi: quoniam sequebar bonitatem.
   - `VulgSistina (1590)`: Qui retribuunt mala pro bonis, detrahebant mihi: quoniam sequebar bonitatem.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -275,6 +380,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Intende in adjutorium meum, Domine Deus salutis meæ.
   - `Clem-Saints`: Intende in adjutorium meum, Domine Deus salutis meæ.
   - `VulgHetzenauer (1906)`: Intende in adiutorium meum, Domine Deus salutis meæ.
+  - `Psalt-Pianum (1945)`: Noli me derelínquere, Dómine, Deus meus, noli procul distáre a me! Festína in auxílium meum, Dómine, salus mea!
   - `VulgConte (2009)`: Intende in adiutorium meum, Domine Deus salutis meæ.
   - `VulgSistina (1590)`: Intende in adiutorium meum, Domine Deus salutis meae.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

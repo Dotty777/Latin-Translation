@@ -1,6 +1,6 @@
 # Hebrews 05 — Saints Latin Critical Text
 
-**Division:** `06_Discipleship` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:18:47Z`
+**Division:** `06_Discipleship` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:34Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,29 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Full 27-Book NT) | Tier 2 | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ### Versification & Alignment Notes
 - VulgConte (2009): verse 6:5 runs into its neighbour across the anchor's division between 6:5 and 6:6; re-divided there
@@ -56,11 +66,38 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
+### Hebrews 5:1
+- *Disregarded Surface Variant:* kept `(adopted text)` over `assumptus, / adsumptus`, `iis / his`, `assumptus, / adsumptus`, `iis / his` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Hebrews 5:2
+- **Apparatus:** `et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **er** Amiatinus (A)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `iis / his`, `iis / his` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Hebrews 5:3
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et** Amiatinus (A)
+- **Apparatus:** `et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `semetipso / semet ipso`, `semetipso / semet ipso` (Amiatinus (A)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
+
+### Hebrews 5:5
+- *Disregarded Surface Variant:* kept `(adopted text)` over `semetipsum / semet ipsum`, `semetipsum / semet ipsum` (Amiatinus (A)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
+
 ### Hebrews 5:7
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **saluum** Amiatinus (A)
+- **Apparatus:** `salvum facere` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **facere** Amiatinus (A)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et** Amiatinus (A)
+- **Apparatus:** `est` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `lacrimis / lacrymis`, `lacrimis / lacrymis`, `lacrimis / lacrymis` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
+### Hebrews 5:8
+- **Apparatus:** `Dei,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `iis, / his`, `obedientiam: / oboedientiam`, `iis, / his`, `obedientiam: / oboedientiam` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
 ### Hebrews 5:11
-- **Apparatus:** `ininterpretabilis` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **interpretabilis** VulgSistina (1590)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **grandis** Amiatinus (A)
+- **Apparatus:** `grandis` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `ininterpretabilis` Clem-Saints Clem1598-USFX Amiatinus (A) VulgConte (2009) VulgHetzenauer (1906) **]** **interpretabilis** VulgSistina (1590)
+- **Apparatus:** `imbecilles` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **inbecilles** Amiatinus (A)
 
 ---
 
@@ -71,6 +108,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Omnis namque pontifex ex hominibus assumptus, pro hominibus constituitur in iis quæ sunt ad Deum, ut offerat dona, et sacrificia pro peccatis:
   - `Clem-Saints`: Omnis namque pontifex ex hominibus assumptus, pro hominibus constituitur in iis quæ sunt ad Deum, ut offerat dona, et sacrificia pro peccatis:
   - `VulgHetzenauer (1906)`: Omnis namque Pontifex ex hominibus assumptus, pro hominibus constituitur in iis, quæ sunt ad Deum, ut offerat dona, et sacrificia pro peccatis:
+  - `Amiatinus (A)`: omnis namque pontifex ex hominibus adsumptus pro hominibus constituitur in his quae sunt ad deum ut offerat dona et sacrificia pro peccatis
   - `VulgConte (2009)`: Omnis namque pontifex ex hominibus assumptus, pro hominibus constituitur in iis, quæ sunt ad Deum, ut offerat dona, et sacrificia pro peccatis:
   - `VulgSistina (1590)`: Omnis namque Pontifex ex hominibus assumptus, pro hominibus constituitur in iis, quae sunt ad Deum, ut offerat dona, et sacrificia pro peccatis:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -80,6 +118,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: qui condolere possit iis qui ignorant et errant: quoniam et ipse circumdatus est infirmitate:
   - `Clem-Saints`: qui condolere possit iis qui ignorant et errant: quoniam et ipse circumdatus est infirmitate:
   - `VulgHetzenauer (1906)`: qui condolere possit iis, qui ignorant, et errant: quoniam et ipse circumdatus est infirmitate:
+  - `Amiatinus (A)`: qui condolere possit his qui ignorant er errant quoniam et ipse circumdatus est infirmitate
   - `VulgConte (2009)`: qui condolere possit iis, qui ignorant, et errant: quoniam et ipse circumdatus est infirmitate:
   - `VulgSistina (1590)`: qui condolere possit iis, qui ignorant, et errant: quoniam et ipse circumdatus est infirmitate:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -89,6 +128,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et propterea debet, quemadmodum pro populo, ita etiam et pro semetipso offerre pro peccatis.
   - `Clem-Saints`: et propterea debet, quemadmodum pro populo, ita etiam et pro semetipso offerre pro peccatis.
   - `VulgHetzenauer (1906)`: et propterea debet, quemadmodum pro populo, ita etiam et pro semetipso offerre pro peccatis.
+  - `Amiatinus (A)`: et propterea debet quemadmodum et pro populo ita etiam pro semet ipso offerre pro peccatis
   - `VulgConte (2009)`: et propterea debet, quemadmodum pro populo, ita etiam et pro semetipso offerre pro peccatis.
   - `VulgSistina (1590)`: et propterea debet, quemadmodum pro populo, ita etiam et pro semetipso offerre pro peccatis.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -98,6 +138,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Nec quisquam sumit sibi honorem, sed qui vocatur a Deo, tamquam Aaron.
   - `Clem-Saints`: Nec quisquam sumit sibi honorem, sed qui vocatur a Deo, tamquam Aaron.
   - `VulgHetzenauer (1906)`: Nec quisquam sumit sibi honorem, sed qui vocatur a Deo, tamquam Aaron.
+  - `Amiatinus (A)`: nec quisquam sumit sibi honorem sed qui uocatur a deo tamquam aaron
   - `VulgConte (2009)`: Nec quisquam sumit sibi honorem, sed qui vocatur a Deo, tamquam Aaron.
   - `VulgSistina (1590)`: Nec quisquam sumit sibi honorem, sed qui vocatur a Deo, tamquam Aaron.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -107,6 +148,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Sic et Christus non semetipsum clarificavit ut pontifex fieret: sed qui locutus est ad eum: Filius meus es tu, ego hodie genui te.
   - `Clem-Saints`: Sic et Christus non semetipsum clarificavit ut pontifex fieret: sed qui locutus est ad eum: Filius meus es tu, ego hodie genui te.
   - `VulgHetzenauer (1906)`: Sic et Christus non semetipsum clarificavit ut pontifex fieret: sed qui locutus est ad eum: Filius meus es tu, ego hodie genui te.
+  - `Amiatinus (A)`: sic et christus non semet ipsum clarificauit ut pontifex fieret sed qui locutus est ad eum filius meus es tu ego hodie genui te
   - `VulgConte (2009)`: Sic et Christus non semetipsum clarificavit ut Pontifex fieret: sed qui locutus est ad eum: Filius meus es tu, ego hodie genui te.
   - `VulgSistina (1590)`: Sic et Christus non semetipsum clarificavit ut pontifex fieret: sed qui locutus est ad eum: Filius meus es tu, ego hodie genui te.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -116,6 +158,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quemadmodum et in alio loco dicit: Tu es sacerdos in æternum, secundum ordinem Melchisedech.
   - `Clem-Saints`: Quemadmodum et in alio loco dicit: Tu es sacerdos in æternum, secundum ordinem Melchisedech.
   - `VulgHetzenauer (1906)`: Quemadmodum et in alio loco dicit: Tu es sacerdos in æternum, secundum ordinem Melchisedech.
+  - `Amiatinus (A)`: quemadmodum et in alio loco dicit tu es sacerdos in aeternum secundum ordinem melchisedech
   - `VulgConte (2009)`: Quemadmodum et in alio loco dicit: Tu es sacerdos in æternum, secundum ordinem Melchisedech.
   - `VulgSistina (1590)`: Quemadmodum et in alio loco dicit: Tu es sacerdos in aeternum, secundum ordinem Melchisedech.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -125,6 +168,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Qui in diebus carnis suæ preces, supplicationesque ad eum qui possit illum salvum facere a morte cum clamore valido, et lacrimis offerens, exauditus est pro sua reverentia.
   - `Clem-Saints`: Qui in diebus carnis suæ preces, supplicationesque ad eum qui possit illum salvum facere a morte cum clamore valido, et lacrimis offerens, exauditus est pro sua reverentia.
   - `VulgHetzenauer (1906)`: Qui in diebus carnis suæ preces, supplicationesque ad eum, qui possit illum salvum facere a morte cum clamore valido, et lacrymis offerens, exauditus est pro sua reverentia:
+  - `Amiatinus (A)`: qui in diebus carnis suae preces supplicationesque ad eum qui possit saluum illum a morte facere cum clamore ualido et lacrimis offerens et exauditus pro sua reuerentia
   - `VulgConte (2009)`: Qui in diebus carnis suæ preces, supplicationesque ad eum, qui possit illum salvum facere a morte cum clamore valido, et lacrymis offerens, exauditus est pro sua reverentia:
   - `VulgSistina (1590)`: Qui in diebus carnis suae preces, supplicationesque ad eum, qui possit illum salvum facere a morte cum clamore valido, et lacrymis offerens, exauditus est pro sua reverentia:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -134,6 +178,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et quidem cum esset Filius Dei, didicit ex iis, quæ passus est, obedientiam:
   - `Clem-Saints`: Et quidem cum esset Filius Dei, didicit ex iis, quæ passus est, obedientiam:
   - `VulgHetzenauer (1906)`: Et quidem cum esset Filius Dei, didicit ex iis, quæ passus est, obedientiam:
+  - `Amiatinus (A)`: Et quidem cum esset filius didicit ex his quae passus est oboedientiam
   - `VulgConte (2009)`: Et quidem cum esset Filius Dei, didicit ex iis, quæ passus est, obedientiam:
   - `VulgSistina (1590)`: Et quidem cum esset Filius Dei, didicit ex iis, quae passus est, obedientiam:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -143,6 +188,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et consummatus, factus est omnibus obtemperantibus sibi, causa salutis æternæ,
   - `Clem-Saints`: et consummatus, factus est omnibus obtemperantibus sibi, causa salutis æternæ,
   - `VulgHetzenauer (1906)`: et consummatus, factus est omnibus obtemperantibus sibi, causa salutis æternæ,
+  - `Amiatinus (A)`: et consummatus factus est omnibus obtemperantibus sibi causa salutis aeternae
   - `VulgConte (2009)`: et consummatus, factus est omnibus obtemperantibus sibi, causa salutis æternæ,
   - `VulgSistina (1590)`: et consummatus, factus est omnibus obtemperantibus sibi, causa salutis aeternae,
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -152,6 +198,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: appellatus a Deo pontifex juxta ordinem Melchisedech.
   - `Clem-Saints`: appellatus a Deo pontifex juxta ordinem Melchisedech.
   - `VulgHetzenauer (1906)`: appellatus a Deo pontifex iuxta ordinem Melchisedech.
+  - `Amiatinus (A)`: appellatus a deo pontifex iuxta ordinem melchisedech
   - `VulgConte (2009)`: appellatus a Deo Pontifex iuxta ordinem Melchisedech.
   - `VulgSistina (1590)`: appellatus a Deo pontifex iuxta ordinem Melchisedech.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -161,6 +208,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: De quo nobis grandis sermo, et ininterpretabilis ad dicendum: quoniam imbecilles facti estis ad audiendum.
   - `Clem-Saints`: De quo nobis grandis sermo, et ininterpretabilis ad dicendum: quoniam imbecilles facti estis ad audiendum.
   - `VulgHetzenauer (1906)`: De quo nobis grandis sermo, et ininterpretabilis ad dicendum: quoniam imbecilles facti estis ad audiendum.
+  - `Amiatinus (A)`: de quo grandis nobis sermo et ininterpretabilis ad dicendum quoniam inbecilles facti estis ad audiendum
   - `VulgConte (2009)`: De quo nobis grandis sermo, et ininterpretabilis ad dicendum: quoniam imbecilles facti estis ad audiendum.
   - `VulgSistina (1590)`: De quo nobis grandis sermo, et interpretabilis ad dicendum: quoniam imbecilles facti estis ad audiendum.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -170,6 +218,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Etenim cum deberetis magistri esse propter tempus, rursum indigetis ut vos doceamini quæ sint elementa exordii sermonum Dei: et facti estis quibus lacte opus sit, non solido cibo.
   - `Clem-Saints`: Etenim cum deberetis magistri esse propter tempus, rursum indigetis ut vos doceamini quæ sint elementa exordii sermonum Dei: et facti estis quibus lacte opus sit, non solido cibo.
   - `VulgHetzenauer (1906)`: Etenim cum deberetis magistri esse propter tempus: rursum indigetis ut vos doceamini quæ sint elementa exordii sermonum Dei: et facti estis quibus lacte opus sit, non solido cibo.
+  - `Amiatinus (A)`: etenim cum deberetis magistri esse propter tempus rursum indigetis ut uos doceamini quae sint elementa exordii sermonum dei et facti estis quibus lacte opus sit non solido cibo
   - `VulgConte (2009)`: Etenim cum deberetis magistri esse propter tempus: rursum indigetis ut vos doceamini quæ sint elementa exordii sermonum Dei: et facti estis quibus lacte opus sit, non solido cibo.
   - `VulgSistina (1590)`: Etenim cum deberetis magistri esse propter tempus: rursum indigetis ut vos doceamini quae sint elementa exordii sermonum Dei: et facti estis quibus lacte opus sit, non solido cibo.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -179,6 +228,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Omnis enim, qui lactis est particeps, expers est sermonis justitiæ: parvulus enim est.
   - `Clem-Saints`: Omnis enim, qui lactis est particeps, expers est sermonis justitiæ: parvulus enim est.
   - `VulgHetzenauer (1906)`: Omnis enim, qui lactis est particeps, expers est sermonis iustitiæ, parvulus enim est.
+  - `Amiatinus (A)`: omnis enim qui lactis est particeps expers est sermonis iustitiae paruulus enim est
   - `VulgConte (2009)`: Omnis enim, qui lactis est particeps, expers est sermonis iustitiæ, parvulus enim est.
   - `VulgSistina (1590)`: Omnis enim, qui lactis est particeps, expers est sermonis iustitiae, parvulus enim est.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -188,6 +238,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Perfectorum autem est solidus cibus: eorum, qui pro consuetudine exercitatos habent sensus ad discretionem boni ac mali.
   - `Clem-Saints`: Perfectorum autem est solidus cibus: eorum, qui pro consuetudine exercitatos habent sensus ad discretionem boni ac mali.
   - `VulgHetzenauer (1906)`: Perfectorum autem est solidus cibus: eorum, qui pro consuetudine exercitatos habent sensus ad discretionem boni ac mali.
+  - `Amiatinus (A)`: perfectorum autem est solidus cibus eorum qui pro consuetudine exercitatos habent sensus ad discretionem boni ac mali
   - `VulgConte (2009)`: Perfectorum autem est solidus cibus: eorum, qui pro consuetudine exercitatos habent sensus ad discretionem boni ac mali.
   - `VulgSistina (1590)`: Perfectorum autem est solidus cibus: eorum, qui pro consuetudine exercitatos habent sensus ad discretionem boni ac mali.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

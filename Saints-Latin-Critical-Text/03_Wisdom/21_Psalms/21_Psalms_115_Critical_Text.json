@@ -7,11 +7,14 @@
   "usfm_code": "PSA",
   "chapter": 115,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:17:23Z",
+  "updated_at": "2026-11-22T08:01:48Z",
   "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
   "versification_anchor": "Clem-Saints",
   "orthographic_base": "Clem1598-USFX",
-  "versification_notes": [],
+  "versification_notes": [
+    "Psalt-Pianum (1945): 115:10 not collated (no verse of the reference matches its wording)",
+    "Psalt-Pianum (1945): 6 verse(s) re-aligned by content (2←115:11, 3←115:12, 4←115:13, 6←115:14, 7←115:16, 10←115:18)"
+  ],
   "admitted_witnesses": [
     {
       "siglum": "Clem1598-USFX",
@@ -34,6 +37,13 @@
       "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
       "tier": 1,
       "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "Psalt-Pianum (1945)",
+      "title": "Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945)",
+      "tier": 3,
+      "license": "Public Domain (DivinumOfficium Latin-Bea)",
       "role": "apparatus only (recorded, not voting)"
     },
     {
@@ -68,6 +78,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -101,17 +112,81 @@
         "Clem1598-USFX": "Ego dixi in excessu meo: Omnis homo mendax.",
         "Clem-Saints": "Ego dixi in excessu meo: Omnis homo mendax.",
         "VulgHetzenauer (1906)": "Ego dixi in excessu meo: Omnis homo mendax.",
+        "Psalt-Pianum (1945)": "Ego dixi in pavóre meo: omnis homo fallax!",
         "VulgConte (2009)": "Ego dixi in excessu meo: Omnis homo mendax.",
         "VulgSistina (1590)": "Ego dixi in excessu meo: Omnis homo mendax."
       },
       "absent_witnesses": [],
-      "witness_refs": {},
+      "witness_refs": {
+        "Psalt-Pianum (1945)": "115:11"
+      },
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "excessu",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "pavóre",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "excessu",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "mendax.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "fallax!",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "mendax",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -128,17 +203,52 @@
         "Clem1598-USFX": "Quid retribuam Domino pro omnibus quæ retribuit mihi?",
         "Clem-Saints": "Quid retribuam Domino pro omnibus quæ retribuit mihi?",
         "VulgHetzenauer (1906)": "Quid retribuam Domino, pro omnibus, quæ retribuit mihi?",
+        "Psalt-Pianum (1945)": "Quid retríbuam Dómino pro ómnibus quæ tríbuit mihi?",
         "VulgConte (2009)": "Quid retribuam Domino, pro omnibus, quæ retribuit mihi?",
         "VulgSistina (1590)": "Quid retribuam Domino, pro omnibus, quae retribuit mihi?"
       },
       "absent_witnesses": [],
-      "witness_refs": {},
+      "witness_refs": {
+        "Psalt-Pianum (1945)": "115:12"
+      },
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "retribuit",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "tríbuit",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "retribuit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -155,17 +265,52 @@
         "Clem1598-USFX": "Calicem salutaris accipiam, et nomen Domini invocabo.",
         "Clem-Saints": "Calicem salutaris accipiam, et nomen Domini invocabo.",
         "VulgHetzenauer (1906)": "Calicem salutaris accipiam: et nomen Domini invocabo.",
+        "Psalt-Pianum (1945)": "Cálicem salútis accípiam, et nomen Dómini invocábo.",
         "VulgConte (2009)": "Calicem salutaris accipiam: et nomen Domini invocabo.",
         "VulgSistina (1590)": "Calicem salutaris accipiam: et nomen Domini invocabo."
       },
       "absent_witnesses": [],
-      "witness_refs": {},
+      "witness_refs": {
+        "Psalt-Pianum (1945)": "115:13"
+      },
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "salutaris",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "salútis",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "salutaris",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -187,6 +332,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -208,17 +354,110 @@
         "Clem1598-USFX": "Pretiosa in conspectu Domini mors sanctorum ejus.",
         "Clem-Saints": "Pretiosa in conspectu Domini mors sanctorum ejus.",
         "VulgHetzenauer (1906)": "pretiosa in conspectu Domini mors Sanctorum eius:",
+        "Psalt-Pianum (1945)": "Vota mea Dómino reddam coram omni pópulo ejus. (15) Pretiósa est in óculis Dómini mors sanctórum ejus.",
         "VulgConte (2009)": "pretiosa in conspectu Domini mors sanctorum eius:",
         "VulgSistina (1590)": "pretiosa in conspectu Domini mors Sanctorum eius:"
       },
       "absent_witnesses": [],
-      "witness_refs": {},
+      "witness_refs": {
+        "Psalt-Pianum (1945)": "115:14"
+      },
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Vota mea Dómino reddam coram omni pópulo ejus. (15)",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "est",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "conspectu",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "óculis",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "conspectu",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -235,17 +474,168 @@
         "Clem1598-USFX": "O Domine, quia ego servus tuus; ego servus tuus, et filius ancillæ tuæ. Dirupisti vincula mea:",
         "Clem-Saints": "O Domine, quia ego servus tuus; ego servus tuus, et filius ancillæ tuæ. Dirupisti vincula mea:",
         "VulgHetzenauer (1906)": "O Domine quia ego servus tuus: ego servus tuus, et filius ancillæ tuæ. Dirupisti vincula mea:",
+        "Psalt-Pianum (1945)": "O Dómine, ego servus tuus sum, ego servus tuus, fílius ancíllæ tuæ: Solvísti víncula mea. (17) Tibi sacrificábo sacrifícium laudis, et nomen Dómini invocábo.",
         "VulgConte (2009)": "O Domine quia ego servus tuus: ego servus tuus, et filius ancillæ tuæ. Dirupisti vincula mea:",
         "VulgSistina (1590)": "O Domine quia ego servus tuus: ego servus tuus, et filius ancillae tuae. Dirupisti vincula mea:"
       },
       "absent_witnesses": [],
-      "witness_refs": {},
+      "witness_refs": {
+        "Psalt-Pianum (1945)": "115:16"
+      },
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "quia",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "quia",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "sum,",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 9,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "Dirupisti",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Solvísti",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 13,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "dirupisti",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "(17) Tibi sacrificábo sacrifícium laudis, et nomen Dómini invocábo.",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 16,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -268,6 +658,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -295,6 +686,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -316,17 +708,52 @@
         "Clem1598-USFX": "in atriis domus Domini, in medio tui, Jerusalem.",
         "Clem-Saints": "in atriis domus Domini, in medio tui, Jerusalem.",
         "VulgHetzenauer (1906)": "in atriis domus Domini, in medio tui Ierusalem.",
+        "Psalt-Pianum (1945)": "Vota mea Dómino reddam coram omni pópulo ejus, (19) in átriis domus Dómini, in médio tui, Jerúsalem.",
         "VulgConte (2009)": "in atriis domus Domini, in medio tui Ierusalem.",
         "VulgSistina (1590)": "in atriis domus Domini, in medio tui Ierusalem."
       },
       "absent_witnesses": [],
-      "witness_refs": {},
+      "witness_refs": {
+        "Psalt-Pianum (1945)": "115:18"
+      },
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Vota mea Dómino reddam coram omni pópulo ejus, (19)",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,

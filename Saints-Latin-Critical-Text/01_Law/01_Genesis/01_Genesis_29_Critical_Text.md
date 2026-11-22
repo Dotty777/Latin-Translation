@@ -1,6 +1,6 @@
 # Genesis 29 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:16:07Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:33Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -15,9 +15,9 @@
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
-| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -29,7 +29,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -50,7 +59,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **13** Qui cum audisset venisse Jacob filium sororis suæ, cucurrit obviam complexusque eum, et in oscula ruens, duxit in domum suam. Auditis autem causis itineris,
 **14** respondit: Os meum es, et caro mea. Et postquam expleti sunt dies mensis unius,
 **15** dixit ei: Num quia frater meus es, gratis servies mihi? dic quid mercedis accipias.
-**16** Habebat vero filias duas: nomen majoris Lia, minor appellabatur rahel.
+**16** Habebat vero filias duas: nomen majoris Lia, minor appellabatur Rahel.
 **17** Sed Lia lippis erat oculis: Rahel decora facie, et venusto aspectu.
 **18** Quam diligens Jacob, ait: Serviam tibi pro Rahel filia tua minore, septem annis.
 **19** Respondit Laban: Melius est ut tibi eam dem quam viro alteri: mane apud me.
@@ -62,7 +71,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **25** et dixit ad socerum Quid est quod facere voluisti? nonne pro Rahel servivi tibi? quare imposuisti mihi?
 **26** Respondit Laban: Non est in loco nostro consuetudinis, ut minores ante tradamus ad nuptias.
 **27** Imple ebdomadem dierum hujus copulæ: et hanc quoque dabo tibi pro opere quo serviturus es mihi septem annis aliis.
-**28** Acquievit placito: et ebdomadae transacta Rahel duxit uxorem:
+**28** Acquievit placito: et ebdomadæ transacta Rahel duxit uxorem:
 **29** cui pater servam Balam dederat.
 **30** Tandemque potitus optatis nuptiis, amorem sequentis priori prætulit, serviens apud eum septem annis aliis.
 **31** Videns autem Dominus quod despiceret Liam, aperuit vulvam ejus, sorore sterili permanente.
@@ -203,7 +212,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Genesis 29:13
 - **Apparatus:** `cucurrit` Amiatinus (A) Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **occurrit** VulgSistina (1590)
-- **Apparatus:** `complexusque` Amiatinus (A) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ei complexusque** Clem1598-USFX Clem-Saints *(partial substitution)*
+- **Apparatus:** `complexusque` Amiatinus (A) **]** **ei complexusque** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Qui` over `qui` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -237,10 +246,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `accipias.` over `accipias` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 29:16
-- **Apparatus:** `filias duas` Amiatinus (A) **]** **duas filias** Clem1598-USFX Clem-Saints ; **filias,** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `filias duas` Amiatinus (A) **]** **duas filias** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
-- **Apparatus:** `appellabatur rahel` Amiatinus (A) **]** **vero appellabatur Rachel** Clem1598-USFX Clem-Saints ; **appellabatur Rachel.** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
+- **Apparatus:** `appellabatur Rahel` Amiatinus (A) **]** **vero appellabatur Rachel** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Habebat` over `habebat` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -271,7 +280,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `annis.` over `annis` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 29:19
-- **Apparatus:** `viro alteri` Amiatinus (A) **]** **alteri viro** Clem1598-USFX Clem-Saints ; **viro,** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `viro alteri` Amiatinus (A) **]** **alteri viro** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Respondit` over `respondit` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -314,11 +323,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Genesis 29:23
 - **Apparatus:** `om.` Amiatinus (A) **]** **Liam** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'Liam' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'om.', 'Liam' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `Liam` Amiatinus (A) **]** **om.** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'Liam' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'om.', 'Liam' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Et` over `et` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -368,7 +377,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `aliis.` over `aliis` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 29:28
-- **Apparatus:** `ebdomadae transacta Rahel` Amiatinus (A) **]** **hebdomada transacta Rachel** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
+- **Apparatus:** `ebdomadæ transacta Rahel` Amiatinus (A) **]** **hebdomada transacta Rachel** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Acquievit` over `adquieuit` (Amiatinus (A)) — *Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -413,11 +422,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Genesis 29:33
 - **Apparatus:** `om.` Amiatinus (A) **]** **me** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'me' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'om.', 'me' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `me` Amiatinus (A) **]** **om.** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'me' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'om.', 'me' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `illius` Amiatinus (A) **]** **ejus** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
@@ -629,14 +638,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 6 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
 ### Verse 16 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Habebat vero filias duas: nomen majoris Lia, minor appellabatur rahel.
+- **Critical Text:** Habebat vero filias duas: nomen majoris Lia, minor appellabatur Rahel.
   - `Clem1598-USFX`: Habebat vero duas filias: nomen majoris Lia, minor vero appellabatur Rachel.
   - `Clem-Saints`: Habebat vero duas filias: nomen majoris Lia, minor vero appellabatur Rachel.
   - `Amiatinus (A)`: habebat uero filias duas nomen maioris lia minor appellabatur rahel
   - `VulgHetzenauer (1906)`: Habebat vero duas filias, nomen maioris Lia: minor vero appellabatur Rachel.
   - `VulgConte (2009)`: Habebat vero duas filias, nomen maioris Lia: minor vero appellabatur Rachel.
   - `VulgSistina (1590)`: Habebat vero duas filias, nomen maioris Lia: minor vero appellabatur Rachel.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'filias duas' [Amiatinus (A)] (weight 0.97, confidence 53%) over duas filias (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'appellabatur rahel' [Amiatinus (A)] (weight 0.97, confidence 53%) over vero appellabatur Rachel (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'filias duas' [Amiatinus (A)] (weight 0.97, confidence 53%) over duas filias (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'appellabatur Rahel' [Amiatinus (A)] (weight 0.97, confidence 53%) over vero appellabatur Rachel (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 17 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -704,7 +713,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgSistina (1590)`: Qui vocatis multis amicorum turbis ad convivium, fecit nuptias.
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 4 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
-### Verse 23 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 23 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et vespere filiam suam Liam introduxit ad eum,
   - `Clem1598-USFX`: Et vespere Liam filiam suam introduxit ad eum,
   - `Clem-Saints`: Et vespere Liam filiam suam introduxit ad eum,
@@ -713,7 +722,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgConte (2009)`: Et vespere Liam filiam suam introduxit ad eum,
   - `VulgSistina (1590)`: Et vespere Liam filiam suam introduxit ad eum,
 - **Philological Rationale:** [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over Liam (Clem1598-USFX, Clem-Saints). [Addition / omission between witnesses] Adopted 'Liam' [Amiatinus (A)] (weight 0.97, confidence 53%) over om. (Clem1598-USFX, Clem-Saints). Also normalised 3 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** dans ancillam filiæ, Zelpham nomine. Ad quam cum ex more Jacob fuisset ingressus, facto mane vidit Liam:
@@ -758,14 +767,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 28 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Acquievit placito: et ebdomadae transacta Rahel duxit uxorem:
+- **Critical Text:** Acquievit placito: et ebdomadæ transacta Rahel duxit uxorem:
   - `Clem1598-USFX`: Acquievit placito: et hebdomada transacta, Rachel duxit uxorem:
   - `Clem-Saints`: Acquievit placito: et hebdomada transacta, Rachel duxit uxorem:
   - `Amiatinus (A)`: adquieuit placito et ebdomadae transacta rahel duxit uxorem
   - `VulgHetzenauer (1906)`: Acquievit placito: et hebdomada transacta, Rachel duxit uxorem:
   - `VulgConte (2009)`: Acquievit placito: et hebdomada transacta, Rachel duxit uxorem:
   - `VulgSistina (1590)`: Acquievit placito: et hebdomada transacta, Rachel duxit uxorem:
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'ebdomadae transacta Rahel' [Amiatinus (A)] (weight 0.97, confidence 53%) over hebdomada transacta Rachel (Clem1598-USFX, Clem-Saints). Also normalised 3 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'ebdomadæ transacta Rahel' [Amiatinus (A)] (weight 0.97, confidence 53%) over hebdomada transacta Rachel (Clem1598-USFX, Clem-Saints). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 29 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -809,7 +818,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgSistina (1590)`: Quae conceptum genuit filium, vocavitque nomen eius Ruben, dicens: Vidit Dominus humilitatem meam, nunc amabit me vir meus.
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 11 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
-### Verse 33 (Confidence: `14.8%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 33 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Rursumque concepit et peperit filium, et ait: Quoniam audivit Dominus haberi me contemptui, dedit etiam istum mihi; vocavitque nomen illius Simeon.
   - `Clem1598-USFX`: Rursumque concepit et peperit filium, et ait: Quoniam audivit me Dominus haberi contemptui, dedit etiam istum mihi; vocavitque nomen ejus Simeon.
   - `Clem-Saints`: Rursumque concepit et peperit filium, et ait: Quoniam audivit me Dominus haberi contemptui, dedit etiam istum mihi; vocavitque nomen ejus Simeon.
@@ -818,7 +827,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgConte (2009)`: Rursumque concepit et peperit filium, et ait: Quoniam audivit me Dominus haberi contemptui, dedit etiam istum mihi. Vocavitque nomen eius Simeon.
   - `VulgSistina (1590)`: Rursumque concepit et peperit filium, et ait: Quoniam audivit me Dominus haberi contemptui, dedit etiam istum mihi. vocavitque nomen eius Simeon.
 - **Philological Rationale:** [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over me (Clem1598-USFX, Clem-Saints). [Addition / omission between witnesses] Adopted 'me' [Amiatinus (A)] (weight 0.97, confidence 53%) over om. (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'illius' [Amiatinus (A)] (weight 0.97, confidence 53%) over ejus (Clem1598-USFX, Clem-Saints). Also normalised 10 orthographic/surface variation(s).
-- *confidence:* Verse confidence 15% = product of 3 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 34 (Confidence: `14.8%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Concepit tertio, et genuit alium dixitque: Nunc quoque copulabitur mihi maritus meus: eo quod pepererim illi tres filios: et idcirco appellavit nomen ejus Levi.

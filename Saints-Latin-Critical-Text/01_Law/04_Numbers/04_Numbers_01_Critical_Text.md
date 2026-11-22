@@ -1,6 +1,6 @@
 # Numbers 01 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:16:20Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:43Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,7 +16,7 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,13 +28,22 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ### Versification & Alignment Notes
-- Clem1598-USFX: 13 verse(s) re-aligned by content (24←1:26, 25←1:27, 26←1:28, 27←1:29, 28←1:32, 29←1:31…)
-- VulgHetzenauer (1906): 13 verse(s) re-aligned by content (24←1:26, 25←1:27, 26←1:28, 27←1:29, 28←1:32, 29←1:31…)
-- VulgConte (2009): 13 verse(s) re-aligned by content (24←1:26, 25←1:27, 26←1:28, 27←1:29, 28←1:32, 29←1:31…)
-- VulgSistina (1590): 13 verse(s) re-aligned by content (24←1:26, 25←1:27, 26←1:28, 27←1:29, 28←1:32, 29←1:31…)
+- Clem1598-USFX: Source division repair: verses 1:24–25 (Gad) moved to 1:36–37 and 1:26–37 (Juda–Benjamin) renumbered 1:24–35 to match Clem-Saints's LXX tribe order (preventing formulaic census alignment from swapping Zabulon 1:28 and Ephraim 1:30). Original file unchanged.
+- VulgHetzenauer (1906): Source division repair: verses 1:24–25 (Gad) moved to 1:36–37 and 1:26–37 (Juda–Benjamin) renumbered 1:24–35 to match Clem-Saints's LXX tribe order (preventing formulaic census alignment from swapping Zabulon 1:28 and Ephraim 1:30). Original file unchanged.
+- VulgConte (2009): Source division repair: verses 1:24–25 (Gad) moved to 1:36–37 and 1:26–37 (Juda–Benjamin) renumbered 1:24–35 to match Clem-Saints's LXX tribe order (preventing formulaic census alignment from swapping Zabulon 1:28 and Ephraim 1:30). Original file unchanged.
+- VulgSistina (1590): Source division repair: verses 1:24–25 (Gad) moved to 1:36–37 and 1:26–37 (Juda–Benjamin) renumbered 1:24–35 to match Clem-Saints's LXX tribe order (preventing formulaic census alignment from swapping Zabulon 1:28 and Ephraim 1:30). Original file unchanged.
 
 ---
 
@@ -67,9 +76,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **25** recensiti sunt septuaginta quatuor millia sexcenti.
 **26** De filiis Issachar, per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui ad bella procederent,
 **27** recensiti sunt quinquaginta quatuor millia quadringenti.
-**28** De filiis Joseph, filiorum Ephraim per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+**28** De filiis Zabulon per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
 **29** quinquaginta septem millia quadringenti.
-**30** De filiis Zabulon per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+**30** De filiis Joseph, filiorum Ephraim per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
 **31** quadraginta millia quingenti.
 **32** Porro filiorum Manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui poterant ad bella procedere,
 **33** triginta duo millia ducenti.
@@ -103,25 +112,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `Phadassur;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Phadasseur.** VulgSistina (1590)
 
 ### Numbers 1:25
-- *Disregarded Surface Variant:* kept `(adopted text)` over `quatuor / quattuor`, `quatuor / quattuor`, `quatuor / quattuor` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `quatuor millia sexcenti. / quattuor milia sescenti`, `quatuor / quattuor`, `quatuor / quattuor`, `quatuor / quattuor` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Numbers 1:27
-- *Disregarded Surface Variant:* kept `(adopted text)` over `quatuor / quattuor`, `quatuor / quattuor`, `quatuor / quattuor` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
-
-### Numbers 1:28
-- *Disregarded Surface Variant:* kept `Joseph, filiorum Ephraim` over `Zabulon` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
-
-### Numbers 1:30
-- *Disregarded Surface Variant:* kept `Zabulon` over `Joseph, filiorum Ephraim` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `quatuor millia / quattuor milia`, `quatuor / quattuor`, `quatuor / quattuor`, `quatuor / quattuor` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Numbers 1:37
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quadraginta quinque / quadragintaquinque`, `quadraginta quinque / quadragintaquinque` (VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Numbers 1:50
-- *Disregarded Surface Variant:* kept `(adopted text)` over `cæremonias / ceremonias`, `cæremonias / ceremonias`, `cæremonias / ceremonias` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `quidquid / quicquid`, `cæremonias / caerimonias`, `cæremonias / ceremonias`, `cæremonias / ceremonias`, `cæremonias / ceremonias` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Numbers 1:51
-- **Apparatus:** `castrametandum,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **castrametanda,** VulgSistina (1590)
+- **Apparatus:** `castrametandum,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **castra metanda** VulgSistina (1590)
 
 ---
 
@@ -336,129 +339,129 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** De filiis Juda per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-  - `Clem1598-USFX` *(numbered 1:26 in this witness)*: De filiis Juda per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+  - `Clem1598-USFX`: De filiis Juda per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
   - `Clem-Saints`: De filiis Juda per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-  - `VulgHetzenauer (1906)` *(numbered 1:26 in this witness)*: De filiis Iuda per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-  - `VulgConte (2009)` *(numbered 1:26 in this witness)*: De filiis Iuda per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-  - `VulgSistina (1590)` *(numbered 1:26 in this witness)*: De filiis Iuda per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:26 (re-aligned by content).
+  - `VulgHetzenauer (1906)`: De filiis Iuda per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+  - `VulgConte (2009)`: De filiis Iuda per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+  - `VulgSistina (1590)`: De filiis Iuda per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** recensiti sunt septuaginta quatuor millia sexcenti.
-  - `Clem1598-USFX` *(numbered 1:27 in this witness)*: recensiti sunt septuaginta quatuor millia sexcenti.
+  - `Clem1598-USFX`: recensiti sunt septuaginta quatuor millia sexcenti.
   - `Clem-Saints`: recensiti sunt septuaginta quatuor millia sexcenti.
-  - `VulgHetzenauer (1906)` *(numbered 1:27 in this witness)*: recensiti sunt septuaginta quattuor millia sexcenti.
-  - `VulgConte (2009)` *(numbered 1:27 in this witness)*: recensiti sunt septuaginta quattuor millia sexcenti.
-  - `VulgSistina (1590)` *(numbered 1:27 in this witness)*: recensiti sunt septuaginta quattuor millia sexcenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:27 (re-aligned by content).
+  - `VulgHetzenauer (1906)`: recensiti sunt septuaginta quattuor millia sexcenti.
+  - `VulgConte (2009)`: recensiti sunt septuaginta quattuor millia sexcenti.
+  - `VulgSistina (1590)`: recensiti sunt septuaginta quattuor millia sexcenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** De filiis Issachar, per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui ad bella procederent,
-  - `Clem1598-USFX` *(numbered 1:28 in this witness)*: De filiis Issachar, per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui ad bella procederent,
+  - `Clem1598-USFX`: De filiis Issachar, per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui ad bella procederent,
   - `Clem-Saints`: De filiis Issachar, per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui ad bella procederent,
-  - `VulgHetzenauer (1906)` *(numbered 1:28 in this witness)*: De filiis Issachar, per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui ad bella procederent,
-  - `VulgConte (2009)` *(numbered 1:28 in this witness)*: De filiis Issachar, per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui ad bella procederent,
-  - `VulgSistina (1590)` *(numbered 1:28 in this witness)*: De filiis Issachar, per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui ad bella procederent,
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:28 (re-aligned by content).
+  - `VulgHetzenauer (1906)`: De filiis Issachar, per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui ad bella procederent,
+  - `VulgConte (2009)`: De filiis Issachar, per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui ad bella procederent,
+  - `VulgSistina (1590)`: De filiis Issachar, per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui ad bella procederent,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** recensiti sunt quinquaginta quatuor millia quadringenti.
-  - `Clem1598-USFX` *(numbered 1:29 in this witness)*: recensiti sunt quinquaginta quatuor millia quadringenti.
+  - `Clem1598-USFX`: recensiti sunt quinquaginta quatuor millia quadringenti.
   - `Clem-Saints`: recensiti sunt quinquaginta quatuor millia quadringenti.
-  - `VulgHetzenauer (1906)` *(numbered 1:29 in this witness)*: recensiti sunt quinquaginta quattuor millia quadringenti.
-  - `VulgConte (2009)` *(numbered 1:29 in this witness)*: recensiti sunt quinquaginta quattuor millia quadringenti.
-  - `VulgSistina (1590)` *(numbered 1:29 in this witness)*: recensiti sunt quinquaginta quattuor millia quadringenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:29 (re-aligned by content).
+  - `VulgHetzenauer (1906)`: recensiti sunt quinquaginta quattuor millia quadringenti.
+  - `VulgConte (2009)`: recensiti sunt quinquaginta quattuor millia quadringenti.
+  - `VulgSistina (1590)`: recensiti sunt quinquaginta quattuor millia quadringenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** De filiis Joseph, filiorum Ephraim per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-  - `Clem1598-USFX` *(numbered 1:32 in this witness)*: De filiis Joseph, filiorum Ephraim per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-  - `Clem-Saints`: De filiis Zabulon per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-  - `VulgHetzenauer (1906)` *(numbered 1:32 in this witness)*: De filiis Ioseph, filiorum Ephraim per generationes, et familias, ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-  - `VulgConte (2009)` *(numbered 1:32 in this witness)*: De filiis Ioseph, filiorum Ephraim per generationes, et familias, ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-  - `VulgSistina (1590)` *(numbered 1:32 in this witness)*: De filiis Ioseph, filiorum Ephraim per generationes, et familias, ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)). Versification: Clem1598-USFX numbers this verse 1:32 (re-aligned by content).
-
-### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** quinquaginta septem millia quadringenti.
-  - `Clem1598-USFX` *(numbered 1:31 in this witness)*: quinquaginta septem millia quadringenti.
-  - `Clem-Saints`: quinquaginta septem millia quadringenti.
-  - `VulgHetzenauer (1906)` *(numbered 1:31 in this witness)*: quinquaginta septem millia quadringenti.
-  - `VulgConte (2009)` *(numbered 1:31 in this witness)*: quinquaginta septem millia quadringenti.
-  - `VulgSistina (1590)` *(numbered 1:31 in this witness)*: quinquaginta septem millia quadringenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:31 (re-aligned by content).
-
-### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** De filiis Zabulon per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
   - `Clem1598-USFX`: De filiis Zabulon per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-  - `Clem-Saints`: De filiis Joseph, filiorum Ephraim per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+  - `Clem-Saints`: De filiis Zabulon per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
   - `VulgHetzenauer (1906)`: De filiis Zabulon per generationes et familias, ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
   - `VulgConte (2009)`: De filiis Zabulon per generationes et familias, ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
   - `VulgSistina (1590)`: De filiis Zabulon per generationes et familias, ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** quinquaginta septem millia quadringenti.
+  - `Clem1598-USFX`: quinquaginta septem millia quadringenti.
+  - `Clem-Saints`: quinquaginta septem millia quadringenti.
+  - `VulgHetzenauer (1906)`: quinquaginta septem millia quadringenti.
+  - `VulgConte (2009)`: quinquaginta septem millia quadringenti.
+  - `VulgSistina (1590)`: quinquaginta septem millia quadringenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+
+### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** De filiis Joseph, filiorum Ephraim per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+  - `Clem1598-USFX`: De filiis Joseph, filiorum Ephraim per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+  - `Clem-Saints`: De filiis Joseph, filiorum Ephraim per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+  - `VulgHetzenauer (1906)`: De filiis Ioseph, filiorum Ephraim per generationes, et familias, ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+  - `VulgConte (2009)`: De filiis Ioseph, filiorum Ephraim per generationes, et familias, ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+  - `VulgSistina (1590)`: De filiis Ioseph, filiorum Ephraim per generationes, et familias, ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quadraginta millia quingenti.
-  - `Clem1598-USFX` *(numbered 1:33 in this witness)*: quadraginta millia quingenti.
+  - `Clem1598-USFX`: quadraginta millia quingenti.
   - `Clem-Saints`: quadraginta millia quingenti.
-  - `VulgHetzenauer (1906)` *(numbered 1:33 in this witness)*: quadraginta millia quingenti.
-  - `VulgConte (2009)` *(numbered 1:33 in this witness)*: quadraginta millia quingenti.
-  - `VulgSistina (1590)` *(numbered 1:33 in this witness)*: quadraginta millia quingenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:33 (re-aligned by content).
+  - `VulgHetzenauer (1906)`: quadraginta millia quingenti.
+  - `VulgConte (2009)`: quadraginta millia quingenti.
+  - `VulgSistina (1590)`: quadraginta millia quingenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Porro filiorum Manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui poterant ad bella procedere,
-  - `Clem1598-USFX` *(numbered 1:34 in this witness)*: Porro filiorum Manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui poterant ad bella procedere,
+  - `Clem1598-USFX`: Porro filiorum Manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui poterant ad bella procedere,
   - `Clem-Saints`: Porro filiorum Manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui poterant ad bella procedere,
-  - `VulgHetzenauer (1906)` *(numbered 1:34 in this witness)*: Porro filiorum Manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui poterant ad bella procedere,
-  - `VulgConte (2009)` *(numbered 1:34 in this witness)*: Porro filiorum Manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui poterant ad bella procedere,
-  - `VulgSistina (1590)` *(numbered 1:34 in this witness)*: Porro filiorum Manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui poterant ad bella procedere,
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:34 (re-aligned by content).
+  - `VulgHetzenauer (1906)`: Porro filiorum Manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui poterant ad bella procedere,
+  - `VulgConte (2009)`: Porro filiorum Manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui poterant ad bella procedere,
+  - `VulgSistina (1590)`: Porro filiorum Manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui poterant ad bella procedere,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
 
 ### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** triginta duo millia ducenti.
-  - `Clem1598-USFX` *(numbered 1:35 in this witness)*: triginta duo millia ducenti.
+  - `Clem1598-USFX`: triginta duo millia ducenti.
   - `Clem-Saints`: triginta duo millia ducenti.
-  - `VulgHetzenauer (1906)` *(numbered 1:35 in this witness)*: triginta duo millia ducenti.
-  - `VulgConte (2009)` *(numbered 1:35 in this witness)*: triginta duo millia ducenti.
-  - `VulgSistina (1590)` *(numbered 1:35 in this witness)*: triginta duo millia ducenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:35 (re-aligned by content).
+  - `VulgHetzenauer (1906)`: triginta duo millia ducenti.
+  - `VulgConte (2009)`: triginta duo millia ducenti.
+  - `VulgSistina (1590)`: triginta duo millia ducenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
 
 ### Verse 34 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** De filiis Benjamin per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-  - `Clem1598-USFX` *(numbered 1:36 in this witness)*: De filiis Benjamin per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+  - `Clem1598-USFX`: De filiis Benjamin per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
   - `Clem-Saints`: De filiis Benjamin per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-  - `VulgHetzenauer (1906)` *(numbered 1:36 in this witness)*: De filiis Beniamin per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-  - `VulgConte (2009)` *(numbered 1:36 in this witness)*: De filiis Beniamin per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-  - `VulgSistina (1590)` *(numbered 1:36 in this witness)*: De filiis Beniamin per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:36 (re-aligned by content).
+  - `VulgHetzenauer (1906)`: De filiis Beniamin per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+  - `VulgConte (2009)`: De filiis Beniamin per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+  - `VulgSistina (1590)`: De filiis Beniamin per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
 
 ### Verse 35 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** triginta quinque millia quadringenti.
-  - `Clem1598-USFX` *(numbered 1:37 in this witness)*: triginta quinque millia quadringenti.
+  - `Clem1598-USFX`: triginta quinque millia quadringenti.
   - `Clem-Saints`: triginta quinque millia quadringenti.
-  - `VulgHetzenauer (1906)` *(numbered 1:37 in this witness)*: triginta quinque millia quadringenti.
-  - `VulgConte (2009)` *(numbered 1:37 in this witness)*: triginta quinque millia quadringenti.
-  - `VulgSistina (1590)` *(numbered 1:37 in this witness)*: triginta quinque millia quadringenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:37 (re-aligned by content).
+  - `VulgHetzenauer (1906)`: triginta quinque millia quadringenti.
+  - `VulgConte (2009)`: triginta quinque millia quadringenti.
+  - `VulgSistina (1590)`: triginta quinque millia quadringenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
 
 ### Verse 36 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** De filiis Gad per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui ad bella procederent,
-  - `Clem1598-USFX` *(numbered 1:24 in this witness)*: De filiis Gad per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui ad bella procederent,
+  - `Clem1598-USFX`: De filiis Gad per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui ad bella procederent,
   - `Clem-Saints`: De filiis Gad per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui ad bella procederent,
-  - `VulgHetzenauer (1906)` *(numbered 1:24 in this witness)*: De filiis Gad per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui ad bella procederent,
-  - `VulgConte (2009)` *(numbered 1:24 in this witness)*: De filiis Gad per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui ad bella procederent,
-  - `VulgSistina (1590)` *(numbered 1:24 in this witness)*: De filiis Gad per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui ad bella procederent,
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:24 (re-aligned by content).
+  - `VulgHetzenauer (1906)`: De filiis Gad per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui ad bella procederent,
+  - `VulgConte (2009)`: De filiis Gad per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui ad bella procederent,
+  - `VulgSistina (1590)`: De filiis Gad per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui ad bella procederent,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
 
 ### Verse 37 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quadraginta quinque millia sexcenti quinquaginta.
-  - `Clem1598-USFX` *(numbered 1:25 in this witness)*: quadraginta quinque millia sexcenti quinquaginta.
+  - `Clem1598-USFX`: quadraginta quinque millia sexcenti quinquaginta.
   - `Clem-Saints`: quadraginta quinque millia sexcenti quinquaginta.
-  - `VulgHetzenauer (1906)` *(numbered 1:25 in this witness)*: quadragintaquinque millia sexcenti quinquaginta.
-  - `VulgConte (2009)` *(numbered 1:25 in this witness)*: quadraginta quinque millia sexcenti quinquaginta.
-  - `VulgSistina (1590)` *(numbered 1:25 in this witness)*: quadragintaquinque millia sexcenti quinquaginta.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 1:25 (re-aligned by content).
+  - `VulgHetzenauer (1906)`: quadragintaquinque millia sexcenti quinquaginta.
+  - `VulgConte (2009)`: quadraginta quinque millia sexcenti quinquaginta.
+  - `VulgSistina (1590)`: quadragintaquinque millia sexcenti quinquaginta.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
 
 ### Verse 38 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** De filiis Dan per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,

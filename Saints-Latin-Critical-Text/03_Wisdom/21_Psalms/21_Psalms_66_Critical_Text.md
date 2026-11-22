@@ -1,6 +1,6 @@
 # Psalms 66 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:19Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:46Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,32 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+
+### Versification & Alignment Notes
+- Psalt-Pianum (1945): 2 verse(s) re-aligned by content (7←66:6, 8←66:7)
 
 ---
 
@@ -51,11 +64,34 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Psalmus Cantici David,** VulgSistina (1590)
 - **Apparatus:** `Psalmus cantici David.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
 
+### Psalms 66:2
+- **Apparatus:** `illuminet` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **serénum prǽbeat nobis** Psalt-Pianum (1945)
+- **Apparatus:** `super nos, et misereatur nostri:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
 ### Psalms 66:3
-- **Apparatus:** `cognoscamus` Clem-Saints Clem1598-USFX VulgSistina (1590) **]** **cognascamus** VulgConte (2009) VulgHetzenauer (1906)
+- **Apparatus:** `cognoscamus` Clem-Saints Clem1598-USFX VulgSistina (1590) **]** **cognóscant** Psalt-Pianum (1945) ; **cognascamus** VulgConte (2009) VulgHetzenauer (1906)
+- **Apparatus:** `tuam,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ejus,** Psalt-Pianum (1945)
+- **Apparatus:** `salutare tuum.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **salútem ejus.** Psalt-Pianum (1945)
+
+### Psalms 66:4
+- **Apparatus:** `Confiteantur tibi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Célebrent te** Psalt-Pianum (1945)
+- **Apparatus:** `confiteantur tibi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **célebrent te** Psalt-Pianum (1945)
 
 ### Psalms 66:5
-- *Disregarded Surface Variant:* kept `(adopted text)` over `exsultent / exultent`, `exsultent / exultent`, `exsultent / exultent` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- **Apparatus:** `gentes, quoniam judicas` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **natiónes, quod regis** Psalt-Pianum (1945)
+- **Apparatus:** `in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cum** Psalt-Pianum (1945)
+- **Apparatus:** `gentes` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **natiónes** Psalt-Pianum (1945)
+- **Apparatus:** `dirigis.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **gubérnas.** Psalt-Pianum (1945)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `exsultent / exultent`, `exsultent / exultent`, `exsultent / exultent`, `exsultent / exultent` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Psalms 66:7
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Célebrent te pópuli, Deus, célebrent te pópuli omnes. (7a)** Psalt-Pianum (1945)
+- **Apparatus:** `benedicat nos Deus, Deus noster!` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 66:8
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Benedíxit nobis Deus, Deus noster. (8)** Psalt-Pianum (1945)
+- **Apparatus:** `nos` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **nobis** Psalt-Pianum (1945)
+- **Apparatus:** `metuant` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **tímeant** Psalt-Pianum (1945)
 
 ---
 
@@ -75,6 +111,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Deus misereatur nostri, et benedicat nobis; illuminet vultum suum super nos, et misereatur nostri:
   - `Clem-Saints`: Deus misereatur nostri, et benedicat nobis; illuminet vultum suum super nos, et misereatur nostri:
   - `VulgHetzenauer (1906)`: Deus misereatur nostri, et benedicat nobis: illuminet vultum suum super nos, et misereatur nostri.
+  - `Psalt-Pianum (1945)`: Deus misereátur nostri, et benedícat nobis; serénum prǽbeat nobis vultum suum,
   - `VulgConte (2009)`: Deus misereatur nostri, et benedicat nobis: illuminet vultum suum super nos, et misereatur nostri.
   - `VulgSistina (1590)`: Deus misereatur nostri, et benedicat nobis: illuminet vultum suum super nos, et misereatur nostri.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -84,6 +121,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: ut cognoscamus in terra viam tuam, in omnibus gentibus salutare tuum.
   - `Clem-Saints`: ut cognoscamus in terra viam tuam, in omnibus gentibus salutare tuum.
   - `VulgHetzenauer (1906)`: Ut cognascamus in terra viam tuam: in omnibus gentibus salutare tuum.
+  - `Psalt-Pianum (1945)`: Ut cognóscant in terra viam ejus, in ómnibus géntibus salútem ejus.
   - `VulgConte (2009)`: Ut cognascamus in terra viam tuam: in omnibus gentibus salutare tuum.
   - `VulgSistina (1590)`: Ut cognoscamus in terra viam tuam: in omnibus gentibus salutare tuum.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -93,6 +131,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Confiteantur tibi populi, Deus: confiteantur tibi populi omnes.
   - `Clem-Saints`: Confiteantur tibi populi, Deus: confiteantur tibi populi omnes.
   - `VulgHetzenauer (1906)`: Confiteantur tibi populi Deus: confiteantur tibi populi omnes.
+  - `Psalt-Pianum (1945)`: Célebrent te pópuli, Deus, célebrent te pópuli omnes.
   - `VulgConte (2009)`: Confiteantur tibi populi Deus: confiteantur tibi populi omnes.
   - `VulgSistina (1590)`: Confiteantur tibi populi Deus: confiteantur tibi populi omnes.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -102,6 +141,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Lætentur et exsultent gentes, quoniam judicas populos in æquitate, et gentes in terra dirigis.
   - `Clem-Saints`: Lætentur et exsultent gentes, quoniam judicas populos in æquitate, et gentes in terra dirigis.
   - `VulgHetzenauer (1906)`: Lætentur et exultent gentes: quoniam iudicas populos in æquitate, et gentes in terra dirigis.
+  - `Psalt-Pianum (1945)`: Læténtur et exsúltent natiónes, quod regis pópulos cum æquitáte, et natiónes in terra gubérnas.
   - `VulgConte (2009)`: Lætentur et exultent gentes: quoniam iudicas populos in æquitate, et gentes in terra dirigis.
   - `VulgSistina (1590)`: Laetentur et exultent gentes: quoniam iudicas populos in aequitate, et gentes in terra dirigis.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -120,6 +160,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Terra dedit fructum suum: benedicat nos Deus, Deus noster!
   - `Clem-Saints`: Terra dedit fructum suum: benedicat nos Deus, Deus noster!
   - `VulgHetzenauer (1906)`: terra dedit fructum suum. Benedicat nos Deus, Deus noster,
+  - `Psalt-Pianum (1945)` *(numbered 66:6 in this witness)*: Célebrent te pópuli, Deus, célebrent te pópuli omnes. (7a) Terra dedit fructum suum:
   - `VulgConte (2009)`: Terra dedit fructum suum. Benedicat nos Deus, Deus noster,
   - `VulgSistina (1590)`: terra dedit fructum suum. Benedicat nos Deus, Deus noster,
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -129,6 +170,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Benedicat nos Deus, et metuant eum omnes fines terræ.
   - `Clem-Saints`: Benedicat nos Deus, et metuant eum omnes fines terræ.
   - `VulgHetzenauer (1906)`: benedicat nos Deus: et metuant eum omnes fines terræ.
+  - `Psalt-Pianum (1945)` *(numbered 66:7 in this witness)*: Benedíxit nobis Deus, Deus noster. (8) Benedícat nobis Deus, et tímeant eum omnes fines terræ!
   - `VulgConte (2009)`: benedicat nos Deus: et metuant eum omnes fines terræ.
   - `VulgSistina (1590)`: benedicat nos Deus: et metuant eum omnes fines terrae.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

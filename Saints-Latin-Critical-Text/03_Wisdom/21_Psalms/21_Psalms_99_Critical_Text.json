@@ -7,11 +7,12 @@
   "usfm_code": "PSA",
   "chapter": 99,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:17:22Z",
+  "updated_at": "2026-11-22T08:01:47Z",
   "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
   "versification_anchor": "Clem-Saints",
   "orthographic_base": "Clem1598-USFX",
   "versification_notes": [
+    "Psalt-Pianum (1945): 99:1 not collated (wording does not match the reference verse)",
     "VulgConte (2009): verse 100:4 runs into its neighbour across the anchor's division between 100:3 and 100:4; re-divided there"
   ],
   "admitted_witnesses": [
@@ -36,6 +37,13 @@
       "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
       "tier": 1,
       "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "Psalt-Pianum (1945)",
+      "title": "Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945)",
+      "tier": 3,
+      "license": "Public Domain (DivinumOfficium Latin-Bea)",
       "role": "apparatus only (recorded, not voting)"
     },
     {
@@ -70,6 +78,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -90,17 +99,133 @@
       "witness_readings": {
         "Clem1598-USFX": "Jubilate Deo, omnis terra; servite Domino in lætitia. Introite in conspectu ejus in exsultatione.",
         "VulgHetzenauer (1906)": "Iubilate Deo omnis terra: servite Domino in lætitia. Introite in conspectu eius, in exultatione.",
+        "Psalt-Pianum (1945)": "Introíte in conspéctum ejus cum exsultatióne.",
         "VulgConte (2009)": "Iubilate Deo omnis terra: servite Domino in lætitia. Introite in conspectu eius, in exultatione.",
         "VulgSistina (1590)": "Iubilate Deo omnis terra: servite Domino in laetitia. Introite in conspectu eius, in exultatione."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Jubilate Deo, omnis terra; servite Domino in lætitia.",
+          "lemma_witnesses": [
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 8,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iubilate deo omnis terra seruite domino in laetitia",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "Deo,",
+          "lemma_witnesses": [
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "deo",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "conspectu",
+          "lemma_witnesses": [
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "conspéctum",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "conspectu",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "in",
+          "lemma_witnesses": [
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "cum",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 12,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "in",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": -1,
@@ -133,17 +258,79 @@
         "Clem1598-USFX": "Scitote quoniam Dominus ipse est Deus; ipse fecit nos, et non ipsi nos: populus ejus, et oves pascuæ ejus.",
         "Clem-Saints": "Scitote quoniam Dominus ipse est Deus; ipse fecit nos, et non ipsi nos: populus ejus, et oves pascuæ ejus.",
         "VulgHetzenauer (1906)": "Scitote quoniam Dominus ipse est Deus: ipse fecit nos, et non ipsi nos: Populus eius, et oves pascuæ eius:",
+        "Psalt-Pianum (1945)": "Scitóte Dóminum esse Deum: ipse fecit nos et ipsíus sumus, pópulus ejus et oves páscuæ ejus.",
         "VulgConte (2009)": "Scitote quoniam Dominus ipse est Deus: ipse fecit nos, et non ipsi nos: Populus eius, et oves pascuæ eius:",
         "VulgSistina (1590)": "Scitote quoniam Dominus ipse est Deus: ipse fecit nos, et non ipsi nos: Populus eius, et oves pascuae eius:"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "quoniam Dominus ipse est Deus;",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Dóminum esse Deum:",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 5,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "quoniam dominus ipse est deus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "non ipsi nos:",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "ipsíus sumus,",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "non ipsi nos",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -160,17 +347,79 @@
         "Clem1598-USFX": "Introite portas ejus in confessione; atria ejus in hymnis: confitemini illi. Laudate nomen ejus,",
         "Clem-Saints": "Introite portas ejus in confessione; atria ejus in hymnis: confitemini illi. Laudate nomen ejus,",
         "VulgHetzenauer (1906)": "introite portas eius in confessione, atria eius in hymnis: confitemini illi. Laudate nomen eius:",
+        "Psalt-Pianum (1945)": "Introíte portas ejus cum laude, átria ejus cum hymno; celebráte eum, benedícite nómini ejus.",
         "VulgConte (2009)": "introite portas eius in confessione, atria eius in hymnis: confitemini illi. Laudate nomen eius:",
         "VulgSistina (1590)": "introite portas eius in confessione, atria eius in hymnis: confitemini illi. Laudate nomen eius:"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "in confessione;",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "cum laude,",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "in confessione",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "in hymnis: confitemini illi. Laudate nomen",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "cum hymno; celebráte eum, benedícite nómini",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 6,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "in hymnis confitemini illi laudate nomen",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -187,12 +436,15 @@
         "Clem1598-USFX": "quoniam suavis est Dominus, in æternum misericordia ejus, et usque in generationem et generationem veritas ejus.",
         "Clem-Saints": "quoniam suavis est Dominus, in æternum misericordia ejus, et usque in generationem et generationem veritas ejus.",
         "VulgHetzenauer (1906)": "quoniam suavis est Dominus, in æternum misericordia eius, et usque in generationem et generationem veritas eius.",
+        "Psalt-Pianum (1945)": "Nam bonus est Dóminus, in ætérnum misericórdia ejus, et in generatiónem et generatiónem fidélitas ejus.",
         "VulgConte (2009)": "quoniam suavis est Dominus, in æternum misericordia eius, et usque in generationem et generationem veritas eius.",
         "VulgSistina (1590)": "quoniam suavis est Dominus, in aeternum misericordia eius, et usque in generatione et generationem veritas eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -200,10 +452,69 @@
       "apparatus": [
         {
           "slot_index": -1,
+          "lemma": "quoniam suavis",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Nam bonus",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "quoniam suauis",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "usque",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 9,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "usque",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
           "lemma": "generationem",
           "lemma_witnesses": [
             "Clem-Saints",
             "Clem1598-USFX",
+            "Psalt-Pianum (1945)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
           ],
@@ -216,13 +527,42 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 11,
           "word_count": 1,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "generationem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "veritas",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "fidélitas",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 14,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ueritas",
           "confidence": 0.99,
           "credited_witnesses": []
         }

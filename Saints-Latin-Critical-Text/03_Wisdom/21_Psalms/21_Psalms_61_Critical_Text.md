@@ -1,6 +1,6 @@
 # Psalms 61 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:19Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:46Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,40 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+
+### Versification & Alignment Notes
+- Psalt-Pianum (1945): 61:3 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 61:4 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 61:5 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 61:9 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 61:10 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 61:11 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 61:6 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 61:8 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 2 verse(s) re-aligned by content (6←61:1, 8←61:7)
 
 ---
 
@@ -56,6 +77,23 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Psalmus David,** VulgSistina (1590)
 - **Apparatus:** `Idithun. Psalmus David.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Idithum.** VulgSistina (1590)
 
+### Psalms 61:2
+- **Apparatus:** `Nonne Deo subjecta erit anima` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Ipse tantum est petra** Psalt-Pianum (1945)
+- **Apparatus:** `ab ipso enim salutare` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et salus mea, præsídium** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **nequáquam movébor.** Psalt-Pianum (1945)
+
+### Psalms 61:6
+- **Apparatus:** `Verumtamen` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **In** Psalt-Pianum (1945)
+- **Apparatus:** `subjecta esto,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **tantum quiéscit** Psalt-Pianum (1945)
+- **Apparatus:** `quoniam` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `patientia` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **venit salus** Psalt-Pianum (1945)
+
+### Psalms 61:8
+- **Apparatus:** `In Deo salutare meum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Penes Deum est salus mea** Psalt-Pianum (1945)
+- **Apparatus:** `Deus auxilii` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **petra róboris** Psalt-Pianum (1945)
+- **Apparatus:** `et spes mea` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **refúgium meum** Psalt-Pianum (1945)
+- **Apparatus:** `est.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
 ---
 
 ## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
@@ -74,6 +112,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Nonne Deo subjecta erit anima mea? ab ipso enim salutare meum.
   - `Clem-Saints`: Nonne Deo subjecta erit anima mea? ab ipso enim salutare meum.
   - `VulgHetzenauer (1906)`: Nonne Deo subiecta erit anima mea? ab ipso enim salutare meum.
+  - `Psalt-Pianum (1945)`: Ipse tantum est petra mea et salus mea, præsídium meum: nequáquam movébor.
   - `VulgConte (2009)`: Nonne Deo subiecta erit anima mea? ab ipso enim salutare meum.
   - `VulgSistina (1590)`: Nonne Deo subiecta erit anima mea? ab ipso enim salutare meum.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -110,6 +149,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Verumtamen Deo subjecta esto, anima mea, quoniam ab ipso patientia mea:
   - `Clem-Saints`: Verumtamen Deo subjecta esto, anima mea, quoniam ab ipso patientia mea:
   - `VulgHetzenauer (1906)`: Verumtamen Deo subiecta esto anima mea: quoniam ab ipso patientia mea.
+  - `Psalt-Pianum (1945)` *(numbered 61:1 in this witness)*: In Deo tantum quiéscit ánima mea, ab ipso venit salus mea.
   - `VulgConte (2009)`: Verumtamen Deo subiecta esto anima mea: quoniam ab ipso patientia mea.
   - `VulgSistina (1590)`: Verumtamen Deo subiecta esto anima mea: quoniam ab ipso patientia mea.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -128,6 +168,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: In Deo salutare meum et gloria mea; Deus auxilii mei, et spes mea in Deo est.
   - `Clem-Saints`: In Deo salutare meum et gloria mea; Deus auxilii mei, et spes mea in Deo est.
   - `VulgHetzenauer (1906)`: In Deo salutare meum, et gloria mea: Deus auxilii mei, et spes mea in Deo est.
+  - `Psalt-Pianum (1945)` *(numbered 61:7 in this witness)*: Penes Deum est salus mea et glória mea, petra róboris mei: refúgium meum in Deo.
   - `VulgConte (2009)`: In Deo salutare meum, et gloria mea: Deus auxilii mei, et spes mea in Deo est.
   - `VulgSistina (1590)`: In Deo salutare meum, et gloria mea: Deus auxilii mei, et spes mea in Deo est.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

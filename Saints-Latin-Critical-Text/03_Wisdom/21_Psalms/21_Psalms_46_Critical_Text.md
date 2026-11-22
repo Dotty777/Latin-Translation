@@ -1,6 +1,6 @@
 # Psalms 46 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:18Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:46Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,34 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+
+### Versification & Alignment Notes
+- Psalt-Pianum (1945): 46:4 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 46:8 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 7 verse(s) re-aligned by content (2←46:1, 3←46:2, 4←46:3, 6←46:5, 7←46:6, 8←46:7…)
 
 ---
 
@@ -54,10 +69,36 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `Psalmus.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
 
 ### Psalms 46:2
+- **Apparatus:** `gentes,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pópuli,** Psalt-Pianum (1945)
+- **Apparatus:** `jubilate` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **exsultáte** Psalt-Pianum (1945)
+- **Apparatus:** `in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `exsultationis:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **lætítiæ,** Psalt-Pianum (1945)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `exsultationis: / exultationis.`, `exsultationis: / exultationis.`, `exsultationis: / exultationis.` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
+### Psalms 46:4
+- **Apparatus:** `Subjecit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Súbicit** Psalt-Pianum (1945)
+- **Apparatus:** `gentes sub` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **natiónes** Psalt-Pianum (1945)
+
 ### Psalms 46:5
-- *Disregarded Surface Variant:* kept `(adopted text)` over `hæreditatem / hereditatem`, `hæreditatem / hereditatem`, `hæreditatem / hereditatem` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `hæreditatem / hereditatem`, `hæreditatem / hereditatem`, `hæreditatem / hereditatem`, `hæreditatem / hereditatem` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Psalms 46:6
+- **Apparatus:** `in jubilo, et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cum exsultatióne,** Psalt-Pianum (1945)
+- **Apparatus:** `et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cum** Psalt-Pianum (1945)
+
+### Psalms 46:7
+- **Apparatus:** `nostro,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 46:8
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **est** Psalt-Pianum (1945)
+- **Apparatus:** `sapienter.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **hymnum.** Psalt-Pianum (1945)
+
+### Psalms 46:10
+- **Apparatus:** `Deo` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pópulo Dei** Psalt-Pianum (1945)
+- **Apparatus:** `quoniam dii fortes` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Nam Dei sunt próceres** Psalt-Pianum (1945)
+- **Apparatus:** `dii` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Dei** Psalt-Pianum (1945)
+- **Apparatus:** `vehementer elevati sunt.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **excélsus est valde.** Psalt-Pianum (1945)
 
 ---
 
@@ -77,6 +118,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Omnes gentes, plaudite manibus; jubilate Deo in voce exsultationis:
   - `Clem-Saints`: Omnes gentes, plaudite manibus; jubilate Deo in voce exsultationis:
   - `VulgHetzenauer (1906)`: Omnes Gentes plaudite manibus: iubilate Deo in voce exultationis.
+  - `Psalt-Pianum (1945)` *(numbered 46:1 in this witness)*: Omnes pópuli, pláudite mánibus, exsultáte Deo voce lætítiæ,
   - `VulgConte (2009)`: Omnes gentes plaudite manibus: iubilate Deo in voce exultationis.
   - `VulgSistina (1590)`: Omnes Gentes plaudite manibus: iubilate Deo in voce exultationis.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -86,6 +128,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: quoniam Dominus excelsus, terribilis, rex magnus super omnem terram.
   - `Clem-Saints`: quoniam Dominus excelsus, terribilis, rex magnus super omnem terram.
   - `VulgHetzenauer (1906)`: Quoniam Dominus excelsus, terribilis: Rex magnus super omnem terram.
+  - `Psalt-Pianum (1945)` *(numbered 46:2 in this witness)*: Quóniam Dóminus excélsus, terríbilis, Rex magnus super omnem terram.
   - `VulgConte (2009)`: Quoniam Dominus excelsus, terribilis: Rex magnus super omnem terram.
   - `VulgSistina (1590)`: Quoniam Dominus excelsus, terribilis: Rex magnus super omnem terram.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -95,6 +138,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Subjecit populos nobis, et gentes sub pedibus nostris.
   - `Clem-Saints`: Subjecit populos nobis, et gentes sub pedibus nostris.
   - `VulgHetzenauer (1906)`: Subiecit populos nobis: et gentes sub pedibus nostris.
+  - `Psalt-Pianum (1945)` *(numbered 46:3 in this witness)*: Súbicit pópulos nobis, et natiónes pédibus nostris.
   - `VulgConte (2009)`: Subiecit populos nobis: et gentes sub pedibus nostris.
   - `VulgSistina (1590)`: Subiecit populos nobis: et gentes sub pedibus nostris.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -113,6 +157,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Ascendit Deus in jubilo, et Dominus in voce tubæ.
   - `Clem-Saints`: Ascendit Deus in jubilo, et Dominus in voce tubæ.
   - `VulgHetzenauer (1906)`: Ascendit Deus in iubilo: et Dominus in voce tubæ.
+  - `Psalt-Pianum (1945)` *(numbered 46:5 in this witness)*: Ascéndit Deus cum exsultatióne, dóminus cum voce tubæ.
   - `VulgConte (2009)`: Ascendit Deus in iubilo: et Dominus in voce tubæ.
   - `VulgSistina (1590)`: Ascendit Deus in iubilo: et Dominus in voce tubae.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -122,6 +167,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Psallite Deo nostro, psallite; psallite regi nostro, psallite:
   - `Clem-Saints`: Psallite Deo nostro, psallite; psallite regi nostro, psallite:
   - `VulgHetzenauer (1906)`: Psallite Deo nostro, psallite: psallite Regi nostro, psallite.
+  - `Psalt-Pianum (1945)` *(numbered 46:6 in this witness)*: Psállite Deo, psállite; psállite regi nostro, psállite.
   - `VulgConte (2009)`: Psallite Deo nostro, psallite: psallite Regi nostro, psallite.
   - `VulgSistina (1590)`: Psallite Deo nostro, psallite: psallite Regi nostro, psallite.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -131,6 +177,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: quoniam rex omnis terræ Deus, psallite sapienter.
   - `Clem-Saints`: quoniam rex omnis terræ Deus, psallite sapienter.
   - `VulgHetzenauer (1906)`: Quoniam Rex omnis terræ Deus: psallite sapienter.
+  - `Psalt-Pianum (1945)` *(numbered 46:7 in this witness)*: Quóniam rex omnis terræ est Deus, psállite hymnum.
   - `VulgConte (2009)`: Quoniam Rex omnis terræ Deus: psallite sapienter.
   - `VulgSistina (1590)`: Quoniam Rex omnis terrae Deus: psallite sapienter.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -149,6 +196,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Principes populorum congregati sunt cum Deo Abraham, quoniam dii fortes terræ vehementer elevati sunt.
   - `Clem-Saints`: Principes populorum congregati sunt cum Deo Abraham, quoniam dii fortes terræ vehementer elevati sunt.
   - `VulgHetzenauer (1906)`: Principes populorum congregati sunt cum Deo Abraham: quoniam dii fortes terræ, vehementer elevati sunt.
+  - `Psalt-Pianum (1945)` *(numbered 46:9 in this witness)*: Príncipes populórum congregáti sunt cum pópulo Dei Abraham. Nam Dei sunt próceres terræ: excélsus est valde.
   - `VulgConte (2009)`: Principes populorum congregati sunt cum Deo Abraham: quoniam dii fortes terræ, vehementer elevati sunt.
   - `VulgSistina (1590)`: Principes populorum congregati sunt cum Deo Abraham: quoniam dii fortes terrae, vehementer elevati sunt.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

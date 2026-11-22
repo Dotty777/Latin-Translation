@@ -1,6 +1,6 @@
 # Revelation 10 — Saints Latin Critical Text
 
-**Division:** `07_Glory` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:18:51Z`
+**Division:** `07_Glory` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:49Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,29 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Full 27-Book NT) | Tier 2 | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -50,8 +60,50 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
+### Revelation 10:1
+- **Apparatus:** `columnæ` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **columna** Amiatinus (A)
+
+### Revelation 10:3
+- **Apparatus:** `quemadmodum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quemammodum** Amiatinus (A)
+
 ### Revelation 10:4
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **et** VulgSistina (1590)
+- **Apparatus:** `voces suas, ego` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** Amiatinus (A) ; **voces suas, et ego** VulgSistina (1590)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX Amiatinus (A) VulgConte (2009) VulgHetzenauer (1906) **]** **et** VulgSistina (1590)
+- **Apparatus:** `mihi:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+
+### Revelation 10:5
+- **Apparatus:** `angelus,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **angelum** Amiatinus (A)
+- **Apparatus:** `super` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **supra** Amiatinus (A)
+- **Apparatus:** `super` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **supra** Amiatinus (A)
+
+### Revelation 10:6
+- **Apparatus:** `eo` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **illo** Amiatinus (A)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **amplius** Amiatinus (A)
+- **Apparatus:** `amplius:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+
+### Revelation 10:7
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et** Amiatinus (A)
+
+### Revelation 10:8
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **uox quam** Amiatinus (A)
+- **Apparatus:** `vocem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `super` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **supra** Amiatinus (A)
+- **Apparatus:** `super` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **supra** Amiatinus (A)
+
+### Revelation 10:9
+- **Apparatus:** `dixit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **dicit** Amiatinus (A)
+- **Apparatus:** `librum,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `illum:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **eum** Amiatinus (A)
+- **Apparatus:** `amaricari` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **amaricare** Amiatinus (A)
+
+### Revelation 10:10
+- **Apparatus:** `illum:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **eum** Amiatinus (A)
+
+### Revelation 10:11
+- **Apparatus:** `dixit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **dicit** Amiatinus (A)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **populis et** Amiatinus (A)
+- **Apparatus:** `et populis,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
 
 ---
 
@@ -62,6 +114,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et vidi alium angelum fortem descendentem de cælo amictum nube, et iris in capite ejus, et facies ejus erat ut sol, et pedes ejus tamquam columnæ ignis:
   - `Clem-Saints`: Et vidi alium angelum fortem descendentem de cælo amictum nube, et iris in capite ejus, et facies ejus erat ut sol, et pedes ejus tamquam columnæ ignis:
   - `VulgHetzenauer (1906)`: Et vidi alium Angelum fortem descendentem de cælo amictum nube, et iris in capite eius, et facies eius erat ut sol, et pedes eius tamquam columnæ ignis:
+  - `Amiatinus (A)`: Et uidi alium angelum fortem descendentem de caelo amictum nube et iris in capite eius et facies eius erat ut sol et pedes eius tamquam columna ignis
   - `VulgConte (2009)`: Et vidi alium Angelum fortem descendentem de cælo amictum nube, et iris in capite eius, et facies eius erat ut sol, et pedes eius tamquam columnæ ignis:
   - `VulgSistina (1590)`: Et vidi alium Angelum fortem descendentem de caelo amictum nube, et iris in capite eius, et facies eius erat ut sol, et pedes eius tamquam columnae ignis:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -71,6 +124,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et habebat in manu sua libellum apertum: et posuit pedem suum dextrum super mare, sinistrum autem super terram:
   - `Clem-Saints`: et habebat in manu sua libellum apertum: et posuit pedem suum dextrum super mare, sinistrum autem super terram:
   - `VulgHetzenauer (1906)`: et habebat in manu sua libellum apertum: et posuit pedem suum dextrum super mare, sinistrum autem super terram:
+  - `Amiatinus (A)`: et habebat in manu sua libellum apertum et posuit pedem suum dextrum super mare sinistrum autem super terram
   - `VulgConte (2009)`: et habebat in manu sua libellum apertum: et posuit pedem suum dextrum super mare, sinistrum autem super terram:
   - `VulgSistina (1590)`: et habebat in manu sua libellum apertum: et posuit pedem suum dextrum super mare, sinistrum autem super terram:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -80,6 +134,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et clamavit voce magna, quemadmodum cum leo rugit. Et cum clamasset, locuta sunt septem tonitrua voces suas.
   - `Clem-Saints`: et clamavit voce magna, quemadmodum cum leo rugit. Et cum clamasset, locuta sunt septem tonitrua voces suas.
   - `VulgHetzenauer (1906)`: et clamavit voce magna, quemadmodum cum leo rugit. Et cum clamasset, locuta sunt septem tonitrua voces suas.
+  - `Amiatinus (A)`: et clamauit uoce magna quemammodum cum leo rugit et cum clamasset locuta sunt septem tonitrua uoces suas
   - `VulgConte (2009)`: et clamavit voce magna, quemadmodum cum leo rugit. Et cum clamasset, locuta sunt septem tonitrua voces suas.
   - `VulgSistina (1590)`: et clamavit voce magna, quemadmodum cum leo rugit. Et cum clamasset, locuta sunt septem tonitrua voces suas.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -89,6 +144,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et cum locuta fuissent septem tonitrua voces suas, ego scripturus eram: et audivi vocem de cælo dicentem mihi: Signa quæ locuta sunt septem tonitrua: et noli ea scribere.
   - `Clem-Saints`: Et cum locuta fuissent septem tonitrua voces suas, ego scripturus eram: et audivi vocem de cælo dicentem mihi: Signa quæ locuta sunt septem tonitrua: et noli ea scribere.
   - `VulgHetzenauer (1906)`: Et cum locuta fuissent septem tonitrua voces suas, ego scripturus eram: et audivi vocem de cælo dicentem mihi: Signa quæ locuta sunt septem tonitrua: et noli ea scribere.
+  - `Amiatinus (A)`: et cum locuta fuissent septem tonitrua scripturus eram Et audiui uocem de caelo dicentem signa quae locuta sunt septem tonitrua […] noli ea scribere
   - `VulgConte (2009)`: Et cum locuta fuissent septem tonitrua voces suas, ego scripturus eram: et audivi vocem de cælo dicentem mihi: Signa quæ locuta sunt septem tonitrua: et noli ea scribere.
   - `VulgSistina (1590)`: Et cum locuta fuissent septem tonitrua voces suas, et ego scripturus eram: et audivi vocem de caelo dicentem mihi: Signa quae locuta sunt septem tonitrua: et noli ea scribere.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -98,6 +154,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et angelus, quem vidi stantem super mare et super terram, levavit manum suam ad cælum:
   - `Clem-Saints`: Et angelus, quem vidi stantem super mare et super terram, levavit manum suam ad cælum:
   - `VulgHetzenauer (1906)`: Et angelus, quem vidi stantem super mare, et super terram, levavit manum suam ad cælum:
+  - `Amiatinus (A)`: Et angelum quem uidi stantem supra mare et supra terram leuauit manum suam ad caelum
   - `VulgConte (2009)`: Et Angelus, quem vidi stantem super mare, et super terram, levavit manum suam ad cælum:
   - `VulgSistina (1590)`: Et angelus, quem vidi stantem super mare, et super terram, levavit manum suam ad caelum:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -107,6 +164,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et juravit per viventem in sæcula sæculorum, qui creavit cælum, et ea quæ in eo sunt: et terram, et ea quæ in ea sunt: et mare, et ea quæ in eo sunt: Quia tempus non erit amplius:
   - `Clem-Saints`: et juravit per viventem in sæcula sæculorum, qui creavit cælum, et ea quæ in eo sunt: et terram, et ea quæ in ea sunt: et mare, et ea quæ in eo sunt: Quia tempus non erit amplius:
   - `VulgHetzenauer (1906)`: et iuravit per viventem in sæcula sæculorum, qui creavit cælum, et ea quæ in eo sunt: et terram, et ea quæ in ea sunt: et mare, et ea quæ in eo sunt: Quia tempus non erit amplius:
+  - `Amiatinus (A)`: et iurauit per uiuentem in saecula saeculorum qui creauit caelum et ea quae in illo sunt et terram et ea quae in ea sunt et mare et ea quae in eo sunt quia tempus amplius non erit
   - `VulgConte (2009)`: et iuravit per viventem in sæcula sæculorum, qui creavit cælum, et ea quæ in eo sunt: et terram, et ea quæ in ea sunt: et mare, et ea quæ in eo sunt: Quia tempus non erit amplius:
   - `VulgSistina (1590)`: et iuravit per viventem in saecula saeculorum, qui creavit caelum, et ea quae in eo sunt: et terram, et ea quae in ea sunt: et mare, et ea quae in eo sunt: Quia tempus non erit amplius:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -116,6 +174,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: sed in diebus vocis septimi angeli, cum cœperit tuba canere, consummabitur mysterium Dei sicut evangelizavit per servos suos prophetas.
   - `Clem-Saints`: sed in diebus vocis septimi angeli, cum cœperit tuba canere, consummabitur mysterium Dei sicut evangelizavit per servos suos prophetas.
   - `VulgHetzenauer (1906)`: sed in diebus vocis septimi angeli, cum cœperit tuba canere, consummabitur mysterium Dei, sicut evangelizavit per servos suos Prophetas.
+  - `Amiatinus (A)`: sed in diebus uocis septimi angeli cum coeperit tuba canere et consummabitur mysterium dei sicut euangelizauit per seruos suos prophetas
   - `VulgConte (2009)`: sed in diebus vocis septimi Angeli, cum cœperit tuba canere, consummabitur mysterium Dei, sicut evangelizavit per servos suos Prophetas.
   - `VulgSistina (1590)`: sed in diebus vocis septimi angeli, cum coeperit tuba canere, consummabitur mysterium Dei, sicut evangelizavit per servos suos Prophetas.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -125,6 +184,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et audivi vocem de cælo iterum loquentem mecum, et dicentem: Vade, et accipe librum apertum de manu angeli stantis super mare, et super terram.
   - `Clem-Saints`: Et audivi vocem de cælo iterum loquentem mecum, et dicentem: Vade, et accipe librum apertum de manu angeli stantis super mare, et super terram.
   - `VulgHetzenauer (1906)`: Et audivi vocem de cælo iterum loquentem mecum, et dicentem: Vade, et accipe librum apertum de manu angeli stantis super mare, et super terram.
+  - `Amiatinus (A)`: Et uox quam audiui de caelo iterum loquentem mecum et dicentem uade accipe librum apertum de manu angeli stantis supra mare et supra terram
   - `VulgConte (2009)`: Et audivi vocem de cælo iterum loquentem mecum, et dicentem: Vade, et accipe librum apertum de manu Angeli stantis super mare, et super terram.
   - `VulgSistina (1590)`: Et audivi vocem de caelo iterum loquentem mecum, et dicentem: Vade, et accipe librum apertum de manu angeli stantis super mare, et super terram.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -134,6 +194,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et abii ad angelum, dicens ei, ut daret mihi librum. Et dixit mihi: Accipe librum, et devora illum: et faciet amaricari ventrem tuum, sed in ore tuo erit dulce tamquam mel.
   - `Clem-Saints`: Et abii ad angelum, dicens ei, ut daret mihi librum. Et dixit mihi: Accipe librum, et devora illum: et faciet amaricari ventrem tuum, sed in ore tuo erit dulce tamquam mel.
   - `VulgHetzenauer (1906)`: Et abii ad angelum, dicens ei, ut daret mihi librum. Et dixit mihi: Accipe librum, et devora illum: et faciet amaricari ventrem tuum, sed in ore tuo erit dulce tamquam mel.
+  - `Amiatinus (A)`: et abii ad angelum dicens ei ut daret mihi librum et dicit mihi accipe et deuora eum et faciet amaricare uentrem tuum sed in ore tuo erit dulce tamquam mel
   - `VulgConte (2009)`: Et abii ad Angelum, dicens ei, ut daret mihi librum. Et dixit mihi: Accipe librum, et devora illum: et faciet amaricari ventrem tuum, sed in ore tuo erit dulce tamquam mel.
   - `VulgSistina (1590)`: Et abii ad angelum, dicens ei, ut daret mihi librum. Et dixit mihi: Accipe librum, et devora illum: et faciet amaricari ventrem tuum, sed in ore tuo erit dulce tamquam mel.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -143,6 +204,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et accepi librum de manu angeli, et devoravi illum: et erat in ore meo tamquam mel dulce, et cum devorassem eum, amaricatus est venter meus:
   - `Clem-Saints`: Et accepi librum de manu angeli, et devoravi illum: et erat in ore meo tamquam mel dulce, et cum devorassem eum, amaricatus est venter meus:
   - `VulgHetzenauer (1906)`: Et accepi librum de manu angeli, et devoravi illum: et erat in ore meo tamquam mel dulce: et cum devorassem eum, amaricatus est venter meus:
+  - `Amiatinus (A)`: et accepi librum de manu angeli et deuoraui eum et erat in ore meo tamquam mel dulce et cum deuorassem eum amaricatus est uenter meus
   - `VulgConte (2009)`: Et accepi librum de manu Angeli, et devoravi illum: et erat in ore meo tamquam mel dulce: et cum devorassem eum, amaricatus est venter meus:
   - `VulgSistina (1590)`: Et accepi librum de manu angeli, et devoravi illum: et erat in ore meo tamquam mel dulce: et cum devorassem eum, amaricatus est venter meus:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -152,6 +214,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et dixit mihi: Oportet te iterum prophetare gentibus, et populis, et linguis, et regibus multis.
   - `Clem-Saints`: et dixit mihi: Oportet te iterum prophetare gentibus, et populis, et linguis, et regibus multis.
   - `VulgHetzenauer (1906)`: et dixit mihi: Oportet te iterum prophetare Gentibus, et populis, et linguis, et regibus multis.
+  - `Amiatinus (A)`: et dicit mihi oportet te iterum prophetare populis et gentibus et linguis et regibus multis
   - `VulgConte (2009)`: et dixit mihi: Oportet te iterum prophetare gentibus, et populis, et linguis, et regibus multis.
   - `VulgSistina (1590)`: et dixit mihi: Oportet te iterum prophetare Gentibus, et populis, et linguis, et regibus multis.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

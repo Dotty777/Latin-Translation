@@ -7,7 +7,7 @@
   "usfm_code": "1CO",
   "chapter": 13,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:18:42Z",
+  "updated_at": "2026-11-22T08:01:22Z",
   "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
   "versification_anchor": "Clem-Saints",
   "orthographic_base": "Clem1598-USFX",
@@ -37,6 +37,13 @@
       "role": "apparatus only (recorded, not voting)"
     },
     {
+      "siglum": "Amiatinus (A)",
+      "title": "Codex Amiatinus — Digital Latin Library TEI transcription (Full 27-Book NT)",
+      "tier": 2,
+      "license": "CC BY-SA 4.0 (Digital Latin Library transcription)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
       "siglum": "VulgConte (2009)",
       "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
       "tier": 3,
@@ -48,6 +55,69 @@
       "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
       "tier": 3,
       "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "AMst",
+      "title": "Ambrosiaster — 4th-c. Old Latin Pauline Lemmata (COMPAUL CC BY 4.0)",
+      "tier": 4,
+      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "PEL",
+      "title": "Pelagius — Early 5th-c. Latin Pauline Lemmata (COMPAUL CC BY 4.0)",
+      "tier": 4,
+      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VL 51 (gig)",
+      "title": "Codex Gigas — Pauline Epistles (COMPAUL CC BY 4.0)",
+      "tier": 4,
+      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VL 61 (ar)",
+      "title": "Book of Armagh — Irish Pauline Epistles (COMPAUL CC BY 4.0)",
+      "tier": 4,
+      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VL 64 (r)",
+      "title": "Freising Fragments — 5th/6th-c. Old Latin Paul (COMPAUL CC BY 4.0)",
+      "tier": 4,
+      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VL 75 (d)",
+      "title": "Codex Claromontanus — Old Latin Pauline Epistles (COMPAUL CC BY 4.0)",
+      "tier": 4,
+      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VL 77 (g)",
+      "title": "Codex Boernerianus — Old Latin Pauline Epistles (COMPAUL CC BY 4.0)",
+      "tier": 4,
+      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VL 78 (f)",
+      "title": "Codex Augiensis — Latin Pauline Epistles (COMPAUL CC BY 4.0)",
+      "tier": 4,
+      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VL 89",
+      "title": "Budapest Anonymous — Old Latin Pauline Commentary Text (COMPAUL CC BY 4.0)",
+      "tier": 4,
+      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
       "role": "apparatus only (recorded, not voting)"
     }
   ],
@@ -62,17 +132,283 @@
         "Clem1598-USFX": "Si linguis hominum loquar, et angelorum, caritatem autem non habeam, factus sum velut æs sonans, aut cymbalum tinniens.",
         "Clem-Saints": "Si linguis hominum loquar, et angelorum, caritatem autem non habeam, factus sum velut æs sonans, aut cymbalum tinniens.",
         "VulgHetzenauer (1906)": "Si linguis hominum loquar, et angelorum, charitatem autem non habeam, factus sum velut æs sonans, aut cymbalum tinniens.",
+        "Amiatinus (A)": "si linguis hominum loquar et angelorum caritatem autem non habeam factus sum uelut aes sonans aut cymbalum tinniens",
         "VulgConte (2009)": "Si linguis hominum loquar, et Angelorum, charitatem autem non habeam, factus sum velut æs sonans, aut cymbalum tinniens.",
-        "VulgSistina (1590)": "Si linguis hominum loquar, et angelorum, charitatem autem non habeam, factus sum velut aes sonans, aut cymbalum tinniens."
+        "VulgSistina (1590)": "Si linguis hominum loquar, et angelorum, charitatem autem non habeam, factus sum velut aes sonans, aut cymbalum tinniens.",
+        "VL 75 (d)": "si linguis hominum loquar et angelorum caritatem autem non habeam in unum sum ut eramentum sonans aut cymbalum tinniens",
+        "VL 89": "Si linguis hominum loquar et angelorum caritatem autem non habeam unum sum aut aeramentum sonans aut cymbalum tinniens",
+        "AMst": "si linguis hominum loquar et angelorum caritatem autem non habeam unum sum uelut aeramentum resonans aut cymbalum tinniens",
+        "PEL": "si linguis hominum loquar et angelorum caritatem autem non habeam unum sum uelut ęramentum sonans aut cymbalum tinniens",
+        "VL 77 (g)": "si linguis hominum loquar et angelorum caritatem autem non habeam unum sum uelut ęs sonans aut cymbalum tinniens",
+        "VL 61 (ar)": "si linguis hominum loquar et anguelorum caritatem autem non habeam factus sum uelut aeramentum sonans aut cymbalum tinniens",
+        "VL 78 (f)": "Si linguis hominum loquar et angelorum caritatem autem non habeam unum factus sum uelut aes sonans aut cymbalum tinniens",
+        "VL 51 (gig)": "Si linguis hominum loquar et angelorum caritatem autem non habeam factus sum uelut ęs sonans aut cymbalum tinniens"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "AMst",
+        "Amiatinus (A)",
+        "PEL",
+        "Stuttgart-BSV",
+        "VL 51 (gig)",
+        "VL 61 (ar)",
+        "VL 75 (d)",
+        "VL 77 (g)",
+        "VL 78 (f)",
+        "VL 89",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "angelorum,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "anguelorum",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "angelorum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "factus",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "unum",
+              "witnesses": [
+                "AMst",
+                "PEL",
+                "VL 77 (g)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "in unum",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "factus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "unum",
+              "witnesses": [
+                "VL 78 (f)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "velut æs",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "ut eramentum",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "aut aeramentum",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "uelut aeramentum",
+              "witnesses": [
+                "AMst",
+                "PEL",
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 12,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "uelut aes",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "æs sonans,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "aeramentum resonans",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "ęramentum sonans",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)",
+                "VL 75 (d)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 13,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "aes sonans",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "æs",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "ęramentum",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)",
+                "AMst",
+                "VL 75 (d)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 13,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "aes",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": -1,
@@ -105,27 +441,536 @@
         "Clem1598-USFX": "Et si habuero prophetiam, et noverim mysteria omnia, et omnem scientiam: et si habuero omnem fidem ita ut montes transferam, caritatem autem non habuero, nihil sum.",
         "Clem-Saints": "Et si habuero prophetiam, et noverim mysteria omnia, et omnem scientiam: et si habuero omnem fidem ita ut montes transferam, caritatem autem non habuero, nihil sum.",
         "VulgHetzenauer (1906)": "Et si habuero prophetiam, et noverim mysteria omnia, et omnem scientiam: et si habuero omnem fidem ita ut montes transferam, charitatem autem non habuero, nihil sum.",
+        "Amiatinus (A)": "et si habuero prophetiam et nouerim mysteria omnia et omnem scientiam et habuero omnem fidem ita ut montes transferam caritatem autem non habuero nihil sum",
         "VulgConte (2009)": "Et si habuero prophetiam, et noverim mysteria omnia, et omnem scientiam: et si habuero omnem fidem ita ut montes transferam, charitatem autem non habuero, nihil sum.",
-        "VulgSistina (1590)": "Et si habuero prophetiam, et noverim mysteria omnia, et omnem scientiam: et si habuero omnem fidem ita ut montes transferam, charitatem autem non habuero, nihil sum."
+        "VulgSistina (1590)": "Et si habuero prophetiam, et noverim mysteria omnia, et omnem scientiam: et si habuero omnem fidem ita ut montes transferam, charitatem autem non habuero, nihil sum.",
+        "VL 75 (d)": "et si habeam prophetiam et nouerim mysteria omnia et omnem scientiam et si habeam omnem fidem ita ut montes transferam caritatem autem non habeam nihil sum",
+        "VL 89": "et si habeam prophetiam et nouerim mysteria omnia et omnem scientiam et si habeam omnem fidem ita ut montes transferam caritatem autem non habeam nihil sum",
+        "AMst": "et si habeam profetiam et sciero omnia mysteria et si habeam omnem scientiam caritatem autem non habeam nihil mihi prodest et si habuero omnem fidem ita ut montes transferam",
+        "PEL": "et si habuero prophetiam et nouerim mysteria omnia et omnem scientiam et si habeam omnem fidem ita ut montes transferam caritatem autem non habeam nihil mihi prode est",
+        "VL 77 (g)": "et si habeam prophetiam et nouerim mysteria omnia et omnem scientiam et si habeam omnem fidem ita ut montes transferam caritatem autem non habeam nihil sum",
+        "VL 61 (ar)": "et si habuero profetiam et nouerim misteria omnia et omnem scientiam et si habeam omnem fidem ita ut montes transferam caritatem autem non habeam nihil mihi prodest",
+        "VL 78 (f)": "et si habuero prophetiam et nouerim mysteria omnia et omnem scientiam et habuero omnem fidem ita ut montes transferam caritatem autem non habuero nihil sum",
+        "VL 51 (gig)": "Et si habuero prophetiam et nouerim mysteria omnia et omnem scientiam et si habuero omnem fidem ita ut montes transferam caritatem autem non habeam nichil sum"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "AMst",
+        "Amiatinus (A)",
+        "PEL",
+        "Stuttgart-BSV",
+        "VL 51 (gig)",
+        "VL 61 (ar)",
+        "VL 75 (d)",
+        "VL 77 (g)",
+        "VL 78 (f)",
+        "VL 89",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "habuero prophetiam,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "habeam profetiam",
+              "witnesses": [
+                "AMst",
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "habuero prophetiam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "habuero",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "habeam",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "VL 89",
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "habuero",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "noverim",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "sciero omnia",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "nouerim",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "omnia,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "omnia",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "si habeam",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 9,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "caritatem autem non habeam nihil mihi prodest",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 11,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "si",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)",
+                "VL 78 (f)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 12,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "si",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "habuero",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "habeam",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)",
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 13,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "habuero",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "caritatem autem non habuero, nihil sum.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "caritatem autem non habeam nihil mihi prode est",
+              "witnesses": [
+                "PEL"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "caritatem autem non habeam nichil sum",
+              "witnesses": [
+                "VL 51 (gig)",
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "caritatem autem non habeam nihil mihi prodest",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 20,
+          "word_count": 6,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "caritatem autem non habuero nihil sum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "habuero,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "habeam",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)",
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "VL 89",
+                "VL 51 (gig)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "om.",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 23,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "habuero",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "habuero, nihil",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "habeam nichil",
+              "witnesses": [
+                "VL 51 (gig)",
+                "PEL",
+                "VL 61 (ar)",
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "om.",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 23,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "habuero nihil",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "sum.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "mihi prode est",
+              "witnesses": [
+                "PEL"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "mihi prodest",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "om.",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 25,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "sum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "prophetiam, / profetiam",
+            "mysteria / misteria",
             "caritatem / charitatem",
             "caritatem / charitatem",
             "caritatem / charitatem"
           ],
           "witnesses": [
+            "VL 61 (ar)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -148,27 +993,736 @@
         "Clem1598-USFX": "Et si distribuero in cibos pauperum omnes facultates meas, et si tradidero corpus meum ita ut ardeam, caritatem autem non habuero, nihil mihi prodest.",
         "Clem-Saints": "Et si distribuero in cibos pauperum omnes facultates meas, et si tradidero corpus meum ita ut ardeam, caritatem autem non habuero, nihil mihi prodest.",
         "VulgHetzenauer (1906)": "Et si distribuero in cibos pauperum omnes facultates meas, et si tradidero corpus meum ita ut ardeam, charitatem autem non habuero, nihil mihi prodest.",
+        "Amiatinus (A)": "et si distribuero in cibos pauperum omnes facultates meas et si tradidero corpus meum ut ardeat caritatem autem non habuero nihil mihi prodest",
         "VulgConte (2009)": "Et si distribuero in cibos pauperum omnes facultates meas, et si tradidero corpus meum ita ut ardeam, charitatem autem non habuero, nihil mihi prodest.",
-        "VulgSistina (1590)": "Et si distribuero in cibos pauperum omnes facultates meas, et si tradidero corpus meum ita ut ardeam, charitatem autem non habuero, nihil mihi prodest."
+        "VulgSistina (1590)": "Et si distribuero in cibos pauperum omnes facultates meas, et si tradidero corpus meum ita ut ardeam, charitatem autem non habuero, nihil mihi prodest.",
+        "VL 75 (d)": "Et si in cibos diuisero omnem substantiam meam et tradidero corpus meum ut ardeam caritatem autem non habeam nihil prodest mihi",
+        "VL 89": "et in cibos diuisero omnem meam et tradidero corpus meum ut ardeam caritatem autem non habeam nihil mihi prodest",
+        "AMst": "et si erogauero omnem substantiam meam et si tradidero corpus meum ut ardeam nihil mihi prodest",
+        "PEL": "et si distribuero omnes facultates meas in cibos pauperum et si tradidero corpus meum ita ut ardeam caritatem autem non habeam nihil mihi prodest",
+        "VL 77 (g)": "et si distribuero omnes facultates uel substantias meas in cibos pauperum et si tradidero corpus meum ut ardeam caritatem autem non habeam nihil mihi prodest",
+        "VL 61 (ar)": "et si distribuero omnes facultates meas in cibos pauperum et si tradidero corpus meum ita ut ardeam caritatem autem non habeam nihil mihi prodest",
+        "VL 78 (f)": "et si distribuero in cibos pauperum omnes facultates substantias meas Et si tradiro corpus meum ita ut ardeam caritatem autem non habuero nihil mihi prodest",
+        "VL 51 (gig)": "Et si distribuero in cibos pauperum omnes facultates meas et si tradidero corpus meum ita ut ardeam caritatem autem non habuero nichil michi prodest"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "AMst",
+        "Amiatinus (A)",
+        "PEL",
+        "Stuttgart-BSV",
+        "VL 51 (gig)",
+        "VL 61 (ar)",
+        "VL 75 (d)",
+        "VL 77 (g)",
+        "VL 78 (f)",
+        "VL 89",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "si distribuero",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "si erogauero",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "si distribuero omnes facultates meas",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "si",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "si distribuero omnes facultates uel substantias meas",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "si distribuero",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "distribuero in cibos pauperum omnes facultates meas,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "erogauero omnem substantiam meam",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "distribuero omnes facultates meas in cibos pauperum",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "in cibos diuisero omnem substantiam meam",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "distribuero omnes facultates uel substantias meas in cibos pauperum",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "distribuero in cibos pauperum omnes facultates substantias meas",
+              "witnesses": [
+                "VL 78 (f)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "in cibos diuisero omnem meam",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 7,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "distribuero in cibos pauperum omnes facultates meas",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "distribuero",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "erogauero",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "distribuero omnes facultates meas",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "distribuero omnes facultates uel substantias meas",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "distribuero",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "omnes facultates meas",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "omnes facultates uel substantias meas",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "pauperum omnes facultates meas,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "diuisero omnem substantiam meam",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "diuisero omnem meam",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "meam",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "pauperum",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)",
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "pauperum omnes facultates substantias meas",
+              "witnesses": [
+                "VL 78 (f)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 4,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "pauperum omnes facultates meas",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "omnes facultates meas,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)",
+                "VL 77 (g)",
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "omnem substantiam meam",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "omnes facultates substantias meas",
+              "witnesses": [
+                "VL 78 (f)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "omnem meam",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "omnes facultates meas",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "substantias",
+              "witnesses": [
+                "VL 78 (f)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "si",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "si",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "tradidero",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "tradiro",
+              "witnesses": [
+                "VL 78 (f)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 11,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "tradidero",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ita",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "AMst",
+                "Amiatinus (A)",
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 14,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ita",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ardeam,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "ardeat",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 16,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ardeam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "caritatem autem non habuero,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "caritatem autem non habeam",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)",
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 17,
+          "word_count": 4,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "caritatem autem non habuero",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "habuero,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "habeam",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)",
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "om.",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 20,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "habuero",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "prodest",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 22,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "prodest.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 23,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "prodest",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "nihil mihi / nichil michi",
             "caritatem / charitatem",
             "caritatem / charitatem",
             "caritatem / charitatem"
           ],
           "witnesses": [
+            "VL 51 (gig)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -191,22 +1745,376 @@
         "Clem1598-USFX": "Caritas patiens est, benigna est. Caritas non æmulatur, non agit perperam, non inflatur,",
         "Clem-Saints": "Caritas patiens est, benigna est. Caritas non æmulatur, non agit perperam, non inflatur,",
         "VulgHetzenauer (1906)": "Charitas patiens est, benigna est. Charitas non æmulatur, non agit perperam, non inflatur,",
+        "Amiatinus (A)": "Caritas patiens est benigna est caritas non aemulatur non agit perperam non inflatur",
         "VulgConte (2009)": "Charitas patiens est, benigna est. Charitas non æmulatur, non agit perperam, non inflatur,",
-        "VulgSistina (1590)": "Charitas patiens est, benigna est. Charitas non aemulatur, non agit perperam, non inflatur,"
+        "VulgSistina (1590)": "Charitas patiens est, benigna est. Charitas non aemulatur, non agit perperam, non inflatur,",
+        "VL 75 (d)": "Caritas patiens est benigna est caritas non aemulatur caritas non est perpera non inflatur",
+        "VL 89": "Caritas patiens et benigna est caritas non aemulatur caritas perperam non agit non inflatur",
+        "AMst": "caritas magnanima est iocunda est caritas non aemulatur non inflatur non perperam agit",
+        "PEL": "caritas patiens est benigna est caritas non aemulatur non agit perperam non inflatur",
+        "VL 77 (g)": "caritas patiens est benigna est caritas non ęmulatur caritas non perperat uel non perperam agit non inflatur",
+        "VL 61 (ar)": "Caritas patiens est benigna est caritas non emulatur non agit perperam non inflatur",
+        "VL 78 (f)": "Caritas patiens est benigna est caritas non aemulatur non agit perperam non inflatur",
+        "VL 51 (gig)": "Caritas patiens est benigna est Caritas non emulatur non agit perperam non inflatur"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "AMst",
+        "Amiatinus (A)",
+        "PEL",
+        "Stuttgart-BSV",
+        "VL 51 (gig)",
+        "VL 61 (ar)",
+        "VL 75 (d)",
+        "VL 77 (g)",
+        "VL 78 (f)",
+        "VL 89",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "patiens",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "magnanima",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "patiens",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "est,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "et",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "est",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "benigna",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "iocunda",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "benigna",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "caritas",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "caritas perperam",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "inflatur non perperam",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "perperat uel non perperam",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 9,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "agit perperam,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "est perpera",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "agit",
+              "witnesses": [
+                "AMst",
+                "VL 77 (g)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 9,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "agit perperam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "perperam, non inflatur,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "perpera non inflatur",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "non inflatur",
+              "witnesses": [
+                "VL 77 (g)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "perperam non inflatur",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "perperam,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VL 77 (g)",
+                "VL 89",
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "perpera",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "perperam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "æmulatur, / emulatur",
+            "æmulatur, / emulatur",
             "Caritas / Charitas",
             "Caritas / Charitas",
             "Caritas / Charitas",
@@ -215,6 +2123,8 @@
             "Caritas / Charitas"
           ],
           "witnesses": [
+            "VL 51 (gig)",
+            "VL 61 (ar)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -237,18 +2147,253 @@
         "Clem1598-USFX": "non est ambitiosa, non quærit quæ sua sunt, non irritatur, non cogitat malum,",
         "Clem-Saints": "non est ambitiosa, non quærit quæ sua sunt, non irritatur, non cogitat malum,",
         "VulgHetzenauer (1906)": "non est ambitiosa, non quærit quæ sua sunt, non irritatur, non cogitat malum,",
+        "Amiatinus (A)": "non est ambitiosa non quaerit quae sua sunt non inritatur non cogitat malum",
         "VulgConte (2009)": "non est ambitiosa, non quærit quæ sua sunt, non irritatur, non cogitat malum,",
-        "VulgSistina (1590)": "non est ambitiosa, non quaerit quae sua sunt, non irritatur, non cogitat malum,"
+        "VulgSistina (1590)": "non est ambitiosa, non quaerit quae sua sunt, non irritatur, non cogitat malum,",
+        "VL 75 (d)": "non ambitiosa est non quaerit quae sua sunt non inritatur non cogitat malum",
+        "VL 89": "non ambitiosa est Non quaerit quae sua sunt non irritatur non cogitat malum",
+        "AMst": "non ambitiosa est non quaerit quae sua sunt non inritatur non cogitat malum",
+        "PEL": "non est ambitiosa non quaerit quae sua sunt non inritatur non cogitat malum",
+        "VL 77 (g)": "non dehonestatur non quęrit sua uel propria non irritatur non cogitat malum",
+        "VL 61 (ar)": "non est ambitiosa non quaerit quae sua sunt non inritatur non cogitat malum",
+        "VL 78 (f)": "non est ambitiosa non quęrit quę sua sunt Non irritatur non cogitat malum",
+        "VL 51 (gig)": "non est ambiciosa non querit que sua sunt non irritatur non cogitat malum"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "AMst",
+        "Amiatinus (A)",
+        "PEL",
+        "Stuttgart-BSV",
+        "VL 51 (gig)",
+        "VL 61 (ar)",
+        "VL 75 (d)",
+        "VL 77 (g)",
+        "VL 78 (f)",
+        "VL 89",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
-      "disregarded": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "ambitiosa",
+              "witnesses": [
+                "AMst",
+                "VL 75 (d)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "est ambitiosa,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "dehonestatur",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "est",
+              "witnesses": [
+                "AMst",
+                "VL 75 (d)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "est ambitiosa",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ambitiosa,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "AMst",
+                "VL 75 (d)",
+                "VL 89",
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ambitiosa",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "quæ",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "quae",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "sunt,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "uel propria",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "sunt",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "irritatur, / inritatur",
+            "irritatur, / inritatur",
+            "irritatur, / inritatur",
+            "irritatur, / inritatur",
+            "ambitiosa, / ambiciosa",
+            "quærit quæ / querit que",
+            "irritatur, / inritatur",
+            "irritatur, / inritatur"
+          ],
+          "witnesses": [
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -264,17 +2409,111 @@
         "Clem1598-USFX": "non gaudet super iniquitate, congaudet autem veritati:",
         "Clem-Saints": "non gaudet super iniquitate, congaudet autem veritati:",
         "VulgHetzenauer (1906)": "non gaudet super iniquitate, congaudet autem veritati:",
+        "Amiatinus (A)": "non gaudet super iniquitatem congaudet autem ueritati",
         "VulgConte (2009)": "non gaudet super iniquitate, congaudet autem veritati:",
-        "VulgSistina (1590)": "non gaudet super iniquitate, congaudet autem veritati:"
+        "VulgSistina (1590)": "non gaudet super iniquitate, congaudet autem veritati:",
+        "VL 75 (d)": "non gaudet super iniquitatem congaudet autem ueritati",
+        "VL 89": "non gaudet super iniquitatem congaudet autem ueritati",
+        "AMst": "non gaudet in iniquitate congaudet autem ueritati",
+        "PEL": "non gaudet super iniquitatem congaudet autem ueritati",
+        "VL 77 (g)": "non gaudet super iniquitate congaudet autem ueritati",
+        "VL 61 (ar)": "non gaudet super iniquitatem congaudet autem ueritati",
+        "VL 78 (f)": "non gaudet super iniquitate congaudet autem ueritati",
+        "VL 51 (gig)": "non gaudet super iniquitatem congaudet autem ueritati"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "AMst",
+        "Amiatinus (A)",
+        "PEL",
+        "Stuttgart-BSV",
+        "VL 51 (gig)",
+        "VL 61 (ar)",
+        "VL 75 (d)",
+        "VL 77 (g)",
+        "VL 78 (f)",
+        "VL 89",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "super",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "in",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "super",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "iniquitate,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "iniquitatem",
+              "witnesses": [
+                "Amiatinus (A)",
+                "PEL",
+                "VL 51 (gig)",
+                "VL 61 (ar)",
+                "VL 75 (d)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iniquitate",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -291,17 +2530,166 @@
         "Clem1598-USFX": "omnia suffert, omnia credit, omnia sperat, omnia sustinet.",
         "Clem-Saints": "omnia suffert, omnia credit, omnia sperat, omnia sustinet.",
         "VulgHetzenauer (1906)": "omnia suffert, omnia credit, omnia sperat, omnia sustinet.",
+        "Amiatinus (A)": "omnia suffert omnia credit omnia sperat omnia sustinet",
         "VulgConte (2009)": "omnia suffert, omnia credit, omnia sperat, omnia sustinet.",
-        "VulgSistina (1590)": "omnia suffert, omnia credit, omnia sperat, omnia sustinet."
+        "VulgSistina (1590)": "omnia suffert, omnia credit, omnia sperat, omnia sustinet.",
+        "VL 75 (d)": "omnia sufferit omnia credit omnia sperat omnia sustenet",
+        "VL 89": "omnia suffert omnia credit omnia sperat omnia sustinet",
+        "AMst": "omnia tolerat omnia credit omnia sperat omnia suffert",
+        "PEL": "omnia suffert omnia credit omnia sperat omnia sustinet",
+        "VL 77 (g)": "omnia suffert omnia credit omnia sperat omnia sustinet",
+        "VL 61 (ar)": "omnia suffert omnia credit omnia sperat omnia sustinet omnia dilegit",
+        "VL 78 (f)": "Omnia suffert omnia credit omnia sperat omnia sustinet",
+        "VL 51 (gig)": "Omnia suffert omnia credit omnia sperat omnia sustinet"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "AMst",
+        "Amiatinus (A)",
+        "PEL",
+        "Stuttgart-BSV",
+        "VL 51 (gig)",
+        "VL 61 (ar)",
+        "VL 75 (d)",
+        "VL 77 (g)",
+        "VL 78 (f)",
+        "VL 89",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "suffert,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "tolerat",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "sufferit",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "suffert",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "sustinet.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "suffert",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "sustenet",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "sustinet omnia dilegit",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "sustinet",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "omnia dilegit",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -318,27 +2706,451 @@
         "Clem1598-USFX": "Caritas numquam excidit: sive prophetiæ evacuabuntur, sive linguæ cessabunt, sive scientia destruetur.",
         "Clem-Saints": "Caritas numquam excidit: sive prophetiæ evacuabuntur, sive linguæ cessabunt, sive scientia destruetur.",
         "VulgHetzenauer (1906)": "Charitas numquam excidit: sive prophetiæ evacuabuntur, sive linguæ cessabunt, sive scientia destruetur.",
+        "Amiatinus (A)": "Caritas numquam excedit siue prophetiae euacuabuntur siue linguae cessabunt siue scientia destruetur",
         "VulgConte (2009)": "Charitas numquam excidit: sive prophetiæ evacuabuntur, sive linguæ cessabunt, sive scientia destruetur.",
-        "VulgSistina (1590)": "Charitas numquam excidit: sive prophetiae evacuabuntur, sive linguae cessabunt, sive scientia destruetur."
+        "VulgSistina (1590)": "Charitas numquam excidit: sive prophetiae evacuabuntur, sive linguae cessabunt, sive scientia destruetur.",
+        "VL 75 (d)": "caritas numquam excidet Siue prophetiae abolebuntur siue linguae cessabunt siue scientia destruetur",
+        "VL 89": "caritas numquum excidet Siue prophetiae abolebuntur siue linguae cessabunt siue scientia destruetur",
+        "AMst": "caritas numquam excidit siue autem profetiae euacuabuntur siue linguae cessabunt siue scientia euacabitur",
+        "PEL": "caritas numquam excidit siue prophetiae euacuabuntur siue linguae cessabunt siue scientia destruetur",
+        "VL 77 (g)": "caritas nunquam excidit uel cadit siue prophetiae abolebuntur uel euacuabuntur siue linguae cessabunt siue scientiae destruentur",
+        "VL 61 (ar)": "caritas numquam excedit siue profetiae euacuabuntur siue linguae cessabunt siue scientiae distruentur",
+        "VL 78 (f)": "caritas numquam excidet siue prophetiae euacuabuntur siue linguae cessabunt siue scientia destruetur",
+        "VL 51 (gig)": "caritas numquam excidet Siue prophetie euacuabuntur siue lingue cessabunt siue scientia destruetur"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "AMst",
+        "Amiatinus (A)",
+        "PEL",
+        "Stuttgart-BSV",
+        "VL 51 (gig)",
+        "VL 61 (ar)",
+        "VL 75 (d)",
+        "VL 77 (g)",
+        "VL 78 (f)",
+        "VL 89",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "numquam",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "nunquam",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "numquum",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "numquam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "numquam excidit:",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "PEL",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "numquum excidet",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "numquam excedit",
+              "witnesses": [
+                "Amiatinus (A)",
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "numquam excidet",
+              "witnesses": [
+                "VL 51 (gig)",
+                "VL 75 (d)",
+                "VL 78 (f)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "nunquam excidit uel cadit",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "numquam excidit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "excidit:",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "PEL",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "excedit",
+              "witnesses": [
+                "Amiatinus (A)",
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "excidet",
+              "witnesses": [
+                "VL 51 (gig)",
+                "VL 75 (d)",
+                "VL 78 (f)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "excidit uel cadit",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "excidit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "uel cadit",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "prophetiæ",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "autem profetiae",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "prophetiae abolebuntur uel",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 4,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "prophetiae",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "evacuabuntur,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "abolebuntur",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "euacuabuntur",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "abolebuntur uel",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "scientia destruetur.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "scientiae distruentur",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "scientiae destruentur",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "scientia euacabitur",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "scientia destruetur",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "destruetur.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "euacabitur",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "distruentur",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "destruentur",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 11,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "destruetur",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "prophetiæ / prophetie",
+            "linguæ / lingue",
+            "prophetiæ / profetiae",
             "Caritas / Charitas",
             "Caritas / Charitas",
             "Caritas / Charitas"
           ],
           "witnesses": [
+            "VL 51 (gig)",
+            "VL 61 (ar)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -361,18 +3173,163 @@
         "Clem1598-USFX": "Ex parte enim cognoscimus, et ex parte prophetamus.",
         "Clem-Saints": "Ex parte enim cognoscimus, et ex parte prophetamus.",
         "VulgHetzenauer (1906)": "Ex parte enim cognoscimus, et ex parte prophetamus.",
+        "Amiatinus (A)": "ex parte enim cognoscimus et ex parte prophetamus",
         "VulgConte (2009)": "Ex parte enim cognoscimus, et ex parte prophetamus.",
-        "VulgSistina (1590)": "Ex parte enim cognoscimus, et ex parte prophetamus."
+        "VulgSistina (1590)": "Ex parte enim cognoscimus, et ex parte prophetamus.",
+        "VL 75 (d)": "ex parte enim scimus et ex parte prophetemur",
+        "VL 89": "ex parte enim scimus et ex parte prophetamus",
+        "AMst": "ex parte enim cognoscimus et ex parte profetamus",
+        "PEL": "ex parte enim cognoscimus et ex parte prophetamus",
+        "VL 77 (g)": "ex parte enim scimus uel cognoscimus et ex parte prophetamus",
+        "VL 61 (ar)": "ex parte enim cognoscimus et ex parte profetamus",
+        "VL 78 (f)": "Ex parte enim cognoscimus et ex parte prophetamus",
+        "VL 51 (gig)": "Ex parte enim cognoscimus et ex parte prophetamus"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "AMst",
+        "Amiatinus (A)",
+        "PEL",
+        "Stuttgart-BSV",
+        "VL 51 (gig)",
+        "VL 61 (ar)",
+        "VL 75 (d)",
+        "VL 77 (g)",
+        "VL 78 (f)",
+        "VL 89",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
-      "disregarded": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "cognoscimus,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "scimus",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "cognoscimus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "scimus uel",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "prophetamus.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "prophetemur",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "prophetamus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "prophetamus. / profetamus",
+            "prophetamus. / profetamus"
+          ],
+          "witnesses": [
+            "AMst",
+            "VL 61 (ar)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -388,17 +3345,239 @@
         "Clem1598-USFX": "Cum autem venerit quod perfectum est, evacuabitur quod ex parte est.",
         "Clem-Saints": "Cum autem venerit quod perfectum est, evacuabitur quod ex parte est.",
         "VulgHetzenauer (1906)": "Cum autem venerit quod perfectum est, evacuabitur quod ex parte est.",
+        "Amiatinus (A)": "cum autem uenerit quod perfectum est euacuabitur quod ex parte est",
         "VulgConte (2009)": "Cum autem venerit quod perfectum est, evacuabitur quod ex parte est.",
-        "VulgSistina (1590)": "Cum autem venerit quod perfectum est, evacuabitur quod ex parte est."
+        "VulgSistina (1590)": "Cum autem venerit quod perfectum est, evacuabitur quod ex parte est.",
+        "VL 75 (d)": "cum autem uenerit quod perfectum est destruetur quae ex parte sunt",
+        "VL 89": "Cum autem uenerit quod perfectum est destruentur quae ex parte sunt",
+        "AMst": "cum autem uenerit quod perfectum est euacuabuntur quae ex parte sunt",
+        "PEL": "cum autem uenerit quod perfectum est euacabuntur ea quae ex parte sunt",
+        "VL 77 (g)": "cum autem uenerit perfectum destruentur uel euacuabuntur ea quae ex parte",
+        "VL 61 (ar)": "cum autem uenerit quod perfectum est euacuabitur quod ex parte est",
+        "VL 78 (f)": "Cum autem uenerit quod perfectum est euacuabitur quod ex parte est",
+        "VL 51 (gig)": "Cum autem uenerit quod perfectum est euacuabitur quod ex parte est"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "AMst",
+        "Amiatinus (A)",
+        "PEL",
+        "Stuttgart-BSV",
+        "VL 51 (gig)",
+        "VL 61 (ar)",
+        "VL 75 (d)",
+        "VL 77 (g)",
+        "VL 78 (f)",
+        "VL 89",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "quod",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "quod",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "est, evacuabitur quod",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "destruentur uel euacuabuntur ea quae",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "est euacuabuntur quae",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "est euacabuntur ea quae",
+              "witnesses": [
+                "PEL"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "est destruetur quae",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "est destruentur quae",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "est euacuabitur quod",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "evacuabitur quod",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "euacuabuntur quae",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "euacabuntur ea quae",
+              "witnesses": [
+                "PEL"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "destruetur quae",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "destruentur quae",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "uel euacuabuntur ea quae",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "euacuabitur quod",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "est.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "sunt",
+              "witnesses": [
+                "AMst",
+                "PEL",
+                "VL 75 (d)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "est",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -415,18 +3594,726 @@
         "Clem1598-USFX": "Cum essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. Quando autem factus sum vir, evacuavi quæ erant parvuli.",
         "Clem-Saints": "Cum essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. Quando autem factus sum vir, evacuavi quæ erant parvuli.",
         "VulgHetzenauer (1906)": "Cum essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. Quando autem factus sum vir, evacuavi quæ erant parvuli.",
+        "Amiatinus (A)": "cum essem paruulus loquebar ut paruulus sapiebam ut paruulus cogitabam ut paruulus quando factus sum uir euacuaui quae erant paruuli",
         "VulgConte (2009)": "Cum essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. Quando autem factus sum vir, evacuavi quæ erant parvuli.",
-        "VulgSistina (1590)": "Cum essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. Quando autem factus sum vir, evacuavi quae erant parvuli."
+        "VulgSistina (1590)": "Cum essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. Quando autem factus sum vir, evacuavi quae erant parvuli.",
+        "VL 75 (d)": "Cum eram paruolus ut paruolus loquebar ut paruolus sapiebam ut paruolus cogitabam cum factus sum uir quae paruoli erant deposui",
+        "VL 89": "Cum eram paruulus ut paruolus loquebar ut paruolus sapiebam ut paruolus cogitabam Cum autem factus sum uir quae paruoli erant deposui",
+        "AMst": "cum essem paruulus quasi paruulus loquebar quasi paruulus sapiebam quasi paruulus cogitabam cum factus sum uir ea quae paruuli erant destruxi",
+        "PEL": "cum essem paruulus ut paruulus loquebar ut paruulus sapiebam ut paruulus cogitabam cum factus sum uir quae paruuli erant disposui",
+        "VL 77 (g)": "cum eram uel essem paruulus ut paruulus loquebar ut paruulus sapiebam ut paruulus cogitabam cum autem factus sum uir quę paruuli erant deposui",
+        "VL 61 (ar)": "Cum essem paruulus ut paruulus loquebar ut paruulus sapiebam ut paruulus cogitabam cum factus sum uir que paruuli erant disposui",
+        "VL 78 (f)": "Cum essem paruulus loquebar ut paruulus sapiebam ut paruulus cogitabam ut paruulus Quando autem factus sum uir euacuaui quae erant paruuli",
+        "VL 51 (gig)": "Cum essem paruulus loquebar ut paruulus sapiebam ut paruulus cogitabam ut paruulus quando autem factus sum uir euacuaui que erant paruuli"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "AMst",
+        "Amiatinus (A)",
+        "PEL",
+        "Stuttgart-BSV",
+        "VL 51 (gig)",
+        "VL 61 (ar)",
+        "VL 75 (d)",
+        "VL 77 (g)",
+        "VL 78 (f)",
+        "VL 89",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
-      "disregarded": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "essem parvulus,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "eram paruolus ut paruolus",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "essem paruulus quasi paruulus",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "essem paruulus ut paruulus",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)",
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "eram paruulus ut paruolus",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "essem paruulus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "eram uel",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "essem",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "eram",
+              "witnesses": [
+                "VL 89",
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "essem paruulus ut",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)",
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "essem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "paruulus ut",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)",
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "quasi paruulus",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "ut paruolus",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ut",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "quasi",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 4,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ut",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "parvulus,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "paruolus",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "paruulus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ut",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "quasi",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ut",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "parvulus,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "paruolus",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "paruulus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ut parvulus. Quando autem",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "cum",
+              "witnesses": [
+                "AMst",
+                "PEL",
+                "VL 61 (ar)",
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "ut paruulus quando",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "cum autem",
+              "witnesses": [
+                "VL 77 (g)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 4,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ut paruulus quando autem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ut parvulus. Quando",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "cum",
+              "witnesses": [
+                "VL 77 (g)",
+                "VL 89",
+                "AMst",
+                "PEL",
+                "VL 61 (ar)",
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "ut paruulus quando",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "autem",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VL 51 (gig)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)",
+                "AMst",
+                "PEL",
+                "VL 61 (ar)",
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 13,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "autem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "evacuavi",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "ea",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "om.",
+              "witnesses": [
+                "PEL",
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "que",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 17,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "euacuaui",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "evacuavi quæ",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "que paruuli",
+              "witnesses": [
+                "VL 61 (ar)",
+                "PEL",
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "ea quae paruuli",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "quae paruoli",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 17,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "euacuaui quae",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "paruuli",
+              "witnesses": [
+                "AMst",
+                "PEL",
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "paruoli",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 19,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "parvuli.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "destruxi",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "disposui",
+              "witnesses": [
+                "PEL",
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "deposui",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 20,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "paruuli",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "quæ / que"
+          ],
+          "witnesses": [
+            "VL 51 (gig)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -442,18 +4329,573 @@
         "Clem1598-USFX": "Videmus nunc per speculum in ænigmate: tunc autem facie ad faciem. Nunc cognosco ex parte: tunc autem cognoscam sicut et cognitus sum.",
         "Clem-Saints": "Videmus nunc per speculum in ænigmate: tunc autem facie ad faciem. Nunc cognosco ex parte: tunc autem cognoscam sicut et cognitus sum.",
         "VulgHetzenauer (1906)": "Videmus nunc per speculum in ænigmate: tunc autem facie ad faciem. Nunc cognosco ex parte: tunc autem cognoscam sicut et cognitus sum.",
+        "Amiatinus (A)": "Videmus nunc per speculum in aenigmate tunc autem facie ad faciem nunc cognosco ex parte tunc autem cognoscam sicut et cognitus sum",
         "VulgConte (2009)": "Videmus nunc per speculum in ænigmate: tunc autem facie ad faciem. Nunc cognosco ex parte: tunc autem cognoscam sicut et cognitus sum.",
-        "VulgSistina (1590)": "Videmus nunc per speculum in aenigmate: tunc autem facie ad faciem. Nunc cognosco ex parte: tunc autem cognoscam sicut et cognitus sum."
+        "VulgSistina (1590)": "Videmus nunc per speculum in aenigmate: tunc autem facie ad faciem. Nunc cognosco ex parte: tunc autem cognoscam sicut et cognitus sum.",
+        "VL 75 (d)": "Uidemus nunc per speculum in aenigmate tunc autem faciem ad faciem nunc scio ex parte tunc autem cognoscam sicut ego cognotus sum",
+        "VL 89": "Uidemus nunc per speculum in aenigmatę tunc autem facie ad faciem Nunc autem scio ex parte tunc autem cognoscam sicut et ego cognitus sum",
+        "AMst": "uidemus nunc per speculum in aenigmate tunc uero facie ad faciem modo scio ex parte tunc uero cognoscam sicut et cognitus sum",
+        "PEL": "uidemus nunc per speculum in enigmate tunc autem facie ad faciem nunc cognosco ex parte tunc autem cognoscam sicut et cognitus sum",
+        "VL 77 (g)": "uidemus nunc uel modo per speculum in aenigmate tunc autem faciem ad faciem nunc scio ex parte tunc autem ex parte cognoscam sicut et ego super cognitus sum",
+        "VL 61 (ar)": "uidemus nunc per speculum et in enegmate tunc autem facie ad faciem nunc cognosco ex parte tunc cognoscam sicut cognitus sum",
+        "VL 78 (f)": "Uidemus nunc per speculum in enigmate tunc autem facie ad faciem nunc cognosco ex parte tunc autem cognoscam sicut et cognitus sum",
+        "VL 51 (gig)": "Uidemus nunc per speculum in enigmate tunc autem facie ad faciem Nunc cognosco ex parte tunc autem cognoscam sicut et cognitus sum"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "AMst",
+        "Amiatinus (A)",
+        "PEL",
+        "Stuttgart-BSV",
+        "VL 51 (gig)",
+        "VL 61 (ar)",
+        "VL 75 (d)",
+        "VL 77 (g)",
+        "VL 78 (f)",
+        "VL 89",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
-      "disregarded": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "uel modo",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "et",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 4,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ænigmate:",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "enegmate",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "aenigmate",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "autem",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "uero",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "autem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "facie",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "faciem",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "facie",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "Nunc cognosco",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "modo scio",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "nunc scio",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "Nunc autem scio",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 11,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "nunc cognosco",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "cognosco",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "scio",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "autem scio",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 12,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "cognosco",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "autem",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "uero",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "autem ex parte",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 16,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "autem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "ex parte",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 17,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "ego",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "et ego super",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "et ego",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 19,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "et cognitus",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "ego cognotus",
+              "witnesses": [
+                "VL 75 (d)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "cognitus",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "et ego super cognitus",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "et ego cognitus",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 19,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et cognitus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "ego super",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "ego",
+              "witnesses": [
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 20,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "ænigmate: / enigmate",
+            "ænigmate: / enigmate",
+            "ænigmate: / enigmate",
+            "ænigmate: / enigmate",
+            "ænigmate: / aenigmatę"
+          ],
+          "witnesses": [
+            "PEL",
+            "VL 51 (gig)",
+            "VL 78 (f)",
+            "VL 89"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -469,22 +4911,376 @@
         "Clem1598-USFX": "Nunc autem manent fides, spes, caritas, tria hæc: major autem horum est caritas.",
         "Clem-Saints": "Nunc autem manent fides, spes, caritas, tria hæc: major autem horum est caritas.",
         "VulgHetzenauer (1906)": "Nunc autem manent, fides, spes, charitas: tria hæc. maior autem horum est charitas.",
+        "Amiatinus (A)": "nunc autem manet fides spes caritas tria haec maior autem his est caritas",
         "VulgConte (2009)": "Nunc autem manent, fides, spes, charitas: tria hæc. Maior autem horum est charitas.",
-        "VulgSistina (1590)": "Nunc autem manent, fides, spes, charitas: tria haec. maior autem horum est charitas."
+        "VulgSistina (1590)": "Nunc autem manent, fides, spes, charitas: tria haec. maior autem horum est charitas.",
+        "VL 75 (d)": "manet autem fides spes caritas tria haec maior autem horum caritas",
+        "VL 89": "Manet autem fides spes caritas tria haec maior autem horum est caritas",
+        "VL 64 (r)": "Nunc autem manet fides […] […] tria haec maior autem […] […]",
+        "AMst": "manet autem spes fides caritas tria haec maior autem horum est caritas",
+        "PEL": "nunc autem manet fides spes caritas tria haec maior autem his est caritas",
+        "VL 77 (g)": "manet autem fides spes caritas tria haec maior autem his uel horum caritas",
+        "VL 61 (ar)": "Manet spes fides caritas trea haec maior autem his est caritas",
+        "VL 78 (f)": "nunc autem manet fides spes caritas tria haec maior autem his est caritas",
+        "VL 51 (gig)": "Nunc autem manent fides spes caritas tria hec Maior autem his est caritas"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "AMst",
+        "Amiatinus (A)",
+        "PEL",
+        "Stuttgart-BSV",
+        "VL 51 (gig)",
+        "VL 61 (ar)",
+        "VL 64 (r)",
+        "VL 75 (d)",
+        "VL 77 (g)",
+        "VL 78 (f)",
+        "VL 89",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Nunc",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 64 (r)",
+            "VL 78 (f)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "manet",
+              "witnesses": [
+                "AMst",
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "VL 89",
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "nunc",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "Nunc autem manent",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VL 51 (gig)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Manet spes",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "manet autem spes",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "nunc autem manet",
+              "witnesses": [
+                "Amiatinus (A)",
+                "PEL",
+                "VL 64 (r)",
+                "VL 78 (f)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "manet autem",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "VL 89"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "nunc autem manent",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "manent",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VL 51 (gig)",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "spes",
+              "witnesses": [
+                "AMst"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "manet",
+              "witnesses": [
+                "Amiatinus (A)",
+                "PEL",
+                "VL 64 (r)",
+                "VL 78 (f)"
+              ],
+              "weight_sum": 0.0
+            },
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 77 (g)",
+                "VL 89",
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "manent",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "spes,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "AMst",
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 4,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "spes",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "tria",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 64 (r)",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "trea",
+              "witnesses": [
+                "VL 61 (ar)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "tria",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "horum",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "VL 75 (d)",
+            "VL 77 (g)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "his",
+              "witnesses": [
+                "Amiatinus (A)",
+                "PEL",
+                "VL 51 (gig)",
+                "VL 61 (ar)",
+                "VL 78 (f)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "horum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 64 (r)",
+            "VL 75 (d)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "his uel",
+              "witnesses": [
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "est",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "AMst",
+            "Amiatinus (A)",
+            "PEL",
+            "VL 51 (gig)",
+            "VL 61 (ar)",
+            "VL 78 (f)",
+            "VL 89",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VL 75 (d)",
+                "VL 77 (g)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 11,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "est",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "hæc: / hec",
             "caritas, / charitas:",
             "caritas. / charitas.",
             "caritas, / charitas:",
@@ -493,6 +5289,7 @@
             "caritas. / charitas."
           ],
           "witnesses": [
+            "VL 51 (gig)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"

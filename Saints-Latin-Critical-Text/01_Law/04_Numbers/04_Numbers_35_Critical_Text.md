@@ -1,6 +1,6 @@
 # Numbers 35 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:16:24Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:44Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,7 +16,7 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,9 +28,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ### Versification & Alignment Notes
+- Clem1598-USFX: Source import repair, 35:1: 'in campes tribus Moab' → 'in campestribus Moab' (Swete prints in campestribus Moab (split-word typo in Clem1598-USFX; corroborated by Clem-Saints, VulgHetzenauer, VulgSistina, Stuttgart-BSV)). the words typed twice are kept once; no word was supplied. Original file unchanged.
 - Clem1598-USFX: 35:24 folded into verse 22 (the reference prints these words there)
 - Clem1598-USFX: 35:23 folded into verse 22 (the reference prints these words there)
 - Clem1598-USFX: 35:22 folded into verse 22 (the reference prints these words there)
@@ -60,7 +70,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ## Section II — Continuous Latin Critical Text
 
-**1** Hæc quoque locutus est Dominus ad Moysen in campes tribus Moab supra Jordanem, contra Jericho:
+**1** Hæc quoque locutus est Dominus ad Moysen in campestribus Moab supra Jordanem, contra Jericho:
 **2** Præcipe filiis Israël ut dent Levitis de possessionibus suis
 **3** urbes ad habitandum, et suburbana earum per circuitum: ut ipsi in oppidis maneant, et suburbana sint pecoribus ac jumentis:
 **4** quæ a muris civitatum forinsecus, per circuitum, mille passuum spatio tendentur.
@@ -94,12 +104,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
-### Numbers 35:1
-- *Disregarded Surface Variant:* kept `campes tribus` over `campestribus` (Clem-Saints) — *Word division differs (same letters written as one word or two)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `campes tribus / campestribus`, `campes tribus / campestribus`, `campes tribus / campestribus` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
-
 ### Numbers 35:8
-- *Disregarded Surface Variant:* kept `(adopted text)` over `hæreditatis / hereditatis`, `hæreditatis / hereditatis`, `hæreditatis / hereditatis` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Israël, / Israhel`, `hæreditatis / hereditatis`, `hæreditatis / hereditatis`, `hæreditatis / hereditatis`, `hæreditatis / hereditatis` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Numbers 35:19
 - **Apparatus:** `interficiet.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
@@ -109,13 +115,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
 
 ### Verse 1 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Hæc quoque locutus est Dominus ad Moysen in campes tribus Moab supra Jordanem, contra Jericho:
-  - `Clem1598-USFX`: Hæc quoque locutus est Dominus ad Moysen in campes tribus Moab supra Jordanem, contra Jericho:
+- **Critical Text:** Hæc quoque locutus est Dominus ad Moysen in campestribus Moab supra Jordanem, contra Jericho:
+  - `Clem1598-USFX`: Hæc quoque locutus est Dominus ad Moysen in campestribus Moab supra Jordanem, contra Jericho:
   - `Clem-Saints`: Hæc quoque locutus est Dominus ad Moysen in campestribus Moab supra Jordanem, contra Jericho:
   - `VulgHetzenauer (1906)`: Hæc quoque locutus est Dominus ad Moysen in campestribus Moab supra Iordanem, contra Iericho:
   - `VulgConte (2009)`: Hæc quoque locutus est Dominus ad Moysen in campestribus Moab supra Iordanem, contra Iericho:
   - `VulgSistina (1590)`: Haec quoque locutus est Dominus ad Moysen in campestribus Moab supra Iordanem, contra Iericho:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Word division differs (same letters written as one word or two)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Præcipe filiis Israël ut dent Levitis de possessionibus suis

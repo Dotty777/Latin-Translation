@@ -1,6 +1,6 @@
 # Genesis 18 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:16:04Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:33Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -15,9 +15,9 @@
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
-| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -29,7 +29,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -42,7 +51,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **5** Ponam buccellam panis, et confortate cor vestrum: postea transibitis: idcirco enim declinastis ad servum vestrum. Qui dixerunt: Fac ut locutus es.
 **6** Festinavit Abraham in tabernaculum ad Saram, dixitque ei: Accelera, tria sata similæ commisce, et fac subcinericios panes.
 **7** Ipse vero ad armentum cucurrit, et tulit inde vitulum tenerrimum et optimum, deditque puero: qui festinavit et coxit illum.
-**8** Tulit quoque botyrum et lac, et vitulum quem coxerat, et posuit coram eis: ipse vero stabat juxta eos sub arbore.
+**8** Tulit quoque butyrum et lac, et vitulum quem coxerat, et posuit coram eis: ipse vero stabat juxta eos sub arbore.
 **9** Cumque comedissent, dixerunt ad eum: Ubi est Sara uxor tua? Ille respondit: Ecce in tabernaculo est.
 **10** Cui dixit: Revertens veniam ad te tempore isto, vita comite, et habebit filium Sara uxor tua. Quo audito, Sara risit post ostium tabernaculi.
 **11** Erant autem ambo senes, provectæque ætatis, et desierant Saræ fieri muliebria.
@@ -147,10 +156,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `illum.` over `illum` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 18:8
-- **Apparatus:** `botyrum` Amiatinus (A) **]** **butyrum** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
-  - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Tulit` over `tulit` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
+- *Disregarded Surface Variant:* kept `butyrum` over `botyrum` (Amiatinus (A)) — *Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 - *Disregarded Surface Variant:* kept `lac,` over `lac` (Amiatinus (A)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `vitulum` over `uitulum` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `coxerat,` over `coxerat` (Amiatinus (A)) — *Punctuation / spacing difference only*
@@ -216,7 +223,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `anus?` over `anus` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 18:14
-- **Apparatus:** `est quidquam` Amiatinus (A) **]** **quidquam est** Clem1598-USFX Clem-Saints ; **est** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `est quidquam` Amiatinus (A) **]** **quidquam est** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Numquid` over `numquid` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -272,7 +279,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `terræ?` over `terrae` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 18:19
-- **Apparatus:** `justitiam et judicium` Amiatinus (A) **]** **judicium et justitiam** Clem1598-USFX Clem-Saints ; **iustitiam:** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `justitiam et judicium` Amiatinus (A) **]** **judicium et justitiam** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Scio` over `scio` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -372,7 +379,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `cinis.` over `cinis` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 18:28
-- **Apparatus:** `propter` Amiatinus (A) Clem-Saints Clem1598-USFX **]** **quia quadraginta** VulgSistina (1590) ; **propter quadraginta** VulgConte (2009) VulgHetzenauer (1906)
 - **Apparatus:** `om.` Amiatinus (A) VulgSistina (1590) **]** **quadraginta** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) *(omission / addition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
@@ -406,11 +412,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Genesis 18:30
 - **Apparatus:** `om.` Amiatinus (A) **]** **ibi** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'ibi' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'om.', 'ibi' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `ibi` Amiatinus (A) **]** **om.** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'ibi' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'om.', 'ibi' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Ne` over `ne` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -544,16 +550,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgSistina (1590)`: Ipse vero ad armentum cucurrit, et tulit inde vitulum tenerrimum et optimum, deditque puero: qui festinavit, et coxit illum.
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 8 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
-### Verse 8 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Tulit quoque botyrum et lac, et vitulum quem coxerat, et posuit coram eis: ipse vero stabat juxta eos sub arbore.
+### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Tulit quoque butyrum et lac, et vitulum quem coxerat, et posuit coram eis: ipse vero stabat juxta eos sub arbore.
   - `Clem1598-USFX`: Tulit quoque butyrum et lac, et vitulum quem coxerat, et posuit coram eis: ipse vero stabat juxta eos sub arbore.
   - `Clem-Saints`: Tulit quoque butyrum et lac, et vitulum quem coxerat, et posuit coram eis: ipse vero stabat juxta eos sub arbore.
   - `Amiatinus (A)`: tulit quoque botyrum et lac et uitulum quem coxerat et posuit coram eis ipse uero stabat iuxta eos sub arbore
   - `VulgHetzenauer (1906)`: Tulit quoque butyrum et lac, et vitulum quem coxerat, et posuit coram eis: ipse vero stabat iuxta eos sub arbore.
   - `VulgConte (2009)`: Tulit quoque butyrum et lac, et vitulum quem coxerat, et posuit coram eis: ipse vero stabat iuxta eos sub arbore.
   - `VulgSistina (1590)`: Tulit quoque butyrum et lac, et vitulum quem coxerat, et posuit coram eis: ipse vero stabat iuxta eos sub arbore.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'botyrum' [Amiatinus (A)] (weight 0.97, confidence 53%) over butyrum (Clem1598-USFX, Clem-Saints). Also normalised 8 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 9 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type); Punctuation / spacing difference only).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque comedissent, dixerunt ad eum: Ubi est Sara uxor tua? Ille respondit: Ecce in tabernaculo est.
@@ -773,7 +778,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over ibi (Clem1598-USFX, Clem-Saints). Also normalised 9 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 30 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 30 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ne quæso, inquit, indigneris, Domine, si loquar: quid si inventi fuerint ibi triginta? Respondit: Non faciam, si invenero ibi triginta.
   - `Clem1598-USFX`: Ne quæso, inquit, indigneris, Domine, si loquar: quid si ibi inventi fuerint triginta? Respondit: Non faciam, si invenero ibi triginta.
   - `Clem-Saints`: Ne quæso, inquit, indigneris, Domine, si loquar: quid si ibi inventi fuerint triginta? Respondit: Non faciam, si invenero ibi triginta.
@@ -782,7 +787,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgConte (2009)`: Ne quæso, inquit, indigneris Domine, si loquar: Quid si ibi inventi fuerint triginta? Respondit: Non faciam, si invenero ibi triginta.
   - `VulgSistina (1590)`: Ne quaeso, inquit, indigneris Domine, si loquar: Quid si ibi inventi fuerint triginta? Respondit: Non faciam, si invenero ibi triginta.
 - **Philological Rationale:** [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over ibi (Clem1598-USFX, Clem-Saints). [Addition / omission between witnesses] Adopted 'ibi' [Amiatinus (A)] (weight 0.97, confidence 53%) over om. (Clem1598-USFX, Clem-Saints). Also normalised 12 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 31 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quia semel, ait, cœpi loquar ad Dominum meum: quid si inventi fuerint ibi viginti dixit: Non interficiam propter viginti.

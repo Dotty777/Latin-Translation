@@ -7,11 +7,12 @@
   "usfm_code": "NUM",
   "chapter": 35,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:16:24Z",
+  "updated_at": "2026-11-22T08:01:44Z",
   "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
   "versification_anchor": "Clem-Saints",
   "orthographic_base": "Clem1598-USFX",
   "versification_notes": [
+    "Clem1598-USFX: Source import repair, 35:1: 'in campes tribus Moab' → 'in campestribus Moab' (Swete prints in campestribus Moab (split-word typo in Clem1598-USFX; corroborated by Clem-Saints, VulgHetzenauer, VulgSistina, Stuttgart-BSV)). the words typed twice are kept once; no word was supplied. Original file unchanged.",
     "Clem1598-USFX: 35:24 folded into verse 22 (the reference prints these words there)",
     "Clem1598-USFX: 35:23 folded into verse 22 (the reference prints these words there)",
     "Clem1598-USFX: 35:22 folded into verse 22 (the reference prints these words there)",
@@ -80,11 +81,11 @@
     {
       "id": 66271,
       "verse": 1,
-      "critical_text": "Hæc quoque locutus est Dominus ad Moysen in campes tribus Moab supra Jordanem, contra Jericho:",
+      "critical_text": "Hæc quoque locutus est Dominus ad Moysen in campestribus Moab supra Jordanem, contra Jericho:",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
-        "Clem1598-USFX": "Hæc quoque locutus est Dominus ad Moysen in campes tribus Moab supra Jordanem, contra Jericho:",
+        "Clem1598-USFX": "Hæc quoque locutus est Dominus ad Moysen in campestribus Moab supra Jordanem, contra Jericho:",
         "Clem-Saints": "Hæc quoque locutus est Dominus ad Moysen in campestribus Moab supra Jordanem, contra Jericho:",
         "VulgHetzenauer (1906)": "Hæc quoque locutus est Dominus ad Moysen in campestribus Moab supra Iordanem, contra Iericho:",
         "VulgConte (2009)": "Hæc quoque locutus est Dominus ad Moysen in campestribus Moab supra Iordanem, contra Iericho:",
@@ -93,40 +94,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
-      "disregarded": [
-        {
-          "slot_index": 8,
-          "kept_form": "campes tribus",
-          "disregarded_forms": [
-            "campestribus"
-          ],
-          "witnesses": [
-            "Clem-Saints"
-          ],
-          "reason": "Word division differs (same letters written as one word or two)"
-        },
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "campes tribus / campestribus",
-            "campes tribus / campestribus",
-            "campes tribus / campestribus"
-          ],
-          "witnesses": [
-            "VulgConte (2009)",
-            "VulgHetzenauer (1906)",
-            "VulgSistina (1590)"
-          ],
-          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
-        }
-      ],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Word division differs (same letters written as one word or two)).",
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -147,6 +122,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -174,6 +150,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -201,6 +178,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -228,6 +206,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -255,6 +234,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -282,6 +262,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -309,6 +290,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -319,6 +301,8 @@
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "Israël, / Israhel",
+            "hæreditatis / hereditatis",
             "hæreditatis / hereditatis",
             "hæreditatis / hereditatis",
             "hæreditatis / hereditatis"
@@ -352,6 +336,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -379,6 +364,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -406,6 +392,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -433,6 +420,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -465,6 +453,7 @@
         "VulgSistina (1590)": "35:15"
       },
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -492,6 +481,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -519,6 +509,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -546,6 +537,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -573,6 +565,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -596,7 +589,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 8,
           "word_count": 1,
           "kind": "word",
@@ -629,6 +622,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -656,6 +650,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -688,6 +683,7 @@
         "VulgSistina (1590)": "35:25"
       },
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -715,6 +711,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -742,6 +739,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -769,6 +767,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -796,6 +795,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -823,6 +823,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -850,6 +851,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -877,6 +879,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -904,6 +907,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -931,6 +935,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"

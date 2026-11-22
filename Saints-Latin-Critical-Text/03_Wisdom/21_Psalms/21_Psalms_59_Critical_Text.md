@@ -1,6 +1,6 @@
 # Psalms 59 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:19Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:46Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,41 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+
+### Versification & Alignment Notes
+- Psalt-Pianum (1945): verse 58:2 runs into its neighbour across the anchor's division between 58:2 and 58:3; re-divided there
+- Psalt-Pianum (1945): 59:1 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 59:2 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 59:4 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 59:13 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 59:5 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 59:8 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 59:9 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 59:12 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 5 verse(s) re-aligned by content (5←59:3, 8←59:6, 9←59:7, 11←59:10, 12←59:11)
 
 ---
 
@@ -55,11 +77,38 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 59:1
 - **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Psalmus** VulgSistina (1590)
+- **Apparatus:** `inscriptionem ipsi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **inscriptionem** VulgSistina (1590)
 - **Apparatus:** `ipsi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
 
 ### Psalms 59:2
 - **Apparatus:** `Syriæ` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Syriam,** VulgSistina (1590)
 - **Apparatus:** `Idumæam` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Edom** VulgSistina (1590)
+
+### Psalms 59:5
+- **Apparatus:** `Ostendisti` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Imposuísti** Psalt-Pianum (1945)
+- **Apparatus:** `compunctionis.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **inebriánti.** Psalt-Pianum (1945)
+
+### Psalms 59:8
+- **Apparatus:** `sancto` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sanctuário** Psalt-Pianum (1945)
+- **Apparatus:** `lætabor,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **exsultábo** Psalt-Pianum (1945)
+- **Apparatus:** `Sichimam;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Sichem,** Psalt-Pianum (1945)
+- **Apparatus:** `convallem tabernaculorum metibor.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **vallem Succoth dimétiar.** Psalt-Pianum (1945)
+
+### Psalms 59:9
+- **Apparatus:** `Meus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Mea** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **terra** Psalt-Pianum (1945)
+- **Apparatus:** `meus est Manasses;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **mea terra Manásse,** Psalt-Pianum (1945)
+- **Apparatus:** `fortitudo` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **gálea** Psalt-Pianum (1945)
+- **Apparatus:** `Juda rex meus;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 59:11
+- **Apparatus:** `deducet` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **addúcet** Psalt-Pianum (1945)
+- **Apparatus:** `Idumæam?` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Edom?** Psalt-Pianum (1945)
+
+### Psalms 59:12
+- **Apparatus:** `et non egredieris,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **nec jam egréderis,** Psalt-Pianum (1945)
+- **Apparatus:** `in virtutibus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cum exercítibus** Psalt-Pianum (1945)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `repulisti / reppulísti`, `repulisti / reppulisti` (Psalt-Pianum (1945)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ---
 
@@ -106,6 +155,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Ostendisti populo tuo dura; potasti nos vino compunctionis.
   - `Clem-Saints`: Ostendisti populo tuo dura; potasti nos vino compunctionis.
   - `VulgHetzenauer (1906)`: Ostendisti populo tuo dura: potasti nos vino compunctionis.
+  - `Psalt-Pianum (1945)` *(numbered 59:3 in this witness)*: Imposuísti pópulo tuo dura; potásti nos vino inebriánti.
   - `VulgConte (2009)`: Ostendisti populo tuo dura: potasti nos vino compunctionis.
   - `VulgSistina (1590)`: Ostendisti populo tuo dura: potasti nos vino compunctionis.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -132,6 +182,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Deus locutus est in sancto suo: lætabor, et partibor Sichimam; et convallem tabernaculorum metibor.
   - `Clem-Saints`: Deus locutus est in sancto suo: lætabor, et partibor Sichimam; et convallem tabernaculorum metibor.
   - `VulgHetzenauer (1906)`: Deus locutus est in sancto suo: Lætabor, et partibor Sichimam: et convallem tabernaculorum metibor.
+  - `Psalt-Pianum (1945)` *(numbered 59:6 in this witness)*: Deus locútus est in sanctuário suo: exsultábo et partíbor Sichem, et vallem Succoth dimétiar.
   - `VulgConte (2009)`: Deus locutus est in sancto suo: Lætabor, et partibor Sichimam: et convallem tabernaculorum metibor.
   - `VulgSistina (1590)`: Deus locutus est in sancto suo: Laetabor, et partibor Sichimam: et convallem tabernaculorum metibor.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -141,6 +192,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Meus est Galaad, et meus est Manasses; et Ephraim fortitudo capitis mei. Juda rex meus;
   - `Clem-Saints`: Meus est Galaad, et meus est Manasses; et Ephraim fortitudo capitis mei. Juda rex meus;
   - `VulgHetzenauer (1906)`: Meus est Galaad, et meus est Manasses: et Ephraim fortitudo capitis mei. Iuda rex meus:
+  - `Psalt-Pianum (1945)` *(numbered 59:7 in this witness)*: Mea est terra Gálaad, et mea terra Manásse, et Ephraim gálea cápitis mei,
   - `VulgConte (2009)`: Meus est Galaad, et meus est Manasses: et Ephraim fortitudo capitis mei. Iuda rex meus:
   - `VulgSistina (1590)`: Meus est Galaad, et meus est Manasses: et Ephraim fortitudo capitis mei. Iuda rex meus:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -159,6 +211,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quis deducet me in civitatem munitam? quis deducet me usque in Idumæam?
   - `Clem-Saints`: Quis deducet me in civitatem munitam? quis deducet me usque in Idumæam?
   - `VulgHetzenauer (1906)`: Quis deducet me in civitatem munitam? quis deducet me usque in Idumæam?
+  - `Psalt-Pianum (1945)` *(numbered 59:10 in this witness)*: Quis addúcet me in civitátem munítam? Quis dedúcet me usque in Edom?
   - `VulgConte (2009)`: Quis deducet me in civitatem munitam? quis deducet me usque in Idumæam?
   - `VulgSistina (1590)`: Quis deducet me in civitatem munitam? quis deducet me usque in Idumaeam?
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -168,6 +221,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: nonne tu, Deus, qui repulisti nos? et non egredieris, Deus, in virtutibus nostris?
   - `Clem-Saints`: nonne tu, Deus, qui repulisti nos? et non egredieris, Deus, in virtutibus nostris?
   - `VulgHetzenauer (1906)`: Nonne tu Deus, qui repulisti nos: et non egredieris Deus in virtutibus nostris?
+  - `Psalt-Pianum (1945)` *(numbered 59:11 in this witness)*: Nonne tu, Deus, qui reppulísti nos, nec jam egréderis, Deus, cum exercítibus nostris?
   - `VulgConte (2009)`: Nonne tu Deus, qui repulisti nos: et non egredieris Deus in virtutibus nostris?
   - `VulgSistina (1590)`: Nonne tu Deus, qui repulisti nos: et non egredieris Deus in virtutibus nostris?
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

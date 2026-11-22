@@ -1,6 +1,6 @@
 # Genesis 36 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:16:08Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:33Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -15,9 +15,9 @@
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
-| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -29,7 +29,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -46,19 +55,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **9** Hæ sunt generationes Esau patris Edom in monte Seir,
 **10** et hæc nomina filiorum ejus: Eliphaz filius Ada uxoris Esau: Rahuel quoque filius Basemath uxoris ejus.
 **11** Fueruntque filii Eliphaz: Theman, Omar, Sephu, et Gatham, et Cenez.
-**12** Erat autem Thamna concubina Eliphaz filii Esau: quæ peperit ei Amalech. Hi sunt filii Adae uxoris Esau.
+**12** Erat autem Thamna concubina Eliphaz filii Esau: quæ peperit ei Amalech. Hi sunt filii Adæ uxoris Esau.
 **13** Filii autem Rahuel: Nahath et Zara, Semma et Meza: hi filii Basemath uxoris Esau.
 **14** Isti quoque erant filii Oolibama filiæ Ana filiæ Sebeon, uxoris Esau, quos genuit ei, Jehus et Hielom et Core.
 **15** Hi duces filiorum Esau: filii Eliphaz primogeniti Esau: dux Theman, dux Omor dux Sephum, dux Cenez,
-**16** dux Core, dux Gatham, dux Amalech. Hi filii Eliphaz in terra Edom, et hi filii Adae.
+**16** dux Core, dux Gatham, dux Amalech. Hi filii Eliphaz in terra Edom, et hi filii Adæ.
 **17** Hi quoque filii Rahuel filii Esau: dux Nahath, dux Zara, dux Semma, dux Meza: hi duces Rahuel in terra Edom: isti filii Basemath uxoris Esau.
 **18** Hi autem filii Oolibama uxoris Esau: dux Jehus, dux Hielom, dux Core: hi duces Oolibama filiæ Ana uxoris Esau.
 **19** Isti filii Esau, et hi duces eorum: ipse est Edom.
 **20** Isti filii Seir Horræi, habitatores terræ: Lotham, et Sobal, et Sebeon, et Anam,
 **21** Dison, et Eser, et Disan: hi duces Horræi, filii Seir in terra Edom.
-**22** Facti sunt autem filii Lotham horrei et theman. Erat autem soror Lotham, Thamna.
-**23** Et isti filii Sobal: aluam et Maneeth et Ebal, Sephi et Onam.
-**24** Et hi filii Sebeon: ahaia et Anam. Iste est Ana qui invenit aquas calidas in solitudine, cum pasceret asinos Sebeon patris sui:
+**22** Facti sunt autem filii Lotham Horrei et Theman. Erat autem soror Lotham, Thamna.
+**23** Et isti filii Sobal: Alvam et Maneeth et Ebal, Sephi et Onam.
+**24** Et hi filii Sebeon: Ahaia et Anam. Iste est Ana qui invenit aquas calidas in solitudine, cum pasceret asinos Sebeon patris sui:
 **25** habuitque filium Disan, et filiam Oolibama.
 **26** Et isti filii Disan: Hamdan, et Esban et Iethran, et Charan.
 **27** Hi quoque filii Eser: Balaan, et Zeban et Acham.
@@ -67,7 +76,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **30** dux Dison, dux Eser, dux Disan: isti duces Horræorum qui imperaverunt in terra Seir.
 **31** Reges autem qui regnaverunt in terra Edom antequam haberent regem filii Israël, fuerunt hi:
 **32** Bale filius Beor, nomenque urbis ejus Denaba.
-**33** Mortuus est autem Balae, et regnavit pro eo Jobab filius Zara de Bosra.
+**33** Mortuus est autem Balæ, et regnavit pro eo Jobab filius Zara de Bosra.
 **34** Cumque mortuus esset Jobab, regnavit pro eo Husan de terra Themanorum.
 **35** Hoc quoque mortuo, regnavit pro eo Adad filius Badadi, qui percussit Mazian in regione Moab: et nomen urbis ejus Avith.
 **36** Cumque mortuus esset Adad, regnavit pro eo Semla de Masereca.
@@ -177,7 +186,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ejus.` over `eius` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 36:11
-- **Apparatus:** `filii Eliphaz` Amiatinus (A) **]** **Eliphaz filii** Clem1598-USFX Clem-Saints ; **filii:** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `filii Eliphaz` Amiatinus (A) **]** **Eliphaz filii** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `Sephu` Amiatinus (A) **]** **Sepho** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
@@ -190,7 +199,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Cenez.` over `cenez` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 36:12
-- **Apparatus:** `Adae` Amiatinus (A) **]** **Ada** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
+- **Apparatus:** `Adæ` Amiatinus (A) **]** **Ada** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Erat` over `erat` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -247,7 +256,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `Gatham` Amiatinus (A) **]** **Gathan** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
-- **Apparatus:** `Adae` Amiatinus (A) **]** **Ada** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
+- **Apparatus:** `Adæ` Amiatinus (A) **]** **Ada** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Core,` over `core` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -333,7 +342,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Edom.` over `edom` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 36:22
-- **Apparatus:** `Lotham horrei et theman` Amiatinus (A) **]** **Lotan Hori et Heman** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
+- **Apparatus:** `Lotham Horrei et Theman` Amiatinus (A) **]** **Lotan Hori et Heman** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `Lotham` Amiatinus (A) **]** **Lotan** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
@@ -344,7 +353,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Thamna.` over `thamna` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 36:23
-- **Apparatus:** `aluam et Maneeth` Amiatinus (A) **]** **Alvan et Manahat** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
+- **Apparatus:** `Alvam et Maneeth` Amiatinus (A) **]** **Alvan et Manahat** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `Sephi` Amiatinus (A) **]** **et Sepho** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
@@ -356,7 +365,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Onam.` over `onam` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 36:24
-- **Apparatus:** `ahaia et Anam` Amiatinus (A) **]** **Aja et Ana** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
+- **Apparatus:** `Ahaia et Anam` Amiatinus (A) **]** **Aja et Ana** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `asinos` Amiatinus (A) Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **asinas** VulgSistina (1590)
@@ -436,7 +445,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Denaba.` over `denaba` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 36:33
-- **Apparatus:** `Balae` Amiatinus (A) **]** **Bela** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
+- **Apparatus:** `Balæ` Amiatinus (A) **]** **Bela** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `Zara` Amiatinus (A) **]** **Zaræ** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
@@ -671,14 +680,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 12 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Erat autem Thamna concubina Eliphaz filii Esau: quæ peperit ei Amalech. Hi sunt filii Adae uxoris Esau.
+- **Critical Text:** Erat autem Thamna concubina Eliphaz filii Esau: quæ peperit ei Amalech. Hi sunt filii Adæ uxoris Esau.
   - `Clem1598-USFX`: Erat autem Thamna concubina Eliphaz filii Esau: quæ peperit ei Amalech. Hi sunt filii Ada uxoris Esau.
   - `Clem-Saints`: Erat autem Thamna concubina Eliphaz filii Esau: quæ peperit ei Amalech. Hi sunt filii Ada uxoris Esau.
   - `Amiatinus (A)`: erat autem thamna concubina eliphaz filii esau quae peperit ei amalech hii sunt filii adae uxoris esau
   - `VulgHetzenauer (1906)`: Erat autem Thamna, concubina Eliphaz filii Esau: quæ peperit ei Amalech. hi sunt filii Ada uxoris Esau.
   - `VulgConte (2009)`: Erat autem Thamna, concubina Eliphaz filii Esau: quæ peperit ei Amalech. Hi sunt filii Ada uxoris Esau.
   - `VulgSistina (1590)`: Erat autem Thamna, concubina Eliphaz filii Esau: quae peperit ei Amalech. hi sunt filii Ada uxoris Esau.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Adae' [Amiatinus (A)] (weight 0.97, confidence 53%) over Ada (Clem1598-USFX, Clem-Saints). Also normalised 8 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Adæ' [Amiatinus (A)] (weight 0.97, confidence 53%) over Ada (Clem1598-USFX, Clem-Saints). Also normalised 8 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 13 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -715,14 +724,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 16 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** dux Core, dux Gatham, dux Amalech. Hi filii Eliphaz in terra Edom, et hi filii Adae.
+- **Critical Text:** dux Core, dux Gatham, dux Amalech. Hi filii Eliphaz in terra Edom, et hi filii Adæ.
   - `Clem1598-USFX`: dux Core, dux Gathan, dux Amalech. Hi filii Eliphaz in terra Edom, et hi filii Ada.
   - `Clem-Saints`: dux Core, dux Gathan, dux Amalech. Hi filii Eliphaz in terra Edom, et hi filii Ada.
   - `Amiatinus (A)`: dux core dux gatham dux amalech hii filii eliphaz in terra edom et hii filii adae
   - `VulgHetzenauer (1906)`: dux Core, dux Gathan, dux Amalech. hi filii Eliphaz in terra Edom, et hi filii Ada.
   - `VulgConte (2009)`: dux Core, dux Gathan, dux Amalech. Hi filii Eliphaz in terra Edom, et hi filii Ada.
   - `VulgSistina (1590)`: dux Core, dux Gathan, dux Amalech. hi filii Eliphaz in terra Edom, et hi filii Ada.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Gatham' [Amiatinus (A)] (weight 0.97, confidence 53%) over Gathan (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'Adae' [Amiatinus (A)] (weight 0.97, confidence 53%) over Ada (Clem1598-USFX, Clem-Saints). Also normalised 6 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Gatham' [Amiatinus (A)] (weight 0.97, confidence 53%) over Gathan (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'Adæ' [Amiatinus (A)] (weight 0.97, confidence 53%) over Ada (Clem1598-USFX, Clem-Saints). Also normalised 6 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 17 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -781,36 +790,36 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 22 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Facti sunt autem filii Lotham horrei et theman. Erat autem soror Lotham, Thamna.
+- **Critical Text:** Facti sunt autem filii Lotham Horrei et Theman. Erat autem soror Lotham, Thamna.
   - `Clem1598-USFX`: Facti sunt autem filii Lotan: Hori et Heman. Erat autem soror Lotan, Thamna.
   - `Clem-Saints`: Facti sunt autem filii Lotan: Hori et Heman. Erat autem soror Lotan, Thamna.
-  - `Amiatinus (A)`: facti sunt autem filii lotham horrei et theman erat autem soror lotham thamna […]
+  - `Amiatinus (A)`: facti sunt autem filii lotham horrei et theman erat autem soror lotham thamna
   - `VulgHetzenauer (1906)`: Facti sunt autem filii Lotan: Hori et Heman. erat autem soror Lotan, Thamna.
   - `VulgConte (2009)`: Facti sunt autem filii Lotan: Hori et Heman. Erat autem soror Lotan, Thamna.
   - `VulgSistina (1590)`: Facti sunt autem filii Lotan: Hori et Heman. erat autem soror Lotan, Thamna.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'Lotham horrei et theman' [Amiatinus (A)] (weight 0.97, confidence 53%) over Lotan Hori et Heman (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'Lotham' [Amiatinus (A)] (weight 0.97, confidence 53%) over Lotan (Clem1598-USFX, Clem-Saints). Also normalised 3 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'Lotham Horrei et Theman' [Amiatinus (A)] (weight 0.97, confidence 53%) over Lotan Hori et Heman (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'Lotham' [Amiatinus (A)] (weight 0.97, confidence 53%) over Lotan (Clem1598-USFX, Clem-Saints). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 23 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et isti filii Sobal: aluam et Maneeth et Ebal, Sephi et Onam.
+- **Critical Text:** Et isti filii Sobal: Alvam et Maneeth et Ebal, Sephi et Onam.
   - `Clem1598-USFX`: Et isti filii Sobal: Alvan et Manahat et Ebal, et Sepho et Onam.
   - `Clem-Saints`: Et isti filii Sobal: Alvan et Manahat et Ebal, et Sepho et Onam.
   - `Amiatinus (A)`: et isti filii sobal aluam et maneeth et hebal sephi et onam
   - `VulgHetzenauer (1906)`: Et isti filii Sobal: Alvan et Manahat et Ebal, et Sepho et Onam.
   - `VulgConte (2009)`: Et isti filii Sobal: Alvan et Manahat et Ebal, et Sepho et Onam.
   - `VulgSistina (1590)`: Et isti filii Sobal: Alvan et Manahat et Ebal, et Sepho et Onam.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'aluam et Maneeth' [Amiatinus (A)] (weight 0.97, confidence 53%) over Alvan et Manahat (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'Sephi' [Amiatinus (A)] (weight 0.97, confidence 53%) over et Sepho (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'Alvam et Maneeth' [Amiatinus (A)] (weight 0.97, confidence 53%) over Alvan et Manahat (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'Sephi' [Amiatinus (A)] (weight 0.97, confidence 53%) over et Sepho (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 24 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et hi filii Sebeon: ahaia et Anam. Iste est Ana qui invenit aquas calidas in solitudine, cum pasceret asinos Sebeon patris sui:
+- **Critical Text:** Et hi filii Sebeon: Ahaia et Anam. Iste est Ana qui invenit aquas calidas in solitudine, cum pasceret asinos Sebeon patris sui:
   - `Clem1598-USFX`: Et hi filii Sebeon: Aja et Ana. Iste est Ana qui invenit aquas calidas in solitudine, cum pasceret asinos Sebeon patris sui:
   - `Clem-Saints`: Et hi filii Sebeon: Aja et Ana. Iste est Ana qui invenit aquas calidas in solitudine, cum pasceret asinos Sebeon patris sui:
   - `Amiatinus (A)`: et hii filii sebeon ahaia et anam iste est ana qui inuenit aquas calidas in solitudine cum pasceret asinos sebeon patris sui
   - `VulgHetzenauer (1906)`: Et hi filii Sebeon: Aia et Ana. Iste est Ana qui invenit aquas calidas in solitudine, cum pasceret asinos Sebeon patris sui:
   - `VulgConte (2009)`: Et hi filii Sebeon: Aia et Ana. Iste est Ana qui invenit aquas calidas in solitudine, cum pasceret asinos Sebeon patris sui:
   - `VulgSistina (1590)`: Et hi filii Sebeon: Aia et Ana. Iste est Ana qui invenit aquas calidas in solitudine, cum pasceret asinas Sebeon patris sui:
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'ahaia et Anam' [Amiatinus (A)] (weight 0.97, confidence 53%) over Aja et Ana (Clem1598-USFX, Clem-Saints). Also normalised 9 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'Ahaia et Anam' [Amiatinus (A)] (weight 0.97, confidence 53%) over Aja et Ana (Clem1598-USFX, Clem-Saints). Also normalised 9 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 25 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -900,14 +909,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 33 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Mortuus est autem Balae, et regnavit pro eo Jobab filius Zara de Bosra.
+- **Critical Text:** Mortuus est autem Balæ, et regnavit pro eo Jobab filius Zara de Bosra.
   - `Clem1598-USFX`: Mortuus est autem Bela, et regnavit pro eo Jobab filius Zaræ de Bosra.
   - `Clem-Saints`: Mortuus est autem Bela, et regnavit pro eo Jobab filius Zaræ de Bosra.
   - `Amiatinus (A)`: mortuus est autem balae et regnauit pro eo iobab filius zara de bosra
   - `VulgHetzenauer (1906)`: Mortuus est autem Bela, et regnavit pro eo Iobab filius Zaræ de Bosra.
   - `VulgConte (2009)`: Mortuus est autem Bela, et regnavit pro eo Iobab filius Zaræ de Bosra.
   - `VulgSistina (1590)`: Mortuus est autem Bela, et regnavit pro eo Iobab filius Zarae de Bosra.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Balae' [Amiatinus (A)] (weight 0.97, confidence 53%) over Bela (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'Zara' [Amiatinus (A)] (weight 0.97, confidence 53%) over Zaræ (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Balæ' [Amiatinus (A)] (weight 0.97, confidence 53%) over Bela (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'Zara' [Amiatinus (A)] (weight 0.97, confidence 53%) over Zaræ (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 34 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)

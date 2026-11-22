@@ -7,7 +7,7 @@
   "usfm_code": "MAT",
   "chapter": 1,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:18:20Z",
+  "updated_at": "2026-11-22T08:01:42Z",
   "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
   "versification_anchor": "Clem-Saints",
   "orthographic_base": "Clem1598-USFX",
@@ -37,6 +37,13 @@
       "role": "apparatus only (recorded, not voting)"
     },
     {
+      "siglum": "Amiatinus (A)",
+      "title": "Codex Amiatinus — Digital Latin Library TEI transcription (Full 27-Book NT)",
+      "tier": 2,
+      "license": "CC BY-SA 4.0 (Digital Latin Library transcription)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
       "siglum": "VulgConte (2009)",
       "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
       "tier": 3,
@@ -62,12 +69,15 @@
         "Clem1598-USFX": "Liber generationis Jesu Christi filii David, filii Abraham.",
         "Clem-Saints": "Liber generationis Jesu Christi filii David, filii Abraham.",
         "VulgHetzenauer (1906)": "Liber generationis Iesu Christi filii David, filii Abraham.",
+        "Amiatinus (A)": "Liber generationis iesu christi filii dauid filii abraham",
         "VulgConte (2009)": "Liber generationis Iesu Christi filii David, filii Abraham.",
         "VulgSistina (1590)": "Liber generationis Iesu Christi filii David, filii Abraham."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -89,12 +99,15 @@
         "Clem1598-USFX": "Abraham genuit Isaac. Isaac autem genuit Jacob. Jacob autem genuit Judam, et fratres ejus.",
         "Clem-Saints": "Abraham genuit Isaac. Isaac autem genuit Jacob. Jacob autem genuit Judam, et fratres ejus.",
         "VulgHetzenauer (1906)": "Abraham genuit Isaac. Isaac autem genuit Iacob. Iacob autem genuit Iudam, et fratres eius.",
+        "Amiatinus (A)": "abraham genuit isaac isaac autem genuit iacob iacob autem genuit iudam et fratres eius",
         "VulgConte (2009)": "Abraham genuit Isaac. Isaac autem genuit Iacob. Iacob autem genuit Iudam, et fratres eius.",
         "VulgSistina (1590)": "Abraham genuit Isaac. Isaac autem genuit Iacob. Iacob autem genuit Iudam, et fratres eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -116,17 +129,79 @@
         "Clem1598-USFX": "Judas autem genuit Phares, et Zaram de Thamar. Phares autem genuit Esron. Esron autem genuit Aram.",
         "Clem-Saints": "Judas autem genuit Phares, et Zaram de Thamar. Phares autem genuit Esron. Esron autem genuit Aram.",
         "VulgHetzenauer (1906)": "Iudas autem genuit Phares, et Zaram de Thamar. Phares autem genuit Esron. Esron autem genuit Aram.",
+        "Amiatinus (A)": "iudas autem genuit phares et zarad de thamar phares autem genuit esrom esrom autem genuit aram",
         "VulgConte (2009)": "Iudas autem genuit Phares, et Zaram de Thamar. Phares autem genuit Esron. Esron autem genuit Aram.",
         "VulgSistina (1590)": "Iudas autem genuit Phares, et Zaram de Thamar. Phares autem genuit Esron. Esron autem genuit Aram."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Zaram",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "zarad",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "zaram",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "Esron. Esron",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "esrom esrom",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 11,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "esron esron",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -143,12 +218,15 @@
         "Clem1598-USFX": "Aram autem genuit Aminadab. Aminadab autem genuit Naasson. Naasson autem genuit Salmon.",
         "Clem-Saints": "Aram autem genuit Aminadab. Aminadab autem genuit Naasson. Naasson autem genuit Salmon.",
         "VulgHetzenauer (1906)": "Aram autem genuit Aminadab. Aminadab autem genuit Naasson. Naasson autem genuit Salmon.",
+        "Amiatinus (A)": "aram autem genuit aminadab aminadab autem genuit naasson naasson autem genuit salmon",
         "VulgConte (2009)": "Aram autem genuit Aminadab. Aminadab autem genuit Naasson. Naasson autem genuit Salmon.",
         "VulgSistina (1590)": "Aram autem genuit Aminadab. Aminadab autem genuit Naasson. Naasson autem genuit Salmon."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -170,12 +248,15 @@
         "Clem1598-USFX": "Salmon autem genuit Booz de Rahab. Booz autem genuit Obed ex Ruth. Obed autem genuit Jesse. Jesse autem genuit David regem.",
         "Clem-Saints": "Salmon autem genuit Booz de Rahab. Booz autem genuit Obed ex Ruth. Obed autem genuit Jesse. Jesse autem genuit David regem.",
         "VulgHetzenauer (1906)": "Salmon autem genuit Booz de Rahab. Booz autem genuit Obed ex Ruth. Obed autem genuit Iesse. Iesse autem genuit David regem.",
+        "Amiatinus (A)": "salmon autem genuit booz de racab Booz genuit obeth ex ruth obed autem genuit iesse iesse autem genuit dauid regem",
         "VulgConte (2009)": "Salmon autem genuit Booz de Rahab. Booz autem genuit Obed ex Ruth. Obed autem genuit Iesse.",
         "VulgSistina (1590)": "Salmon autem genuit Booz de Rahab. Booz autem genuit Obed ex Ruth. Obed autem genuit Iesse. Iesse autem genuit David regem."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -183,10 +264,98 @@
       "apparatus": [
         {
           "slot_index": -1,
+          "lemma": "Rahab.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "racab",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "rahab",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "autem",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "autem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "Obed",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "obeth",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 9,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "obed",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
           "lemma": "Jesse autem genuit David regem.",
           "lemma_witnesses": [
             "Clem-Saints",
             "Clem1598-USFX",
+            "Amiatinus (A)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
           ],
@@ -199,7 +368,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 16,
           "word_count": 5,
           "kind": "word",
@@ -226,12 +395,15 @@
         "Clem1598-USFX": "David autem rex genuit Salomonem ex ea quæ fuit Uriæ.",
         "Clem-Saints": "David autem rex genuit Salomonem ex ea quæ fuit Uriæ.",
         "VulgHetzenauer (1906)": "David autem rex genuit Salomonem ex ea, quæ fuit Uriæ.",
+        "Amiatinus (A)": "dauid autem rex genuit salomonem ex ea quae fuit uriae",
         "VulgConte (2009)": "Iesse autem genuit David regem. David autem rex genuit Salomonem ex ea, quæ fuit Uriæ.",
         "VulgSistina (1590)": "David autem rex genuit Salomonem ex ea, quae fuit Uriae."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -243,6 +415,7 @@
           "lemma_witnesses": [
             "Clem-Saints",
             "Clem1598-USFX",
+            "Amiatinus (A)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
           ],
@@ -255,7 +428,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 0,
           "word_count": 0,
           "kind": "word",
@@ -282,17 +455,50 @@
         "Clem1598-USFX": "Salomon autem genuit Roboam. Roboam autem genuit Abiam. Abias autem genuit Asa.",
         "Clem-Saints": "Salomon autem genuit Roboam. Roboam autem genuit Abiam. Abias autem genuit Asa.",
         "VulgHetzenauer (1906)": "Salomon autem genuit Roboam. Roboam autem genuit Abiam. Abias autem genuit Asa.",
+        "Amiatinus (A)": "salomon autem genuit roboam roboam autem genuit abiam abia autem genuit asa",
         "VulgConte (2009)": "Salomon autem genuit Roboam. Roboam autem genuit Abiam. Abias autem genuit Asa.",
         "VulgSistina (1590)": "Salomon autem genuit Roboam. Roboam autem genuit Abiam. Abias autem genuit Asa."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Abias",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "abia",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "abias",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -309,12 +515,15 @@
         "Clem1598-USFX": "Asa autem genuit Josophat. Josophat autem genuit Joram. Joram autem genuit Oziam.",
         "Clem-Saints": "Asa autem genuit Josophat. Josophat autem genuit Joram. Joram autem genuit Oziam.",
         "VulgHetzenauer (1906)": "Asa autem genuit Iosophat. Iosophat autem genuit Ioram. Ioram autem genuit Oziam.",
+        "Amiatinus (A)": "asa autem genuit iosaphat iosaphat autem genuit ioram ioram autem genuit oziam",
         "VulgConte (2009)": "Asa autem genuit Iosophat. Iosophat autem genuit Ioram. Ioram autem genuit Oziam.",
         "VulgSistina (1590)": "Asa autem genuit Iosaphat. Iosaphat autem genuit Ioram. Ioram autem genuit Oziam."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -331,14 +540,15 @@
           ],
           "variants": [
             {
-              "reading": "Iosaphat. Iosaphat",
+              "reading": "iosaphat iosaphat",
               "witnesses": [
+                "Amiatinus (A)",
                 "VulgSistina (1590)"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 3,
           "word_count": 2,
           "kind": "word",
@@ -365,12 +575,15 @@
         "Clem1598-USFX": "Ozias autem genuit Joatham. Joatham autem genuit Achaz. Achaz autem genuit Ezechiam.",
         "Clem-Saints": "Ozias autem genuit Joatham. Joatham autem genuit Achaz. Achaz autem genuit Ezechiam.",
         "VulgHetzenauer (1906)": "Ozias autem genuit Ioatham. Ioatham autem genuit Achaz. Achaz autem genuit Ezechiam.",
+        "Amiatinus (A)": "ozias autem genuit ioatham ioatham autem genuit achaz achaz autem genuit ezechiam",
         "VulgConte (2009)": "Ozias autem genuit Ioatham. Ioatham autem genuit Achaz. Achaz autem genuit Ezechiam.",
         "VulgSistina (1590)": "Ozias autem genuit Ioatham. Ioatham autem genuit Achaz. Achaz autem genuit Ezechiam."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -392,12 +605,15 @@
         "Clem1598-USFX": "Ezechias autem genuit Manassen. Manasses autem genuit Amon. Amon autem genuit Josiam.",
         "Clem-Saints": "Ezechias autem genuit Manassen. Manasses autem genuit Amon. Amon autem genuit Josiam.",
         "VulgHetzenauer (1906)": "Ezechias autem genuit Manassen. Manasses autem genuit Amon. Amon autem genuit Iosiam.",
+        "Amiatinus (A)": "ezechias autem genuit manassen manasses autem genuit amon amon autem genuit iosiam",
         "VulgConte (2009)": "Ezechias autem genuit Manassen. Manasses autem genuit Amon. Amon autem genuit Iosiam.",
         "VulgSistina (1590)": "Ezechias autem genuit Manassen. Manasses autem genuit Amon. Amon autem genuit Iosiam."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -419,17 +635,50 @@
         "Clem1598-USFX": "Josias autem genuit Jechoniam, et fratres ejus in transmigratione Babylonis.",
         "Clem-Saints": "Josias autem genuit Jechoniam, et fratres ejus in transmigratione Babylonis.",
         "VulgHetzenauer (1906)": "Iosias autem genuit Iechoniam, et fratres eius in transmigratione Babylonis.",
+        "Amiatinus (A)": "iosias autem genuit iechoniam et fratres eius in transmigrationem babylonis",
         "VulgConte (2009)": "Iosias autem genuit Iechoniam, et fratres eius in transmigratione Babylonis.",
         "VulgSistina (1590)": "Iosias autem genuit Iechoniam, et fratres eius in transmigratione Babylonis."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "transmigratione",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "transmigrationem",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "transmigratione",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -446,18 +695,35 @@
         "Clem1598-USFX": "Et post transmigrationem Babylonis: Jechonias genuit Salathiel. Salathiel autem genuit Zorobabel.",
         "Clem-Saints": "Et post transmigrationem Babylonis: Jechonias genuit Salathiel. Salathiel autem genuit Zorobabel.",
         "VulgHetzenauer (1906)": "Et post transmigrationem Babylonis: Iechonias genuit Salathiel. Salathiel autem genuit Zorobabel.",
+        "Amiatinus (A)": "et post transmigrationem babylonis iechonias genuit salathihel salathihel autem genuit zorobabel",
         "VulgConte (2009)": "Et post transmigrationem Babylonis: Iechonias genuit Salathiel. Salathiel autem genuit Zorobabel.",
         "VulgSistina (1590)": "Et post transmigrationem Babylonis: Iechonias genuit Salathiel. Salathiel autem genuit Zorobabel."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
+        "VL 5 (d)",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
-      "disregarded": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Salathiel. Salathiel / salathihel salathihel",
+            "Salathiel. Salathiel / Salathihel Salathihel"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -473,12 +739,16 @@
         "Clem1598-USFX": "Zorobabel autem genuit Abiud. Abiud autem genuit Eliacim. Eliacim autem genuit Azor.",
         "Clem-Saints": "Zorobabel autem genuit Abiud. Abiud autem genuit Eliacim. Eliacim autem genuit Azor.",
         "VulgHetzenauer (1906)": "Zorobabel autem genuit Abiud. Abiud autem genuit Eliacim. Eliacim autem genuit Azor.",
+        "Amiatinus (A)": "zorobabel autem genuit abiud abiud autem genuit eliachim eliachim autem genuit azor",
         "VulgConte (2009)": "Zorobabel autem genuit Abiud. Abiud autem genuit Eliacim. Eliacim autem genuit Azor.",
         "VulgSistina (1590)": "Zorobabel autem genuit Abiud. Abiud autem genuit Eliachim. Eliachim autem genuit Azor."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
+        "VL 5 (d)",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -489,9 +759,12 @@
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "Eliacim. Eliacim / eliachim eliachim",
+            "Eliacim. Eliacim / Eliachim Eliachim",
             "Eliacim. Eliacim / Eliachim. Eliachim"
           ],
           "witnesses": [
+            "Amiatinus (A)",
             "VulgSistina (1590)"
           ],
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
@@ -512,18 +785,35 @@
         "Clem1598-USFX": "Azor autem genuit Sadoc. Sadoc autem genuit Achim. Achim autem genuit Eliud.",
         "Clem-Saints": "Azor autem genuit Sadoc. Sadoc autem genuit Achim. Achim autem genuit Eliud.",
         "VulgHetzenauer (1906)": "Azor autem genuit Sadoc. Sadoc autem genuit Achim. Achim autem genuit Eliud.",
+        "Amiatinus (A)": "azor autem genuit saddoc saddoc autem genuit achim achim autem genuit eliud",
         "VulgConte (2009)": "Azor autem genuit Sadoc. Sadoc autem genuit Achim. Achim autem genuit Eliud.",
         "VulgSistina (1590)": "Azor autem genuit Sadoc. Sadoc autem genuit Achim. Achim autem genuit Eliud."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
+        "VL 5 (d)",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
-      "disregarded": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Sadoc. Sadoc / saddoc saddoc",
+            "Sadoc. Sadoc / Saddoc Saddoc"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -539,17 +829,51 @@
         "Clem1598-USFX": "Eliud autem genuit Eleazar. Eleazar autem genuit Mathan. Mathan autem genuit Jacob.",
         "Clem-Saints": "Eliud autem genuit Eleazar. Eleazar autem genuit Mathan. Mathan autem genuit Jacob.",
         "VulgHetzenauer (1906)": "Eliud autem genuit Eleazar. Eleazar autem genuit Mathan. Mathan autem genuit Iacob.",
+        "Amiatinus (A)": "eliud autem genuit eleazar eleazar autem genuit matthan mattham autem genuit iacob",
         "VulgConte (2009)": "Eliud autem genuit Eleazar. Eleazar autem genuit Mathan. Mathan autem genuit Iacob.",
         "VulgSistina (1590)": "Eliud autem genuit Eleazar. Eleazar autem genuit Mathan. Mathan autem genuit Iacob."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
+        "VL 5 (d)",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Mathan. Mathan",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "matthan mattham",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "mathan mathan",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -566,12 +890,16 @@
         "Clem1598-USFX": "Jacob autem genuit Joseph virum Mariæ, de qua natus est Jesus, qui vocatur Christus.",
         "Clem-Saints": "Jacob autem genuit Joseph virum Mariæ, de qua natus est Jesus, qui vocatur Christus.",
         "VulgHetzenauer (1906)": "Iacob autem genuit Ioseph virum Mariæ, de qua natus est Iesus, qui vocatur Christus.",
+        "Amiatinus (A)": "iacob autem genuit ioseph uirum mariae de qua natus est iesus qui uocatur christus",
         "VulgConte (2009)": "Iacob autem genuit Ioseph virum Mariæ, de qua natus est Iesus, qui vocatur Christus.",
         "VulgSistina (1590)": "Iacob autem genuit Ioseph virum Mariae, de qua natus est Iesus, qui vocatur Christus."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
+        "VL 5 (d)",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -593,12 +921,16 @@
         "Clem1598-USFX": "Omnes itaque generationes ab Abraham usque ad David, generationes quatuordecim: et a David usque ad transmigrationem Babylonis, generationes quatuordecim: et a transmigratione Babylonis usque ad Christum, generationes quatuordecim.",
         "Clem-Saints": "Omnes itaque generationes ab Abraham usque ad David, generationes quatuordecim: et a David usque ad transmigrationem Babylonis, generationes quatuordecim: et a transmigratione Babylonis usque ad Christum, generationes quatuordecim.",
         "VulgHetzenauer (1906)": "Omnes itaque generationes ab Abraham usque ad David, generationes quattuordecim: et a David usque ad transmigrationem Babylonis, generationes quattuordecim: et a transmigratione Bayblonis usque ad Christum, generationes quattuordecim.",
+        "Amiatinus (A)": "Omnes ergo generationes ab abraham usque ad dauid generationes quattuordecim et a dauid usque […] transmigrationem babylonis generationes quattuordecim et a transmigratione babylonis usque ad christum generationes quattuordecim",
         "VulgConte (2009)": "Omnes itaque generationes ab Abraham usque ad David, generationes quattuordecim: et a David usque ad transmigrationem Babylonis, generationes quattuordecim: et a transmigratione Bayblonis usque ad Christum, generationes quattuordecim.",
         "VulgSistina (1590)": "Omnes itaque generationes ab Abraham usque ad David, generationes quattuordecim: et a David usque ad transmigrationem Babylonis, generationes quattuordecim: et a transmigratione Babylonis usque ad Christum, generationes quattuordecim."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
+        "VL 5 (d)",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -606,10 +938,40 @@
       "apparatus": [
         {
           "slot_index": -1,
+          "lemma": "itaque",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "ergo",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "itaque",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
           "lemma": "Babylonis",
           "lemma_witnesses": [
             "Clem-Saints",
             "Clem1598-USFX",
+            "Amiatinus (A)",
             "VulgSistina (1590)"
           ],
           "variants": [
@@ -622,7 +984,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 22,
           "word_count": 1,
           "kind": "word",
@@ -638,17 +1000,22 @@
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "quatuordecim: / quattuordecim",
+            "quatuordecim: / quattuordecim",
+            "quatuordecim. / quattuordecim",
+            "quatuordecim: / quattuordecim",
+            "quatuordecim: / quattuordecim",
+            "quatuordecim. / quattuordecim",
             "quatuordecim: / quattuordecim:",
             "quatuordecim: / quattuordecim:",
             "quatuordecim. / quattuordecim.",
             "quatuordecim: / quattuordecim:",
             "quatuordecim: / quattuordecim:",
             "quatuordecim. / quattuordecim.",
-            "quatuordecim: / quattuordecim:",
-            "quatuordecim: / quattuordecim:",
-            "quatuordecim. / quattuordecim."
+            "… and 3 more"
           ],
           "witnesses": [
+            "Amiatinus (A)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -671,12 +1038,16 @@
         "Clem1598-USFX": "Christi autem generatio sic erat: cum esset desponsata mater ejus Maria Joseph, antequam convenirent inventa est in utero habens de Spiritu Sancto.",
         "Clem-Saints": "Christi autem generatio sic erat: cum esset desponsata mater ejus Maria Joseph, antequam convenirent inventa est in utero habens de Spiritu Sancto.",
         "VulgHetzenauer (1906)": "Christi autem generatio sic erat: Cum esset desponsata mater eius Maria Ioseph, antequam convenirent, inventa est in utero habens de Spiritu sancto.",
+        "Amiatinus (A)": "Christi autem generatio sic erat cum esset desponsata mater eius maria ioseph antequam conuenirent inuenta est in utero habens de spiritu sancto",
         "VulgConte (2009)": "Christi autem generatio sic erat: Cum esset desponsata mater eius Maria Ioseph, antequam convenirent, inventa est in utero habens de Spiritu Sancto.",
         "VulgSistina (1590)": "Christi autem generatio sic erat: Cum esset desponsata mater eius Maria Ioseph, antequam convenirent, inventa est in utero habens de Spiritu sancto."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
+        "VL 5 (d)",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -698,12 +1069,16 @@
         "Clem1598-USFX": "Joseph autem vir ejus cum esset justus, et nollet eam traducere, voluit occulte dimittere eam.",
         "Clem-Saints": "Joseph autem vir ejus cum esset justus, et nollet eam traducere, voluit occulte dimittere eam.",
         "VulgHetzenauer (1906)": "Ioseph autem vir eius cum esset iustus, et nollet eam traducere: voluit occulte dimittere eam.",
+        "Amiatinus (A)": "Ioseph autem uir eius cum esset iustus et nollet eam traducere uoluit occulte dimittere eam",
         "VulgConte (2009)": "Ioseph autem vir eius cum esset iustus, et nollet eam traducere: voluit occulte dimittere eam.",
         "VulgSistina (1590)": "Ioseph autem vir eius cum esset iustus, et nollet eam traducere: voluit occulte dimittere eam."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
+        "VL 5 (d)",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -725,18 +1100,64 @@
         "Clem1598-USFX": "Hæc autem eo cogitante, ecce angelus Domini apparuit in somnis ei, dicens: Joseph, fili David, noli timere accipere Mariam conjugem tuam: quod enim in ea natum est, de Spiritu Sancto est.",
         "Clem-Saints": "Hæc autem eo cogitante, ecce angelus Domini apparuit in somnis ei, dicens: Joseph, fili David, noli timere accipere Mariam conjugem tuam: quod enim in ea natum est, de Spiritu Sancto est.",
         "VulgHetzenauer (1906)": "Hæc autem eo cogitante, ecce Angelus Domini apparuit in somnis ei, dicens: Ioseph fili David, noli timere accipere Mariam coniugem tuam: quod enim in ea natum est, de Spiritu sancto est.",
+        "Amiatinus (A)": "haec autem eo cogitante ecce angelus domini in somnis […] ei dicens ioseph filii dauid noli timere accipere mariam coniugem tuam quod enim in ea natum est de spiritu sancto est",
         "VulgConte (2009)": "Hæc autem eo cogitante, ecce Angelus Domini apparuit in somnis ei, dicens: Ioseph fili David, noli timere accipere Mariam coniugem tuam: quod enim in ea natum est, de Spiritu Sancto est.",
         "VulgSistina (1590)": "Haec autem eo cogitante, ecce Angelus Domini apparuit in somnis ei, dicens: Ioseph fili David, noli timere accipere Mariam coniugem tuam: quod enim in ea natum est, de Spiritu sancto est."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
+        "VL 5 (d)",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
-      "disregarded": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "apparuit",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "apparuit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "fili / filii"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -752,12 +1173,16 @@
         "Clem1598-USFX": "Pariet autem filium: et vocabis nomen ejus Jesum: ipse enim salvum faciet populum suum a peccatis eorum.",
         "Clem-Saints": "Pariet autem filium: et vocabis nomen ejus Jesum: ipse enim salvum faciet populum suum a peccatis eorum.",
         "VulgHetzenauer (1906)": "pariet autem filium: et vocabis nomen eius IESUM: ipse enim salvum faciet populum suum a peccatis eorum.",
+        "Amiatinus (A)": "pariet autem filium et uocabis nomen eius iesum ipse enim saluum faciet populum suum a peccatis eorum",
         "VulgConte (2009)": "Pariet autem filium: et vocabis nomen eius IESUM: ipse enim salvum faciet populum suum a peccatis eorum.",
         "VulgSistina (1590)": "pariet autem filium: et vocabis nomen eius IESUM: ipse enim salvum faciet populum suum a peccatis eorum."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
+        "VL 5 (d)",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -779,17 +1204,80 @@
         "Clem1598-USFX": "Hoc autem totum factum est, ut adimpleretur quod dictum est a Domino per prophetam dicentem:",
         "Clem-Saints": "Hoc autem totum factum est, ut adimpleretur quod dictum est a Domino per prophetam dicentem:",
         "VulgHetzenauer (1906)": "Hoc autem totum factum est, ut adimpleretur quod dictum est a Domino per Prophetam dicentem:",
+        "Amiatinus (A)": "hoc autem totum factum est ut adimpleretur id quod dictum est a domino per prophetam dicentem",
         "VulgConte (2009)": "Hoc autem totum factum est, ut adimpleretur quod dictum est a Domino per prophetam dicentem:",
         "VulgSistina (1590)": "Hoc autem totum factum est, ut adimpleretur quod dictum est a Domino per Prophetam dicentem:"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
+        "VL 5 (d)",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "adimpleretur",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "adimpleretur id",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "adimpleretur",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "id",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -806,12 +1294,16 @@
         "Clem1598-USFX": "Ecce virgo in utero habebit, et pariet filium: et vocabunt nomen ejus Emmanuel, quod est interpretatum Nobiscum Deus.",
         "Clem-Saints": "Ecce virgo in utero habebit, et pariet filium: et vocabunt nomen ejus Emmanuel, quod est interpretatum Nobiscum Deus.",
         "VulgHetzenauer (1906)": "Ecce virgo in utero habebit, et pariet filium. et vocabunt nomen eius Emmanuel, quod est interpretatum Nobiscum Deus.",
+        "Amiatinus (A)": "Ecce uirgo in utero habebit et pariet filium et uocabunt nomen eius emmanuhel quod est interpretatum nobiscum deus",
         "VulgConte (2009)": "Ecce virgo in utero habebit, et pariet filium. Et vocabunt nomen eius Emmanuel, quod est interpretatum Nobiscum Deus.",
         "VulgSistina (1590)": "Ecce virgo in utero habebit, et pariet filium: et vocabitur nomen eius Emmanuel, quod est interpretatum Nobiscum Deus."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
+        "VL 5 (d)",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -823,6 +1315,7 @@
           "lemma_witnesses": [
             "Clem-Saints",
             "Clem1598-USFX",
+            "Amiatinus (A)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
           ],
@@ -835,7 +1328,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 9,
           "word_count": 1,
           "kind": "word",
@@ -846,7 +1339,21 @@
           "credited_witnesses": []
         }
       ],
-      "disregarded": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Emmanuel, / emmanuhel",
+            "Emmanuel, / Emmanuhel",
+            "interpretatum / interpraetatum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -862,12 +1369,16 @@
         "Clem1598-USFX": "Exsurgens autem Joseph a somno, fecit sicut præcepit ei angelus Domini, et accepit conjugem suam.",
         "Clem-Saints": "Exsurgens autem Joseph a somno, fecit sicut præcepit ei angelus Domini, et accepit conjugem suam.",
         "VulgHetzenauer (1906)": "Exurgens autem Ioseph a somno, fecit sicut præcepit ei angelus Domini, et accepit coniugem suam.",
+        "Amiatinus (A)": "Exsurgens autem ioseph a somno fecit sicut praecepit ei angelus domini et accepit coniugem suam",
         "VulgConte (2009)": "Exurgens autem Ioseph a somno, fecit sicut præcepit ei Angelus Domini, et accepit coniugem suam.",
         "VulgSistina (1590)": "Exurgens autem Ioseph a somno, fecit sicut praecepit ei angelus Domini, et accepit coniugem suam."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
+        "VL 5 (d)",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -905,12 +1416,16 @@
         "Clem1598-USFX": "Et non cognoscebat eam donec peperit filium suum primogenitum: et vocavit nomen ejus Jesum.",
         "Clem-Saints": "Et non cognoscebat eam donec peperit filium suum primogenitum: et vocavit nomen ejus Jesum.",
         "VulgHetzenauer (1906)": "Et non cognoscebat eam donec peperit filium suum primogenitum: et vocavit nomen eius Iesum.",
+        "Amiatinus (A)": "et non cognoscebat eam donec peperit filium suum primogenitum et uocauit nomen eius iesum",
         "VulgConte (2009)": "Et non cognoscebat eam donec peperit filium suum primogenitum: et vocavit nomen eius Iesum.",
         "VulgSistina (1590)": "Et non cognoscebat eam donec peperit filium suum primogenitum: et vocavit nomen eius Iesum."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
+        "VL 5 (d)",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"

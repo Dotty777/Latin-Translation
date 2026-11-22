@@ -1,6 +1,6 @@
 # Genesis 43 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:16:09Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:33Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -15,9 +15,9 @@
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
-| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -29,7 +29,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -37,7 +46,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 **1** Interim fames omnem terram vehementer premebat.
 **2** Consumptisque cibis quos ex Ægypto detulerant, dixit Jacob ad filios suos: Revertimini, et emite nobis pauxillum escarum.
-**3** Respondit Judas: Denuntiavit nobis vir ille sub testificationem iurandi, dicens: Non videbitis faciem meam, nisi fratrem vestrum minimum adduxeritis vobiscum.
+**3** Respondit Judas: Denuntiavit nobis vir ille sub testificationem jurandi, dicens: Non videbitis faciem meam, nisi fratrem vestrum minimum adduxeritis vobiscum.
 **4** Si ergo vis mittere eum nobiscum, pergemus pariter, et ememus tibi necessaria:
 **5** sin autem non vis, non ibimus: vir enim, ut sæpe diximus, denuntiavit nobis, dicens: Non videbitis faciem meam absque fratre vestro minimo.
 **6** Dixit eis Israël: In meam hoc fecistis miseriam, ut indicaretis ei et alium habere vos fratrem.
@@ -88,7 +97,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `escarum.` over `escarum` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 43:3
-- **Apparatus:** `testificationem iurandi` Amiatinus (A) **]** **attestatione jurisjurandi** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
+- **Apparatus:** `testificationem jurandi` Amiatinus (A) **]** **attestatione jurisjurandi** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Respondit` over `respondit` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -104,7 +113,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Denuntiavit / Denunciavit` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Genesis 43:4
-- **Apparatus:** `mittere eum` Amiatinus (A) **]** **eum mittere** Clem1598-USFX Clem-Saints ; **mittere** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `mittere eum` Amiatinus (A) **]** **eum mittere** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Si` over `si` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -139,11 +148,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Genesis 43:7
 - **Apparatus:** `vobiscum` Amiatinus (A) **]** **om.** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
-  - *variant type: transposition:* Units 'vobiscum' and 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'vobiscum', 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `om.` Amiatinus (A) **]** **vobiscum** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
-  - *variant type: transposition:* Units 'vobiscum' and 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'vobiscum', 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `At` over `at` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -173,11 +182,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `om.` Amiatinus (A) **]** **reus** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'reus' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'om.', 'reus' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `reus` Amiatinus (A) **]** **om.** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'reus' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'om.', 'reus' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Ego` over `ego` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -235,7 +244,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `virum.` over `uirum` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 43:14
-- **Apparatus:** `eum vobis` Amiatinus (A) **]** **vobis eum** Clem1598-USFX Clem-Saints ; **eum** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `eum vobis` Amiatinus (A) **]** **vobis eum** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `om.` Amiatinus (A) Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **in vinculis,** VulgSistina (1590)
@@ -331,7 +340,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `om.` Amiatinus (A) **]** **nobis** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(omission / addition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
-- **Apparatus:** `eam posuerit` Amiatinus (A) **]** **posuerit eam** Clem1598-USFX Clem-Saints ; **eam** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `eam posuerit` Amiatinus (A) **]** **posuerit eam** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Sed` over `sed` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -426,7 +435,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `eum.` over `eum` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 43:29
-- **Apparatus:** `oculos suos Joseph` Amiatinus (A) **]** **Joseph oculos** Clem1598-USFX Clem-Saints ; **oculos,** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
+- **Apparatus:** `oculos suos Joseph` Amiatinus (A) **]** **Joseph oculos** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Attollens` over `adtollens` (Amiatinus (A)) — *Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -521,14 +530,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 7 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
 ### Verse 3 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Respondit Judas: Denuntiavit nobis vir ille sub testificationem iurandi, dicens: Non videbitis faciem meam, nisi fratrem vestrum minimum adduxeritis vobiscum.
+- **Critical Text:** Respondit Judas: Denuntiavit nobis vir ille sub testificationem jurandi, dicens: Non videbitis faciem meam, nisi fratrem vestrum minimum adduxeritis vobiscum.
   - `Clem1598-USFX`: Respondit Judas: Denuntiavit nobis vir ille sub attestatione jurisjurandi, dicens: Non videbitis faciem meam, nisi fratrem vestrum minimum adduxeritis vobiscum.
   - `Clem-Saints`: Respondit Judas: Denuntiavit nobis vir ille sub attestatione jurisjurandi, dicens: Non videbitis faciem meam, nisi fratrem vestrum minimum adduxeritis vobiscum.
   - `Amiatinus (A)`: respondit iudas denuntiauit nobis uir ille sub testificationem iurandi dicens non uidebitis faciem meam nisi fratrem uestrum minimum adduxeritis uobiscum
   - `VulgHetzenauer (1906)`: Respondit Iudas: Denuntiavit nobis vir ille sub attestatione iurisiurandi, dicens: Non videbitis faciem meam, nisi fratrem vestrum minimum adduxeritis vobiscum.
   - `VulgConte (2009)`: Respondit Iudas: Denuntiavit nobis vir ille sub attestatione iurisiurandi, dicens: Non videbitis faciem meam, nisi fratrem vestrum minimum adduxeritis vobiscum.
   - `VulgSistina (1590)`: Respondit Iudas: Denunciavit nobis vir ille sub attestatione iurisiurandi, dicens: Non videbitis faciem meam, nisi fratrem vestrum minimum adduxeritis vobiscum.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'testificationem iurandi' [Amiatinus (A)] (weight 0.97, confidence 53%) over attestatione jurisjurandi (Clem1598-USFX, Clem-Saints). Also normalised 10 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'testificationem jurandi' [Amiatinus (A)] (weight 0.97, confidence 53%) over attestatione jurisjurandi (Clem1598-USFX, Clem-Saints). Also normalised 10 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 4 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -562,7 +571,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgSistina (1590)`: Dixit eis Israel: In meam hoc fecistis miseriam, ut indicaretis ei et alium habere vos fratrem.
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 6 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type); Punctuation / spacing difference only).
 
-### Verse 7 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 7 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** At illi responderunt: Interrogavit nos homo per ordinem nostram progeniem: si pater viveret: si haberemus fratrem: et nos respondimus ei consequenter juxta id quod fuerat sciscitatus: numquid scire poteramus quod dicturus esset: Adducite vobiscum fratrem vestrum
   - `Clem1598-USFX`: At illi responderunt: Interrogavit nos homo per ordinem nostram progeniem: si pater viveret: si haberemus fratrem: et nos respondimus ei consequenter juxta id quod fuerat sciscitatus: numquid scire poteramus quod dicturus esset: Adducite fratrem vestrum vobiscum?
   - `Clem-Saints`: At illi responderunt: Interrogavit nos homo per ordinem nostram progeniem: si pater viveret: si haberemus fratrem: et nos respondimus ei consequenter juxta id quod fuerat sciscitatus: numquid scire poteramus quod dicturus esset: Adducite fratrem vestrum vobiscum?
@@ -571,7 +580,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgConte (2009)`: At illi responderunt: Interrogavit nos homo per ordinem nostram progeniem: si pater viveret: si haberemus fratrem: et nos respondimus ei consequenter iuxta id quod fuerat sciscitatus: numquid scire poteramus quod dicturus esset: Adducite fratrem vestrum vobiscum?
   - `VulgSistina (1590)`: At illi responderunt: Interrogavit nos homo per ordinem nostram progeniem: si pater viveret: si haberemus fratrem: et nos respondimus ei consequenter iuxta id quod fuerat sciscitatus: numquid scire poteramus quod dicturus esset: Adducite fratrem vestrum vobiscum?
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'vobiscum' [Amiatinus (A)] (weight 0.97, confidence 53%) over om. (Clem1598-USFX, Clem-Saints). [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over vobiscum (Clem1598-USFX, Clem-Saints). Also normalised 11 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Judas quoque dixit patri suo: Mitte puerum mecum, ut proficiscamur, et possimus vivere: ne moriamur nos et parvuli nostri.
@@ -583,7 +592,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgSistina (1590)`: Iudas quoque dixit patri suo: Mitte puerum mecum, ut proficiscamur, et possimus vivere: ne moriamur nos et parvuli nostri.
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 8 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
-### Verse 9 (Confidence: `14.8%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 9 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ego suscipio puerum: de manu mea require illum: nisi reduxero, et tradidero eum tibi, ero peccati in te reus omni tempore.
   - `Clem1598-USFX`: Ego suscipio puerum: de manu mea require illum: nisi reduxero, et reddidero eum tibi, ero peccati reus in te omni tempore.
   - `Clem-Saints`: Ego suscipio puerum: de manu mea require illum: nisi reduxero, et reddidero eum tibi, ero peccati reus in te omni tempore.
@@ -592,7 +601,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgConte (2009)`: Ego suscipio puerum: de manu mea require illum. Nisi reduxero, et reddidero eum tibi, ero peccati reus in te omni tempore.
   - `VulgSistina (1590)`: Ego suscipio puerum: de manu mea require illum. nisi reduxero, et reddidero eum tibi, ero peccati reus in te omni tempore.
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'tradidero' [Amiatinus (A)] (weight 0.97, confidence 53%) over reddidero (Clem1598-USFX, Clem-Saints). [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over reus (Clem1598-USFX, Clem-Saints). [Addition / omission between witnesses] Adopted 'reus' [Amiatinus (A)] (weight 0.97, confidence 53%) over om. (Clem1598-USFX, Clem-Saints). Also normalised 6 orthographic/surface variation(s).
-- *confidence:* Verse confidence 15% = product of 3 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 10 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Si non intercessisset dilatio, jam vice altera venissemus.

@@ -7,7 +7,7 @@
   "usfm_code": "PSA",
   "chapter": 135,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:17:24Z",
+  "updated_at": "2026-11-22T08:01:48Z",
   "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
   "versification_anchor": "Clem-Saints",
   "orthographic_base": "Clem1598-USFX",
@@ -39,6 +39,13 @@
       "role": "apparatus only (recorded, not voting)"
     },
     {
+      "siglum": "Psalt-Pianum (1945)",
+      "title": "Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945)",
+      "tier": 3,
+      "license": "Public Domain (DivinumOfficium Latin-Bea)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
       "siglum": "VulgConte (2009)",
       "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
       "tier": 3,
@@ -64,17 +71,50 @@
         "Clem1598-USFX": "Alleluja. Confitemini Domino, quoniam bonus, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "Alleluja . Confitemini Domino, quoniam bonus, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "Alleluia. Confitemini Domino quoniam bonus: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Laudáte Dóminum, quóniam bonus, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Alleluia. Confitemini Domino quoniam bonus: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Alleluia. Confitemini Domino quoniam bonus: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Alleluja. Confitemini Domino,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Laudáte Dóminum,",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "alleluia confitemini domino",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": 0,
@@ -103,17 +143,50 @@
         "Clem1598-USFX": "Confitemini Deo deorum, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "Confitemini Deo deorum, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "Confitemini Deo deorum: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Laudáte Deum deórum, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Confitemini Deo deorum: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Confitemini Deo deorum: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Confitemini Deo",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Laudáte Deum",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "confitemini deo",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -130,17 +203,50 @@
         "Clem1598-USFX": "Confitemini Domino dominorum, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "Confitemini Domino dominorum, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "Confitemini Domino dominorum: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Laudáte Dóminum dominórum, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Confitemini Domino dominorum: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Confitemini Domino dominorum: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Confitemini Domino",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Laudáte Dóminum",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "confitemini domino",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -157,17 +263,50 @@
         "Clem1598-USFX": "Qui facit mirabilia magna solus, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "Qui facit mirabilia magna solus, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "Qui facit mirabilia magna solus: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Qui fecit mirabília magna solus, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Qui facit mirabilia magna solus: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Qui facit mirabilia magna solus: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "facit",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "fecit",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "facit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -184,17 +323,50 @@
         "Clem1598-USFX": "Qui fecit cælos in intellectu, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "Qui fecit cælos in intellectu, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "Qui fecit cælos in intellectu: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Qui fecit cælos cum sapiéntia, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Qui fecit cælos in intellectu: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Qui fecit caelos in intellectu: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "in intellectu,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "cum sapiéntia,",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "in intellectu",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -211,17 +383,50 @@
         "Clem1598-USFX": "Qui firmavit terram super aquas, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "Qui firmavit terram super aquas, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "Qui firmavit terram super aquas: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Qui exténdit terram super aquas, quóniam in ætérnum misericórdia ejus:",
         "VulgConte (2009)": "Qui firmavit terram super aquas: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Qui firmavit terram super aquas: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "firmavit",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "exténdit",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "firmauit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -238,17 +443,50 @@
         "Clem1598-USFX": "Qui fecit luminaria magna, quoniam in æternum misericordia ejus:",
         "Clem-Saints": "Qui fecit luminaria magna, quoniam in æternum misericordia ejus:",
         "VulgHetzenauer (1906)": "Qui fecit luminaria magna: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Qui fecit lúmina magna, quóniam in ætérnum misericórdia ejus:",
         "VulgConte (2009)": "Qui fecit luminaria magna: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Qui fecit luminaria magna: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "luminaria",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "lúmina",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "luminaria",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -265,17 +503,50 @@
         "Clem1598-USFX": "solem in potestatem diei, quoniam in æternum misericordia ejus;",
         "Clem-Saints": "solem in potestatem diei, quoniam in æternum misericordia ejus;",
         "VulgHetzenauer (1906)": "Solem in potestatem diei: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Solem, ut præsit diéi, quóniam in ætérnum misericórdia ejus,",
         "VulgConte (2009)": "Solem in potestatem diei: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Solem in potestatem diei: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "in potestatem",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "ut præsit",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "in potestatem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -292,17 +563,50 @@
         "Clem1598-USFX": "lunam et stellas in potestatem noctis, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "lunam et stellas in potestatem noctis, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "Lunam, et stellas in potestatem noctis: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Lunam et stellas, ut præsint nocti, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Lunam, et stellas in potestatem noctis: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Lunam, et stellas in potestatem noctis: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "in potestatem noctis,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "ut præsint nocti,",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "in potestatem noctis",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -319,17 +623,50 @@
         "Clem1598-USFX": "Qui percussit Ægyptum cum primogenitis eorum, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "Qui percussit Ægyptum cum primogenitis eorum, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "Qui percussit Ægyptum cum primogenitis eorum: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Qui percússit Ægýptios in primogénitis eórum, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Qui percussit Ægyptum cum primogenitis eorum: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Qui percussit Aegyptum cum primogenitis eorum: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Ægyptum cum",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Ægýptios in",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "aegyptum cum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -346,17 +683,79 @@
         "Clem1598-USFX": "Qui eduxit Israël de medio eorum, quoniam in æternum misericordia ejus,",
         "Clem-Saints": "Qui eduxit Israël de medio eorum, quoniam in æternum misericordia ejus,",
         "VulgHetzenauer (1906)": "Qui eduxit Israel de medio eorum: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Et edúxit Israël e médio eórum, quóniam in ætérnum misericórdia ejus,",
         "VulgConte (2009)": "Qui eduxit Israel de medio eorum: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Qui eduxit Israel de medio eorum: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Qui",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Et",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "qui",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "de",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "e",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "de",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -373,17 +772,79 @@
         "Clem1598-USFX": "in manu potenti et brachio excelso, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "in manu potenti et brachio excelso, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "In manu potenti, et brachio excelso: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Manu poténti et brácchio exténto, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "In manu potenti, et brachio excelso: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "In manu potenti, et brachio excelso: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "in",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "in",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "brachio excelso,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "brácchio exténto,",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 4,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "brachio excelso",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -400,17 +861,50 @@
         "Clem1598-USFX": "Qui divisit mare Rubrum in divisiones, quoniam in æternum misericordia ejus;",
         "Clem-Saints": "Qui divisit mare Rubrum in divisiones, quoniam in æternum misericordia ejus;",
         "VulgHetzenauer (1906)": "Qui divisit Mare rubrum in divisiones: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Qui divísit Mare Rubrum in partes, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Qui divisit Mare Rubrum in divisiones: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Qui divisit Mare rubrum in divisiones: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "divisiones,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "partes,",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "diuisiones",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -427,17 +921,79 @@
         "Clem1598-USFX": "et eduxit Israël per medium ejus, quoniam in æternum misericordia ejus;",
         "Clem-Saints": "et eduxit Israël per medium ejus, quoniam in æternum misericordia ejus;",
         "VulgHetzenauer (1906)": "Et eduxit Israel per medium eius: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Et tradúxit Israël per médium ejus, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Et eduxit Israel per medium eius: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Et eduxit Israel per medium eius: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "eduxit",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "tradúxit",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "eduxit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "eduxit Israël",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "tradúxit Israël",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "eduxit israel",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -454,17 +1010,108 @@
         "Clem1598-USFX": "et excussit Pharaonem et virtutem ejus in mari Rubro, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "et excussit Pharaonem et virtutem ejus in mari Rubro, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "Et excussit Pharaonem, et virtutem eius in Mari rubro: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Et detrúsit Pharaónem et exércitum ejus in Mare Rubrum, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Et excussit Pharaonem, et virtutem eius in Mari Rubro: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Et excussit Pharaonem, et virtutem eius in Mari rubro: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "excussit",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "detrúsit",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "excussit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "virtutem",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "exércitum",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 4,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "uirtutem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "mari Rubro,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Mare Rubrum,",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 7,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "mari rubro",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -481,17 +1128,50 @@
         "Clem1598-USFX": "Qui traduxit populum suum per desertum, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "Qui traduxit populum suum per desertum, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "Qui traduxit populum suum per desertum: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Qui duxit pópulum suum per desértum, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Qui traduxit populum suum per desertum: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Qui traduxit populum suum per desertum: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "traduxit",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "duxit",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "traduxit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -508,12 +1188,15 @@
         "Clem1598-USFX": "Qui percussit reges magnos, quoniam in æternum misericordia ejus;",
         "Clem-Saints": "Qui percussit reges magnos, quoniam in æternum misericordia ejus;",
         "VulgHetzenauer (1906)": "Qui percussit reges magnos: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Qui percússit reges magnos, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Qui percussit reges magnos: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Qui percussit reges magnos: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -535,17 +1218,50 @@
         "Clem1598-USFX": "et occidit reges fortes, quoniam in æternum misericordia ejus:",
         "Clem-Saints": "et occidit reges fortes, quoniam in æternum misericordia ejus:",
         "VulgHetzenauer (1906)": "Et occidit reges fortes: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Et occídit reges poténtes, quóniam in ætérnum misericórdia ejus:",
         "VulgConte (2009)": "Et occidit reges fortes: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Et occidit reges fortes: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "fortes,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "poténtes,",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "fortes",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -562,12 +1278,15 @@
         "Clem1598-USFX": "Sehon, regem Amorrhæorum, quoniam in æternum misericordia ejus;",
         "Clem-Saints": "Sehon, regem Amorrhæorum, quoniam in æternum misericordia ejus;",
         "VulgHetzenauer (1906)": "Sehon regem Amorrhæorum: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Sehon, regem Amorrhæórum, quóniam in ætérnum misericórdia ejus,",
         "VulgConte (2009)": "Sehon regem Amorrhæorum: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Sehon regem Amorrhaeorum: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -589,12 +1308,15 @@
         "Clem1598-USFX": "et Og, regem Basan, quoniam in æternum misericordia ejus:",
         "Clem-Saints": "et Og, regem Basan, quoniam in æternum misericordia ejus:",
         "VulgHetzenauer (1906)": "Et Og regem Basan: quoniam in æternum misericordia eius:",
+        "Psalt-Pianum (1945)": "Et Og, regem Basan, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Et Og regem Basan: quoniam in æternum misericordia eius:",
         "VulgSistina (1590)": "Et Og regem Basan: quoniam in aeternum misericordia eius:"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -616,22 +1338,56 @@
         "Clem1598-USFX": "et dedit terram eorum hæreditatem, quoniam in æternum misericordia ejus;",
         "Clem-Saints": "et dedit terram eorum hæreditatem, quoniam in æternum misericordia ejus;",
         "VulgHetzenauer (1906)": "Et dedit terram eorum hereditatem: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Et dedit terram eórum in possessiónem, quóniam in ætérnum misericórdia ejus,",
         "VulgConte (2009)": "Et dedit terram eorum hereditatem: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Et dedit terram eorum hereditatem: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "hæreditatem,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "in possessiónem,",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 4,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "haereditatem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "hæreditatem, / hereditatem",
             "hæreditatem, / hereditatem:",
             "hæreditatem, / hereditatem:",
             "hæreditatem, / hereditatem:"
@@ -659,22 +1415,56 @@
         "Clem1598-USFX": "hæreditatem Israël, servo suo, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "hæreditatem Israël, servo suo, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "Hereditatem Israel servo suo: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "In possessiónem Israël, servo suo, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Hereditatem Israel servo suo: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Hereditatem Israel servo suo: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "hæreditatem",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "In possessiónem",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "haereditatem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "hæreditatem Israël, / hereditatem Israhel",
             "hæreditatem / Hereditatem",
             "hæreditatem / Hereditatem",
             "hæreditatem / Hereditatem"
@@ -702,17 +1492,79 @@
         "Clem1598-USFX": "Quia in humilitate nostra memor fuit nostri, quoniam in æternum misericordia ejus;",
         "Clem-Saints": "Quia in humilitate nostra memor fuit nostri, quoniam in æternum misericordia ejus;",
         "VulgHetzenauer (1906)": "Quia in humilitate nostra memor fuit nostri: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Qui in humilitáte nostra recordátus est nostri, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Quia in humilitate nostra memor fuit nostri: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Quia in humilitate nostra memor fuit nostri: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Quia",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Qui",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "quia",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "memor fuit",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "recordátus est",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 4,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "memor fuit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -729,17 +1581,50 @@
         "Clem1598-USFX": "et redemit nos ab inimicis nostris, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "et redemit nos ab inimicis nostris, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "Et redemit nos ab inimicis nostris: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Et liberávit nos ab inimícis nostris, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Et redemit nos ab inimicis nostris: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Et redemit nos ab inimicis nostris: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "redemit",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "liberávit",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "redemit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -756,12 +1641,15 @@
         "Clem1598-USFX": "Qui dat escam omni carni, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "Qui dat escam omni carni, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "Qui dat escam omni carni: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Qui dat escam omni carni, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Qui dat escam omni carni: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Qui dat escam omni carni: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -783,17 +1671,79 @@
         "Clem1598-USFX": "Confitemini Deo cæli, quoniam in æternum misericordia ejus. Confitemini Domino dominorum, quoniam in æternum misericordia ejus.",
         "Clem-Saints": "Confitemini Deo cæli, quoniam in æternum misericordia ejus. Confitemini Domino dominorum, quoniam in æternum misericordia ejus.",
         "VulgHetzenauer (1906)": "Confitemini Deo cæli: quoniam in æternum misericordia eius. Confitemini Domino dominorum: quoniam in æternum misericordia eius.",
+        "Psalt-Pianum (1945)": "Laudáte Deum cæli, quóniam in ætérnum misericórdia ejus.",
         "VulgConte (2009)": "Confitemini Deo cæli: quoniam in æternum misericordia eius. Confitemini Domino dominorum: quoniam in æternum misericordia eius.",
         "VulgSistina (1590)": "Confitemini Deo caeli: quoniam in aeternum misericordia eius. Confitemini Domino dominorum: quoniam in aeternum misericordia eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Psalt-Pianum (1945)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "Confitemini Deo",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Laudáte Deum",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "confitemini deo",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "Confitemini Domino dominorum, quoniam in æternum misericordia ejus.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Psalt-Pianum (1945)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
+          "word_count": 8,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "confitemini domino dominorum quoniam in aeternum misericordia eius",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,

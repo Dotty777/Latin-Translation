@@ -7,7 +7,7 @@
   "usfm_code": "GEN",
   "chapter": 5,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:16:03Z",
+  "updated_at": "2026-11-22T08:01:32Z",
   "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
   "versification_anchor": "Clem-Saints",
   "orthographic_base": "Clem1598-USFX",
@@ -29,7 +29,7 @@
     },
     {
       "siglum": "Amiatinus (A)",
-      "title": "Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only)",
+      "title": "Codex Amiatinus — Digital Latin Library TEI transcription (Genesis)",
       "tier": 2,
       "weight": 0.97,
       "license": "CC BY-SA 4.0 (Digital Latin Library transcription)"
@@ -76,6 +76,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -182,6 +183,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -274,8 +276,8 @@
     {
       "id": 61599,
       "verse": 3,
-      "critical_text": "Vixit autem Adam cxxx annis: et genuit ad similitudinem et imaginem suam, vocavitque nomen ejus Seth.",
-      "confidence": 0.28,
+      "critical_text": "Vixit autem Adam centum triginta annis: et genuit ad similitudinem et imaginem suam, vocavitque nomen ejus Seth.",
+      "confidence": 0.529,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "Clem1598-USFX": "Vixit autem Adam centum triginta annis: et genuit ad imaginem et similitudinem suam, vocavitque nomen ejus Seth.",
@@ -288,58 +290,12 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [
-        {
-          "slot_index": 3,
-          "lemma": "cxxx",
-          "lemma_witnesses": [
-            "Amiatinus (A)"
-          ],
-          "variants": [
-            {
-              "reading": "centum triginta",
-              "adopt_text": "centum triginta",
-              "witnesses": [
-                "Clem1598-USFX",
-                "Clem-Saints",
-                "VulgConte (2009)",
-                "VulgHetzenauer (1906)",
-                "VulgSistina (1590)"
-              ],
-              "weight_sum": 0.88
-            }
-          ],
-          "note": "[Variation unit spanning several words] Adopted 'cxxx' [Amiatinus (A)] (weight 0.97, confidence 53%) over centum triginta (Clem1598-USFX, Clem-Saints).",
-          "word_index": 3,
-          "word_count": 1,
-          "kind": "word",
-          "variant_type": "lexical substitution",
-          "analysis": [
-            {
-              "canon": "external: independent streams",
-              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            },
-            {
-              "canon": "external: two-stream policy",
-              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            }
-          ],
-          "lemma_key": "cxxx",
-          "confidence": 0.529,
-          "credited_witnesses": []
-        },
         {
           "slot_index": -1,
           "lemma": "om.",
@@ -359,14 +315,14 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
-          "word_index": 7,
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
           "word_count": 0,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "om.",
-          "confidence": 0.28,
+          "confidence": 0.529,
           "credited_witnesses": []
         },
         {
@@ -381,22 +337,16 @@
               "adopt_text": "imaginem et similitudinem",
               "witnesses": [
                 "Clem1598-USFX",
-                "Clem-Saints"
-              ],
-              "weight_sum": 0.88
-            },
-            {
-              "reading": "similitudinem",
-              "witnesses": [
+                "Clem-Saints",
                 "VulgConte (2009)",
                 "VulgHetzenauer (1906)",
                 "VulgSistina (1590)"
               ],
-              "weight_sum": 0.0
+              "weight_sum": 0.88
             }
           ],
-          "note": "[Variation unit spanning several words] Adopted 'similitudinem et imaginem' [Amiatinus (A)] (weight 0.97, confidence 53%) over imaginem et similitudinem (Clem1598-USFX, Clem-Saints). [Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.]",
-          "word_index": 8,
+          "note": "[Variation unit spanning several words] Adopted 'similitudinem et imaginem' [Amiatinus (A)] (weight 0.97, confidence 53%) over imaginem et similitudinem (Clem1598-USFX, Clem-Saints).",
+          "word_index": 9,
           "word_count": 3,
           "kind": "word",
           "variant_type": "word-order transposition",
@@ -445,6 +395,17 @@
             "Amiatinus (A)"
           ],
           "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": 3,
+          "kept_form": "centum triginta",
+          "disregarded_forms": [
+            "cxxx"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value"
         },
         {
           "slot_index": 4,
@@ -502,12 +463,12 @@
           "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
         }
       ],
-      "rationale": "[Variation unit spanning several words] Adopted 'cxxx' [Amiatinus (A)] (weight 0.97, confidence 53%) over centum triginta (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'similitudinem et imaginem' [Amiatinus (A)] (weight 0.97, confidence 53%) over imaginem et similitudinem (Clem1598-USFX, Clem-Saints). Also normalised 7 orthographic/surface variation(s).",
+      "rationale": "[Variation unit spanning several words] Adopted 'similitudinem et imaginem' [Amiatinus (A)] (weight 0.97, confidence 53%) over imaginem et similitudinem (Clem1598-USFX, Clem-Saints). Also normalised 8 orthographic/surface variation(s).",
       "human_locked": false,
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
           "favours": "neither",
           "reading": "",
           "strength": "info",
@@ -533,6 +494,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -603,8 +565,8 @@
     {
       "id": 61601,
       "verse": 5,
-      "critical_text": "Et factum est omne tempus quod vixit Adam, anni dcccc xxx, et mortuus est.",
-      "confidence": 0.529,
+      "critical_text": "Et factum est omne tempus quod vixit Adam, anni nongenti triginta, et mortuus est.",
+      "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "Clem1598-USFX": "Et factum est omne tempus quod vixit Adam, anni nongenti triginta, et mortuus est.",
@@ -617,59 +579,12 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [
-        {
-          "slot_index": 9,
-          "lemma": "dcccc xxx",
-          "lemma_witnesses": [
-            "Amiatinus (A)"
-          ],
-          "variants": [
-            {
-              "reading": "nongenti triginta",
-              "adopt_text": "nongenti triginta",
-              "witnesses": [
-                "Clem1598-USFX",
-                "Clem-Saints",
-                "VulgConte (2009)",
-                "VulgHetzenauer (1906)",
-                "VulgSistina (1590)"
-              ],
-              "weight_sum": 0.88
-            }
-          ],
-          "note": "[Variation unit spanning several words] Adopted 'dcccc xxx' [Amiatinus (A)] (weight 0.97, confidence 53%) over nongenti triginta (Clem1598-USFX, Clem-Saints).",
-          "word_index": 9,
-          "word_count": 2,
-          "kind": "word",
-          "variant_type": "lexical substitution",
-          "analysis": [
-            {
-              "canon": "external: independent streams",
-              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            },
-            {
-              "canon": "external: two-stream policy",
-              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            }
-          ],
-          "lemma_key": "dcccc xxx",
-          "confidence": 0.529,
-          "credited_witnesses": []
-        }
-      ],
+      "apparatus": [],
       "disregarded": [
         {
           "slot_index": 0,
@@ -705,7 +620,29 @@
           "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
         },
         {
-          "slot_index": 12,
+          "slot_index": 9,
+          "kept_form": "nongenti",
+          "disregarded_forms": [
+            "dcccc"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value"
+        },
+        {
+          "slot_index": 10,
+          "kept_form": "triginta,",
+          "disregarded_forms": [
+            "xxx"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value"
+        },
+        {
+          "slot_index": 13,
           "kept_form": "est.",
           "disregarded_forms": [
             "est"
@@ -716,18 +653,9 @@
           "reason": "Punctuation / spacing difference only"
         }
       ],
-      "rationale": "[Variation unit spanning several words] Adopted 'dcccc xxx' [Amiatinus (A)] (weight 0.97, confidence 53%) over nongenti triginta (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).",
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 6 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only; Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value).",
       "human_locked": false,
-      "analysis": [
-        {
-          "canon": "confidence",
-          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
-          "favours": "neither",
-          "reading": "",
-          "strength": "info",
-          "key": ""
-        }
-      ],
+      "analysis": [],
       "needs_review": false
     },
     {
@@ -747,6 +675,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -852,8 +781,8 @@
     {
       "id": 61603,
       "verse": 7,
-      "critical_text": "Vixitque Seth, postquam genuit Enos, dccc vii annis, genuitque filios et filias.",
-      "confidence": 0.529,
+      "critical_text": "Vixitque Seth, postquam genuit Enos, octingentis septem annis, genuitque filios et filias.",
+      "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "Clem1598-USFX": "Vixitque Seth, postquam genuit Enos, octingentis septem annis, genuitque filios et filias.",
@@ -866,59 +795,12 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [
-        {
-          "slot_index": 5,
-          "lemma": "dccc vii",
-          "lemma_witnesses": [
-            "Amiatinus (A)"
-          ],
-          "variants": [
-            {
-              "reading": "octingentis septem",
-              "adopt_text": "octingentis septem",
-              "witnesses": [
-                "Clem1598-USFX",
-                "Clem-Saints",
-                "VulgConte (2009)",
-                "VulgHetzenauer (1906)",
-                "VulgSistina (1590)"
-              ],
-              "weight_sum": 0.88
-            }
-          ],
-          "note": "[Variation unit spanning several words] Adopted 'dccc vii' [Amiatinus (A)] (weight 0.97, confidence 53%) over octingentis septem (Clem1598-USFX, Clem-Saints).",
-          "word_index": 5,
-          "word_count": 2,
-          "kind": "word",
-          "variant_type": "lexical substitution",
-          "analysis": [
-            {
-              "canon": "external: independent streams",
-              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            },
-            {
-              "canon": "external: two-stream policy",
-              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            }
-          ],
-          "lemma_key": "dccc uii",
-          "confidence": 0.529,
-          "credited_witnesses": []
-        }
-      ],
+      "apparatus": [],
       "disregarded": [
         {
           "slot_index": 0,
@@ -954,7 +836,29 @@
           "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
         },
         {
+          "slot_index": 5,
+          "kept_form": "octingentis",
+          "disregarded_forms": [
+            "dccc"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value"
+        },
+        {
           "slot_index": 6,
+          "kept_form": "septem",
+          "disregarded_forms": [
+            "vii"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value"
+        },
+        {
+          "slot_index": 7,
           "kept_form": "annis,",
           "disregarded_forms": [
             "annis"
@@ -965,7 +869,7 @@
           "reason": "Punctuation / spacing difference only"
         },
         {
-          "slot_index": 10,
+          "slot_index": 11,
           "kept_form": "filias.",
           "disregarded_forms": [
             "filias"
@@ -976,18 +880,9 @@
           "reason": "Punctuation / spacing difference only"
         }
       ],
-      "rationale": "[Variation unit spanning several words] Adopted 'dccc vii' [Amiatinus (A)] (weight 0.97, confidence 53%) over octingentis septem (Clem1598-USFX, Clem-Saints). Also normalised 5 orthographic/surface variation(s).",
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 7 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only; Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value).",
       "human_locked": false,
-      "analysis": [
-        {
-          "canon": "confidence",
-          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
-          "favours": "neither",
-          "reading": "",
-          "strength": "info",
-          "key": ""
-        }
-      ],
+      "analysis": [],
       "needs_review": false
     },
     {
@@ -1007,6 +902,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1080,6 +976,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1164,6 +1061,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1248,6 +1146,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1367,6 +1266,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1440,6 +1340,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1567,8 +1468,8 @@
     {
       "id": 61610,
       "verse": 14,
-      "critical_text": "Et facti sunt omnes dies Cainan dcccc x anni, et mortuus est.",
-      "confidence": 0.529,
+      "critical_text": "Et facti sunt omnes dies Cainan nongenti decem anni, et mortuus est.",
+      "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "Clem1598-USFX": "Et facti sunt omnes dies Cainan nongenti decem anni, et mortuus est.",
@@ -1581,59 +1482,12 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [
-        {
-          "slot_index": 6,
-          "lemma": "dcccc x",
-          "lemma_witnesses": [
-            "Amiatinus (A)"
-          ],
-          "variants": [
-            {
-              "reading": "nongenti decem",
-              "adopt_text": "nongenti decem",
-              "witnesses": [
-                "Clem1598-USFX",
-                "Clem-Saints",
-                "VulgConte (2009)",
-                "VulgHetzenauer (1906)",
-                "VulgSistina (1590)"
-              ],
-              "weight_sum": 0.88
-            }
-          ],
-          "note": "[Variation unit spanning several words] Adopted 'dcccc x' [Amiatinus (A)] (weight 0.97, confidence 53%) over nongenti decem (Clem1598-USFX, Clem-Saints).",
-          "word_index": 6,
-          "word_count": 2,
-          "kind": "word",
-          "variant_type": "lexical substitution",
-          "analysis": [
-            {
-              "canon": "external: independent streams",
-              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            },
-            {
-              "canon": "external: two-stream policy",
-              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            }
-          ],
-          "lemma_key": "dcccc x",
-          "confidence": 0.529,
-          "credited_witnesses": []
-        }
-      ],
+      "apparatus": [],
       "disregarded": [
         {
           "slot_index": 0,
@@ -1658,7 +1512,29 @@
           "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
         },
         {
+          "slot_index": 6,
+          "kept_form": "nongenti",
+          "disregarded_forms": [
+            "dcccc"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value"
+        },
+        {
           "slot_index": 7,
+          "kept_form": "decem",
+          "disregarded_forms": [
+            "x"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value"
+        },
+        {
+          "slot_index": 8,
           "kept_form": "anni,",
           "disregarded_forms": [
             "anni"
@@ -1669,7 +1545,7 @@
           "reason": "Punctuation / spacing difference only"
         },
         {
-          "slot_index": 10,
+          "slot_index": 11,
           "kept_form": "est.",
           "disregarded_forms": [
             "est"
@@ -1680,18 +1556,9 @@
           "reason": "Punctuation / spacing difference only"
         }
       ],
-      "rationale": "[Variation unit spanning several words] Adopted 'dcccc x' [Amiatinus (A)] (weight 0.97, confidence 53%) over nongenti decem (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).",
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 6 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only; Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value).",
       "human_locked": false,
-      "analysis": [
-        {
-          "canon": "confidence",
-          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
-          "favours": "neither",
-          "reading": "",
-          "strength": "info",
-          "key": ""
-        }
-      ],
+      "analysis": [],
       "needs_review": false
     },
     {
@@ -1711,6 +1578,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1866,6 +1734,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1993,8 +1862,8 @@
     {
       "id": 61613,
       "verse": 17,
-      "critical_text": "Et facti sunt omnes dies Malaleel dccc xcv anni, et mortuus est.",
-      "confidence": 0.529,
+      "critical_text": "Et facti sunt omnes dies Malaleel octingenti nonaginta quinque anni, et mortuus est.",
+      "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "Clem1598-USFX": "Et facti sunt omnes dies Malaleel octingenti nonaginta quinque anni, et mortuus est.",
@@ -2007,59 +1876,12 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [
-        {
-          "slot_index": 6,
-          "lemma": "dccc xcv",
-          "lemma_witnesses": [
-            "Amiatinus (A)"
-          ],
-          "variants": [
-            {
-              "reading": "octingenti nonaginta quinque",
-              "adopt_text": "octingenti nonaginta quinque",
-              "witnesses": [
-                "Clem1598-USFX",
-                "Clem-Saints",
-                "VulgConte (2009)",
-                "VulgHetzenauer (1906)",
-                "VulgSistina (1590)"
-              ],
-              "weight_sum": 0.88
-            }
-          ],
-          "note": "[Variation unit spanning several words] Adopted 'dccc xcv' [Amiatinus (A)] (weight 0.97, confidence 53%) over octingenti nonaginta quinque (Clem1598-USFX, Clem-Saints).",
-          "word_index": 6,
-          "word_count": 2,
-          "kind": "word",
-          "variant_type": "lexical substitution",
-          "analysis": [
-            {
-              "canon": "external: independent streams",
-              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            },
-            {
-              "canon": "external: two-stream policy",
-              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            }
-          ],
-          "lemma_key": "dccc xcu",
-          "confidence": 0.529,
-          "credited_witnesses": []
-        }
-      ],
+      "apparatus": [],
       "disregarded": [
         {
           "slot_index": 0,
@@ -2084,7 +1906,29 @@
           "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         },
         {
+          "slot_index": 6,
+          "kept_form": "octingenti",
+          "disregarded_forms": [
+            "dccc"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value"
+        },
+        {
           "slot_index": 7,
+          "kept_form": "nonaginta quinque",
+          "disregarded_forms": [
+            "xcv"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value"
+        },
+        {
+          "slot_index": 8,
           "kept_form": "anni,",
           "disregarded_forms": [
             "anni"
@@ -2095,7 +1939,7 @@
           "reason": "Punctuation / spacing difference only"
         },
         {
-          "slot_index": 10,
+          "slot_index": 11,
           "kept_form": "est.",
           "disregarded_forms": [
             "est"
@@ -2106,18 +1950,9 @@
           "reason": "Punctuation / spacing difference only"
         }
       ],
-      "rationale": "[Variation unit spanning several words] Adopted 'dccc xcv' [Amiatinus (A)] (weight 0.97, confidence 53%) over octingenti nonaginta quinque (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).",
+      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 6 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type); Punctuation / spacing difference only; Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value).",
       "human_locked": false,
-      "analysis": [
-        {
-          "canon": "confidence",
-          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
-          "favours": "neither",
-          "reading": "",
-          "strength": "info",
-          "key": ""
-        }
-      ],
+      "analysis": [],
       "needs_review": false
     },
     {
@@ -2137,6 +1972,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2256,6 +2092,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2433,6 +2270,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2552,6 +2390,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2636,6 +2475,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2660,48 +2500,13 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 1,
           "word_count": 1,
           "kind": "word",
           "variant_type": "",
           "analysis": [],
           "lemma_key": "ambulauit",
-          "confidence": 0.529,
-          "credited_witnesses": []
-        },
-        {
-          "slot_index": -1,
-          "lemma": "cum Deo:",
-          "lemma_witnesses": [
-            "Amiatinus (A)",
-            "Clem-Saints",
-            "Clem1598-USFX"
-          ],
-          "variants": [
-            {
-              "reading": "om.",
-              "witnesses": [
-                "VulgSistina (1590)"
-              ],
-              "weight_sum": 0.0
-            },
-            {
-              "reading": "cum Deo: et vixit,",
-              "witnesses": [
-                "VulgConte (2009)",
-                "VulgHetzenauer (1906)"
-              ],
-              "weight_sum": 0.0
-            }
-          ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
-          "word_index": 3,
-          "word_count": 2,
-          "kind": "word",
-          "variant_type": "",
-          "analysis": [],
-          "lemma_key": "cum deo",
           "confidence": 0.529,
           "credited_witnesses": []
         },
@@ -2863,6 +2668,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2925,6 +2731,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2998,6 +2805,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -3153,6 +2961,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -3316,7 +3125,7 @@
     {
       "id": 61623,
       "verse": 27,
-      "critical_text": "Et facti sunt omnes dies Mathusalae nongenti sexaginta novem anni, et mortuus est.",
+      "critical_text": "Et facti sunt omnes dies Mathusalæ nongenti sexaginta novem anni, et mortuus est.",
       "confidence": 0.529,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
@@ -3330,6 +3139,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -3337,7 +3147,7 @@
       "apparatus": [
         {
           "slot_index": 5,
-          "lemma": "Mathusalae",
+          "lemma": "Mathusalæ",
           "lemma_witnesses": [
             "Amiatinus (A)"
           ],
@@ -3355,7 +3165,7 @@
               "weight_sum": 0.88
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'Mathusalae' [Amiatinus (A)] (weight 0.97, confidence 53%) over Mathusala (Clem1598-USFX, Clem-Saints).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'Mathusalæ' [Amiatinus (A)] (weight 0.97, confidence 53%) over Mathusala (Clem1598-USFX, Clem-Saints).",
           "word_index": 5,
           "word_count": 1,
           "kind": "word",
@@ -3429,7 +3239,7 @@
           "reason": "Punctuation / spacing difference only"
         }
       ],
-      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'Mathusalae' [Amiatinus (A)] (weight 0.97, confidence 53%) over Mathusala (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).",
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'Mathusalæ' [Amiatinus (A)] (weight 0.97, confidence 53%) over Mathusala (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).",
       "human_locked": false,
       "analysis": [
         {
@@ -3460,6 +3270,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -3533,6 +3344,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -3639,6 +3451,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -3802,7 +3615,7 @@
     {
       "id": 61627,
       "verse": 31,
-      "critical_text": "Et facti sunt omnes dies Lamech septingenti septuaginta septem anni, et mortuus est. Noë vero cum quingentorum esset annorum, genuit Sem, et ham et Japheth.",
+      "critical_text": "Et facti sunt omnes dies Lamech septingenti septuaginta septem anni, et mortuus est. Noë vero cum quingentorum esset annorum, genuit Sem, et Ham et Japheth.",
       "confidence": 0.529,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
@@ -3816,6 +3629,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -3823,7 +3637,7 @@
       "apparatus": [
         {
           "slot_index": 21,
-          "lemma": "et ham et Japheth",
+          "lemma": "et Ham et Japheth",
           "lemma_witnesses": [
             "Amiatinus (A)"
           ],
@@ -3841,7 +3655,7 @@
               "weight_sum": 0.88
             }
           ],
-          "note": "[Variation unit spanning several words] Adopted 'et ham et Japheth' [Amiatinus (A)] (weight 0.97, confidence 53%) over Cham et Japheth (Clem1598-USFX, Clem-Saints).",
+          "note": "[Variation unit spanning several words] Adopted 'et Ham et Japheth' [Amiatinus (A)] (weight 0.97, confidence 53%) over Cham et Japheth (Clem1598-USFX, Clem-Saints).",
           "word_index": 21,
           "word_count": 4,
           "kind": "word",
@@ -3959,7 +3773,7 @@
           "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
         }
       ],
-      "rationale": "[Variation unit spanning several words] Adopted 'et ham et Japheth' [Amiatinus (A)] (weight 0.97, confidence 53%) over Cham et Japheth (Clem1598-USFX, Clem-Saints). Also normalised 8 orthographic/surface variation(s).",
+      "rationale": "[Variation unit spanning several words] Adopted 'et Ham et Japheth' [Amiatinus (A)] (weight 0.97, confidence 53%) over Cham et Japheth (Clem1598-USFX, Clem-Saints). Also normalised 8 orthographic/surface variation(s).",
       "human_locked": false,
       "analysis": [
         {

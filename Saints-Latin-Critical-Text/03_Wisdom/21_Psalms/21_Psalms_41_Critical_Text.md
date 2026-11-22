@@ -1,6 +1,6 @@
 # Psalms 41 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:18Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:46Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,35 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+
+### Versification & Alignment Notes
+- Psalt-Pianum (1945): 41:10 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 41:11 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 41:4 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 1 verse(s) re-aligned by content (4←41:3)
 
 ---
 
@@ -54,15 +70,58 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 41:1
 - **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Psalmus,** VulgSistina (1590)
 
+### Psalms 41:2
+- **Apparatus:** `cervus ad fontes` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cerva rivos** Psalt-Pianum (1945)
+- **Apparatus:** `ad` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Sitit ánima mea Deum, Deum vivum: quando véniam et vidébo fáciem Dei?** Psalt-Pianum (1945)
+
 ### Psalms 41:3
 - **Apparatus:** `fortem,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **fontem** VulgSistina (1590)
 
 ### Psalms 41:4
-- *Disregarded Surface Variant:* kept `(adopted text)` over `lacrimæ / lacrymae` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- **Apparatus:** `Fuerunt` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Factæ sunt** Psalt-Pianum (1945)
+- **Apparatus:** `panes` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **panis** Psalt-Pianum (1945)
+- **Apparatus:** `dicitur` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **dicunt** Psalt-Pianum (1945)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `quotidie: / cotídie:`, `quotidie: / cotidie`, `lacrimæ / lacrymae` (Psalt-Pianum (1945), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Psalms 41:5
-- **Apparatus:** `domum` Clem-Saints Clem1598-USFX VulgSistina (1590) **]** **donum** VulgConte (2009) VulgHetzenauer (1906)
-- *Disregarded Surface Variant:* kept `(adopted text)` over `exsultationis / exultationis,`, `exsultationis / exultationis,`, `exsultationis / exultationis,` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- **Apparatus:** `Hæc recordatus sum, et effudi in me animam meam, quoniam transibo in locum tabernaculi admirabilis, usque ad domum Dei, in voce` Clem-Saints Clem1598-USFX VulgSistina (1590) **]** **Inter voces** Psalt-Pianum (1945) ; **Hæc recordatus sum, et effudi in me animam meam: quoniam transibo in locum tabernaculi admirabilis, usque ad donum Dei: In voce** VulgConte (2009) VulgHetzenauer (1906)
+- **Apparatus:** `locum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `domum` Clem-Saints Clem1598-USFX VulgSistina (1590) **]** **donum** VulgConte (2009) VulgHetzenauer (1906) ; **om.** Psalt-Pianum (1945)
+- **Apparatus:** `confessionis, sonus epulantis.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **laudis, in cœtu festívo.** Psalt-Pianum (1945)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `exsultationis / exultationis`, `exsultationis / exultationis,`, `exsultationis / exultationis,`, `exsultationis / exultationis,` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Psalms 41:6
+- **Apparatus:** `tristis es,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **deprímeris,** Psalt-Pianum (1945)
+- **Apparatus:** `quare conturbas` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **tumultuáris in** Psalt-Pianum (1945)
+- **Apparatus:** `Deo, quoniam adhuc confitebor illi, salutare` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Deum: quia rursus celebrábo eum, salútem** Psalt-Pianum (1945)
+- **Apparatus:** `adhuc` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **rursus** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et Deum meum.** Psalt-Pianum (1945)
+
+### Psalms 41:7
+- **Apparatus:** `et Deus meus. Ad meipsum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **In me ipso** Psalt-Pianum (1945)
+- **Apparatus:** `et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **In** Psalt-Pianum (1945)
+- **Apparatus:** `conturbata est: propterea memor ero` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **deprímitur: ídeo recórdor** Psalt-Pianum (1945)
+- **Apparatus:** `de` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ex** Psalt-Pianum (1945)
+- **Apparatus:** `Hermoniim a` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Hermon, ex** Psalt-Pianum (1945)
+- **Apparatus:** `modico.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Misar.** Psalt-Pianum (1945)
+
+### Psalms 41:8
+- **Apparatus:** `Abyssus abyssum invocat, in voce` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Gurges gúrgitem vocat cum fragóre** Psalt-Pianum (1945)
+- **Apparatus:** `omnia excelsa tua, et fluctus tui super me transierunt.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 41:9
+- **Apparatus:** `In die mandavit Dominus misericordiam suam,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Omnes fluctus** Psalt-Pianum (1945)
+- **Apparatus:** `nocte canticum ejus; apud` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **undæ tuæ super** Psalt-Pianum (1945)
+- **Apparatus:** `oratio Deo vitæ meæ.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **transiérunt.** Psalt-Pianum (1945)
+
+### Psalms 41:12
+- **Apparatus:** `es,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **incédo, ab inimíco oppréssus? Ossa mea frangúntur, dum insúltant mihi adversárii mei, Dum dicunt mihi cotídie: Ubi est Deus tuus? Quare deprímeris,** Psalt-Pianum (1945)
+- **Apparatus:** `quare conturbas` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **tumultuáris in** Psalt-Pianum (1945)
+- **Apparatus:** `Deo, quoniam adhuc confitebor illi, salutare` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Deum: quia rursus celebrábo eum, salútem** Psalt-Pianum (1945)
+- **Apparatus:** `Deo,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Deum** Psalt-Pianum (1945)
+- **Apparatus:** `adhuc` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **rursus** Psalt-Pianum (1945)
+- **Apparatus:** `Deus meus.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Deum meum.** Psalt-Pianum (1945)
 
 ---
 
@@ -82,6 +141,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quemadmodum desiderat cervus ad fontes aquarum, ita desiderat anima mea ad te, Deus.
   - `Clem-Saints`: Quemadmodum desiderat cervus ad fontes aquarum, ita desiderat anima mea ad te, Deus.
   - `VulgHetzenauer (1906)`: Quemadmodum desiderat cervus ad fontes aquarum: ita desiderat anima mea ad te Deus.
+  - `Psalt-Pianum (1945)`: Quemádmodum desíderat cerva rivos aquárum, ita desíderat ánima mea te, Deus. Sitit ánima mea Deum, Deum vivum: quando véniam et vidébo fáciem Dei?
   - `VulgConte (2009)`: Quemadmodum desiderat cervus ad fontes aquarum: ita desiderat anima mea ad te Deus.
   - `VulgSistina (1590)`: Quemadmodum desiderat cervus ad fontes aquarum: ita desiderat anima mea ad te Deus.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -100,6 +160,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Fuerunt mihi lacrimæ meæ panes die ac nocte, dum dicitur mihi quotidie: Ubi est Deus tuus?
   - `Clem-Saints`: Fuerunt mihi lacrimæ meæ panes die ac nocte, dum dicitur mihi quotidie: Ubi est Deus tuus?
   - `VulgHetzenauer (1906)`: Fuerunt mihi lacrimæ meæ panes die ac nocte: dum dicitur mihi quotidie: Ubi est Deus tuus?
+  - `Psalt-Pianum (1945)` *(numbered 41:3 in this witness)*: Factæ sunt mihi lácrimæ meæ panis die ac nocte, dum dicunt mihi cotídie: Ubi est Deus tuus?
   - `VulgConte (2009)`: Fuerunt mihi lacrimæ meæ panes die ac nocte: dum dicitur mihi quotidie: Ubi est Deus tuus?
   - `VulgSistina (1590)`: Fuerunt mihi lacrymae meae panes die ac nocte: dum dicitur mihi quotidie: Ubi est Deus tuus?
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -109,6 +170,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Hæc recordatus sum, et effudi in me animam meam, quoniam transibo in locum tabernaculi admirabilis, usque ad domum Dei, in voce exsultationis et confessionis, sonus epulantis.
   - `Clem-Saints`: Hæc recordatus sum, et effudi in me animam meam, quoniam transibo in locum tabernaculi admirabilis, usque ad domum Dei, in voce exsultationis et confessionis, sonus epulantis.
   - `VulgHetzenauer (1906)`: Hæc recordatus sum, et effudi in me animam meam: quoniam transibo in locum tabernaculi admirabilis, usque ad donum Dei: In voce exultationis, et confessionis: sonus epulantis.
+  - `Psalt-Pianum (1945)`: Inter voces exsultatiónis et laudis, in cœtu festívo.
   - `VulgConte (2009)`: Hæc recordatus sum, et effudi in me animam meam: quoniam transibo in locum tabernaculi admirabilis, usque ad donum Dei: In voce exultationis, et confessionis: sonus epulantis.
   - `VulgSistina (1590)`: Haec recordatus sum, et effudi in me animam meam: quoniam transibo in locum tabernaculi admirabilis, usque ad domum Dei: In voce exultationis, et confessionis: sonus epulantis.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -118,6 +180,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quare tristis es, anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi, salutare vultus mei,
   - `Clem-Saints`: Quare tristis es, anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi, salutare vultus mei,
   - `VulgHetzenauer (1906)`: Quare tristis es anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei,
+  - `Psalt-Pianum (1945)`: Quare deprímeris, ánima mea, et tumultuáris in me? Spera in Deum: quia rursus celebrábo eum, salútem vultus mei et Deum meum.
   - `VulgConte (2009)`: Quare tristis es anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei,
   - `VulgSistina (1590)`: Quare tristis es anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei,
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -127,6 +190,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et Deus meus. Ad meipsum anima mea conturbata est: propterea memor ero tui de terra Jordanis et Hermoniim a monte modico.
   - `Clem-Saints`: et Deus meus. Ad meipsum anima mea conturbata est: propterea memor ero tui de terra Jordanis et Hermoniim a monte modico.
   - `VulgHetzenauer (1906)`: et Deus meus. Ad meipsum anima mea conturbata est: propterea memor ero tui de terra Iordanis, et Hermoniim a monte modico.
+  - `Psalt-Pianum (1945)`: In me ipso ánima mea deprímitur: ídeo recórdor tui ex terra Jordánis et Hermon, ex monte Misar.
   - `VulgConte (2009)`: et Deus meus. Ad meipsum anima mea conturbata est: propterea memor ero tui de terra Iordanis, et Hermoniim a monte modico.
   - `VulgSistina (1590)`: et Deus meus. Ad meipsum anima mea conturbata est: propterea memor ero tui de terra Iordanis, et Hermoniim a monte modico.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -136,6 +200,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Abyssus abyssum invocat, in voce cataractarum tuarum; omnia excelsa tua, et fluctus tui super me transierunt.
   - `Clem-Saints`: Abyssus abyssum invocat, in voce cataractarum tuarum; omnia excelsa tua, et fluctus tui super me transierunt.
   - `VulgHetzenauer (1906)`: Abyssus abyssum invocat, in voce cataractarum tuarum. Omnia excelsa tua, et fluctus tui super me transierunt.
+  - `Psalt-Pianum (1945)`: Gurges gúrgitem vocat cum fragóre cataractárum tuárum:
   - `VulgConte (2009)`: Abyssus abyssum invocat, in voce cataractarum tuarum. Omnia excelsa tua, et fluctus tui super me transierunt.
   - `VulgSistina (1590)`: Abyssus abyssum invocat, in voce cataractarum tuarum. Omnia excelsa tua, et fluctus tui super me transierunt.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -145,6 +210,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: In die mandavit Dominus misericordiam suam, et nocte canticum ejus; apud me oratio Deo vitæ meæ.
   - `Clem-Saints`: In die mandavit Dominus misericordiam suam, et nocte canticum ejus; apud me oratio Deo vitæ meæ.
   - `VulgHetzenauer (1906)`: In die mandavit Dominus misericordiam suam: et nocte canticum eius. Apud me oratio Deo vitæ meæ,
+  - `Psalt-Pianum (1945)`: Omnes fluctus et undæ tuæ super me transiérunt.
   - `VulgConte (2009)`: In die mandavit Dominus misericordiam suam: et nocte canticum eius. Apud me oratio Deo vitæ meæ,
   - `VulgSistina (1590)`: In die mandavit Dominus misericordiam suam: et nocte canticum eius. Apud me oratio Deo vitae meae,
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -172,6 +238,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quare tristis es, anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi, salutare vultus mei, et Deus meus.
   - `Clem-Saints`: Quare tristis es, anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi, salutare vultus mei, et Deus meus.
   - `VulgHetzenauer (1906)`: quare tristis es anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei, et Deus meus.
+  - `Psalt-Pianum (1945)`: Quare tristis incédo, ab inimíco oppréssus? Ossa mea frangúntur, dum insúltant mihi adversárii mei, Dum dicunt mihi cotídie: Ubi est Deus tuus? Quare deprímeris, ánima mea, et tumultuáris in me? Spera in Deum: quia rursus celebrábo eum, salútem vultus mei et Deum meum.
   - `VulgConte (2009)`: quare tristis es anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei, et Deus meus.
   - `VulgSistina (1590)`: quare tristis es anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei, et Deus meus.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

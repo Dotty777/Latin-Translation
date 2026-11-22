@@ -1,6 +1,6 @@
 # Genesis 37 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:16:08Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:33Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -15,9 +15,9 @@
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
-| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -29,7 +29,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -65,12 +74,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **28** Et prætereuntibus Mazianitis negotiatoribus, extrahentes eum de cisterna, vendiderunt Ismaëlitis, viginti argenteis: qui duxerunt eum in Ægyptum.
 **29** Reversusque Ruben ad cisternam, non invenit puerum:
 **30** et scissis vestibus pergens ad fratres ait: Puer non comparet, et ego quo ibo?
-**31** Tulerunt autem tunicam ejus, et in sanguinem hædi, quem occiderant, tincxerunt:
+**31** Tulerunt autem tunicam ejus, et in sanguinem hædi, quem occiderant, tinxerunt:
 **32** mittentes qui ferrent ad patrem, et dicerent: Hanc invenimus: vide utrum tunica filii tui sit, an non.
 **33** Quam cum cognovisset pater, ait: Tunica filii mei est: fera pessima comedit eum, bestia devoravit Joseph.
 **34** Scissisque vestibus, indutus est cilicio, lugens filium multo tempore.
 **35** Congregatis autem cunctis liberis ejus ut lenirent dolorem patris, noluit consolationem recipere et ait: Descendam ad filium meum lugens in infernum. Et illo perseverante in fletu,
-**36** Madianei vendiderunt Joseph in Aegyptum Putipharae eunucho Pharaonis, magistro militiae.
+**36** Madianei vendiderunt Joseph in Ægyptum Putipharæ eunucho Pharaonis, magistro militiæ.
 
 ---
 
@@ -78,12 +87,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Genesis 37:1
 - **Apparatus:** `peregrinatus est` Amiatinus (A) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem1598-USFX Clem-Saints *(word-order transposition)*
-  - *variant type: transposition:* Units 'peregrinatus est' and 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'peregrinatus est', 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
-- **Apparatus:** `pater suus` Amiatinus (A) Clem-Saints Clem1598-USFX **]** **om.** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590)
 - **Apparatus:** `om.` Amiatinus (A) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **peregrinatus est** Clem1598-USFX Clem-Saints *(word-order transposition)*
-  - *variant type: transposition:* Units 'peregrinatus est' and 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'peregrinatus est', 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Habitavit` over `Habitauit` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -139,7 +147,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `vidi:` over `uidi` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 37:7
-- **Apparatus:** `ligare nos` Amiatinus (A) **]** **nos ligare** Clem1598-USFX Clem-Saints ; **ligare** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `ligare nos` Amiatinus (A) **]** **nos ligare** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `agro:` over `agro` (Amiatinus (A)) — *Punctuation / spacing difference only*
@@ -191,7 +199,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `terram?` over `terram` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 37:11
-- **Apparatus:** `igitur ei` Amiatinus (A) **]** **ei igitur** Clem1598-USFX Clem-Saints ; **igitur** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `igitur ei` Amiatinus (A) **]** **ei igitur** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Invidebant` over `inuidebant` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -229,7 +237,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Hebron,` over `hebron` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `venit` over `uenit` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `Sichem:` over `sychem` (Amiatinus (A)) — *Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `renuntia / renuncia`, `renuntia / renuncia`, `renuntia / renuncia` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Sichem: / Sychem`, `renuntia / renuncia`, `renuntia / renuncia`, `renuntia / renuncia` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Genesis 37:15
 - *Disregarded Surface Variant:* kept `invenitque` over `inuenitque` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -331,7 +339,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `aquam.` over `aquam` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 37:25
-- **Apparatus:** `viatores Ismaëlitas` Amiatinus (A) **]** **Ismaëlitas viatores** Clem1598-USFX Clem-Saints ; **viatores** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `viatores Ismaëlitas` Amiatinus (A) **]** **Ismaëlitas viatores** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `portare` Amiatinus (A) **]** **portantes** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(inflection or spelling (same stem))*
@@ -372,7 +380,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `Mazianitis` Amiatinus (A) **]** **Madianitis** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
-- **Apparatus:** `Ismaëlitis` Amiatinus (A) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **eum Ismaëlitis** Clem1598-USFX Clem-Saints *(partial substitution)*
+- **Apparatus:** `Ismaëlitis` Amiatinus (A) **]** **eum Ismaëlitis** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Et` over `et` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -405,14 +413,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `sanguinem` Amiatinus (A) VulgSistina (1590) **]** **sanguine** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
-- **Apparatus:** `tincxerunt` Amiatinus (A) **]** **tinxerunt** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
-  - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Tulerunt` over `tulerunt` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `ejus,` over `eius` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `hædi,` over `haedi` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `occiderant,` over `occiderant` (Amiatinus (A)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `hædi, / hoedi,` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `tinxerunt:` over `tincxerunt` (Amiatinus (A)) — *Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `hædi, / hedi`, `hædi, / hoedi,` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Genesis 37:32
 - *Disregarded Surface Variant:* kept `patrem,` over `patrem` (Amiatinus (A)) — *Punctuation / spacing difference only*
@@ -462,10 +468,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `Madianei` Amiatinus (A) **]** **Madianitæ** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
-- **Apparatus:** `Aegyptum Putipharae` Amiatinus (A) **]** **Ægypto Putiphari** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) ; **Aegypto Phutiphari** VulgSistina (1590) *(lexical substitution)*
+- **Apparatus:** `Ægyptum Putipharæ` Amiatinus (A) **]** **Ægypto Putiphari** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) ; **Aegypto Phutiphari** VulgSistina (1590) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
-- **Apparatus:** `militiae` Amiatinus (A) **]** **militum** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(inflection or spelling (same stem))*
+- **Apparatus:** `militiæ` Amiatinus (A) **]** **militum** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `vendiderunt` over `uendiderunt` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -476,7 +482,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
 
-### Verse 1 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 1 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Habitavit autem Jacob in terra Chanaan, in qua peregrinatus est pater suus
   - `Clem1598-USFX`: Habitavit autem Jacob in terra Chanaan, in qua pater suus peregrinatus est.
   - `Clem-Saints`: Habitavit autem Jacob in terra Chanaan, in qua pater suus peregrinatus est.
@@ -485,7 +491,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgConte (2009)`: Habitavit autem Iacob in terra Chanaan, in qua pater suus peregrinatus est.
   - `VulgSistina (1590)`: Habitavit autem Iacob in terra Chanaan, in qua pater suus peregrinatus est.
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'peregrinatus est' [Amiatinus (A)] (weight 0.97, confidence 53%) over om. (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over peregrinatus est (Clem1598-USFX, Clem-Saints). Also normalised 3 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et hæ sunt generationes ejus: Joseph cum sedecim esset annorum, pascebat gregem cum fratribus suis adhuc puer: et erat cum filiis Balæ et Zelphæ uxorum patris sui: accusavitque fratres suos apud patrem crimine pessimo.
@@ -791,16 +797,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over suos (Clem1598-USFX, Clem-Saints). Also normalised 5 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 31 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Tulerunt autem tunicam ejus, et in sanguinem hædi, quem occiderant, tincxerunt:
+### Verse 31 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Tulerunt autem tunicam ejus, et in sanguinem hædi, quem occiderant, tinxerunt:
   - `Clem1598-USFX`: Tulerunt autem tunicam ejus, et in sanguine hædi, quem occiderant, tinxerunt:
   - `Clem-Saints`: Tulerunt autem tunicam ejus, et in sanguine hædi, quem occiderant, tinxerunt:
   - `Amiatinus (A)`: tulerunt autem tunicam eius et in sanguinem haedi quem occiderant tincxerunt
   - `VulgHetzenauer (1906)`: Tulerunt autem tunicam eius, et in sanguine hœdi, quem occiderant, tinxerunt:
   - `VulgConte (2009)`: Tulerunt autem tunicam eius, et in sanguine hœdi, quem occiderant, tinxerunt:
   - `VulgSistina (1590)`: Tulerunt autem tunicam eius, et in sanguinem hoedi, quem occiderant, tinxerunt:
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'sanguinem' [Amiatinus (A)] (weight 0.97, confidence 53%) over sanguine (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'tincxerunt' [Amiatinus (A)] (weight 0.97, confidence 53%) over tinxerunt (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'sanguinem' [Amiatinus (A)] (weight 0.97, confidence 53%) over sanguine (Clem1598-USFX, Clem-Saints). Also normalised 5 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** mittentes qui ferrent ad patrem, et dicerent: Hanc invenimus: vide utrum tunica filii tui sit, an non.
@@ -846,12 +852,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 36 (Confidence: `14.8%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Madianei vendiderunt Joseph in Aegyptum Putipharae eunucho Pharaonis, magistro militiae.
+- **Critical Text:** Madianei vendiderunt Joseph in Ægyptum Putipharæ eunucho Pharaonis, magistro militiæ.
   - `Clem1598-USFX`: Madianitæ vendiderunt Joseph in Ægypto Putiphari eunucho Pharaonis, magistro militum.
   - `Clem-Saints`: Madianitæ vendiderunt Joseph in Ægypto Putiphari eunucho Pharaonis, magistro militum.
   - `Amiatinus (A)`: madianei uendiderunt ioseph in aegyptum putipharae eunucho pharaonis magistro militiae
   - `VulgHetzenauer (1906)`: Madianitæ vendiderunt Ioseph in Ægypto Putiphari eunucho Pharaonis magistro militum.
   - `VulgConte (2009)`: Madianitæ vendiderunt Ioseph in Ægypto Putiphari eunucho Pharaonis magistro militum.
   - `VulgSistina (1590)`: Madianitae vendiderunt Ioseph in Aegypto Phutiphari eunucho Pharaonis magistro militum.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Madianei' [Amiatinus (A)] (weight 0.97, confidence 53%) over Madianitæ (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'Aegyptum Putipharae' [Amiatinus (A)] (weight 0.97, confidence 53%) over Ægypto Putiphari (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'militiae' [Amiatinus (A)] (weight 0.97, confidence 53%) over militum (Clem1598-USFX, Clem-Saints). Also normalised 3 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Madianei' [Amiatinus (A)] (weight 0.97, confidence 53%) over Madianitæ (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'Ægyptum Putipharæ' [Amiatinus (A)] (weight 0.97, confidence 53%) over Ægypto Putiphari (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'militiæ' [Amiatinus (A)] (weight 0.97, confidence 53%) over militum (Clem1598-USFX, Clem-Saints). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 15% = product of 3 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).

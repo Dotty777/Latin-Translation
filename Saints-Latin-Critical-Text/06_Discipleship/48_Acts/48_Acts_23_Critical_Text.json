@@ -7,7 +7,7 @@
   "usfm_code": "ACT",
   "chapter": 23,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:18:38Z",
+  "updated_at": "2026-11-22T08:01:28Z",
   "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
   "versification_anchor": "Clem-Saints",
   "orthographic_base": "Clem1598-USFX",
@@ -37,6 +37,13 @@
       "role": "apparatus only (recorded, not voting)"
     },
     {
+      "siglum": "Amiatinus (A)",
+      "title": "Codex Amiatinus — Digital Latin Library TEI transcription (Full 27-Book NT)",
+      "tier": 2,
+      "license": "CC BY-SA 4.0 (Digital Latin Library transcription)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
       "siglum": "VulgConte (2009)",
       "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
       "tier": 3,
@@ -62,17 +69,50 @@
         "Clem1598-USFX": "Intendens autem in concilium Paulus, ait: Viri fratres, ego omni conscientia bona conversatus sum ante Deum usque in hodiernum diem.",
         "Clem-Saints": "Intendens autem in concilium Paulus, ait: Viri fratres, ego omni conscientia bona conversatus sum ante Deum usque in hodiernum diem.",
         "VulgHetzenauer (1906)": "Intendens autem in concilium Paulus ait: Viri fratres, ego omni conscientia bona conversatus sum ante Deum usque in hodiernum diem.",
+        "Amiatinus (A)": "Intendens autem concilium paulus ait uiri fratres ego omni conscientia bona conuersatus sum ante deum usque in hodiernum diem",
         "VulgConte (2009)": "Intendens autem in concilium Paulus ait: Viri fratres, ego omni conscientia bona conversatus sum ante Deum usque in hodiernum diem.",
         "VulgSistina (1590)": "Intendens autem in concilium Paulus ait: Viri fratres, ego omni conscientia bona conversatus sum ante Deum usque in hodiernum diem."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "in",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "in",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -89,18 +129,35 @@
         "Clem1598-USFX": "Princeps autem sacerdotum Ananias præcepit astantibus sibi percutere os ejus.",
         "Clem-Saints": "Princeps autem sacerdotum Ananias præcepit astantibus sibi percutere os ejus.",
         "VulgHetzenauer (1906)": "Princeps autem sacerdotum Ananias præcepit astantibus sibi percutere os eius.",
+        "Amiatinus (A)": "princeps autem sacerdotum annanias praecepit adstantibus sibi percutere os eius",
         "VulgConte (2009)": "Princeps autem sacerdotum Ananias præcepit astantibus sibi percutere os eius.",
         "VulgSistina (1590)": "Princeps autem sacerdotum Ananias praecepit astantibus sibi percutere os eius."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
-      "disregarded": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Ananias / annanias",
+            "astantibus / adstantibus",
+            "astantibus / adstantibus"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -116,17 +173,79 @@
         "Clem1598-USFX": "Tunc Paulus dixit ad eum: Percutiet te Deus, paries dealbate. Et tu sedens judicas me secundum legem, et contra legem jubes me percuti?",
         "Clem-Saints": "Tunc Paulus dixit ad eum: Percutiet te Deus, paries dealbate. Et tu sedens judicas me secundum legem, et contra legem jubes me percuti?",
         "VulgHetzenauer (1906)": "Tunc Paulus dixit ad eum: Percutiet te Deus, paries dealbate. Et tu sedens iudicas me secundum legem, et contra legem iubes me percuti?",
+        "Amiatinus (A)": "tunc paulus ad eum dixit percutiet te deus paries dealbate et tu sedens iudicas me secundum legem et contra legem iubes me percuti",
         "VulgConte (2009)": "Tunc Paulus dixit ad eum: Percutiet te Deus, paries dealbate. Et tu sedens iudicas me secundum legem, et contra legem iubes me percuti?",
         "VulgSistina (1590)": "Tunc Paulus dixit ad eum: Percutiet te Deus, paries dealbate. Et tu sedens iudicas me secundum legem, et contra legem iubes me percuti?"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "dixit",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 2,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "dixit",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "dixit",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -143,18 +262,34 @@
         "Clem1598-USFX": "Et qui astabant dixerunt: Summum sacerdotem Dei maledicis.",
         "Clem-Saints": "Et qui astabant dixerunt: Summum sacerdotem Dei maledicis.",
         "VulgHetzenauer (1906)": "Et qui astabant dixerunt: Summum sacerdotem Dei maledicis.",
+        "Amiatinus (A)": "et qui adstabant dixerunt summum sacerdotem dei maledicis",
         "VulgConte (2009)": "Et qui astabant dixerunt: Summum sacerdotem Dei maledicis.",
         "VulgSistina (1590)": "Et qui astabant dixerunt: Summum sacerdotem Dei maledicis."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
-      "disregarded": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "astabant / adstabant",
+            "astabant / adstabant"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -170,17 +305,50 @@
         "Clem1598-USFX": "Dixit autem Paulus: Nesciebam, fratres, quia princeps est sacerdotum. Scriptum est enim: Principem populi tui non maledices.",
         "Clem-Saints": "Dixit autem Paulus: Nesciebam, fratres, quia princeps est sacerdotum. Scriptum est enim: Principem populi tui non maledices.",
         "VulgHetzenauer (1906)": "Dixit autem Paulus: Nesciebam fratres quia princeps est sacerdotum. Scriptum est enim: Principem populi tui non maledices.",
+        "Amiatinus (A)": "dixit autem paulus nesciebam fratres quia princeps est sacerdotum scriptum est enim principem populi tui non maledicis",
         "VulgConte (2009)": "Dixit autem Paulus: Nesciebam fratres quia princeps est sacerdotum. Scriptum est enim: Principem populi tui non maledices.",
         "VulgSistina (1590)": "Dixit autem Paulus: Nesciebam fratres quia princeps est sacerdotum. Scriptum est enim: Principem populi tui non maledices."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "maledices.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "maledicis",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 16,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "maledices",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -197,17 +365,50 @@
         "Clem1598-USFX": "Sciens autem Paulus quia una pars esset sadducæorum, et altera pharisæorum, exclamavit in concilio: Viri fratres, ego pharisæus sum, filius pharisæorum: de spe et resurrectione mortuorum ego judicor.",
         "Clem-Saints": "Sciens autem Paulus quia una pars esset sadducæorum, et altera pharisæorum, exclamavit in concilio: Viri fratres, ego pharisæus sum, filius pharisæorum: de spe et resurrectione mortuorum ego judicor.",
         "VulgHetzenauer (1906)": "Sciens autem Paulus quia una pars esset Sadducæorum, et altera Pharisæorum, exclamavit in concilio: Viri fratres, ego Pharisæus sum, filius Pharisæorum, de spe et resurrectione mortuorum ego iudicor.",
+        "Amiatinus (A)": "Sciens autem paulus quia una pars esset sadducaeorum et altera pharisaeorum exclamauit in concilio uiri fratres ego pharisaeus sum filius pharisaeorum de spe et de resurrectione mortuorum ego iudicor",
         "VulgConte (2009)": "Sciens autem Paulus quia una pars esset Sadducæorum, et altera Pharisæorum, exclamavit in concilio: Viri fratres, ego Pharisæus sum, filius Pharisæorum, de spe et resurrectione mortuorum ego iudicor.",
         "VulgSistina (1590)": "Sciens autem Paulus quia una pars esset Sadducaeorum, et altera Pharisaeorum, exclamavit in concilio: Viri fratres, ego Pharisaeus sum, filius Pharisaeorum, de spe et resurrectione mortuorum ego iudicor."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "de",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 24,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -224,12 +425,15 @@
         "Clem1598-USFX": "Et cum hæc dixisset, facta est dissensio inter pharisæos et sadducæos, et soluta est multitudo.",
         "Clem-Saints": "Et cum hæc dixisset, facta est dissensio inter pharisæos et sadducæos, et soluta est multitudo.",
         "VulgHetzenauer (1906)": "Et cum hæc dixisset, facta est dissensio inter Pharisæos, et Sadducæos, et soluta est multitudo.",
+        "Amiatinus (A)": "et cum haec dixisset facta est dissensio inter pharisaeos et sadducaeos et soluta est multitudo",
         "VulgConte (2009)": "Et cum hæc dixisset, facta est dissensio inter Pharisæos, et Sadducæos, et soluta est multitudo.",
         "VulgSistina (1590)": "Et cum haec dixisset, facta est dissensio inter Pharisaeos, et Sadducaeos, et soluta est multitudo."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -251,18 +455,33 @@
         "Clem1598-USFX": "Sadducæi enim dicunt non esse resurrectionem, neque angelum, neque spiritum: pharisæi autem utraque confitentur.",
         "Clem-Saints": "Sadducæi enim dicunt non esse resurrectionem, neque angelum, neque spiritum: pharisæi autem utraque confitentur.",
         "VulgHetzenauer (1906)": "Sadducæi enim dicunt, non esse resurrectionem, neque Angelum, neque Spiritum: Pharisæi autem utraque confitentur.",
+        "Amiatinus (A)": "sadducaei enim dicunt non esse resurrectionem neque angelum neque spiritum farisaei autem utraque confitentur",
         "VulgConte (2009)": "Sadducæi enim dicunt, non esse resurrectionem, neque Angelum, neque spiritum: Pharisæi autem utraque confitentur.",
         "VulgSistina (1590)": "Sadducaei enim dicunt, non esse resurrectionem, neque Angelum, neque Spiritum: Pharisaei autem utraque confitentur."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
-      "disregarded": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "pharisæi / farisaei"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -278,12 +497,15 @@
         "Clem1598-USFX": "Factus est autem clamor magnus. Et surgentes quidam pharisæorum, pugnabant, dicentes: Nihil mali invenimus in homine isto: quid si spiritus locutus est ei, aut angelus?",
         "Clem-Saints": "Factus est autem clamor magnus. Et surgentes quidam pharisæorum, pugnabant, dicentes: Nihil mali invenimus in homine isto: quid si spiritus locutus est ei, aut angelus?",
         "VulgHetzenauer (1906)": "Factus est autem clamor magnus. Et surgentes quidam Pharisæorum, pugnabant, dicentes: Nihil mali invenimus in homine isto: quid si Spiritus locutus est ei, aut Angelus?",
+        "Amiatinus (A)": "factus est autem clamor magnus et surgentes quidam pharisaeorum pugnabant dicentes nihil mali inuenimus in homine isto quid si spiritus locutus est ei aut angelus",
         "VulgConte (2009)": "Factus est autem clamor magnus. Et surgentes quidam Pharisæorum, pugnabant, dicentes: Nihil mali invenimus in homine isto: quid si spiritus locutus est ei, aut angelus?",
         "VulgSistina (1590)": "Factus est autem clamor magnus. Et surgentes quidam Pharisaeorum, pugnabant, dicentes: Nihil mali invenimus in homine isto: quid si Spiritus locutus est ei, aut Angelus?"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -305,12 +527,15 @@
         "Clem1598-USFX": "Et cum magna dissensio facta esset, timens tribunus ne discerperetur Paulus ab ipsis, jussit milites descendere, et rapere eum de medio eorum, ac deducere eum in castra.",
         "Clem-Saints": "Et cum magna dissensio facta esset, timens tribunus ne discerperetur Paulus ab ipsis, jussit milites descendere, et rapere eum de medio eorum, ac deducere eum in castra.",
         "VulgHetzenauer (1906)": "Et cum magna dissensio facta esset, timens tribunus ne discerperetur Paulus ab ipsis, iussit milities descendere, et rapere eum de medio eorum, ac deducere eum in castra.",
+        "Amiatinus (A)": "et cum magna dissensio facta esset timens tribunus ne discerperetur paulus ab ipsis iussit milites descendere et rapere eum de medio eorum ac deducere eum in castra",
         "VulgConte (2009)": "Et cum magna dissensio facta esset, timens Tribunus ne discerperetur Paulus ab ipsis, iussit milities descendere, et rapere eum de medio eorum, ac deducere eum in castra.",
         "VulgSistina (1590)": "Et cum magna dissensio facta esset, timens tribunus ne discerperetur Paulus ab ipsis, iussit milites descendere, et rapere eum de medio eorum, ac deducere eum in castra."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -322,6 +547,7 @@
           "lemma_witnesses": [
             "Clem-Saints",
             "Clem1598-USFX",
+            "Amiatinus (A)",
             "VulgSistina (1590)"
           ],
           "variants": [
@@ -334,7 +560,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 14,
           "word_count": 1,
           "kind": "word",
@@ -361,18 +587,64 @@
         "Clem1598-USFX": "Sequenti autem nocte assistens ei Dominus, ait: Constans esto: sicut enim testificatus es de me in Jerusalem, sic te oportet et Romæ testificari.",
         "Clem-Saints": "Sequenti autem nocte assistens ei Dominus, ait: Constans esto: sicut enim testificatus es de me in Jerusalem, sic te oportet et Romæ testificari.",
         "VulgHetzenauer (1906)": "Sequenti autem nocte assistens ei Dominus, ait: Constans esto: sicut enim testificatus es de me in Ierusalem, sic te oportet et Romæ testificari.",
+        "Amiatinus (A)": "sequenti autem nocte adsistens ei dominus ait constans esto sicut enim testificatus es de me hierusalem sic te oportet et romae testificari",
         "VulgConte (2009)": "Sequenti autem nocte assistens ei Dominus, ait: Constans esto: sicut enim testificatus es de me in Ierusalem, sic te oportet et Romæ testificari.",
         "VulgSistina (1590)": "Sequenti autem nocte assistens ei Dominus, ait: Constans esto: sicut enim testificatus es de me in Ierusalem, sic te oportet et Romae testificari."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
-      "disregarded": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "in Jerusalem,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "hierusalem",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 15,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "in ierusalem",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "assistens / adsistens",
+            "assistens / adsistens"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -388,12 +660,15 @@
         "Clem1598-USFX": "Facta autem die collegerunt se quidam ex Judæis, et devoverunt, se dicentes neque manducaturos, neque bibituros donec occiderent Paulum.",
         "Clem-Saints": "Facta autem die collegerunt se quidam ex Judæis, et devoverunt, se dicentes neque manducaturos, neque bibituros donec occiderent Paulum.",
         "VulgHetzenauer (1906)": "Facta autem die collegerunt se quidam ex Iudæis, et devoverunt se dicentes, neque manducaturos, neque bibaturos donec occiderent Paulum.",
+        "Amiatinus (A)": "Facta autem die collegerunt se quidam ex iudaeis et deuouerunt se dicentes neque manducaturos neque bibituros donec occiderent paulum",
         "VulgConte (2009)": "Facta autem die collegerunt se quidam ex Iudæis, et devoverunt se dicentes, neque manducaturos, neque bibaturos donec occiderent Paulum.",
         "VulgSistina (1590)": "Facta autem die collegerunt se quidam ex Iudaeis, et devoverunt se dicentes, neque manducaturos, neque bibituros donec occiderent Paulum."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -405,6 +680,7 @@
           "lemma_witnesses": [
             "Clem-Saints",
             "Clem1598-USFX",
+            "Amiatinus (A)",
             "VulgSistina (1590)"
           ],
           "variants": [
@@ -417,7 +693,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 15,
           "word_count": 1,
           "kind": "word",
@@ -444,17 +720,50 @@
         "Clem1598-USFX": "Erant autem plus quam quadraginta viri qui hanc conjurationem fecerant:",
         "Clem-Saints": "Erant autem plus quam quadraginta viri qui hanc conjurationem fecerant:",
         "VulgHetzenauer (1906)": "Erant autem plus quam quadraginta viri, qui hanc coniurationem fecerant:",
+        "Amiatinus (A)": "erant autem plus quam quadraginta qui hanc coniurationem fecerant",
         "VulgConte (2009)": "Erant autem plus quam quadraginta viri, qui hanc coniurationem fecerant:",
         "VulgSistina (1590)": "Erant autem plus quam quadraginta viri, qui hanc coniurationem fecerant:"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "viri",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "uiri",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -471,12 +780,15 @@
         "Clem1598-USFX": "qui accesserunt ad principes sacerdotum et seniores, et dixerunt: Devotione devovimus nos nihil gustaturos, donec occidamus Paulum.",
         "Clem-Saints": "qui accesserunt ad principes sacerdotum et seniores, et dixerunt: Devotione devovimus nos nihil gustaturos, donec occidamus Paulum.",
         "VulgHetzenauer (1906)": "qui accesserunt ad principes sacerdotum, et seniores, et dixerunt: Devotione devovimus nos nihil gustaturos, donec occidamus Paulum.",
+        "Amiatinus (A)": "qui accesserunt ad principes sacerdotum et seniores et dixerunt deuotione deuouimus nos nihil gustaturos donec occidamus paulum",
         "VulgConte (2009)": "qui accesserunt ad principes sacerdotum, et seniores, et dixerunt: Devotione devovimus nos nihil gustaturos, donec occidamus Paulum.",
         "VulgSistina (1590)": "qui accesserunt ad principes sacerdotum, et seniores, et dixerunt: Devotione devovimus nos nihil gustaturos, donec occidamus Paulum."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -498,18 +810,33 @@
         "Clem1598-USFX": "Nunc ergo vos notum facite tribuno cum concilio, ut producat illum ad vos, tamquam aliquid certius cognituri de eo. Nos vero priusquam appropiet, parati sumus interficere illum.",
         "Clem-Saints": "Nunc ergo vos notum facite tribuno cum concilio, ut producat illum ad vos, tamquam aliquid certius cognituri de eo. Nos vero priusquam appropiet, parati sumus interficere illum.",
         "VulgHetzenauer (1906)": "Nunc ergo vos notum facite tribuno cum concilio, ut producat illum ad vos, tamquam aliquid certius cognituri de eo. Nos vero prius quam appropiet, parati sumus interficere illum.",
+        "Amiatinus (A)": "nunc ergo uos notum facite tribuno cum concilio ut producat illum ad uos tamquam aliquid certius cognituri de eo nos uero priusquam adpropiet parati sumus interficere illum",
         "VulgConte (2009)": "Nunc ergo vos notum facite Tribuno cum concilio, ut producat illum ad vos, tamquam aliquid certius cognituri de eo. Nos vero prius quam appropiet, parati sumus interficere illum.",
         "VulgSistina (1590)": "Nunc ergo vos notum facite tribuno cum concilio, ut producat illum ad vos, tamquam aliquid certius cognituri de eo. Nos vero prius quam appropiet, parati sumus interficere illum."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "appropiet, / adpropiet",
+            "appropiet, / adpropiet"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
         {
           "slot_index": -1,
           "kept_form": "(adopted text)",
@@ -541,17 +868,50 @@
         "Clem1598-USFX": "Quod cum audisset filius sororis Pauli insidias, venit, et intravit in castra, nuntiavitque Paulo.",
         "Clem-Saints": "Quod cum audisset filius sororis Pauli insidias, venit, et intravit in castra, nuntiavitque Paulo.",
         "VulgHetzenauer (1906)": "Quod cum audisset filius sororis Pauli insidias, venit, et intravit in castra, nunciavitque Paulo.",
+        "Amiatinus (A)": "quod cum audisset filius sororis pauli insidias uenit et intrauit in castra narrauitque paulo",
         "VulgConte (2009)": "Quod cum audisset filius sororis Pauli insidias, venit, et intravit in castra, nunciavitque Paulo.",
         "VulgSistina (1590)": "Quod cum audisset filius sororis Pauli insidias, venit, et intravit in castra, nunciavitque Paulo."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "nuntiavitque",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "narrauitque",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 12,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "nuntiauitque",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": -1,
@@ -584,18 +944,34 @@
         "Clem1598-USFX": "Vocans autem Paulus ad se unum ex centurionibus, ait: Adolescentem hunc perduc ad tribunum, habet enim aliquid indicare illi.",
         "Clem-Saints": "Vocans autem Paulus ad se unum ex centurionibus, ait: Adolescentem hunc perduc ad tribunum, habet enim aliquid indicare illi.",
         "VulgHetzenauer (1906)": "Vocans autem Paulus ad se unum ex Centurionibus, ait: Adolescentem hunc perduc ad tribunum, habet enim aliquid indicare illi.",
+        "Amiatinus (A)": "uocans autem paulus ad se unum ex centurionibus ait adulescentem hunc perduc ad tribunum habet enim aliquid indicare illi",
         "VulgConte (2009)": "Vocans autem Paulus ad se unum ex Centurionibus, ait: Adolescentem hunc perduc ad Tribunum, habet enim aliquid indicare illi.",
         "VulgSistina (1590)": "Vocans autem Paulus ad se unum ex Centurionibus, ait: Adolescentem hunc perduc ad tribunum, habet enim aliquid indicare illi."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
-      "disregarded": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Adolescentem / adulescentem",
+            "Adolescentem / adulescentem"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -611,18 +987,35 @@
         "Clem1598-USFX": "Et ille quidem assumens eum duxit ad tribunum, et ait: Vinctus Paulus rogavit me hunc adolescentem perducere ad te, habentem aliquid loqui tibi.",
         "Clem-Saints": "Et ille quidem assumens eum duxit ad tribunum, et ait: Vinctus Paulus rogavit me hunc adolescentem perducere ad te, habentem aliquid loqui tibi.",
         "VulgHetzenauer (1906)": "Et ille quidem assumens eum duxit ad tribunum, et ait: Vinctus Paulus rogavit me hunc adolescentem perducere ad te, habentem aliquid loqui tibi.",
+        "Amiatinus (A)": "et ille quidem assumens eum duxit ad tribunum et ait uinctus paulus rogauit me hunc adulescentem perducere ad te habentem aliquid loqui tibi",
         "VulgConte (2009)": "Et ille quidem assumens eum duxit ad Tribunum, et ait: Vinctus Paulus rogavit me hunc adolescentem perducere ad te, habentem aliquid loqui tibi.",
         "VulgSistina (1590)": "Et ille quidem assumens eum duxit ad tribunum, et ait: Vinctus Paulus rogavit me hunc adolescentem perducere ad te, habentem aliquid loqui tibi."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
-      "disregarded": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "adolescentem / adulescentem",
+            "assumens / adsumens",
+            "adolescentem / adulescentem"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -638,18 +1031,34 @@
         "Clem1598-USFX": "Apprehendens autem tribunus manum illius, secessit cum eo seorsum, et interrogavit illum: Quid est quod habes indicare mihi?",
         "Clem-Saints": "Apprehendens autem tribunus manum illius, secessit cum eo seorsum, et interrogavit illum: Quid est quod habes indicare mihi?",
         "VulgHetzenauer (1906)": "Apprehendens autem tribunus manum illius, secessit cum eo seorsum, et interrogavit illum: Quid est, quod habes indicare mihi?",
+        "Amiatinus (A)": "adprehendens autem tribunus manum illius secessit cum eo seorsum et interrogauit illum quid est quod habes indicare mihi",
         "VulgConte (2009)": "Apprehendens autem Tribunus manum illius, secessit cum eo seorsum, et interrogavit illum: Quid est, quod habes indicare mihi?",
         "VulgSistina (1590)": "Apprehendens autem tribunus manum illius, secessit cum eo seorsum, et interrogavit illum: Quid est, quod habes indicare mihi?"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
-      "disregarded": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "Apprehendens / adprehendens",
+            "Apprehendens / adprehendens"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -665,17 +1074,79 @@
         "Clem1598-USFX": "Ille autem dixit: Judæis convenit rogare te ut crastina die producas Paulum in concilium, quasi aliquid certius inquisituri sint de illo:",
         "Clem-Saints": "Ille autem dixit: Judæis convenit rogare te ut crastina die producas Paulum in concilium, quasi aliquid certius inquisituri sint de illo:",
         "VulgHetzenauer (1906)": "Ille autem dixit: Iudæis convenit rogare te, ut crastina die producas Paulum in concilium, quasi aliquid certius inquisituri sint de illo:",
+        "Amiatinus (A)": "ille autem dixit iudaeis conuenit rogare te ut crastina die paulum producas in concilium quasi aliquid certius inquisituri sint de illo",
         "VulgConte (2009)": "Ille autem dixit: Iudæis convenit rogare te, ut crastina die producas Paulum in concilium, quasi aliquid certius inquisituri sint de illo:",
         "VulgSistina (1590)": "Ille autem dixit: Iudaeis convenit rogare te, ut crastina die producas Paulum in concilium, quasi aliquid certius inquisituri sint de illo:"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "paulum",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "Paulum",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 11,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "paulum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -692,25 +1163,61 @@
         "Clem1598-USFX": "tu vero ne credideris illis: insidiantur enim ei ex eis viri amplius quam quadraginta, qui se devoverunt non manducare, neque bibere donec interficiant eum: et nunc parati sunt, exspectantes promissum tuum.",
         "Clem-Saints": "tu vero ne credideris illis: insidiantur enim ei ex eis viri amplius quam quadraginta, qui se devoverunt non manducare, neque bibere donec interficiant eum: et nunc parati sunt, exspectantes promissum tuum.",
         "VulgHetzenauer (1906)": "tu vero ne credideris illis, insidiantur enim ei ex eis viri amplius quam quadraginta, qui se devoverunt non manducare, neque bibere donec interficiant eum: et nunc parati sunt, exspectantes promissum tuum.",
+        "Amiatinus (A)": "tu uero ne credideris illis insidiantur enim […] ex eis uiri amplius quadraginta qui se deuouerunt non manducare neque bibere donec interficiant eum et nunc parati sunt expectantes promissum tuum",
         "VulgConte (2009)": "tu vero ne credideris illis, insidiantur enim ei ex eis viri amplius quam quadraginta, qui se devoverunt non manducare, neque bibere donec interficiant eum: et nunc parati sunt, exspectantes promissum tuum.",
         "VulgSistina (1590)": "tu vero ne credideris illis, insidiantur enim ei ex eis viri amplius quam quadraginta, qui se devoverunt non manducare, neque bibere donec interficiant eum: et nunc parati sunt, expectantes promissum tuum."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "quam",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 12,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "quam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "exspectantes / expectantes",
+            "exspectantes / expectantes",
             "exspectantes / expectantes"
           ],
           "witnesses": [
+            "Amiatinus (A)",
             "VulgSistina (1590)"
           ],
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
@@ -731,12 +1238,15 @@
         "Clem1598-USFX": "Tribunus igitur dimisit adolescentem, præcipiens ne cui loqueretur quoniam hæc nota sibi fecisset.",
         "Clem-Saints": "Tribunus igitur dimisit adolescentem, præcipiens ne cui loqueretur quoniam hæc nota sibi fecisset.",
         "VulgHetzenauer (1906)": "Tribunus igitur dimisit adolescentem, præcipiens ne cui loqueretur quoniam hæc nota sibi fecisset.",
+        "Amiatinus (A)": "tribunus igitur dimisit adulescentem praecipiens ne cui loqueretur quoniam haec nota sibi fecisset",
         "VulgConte (2009)": "Tribunus igitur dimisit adolescentem, præcipiens ne cui loqueretur quoniam hæc nota sibi fecisset.",
         "VulgSistina (1590)": "Tribunus igitur dimisit adolescentem, praecipiens ei ne cui loqueretur quoniam haec nota sibi fecisset."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -748,6 +1258,7 @@
           "lemma_witnesses": [
             "Clem-Saints",
             "Clem1598-USFX",
+            "Amiatinus (A)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
           ],
@@ -760,7 +1271,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 5,
           "word_count": 0,
           "kind": "word",
@@ -771,7 +1282,20 @@
           "credited_witnesses": []
         }
       ],
-      "disregarded": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "adolescentem, / adulescentem",
+            "adolescentem, / adulescentem"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -787,12 +1311,15 @@
         "Clem1598-USFX": "Et vocatis duobus centurionibus, dixit illis: Parate milites ducentos ut eant usque Cæsaream, et equites septuaginta, et lancearios ducentos a tertia hora noctis,",
         "Clem-Saints": "Et vocatis duobus centurionibus, dixit illis: Parate milites ducentos ut eant usque Cæsaream, et equites septuaginta, et lancearios ducentos a tertia hora noctis,",
         "VulgHetzenauer (1906)": "Et vocatis duobus Centurionibus, dixit illis: Parate milites ducentos ut eant usque Cæsaream, et equites septuaginta, et lancearios ducentos a tertia hora noctis:",
+        "Amiatinus (A)": "Et uocatis duobus centurionibus dixit illis parate milites ducentos ut eant usque caesaream et equites septuaginta et lancearios ducentos a tertia hora noctis",
         "VulgConte (2009)": "Et vocatis duobus Centurionibus, dixit illis: Parate milites ducentos ut eant usque Cæsaream, et equites septuaginta, et lancearios ducentos a tertia hora noctis:",
         "VulgSistina (1590)": "Et vocatis duobus Centurionibus, dixit illis: Parate milites ducentos ut eant usque Caesaream, et equites septuaginta, et lancearios ducentos a tertia hora noctis:"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -814,18 +1341,34 @@
         "Clem1598-USFX": "et jumenta præparate ut imponentes Paulum, salvum perducerent ad Felicem præsidem.",
         "Clem-Saints": "et jumenta præparate ut imponentes Paulum, salvum perducerent ad Felicem præsidem.",
         "VulgHetzenauer (1906)": "et iumenta præparate ut imponentes Paulum, salvum perducerent ad Felicem præsidem,",
+        "Amiatinus (A)": "et iumenta praeparate ut inponentes paulum saluum perducerent ad felicem praesidem",
         "VulgConte (2009)": "et iumenta præparate ut imponentes Paulum, salvum perducerent ad Felicem præsidem.",
         "VulgSistina (1590)": "et iumenta praeparate ut imponentes Paulum, salvum perducerent ad Felicem praesidem,"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
-      "disregarded": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "imponentes / inponentes",
+            "imponentes / inponentes"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -868,12 +1411,15 @@
         "Clem1598-USFX": "Scribens epistolam continentem hæc: Claudius Lysias optimo præsidi Felici, salutem.",
         "Clem-Saints": "Scribens epistolam continentem hæc: Claudius Lysias optimo præsidi Felici, salutem.",
         "VulgHetzenauer (1906)": "scribens epistolam continentem hæc: CLAUDIUS Lysias optimo Præsidi, Felici salutem.",
+        "Amiatinus (A)": "scribens epistulam continentem haec Claudius lysias optimo praesidi felici salutem",
         "VulgConte (2009)": "scribens epistolam continentem hæc: CLAUDIUS Lysias optimo Præsidi, Felici salutem.",
         "VulgSistina (1590)": "scribens ei epistolam continentem haec: CLAUDIUS Lysias optimo Praesidi, Felici salutem."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -881,10 +1427,40 @@
       "apparatus": [
         {
           "slot_index": -1,
+          "lemma": "epistolam",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "epistulam",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "epistolam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
             "Clem-Saints",
             "Clem1598-USFX",
+            "Amiatinus (A)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
           ],
@@ -897,7 +1473,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 1,
           "word_count": 0,
           "kind": "word",
@@ -924,18 +1500,34 @@
         "Clem1598-USFX": "Virum hunc comprehensum a Judæis, et incipientem interfici ab eis, superveniens cum exercitu eripui, cognito quia Romanus est.",
         "Clem-Saints": "Virum hunc comprehensum a Judæis, et incipientem interfici ab eis, superveniens cum exercitu eripui, cognito quia Romanus est.",
         "VulgHetzenauer (1906)": "Virum hunc comprehensum a Iudæis, et incipientem interfici ab eis, superveniens cum exercitu eripui, cognito quia Romanus est:",
+        "Amiatinus (A)": "uirum hunc conprehensum a iudaeis et incipientem interfici ab eis superueniens cum exercitu eripui cognito quia romanus est",
         "VulgConte (2009)": "Virum hunc comprehensum a Iudæis, et incipientem interfici ab eis, superveniens cum exercitu eripui, cognito quia Romanus est:",
         "VulgSistina (1590)": "Virum hunc comprehensum a Iudaeis, et incipientem interfici ab eis, superveniens cum exercitu eripui, cognito quia Romanus est:"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
-      "disregarded": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "comprehensum / conprehensum",
+            "comprehensum / conprehensum"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -951,18 +1543,34 @@
         "Clem1598-USFX": "Volensque scire causam quam objiciebant illi, deduxi eum in concilium eorum.",
         "Clem-Saints": "Volensque scire causam quam objiciebant illi, deduxi eum in concilium eorum.",
         "VulgHetzenauer (1906)": "Volensque scire causam, quam obiiciebant illi, deduxi eum in concilium eorum.",
+        "Amiatinus (A)": "uolensque scire causam quam obiciebant illi deduxi eum in concilium eorum",
         "VulgConte (2009)": "Volensque scire causam, quam obiiciebant illi, deduxi eum in concilium eorum.",
         "VulgSistina (1590)": "Volensque scire causam, quam obiiciebant illi, deduxi eum in concilium eorum."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
-      "disregarded": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "objiciebant / obiciebant",
+            "objiciebant / obiciebant"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -978,12 +1586,15 @@
         "Clem1598-USFX": "Quem inveni accusari de quæstionibus legis ipsorum, nihil vero dignum morte aut vinculis habentem criminis.",
         "Clem-Saints": "Quem inveni accusari de quæstionibus legis ipsorum, nihil vero dignum morte aut vinculis habentem criminis.",
         "VulgHetzenauer (1906)": "Quem inveni accusari de quæstionibus legis ipsorum, nihil vero dignum morte aut vinculis habentem criminis.",
+        "Amiatinus (A)": "quem inueni accusari de quaestionibus legis ipsorum nihil uero dignum morte aut uinculis habentem crimen",
         "VulgConte (2009)": "Quem inveni accusari de quæstionibus legis ipsorum, nihil vero dignum morte aut vinculis habentem criminis.",
         "VulgSistina (1590)": "Quem inveni accusari de quaestionibus legis ipsorum, nullum vero dignum morte aut vinculis habentem crimen."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -995,6 +1606,7 @@
           "lemma_witnesses": [
             "Clem-Saints",
             "Clem1598-USFX",
+            "Amiatinus (A)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
           ],
@@ -1007,7 +1619,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 7,
           "word_count": 1,
           "kind": "word",
@@ -1028,14 +1640,15 @@
           ],
           "variants": [
             {
-              "reading": "crimen.",
+              "reading": "crimen",
               "witnesses": [
+                "Amiatinus (A)",
                 "VulgSistina (1590)"
               ],
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 14,
           "word_count": 1,
           "kind": "word",
@@ -1062,17 +1675,108 @@
         "Clem1598-USFX": "Et cum mihi perlatum esset de insidiis quas paraverant illi, misi eum ad te, denuntians et accusatoribus ut dicant apud te. Vale.",
         "Clem-Saints": "Et cum mihi perlatum esset de insidiis quas paraverant illi, misi eum ad te, denuntians et accusatoribus ut dicant apud te. Vale.",
         "VulgHetzenauer (1906)": "Et cum mihi perlatum esset de insidiis, quas paraverant illi, misi eum ad te: denuncians et accusatoribus ut dicant apud te, Vale.",
+        "Amiatinus (A)": "et cum mihi perlatum esset de insidiis quas parauerunt ei misi ad te denuntians et accusatoribus ut dicant apud te",
         "VulgConte (2009)": "Et cum mihi perlatum esset de insidiis, quas paraverant illi, misi eum ad te: denuncians et accusatoribus ut dicant apud te, Vale.",
         "VulgSistina (1590)": "Et cum mihi perlatum esset de insidiis, quas paraverant illi, misi eum ad te denuncians: et accusatoribus ut dicant apud te, Vale."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "paraverant illi,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "parauerunt ei",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "parauerant illi",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "eum",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 11,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "eum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "Vale.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 21,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "uale",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": -1,
@@ -1105,18 +1809,34 @@
         "Clem1598-USFX": "Milites ergo secundum præceptum sibi assumentes Paulum, duxerunt per noctem in Antipatridem.",
         "Clem-Saints": "Milites ergo secundum præceptum sibi assumentes Paulum, duxerunt per noctem in Antipatridem.",
         "VulgHetzenauer (1906)": "Milites ergo secundum præceptum sibi, assumentes Paulum, duxerunt per noctem in Antipatridem.",
+        "Amiatinus (A)": "Milites ergo secundum praeceptum sibi adsumentes paulum duxerunt per noctem in antipatridem",
         "VulgConte (2009)": "Milites ergo secundum præceptum sibi, assumentes Paulum, duxerunt per noctem in Antipatridem.",
         "VulgSistina (1590)": "Milites ergo secundum praeceptum sibi, assumentes Paulum, duxerunt per noctem in Antipatridem."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
-      "disregarded": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "assumentes / adsumentes",
+            "assumentes / adsumentes"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -1132,17 +1852,79 @@
         "Clem1598-USFX": "Et postera die dimissis equitibus ut cum eo irent, reversi sunt ad castra.",
         "Clem-Saints": "Et postera die dimissis equitibus ut cum eo irent, reversi sunt ad castra.",
         "VulgHetzenauer (1906)": "Et postera die dimissis equitibus ut cum eo irent, reversi sunt ad castra.",
+        "Amiatinus (A)": "et postera die dimissis equitibus ut irent cum eo reuersi sunt ad castra",
         "VulgConte (2009)": "Et postera die dimissis equitibus ut cum eo irent, reversi sunt ad castra.",
         "VulgSistina (1590)": "Et postera die dimissis equitibus ut cum eo irent, reversi sunt ad castra."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "irent",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "irent,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 8,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "irent",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -1159,17 +1941,50 @@
         "Clem1598-USFX": "Qui cum venissent Cæsaream, et tradidissent epistolam præsidi, statuerunt ante illum et Paulum.",
         "Clem-Saints": "Qui cum venissent Cæsaream, et tradidissent epistolam præsidi, statuerunt ante illum et Paulum.",
         "VulgHetzenauer (1906)": "Qui cum venissent Cæsaream, et tradidissent epistolam præsidi, statuerunt ante illum et Paulum.",
+        "Amiatinus (A)": "qui cum uenissent caesaream et tradidissent epistulam praesidi statuerunt ante illum et paulum",
         "VulgConte (2009)": "Qui cum venissent Cæsaream, et tradidissent epistolam præsidi, statuerunt ante illum et Paulum.",
         "VulgSistina (1590)": "Qui cum venissent Caesaream, et tradidissent epistolam praesidi, statuerunt ante illum et Paulum."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "epistolam",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "epistulam",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 6,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "epistolam",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -1186,12 +2001,15 @@
         "Clem1598-USFX": "Cum legisset autem, et interrogasset de qua provincia esset, et cognoscens quia de Cilicia:",
         "Clem-Saints": "Cum legisset autem, et interrogasset de qua provincia esset, et cognoscens quia de Cilicia:",
         "VulgHetzenauer (1906)": "Cum legisset autem, et interrogasset de qua provincia esset: et cognoscens quia de Cilicia,",
+        "Amiatinus (A)": "cum legisset autem et interrogasset de qua prouincia esset et cognoscens quia de cilicia",
         "VulgConte (2009)": "Cum legisset autem, et interrogasset de qua provincia esset: et cognoscens quia de Cilicia,",
         "VulgSistina (1590)": "Cum legisset autem, et interrogasset de qua provincia esset: et cognoscens quia de Cilicia,"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1213,17 +2031,50 @@
         "Clem1598-USFX": "Audiam te, inquit, cum accusatores tui venerint. Jussitque in prætorio Herodis custodiri eum.",
         "Clem-Saints": "Audiam te, inquit, cum accusatores tui venerint. Jussitque in prætorio Herodis custodiri eum.",
         "VulgHetzenauer (1906)": "Audiam te, inquit, cum accusatores tui venerint. Iussitque in prætorio Herodis custodiri eum.",
+        "Amiatinus (A)": "audiam te inquit cum et accusatores tui uenerint iussitque in praetorio herodis custodiri eum",
         "VulgConte (2009)": "Audiam te, inquit, cum accusatores tui venerint. Iussitque in prætorio Herodis custodiri eum.",
         "VulgSistina (1590)": "Audiam te, inquit, cum accusatores tui venerint. Iussitque in praetorio Herodis custodiri eum."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "et",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 4,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,

@@ -1,6 +1,6 @@
 # Psalms 44 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:18Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:46Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,29 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ### Versification & Alignment Notes
 - VulgSistina (1590): 43:1 folded into verse 1 (the reference prints these words there)
@@ -65,8 +75,88 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **in intellectu Canticum pro dilecto. Psalmus,** VulgSistina (1590)
 - **Apparatus:** `Canticum pro dilecto.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
 
+### Psalms 44:2
+- **Apparatus:** `Eructavit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Effúndit** Psalt-Pianum (1945)
+- **Apparatus:** `opera mea` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **carmen meum** Psalt-Pianum (1945)
+- **Apparatus:** `calamus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **stilus est** Psalt-Pianum (1945)
+- **Apparatus:** `velociter scribentis.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **velócis.** Psalt-Pianum (1945)
+
+### Psalms 44:3
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **es** Psalt-Pianum (1945)
+- **Apparatus:** `in labiis tuis:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **super lábia tua:** Psalt-Pianum (1945)
+- **Apparatus:** `te` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **tibi** Psalt-Pianum (1945)
+
+### Psalms 44:4
+- **Apparatus:** `Accingere gladio tuo` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Cinge gládium tuum** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **potentíssime, Decórem** Psalt-Pianum (1945)
+- **Apparatus:** `potentissime.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et ornátum tuum!** Psalt-Pianum (1945)
+
+### Psalms 44:5
+- **Apparatus:** `Specie tua` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Felíciter evéhere pro fide** Psalt-Pianum (1945)
+- **Apparatus:** `pulchritudine tua intende, prospere procede,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pro justítia,** Psalt-Pianum (1945)
+- **Apparatus:** `regna, propter veritatem, et mansuetudinem, et justitiam; et deducet` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **præclára gesta dóceat** Psalt-Pianum (1945)
+- **Apparatus:** `mirabiliter` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 44:6
+- **Apparatus:** `sub te cadent, in corda inimicorum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **tibi subdúntur, defíciunt corde inimíci** Psalt-Pianum (1945)
+- **Apparatus:** `corda` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **inimíci** Psalt-Pianum (1945)
+
+### Psalms 44:7
+- **Apparatus:** `Sedes tua,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Thronus tuus,** Psalt-Pianum (1945)
+- **Apparatus:** `Sedes` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Thronus** Psalt-Pianum (1945)
+- **Apparatus:** `sæculum sæculi; virga directionis virga` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sǽculum sǽculi; sceptrum æquitátis sceptrum** Psalt-Pianum (1945)
+
+### Psalms 44:8
+- **Apparatus:** `Dilexisti` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Díligis** Psalt-Pianum (1945)
+
+### Psalms 44:9
+- **Apparatus:** `gutta,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **áloe** Psalt-Pianum (1945)
+- **Apparatus:** `casia a vestimentis tuis, a domibus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cássia fragrant vestiménta tua; ex ǽdibus** Psalt-Pianum (1945)
+- **Apparatus:** `ex quibus delectaverunt` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **fídium sonus lætíficat** Psalt-Pianum (1945)
+
+### Psalms 44:10
+- **Apparatus:** `in honore tuo. Astitit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **óbviam véniunt tibi,** Psalt-Pianum (1945)
+- **Apparatus:** `Astitit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `a dextris tuis in vestitu deaurato, circumdata varietate.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **adstat ad déxteram tuam ornáta auro ex Ophir.** Psalt-Pianum (1945)
+
+### Psalms 44:12
+- **Apparatus:** `decorem tuum, quoniam` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pulchritúdinem tuam:** Psalt-Pianum (1945)
+- **Apparatus:** `Deus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `et adorabunt eum.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **obséquere ei.** Psalt-Pianum (1945)
+
+### Psalms 44:13
+- **Apparatus:** `filiæ` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pópulus** Psalt-Pianum (1945)
+- **Apparatus:** `in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cum** Psalt-Pianum (1945)
+- **Apparatus:** `vultum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **venit; favórem** Psalt-Pianum (1945)
+- **Apparatus:** `deprecabuntur; omnes divites` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **captant próceres** Psalt-Pianum (1945)
+- **Apparatus:** `omnes` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **próceres** Psalt-Pianum (1945)
+
+### Psalms 44:14
+- **Apparatus:** `Omnis gloria` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Tota decóra ingréditur fília regis; textúræ áureæ sunt amíctus** Psalt-Pianum (1945)
+- **Apparatus:** `filiæ regis ab intus, in fimbriis aureis,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 44:15
+- **Apparatus:** `circumamicta varietatibus. Adducentur regi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Amíctu variegáto indúta addúcitur ad regem;** Psalt-Pianum (1945)
+- **Apparatus:** `proximæ` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sóciæ** Psalt-Pianum (1945)
+- **Apparatus:** `afferentur tibi.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **adducúntur ad te.** Psalt-Pianum (1945)
+
 ### Psalms 44:16
-- *Disregarded Surface Variant:* kept `(adopted text)` over `exsultatione; / exultatione:`, `exsultatione; / exultatione:`, `exsultatione; / exultatione:` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- **Apparatus:** `Afferentur in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Afferúntur cum** Psalt-Pianum (1945)
+- **Apparatus:** `adducentur` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ingrediúntur** Psalt-Pianum (1945)
+- **Apparatus:** `templum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **palátium** Psalt-Pianum (1945)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Afferentur / adferentur`, `exsultatione; / exultatione`, `exsultatione; / exultatione:`, `exsultatione; / exultatione:`, `exsultatione; / exultatione:` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Psalms 44:17
+- **Apparatus:** `Pro patribus tuis nati sunt tibi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Loco patrum tuórum erunt** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **tui;** Psalt-Pianum (1945)
+- **Apparatus:** `omnem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **totam** Psalt-Pianum (1945)
+
+### Psalms 44:18
+- **Apparatus:** `Memores erunt nominis tui` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Memorábo nomen tuum** Psalt-Pianum (1945)
+- **Apparatus:** `Memores erunt` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Memorábo nomen** Psalt-Pianum (1945)
+- **Apparatus:** `omni generatione` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **omnem generatiónem** Psalt-Pianum (1945)
+- **Apparatus:** `confitebuntur tibi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **celebrábunt te** Psalt-Pianum (1945)
+- **Apparatus:** `æternum, et in sæculum sæculi.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sǽculum sǽculi.** Psalt-Pianum (1945)
 
 ---
 
@@ -86,6 +176,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Eructavit cor meum verbum bonum: dico ego opera mea regi. Lingua mea calamus scribæ velociter scribentis.
   - `Clem-Saints`: Eructavit cor meum verbum bonum: dico ego opera mea regi. Lingua mea calamus scribæ velociter scribentis.
   - `VulgHetzenauer (1906)`: Eructavit cor meum verbum bonum: dico ego opera mea regi. Lingua mea calamus scribæ, velociter scribentis.
+  - `Psalt-Pianum (1945)`: Effúndit cor meum verbum bonum: dico ego carmen meum regi; Lingua mea stilus est scribæ velócis.
   - `VulgConte (2009)`: Eructavit cor meum verbum bonum: dico ego opera mea regi. Lingua mea calamus scribæ, velociter scribentis.
   - `VulgSistina (1590)`: Eructavit cor meum verbum bonum: dico ego opera mea regi. Lingua mea calamus scribae, velociter scribentis.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -95,6 +186,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Speciosus forma præ filiis hominum, diffusa est gratia in labiis tuis: propterea benedixit te Deus in æternum.
   - `Clem-Saints`: Speciosus forma præ filiis hominum, diffusa est gratia in labiis tuis: propterea benedixit te Deus in æternum.
   - `VulgHetzenauer (1906)`: Speciosus forma præ filiis hominum, diffusa est gratia in labiis tuis: propterea benedixit te Deus in æternum.
+  - `Psalt-Pianum (1945)`: Speciósus es forma præ fíliis hóminum, diffúsa est grátia super lábia tua: proptérea benedíxit tibi Deus in ætérnum.
   - `VulgConte (2009)`: Speciosus forma præ filiis hominum, diffusa est gratia in labiis tuis: propterea benedixit te Deus in æternum.
   - `VulgSistina (1590)`: Speciosus forma prae filiis hominum, diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -104,6 +196,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Accingere gladio tuo super femur tuum, potentissime.
   - `Clem-Saints`: Accingere gladio tuo super femur tuum, potentissime.
   - `VulgHetzenauer (1906)`: Accingere gladio tuo super femur tuum, potentissime,
+  - `Psalt-Pianum (1945)`: Cinge gládium tuum super femur, potentíssime, Decórem tuum et ornátum tuum!
   - `VulgConte (2009)`: Accingere gladio tuo super femur tuum, potentissime.
   - `VulgSistina (1590)`: Accingere gladio tuo super femur tuum, potentissime,
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -113,6 +206,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Specie tua et pulchritudine tua intende, prospere procede, et regna, propter veritatem, et mansuetudinem, et justitiam; et deducet te mirabiliter dextera tua.
   - `Clem-Saints`: Specie tua et pulchritudine tua intende, prospere procede, et regna, propter veritatem, et mansuetudinem, et justitiam; et deducet te mirabiliter dextera tua.
   - `VulgHetzenauer (1906)`: Specie tua et pulchritudine tua intende, prospere procede, et regna, Propter veritatem et mansuetudinem, et iustitiam: et deducet te mirabiliter dextera tua.
+  - `Psalt-Pianum (1945)`: Felíciter evéhere pro fide et pro justítia, et præclára gesta dóceat te déxtera tua.
   - `VulgConte (2009)`: Specie tua et pulchritudine tua intende, prospere procede, et regna, propter veritatem et mansuetudinem, et iustitiam: et deducet te mirabiliter dextera tua.
   - `VulgSistina (1590)`: Specie tua et pulchritudine tua intende, prospere procede, et regna, Propter veritatem et mansuetudinem, et iustitiam: et deducet te mirabiliter dextera tua.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -122,6 +216,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Sagittæ tuæ acutæ: populi sub te cadent, in corda inimicorum regis.
   - `Clem-Saints`: Sagittæ tuæ acutæ: populi sub te cadent, in corda inimicorum regis.
   - `VulgHetzenauer (1906)`: Sagittæ tuæ acutæ, populi sub te cadent, in corda inimicorum regis.
+  - `Psalt-Pianum (1945)`: Sagíttæ tuæ acútæ, pópuli tibi subdúntur, defíciunt corde inimíci regis.
   - `VulgConte (2009)`: Sagittæ tuæ acutæ, populi sub te cadent, in corda inimicorum regis.
   - `VulgSistina (1590)`: Sagittae tuae acutae, populi sub te cadent, in corda inimicorum regis.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -131,6 +226,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Sedes tua, Deus, in sæculum sæculi; virga directionis virga regni tui.
   - `Clem-Saints`: Sedes tua, Deus, in sæculum sæculi; virga directionis virga regni tui.
   - `VulgHetzenauer (1906)`: Sedes tua Deus in sæculum sæculi: virga directionis virga regni tui.
+  - `Psalt-Pianum (1945)`: Thronus tuus, Deus, in sǽculum sǽculi; sceptrum æquitátis sceptrum regni tui.
   - `VulgConte (2009)`: Sedes tua Deus in sæculum sæculi: virga directionis virga regni tui.
   - `VulgSistina (1590)`: Sedes tua Deus in saeculum saeculi: virga directionis virga regni tui.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -140,6 +236,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Dilexisti justitiam, et odisti iniquitatem; propterea unxit te Deus, Deus tuus, oleo lætitiæ, præ consortibus tuis.
   - `Clem-Saints`: Dilexisti justitiam, et odisti iniquitatem; propterea unxit te Deus, Deus tuus, oleo lætitiæ, præ consortibus tuis.
   - `VulgHetzenauer (1906)`: Dilexisti iustitiam, et odisti iniquitatem: propterea unxit te Deus Deus tuus oleo lætitiæ præ consortibus tuis.
+  - `Psalt-Pianum (1945)`: Díligis justítiam et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis.
   - `VulgConte (2009)`: Dilexisti iustitiam, et odisti iniquitatem: propterea unxit te Deus, Deus tuus oleo lætitiæ præ consortibus tuis.
   - `VulgSistina (1590)`: Dilexisti iustitiam, et odisti iniquitatem: propterea unxit te Deus Deus tuus oleo laetitiae prae consortibus tuis.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -149,6 +246,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Myrrha, et gutta, et casia a vestimentis tuis, a domibus eburneis; ex quibus delectaverunt te
   - `Clem-Saints`: Myrrha, et gutta, et casia a vestimentis tuis, a domibus eburneis; ex quibus delectaverunt te
   - `VulgHetzenauer (1906)`: Myrrha, et gutta, et casia a vestimentis tuis, a domibus eburneis: ex quibus delectaverunt te
+  - `Psalt-Pianum (1945)`: Myrrha et áloe et cássia fragrant vestiménta tua; ex ǽdibus ebúrneis fídium sonus lætíficat te.
   - `VulgConte (2009)`: Myrrha, et gutta, et casia a vestimentis tuis, a domibus eburneis: ex quibus delectaverunt te
   - `VulgSistina (1590)`: Myrrha, et gutta, et casia a vestimentis tuis, a domibus eburneis: ex quibus delectaverunt te
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -158,6 +256,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: filiæ regum in honore tuo. Astitit regina a dextris tuis in vestitu deaurato, circumdata varietate.
   - `Clem-Saints`: filiæ regum in honore tuo. Astitit regina a dextris tuis in vestitu deaurato, circumdata varietate.
   - `VulgHetzenauer (1906)`: filiæ regum in honore tuo. Astitit regina a dextris tuis in vestitu deaurato: circumdata varietate.
+  - `Psalt-Pianum (1945)`: Fíliæ regum óbviam véniunt tibi, regína adstat ad déxteram tuam ornáta auro ex Ophir.
   - `VulgConte (2009)`: filiæ regum in honore tuo. Astitit regina a dextris tuis in vestitu deaurato: circumdata varietate.
   - `VulgSistina (1590)`: filiae regum in honore tuo. Astitit regina a dextris tuis in vestitu deaurato: circumdata varietate.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -167,6 +266,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Audi, filia, et vide, et inclina aurem tuam; et obliviscere populum tuum, et domum patris tui.
   - `Clem-Saints`: Audi, filia, et vide, et inclina aurem tuam; et obliviscere populum tuum, et domum patris tui.
   - `VulgHetzenauer (1906)`: Audi filia, et vide, et inclina aurem tuam: et obliviscere populum tuum, et domum patris tui.
+  - `Psalt-Pianum (1945)`: Audi, fília, et vide, et inclína aurem tuam, et oblivíscere pópulum tuum et domum patris tui.
   - `VulgConte (2009)`: Audi filia, et vide, et inclina aurem tuam: et obliviscere populum tuum, et domum patris tui.
   - `VulgSistina (1590)`: Audi filia, et vide, et inclina aurem tuam: et obliviscere populum tuum, et domum patris tui.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -176,6 +276,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et concupiscet rex decorem tuum, quoniam ipse est Dominus Deus tuus, et adorabunt eum.
   - `Clem-Saints`: Et concupiscet rex decorem tuum, quoniam ipse est Dominus Deus tuus, et adorabunt eum.
   - `VulgHetzenauer (1906)`: Et concupiscet rex decorem tuum: quoniam ipse est Dominus Deus tuus, et adorabunt eum.
+  - `Psalt-Pianum (1945)`: Et concupíscet rex pulchritúdinem tuam: ipse est dóminus tuus; obséquere ei.
   - `VulgConte (2009)`: Et concupiscet rex decorem tuum: quoniam ipse est Dominus Deus tuus, et adorabunt eum.
   - `VulgSistina (1590)`: Et concupiscet rex decorem tuum: quoniam ipse est Dominus Deus tuus, et adorabunt eum.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -185,6 +286,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et filiæ Tyri in muneribus vultum tuum deprecabuntur; omnes divites plebis.
   - `Clem-Saints`: Et filiæ Tyri in muneribus vultum tuum deprecabuntur; omnes divites plebis.
   - `VulgHetzenauer (1906)`: Et filiæ Tyri in muneribus vultum tuum deprecabuntur: omnes divites plebis.
+  - `Psalt-Pianum (1945)`: Et pópulus Tyri cum munéribus venit; favórem tuum captant próceres plebis.
   - `VulgConte (2009)`: Et filiæ Tyri in muneribus vultum tuum deprecabuntur: omnes divites plebis.
   - `VulgSistina (1590)`: Et filiae Tyri in muneribus vultum tuum deprecabuntur: omnes divites plebis.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -194,6 +296,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Omnis gloria ejus filiæ regis ab intus, in fimbriis aureis,
   - `Clem-Saints`: Omnis gloria ejus filiæ regis ab intus, in fimbriis aureis,
   - `VulgHetzenauer (1906)`: Omnis gloria eius filiæ regis ab intus, in fimbriis aureis
+  - `Psalt-Pianum (1945)`: Tota decóra ingréditur fília regis; textúræ áureæ sunt amíctus ejus.
   - `VulgConte (2009)`: Omnis gloria eius filiæ regis ab intus, in fimbriis aureis
   - `VulgSistina (1590)`: Omnis gloria eius filiae regis ab intus, in fimbriis aureis
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -203,6 +306,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: circumamicta varietatibus. Adducentur regi virgines post eam; proximæ ejus afferentur tibi.
   - `Clem-Saints`: circumamicta varietatibus. Adducentur regi virgines post eam; proximæ ejus afferentur tibi.
   - `VulgHetzenauer (1906)`: circumamicta varietatibus. Adducentur regi virgines post eam: proximæ eius afferentur tibi.
+  - `Psalt-Pianum (1945)`: Amíctu variegáto indúta addúcitur ad regem; vírgines post eam, sóciæ ejus, adducúntur ad te.
   - `VulgConte (2009)`: circumamicta varietatibus. Adducentur regi virgines post eam: proximæ eius afferentur tibi.
   - `VulgSistina (1590)`: circumamicta varietatibus. Adducentur regi virgines post eam: proximae eius afferentur tibi.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -212,6 +316,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Afferentur in lætitia et exsultatione; adducentur in templum regis.
   - `Clem-Saints`: Afferentur in lætitia et exsultatione; adducentur in templum regis.
   - `VulgHetzenauer (1906)`: Afferentur in lætitia et exultatione: adducentur in templum regis.
+  - `Psalt-Pianum (1945)`: Afferúntur cum lætítia et exsultatióne, ingrediúntur in palátium regis.
   - `VulgConte (2009)`: Afferentur in lætitia et exultatione: adducentur in templum regis.
   - `VulgSistina (1590)`: Afferentur in laetitia et exultatione: adducentur in templum regis.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -221,6 +326,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Pro patribus tuis nati sunt tibi filii; constitues eos principes super omnem terram.
   - `Clem-Saints`: Pro patribus tuis nati sunt tibi filii; constitues eos principes super omnem terram.
   - `VulgHetzenauer (1906)`: Pro patribus tuis nati sunt tibi filii: constitues eos principes super omnem terram.
+  - `Psalt-Pianum (1945)`: Loco patrum tuórum erunt fílii tui; constítues eos príncipes super totam terram.
   - `VulgConte (2009)`: Pro patribus tuis nati sunt tibi filii: constitues eos principes super omnem terram.
   - `VulgSistina (1590)`: Pro patribus tuis nati sunt tibi filii: constitues eos principes super omnem terram.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -230,6 +336,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Memores erunt nominis tui in omni generatione et generationem: propterea populi confitebuntur tibi in æternum, et in sæculum sæculi.
   - `Clem-Saints`: Memores erunt nominis tui in omni generatione et generationem: propterea populi confitebuntur tibi in æternum, et in sæculum sæculi.
   - `VulgHetzenauer (1906)`: Memores erunt nominis tui in omni generatione et generationem. Propterea populi confitebuntur tibi in æternum: et in sæculum sæculi.
+  - `Psalt-Pianum (1945)`: Memorábo nomen tuum in omnem generatiónem et generatiónem; Proptérea pópuli celebrábunt te in sǽculum sǽculi.
   - `VulgConte (2009)`: Memores erunt nominis tui in omni generatione et generationem. Propterea populi confitebuntur tibi in æternum: et in sæculum sæculi.
   - `VulgSistina (1590)`: Memores erunt nominis tui in omni generatione et generationem. Propterea populi confitebuntur tibi in aeternum: et in saeculum saeculi.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

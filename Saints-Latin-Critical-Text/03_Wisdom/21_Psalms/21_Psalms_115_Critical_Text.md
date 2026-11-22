@@ -1,6 +1,6 @@
 # Psalms 115 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:23Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:48Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,33 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+
+### Versification & Alignment Notes
+- Psalt-Pianum (1945): 115:10 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 6 verse(s) re-aligned by content (2←115:11, 3←115:12, 4←115:13, 6←115:14, 7←115:16, 10←115:18)
 
 ---
 
@@ -52,6 +66,31 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 115:1
 - *Disregarded Surface Variant:* kept `Alleluja.` over `Alleluja` (Clem-Saints) — *Punctuation / spacing difference only*
 
+### Psalms 115:2
+- **Apparatus:** `excessu` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pavóre** Psalt-Pianum (1945)
+- **Apparatus:** `mendax.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **fallax!** Psalt-Pianum (1945)
+
+### Psalms 115:3
+- **Apparatus:** `retribuit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **tríbuit** Psalt-Pianum (1945)
+
+### Psalms 115:4
+- **Apparatus:** `salutaris` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **salútis** Psalt-Pianum (1945)
+
+### Psalms 115:6
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Vota mea Dómino reddam coram omni pópulo ejus. (15)** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **est** Psalt-Pianum (1945)
+- **Apparatus:** `conspectu` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **óculis** Psalt-Pianum (1945)
+
+### Psalms 115:7
+- **Apparatus:** `quia` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sum,** Psalt-Pianum (1945)
+- **Apparatus:** `et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `Dirupisti` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Solvísti** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **(17) Tibi sacrificábo sacrifícium laudis, et nomen Dómini invocábo.** Psalt-Pianum (1945)
+
+### Psalms 115:10
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Vota mea Dómino reddam coram omni pópulo ejus, (19)** Psalt-Pianum (1945)
+
 ---
 
 ## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
@@ -70,6 +109,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Ego dixi in excessu meo: Omnis homo mendax.
   - `Clem-Saints`: Ego dixi in excessu meo: Omnis homo mendax.
   - `VulgHetzenauer (1906)`: Ego dixi in excessu meo: Omnis homo mendax.
+  - `Psalt-Pianum (1945)` *(numbered 115:11 in this witness)*: Ego dixi in pavóre meo: omnis homo fallax!
   - `VulgConte (2009)`: Ego dixi in excessu meo: Omnis homo mendax.
   - `VulgSistina (1590)`: Ego dixi in excessu meo: Omnis homo mendax.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -79,6 +119,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quid retribuam Domino pro omnibus quæ retribuit mihi?
   - `Clem-Saints`: Quid retribuam Domino pro omnibus quæ retribuit mihi?
   - `VulgHetzenauer (1906)`: Quid retribuam Domino, pro omnibus, quæ retribuit mihi?
+  - `Psalt-Pianum (1945)` *(numbered 115:12 in this witness)*: Quid retríbuam Dómino pro ómnibus quæ tríbuit mihi?
   - `VulgConte (2009)`: Quid retribuam Domino, pro omnibus, quæ retribuit mihi?
   - `VulgSistina (1590)`: Quid retribuam Domino, pro omnibus, quae retribuit mihi?
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -88,6 +129,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Calicem salutaris accipiam, et nomen Domini invocabo.
   - `Clem-Saints`: Calicem salutaris accipiam, et nomen Domini invocabo.
   - `VulgHetzenauer (1906)`: Calicem salutaris accipiam: et nomen Domini invocabo.
+  - `Psalt-Pianum (1945)` *(numbered 115:13 in this witness)*: Cálicem salútis accípiam, et nomen Dómini invocábo.
   - `VulgConte (2009)`: Calicem salutaris accipiam: et nomen Domini invocabo.
   - `VulgSistina (1590)`: Calicem salutaris accipiam: et nomen Domini invocabo.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -105,6 +147,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Pretiosa in conspectu Domini mors sanctorum ejus.
   - `Clem-Saints`: Pretiosa in conspectu Domini mors sanctorum ejus.
   - `VulgHetzenauer (1906)`: pretiosa in conspectu Domini mors Sanctorum eius:
+  - `Psalt-Pianum (1945)` *(numbered 115:14 in this witness)*: Vota mea Dómino reddam coram omni pópulo ejus. (15) Pretiósa est in óculis Dómini mors sanctórum ejus.
   - `VulgConte (2009)`: pretiosa in conspectu Domini mors sanctorum eius:
   - `VulgSistina (1590)`: pretiosa in conspectu Domini mors Sanctorum eius:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -114,6 +157,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: O Domine, quia ego servus tuus; ego servus tuus, et filius ancillæ tuæ. Dirupisti vincula mea:
   - `Clem-Saints`: O Domine, quia ego servus tuus; ego servus tuus, et filius ancillæ tuæ. Dirupisti vincula mea:
   - `VulgHetzenauer (1906)`: O Domine quia ego servus tuus: ego servus tuus, et filius ancillæ tuæ. Dirupisti vincula mea:
+  - `Psalt-Pianum (1945)` *(numbered 115:16 in this witness)*: O Dómine, ego servus tuus sum, ego servus tuus, fílius ancíllæ tuæ: Solvísti víncula mea. (17) Tibi sacrificábo sacrifícium laudis, et nomen Dómini invocábo.
   - `VulgConte (2009)`: O Domine quia ego servus tuus: ego servus tuus, et filius ancillæ tuæ. Dirupisti vincula mea:
   - `VulgSistina (1590)`: O Domine quia ego servus tuus: ego servus tuus, et filius ancillae tuae. Dirupisti vincula mea:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -141,6 +185,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: in atriis domus Domini, in medio tui, Jerusalem.
   - `Clem-Saints`: in atriis domus Domini, in medio tui, Jerusalem.
   - `VulgHetzenauer (1906)`: in atriis domus Domini, in medio tui Ierusalem.
+  - `Psalt-Pianum (1945)` *(numbered 115:18 in this witness)*: Vota mea Dómino reddam coram omni pópulo ejus, (19) in átriis domus Dómini, in médio tui, Jerúsalem.
   - `VulgConte (2009)`: in atriis domus Domini, in medio tui Ierusalem.
   - `VulgSistina (1590)`: in atriis domus Domini, in medio tui Ierusalem.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

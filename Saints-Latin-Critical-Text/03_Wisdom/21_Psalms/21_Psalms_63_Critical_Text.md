@@ -1,6 +1,6 @@
 # Psalms 63 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:19Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:46Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,37 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+
+### Versification & Alignment Notes
+- Psalt-Pianum (1945): 63:1 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 63:2 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 63:3 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 63:4 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 63:5 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 63:8 not collated (wording does not match the reference verse)
 
 ---
 
@@ -54,8 +72,29 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Psalmus David,** VulgSistina (1590)
 - **Apparatus:** `Psalmus David.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
 
+### Psalms 63:6
+- **Apparatus:** `Subito sagittabunt eum, et non timebunt; firmaverunt sibi sermonem nequam. Narraverunt ut absconderent laqueos; dixerunt: Quis videbit eos?` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Excógitant nefária, occúltant cogitatiónes excogitátas,** Psalt-Pianum (1945)
+
+### Psalms 63:7
+- **Apparatus:** `Scrutati` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Et mens cujúsque et cor** Psalt-Pianum (1945)
+- **Apparatus:** `iniquitates; defecerunt scrutantes scrutinio. Accedet homo ad cor altum,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **profúnda.** Psalt-Pianum (1945)
+- **Apparatus:** `ad` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 63:9
+- **Apparatus:** `infirmatæ sunt contra eos linguæ eorum. Conturbati sunt` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ruínam parat eis lingua ipsórum: cápita movent** Psalt-Pianum (1945)
+- **Apparatus:** `videbant` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **vident** Psalt-Pianum (1945)
+
 ### Psalms 63:10
-- *Disregarded Surface Variant:* kept `(adopted text)` over `annuntiaverunt / annunciaverunt`, `annuntiaverunt / annunciaverunt`, `annuntiaverunt / annunciaverunt` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- **Apparatus:** `timuit omnis homo.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **omnes timent** Psalt-Pianum (1945)
+- **Apparatus:** `annuntiaverunt opera` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **prǽdicant opus** Psalt-Pianum (1945)
+- **Apparatus:** `facta` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **perpéndunt acta** Psalt-Pianum (1945)
+- **Apparatus:** `intellexerunt.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `annuntiaverunt / adnuntiaverunt`, `annuntiaverunt / annunciaverunt`, `annuntiaverunt / annunciaverunt`, `annuntiaverunt / annunciaverunt` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Psalms 63:11
+- **Apparatus:** `Lætabitur` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Lætátur** Psalt-Pianum (1945)
+- **Apparatus:** `sperabit in eo,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cónfugit ad eum,** Psalt-Pianum (1945)
+- **Apparatus:** `laudabuntur` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **gloriántur** Psalt-Pianum (1945)
 
 ---
 
@@ -110,6 +149,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** Subito sagittabunt eum, et non timebunt; firmaverunt sibi sermonem nequam. Narraverunt ut absconderent laqueos; dixerunt: Quis videbit eos?
   - `Clem1598-USFX`: Subito sagittabunt eum, et non timebunt; firmaverunt sibi sermonem nequam. Narraverunt ut absconderent laqueos; dixerunt: Quis videbit eos?
   - `VulgHetzenauer (1906)`: Subito sagittabunt eum, et non timebunt: firmaverunt sibi sermonem nequam. Narraverunt ut absconderent laqueos: dixerunt: Quis videbit eos?
+  - `Psalt-Pianum (1945)`: Excógitant nefária, occúltant cogitatiónes excogitátas,
   - `VulgConte (2009)`: Subito sagittabunt eum, et non timebunt: firmaverunt sibi sermonem nequam. Narraverunt ut absconderent laqueos: dixerunt: Quis videbit eos?
   - `VulgSistina (1590)`: Subito sagittabunt eum, et non timebunt: firmaverunt sibi sermonem nequam. Narraverunt ut absconderent laqueos: dixerunt: Quis videbit eos?
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
@@ -119,6 +159,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Scrutati sunt iniquitates; defecerunt scrutantes scrutinio. Accedet homo ad cor altum,
   - `Clem-Saints`: Scrutati sunt iniquitates; defecerunt scrutantes scrutinio. Accedet homo ad cor altum,
   - `VulgHetzenauer (1906)`: Scrutati sunt iniquitates: defecerunt scrutantes scrutinio. Accedet homo ad cor altum:
+  - `Psalt-Pianum (1945)`: Et mens cujúsque et cor sunt profúnda.
   - `VulgConte (2009)`: Scrutati sunt iniquitates: defecerunt scrutantes scrutinio. Accedet homo ad cor altum:
   - `VulgSistina (1590)`: Scrutati sunt iniquitates: defecerunt scrutantes scrutinio. Accedet homo ad cor altum:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -137,6 +178,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et infirmatæ sunt contra eos linguæ eorum. Conturbati sunt omnes qui videbant eos,
   - `Clem-Saints`: et infirmatæ sunt contra eos linguæ eorum. Conturbati sunt omnes qui videbant eos,
   - `VulgHetzenauer (1906)`: et infirmatæ sunt contra eos linguæ eorum. Conturbati sunt omnes qui videbant eos:
+  - `Psalt-Pianum (1945)`: Et ruínam parat eis lingua ipsórum: cápita movent omnes qui vident eos.
   - `VulgConte (2009)`: et infirmatæ sunt contra eos linguæ eorum. Conturbati sunt omnes qui videbant eos:
   - `VulgSistina (1590)`: et infirmatae sunt contra eos linguae eorum. Conturbati sunt omnes qui videbant eos:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -146,6 +188,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et timuit omnis homo. Et annuntiaverunt opera Dei, et facta ejus intellexerunt.
   - `Clem-Saints`: et timuit omnis homo. Et annuntiaverunt opera Dei, et facta ejus intellexerunt.
   - `VulgHetzenauer (1906)`: et timuit omnis homo. Et annunciaverunt opera Dei: et facta eius intellexerunt.
+  - `Psalt-Pianum (1945)`: Et omnes timent et prǽdicant opus Dei, et perpéndunt acta ejus.
   - `VulgConte (2009)`: et timuit omnis homo. Et annunciaverunt opera Dei: et facta eius intellexerunt.
   - `VulgSistina (1590)`: et timuit omnis homo. Et annunciaverunt opera Dei: et facta eius intellexerunt.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -155,6 +198,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Lætabitur justus in Domino, et sperabit in eo, et laudabuntur omnes recti corde.
   - `Clem-Saints`: Lætabitur justus in Domino, et sperabit in eo, et laudabuntur omnes recti corde.
   - `VulgHetzenauer (1906)`: Lætabitur iustus in Domino, et sperabit in eo, et laudabuntur omnes recti corde.
+  - `Psalt-Pianum (1945)`: Lætátur justus in Dómino et cónfugit ad eum, et gloriántur omnes recti corde.
   - `VulgConte (2009)`: Lætabitur iustus in Domino, et sperabit in eo, et laudabuntur omnes recti corde.
   - `VulgSistina (1590)`: Laetabitur iustus in Domino, et sperabit in eo, et laudabuntur omnes recti corde.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

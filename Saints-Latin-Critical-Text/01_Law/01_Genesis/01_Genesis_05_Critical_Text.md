@@ -1,6 +1,6 @@
 # Genesis 05 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:16:03Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:32Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -15,9 +15,9 @@
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
-| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -29,7 +29,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -37,21 +46,21 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 **1** Hic est liber generationis Adam. In die qua creavit Deus hominem, ad similitudinem Dei fecit illum.
 **2** Masculum et feminam creavit eos, et benedixit illis: et vocavit nomen eorum Adam, in die quo creati sunt.
-**3** Vixit autem Adam cxxx annis: et genuit ad similitudinem et imaginem suam, vocavitque nomen ejus Seth.
+**3** Vixit autem Adam centum triginta annis: et genuit ad similitudinem et imaginem suam, vocavitque nomen ejus Seth.
 **4** Et facti sunt dies Adam, postquam genuit Seth, octingenti anni: genuitque filios et filias.
-**5** Et factum est omne tempus quod vixit Adam, anni dcccc xxx, et mortuus est.
+**5** Et factum est omne tempus quod vixit Adam, anni nongenti triginta, et mortuus est.
 **6** Vixit quoque Seth centum quinque annos, et genuit Enos.
-**7** Vixitque Seth, postquam genuit Enos, dccc vii annis, genuitque filios et filias.
+**7** Vixitque Seth, postquam genuit Enos, octingentis septem annis, genuitque filios et filias.
 **8** Et facti sunt omnes dies Seth nongentorum duodecim annorum, et mortuus est.
 **9** Vixit vero Enos nonaginta annis, et genuit Cainan.
 **10** Post cujus ortum vixit octingentis quindecim annis, et genuit filios et filias.
 **11** Factique sunt omnes dies Enos nongentorum quinque annorum, et mortuus est.
 **12** Vixit quoque Cainan septuaginta annis, et genuit Malaleel.
 **13** Et vixit Cainan, postquam genuit Malaleel, octingentos quadraginta annos, genuitque filios et filias.
-**14** Et facti sunt omnes dies Cainan dcccc x anni, et mortuus est.
+**14** Et facti sunt omnes dies Cainan nongenti decem anni, et mortuus est.
 **15** Vixit autem Malaleel sexaginta quinque annos, et genuit Iareth.
 **16** Et vixit Malaleel, postquam genuit Iareth, octingentis triginta annis, et genuit filios et filias.
-**17** Et facti sunt omnes dies Malaleel dccc xcv anni, et mortuus est.
+**17** Et facti sunt omnes dies Malaleel octingenti nonaginta quinque anni, et mortuus est.
 **18** Vixitque Iareth centum sexaginta duobus annis, et genuit Henoch.
 **19** Et vixit Iareth, postquam genuit Henoch, octingentos annos, et genuit filios et filias.
 **20** Et facti sunt omnes dies Iareth nongenti sexaginta duo anni, et mortuus est.
@@ -61,11 +70,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **24** Ambulavitque cum Deo, et non apparuit: quia tulit eum Deus.
 **25** Vixit quoque Mathusalam centum octoginta septem annos, et genuit Lamech.
 **26** Et vixit Mathusalam, postquam genuit Lamech, septingentos octoginta duos annos, et genuit filios et filias.
-**27** Et facti sunt omnes dies Mathusalae nongenti sexaginta novem anni, et mortuus est.
+**27** Et facti sunt omnes dies Mathusalæ nongenti sexaginta novem anni, et mortuus est.
 **28** Vixit autem Lamech centum octoginta duobus annis, et genuit filium:
 **29** vocavitque nomen ejus Noë, dicens: Iste consolabitur nos ab operibus et laboribus manuum nostrarum in terra, cui maledixit Dominus.
 **30** Vixitque Lamech, postquam genuit Noë, quingentos nonaginta quinque annos, et genuit filios et filias.
-**31** Et facti sunt omnes dies Lamech septingenti septuaginta septem anni, et mortuus est. Noë vero cum quingentorum esset annorum, genuit Sem, et ham et Japheth.
+**31** Et facti sunt omnes dies Lamech septingenti septuaginta septem anni, et mortuus est. Noë vero cum quingentorum esset annorum, genuit Sem, et Ham et Japheth.
 
 ---
 
@@ -90,15 +99,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `sunt.` over `sunt` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 5:3
-- **Apparatus:** `cxxx` Amiatinus (A) **]** **centum triginta** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
-  - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `om.` Amiatinus (A) Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **filium** VulgSistina (1590)
-- **Apparatus:** `similitudinem et imaginem` Amiatinus (A) **]** **imaginem et similitudinem** Clem1598-USFX Clem-Saints ; **similitudinem** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `similitudinem et imaginem` Amiatinus (A) **]** **imaginem et similitudinem** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Vixit` over `uixit` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `Adam` over `adam` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
+- *Disregarded Surface Variant:* kept `centum triginta` over `cxxx` (Amiatinus (A)) — *Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value*
 - *Disregarded Surface Variant:* kept `annis:` over `annis` (Amiatinus (A)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `suam,` over `suam` (Amiatinus (A)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `vocavitque` over `uocauitque` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -113,12 +120,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `filias.` over `filias` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 5:5
-- **Apparatus:** `dcccc xxx` Amiatinus (A) **]** **nongenti triginta** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
-  - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Et` over `et` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `vixit` over `uixit` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `Adam,` over `adam` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
+- *Disregarded Surface Variant:* kept `nongenti` over `dcccc` (Amiatinus (A)) — *Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value*
+- *Disregarded Surface Variant:* kept `triginta,` over `xxx` (Amiatinus (A)) — *Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value*
 - *Disregarded Surface Variant:* kept `est.` over `est` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 5:6
@@ -130,12 +136,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Enos.` over `enos` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 5:7
-- **Apparatus:** `dccc vii` Amiatinus (A) **]** **octingentis septem** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
-  - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Vixitque` over `uixitque` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `Seth,` over `seth` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `Enos,` over `enos` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
+- *Disregarded Surface Variant:* kept `octingentis` over `dccc` (Amiatinus (A)) — *Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value*
+- *Disregarded Surface Variant:* kept `septem` over `vii` (Amiatinus (A)) — *Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value*
 - *Disregarded Surface Variant:* kept `annis,` over `annis` (Amiatinus (A)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `filias.` over `filias` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
@@ -184,11 +189,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `filias.` over `filias` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 5:14
-- **Apparatus:** `dcccc x` Amiatinus (A) **]** **nongenti decem** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
-  - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Et` over `et` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `Cainan` over `cainan` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
+- *Disregarded Surface Variant:* kept `nongenti` over `dcccc` (Amiatinus (A)) — *Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value*
+- *Disregarded Surface Variant:* kept `decem` over `x` (Amiatinus (A)) — *Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value*
 - *Disregarded Surface Variant:* kept `anni,` over `anni` (Amiatinus (A)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `est.` over `est` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
@@ -213,11 +217,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `filias.` over `filias` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 5:17
-- **Apparatus:** `dccc xcv` Amiatinus (A) **]** **octingenti nonaginta quinque** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
-  - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
-  - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Et` over `et` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `Malaleel` over `malalehel` (Amiatinus (A)) — *Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `octingenti` over `dccc` (Amiatinus (A)) — *Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value*
+- *Disregarded Surface Variant:* kept `nonaginta quinque` over `xcv` (Amiatinus (A)) — *Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value*
 - *Disregarded Surface Variant:* kept `anni,` over `anni` (Amiatinus (A)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `est.` over `est` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
@@ -258,7 +261,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Genesis 5:22
 - **Apparatus:** `ambulavit` Amiatinus (A) Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **vixit** VulgSistina (1590)
-- **Apparatus:** `cum Deo:` Amiatinus (A) Clem-Saints Clem1598-USFX **]** **om.** VulgSistina (1590) ; **cum Deo: et vixit,** VulgConte (2009) VulgHetzenauer (1906)
 - **Apparatus:** `om.` Amiatinus (A) VulgSistina (1590) **]** **et vixit** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) *(omission / addition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
@@ -304,7 +306,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `filias.` over `filias` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 5:27
-- **Apparatus:** `Mathusalae` Amiatinus (A) **]** **Mathusala** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
+- **Apparatus:** `Mathusalæ` Amiatinus (A) **]** **Mathusala** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Et` over `et` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -340,7 +342,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `filias.` over `filias` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 5:31
-- **Apparatus:** `et ham et Japheth` Amiatinus (A) **]** **Cham et Japheth** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
+- **Apparatus:** `et Ham et Japheth` Amiatinus (A) **]** **Cham et Japheth** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Et` over `et` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -376,16 +378,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgSistina (1590)`: Masculum et feminam creavit eos, et benedixit illis: et vocavit nomen eorum Adam, in die quo creati sunt.
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 7 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
-### Verse 3 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Vixit autem Adam cxxx annis: et genuit ad similitudinem et imaginem suam, vocavitque nomen ejus Seth.
+### Verse 3 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Vixit autem Adam centum triginta annis: et genuit ad similitudinem et imaginem suam, vocavitque nomen ejus Seth.
   - `Clem1598-USFX`: Vixit autem Adam centum triginta annis: et genuit ad imaginem et similitudinem suam, vocavitque nomen ejus Seth.
   - `Clem-Saints`: Vixit autem Adam centum triginta annis: et genuit ad imaginem et similitudinem suam, vocavitque nomen ejus Seth.
   - `Amiatinus (A)`: uixit autem adam cxxx annis et genuit ad similitudinem et imaginem suam uocauitque nomen eius seth
   - `VulgHetzenauer (1906)`: Vixit autem Adam centum triginta annis: et genuit ad imaginem et similitudinem suam, vocavitque nomen eius Seth.
   - `VulgConte (2009)`: Vixit autem Adam centum triginta annis: et genuit ad imaginem et similitudinem suam, vocavitque nomen eius Seth.
   - `VulgSistina (1590)`: Vixit autem Adam centum triginta annis: et genuit filium ad imaginem et similitudinem suam, vocavitque nomen eius Seth.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'cxxx' [Amiatinus (A)] (weight 0.97, confidence 53%) over centum triginta (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'similitudinem et imaginem' [Amiatinus (A)] (weight 0.97, confidence 53%) over imaginem et similitudinem (Clem1598-USFX, Clem-Saints). Also normalised 7 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'similitudinem et imaginem' [Amiatinus (A)] (weight 0.97, confidence 53%) over imaginem et similitudinem (Clem1598-USFX, Clem-Saints). Also normalised 8 orthographic/surface variation(s).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et facti sunt dies Adam, postquam genuit Seth, octingenti anni: genuitque filios et filias.
@@ -397,16 +399,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgSistina (1590)`: Et facti sunt dies Adam, postquam genuit Seth, octingenti anni: genuitque filios et filias.
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 5 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
-### Verse 5 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et factum est omne tempus quod vixit Adam, anni dcccc xxx, et mortuus est.
+### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Et factum est omne tempus quod vixit Adam, anni nongenti triginta, et mortuus est.
   - `Clem1598-USFX`: Et factum est omne tempus quod vixit Adam, anni nongenti triginta, et mortuus est.
   - `Clem-Saints`: Et factum est omne tempus quod vixit Adam, anni nongenti triginta, et mortuus est.
   - `Amiatinus (A)`: et factum est omne tempus quod uixit adam anni dcccc xxx et mortuus est
   - `VulgHetzenauer (1906)`: Et factum est omne tempus quod vixit Adam, anni nongenti triginta, et mortuus est.
   - `VulgConte (2009)`: Et factum est omne tempus quod vixit Adam, anni nongenti triginta, et mortuus est.
   - `VulgSistina (1590)`: Et factum est omne tempus quod vixit Adam, anni nongenti triginta, et mortuus est.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'dcccc xxx' [Amiatinus (A)] (weight 0.97, confidence 53%) over nongenti triginta (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 6 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only; Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value).
 
 ### Verse 6 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vixit quoque Seth centum quinque annos, et genuit Enos.
@@ -419,16 +420,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'annos' [Amiatinus (A)] (weight 0.97, confidence 53%) over annis (Clem1598-USFX, Clem-Saints). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 7 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Vixitque Seth, postquam genuit Enos, dccc vii annis, genuitque filios et filias.
+### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Vixitque Seth, postquam genuit Enos, octingentis septem annis, genuitque filios et filias.
   - `Clem1598-USFX`: Vixitque Seth, postquam genuit Enos, octingentis septem annis, genuitque filios et filias.
   - `Clem-Saints`: Vixitque Seth, postquam genuit Enos, octingentis septem annis, genuitque filios et filias.
   - `Amiatinus (A)`: uixitque seth postquam genuit enos dccc vii annis genuitque filios et filias
   - `VulgHetzenauer (1906)`: Vixitque Seth postquam genuit Enos, octingentis septem annis, genuitque filios et filias.
   - `VulgConte (2009)`: Vixitque Seth postquam genuit Enos, octingentis septem annis, genuitque filios et filias.
   - `VulgSistina (1590)`: Vixitque Seth postquam genuit Enos, octingentis septem annis, genuitque filios et filias.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'dccc vii' [Amiatinus (A)] (weight 0.97, confidence 53%) over octingentis septem (Clem1598-USFX, Clem-Saints). Also normalised 5 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 7 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only; Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et facti sunt omnes dies Seth nongentorum duodecim annorum, et mortuus est.
@@ -492,16 +492,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Variation unit spanning several words] Adopted 'octingentos quadraginta annos' [Amiatinus (A)] (weight 0.97, confidence 53%) over octingentis quadraginta annis (Clem1598-USFX, Clem-Saints). Also normalised 5 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 14 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et facti sunt omnes dies Cainan dcccc x anni, et mortuus est.
+### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Et facti sunt omnes dies Cainan nongenti decem anni, et mortuus est.
   - `Clem1598-USFX`: Et facti sunt omnes dies Cainan nongenti decem anni, et mortuus est.
   - `Clem-Saints`: Et facti sunt omnes dies Cainan nongenti decem anni, et mortuus est.
   - `Amiatinus (A)`: et facti sunt omnes dies cainan dcccc x anni et mortuus est
   - `VulgHetzenauer (1906)`: Et facti sunt omnes dies Cainan nongenti decem anni, et mortuus est.
   - `VulgConte (2009)`: Et facti sunt omnes dies Cainan nongenti decem anni, et mortuus est.
   - `VulgSistina (1590)`: Et facti sunt omnes dies Cainan nongenti decem anni, et mortuus est.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'dcccc x' [Amiatinus (A)] (weight 0.97, confidence 53%) over nongenti decem (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 6 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only; Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value).
 
 ### Verse 15 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vixit autem Malaleel sexaginta quinque annos, et genuit Iareth.
@@ -525,16 +524,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Iareth' [Amiatinus (A)] (weight 0.97, confidence 53%) over Jared (Clem1598-USFX, Clem-Saints). Also normalised 5 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 17 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et facti sunt omnes dies Malaleel dccc xcv anni, et mortuus est.
+### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Et facti sunt omnes dies Malaleel octingenti nonaginta quinque anni, et mortuus est.
   - `Clem1598-USFX`: Et facti sunt omnes dies Malaleel octingenti nonaginta quinque anni, et mortuus est.
   - `Clem-Saints`: Et facti sunt omnes dies Malaleel octingenti nonaginta quinque anni, et mortuus est.
   - `Amiatinus (A)`: et facti sunt omnes dies malalehel dccc xcv anni et mortuus est
   - `VulgHetzenauer (1906)`: Et facti sunt omnes dies Malaleel octingenti nonaginta quinque anni, et mortuus est.
   - `VulgConte (2009)`: Et facti sunt omnes dies Malaleel octingenti nonaginta quinque anni, et mortuus est.
   - `VulgSistina (1590)`: Et facti sunt omnes dies Malaleel octingenti nonaginta quinque anni, et mortuus est.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'dccc xcv' [Amiatinus (A)] (weight 0.97, confidence 53%) over octingenti nonaginta quinque (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 6 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type); Punctuation / spacing difference only; Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value).
 
 ### Verse 18 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vixitque Iareth centum sexaginta duobus annis, et genuit Henoch.
@@ -633,14 +631,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 27 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et facti sunt omnes dies Mathusalae nongenti sexaginta novem anni, et mortuus est.
+- **Critical Text:** Et facti sunt omnes dies Mathusalæ nongenti sexaginta novem anni, et mortuus est.
   - `Clem1598-USFX`: Et facti sunt omnes dies Mathusala nongenti sexaginta novem anni, et mortuus est.
   - `Clem-Saints`: Et facti sunt omnes dies Mathusala nongenti sexaginta novem anni, et mortuus est.
   - `Amiatinus (A)`: et facti sunt omnes dies mathusalae nongenti sexaginta nouem anni et mortuus est
   - `VulgHetzenauer (1906)`: Et facti sunt omnes dies Mathusala nongenti sexaginta novem anni, et mortuus est.
   - `VulgConte (2009)`: Et facti sunt omnes dies Mathusala nongenti sexaginta novem anni, et mortuus est.
   - `VulgSistina (1590)`: Et facti sunt omnes dies Mathusala nongenti sexaginta novem anni, et mortuus est.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Mathusalae' [Amiatinus (A)] (weight 0.97, confidence 53%) over Mathusala (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Mathusalæ' [Amiatinus (A)] (weight 0.97, confidence 53%) over Mathusala (Clem1598-USFX, Clem-Saints). Also normalised 4 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -675,12 +673,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 31 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et facti sunt omnes dies Lamech septingenti septuaginta septem anni, et mortuus est. Noë vero cum quingentorum esset annorum, genuit Sem, et ham et Japheth.
+- **Critical Text:** Et facti sunt omnes dies Lamech septingenti septuaginta septem anni, et mortuus est. Noë vero cum quingentorum esset annorum, genuit Sem, et Ham et Japheth.
   - `Clem1598-USFX`: Et facti sunt omnes dies Lamech septingenti septuaginta septem anni, et mortuus est. Noë vero cum quingentorum esset annorum, genuit Sem, Cham et Japheth.
   - `Clem-Saints`: Et facti sunt omnes dies Lamech septingenti septuaginta septem anni, et mortuus est. Noë vero cum quingentorum esset annorum, genuit Sem, Cham et Japheth.
   - `Amiatinus (A)`: et facti sunt omnes dies lamech septingenti septuaginta septem anni et mortuus est Noe uero cum quingentorum esset annorum genuit sem et ham et iafeth
   - `VulgHetzenauer (1906)`: Et facti sunt omnes dies Lamech, septingenti septuaginta septem anni, et mortuus est. Noe vero cum quingentorum esset annorum, genuit Sem, Cham, et Iapheth.
   - `VulgConte (2009)`: Et facti sunt omnes dies Lamech, septingenti septuaginta septem anni, et mortuus est. Noe vero cum quingentorum esset annorum, genuit Sem, Cham, et Iapheth.
   - `VulgSistina (1590)`: Et facti sunt omnes dies Lamech, septingenti septuaginta septem anni, et mortuus est. Noe vero cum quingentorum esset annorum, genuit Sem, Cham, et Iapheth.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'et ham et Japheth' [Amiatinus (A)] (weight 0.97, confidence 53%) over Cham et Japheth (Clem1598-USFX, Clem-Saints). Also normalised 8 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'et Ham et Japheth' [Amiatinus (A)] (weight 0.97, confidence 53%) over Cham et Japheth (Clem1598-USFX, Clem-Saints). Also normalised 8 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).

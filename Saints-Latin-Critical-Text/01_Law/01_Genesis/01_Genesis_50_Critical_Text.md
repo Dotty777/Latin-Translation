@@ -1,6 +1,6 @@
 # Genesis 50 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:16:11Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:33Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -15,9 +15,9 @@
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
-| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -29,7 +29,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ### Versification & Alignment Notes
 - Clem1598-USFX: 3 verse(s) re-aligned by content (24←50:23, 25←50:24, 26←50:25)
@@ -52,14 +61,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **8** domus Joseph cum fratribus suis, absque parvulis, et gregibus atque armentis, quæ dereliquerant in terra Gessen.
 **9** Habuit quoque in comitatu currus et equites: et facta est turba non modica.
 **10** Veneruntque ad Aream Atad, quæ sita est trans Jordanem: ubi celebrantes exequias planctu magno atque vehementi impleverunt septem dies.
-**11** Quod cum vidissent habitatores terræ Chanaan, dixerunt: Planctus magnus est iste Hebraeis. Et idcirco appellaverunt nomen loci illius, Planctus Ægypti.
+**11** Quod cum vidissent habitatores terræ Chanaan, dixerunt: Planctus magnus est iste Hebræis. Et idcirco appellaverunt nomen loci illius, Planctus Ægypti.
 **12** Fecerunt ergo filii Jacob sicut præceperat eis:
 **13** et portantes eum in terram Chanaan, sepelierunt in spelunca duplici, quam emerat Abraham cum agro in possessionem sepulchri ab Ephron Cettheo, contra faciem Mambre.
 **14** Reversusque est Joseph in Ægyptum cum fratribus suis, et omni comitatu, sepulto patre.
 **15** Quo mortuo, timentes fratres ejus, et mutuo colloquentes: Ne forte memor sit injuriæ quam passus est, et reddat nobis malum omne quod fecimus,
 **16** mandaverunt ei Pater tuus præcepit nobis antequam moreretur,
 **17** ut hæc tibi verbis illius diceremus: Obsecro ut obliviscaris sceleris fratrum tuorum, et peccati atque malitiæ quam exercuerunt in te: nos quoque oramus ut servis Dei patris tui dimittas iniquitatem hanc. Quibus auditis flevit Joseph.
-**18** Veneruntque ad eum fratres sui: et proni in terram, dixerunt: Servi tui sumus.
+**18** Veneruntque ad eum fratres sui: et proni in terram, adoraverunt et dixerunt: Servi tui sumus.
 **19** Quibus ille respondit: Nolite metuere: num Dei possumus rennuere voluntatem?
 **20** Vos cogitastis de me malum: et Deus vertit illud in bonum, ut exaltaret me, sicut in præsentiarum cernitis, et salvos faceret multos populos.
 **21** Nolite metuere: ego pascam vos et parvulos vestros: consolatusque est eos, et blande ac leniter est locutus.
@@ -166,7 +175,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `dies.` over `dies` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 50:11
-- **Apparatus:** `Hebraeis` Amiatinus (A) **]** **Ægyptiis** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
+- **Apparatus:** `Hebræis` Amiatinus (A) **]** **Ægyptiis** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `appellaverunt` Amiatinus (A) **]** **vocatum est** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
@@ -210,7 +219,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `patre.` over `patre` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 50:15
-- **Apparatus:** `malum omne` Amiatinus (A) **]** **omne malum** Clem1598-USFX Clem-Saints ; **malum** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `malum omne` Amiatinus (A) **]** **omne malum** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Quo` over `quo` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -251,6 +260,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Genesis 50:18
 - **Apparatus:** `om.` Amiatinus (A) **]** **adorantes** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(omission / addition)*
+  - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
+  - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
+- **Apparatus:** `adoraverunt et` Amiatinus (A) **]** **om.** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(omission / addition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Veneruntque` over `ueneruntque` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -458,14 +470,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 7 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
 ### Verse 11 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Quod cum vidissent habitatores terræ Chanaan, dixerunt: Planctus magnus est iste Hebraeis. Et idcirco appellaverunt nomen loci illius, Planctus Ægypti.
+- **Critical Text:** Quod cum vidissent habitatores terræ Chanaan, dixerunt: Planctus magnus est iste Hebræis. Et idcirco appellaverunt nomen loci illius, Planctus Ægypti.
   - `Clem1598-USFX`: Quod cum vidissent habitatores terræ Chanaan, dixerunt: Planctus magnus est iste Ægyptiis. Et idcirco vocatum est nomen loci illius, Planctus Ægypti.
   - `Clem-Saints`: Quod cum vidissent habitatores terræ Chanaan, dixerunt: Planctus magnus est iste Ægyptiis. Et idcirco vocatum est nomen loci illius, Planctus Ægypti.
   - `Amiatinus (A)`: quod cum uidissent habitatores terrae chanaan dixerunt Planctus magnus est iste hebraeis et idcirco appellauerunt nomen loci illius planctus aegypti
   - `VulgHetzenauer (1906)`: Quod cum vidissent habitatores Terræ Chanaan, dixerunt: Planctus magnus est iste Ægyptiis. Et idcirco vocatum est nomen loci illius, Planctus Ægypti.
   - `VulgConte (2009)`: Quod cum vidissent habitatores Terræ Chanaan, dixerunt: Planctus magnus est iste Ægyptiis. Et idcirco vocatum est nomen loci illius, Planctus Ægypti.
   - `VulgSistina (1590)`: Quod cum vidissent habitatores Terrae Chanaan, dixerunt: Planctus magnus est iste Aegyptiis. Et idcirco vocatum est nomen loci illius, Planctus Aegypti.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Hebraeis' [Amiatinus (A)] (weight 0.97, confidence 53%) over Ægyptiis (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'appellaverunt' [Amiatinus (A)] (weight 0.97, confidence 53%) over vocatum est (Clem1598-USFX, Clem-Saints). Also normalised 9 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Hebræis' [Amiatinus (A)] (weight 0.97, confidence 53%) over Ægyptiis (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'appellaverunt' [Amiatinus (A)] (weight 0.97, confidence 53%) over vocatum est (Clem1598-USFX, Clem-Saints). Also normalised 9 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -531,16 +543,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgSistina (1590)`: ut haec tibi verbis illius diceremus: Obsecro ut obliviscaris sceleris fratrum tuorum, et peccati atque malitiae quam exercuerunt in te: nos quoque oramus ut servo Dei patri tuo dimittas iniquitatem hanc. Quibus auditis flevit Ioseph.
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 14 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
-### Verse 18 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Veneruntque ad eum fratres sui: et proni in terram, dixerunt: Servi tui sumus.
+### Verse 18 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Veneruntque ad eum fratres sui: et proni in terram, adoraverunt et dixerunt: Servi tui sumus.
   - `Clem1598-USFX`: Veneruntque ad eum fratres sui: et proni adorantes in terram, dixerunt: Servi tui sumus.
   - `Clem-Saints`: Veneruntque ad eum fratres sui: et proni adorantes in terram, dixerunt: Servi tui sumus.
   - `Amiatinus (A)`: ueneruntque ad eum fratres sui et proni in […] adorauerunt et dixerunt serui tui sumus
   - `VulgHetzenauer (1906)`: Veneruntque ad eum fratres sui: et proni adorantes in terram dixerunt: Servi tui sumus.
   - `VulgConte (2009)`: Veneruntque ad eum fratres sui: et proni adorantes in terram dixerunt: Servi tui sumus.
   - `VulgSistina (1590)`: Veneruntque ad eum fratres sui: et proni adorantes in terram dixerunt: Servi tui sumus.
-- **Philological Rationale:** [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over adorantes (Clem1598-USFX, Clem-Saints). Also normalised 5 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over adorantes (Clem1598-USFX, Clem-Saints). [Addition / omission between witnesses] Adopted 'adoraverunt et' [Amiatinus (A)] (weight 0.97, confidence 53%) over om. (Clem1598-USFX, Clem-Saints). Also normalised 5 orthographic/surface variation(s).
+- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 19 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quibus ille respondit: Nolite metuere: num Dei possumus rennuere voluntatem?

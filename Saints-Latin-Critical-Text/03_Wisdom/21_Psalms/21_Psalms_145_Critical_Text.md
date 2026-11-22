@@ -1,6 +1,6 @@
 # Psalms 145 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:25Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:48Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,32 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+
+### Versification & Alignment Notes
+- Psalt-Pianum (1945): 1 verse(s) re-aligned by content (2←145:1)
 
 ---
 
@@ -52,8 +65,47 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Psalms 145:1
 - *Disregarded Surface Variant:* kept `Alleluja,` over `Alleluja` (Clem-Saints) — *Punctuation / spacing difference only*
 
+### Psalms 145:2
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **(2)** Psalt-Pianum (1945)
+- **Apparatus:** `fuero. Nolite confidere in principibus,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ero.** Psalt-Pianum (1945)
+
+### Psalms 145:3
+- **Apparatus:** `om.` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Nolíte confídere** Psalt-Pianum (1945)
+- **Apparatus:** `filiis hominum,` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **princípibus,** Psalt-Pianum (1945)
+- **Apparatus:** `quibus` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **hómine, per quem** Psalt-Pianum (1945)
+
+### Psalms 145:4
+- **Apparatus:** `Exibit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Cum exíerit** Psalt-Pianum (1945)
+- **Apparatus:** `et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `in illa die` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **tunc** Psalt-Pianum (1945)
+- **Apparatus:** `omnes cogitationes eorum.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ómnia consília ejus.** Psalt-Pianum (1945)
+
+### Psalms 145:5
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **adjútor est** Psalt-Pianum (1945)
+- **Apparatus:** `adjutor ejus,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cujus** Psalt-Pianum (1945)
+- **Apparatus:** `ejus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `ipsius:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **suo.** Psalt-Pianum (1945)
+
+### Psalms 145:6
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Qui servat fidem in ætérnum, (7a) reddit jus oppréssis, panem dat esuriéntibus.** Psalt-Pianum (1945)
+
+### Psalms 145:7
+- **Apparatus:** `Qui custodit veritatem in sæculum; facit judicium injuriam patientibus; dat escam esurientibus.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `compeditos;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **captívos, (8a) Dóminus áperit óculos cæcórum.** Psalt-Pianum (1945)
+
+### Psalms 145:8
+- **Apparatus:** `Dominus illuminat cæcos.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `elisos;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **curvátos,** Psalt-Pianum (1945)
+
+### Psalms 145:9
+- **Apparatus:** `advenas,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **peregrínos,** Psalt-Pianum (1945)
+- **Apparatus:** `suscipiet, et vias` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **susténtat, viam autem** Psalt-Pianum (1945)
+- **Apparatus:** `vias` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **autem** Psalt-Pianum (1945)
+- **Apparatus:** `disperdet.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pertúrbat.** Psalt-Pianum (1945)
+
 ### Psalms 145:10
-- **Apparatus:** `generationem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **generatione** VulgSistina (1590)
+- **Apparatus:** `sæcula;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ætérnum,** Psalt-Pianum (1945)
+- **Apparatus:** `generationem` Clem-Saints Clem1598-USFX Psalt-Pianum (1945) VulgConte (2009) VulgHetzenauer (1906) **]** **generatione** VulgSistina (1590)
 
 ---
 
@@ -73,6 +125,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Lauda, anima mea, Dominum. Laudabo Dominum in vita mea; psallam Deo meo quamdiu fuero. Nolite confidere in principibus,
   - `Clem-Saints`: Lauda, anima mea, Dominum. Laudabo Dominum in vita mea; psallam Deo meo quamdiu fuero. Nolite confidere in principibus,
   - `VulgHetzenauer (1906)`: Lauda anima mea Dominum, laudabo Dominum in vita mea: psallam Deo meo quamdiu fuero. Nolite confidere in principibus:
+  - `Psalt-Pianum (1945)` *(numbered 145:1 in this witness)*: Lauda, ánima mea, Dóminum; (2) laudábo Dóminum in vita mea; psallam Deo meo quámdiu ero.
   - `VulgConte (2009)`: Lauda anima mea Dominum, laudabo Dominum in vita mea: psallam Deo meo quamdiu fuero. Nolite confidere in principibus:
   - `VulgSistina (1590)`: Lauda anima mea Dominum, laudabo Dominum in vita mea: psallam Deo meo quamdiu fuero. Nolite confidere in principibus:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -81,6 +134,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** in filiis hominum, in quibus non est salus.
   - `Clem1598-USFX`: in filiis hominum, in quibus non est salus.
   - `VulgHetzenauer (1906)`: in filiis hominum, in quibus non est salus.
+  - `Psalt-Pianum (1945)`: Nolíte confídere in princípibus, in hómine, per quem non est salus.
   - `VulgConte (2009)`: in filiis hominum, in quibus non est salus.
   - `VulgSistina (1590)`: in filiis hominum, in quibus non est salus.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
@@ -90,6 +144,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Exibit spiritus ejus, et revertetur in terram suam; in illa die peribunt omnes cogitationes eorum.
   - `Clem-Saints`: Exibit spiritus ejus, et revertetur in terram suam; in illa die peribunt omnes cogitationes eorum.
   - `VulgHetzenauer (1906)`: Exibit spiritus eius, et revertetur in terram suam: in illa die peribunt omnes cogitationes eorum.
+  - `Psalt-Pianum (1945)`: Cum exíerit spíritus ejus, revertétur in terram suam; tunc períbunt ómnia consília ejus.
   - `VulgConte (2009)`: Exibit spiritus eius, et revertetur in terram suam: in illa die peribunt omnes cogitationes eorum.
   - `VulgSistina (1590)`: Exibit spiritus eius, et revertetur in terram suam: in illa die peribunt omnes cogitationes eorum.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -99,6 +154,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Beatus cujus Deus Jacob adjutor ejus, spes ejus in Domino Deo ipsius:
   - `Clem-Saints`: Beatus cujus Deus Jacob adjutor ejus, spes ejus in Domino Deo ipsius:
   - `VulgHetzenauer (1906)`: Beatus, cuius Deus Iacob adiutor eius, spes eius in Domino Deo ipsius:
+  - `Psalt-Pianum (1945)`: Beátus, cujus adjútor est Deus Jacob, cujus spes in Dómino, Deo suo.
   - `VulgConte (2009)`: Beatus, cuius Deus Iacob adiutor eius, spes eius in Domino Deo ipsius:
   - `VulgSistina (1590)`: Beatus, cuius Deus Iacob adiutor eius, spes eius in Domino Deo ipsius:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -108,6 +164,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: qui fecit cælum et terram, mare, et omnia quæ in eis sunt.
   - `Clem-Saints`: qui fecit cælum et terram, mare, et omnia quæ in eis sunt.
   - `VulgHetzenauer (1906)`: qui fecit cælum et terram, mare, et omnia, quæ in eis sunt.
+  - `Psalt-Pianum (1945)`: Qui fecit cælum et terram, mare, et ómnia quæ in eis sunt, Qui servat fidem in ætérnum, (7a) reddit jus oppréssis, panem dat esuriéntibus.
   - `VulgConte (2009)`: qui fecit cælum et terram, mare, et omnia, quæ in eis sunt.
   - `VulgSistina (1590)`: qui fecit caelum et terram, mare, et omnia, quae in eis sunt.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -117,6 +174,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Qui custodit veritatem in sæculum; facit judicium injuriam patientibus; dat escam esurientibus. Dominus solvit compeditos;
   - `Clem-Saints`: Qui custodit veritatem in sæculum; facit judicium injuriam patientibus; dat escam esurientibus. Dominus solvit compeditos;
   - `VulgHetzenauer (1906)`: Qui custodit veritatem in sæculum, facit iudicium iniuriam patientibus: dat escam esurientibus. Dominus solvit compeditos:
+  - `Psalt-Pianum (1945)`: Dóminus solvit captívos, (8a) Dóminus áperit óculos cæcórum.
   - `VulgConte (2009)`: Qui custodit veritatem in sæculum, facit iudicium iniuriam patientibus: dat escam esurientibus. Dominus solvit compeditos:
   - `VulgSistina (1590)`: Qui custodit veritatem in saeculum, facit iudicium iniuriam patientibus: dat escam esurientibus. Dominus solvit compeditos:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -126,6 +184,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Dominus illuminat cæcos. Dominus erigit elisos; Dominus diligit justos.
   - `Clem-Saints`: Dominus illuminat cæcos. Dominus erigit elisos; Dominus diligit justos.
   - `VulgHetzenauer (1906)`: Dominus illuminat cæcos. Dominus erigit elisos, Dominus diligit iustos.
+  - `Psalt-Pianum (1945)`: Dóminus érigit curvátos, Dóminus díligit justos.
   - `VulgConte (2009)`: Dominus illuminat cæcos. Dominus erigit elisos, Dominus diligit iustos.
   - `VulgSistina (1590)`: Dominus illuminat caecos. Dominus erigit elisos, Dominus diligit iustos.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -135,6 +194,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Dominus custodit advenas, pupillum et viduam suscipiet, et vias peccatorum disperdet.
   - `Clem-Saints`: Dominus custodit advenas, pupillum et viduam suscipiet, et vias peccatorum disperdet.
   - `VulgHetzenauer (1906)`: Dominus custodit advenas, pupillum et viduam suscipiet: et vias peccatorum disperdet.
+  - `Psalt-Pianum (1945)`: Dóminus custódit peregrínos, pupíllum et víduam susténtat, viam autem peccatórum pertúrbat.
   - `VulgConte (2009)`: Dominus custodit advenas, pupillum et viduam suscipiet: et vias peccatorum disperdet.
   - `VulgSistina (1590)`: Dominus custodit advenas, pupillum et viduam suscipiet: et vias peccatorum disperdet.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -144,6 +204,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Regnabit Dominus in sæcula; Deus tuus, Sion, in generationem et generationem.
   - `Clem-Saints`: Regnabit Dominus in sæcula; Deus tuus, Sion, in generationem et generationem.
   - `VulgHetzenauer (1906)`: Regnabit Dominus in sæcula Deus tuus Sion, in generationem et generationem.
+  - `Psalt-Pianum (1945)`: Regnábit Dóminus in ætérnum, Deus tuus, Sion, in generatiónem et generatiónem.
   - `VulgConte (2009)`: Regnabit Dominus in sæcula, Deus tuus Sion, in generationem et generationem.
   - `VulgSistina (1590)`: Regnabit Dominus in saecula Deus tuus Sion, in generatione et generationem.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

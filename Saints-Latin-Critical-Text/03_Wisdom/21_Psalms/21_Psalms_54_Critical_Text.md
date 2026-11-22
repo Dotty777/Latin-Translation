@@ -1,6 +1,6 @@
 # Psalms 54 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:19Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:46Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,40 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+
+### Versification & Alignment Notes
+- Psalt-Pianum (1945): verse 54:17 runs across the anchor's division between 54:16 and 54:17; re-divided there
+- Psalt-Pianum (1945): 54:12 folded into verse 13 (the reference prints these words there)
+- Psalt-Pianum (1945): 54:7 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 54:8 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 54:21 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 54:22 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 54:23 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 54:6 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 5 verse(s) re-aligned by content (5←54:4, 6←54:5, 10←54:9, 11←54:10, 12←54:11)
 
 ---
 
@@ -67,11 +88,97 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Psalmus,** VulgSistina (1590)
 - **Apparatus:** `carminibus.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **hymnis** VulgSistina (1590)
 
+### Psalms 54:2
+- **Apparatus:** `Exaudi,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Auribus pércipe,** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **nec te subtráxeris supplicatióni meæ, atténde mihi** Psalt-Pianum (1945)
+- **Apparatus:** `ne despexeris deprecationem meam:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **exáudi me. Agitor in angóre meo, et contúrbor propter vocem inimíci, ob clamórem peccatóris.** Psalt-Pianum (1945)
+
+### Psalms 54:3
+- **Apparatus:** `intende` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Quóniam ínferunt** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **mala** Psalt-Pianum (1945)
+- **Apparatus:** `exaudi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **in ira** Psalt-Pianum (1945)
+- **Apparatus:** `Contristatus sum in exercitatione mea, et conturbatus sum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **inféstant.** Psalt-Pianum (1945)
+
+### Psalms 54:5
+- **Apparatus:** `conturbatum est` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **conturbátur** Psalt-Pianum (1945)
+- **Apparatus:** `formido` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pavor** Psalt-Pianum (1945)
+- **Apparatus:** `cecidit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cadit** Psalt-Pianum (1945)
+
+### Psalms 54:6
+- **Apparatus:** `venerunt` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **véniunt** Psalt-Pianum (1945)
+- **Apparatus:** `contexerunt` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **óperit** Psalt-Pianum (1945)
+- **Apparatus:** `tenebræ.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **horror.** Psalt-Pianum (1945)
+
 ### Psalms 54:9
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Exspectabam / Expectabam`, `Exspectabam / Expectabam`, `Exspectabam / Expectabam` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Exspectabam / expectabam`, `Exspectabam / Expectabam`, `Exspectabam / Expectabam`, `Exspectabam / Expectabam` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Psalms 54:10
+- **Apparatus:** `Præcipita,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Díssipa,** Psalt-Pianum (1945)
+- **Apparatus:** `quoniam vidi iniquitatem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **nam vídeo violéntiam** Psalt-Pianum (1945)
+- **Apparatus:** `contradictionem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **discórdiam** Psalt-Pianum (1945)
+
+### Psalms 54:11
+- **Apparatus:** `circumdabit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **circúmeunt** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et** Psalt-Pianum (1945)
+- **Apparatus:** `labor` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **oppréssio sunt** Psalt-Pianum (1945)
+
+### Psalms 54:12
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Insídiæ sunt in médio ejus,** Psalt-Pianum (1945)
+- **Apparatus:** `injustitia: et non defecit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `usura` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **non recédunt injúria** Psalt-Pianum (1945)
+
+### Psalms 54:13
+- **Apparatus:** `Quoniam` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `meus maledixisset` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **exprobrásset** Psalt-Pianum (1945)
+- **Apparatus:** `meus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **exprobrásset** Psalt-Pianum (1945)
+- **Apparatus:** `Et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `oderat` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **odit** Psalt-Pianum (1945)
+- **Apparatus:** `super` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **contra** Psalt-Pianum (1945)
+- **Apparatus:** `magna locutus fuisset,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **insurrexísset,** Psalt-Pianum (1945)
+- **Apparatus:** `forsitan` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 54:14
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Sed eras** Psalt-Pianum (1945)
+- **Apparatus:** `vero homo unanimis, dux` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sodális** Psalt-Pianum (1945)
+- **Apparatus:** `unanimis,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **amícus** Psalt-Pianum (1945)
+- **Apparatus:** `notus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **familiáris** Psalt-Pianum (1945)
+
+### Psalms 54:15
+- **Apparatus:** `qui simul mecum dulces capiebas cibos;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Quocum dulce hábui consórtium,** Psalt-Pianum (1945)
+- **Apparatus:** `cum consensu.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **in cœtu festívo.** Psalt-Pianum (1945)
+
+### Psalms 54:16
+- **Apparatus:** `Veniat` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Irruat** Psalt-Pianum (1945)
+- **Apparatus:** `et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **vivéntes ad ínferos** Psalt-Pianum (1945)
+- **Apparatus:** `in infernum viventes:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `habitaculis` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **habitatiónibus** Psalt-Pianum (1945)
+
+### Psalms 54:17
+- **Apparatus:** `clamavi,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **clamábo,** Psalt-Pianum (1945)
 
 ### Psalms 54:18
-- *Disregarded Surface Variant:* kept `(adopted text)` over `annuntiabo; / annunciabo:` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- **Apparatus:** `narrabo,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **lamentábor** Psalt-Pianum (1945)
+- **Apparatus:** `annuntiabo;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **gemam,** Psalt-Pianum (1945)
+- **Apparatus:** `exaudiet` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **áudiet** Psalt-Pianum (1945)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `annuntiabo; / adnuntiabo`, `annuntiabo; / annunciabo:` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Psalms 54:19
+- **Apparatus:** `pace` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pacem** Psalt-Pianum (1945)
+- **Apparatus:** `appropinquant mihi: quoniam inter multos erant mecum.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **me inféstant: nam multi sunt contra me.** Psalt-Pianum (1945)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `his / iis`, `appropinquant / adpropinquant` (Psalt-Pianum (1945)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Psalms 54:20
+- **Apparatus:** `Exaudiet` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Audiet** Psalt-Pianum (1945)
+- **Apparatus:** `et humiliabit illos,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **deprimétque eos,** Psalt-Pianum (1945)
+- **Apparatus:** `est ante sæcula. Non enim est illis commutatio, et non timuerunt Deum.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **regnat ab ætérno;** Psalt-Pianum (1945)
+
+### Psalms 54:24
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Próice super Dóminum curam tuam, et ipse te sustentábit: non sinet in perpétuum vacilláre justum. Et** Psalt-Pianum (1945)
+- **Apparatus:** `vero,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `dimidiabunt dies suos;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **complébunt dimídium diérum suórum,** Psalt-Pianum (1945)
+- **Apparatus:** `sperabo` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **spero** Psalt-Pianum (1945)
+- **Apparatus:** `sperabo in te, Domine.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **spero in te, Dómine.** Psalt-Pianum (1945)
 
 ---
 
@@ -91,6 +198,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Exaudi, Deus, orationem meam, et ne despexeris deprecationem meam:
   - `Clem-Saints`: Exaudi, Deus, orationem meam, et ne despexeris deprecationem meam:
   - `VulgHetzenauer (1906)`: Exaudi Deus orationem meam, et ne despexeris deprecationem meam:
+  - `Psalt-Pianum (1945)`: Auribus pércipe, Deus, oratiónem meam, nec te subtráxeris supplicatióni meæ, atténde mihi et exáudi me. Agitor in angóre meo, et contúrbor propter vocem inimíci, ob clamórem peccatóris.
   - `VulgConte (2009)`: Exaudi Deus orationem meam, et ne despexeris deprecationem meam:
   - `VulgSistina (1590)`: Exaudi Deus orationem meam, et ne despexeris deprecationem meam:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -100,6 +208,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: intende mihi, et exaudi me. Contristatus sum in exercitatione mea, et conturbatus sum
   - `Clem-Saints`: intende mihi, et exaudi me. Contristatus sum in exercitatione mea, et conturbatus sum
   - `VulgHetzenauer (1906)`: intende mihi, et exaudi me. Contristatus sum in exercitatione mea: et conturbatus sum
+  - `Psalt-Pianum (1945)`: Quóniam ínferunt mihi mala et in ira me inféstant.
   - `VulgConte (2009)`: intende mihi, et exaudi me. Contristatus sum in exercitatione mea: et conturbatus sum
   - `VulgSistina (1590)`: intende mihi, et exaudi me. Contristatus sum in exercitatione mea: et conturbatus sum
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -118,6 +227,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Cor meum conturbatum est in me, et formido mortis cecidit super me.
   - `Clem-Saints`: Cor meum conturbatum est in me, et formido mortis cecidit super me.
   - `VulgHetzenauer (1906)`: Cor meum conturbatum est in me: et formido mortis cecidit super me.
+  - `Psalt-Pianum (1945)` *(numbered 54:4 in this witness)*: Cor meum conturbátur in me, et pavor mortis cadit super me.
   - `VulgConte (2009)`: Cor meum conturbatum est in me: et formido mortis cecidit super me.
   - `VulgSistina (1590)`: Cor meum conturbatum est in me: et formido mortis cecidit super me.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -127,6 +237,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Timor et tremor venerunt super me, et contexerunt me tenebræ.
   - `Clem-Saints`: Timor et tremor venerunt super me, et contexerunt me tenebræ.
   - `VulgHetzenauer (1906)`: Timor et tremor venerunt super me: et contexerunt me tenebræ:
+  - `Psalt-Pianum (1945)` *(numbered 54:5 in this witness)*: Timor et tremor véniunt super me, et óperit me horror.
   - `VulgConte (2009)`: Timor et tremor venerunt super me: et contexerunt me tenebræ:
   - `VulgSistina (1590)`: Timor et tremor venerunt super me: et contexerunt me tenebrae:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -163,6 +274,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Præcipita, Domine; divide linguas eorum: quoniam vidi iniquitatem et contradictionem in civitate.
   - `Clem-Saints`: Præcipita, Domine; divide linguas eorum: quoniam vidi iniquitatem et contradictionem in civitate.
   - `VulgHetzenauer (1906)`: Præcipita Domine, divide linguas eorum: quoniam vidi iniquitatem, et contradictionem in civitate.
+  - `Psalt-Pianum (1945)` *(numbered 54:9 in this witness)*: Díssipa, Dómine, dívide linguas eórum; nam vídeo violéntiam et discórdiam in civitáte:
   - `VulgConte (2009)`: Præcipita Domine, divide linguas eorum: quoniam vidi iniquitatem, et contradictionem in civitate.
   - `VulgSistina (1590)`: Praecipita Domine, divide linguas eorum: quoniam vidi iniquitatem, et contradictionem in civitate.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -172,6 +284,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Die ac nocte circumdabit eam super muros ejus iniquitas; et labor in medio ejus,
   - `Clem-Saints`: Die ac nocte circumdabit eam super muros ejus iniquitas; et labor in medio ejus,
   - `VulgHetzenauer (1906)`: Die ac nocte circumdabit eam super muros eius iniquitas: et labor in medio eius,
+  - `Psalt-Pianum (1945)` *(numbered 54:10 in this witness)*: Die ac nocte circúmeunt eam super muros ejus, et iníquitas et oppréssio sunt in médio ejus.
   - `VulgConte (2009)`: Die ac nocte circumdabit eam super muros eius iniquitas: et labor in medio eius,
   - `VulgSistina (1590)`: Die ac nocte circumdabit eam super muros eius iniquitas: et labor in medio eius,
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -181,6 +294,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et injustitia: et non defecit de plateis ejus usura et dolus.
   - `Clem-Saints`: et injustitia: et non defecit de plateis ejus usura et dolus.
   - `VulgHetzenauer (1906)`: et iniustitia. Et non defecit de plateis eius usura et dolus.
+  - `Psalt-Pianum (1945)` *(numbered 54:11 in this witness)*: Insídiæ sunt in médio ejus, et de platéis ejus non recédunt injúria et dolus.
   - `VulgConte (2009)`: et iniustitia. Et non defecit de plateis eius usura et dolus.
   - `VulgSistina (1590)`: et iniustitia. Et non defecit de plateis eius usura et dolus.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -190,6 +304,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quoniam si inimicus meus maledixisset mihi, sustinuissem utique. Et si is qui oderat me super me magna locutus fuisset, abscondissem me forsitan ab eo.
   - `Clem-Saints`: Quoniam si inimicus meus maledixisset mihi, sustinuissem utique. Et si is qui oderat me super me magna locutus fuisset, abscondissem me forsitan ab eo.
   - `VulgHetzenauer (1906)`: Quoniam si inimicus meus maledixisset mihi, sustinuissem utique. Et si is, qui oderat me, super me magna locutus fuisset: abscondissem me forsitan ab eo.
+  - `Psalt-Pianum (1945)`: Si inimícus exprobrásset mihi, sustinuíssem útique; Si is, qui odit me, contra me insurrexísset, abscondíssem me ab eo.
   - `VulgConte (2009)`: Quoniam si inimicus meus maledixisset mihi, sustinuissem utique. Et si is, qui oderat me, super me magna locutus fuisset: abscondissem me forsitan ab eo.
   - `VulgSistina (1590)`: Quoniam si inimicus meus maledixisset mihi, sustinuissem utique. Et si is, qui oderat me, super me magna locutus fuisset: abscondissem me forsitan ab eo.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -199,6 +314,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Tu vero homo unanimis, dux meus, et notus meus:
   - `Clem-Saints`: Tu vero homo unanimis, dux meus, et notus meus:
   - `VulgHetzenauer (1906)`: Tu vero homo unanimis: dux meus, et notus meus:
+  - `Psalt-Pianum (1945)`: Sed eras tu, sodális meus, amícus et familiáris meus,
   - `VulgConte (2009)`: Tu vero homo unanimis: dux meus, et notus meus:
   - `VulgSistina (1590)`: Tu vero homo unanimis: dux meus, et notus meus:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -208,6 +324,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: qui simul mecum dulces capiebas cibos; in domo Dei ambulavimus cum consensu.
   - `Clem-Saints`: qui simul mecum dulces capiebas cibos; in domo Dei ambulavimus cum consensu.
   - `VulgHetzenauer (1906)`: Qui simul mecum dulces capiebas cibos: in domo Dei ambulavimus cum consensu.
+  - `Psalt-Pianum (1945)`: Quocum dulce hábui consórtium, in domo Dei ambulávimus in cœtu festívo.
   - `VulgConte (2009)`: Qui simul mecum dulces capiebas cibos: in domo Dei ambulavimus cum consensu.
   - `VulgSistina (1590)`: Qui simul mecum dulces capiebas cibos: in domo Dei ambulavimus cum consensu.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -217,6 +334,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Veniat mors super illos, et descendant in infernum viventes: quoniam nequitiæ in habitaculis eorum, in medio eorum.
   - `Clem-Saints`: Veniat mors super illos, et descendant in infernum viventes: quoniam nequitiæ in habitaculis eorum, in medio eorum.
   - `VulgHetzenauer (1906)`: Veniat mors super illos: et descendant in infernum viventes: Quoniam nequitiæ in habitaculis eorum: in medio eorum.
+  - `Psalt-Pianum (1945)`: Irruat mors super illos, vivéntes ad ínferos descéndant, Quóniam nequítiæ in habitatiónibus eórum, in médio eórum!
   - `VulgConte (2009)`: Veniat mors super illos: et descendant in infernum viventes: Quoniam nequitiæ in habitaculis eorum: in medio eorum.
   - `VulgSistina (1590)`: Veniat mors super illos: et descendant in infernum viventes: Quoniam nequitiae in habitaculis eorum: in medio eorum.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -226,6 +344,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Ego autem ad Deum clamavi, et Dominus salvabit me.
   - `Clem-Saints`: Ego autem ad Deum clamavi, et Dominus salvabit me.
   - `VulgHetzenauer (1906)`: Ego autem ad Deum clamavi: et Dominus salvabit me.
+  - `Psalt-Pianum (1945)`: Ego autem ad Deum clamábo, et Dóminus salvábit me.
   - `VulgConte (2009)`: Ego autem ad Deum clamavi: et Dominus salvabit me.
   - `VulgSistina (1590)`: Ego autem ad Deum clamavi: et Dominus salvabit me.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -235,6 +354,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Vespere, et mane, et meridie, narrabo, et annuntiabo; et exaudiet vocem meam.
   - `Clem-Saints`: Vespere, et mane, et meridie, narrabo, et annuntiabo; et exaudiet vocem meam.
   - `VulgHetzenauer (1906)`: Vespere, et mane, et meridie narrabo et annuntiabo: et exaudiet vocem meam.
+  - `Psalt-Pianum (1945)`: Véspere et mane et merídie lamentábor et gemam, et áudiet vocem meam.
   - `VulgConte (2009)`: Vespere, et mane, et meridie narrabo et annuntiabo: et exaudiet vocem meam.
   - `VulgSistina (1590)`: Vespere, et mane, et meridie narrabo et annunciabo: et exaudiet vocem meam.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -244,6 +364,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Redimet in pace animam meam ab his qui appropinquant mihi: quoniam inter multos erant mecum.
   - `Clem-Saints`: Redimet in pace animam meam ab his qui appropinquant mihi: quoniam inter multos erant mecum.
   - `VulgHetzenauer (1906)`: Redimet in pace animam meam ab his, qui appropinquant mihi: quoniam inter multos erant mecum.
+  - `Psalt-Pianum (1945)`: Rédimet in pacem ánimam meam ab iis qui me inféstant: nam multi sunt contra me.
   - `VulgConte (2009)`: Redimet in pace animam meam ab his, qui appropinquant mihi: quoniam inter multos erant mecum.
   - `VulgSistina (1590)`: Redimet in pace animam meam ab his, qui appropinquant mihi: quoniam inter multos erant mecum.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -253,6 +374,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Exaudiet Deus, et humiliabit illos, qui est ante sæcula. Non enim est illis commutatio, et non timuerunt Deum.
   - `Clem-Saints`: Exaudiet Deus, et humiliabit illos, qui est ante sæcula. Non enim est illis commutatio, et non timuerunt Deum.
   - `VulgHetzenauer (1906)`: Exaudiet Deus, et humiliabit illos, qui est ante sæcula. Non enim est illis commutatio, et non timuerunt Deum:
+  - `Psalt-Pianum (1945)`: Audiet Deus, deprimétque eos, qui regnat ab ætérno;
   - `VulgConte (2009)`: Exaudiet Deus, et humiliabit illos, qui est ante sæcula. Non enim est illis commutatio, et non timuerunt Deum:
   - `VulgSistina (1590)`: Exaudiet Deus, et humiliabit illos, qui est ante saecula. Non enim est illis commutatio, et non timuerunt Deum:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -289,6 +411,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Tu vero, Deus, deduces eos in puteum interitus. Viri sanguinum et dolosi non dimidiabunt dies suos; ego autem sperabo in te, Domine.
   - `Clem-Saints`: Tu vero, Deus, deduces eos in puteum interitus. Viri sanguinum et dolosi non dimidiabunt dies suos; ego autem sperabo in te, Domine.
   - `VulgHetzenauer (1906)`: Tu vero Deus deduces eos, in puteum interitus. Viri sanguinum, et dolosi non dimidiabunt dies suos: ego autem sperabo in te Domine.
+  - `Psalt-Pianum (1945)`: Próice super Dóminum curam tuam, et ipse te sustentábit: non sinet in perpétuum vacilláre justum. Et tu, Deus, dedúces eos in púteum intéritus; Viri sánguinum et dolósi non complébunt dimídium diérum suórum, ego autem spero in te, Dómine.
   - `VulgConte (2009)`: Tu vero Deus deduces eos, in puteum interitus. Viri sanguinum, et dolosi non dimidiabunt dies suos: ego autem sperabo in te Domine.
   - `VulgSistina (1590)`: Tu vero Deus deduces eos, in puteum interitus. Viri sanguinum, et dolosi non dimidiabunt dies suos: ego autem sperabo in te Domine.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

@@ -7,7 +7,7 @@
   "usfm_code": "GEN",
   "chapter": 26,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:16:06Z",
+  "updated_at": "2026-11-22T08:01:33Z",
   "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
   "versification_anchor": "Clem-Saints",
   "orthographic_base": "Clem1598-USFX",
@@ -29,7 +29,7 @@
     },
     {
       "siglum": "Amiatinus (A)",
-      "title": "Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only)",
+      "title": "Codex Amiatinus — Digital Latin Library TEI transcription (Genesis)",
       "tier": 2,
       "weight": 0.97,
       "license": "CC BY-SA 4.0 (Digital Latin Library transcription)"
@@ -76,6 +76,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -228,6 +229,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -323,6 +325,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -451,6 +454,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -521,8 +525,8 @@
     {
       "id": 62187,
       "verse": 5,
-      "critical_text": "eo quod obedierit Abraham voci meæ, et custodierit præcepta mea et mandata mea, et caerimonias legesque servaverit.",
-      "confidence": 0.28,
+      "critical_text": "eo quod obedierit Abraham voci meæ, et custodierit præcepta mea et mandata mea, et cæremonias legesque servaverit.",
+      "confidence": 0.529,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
         "Clem1598-USFX": "eo quod obedierit Abraham voci meæ, et custodierit præcepta et mandata mea, et cæremonias legesque servaverit.",
@@ -535,6 +539,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -584,53 +589,6 @@
             }
           ],
           "lemma_key": "mea",
-          "confidence": 0.529,
-          "credited_witnesses": []
-        },
-        {
-          "slot_index": 14,
-          "lemma": "caerimonias",
-          "lemma_witnesses": [
-            "Amiatinus (A)"
-          ],
-          "variants": [
-            {
-              "reading": "cæremonias",
-              "adopt_text": "cæremonias",
-              "witnesses": [
-                "Clem1598-USFX",
-                "Clem-Saints",
-                "VulgConte (2009)",
-                "VulgHetzenauer (1906)",
-                "VulgSistina (1590)"
-              ],
-              "weight_sum": 0.88
-            }
-          ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'caerimonias' [Amiatinus (A)] (weight 0.97, confidence 53%) over cæremonias (Clem1598-USFX, Clem-Saints).",
-          "word_index": 14,
-          "word_count": 1,
-          "kind": "word",
-          "variant_type": "lexical substitution",
-          "analysis": [
-            {
-              "canon": "external: independent streams",
-              "note": "Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            },
-            {
-              "canon": "external: two-stream policy",
-              "note": "Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.",
-              "favours": "neither",
-              "reading": "",
-              "key": "",
-              "strength": "info"
-            }
-          ],
-          "lemma_key": "caerimonias",
           "confidence": 0.529,
           "credited_witnesses": []
         }
@@ -703,6 +661,17 @@
           "reason": "Punctuation / spacing difference only"
         },
         {
+          "slot_index": 14,
+          "kept_form": "cæremonias",
+          "disregarded_forms": [
+            "caerimonias"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        },
+        {
           "slot_index": 16,
           "kept_form": "servaverit.",
           "disregarded_forms": [
@@ -712,14 +681,31 @@
             "Amiatinus (A)"
           ],
           "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
+        },
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "obedierit / oboedierit",
+            "cæremonias / caerimonias",
+            "cæremonias / ceremonias",
+            "cæremonias / ceremonias",
+            "cæremonias / ceremonias"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "[Addition / omission between witnesses] Adopted 'mea' [Amiatinus (A)] (weight 0.97, confidence 53%) over om. (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'caerimonias' [Amiatinus (A)] (weight 0.97, confidence 53%) over cæremonias (Clem1598-USFX, Clem-Saints). Also normalised 7 orthographic/surface variation(s).",
+      "rationale": "[Addition / omission between witnesses] Adopted 'mea' [Amiatinus (A)] (weight 0.97, confidence 53%) over om. (Clem1598-USFX, Clem-Saints). Also normalised 8 orthographic/surface variation(s).",
       "human_locked": false,
       "analysis": [
         {
           "canon": "confidence",
-          "note": "Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
+          "note": "Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).",
           "favours": "neither",
           "reading": "",
           "strength": "info",
@@ -745,6 +731,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -807,6 +794,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -924,6 +912,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -988,21 +977,15 @@
               "adopt_text": "rex Palæstinorum",
               "witnesses": [
                 "Clem1598-USFX",
-                "Clem-Saints"
-              ],
-              "weight_sum": 0.88
-            },
-            {
-              "reading": "Palæstinorum",
-              "witnesses": [
+                "Clem-Saints",
                 "VulgConte (2009)",
                 "VulgHetzenauer (1906)",
                 "VulgSistina (1590)"
               ],
-              "weight_sum": 0.0
+              "weight_sum": 0.88
             }
           ],
-          "note": "[Variation unit spanning several words] Adopted 'Palæstinorum rex' [Amiatinus (A)] (weight 0.97, confidence 53%) over rex Palæstinorum (Clem1598-USFX, Clem-Saints). [Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.]",
+          "note": "[Variation unit spanning several words] Adopted 'Palæstinorum rex' [Amiatinus (A)] (weight 0.97, confidence 53%) over rex Palæstinorum (Clem1598-USFX, Clem-Saints).",
           "word_index": 9,
           "word_count": 2,
           "kind": "word",
@@ -1151,6 +1134,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1372,6 +1356,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1511,6 +1496,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1584,6 +1570,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1725,6 +1712,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1852,7 +1840,7 @@
     {
       "id": 62196,
       "verse": 14,
-      "critical_text": "habuit quoque possessionem ovium et armentorum, et familiæ plurimum. Ob haec invidentes ei Palæstini,",
+      "critical_text": "habuit quoque possessionem ovium et armentorum, et familiæ plurimum. Ob hæc invidentes ei Palæstini,",
       "confidence": 0.28,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
@@ -1866,6 +1854,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1897,7 +1886,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'possessionem' [Amiatinus (A)] (weight 0.97, confidence 53%) over possessiones (Clem1598-USFX, Clem-Saints). [Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.]",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'possessionem' [Amiatinus (A)] (weight 0.97, confidence 53%) over possessiones (Clem1598-USFX, Clem-Saints). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 2,
           "word_count": 1,
           "kind": "word",
@@ -1926,7 +1915,7 @@
         },
         {
           "slot_index": 10,
-          "lemma": "haec",
+          "lemma": "hæc",
           "lemma_witnesses": [
             "Amiatinus (A)"
           ],
@@ -1944,7 +1933,7 @@
               "weight_sum": 0.88
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'haec' [Amiatinus (A)] (weight 0.97, confidence 53%) over hoc (Clem1598-USFX, Clem-Saints).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'hæc' [Amiatinus (A)] (weight 0.97, confidence 53%) over hoc (Clem1598-USFX, Clem-Saints).",
           "word_index": 10,
           "word_count": 1,
           "kind": "word",
@@ -2051,7 +2040,7 @@
           "reason": "Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'possessionem' [Amiatinus (A)] (weight 0.97, confidence 53%) over possessiones (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'haec' [Amiatinus (A)] (weight 0.97, confidence 53%) over hoc (Clem1598-USFX, Clem-Saints). Also normalised 7 orthographic/surface variation(s).",
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'possessionem' [Amiatinus (A)] (weight 0.97, confidence 53%) over possessiones (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'hæc' [Amiatinus (A)] (weight 0.97, confidence 53%) over hoc (Clem1598-USFX, Clem-Saints). Also normalised 7 orthographic/surface variation(s).",
       "human_locked": false,
       "analysis": [
         {
@@ -2082,6 +2071,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2166,6 +2156,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2318,6 +2309,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2343,7 +2335,7 @@
               "weight_sum": 0.88
             }
           ],
-          "note": "[Variation unit spanning several words] Adopted 'descendens' [Amiatinus (A)] (weight 0.97, confidence 53%) over discedens ut (Clem1598-USFX, Clem-Saints).",
+          "note": "[Variation unit spanning several words] Adopted 'descendens' [Amiatinus (A)] (weight 0.97, confidence 53%) over discedens ut (Clem1598-USFX, Clem-Saints). [Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).]",
           "word_index": 2,
           "word_count": 1,
           "kind": "word",
@@ -2448,6 +2440,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2622,6 +2615,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2727,7 +2721,7 @@
     {
       "id": 62202,
       "verse": 20,
-      "critical_text": "Sed et ibi jurgium fuit pastorum Geraræ aduersum pastores Isaac, dicentium: Nostra est aqua, quam ob rem nomen putei ex eo, quod acciderat, vocavit Calumniam.",
+      "critical_text": "Sed et ibi jurgium fuit pastorum Geraræ adversum pastores Isaac, dicentium: Nostra est aqua, quam ob rem nomen putei ex eo, quod acciderat, vocavit Calumniam.",
       "confidence": 0.529,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
@@ -2741,6 +2735,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2748,7 +2743,7 @@
       "apparatus": [
         {
           "slot_index": 7,
-          "lemma": "aduersum",
+          "lemma": "adversum",
           "lemma_witnesses": [
             "Amiatinus (A)"
           ],
@@ -2766,7 +2761,7 @@
               "weight_sum": 0.88
             }
           ],
-          "note": "[Lexical, morphological, or word-order variant] Adopted 'aduersum' [Amiatinus (A)] (weight 0.97, confidence 53%) over adversus (Clem1598-USFX, Clem-Saints).",
+          "note": "[Lexical, morphological, or word-order variant] Adopted 'adversum' [Amiatinus (A)] (weight 0.97, confidence 53%) over adversus (Clem1598-USFX, Clem-Saints).",
           "word_index": 7,
           "word_count": 1,
           "kind": "word",
@@ -2917,7 +2912,7 @@
           "reason": "Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)"
         }
       ],
-      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'aduersum' [Amiatinus (A)] (weight 0.97, confidence 53%) over adversus (Clem1598-USFX, Clem-Saints). Also normalised 11 orthographic/surface variation(s).",
+      "rationale": "[Lexical, morphological, or word-order variant] Adopted 'adversum' [Amiatinus (A)] (weight 0.97, confidence 53%) over adversus (Clem1598-USFX, Clem-Saints). Also normalised 11 orthographic/surface variation(s).",
       "human_locked": false,
       "analysis": [
         {
@@ -2948,6 +2943,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -3089,6 +3085,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -3285,6 +3282,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -3325,6 +3323,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -3568,6 +3567,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -3592,7 +3592,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 14,
           "word_count": 1,
           "kind": "word",
@@ -3726,6 +3726,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -3843,6 +3844,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -3938,6 +3940,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -4123,6 +4126,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -4207,6 +4211,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -4258,6 +4263,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -4342,6 +4348,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -4462,6 +4469,7 @@
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "annuntiantes / adnuntiantes",
             "annuntiantes / annunciantes",
             "annuntiantes / annunciantes",
             "annuntiantes / annunciantes"
@@ -4496,6 +4504,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -4602,6 +4611,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -4626,7 +4636,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 5,
           "word_count": 0,
           "kind": "word",
@@ -4760,6 +4770,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"

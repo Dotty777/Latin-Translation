@@ -1,6 +1,6 @@
 # Titus 02 — Saints Latin Critical Text
 
-**Division:** `06_Discipleship` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:18:47Z`
+**Division:** `06_Discipleship` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:51Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,29 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Full 27-Book NT) | Tier 2 | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -54,8 +64,47 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
+### Titus 2:1
+- **Apparatus:** `decent` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **decet** Amiatinus (A)
+
+### Titus 2:2
+- **Apparatus:** `in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+
+### Titus 2:3
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **uino** Amiatinus (A)
+- **Apparatus:** `vino` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+
+### Titus 2:4
+- **Apparatus:** `suos` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `adolescentulas, / Adulescentulas`, `adolescentulas, / adulescentulas` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Titus 2:5
+- **Apparatus:** `sobrias,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **suis** Amiatinus (A)
+- **Apparatus:** `suis,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+
+### Titus 2:7
+- **Apparatus:** `in integritate, in gravitate,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **integritatem grauitatem** Amiatinus (A)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `teipsum / te ipsum`, `teipsum / te ipsum` (Amiatinus (A)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
+
+### Titus 2:8
+- **Apparatus:** `irreprehensibile:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **inreprehensibilem** Amiatinus (A)
+
+### Titus 2:10
+- **Apparatus:** `Salvatoris` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **salutaris dei** Amiatinus (A)
+- **Apparatus:** `Dei` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+
+### Titus 2:11
+- **Apparatus:** `Salvatoris nostri` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **saluatoris** Amiatinus (A)
+- **Apparatus:** `nostri` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+
 ### Titus 2:13
-- *Disregarded Surface Variant:* kept `(adopted text)` over `exspectantes / expectantes`, `exspectantes / expectantes`, `exspectantes / expectantes` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `exspectantes / expectantes`, `exspectantes / expectantes`, `exspectantes / expectantes`, `exspectantes / expectantes`, `exspectantes / expectantes` (Amiatinus (A), VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Titus 2:14
+- *Disregarded Surface Variant:* kept `(adopted text)` over `semetipsum / semet ipsum`, `semetipsum / semet ipsum` (Amiatinus (A)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ---
 
@@ -66,6 +115,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Tu autem loquere quæ decent sanam doctrinam:
   - `Clem-Saints`: Tu autem loquere quæ decent sanam doctrinam:
   - `VulgHetzenauer (1906)`: Tu autem loquere quæ decent sanam doctrinam:
+  - `Amiatinus (A)`: Tu autem loquere quae decet sanam doctrinam
   - `VulgConte (2009)`: Tu autem loquere quæ decent sanam doctrinam:
   - `VulgSistina (1590)`: Tu autem loquere quae decent sanam doctrinam:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -75,6 +125,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: senes ut sobrii sint, pudici, prudentes, sani in fide, in dilectione, in patientia:
   - `Clem-Saints`: senes ut sobrii sint, pudici, prudentes, sani in fide, in dilectione, in patientia:
   - `VulgHetzenauer (1906)`: Senes ut sobrii sint, pudici, prudentes, sani in fide, in dilectione, in patientia:
+  - `Amiatinus (A)`: senes ut sobrii sint pudici prudentes · sani fide dilectione patientia
   - `VulgConte (2009)`: Senes ut sobrii sint, pudici, prudentes, sani in fide, in dilectione, in patientia:
   - `VulgSistina (1590)`: Senes ut sobrii sint, pudici, prudentes, sani in fide, in dilectione, in patientia:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -84,6 +135,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: anus similiter in habitu sancto, non criminatrices, non multo vino servientes, bene docentes:
   - `Clem-Saints`: anus similiter in habitu sancto, non criminatrices, non multo vino servientes, bene docentes:
   - `VulgHetzenauer (1906)`: Anus similiter in habitu sancto, non criminatrices, non multo vino servientes, bene docentes:
+  - `Amiatinus (A)`: Anus similiter in habitu sancto non criminatrices non uino multo seruientes bene docentes
   - `VulgConte (2009)`: Anus similiter in habitu sancto, non criminatrices, non multo vino servientes, bene docentes:
   - `VulgSistina (1590)`: Anus similiter in habitu sancto, non criminatrices, non multo vino servientes, bene docentes:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -93,6 +145,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: ut prudentiam doceant adolescentulas, ut viros suos ament, filios suos diligant,
   - `Clem-Saints`: ut prudentiam doceant adolescentulas, ut viros suos ament, filios suos diligant,
   - `VulgHetzenauer (1906)`: ut prudentiam doceant adolescentulas, ut viros suos ament, filios suos diligant,
+  - `Amiatinus (A)`: ut prudentiam doceant Adulescentulas ut uiros suos ament filios diligant
   - `VulgConte (2009)`: ut prudentiam doceant adolescentulas, ut viros suos ament, filios suos diligant,
   - `VulgSistina (1590)`: ut prudentiam doceant adolescentulas, ut viros suos ament, filios suos diligant,
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -102,6 +155,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: prudentes, castas, sobrias, domus curam habentes, benignas, subditas viris suis, ut non blasphemetur verbum Dei.
   - `Clem-Saints`: prudentes, castas, sobrias, domus curam habentes, benignas, subditas viris suis, ut non blasphemetur verbum Dei.
   - `VulgHetzenauer (1906)`: prudentes, castas, sobrias, domus curam habentes, benignas, subditas viris suis, ut non blasphemetur verbum Dei.
+  - `Amiatinus (A)`: prudentes castas domus curam habentes benignas subditas suis uiris ut non blasphemetur uerbum dei
   - `VulgConte (2009)`: prudentes, castas, sobrias, domus curam habentes, benignas, subditas viris suis: ut non blasphemetur Verbum Dei.
   - `VulgSistina (1590)`: prudentes, castas, sobrias, domus curam habentes, benignas, subditas viris suis, ut non blasphemetur verbum Dei.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -111,6 +165,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Juvenes similiter hortare ut sobrii sint.
   - `Clem-Saints`: Juvenes similiter hortare ut sobrii sint.
   - `VulgHetzenauer (1906)`: Iuvenes similiter hortare ut sobrii sint.
+  - `Amiatinus (A)`: Iuuenes similiter hortare ut sobrii sint
   - `VulgConte (2009)`: Iuvenes similiter hortare ut sobrii sint.
   - `VulgSistina (1590)`: Iuvenes similiter hortare ut sobrii sint.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -120,6 +175,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: In omnibus teipsum præbe exemplum bonorum operum, in doctrina, in integritate, in gravitate,
   - `Clem-Saints`: In omnibus teipsum præbe exemplum bonorum operum, in doctrina, in integritate, in gravitate,
   - `VulgHetzenauer (1906)`: In omnibus teipsum præbe exemplum bonorum operum, in doctrina, in integritate, in gravitate,
+  - `Amiatinus (A)`: in omnibus te ipsum praebe exemplum bonorum operum in doctrina integritatem grauitatem
   - `VulgConte (2009)`: In omnibus teipsum præbe exemplum bonorum operum, in doctrina, in integritate, in gravitate,
   - `VulgSistina (1590)`: In omnibus teipsum praebe exemplum bonorum operum, in doctrina, in integritate, in gravitate,
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -129,6 +185,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: verbum sanum, irreprehensibile: ut is qui ex adverso est, vereatur, nihil habens malum dicere de nobis.
   - `Clem-Saints`: verbum sanum, irreprehensibile: ut is qui ex adverso est, vereatur, nihil habens malum dicere de nobis.
   - `VulgHetzenauer (1906)`: verbum sanum, irreprehensibile: ut is, qui ex adverso est, vereatur, nihil habens malum dicere de nobis:
+  - `Amiatinus (A)`: uerbum sanum inreprehensibilem ut is qui ex aduerso est uereatur nihil habens malum dicere de nobis
   - `VulgConte (2009)`: verbum sanum, irreprehensibile: ut is, qui ex adverso est, vereatur, nihil habens malum dicere de nobis:
   - `VulgSistina (1590)`: verbum sanum, irreprehensibile: ut is, qui ex adverso est, vereatur, nihil habens malum dicere de nobis:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -138,6 +195,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Servos dominis suis subditos esse, in omnibus placentes, non contradicentes,
   - `Clem-Saints`: Servos dominis suis subditos esse, in omnibus placentes, non contradicentes,
   - `VulgHetzenauer (1906)`: Servos dominis suis subditos esse, in omnibus placentes, non contradicentes,
+  - `Amiatinus (A)`: Seruos dominis suis subditos esse in omnibus placentes non contradicentes
   - `VulgConte (2009)`: Servos dominis suis subditos esse, in omnibus placentes, non contradicentes,
   - `VulgSistina (1590)`: Servos dominis suis subditos esse, in omnibus placentes, non contradicentes,
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -147,6 +205,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: non fraudantes, sed in omnibus fidem bonam ostendentes: ut doctrinam Salvatoris nostri Dei ornent in omnibus.
   - `Clem-Saints`: non fraudantes, sed in omnibus fidem bonam ostendentes: ut doctrinam Salvatoris nostri Dei ornent in omnibus.
   - `VulgHetzenauer (1906)`: non fraudantes, sed in omnibus fidem bonam ostendentes: ut doctrinam Salvatoris nostri Dei ornent in omnibus.
+  - `Amiatinus (A)`: non fraudantes sed in omnibus fidem bonam ostendentes ut doctrinam salutaris dei nostri ornent in omnibus
   - `VulgConte (2009)`: non fraudantes, sed in omnibus fidem bonam ostendentes: ut doctrinam Salvatoris nostri Dei ornent in omnibus.
   - `VulgSistina (1590)`: non fraudantes, sed in omnibus fidem bonam ostendentes: ut doctrinam Salvatoris nostri Dei ornent in omnibus.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -156,6 +215,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Apparuit enim gratia Dei Salvatoris nostri omnibus hominibus,
   - `Clem-Saints`: Apparuit enim gratia Dei Salvatoris nostri omnibus hominibus,
   - `VulgHetzenauer (1906)`: Apparuit enim gratia Dei Salvatoris nostri omnibus hominibus,
+  - `Amiatinus (A)`: Apparuit enim gratia dei saluatoris omnibus hominibus
   - `VulgConte (2009)`: Apparuit enim gratia Dei Salvatoris nostri omnibus hominibus,
   - `VulgSistina (1590)`: Apparuit enim gratia Dei Salvatoris nostri omnibus hominibus,
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -165,6 +225,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: erudiens nos, ut abnegantes impietatem, et sæcularia desideria, sobrie, et juste, et pie vivamus in hoc sæculo,
   - `Clem-Saints`: erudiens nos, ut abnegantes impietatem, et sæcularia desideria, sobrie, et juste, et pie vivamus in hoc sæculo,
   - `VulgHetzenauer (1906)`: erudiens nos, ut abnegantes impietatem, et sæcularia desideria: sobrie, et iuste, et pie vivamus in hoc sæculo,
+  - `Amiatinus (A)`: erudiens nos ut abnegantes impietatem et saecularia desideria sobrie et iuste et pie uiuamus in hoc saeculo
   - `VulgConte (2009)`: erudiens nos, ut abnegantes impietatem, et sæcularia desideria: sobrie, et iuste, et pie vivamus in hoc sæculo,
   - `VulgSistina (1590)`: erudiens nos, ut abnegantes impietatem, et saecularia desideria: sobrie, et iuste, et pie vivamus in hoc saeculo,
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -174,6 +235,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: exspectantes beatam spem, et adventum gloriæ magni Dei, et Salvatoris nostri Jesu Christi:
   - `Clem-Saints`: exspectantes beatam spem, et adventum gloriæ magni Dei, et Salvatoris nostri Jesu Christi:
   - `VulgHetzenauer (1906)`: expectantes beatam spem, et adventum gloriæ magni Dei, et Salvatoris nostri Iesu Christi:
+  - `Amiatinus (A)`: expectantes beatam spem et aduentum gloriae magni dei et saluatoris nostri iesu christi
   - `VulgConte (2009)`: expectantes beatam spem, et adventum gloriæ magni Dei, et Salvatoris nostri Iesu Christi:
   - `VulgSistina (1590)`: expectantes beatam spem, et adventum gloriae magni Dei, et Salvatoris nostri Iesu Christi:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -183,6 +245,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: qui dedit semetipsum pro nobis, ut nos redimeret ab omni iniquitate, et mundaret sibi populum acceptabilem, sectatorem bonorum operum.
   - `Clem-Saints`: qui dedit semetipsum pro nobis, ut nos redimeret ab omni iniquitate, et mundaret sibi populum acceptabilem, sectatorem bonorum operum.
   - `VulgHetzenauer (1906)`: qui dedit semetipsum pro nobis, ut nos redimeret ab omni iniquitate, et mundaret sibi populum acceptabilem, sectatorem bonorum operum.
+  - `Amiatinus (A)`: qui dedit semet ipsum pro nobis ut nos redimeret ab omni iniquitate et mundaret sibi populum acceptabilem sectatorem bonorum operum
   - `VulgConte (2009)`: qui dedit semetipsum pro nobis, ut nos redimeret ab omni iniquitate, et mundaret sibi populum acceptabilem, sectatorem bonorum operum.
   - `VulgSistina (1590)`: qui dedit semetipsum pro nobis, ut nos redimeret ab omni iniquitate, et mundaret sibi populum acceptabilem, sectatorem bonorum operum.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -192,6 +255,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Hæc loquere, et exhortare, et argue cum omni imperio. Nemo te contemnat.
   - `Clem-Saints`: Hæc loquere, et exhortare, et argue cum omni imperio. Nemo te contemnat.
   - `VulgHetzenauer (1906)`: Hæc loquere, et exhortare, et argue cum omni imperio. Nemo te contemnat.
+  - `Amiatinus (A)`: Haec loquere et exhortare et argue cum omni imperio nemo te contemnat
   - `VulgConte (2009)`: Hæc loquere, et exhortare, et argue cum omni imperio. Nemo te contemnat.
   - `VulgSistina (1590)`: Haec loquere, et exhortare, et argue cum omni imperio. Nemo te contemnat.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

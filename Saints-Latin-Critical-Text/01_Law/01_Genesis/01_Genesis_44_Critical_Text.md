@@ -1,6 +1,6 @@
 # Genesis 44 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:16:10Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:33Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -15,9 +15,9 @@
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
-| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -29,7 +29,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -38,19 +47,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **1** Præcepit autem Joseph dispensatori domus suæ, dicens: Imple saccos eorum frumento, quantum possunt capere: et pone pecuniam singulorum in summitate sacci.
 **2** Scyphum autem meum argenteum, et pretium quod dedit tritici, pone in ore sacculi junioris. Factumque est ita.
 **3** Et orto mane, dimissi sunt cum asinis suis.
-**4** Jamque urbem exierant, et praecesserant paululum: tunc Joseph arcessito dispensatore domus, Surge, inquit, persequere viros: et apprehensis dicito: Quare reddidistis malum pro bono?
+**4** Jamque urbem exierant, et præcesserant paululum: tunc Joseph arcessito dispensatore domus, Surge, inquit, persequere viros: et apprehensis dicito: Quare reddidistis malum pro bono?
 **5** scyphus, quem furati estis, ipse est in quo bibit dominus meus, et in quo augurari solet: pessimam rem fecistis.
 **6** Fecit ille ut jusserat: et apprehensis per ordinem locutus est.
 **7** Qui responderunt: Quare sic loquitur dominus noster, ut servi tui tantum flagitii commiserint?
 **8** pecuniam, quam invenimus in summitate sacculorum, reportavimus ad te de terra Chanaan: et quomodo consequens est ut furati simus de domo domini tui aurum vel argentum?
 **9** apud quemcumque fuerit inventum servorum tuorum quod quæris, moriatur, et nos servi erimus domini nostri.
-**10** Qui dixit Fiat juxta vestram sententiam: apud quem fuerit inuentus scyfus, ipse sit servus meus, vos autem eritis innoxii.
+**10** Qui dixit Fiat juxta vestram sententiam: apud quem fuerit inventus scyfus, ipse sit servus meus, vos autem eritis innoxii.
 **11** Itaque festinato deponentes in terram saccos, aperuerunt singuli.
 **12** Quos scrutatus, incipiens a majore usque ad minimum, invenit scyphum in sacco Benjamin.
 **13** At illi, scissis vestibus, oneratisque rursum asinis, reversi sunt in oppidum.
 **14** Primusque Judas cum fratribus ingressus est ad Joseph (necdum enim de loco abierant) omnesque ante eum in terra pariter corruerunt.
 **15** Quibus ille ait: Cur sic agere voluistis? an ignoratis quod non sit similis mei in augurandi scientia?
-**16** Cui Judas: Quid respondebimus, inquit, domino meo? vel quid loquamur aut iusti poterimus obtendere? Deus invenit iniquitatem servorum tuorum: en omnes servi sumus domini mei, et nos, et apud quem inventus est scyphus.
+**16** Cui Judas: Quid respondebimus, inquit, domino meo? vel quid loquamur aut justi poterimus obtendere? Deus invenit iniquitatem servorum tuorum: en omnes servi sumus domini mei, et nos, et apud quem inventus est scyphus.
 **17** Respondit Joseph: Absit a me ut sic agam: qui furatus est scyphum, ipse sit servus meus: vos autem abite liberi ad patrem vestrum.
 **18** Accedens propius Judas, confidenter ait: Oro, domine mi, loquatur servus tuus verbum in auribus tuis, et ne irascaris famulo tuo: tu es enim post Pharaonem
 **19** dominus meus. Interrogasti prius servos tuos: Habetis patrem aut fratrem?
@@ -59,7 +68,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **22** Suggessimus domino meo: Non potest puer relinquere patrem suum: si enim illum dimiserit, morietur.
 **23** Et dixisti servis tuis: Nisi venerit frater vester minimus vobiscum, non videbitis ultra faciem meam.
 **24** Cum ergo ascendissemus ad famulum tuum patrem nostrum, narravimus ei omnia quæ locutus est dominus noster.
-**25** Et dixit pater noster: Revertimini, et emite nobis paruum tritticum.
+**25** Et dixit pater noster: Revertimini, et emite nobis parvum tritticum.
 **26** Cui diximus: Ire non possumus: si frater minimus noster descendet nobiscum, proficiscemur simul: alioquin illo absente, non audemus videre faciem viri.
 **27** Atque ille respondit: Vos scitis quod duos genuerit mihi uxor mea.
 **28** Egressus est unus, et dixistis: Bestia devoravit eum: et hucusque non comparet.
@@ -101,7 +110,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `suis.` over `suis` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 44:4
-- **Apparatus:** `praecesserant` Amiatinus (A) **]** **processerant** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
+- **Apparatus:** `præcesserant` Amiatinus (A) **]** **processerant** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `arcessito` Amiatinus (A) **]** **accersito** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
@@ -157,7 +166,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quomodo / quo modo`, `quomodo / quo modo` (VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Genesis 44:9
-- **Apparatus:** `servi erimus` Amiatinus (A) **]** **erimus servi** Clem1598-USFX Clem-Saints ; **servi** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `servi erimus` Amiatinus (A) **]** **erimus servi** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `apud` over `aput` (Amiatinus (A)) — *Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -171,7 +180,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `om.` Amiatinus (A) **]** **eis** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(omission / addition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
-- **Apparatus:** `quem fuerit inuentus scyfus` Amiatinus (A) **]** **quemcumque fuerit inventum** Clem1598-USFX Clem-Saints ; **quemcumque fuerit inventus,** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
+- **Apparatus:** `quem fuerit inventus scyfus` Amiatinus (A) **]** **quemcumque fuerit inventum** Clem1598-USFX Clem-Saints ; **quemcumque fuerit inventus,** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Qui` over `qui` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -211,7 +220,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `abierant` Amiatinus (A) **]** **abierat** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
-- **Apparatus:** `in terra pariter` Amiatinus (A) **]** **pariter in terram** Clem1598-USFX Clem-Saints ; **in terram** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
+- **Apparatus:** `in terra pariter` Amiatinus (A) **]** **pariter in terram** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Primusque` over `primusque` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -228,7 +237,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `scientia?` over `scientia` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 44:16
-- **Apparatus:** `loquamur aut iusti` Amiatinus (A) **]** **loquemur aut juste** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
+- **Apparatus:** `loquamur aut justi` Amiatinus (A) **]** **loquemur aut juste** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Cui` over `cui` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -343,7 +352,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `quæ` over `quae` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 44:25
-- **Apparatus:** `paruum tritticum` Amiatinus (A) **]** **parum tritici** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
+- **Apparatus:** `parvum tritticum` Amiatinus (A) **]** **parum tritici** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Et` over `et` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -351,7 +360,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Revertimini,` over `reuertimini` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 44:26
-- **Apparatus:** `minimus noster descendet` Amiatinus (A) **]** **noster minimus descenderit** Clem1598-USFX Clem-Saints ; **minimus descenderit** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
+- **Apparatus:** `minimus noster descendet` Amiatinus (A) **]** **noster minimus descenderit** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Cui` over `cui` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -472,14 +481,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 3 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
 ### Verse 4 (Confidence: `14.8%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Jamque urbem exierant, et praecesserant paululum: tunc Joseph arcessito dispensatore domus, Surge, inquit, persequere viros: et apprehensis dicito: Quare reddidistis malum pro bono?
+- **Critical Text:** Jamque urbem exierant, et præcesserant paululum: tunc Joseph arcessito dispensatore domus, Surge, inquit, persequere viros: et apprehensis dicito: Quare reddidistis malum pro bono?
   - `Clem1598-USFX`: Jamque urbem exierant, et processerant paululum: tunc Joseph accersito dispensatore domus, Surge, inquit, et persequere viros: et apprehensis dicito: Quare reddidistis malum pro bono?
   - `Clem-Saints`: Jamque urbem exierant, et processerant paululum: tunc Joseph accersito dispensatore domus, Surge, inquit, et persequere viros: et apprehensis dicito: Quare reddidistis malum pro bono?
   - `Amiatinus (A)`: iamque urbem exierant et praecesserant paululum tunc ioseph arcessito dispensatore domus surge inquit persequere uiros et adprehensis dicito quare reddidistis malum pro bono
   - `VulgHetzenauer (1906)`: Iamque urbem exierant, et processerant paululum: tunc Ioseph accersito dispensatore domus, Surge, inquit, et persequere viros: et apprehensis dicito: Quare reddidistis malum pro bono?
   - `VulgConte (2009)`: Iamque urbem exierant, et processerant paululum: tunc Ioseph accersito dispensatore domus, Surge, inquit, et persequere viros: et apprehensis dicito: Quare reddidistis malum pro bono?
   - `VulgSistina (1590)`: Iamque urbem exierant, et processerant paululum: tunc Ioseph accersito dispensatore domus, Surge, inquit, et persequere viros: et apprehensis dicito: Quare reddidistis malum pro bono?
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'praecesserant' [Amiatinus (A)] (weight 0.97, confidence 53%) over processerant (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'arcessito' [Amiatinus (A)] (weight 0.97, confidence 53%) over accersito (Clem1598-USFX, Clem-Saints). [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over et (Clem1598-USFX, Clem-Saints). Also normalised 12 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'præcesserant' [Amiatinus (A)] (weight 0.97, confidence 53%) over processerant (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'arcessito' [Amiatinus (A)] (weight 0.97, confidence 53%) over accersito (Clem1598-USFX, Clem-Saints). [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over et (Clem1598-USFX, Clem-Saints). Also normalised 12 orthographic/surface variation(s).
 - *confidence:* Verse confidence 15% = product of 3 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -535,14 +544,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 10 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Qui dixit Fiat juxta vestram sententiam: apud quem fuerit inuentus scyfus, ipse sit servus meus, vos autem eritis innoxii.
+- **Critical Text:** Qui dixit Fiat juxta vestram sententiam: apud quem fuerit inventus scyfus, ipse sit servus meus, vos autem eritis innoxii.
   - `Clem1598-USFX`: Qui dixit eis: Fiat juxta vestram sententiam: apud quemcumque fuerit inventum, ipse sit servus meus, vos autem eritis innoxii.
   - `Clem-Saints`: Qui dixit eis: Fiat juxta vestram sententiam: apud quemcumque fuerit inventum, ipse sit servus meus, vos autem eritis innoxii.
   - `Amiatinus (A)`: qui dixit fiat iuxta uestram sententiam aput quem fuerit inuentus scyfus ipse sit seruus meus uos autem eritis innoxii
   - `VulgHetzenauer (1906)`: Qui dixit eis: Fiat iuxta vestram sententiam: apud quemcumque fuerit inventus, ipse sit servus meus, vos autem eritis innoxii.
   - `VulgConte (2009)`: Qui dixit eis: Fiat iuxta vestram sententiam: apud quemcumque fuerit inventus, ipse sit servus meus, vos autem eritis innoxii.
   - `VulgSistina (1590)`: Qui dixit eis: Fiat iuxta vestram sententiam: apud quemcumque fuerit inventus, ipse sit servus meus, vos autem eritis innoxii.
-- **Philological Rationale:** [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over eis (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'quem fuerit inuentus scyfus' [Amiatinus (A)] (weight 0.97, confidence 53%) over quemcumque fuerit inventum (Clem1598-USFX, Clem-Saints). Also normalised 10 orthographic/surface variation(s).
+- **Philological Rationale:** [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over eis (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'quem fuerit inventus scyfus' [Amiatinus (A)] (weight 0.97, confidence 53%) over quemcumque fuerit inventum (Clem1598-USFX, Clem-Saints). Also normalised 10 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -597,14 +606,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 5 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
 ### Verse 16 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Cui Judas: Quid respondebimus, inquit, domino meo? vel quid loquamur aut iusti poterimus obtendere? Deus invenit iniquitatem servorum tuorum: en omnes servi sumus domini mei, et nos, et apud quem inventus est scyphus.
+- **Critical Text:** Cui Judas: Quid respondebimus, inquit, domino meo? vel quid loquamur aut justi poterimus obtendere? Deus invenit iniquitatem servorum tuorum: en omnes servi sumus domini mei, et nos, et apud quem inventus est scyphus.
   - `Clem1598-USFX`: Cui Judas: Quid respondebimus, inquit, domino meo? vel quid loquemur, aut juste poterimus obtendere? Deus invenit iniquitatem servorum tuorum: en omnes servi sumus domini mei, et nos, et apud quem inventus est scyphus.
   - `Clem-Saints`: Cui Judas: Quid respondebimus, inquit, domino meo? vel quid loquemur, aut juste poterimus obtendere? Deus invenit iniquitatem servorum tuorum: en omnes servi sumus domini mei, et nos, et apud quem inventus est scyphus.
   - `Amiatinus (A)`: cui iudas quid respondebimus inquit domino meo uel quid loquamur aut iusti poterimus obtendere deus inuenit iniquitatem seruorum tuorum en omnes serui sumus domini mei et nos et aput quem inuentus est scyfus
   - `VulgHetzenauer (1906)`: Cui Iudas: Quid respondebimus, inquit, domino meo? vel quid loquemur aut iuste poterimus obtendere? Deus invenit iniquitatem servorum tuorum: en omnes servi sumus domini mei, et nos, et apud quem inventus est scyphus.
   - `VulgConte (2009)`: Cui Iudas: Quid respondebimus, inquit, domino meo? vel quid loquemur aut iuste poterimus obtendere? Deus invenit iniquitatem servorum tuorum: en omnes servi sumus domini mei, et nos, et apud quem inventus est scyphus.
   - `VulgSistina (1590)`: Cui Iudas: Quid respondebimus, inquit, domino meo? vel quid loquemur aut iuste poterimus obtendere? Deus invenit iniquitatem servorum tuorum: en omnes servi sumus domini mei, et nos, et apud quem inventus est scyphus.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'loquamur aut iusti' [Amiatinus (A)] (weight 0.97, confidence 53%) over loquemur aut juste (Clem1598-USFX, Clem-Saints). Also normalised 18 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'loquamur aut justi' [Amiatinus (A)] (weight 0.97, confidence 53%) over loquemur aut juste (Clem1598-USFX, Clem-Saints). Also normalised 18 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -692,21 +701,21 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 25 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et dixit pater noster: Revertimini, et emite nobis paruum tritticum.
+- **Critical Text:** Et dixit pater noster: Revertimini, et emite nobis parvum tritticum.
   - `Clem1598-USFX`: Et dixit pater noster: Revertimini, et emite nobis parum tritici.
   - `Clem-Saints`: Et dixit pater noster: Revertimini, et emite nobis parum tritici.
   - `Amiatinus (A)`: et dixit pater noster reuertimini et emite nobis paruum tritticum
   - `VulgHetzenauer (1906)`: Et dixit pater noster: Revertimini, et emite nobis parum tritici.
   - `VulgConte (2009)`: Et dixit pater noster: Revertimini, et emite nobis parum tritici.
   - `VulgSistina (1590)`: Et dixit pater noster: Revertimini, et emite nobis parum tritici.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'paruum tritticum' [Amiatinus (A)] (weight 0.97, confidence 53%) over parum tritici (Clem1598-USFX, Clem-Saints). Also normalised 3 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'parvum tritticum' [Amiatinus (A)] (weight 0.97, confidence 53%) over parum tritici (Clem1598-USFX, Clem-Saints). Also normalised 3 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 26 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cui diximus: Ire non possumus: si frater minimus noster descendet nobiscum, proficiscemur simul: alioquin illo absente, non audemus videre faciem viri.
   - `Clem1598-USFX`: Cui diximus: Ire non possumus: si frater noster minimus descenderit nobiscum, proficiscemur simul: alioquin illo absente, non audemus videre faciem viri.
   - `Clem-Saints`: Cui diximus: Ire non possumus: si frater noster minimus descenderit nobiscum, proficiscemur simul: alioquin illo absente, non audemus videre faciem viri.
-  - `Amiatinus (A)`: cui diximus ire non possumus si frater minimus noster descendet nobiscum proficiscemur simul alioquin illo absente non audemus uidere faciem uiri […]
+  - `Amiatinus (A)`: cui diximus ire non possumus si frater minimus noster descendet nobiscum proficiscemur simul alioquin illo absente non audemus uidere faciem uiri
   - `VulgHetzenauer (1906)`: Cui diximus: Ire non possumus: si frater noster minimus descenderit nobiscum, proficiscemur simul: alioquin illo absente, non audemus videre faciem viri.
   - `VulgConte (2009)`: Cui diximus: Ire non possumus: si frater noster minimus descenderit nobiscum, proficiscemur simul: alioquin illo absente, non audemus videre faciem viri.
   - `VulgSistina (1590)`: Cui diximus: Ire non possumus: si frater noster minimus descenderit nobiscum, proficiscemur simul: alioquin illo absente, non audemus videre faciem viri.

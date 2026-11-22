@@ -7,7 +7,7 @@
   "usfm_code": "REV",
   "chapter": 15,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-18T03:18:52Z",
+  "updated_at": "2026-11-22T08:01:49Z",
   "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
   "versification_anchor": "Clem-Saints",
   "orthographic_base": "Clem1598-USFX",
@@ -37,6 +37,13 @@
       "role": "apparatus only (recorded, not voting)"
     },
     {
+      "siglum": "Amiatinus (A)",
+      "title": "Codex Amiatinus — Digital Latin Library TEI transcription (Full 27-Book NT)",
+      "tier": 2,
+      "license": "CC BY-SA 4.0 (Digital Latin Library transcription)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
       "siglum": "VulgConte (2009)",
       "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
       "tier": 3,
@@ -62,12 +69,15 @@
         "Clem1598-USFX": "Et vidi aliud signum in cælo magnum et mirabile, angelos septem, habentes plagas septem novissimas: quoniam in illis consummata est ira Dei.",
         "Clem-Saints": "Et vidi aliud signum in cælo magnum et mirabile, angelos septem, habentes plagas septem novissimas: quoniam in illis consummata est ira Dei.",
         "VulgHetzenauer (1906)": "Et vidi aliud signum in cælo magnum, et mirabile, Angelos septem, habentes plagas septem novissimas: Quoniam in illis consummata est ira Dei.",
+        "Amiatinus (A)": "Et uidi aliud signum in caelo magnum et mirabile angelos septem habentes plagas septem nouissimas quoniam in illis consummata est ira dei",
         "VulgConte (2009)": "Et vidi aliud signum in cælo magnum, et mirabile, Angelos septem, habentes plagas septem novissimas: Quoniam in illis consummata est ira Dei.",
         "VulgSistina (1590)": "Et vidi aliud signum in caelo magnum, et mirabile, Angelos septem, habentes plagas septem novissimas: Quoniam in illis consummata est ira Dei."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -89,17 +99,79 @@
         "Clem1598-USFX": "Et vidi tamquam mare vitreum mistum igne, et eos, qui vicerunt bestiam, et imaginem ejus, et numerum nominis ejus, stantes super mare vitreum, habentes citharas Dei:",
         "Clem-Saints": "Et vidi tamquam mare vitreum mistum igne, et eos, qui vicerunt bestiam, et imaginem ejus, et numerum nominis ejus, stantes super mare vitreum, habentes citharas Dei:",
         "VulgHetzenauer (1906)": "Et vidi tamquam mare vitreum mistum igne, et eos, qui vicerunt bestiam, et imaginem eius, et numerum nominis eius, stantes super mare vitreum, habentes citharas Dei:",
+        "Amiatinus (A)": "et uidi tamquam mare uitreum mixtum igne et eos qui uicerunt bestiam et imaginem illius et numerum nominis eius stantes super mare uitreum habentes citharas dei",
         "VulgConte (2009)": "Et vidi tamquam mare vitreum mistum igne, et eos, qui vicerunt bestiam, et imaginem eius, et numerum nominis eius, stantes super mare vitreum, habentes citharas Dei:",
         "VulgSistina (1590)": "Et vidi tamquam mare vitreum mistum igne, et eos, qui vicerunt bestiam, et imaginem eius, et numerum nominis eius, stantes super mare vitreum, habentes citharas Dei:"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "mistum",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "mixtum",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 5,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "mistum",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ejus,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "illius",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 14,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "eius",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -116,12 +188,15 @@
         "Clem1598-USFX": "et cantantes canticum Moysi servi Dei, et canticum Agni, dicentes: Magna et mirabilia sunt opera tua, Domine Deus omnipotens: justæ et veræ sunt viæ tuæ, Rex sæculorum.",
         "Clem-Saints": "et cantantes canticum Moysi servi Dei, et canticum Agni, dicentes: Magna et mirabilia sunt opera tua, Domine Deus omnipotens: justæ et veræ sunt viæ tuæ, Rex sæculorum.",
         "VulgHetzenauer (1906)": "et cantantes canticum Moysi servi Dei, et canticum Agni, dicentes: Magna, et mirabilia sunt opera tua Domine Deus omnipotens: iustæ et veræ sunt viæ tuæ, Rex sæculorum.",
+        "Amiatinus (A)": "et cantantes canticum moysi serui dei et canticum agni dicentes magna et mirabilia opera tua domine deus omnipotens iustae et uerae uiae tuae rex saeculorum",
         "VulgConte (2009)": "et cantantes canticum Moysi servi Dei, et canticum Agni, dicentes: Magna, et mirabilia sunt opera tua Domine Deus omnipotens: iustæ et veræ sunt viæ tuæ, Rex sæculorum.",
         "VulgSistina (1590)": "et cantantes canticum Moysi servi Dei, et canticum Agni, dicentes: Magna, et mirabilia sunt opera tua Domine Deus omnipotens: iustae et verae sunt viae tuae, Domine Rex saeculorum."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -129,10 +204,69 @@
       "apparatus": [
         {
           "slot_index": -1,
+          "lemma": "sunt",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 13,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "sunt",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "sunt",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 22,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "sunt",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
             "Clem-Saints",
             "Clem1598-USFX",
+            "Amiatinus (A)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
           ],
@@ -145,7 +279,7 @@
               "weight_sum": 0.0
             }
           ],
-          "note": "Reading of an apparatus witness (a Majority or ecclesiastical edition): recorded here, it does not vote on the text.",
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
           "word_index": 25,
           "word_count": 0,
           "kind": "word",
@@ -172,18 +306,92 @@
         "Clem1598-USFX": "Quis non timebit te, Domine, et magnificabit nomen tuum? quia solus pius es: quoniam omnes gentes venient, et adorabunt in conspectu tuo, quoniam judicia tua manifesta sunt.",
         "Clem-Saints": "Quis non timebit te, Domine, et magnificabit nomen tuum? quia solus pius es: quoniam omnes gentes venient, et adorabunt in conspectu tuo, quoniam judicia tua manifesta sunt.",
         "VulgHetzenauer (1906)": "Quis non timebit te Domine, et magnificabit nomen tuum? quia solus pius es: quoniam omnes gentes venient, et adorabunt in conspectu tuo, quoniam iudicia tua manifesta sunt.",
+        "Amiatinus (A)": "quis non timebit domine et magnificauit nomen tuum quia solus pius es quoniam omnes gentes uenient et adorabunt in conspectu tuo quoniam iudicia tua manifestata sunt",
         "VulgConte (2009)": "Quis non timebit te Domine, et magnificabit nomen tuum? quia solus pius es: quoniam omnes gentes venient, et adorabunt in conspectu tuo, quoniam iudicia tua manifesta sunt.",
         "VulgSistina (1590)": "Quis non timebit te Domine, et magnificabit nomen tuum? quia solus pius es: quoniam omnes gentes venient, et adorabunt in conspectu tuo, quoniam iudicia tua manifesta sunt."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
-      "disregarded": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "te,",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 3,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "te",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "manifesta",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "manifestata",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 25,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "manifesta",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "magnificabit / magnificauit"
+          ],
+          "witnesses": [
+            "Amiatinus (A)"
+          ],
+          "reason": "Apparatus witness, not a variant: b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)"
+        }
+      ],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
@@ -199,12 +407,15 @@
         "Clem1598-USFX": "Et post hæc vidi: et ecce apertum est templum tabernaculi testimonii in cælo,",
         "Clem-Saints": "Et post hæc vidi: et ecce apertum est templum tabernaculi testimonii in cælo,",
         "VulgHetzenauer (1906)": "Et post hæc vidi, et ecce apertum est templum tabernaculi testimonii in cælo:",
+        "Amiatinus (A)": "Et post haec uidi et ecce apertum est templum tabernaculi testimonii in caelo",
         "VulgConte (2009)": "Et post hæc vidi, et ecce apertum est templum tabernaculi testimonii in cælo:",
         "VulgSistina (1590)": "Et post haec vidi, et ecce apertum est templum tabernaculi testimonii in caelo:"
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -226,17 +437,79 @@
         "Clem1598-USFX": "et exierunt septem angeli habentes septem plagas de templo, vestiti lino mundo et candido, et præcincti circa pectora zonis aureis.",
         "Clem-Saints": "et exierunt septem angeli habentes septem plagas de templo, vestiti lino mundo et candido, et præcincti circa pectora zonis aureis.",
         "VulgHetzenauer (1906)": "et exierunt septem Angeli habentes septem plagas de templo, vestiti lino mundo, et candido, et præcincti circa pectora zonis aureis.",
+        "Amiatinus (A)": "et exierunt septem angeli habentes septem plagas de templo uestiti lapide mundo candido et praecincti circa pectora zonis aureis",
         "VulgConte (2009)": "et exierunt septem Angeli habentes septem plagas de templo, vestiti lino mundo, et candido, et præcincti circa pectora zonis aureis.",
         "VulgSistina (1590)": "et exierunt septem Angeli habentes septem plagas de templo, vestiti lino mundo, et candido, et praecincti circa pectora zonis aureis."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "lino",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "lapide",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 10,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "lino",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "et",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 12,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [],
       "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
@@ -253,22 +526,56 @@
         "Clem1598-USFX": "Et unum de quatuor animalibus dedit septem angelis septem phialas aureas, plenas iracundiæ Dei viventis in sæcula sæculorum.",
         "Clem-Saints": "Et unum de quatuor animalibus dedit septem angelis septem phialas aureas, plenas iracundiæ Dei viventis in sæcula sæculorum.",
         "VulgHetzenauer (1906)": "Et unum de quattuor animalibus dedit septem Angelis septem phialas aureas, plenas iracundiæ Dei viventis in sæcula sæculorum.",
+        "Amiatinus (A)": "et unus ex quattuor animalibus dedit septem angelis septem phialas aureas plenas iracundiae dei uiuentis in saecula saeculorum",
         "VulgConte (2009)": "Et unum de quattuor animalibus dedit septem Angelis septem phialas aureas, plenas iracundiæ Dei viventis in sæcula sæculorum.",
         "VulgSistina (1590)": "Et unum de quattuor animalibus dedit septem Angelis septem phialas aureas, plenas iracundiae Dei viventis in saecula saeculorum."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
-      "apparatus": [],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "unum de quatuor",
+          "lemma_witnesses": [
+            "Clem-Saints",
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "unus ex quattuor",
+              "witnesses": [
+                "Amiatinus (A)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 3,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "unum de quatuor",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
       "disregarded": [
         {
           "slot_index": -1,
           "kept_form": "(adopted text)",
           "disregarded_forms": [
+            "phialas / fialas",
             "quatuor / quattuor",
             "quatuor / quattuor",
             "quatuor / quattuor"
@@ -296,12 +603,15 @@
         "Clem1598-USFX": "Et impletum est templum fumo a majestate Dei, et de virtute ejus: et nemo poterat introire in templum, donec consummarentur septem plagæ septem angelorum.",
         "Clem-Saints": "Et impletum est templum fumo a majestate Dei, et de virtute ejus: et nemo poterat introire in templum, donec consummarentur septem plagæ septem angelorum.",
         "VulgHetzenauer (1906)": "Et impletum est templum fumo a maiestate Dei, et de virtute eius: et nemo poterat introire in templum, donec consummarentur septem plagæ septem Angelorum.",
+        "Amiatinus (A)": "et impletum est templum fumo a maiestate dei et de uirtute eius et nemo poterat introire in templum donec consummarentur septem plagae septem angelorum",
         "VulgConte (2009)": "Et impletum est templum fumo a maiestate Dei, et de virtute eius: et nemo poterat introire in templum, donec consummarentur septem plagæ septem Angelorum.",
         "VulgSistina (1590)": "Et impletum est templum fumo a maiestate Dei, et de virtute eius: et nemo poterat introire in templum, donec consummarentur septem plagae septem Angelorum."
       },
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Amiatinus (A)",
+        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"

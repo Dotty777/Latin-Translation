@@ -1,6 +1,6 @@
 # Psalms 135 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:24Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:48Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,29 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ### Versification & Alignment Notes
 - VulgConte (2009): 135:27 folded into verse 26 (the reference prints these words there)
@@ -69,13 +79,80 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Psalms 135:1
+- **Apparatus:** `Alleluja. Confitemini Domino,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Laudáte Dóminum,** Psalt-Pianum (1945)
 - *Disregarded Surface Variant:* kept `Alleluja.` over `Alleluja` (Clem-Saints) — *Punctuation / spacing difference only*
 
+### Psalms 135:2
+- **Apparatus:** `Confitemini Deo` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Laudáte Deum** Psalt-Pianum (1945)
+
+### Psalms 135:3
+- **Apparatus:** `Confitemini Domino` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Laudáte Dóminum** Psalt-Pianum (1945)
+
+### Psalms 135:4
+- **Apparatus:** `facit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **fecit** Psalt-Pianum (1945)
+
+### Psalms 135:5
+- **Apparatus:** `in intellectu,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cum sapiéntia,** Psalt-Pianum (1945)
+
+### Psalms 135:6
+- **Apparatus:** `firmavit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **exténdit** Psalt-Pianum (1945)
+
+### Psalms 135:7
+- **Apparatus:** `luminaria` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **lúmina** Psalt-Pianum (1945)
+
+### Psalms 135:8
+- **Apparatus:** `in potestatem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ut præsit** Psalt-Pianum (1945)
+
+### Psalms 135:9
+- **Apparatus:** `in potestatem noctis,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ut præsint nocti,** Psalt-Pianum (1945)
+
+### Psalms 135:10
+- **Apparatus:** `Ægyptum cum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Ægýptios in** Psalt-Pianum (1945)
+
+### Psalms 135:11
+- **Apparatus:** `Qui` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Et** Psalt-Pianum (1945)
+- **Apparatus:** `de` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **e** Psalt-Pianum (1945)
+
+### Psalms 135:12
+- **Apparatus:** `in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `brachio excelso,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **brácchio exténto,** Psalt-Pianum (1945)
+
+### Psalms 135:13
+- **Apparatus:** `divisiones,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **partes,** Psalt-Pianum (1945)
+
+### Psalms 135:14
+- **Apparatus:** `eduxit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **tradúxit** Psalt-Pianum (1945)
+- **Apparatus:** `eduxit Israël` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **tradúxit Israël** Psalt-Pianum (1945)
+
+### Psalms 135:15
+- **Apparatus:** `excussit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **detrúsit** Psalt-Pianum (1945)
+- **Apparatus:** `virtutem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **exércitum** Psalt-Pianum (1945)
+- **Apparatus:** `mari Rubro,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Mare Rubrum,** Psalt-Pianum (1945)
+
+### Psalms 135:16
+- **Apparatus:** `traduxit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **duxit** Psalt-Pianum (1945)
+
+### Psalms 135:18
+- **Apparatus:** `fortes,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **poténtes,** Psalt-Pianum (1945)
+
 ### Psalms 135:21
-- *Disregarded Surface Variant:* kept `(adopted text)` over `hæreditatem, / hereditatem:`, `hæreditatem, / hereditatem:`, `hæreditatem, / hereditatem:` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- **Apparatus:** `hæreditatem,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **in possessiónem,** Psalt-Pianum (1945)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `hæreditatem, / hereditatem`, `hæreditatem, / hereditatem:`, `hæreditatem, / hereditatem:`, `hæreditatem, / hereditatem:` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Psalms 135:22
-- *Disregarded Surface Variant:* kept `(adopted text)` over `hæreditatem / Hereditatem`, `hæreditatem / Hereditatem`, `hæreditatem / Hereditatem` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- **Apparatus:** `hæreditatem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **In possessiónem** Psalt-Pianum (1945)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `hæreditatem Israël, / hereditatem Israhel`, `hæreditatem / Hereditatem`, `hæreditatem / Hereditatem`, `hæreditatem / Hereditatem` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Psalms 135:23
+- **Apparatus:** `Quia` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Qui** Psalt-Pianum (1945)
+- **Apparatus:** `memor fuit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **recordátus est** Psalt-Pianum (1945)
+
+### Psalms 135:24
+- **Apparatus:** `redemit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **liberávit** Psalt-Pianum (1945)
+
+### Psalms 135:26
+- **Apparatus:** `Confitemini Deo` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Laudáte Deum** Psalt-Pianum (1945)
+- **Apparatus:** `Confitemini Domino dominorum, quoniam in æternum misericordia ejus.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
 
 ---
 
@@ -86,6 +163,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Alleluja. Confitemini Domino, quoniam bonus, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: Alleluja . Confitemini Domino, quoniam bonus, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: Alleluia. Confitemini Domino quoniam bonus: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Laudáte Dóminum, quóniam bonus, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Alleluia. Confitemini Domino quoniam bonus: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Alleluia. Confitemini Domino quoniam bonus: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Punctuation / spacing difference only).
@@ -95,6 +173,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Confitemini Deo deorum, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: Confitemini Deo deorum, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: Confitemini Deo deorum: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Laudáte Deum deórum, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Confitemini Deo deorum: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Confitemini Deo deorum: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -104,6 +183,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Confitemini Domino dominorum, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: Confitemini Domino dominorum, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: Confitemini Domino dominorum: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Laudáte Dóminum dominórum, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Confitemini Domino dominorum: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Confitemini Domino dominorum: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -113,6 +193,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Qui facit mirabilia magna solus, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: Qui facit mirabilia magna solus, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: Qui facit mirabilia magna solus: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Qui fecit mirabília magna solus, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Qui facit mirabilia magna solus: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Qui facit mirabilia magna solus: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -122,6 +203,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Qui fecit cælos in intellectu, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: Qui fecit cælos in intellectu, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: Qui fecit cælos in intellectu: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Qui fecit cælos cum sapiéntia, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Qui fecit cælos in intellectu: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Qui fecit caelos in intellectu: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -131,6 +213,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Qui firmavit terram super aquas, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: Qui firmavit terram super aquas, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: Qui firmavit terram super aquas: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Qui exténdit terram super aquas, quóniam in ætérnum misericórdia ejus:
   - `VulgConte (2009)`: Qui firmavit terram super aquas: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Qui firmavit terram super aquas: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -140,6 +223,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Qui fecit luminaria magna, quoniam in æternum misericordia ejus:
   - `Clem-Saints`: Qui fecit luminaria magna, quoniam in æternum misericordia ejus:
   - `VulgHetzenauer (1906)`: Qui fecit luminaria magna: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Qui fecit lúmina magna, quóniam in ætérnum misericórdia ejus:
   - `VulgConte (2009)`: Qui fecit luminaria magna: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Qui fecit luminaria magna: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -149,6 +233,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: solem in potestatem diei, quoniam in æternum misericordia ejus;
   - `Clem-Saints`: solem in potestatem diei, quoniam in æternum misericordia ejus;
   - `VulgHetzenauer (1906)`: Solem in potestatem diei: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Solem, ut præsit diéi, quóniam in ætérnum misericórdia ejus,
   - `VulgConte (2009)`: Solem in potestatem diei: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Solem in potestatem diei: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -158,6 +243,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: lunam et stellas in potestatem noctis, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: lunam et stellas in potestatem noctis, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: Lunam, et stellas in potestatem noctis: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Lunam et stellas, ut præsint nocti, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Lunam, et stellas in potestatem noctis: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Lunam, et stellas in potestatem noctis: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -167,6 +253,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Qui percussit Ægyptum cum primogenitis eorum, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: Qui percussit Ægyptum cum primogenitis eorum, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: Qui percussit Ægyptum cum primogenitis eorum: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Qui percússit Ægýptios in primogénitis eórum, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Qui percussit Ægyptum cum primogenitis eorum: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Qui percussit Aegyptum cum primogenitis eorum: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -176,6 +263,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Qui eduxit Israël de medio eorum, quoniam in æternum misericordia ejus,
   - `Clem-Saints`: Qui eduxit Israël de medio eorum, quoniam in æternum misericordia ejus,
   - `VulgHetzenauer (1906)`: Qui eduxit Israel de medio eorum: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Et edúxit Israël e médio eórum, quóniam in ætérnum misericórdia ejus,
   - `VulgConte (2009)`: Qui eduxit Israel de medio eorum: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Qui eduxit Israel de medio eorum: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -185,6 +273,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: in manu potenti et brachio excelso, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: in manu potenti et brachio excelso, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: In manu potenti, et brachio excelso: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Manu poténti et brácchio exténto, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: In manu potenti, et brachio excelso: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: In manu potenti, et brachio excelso: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -194,6 +283,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Qui divisit mare Rubrum in divisiones, quoniam in æternum misericordia ejus;
   - `Clem-Saints`: Qui divisit mare Rubrum in divisiones, quoniam in æternum misericordia ejus;
   - `VulgHetzenauer (1906)`: Qui divisit Mare rubrum in divisiones: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Qui divísit Mare Rubrum in partes, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Qui divisit Mare Rubrum in divisiones: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Qui divisit Mare rubrum in divisiones: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -203,6 +293,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et eduxit Israël per medium ejus, quoniam in æternum misericordia ejus;
   - `Clem-Saints`: et eduxit Israël per medium ejus, quoniam in æternum misericordia ejus;
   - `VulgHetzenauer (1906)`: Et eduxit Israel per medium eius: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Et tradúxit Israël per médium ejus, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Et eduxit Israel per medium eius: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Et eduxit Israel per medium eius: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -212,6 +303,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et excussit Pharaonem et virtutem ejus in mari Rubro, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: et excussit Pharaonem et virtutem ejus in mari Rubro, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: Et excussit Pharaonem, et virtutem eius in Mari rubro: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Et detrúsit Pharaónem et exércitum ejus in Mare Rubrum, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Et excussit Pharaonem, et virtutem eius in Mari Rubro: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Et excussit Pharaonem, et virtutem eius in Mari rubro: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -221,6 +313,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Qui traduxit populum suum per desertum, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: Qui traduxit populum suum per desertum, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: Qui traduxit populum suum per desertum: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Qui duxit pópulum suum per desértum, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Qui traduxit populum suum per desertum: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Qui traduxit populum suum per desertum: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -230,6 +323,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Qui percussit reges magnos, quoniam in æternum misericordia ejus;
   - `Clem-Saints`: Qui percussit reges magnos, quoniam in æternum misericordia ejus;
   - `VulgHetzenauer (1906)`: Qui percussit reges magnos: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Qui percússit reges magnos, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Qui percussit reges magnos: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Qui percussit reges magnos: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -239,6 +333,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et occidit reges fortes, quoniam in æternum misericordia ejus:
   - `Clem-Saints`: et occidit reges fortes, quoniam in æternum misericordia ejus:
   - `VulgHetzenauer (1906)`: Et occidit reges fortes: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Et occídit reges poténtes, quóniam in ætérnum misericórdia ejus:
   - `VulgConte (2009)`: Et occidit reges fortes: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Et occidit reges fortes: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -248,6 +343,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Sehon, regem Amorrhæorum, quoniam in æternum misericordia ejus;
   - `Clem-Saints`: Sehon, regem Amorrhæorum, quoniam in æternum misericordia ejus;
   - `VulgHetzenauer (1906)`: Sehon regem Amorrhæorum: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Sehon, regem Amorrhæórum, quóniam in ætérnum misericórdia ejus,
   - `VulgConte (2009)`: Sehon regem Amorrhæorum: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Sehon regem Amorrhaeorum: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -257,6 +353,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et Og, regem Basan, quoniam in æternum misericordia ejus:
   - `Clem-Saints`: et Og, regem Basan, quoniam in æternum misericordia ejus:
   - `VulgHetzenauer (1906)`: Et Og regem Basan: quoniam in æternum misericordia eius:
+  - `Psalt-Pianum (1945)`: Et Og, regem Basan, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Et Og regem Basan: quoniam in æternum misericordia eius:
   - `VulgSistina (1590)`: Et Og regem Basan: quoniam in aeternum misericordia eius:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -266,6 +363,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et dedit terram eorum hæreditatem, quoniam in æternum misericordia ejus;
   - `Clem-Saints`: et dedit terram eorum hæreditatem, quoniam in æternum misericordia ejus;
   - `VulgHetzenauer (1906)`: Et dedit terram eorum hereditatem: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Et dedit terram eórum in possessiónem, quóniam in ætérnum misericórdia ejus,
   - `VulgConte (2009)`: Et dedit terram eorum hereditatem: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Et dedit terram eorum hereditatem: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -275,6 +373,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: hæreditatem Israël, servo suo, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: hæreditatem Israël, servo suo, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: Hereditatem Israel servo suo: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: In possessiónem Israël, servo suo, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Hereditatem Israel servo suo: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Hereditatem Israel servo suo: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -284,6 +383,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quia in humilitate nostra memor fuit nostri, quoniam in æternum misericordia ejus;
   - `Clem-Saints`: Quia in humilitate nostra memor fuit nostri, quoniam in æternum misericordia ejus;
   - `VulgHetzenauer (1906)`: Quia in humilitate nostra memor fuit nostri: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Qui in humilitáte nostra recordátus est nostri, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Quia in humilitate nostra memor fuit nostri: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Quia in humilitate nostra memor fuit nostri: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -293,6 +393,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et redemit nos ab inimicis nostris, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: et redemit nos ab inimicis nostris, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: Et redemit nos ab inimicis nostris: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Et liberávit nos ab inimícis nostris, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Et redemit nos ab inimicis nostris: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Et redemit nos ab inimicis nostris: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -302,6 +403,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Qui dat escam omni carni, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: Qui dat escam omni carni, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: Qui dat escam omni carni: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Qui dat escam omni carni, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Qui dat escam omni carni: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Qui dat escam omni carni: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -311,6 +413,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Confitemini Deo cæli, quoniam in æternum misericordia ejus. Confitemini Domino dominorum, quoniam in æternum misericordia ejus.
   - `Clem-Saints`: Confitemini Deo cæli, quoniam in æternum misericordia ejus. Confitemini Domino dominorum, quoniam in æternum misericordia ejus.
   - `VulgHetzenauer (1906)`: Confitemini Deo cæli: quoniam in æternum misericordia eius. Confitemini Domino dominorum: quoniam in æternum misericordia eius.
+  - `Psalt-Pianum (1945)`: Laudáte Deum cæli, quóniam in ætérnum misericórdia ejus.
   - `VulgConte (2009)`: Confitemini Deo cæli: quoniam in æternum misericordia eius. Confitemini Domino dominorum: quoniam in æternum misericordia eius.
   - `VulgSistina (1590)`: Confitemini Deo caeli: quoniam in aeternum misericordia eius. Confitemini Domino dominorum: quoniam in aeternum misericordia eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

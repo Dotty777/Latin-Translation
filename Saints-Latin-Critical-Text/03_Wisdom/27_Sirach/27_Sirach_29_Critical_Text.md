@@ -1,6 +1,6 @@
 # Sirach 29 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:38Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:50Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,7 +16,7 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -28,14 +28,24 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ### Versification & Alignment Notes
+- Clem1598-USFX: Source division repair: 'et super lanceam' moved from 29:17 to 29:16 (Swete ends 1:8 with 'Κύριος' opening 1:9; Clementine Vulgate splits Sirach 29:13 across 29:16–18). No word added or dropped. Original file unchanged.
+- Clem1598-USFX: Source division repair: 'adversus inimicum tuum pugnabit.' moved from 29:18 to 29:16 (Swete ends 1:8 with 'Κύριος' opening 1:9; Clementine Vulgate splits Sirach 29:13 across 29:16–18). No word added or dropped. Original file unchanged.
+- Clem-Saints: Source import repair, 29:13: 'Super scutum potentis' → 'Super scutum potentis …' (Swete prints Saints Latin JSON omits Vulgate 29:17–18 ('et super lanceam adversus inimicum tuum pugnabit.'); marked truncated so Clem1598-USFX supplies the complete verse). '…' marks text this copy lost: its omissions in this verse are not evidence; no word was supplied. Original file unchanged.
 - Clem1598-USFX: 29:6 not collated (no verse of the reference matches its wording)
 - Clem1598-USFX: 29:8 not collated (no verse of the reference matches its wording)
 - Clem1598-USFX: 29:9 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 29:17 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 29:18 not collated (no verse of the reference matches its wording)
 - Clem1598-USFX: 29:21 not collated (no verse of the reference matches its wording)
 - Clem1598-USFX: 29:23 not collated (no verse of the reference matches its wording)
 - Clem1598-USFX: 23 verse(s) re-aligned by content (6←29:7, 7←29:10, 8←29:11, 9←29:12, 10←29:13, 11←29:14…)
@@ -78,7 +88,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **10** Perde pecuniam propter fratrem et amicum tuum, et non abscondas illam sub lapide in perditionem.
 **11** Pone thesaurum tuum in præceptis Altissimi, et proderit tibi magis quam aurum.
 **12** Conclude eleemosynam in corde pauperis, et hæc pro te exorabit ab omni malo.
-**13** Super scutum potentis
+**13** Super scutum potentis et super lanceam adversus inimicum tuum pugnabit.
 **14** Vir bonus fidem facit pro proximo suo: et qui perdiderit confusionem derelinquet sibi.
 **15** Gratiam fidejussoris ne obliviscaris: dedit enim pro te animam suam.
 **16** Bona repromissoris sibi ascribit peccator: et ingratus sensu derelinquet liberantem se.
@@ -103,7 +113,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `non` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
 
 ### Sirach 29:13
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgSistina (1590) **]** **et super lanceam** VulgConte (2009) VulgHetzenauer (1906)
+- **Apparatus:** `et super lanceam adversus inimicum tuum pugnabit.` Clem-Saints Clem1598-USFX **]** **om.** VulgSistina (1590) ; **et super lanceam** VulgConte (2009) VulgHetzenauer (1906)
+- **Apparatus:** `adversus inimicum tuum pugnabit.` Clem-Saints Clem1598-USFX **]** **om.** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590)
 
 ### Sirach 29:14
 - **Apparatus:** `pro` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
@@ -221,9 +232,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 29:15 (re-aligned by content).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Super scutum potentis
-  - `Clem1598-USFX` *(numbered 29:16 in this witness)*: Super scutum potentis
-  - `Clem-Saints`: Super scutum potentis
+- **Critical Text:** Super scutum potentis et super lanceam adversus inimicum tuum pugnabit.
+  - `Clem1598-USFX` *(numbered 29:16 in this witness)*: Super scutum potentis et super lanceam adversus inimicum tuum pugnabit.
+  - `Clem-Saints`: Super scutum potentis …
   - `VulgHetzenauer (1906)` *(numbered 29:16 in this witness)*: Super scutum potentis, et super lanceam
   - `VulgConte (2009)` *(numbered 29:16 in this witness)*: Super scutum potentis, et super lanceam
   - `VulgSistina (1590)` *(numbered 29:16 in this witness)*: Super scutum potentis,

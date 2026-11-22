@@ -1,6 +1,6 @@
 # Genesis 30 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:16:07Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:33Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -15,9 +15,9 @@
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
-| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -29,7 +29,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -60,14 +69,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **23** Quæ concepit, et peperit filium, dicens: Abstulit Deus opprobrium meum.
 **24** Et vocavit nomen illius Joseph, dicens: Addat mihi Dominus filium alterum.
 **25** Nato autem Joseph, dixit Jacob socero suo: Dimitte me ut revertar in patriam, et ad terram meam.
-**26** Da mihi uxores, et liberos meos, pro quibus servivi tibi, ut abeam: tu nosti servitutem qua servivi tibi.
+**26** Da mihi uxores, et liberos meos, pro quibus servivi tibi, ut habeam: tu nosti servitutem qua servivi tibi.
 **27** Ait ei Laban: Inveniam gratiam in conspectu tuo, experimento didici, quod benedixerit mihi Deus propter te:
 **28** constitue mercedem tuam quam dem tibi.
 **29** At ille respondit: Tu nosti quomodo servierim tibi, et quanta in manibus meis fuerit possessio tua.
 **30** Modicum habuisti antequam venirem et nunc dives effectus es: benedixitque tibi Dominus ad introitum meum. Justum est igitur ut aliquando provideam etiam domui meæ.
 **31** Dixitque Laban: Quid dabo tibi? At ille ait: Nihil volo: sed si feceris quod postulo, iterum pascam, et custodiam pecora tua.
-**32** Gyra omnes greges tuos, et separa cunctas oves varias, et sparso vellere; et quodcumque fuluum, et maculosum, variumque fuerit, tam in ovibus quam in capris, erit merces mea.
-**33** Respondebitque mihi cras justitia mea, quando placiti tempus advenerit coram te: et omnia quæ non fuerint varia, et maculosa, et fulua, tam in ovibus quam in capris, furtim me arguent.
+**32** Gyra omnes greges tuos, et separa cunctas oves varias, et sparso vellere; et quodcumque fulvum, et maculosum, variumque fuerit, tam in ovibus quam in capris, erit merces mea.
+**33** Respondebitque mihi cras justitia mea, quando placiti tempus advenerit coram te: et omnia quæ non fuerint varia, et maculosa, et fulva, tam in ovibus quam in capris, furtim me arguent.
 **34** Dixit Laban: Gratum habeo quod petis.
 **35** Et separavit in die illo capras, et oves, hircos, et arietes varios, atque maculosos: cunctum autem gregem unicolorem, id est albi et nigri velleris, tradidit in manu filiorum suorum.
 **36** Et posuit spatium itineris inter se et generum dierum trium, qui pascebat reliquos greges ejus.
@@ -241,11 +250,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Genesis 30:16
 - **Apparatus:** `om.` Amiatinus (A) **]** **Jacob** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'Jacob' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'om.', 'Jacob' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `Jacob` Amiatinus (A) **]** **om.** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
-  - *variant type: transposition:* Units 'om.' and 'Jacob' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'om.', 'Jacob' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `om.` Amiatinus (A) **]** **ejus** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(omission / addition)*
@@ -360,7 +369,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `meam.` over `meam` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 30:26
-- **Apparatus:** `abeam` Amiatinus (A) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **abeam** Clem1598-USFX Clem-Saints *(inflection or spelling (same stem))*
+- **Apparatus:** `habeam` Amiatinus (A) **]** **abeam** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `om.` Amiatinus (A) Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **vero** VulgSistina (1590)
@@ -416,7 +425,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `meæ.` over `meae` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 30:31
-- **Apparatus:** `dabo tibi` Amiatinus (A) **]** **tibi dabo** Clem1598-USFX Clem-Saints ; **dabo?** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `dabo tibi` Amiatinus (A) **]** **tibi dabo** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Dixitque` over `dixitque` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -431,7 +440,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `tua.` over `tua` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 30:32
-- **Apparatus:** `et quodcumque fuluum` Amiatinus (A) **]** **quodcumque furvum** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
+- **Apparatus:** `et quodcumque fulvum` Amiatinus (A) **]** **quodcumque furvum** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Gyra` over `gyra` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -447,7 +456,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `mea.` over `mea` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 30:33
-- **Apparatus:** `fulua` Amiatinus (A) **]** **furva** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
+- **Apparatus:** `fulva` Amiatinus (A) **]** **furva** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `furtim` Amiatinus (A) **]** **furti** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(inflection or spelling (same stem))*
@@ -553,11 +562,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `quæque` Amiatinus (A) **]** **om.** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
-  - *variant type: transposition:* Units 'quæque' and 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'quæque', 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `om.` Amiatinus (A) **]** **quæque** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
-  - *variant type: transposition:* Units 'quæque' and 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'quæque', 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Divisitque` over `diuisitque` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -758,7 +767,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Rahel' [Amiatinus (A)] (weight 0.97, confidence 53%) over Rachel (Clem1598-USFX, Clem-Saints). Also normalised 10 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 16 (Confidence: `4.1%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 16 (Confidence: `7.8%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Redeuntique ad vesperam de agro Jacob, egressa est in occursum Lia, et Ad me, inquit, intrabis: quia mercede conduxi te pro mandragora filii mei. Dormivit cum ea nocte illa.
   - `Clem1598-USFX`: Redeuntique ad vesperam Jacob de agro, egressa est in occursum ejus Lia, et Ad me, inquit, intrabis: quia mercede conduxi te pro mandragoris filii mei. Dormivitque cum ea nocte illa.
   - `Clem-Saints`: Redeuntique ad vesperam Jacob de agro, egressa est in occursum ejus Lia, et Ad me, inquit, intrabis: quia mercede conduxi te pro mandragoris filii mei. Dormivitque cum ea nocte illa.
@@ -767,7 +776,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgConte (2009)`: Redeuntique ad vesperam Iacob de agro, egressa est in occursum eius Lia, et ad me, inquit, intrabis: quia mercede conduxi te pro mandragoris filii mei. Dormivitque cum ea nocte illa.
   - `VulgSistina (1590)`: Redeuntique ad vesperam Iacob de agro, egressa est in occursum eius Lia, et ait: Ad me, inquit, intrabis: quia mercede conduxi te pro mandragoris filii mei. Dormivitque cum ea nocte illa.
 - **Philological Rationale:** [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over Jacob (Clem1598-USFX, Clem-Saints). [Addition / omission between witnesses] Adopted 'Jacob' [Amiatinus (A)] (weight 0.97, confidence 53%) over om. (Clem1598-USFX, Clem-Saints). [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over ejus (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'mandragora' [Amiatinus (A)] (weight 0.97, confidence 53%) over mandragoris (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'Dormivit' [Amiatinus (A)] (weight 0.97, confidence 53%) over Dormivitque (Clem1598-USFX, Clem-Saints). Also normalised 10 orthographic/surface variation(s).
-- *confidence:* Verse confidence 4% = product of 5 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 8% = product of 4 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et exaudivit Deus preces ejus, concepitque et peperit filium quintum,
@@ -864,14 +873,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 7 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
 ### Verse 26 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Da mihi uxores, et liberos meos, pro quibus servivi tibi, ut abeam: tu nosti servitutem qua servivi tibi.
+- **Critical Text:** Da mihi uxores, et liberos meos, pro quibus servivi tibi, ut habeam: tu nosti servitutem qua servivi tibi.
   - `Clem1598-USFX`: Da mihi uxores, et liberos meos, pro quibus servivi tibi, ut abeam: tu nosti servitutem qua servivi tibi.
   - `Clem-Saints`: Da mihi uxores, et liberos meos, pro quibus servivi tibi, ut abeam: tu nosti servitutem qua servivi tibi.
   - `Amiatinus (A)`: da mihi uxores et liberos meos pro quibus seruiui tibi ut habeam tu nosti seruitutem qua seruiui tibi
   - `VulgHetzenauer (1906)`: Da mihi uxores, et liberos meos, pro quibus servivi tibi, ut abeam: tu nosti servitutem qua servivi tibi.
   - `VulgConte (2009)`: Da mihi uxores, et liberos meos, pro quibus servivi tibi, ut abeam: tu nosti servitutem qua servivi tibi.
   - `VulgSistina (1590)`: Da mihi uxores, et liberos meos, pro quibus servivi tibi, ut abeam: tu vero nosti servitutem qua servivi tibi.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'abeam' [Amiatinus (A)] (weight 0.97, confidence 53%) over abeam (Clem1598-USFX, Clem-Saints). Also normalised 8 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'habeam' [Amiatinus (A)] (weight 0.97, confidence 53%) over abeam (Clem1598-USFX, Clem-Saints). Also normalised 8 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 27 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -928,25 +937,25 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 32 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Gyra omnes greges tuos, et separa cunctas oves varias, et sparso vellere; et quodcumque fuluum, et maculosum, variumque fuerit, tam in ovibus quam in capris, erit merces mea.
+- **Critical Text:** Gyra omnes greges tuos, et separa cunctas oves varias, et sparso vellere; et quodcumque fulvum, et maculosum, variumque fuerit, tam in ovibus quam in capris, erit merces mea.
   - `Clem1598-USFX`: Gyra omnes greges tuos, et separa cunctas oves varias, et sparso vellere; quodcumque furvum, et maculosum, variumque fuerit, tam in ovibus quam in capris, erit merces mea.
   - `Clem-Saints`: Gyra omnes greges tuos, et separa cunctas oves varias, et sparso vellere; quodcumque furvum, et maculosum, variumque fuerit, tam in ovibus quam in capris, erit merces mea.
   - `Amiatinus (A)`: gyra omnes greges tuos et separa cunctas oues uarias et sparso uellere et quodcumque fuluum et maculosum uariumque fuerit tam in ouibus quam in capris erit merces mea
   - `VulgHetzenauer (1906)`: Gyra omnes greges tuos, et separa cunctas oves varias, et sparso vellere; quodcumque furvum, et maculosum, variumque fuerit, tam in ovibus quam in capris, erit merces mea.
   - `VulgConte (2009)`: Gyra omnes greges tuos, et separa cunctas oves varias, et sparso vellere; quodcumque furvum, et maculosum, variumque fuerit, tam in ovibus quam in capris, erit merces mea.
   - `VulgSistina (1590)`: Gyra omnes greges tuos, et separa cunctas oves varias, et sparso vellere; quodcumque furvum, et maculosum, variumque fuerit, tam in ovibus quam in capris, erit merces mea.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'et quodcumque fuluum' [Amiatinus (A)] (weight 0.97, confidence 53%) over quodcumque furvum (Clem1598-USFX, Clem-Saints). Also normalised 11 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'et quodcumque fulvum' [Amiatinus (A)] (weight 0.97, confidence 53%) over quodcumque furvum (Clem1598-USFX, Clem-Saints). Also normalised 11 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 33 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Respondebitque mihi cras justitia mea, quando placiti tempus advenerit coram te: et omnia quæ non fuerint varia, et maculosa, et fulua, tam in ovibus quam in capris, furtim me arguent.
+- **Critical Text:** Respondebitque mihi cras justitia mea, quando placiti tempus advenerit coram te: et omnia quæ non fuerint varia, et maculosa, et fulva, tam in ovibus quam in capris, furtim me arguent.
   - `Clem1598-USFX`: Respondebitque mihi cras justitia mea, quando placiti tempus advenerit coram te: et omnia quæ non fuerint varia, et maculosa, et furva, tam in ovibus quam in capris, furti me arguent.
   - `Clem-Saints`: Respondebitque mihi cras justitia mea, quando placiti tempus advenerit coram te: et omnia quæ non fuerint varia, et maculosa, et furva, tam in ovibus quam in capris, furti me arguent.
   - `Amiatinus (A)`: respondeuitque mihi cras iustitia mea quando placiti tempus aduenerit coram te et omnia quae non fuerint uaria et maculosa et fulua tam in ouibus quam in capris furtim me arguent
   - `VulgHetzenauer (1906)`: Respondebitque mihi cras iustitia mea, quando placiti tempus advenerit coram te: et omnia quæ non fuerint varia, et maculosa, et furva, tam in ovibus quam in capris, furti me arguent.
   - `VulgConte (2009)`: Respondebitque mihi cras iustitia mea, quando placiti tempus advenerit coram te: et omnia quæ non fuerint varia, et maculosa, et furva, tam in ovibus quam in capris, furti me arguent.
   - `VulgSistina (1590)`: Respondebitque mihi cras iustitia mea, quando placiti tempus advenerit coram te: et omnia quae non fuerint varia, et maculosa, et furva, tam in ovibus quam in capris, furti me argues.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'fulua' [Amiatinus (A)] (weight 0.97, confidence 53%) over furva (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'furtim' [Amiatinus (A)] (weight 0.97, confidence 53%) over furti (Clem1598-USFX, Clem-Saints). Also normalised 11 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'fulva' [Amiatinus (A)] (weight 0.97, confidence 53%) over furva (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'furtim' [Amiatinus (A)] (weight 0.97, confidence 53%) over furti (Clem1598-USFX, Clem-Saints). Also normalised 11 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 34 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -1013,7 +1022,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgSistina (1590)`: Factumque est ut in ipso calore coitus, oves intuerentur virgas, et parerent maculosa, et varia, et diverso colore respersa.
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 8 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
-### Verse 40 (Confidence: `14.8%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 40 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Divisitque gregem Jacob, et posuit virgas ante oculos arietum: erant autem alba quæque et nigra Laban; cetera vero, Jacob, separatis inter se gregibus.
   - `Clem1598-USFX`: Divisitque gregem Jacob, et posuit virgas in canalibus ante oculos arietum: erant autem alba et nigra quæque, Laban; cetera vero, Jacob, separatis inter se gregibus.
   - `Clem-Saints`: Divisitque gregem Jacob, et posuit virgas in canalibus ante oculos arietum: erant autem alba et nigra quæque, Laban; cetera vero, Jacob, separatis inter se gregibus.
@@ -1022,7 +1031,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgConte (2009)`: Divisitque gregem Iacob, et posuit virgas in canalibus ante oculos arietum: erant autem alba et nigra quæque, Laban: cetera vero, Iacob, separatis inter se gregibus.
   - `VulgSistina (1590)`: Divisitque gregem Iacob, et posuit virgas in canalibus ante oculos arietum: erant autem alba et nigra quaeque, Laban: cetera vero, Iacob, separatis inter se gregibus.
 - **Philological Rationale:** [Variation unit spanning several words] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over in canalibus (Clem1598-USFX, Clem-Saints). [Addition / omission between witnesses] Adopted 'quæque' [Amiatinus (A)] (weight 0.97, confidence 53%) over om. (Clem1598-USFX, Clem-Saints). [Omission in some witnesses] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over quæque (Clem1598-USFX, Clem-Saints). Also normalised 8 orthographic/surface variation(s).
-- *confidence:* Verse confidence 15% = product of 3 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 41 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Igitur quando primo tempore ascendebantur oves, ponebat Jacob virgas in canalibus aquarum ante oculos arietum et ovium, ut in earum contemplatione conciperent:

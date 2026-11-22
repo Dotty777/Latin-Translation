@@ -1,6 +1,6 @@
 # 1 John 01 — Saints Latin Critical Text
 
-**Division:** `06_Discipleship` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:18:49Z`
+**Division:** `06_Discipleship` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:22Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,29 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Full 27-Book NT) | Tier 2 | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -49,14 +59,39 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
+### 1 John 1:1
+- **Apparatus:** `quod` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et** Amiatinus (A)
+- **Apparatus:** `contrectaverunt` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **temtauerunt** Amiatinus (A)
+
 ### 1 John 1:2
-- *Disregarded Surface Variant:* kept `(adopted text)` over `annuntiamus / annunciamus`, `annuntiamus / annunciamus`, `annuntiamus / annunciamus` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `annuntiamus / adnuntiamus`, `annuntiamus / adnuntiamus`, `annuntiamus / annunciamus`, `annuntiamus / annunciamus`, `annuntiamus / annunciamus` (Amiatinus (A), VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### 1 John 1:3
+- **Apparatus:** `annuntiamus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et adnuntiamus** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `annuntiamus / annunciamus`, `annuntiamus / annunciamus`, `annuntiamus / annunciamus` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
+### 1 John 1:4
+- **Apparatus:** `scribimus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scrisimus** Amiatinus (A)
+- **Apparatus:** `gaudeatis, et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `vestrum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **nostrum** Amiatinus (A)
+
 ### 1 John 1:5
-- *Disregarded Surface Variant:* kept `(adopted text)` over `annuntiatio, / annunciatio,`, `annuntiamus / annunciamus`, `annuntiatio, / annunciatio,`, `annuntiamus / annunciamus`, `annuntiatio, / annunciatio,`, `annuntiamus / annunciamus` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `annuntiatio, / adnuntiatio`, `annuntiamus / adnuntiamus`, `annuntiatio, / adnuntiatio`, `annuntiamus / adnuntiamus`, `annuntiatio, / annunciatio,`, `annuntiamus / annunciamus`, `annuntiatio, / annunciatio,`, `annuntiamus / annunciamus`, `annuntiatio, / annunciatio,`, `annuntiamus / annunciamus` (Amiatinus (A), VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### 1 John 1:6
+- **Apparatus:** `veritatem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ueritatem** Amiatinus (A)
+
+### 1 John 1:7
+- **Apparatus:** `emundat` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **mundat** Amiatinus (A)
+
+### 1 John 1:9
+- **Apparatus:** `est,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **est** Amiatinus (A)
+
+### 1 John 1:10
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **in nobis** Amiatinus (A)
+- **Apparatus:** `in nobis.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
 
 ---
 
@@ -67,6 +102,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostræ contrectaverunt de verbo vitæ:
   - `Clem-Saints`: Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostræ contrectaverunt de verbo vitæ:
   - `VulgHetzenauer (1906)`: Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostræ contrectaverunt de verbo vitæ:
+  - `Amiatinus (A)`: Quod fuit ab initio quod audiuimus et uidimus oculis nostris quod perspeximus et manus nostrae temtauerunt de uerbo uitae
   - `VulgConte (2009)`: Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostræ contrectaverunt de Verbo Vitæ:
   - `VulgSistina (1590)`: Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostrae contrectaverunt de verbo vitae:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -76,6 +112,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: et vita manifestata est, et vidimus, et testamur, et annuntiamus vobis vitam æternam, quæ erat apud Patrem, et apparuit nobis:
   - `Clem-Saints`: et vita manifestata est, et vidimus, et testamur, et annuntiamus vobis vitam æternam, quæ erat apud Patrem, et apparuit nobis:
   - `VulgHetzenauer (1906)`: et vita manifestata est, et vidimus, et testamur, et annunciamus vobis vitam æternam, quæ erat apud Patrem, et apparuit nobis:
+  - `Amiatinus (A)`: et uita manifestata est et uidimus et testamur et adnuntiamus uobis uitam aeternam quae erat apud patrem et apparuit nobis
   - `VulgConte (2009)`: et Vita manifestata est, et vidimus, et testamur, et annunciamus vobis Vitam æternam, quæ erat apud Patrem, et apparuit nobis:
   - `VulgSistina (1590)`: et vita manifestata est, et vidimus, et testamur, et annunciamus vobis vitam aeternam, quae erat apud Patrem, et apparuit nobis:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -85,6 +122,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: quod vidimus et audivimus, annuntiamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Patre, et cum Filio ejus Jesu Christo.
   - `Clem-Saints`: quod vidimus et audivimus, annuntiamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Patre, et cum Filio ejus Jesu Christo.
   - `VulgHetzenauer (1906)`: quod vidimus et audivimus, annunciamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Patre, et cum Filio eius Iesu Christo.
+  - `Amiatinus (A)`: Quod uidimus et audiuimus et adnuntiamus uobis ut et uos societatem habeatis nobiscum et societas nostra sit cum patre et cum filio eius iesu christo
   - `VulgConte (2009)`: Quod vidimus et audivimus, annunciamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Patre, et cum Filio eius Iesu Christo.
   - `VulgSistina (1590)`: quod vidimus et audivimus, annunciamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Patre, et cum Filio eius Iesu Christo.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -94,6 +132,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et hæc scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.
   - `Clem-Saints`: Et hæc scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.
   - `VulgHetzenauer (1906)`: Et hæc scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.
+  - `Amiatinus (A)`: et haec scrisimus uobis ut gaudium nostrum sit plenum
   - `VulgConte (2009)`: Et hæc scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.
   - `VulgSistina (1590)`: Et haec scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -103,6 +142,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et hæc est annuntiatio, quam audivimus ab eo, et annuntiamus vobis: quoniam Deus lux est, et tenebræ in eo non sunt ullæ.
   - `Clem-Saints`: Et hæc est annuntiatio, quam audivimus ab eo, et annuntiamus vobis: quoniam Deus lux est, et tenebræ in eo non sunt ullæ.
   - `VulgHetzenauer (1906)`: Et hæc est annunciatio, quam audivimus ab eo, et annunciamus vobis: Quoniam Deus lux est, et tenebræ in eo non sunt ullæ.
+  - `Amiatinus (A)`: et haec est adnuntiatio quam […] ab eo et adnuntiamus uobis quoniam deus lux est et tenebrae in eo non sunt ullae
   - `VulgConte (2009)`: Et hæc est annunciatio, quam audivimus ab eo, et annunciamus vobis: Quoniam Deus lux est, et tenebræ in eo non sunt ullæ.
   - `VulgSistina (1590)`: Et haec est annunciatio, quam audivimus ab eo, et annunciamus vobis: Quoniam Deus lux est, et tenebrae in eo non sunt ullae.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -112,6 +152,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Si dixerimus quoniam societatem habemus cum eo, et in tenebris ambulamus, mentimur, et veritatem non facimus.
   - `Clem-Saints`: Si dixerimus quoniam societatem habemus cum eo, et in tenebris ambulamus, mentimur, et veritatem non facimus.
   - `VulgHetzenauer (1906)`: Si dixerimus quoniam societatem habemus cum eo, et in tenebris ambulamus, mentimur, et veritatem non facimus.
+  - `Amiatinus (A)`: Si dixerimus quoniam societatem habemus cum eo et in tenebris ambulamus mentimur et non facimus ueritatem
   - `VulgConte (2009)`: Si dixerimus quoniam societatem habemus cum eo, et in tenebris ambulamus, mentimur, et veritatem non facimus.
   - `VulgSistina (1590)`: Si dixerimus quoniam societatem habemus cum eo, et in tenebris ambulamus, mentimur, et veritatem non facimus.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -121,6 +162,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Si autem in luce ambulamus sicut et ipse est in luce, societatem habemus ad invicem, et sanguis Jesu Christi, Filii ejus, emundat nos ab omni peccato.
   - `Clem-Saints`: Si autem in luce ambulamus sicut et ipse est in luce, societatem habemus ad invicem, et sanguis Jesu Christi, Filii ejus, emundat nos ab omni peccato.
   - `VulgHetzenauer (1906)`: Si autem in luce ambulamus sicut et ipse est in luce, societatem habemus ad invicem, et sanguis Iesu Christi, Filii eius, emundat nos ab omni peccato.
+  - `Amiatinus (A)`: si autem in luce ambulamus sicut et ipse est in luce societatem habemus ad inuicem et sanguis iesu christi filii eius mundat nos ab omni peccato
   - `VulgConte (2009)`: Si autem in luce ambulamus sicut et ipse est in luce, societatem habemus ad invicem, et sanguis Iesu Christi, Filii eius, emundat nos ab omni peccato.
   - `VulgSistina (1590)`: Si autem in luce ambulamus sicut et ipse est in luce, societatem habemus ad invicem, et sanguis Iesu Christi, Filii eius, emundat nos ab omni peccato.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -130,6 +172,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est.
   - `Clem-Saints`: Si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est.
   - `VulgHetzenauer (1906)`: Si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est.
+  - `Amiatinus (A)`: si dixerimus quoniam peccatum non habemus ipsi nos seducimus et ueritas in nobis non est
   - `VulgConte (2009)`: Si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est.
   - `VulgSistina (1590)`: Si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -139,6 +182,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Si confiteamur peccata nostra: fidelis est, et justus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate.
   - `Clem-Saints`: Si confiteamur peccata nostra: fidelis est, et justus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate.
   - `VulgHetzenauer (1906)`: Si confiteamur peccata nostra: fidelis est, et iustus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate.
+  - `Amiatinus (A)`: si confiteamur peccata nostra fidelis et iustus est ut remittat nobis peccata nostra et emundet nos ab omni iniquitate
   - `VulgConte (2009)`: Si confiteamur peccata nostra: fidelis est, et iustus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate.
   - `VulgSistina (1590)`: Si confiteamur peccata nostra: fidelis est, et iustus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -148,6 +192,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Si dixerimus quoniam non peccavimus, mendacem facimus eum, et verbum ejus non est in nobis.
   - `Clem-Saints`: Si dixerimus quoniam non peccavimus, mendacem facimus eum, et verbum ejus non est in nobis.
   - `VulgHetzenauer (1906)`: Si dixerimus quoniam non peccavimus: mendacem facimus eum, et verbum eius non est in nobis.
+  - `Amiatinus (A)`: si dixerimus quoniam non peccauimus mendacem facimus eum et uerbum eius in nobis non est
   - `VulgConte (2009)`: Si dixerimus quoniam non peccavimus: mendacem facimus eum, et verbum eius non est in nobis.
   - `VulgSistina (1590)`: Si dixerimus quoniam non peccavimus: mendacem facimus eum, et verbum eius non est in nobis.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

@@ -1,6 +1,6 @@
 # Psalms 129 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:24Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:48Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,29 +16,42 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ### Versification & Alignment Notes
 - Clem1598-USFX: 129:6 not collated (no verse of the reference matches its wording)
 - Clem1598-USFX: 1 verse(s) re-aligned by content (6←129:5)
 - VulgHetzenauer (1906): 129:6 not collated (no verse of the reference matches its wording)
 - VulgHetzenauer (1906): 1 verse(s) re-aligned by content (6←129:5)
+- Psalt-Pianum (1945): 129:4 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 129:6 not collated (wording does not match the reference verse)
 - VulgConte (2009): 129:6 not collated (no verse of the reference matches its wording)
 - VulgConte (2009): 1 verse(s) re-aligned by content (6←129:5)
 - VulgSistina (1590): 129:6 not collated (no verse of the reference matches its wording)
 - VulgSistina (1590): 1 verse(s) re-aligned by content (6←129:5)
+- Psalt-Pianum (1945): has verse(s) 5 that no voting edition prints here (an apparatus witness: not printed)
 
 ---
 
@@ -56,7 +69,23 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
-*No substantive or orthographic variants detected across admitted witnesses in this chapter.*
+### Psalms 129:1
+- **Apparatus:** `Canticum graduum.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `clamavi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **clamo** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Dómine, audi vocem meam!** Psalt-Pianum (1945)
+
+### Psalms 129:2
+- **Apparatus:** `Domine, exaudi vocem meam.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `intendentes in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **inténtæ ad** Psalt-Pianum (1945)
+- **Apparatus:** `deprecationis` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **obsecratiónis** Psalt-Pianum (1945)
+
+### Psalms 129:3
+- **Apparatus:** `iniquitates observaveris,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **delictórum memóriam serváveris,** Psalt-Pianum (1945)
+- **Apparatus:** `observaveris,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **memóriam serváveris,** Psalt-Pianum (1945)
+
+### Psalms 129:7
+- **Apparatus:** `Quia apud` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Qui penes** Psalt-Pianum (1945)
+- **Apparatus:** `apud` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **penes** Psalt-Pianum (1945)
 
 ---
 
@@ -67,6 +96,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Canticum graduum. De profundis clamavi ad te, Domine;
   - `Clem-Saints`: Canticum graduum. De profundis clamavi ad te, Domine;
   - `VulgHetzenauer (1906)`: Canticum graduum. De profundis clamavi ad te Domine:
+  - `Psalt-Pianum (1945)`: De profúndis clamo ad te, Dómine, Dómine, audi vocem meam!
   - `VulgConte (2009)`: Canticum graduum. De profundis clamavi ad te Domine:
   - `VulgSistina (1590)`: Canticum graduum. De profundis clamavi ad te Domine:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -76,6 +106,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Domine, exaudi vocem meam. Fiant aures tuæ intendentes in vocem deprecationis meæ.
   - `Clem-Saints`: Domine, exaudi vocem meam. Fiant aures tuæ intendentes in vocem deprecationis meæ.
   - `VulgHetzenauer (1906)`: Domine exaudi vocem meam: Fiant aures tuæ intendentes, in vocem deprecationis meæ.
+  - `Psalt-Pianum (1945)`: Fiant aures tuæ inténtæ ad vocem obsecratiónis meæ.
   - `VulgConte (2009)`: Domine exaudi vocem meam: Fiant aures tuæ intendentes, in vocem deprecationis meæ.
   - `VulgSistina (1590)`: Domine exaudi vocem meam: Fiant aures tuae intendentes, in vocem deprecationis meae.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -85,6 +116,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Si iniquitates observaveris, Domine, Domine, quis sustinebit?
   - `Clem-Saints`: Si iniquitates observaveris, Domine, Domine, quis sustinebit?
   - `VulgHetzenauer (1906)`: Si iniquitates observaveris Domine: Domine quis sustinebit?
+  - `Psalt-Pianum (1945)`: Si delictórum memóriam serváveris, Dómine, Dómine, quis sustinébit?
   - `VulgConte (2009)`: Si iniquitates observaveris Domine: Domine quis sustinebit?
   - `VulgSistina (1590)`: Si iniquitates observaveris Domine: Domine quis sustinebit?
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -112,6 +144,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Quia apud Dominum misericordia, et copiosa apud eum redemptio.
   - `Clem-Saints`: Quia apud Dominum misericordia, et copiosa apud eum redemptio.
   - `VulgHetzenauer (1906)`: Quia apud Dominum misericordia: et copiosa apud eum redemptio.
+  - `Psalt-Pianum (1945)`: Qui penes Dóminum misericórdia et copiósa penes eum redémptio:
   - `VulgConte (2009)`: Quia apud Dominum misericordia: et copiosa apud eum redemptio.
   - `VulgSistina (1590)`: Quia apud Dominum misericordia: et copiosa apud eum redemptio.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -121,6 +154,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et ipse redimet Israël ex omnibus iniquitatibus ejus.
   - `Clem-Saints`: Et ipse redimet Israël ex omnibus iniquitatibus ejus.
   - `VulgHetzenauer (1906)`: Et ipse redimet Israel, ex omnibus iniquitatibus eius.
+  - `Psalt-Pianum (1945)`: Et ipse rédimet Israël ex ómnibus iniquitátibus ejus.
   - `VulgConte (2009)`: Et ipse redimet Israel, ex omnibus iniquitatibus eius.
   - `VulgSistina (1590)`: Et ipse redimet Israel, ex omnibus iniquitatibus eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

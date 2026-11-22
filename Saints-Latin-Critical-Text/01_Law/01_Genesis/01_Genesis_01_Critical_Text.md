@@ -1,6 +1,6 @@
 # Genesis 01 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:16:02Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:32Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -15,9 +15,9 @@
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
-| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -29,7 +29,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -55,7 +64,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **18** et præessent diei ac nocti, et dividerent lucem ac tenebras. Et vidit Deus quod esset bonum.
 **19** Et factum est vespere et mane, dies quartus.
 **20** Dixit etiam Deus: Producant aquæ reptile animæ viventis, et volatile super terram sub firmamento cæli.
-**21** Creavitque Deus coeta grandia, et omnem animam viventem atque mutabilem, quam produxerant aquæ in species suas, et omne volatile secundum genus suum. Et vidit Deus quod esset bonum.
+**21** Creavitque Deus cœta grandia, et omnem animam viventem atque mutabilem, quam produxerant aquæ in species suas, et omne volatile secundum genus suum. Et vidit Deus quod esset bonum.
 **22** Benedixitque eis, dicens: Crescite, et multiplicamini, et replete aquas maris: avesque multiplicentur super terram.
 **23** Et factum est vespere et mane, dies quintus.
 **24** Dixit quoque Deus: Producat terra animam viventem in genere suo, jumenta, et reptilia, et bestias terræ secundum species suas. Factumque est ita.
@@ -63,7 +72,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **26** et ait: Faciamus hominem ad imaginem et similitudinem nostram: et præsit piscibus maris, et volatilibus cæli, et bestiis, universæque terræ, omnique reptili, quod movetur in terra.
 **27** Et creavit Deus hominem ad imaginem suam: ad imaginem Dei creavit illum, masculum et feminam creavit eos.
 **28** Benedixitque illis Deus, et ait: Crescite et multiplicamini, et replete terram, et subjicite eam, et dominamini piscibus maris, et volatilibus cæli, et universis animantibus, quæ moventur super terram.
-**29** Dixitque Deus: Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quæ habent in semet sementem generis sui, ut sint vobis in escam:
+**29** Dixitque Deus: Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quæ habent in semetipsis sementem generis sui, ut sint vobis in escam:
 **30** et cunctis animantibus terræ, omnique volucri cæli, et universis quæ moventur in terra, et in quibus est anima vivens, ut habeant ad vescendum. Et factum est ita.
 **31** Viditque Deus cuncta quæ fecit, et erant valde bona. Et factum est vespere et mane, dies sextus.
 
@@ -229,7 +238,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ita.` over `ita` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 1:16
-- **Apparatus:** `magna luminaria` Amiatinus (A) **]** **luminaria magna** Clem1598-USFX Clem-Saints ; **magna:** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `magna luminaria` Amiatinus (A) **]** **luminaria magna** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Fecitque` over `fecitque` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -273,7 +282,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `cæli.` over `caeli` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 1:21
-- **Apparatus:** `coeta` Amiatinus (A) **]** **cete** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
+- **Apparatus:** `cœta` Amiatinus (A) **]** **cete** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `mutabilem` Amiatinus (A) **]** **motabilem** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
@@ -380,9 +389,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `terram.` over `terram` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 1:29
-- **Apparatus:** `semet` Amiatinus (A) **]** **semetipsis** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(inflection or spelling (same stem))*
-  - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
-  - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Dixitque` over `dixitque` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `Deus:` over `deus` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `Ecce` over `ecce` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -390,6 +396,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `terram,` over `terram` (Amiatinus (A)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `universa` over `uniuersa` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `quæ` over `quae` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
+- *Disregarded Surface Variant:* kept `semetipsis` over `semet ipsis` (Amiatinus (A)) — *Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `sui,` over `sui` (Amiatinus (A)) — *Punctuation / spacing difference only*
 - *Disregarded Surface Variant:* kept `vobis` over `uobis` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `escam:` over `escam` (Amiatinus (A)) — *Punctuation / spacing difference only*
@@ -632,14 +639,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 7 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)).
 
 ### Verse 21 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Creavitque Deus coeta grandia, et omnem animam viventem atque mutabilem, quam produxerant aquæ in species suas, et omne volatile secundum genus suum. Et vidit Deus quod esset bonum.
+- **Critical Text:** Creavitque Deus cœta grandia, et omnem animam viventem atque mutabilem, quam produxerant aquæ in species suas, et omne volatile secundum genus suum. Et vidit Deus quod esset bonum.
   - `Clem1598-USFX`: Creavitque Deus cete grandia, et omnem animam viventem atque motabilem, quam produxerant aquæ in species suas, et omne volatile secundum genus suum. Et vidit Deus quod esset bonum.
   - `Clem-Saints`: Creavitque Deus cete grandia, et omnem animam viventem atque motabilem, quam produxerant aquæ in species suas, et omne volatile secundum genus suum. Et vidit Deus quod esset bonum.
   - `Amiatinus (A)`: creauitque deus coeta grandia et omnem animam uiuentem atque mutabilem quam produxerant aquae in species suas et omne uolatile secundum genus suum et uidit deus quod esset bonum
   - `VulgHetzenauer (1906)`: Creavitque Deus Cete grandia, et omnem animam viventem atque motabilem, quam produxerant aquæ in species suas, et omne volatile secundum genus suum. Et vidit Deus quod esset bonum.
   - `VulgConte (2009)`: Creavitque Deus cete grandia, et omnem animam viventem atque motabilem, quam produxerant aquæ in species suas, et omne volatile secundum genus suum. Et vidit Deus quod esset bonum.
   - `VulgSistina (1590)`: Creavitque Deus Cete grandia, et omnem animam viventem atque motabilem, quam produxerant aquae in species suas, et omne volatile secundum genus suum. Et vidit Deus quod esset bonum.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'coeta' [Amiatinus (A)] (weight 0.97, confidence 53%) over cete (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'mutabilem' [Amiatinus (A)] (weight 0.97, confidence 53%) over motabilem (Clem1598-USFX, Clem-Saints). Also normalised 12 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'cœta' [Amiatinus (A)] (weight 0.97, confidence 53%) over cete (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'mutabilem' [Amiatinus (A)] (weight 0.97, confidence 53%) over motabilem (Clem1598-USFX, Clem-Saints). Also normalised 12 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -712,16 +719,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgSistina (1590)`: Benedixitque illis Deus, et ait: Crescite et multiplicamini, et replete terram, et subiicite eam, et dominamini piscibus maris, et volatilibus caeli, et universis animantibus, quae moventur super terram.
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 16 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type); Punctuation / spacing difference only).
 
-### Verse 29 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Dixitque Deus: Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quæ habent in semet sementem generis sui, ut sint vobis in escam:
+### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Dixitque Deus: Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quæ habent in semetipsis sementem generis sui, ut sint vobis in escam:
   - `Clem1598-USFX`: Dixitque Deus: Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quæ habent in semetipsis sementem generis sui, ut sint vobis in escam:
   - `Clem-Saints`: Dixitque Deus: Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quæ habent in semetipsis sementem generis sui, ut sint vobis in escam:
   - `Amiatinus (A)`: dixitque deus ecce dedi uobis omnem herbam afferentem semen super terram et uniuersa ligna quae habent in semet ipsis […] generis sui ut sint uobis in escam
   - `VulgHetzenauer (1906)`: Dixitque Deus: Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quæ habent in semetipsis sementem generis sui, ut sint vobis in escam:
   - `VulgConte (2009)`: Dixitque Deus: Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quæ habent in semetipsis sementem generis sui, ut sint vobis in escam:
   - `VulgSistina (1590)`: Dixitque Deus: Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quae habent in semetipsis sementem generis sui, ut sint vobis in escam:
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'semet' [Amiatinus (A)] (weight 0.97, confidence 53%) over semetipsis (Clem1598-USFX, Clem-Saints). Also normalised 10 orthographic/surface variation(s).
-- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 11 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only; Word division differs (same letters written as one word or two)).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et cunctis animantibus terræ, omnique volucri cæli, et universis quæ moventur in terra, et in quibus est anima vivens, ut habeant ad vescendum. Et factum est ita.

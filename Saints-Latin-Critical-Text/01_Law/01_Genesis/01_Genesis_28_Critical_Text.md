@@ -1,6 +1,6 @@
 # Genesis 28 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:16:07Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:33Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -15,9 +15,9 @@
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
-| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -29,7 +29,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -43,7 +52,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **6** Videns autem Esau quod benedixisset pater suus Jacob, et misisset eum in Mesopotamiam Syriæ, ut inde uxorem duceret; et quod post benedictionem præcepisset ei, dicens: Non accipies coniugem de filiabus Chanaan:
 **7** quodque obediens Jacob parentibus isset in Syriam:
 **8** probans quoque quod non libenter aspiceret filias Chanaan pater suus:
-**9** ivit ad Ismaëlem, et duxit uxorem absque iis, quas prius habebat, Maelech filiam Ismaël filii Abraham, sororem Nabaioth.
+**9** ivit ad Ismaëlem, et duxit uxorem absque iis, quas prius habebat, Mælech filiam Ismaël filii Abraham, sororem Nabaioth.
 **10** Igitur egressus Jacob de Bersabee, pergebat Haran.
 **11** Cumque venisset ad quemdam locum, et vellet in eo requiescere post solis occubitum, tulit de lapidibus qui jacebant, et supponens capiti suo, dormivit in eodem loco.
 **12** Viditque in somnis scalam stantem super terram, et cacumen illius tangens cælum: angelos quoque Dei ascendentes et descendentes per eam,
@@ -51,7 +60,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **14** Eritque germen tuum quasi pulvis terræ: dilataberis ad occidentem, et orientem, septentrionem, et meridiem: et benedicentur in te et in semine tuo cunctæ tribus terræ.
 **15** Et ero custos tuus quocumque perrexeris, et reducam te in terram hanc: nec dimittam nisi complevero universa quæ dixi.
 **16** Cumque evigilasset Jacob de somno, ait: Vere Dominus est in loco isto, et ego nesciebam.
-**17** Pavensque, Quam terribilis inquit est, locus iste! non est hic aliud nisi domus Dei, et portae cæli.
+**17** Pavensque, Quam terribilis inquit est, locus iste! non est hic aliud nisi domus Dei, et portæ cæli.
 **18** Surgens ergo mane, tulit lapidem quem supposuerat capiti suo, et erexit in titulum, fundens oleum desuper.
 **19** Appellavitque nomen urbis Bethel, quæ prius Luza vocabatur.
 **20** Vovit etiam votum, dicens: Si fuerit Deus mecum, et custodierit me in via, per quam ambulo, et dederit mihi panem ad vescendum, et vestem ad induendum,
@@ -147,7 +156,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `suus:` over `suus` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 28:9
-- **Apparatus:** `Maelech` Amiatinus (A) **]** **Maheleth** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
+- **Apparatus:** `Mælech` Amiatinus (A) **]** **Maheleth** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `ivit` over `iuit` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -203,7 +212,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `om.` Amiatinus (A) Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Orientem, et** VulgSistina (1590)
-- **Apparatus:** `orientem,` Amiatinus (A) Clem-Saints Clem1598-USFX **]** **om.** VulgSistina (1590) ; **Orientem, et** VulgConte (2009) VulgHetzenauer (1906)
 - **Apparatus:** `om.` Amiatinus (A) VulgSistina (1590) **]** **et** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) *(omission / addition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
@@ -239,10 +247,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `nesciebam.` over `nesciebam` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 28:17
-- **Apparatus:** `inquit est` Amiatinus (A) **]** **est inquit** Clem1598-USFX Clem-Saints ; **inquit,** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
+- **Apparatus:** `inquit est` Amiatinus (A) **]** **est inquit** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(word-order transposition)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
-- **Apparatus:** `portae` Amiatinus (A) **]** **porta** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(inflection or spelling (same stem))*
+- **Apparatus:** `portæ` Amiatinus (A) **]** **porta** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Pavensque,` over `pauensque` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -393,14 +401,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 2 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
 ### Verse 9 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** ivit ad Ismaëlem, et duxit uxorem absque iis, quas prius habebat, Maelech filiam Ismaël filii Abraham, sororem Nabaioth.
+- **Critical Text:** ivit ad Ismaëlem, et duxit uxorem absque iis, quas prius habebat, Mælech filiam Ismaël filii Abraham, sororem Nabaioth.
   - `Clem1598-USFX`: ivit ad Ismaëlem, et duxit uxorem absque iis, quas prius habebat, Maheleth filiam Ismaël filii Abraham, sororem Nabaioth.
   - `Clem-Saints`: ivit ad Ismaëlem, et duxit uxorem absque iis, quas prius habebat, Maheleth filiam Ismaël filii Abraham, sororem Nabaioth.
   - `Amiatinus (A)`: iuit ad ismahelem et duxit uxorem absque his quas prius habebat maelech filiam ismahel filii abraham sororem nabaioth
   - `VulgHetzenauer (1906)`: ivit ad Ismaelem, et duxit uxorem absque iis, quas prius habebat, Maheleth filiam Ismael filii Abraham, sororem Nabaioth.
   - `VulgConte (2009)`: ivit ad Ismaelem, et duxit uxorem absque iis, quas prius habebat, Maheleth filiam Ismael filii Abraham, sororem Nabaioth.
   - `VulgSistina (1590)`: ivit ad Ismaelem, et duxit uxorem absque iis, quas prius habebat, Maheleth filiam Ismael filii Abraham, sororem Nabaioth.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Maelech' [Amiatinus (A)] (weight 0.97, confidence 53%) over Maheleth (Clem1598-USFX, Clem-Saints). Also normalised 7 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Mælech' [Amiatinus (A)] (weight 0.97, confidence 53%) over Maheleth (Clem1598-USFX, Clem-Saints). Also normalised 7 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -475,14 +483,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 9 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
 ### Verse 17 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Pavensque, Quam terribilis inquit est, locus iste! non est hic aliud nisi domus Dei, et portae cæli.
+- **Critical Text:** Pavensque, Quam terribilis inquit est, locus iste! non est hic aliud nisi domus Dei, et portæ cæli.
   - `Clem1598-USFX`: Pavensque, Quam terribilis est, inquit, locus iste! non est hic aliud nisi domus Dei, et porta cæli.
   - `Clem-Saints`: Pavensque, Quam terribilis est, inquit, locus iste! non est hic aliud nisi domus Dei, et porta cæli.
   - `Amiatinus (A)`: pauensque quam terribilis inquit est locus iste non est hic aliud nisi domus dei et portae caeli
   - `VulgHetzenauer (1906)`: Pavensque: Quam terribilis est, inquit, locus iste! non est hic aliud nisi domus Dei, et porta cæli.
   - `VulgConte (2009)`: Pavensque: Quam terribilis est, inquit, locus iste! non est hic aliud nisi domus Dei, et porta cæli.
   - `VulgSistina (1590)`: Pavensque: Quam terribilis est, inquit, locus iste! non est hic aliud nisi domus Dei, et porta caeli.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'inquit est' [Amiatinus (A)] (weight 0.97, confidence 53%) over est inquit (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'portae' [Amiatinus (A)] (weight 0.97, confidence 53%) over porta (Clem1598-USFX, Clem-Saints). Also normalised 5 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'inquit est' [Amiatinus (A)] (weight 0.97, confidence 53%) over est inquit (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'portæ' [Amiatinus (A)] (weight 0.97, confidence 53%) over porta (Clem1598-USFX, Clem-Saints). Also normalised 5 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 18 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)

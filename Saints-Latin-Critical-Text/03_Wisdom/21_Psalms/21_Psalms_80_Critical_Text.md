@@ -1,6 +1,6 @@
 # Psalms 80 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:20Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:47Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,40 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+
+### Versification & Alignment Notes
+- Psalt-Pianum (1945): 80:3 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 80:6 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 80:7 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 80:15 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 80:2 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 80:5 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 80:11 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 80:14 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 5 verse(s) re-aligned by content (2←80:1, 5←80:4, 11←80:9, 12←80:10, 14←80:12)
 
 ---
 
@@ -58,13 +79,45 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Psalms 80:1
 - **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Psalmus Asaph,** VulgSistina (1590)
+- **Apparatus:** `Psalmus ipsi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **quinta sabbati.** VulgSistina (1590)
 - **Apparatus:** `Psalmus ipsi Asaph.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **quinta sabbati.** VulgSistina (1590)
 
 ### Psalms 80:2
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Exsultate / Exultate`, `Exsultate / Exultate`, `Exsultate / Exultate` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- **Apparatus:** `jubilate` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **acclamáte** Psalt-Pianum (1945)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Exsultate / exultate`, `Exsultate / Exultate`, `Exsultate / Exultate`, `Exsultate / Exultate` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Psalms 80:4
-- *Disregarded Surface Variant:* kept `(adopted text)` over `solemnitatis / sollemnitatis` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Buccinate / bucinate`, `solemnitatis / sollemnitatis` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Psalms 80:5
+- **Apparatus:** `præceptum in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **institútum** Psalt-Pianum (1945)
+- **Apparatus:** `in Israël` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Israhel** Psalt-Pianum (1945)
+- **Apparatus:** `et judicium Deo` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **præcéptum Dei** Psalt-Pianum (1945)
+- **Apparatus:** `Deo` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 80:8
+- **Apparatus:** `In tribulatione invocasti` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Audi, pópule meus, et monébo te: Israël, útinam áudias** Psalt-Pianum (1945)
+- **Apparatus:** `et liberavi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Non erit apud** Psalt-Pianum (1945)
+- **Apparatus:** `Exaudivi te in abscondito tempestatis; probavi te apud aquam contradictionis.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **deus aliénus, neque adorábis deum peregrínum:** Psalt-Pianum (1945)
+
+### Psalms 80:11
+- **Apparatus:** `enim` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 80:12
+- **Apparatus:** `Et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Sed** Psalt-Pianum (1945)
+- **Apparatus:** `intendit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **obtemperávit** Psalt-Pianum (1945)
+
+### Psalms 80:13
+- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Conféstim deprímerem inimícos eórum,** Psalt-Pianum (1945)
+- **Apparatus:** `dimisi eos secundum desideria cordis` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **contra adversários** Psalt-Pianum (1945)
+- **Apparatus:** `eos` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **adversários** Psalt-Pianum (1945)
+- **Apparatus:** `ibunt in adinventionibus suis.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **vérterem manum meam;** Psalt-Pianum (1945)
+
+### Psalms 80:14
+- **Apparatus:** `Si` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Utinam** Psalt-Pianum (1945)
+- **Apparatus:** `audisset` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **audíret** Psalt-Pianum (1945)
+- **Apparatus:** `si` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ambuláret** Psalt-Pianum (1945)
+- **Apparatus:** `ambulasset,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
 
 ---
 
@@ -84,6 +137,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Exsultate Deo adjutori nostro; jubilate Deo Jacob.
   - `Clem-Saints`: Exsultate Deo adjutori nostro; jubilate Deo Jacob.
   - `VulgHetzenauer (1906)`: Exultate Deo adiutori nostro: iubilate Deo Iacob.
+  - `Psalt-Pianum (1945)` *(numbered 80:1 in this witness)*: Exsultáte Deo adjutóri nostro, acclamáte Deo Jacob.
   - `VulgConte (2009)`: Exultate Deo adiutori nostro: iubilate Deo Iacob.
   - `VulgSistina (1590)`: Exultate Deo adiutori nostro: iubilate Deo Iacob.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -111,6 +165,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: quia præceptum in Israël est, et judicium Deo Jacob.
   - `Clem-Saints`: quia præceptum in Israël est, et judicium Deo Jacob.
   - `VulgHetzenauer (1906)`: Quia præceptum in Israel est: et iudicium Deo Iacob.
+  - `Psalt-Pianum (1945)` *(numbered 80:4 in this witness)*: Quia institútum Israël est, præcéptum Dei Jacob.
   - `VulgConte (2009)`: Quia præceptum in Israel est: et iudicium Deo Iacob.
   - `VulgSistina (1590)`: Quia praeceptum in Israel est: et iudicium Deo Iacob.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -138,6 +193,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: In tribulatione invocasti me, et liberavi te. Exaudivi te in abscondito tempestatis; probavi te apud aquam contradictionis.
   - `Clem-Saints`: In tribulatione invocasti me, et liberavi te. Exaudivi te in abscondito tempestatis; probavi te apud aquam contradictionis.
   - `VulgHetzenauer (1906)`: In tribulatione invocasti me, et liberavi te: exaudivi te in abscondito tempestatis: probavi te apud aquam contradictionis.
+  - `Psalt-Pianum (1945)`: Audi, pópule meus, et monébo te: Israël, útinam áudias me! Non erit apud te deus aliénus, neque adorábis deum peregrínum:
   - `VulgConte (2009)`: In tribulatione invocasti me, et liberavi te: exaudivi te in abscondito tempestatis: probavi te apud aquam contradictionis.
   - `VulgSistina (1590)`: In tribulatione invocasti me, et liberavi te: exaudivi te in abscondito tempestatis: probavi te apud aquam contradictionis.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -165,6 +221,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Ego enim sum Dominus Deus tuus, qui eduxi te de terra Ægypti. Dilata os tuum, et implebo illud.
   - `Clem-Saints`: Ego enim sum Dominus Deus tuus, qui eduxi te de terra Ægypti. Dilata os tuum, et implebo illud.
   - `VulgHetzenauer (1906)`: Ego enim sum Dominus Deus tuus, qui eduxi te de terra Ægypti: dilata os tuum, et implebo illud.
+  - `Psalt-Pianum (1945)` *(numbered 80:9 in this witness)*: Ego sum Dóminus, Deus tuus, qui edúxi te de terra Ægýpti: diláta os tuum, et implébo illud.
   - `VulgConte (2009)`: Ego enim sum Dominus Deus tuus, qui eduxi te de terra Ægypti: dilata os tuum, et implebo illud.
   - `VulgSistina (1590)`: Ego enim sum Dominus Deus tuus, qui eduxi te de terra Aegypti: dilata os tuum, et implebo illud.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -174,6 +231,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et non audivit populus meus vocem meam, et Israël non intendit mihi.
   - `Clem-Saints`: Et non audivit populus meus vocem meam, et Israël non intendit mihi.
   - `VulgHetzenauer (1906)`: Et non audivit populus meus vocem meam: et Israel non intendit mihi.
+  - `Psalt-Pianum (1945)` *(numbered 80:10 in this witness)*: Sed non audívit pópulus meus vocem meam, et Israël non obtemperávit mihi.
   - `VulgConte (2009)`: Et non audivit populus meus vocem meam: et Israel non intendit mihi.
   - `VulgSistina (1590)`: Et non audivit populus meus vocem meam: et Israel non intendit mihi.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -183,6 +241,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Et dimisi eos secundum desideria cordis eorum; ibunt in adinventionibus suis.
   - `Clem-Saints`: Et dimisi eos secundum desideria cordis eorum; ibunt in adinventionibus suis.
   - `VulgHetzenauer (1906)`: Et dimisi eos secundum desideria cordis eorum, ibunt in adinventionibus suis.
+  - `Psalt-Pianum (1945)`: Conféstim deprímerem inimícos eórum, et contra adversários eórum, vérterem manum meam;
   - `VulgConte (2009)`: Et dimisi eos secundum desideria cordis eorum, ibunt in adinventionibus suis.
   - `VulgSistina (1590)`: Et dimisi eos secundum desideria cordis eorum, ibunt in adinventionibus suis.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -192,6 +251,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Si populus meus audisset me, Israël si in viis meis ambulasset,
   - `Clem-Saints`: Si populus meus audisset me, Israël si in viis meis ambulasset,
   - `VulgHetzenauer (1906)`: Si populus meus audisset me: Israel si in viis meis ambulasset:
+  - `Psalt-Pianum (1945)` *(numbered 80:12 in this witness)*: Utinam pópulus meus audíret me, Israël ambuláret in viis meis:
   - `VulgConte (2009)`: Si populus meus audisset me: Israel si in viis meis ambulasset:
   - `VulgSistina (1590)`: Si populus meus audisset me: Israel si in viis meis ambulasset:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).

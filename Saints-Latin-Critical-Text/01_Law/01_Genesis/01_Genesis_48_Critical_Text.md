@@ -1,6 +1,6 @@
 # Genesis 48 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:16:10Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:33Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -15,9 +15,9 @@
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
-| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis only) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
+| **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Genesis) | Tier 2 | `0.97` | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
@@ -29,7 +29,16 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
 
 ---
 
@@ -41,19 +50,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **4** et ait: Ego te augebo et multiplicabo, et faciam in turmas populorum: daboque tibi terram hanc, et semini tuo post te in possessionem sempiternam.
 **5** Duo igitur filii tui, qui nati sunt tibi in terra Ægypti antequam huc venirem ad te, mei erunt: Ephraim et Manasses, sicut Ruben et Simeon reputabuntur mihi.
 **6** Reliquos autem quos genueris post eos, tui erunt, et nomine fratrum suorum vocabuntur in possessionibus suis.
-**7** Mihi enim, quando veniebam de Mesopotamiam, mortua est Rachel in terra Chanaan in ipso itinere, eratque vernum tempus: et ingrediebar Ephratam, et sepelivi eam juxta viam Eufratae, quæ alio nomine appellatur Bethlem.
+**7** Mihi enim, quando veniebam de Mesopotamiam, mortua est Rachel in terra Chanaan in ipso itinere, eratque vernum tempus: et ingrediebar Ephratam, et sepelivi eam juxta viam Eufratæ, quæ alio nomine appellatur Bethlem.
 **8** Videns autem filios ejus dixit ad eum: Qui sunt isti?
 **9** Respondit: Filii mei sunt, quos dedit mihi Deus in hoc loco. Adduc, inquit, eos ad me, ut benedicam illis.
 **10** Oculi enim Israël calignaverant præ nimia senectute, et clare videre non poterat. Adplicatosque ad se, deosculatus et circumplexus
 **11** dixit ad filium Non sum fraudatus aspectui tuo: insuper ostendit mihi Deus semen tuum.
 **12** Cumque tulisset eos Joseph de gremio patris, adoravit pronus in terram.
 **13** Et posuit Ephraim ad dexteram suam, id est, ad sinistram Israël: Manasse vero in sinistra sua, ad dexteram scilicet patris, adplicavitque ambos ad eum.
-**14** Qui extendens manum dextram, posuit super caput Ephraim iunioris fratris: sinistram autem super caput Manasse qui major natu erat, commutans manus.
+**14** Qui extendens manum dextram, posuit super caput Ephraim junioris fratris: sinistram autem super caput Manasse qui major natu erat, commutans manus.
 **15** Benedixitque filio suo Joseph, et ait: Deus, in cujus conspectu ambulaverunt patres mei Abraham, et Isaac; Deus qui pascit me ab adolescentia mea usque in præsentem diem:
 **16** angelus, qui eruit me de cunctis malis, benedicat pueris istis: et invocetur nomen meum super eos nomina quoque patrum meorum Abraham et Isaac, et crescant in multitudinem super terram.
 **17** Videns autem Joseph quod posuisset pater suus dexteram manum super caput Ephraim, graviter accepit: et apprehensam patris manum levare conatus est de capite Ephraim, et transferre super caput Manasse.
 **18** Dixitque ad patrem: Non ita convenit, pater: quia hic est primogenitus, pone dexteram tuam super caput ejus.
-**19** Qui renuens, ait: Scio, fili mi, scio: et iste quidem erit in populos, et multiplicabitur: sed frater ejus iunior major illo erit: et semen illius crescet in gentes.
+**19** Qui renuens, ait: Scio, fili mi, scio: et iste quidem erit in populos, et multiplicabitur: sed frater ejus junior major illo erit: et semen illius crescet in gentes.
 **20** Benedixitque eis in ipso tempore, dicens: In te benedicetur Israël, atque dicetur: Faciat tibi Deus sicut Ephraim, et sicut Manasse. Constituitque Ephraim ante Manassen.
 **21** Et ait ad Joseph filium suum: En ego morior, et erit Deus vobiscum, reducetque vos ad terram patrum vestrorum.
 **22** Do tibi partem unam extra fratres tuos, quam tuli de manu Amorrhæi in gladio et arcu meo.
@@ -75,7 +84,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `Manasse` over `manasse` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `Ephraim,` over `ephraim` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 - *Disregarded Surface Variant:* kept `perrexit.` over `perrexit` (Amiatinus (A)) — *Punctuation / spacing difference only*
-- *Disregarded Surface Variant:* kept `(adopted text)` over `nuntiatum / nunciatum`, `nuntiatum / nunciatum`, `nuntiatum / nunciatum` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `assumptis / adsumptis`, `nuntiatum / nunciatum`, `nuntiatum / nunciatum`, `nuntiatum / nunciatum` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Genesis 48:2
 - *Disregarded Surface Variant:* kept `Dictumque` over `dictumque` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -98,7 +107,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `mihi,` over `mihi` (Amiatinus (A)) — *Punctuation / spacing difference only*
 
 ### Genesis 48:4
-- **Apparatus:** `in turmas` Amiatinus (A) **]** **te in turbas** Clem1598-USFX Clem-Saints ; **in turbas** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
+- **Apparatus:** `in turmas` Amiatinus (A) **]** **te in turbas** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `ait:` over `ait` (Amiatinus (A)) — *Punctuation / spacing difference only*
@@ -135,7 +144,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `Mesopotamiam` Amiatinus (A) **]** **Mesopotamia** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
-- **Apparatus:** `Eufratae` Amiatinus (A) **]** **Ephratæ** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
+- **Apparatus:** `Eufratæ` Amiatinus (A) **]** **Ephratæ** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - **Apparatus:** `Bethlem` Amiatinus (A) **]** **Bethlehem** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(proper-name spelling)*
@@ -232,7 +241,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Apparatus:** `dextram` Amiatinus (A) **]** **dexteram** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(inflection or spelling (same stem))*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
-- **Apparatus:** `iunioris` Amiatinus (A) **]** **minoris** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
+- **Apparatus:** `junioris` Amiatinus (A) **]** **minoris** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(lexical substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Qui` over `qui` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -262,12 +271,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ### Genesis 48:16
 - **Apparatus:** `nomen meum` Amiatinus (A) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem1598-USFX Clem-Saints *(word-order transposition)*
-  - *variant type: transposition:* Units 'nomen meum' and 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'nomen meum', 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
-- **Apparatus:** `super eos` Amiatinus (A) Clem-Saints Clem1598-USFX **]** **om.** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590)
 - **Apparatus:** `om.` Amiatinus (A) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **nomen meum** Clem1598-USFX Clem-Saints *(word-order transposition)*
-  - *variant type: transposition:* Units 'nomen meum' and 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
+  - *variant type: transposition:* Units 'nomen meum', 'om.' together form one word-order variant (Clem-Saints, Clem1598-USFX transpose).
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `angelus,` over `angelus` (Amiatinus (A)) — *Punctuation / spacing difference only*
@@ -301,7 +309,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `ejus.` over `eius` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
 
 ### Genesis 48:19
-- **Apparatus:** `iunior major illo erit` Amiatinus (A) **]** **minor major erit illo** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
+- **Apparatus:** `junior major illo erit` Amiatinus (A) **]** **minor major erit illo** Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) *(partial substitution)*
   - *external: independent streams:* Adopted reading: early Vulgate manuscript (Amiatinus); other reading(s): Clementine Vulgate.
   - *external: two-stream policy:* Policy decision: one early Vulgate manuscript (Amiatinus) against the Clementine edition, with no third Hieronymian witness. Amiatinus, the oldest complete Vulgate, is followed; check against a critical Vulgate.
 - *Disregarded Surface Variant:* kept `Qui` over `qui` (Amiatinus (A)) — *Latin orthographic convention (u/v, i/j, æ/ae, capitalisation)*
@@ -415,14 +423,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 5 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
 ### Verse 7 (Confidence: `14.8%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Mihi enim, quando veniebam de Mesopotamiam, mortua est Rachel in terra Chanaan in ipso itinere, eratque vernum tempus: et ingrediebar Ephratam, et sepelivi eam juxta viam Eufratae, quæ alio nomine appellatur Bethlem.
+- **Critical Text:** Mihi enim, quando veniebam de Mesopotamiam, mortua est Rachel in terra Chanaan in ipso itinere, eratque vernum tempus: et ingrediebar Ephratam, et sepelivi eam juxta viam Eufratæ, quæ alio nomine appellatur Bethlem.
   - `Clem1598-USFX`: Mihi enim, quando veniebam de Mesopotamia, mortua est Rachel in terra Chanaan in ipso itinere, eratque vernum tempus: et ingrediebar Ephratam, et sepelivi eam juxta viam Ephratæ, quæ alio nomine appellatur Bethlehem.
   - `Clem-Saints`: Mihi enim, quando veniebam de Mesopotamia, mortua est Rachel in terra Chanaan in ipso itinere, eratque vernum tempus: et ingrediebar Ephratam, et sepelivi eam juxta viam Ephratæ, quæ alio nomine appellatur Bethlehem.
   - `Amiatinus (A)`: mihi enim quando ueniebam de mesopotamiam mortua est rachel in terra canaan […] ipso itinere eratque uernum tempus et ingrediebar ephratam et […] eam iuxta uiam eufratae quae alio nomine appellatur bethlem
   - `VulgHetzenauer (1906)`: Mihi enim, quando veniebam de Mesopotamia, mortua est Rachel in terra Chanaan in ipso itinere, eratque vernum tempus: et ingrediebar Ephratam, et sepelivi eam iuxta viam Ephratæ, quæ alio nomine appellatur Bethlehem.
   - `VulgConte (2009)`: Mihi enim, quando veniebam de Mesopotamia, mortua est Rachel in terra Chanaan in ipso itinere, eratque vernum tempus: et ingrediebar Ephratam, et sepelivi eam iuxta viam Ephratæ, quæ alio nomine appellatur Bethlehem.
   - `VulgSistina (1590)`: Mihi enim, quando veniebam de Mesopotamia, mortua est Rachel in terra Chanaan in ipso itinere, eratque vernum tempus: et ingrediebar Ephratam, et sepelivi eam iuxta viam Ephratae, quae alio nomine appellatur Bethlehem.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Mesopotamiam' [Amiatinus (A)] (weight 0.97, confidence 53%) over Mesopotamia (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'Eufratae' [Amiatinus (A)] (weight 0.97, confidence 53%) over Ephratæ (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'Bethlem' [Amiatinus (A)] (weight 0.97, confidence 53%) over Bethlehem (Clem1598-USFX, Clem-Saints). Also normalised 12 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'Mesopotamiam' [Amiatinus (A)] (weight 0.97, confidence 53%) over Mesopotamia (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'Eufratæ' [Amiatinus (A)] (weight 0.97, confidence 53%) over Ephratæ (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'Bethlem' [Amiatinus (A)] (weight 0.97, confidence 53%) over Bethlehem (Clem1598-USFX, Clem-Saints). Also normalised 12 orthographic/surface variation(s).
 - *confidence:* Verse confidence 15% = product of 3 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -490,14 +498,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 14 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Qui extendens manum dextram, posuit super caput Ephraim iunioris fratris: sinistram autem super caput Manasse qui major natu erat, commutans manus.
+- **Critical Text:** Qui extendens manum dextram, posuit super caput Ephraim junioris fratris: sinistram autem super caput Manasse qui major natu erat, commutans manus.
   - `Clem1598-USFX`: Qui extendens manum dexteram, posuit super caput Ephraim minoris fratris: sinistram autem super caput Manasse qui major natu erat, commutans manus.
   - `Clem-Saints`: Qui extendens manum dexteram, posuit super caput Ephraim minoris fratris: sinistram autem super caput Manasse qui major natu erat, commutans manus.
   - `Amiatinus (A)`: qui extendens manum dextram posuit super caput ephraim iunioris fratris sinistram autem super caput manasse qui maior natu erat commutans manus
   - `VulgHetzenauer (1906)`: Qui extendens manum dexteram, posuit super caput Ephraim minoris fratris: sinistram autem super caput Manasse qui maior natu erat, commutans manus.
   - `VulgConte (2009)`: Qui extendens manum dexteram, posuit super caput Ephraim minoris fratris: sinistram autem super caput Manasse qui maior natu erat, commutans manus.
   - `VulgSistina (1590)`: Qui extendens manum dexteram, posuit super caput Ephraim minoris fratris: sinistram autem super caput Manasse qui maior natu erat, commutans manus.
-- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'dextram' [Amiatinus (A)] (weight 0.97, confidence 53%) over dexteram (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'iunioris' [Amiatinus (A)] (weight 0.97, confidence 53%) over minoris (Clem1598-USFX, Clem-Saints). Also normalised 7 orthographic/surface variation(s).
+- **Philological Rationale:** [Lexical, morphological, or word-order variant] Adopted 'dextram' [Amiatinus (A)] (weight 0.97, confidence 53%) over dexteram (Clem1598-USFX, Clem-Saints). [Lexical, morphological, or word-order variant] Adopted 'junioris' [Amiatinus (A)] (weight 0.97, confidence 53%) over minoris (Clem1598-USFX, Clem-Saints). Also normalised 7 orthographic/surface variation(s).
 - *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 15 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
@@ -511,7 +519,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** [Variation unit spanning several words] Adopted 'filio suo' [Amiatinus (A)] (weight 0.97, confidence 53%) over Jacob filiis (Clem1598-USFX, Clem-Saints). Also normalised 12 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
-### Verse 16 (Confidence: `28.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+### Verse 16 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** angelus, qui eruit me de cunctis malis, benedicat pueris istis: et invocetur nomen meum super eos nomina quoque patrum meorum Abraham et Isaac, et crescant in multitudinem super terram.
   - `Clem1598-USFX`: angelus, qui eruit me de cunctis malis, benedicat pueris istis: et invocetur super eos nomen meum, nomina quoque patrum meorum Abraham et Isaac, et crescant in multitudinem super terram.
   - `Clem-Saints`: angelus, qui eruit me de cunctis malis, benedicat pueris istis: et invocetur super eos nomen meum, nomina quoque patrum meorum Abraham et Isaac, et crescant in multitudinem super terram.
@@ -520,7 +528,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgConte (2009)`: Angelus, qui eruit me de cunctis malis, benedicat pueris istis: et invocetur super eos nomen meum, nomina quoque patrum meorum Abraham, et Isaac, et crescant in multitudinem super terram.
   - `VulgSistina (1590)`: Angelus, qui eruit me de cunctis malis, benedicat pueris istis: et invocetur super eos nomen meum, nomina quoque patrum meorum Abraham, et Isaac, et crescant in multitudinem super terram.
 - **Philological Rationale:** [Addition / omission between witnesses] Adopted 'nomen meum' [Amiatinus (A)] (weight 0.97, confidence 53%) over om. (Clem1598-USFX, Clem-Saints). [Variation unit spanning several words] Adopted 'om.' [Amiatinus (A)] (weight 1.09, confidence 53%) over nomen meum (Clem1598-USFX, Clem-Saints). Also normalised 7 orthographic/surface variation(s).
-- *confidence:* Verse confidence 28% = product of 2 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
+- *confidence:* Verse confidence 53% = product of 1 unit confidence(s); 1 split-transposition duplicate(s) counted once; not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 17 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Videns autem Joseph quod posuisset pater suus dexteram manum super caput Ephraim, graviter accepit: et apprehensam patris manum levare conatus est de capite Ephraim, et transferre super caput Manasse.
@@ -544,14 +552,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints, Amiatinus (A). Normalised 7 surface variation(s) (Latin orthographic convention (u/v, i/j, æ/ae, capitalisation); Punctuation / spacing difference only).
 
 ### Verse 19 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Qui renuens, ait: Scio, fili mi, scio: et iste quidem erit in populos, et multiplicabitur: sed frater ejus iunior major illo erit: et semen illius crescet in gentes.
+- **Critical Text:** Qui renuens, ait: Scio, fili mi, scio: et iste quidem erit in populos, et multiplicabitur: sed frater ejus junior major illo erit: et semen illius crescet in gentes.
   - `Clem1598-USFX`: Qui renuens, ait: Scio, fili mi, scio: et iste quidem erit in populos, et multiplicabitur: sed frater ejus minor, major erit illo: et semen illius crescet in gentes.
   - `Clem-Saints`: Qui renuens, ait: Scio, fili mi, scio: et iste quidem erit in populos, et multiplicabitur: sed frater ejus minor, major erit illo: et semen illius crescet in gentes.
   - `Amiatinus (A)`: qui rennuens ait scio fili […] scio et iste quidem erit in populos et multiplicabitur sed frater eius iunior maior illo erit et semen illius crescet in gentes
   - `VulgHetzenauer (1906)`: Qui renuens, ait: Scio fili mi, scio: et iste quidem erit in populos, et multiplicabitur: sed frater eius minor, maior erit illo: et semen illius crescet in gentes.
   - `VulgConte (2009)`: Qui renuens, ait: Scio fili mi, scio: et iste quidem erit in populos, et multiplicabitur: sed frater eius minor, maior erit illo: et semen illius crescet in gentes.
   - `VulgSistina (1590)`: Qui renuens, ait: Scio fili mi, scio: et iste quidem erit in populos, et multiplicabitur: sed frater eius minor, maior erit illo: et semen illius crescet in gentes.
-- **Philological Rationale:** [Variation unit spanning several words] Adopted 'iunior major illo erit' [Amiatinus (A)] (weight 0.97, confidence 53%) over minor major erit illo (Clem1598-USFX, Clem-Saints). Also normalised 9 orthographic/surface variation(s).
+- **Philological Rationale:** [Variation unit spanning several words] Adopted 'junior major illo erit' [Amiatinus (A)] (weight 0.97, confidence 53%) over minor major erit illo (Clem1598-USFX, Clem-Saints). Also normalised 9 orthographic/surface variation(s).
 - *confidence:* Verse confidence 53% = product of 1 unit confidence(s); not calibrated for this corpus (same formula as the Greek NT; read it as a relative measure).
 
 ### Verse 20 (Confidence: `52.9%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)

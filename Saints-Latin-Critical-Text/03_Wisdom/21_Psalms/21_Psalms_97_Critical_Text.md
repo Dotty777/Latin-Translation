@@ -1,6 +1,6 @@
 # Psalms 97 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-18T03:17:22Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:47Z`
 
 **Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
@@ -16,19 +16,38 @@
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
-### Apparatus Witnesses (Majority / Ecclesiastical Editions — recorded, not voting)
+### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
+| **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| Stuttgart-BSV [QUARANTINED] | `QUARANTINED_NC` | AI GATEKEEPER CATCH — QUARANTINED BY DEFAULT: Although upstream database metadata labelled Vulgate.csv Public Domain, test loci (Gen 1:2, Gen 3:15, Matt 6:13, 1 John 5:7–8) match the copyrighted Deutsche Bibelgesellschaft Stuttgart Vulgate. Blocked from open collation. |
+| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+
+### Versification & Alignment Notes
+- Psalt-Pianum (1945): 97:4 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 97:5 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 97:6 not collated (wording does not match the reference verse)
+- Psalt-Pianum (1945): 97:2 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 97:7 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 97:9 not collated (no verse of the reference matches its wording)
+- Psalt-Pianum (1945): 3 verse(s) re-aligned by content (2←97:3, 7←97:8, 9←97:10)
 
 ---
 
@@ -49,13 +68,28 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Psalms 97:1
-- **Apparatus:** `ipsi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
+- **Apparatus:** `Psalmus ipsi David.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** Psalt-Pianum (1945) ; **Psalmus David.** VulgSistina (1590)
+- **Apparatus:** `ipsi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590) Psalt-Pianum (1945)
+- **Apparatus:** `Salvavit sibi dextera ejus, et brachium sanctum ejus.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+
+### Psalms 97:2
+- **Apparatus:** `Notum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Notam** Psalt-Pianum (1945)
+- **Apparatus:** `salutare suum;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **salútem suam;** Psalt-Pianum (1945)
 
 ### Psalms 97:4
-- *Disregarded Surface Variant:* kept `(adopted text)` over `exsultate, / exultate,`, `exsultate, / exultate,`, `exsultate, / exultate,` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `exsultate, / exultate`, `exsultate, / exultate,`, `exsultate, / exultate,`, `exsultate, / exultate,` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Psalms 97:7
+- **Apparatus:** `moveatur` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Exsultáte in conspéctu regis Dómini. Insonet** Psalt-Pianum (1945)
+- **Apparatus:** `plenitudo ejus;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quæ illud replent,** Psalt-Pianum (1945)
 
 ### Psalms 97:8
 - *Disregarded Surface Variant:* kept `(adopted text)` over `exsultabunt / exultabunt`, `exsultabunt / exultabunt`, `exsultabunt / exultabunt` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Psalms 97:9
+- **Apparatus:** `a conspectu Domini: quoniam venit judicare terram. Judicabit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Reget** Psalt-Pianum (1945)
+- **Apparatus:** `in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cum** Psalt-Pianum (1945)
+- **Apparatus:** `in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cum** Psalt-Pianum (1945)
 
 ---
 
@@ -66,6 +100,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Psalmus ipsi David. Cantate Domino canticum novum, quia mirabilia fecit. Salvavit sibi dextera ejus, et brachium sanctum ejus.
   - `Clem-Saints`: Psalmus ipsi David. Cantate Domino canticum novum, quia mirabilia fecit. Salvavit sibi dextera ejus, et brachium sanctum ejus.
   - `VulgHetzenauer (1906)`: Psalmus ipsi David. Cantate Domino canticum novum: quia mirabilia fecit. Salvavit sibi dextera eius: et brachium sanctum eius.
+  - `Psalt-Pianum (1945)`: Cantáte Dómino cánticum novum, quia mirabília fecit.
   - `VulgConte (2009)`: Psalmus ipsi David. Cantate Domino canticum novum: quia mirabilia fecit. Salvavit sibi dextera eius: et brachium sanctum eius.
   - `VulgSistina (1590)`: Psalmus David. Cantate Domino canticum novum: quia mirabilia fecit. Salvavit sibi dextera eius: et brachium sanctum eius.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -75,6 +110,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: Notum fecit Dominus salutare suum; in conspectu gentium revelavit justitiam suam.
   - `Clem-Saints`: Notum fecit Dominus salutare suum; in conspectu gentium revelavit justitiam suam.
   - `VulgHetzenauer (1906)`: Notum fecit Dominus salutare suum: in conspectu gentium revelavit iustitiam suam.
+  - `Psalt-Pianum (1945)` *(numbered 97:3 in this witness)*: Notam fecit Dóminus salútem suam; in conspéctu géntium revelávit justítiam suam.
   - `VulgConte (2009)`: Notum fecit Dominus salutare suum: in conspectu gentium revelavit iustitiam suam.
   - `VulgSistina (1590)`: Notum fecit Dominus salutare suum: in conspectu gentium revelavit iustitiam suam.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -120,6 +156,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: moveatur mare, et plenitudo ejus; orbis terrarum, et qui habitant in eo.
   - `Clem-Saints`: moveatur mare, et plenitudo ejus; orbis terrarum, et qui habitant in eo.
   - `VulgHetzenauer (1906)`: moveatur mare, et plenitudo eius: orbis terrarum, et qui habitant in eo.
+  - `Psalt-Pianum (1945)` *(numbered 97:8 in this witness)*: Exsultáte in conspéctu regis Dómini. Insonet mare et quæ illud replent, orbis terrárum et qui hábitant in eo.
   - `VulgConte (2009)`: moveatur mare, et plenitudo eius: orbis terrarum, et qui habitant in eo.
   - `VulgSistina (1590)`: moveatur mare, et plenitudo eius: orbis terrarum, et qui habitant in eo.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
@@ -138,6 +175,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem1598-USFX`: a conspectu Domini: quoniam venit judicare terram. Judicabit orbem terrarum in justitia, et populos in æquitate.
   - `Clem-Saints`: a conspectu Domini: quoniam venit judicare terram. Judicabit orbem terrarum in justitia, et populos in æquitate.
   - `VulgHetzenauer (1906)`: a conspectu Domini: quoniam venit iudicare terram. Iudicabit orbem terrarum in iustitia, et populos in æquitate.
+  - `Psalt-Pianum (1945)` *(numbered 97:10 in this witness)*: Reget orbem terrárum cum justítia et pópulos cum æquitáte.
   - `VulgConte (2009)`: a conspectu Domini: quoniam venit iudicare terram. Iudicabit orbem terrarum in iustitia, et populos in æquitate.
   - `VulgSistina (1590)`: a conspectu Domini: quoniam venit iudicare terram. Iudicabit orbem terrarum in iustitia, et populos in aequitate.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
