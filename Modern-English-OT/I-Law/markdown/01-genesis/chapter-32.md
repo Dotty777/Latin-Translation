@@ -75,6 +75,6 @@
 
 - **32:3** — The explanatory gloss "that is, Camp" (id est, Castra) is added in the Vulgate and does not appear in the Hebrew text; Latin castra is grammatically plural, echoing the dual Hebrew name Mahanaim ("Two Camps").
 - **32:11** — The Latin text here reads memor sum ("I am mindful of"), whereas other Vulgate editions read minor sum ("I am less than" or "unworthy of"), corresponding to the Hebrew text.
-- **32:23** — The Clementine Vulgate reads vadum Iacob ("the ford of Jacob") where the Hebrew text has the stream name Jabbok.
+- **32:23** — The Clementine Vulgate reads vadum Jacob ("the ford of Jacob") where the Hebrew text has the stream name Jabbok.
 - **32:26** — The Vulgate reads emarcuit ("withered") here and in 32:33 (adding et obstipuerit, "and it grew numb"), whereas the Hebrew indicates that Jacob's hip socket was dislocated.
 - **32:29** — Distinctively, the Vulgate expresses the explanation of the name Israel as an a fortiori question ("if you have been strong against God, how much more will you prevail against men?"), whereas the Hebrew has a declarative statement ("you have striven with God and with men, and have prevailed").

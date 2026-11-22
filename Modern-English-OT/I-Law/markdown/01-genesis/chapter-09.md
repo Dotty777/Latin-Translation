@@ -41,7 +41,7 @@
 
 **9:18** So the sons of Noah who came out of the ark were Shem, Ham, and Japheth; and Ham himself is the father of Canaan.
 
-**9:19** These three are the sons of Noah, and from them the entire race was dispersed over all the earth.
+**9:19** These three are the sons of Noah, and from them the entire human race was dispersed over all the earth.
 
 **9:20** And Noah, a farmer, began to cultivate the ground, and he planted a vineyard.
 

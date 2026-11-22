@@ -94,7 +94,7 @@
 ## Translator Notes
 
 - **36:2** — The Latin uses the feminine genitive "filiae" ("daughter") in apposition to Anah here and in 36:14 (and similarly with Matred in 36:39), even though 36:24-25 identifies Anah as a son of Zibeon.
-- **36:22** — The Latin text reads "theman" (Teman) here instead of the Hebrew "Hemam" (or "Homam"), and in 36:25-26 reads "Disan" (Dishan) instead of the Hebrew "Dishon".
+- **36:22** — The Latin text reads "Theman" (Teman) here instead of the Hebrew "Hemam" (or "Homam"), and in 36:25-26 reads "Disan" (Dishan) instead of the Hebrew "Dishon".
 - **36:24** — The Vulgate renders the rare Hebrew term "ha-yemim" as "aquas calidas" ("warm waters", i.e., thermal hot springs), and continues in 36:25 with "and he had a son, Dishan, and a daughter, Oholibamah".
 - **36:37** — The Vulgate reads "de fluvio Rohoboth" ("from the river Rehoboth"), whereas the Hebrew has "from Rehoboth by the River"; similarly in 36:39 the Vulgate reads "Adad" (Hadad, matching 1 Chronicles 1:50) rather than the Hebrew Genesis "Hadar".
 - **36:40** — The Latin text omits "ducum" ("of the chiefs") before "Esau", reading literally "the names of Esau"; likewise, 36:16 reads "sons of Eliphaz" where the Hebrew has "chiefs of Eliphaz", and 36:43 reads "imperii sui" ("of their dominion") rather than "of their possession".

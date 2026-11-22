@@ -29,7 +29,7 @@
 
 **40:12** Joseph answered, "This is the interpretation of the dream: the three shoots are three more days,
 
-**40:13** after which Pharaoh will remember your office and will restore you to your former rank; and you will give him the cup according to your duty, just as you did before.
+**40:13** after which Pharaoh will remember your office and will restore you to your former rank; and you will give him the cup according to your duty, just as you were accustomed to do before.
 
 **40:14** Only remember me when it is well with you, and show mercy to me, so that you may speak to Pharaoh and he may bring me out of this prison;
 
@@ -53,7 +53,7 @@
 
 ## Translator Notes
 
-- **40:13** — The Vulgate interprets the Hebrew idiom "lift up your head" as "remember your office" (recordabitur ... magisterii tui). At the end of the verse, the source Latin breaks off at the infinitive "sicut ante facere," where standard Clementine editions include "consueveras" ("as you were accustomed to do before").
+- **40:13** — The Vulgate interprets the Hebrew idiom "lift up your head" as "remember your office" (recordabitur ... magisterii tui).
 - **40:16** — The Vulgate reads "baskets of flour" (canistra farinæ) for the rare Hebrew term hori ("white bread" or "wickerwork"), and states that Joseph "wisely solved" (prudenter ... dissolvisset) the dream.
 - **40:19** — The Vulgate distinctively renders the place of execution as "a cross" (in crucem; cf. "a gallows," in patibulo, in 40:22) and uses "tear" (lacerabunt) rather than "eat" for the birds.
 - **40:22** — The Vulgate concludes with "so that the truth of the dream interpreter might be proved" (ut conjectoris veritas probaretur), where the Hebrew reads "as Joseph had interpreted to them."

@@ -1,6 +1,6 @@
 # Numbers 1 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (54 verses, 5 translator notes)  
+> **Status:** `draft: true` (54 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,11 +59,11 @@
 
 **1:27** there were registered fifty-four thousand four hundred.
 
-**1:28** From the sons of Joseph, of the sons of Ephraim, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who were able to go out to war:
+**1:28** From the sons of Zebulun, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who were able to go out to war:
 
 **1:29** fifty-seven thousand four hundred.
 
-**1:30** From the sons of Zebulun, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who were able to go out to war:
+**1:30** From the sons of Joseph, of the sons of Ephraim, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who were able to go out to war:
 
 **1:31** forty thousand five hundred.
 
@@ -118,5 +118,4 @@
 - **1:1** — The Vulgate reads tabernaculo foederis ("tabernacle of the covenant"), whereas the Hebrew text has "tent of meeting."
 - **1:3** — The Vulgate reads virorum fortium ("strong men"), where the Hebrew text reads "everyone able to go out to war."
 - **1:11** — The Vulgate reads Gedeonis ("Gideon"), declining the patronymic as a form of Gideon, whereas the Hebrew text has "Gideoni."
-- **1:29** — The Latin text here assigns fifty-seven thousand four hundred to Ephraim and forty thousand five hundred to Zebulun in 1:31, transposing the figures of the Hebrew Masoretic Text (which assigns 40,500 to Ephraim and 57,400 to Zebulun), while maintaining the same grand total in 1:46.
 - **1:50** — The Vulgate specifies quidquid ad caeremonias pertinet ("whatever pertains to the ceremonies"), whereas the Hebrew text reads more generally "all that belongs to it."

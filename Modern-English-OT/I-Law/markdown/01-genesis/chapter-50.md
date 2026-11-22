@@ -39,7 +39,7 @@
 
 **50:17** that we should say these things to you in his words: 'I implore you to forget the crime of your brothers, and the sin and malice that they practiced against you.' We also plead that you forgive the servants of the God of your father this iniquity." Upon hearing these things, Joseph wept.
 
-**50:18** And his brothers came to him and, prostrate on the ground, said, "We are your servants."
+**50:18** And his brothers came to him and, prostrate on the ground, bowed down and said, "We are your servants."
 
 **50:19** He answered them, "Do not be afraid. Can we reject the will of God?
 

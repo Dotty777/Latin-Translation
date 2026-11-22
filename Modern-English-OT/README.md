@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **ALL 43/43 Latin OT books COMPLETE** (1,030 chapters, 26,109 verses + 255 additional `no-site-verse` Vulgate verses, 4,905 translator notes (+ 44 additional notes); combined with Complete 27/27 Latin NT = **70 of 70 complete Latin books**).  
+> **Current Coverage:** **ALL 43/43 Latin OT books COMPLETE** (1,030 chapters, 26,109 verses + 255 additional `no-site-verse` Vulgate verses, 4,903 translator notes (+ 44 additional notes); combined with Complete 27/27 Latin NT = **70 of 70 complete Latin books**).  
 > **Validation:** 100% validated against `Saints-Latin-Critical-Text` with `validate_modern_english.py --lang lat --strict` (`0` FAIL) and scholarly audits.
 
 ## Overview
@@ -16,7 +16,7 @@ This directory contains the **Saints Modern English** translation of the Latin C
 
 | Division | Status | Books | Chapters | Verses | Notes | Directory |
 |---|---|---:|---:|---:|---:|---|
-| **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,740 (+24) | 896 | [`I-Law/`](I-Law/README.md) |
+| **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,740 (+24) | 894 | [`I-Law/`](I-Law/README.md) |
 | **II. Judgement (Historical Books & Job)** | **Complete** | 15 / 15 | 322 | 9,405 (+97) | 1,563 | [`II-Judgement/`](II-Judgement/README.md) |
 | **III. Wisdom (Wisdom & Poetry)** | **Complete** | 7 / 7 | 276 | 5,660 (+45) | 1,303 | [`III-Wisdom/`](III-Wisdom/README.md) |
 | **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 245 | 5,304 (+89) | 1,143 | [`IV-Providence/`](IV-Providence/README.md) |
@@ -25,10 +25,10 @@ This directory contains the **Saints Modern English** translation of the Latin C
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
-| 1 | Genesis | 50 | 1,528 | 249 | [`I-Law/markdown/01-genesis/`](I-Law/markdown/01-genesis/README.md) | [`01-genesis.json`](I-Law/json/01-genesis.json) |
+| 1 | Genesis | 50 | 1,528 | 248 | [`I-Law/markdown/01-genesis/`](I-Law/markdown/01-genesis/README.md) | [`01-genesis.json`](I-Law/json/01-genesis.json) |
 | 2 | Exodus | 40 | 1,143 (+22) | 183 | [`I-Law/markdown/02-exodus/`](I-Law/markdown/02-exodus/README.md) | [`02-exodus.json`](I-Law/json/02-exodus.json) |
 | 3 | Leviticus | 27 | 857 | 129 | [`I-Law/markdown/03-leviticus/`](I-Law/markdown/03-leviticus/README.md) | [`03-leviticus.json`](I-Law/json/03-leviticus.json) |
-| 4 | Numbers | 36 | 1,255 (+2) | 177 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
+| 4 | Numbers | 36 | 1,255 (+2) | 176 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
 | 5 | Deuteronomy | 34 | 957 | 158 | [`I-Law/markdown/05-deuteronomy/`](I-Law/markdown/05-deuteronomy/README.md) | [`05-deuteronomy.json`](I-Law/json/05-deuteronomy.json) |
 
 ## Division II. Judgement (15 / 15 Complete)

@@ -1,6 +1,6 @@
 # Genesis 41 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (57 verses, 5 translator notes)  
+> **Status:** `draft: true` (57 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -125,4 +125,3 @@
 - **41:43** — The Vulgate interprets the obscure Egyptian acclamation transliterated as "abrech" in the Hebrew text as a command "that all should bend the knee before him" ("ut omnes coram eo genu flecterent").
 - **41:45** — Instead of transliterating Joseph's Egyptian name (Hebrew "Zaphenath-paneah"), the Vulgate translates it into Latin as "Salvatorem mundi" ("Savior of the world"). Like the Septuagint, the Vulgate also uses the Greek name "Heliopolis" rather than Hebrew "On" (also in 41:50).
 - **41:54** — The Clementine Vulgate distinctively reads "non erat panis" ("there was no bread") in Egypt, contrasting with the Hebrew Masoretic Text and the Septuagint, which read that "there was bread."
-- **41:56** — Although the Latin source places a colon before "Aegypti," the enclitic "-que" on "aperuitque" marks the start of the new clause, so "Aegypti" syntactically modifies "in omni terra" ("in all the land of Egypt").

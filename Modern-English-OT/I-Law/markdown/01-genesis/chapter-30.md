@@ -1,6 +1,6 @@
 # Genesis 30 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (43 verses, 5 translator notes)  
+> **Status:** `draft: true` (43 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -55,7 +55,7 @@
 
 **30:25** Now when Joseph had been born, Jacob said to his father-in-law, "Let me go, so that I may return to my homeland and to my land.
 
-**30:26** Give me my wives and children, for whom I have served you, so that I may depart; you know the service with which I have served you."
+**30:26** Give me my wives and children, for whom I have served you, so that I may have them; you know the service with which I have served you."
 
 **30:27** Laban said to him, "May I find favor in your sight; I have learned by experience that God has blessed me on account of you;
 
@@ -94,6 +94,7 @@
 ## Translator Notes
 
 - **30:8** — Vulgate "Comparavit me Deus cum sorore mea" ("God has matched/compared me with my sister") reflects Jerome's rendering of the Naphtali wordplay as a competitive comparison, whereas the Hebrew reads "with mighty wrestlings I have wrestled with my sister."
+- **30:26** — The Saints Latin Critical Text reads ut habeam ("so that I may have them"), whereas the Hebrew text and other Vulgate editions read ut abeam ("so that I may depart").
 - **30:27** — Vulgate "experimento didici" ("I have learned by experience") renders the Hebrew verb often translated "learned by divination" in terms of practical observation. Here the Vulgate also reads "Deus" ("God") where the Hebrew has YHWH (compare 30:6 and 30:22, where the Vulgate reads "Dominus" for Hebrew Elohim).
 - **30:33** — Clementine Vulgate "furtim me arguent" preserves the form "furtim" (literally "by stealth") in place of the genitive "furti" ("of theft") found in earlier manuscripts, conveying the sense "convict me of theft."
 - **30:35** — The Vulgate distinctively reports that Laban delivered the entire single-colored flock ("of white and black fleece") into his sons' hands (matching 30:40, where all white and black animals belong to Laban and Jacob sets rods before the rams), whereas the Hebrew has Laban entrusting the striped, speckled, spotted, and dark animals to his sons.

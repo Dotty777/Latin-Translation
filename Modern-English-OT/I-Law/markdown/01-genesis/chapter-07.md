@@ -1,6 +1,6 @@
 # Genesis 7 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (24 verses, 4 translator notes)  
+> **Status:** `draft: true` (24 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -56,6 +56,5 @@
 ## Translator Notes
 
 - **7:4** — Latin omnem substantiam ("every substance") renders Hebrew kol ha-yekum ("every existing thing"), as also in 7:23.
-- **7:5** — The Latin text preserves a double dative pronoun (ei ... illi), translated simply as "him."
 - **7:9** — Vulgate reads "the Lord" (Dominus) where the Hebrew Masoretic Text has "God" (Elohim), as also in 6:22.
 - **7:22** — Vulgate reads in terra ("on the earth") and omits "in its nostrils" where the Hebrew Masoretic Text specifies "in whose nostrils was the breath of the spirit of life, of all that was on dry land."
