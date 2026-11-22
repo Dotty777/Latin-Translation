@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **39 of 43 Latin OT books complete** (852 chapters, 21,853 verses, 4,069 translator notes; combined with Complete 27/27 Latin NT = **66 of 70 complete Latin books**).  
+> **Current Coverage:** **ALL 43/43 Latin OT books COMPLETE** (1,030 chapters, 26,109 verses, 4,905 translator notes; combined with Complete 27/27 Latin NT = **70 of 70 complete Latin books**).  
 > **Validation:** 100% validated against `Saints-Latin-Critical-Text` with `validate_modern_english.py --lang lat --strict` (`0` FAIL) and scholarly audits.
 
 ## Overview
@@ -18,7 +18,7 @@ This directory contains the **Saints Modern English** translation of the Latin C
 | **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,740 | 896 | [`I-Law/`](I-Law/README.md) |
 | **II. Judgement (Historical Books & Job)** | **Complete** | 15 / 15 | 322 | 9,405 | 1,563 | [`II-Judgement/`](II-Judgement/README.md) |
 | **III. Wisdom (Wisdom & Poetry)** | **Complete** | 7 / 7 | 276 | 5,660 | 1,303 | [`III-Wisdom/`](III-Wisdom/README.md) |
-| **IV. Providence (Prophets)** | In progress (12/16) | 12 / 16 | 67 | 1,048 | 307 | [`IV-Providence/`](IV-Providence/README.md) |
+| **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 245 | 5,304 | 1,143 | [`IV-Providence/`](IV-Providence/README.md) |
 
 ## Division I. Law (5 / 5 Complete)
 
@@ -62,10 +62,14 @@ This directory contains the **Saints Modern English** translation of the Latin C
 | 26 | Wisdom of Solomon | 19 | 432 | 87 | [`III-Wisdom/markdown/26-wisdom-of-solomon/`](III-Wisdom/markdown/26-wisdom-of-solomon/README.md) | [`26-wisdom-of-solomon.json`](III-Wisdom/json/26-wisdom-of-solomon.json) |
 | 27 | Sirach | 51 | 1,334 | 250 | [`III-Wisdom/markdown/27-sirach/`](III-Wisdom/markdown/27-sirach/README.md) | [`27-sirach.json`](III-Wisdom/json/27-sirach.json) |
 
-## Division IV. Providence (12 / 16)
+## Division IV. Providence (16 / 16 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
+| 28 | Isaiah | 66 | 1,289 | 297 | [`IV-Providence/markdown/28-isaiah/`](IV-Providence/markdown/28-isaiah/README.md) | [`28-isaiah.json`](IV-Providence/json/28-isaiah.json) |
+| 29 | Jeremiah | 52 | 1,296 | 242 | [`IV-Providence/markdown/29-jeremiah/`](IV-Providence/markdown/29-jeremiah/README.md) | [`29-jeremiah.json`](IV-Providence/json/29-jeremiah.json) |
+| 30 | Ezekiel | 48 | 1,265 | 228 | [`IV-Providence/markdown/30-ezekiel/`](IV-Providence/markdown/30-ezekiel/README.md) | [`30-ezekiel.json`](IV-Providence/json/30-ezekiel.json) |
+| 31 | Daniel | 12 | 406 | 69 | [`IV-Providence/markdown/31-daniel/`](IV-Providence/markdown/31-daniel/README.md) | [`31-daniel.json`](IV-Providence/json/31-daniel.json) |
 | 32 | Hosea | 14 | 196 | 66 | [`IV-Providence/markdown/32-hosea/`](IV-Providence/markdown/32-hosea/README.md) | [`32-hosea.json`](IV-Providence/json/32-hosea.json) |
 | 33 | Joel | 4 | 73 | 18 | [`IV-Providence/markdown/33-joel/`](IV-Providence/markdown/33-joel/README.md) | [`33-joel.json`](IV-Providence/json/33-joel.json) |
 | 34 | Amos | 9 | 146 | 43 | [`IV-Providence/markdown/34-amos/`](IV-Providence/markdown/34-amos/README.md) | [`34-amos.json`](IV-Providence/json/34-amos.json) |
