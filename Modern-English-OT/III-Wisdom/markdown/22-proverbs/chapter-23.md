@@ -1,6 +1,6 @@
 # Proverbs 23 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (34 verses, 5 translator notes)  
+> **Status:** `draft: true` (34 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -72,6 +72,10 @@
 **23:34** And you will be like one sleeping in the middle of the sea, and like a helmsman overcome with sleep, with the rudder lost.
 
 **23:35** And you will say, "They beat me, but I felt no pain; they dragged me, and I did not sense it. When will I wake up and find wine again?"
+
+## Additional Verses (Not in Saints Numbering)
+
+**23:23** *(after `23:22`)* Buy truth, and do not sell wisdom, teaching, and understanding.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Proverbs 4 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 4 translator notes)  
+> **Status:** `draft: true` (26 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -56,6 +56,10 @@
 **4:26** Direct the path for your feet, and all your ways will be made firm.
 
 **4:27** Do not turn aside to the right or to the left; turn your foot away from evil. For the Lord knows the ways that are on the right, but those that are on the left are perverse. He Himself, however, will make your courses straight, and He will lead your journeys forward in peace.
+
+## Additional Verses (Not in Saints Numbering)
+
+**4:7** *(after `4:6`)* The beginning of wisdom: gain wisdom, and with all you possess acquire prudence.
 
 ## Translator Notes
 

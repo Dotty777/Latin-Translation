@@ -1,6 +1,6 @@
 # Sirach 11 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -68,6 +68,12 @@
 **11:33** Guard yourself against a pestilent man, for he devises evil things, so that he may not bring mockery upon you forever.
 
 **11:34** Admit a stranger to yourself, and he will overthrow you in a whirlwind, and he will estrange you from your own.
+
+## Additional Verses (Not in Saints Numbering)
+
+**11:15** *(after `11:14`)* Wisdom, discipline, and knowledge of the law are with God; love and the ways of the good are with Him.
+
+**11:16** *(after `11:14`)* Error and darkness were created together with sinners, and those who exult in evil things grow old in evil.
 
 ## Translator Notes
 

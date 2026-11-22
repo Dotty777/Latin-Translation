@@ -1,6 +1,6 @@
 # 1 Kings 12 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 4 translator notes)  
+> **Status:** `draft: true` (31 verses, 4 translator notes, 9 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -67,9 +67,31 @@
 
 **12:33** And he went up onto the altar that he had constructed in Bethel, on the fifteenth day of the eighth month, which he had invented out of his own heart; and he made a solemn feast for the sons of Israel, and went up onto the altar to burn incense.
 
+## Additional Verses (Not in Saints Numbering)
+
+**12:17** *(after `12:16`)* But Rehoboam reigned over all the sons of Israel who lived in the cities of Judah.
+
+**14:7** *(after `12:24`)* Go and say to Jeroboam: This is what the Lord God of Israel says: Because I lifted you up from the midst of the people and appointed you leader over My people Israel,
+
+**14:8** *(after `12:24`)* and tore apart the kingdom of the house of David and gave it to you, and you have not been like My servant David, who kept My commandments and followed Me with his whole heart, doing what was pleasing in My sight:
+
+**14:9** *(after `12:24`)* but you have done evil beyond all who were before you, and have made for yourself foreign gods and cast images to provoke Me to anger, and you have thrown Me behind your body:
+
+**14:14** *(after `12:24`)* Moreover, the Lord will appoint for Himself a king over Israel, who will strike the house of Jeroboam on this day and at this time:
+
+**14:15** *(after `12:24`)* and the Lord God will strike Israel just as a reed is swayed in the water; and He will uproot Israel from this good land, which He gave to their fathers, and He will scatter them beyond the river, because they made sacred groves for themselves to anger the Lord.
+
+**14:16** *(after `12:24`)* And the Lord will hand over Israel because of the sins of Jeroboam, who sinned and caused Israel to sin.
+
+**14:19** *(after `12:24`)* Now the rest of the matters of Jeroboam, how he fought and how he reigned—look, they are written in the book of the words of the days of the kings of Israel.
+
+**14:20** *(after `12:24`)* Now the days in which Jeroboam reigned were twenty-two years; and he slept with his fathers, and Nadab his son reigned in his place.
+
 ## Translator Notes
 
 - **12:10** — The Vulgate reads "the back of my father" (dorso patris mei), whereas the Hebrew Masoretic Text reads "my father's loins" or "waist."
 - **12:15** — The Vulgate reads "because the Lord had turned away from him" (quoniam aversatus fuerat eum Dominus), where the Hebrew Masoretic Text reads "for it was a turn of affairs from the LORD."
 - **12:24** — Following the 3 Kingdoms supplement (12:24g-n), this verse includes the narrative of Abijah's illness and Ahijah's prophecy (paralleling 1 Kings 14:1-6, 10-13, 17-18). Within it, the Vulgate distinctively reads "both the confined and the last" (et clausum, et novissimum) and "a good word from the Lord God of Israel" (sermo bonus a Domino Deo Israël).
 - **12:30** — The Vulgate explicitly reads "to worship the calf" (ad adorandum vitulum) where the Hebrew Masoretic Text reads "before the one," and in v. 31 renders the origin of the priests as "from the lowest of the people" (de extremis populi).
+- **14:9 *(additional)*** — The Clementine Vulgate literally reads "behind your body" (post corpus tuum), corresponding to the Hebrew idiom "behind your back."
+- **14:15 *(additional)*** — The Clementine Vulgate renders the idolatrous Asherah poles of the Hebrew as "sacred groves" (lucos).

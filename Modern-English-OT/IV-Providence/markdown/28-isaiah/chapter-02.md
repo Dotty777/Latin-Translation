@@ -1,6 +1,6 @@
 # Isaiah 2 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (21 verses, 4 translator notes)  
+> **Status:** `draft: true` (21 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Isaiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,9 +47,14 @@
 
 **2:21** And he goes into the clefts of the rocks and into the caverns of the crags, from the face of the terror of the Lord, and from the glory of His majesty, when He rises up to strike the earth.
 
+## Additional Verses (Not in Saints Numbering)
+
+**2:22** *(after `2:21`)* Therefore, cease from man, whose breath is in his nostrils, because he himself has been considered exalted.
+
 ## Translator Notes
 
 - **2:4** — Vulgate "conflabunt" ("will forge" or "melt down") and "exercebuntur" ("will be trained") are distinctive Latin renderings compared to the Hebrew Masoretic Text's "beat" and "learn."
 - **2:6** — Vulgate "ut olim" ("as in former times") translates Hebrew "miqqedem" temporally rather than geographically ("from the east"), and "pueris alienis adhæserunt" ("clung to foreign children") contrasts with the Hebrew sense of striking bargains with foreigners.
 - **2:10** — Vulgate "in fossa humo" ("in the dug-out ground") is a distinctive Latin rendering compared to "in the dust" in the Hebrew Masoretic Text; likewise in 2:19 and 2:21, Vulgate "percutere terram" ("to strike the earth") contrasts with Hebrew "to terrify the earth."
 - **2:20** — Vulgate "talpas et vespertiliones" ("moles and bats") stands in the accusative case, serving as the object of "adoraret" or in apposition to the idols, rather than the dative ("cast ... to the moles and bats") found in translations of the Hebrew Masoretic Text.
+- **2:22 *(additional)*** — The Latin Vulgate reads a declarative statement here (quia excelsus reputatus est ipse, "because he himself has been considered exalted"), unlike the Hebrew rhetorical question ("of what account is he?").

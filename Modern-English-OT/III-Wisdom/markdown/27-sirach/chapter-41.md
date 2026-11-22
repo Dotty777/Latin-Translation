@@ -1,6 +1,6 @@
 # Sirach 41 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (24 verses, 5 translator notes)  
+> **Status:** `draft: true` (24 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -53,6 +53,10 @@
 
 **41:27** Do not repeat a word you have heard concerning the revealing of a hidden word, and you will truly be without shame, and you will find favor in the sight of all people. Do not be ashamed of all these things, and do not show partiality so as to sin:
 
+## Additional Verses (Not in Saints Numbering)
+
+**42:1** *(after `41:27`)* No aligned Latin source passage.
+
 ## Translator Notes
 
 - **41:4** — The Vulgate reads 'quid superveniet tibi' ('what will come upon you'), whereas the Greek asks 'why do you reject' the good pleasure of the Most High. In this Latin text the verse ends after 'a thousand years' without the concluding clause found in other editions.
@@ -60,3 +64,4 @@
 - **41:20** — Latin 'discubitu in panibus' ('reclining on the loaves') reflects bad table manners (cf. Greek 'leaning an elbow on the bread'), while 'obfuscatione' ('obscuring' or 'darkening') is a distinctively Vulgate rendering where the Greek refers to contemptuous rudeness in receiving and giving.
 - **41:23** — The elliptical clause 'and of taking away a portion and not restoring it' continues the list of shameful offenses from 41:17-22, with Vulgate 'non restituendo' ('not restoring') diverging from the Greek 'and a gift.'
 - **41:27** — Vulgate 'sine confusione' ('without shame') differs from the Greek 'truly modest.' The closing prohibition ('Do not be ashamed...') continues directly into 42:2 under Vulgate versification.
+- **42:1 *(additional)*** — The Latin critical text contains no separate aligned Clementine Vulgate passage at this verse slot.

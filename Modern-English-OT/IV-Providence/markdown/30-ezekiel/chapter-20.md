@@ -1,6 +1,6 @@
 # Ezekiel 20 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (44 verses, 5 translator notes)  
+> **Status:** `draft: true` (44 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -92,6 +92,10 @@
 **20:43** And there you will remember your ways and all your wicked deeds, by which you have been defiled in them; and you will be displeasing to yourselves in your own sight for all your evils that you have done.
 
 **20:44** And you will know that I am the Lord, when I have done good to you for the sake of My name, and not according to your evil ways, nor according to your most wicked deeds, house of Israel, says the Lord God.'"
+
+## Additional Verses (Not in Saints Numbering)
+
+**20:45** *(after `20:44`)* And the word of the Lord came to me, saying:
 
 ## Translator Notes
 

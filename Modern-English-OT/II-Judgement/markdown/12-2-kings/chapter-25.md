@@ -1,6 +1,6 @@
 # 2 Kings 25 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (29 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`2 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -62,6 +62,10 @@
 **25:29** And he changed his garments, which he had worn in prison, and he ate bread continually in his presence all the days of his life.
 
 **25:30** He also appointed an allowance for him without interruption, which was indeed given to him by the king day by day, all the days of his life.
+
+## Additional Verses (Not in Saints Numbering)
+
+**25:10** *(after `25:9`)* And the entire army of the Chaldeans that was with the commander of the soldiers tore down the walls of Jerusalem all around.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Exodus 38 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (19 verses, 5 translator notes)  
+> **Status:** `draft: true` (19 verses, 5 translator notes, 8 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -43,6 +43,24 @@
 
 **38:27** And Moses and Aaron and his sons washed their hands and feet when they entered the tent of the covenant and approached the altar, just as the Lord had commanded Moses.
 
+## Additional Verses (Not in Saints Numbering)
+
+**37:24** *(after `38:16`)* The lampstand, along with all its vessels, weighed a talent of gold.
+
+**37:25** *(after `38:16`)* He also made the altar of incense of acacia wood, measuring one cubit square and two in height, from whose corners horns extended.
+
+**37:26** *(after `38:16`)* And he covered it with the purest gold, along with the grate, the walls, and the horns.
+
+**37:27** *(after `38:16`)* And he made for it a small gold crown all around, and two gold rings beneath the crown on each side, so that poles could be inserted into them and the altar could be carried.
+
+**37:28** *(after `38:16`)* The poles themselves, however, he made of acacia wood and overlaid with gold plates.
+
+**38:2** *(after `38:22`)* whose horns extended from the corners, and he overlaid it with bronze plates.
+
+**38:6** *(after `38:5`)* which he also made of acacia wood and overlaid with bronze plates:
+
+**38:7** *(after `38:5`)* and he inserted them into the rings that projected from the sides of the altar. The altar itself, however, was not solid, but hollow, made of boards, and empty inside.
+
 ## Translator Notes
 
 - **38:1** — Latin reads 'de lignis setim' (transliterating Hebrew 'shittim', acacia wood). In this chapter arrangement, the construction of the ark, table, and lampstand (placed in Exodus 37 in the Hebrew and standard Clementine Vulgate) appears in chapter 38.
@@ -50,3 +68,5 @@
 - **38:16** — The Vulgate describes the lampstand cups simply as shaped 'like a nut' ('in nucis modum' / 'instar nucis') and its ornaments as 'small spheres' ('sphaerulae') and 'lilies' ('lilia'), where the Hebrew specifies almond-shaped cups, calyxes/knobs, and blossoms.
 - **38:26** — Latin 'quae excubabant' literally means 'who kept watch' (as on guard), a distinctive Vulgate rendering where the Hebrew refers to women who assembled or served at the entrance.
 - **38:27** — Latin 'tectum foederis' ('tent of the covenant,' where 'tectum' literally means 'covering' or 'roof') is Jerome's distinctive rendering for what the Hebrew calls the 'tent of meeting.'
+- **37:26 *(additional)*** — The Clementine Vulgate specifically reads "grate" (craticula) for the top surface of the incense altar.
+- **37:27 *(additional)*** — Latin coronam aureolam ("small gold crown") denotes the decorative gold molding around the upper edge of the altar.

@@ -1,6 +1,6 @@
 # Acts 9 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (42 verses, 5 translator notes)  
+> **Status:** `draft: true` (42 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -88,6 +88,10 @@
 **9:42** Now it became known throughout the whole of Joppa, and many believed in the Lord.
 
 **9:43** And it happened that he stayed for many days in Joppa with a certain Simon, a tanner.
+
+## Additional Verses (Not in Saints Numbering)
+
+**9:6** *(after `9:5`)* And trembling and astounded, he said, "Lord, what do You want me to do?"
 
 ## Translator Notes
 

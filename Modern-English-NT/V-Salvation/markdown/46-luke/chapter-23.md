@@ -1,6 +1,6 @@
 # Luke 23 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (55 verses, 5 translator notes)  
+> **Status:** `draft: true` (55 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Luke`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -114,6 +114,10 @@
 **23:55** Now following closely, the women who had come with Him from Galilee saw the tomb and how His body was laid.
 
 **23:56** And returning, they prepared spices and ointments; and on the Sabbath they indeed kept still according to the commandment.
+
+## Additional Verses (Not in Saints Numbering)
+
+**23:17** *(after `23:16`)* Now he was obligated to release one to them on the feast day.
 
 ## Translator Notes
 

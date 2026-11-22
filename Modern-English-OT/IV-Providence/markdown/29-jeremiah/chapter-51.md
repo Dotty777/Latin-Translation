@@ -1,6 +1,6 @@
 # Jeremiah 51 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes)  
+> **Status:** `draft: true` (35 verses, 5 translator notes, 4 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -74,6 +74,16 @@
 **51:34** This is what the Lord says: This is what you will say to him, 'Look, those whom I have built I am tearing down, and those whom I have planted I am uprooting, and this whole land;
 
 **51:35** and are you seeking great things for yourself? Do not seek them, for look, I will bring evil upon all flesh, says the Lord, and I will give you your life for safety in all the places to which you may go.'"
+
+## Additional Verses (Not in Saints Numbering)
+
+**51:45** *(after `51:35`)* Come out from the midst of her, My people, so that each one may save his life from the wrath of the fury of the Lord,
+
+**51:46** *(after `51:35`)* and so that your heart may not grow faint and you may not fear the report that will be heard in the land; and a report will come in one year, and after this year a report, and wickedness in the land, and ruler over ruler.
+
+**51:47** *(after `51:35`)* Therefore, look, days are coming, and I will visit judgment upon the carved images of Babylon, and all her land will be put to shame, and all her slaughtered will fall in the midst of her.
+
+**51:48** *(after `51:35`)* And the heavens and the earth, and all things that are in them, will offer praise over Babylon, because plunderers will come upon her from the north, says the Lord.
 
 ## Translator Notes
 

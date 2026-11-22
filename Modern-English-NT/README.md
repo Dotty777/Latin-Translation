@@ -1,32 +1,32 @@
 # Saints Modern English — New Testament (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **27 of 27 NT books complete** (260 chapters, 7,930 verses, 1,285 translator notes).
+> **Current Coverage:** **ALL 27/27 Latin NT books COMPLETE** (260 chapters, 7,930 verses + 14 additional Vulgate `no-site-verse` verses, 1,285 translator notes (+ 1 additional note)).
 
-Translated fresh from `Saints-Latin-Critical-Text` under the locked style policy ([`STYLE.md`](STYLE.md)) and glossary ([`glossary.json`](glossary.json)); strict Vulgate own-source fidelity (never harmonized to Greek). Original reviewed pilot in [`../Modern-English-Pilot/`](../Modern-English-Pilot/README.md).
+Translated fresh from `Saints-Latin-Critical-Text` under the locked style policy ([`STYLE.md`](STYLE.md)) and glossary ([`glossary.json`](glossary.json)); strict Clementine Vulgate own-source fidelity (never harmonized to Greek). Additional Vulgate verses absent from Saints.Bible numbering are preserved in book `json/*.json` (`unplaced` array) and chapter Markdown (`## Additional Verses (Not in Saints Numbering)`). Original reviewed pilot in [`../Modern-English-Pilot/`](../Modern-English-Pilot/README.md).
 
 ## Divisions
 
 | Division | Status | Books | Chapters | Verses | Notes | Directory |
 |---|---|---:|---:|---:|---:|---|
-| **V. Salvation (Gospels)** | **Complete** | 4 / 4 | 89 | 3,763 | 468 | [`V-Salvation/`](V-Salvation/README.md) |
-| **VI. Discipleship (Acts, Letters & General Epistles)** | **Complete** | 22 / 22 | 149 | 3,763 | 717 | [`VI-Discipleship/`](VI-Discipleship/README.md) |
+| **V. Salvation (Gospels)** | **Complete** | 4 / 4 | 89 | 3,763 (+9) | 468 | [`V-Salvation/`](V-Salvation/README.md) |
+| **VI. Discipleship (Acts, Letters & General Epistles)** | **Complete** | 22 / 22 | 149 | 3,763 (+5) | 717 | [`VI-Discipleship/`](VI-Discipleship/README.md) |
 | **VII. Glory (Revelation)** | **Complete** | 1 / 1 | 22 | 404 | 100 | [`VII-Glory/`](VII-Glory/README.md) |
 
-## Division V. Salvation (4 / 4)
+## Division V. Salvation (4 / 4 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
-| 44 | Matthew | 28 | 1,067 | 141 | [`V-Salvation/markdown/44-matthew/`](V-Salvation/markdown/44-matthew/README.md) | [`44-matthew.json`](V-Salvation/json/44-matthew.json) |
-| 45 | Mark | 16 | 672 | 81 | [`V-Salvation/markdown/45-mark/`](V-Salvation/markdown/45-mark/README.md) | [`45-mark.json`](V-Salvation/json/45-mark.json) |
-| 46 | Luke | 24 | 1,147 | 129 | [`V-Salvation/markdown/46-luke/`](V-Salvation/markdown/46-luke/README.md) | [`46-luke.json`](V-Salvation/json/46-luke.json) |
-| 47 | John | 21 | 877 | 117 | [`V-Salvation/markdown/47-john/`](V-Salvation/markdown/47-john/README.md) | [`47-john.json`](V-Salvation/json/47-john.json) |
+| 44 | Matthew | 28 | 1,067 (+2) | 141 | [`V-Salvation/markdown/44-matthew/`](V-Salvation/markdown/44-matthew/README.md) | [`44-matthew.json`](V-Salvation/json/44-matthew.json) |
+| 45 | Mark | 16 | 672 (+5) | 81 | [`V-Salvation/markdown/45-mark/`](V-Salvation/markdown/45-mark/README.md) | [`45-mark.json`](V-Salvation/json/45-mark.json) |
+| 46 | Luke | 24 | 1,147 (+1) | 129 | [`V-Salvation/markdown/46-luke/`](V-Salvation/markdown/46-luke/README.md) | [`46-luke.json`](V-Salvation/json/46-luke.json) |
+| 47 | John | 21 | 877 (+1) | 117 | [`V-Salvation/markdown/47-john/`](V-Salvation/markdown/47-john/README.md) | [`47-john.json`](V-Salvation/json/47-john.json) |
 
-## Division VI. Discipleship (22 / 22)
+## Division VI. Discipleship (22 / 22 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
-| 48 | Acts | 28 | 999 | 139 | [`VI-Discipleship/markdown/48-acts/`](VI-Discipleship/markdown/48-acts/README.md) | [`48-acts.json`](VI-Discipleship/json/48-acts.json) |
+| 48 | Acts | 28 | 999 (+5) | 139 | [`VI-Discipleship/markdown/48-acts/`](VI-Discipleship/markdown/48-acts/README.md) | [`48-acts.json`](VI-Discipleship/json/48-acts.json) |
 | 49 | Romans | 16 | 433 | 86 | [`VI-Discipleship/markdown/49-romans/`](VI-Discipleship/markdown/49-romans/README.md) | [`49-romans.json`](VI-Discipleship/json/49-romans.json) |
 | 50 | 1 Corinthians | 16 | 437 | 76 | [`VI-Discipleship/markdown/50-1-corinthians/`](VI-Discipleship/markdown/50-1-corinthians/README.md) | [`50-1-corinthians.json`](VI-Discipleship/json/50-1-corinthians.json) |
 | 51 | 2 Corinthians | 13 | 255 | 59 | [`VI-Discipleship/markdown/51-2-corinthians/`](VI-Discipleship/markdown/51-2-corinthians/README.md) | [`51-2-corinthians.json`](VI-Discipleship/json/51-2-corinthians.json) |
@@ -49,7 +49,7 @@ Translated fresh from `Saints-Latin-Critical-Text` under the locked style policy
 | 68 | 3 John | 1 | 14 | 5 | [`VI-Discipleship/markdown/68-3-john/`](VI-Discipleship/markdown/68-3-john/README.md) | [`68-3-john.json`](VI-Discipleship/json/68-3-john.json) |
 | 69 | Jude | 1 | 25 | 5 | [`VI-Discipleship/markdown/69-jude/`](VI-Discipleship/markdown/69-jude/README.md) | [`69-jude.json`](VI-Discipleship/json/69-jude.json) |
 
-## Division VII. Glory (1 / 1)
+## Division VII. Glory (1 / 1 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|

@@ -1,6 +1,6 @@
 # Nehemiah 3 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes)  
+> **Status:** `draft: true` (35 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Nehemiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -74,6 +74,10 @@
 **3:36** Hear, our God, for we have become an object of contempt; turn back the reproach upon their head, and give them over to contempt in a land of captivity.
 
 **3:37** Do not cover their iniquity, and let not their sin be blotted out before Your face, because they have derided the builders.
+
+## Additional Verses (Not in Saints Numbering)
+
+**3:7** *(after `3:6`)* And beside them, Melatiah the Gibeonite and Jadon the Meronothite, men of Gibeon and Mizpah, built for the governor who was in the region beyond the river.
 
 ## Translator Notes
 

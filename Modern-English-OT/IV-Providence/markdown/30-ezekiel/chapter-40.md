@@ -1,6 +1,6 @@
 # Ezekiel 40 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (48 verses, 5 translator notes)  
+> **Status:** `draft: true` (48 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -100,6 +100,10 @@
 **40:48** And he brought me into the vestibule of the temple, and he measured the vestibule, five cubits on this side and five cubits on that side, and the width of the gate, three cubits on this side and three cubits on that side.
 
 **40:49** And the length of the vestibule was twenty cubits, and the width eleven cubits, and by eight steps one went up to it. And there were columns on the fronts, one on this side and the other on that side.
+
+## Additional Verses (Not in Saints Numbering)
+
+**40:30** *(after `40:29`)* And a vestibule all around, twenty-five cubits in length and five cubits in width.
 
 ## Translator Notes
 

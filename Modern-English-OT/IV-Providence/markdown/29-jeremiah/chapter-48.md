@@ -1,6 +1,6 @@
 # Jeremiah 48 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (18 verses, 4 translator notes)  
+> **Status:** `draft: true` (18 verses, 4 translator notes, 3 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -41,9 +41,18 @@
 
 **48:18** from before the Chaldeans; for they were afraid of them, because Ishmael son of Nethaniah had struck down Gedaliah son of Ahikam, whom the king of Babylon had placed in charge in the land of Judah.
 
+## Additional Verses (Not in Saints Numbering)
+
+**48:45** *(after `48:18`)* In the shadow of Heshbon stood those fleeing from the snare, because a fire has gone out from Heshbon and a flame from the midst of Sihon; and it will devour part of Moab and the crown of the head of the sons of tumult.
+
+**48:46** *(after `48:18`)* Woe to you, Moab: you have perished, people of Chemosh, because your sons and your daughters have been taken into captivity.
+
+**48:47** *(after `48:18`)* And I will reverse the captivity of Moab in the last days, says the Lord. Up to this point are the judgments of Moab.
+
 ## Translator Notes
 
 - **48:5** — Latin squallentes ("disheveled" or "unkempt in mourning") describes the men's disheveled state of mourning, whereas the Hebrew Masoretic Text reads "gashing themselves."
 - **48:7** — Latin circa medium laci ("near the middle of the cistern") reflects the elliptical Hebrew phrase "into the midst of the cistern," without an explicit verb of throwing until 48:9.
 - **48:9** — Latin propter Godoliam ("because of Gedaliah") interprets the difficult Hebrew phrase "by the hand/side of Gedaliah," where the Septuagint reads "a great cistern."
 - **48:17** — Latin peregrinantes in Chamaam ("sojourning in Chimham") translates the Hebrew word geruth as a participle rather than treating "Geruth Chimham" as a compound place name.
+- **48:45 *(additional)*** — The Clementine Vulgate reads "de laqueo" ("from the snare") and "partem Moab" ("part of Moab"), contrasting with the Hebrew "without strength" and "forehead of Moab."

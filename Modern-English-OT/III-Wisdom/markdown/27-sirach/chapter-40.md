@@ -1,6 +1,6 @@
 # Sirach 40 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes)  
+> **Status:** `draft: true` (30 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -64,6 +64,10 @@
 **40:29** A man looking at another's table: his life is not in the thought of sustenance, for he nourishes his soul with another's foods.
 
 **40:30** In the mouth of an imprudent man want will be made sweet, and in his belly a fire will burn.
+
+## Additional Verses (Not in Saints Numbering)
+
+**40:31** *(after `40:30`)* But a disciplined and educated man will guard himself.
 
 ## Translator Notes
 

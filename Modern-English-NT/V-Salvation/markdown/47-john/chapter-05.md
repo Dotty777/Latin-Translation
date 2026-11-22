@@ -1,6 +1,6 @@
 # John 5 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (46 verses, 5 translator notes)  
+> **Status:** `draft: true` (46 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`John`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -96,6 +96,10 @@
 **5:46** For if you believed Moses, you would perhaps believe Me as well; for he wrote about Me.
 
 **5:47** If, however, you do not believe his writings, how will you believe My words?"
+
+## Additional Verses (Not in Saints Numbering)
+
+**5:4** *(after `5:3`)* Now an angel of the Lord went down into the pool at certain times, and the water was moved. And whoever went down first into the pool after the movement of the water was made well from whatever infirmity held him.
 
 ## Translator Notes
 

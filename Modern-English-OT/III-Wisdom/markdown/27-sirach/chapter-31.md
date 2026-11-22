@@ -1,6 +1,6 @@
 # Sirach 31 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes)  
+> **Status:** `draft: true` (31 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -66,6 +66,12 @@
 **31:30** The fury of drunkenness is the stumbling of an unwise person, diminishing strength and causing wounds.
 
 **31:31** At a banquet of wine do not rebuke a neighbor, and do not despise him in his gladness. Do not speak words of reproach to him, and do not press him by demanding repayment.
+
+## Additional Verses (Not in Saints Numbering)
+
+**31:34** *(after `31:27`)* What defrauds life? Death.
+
+**31:37** *(after `31:27`)* Drinking soberly is health for soul and body.
 
 ## Translator Notes
 

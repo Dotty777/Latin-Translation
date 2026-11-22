@@ -1,6 +1,6 @@
 # Sirach 1 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes)  
+> **Status:** `draft: true` (26 verses, 5 translator notes, 3 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -57,6 +57,14 @@
 
 **1:30** Pay attention to them, or else you might fall, and bring dishonor upon your soul, and God might reveal your hidden things, and dash you down in the midst of the assembly, because you approached the Lord wickedly, and your heart is full of deceit and falsehood.
 
+## Additional Verses (Not in Saints Numbering)
+
+**1:5** *(after `1:4`)* The spring of wisdom is the word of God on high, and her approaches are eternal commandments.
+
+**1:7** *(after `1:6`)* To whom has the instruction of wisdom been revealed and made plain? And who has understood the multiplicity of her approach?
+
+**1:15** *(after `1:14`)* No aligned Latin source passage.
+
 ## Translator Notes
 
 - **1:1** — Vulgate "ante ævum" ("before eternity" or "before the age") is a distinct Latin reading where the Greek has "forever" ("eis ton aiōna"), and the Vulgate also adds "God" ("Deo") after "the Lord."
@@ -64,3 +72,4 @@
 - **1:9** — The phrase "in the Holy Spirit" ("in Spiritu Sancto") is a distinct Vulgate reading not found in the Greek text.
 - **1:14** — Vulgate "it walks with chosen women" ("cum electis feminis graditur") is a distinct Latin reading diverging from the Greek (1:15), which speaks of Wisdom laying an eternal foundation among human beings.
 - **1:17** — Vulgate "a generationibus" ("with produce," literally "from yields/generations") reflects an Old Latin rendering of Greek "genēmata" ("produce"), and the Vulgate's wording here and in 1:16 ("fullness is from her fruits") differs from the Greek.
+- **1:15 *(additional)*** — The Latin critical text contains no separate aligned Clementine Vulgate passage at this verse slot.

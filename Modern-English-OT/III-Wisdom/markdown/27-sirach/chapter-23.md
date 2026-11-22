@@ -1,6 +1,6 @@
 # Sirach 23 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 4 translator notes)  
+> **Status:** `draft: true` (27 verses, 4 translator notes, 2 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -58,6 +58,12 @@
 **23:26** she will leave her memory for a curse, and her disgrace will not be blotted out.
 
 **23:27** And those who are left behind will recognize that nothing is better than the fear of God, and nothing is sweeter than to look to the commandments of the Lord.
+
+## Additional Verses (Not in Saints Numbering)
+
+**23:31** *(after `23:19`)* And he will be a disgrace to everyone, because he has not understood the fear of the Lord.
+
+**23:38** *(after `23:19`)* To follow the Lord is a great glory, for length of days will be received from Him.
 
 ## Translator Notes
 

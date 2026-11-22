@@ -1,6 +1,6 @@
 # Mark 9 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (48 verses, 5 translator notes)  
+> **Status:** `draft: true` (48 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Mark`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -100,6 +100,12 @@
 **9:49** For everyone will be salted with fire, and every sacrifice will be salted with salt.
 
 **9:50** Salt is good; but if the salt becomes saltless, with what will you season it? Have salt in yourselves, and have peace among yourselves."
+
+## Additional Verses (Not in Saints Numbering)
+
+**9:44** *(after `9:43`)* Where their worm does not die, and the fire is not quenched.
+
+**9:46** *(after `9:45`)* Where their worm does not die, and the fire is not quenched.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Daniel 5 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (21 verses, 4 translator notes)  
+> **Status:** `draft: true` (21 verses, 4 translator notes, 8 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,9 +47,30 @@
 
 **5:30** That same night Belshazzar, the Chaldean king, was killed.
 
+## Additional Verses (Not in Saints Numbering)
+
+**5:14** *(after `5:13`)* I have heard about you that you have the spirit of the gods, and that greater knowledge, understanding, and wisdom have been found in you.
+
+**5:15** *(after `5:13`)* And now the wise men, the magicians, have come into my presence to read this writing and make its interpretation known to me; and they were unable to declare the meaning of this message.
+
+**5:18** *(after `5:17`)* King, the Most High God gave a kingdom and majesty, glory and honor to your father Nebuchadnezzar.
+
+**5:19** *(after `5:17`)* And because of the majesty that He had given him, all peoples, tribes, and languages trembled and feared him: those whom he wished, he put to death; and those whom he wished, he struck; and those whom he wished, he exalted; and those whom he wished, he humbled.
+
+**5:20** *(after `5:17`)* But when his heart was lifted up, and his spirit was hardened into pride, he was deposed from the throne of his kingdom, and his glory was taken away;
+
+**5:21** *(after `5:17`)* and he was cast out from the sons of men, and even his heart was placed with the beasts, and his dwelling was with the wild donkeys; he also ate grass like an ox, and his body was soaked with the dew of heaven, until he came to know that the Most High has authority in the kingdom of men and will raise up over it whomever He wills.
+
+**5:22** *(after `5:17`)* You also, his son Belshazzar, have not humbled your heart, although you knew all these things;
+
+**5:24** *(after `5:23`)* For this reason, the part of the hand that wrote what has been inscribed was sent from Him.
+
 ## Translator Notes
 
 - **5:1** — Vulgate unusquisque secundum suam bibebat aetatem ("each one was drinking according to his age") is a distinctly Vulgate reading, where the Aramaic text states that the king drank wine before the thousand.
 - **5:2** — Vulgate jam temulentus ("being already drunk") renders the Aramaic idiom "at the taste of the wine" more explicitly.
 - **5:5** — Vulgate articulos manus scribentis literally means "the joints of the hand that was writing," rendering the Aramaic phrase for the palm or back of the hand.
 - **5:17** — In this Latin text, the verse concludes with the inscription sentence (usually 5:25), which gives three words in the Vulgate—Mane, Thecel, Phares (standardized here as Mene, Tekel, Peres)—rather than the four-word Masoretic sequence (Mene, Mene, Tekel, Upharsin).
+- **5:19 *(additional)*** — The Vulgate reads percutiebat ("he struck"), where the Aramaic text has "he kept alive."
+- **5:21 *(additional)*** — The Vulgate literally reads "his heart was placed with the beasts" (cor ejus cum bestiis positum est).
+- **5:24 *(additional)*** — Latin articulus manus literally refers to the joint or extremity of the hand.

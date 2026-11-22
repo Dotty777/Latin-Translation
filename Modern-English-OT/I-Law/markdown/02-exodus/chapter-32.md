@@ -1,6 +1,6 @@
 # Exodus 32 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (34 verses, 5 translator notes)  
+> **Status:** `draft: true` (34 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -72,6 +72,10 @@
 **32:34** but as for you, go and lead this people where I have spoken to you; My angel will go ahead of you. Yet on the day of vengeance I Myself will also punish this sin of theirs."
 
 **32:35** Therefore the Lord struck the people for the guilt of the calf that Aaron had made.
+
+## Additional Verses (Not in Saints Numbering)
+
+**32:9** *(after `32:8`)* And once again the Lord said to Moses, "I perceive that this people is stiff-necked."
 
 ## Translator Notes
 

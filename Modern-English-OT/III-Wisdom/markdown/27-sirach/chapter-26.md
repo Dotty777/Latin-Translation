@@ -1,6 +1,6 @@
 # Sirach 26 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (20 verses, 5 translator notes)  
+> **Status:** `draft: true` (20 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -45,6 +45,10 @@
 
 **26:29** Two kinds have appeared difficult and dangerous to me: with difficulty is a merchant freed from negligence, and a shopkeeper will not be justified from sins of the lips.
 
+## Additional Verses (Not in Saints Numbering)
+
+**26:24** *(after `26:15`)* Like eternal foundations on solid rock, so are the commandments of God in the heart of a holy woman.
+
 ## Translator Notes
 
 - **26:1** — The Vulgate reads annorum ("years") where the Greek text has "days"; similarly, 26:3 adds pro factis bonis ("for good deeds").
@@ -52,3 +56,4 @@
 - **26:10** — Latin non avertente se ("who does not turn herself away") is a literal etymological rendering of Greek adiatreptos ("shameless" or "headstrong"), and utatur se ("indulge herself") literally means "make use of herself."
 - **26:17** — Latin aetatem stabilem ("a steadfast age") renders Greek helikia ("age" or "stature") specifically as "age," parallel to stabilis mulieris ("a steadfast woman") in 26:18.
 - **26:28** — The Latin text places the three enumerated items before the introductory formula ("Over two things..."), and 26:29 preserves the Vulgate's opening expansion ("Two kinds have appeared difficult and dangerous to me"), the wordplay negotians ... negligentia ("merchant ... negligence," where Greek has "wrongdoing"), and "sins of the lips."
+- **26:24 *(additional)*** — Literally, "Eternal foundations on solid rock, and the commandments of God in the heart of a holy woman," a comparative proverb construction.

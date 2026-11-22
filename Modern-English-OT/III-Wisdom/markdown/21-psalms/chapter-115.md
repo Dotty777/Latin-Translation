@@ -1,6 +1,6 @@
 # Psalms 115 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (9 verses, 5 translator notes)  
+> **Status:** `draft: true` (9 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -22,6 +22,10 @@
 **115:9** I will fulfill my vows to the Lord in the sight of all His people,
 
 **115:10** in the courts of the house of the Lord, in the midst of you, Jerusalem.
+
+## Additional Verses (Not in Saints Numbering)
+
+**115:5** *(after `115:4`)* I will fulfill my vows to the Lord before all His people.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Proverbs 22 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -61,6 +61,10 @@
 
 **22:29** Have you seen a man quick in his work? He will stand before kings, and he will not be before obscure people.
 
+## Additional Verses (Not in Saints Numbering)
+
+**22:6** *(after `22:5`)* There is a proverb: a youth according to his own way; even when he has grown old, he will not depart from it.
+
 ## Translator Notes
 
 - **22:5** — The Vulgate renders Hebrew tsinnim pachim ("thorns and snares") as Arma et gladii ("Weapons and swords"), reflecting the alternate sense of Hebrew tsinnah as a large shield.
@@ -68,3 +72,4 @@
 - **22:16** — Latin calumniatur literally denotes false accusation or extortion through malicious litigation, used here in the Vulgate to render Hebrew ashaq ("oppress").
 - **22:20** — Latin tripliciter ("in a threefold way") is a famous Vulgate reading—contrasting with Masoretic Hebrew "thirty [sayings]" or "excellent things"—which early Christian interpreters often connected to the threefold sense of Scripture.
 - **22:23** — The Vulgate uses the repeated verb configet ... confixerunt ("will pierce ... have pierced"), whereas the Masoretic Hebrew speaks of despoiling or robbing the poor.
+- **22:6 *(additional)*** — The Clementine Vulgate presents this verse as a condensed, verbless proverb ("a youth according to his own way") rather than an imperative command.

@@ -1,6 +1,6 @@
 # Sirach 10 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 4 translator notes)  
+> **Status:** `draft: true` (30 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -64,6 +64,10 @@
 **10:30** A poor man glories through his discipline and fear, and there is a man who is honored because of his wealth.
 
 **10:31** But the one who glories in poverty, how much more in wealth! And let the one who glories in wealth fear poverty.
+
+## Additional Verses (Not in Saints Numbering)
+
+**10:21** *(after `10:20`)* God destroyed the memory of the proud and left the memory of those who are humble in mind.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Nehemiah 11 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 5 translator notes, 9 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Nehemiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,6 +59,26 @@
 
 **11:36** And of the Levites were portions of Judah and Benjamin.
 
+## Additional Verses (Not in Saints Numbering)
+
+**11:16** *(after `11:15`)* and Shabbethai and Jozabad, over all the works that were outside in the house of God, from among the leaders of the Levites.
+
+**11:20** *(after `11:19`)* And the rest of Israel, the priests and the Levites, were in all the cities of Judah, each one on his own property.
+
+**11:21** *(after `11:19`)* And the Nethinim, who lived in Ophel, and Ziha and Gishpa of the Nethinim.
+
+**11:28** *(after `11:27`)* and in Ziklag, and in Meconah, and in its daughters,
+
+**11:29** *(after `11:27`)* and in Rimmon, and in Zorah, and in Jarmuth,
+
+**11:32** *(after `11:31`)* Anathoth, Nob, Ananiah,
+
+**11:33** *(after `11:31`)* Hazor, Ramah, Gittaim,
+
+**11:34** *(after `11:31`)* Hadid, Zeboim, and Neballat, Lod,
+
+**11:35** *(after `11:31`)* and Ono, the Valley of Craftsmen.
+
 ## Translator Notes
 
 - **11:4** — The Vulgate reads Aziam here, where the Hebrew Masoretic Text has Uzziah; the Clementine punctuation also joins 'of the sons of Perez' to the following verse rather than exclusively to Athaiah.
@@ -66,3 +86,4 @@
 - **11:14** — Latin filius potentium ('son of the mighty men') translates Hebrew ben-haggedolim as a descriptive title rather than a proper name ('son of Haggedolim').
 - **11:17** — The Vulgate reads 'for praising and for giving thanks' (ad laudandum et ad confitendum), reflecting tehillah ('praise') where the Masoretic Text vocalizes techillah ('beginning').
 - **11:25** — Following the Clementine punctuation, 'and in the houses throughout all their regions' concludes the sentence from v. 24. Throughout vv. 25-31, 'daughters' (filiabus) preserves the literal Hebraism for dependent surrounding towns, and Cabseel (Kabzeel) corresponds to Hebrew Jekabzeel (cf. Josh 15:21).
+- **11:21 *(additional)*** — The Nethinim were a class of temple servants.

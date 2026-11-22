@@ -1,6 +1,6 @@
 # Lamentations 3 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (62 verses, 10 translator notes)  
+> **Status:** `draft: true` (62 verses, 10 translator notes, 4 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Lamentations`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -129,6 +129,16 @@
 
 **3:66** Tav: You will pursue them in fury and crush them under the heavens, Lord.
 
+## Additional Verses (Not in Saints Numbering)
+
+**3:22** *(after `3:21`)* Heth: It is through the mercies of the Lord that we have not been consumed, because His compassions have not failed.
+
+**3:23** *(after `3:21`)* Heth: They are new at daybreak; Your faithfulness is great.
+
+**3:24** *(after `3:21`)* Heth: "The Lord is my portion," my soul has said; therefore I will wait for Him.
+
+**3:29** *(after `3:28`)* Yod: He will put his mouth in the dust, if perhaps there may be hope.
+
 ## Translator Notes
 
 - **3:1** — In the Clementine Vulgate, the Hebrew acrostic letter names appear inline before every verse of Lamentations 3 (rendered here in standard modern English spelling). The Vulgate also reads paupertatem meam ("my poverty"), whereas the Hebrew reads "affliction."
@@ -141,3 +151,4 @@
 - **3:47** — The Vulgate distinctively reads vaticinatio ("prophecy") and laqueus ("a snare"), where the Hebrew reads "devastation" and "pitfall."
 - **3:58** — The Vulgate reads the noun redemptor vitae meae ("Redeemer of my life") alongside Judicasti ("You have judged"), whereas the Hebrew has verbal forms rendered "You have pleaded" and "You have redeemed my life."
 - **3:65** — The Vulgate translates Hebrew meginnat-lev ("hardness/dullness of heart") literally as scutum cordis ("a shield of the heart"), and reads laborem tuum ("Your toil") where the Hebrew reads "Your curse."
+- **3:23 *(additional)*** — Latin "Novi" is masculine plural referring back to the Lord's mercies and compassions in the preceding verse, and "diluculo" is singular ("at daybreak").

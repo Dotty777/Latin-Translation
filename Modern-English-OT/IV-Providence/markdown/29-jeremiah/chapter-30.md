@@ -1,6 +1,6 @@
 # Jeremiah 30 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 6 translator notes)  
+> **Status:** `draft: true` (32 verses, 6 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -68,6 +68,10 @@
 **30:32** "Therefore her young men will fall in her squares, and all the men of battle will fall silent in that day," declares the Lord of hosts.
 
 **30:33** "And I will kindle a fire in the wall of Damascus, and it will devour the fortifications of Ben-hadad."
+
+## Additional Verses (Not in Saints Numbering)
+
+**30:22** *(after `30:21`)* and you will be a people to Me, and I will be God to you.
 
 ## Translator Notes
 

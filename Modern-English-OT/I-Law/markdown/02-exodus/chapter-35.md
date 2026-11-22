@@ -1,6 +1,6 @@
 # Exodus 35 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes)  
+> **Status:** `draft: true` (31 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -66,6 +66,12 @@
 **35:34** He has put in his heart; Oholiab also, son of Ahisamach, of the tribe of Dan:
 
 **35:35** both of them He has instructed with wisdom, so that they may do the works of a woodworker, a tapestry-weaver, and an embroiderer, in blue and purple, and twice-dyed scarlet, and fine linen, and weave all things, and invent all kinds of new things."
+
+## Additional Verses (Not in Saints Numbering)
+
+**35:8** *(after `35:7`)* and oil for preparing the lamps, and for compounding the ointment, and the most fragrant incense,
+
+**35:18** *(after `35:12`)* the pegs of the tabernacle and of the courtyard with their cords;
 
 ## Translator Notes
 

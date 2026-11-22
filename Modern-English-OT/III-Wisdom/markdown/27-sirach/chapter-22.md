@@ -1,6 +1,6 @@
 # Sirach 22 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (24 verses, 5 translator notes)  
+> **Status:** `draft: true` (24 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -53,6 +53,10 @@
 
 **22:27** Who will place a guard over my mouth, and a sure seal upon my lips, so that I may not fall because of them and my tongue may not destroy me?
 
+## Additional Verses (Not in Saints Numbering)
+
+**22:17** *(after `22:16`)* No aligned Latin source passage.
+
 ## Translator Notes
 
 - **22:1** — Vulgate reads lapidatus est ("has been stoned") here and in 22:2, whereas the Greek reads "is compared to."
@@ -60,3 +64,4 @@
 - **22:18** — Latin sine impensa uses impensa in its architectural sense of "mortar" or "binding material." As transmitted here, the Vulgate preserves only the opening half of the comparison (the concluding clause about a timid heart in the Greek text is absent).
 - **22:21** — In the Clementine Vulgate verse division, the opening phrase Ad amicum ("Against a friend") of the second sentence stands at the end of verse 21 and continues into verse 22; in verse 22, Vulgate also adds triste ("bitter") to "mouth."
 - **22:25** — Vulgate reads salutare ("to greet") and adds sustinebo ("I will endure"), whereas the Greek reads "to shelter" and connects "if harm happens to me through him" directly to verse 26.
+- **22:17 *(additional)*** — The Latin critical text contains no aligned Clementine Vulgate passage at this verse slot.

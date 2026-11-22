@@ -120,7 +120,7 @@
 - [Chapter 112](chapter-112.md) — 9 verses, 3 notes
 - [Chapter 113](chapter-113.md) — 26 verses, 5 notes
 - [Chapter 114](chapter-114.md) — 9 verses, 5 notes
-- [Chapter 115](chapter-115.md) — 9 verses, 5 notes
+- [Chapter 115](chapter-115.md) — 9 verses, 5 notes, +1 additional
 - [Chapter 116](chapter-116.md) — 2 verses, 2 notes
 - [Chapter 117](chapter-117.md) — 29 verses, 5 notes
 - [Chapter 118](chapter-118.md) — 176 verses, 20 notes

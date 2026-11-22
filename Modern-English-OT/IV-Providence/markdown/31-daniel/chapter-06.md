@@ -1,6 +1,6 @@
 # Daniel 6 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -61,6 +61,10 @@
 
 **6:29** Moreover, Daniel persevered until the reign of Darius and the reign of Cyrus the Persian.
 
+## Additional Verses (Not in Saints Numbering)
+
+**6:16** *(after `6:15`)* But those men, understanding the king, said to him, "Know, king, that it is the law of the Medes and Persians that no decree which the king has established may be changed."
+
 ## Translator Notes
 
 - **6:1** — In the Vulgate, chapter 6 begins here with Darius's accession (numbered 5:31 in the Masoretic Text), shifting subsequent verse numbers in the chapter by one.
@@ -68,3 +72,4 @@
 - **6:7** — Vulgate 'surripuerunt regi' ('approached the king stealthily') portrays the officials creeping in craftily upon Darius, where the Aramaic verb denotes coming together in a throng or conspiracy.
 - **6:19** — Vulgate 'cibi' ('food') renders the obscure Aramaic term often translated 'diversions' or 'entertainment,' and 'dormivit incoenatus' literally says the king went to sleep without supper before sleep departed from him.
 - **6:29** — Vulgate 'perseveravit usque ad' ('persevered until') differs from the Aramaic, which states that Daniel 'prospered during' the reign of Darius and the reign of Cyrus the Persian.
+- **6:16 *(additional)*** — The Vulgate reads intelligentes regem ("understanding the king"), where the Aramaic text describes the men coming together in a throng to the king.

@@ -1,6 +1,6 @@
 # Job 23 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (16 verses, 4 translator notes)  
+> **Status:** `draft: true` (16 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Job`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -36,6 +36,10 @@
 **23:16** God has made my heart weak, and the Almighty has thrown me into turmoil.
 
 **23:17** For I have not perished because of the looming darkness, nor has thick darkness covered my face."
+
+## Additional Verses (Not in Saints Numbering)
+
+**23:14** *(after `23:13`)* When He has accomplished His will in me, many other similar things also stand ready for Him.
 
 ## Translator Notes
 

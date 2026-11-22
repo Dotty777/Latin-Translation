@@ -1,6 +1,6 @@
 # Exodus 39 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (18 verses, 4 translator notes)  
+> **Status:** `draft: true` (18 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -40,6 +40,10 @@
 **39:22** the sons of Israel presented, just as the Lord had commanded.
 
 **39:23** After Moses saw that all these things were completed, he blessed them.
+
+## Additional Verses (Not in Saints Numbering)
+
+**39:39** *(after `39:23`)* the bronze altar, the grating, the poles, and all its vessels; the basin with its base; the hangings of the courtyard, and the pillars with their bases;
 
 ## Translator Notes
 

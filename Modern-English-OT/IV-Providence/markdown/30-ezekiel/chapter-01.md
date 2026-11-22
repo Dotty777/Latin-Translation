@@ -1,6 +1,6 @@
 # Ezekiel 1 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -58,6 +58,10 @@
 **1:27** And I saw something like the look of electrum, like the appearance of fire inside it all around; from His loins and upward, and from His loins all the way downward, I saw something like the look of radiant fire all around,
 
 **1:28** like the appearance of a bow when it is in a cloud on a day of rain. This was the appearance of the radiance in a circle all around.
+
+## Additional Verses (Not in Saints Numbering)
+
+**1:14** *(after `1:13`)* And the living creatures went and returned in the likeness of flashing lightning.
 
 ## Translator Notes
 

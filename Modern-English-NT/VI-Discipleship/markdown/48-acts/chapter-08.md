@@ -1,6 +1,6 @@
 # Acts 8 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (39 verses, 5 translator notes)  
+> **Status:** `draft: true` (39 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -82,6 +82,10 @@
 **8:39** Now when they had come up out of the water, the Spirit of the Lord caught Philip away, and the eunuch did not see him any longer. And he went along his way rejoicing.
 
 **8:40** But Philip was found in Azotus, and as he traveled through he kept preaching the good news to all the cities until he came to Caesarea.
+
+## Additional Verses (Not in Saints Numbering)
+
+**8:37** *(after `8:36`)* Then Philip said, "If you believe with your whole heart, it is permitted." And in response he said, "I believe that Jesus Christ is the Son of God."
 
 ## Translator Notes
 

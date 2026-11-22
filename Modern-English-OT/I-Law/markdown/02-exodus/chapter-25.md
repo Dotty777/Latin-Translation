@@ -1,6 +1,6 @@
 # Exodus 25 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (39 verses, 6 translator notes)  
+> **Status:** `draft: true` (39 verses, 6 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -82,6 +82,10 @@
 **25:39** The entire weight of the lampstand with all its vessels shall be a talent of purest gold.
 
 **25:40** Look carefully, and make it according to the model that was shown to you on the mountain."
+
+## Additional Verses (Not in Saints Numbering)
+
+**25:6** *(after `25:5`)* oil for preparing the lamps; spices for the ointment, and incense of pleasant fragrance;
 
 ## Translator Notes
 

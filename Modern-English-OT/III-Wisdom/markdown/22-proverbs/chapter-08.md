@@ -1,6 +1,6 @@
 # Proverbs 8 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes)  
+> **Status:** `draft: true` (35 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -74,6 +74,10 @@
 **8:35** Whoever finds me will find life, and will draw salvation from the Lord.
 
 **8:36** But whoever sins against me will harm his own soul; all who hate me love death."
+
+## Additional Verses (Not in Saints Numbering)
+
+**8:33** *(after `8:32`)* Listen to discipline, and be wise, and do not cast it aside.
 
 ## Translator Notes
 

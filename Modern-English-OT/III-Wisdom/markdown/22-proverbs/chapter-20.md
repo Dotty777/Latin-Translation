@@ -1,6 +1,6 @@
 # Proverbs 20 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes)  
+> **Status:** `draft: true` (21 verses, 5 translator notes, 6 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,6 +47,20 @@
 
 **20:30** The bruise of a wound will wipe away evils, and blows in the deeper recesses of the belly.
 
+## Additional Verses (Not in Saints Numbering)
+
+**20:14** *(after `20:13`)* "It is bad, it is bad," says every buyer; and when he has departed, then he will boast.
+
+**20:15** *(after `20:13`)* There is gold and a multitude of gems, and the lips of knowledge are a precious vessel.
+
+**20:16** *(after `20:13`)* Take the garment of the one who has become guarantor for a stranger, and for foreigners take a pledge from him.
+
+**20:17** *(after `20:13`)* Bread of falsehood is sweet to a man, and afterward his mouth will be filled with gravel.
+
+**20:18** *(after `20:13`)* Plans are strengthened by counsels, and wars are to be conducted with guidance.
+
+**20:19** *(after `20:13`)* Do not associate with the one who reveals secrets, walks deceitfully, and opens his lips wide.
+
 ## Translator Notes
 
 - **20:1** — The Vulgate describes wine as "a wanton thing" (luxuriosa res) and drunkenness (ebrietas) as tumultuous, warning whoever "delights in these" (his delectatur), whereas the Hebrew Masoretic Text calls wine a mocker and strong drink a brawler, warning against being led astray by it.
@@ -54,3 +68,4 @@
 - **20:10** — The literal idiom "a weight and a weight, a measure and a measure" (pondus et pondus, mensura et mensura, echoed in 20:23) denotes dishonest, differing standards; the Vulgate here reads "before God" (apud Deum) where the Hebrew has the divine name.
 - **20:25** — The Vulgate literally reads "to devour holy ones" (devorare sanctos), a distinctly Vulgate reading where the Hebrew Masoretic Text speaks of rashly declaring something holy.
 - **20:26** — The Vulgate literally reads "bends an arch over them" (incurvat super eos fornicem), a distinctive Latin rendering of the Hebrew image of driving a threshing wheel over the wicked.
+- **20:18 *(additional)*** — Latin gubernaculis literally means "rudders" or "helms," used figuratively for strategic guidance.

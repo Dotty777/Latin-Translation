@@ -1,6 +1,6 @@
 # Sirach 19 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes)  
+> **Status:** `draft: true` (26 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -56,6 +56,10 @@
 **19:29** From appearance a man is known, and from the meeting of the face a sensible man is known.
 
 **19:30** The clothing of the body, and the laughter of the teeth, and the gait of a man tell about him.
+
+## Additional Verses (Not in Saints Numbering)
+
+**19:6** *(after `19:6`)* The one who sins against his own soul will repent, and the one who takes delight in wickedness will be denounced.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Acts 28 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes)  
+> **Status:** `draft: true` (30 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -64,6 +64,10 @@
 **28:30** Now he stayed for two full years in his own rented quarters, and he welcomed all who came in to him,
 
 **28:31** proclaiming the kingdom of God and teaching the things concerning the Lord Jesus Christ with all boldness, without restriction.
+
+## Additional Verses (Not in Saints Numbering)
+
+**28:29** *(after `28:28`)* And when he had said these things, the Jews departed from him, having much debate among themselves.
 
 ## Translator Notes
 

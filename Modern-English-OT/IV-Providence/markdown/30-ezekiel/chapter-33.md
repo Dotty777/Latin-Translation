@@ -1,6 +1,6 @@
 # Ezekiel 33 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 4 translator notes)  
+> **Status:** `draft: true` (32 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -69,9 +69,14 @@
 
 **33:33** And when what has been foretold comes (for look, it is coming), then they will know that a prophet has been among them."
 
+## Additional Verses (Not in Saints Numbering)
+
+**33:26** *(after `33:25`)* You have stood on your swords, you have committed abominations, and each one has defiled the wife of his neighbor; and will you possess the land by inheritance?
+
 ## Translator Notes
 
 - **33:2** — Vulgate 'de novissimis suis' ('from the outermost among them') literally renders the Hebrew idiom for 'from their extremities/whole number,' and in Latin can also carry the sense 'from the lowest among them.'
 - **33:14** — Vulgate 'egerit poenitentiam' (lit. 'does penance / repents') renders a Hebrew verb meaning simply 'turns back'; similarly in v. 16, 'non imputabuntur' ('will not be imputed') corresponds to 'will not be remembered' in the Masoretic Text.
 - **33:25** — The Clementine Vulgate omits verse 26 (found in the Masoretic Text and modern editions), moving directly from verse 25 to verse 27.
 - **33:31** — Vulgate 'in canticum oris sui vertunt illos' ('they turn them into a song of their mouth') diverges from the Masoretic Text, which speaks of expressing lustful or affectionate desires with their mouths; likewise v. 32 renders the Hebrew 'love song' as 'carmen musicum' ('a musical song').
+- **33:26 *(additional)*** — The expression "stood on your swords" literally renders the Latin idiom meaning to rely on armed force.

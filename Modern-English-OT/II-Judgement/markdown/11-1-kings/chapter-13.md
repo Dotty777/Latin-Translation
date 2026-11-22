@@ -1,6 +1,6 @@
 # 1 Kings 13 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (33 verses, 5 translator notes)  
+> **Status:** `draft: true` (33 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -70,6 +70,10 @@
 **13:33** After these words Jeroboam did not turn back from his most wicked way, but on the contrary he made priests of the high places from the lowest of the people; whoever wished filled his hand and became a priest of the high places.
 
 **13:34** And for this reason the house of Jeroboam sinned, and was overthrown and wiped out from the surface of the earth.
+
+## Additional Verses (Not in Saints Numbering)
+
+**13:27** *(after `13:26`)* And he said to his sons, "Saddle a donkey for me." And when they had saddled it,
 
 ## Translator Notes
 

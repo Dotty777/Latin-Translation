@@ -1,6 +1,6 @@
 # Joshua 13 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 6 translator notes)  
+> **Status:** `draft: true` (32 verses, 6 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -68,6 +68,10 @@
 **13:31** and half of Gilead, and Ashtaroth and Edrei, cities of the kingdom of Og in Bashan, for the sons of Machir, the son of Manasseh, for half of the sons of Machir according to their clans.
 
 **13:32** Moses divided this possession in the plains of Moab across the Jordan, opposite Jericho, toward the eastern region.
+
+## Additional Verses (Not in Saints Numbering)
+
+**13:33** *(after `13:32`)* To the tribe of Levi, however, he did not give a possession, because the Lord God of Israel Himself is its possession, just as He spoke to it.
 
 ## Translator Notes
 

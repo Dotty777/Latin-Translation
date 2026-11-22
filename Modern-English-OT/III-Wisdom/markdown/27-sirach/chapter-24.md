@@ -1,6 +1,6 @@
 # Sirach 24 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes)  
+> **Status:** `draft: true` (31 verses, 5 translator notes, 3 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -67,6 +67,14 @@
 
 **24:34** See that I have not labored for myself alone, but for all who seek out truth.
 
+## Additional Verses (Not in Saints Numbering)
+
+**24:24** *(after `24:23`)* I am the mother of beautiful love, of fear, of knowledge, and of holy hope.
+
+**24:40** *(after `24:34`)* I have poured out wisdom as rivers.
+
+**24:45** *(after `24:31`)* I will penetrate all the lower parts of the earth, look upon all who sleep, and give light to all who hope in the Lord.
+
 ## Translator Notes
 
 - **24:3** — Latin primogenita ante omnem creaturam ("firstborn before every creature") is a well-known Vulgate-distinct reading echoing Colossians 1:15, whereas the Greek reads "and like a mist I covered the earth."
@@ -74,3 +82,4 @@
 - **24:8** — The Vulgate reads requievit in tabernaculo meo ("rested in my tent"), whereas the Greek has the Creator assign a resting place for Wisdom's tent.
 - **24:13** — The Vulgate reads in monte Sion ("on Mount Zion") here and in Cades ("in Kadesh") in 24:14, whereas the Greek names Mount Hermon and En-gedi respectively.
 - **24:28** — The Vulgate omits the negative before perficit ("completes") and reads infirmior ("the weaker one") rather than the Greek "the first man did not finish knowing her, and likewise the last man will not trace her out"; the masculine Qui connects 24:25-28 to God the Most High rather than the Greek masculine noun nomos ("law").
+- **24:40 *(additional)*** — The source Latin reads accusative sapientiam ("wisdom as rivers"), whereas many Vulgate editions read nominative sapientia ("I, wisdom, have poured out rivers").

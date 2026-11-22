@@ -1,6 +1,6 @@
 # Jeremiah 46 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (8 verses, 4 translator notes)  
+> **Status:** `draft: true` (8 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -20,6 +20,10 @@
 **46:17** And I will deliver you on that day, says the Lord, and you will not be handed over into the hands of the men whom you dread;
 
 **46:18** but rescuing you, I will deliver you, and you will not fall by the sword; rather, your soul will be yours for safety, because you have had confidence in Me, says the Lord.'"
+
+## Additional Verses (Not in Saints Numbering)
+
+**46:26** *(after `46:18`)* and I will give them into the hand of those who seek their life, and into the hand of Nebuchadnezzar king of Babylon, and into the hand of his servants; and after these things it will be inhabited as in former days, says the Lord.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # 1 Samuel 17 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 5 translator notes, 31 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -69,6 +69,70 @@
 
 **17:54** Now David, taking the head of the Philistine, brought it to Jerusalem; but he placed his weapons in his own tent.
 
+## Additional Verses (Not in Saints Numbering)
+
+**17:12** *(after `17:11`)* Now David was the son of the Ephrathite man who was mentioned above, from Bethlehem of Judah, whose name was Jesse, who had eight sons; and in the days of Saul the man was old and advanced in years among men.
+
+**17:13** *(after `17:11`)* Now his three oldest sons went after Saul into battle; and the names of his three sons who marched out to war were Eliab the firstborn, the second Abinadab, and the third Shammah.
+
+**17:14** *(after `17:11`)* David, however, was the youngest. So when the three oldest had followed Saul,
+
+**17:15** *(after `17:11`)* David went away and returned from Saul to pasture his father's flock in Bethlehem.
+
+**17:16** *(after `17:11`)* Meanwhile the Philistine came forward morning and evening, and took his stand for forty days.
+
+**17:17** *(after `17:11`)* Now Jesse said to his son David, "Take for your brothers an ephah of roasted grain and these ten loaves of bread, and run into the camp to your brothers,
+
+**17:18** *(after `17:11`)* and bring these ten rounds of cheese to the commander; visit your brothers to see if they are doing well, and learn with whom they are stationed."
+
+**17:19** *(after `17:11`)* Now Saul, and they, and all the sons of Israel were fighting against the Philistines in the Valley of the Terebinth.
+
+**17:20** *(after `17:11`)* So David rose early in the morning, entrusted the flock to a keeper, and set out carrying his load, just as Jesse had commanded him. And he came to the place Magala and to the army, which had gone out to battle and had shouted in the combat.
+
+**17:21** *(after `17:11`)* For Israel had drawn up its battle line, and the Philistines too had been prepared on the opposite side.
+
+**17:22** *(after `17:11`)* So leaving the supplies he had brought under the charge of the keeper at the baggage, David ran to the place of combat and asked whether everything was going well with his brothers.
+
+**17:23** *(after `17:11`)* And while he was still speaking with them, that man of illegitimate birth appeared coming up—Goliath by name, a Philistine from Gath—from the camp of the Philistines; and as he spoke these same words, David heard them.
+
+**17:24** *(after `17:11`)* Now all the Israelites, when they saw the man, fled from before him, fearing him greatly.
+
+**17:25** *(after `17:11`)* And someone from Israel said, "Have you seen this man who has come up? For he has come up to taunt Israel. Therefore the king will enrich with great riches the man who strikes him down, and will give him his daughter, and will make his father's house exempt from tribute in Israel."
+
+**17:26** *(after `17:11`)* And David spoke to the men who were standing with him, saying, "What will be given to the man who strikes down this Philistine and takes away the disgrace from Israel? For who is this uncircumcised Philistine, who has taunted the battle lines of the living God?"
+
+**17:27** *(after `17:11`)* And the people repeated the same report to him, saying, "These things will be given to the man who strikes him down."
+
+**17:28** *(after `17:11`)* When his oldest brother Eliab heard this while he was speaking with others, he grew angry with David and said, "Why have you come, and why have you left those few little sheep behind in the wilderness? I know your pride and the wickedness of your heart, for you have come down to see the battle."
+
+**17:29** *(after `17:11`)* And David said, "What have I done? Is it not a word?"
+
+**17:30** *(after `17:11`)* And he turned slightly away from him toward another and spoke the same words; and the people gave him an answer just as before.
+
+**17:31** *(after `17:11`)* Now the words that David spoke were heard, and were reported in the presence of Saul.
+
+**17:41** *(after `17:40`)* Now the Philistine walked on, advancing and drawing near against David, with his armor-bearer before him.
+
+**17:50** *(after `17:49`)* And David prevailed against the Philistine with a sling and a stone, and struck the Philistine and killed him. And since David had no sword in his hand,
+
+**17:55** *(after `17:54`)* Now at the time when Saul had seen David going out against the Philistine, he said to Abner, the commander of the army, "From what lineage does this young man descend, Abner?" And Abner said, "As your soul lives, king, I do not know."
+
+**17:56** *(after `17:54`)* And the king said, "You inquire whose son this youth is."
+
+**17:57** *(after `17:54`)* And when David had returned after striking down the Philistine, Abner took him and brought him into Saul's presence, while David held the Philistine's head in his hand.
+
+**17:58** *(after `17:54`)* And Saul said to him, "From what family are you, young man?" And David said, "I am the son of your servant Jesse the Bethlehemite."
+
+**18:1** *(after `17:54`)* And it happened that when he had finished speaking to Saul, the soul of Jonathan was closely bound to the soul of David, and Jonathan loved him as his own soul.
+
+**18:2** *(after `17:54`)* And Saul took him on that day and did not permit him to return to his father's house.
+
+**18:3** *(after `17:54`)* Now David and Jonathan entered into a covenant, for he loved him as his own soul.
+
+**18:4** *(after `17:54`)* For Jonathan stripped off the tunic he was wearing and gave it to David, along with the rest of his garments, even to his sword and his bow, and even to his belt.
+
+**18:5** *(after `17:54`)* David also went out to everything for which Saul sent him, and conducted himself prudently; and Saul placed him over the men of war, and he was pleasing in the eyes of all the people, and especially in the sight of Saul's servants.
+
 ## Translator Notes
 
 - **17:1** — Vulgate "in the borders of Dommim" (in finibus Dommim) translates the first element of the Hebrew place name Ephes-dammim as "in the borders of" and retains Dommim as the proper name. Similarly, in 17:2 Vulgate renders the Hebrew Valley of Elah literally as "the Valley of the Terebinth" (Vallem terebinthi).
@@ -76,3 +140,7 @@
 - **17:6** — Vulgate renders Hebrew kidon ("javelin" or "scimitar") as clypeus ("shield") here and in 17:45.
 - **17:35** — Vulgate includes "and strangle" (et suffocabam), a detail not present in the Hebrew Masoretic Text; in 17:34 Vulgate also specifies "a ram" (arietem) where the Hebrew has a general term for a sheep or lamb, and in 17:36 includes "Now I will go and take away the disgrace of the people," matching the Septuagint.
 - **17:47** — Vulgate uses ecclesia ("assembly") for the gathered Israelites, and in 17:52 translates the Hebrew place name Gai as "into the valley" (in vallem).
+- **17:20 *(additional)*** — The Vulgate treats the Hebrew word for "encampment" or "entrenchment" as a place name, Magala.
+- **17:23 *(additional)*** — Latin spurius ("illegitimate") reflects Jerome's rendering of the Hebrew term for a single-combat champion ("man of the in-between").
+- **17:29 *(additional)*** — Latin verbum ("word") reflects Hebrew davar, which can mean either a spoken word (a mere question) or a matter and reason.
+- **17:55 *(additional)*** — Latin literally reads "Your soul lives, king, if I know," a Hebrew oath idiom expressing an emphatic denial.

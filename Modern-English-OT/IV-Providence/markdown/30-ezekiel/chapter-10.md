@@ -1,6 +1,6 @@
 # Ezekiel 10 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes)  
+> **Status:** `draft: true` (21 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,6 +47,10 @@
 
 **10:22** And the likeness of their faces was the very faces that I had seen beside the river Chebar, and their look; and the impulse of each one was to proceed before its face.
 
+## Additional Verses (Not in Saints Numbering)
+
+**10:14** *(after `10:13`)* Now each one had four faces: one face was the face of a cherub, and the second face was the face of a man; and in the third was the face of a lion, and in the fourth was the face of an eagle.
+
 ## Translator Notes
 
 - **10:11** — Latin "quae prima erat" ("the one that was first," feminine singular) refers grammatically to the foremost wheel, whereas the Hebrew reads "the head."
@@ -54,3 +58,4 @@
 - **10:13** — Latin "volubiles" ("Whirling" or "revolving") renders the Hebrew term for the wheelwork ("Galgal"). Verse 10:14 of the Hebrew text (describing the four faces of each cherub) is omitted in the Clementine Vulgate.
 - **10:17** — The Vulgate reads "spiritus vitae" ("the spirit of life"), whereas the Hebrew reads "the spirit of the living creature."
 - **10:19** — Latin "stetit" ("it stood") is third-person singular, referring to the cherubim assembly as a single living creature (compare 10:15, 20).
+- **10:14 *(additional)*** — The phrasing "in the third" and "in the fourth" literally reflects the Vulgate shift from nominative to prepositional phrases.

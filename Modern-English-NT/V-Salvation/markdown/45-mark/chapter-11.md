@@ -1,6 +1,6 @@
 # Mark 11 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Mark`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -68,6 +68,10 @@
 **11:32** If we say, 'From men,' we fear the people; for all held that John was truly a prophet."
 
 **11:33** And answering, they said to Jesus, "We do not know." And answering, Jesus said to them, "Neither do I tell you by what authority I do these things."
+
+## Additional Verses (Not in Saints Numbering)
+
+**11:26** *(after `11:25`)* But if you do not forgive, neither will your Father, who is in heaven, forgive you your sins.
 
 ## Translator Notes
 

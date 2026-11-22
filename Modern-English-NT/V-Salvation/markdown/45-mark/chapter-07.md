@@ -1,6 +1,6 @@
 # Mark 7 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (36 verses, 5 translator notes)  
+> **Status:** `draft: true` (36 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Mark`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -76,6 +76,10 @@
 **7:36** And He commanded them not to tell anyone; yet the more He kept commanding them, so much the more abundantly they kept proclaiming it,
 
 **7:37** and even more they marveled, saying, "He has done everything well; He has made both the deaf hear and the mute speak."
+
+## Additional Verses (Not in Saints Numbering)
+
+**7:16** *(after `7:15`)* If anyone has ears for hearing, let him hear.
 
 ## Translator Notes
 

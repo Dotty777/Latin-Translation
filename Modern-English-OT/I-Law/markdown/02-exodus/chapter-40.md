@@ -1,6 +1,6 @@
 # Exodus 40 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 4 translator notes)  
+> **Status:** `draft: true` (30 verses, 4 translator notes, 4 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -65,9 +65,20 @@
 
 **40:38** For the cloud of the Lord rested upon the tabernacle by day, and fire in the night, with all the peoples of Israel watching throughout all their encampments.
 
+## Additional Verses (Not in Saints Numbering)
+
+**40:7** *(after `40:6`)* the basin between the altar and the tabernacle, which you will fill with water.
+
+**40:11** *(after `40:10`)* the basin with its base; you will consecrate all of them with the anointing oil, so that they will be most holy.
+
+**40:28** *(after `40:27`)* He also placed the hanging at the entryway of the tabernacle of the testimony,
+
+**40:30** *(after `40:29`)* He also set up the basin between the tabernacle of the testimony and the altar, filling it with water.
+
 ## Translator Notes
 
 - **40:13** — The Vulgate condenses the Hebrew instructions for anointing Aaron and his sons (vv. 13-15) into the single clause 'et unctio eorum in sacerdotium sempiternum proficiat' ('and their anointing may serve for an everlasting priesthood').
 - **40:20** — The Vulgate here calls the mercy seat simply 'oraculum' ('the oracle'), echoing its explanatory gloss in 38:5.
 - **40:35** — The Vulgate distinctively renders the divine presence as 'majestate Domini coruscante' ('the majesty of the Lord flashing forth') and states twice that the cloud covered everything ('nube operiente omnia ... quia cuncta nubes operuerat').
 - **40:36** — Latin 'per turmas suas' ('by their companies') is a distinctive Vulgate rendering where the Hebrew reads 'throughout all their journeys'; similarly, 40:38 reads plural 'populis Israel' ('peoples of Israel') and 'mansiones' ('encampments') where the Hebrew reads 'house of Israel' and 'journeys.'
+- **40:11 *(additional)*** — Latin literally reads "Holy of holies" (Sancta sanctorum), expressing the superlative "most holy."

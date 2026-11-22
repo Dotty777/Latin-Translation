@@ -1,6 +1,6 @@
 # Sirach 3 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (29 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -62,6 +62,10 @@
 **3:30** Water extinguishes a burning fire, and almsgiving resists sins;
 
 **3:31** and God is the watcher over him who returns a favor: He remembers him for the future, and in the time of his fall he will find firm support.
+
+## Additional Verses (Not in Saints Numbering)
+
+**3:32** *(after `3:31`)* A wise and discerning heart will keep itself from sins, and in deeds of righteousness it will have success.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Acts 15 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (40 verses, 5 translator notes)  
+> **Status:** `draft: true` (40 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -84,6 +84,10 @@
 **15:40** But Paul, having chosen Silas, departed, having been committed to the grace of God by the brothers.
 
 **15:41** And he traveled through Syria and Cilicia, strengthening the churches, commanding them to keep the precepts of the apostles and the elders.
+
+## Additional Verses (Not in Saints Numbering)
+
+**15:34** *(after `15:33`)* However, it seemed good to Silas to remain there, while Judas alone went away to Jerusalem.
 
 ## Translator Notes
 

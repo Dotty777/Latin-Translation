@@ -1,6 +1,6 @@
 # Exodus 28 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (37 verses, 5 translator notes)  
+> **Status:** `draft: true` (37 verses, 5 translator notes, 4 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -78,6 +78,16 @@
 **28:42** You will also make linen undergarments, so that they may cover the flesh of their shame, from the loins to the thighs:
 
 **28:43** and Aaron and his sons will use them when they enter the tabernacle of the testimony, or when they approach the altar to minister in the sanctuary, so that they may not die guilty of iniquity. It will be an everlasting statute for Aaron, and for his seed after him.
+
+## Additional Verses (Not in Saints Numbering)
+
+**28:23** *(after `28:22`)* and two gold rings, which you will place at both ends of the breastpiece:
+
+**28:26** *(after `28:29`)* You will also make two gold rings, which you will place at the ends of the breastpiece, on the edges that are opposite the shoulder vestment and face its back side.
+
+**28:27** *(after `28:29`)* And also two other gold rings, which are to be placed below on each side of the shoulder vestment that faces the front of the lower joining, so that it may be fitted together with the shoulder vestment,
+
+**28:28** *(after `28:29`)* and the breastpiece may be bound tightly by its rings to the rings of the shoulder vestment with a blue cord, so that the finely crafted joining remains intact, and the breastpiece and the shoulder vestment cannot be separated from one another.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Daniel 4 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (29 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -63,6 +63,12 @@
 
 **4:37** King Nebuchadnezzar, to all peoples, nations, and languages who live in the entire earth: may peace be multiplied to you. The Most High God has worked signs and wonders with me. Therefore it has pleased me to proclaim His signs, because they are great, and His wonders, because they are mighty; and His kingdom is an everlasting kingdom, and His dominion is from generation to generation. Now therefore, I, Nebuchadnezzar, praise and magnify and glorify the King of heaven, because all His works are true and His ways are judgments, and He is able to humble those who walk in pride.
 
+## Additional Verses (Not in Saints Numbering)
+
+**4:3** *(after `4:37`)* And a decree was issued by me that all the wise men of Babylon be brought into my presence, and that they make the explanation of the dream known to me.
+
+**4:6** *(after `4:5`)* Belteshazzar, chief of the diviners, since I know that you have the spirit of the holy gods in you, and no mystery is impossible for you, relate the visions of my dreams, which I saw, and their explanation.
+
 ## Translator Notes
 
 - **4:15** — Latin germen radicum ejus literally means "the shoot of its roots" (similarly in 4:23 and 4:26), where the Aramaic text refers to the stump of the tree's roots.
@@ -70,3 +76,4 @@
 - **4:18** — The Vulgate spells both Daniel's Babylonian name (Belteshazzar, here and in 4:19, 5:12) and the king's name in chapter 5 (Belshazzar) identically as Baltassar, following the Greek Baltasar; standard modern English spellings are used to distinguish them.
 - **4:27** — Vulgate eleemosynis redime ("redeem with almsgiving") and forsitan ignoscet delictis tuis ("perhaps He will forgive your offenses") reflect the traditional Greek and Latin rendering, where the Aramaic reads "break off your sins by righteousness" and "perhaps there may be a lengthening of your prosperity."
 - **4:37** — In this Latin text, 4:37 opens with Nebuchadnezzar's proclamation and praise (corresponding to Vulgate 3:98-100 / English 4:1-3) before concluding with the king's final doxology.
+- **4:6 *(additional)*** — The Vulgate uses Baltassar for both Daniel's Babylonian name (Belteshazzar) and the king in chapter five (Belshazzar).

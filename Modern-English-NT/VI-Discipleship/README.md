@@ -1,13 +1,13 @@
 # Division VI. Discipleship (Acts, Letters & General Epistles) — Saints Modern English NT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — **Complete 22/22 books**  
-> **Coverage:** 149 chapters, 3,763 verses, 717 translator notes
+> **Coverage:** 149 chapters, 3,763 verses (+ 5 additional Vulgate verses), 717 translator notes
 
-## Books Included (22 / 22)
+## Books Included (22 / 22 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
-| 48 | Acts | 28 | 999 | 139 | [`markdown/48-acts/`](markdown/48-acts/README.md) | [`48-acts.json`](json/48-acts.json) |
+| 48 | Acts | 28 | 999 (+5) | 139 | [`markdown/48-acts/`](markdown/48-acts/README.md) | [`48-acts.json`](json/48-acts.json) |
 | 49 | Romans | 16 | 433 | 86 | [`markdown/49-romans/`](markdown/49-romans/README.md) | [`49-romans.json`](json/49-romans.json) |
 | 50 | 1 Corinthians | 16 | 437 | 76 | [`markdown/50-1-corinthians/`](markdown/50-1-corinthians/README.md) | [`50-1-corinthians.json`](json/50-1-corinthians.json) |
 | 51 | 2 Corinthians | 13 | 255 | 59 | [`markdown/51-2-corinthians/`](markdown/51-2-corinthians/README.md) | [`51-2-corinthians.json`](json/51-2-corinthians.json) |

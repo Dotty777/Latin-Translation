@@ -1,6 +1,6 @@
 # Numbers 16 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes)  
+> **Status:** `draft: true` (35 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -74,6 +74,12 @@
 **16:34** But all Israel, who was standing all around, fled at the cry of those who were perishing, saying, "The earth might swallow us up too!"
 
 **16:35** Moreover, fire coming out from the Lord killed the two hundred fifty men who were offering incense.
+
+## Additional Verses (Not in Saints Numbering)
+
+**16:36** *(after `16:35`)* Then the Lord spoke to Moses, saying:
+
+**16:44** *(after `16:35`)* Then the Lord said to Moses:
 
 ## Translator Notes
 

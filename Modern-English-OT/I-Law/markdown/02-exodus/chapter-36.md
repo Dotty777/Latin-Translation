@@ -1,6 +1,6 @@
 # Exodus 36 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes)  
+> **Status:** `draft: true` (35 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -74,6 +74,10 @@
 **36:37** They also made the plate of sacred veneration of purest gold, and they wrote on it with the work of a gem-engraver, "Holiness of the Lord,"
 
 **36:38** and they bound it to the turban with a blue cord, just as the Lord had commanded Moses.
+
+## Additional Verses (Not in Saints Numbering)
+
+**36:27** *(after `36:28`)* Toward the west, however, that is, on that part of the tabernacle which faces the sea, he made six boards,
 
 ## Translator Notes
 

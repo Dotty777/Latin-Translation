@@ -1,6 +1,6 @@
 # 1 Samuel 18 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (19 verses, 4 translator notes)  
+> **Status:** `draft: true` (19 verses, 4 translator notes, 6 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -43,9 +43,25 @@
 
 **18:29** And Saul began to fear David even more; and Saul became an enemy of David for all days.
 
+## Additional Verses (Not in Saints Numbering)
+
+**18:10** *(after `18:9`)* Now the day after, an evil spirit of God seized Saul, and he was prophesying in the middle of his house, while David was playing music with his hand, just as he did each day. And Saul was holding a spear,
+
+**18:11** *(after `18:9`)* and he threw it, thinking that he could pin David to the wall; and David turned aside from his presence a second time.
+
+**18:17** *(after `18:16`)* And Saul said to David, "Here is my older daughter Merab. I will give her to you as a wife; only be a brave man and fight the battles of the Lord." But Saul was reasoning, saying, "Let my hand not be against him, but let the hand of the Philistines be upon him."
+
+**18:18** *(after `18:16`)* But David said to Saul, "Who am I, or what is my life, or the clan of my father in Israel, that I should become the king's son-in-law?"
+
+**18:19** *(after `18:16`)* But when the time came that Merab, the daughter of Saul, should have been given to David, she was given to Adriel the Meholathite as a wife.
+
+**18:30** *(after `18:29`)* And the princes of the Philistines went out. Now from the beginning of their going out, David conducted himself more prudently than all the servants of Saul, and his name became greatly renowned.
+
 ## Translator Notes
 
 - **18:6** — Vulgate reads "tambourines of joy" (tympanis lætitiæ) with a genitive modifier and renders the Hebrew musical instruments (shalishim) as sistris ("sistrums," metallic rattle instruments).
 - **18:9** — Literally "not with straight eyes" (non rectis oculis), a Latin idiom expressing suspicion, hostility, or looking askance.
 - **18:13** — Vulgate uses the Roman military title tribunum ("tribune") for a commander over a thousand men.
 - **18:21** — Vulgate "In two things" (In duabus rebus) literally renders the Hebrew expression often understood as "a second time" (referring to a second offer of Saul's daughters). In 18:27 Vulgate likewise begins with "And after a few days" (Et post paucos dies), where the Hebrew closes 18:26 with "before the time had expired."
+- **18:10 *(additional)*** — The Vulgate uses "prophetabat" ("was prophesying") here rather than a verb meaning "raved."
+- **18:30 *(additional)*** — Literally rendering the Vulgate's "A principio autem egressionis eorum" ("from the beginning of their going out").

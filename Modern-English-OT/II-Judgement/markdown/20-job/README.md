@@ -28,7 +28,7 @@
 - [Chapter 20](chapter-20.md) — 29 verses, 5 notes
 - [Chapter 21](chapter-21.md) — 34 verses, 5 notes
 - [Chapter 22](chapter-22.md) — 30 verses, 5 notes
-- [Chapter 23](chapter-23.md) — 16 verses, 4 notes
+- [Chapter 23](chapter-23.md) — 16 verses, 4 notes, +1 additional
 - [Chapter 24](chapter-24.md) — 25 verses, 5 notes
 - [Chapter 25](chapter-25.md) — 6 verses, 2 notes
 - [Chapter 26](chapter-26.md) — 14 verses, 5 notes

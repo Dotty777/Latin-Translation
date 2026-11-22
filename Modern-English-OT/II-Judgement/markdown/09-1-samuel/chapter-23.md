@@ -1,6 +1,6 @@
 # 1 Samuel 23 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -58,6 +58,10 @@
 **23:27** And a messenger came to Saul, saying, "Hurry and come, for the Philistines have poured themselves over the land."
 
 **23:28** Saul therefore turned back, ceasing to pursue David, and proceeded to meet the Philistines; on account of this they called that place the Dividing Rock.
+
+## Additional Verses (Not in Saints Numbering)
+
+**23:12** *(after `23:11`)* And David said, "Will the men of Keilah deliver me and the men who are with me into the hands of Saul?" And the Lord said, "They will deliver you over."
 
 ## Translator Notes
 

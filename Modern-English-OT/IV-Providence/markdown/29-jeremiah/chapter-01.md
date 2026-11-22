@@ -1,6 +1,6 @@
 # Jeremiah 1 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (19 verses, 4 translator notes)  
+> **Status:** `draft: true` (19 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -42,6 +42,10 @@
 **1:18** For indeed today I have made you a fortified city, and an iron pillar, and a bronze wall against the whole land: the kings of Judah, its princes, and the priests, and the people of the land.
 
 **1:19** And they will wage war against you, and they will not prevail, because I am with you," says the Lord, "to deliver you."
+
+## Additional Verses (Not in Saints Numbering)
+
+**2:1** *(after `1:19`)* And the word of the Lord came to me, saying:
 
 ## Translator Notes
 

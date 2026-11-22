@@ -3,7 +3,7 @@
 > **Status:** `draft: true` — **Complete 1/1 books**  
 > **Coverage:** 22 chapters, 404 verses, 100 translator notes
 
-## Books Included (1 / 1)
+## Books Included (1 / 1 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|

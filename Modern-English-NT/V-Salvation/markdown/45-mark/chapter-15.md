@@ -1,6 +1,6 @@
 # Mark 15 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (46 verses, 5 translator notes)  
+> **Status:** `draft: true` (46 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Mark`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -96,6 +96,10 @@
 **15:46** Then Joseph, having purchased a linen cloth and taking Him down, wrapped Him in the linen cloth and laid Him in a tomb that had been cut out of rock, and rolled a stone to the entrance of the tomb.
 
 **15:47** Now Mary Magdalene and Mary the mother of Joseph were watching where He was laid.
+
+## Additional Verses (Not in Saints Numbering)
+
+**15:28** *(after `15:27`)* And the Scripture was fulfilled that says, "And He was counted with the wicked."
 
 ## Translator Notes
 

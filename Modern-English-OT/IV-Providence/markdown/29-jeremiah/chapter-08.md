@@ -1,6 +1,6 @@
 # Jeremiah 8 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes)  
+> **Status:** `draft: true` (21 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,6 +47,12 @@
 
 **8:23** Who will give water to my head, and to my eyes a fountain of tears, and I will weep day and night for the slaughtered of the daughter of my people?
 
+## Additional Verses (Not in Saints Numbering)
+
+**8:11** *(after `8:10`)* And they were healing the fracture of the daughter of My people shamefully, saying, "Peace, peace!" when there was no peace.
+
+**8:12** *(after `8:10`)* They were put to shame, because they committed an abomination; yet in fact they were not ashamed with any shame, and they did not know how to blush. Therefore they will fall among those who collapse; at the time of their visitation they will collapse, says the Lord.
+
 ## Translator Notes
 
 - **8:3** — Vulgate renders "eligent" actively ("they will choose") and construes "quae derelicta sunt" ("that are left") with the places of exile, contrasting with the passive Hebrew "death will be chosen."
@@ -54,3 +60,4 @@
 - **8:7** — Vulgate "milvus ... ciconia" ("kite ... stork") assigns different bird species from the Hebrew ("stork ... crane").
 - **8:13** — A notably difficult verse; the Vulgate literally reads "Congregans congregabo" ("Gathering, I will gather") and "dedi eis quae praetergressa sunt" ("I have given them what has passed away").
 - **8:16** — Vulgate "pugnatorum" ("warriors" or "fighters") translates Hebrew "mighty ones/stallions" and refers here to battle-horses, as indicated by "hinnituum" ("neighing").
+- **8:11 *(additional)*** — The Clementine Vulgate reads "ad ignominiam" ("shamefully," literally "to disgrace"), rather than "lightly."

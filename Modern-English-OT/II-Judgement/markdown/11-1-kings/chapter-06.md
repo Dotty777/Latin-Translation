@@ -1,6 +1,6 @@
 # 1 Kings 6 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes)  
+> **Status:** `draft: true` (31 verses, 5 translator notes, 5 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -67,6 +67,18 @@
 
 **6:36** And he built the inner court with three courses of polished stones, and one course of cedar timbers.
 
+## Additional Verses (Not in Saints Numbering)
+
+**6:11** *(after `6:10`)* And the word of the Lord came to Solomon, saying:
+
+**6:12** *(after `6:10`)* As for this house that you are building, if you walk in My precepts, and carry out My judgments, and keep all My commandments, walking by them, I will confirm My word to you, which I spoke to David your father:
+
+**6:13** *(after `6:10`)* and I will dwell in the midst of the sons of Israel, and I will not abandon My people Israel.
+
+**6:14** *(after `6:10`)* Therefore Solomon built the house and completed it.
+
+**6:18** *(after `6:17`)* And the entire house was covered on the inside with cedar, having its skillfully crafted turned woodwork and joints, and raised carvings; everything was covered with cedar planks, and no stone at all could appear in the wall.
+
 ## Translator Notes
 
 - **6:1** — The Clementine Vulgate spells the second month 'Zio' (a manuscript variant of 'Ziu' for Hebrew 'Ziv'), agrees with the Hebrew Masoretic Text in reading the 'four hundred and eightieth' year (Septuagint: 'four hundred and fortieth'), and renders 'in universis utensilibus suis' ('in all its utensils') where the Hebrew reads 'in all its specifications.'
@@ -74,3 +86,4 @@
 - **6:5** — Throughout chapter 6, the Vulgate renders the inner sanctuary (Hebrew 'debir') as 'oraculum' ('oracle'), connecting it etymologically with the Hebrew root for speaking as the chamber of divine utterance.
 - **6:6** — The Vulgate reads 'trabes' ('beams') placed around the outside of the house, whereas the Hebrew Masoretic Text refers to stepped ledges or offsets cut into the outer temple wall.
 - **6:21** — The Vulgate reads 'affixit laminas clavis aureis' ('fastened the plates with golden nails'), diverging from the Hebrew Masoretic Text, which speaks of drawing golden chains across in front of the inner sanctuary.
+- **6:18 *(additional)*** — The Clementine Vulgate describes the interior cedar ornaments in architectural terms (turned woodwork, crafted joints, and raised carvings) rather than the gourds and open flowers of the Masoretic Hebrew.

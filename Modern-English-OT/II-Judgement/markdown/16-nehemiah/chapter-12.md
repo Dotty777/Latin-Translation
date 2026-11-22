@@ -1,6 +1,6 @@
 # Nehemiah 12 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (43 verses, 5 translator notes)  
+> **Status:** `draft: true` (43 verses, 5 translator notes, 3 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Nehemiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -90,6 +90,14 @@
 **12:46** for in the days of David and Asaph from the beginning, there were appointed leaders of the singers praising and giving thanks to God in song.
 
 **12:47** And all Israel in the days of Zerubbabel and in the days of Nehemiah gave the portions to the singers and to the gatekeepers day by day, and they consecrated the Levites, and the Levites consecrated the sons of Aaron.
+
+## Additional Verses (Not in Saints Numbering)
+
+**12:4** *(after `12:3`)* Iddo, Ginnethon, Abijah,
+
+**12:5** *(after `12:3`)* Mijamin, Maadiah, Bilgah,
+
+**12:6** *(after `12:3`)* Shemaiah, and Joiarib, Jedaiah, Shallum, Amok, Hilkiah,
 
 ## Translator Notes
 

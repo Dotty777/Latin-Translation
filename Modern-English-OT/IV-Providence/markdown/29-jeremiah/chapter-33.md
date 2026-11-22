@@ -1,6 +1,6 @@
 # Jeremiah 33 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (24 verses, 4 translator notes)  
+> **Status:** `draft: true` (24 verses, 4 translator notes, 2 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -53,9 +53,16 @@
 
 **33:24** So the hand of Ahikam son of Shaphan was with Jeremiah, so that he was not handed over into the hands of the people for them to kill him.
 
+## Additional Verses (Not in Saints Numbering)
+
+**33:25** *(after `33:24`)* This is what the Lord says: If I have not established My covenant between day and night, and the laws for heaven and earth,
+
+**33:26** *(after `33:24`)* then indeed I will also cast off the offspring of Jacob and of My servant David, so that I will not take from his offspring rulers of the offspring of Abraham, Isaac, and Jacob; for I will bring back their return, and I will have mercy on them.
+
 ## Translator Notes
 
 - **33:3** — Latin "pœniteat me mali" literally means "it may regret Me of the evil/harm," a biblical idiom expressing God's decision to withhold threatened judgment upon human repentance.
 - **33:5** — Latin "de nocte consurgens, et dirigens" ("rising up in the night and dispatching") is the Vulgate's literal rendering of the Hebrew idiom for rising early and sending persistently.
 - **33:8** — The Vulgate uses the third-person jussive "Morte moriatur" ("Let him surely die," literally "By death let him die") and third-person "prophetavit" ("has he prophesied") in v. 9, whereas the Hebrew Masoretic Text addresses Jeremiah in the second person.
 - **33:23** — Latin "vulgi ignobilis" ("the lowly common people") expands the Hebrew expression "the sons of the people," emphasizing the unmarked burial ground of ordinary citizens.
+- **33:26 *(additional)*** — The Clementine Vulgate reads "reducam conversionem eorum" ("I will bring back their return"), a literal rendering of the Hebrew idiom for restoring fortunes or returning from exile.

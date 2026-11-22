@@ -1,6 +1,6 @@
 # Proverbs 21 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes)  
+> **Status:** `draft: true` (30 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -64,6 +64,10 @@
 **21:30** There is no wisdom, there is no discernment, there is no plan against the Lord.
 
 **21:31** A horse is made ready for the day of battle, but the Lord grants deliverance.
+
+## Additional Verses (Not in Saints Numbering)
+
+**21:5** *(after `21:4`)* The plans of a vigorous person are always in abundance, yet every lazy person is always in poverty.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Joshua 10 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (41 verses, 5 translator notes)  
+> **Status:** `draft: true` (41 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -86,6 +86,12 @@
 **10:41** from Kadesh-barnea as far as Gaza. All the land of Goshen as far as Gibeon,
 
 **10:42** and all the kings and their regions he captured and laid waste in one assault, for the Lord God of Israel fought for him.
+
+## Additional Verses (Not in Saints Numbering)
+
+**10:15** *(after `10:14`)* And Joshua returned with all Israel to the camp at Gilgal.
+
+**10:43** *(after `10:42`)* And he returned with all Israel to the site of the camp in Gilgal.
 
 ## Translator Notes
 

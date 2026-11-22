@@ -1,6 +1,6 @@
 # Acts 24 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes)  
+> **Status:** `draft: true` (26 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -56,6 +56,10 @@
 **24:26** At the same time he was also hoping that money would be given to him by Paul; for this reason he also summoned him frequently and spoke with him.
 
 **24:27** Now when two years were completed, Felix received Porcius Festus as his successor. And wanting to grant a favor to the Jews, Felix left Paul a prisoner.
+
+## Additional Verses (Not in Saints Numbering)
+
+**24:7** *(after `24:6`)* but the tribune Lysias came upon the scene and with great force snatched him from our hands,
 
 ## Translator Notes
 

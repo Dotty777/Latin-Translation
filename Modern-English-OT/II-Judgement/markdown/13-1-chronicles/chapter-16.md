@@ -1,6 +1,6 @@
 # 1 Chronicles 16 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (42 verses, 5 translator notes)  
+> **Status:** `draft: true` (42 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -88,6 +88,10 @@
 **16:42** Heman and Jeduthun also were blowing the trumpet, and striking cymbals and all musical instruments to sing to God; and he made the sons of Jeduthun gatekeepers.
 
 **16:43** And all the people returned to their own home, and David, so that he might bless his own household as well.
+
+## Additional Verses (Not in Saints Numbering)
+
+**16:24** *(after `16:23`)* Declare His glory among the nations, His wonders among all peoples.
 
 ## Translator Notes
 

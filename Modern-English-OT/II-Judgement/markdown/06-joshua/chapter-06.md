@@ -1,6 +1,6 @@
 # Joshua 6 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes)  
+> **Status:** `draft: true` (26 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -56,6 +56,10 @@
 **6:26** "Cursed before the Lord be the man who raises up and builds the city of Jericho. At the cost of his firstborn may he lay its foundations, and at the cost of the youngest of his children may he set its gates."
 
 **6:27** Therefore the Lord was with Joshua, and his name was spread throughout all the land.
+
+## Additional Verses (Not in Saints Numbering)
+
+**6:4** *(after `6:3`)* But on the seventh day, let the priests take up seven trumpets that are used in the jubilee and go ahead of the ark of the covenant; you will circle the city seven times, and the priests will blow the trumpets.
 
 ## Translator Notes
 

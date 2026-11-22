@@ -1,6 +1,6 @@
 # Proverbs 15 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -68,6 +68,12 @@
 **15:32** The one who casts aside discipline despises his own soul, but the one who yields to rebukes is a possessor of a heart.
 
 **15:33** The fear of the Lord is the discipline of wisdom, and humility precedes glory.
+
+## Additional Verses (Not in Saints Numbering)
+
+**15:31** *(after `15:30`)* The ear that listens to the rebukes of life will dwell in the midst of the wise.
+
+**16:1** *(after `15:33`)* It belongs to a man to prepare the soul, and to the Lord to govern the tongue.
 
 ## Translator Notes
 

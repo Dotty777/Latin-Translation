@@ -1,6 +1,6 @@
 # Jeremiah 11 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (22 verses, 5 translator notes)  
+> **Status:** `draft: true` (22 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -48,6 +48,10 @@
 **11:22** therefore this is what the Lord of hosts says: "Look, I will bring a reckoning upon them: the young men will die by the sword; their sons and their daughters will die by famine.
 
 **11:23** And there will be no remnant from them; for I will bring evil upon the men of Anathoth, the year of their visitation."
+
+## Additional Verses (Not in Saints Numbering)
+
+**11:7** *(after `11:6`)* for warning, I solemnly warned your fathers on the day I brought them out of the land of Egypt, up to this day; rising in the morning, I solemnly warned them and said, "Hear My voice."
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Proverbs 16 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -58,6 +58,12 @@
 **16:32** A patient person is better than a strong man, and the one who masters his own mind than a conqueror of cities.
 
 **16:33** Lots are cast into the lap, but they are governed by the Lord.
+
+## Additional Verses (Not in Saints Numbering)
+
+**16:3** *(after `16:2`)* Reveal your works to the Lord, and your thoughts will be directed.
+
+**16:6** *(after `16:5`)* Through mercy and truth iniquity is redeemed, and in the fear of the Lord one turns aside from evil.
 
 ## Translator Notes
 

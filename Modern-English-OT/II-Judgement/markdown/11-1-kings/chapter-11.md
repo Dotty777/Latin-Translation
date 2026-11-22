@@ -1,6 +1,6 @@
 # 1 Kings 11 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (39 verses, 5 translator notes)  
+> **Status:** `draft: true` (39 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -82,6 +82,10 @@
 **11:42** And the days that Solomon reigned in Jerusalem over all Israel are forty years.
 
 **11:43** And Solomon slept with his fathers, and was buried in the city of David his father; and Rehoboam his son reigned in his place. Meanwhile, Jeroboam the son of Nebat, while he was still in Egypt as a fugitive from the face of King Solomon, upon hearing of his death, returned from Egypt.
+
+## Additional Verses (Not in Saints Numbering)
+
+**11:39** *(after `11:38`)* and I will afflict the offspring of David because of this, yet not for all days.
 
 ## Translator Notes
 

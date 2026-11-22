@@ -1,6 +1,6 @@
 # Matthew 18 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (34 verses, 5 translator notes)  
+> **Status:** `draft: true` (34 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Matthew`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -72,6 +72,10 @@
 **18:34** And his master, being angry, handed him over to the torturers until he repaid the whole debt.
 
 **18:35** So also will My heavenly Father do to you, if each of you does not forgive his brother from your hearts."
+
+## Additional Verses (Not in Saints Numbering)
+
+**18:11** *(after `18:10`)* For the Son of Man came to save what had been lost.
 
 ## Translator Notes
 

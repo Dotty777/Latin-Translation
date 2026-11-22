@@ -1,6 +1,6 @@
 # 1 Kings 15 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 5 translator notes, 2 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -68,6 +68,12 @@
 **15:33** In the third year of Asa king of Judah, Baasha son of Ahijah reigned over all Israel in Tirzah for twenty-four years.
 
 **15:34** And he did evil before the Lord, and walked in the way of Jeroboam, and in his sins by which he caused Israel to sin.
+
+## Additional Verses (Not in Saints Numbering)
+
+**15:6** *(after `15:5`)* However, there was war between Rehoboam and Jeroboam throughout the whole time of his life.
+
+**15:32** *(after `15:31`)* And there was war between Asa and Baasha, king of Israel, throughout all their days.
 
 ## Translator Notes
 

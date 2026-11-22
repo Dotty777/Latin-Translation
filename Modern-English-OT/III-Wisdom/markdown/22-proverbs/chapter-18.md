@@ -1,6 +1,6 @@
 # Proverbs 18 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (22 verses, 6 translator notes)  
+> **Status:** `draft: true` (22 verses, 6 translator notes, 4 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -48,6 +48,16 @@
 **18:21** Death and life are in the hand of the tongue; those who love it will eat its fruits.
 
 **18:22** Whoever finds a good wife finds a good thing, and will draw delight from the Lord. Whoever drives out a good wife drives out a good thing, yet whoever keeps an adulteress is foolish and wicked.
+
+## Additional Verses (Not in Saints Numbering)
+
+**18:23** *(after `18:22`)* With pleas the poor man will speak, and the rich man will speak out harshly.
+
+**18:24** *(after `18:22`)* A man who is amiable in companionship will be more of a friend than a brother.
+
+**19:1** *(after `18:22`)* A poor man who walks in his sincerity is better than a rich man who twists his lips and is foolish.
+
+**19:2** *(after `18:22`)* Where there is no knowledge of the soul, it is not good, and whoever is hasty with his feet will stumble.
 
 ## Translator Notes
 
