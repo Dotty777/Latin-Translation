@@ -1,0 +1,69 @@
+# Genesis 2 — Saints Modern English (Latin / Clementine Vulgate)
+
+> **Status:** `draft: true` (25 verses, 10 translator notes)  
+> **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
+
+## Text
+
+**2:1** Therefore the heavens and the earth were completed, and all their adornment.
+
+**2:2** And on the seventh day God finished His work that He had made, and He rested on the seventh day from all the work that He had accomplished.
+
+**2:3** And He blessed the seventh day and made it holy, because on it He had ceased from all His work that God created to make.
+
+**2:4** These are the generations of heaven and earth when they were created, in the day when the Lord God made heaven and earth,
+
+**2:5** and every shrub of the field before it sprang up on the earth, and every plant of the region before it sprouted; for the Lord God had not caused rain upon the earth, and there was no man to till the earth.
+
+**2:6** Instead, a spring rose up from the earth, watering the entire surface of the earth.
+
+**2:7** Therefore the Lord God formed man from the clay of the earth, and breathed into his face the breath of life, and man became a living soul.
+
+**2:8** Now the Lord God had planted a paradise of delight from the beginning, in which He placed the man whom He had formed.
+
+**2:9** And the Lord God brought forth from the ground every tree beautiful to see and pleasant for eating, also the tree of life in the midst of paradise, and the tree of the knowledge of good and evil.
+
+**2:10** And a river went out from the place of delight to water paradise, which from there divides into four heads.
+
+**2:11** The name of the first is Pishon; it is the one that circles the whole land of Havilah, where gold comes forth.
+
+**2:12** And the gold of that land is the finest; there also are found bdellium and onyx stone.
+
+**2:13** And the name of the second river is Gihon; it is the one that circles the whole land of Ethiopia.
+
+**2:14** And the name of the third river is the Tigris; it goes toward the Assyrians. And the fourth river, it is the Euphrates.
+
+**2:15** So the Lord God took the man and placed him in the paradise of delight, to work it and guard it.
+
+**2:16** And He commanded him, saying, "From every tree of paradise you may eat;
+
+**2:17** but from the tree of the knowledge of good and evil you must not eat, for on whatever day you eat from it, you will surely die."
+
+**2:18** The Lord God also said, "It is not good for the man to be alone; let Us make for him a helper like himself."
+
+**2:19** Therefore, having formed from the ground all the animals of the earth and all the flying creatures of heaven, the Lord God brought them to Adam to see what he would call them; for whatever Adam called any living soul, that is its name.
+
+**2:20** And Adam called by their names all the animals, and all the flying creatures of heaven, and all the wild beasts of the earth; yet for Adam there was not found a helper like him.
+
+**2:21** So the Lord God cast a deep sleep upon Adam; and when he had fallen asleep, He took one of his ribs and filled up flesh in its place.
+
+**2:22** And the Lord God built the rib that He had taken from Adam into a woman, and brought her to Adam.
+
+**2:23** And Adam said, "This now is bone from my bones and flesh from my flesh; she will be called Woman, because she was taken from man."
+
+**2:24** For this reason a man will leave his father and mother and cling to his wife, and the two will be in one flesh.
+
+**2:25** Now both of them were naked, namely Adam and his wife, and they were not ashamed.
+
+## Translator Notes
+
+- **2:1** — Latin cæli is plural here ("the heavens"), contrasting with singular cælum in 1:1; ornatus literally means "adornment" or "array."
+- **2:6** — Latin fons means "spring" or "fountain" rather than "mist."
+- **2:7** — Latin de limo terræ means "from the clay/mud of the earth," and in faciem ejus means "into his face" (rather than "nostrils").
+- **2:8** — Latin paradisum voluptatis a principio literally reads "a paradise of delight from the beginning" (rendering Hebrew Eden as "delight" and miqqedem temporally as "from the beginning").
+- **2:11** — Latin spellings Phison and Hevilath are rendered with standard modern English Pishon and Havilah.
+- **2:13** — Latin spelling Gehon is rendered Gihon; Æthiopiæ is translated directly from the Latin as "Ethiopia."
+- **2:17** — Latin morte morieris ("by death you will die") is an emphatic Hebraic idiom rendered "you will surely die."
+- **2:18** — Latin faciamus ("let Us make") is first-person plural, agreeing with the Septuagint against Hebrew singular "I will make."
+- **2:23** — Latin preserves the Hebrew wordplay with Virago ("woman/heroic woman") derived from vir ("man"); rendered "Woman ... man" in natural modern English.
+- **2:24** — Latin erunt duo ("the two will be") explicitly includes "two," agreeing with the Septuagint against the Masoretic Hebrew.
