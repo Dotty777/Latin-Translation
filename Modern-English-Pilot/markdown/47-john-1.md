@@ -106,7 +106,7 @@
 
 **1:50** Jesus answered and said to him, "Because I said to you, 'I saw you under the fig tree,' you believe; you will see greater things than these."
 
-**1:51** And He says to him, "Truly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending above the Son of Man."
+**1:51** And He says to him, "Amen, amen, I tell you, you will see heaven opened, and the angels of God ascending and descending above the Son of Man."
 
 ## Translator Notes
 
@@ -122,4 +122,4 @@
 - **1:28** — Latin in Bethania ("in Bethany") is followed here rather than the textual variant "Bethabara."
 - **1:29** — The Vulgate doubles the exclamation: Ecce agnus Dei, ecce qui tollit ("Look, the Lamb of God; look, the One who takes away").
 - **1:42** — The Vulgate reads filius Jona ("son of Jonah") rather than the Alexandrian Greek "son of John."
-- **1:51** — Latin Amen, amen dico vobis is rendered "Truly, truly, I say to you" in modern vocabulary, and plural vobis ("to you") addresses those present.
+- **1:51** — Latin Amen, amen dico vobis keeps the Hebrew affirmation, rendered "Amen, amen, I tell you" consistently throughout the Latin Gospels; plural vobis ("to you") addresses those present.
