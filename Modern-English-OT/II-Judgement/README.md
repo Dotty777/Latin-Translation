@@ -1,10 +1,10 @@
 # Division II. Judgement (Historical Books & Job) — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` — **5 of 15 books complete**  
-> **Coverage:** 104 chapters, 2,809 verses, 478 translator notes  
+> **Status:** `draft: true` — **9 of 15 books complete**  
+> **Coverage:** 216 chapters, 6,027 verses, 1,015 translator notes  
 > **Validation:** 100% validated against `Saints-Latin-Critical-Text` with `validate_modern_english.py --lang lat --strict` (`0` FAIL) and full scholarly audit.
 
-## Books Included (5 / 15)
+## Books Included (9 / 15)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
@@ -13,13 +13,13 @@
 | 8 | Ruth | 4 | 85 | 17 | [`markdown/08-ruth/`](markdown/08-ruth/README.md) | [`08-ruth.json`](json/08-ruth.json) |
 | 9 | 1 Samuel | 31 | 771 | 138 | [`markdown/09-1-samuel/`](markdown/09-1-samuel/README.md) | [`09-1-samuel.json`](json/09-1-samuel.json) |
 | 10 | 2 Samuel | 24 | 695 | 112 | [`markdown/10-2-samuel/`](markdown/10-2-samuel/README.md) | [`10-2-samuel.json`](json/10-2-samuel.json) |
+| 11 | 1 Kings | 22 | 753 | 108 | [`markdown/11-1-kings/`](markdown/11-1-kings/README.md) | [`11-1-kings.json`](json/11-1-kings.json) |
+| 12 | 2 Kings | 25 | 718 | 122 | [`markdown/12-2-kings/`](markdown/12-2-kings/README.md) | [`12-2-kings.json`](json/12-2-kings.json) |
+| 13 | 1 Chronicles | 29 | 926 | 142 | [`markdown/13-1-chronicles/`](markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](json/13-1-chronicles.json) |
+| 14 | 2 Chronicles | 36 | 821 | 165 | [`markdown/14-2-chronicles/`](markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](json/14-2-chronicles.json) |
 
-## Pending Books (10 / 15)
+## Pending Books (6 / 15)
 
-- **11. 1 Kings** — in progress
-- **12. 2 Kings** — in progress
-- **13. 1 Chronicles** — in progress
-- **14. 2 Chronicles** — in progress
 - **15. Ezra** — in progress
 - **16. Nehemiah** — in progress
 - **17. Esther** — in progress
