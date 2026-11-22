@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **9 of 43 Latin OT books complete** (216 chapters, 6,027 verses, 1,015 translator notes; combined with Complete 27/27 Latin NT = **36 of 70 complete Latin books**).  
+> **Current Coverage:** **15 of 43 Latin OT books complete** (322 chapters, 9,405 verses, 1,563 translator notes; combined with Complete 27/27 Latin NT = **42 of 70 complete Latin books**).  
 > **Validation:** 100% validated against `Saints-Latin-Critical-Text` with `validate_modern_english.py --lang lat --strict` (`0` FAIL) and scholarly audits.
 
 ## Overview
@@ -16,11 +16,11 @@ This directory contains the **Saints Modern English** translation of the Latin C
 | Division | Status | Books | Chapters | Verses | Notes | Directory |
 |---|---|---:|---:|---:|---:|---|
 | **I. Law (Pentateuch)** | In progress | 0 / 5 | — | — | — | — |
-| **II. Judgement (Historical Books & Job)** | In progress (9/15) | 9 / 15 | 216 | 6,027 | 1,015 | [`II-Judgement/`](II-Judgement/README.md) |
+| **II. Judgement (Historical Books & Job)** | **Complete** | 15 / 15 | 322 | 9,405 | 1,563 | [`II-Judgement/`](II-Judgement/README.md) |
 | **III. Wisdom (Wisdom & Poetry)** | In progress | 0 / 7 | — | — | — | — |
 | **IV. Providence (Prophets)** | In progress | 0 / 16 | — | — | — | — |
 
-## Division II. Judgement (9 / 15)
+## Division II. Judgement (15 / 15 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
@@ -33,3 +33,9 @@ This directory contains the **Saints Modern English** translation of the Latin C
 | 12 | 2 Kings | 25 | 718 | 122 | [`II-Judgement/markdown/12-2-kings/`](II-Judgement/markdown/12-2-kings/README.md) | [`12-2-kings.json`](II-Judgement/json/12-2-kings.json) |
 | 13 | 1 Chronicles | 29 | 926 | 142 | [`II-Judgement/markdown/13-1-chronicles/`](II-Judgement/markdown/13-1-chronicles/README.md) | [`13-1-chronicles.json`](II-Judgement/json/13-1-chronicles.json) |
 | 14 | 2 Chronicles | 36 | 821 | 165 | [`II-Judgement/markdown/14-2-chronicles/`](II-Judgement/markdown/14-2-chronicles/README.md) | [`14-2-chronicles.json`](II-Judgement/json/14-2-chronicles.json) |
+| 15 | Ezra | 10 | 280 | 51 | [`II-Judgement/markdown/15-ezra/`](II-Judgement/markdown/15-ezra/README.md) | [`15-ezra.json`](II-Judgement/json/15-ezra.json) |
+| 16 | Nehemiah | 13 | 389 | 65 | [`II-Judgement/markdown/16-nehemiah/`](II-Judgement/markdown/16-nehemiah/README.md) | [`16-nehemiah.json`](II-Judgement/json/16-nehemiah.json) |
+| 17 | Esther | 10 | 163 | 42 | [`II-Judgement/markdown/17-esther/`](II-Judgement/markdown/17-esther/README.md) | [`17-esther.json`](II-Judgement/json/17-esther.json) |
+| 18 | 1 Maccabees | 16 | 923 | 118 | [`II-Judgement/markdown/18-1-maccabees/`](II-Judgement/markdown/18-1-maccabees/README.md) | [`18-1-maccabees.json`](II-Judgement/json/18-1-maccabees.json) |
+| 19 | 2 Maccabees | 15 | 555 | 73 | [`II-Judgement/markdown/19-2-maccabees/`](II-Judgement/markdown/19-2-maccabees/README.md) | [`19-2-maccabees.json`](II-Judgement/json/19-2-maccabees.json) |
+| 20 | Job | 42 | 1,068 | 199 | [`II-Judgement/markdown/20-job/`](II-Judgement/markdown/20-job/README.md) | [`20-job.json`](II-Judgement/json/20-job.json) |
