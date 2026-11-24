@@ -31,7 +31,7 @@
 
 **10:13** And a voice came to him, "Rise, Peter; kill and eat."
 
-**10:14** But Peter said, "By no means, Lord, because I have never eaten anything common and unclean."
+**10:14** But Peter said, "Far from it, Lord, because I have never eaten anything common and unclean."
 
 **10:15** And a voice came to him again a second time, "What God has purified, you must not call common."
 

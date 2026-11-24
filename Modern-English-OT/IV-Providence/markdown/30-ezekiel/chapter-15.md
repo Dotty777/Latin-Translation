@@ -15,7 +15,7 @@
 
 **15:5** Even when it was intact, it was not fit for work; how much more, when fire has devoured it and burned it up, will no work be made from it?
 
-**15:6** Therefore, the Lord God says this: Just as the wood of the vine among the trees of the forests, which I have given to the fire to be devoured, so I will hand over the inhabitants of Jerusalem.
+**15:6** Therefore, this is what the Lord God says: Just as the wood of the vine among the trees of the forests, which I have given to the fire to be devoured, so I will hand over the inhabitants of Jerusalem.
 
 **15:7** And I will set My face against them; they will go out from the fire, and fire will consume them; and you will know that I am the Lord when I set My face against them,
 

@@ -60,7 +60,7 @@
 ## Translator Notes
 
 - **28:1** — Latin servans servabit (lit. "keeping, He will keep") is a Hebraizing intensive construction indicating that the Lord will strictly retain his sins in account.
-- **28:6** — The Vulgate omits the second half of Greek v. 6 ("remember corruption and death, and abide in the commandments"), and in v. 7 reads timorem Dei ("the fear of God") without the Greek second clause on the covenant of the Most High.
-- **28:14** — "A third tongue" (lingua tertia, also in v. 15) is an idiom for a slanderous or meddling tongue intervening as a third party between others. The Vulgate also omits the Greek closing clauses about pulling down strong cities and overturning the houses of great men.
+- **28:6** — This Latin text lacks the second half of Greek v. 6 ("remember corruption and death, and abide in the commandments"), and in v. 7 reads timorem Dei ("the fear of God") without the Greek second clause on the covenant of the Most High.
+- **28:14** — "A third tongue" (lingua tertia, also in v. 15) is an idiom for a slanderous or meddling tongue intervening as a third party between others. This Latin text also lacks the Greek closing clauses about pulling down strong cities and overturning the houses of great men.
 - **28:22** — The Vulgate reads Perseverantia illius non permanebit, sed obtinebit vias injustorum ("Its persistence will not endure, but it will hold the ways of the unrighteous"), whereas the Greek Septuagint reads "It will not have power over the godly."
 - **28:24** — The Vulgate reads aures tuas ("your ears," vs. Greek "your property"), adds "do not listen to a wicked tongue," and places "doors and bars" here rather than in v. 25, where the Vulgate instead reads confla ("melt down") and frenos ori tuo rectos ("proper bridles for your mouth").

@@ -59,11 +59,11 @@
 
 **22:27** And to the land toward which they lift up their soul to return there, they will not return."
 
-**22:28** Is this man Jeconiah an earthen and shattered vessel? Is he a vessel without any pleasure? Why have he and his offspring been cast away, and hurled into a land that they did not know?
+**22:28** Is this man Jeconiah an earthen and shattered vessel? Is he a vessel without any pleasure? Why have he and his seed been cast away, and hurled into a land that they did not know?
 
 **22:29** Land, land, land, hear the word of the Lord.
 
-**22:30** This is what the Lord says: "Write this man down as childless, a man who will not prosper in his days; for there will not be a man from his offspring who will sit on the throne of David and have power anymore in Judah."
+**22:30** This is what the Lord says: "Write this man down as childless, a man who will not prosper in his days; for there will not be a man from his seed who will sit on the throne of David and have power anymore in Judah."
 
 ## Translator Notes
 

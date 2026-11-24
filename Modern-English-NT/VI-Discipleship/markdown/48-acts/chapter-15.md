@@ -94,5 +94,5 @@
 - **15:2** — The Clementine Vulgate reads quidam alii ex aliis ("certain others from among the others" or "from the other side") rather than ex illis ("from among them"), and has only seditione ("dissension") without a second noun for "debate".
 - **15:14** — The Vulgate uses the standard form Simon where the Greek text uses the Semitic form Symeon.
 - **15:18** — The Vulgate reads this as a complete sentence with singular opus suum ("His work"), differing from both the shorter critical Greek text attached to verse 17 and the Byzantine plural ("all His works").
-- **15:33** — The Latin text omits verse 34 (present in some manuscripts and editions, stating that Silas decided to remain in Antioch), proceeding directly to verse 35.
+- **15:33** — Verse 34 (Silas's decision to remain in Antioch) is present in this Latin text and is shown as an additional verse after 15:33, since the Saints numbering has no slot for it.
 - **15:41** — The closing clause præcipiens custodire præcepta Apostolorum et seniorum ("commanding them to keep the precepts of the apostles and the elders") is a distinctive Western/Vulgate expansion absent from standard Greek editions; in verse 40 the Vulgate also reads gratiæ Dei ("grace of God") rather than "grace of the Lord".

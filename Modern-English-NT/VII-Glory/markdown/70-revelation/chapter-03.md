@@ -5,7 +5,7 @@
 
 ## Text
 
-**3:1** "And to the angel of the church of Sardis write: These things says the One who has the seven spirits of God and the seven stars: I know your works, that you have a name that you are alive, and you are dead.
+**3:1** "And to the angel of the church of Sardis write: This is what the One who has the seven spirits of God and the seven stars says: I know your works, that you have a name that you are alive, and you are dead.
 
 **3:2** Be watchful, and strengthen the remaining things that were about to die; for I do not find your works complete before My God.
 
@@ -17,7 +17,7 @@
 
 **3:6** Whoever has an ear, let him hear what the Spirit says to the churches.
 
-**3:7** And to the angel of the church of Philadelphia write: These things says the Holy One and the True One, who has the key of David, who opens and no one shuts, shuts and no one opens:
+**3:7** And to the angel of the church of Philadelphia write: This is what the Holy One and the True One, who has the key of David, who opens and no one shuts, shuts and no one opens, says:
 
 **3:8** I know your works. Look, I have set before you an open door that no one can shut, because you have little strength, and have kept My word, and have not denied My name.
 
@@ -31,7 +31,7 @@
 
 **3:13** Whoever has an ear, let him hear what the Spirit says to the churches.
 
-**3:14** And to the angel of the church of Laodicea write: These things says the Amen, the faithful and true witness, who is the beginning of the creation of God:
+**3:14** And to the angel of the church of Laodicea write: This is what the Amen, the faithful and true witness, who is the beginning of the creation of God, says:
 
 **3:15** I know your works, that you are neither cold nor hot; if only you were cold or hot!
 

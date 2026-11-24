@@ -31,19 +31,19 @@
 
 **38:13** Then the virgin will rejoice in the dance, young men and old men together; and I will turn their mourning into joy, and I will comfort them and make them glad after their sorrow.
 
-**38:14** And I will saturate the soul of the priests with richness, and My people will be filled with My good things, declares the Lord.
+**38:14** And I will saturate the soul of the priests with richness, and My people will be filled with My good things, says the Lord.
 
 **38:15** This is what the Lord says: "A voice of lamentation has been heard on high, mourning and weeping of Rachel, wailing for her children and unwilling to be comforted over them, because they are no more."
 
-**38:16** This is what the Lord says: "Let your voice cease from wailing, and your eyes from tears, for there is a reward for your work," declares the Lord, "and they will return from the land of the enemy;
+**38:16** This is what the Lord says: "Let your voice cease from wailing, and your eyes from tears, for there is a reward for your work," says the Lord, "and they will return from the land of the enemy;
 
-**38:17** and there is hope for your final days," declares the Lord, "and the children will return to their own borders."
+**38:17** and there is hope for your final days," says the Lord, "and the children will return to their own borders."
 
 **38:18** Hearing, I have heard Ephraim going into exile: "You have disciplined me, and I have been instructed, like an untamed young bull; turn me back, and I will be turned back, for You are the Lord my God.
 
 **38:19** For after You turned me back, I repented; and after You showed me, I struck my thigh. I was put to shame and blushed, because I bore the reproach of my youth."
 
-**38:20** Is Ephraim an honorable son to Me? Is he a cherished child? For from the time I spoke about him, I will still remember him. Therefore My inward parts have been stirred over him; showing mercy, I will have mercy on him, declares the Lord.
+**38:20** Is Ephraim an honorable son to Me? Is he a cherished child? For from the time I spoke about him, I will still remember him. Therefore My inward parts have been stirred over him; showing mercy, I will have mercy on him, says the Lord.
 
 **38:21** Set up a watchtower for yourself; place bitternesses for yourself; direct your heart to the straight path on which you walked; return, virgin Israel, return to these cities of yours.
 
@@ -59,7 +59,7 @@
 
 **38:27** "Look, days are coming," says the Lord, "and I will sow the house of Israel and the house of Judah with the seed of humans and the seed of livestock.
 
-**38:28** And just as I watched over them to uproot and tear down, to scatter, destroy, and afflict, so I will watch over them to build and to plant," declares the Lord.
+**38:28** And just as I watched over them to uproot and tear down, to scatter, destroy, and afflict, so I will watch over them to build and to plant," says the Lord.
 
 **38:29** In those days they will no longer say, "The fathers ate a sour grape, and the teeth of the children have grown numb."
 
@@ -71,13 +71,13 @@
 
 **38:33** "Rather, this will be the covenant that I will make with the house of Israel after those days," says the Lord: "I will put My law in their inward parts, and I will write it on their heart, and I will be God to them, and they will be a people to Me;
 
-**38:34** and a man will no longer teach his neighbor, nor a man his brother, saying, 'Know the Lord,' for they will all know Me, from the least of them to the greatest," declares the Lord, "because I will be merciful toward their iniquity, and I will remember their sin no longer."
+**38:34** and a man will no longer teach his neighbor, nor a man his brother, saying, 'Know the Lord,' for they will all know Me, from the least of them to the greatest," says the Lord, "because I will be merciful toward their iniquity, and I will remember their sin no longer."
 
-**38:35** This is what the Lord says: "If the heavens above can be measured, and the foundations of the earth below can be searched out, then I too will cast off all the offspring of Israel because of all that they have done," says the Lord.
+**38:35** This is what the Lord says: "If the heavens above can be measured, and the foundations of the earth below can be searched out, then I too will cast off all the seed of Israel because of all that they have done," says the Lord.
 
 **38:36** This is what the Lord says, who gives the sun for the light of day, the order of the moon and the stars for the light of night; who stirs up the sea, and its waves roar; the Lord of hosts is His name:
 
-**38:37** "If these laws fail before Me," says the Lord, "then the offspring of Israel will also fail, so that it will not be a nation before Me for all days."
+**38:37** "If these laws fail before Me," says the Lord, "then the seed of Israel will also fail, so that it will not be a nation before Me for all days."
 
 **38:38** "Look, days are coming," says the Lord, "and the city will be built for the Lord, from the tower of Hananel to the Corner Gate.
 

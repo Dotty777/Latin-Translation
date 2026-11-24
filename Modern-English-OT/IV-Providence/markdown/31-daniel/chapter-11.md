@@ -15,7 +15,7 @@
 
 **11:5** And the king of the south will be strengthened; and one of his princes will prevail over him, and he will rule with authority, for great will be his dominion.
 
-**11:6** And after the end of years they will make an alliance; and the daughter of the king of the south will come to the king of the north to make friendship, and she will not retain the strength of the arm, nor will her offspring stand; and she herself will be handed over, and her young men who brought her, and those who were strengthening her in the times.
+**11:6** And after the end of years they will make an alliance; and the daughter of the king of the south will come to the king of the north to make friendship, and she will not retain the strength of the arm, nor will her seed stand; and she herself will be handed over, and her young men who brought her, and those who were strengthening her in the times.
 
 **11:7** And a planting from the sprout of her roots will stand; and he will come with an army and enter the province of the king of the north, and he will mistreat them and prevail.
 

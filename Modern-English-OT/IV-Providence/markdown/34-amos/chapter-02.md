@@ -5,17 +5,17 @@
 
 ## Text
 
-**2:1** The Lord says this: "For three crimes of Moab, and for four, I will not turn it back, because it burned the bones of the king of Idumea to ashes.
+**2:1** This is what the Lord says: "For three crimes of Moab, and for four, I will not turn it back, because it burned the bones of the king of Idumea to ashes.
 
 **2:2** And I will send fire into Moab, and it will devour the dwellings of Kerioth; and Moab will die with uproar, with the blare of the trumpet.
 
 **2:3** And I will destroy the judge from its midst, and I will kill all its princes with him," says the Lord.
 
-**2:4** The Lord says this: "For three crimes of Judah, and for four, I will not turn it back, because it rejected the law of the Lord and did not keep His commandments; for their idols had deceived them, after which their fathers had gone.
+**2:4** This is what the Lord says: "For three crimes of Judah, and for four, I will not turn it back, because it rejected the law of the Lord and did not keep His commandments; for their idols had deceived them, after which their fathers had gone.
 
 **2:5** And I will send fire into Judah, and it will devour the dwellings of Jerusalem."
 
-**2:6** The Lord says this: "For three crimes of Israel, and for four, I will not turn it back, because it sold the righteous for silver, and the poor for sandals.
+**2:6** This is what the Lord says: "For three crimes of Israel, and for four, I will not turn it back, because it sold the righteous for silver, and the poor for sandals.
 
 **2:7** They crush the heads of the poor upon the dust of the earth, and turn aside the way of the humble; and a son and his father went to the girl, to violate My holy name.
 

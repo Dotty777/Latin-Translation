@@ -15,7 +15,7 @@
 
 **41:5** The children of sinners become children of abominations, as do those who live beside the houses of the ungodly.
 
-**41:6** The inheritance of the children of sinners will perish, and with their offspring will be continual disgrace.
+**41:6** The inheritance of the children of sinners will perish, and with their seed will be continual disgrace.
 
 **41:7** Children complain about an ungodly father, for on account of him they are in disgrace.
 

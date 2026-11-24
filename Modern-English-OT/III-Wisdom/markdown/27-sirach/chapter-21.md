@@ -63,7 +63,7 @@
 
 ## Translator Notes
 
-- **21:2** — Vulgate reads suscipient te ("they will take hold of you"), whereas the Greek reads "it will bite you"; the Greek's following line on a lion's teeth stands in the Vulgate as a separate line (Dentes leonis dentes ejus, interficientes animas hominum).
+- **21:2** — Vulgate reads suscipient te ("they will take hold of you"), whereas the Greek reads "it will bite you"; this Latin text lacks the Greek's following line on a lion's teeth.
 - **21:5** — Latin ejus ("His") implicitly refers to God as the hearer of the poor person's plea.
 - **21:7** — Vulgate adds audaci ("bold") and reads scit labi se ab ipso ("knows that he slips from him"), whereas the Greek means "knows when the other slips."
 - **21:8** — Vulgate in hieme ("in winter") reflects a Greek variant meaning "for winter" rather than the usual Greek reading "for his burial mound."

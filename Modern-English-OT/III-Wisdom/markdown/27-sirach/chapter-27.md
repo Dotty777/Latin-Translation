@@ -43,7 +43,7 @@
 
 **27:19** And just as one who releases a bird from his hand, so you have abandoned your neighbor, and you will not catch him.
 
-**27:20** Do not pursue him, because he is far away; for he has escaped like a gazelle from a snare, because his soul has been wounded.
+**27:20** Do not pursue him, because he is far away; for he has escaped like a roe deer from a snare, because his soul has been wounded.
 
 **27:21** You will no longer be able to bind him up. And for a curse there is reconciliation.
 
@@ -71,4 +71,4 @@
 - **27:8** — Latin poderem denotes a foot-length priestly robe. The entire second half of the verse ("and you will dwell with her... find a firm support") is a Vulgate expansion from the Old Latin tradition absent from the shorter Greek text.
 - **27:11** — The Vulgate reads Homo sanctus in sapientia manet sicut sol ("A holy man remains in wisdom like the sun"), whereas the Greek Septuagint reads "The discourse of a godly person is always wisdom."
 - **27:18** — The Vulgate reads amicum suum ("his friend") and third-person qui perdit ("the one who loses"), whereas the Greek Septuagint reads "his enemy" (or "a dead man") and addresses the reader in the second person.
-- **27:21** — Following the added clause at the end of v. 20, the Vulgate negates the opening clause ("you will no longer be able to bind him up," vs. Greek "a wound can be bound up") and omits the closing clause about one who reveals secrets losing hope.
+- **27:21** — Following the added clause at the end of v. 20, this Latin text negates the opening clause ("you will no longer be able to bind him up," vs. Greek "a wound can be bound up") and omits the closing clause about one who reveals secrets losing hope.

@@ -33,13 +33,13 @@
 
 **28:14** Because of this, hear the word of the Lord, mocking men, who rule over My people who are in Jerusalem.
 
-**28:15** For you have said, "We have struck a covenant with death, and with the underworld we have made a pact; when the overflowing scourge passes through, it will not come upon us, because we have set falsehood as our hope, and by falsehood we have been protected."
+**28:15** For you have said, "We have struck a covenant with death, and with the underworld we have made a covenant; when the overflowing scourge passes through, it will not come upon us, because we have set falsehood as our hope, and by falsehood we have been protected."
 
 **28:16** Therefore this is what the Lord God says: "Look, I will place in the foundations of Zion a stone, a tested stone, a cornerstone, precious, founded in the foundation; let the one who believes not hurry.
 
 **28:17** And I will set judgment by weight, and justice by measure; and hail will overturn the hope of falsehood, and waters will overflow the protection.
 
-**28:18** And your covenant with death will be blotted out, and your pact with the underworld will not stand; when the overflowing scourge passes through, you will be to it for trampling.
+**28:18** And your covenant with death will be blotted out, and your covenant with the underworld will not stand; when the overflowing scourge passes through, you will be to it for trampling.
 
 **28:19** Whenever it passes through, it will carry you away, for in the morning at daybreak it will pass through, by day and by night; and only vexation alone will give understanding to what is heard.
 

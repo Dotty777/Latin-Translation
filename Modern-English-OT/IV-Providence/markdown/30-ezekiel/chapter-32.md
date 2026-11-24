@@ -9,7 +9,7 @@
 
 **32:2** "Son of man, take up a lament over Pharaoh king of Egypt, and you will say to him, 'You have been likened to a lion of the nations and to a dragon that is in the sea; and you thrust with a horn in your rivers, and stirred up the waters with your feet, and trampled their rivers.
 
-**32:3** Therefore the Lord God says this: "I will spread My net over you in a multitude of many peoples, and I will draw you out in My dragnet.
+**32:3** Therefore this is what the Lord God says: "I will spread My net over you in a multitude of many peoples, and I will draw you out in My dragnet.
 
 **32:4** And I will cast you onto the earth; upon the face of the field I will fling you, and I will cause all the birds of the sky to dwell upon you, and I will satisfy the beasts of the whole earth from you.
 
@@ -25,7 +25,7 @@
 
 **32:10** And I will make many peoples astounded over you, and their kings will be in dread over you with extreme horror when My sword begins to fly over their faces; and each one will suddenly be stunned for his own life on the day of your ruin."
 
-**32:11** For the Lord God says this: "The sword of the king of Babylon will come to you.
+**32:11** For this is what the Lord God says: "The sword of the king of Babylon will come to you.
 
 **32:12** By the swords of the mighty I will cast down your multitude; unconquerable are all these nations, and they will lay waste the pride of Egypt, and its multitude will be dispersed.
 

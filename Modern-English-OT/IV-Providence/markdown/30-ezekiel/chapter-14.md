@@ -11,11 +11,11 @@
 
 **14:3** "Son of man, these men have placed their impurities in their hearts and have set up the stumbling block of their iniquity in front of their face. When inquired of, will I really answer them?
 
-**14:4** For this reason, speak to them and you will say to them, 'The Lord God says this: Each and every man from the house of Israel who places his impurities in his heart, and sets up the stumbling block of his iniquity in front of his face, and comes to a prophet inquiring of Me through him—I, the Lord, will answer him in the multitude of his impurities,
+**14:4** For this reason, speak to them and you will say to them, 'This is what the Lord God says: Each and every man from the house of Israel who places his impurities in his heart, and sets up the stumbling block of his iniquity in front of his face, and comes to a prophet inquiring of Me through him—I, the Lord, will answer him in the multitude of his impurities,
 
 **14:5** so that the house of Israel may be captured in its heart, by which they have departed from Me in all their idols.'
 
-**14:6** Therefore say to the house of Israel, 'The Lord God says this: Turn back and depart from your idols, and turn your faces away from all your defilements.
+**14:6** Therefore say to the house of Israel, 'This is what the Lord God says: Turn back and depart from your idols, and turn your faces away from all your defilements.
 
 **14:7** For each and every man from the house of Israel, and from the proselytes, whoever is a resident alien in Israel, if he becomes estranged from Me, and places his idols in his heart, and sets up the stumbling block of his iniquity in front of his face, and comes to a prophet to inquire of Me through him—I, the Lord, will answer him by Myself;
 
@@ -45,7 +45,7 @@
 
 **14:20** and Noah, and Daniel, and Job are in its midst: as I live, says the Lord God, indeed they will not deliver a son or a daughter, but they themselves by their righteousness will deliver their own lives.
 
-**14:21** For the Lord God says this: Even if I send My four worst judgments—sword, and famine, and evil beasts, and pestilence—into Jerusalem to kill man and livestock from it,
+**14:21** For this is what the Lord God says: Even if I send My four worst judgments—sword, and famine, and evil beasts, and pestilence—into Jerusalem to kill man and livestock from it,
 
 **14:22** yet there will be left in it a deliverance of those leading out sons and daughters; look, they themselves will come in to you, and you will see their way and their contrivances, and you will be consoled over the calamity that I have brought upon Jerusalem, in all things that I have brought in upon it.
 

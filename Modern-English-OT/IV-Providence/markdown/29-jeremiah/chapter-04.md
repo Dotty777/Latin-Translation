@@ -9,7 +9,7 @@
 
 **4:2** And you will swear, 'The Lord lives,' in truth, and in judgment, and in righteousness; and the nations will bless Him, and will praise Him."
 
-**4:3** For the Lord says these things to the man of Judah and to Jerusalem: "Break up new ground for yourselves, and do not sow upon thorns.
+**4:3** For this is what the Lord says to the man of Judah and to Jerusalem: "Break up new ground for yourselves, and do not sow upon thorns.
 
 **4:4** Be circumcised to the Lord, and remove the foreskins of your hearts, men of Judah and inhabitants of Jerusalem, so that My indignation may not go out like fire and be kindled, with no one to extinguish it, because of the wickedness of your thoughts."
 
@@ -57,7 +57,7 @@
 
 **4:26** I looked, and look, Carmel was a desert, and all its cities were destroyed before the face of the Lord, and before the face of the anger of His fury.
 
-**4:27** For the Lord says these things: "The whole earth will be desolate, yet I will not make a complete end.
+**4:27** For this is what the Lord says: "The whole earth will be desolate, yet I will not make a complete end.
 
 **4:28** The earth will mourn, and the heavens above will grieve, because I have spoken. I have purposed it, and I have not relented, nor have I turned away from it."
 

@@ -75,7 +75,7 @@
 
 **3:35** and do not take away Your mercy from us, for the sake of Abraham Your beloved, and Isaac Your servant, and Israel Your holy one,
 
-**3:36** to whom You spoke, promising that You would multiply their offspring like the stars of heaven and like the sand that is on the shore of the sea;
+**3:36** to whom You spoke, promising that You would multiply their seed like the stars of heaven and like the sand that is on the shore of the sea;
 
 **3:37** for, Lord, we have been diminished more than all the nations, and we are lowly throughout the whole earth today because of our sins.
 

@@ -55,6 +55,6 @@
 
 - **8:1** — Both here (Velociter spolia detrahe, cito praedare) and in 8:3 (Accelera spolia detrahere; Festina praedari), the Vulgate translates the Hebrew symbolic name Maher-shalal-hash-baz directly into Latin rather than transliterating it.
 - **8:6** — The Vulgate reads "has rather adopted" (assumpsit magis) Rezin and the son of Remaliah, where the Hebrew Masoretic Text has "and rejoicing in."
-- **8:21** — The Clementine Vulgate prints suscipiet sursum, a traditional orthographic variant for suspiciet sursum ("will look upward"), parallel to "gaze at the earth" in 8:22.
+- **8:21** — This Latin text reads suscipiet sursum, an orthographic variant for suspiciet sursum ("will look upward"), parallel to "gaze at the earth" in 8:22.
 - **8:22** — The Vulgate joins the opening clause of Hebrew 8:23 (English 9:1) to the end of 8:22 and derives its verb from the root "to fly," reading "and he will not be able to fly away from his anguish" (et non poterit avolare de angustia sua).
 - **8:23** — Following Hebrew versification (corresponding to English 9:1), the Vulgate renders the Hebrew antithesis literally through passive verbs of weight, "was lightened" (alleviata est) versus "was weighed down" (aggravata est); the Hebrew verbs can also mean "treated with contempt" and "made glorious."

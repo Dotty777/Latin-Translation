@@ -25,11 +25,11 @@
 
 **44:10** But those are men of mercy, whose acts of devotion have not failed.
 
-**44:11** With their offspring good things endure;
+**44:11** With their seed good things endure;
 
-**44:12** their descendants are a holy inheritance, and in the covenants their offspring stood;
+**44:12** their descendants are a holy inheritance, and in the covenants their seed stood;
 
-**44:13** and for their sake their children remain forever; their offspring and their glory will not be abandoned.
+**44:13** and for their sake their children remain forever; their seed and their glory will not be abandoned.
 
 **44:14** Their bodies were buried in peace, and their name lives from generation to generation.
 

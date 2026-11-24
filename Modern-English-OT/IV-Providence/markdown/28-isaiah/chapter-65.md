@@ -21,7 +21,7 @@
 
 **65:8** This is what the Lord says: "Just as when a grape is found in a cluster, and it is said, 'Do not destroy it, for it is a blessing,' so I will do for the sake of My servants, so that I will not destroy the whole.
 
-**65:9** And I will bring forth offspring from Jacob, and from Judah one who possesses My mountains; and My chosen ones will inherit it, and My servants will dwell there.
+**65:9** And I will bring forth a seed from Jacob, and from Judah one who possesses My mountains; and My chosen ones will inherit it, and My servants will dwell there.
 
 **65:10** And the plains will become folds for flocks, and the Valley of Achor a resting place for herds, for My people who have sought Me.
 
@@ -49,7 +49,7 @@
 
 **65:22** They will not build and another dwell there; they will not plant and another eat: for according to the days of a tree will be the days of My people, and the works of their hands will grow old.
 
-**65:23** My chosen ones will not labor in vain, nor bring forth children in turmoil, for they are the offspring of the blessed of the Lord, and their descendants are with them.
+**65:23** My chosen ones will not labor in vain, nor bring forth children in turmoil, for they are the seed of the blessed of the Lord, and their descendants are with them.
 
 **65:24** And it will happen that before they cry out, I will answer; while they are still speaking, I will hear.
 

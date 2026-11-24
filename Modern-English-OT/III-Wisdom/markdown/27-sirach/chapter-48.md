@@ -58,7 +58,7 @@
 ## Translator Notes
 
 - **48:2** — Vulgate reads 'those provoking him by their envy became few, for they could not endure the commands of the Lord,' whereas the Greek reads 'by his zeal he made them few in number' and lacks the closing clause.
-- **48:6** — Clementine Latin spells the noun pernicem (for perniciem, 'destruction') and adds the clause 'and easily shattered their power,' absent from the standard Greek.
+- **48:6** — This Latin text spells the noun pernicem (for perniciem, 'destruction') and adds the clause 'and easily shattered their power,' absent from the standard Greek.
 - **48:8** — Vulgate reads 'to repentance' (ad poenitentiam) and plural 'prophets' (prophetas), whereas the Greek has 'for retribution' and singular 'a prophet.'
-- **48:11** — Vulgate reads 'were adorned in your friendship' (decorati sunt, reflecting the Greek variant kekosmenoi) and omits the Greek closing clause 'for we too shall surely live.'
+- **48:11** — Vulgate reads 'were adorned in your friendship' (decorati sunt, reflecting the Greek variant kekosmenoi); this Latin text lacks the Greek closing clause 'for we too shall surely live.'
 - **48:24** — Vulgate attaches 'forever' (usque in sempiternum) to the end of verse 24, whereas in the Greek the phrase opens verse 25 ('to the end of time he revealed what was to occur').

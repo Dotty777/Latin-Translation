@@ -53,7 +53,7 @@
 
 **26:25** The Lord of hosts, the God of Israel, has said: "Look, I will visit upon the tumult of Alexandria, and upon Pharaoh, and upon Egypt, and upon her gods, and upon her kings, and upon Pharaoh, and upon those who trust in him.
 
-**26:27** And you, do not fear, My servant Jacob, and do not be dismayed, Israel; for look, I will save you from afar, and your offspring from the land of your captivity; and Jacob will return, and will rest, and will prosper, and there will be no one to terrify him.
+**26:27** And you, do not fear, My servant Jacob, and do not be dismayed, Israel; for look, I will save you from afar, and your seed from the land of your captivity; and Jacob will return, and will rest, and will prosper, and there will be no one to terrify him.
 
 **26:28** And you, do not fear, My servant Jacob," says the Lord, "for I am with you; for I will consume all the nations to which I have driven you out, yet I will not consume you; but I will discipline you in justice, and I will not spare you as if innocent."
 

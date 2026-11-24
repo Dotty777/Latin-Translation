@@ -39,7 +39,7 @@
 
 ## Translator Notes
 
-- **49:1** — The Clementine Vulgate ends verse 1 after 'the work of a perfumer,' omitting the Greek lines comparing Josiah's memory to honey and banquet music.
+- **49:1** — This Latin text ends verse 1 after 'the work of a perfumer,' omitting the Greek lines comparing Josiah's memory to honey and banquet music.
 - **49:9** — Following the Greek (which misread Hebrew 'Job' as 'enemies'), Vulgate reads 'the enemies in the rain' and renders the closing clause 'who showed the right ways' (Greek: 'who kept straight ways').
 - **49:10** — Vulgate reads reflexive 'redeemed themselves in the faith of strength' (redemerunt se in fide virtutis), whereas the Greek has 'delivered them by confident hope.'
 - **49:15** — Vulgate doubles the Greek epithets for Joseph ('prince of his brothers, support of the nation, ruler of his brothers, mainstay of the people') and adds 'and after death they prophesied,' absent from the standard Greek.

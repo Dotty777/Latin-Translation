@@ -25,7 +25,7 @@
 
 **7:10** And Amaziah, the priest of Bethel, sent to Jeroboam, king of Israel, saying, "Amos has rebelled against you in the midst of the house of Israel; the land will not be able to bear all his words.
 
-**7:11** For Amos says these things: 'Jeroboam will die by the sword, and Israel will go away captive from its land.'"
+**7:11** For this is what Amos says: 'Jeroboam will die by the sword, and Israel will go away captive from its land.'"
 
 **7:12** And Amaziah said to Amos, "You who see, go: flee into the land of Judah, and eat bread there, and you will prophesy there.
 
@@ -37,7 +37,7 @@
 
 **7:16** And now hear the word of the Lord: you say, 'You will not prophesy against Israel, and you will not drip upon the house of the idol.'
 
-**7:17** Because of this, the Lord says these things: 'Your wife will act as a prostitute in the city, and your sons and your daughters will fall by the sword, and your ground will be measured with a line; and you will die in a polluted land, and Israel will go away captive from its land.'"
+**7:17** Because of this, this is what the Lord says: 'Your wife will act as a prostitute in the city, and your sons and your daughters will fall by the sword, and your ground will be measured with a line; and you will die in a polluted land, and Israel will go away captive from its land.'"
 
 ## Translator Notes
 

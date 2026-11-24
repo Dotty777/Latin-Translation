@@ -13,7 +13,7 @@
 
 **32:4** He also sent messengers ahead of him to his brother Esau in the land of Seir, in the regions of Edom,
 
-**32:5** and he commanded them, saying, "Speak in this way to my lord Esau: 'Your brother Jacob says this: I have lived as a foreigner with Laban and have remained until the present day.
+**32:5** and he commanded them, saying, "Speak in this way to my lord Esau: 'This is what your brother Jacob says: I have lived as a foreigner with Laban and have remained until the present day.
 
 **32:6** I have cattle and donkeys, sheep, and male servants and female servants, and now I am sending a delegation to my lord so that I may find favor in your sight.'"
 

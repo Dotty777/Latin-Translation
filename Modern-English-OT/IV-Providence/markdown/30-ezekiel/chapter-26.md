@@ -50,6 +50,6 @@
 ## Translator Notes
 
 - **26:9** — Latin vineas et arietes ("siege sheds and battering rams") adapts Roman military terminology—vineae being movable protective shelters—to render Hebrew "the blow of his battering ram," while in armatura sua ("with his weaponry") renders Hebrew "with his axes/swords."
-- **26:16** — Vulgate super repentino casu tuo ("at your sudden fall") takes the Hebrew phrase usually rendered "every moment" (lirga'im) in the sense of suddenness.
+- **26:16** — Vulgate super repentino casu tuo ("at your sudden fall") takes the Hebrew phrase meaning "every moment" (lirga'im) in the sense of suddenness.
 - **26:18** — Vulgate naves ("ships") differs from the Hebrew Masoretic Text's "coastlands/islands" (ha-iyim), and eo quod nullus egrediatur ex te ("because no one goes out from you") interprets Hebrew mi-tzetekh ("at your departure").
 - **26:20** — Vulgate populum sempiternum ("the everlasting people") renders Hebrew am olam ("people of old"), and porro cum dedero gloriam ("moreover, when I give glory") construes the clause temporally as leading into v. 21's main verb, in nihilum redigam te ("I will reduce you to nothing," where Hebrew reads "a terror").

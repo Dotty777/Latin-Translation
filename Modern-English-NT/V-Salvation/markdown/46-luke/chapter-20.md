@@ -35,7 +35,7 @@
 
 **20:15** And after throwing him out of the vineyard, they killed him. What then will the master of the vineyard do to them?
 
-**20:16** He will come and destroy those tenant farmers, and give the vineyard to others." Upon hearing this, they said to Him, "May that never happen!"
+**20:16** He will come and destroy those tenant farmers, and give the vineyard to others." Upon hearing this, they said to Him, "Far from it!"
 
 **20:17** But He, looking at them, said, "What then is this that is written: 'The stone that the builders rejected, this one has become the head of the corner'?
 

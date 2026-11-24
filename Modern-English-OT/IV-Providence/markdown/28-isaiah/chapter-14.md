@@ -43,7 +43,7 @@
 
 **14:19** but you have been cast out from your tomb like a useless shoot, defiled and wrapped up with those who were killed by the sword and went down to the foundations of the pit, like a rotting corpse.
 
-**14:20** You will not have fellowship, not even with them in burial; for you have destroyed your own land, you have killed your own people; the offspring of the most wicked will not be named forever.
+**14:20** You will not have fellowship, not even with them in burial; for you have destroyed your own land, you have killed your own people; the seed of the most wicked will not be named forever.
 
 **14:21** Prepare his sons for slaughter because of the iniquity of their fathers; they will not rise up, nor inherit the earth, nor fill the face of the world with cities."
 
@@ -61,7 +61,7 @@
 
 **14:28** In the year in which King Ahaz died, this burden came:
 
-**14:29** Do not rejoice, all of you, Philistia, because the rod of the one who struck you has been broken to pieces; for from the root of the serpent a basilisk will come out, and its offspring will swallow up the bird.
+**14:29** Do not rejoice, all of you, Philistia, because the rod of the one who struck you has been broken to pieces; for from the root of the serpent a basilisk will come out, and its seed will swallow up the bird.
 
 **14:30** And the firstborn of the poor will feed, and the poor will rest confidently; and I will make your root perish in famine, and I will kill your remnant.
 

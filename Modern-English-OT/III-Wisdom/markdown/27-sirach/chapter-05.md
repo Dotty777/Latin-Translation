@@ -39,6 +39,6 @@
 
 - **5:1** — Latin adds "unjust" (iniquas) and the closing clause "for it will profit nothing in the time of vengeance and calamity" (in tempore vindictae et obductionis), both absent in the standard Greek text. The Latin noun obductio (literally "a bringing-upon" or "covering over," calquing Greek epagoge) denotes affliction or calamity (also in 5:8).
 - **5:3** — Latin "How was I able?" (Quomodo potui?) is a Vulgate-distinct reading where the Greek has "Who will have power over me?" The closing phrase "will surely take vengeance" translates the emphatic Latin participle-and-verb idiom vindicans vindicabit (literally "avenging, will avenge").
-- **5:5** — The Clementine Vulgate prints De propitiatio peccato (understood as a variant of propitiato peccato, "concerning a propitiated/forgiven sin"), differing from the Greek "concerning atonement."
+- **5:5** — This Latin text reads De propitiatio peccato (understood as a variant of propitiato peccato, "concerning a propitiated/forgiven sin"), differing from the Greek "concerning atonement."
 - **5:11** — Vulgate "Be gentle in hearing" (Esto mansuetus ad audiendum) is a distinct Latin reading where the Greek has "Be swift to hear."
 - **5:15** — Vulgate "Do justice to small and great alike" (Justifica pusillum et magnum similiter, literally "Justify the small and the great alike") differs from the Greek "In great and small matters do not err."

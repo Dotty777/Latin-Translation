@@ -53,7 +53,7 @@
 
 **51:24** Then Jeremiah said to all the people and to all the women, "Hear the word of the Lord, all Judah who are in the land of Egypt.
 
-**51:25** This is what the Lord of hosts, the God of Israel, speaks, saying: You and your wives have spoken with your mouth, and with your hands you have fulfilled it, saying, 'Let us perform our vows that we have vowed, to sacrifice to the queen of heaven and to pour out libations to her.' You have fulfilled your vows, and in deed you have carried them out.
+**51:25** This is what the Lord of hosts, the God of Israel, says: You and your wives have spoken with your mouth, and with your hands you have fulfilled it, saying, 'Let us perform our vows that we have vowed, to sacrifice to the queen of heaven and to pour out libations to her.' You have fulfilled your vows, and in deed you have carried them out.
 
 **51:26** Therefore hear the word of the Lord, all Judah who live in the land of Egypt: Look, I have sworn by My great name, says the Lord, that My name will by no means any longer be called upon from the mouth of any Jewish man saying, 'The Lord God lives,' in all the land of Egypt.
 

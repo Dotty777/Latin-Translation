@@ -21,7 +21,7 @@
 
 **2:8** and he said to him, "Run, speak to that young man, saying, 'Jerusalem will be inhabited without a wall, because of the multitude of people and livestock in its midst.
 
-**2:9** And I will be to it, declares the Lord, a wall of fire all around, and I will be in glory in its midst.'"
+**2:9** And I will be to it, says the Lord, a wall of fire all around, and I will be in glory in its midst.'"
 
 **2:10** "Oh! Oh! Flee from the land of the north," says the Lord, "for I have dispersed you into the four winds of heaven," says the Lord.
 
@@ -31,7 +31,7 @@
 
 **2:13** For look, I raise My hand over them, and they will become plunder for those who were serving them; and you will know that the Lord of hosts has sent Me.
 
-**2:14** Give praise and rejoice, daughter of Zion, for look, I am coming, and I will dwell in your midst," declares the Lord.
+**2:14** Give praise and rejoice, daughter of Zion, for look, I am coming, and I will dwell in your midst," says the Lord.
 
 **2:15** "And many nations will be joined to the Lord in that day, and they will be a people to Me, and I will dwell in your midst; and you will know that the Lord of hosts has sent Me to you."
 

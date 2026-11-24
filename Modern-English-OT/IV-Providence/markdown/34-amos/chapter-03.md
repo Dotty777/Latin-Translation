@@ -25,9 +25,9 @@
 
 **3:10** "And they did not know how to do what is right," says the Lord, "storing up iniquity and plunder in their dwellings."
 
-**3:11** Therefore the Lord God says this: "The land will be afflicted and surrounded, and your strength will be stripped from you, and your dwellings will be plundered."
+**3:11** Therefore this is what the Lord God says: "The land will be afflicted and surrounded, and your strength will be stripped from you, and your dwellings will be plundered."
 
-**3:12** The Lord says this: "Just as if a shepherd rescues from the mouth of a lion two legs, or the tip of an ear, so will the sons of Israel be rescued, who dwell in Samaria on the corner of a couch, and on a bed of Damascus."
+**3:12** This is what the Lord says: "Just as if a shepherd rescues from the mouth of a lion two legs, or the tip of an ear, so will the sons of Israel be rescued, who dwell in Samaria on the corner of a couch, and on a bed of Damascus."
 
 **3:13** "Hear, and bear witness in the house of Jacob," says the Lord God of hosts;
 

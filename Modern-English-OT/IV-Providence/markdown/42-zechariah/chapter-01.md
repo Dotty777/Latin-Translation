@@ -9,7 +9,7 @@
 
 **1:2** "The Lord was angry against your fathers with wrath.
 
-**1:3** And you will say to them, 'This is what the Lord of hosts says: Turn back to Me, declares the Lord of hosts, and I will turn back to you, says the Lord of hosts.
+**1:3** And you will say to them, 'This is what the Lord of hosts says: Turn back to Me, says the Lord of hosts, and I will turn back to you, says the Lord of hosts.
 
 **1:4** Do not be like your fathers, to whom the former prophets cried out, saying, "This is what the Lord of hosts says: Turn back from your evil ways and from your most wicked thoughts." And they did not listen, nor did they pay attention to Me, says the Lord.
 
@@ -35,7 +35,7 @@
 
 **1:15** and with great anger I am angry against the wealthy nations, because I was a little angry, yet they themselves helped toward evil.
 
-**1:16** Therefore this is what the Lord says: I will return to Jerusalem with mercies, and My house will be built in it, declares the Lord of hosts, and a plumb line will be stretched over Jerusalem.'
+**1:16** Therefore this is what the Lord says: I will return to Jerusalem with mercies, and My house will be built in it, says the Lord of hosts, and a plumb line will be stretched over Jerusalem.'
 
 **1:17** Cry out again, saying, 'This is what the Lord of hosts says: My cities will again overflow with good things, and the Lord will again comfort Zion and will again choose Jerusalem.'"
 

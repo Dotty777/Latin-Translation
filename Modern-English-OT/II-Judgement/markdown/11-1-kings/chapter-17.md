@@ -31,7 +31,7 @@
 
 **17:13** Elijah said to her, "Do not be afraid, but go and do as you have said; yet first make for me from that little bit of flour a small loaf baked under the ashes and bring it to me, and for yourself and your son you will make it afterward.
 
-**17:14** For the Lord God of Israel says this: 'The jar of flour will not run out, nor will the flask of oil be reduced, until the day on which the Lord will give rain upon the face of the earth.'"
+**17:14** For this is what the Lord God of Israel says: 'The jar of flour will not run out, nor will the flask of oil be reduced, until the day on which the Lord will give rain upon the face of the earth.'"
 
 **17:15** So she went and did according to the word of Elijah; and he, she, and her household ate; and from that day
 

@@ -19,7 +19,7 @@
 
 **33:7** Look, the seers will cry aloud outside; the messengers of peace will weep bitterly.
 
-**33:8** The roads have been laid waste, the one passing along the path has ceased; the treaty has been made void, he has cast aside the cities, he has had no regard for men.
+**33:8** The roads have been laid waste, the one passing along the path has ceased; the covenant has been made void, he has cast aside the cities, he has had no regard for men.
 
 **33:9** The land has mourned and languished; Lebanon has been put to shame and has become squalid; and Sharon has become like a desert, and Bashan and Carmel have been shaken.
 

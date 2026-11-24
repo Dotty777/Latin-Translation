@@ -45,15 +45,15 @@
 
 **45:20** And He added glory to Aaron, and gave him an inheritance, and He allotted to him the firstfruits of the produce of the land.
 
-**45:21** First of all, He prepared bread for them to the full; for they will also eat the sacrifices of the Lord, which He gave to him and to his offspring.
+**45:21** First of all, He prepared bread for them to the full; for they will also eat the sacrifices of the Lord, which He gave to him and to his seed.
 
 **45:22** However, in the land he will not inherit nations, and there is no portion for him in the nation; for He Himself is his portion and inheritance.
 
 **45:23** Phinehas, the son of Eleazar, is third in glory, by imitating him in the fear of the Lord and standing in the reverence of the nation; in the goodness and eagerness of his soul he pleased God for Israel.
 
-**45:24** Therefore He established for him a covenant of peace, as ruler of the holy things and of his nation, so that the dignity of the priesthood might belong to him and to his offspring forever.
+**45:24** Therefore He established for him a covenant of peace, as ruler of the holy things and of his nation, so that the dignity of the priesthood might belong to him and to his seed forever.
 
-**45:25** And a covenant for King David, the son of Jesse, from the tribe of Judah, an inheritance for him and for his offspring,
+**45:25** And a covenant for King David, the son of Jesse, from the tribe of Judah, an inheritance for him and for his seed,
 
 **45:26** so that He might give wisdom into our heart, to judge His nation in righteousness, so that their good things would not be wiped out; and He made their glory eternal for their nation.
 

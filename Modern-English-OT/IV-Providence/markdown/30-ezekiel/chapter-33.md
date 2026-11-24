@@ -53,7 +53,7 @@
 
 **33:24** "Son of man, those who dwell in these ruins upon the soil of Israel speak, saying, 'Abraham was one, and he possessed the land by inheritance; but we are many; the land has been given to us as a possession.'
 
-**33:25** Therefore you will say to them: 'The Lord God says this: "You who eat with blood, and lift up your eyes to your uncleannesses, and shed blood, will you indeed possess the land by inheritance?"'
+**33:25** Therefore you will say to them: 'This is what the Lord God says: "You who eat with blood, and lift up your eyes to your uncleannesses, and shed blood, will you indeed possess the land by inheritance?"'
 
 **33:27** These things you will say to them: 'This is what the Lord God says: "As I live, surely those who dwell in the ruins will fall by the sword, and the one who is in the field will be handed over to the beasts to be devoured, while those who are in strongholds and caves will die by pestilence.
 

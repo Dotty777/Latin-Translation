@@ -41,7 +41,7 @@
 
 **43:18** And he said to me, "Son of man, this is what the Lord God says: 'These are the rites of the altar, on whatever day it is built, so that a burnt offering may be offered upon it and blood may be poured out.
 
-**43:19** And you shall grant to the priests and the Levites who are of the offspring of Zadok, who approach Me,' says the Lord God, 'to offer to Me a young bull from the herd for sin.
+**43:19** And you shall grant to the priests and the Levites who are of the seed of Zadok, who approach Me,' says the Lord God, 'to offer to Me a young bull from the herd for sin.
 
 **43:20** And taking some of its blood, you shall put it on its four horns, and on the four corners of the ledge, and on the rim all around; and you shall cleanse it and atone for it.
 

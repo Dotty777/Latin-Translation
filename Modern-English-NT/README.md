@@ -1,7 +1,7 @@
 # Saints Modern English — New Testament (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **ALL 27/27 Latin NT books COMPLETE** (260 chapters, 7,930 verses + 14 additional Vulgate `no-site-verse` verses, 1,285 translator notes (+ 1 additional note)).
+> **Current Coverage:** **ALL 27/27 Latin NT books COMPLETE** (260 chapters, 7,937 verses + 15 additional Vulgate `no-site-verse` verses, 1,290 translator notes (+ 1 additional note)).
 
 Translated fresh from `Saints-Latin-Critical-Text` under the locked style policy ([`STYLE.md`](STYLE.md)) and glossary ([`glossary.json`](glossary.json)); strict Clementine Vulgate own-source fidelity (never harmonized to Greek). Additional Vulgate verses absent from Saints.Bible numbering are preserved in book `json/*.json` (`unplaced` array) and chapter Markdown (`## Additional Verses (Not in Saints Numbering)`). Original reviewed pilot in [`../Modern-English-Pilot/`](../Modern-English-Pilot/README.md).
 

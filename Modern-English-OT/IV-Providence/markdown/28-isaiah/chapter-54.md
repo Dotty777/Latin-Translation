@@ -9,7 +9,7 @@
 
 **54:2** "Enlarge the place of your tent, and stretch out the skins of your dwellings; do not hold back; make your cords long, and make your stakes firm.
 
-**54:3** For to the right and to the left you will press forward, and your offspring will inherit the nations and will inhabit the desolate cities.
+**54:3** For to the right and to the left you will press forward, and your seed will inherit the nations and will inhabit the desolate cities.
 
 **54:4** Do not fear, for you will not be put to shame, nor will you blush; for you will not feel disgrace, because you will forget the shame of your youth, and the reproach of your widowhood you will remember no longer.
 

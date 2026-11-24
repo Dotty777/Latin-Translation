@@ -9,9 +9,9 @@
 
 **52:2** Shake yourself from the dust, rise up; sit down, Jerusalem! Loosen the bonds of your neck, captive daughter of Zion.
 
-**52:3** For the Lord says this: "You were sold for nothing, and without silver you will be redeemed."
+**52:3** For this is what the Lord says: "You were sold for nothing, and without silver you will be redeemed."
 
-**52:4** For the Lord God says this: "My people went down into Egypt at the beginning to be a settler there, and Assyria oppressed them without any cause.
+**52:4** For this is what the Lord God says: "My people went down into Egypt at the beginning to be a settler there, and Assyria oppressed them without any cause.
 
 **52:5** And now what do I have here," says the Lord, "since My people have been taken away for nothing? Their rulers act unjustly," says the Lord, "and continually all day long My name is blasphemed.
 

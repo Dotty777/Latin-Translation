@@ -57,7 +57,7 @@
 
 **33:25** *(after `33:24`)* This is what the Lord says: If I have not established My covenant between day and night, and the laws for heaven and earth,
 
-**33:26** *(after `33:24`)* then indeed I will also cast off the offspring of Jacob and of My servant David, so that I will not take from his offspring rulers of the offspring of Abraham, Isaac, and Jacob; for I will bring back their return, and I will have mercy on them.
+**33:26** *(after `33:24`)* then indeed I will also cast off the seed of Jacob and of My servant David, so that I will not take from his seed rulers of the seed of Abraham, Isaac, and Jacob; for I will bring back their return, and I will have mercy on them.
 
 ## Translator Notes
 

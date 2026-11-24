@@ -33,6 +33,6 @@
 
 ## Translator Notes
 
-- **55:4** — Vulgate praeceptorem means 'instructor' or 'teacher,' rendering the Hebrew term usually translated 'commander.'
+- **55:4** — Vulgate praeceptorem means 'instructor' or 'teacher,' rendering the Hebrew term meaning 'commander.'
 - **55:10** — Vulgate inebriat terram, et infundit eam ('saturate the earth, and water it') differs from the Hebrew, which reads 'water the earth and make it bring forth.'
 - **55:13** — Vulgate saliunca (wild spikenard, here used for a thorny brier) renders Hebrew na'atsuts ('thornbush'); erit Dominus nominatus ('the Lord will be renowned') makes 'the Lord' the subject rather than the dative 'to the Lord for a name' in the Hebrew.

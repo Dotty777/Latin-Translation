@@ -9,7 +9,7 @@
 
 **1:2** And the Lord delivered into his hand Jehoiakim, king of Judah, and a portion of the vessels of the house of God; and he carried them away to the land of Shinar, into the house of his god, and he brought the vessels into the treasure house of his god.
 
-**1:3** And the king told Ashpenaz, the overseer of the eunuchs, to bring in from the sons of Israel, and from the royal offspring and that of the rulers,
+**1:3** And the king told Ashpenaz, the overseer of the eunuchs, to bring in from the sons of Israel, and from the royal seed and that of the rulers,
 
 **1:4** youths in whom there was no blemish, handsome in form and educated in all wisdom, discerning in knowledge and trained in learning, and who were able to stand in the king's palace, so that he might teach them the literature and language of the Chaldeans.
 
@@ -105,7 +105,7 @@
 
 **1:55** *(after `1:21`)* Then Daniel said, "Very well, you have lied against your own head; for look, the angel of God, having received the sentence from Him, will split you in two."
 
-**1:56** *(after `1:21`)* And once he was removed, he ordered the other one to come and said to him, "Offspring of Canaan and not of Judah, beauty has deceived you, and lust has perverted your heart."
+**1:56** *(after `1:21`)* And once he was removed, he ordered the other one to come and said to him, "Seed of Canaan and not of Judah, beauty has deceived you, and lust has perverted your heart."
 
 **1:57** *(after `1:21`)* "This is how you used to treat the daughters of Israel, and out of fear they spoke with you; but a daughter of Judah did not tolerate your wickedness."
 

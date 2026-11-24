@@ -47,7 +47,7 @@
 
 **51:21** Therefore listen to this, poor little one, and drunk, not from wine.
 
-**51:22** Your Ruler, the Lord, and your God, who will fight for His people, says this: "Look, I have taken from your hand the cup of stupor, the bottom of the cup of My indignation; you will not drink it anymore.
+**51:22** This is what your Ruler, the Lord, and your God, who will fight for His people, says: "Look, I have taken from your hand the cup of stupor, the bottom of the cup of My indignation; you will not drink it anymore.
 
 **51:23** And I will place it in the hand of those who humiliated you and said to your soul, 'Bow down, so that we may pass over'; and you laid your body like the ground, and like a way for those passing over."
 

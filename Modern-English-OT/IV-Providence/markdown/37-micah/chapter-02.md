@@ -9,7 +9,7 @@
 
 **2:2** And they coveted fields and took them by force, and seized houses; and they were defrauding a man and his house, a man and his inheritance.
 
-**2:3** Therefore the Lord says this: "Look, I am devising evil against this family, from which you will not remove your necks, and you will not walk proudly, because it is a most evil time."
+**2:3** Therefore this is what the Lord says: "Look, I am devising evil against this family, from which you will not remove your necks, and you will not walk proudly, because it is a most evil time."
 
 **2:4** In that day a proverb will be taken up against you, and a song will be sung with sweetness by those who say, "By devastation we have been laid waste; the portion of my people has been changed; how will he depart from me, when he returns to divide our regions?"
 

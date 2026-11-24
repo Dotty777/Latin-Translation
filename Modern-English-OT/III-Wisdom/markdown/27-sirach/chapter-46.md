@@ -21,7 +21,7 @@
 
 **46:8** And those two who were appointed were delivered from danger out of the number of six hundred thousand foot soldiers, to bring them into the inheritance, into a land that flows with milk and honey.
 
-**46:9** And the Lord gave might to Caleb himself, and even into old age strength remained with him, so that he ascended to the high place of the land, and his offspring obtained the inheritance,
+**46:9** And the Lord gave might to Caleb himself, and even into old age strength remained with him, so that he ascended to the high place of the land, and his seed obtained the inheritance,
 
 **46:10** so that all the sons of Israel might see that it is good to obey the holy God.
 

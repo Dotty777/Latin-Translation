@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Post-audit polished  
-> **Current Coverage:** **ALL 43/43 Latin OT books COMPLETE** (1,030 chapters, 26,109 verses + 255 additional `no-site-verse` Vulgate verses, 4,903 translator notes (+ 44 additional notes); combined with Complete 27/27 Latin NT = **70 of 70 complete Latin books**).  
+> **Current Coverage:** **ALL 43/43 Latin OT books COMPLETE** (1,030 chapters, 26,133 verses + 278 additional `no-site-verse` Vulgate verses, 4,890 translator notes (+ 48 additional notes); combined with Complete 27/27 Latin NT = **70 of 70 complete Latin books**).  
 > **Validation:** 100% validated against `Saints-Latin-Critical-Text` with `validate_modern_english.py --lang lat --strict` (`0` FAIL) and scholarly audits.
 
 ## Overview

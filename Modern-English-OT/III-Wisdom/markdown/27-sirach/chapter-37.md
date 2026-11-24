@@ -68,6 +68,6 @@
 ## Translator Notes
 
 - **37:3** — Latin "praesumptio" ("presumption") corresponds to "evil inclination/thought" in the Greek, and the Vulgate adds "malitia et ... illius" ("with wickedness and its deceitfulness") to the clause about covering the dry land.
-- **37:9** — The Clementine Vulgate reads "mittat sudem in terram" ("thrust a stake into the ground," where the Greek has "cast a lot") and breaks off at "et dicat tibi:" without the counselor's quoted words found in the Greek.
-- **37:11** — Unlike the Greek ("do not consult"), the Clementine Vulgate lacks a negative before the imperative "tracta" ("confer"), giving the series an ironic force leading into the contrast of v. 12, and omits several additional examples present in the Greek.
+- **37:9** — This Latin text reads "mittat sudem in terram" ("thrust a stake into the ground," where the Greek has "cast a lot") and breaks off at "et dicat tibi:" without the counselor's quoted words found in the Greek.
+- **37:11** — Unlike the Greek ("do not consult"), this Latin text lacks a negative before the imperative "tracta" ("confer"), giving the series an ironic force leading into the contrast of v. 12, and lacks several additional examples present in the Greek.
 - **37:17** — The Vulgate reads "Verbum nequam immutabit cor" ("A wicked word will change the heart"), whereas the Greek speaks of a trace of the heart's change.

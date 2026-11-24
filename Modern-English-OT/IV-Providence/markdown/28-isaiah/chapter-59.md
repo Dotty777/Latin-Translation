@@ -45,7 +45,7 @@
 
 **59:20** and a Redeemer comes to Zion, and to those who return from iniquity in Jacob, says the Lord.
 
-**59:21** "This is My covenant with them," says the Lord: "My Spirit who is in you, and My words which I have put in your mouth, will not depart from your mouth, and from the mouth of your offspring, and from the mouth of the offspring of your offspring," says the Lord, "from now on and forevermore."
+**59:21** "This is My covenant with them," says the Lord: "My Spirit who is in you, and My words which I have put in your mouth, will not depart from your mouth, and from the mouth of your seed, and from the mouth of the seed of your seed," says the Lord, "from now on and forevermore."
 
 ## Translator Notes
 

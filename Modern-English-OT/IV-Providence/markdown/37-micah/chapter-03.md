@@ -13,7 +13,7 @@
 
 **3:4** Then they will cry out to the Lord, and He will not hear them, and He will hide His face from them at that time, just as they acted wickedly in their devices."
 
-**3:5** The Lord says this concerning the prophets who lead My people astray, who bite with their teeth and proclaim peace, and if anyone does not put anything in their mouth, they sanctify war against him:
+**3:5** This is what the Lord says concerning the prophets who lead My people astray, who bite with their teeth and proclaim peace, and if anyone does not put anything in their mouth, they sanctify war against him:
 
 **3:6** "Therefore there will be night for you instead of vision, and darkness for you instead of divination; and the sun will go down over the prophets, and the day will grow dark over them.
 

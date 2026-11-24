@@ -21,7 +21,7 @@
 
 **7:8** And the word of the Lord came to Zechariah, saying,
 
-**7:9** "This is what the Lord of hosts declares, saying, 'Render true judgment, and practice mercy and compassions, each one with his brother.
+**7:9** "This is what the Lord of hosts says: 'Render true judgment, and practice mercy and compassions, each one with his brother.
 
 **7:10** And do not oppress the widow, the orphan, the foreigner, or the poor person; and let no man devise evil against his brother in his heart.'"
 

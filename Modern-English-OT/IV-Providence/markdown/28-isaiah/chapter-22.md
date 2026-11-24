@@ -33,7 +33,7 @@
 
 **22:14** And the voice of the Lord of hosts was revealed in my ears: "Certainly this iniquity will not be forgiven you until you die," says the Lord God of hosts.
 
-**22:15** The Lord God of hosts says this: "Go, enter to him who dwells in the tabernacle, to Shebna, the overseer of the temple, and you will say to him:
+**22:15** This is what the Lord God of hosts says: "Go, enter to him who dwells in the tabernacle, to Shebna, the overseer of the temple, and you will say to him:
 
 **22:16** 'What do you have here, or as who are you here? For you have carved out a tomb for yourself here; you have diligently carved out a monument on high, a tabernacle for yourself in the rock.
 

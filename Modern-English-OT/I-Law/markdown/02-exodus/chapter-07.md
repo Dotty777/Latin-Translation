@@ -37,7 +37,7 @@
 
 **7:16** And you will say to him, 'The Lord, the God of the Hebrews, has sent me to you, saying, "Let My people go, so that they may sacrifice to Me in the wilderness," and up to the present you have refused to listen.
 
-**7:17** Therefore the Lord says this: "By this you will know that I am the Lord: look, I will strike the water of the river with the staff that is in My hand, and it will be turned into blood.
+**7:17** Therefore this is what the Lord says: "By this you will know that I am the Lord: look, I will strike the water of the river with the staff that is in My hand, and it will be turned into blood.
 
 **7:18** The fish also that are in the river will die, and the waters will grow putrid, and the Egyptians will be afflicted drinking the water of the river."'"
 
@@ -55,7 +55,7 @@
 
 **7:25** And seven days were completed after the Lord struck the river.
 
-**7:26** The Lord also said to Moses, "Go in to Pharaoh, and you will say to him, 'The Lord says this: "Let My people go, so that they may sacrifice to Me;
+**7:26** The Lord also said to Moses, "Go in to Pharaoh, and you will say to him, 'This is what the Lord says: "Let My people go, so that they may sacrifice to Me;
 
 **7:27** but if you refuse to let them go, look, I will strike all your borders with frogs,
 

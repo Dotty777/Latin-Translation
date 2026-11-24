@@ -11,7 +11,7 @@
 
 **1:3** but Esau I have hated, and I have turned his mountains into a wasteland, and his inheritance over to the dragons of the desert."
 
-**1:4** And if Edom says, "We have been destroyed, yet returning we will rebuild what has been destroyed," the Lord of hosts says this: "They will build, and I will destroy; and they will be called the borders of wickedness, and the people with whom the Lord is angry forever."
+**1:4** And if Edom says, "We have been destroyed, yet returning we will rebuild what has been destroyed," this is what the Lord of hosts says: "They will build, and I will destroy; and they will be called the borders of wickedness, and the people with whom the Lord is angry forever."
 
 **1:5** And your eyes will see, and you will say, "May the Lord be magnified beyond the border of Israel."
 

@@ -9,9 +9,9 @@
 
 **57:2** Let peace come; let him rest in his bed who has walked in his uprightness.
 
-**57:3** But you, draw near here, sons of a female diviner, offspring of an adulterer and a prostitute.
+**57:3** But you, draw near here, sons of a female diviner, seed of an adulterer and a prostitute.
 
-**57:4** At whom have you mocked? At whom have you opened wide your mouth and thrust out your tongue? Are you not wicked sons, lying offspring,
+**57:4** At whom have you mocked? At whom have you opened wide your mouth and thrust out your tongue? Are you not wicked sons, a lying seed,
 
 **57:5** who console yourselves in gods under every leafy tree, sacrificing little children in the streambeds, beneath the overhanging rocks?
 

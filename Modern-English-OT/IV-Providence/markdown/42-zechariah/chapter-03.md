@@ -21,7 +21,7 @@
 
 **3:8** Listen, Joshua the high priest, you and your friends who dwell before you, for they are foreshadowing men: for look, I will bring My servant, the Rising.
 
-**3:9** For look, the stone that I have placed before Joshua: on one stone are seven eyes; look, I will carve its engraving, declares the Lord of hosts, and I will remove the iniquity of that land in one day.
+**3:9** For look, the stone that I have placed before Joshua: on one stone are seven eyes; look, I will carve its engraving, says the Lord of hosts, and I will remove the iniquity of that land in one day.
 
 **3:10** In that day, says the Lord of hosts, each man will invite his friend under the vine and under the fig tree."
 

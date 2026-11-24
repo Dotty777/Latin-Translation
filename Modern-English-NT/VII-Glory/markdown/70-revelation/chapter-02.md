@@ -5,7 +5,7 @@
 
 ## Text
 
-**2:1** "To the angel of the church of Ephesus write: These things says the One who holds the seven stars in His right hand, who walks in the midst of the seven golden lampstands:
+**2:1** "To the angel of the church of Ephesus write: This is what the One who holds the seven stars in His right hand, who walks in the midst of the seven golden lampstands, says:
 
 **2:2** I know your works, and labor, and your endurance, and that you cannot bear evil people, and you have tested those who say that they are apostles and are not, and have found them to be liars;
 
@@ -19,7 +19,7 @@
 
 **2:7** Whoever has an ear, let him hear what the Spirit says to the churches: To the one who conquers, I will grant to eat from the tree of life, which is in the paradise of My God.
 
-**2:8** And to the angel of the church of Smyrna write: These things says the first and the last, who was dead and lives:
+**2:8** And to the angel of the church of Smyrna write: This is what the first and the last, who was dead and lives, says:
 
 **2:9** I know your tribulation and your poverty, yet you are rich; and you are slandered by those who say that they are Jews and are not, but are a synagogue of Satan.
 
@@ -27,7 +27,7 @@
 
 **2:11** Whoever has an ear, let him hear what the Spirit says to the churches: The one who conquers will not be harmed by the second death.
 
-**2:12** And to the angel of the church of Pergamum write: These things says the One who has the broadsword sharp on both sides:
+**2:12** And to the angel of the church of Pergamum write: This is what the One who has the broadsword sharp on both sides says:
 
 **2:13** I know where you dwell, where the seat of Satan is; and you hold fast to My name, and did not deny My faith. And in those days Antipas was My faithful witness, who was killed among you, where Satan dwells.
 
@@ -39,7 +39,7 @@
 
 **2:17** Whoever has an ear, let him hear what the Spirit says to the churches: To the one who conquers, I will give the hidden manna, and I will give him a white stone, and on the stone a new name written, which no one knows except the one who receives it.
 
-**2:18** And to the angel of the church of Thyatira write: These things says the Son of God, who has eyes like a flame of fire, and His feet are like fine brass:
+**2:18** And to the angel of the church of Thyatira write: This is what the Son of God, who has eyes like a flame of fire, and His feet are like fine brass, says:
 
 **2:19** I know your works, and faith, and your love, and service, and your endurance, and that your last works are more than the first.
 

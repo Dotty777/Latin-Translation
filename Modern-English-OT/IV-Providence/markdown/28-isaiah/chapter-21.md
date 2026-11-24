@@ -35,7 +35,7 @@
 
 **21:15** For they have fled from before swords, from before a threatening sword, from before a stretched bow, from before a heavy battle.
 
-**21:16** For the Lord says this to me: "Within one more year, as in the year of a hired worker, all the glory of Kedar will be taken away,
+**21:16** For this is what the Lord says to me: "Within one more year, as in the year of a hired worker, all the glory of Kedar will be taken away,
 
 **21:17** and the remainder of the number of mighty archers from the sons of Kedar will be diminished," for the Lord God of Israel has spoken.
 

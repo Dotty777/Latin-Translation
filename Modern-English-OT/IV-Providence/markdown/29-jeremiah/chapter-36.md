@@ -25,13 +25,13 @@
 
 **36:10** For this is what the Lord says: When seventy years begin to be fulfilled in Babylon, I will visit you, and I will raise up My good word over you, so that I may bring you back to this place.
 
-**36:11** For I Myself know the thoughts that I ponder concerning you, declares the Lord, thoughts of peace and not of affliction, so that I may give you an end and patience.
+**36:11** For I Myself know the thoughts that I ponder concerning you, says the Lord, thoughts of peace and not of affliction, so that I may give you an end and patience.
 
 **36:12** And you will call upon Me, and you will go, and you will pray to Me, and I will listen to you.
 
 **36:13** You will seek Me and find Me, when you seek Me with your whole heart.
 
-**36:14** And I will be found by you, declares the Lord; and I will bring back your captivity, and I will gather you from all the nations and from all the places to which I drove you out, says the Lord, and I will make you return from the place to which I caused you to go into exile.
+**36:14** And I will be found by you, says the Lord; and I will bring back your captivity, and I will gather you from all the nations and from all the places to which I drove you out, says the Lord, and I will make you return from the place to which I caused you to go into exile.
 
 **36:15** Because you have said, 'The Lord has raised up prophets for us in Babylon':
 
@@ -57,7 +57,7 @@
 
 **36:31** "Send to all the exiles, saying, 'This is what the Lord says concerning Shemaiah the Nehelamite: Because Shemaiah has prophesied to you, and I did not send him, and he has made you trust in a lie,
 
-**36:32** therefore this is what the Lord says: Look, I will punish Shemaiah the Nehelamite and his offspring; he will not have a man living in the midst of this people, and he will not see the good that I will do for My people, declares the Lord, because he has spoken rebellion against the Lord.'"
+**36:32** therefore this is what the Lord says: Look, I will punish Shemaiah the Nehelamite and his seed; he will not have a man living in the midst of this people, and he will not see the good that I will do for My people, says the Lord, because he has spoken rebellion against the Lord.'"
 
 ## Translator Notes
 

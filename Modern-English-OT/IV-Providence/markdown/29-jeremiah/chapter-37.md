@@ -7,9 +7,9 @@
 
 **37:1** This is the word that came to Jeremiah from the Lord, saying:
 
-**37:2** This is what the Lord God of Israel speaks, saying: "Write for yourself in a book all the words that I have spoken to you.
+**37:2** This is what the Lord God of Israel says: "Write for yourself in a book all the words that I have spoken to you.
 
-**37:3** For look, days are coming, says the Lord, and I will reverse the reversal of My people Israel and Judah, declares the Lord; and I will bring them back to the land that I gave to their fathers, and they will possess it."
+**37:3** For look, days are coming, says the Lord, and I will reverse the reversal of My people Israel and Judah, says the Lord; and I will bring them back to the land that I gave to their fathers, and they will possess it."
 
 **37:4** And these are the words that the Lord spoke to Israel and to Judah:
 
@@ -19,7 +19,7 @@
 
 **37:7** Woe! For great is that day, and there is none like it; and it is a time of tribulation for Jacob, and out of it he will be saved.
 
-**37:8** And it will be on that day, declares the Lord of hosts: I will shatter his yoke from your neck, and I will burst his bonds, and foreigners will no longer rule over him;
+**37:8** And it will be on that day, says the Lord of hosts: I will shatter his yoke from your neck, and I will burst his bonds, and foreigners will no longer rule over him;
 
 **37:9** but they will serve the Lord their God, and David their king, whom I will raise up for them."
 
@@ -39,7 +39,7 @@
 
 **37:20** And his children will be as from the beginning, and his assembly will remain before Me, and I will punish all who afflict him.
 
-**37:21** And his leader will be from him, and a prince will be brought forth from his midst; and I will bring him near, and he will approach Me. For who is this who would apply his heart to draw near to Me? declares the Lord."
+**37:21** And his leader will be from him, and a prince will be brought forth from his midst; and I will bring him near, and he will approach Me. For who is this who would apply his heart to draw near to Me? says the Lord."
 
 **37:23** Look, the whirlwind of the Lord, fury going forth, a rushing storm: it will come to rest upon the head of the wicked.
 

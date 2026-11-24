@@ -47,7 +47,7 @@
 
 **66:21** And I will take some from among them to be priests and Levites," says the Lord.
 
-**66:22** "For just as the new heavens and the new earth, which I make to stand before Me," says the Lord, "so will your offspring and your name stand.
+**66:22** "For just as the new heavens and the new earth, which I make to stand before Me," says the Lord, "so will your seed and your name stand.
 
 **66:23** And there will be month after month, and Sabbath after Sabbath: all flesh will come to worship before My face," says the Lord.
 

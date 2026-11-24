@@ -19,7 +19,7 @@
 
 **12:8** Joelah also, and Zebadiah, the sons of Jeroham of Gedor.
 
-**12:9** Moreover, some from the Gadites also defected to David while he was hiding in the wilderness, very strong men and the finest fighters, holding shield and spear; their faces were like the face of a lion, and they were swift like gazelles on the mountains:
+**12:9** Moreover, some from the Gadites also defected to David while he was hiding in the wilderness, very strong men and the finest fighters, holding shield and spear; their faces were like the face of a lion, and they were swift like roe deer on the mountains:
 
 **12:10** Ezer the chief, Obadiah the second, Eliab the third,
 

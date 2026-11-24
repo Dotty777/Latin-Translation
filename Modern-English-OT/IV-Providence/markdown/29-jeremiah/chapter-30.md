@@ -11,7 +11,7 @@
 
 **30:3** If grape-gatherers had come upon you, they would not have left a cluster; if thieves by night, they would have seized what was enough for themselves.
 
-**30:4** But I have uncovered Esau; I have revealed his hidden places, and he will not be able to be concealed. His offspring has been laid waste, as well as his brothers and his neighbors, and he will be no more.
+**30:4** But I have uncovered Esau; I have revealed his hidden places, and he will not be able to be concealed. His seed has been laid waste, as well as his brothers and his neighbors, and he will be no more.
 
 **30:5** Leave your orphans; I will make them live, and your widows will hope in Me."
 

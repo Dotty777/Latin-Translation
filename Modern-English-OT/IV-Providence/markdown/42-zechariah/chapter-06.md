@@ -27,7 +27,7 @@
 
 **6:11** And you will take gold and silver, and make crowns, and place them on the head of Joshua the son of Jehozadak, the high priest;
 
-**6:12** and you will speak to him, saying, 'This is what the Lord of hosts declares, saying: Look, a man, Rising is His name, and beneath Him He will rise, and He will build the temple for the Lord.
+**6:12** and you will speak to him, saying, 'This is what the Lord of hosts says: Look, a man, Rising is His name, and beneath Him He will rise, and He will build the temple for the Lord.
 
 **6:13** And He Himself will construct the temple for the Lord; and He Himself will bear glory, and He will sit and rule upon His throne; and He will be a priest upon His throne, and a counsel of peace will be between those two.'
 

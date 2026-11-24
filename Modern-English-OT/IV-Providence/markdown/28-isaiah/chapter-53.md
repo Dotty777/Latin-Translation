@@ -23,7 +23,7 @@
 
 **53:9** And he will give the wicked for his burial, and the rich man for his death, because he had committed no iniquity, nor was there deceit in his mouth.
 
-**53:10** And the Lord willed to crush him in weakness. If he lays down his soul for sin, he will see long-lived offspring, and the will of the Lord will be directed in his hand.
+**53:10** And the Lord willed to crush him in weakness. If he lays down his soul for sin, he will see a long-lived seed, and the will of the Lord will be directed in his hand.
 
 **53:11** Because his soul has labored, he will see and be satisfied. By his knowledge My righteous servant himself will justify many, and he himself will carry their iniquities.
 

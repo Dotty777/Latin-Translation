@@ -43,13 +43,13 @@
 
 **47:19** And you bowed your thighs to women; you had authority over your body.
 
-**47:20** You put a blemish on your glory, and profaned your offspring, to bring wrath upon your children and for your folly to be stirred up,
+**47:20** You put a blemish on your glory, and profaned your seed, to bring wrath upon your children and for your folly to be stirred up,
 
 **47:21** so that you made the kingdom divided in two, and a harsh kingdom to rule from Ephraim.
 
-**47:22** But God will not abandon His mercy, and He will not ruin nor blot out His works, nor will He destroy from the root the descendants of His chosen one; and He will not ruin the offspring of him who loves the Lord.
+**47:22** But God will not abandon His mercy, and He will not ruin nor blot out His works, nor will He destroy from the root the descendants of His chosen one; and He will not ruin the seed of him who loves the Lord.
 
-**47:23** And Solomon came to his end with his fathers. And he left behind him from his offspring the folly of the nation, and one lacking in prudence, Rehoboam, who turned the nation away by his counsel;
+**47:23** And Solomon came to his end with his fathers. And he left behind him from his seed the folly of the nation, and one lacking in prudence, Rehoboam, who turned the nation away by his counsel;
 
 **47:24** and Jeroboam the son of Nebat, who made Israel sin and gave Ephraim a way of sinning; and their very many sins overflowed. They greatly turned them away from their land.
 
