@@ -15,7 +15,7 @@
 
 **50:5** But Johanan son of Kareah and all the commanders of the fighting men took all of the remnant of Judah who had returned from all the nations to which they had previously been scattered, to dwell in the land of Judah:
 
-**50:6** the men, and the women, and the little ones, and the daughters of the king, and every soul whom Nebuzaradan, commander of the army, had left with Gedaliah son of Ahikam, son of Shaphan, and Jeremiah the prophet, and Baruch son of Neriah;
+**50:6** the men, and the women, and the little ones, and the daughters of the king, and every soul whom Nebuzaradan, commander of the troops, had left with Gedaliah son of Ahikam, son of Shaphan, and Jeremiah the prophet, and Baruch son of Neriah;
 
 **50:7** and they entered the land of Egypt, because they did not obey the voice of the Lord, and they came as far as Tahpanhes.
 
@@ -33,7 +33,7 @@
 
 ## Translator Notes
 
-- **50:9** — Latin in crypta quae est sub muro latericio ("in the vault that is beneath the brick wall") gives a distinctive architectural rendering of two rare Hebrew terms often translated "in the mortar in the brick pavement."
-- **50:10** — Latin solium suum ("his royal seat") translates a rare Hebrew word often rendered "canopy" or "pavilion," while quos abscondi ("that I have hidden") retains the first-person verb within the divine oracle, identifying Jeremiah's sign-act with God's own act.
+- **50:9** — Latin in crypta quae est sub muro latericio ("in the vault that is beneath the brick wall") gives a distinctive architectural rendering of two rare Hebrew terms generally taken to mean "mortar" and "brick pavement."
+- **50:10** — Latin solium suum ("his royal seat") renders a rare Hebrew word generally taken to mean "canopy" or "pavilion"; quos abscondi ("that I have hidden") keeps the first-person verb within the oracle.
 - **50:12** — Latin succendet ("he will kindle") is third person singular, making Nebuchadnezzar the subject (with the Septuagint) rather than first person ("I will kindle") as in the Hebrew Masoretic Text. Latin amicietur ("he will wrap himself") interprets the Hebrew verb as clothing oneself rather than picking clean.
 - **50:13** — Latin statuas domus solis ("the statues of the house of the sun") translates the place name Beth-shemesh (Heliopolis in Egypt) rather than transliterating it, and renders the Hebrew "pillars/obelisks" as "statues."

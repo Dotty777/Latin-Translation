@@ -53,5 +53,5 @@
 
 - **49:10** — Latin jam enim placatus sum ("for I have already been appeased") renders the Hebrew verb for relenting or regretting with the language of divine wrath being pacified.
 - **49:12** — Latin miserebor vestri, et habitare vos faciam ("I will have mercy on you, and I will make you dwell") uses first-person verbs with God as subject and "make dwell" rather than "bring back," differing from the Hebrew Masoretic Text, where the king of Babylon is the subject ("he will have compassion on you and return you").
-- **49:18** — Latin conflatus est / conflabitur ("were kindled" / "will be kindled") uses the imagery of a fire fanned or smelted, where the Hebrew verb is commonly translated "poured out."
+- **49:18** — Latin conflatus est / conflabitur ("were kindled" / "will be kindled") uses the imagery of a fire fanned or smelted, where the Hebrew verb means "poured out."
 - **49:19** — Latin Verbum Domini super vos ("The word of the Lord is upon you") reads a verbless noun phrase ("word") rather than the Hebrew Masoretic vocalization as a verb ("the Lord has spoken concerning you").

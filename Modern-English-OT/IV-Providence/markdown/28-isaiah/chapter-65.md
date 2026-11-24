@@ -57,7 +57,7 @@
 
 ## Translator Notes
 
-- **65:1** — Vulgate uses active verbs ("have sought Me ... have found [Me]," Quæsierunt me ... invenerunt), whereas the Hebrew and Septuagint (cf. Rom 10:20) use passive forms ("I was sought ... I was found").
+- **65:1** — Vulgate uses active verbs ("have sought Me ... have found [Me]," Quæsierunt me ... invenerunt), whereas the Hebrew uses passive forms ("I was sought ... I was found").
 - **65:5** — Vulgate reads "because you are unclean" (quia immundus es), contrasting with the Hebrew ("for I am too holy for you").
 - **65:11** — Vulgate renders Hebrew Gad as "Fortune" (fortunæ) and omits the second pagan deity name (Hebrew Meni, "Destiny"), reading instead "pour drink offerings on it" (super eam, referring to the table).
 - **65:16** — Vulgate transliterates the Hebrew title "God of truth" (Elohei amen) directly as "in God, amen" (in Deo, amen).

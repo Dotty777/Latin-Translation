@@ -33,8 +33,8 @@
 
 ## Translator Notes
 
-- **56:5** — Vulgate locum ('a place') renders Hebrew yad (lit. 'hand,' often translated 'monument' or 'memorial').
+- **56:5** — Vulgate locum ('a place') renders Hebrew yad (lit. 'hand,' here in the sense of a monument or memorial).
 - **56:8** — Vulgate congregabo ad eum congregatos ejus ('I will gather to him his gathered ones') takes 'his gathered ones' as the direct object, whereas the Hebrew reads 'besides those already gathered to him.'
-- **56:10** — Vulgate videntes vana ('seeing empty things') and amantes somnia ('loving dreams') interpret Hebrew terms more commonly rendered 'dreaming/babbling' and 'loving to slumber.'
-- **56:11** — Clementine Vulgate imprudentissimi ('most imprudent') is a variant of impudentissimi ('most shameless'), where the Hebrew reads 'strong of appetite' (greedy); a summo usque ad novissimum ('from the highest to the last') expands the Hebrew phrase meaning 'without exception.'
+- **56:10** — Vulgate videntes vana ('seeing empty things') and amantes somnia ('loving dreams') differ from the Hebrew terms meaning 'dreaming' (or 'babbling') and 'loving to slumber.'
+- **56:11** — The critical text's imprudentissimi ('most imprudent') is a variant of impudentissimi ('most shameless'), where the Hebrew reads 'strong of appetite' (greedy); a summo usque ad novissimum ('from the highest to the last') expands the Hebrew phrase meaning 'without exception.'
 - **56:12 *(additional)*** — The Latin presents the shepherds' boast directly without an introductory verb and reads plural sumamus ("let us get") with ebrietate ("drunkenness").

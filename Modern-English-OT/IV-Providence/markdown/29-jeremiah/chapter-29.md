@@ -23,7 +23,7 @@
 
 **29:16** *(after `29:7`)* for this is what the Lord says to the king who sits on the throne of David, and to all the people who inhabit this city, to your brothers who did not go out with you into exile:
 
-**29:17** *(after `29:7`)* this is what the Lord of hosts says: Look, I will send the sword, and famine, and plague upon them, and I will make them like bad figs that cannot be eaten because they are so very bad:
+**29:17** *(after `29:7`)* this is what the Lord of hosts says: Look, I will send the sword, and famine, and plague upon them, and I will make them like bad figs that cannot be eaten because they are very bad:
 
 **29:18** *(after `29:7`)* and I will pursue them with the sword, and with famine, and with pestilence; and I will give them as an affliction to all the kingdoms of the earth—as a curse, and an astonishment, and a hissing, and a reproach to all the nations to which I have cast them out,
 

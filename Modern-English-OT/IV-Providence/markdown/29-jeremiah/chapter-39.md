@@ -19,7 +19,7 @@
 
 **39:7** 'Look, Hanamel the son of Shallum, your cousin, will come to you, saying, "Buy for yourself my field that is in Anathoth, for it belongs to you by kinship to buy it."'
 
-**39:8** And Hanamel the son of my uncle came to me, according to the word of the Lord, to the vestibule of the prison, and said to me, 'Take possession of my field that is in Anathoth, in the land of Benjamin, because the inheritance belongs to you, and you are the next of kin to take possession of it.' Then I understood that it was the word of the Lord.
+**39:8** And Hanamel the son of my uncle came to me, according to the word of the Lord, to the courtyard of the prison, and said to me, 'Take possession of my field that is in Anathoth, in the land of Benjamin, because the inheritance belongs to you, and you are the next of kin to take possession of it.' Then I understood that it was the word of the Lord.
 
 **39:9** And I bought from Hanamel the son of my uncle the field that is in Anathoth, and I weighed out the silver for him: seven staters and ten pieces of silver.
 

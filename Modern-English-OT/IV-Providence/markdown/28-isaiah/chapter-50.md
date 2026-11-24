@@ -25,7 +25,7 @@
 
 **50:10** Who among you fears the Lord, hearing the voice of His servant? He who has walked in darkness and has no light, let him hope in the name of the Lord and lean upon his God.
 
-**50:11** Look, all you who kindle a fire, armed with flames: walk in the light of your fire and in the flames that you have set ablaze; from My hand this has happened to you: in sorrows you will sleep.
+**50:11** Look, all you who kindle a fire, girded with flames: walk in the light of your fire and in the flames that you have set ablaze; from My hand this has happened to you: in sorrows you will sleep.
 
 ## Translator Notes
 

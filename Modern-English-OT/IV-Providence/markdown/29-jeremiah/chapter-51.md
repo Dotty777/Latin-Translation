@@ -81,7 +81,7 @@
 
 **51:46** *(after `51:35`)* and so that your heart may not grow faint and you may not fear the report that will be heard in the land; and a report will come in one year, and after this year a report, and wickedness in the land, and ruler over ruler.
 
-**51:47** *(after `51:35`)* Therefore, look, days are coming, and I will visit judgment upon the carved images of Babylon, and all her land will be put to shame, and all her slaughtered will fall in the midst of her.
+**51:47** *(after `51:35`)* Therefore, look, days are coming, and I will punish the carved images of Babylon, and all her land will be put to shame, and all her slaughtered will fall in the midst of her.
 
 **51:48** *(after `51:35`)* And the heavens and the earth, and all things that are in them, will offer praise over Babylon, because plunderers will come upon her from the north, says the Lord.
 

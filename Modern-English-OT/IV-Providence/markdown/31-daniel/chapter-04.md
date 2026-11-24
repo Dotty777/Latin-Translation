@@ -67,13 +67,13 @@
 
 **4:3** *(after `4:37`)* And a decree was issued by me that all the wise men of Babylon be brought into my presence, and that they make the explanation of the dream known to me.
 
-**4:6** *(after `4:5`)* Belteshazzar, chief of the diviners, since I know that you have the spirit of the holy gods in you, and no mystery is impossible for you, relate the visions of my dreams, which I saw, and their explanation.
+**4:6** *(after `4:5`)* Belteshazzar, chief of the soothsayers, since I know that you have the spirit of the holy gods in you, and no secret is impossible for you, relate the visions of my dreams, which I saw, and their explanation.
 
 ## Translator Notes
 
 - **4:15** — Latin germen radicum ejus literally means "the shoot of its roots" (similarly in 4:23 and 4:26), where the Aramaic text refers to the stump of the tree's roots.
 - **4:16** — Latin septem tempora mutentur super eum literally means "let seven times change over him" (also in 4:23, 4:25, and 4:32), reflecting the Aramaic verb's dual sense of passing and alternating.
 - **4:18** — The Vulgate spells both Daniel's Babylonian name (Belteshazzar, here and in 4:19, 5:12) and the king's name in chapter 5 (Belshazzar) identically as Baltassar, following the Greek Baltasar; standard modern English spellings are used to distinguish them.
-- **4:27** — Vulgate eleemosynis redime ("redeem with almsgiving") and forsitan ignoscet delictis tuis ("perhaps He will forgive your offenses") reflect the traditional Greek and Latin rendering, where the Aramaic reads "break off your sins by righteousness" and "perhaps there may be a lengthening of your prosperity."
-- **4:37** — In this Latin text, 4:37 opens with Nebuchadnezzar's proclamation and praise (corresponding to Vulgate 3:98-100 / English 4:1-3) before concluding with the king's final doxology.
+- **4:27** — Vulgate eleemosynis redime ("redeem with almsgiving") and forsitan ignoscet delictis tuis ("perhaps He will forgive your offenses") differ from the Aramaic, which has "by righteousness" and "perhaps there may be a lengthening of your prosperity."
+- **4:37** — This verse renders the Latin 3:98-100 (Nebuchadnezzar's proclamation and praise, English 4:1-3) followed by the Latin 4:37 (the king's final praise).
 - **4:6 *(additional)*** — The Vulgate uses Baltassar for both Daniel's Babylonian name (Belteshazzar) and the king in chapter five (Belshazzar).

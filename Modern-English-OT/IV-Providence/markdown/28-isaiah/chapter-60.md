@@ -54,5 +54,5 @@
 - **60:1** — Vulgate 'illuminare' is a passive imperative ("be illumined"), differing from the active imperative ("shine") in the Hebrew Masoretic Text.
 - **60:4** — Vulgate 'de latere surgent' ("will rise from the side") diverges from the Hebrew, which describes daughters being carried on the hip or side.
 - **60:9** — Vulgate 'naves maris' ("ships of the sea") follows Jerome's frequent rendering of "Tarshish" as "the sea" in Isaiah, and uses the first-person verb 'adducam' ("I may bring").
-- **60:17** — Vulgate 'visitationem tuam' ("your visitation," i.e., oversight) translates the Hebrew noun commonly rendered "your overseers" or "your governance."
+- **60:17** — Vulgate 'visitationem tuam' ("your visitation," i.e., oversight) translates a Hebrew noun meaning "your overseers" or "your governance."
 - **60:18** — Vulgate 'occupabit salus muros tuos' ("salvation will occupy your walls") differs from the Hebrew, which reads "you shall call your walls Salvation."

@@ -43,7 +43,7 @@
 
 **1:19** And when the king had spoken to them, none were found among them all like Daniel, Hananiah, Mishael, and Azariah; and they stood in the presence of the king.
 
-**1:20** And in every matter of wisdom and understanding about which the king questioned them, he found in them tenfold above all the diviners and magicians who were in his entire kingdom.
+**1:20** And in every matter of wisdom and understanding about which the king questioned them, he found in them tenfold above all the soothsayers and magicians who were in his entire kingdom.
 
 **1:21** Now Daniel remained until the first year of King Cyrus.
 
@@ -121,7 +121,7 @@
 - **1:7** — The Vulgate renders Daniel's Babylonian name as Baltassar (identical in spelling to the form it later uses for King Belshazzar), here standardized to Belteshazzar.
 - **1:8** — The Vulgate reads de mensa regis ('from the king's table') where the Hebrew specifies patbag hammelek ('the king's royal delicacies/food').
 - **1:11** — The Vulgate treats the Hebrew title hammelsar ('the steward' or 'overseer') as the personal name Malasar (also in 1:16).
-- **1:20** — Latin invenit in eis decuplum super ('he found in them tenfold above') reflects a distinctive Vulgate phrasing without the Hebrew comparative 'better', while ariolos et magos literally denotes 'diviners and magicians'.
+- **1:20** — Latin invenit in eis decuplum super literally reads 'he found in them tenfold above'.
 - **1:55 *(additional)*** — In Latin, Daniel plays on the sound of schino ("mastic tree") in the preceding verse and scindet ("will split").
 - **1:57 *(additional)*** — The Latin phrase "spoke with you" (loquebantur vobis) is used here as a euphemism for intimate relations.
 - **1:59 *(additional)*** — Daniel's verdict ("cut you in two," Latin secet) reflects the wordplay on prino ("holm oak") in the preceding verse.

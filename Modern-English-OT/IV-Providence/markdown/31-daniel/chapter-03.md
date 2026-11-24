@@ -175,7 +175,7 @@
 
 **3:89** Give thanks to the Lord, for He is good, for His mercy is forever.
 
-**3:90** Bless the Lord, God of gods, all devout ones; praise and give thanks to Him, for His mercy is for all ages."
+**3:90** Bless the Lord God of gods, all devout ones; praise and give thanks to Him, for His mercy is for all ages."
 
 **3:91** Then King Nebuchadnezzar was astonished, and rose up hastily, and said to his nobles, "Did we not throw three men shackled into the middle of the fire?" And answering the king, they said, "Truly, king."
 
@@ -204,11 +204,11 @@
 ## Translator Notes
 
 - **3:5** — Latin 'symphoniæ' retains the Greek loanword 'symphonia', which Jerome in his Commentary on Daniel understood as a harmonious musical ensemble rather than a single instrument, though modern scholars often identify the underlying Aramaic term as a bagpipe.
-- **3:17** — Unlike the Aramaic Masoretic Text, which begins conditionally, the Vulgate follows the Greek Theodotion reading with a direct affirmation: 'Ecce enim' ('For look').
+- **3:17** — Latin 'Ecce enim' ('For look') is a direct affirmation, whereas the Aramaic Masoretic Text begins conditionally ('if').
 - **3:20** — Following the Greek Theodotion text, the Vulgate specifies 'ligatis pedibus' ('to bind the feet'), whereas the Aramaic text states only that the men were to be bound.
-- **3:24** — Verses 3:24-90 preserve the deuterocanonical Prayer of Azariah and the Song of the Three Young Men, translated in the Vulgate from the Greek Theodotion text and absent from the Aramaic Masoretic Text.
+- **3:24** — Verses 3:24-90 preserve the Prayer of Azariah and the Song of the Three Young Men, translated in the Vulgate from the Greek Theodotion text and absent from the Aramaic Masoretic Text.
 - **3:40** — The Vulgate reads 'ut placeat tibi' ('that it may please You') where the Greek has 'to follow You wholly'; likewise in 3:44, 'in omni potentia tua' ('by all Your power') refers to God's power rather than the enemies being stripped of their own power.
 - **3:65** — The Vulgate reads 'omnes spiritus Dei' ('all spirits of God'), whereas the Greek Theodotion text has simply 'all winds' (or 'all spirits') without 'of God.'
-- **3:88** — Latin 'infernus' translates Greek 'Hades' (Hebrew 'Sheol'), denoting the underworld or realm of the dead, as reflected in the parallel phrase 'from the hand of death.'
-- **3:92** — Following the Greek Theodotion text, the Vulgate reads the singular 'filio Dei' ('a son of God', also renderable 'the Son of God'), whereas the Aramaic Masoretic Text has the plural 'bar elahin' ('a son of the gods').
+- **3:88** — Latin 'infernus' translates Greek 'Hades', denoting the underworld or realm of the dead, as reflected in the parallel phrase 'from the hand of death.'
+- **3:92** — Latin 'filio Dei' has the singular 'Dei' ('a son of God'), as does the Greek Theodotion text, whereas the Aramaic Masoretic Text has the plural 'bar elahin' ('a son of the gods').
 - **3:94** — Latin 'sarabala' transliterates the Aramaic/Greek loanword for wide Persian trousers (translated 'braccis' in 3:21). In 3:95, 'verbum regis immutaverunt' ('altered the king's word') literally preserves the idiom for disobeying or overturning a royal command.

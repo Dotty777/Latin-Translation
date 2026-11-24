@@ -45,7 +45,7 @@
 
 **2:20** and speaking, he said, "May the name of the Lord be blessed from age even to age, because wisdom and strength are His.
 
-**2:21** And He Himself changes times and ages; He removes kingdoms and establishes them; He gives wisdom to the wise and knowledge to those who understand instruction.
+**2:21** And He Himself changes times and ages; He transfers kingdoms and establishes them; He gives wisdom to the wise and knowledge to those who understand instruction.
 
 **2:22** He Himself reveals deep and hidden things, and knows what is set in darkness, and the light is with Him.
 
@@ -95,13 +95,13 @@
 
 **2:45** Just as you saw that a stone was cut from the mountain without hands and shattered the clay, the iron, the bronze, the silver, and the gold, the great God has shown the king what is to come afterward; and the dream is true, and its interpretation is trustworthy."
 
-**2:46** Then King Nebuchadnezzar fell on his face and paid homage to Daniel, and commanded that they offer sacrifices and incense to him.
+**2:46** Then King Nebuchadnezzar fell on his face and worshiped Daniel, and commanded that they offer sacrifices and incense to him.
 
 **2:47** Then speaking, the king said to Daniel, "Truly your God is the God of gods, and the Lord of kings, and the One who reveals mysteries, since you were able to open this secret."
 
 **2:48** Then the king raised Daniel to high rank and gave him many great gifts; and he appointed him ruler over all the provinces of Babylon, and prefect of the magistrates over all the wise men of Babylon.
 
-**2:49** And Daniel requested of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon; but Daniel himself remained at the doors of the king.
+**2:49** And Daniel requested of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon; but Daniel himself was at the doors of the king.
 
 ## Translator Notes
 
@@ -112,7 +112,7 @@
 - **2:20** — Latin reads nomen Domini ("the name of the Lord") where the Aramaic reads "the name of God."
 - **2:26** — Latin spelling Baltassar is rendered with standard modern English Belteshazzar.
 - **2:27** — Latin aruspices (Roman entrail-inspecting diviners) is rendered "diviners."
-- **2:35** — Latin favillam literally means "fine ash/dust" rather than "chaff."
+- **2:35** — Latin favillam literally means "fine ash/dust"; the Aramaic has "chaff."
 - **2:39** — Latin explicitly adds argenteum ("of silver") to describe the second kingdom.
 - **2:41** — Latin de plantario ferri ("from the rootstock/seedling of iron") differs from Aramaic "firmness of iron."
 - **2:42** — Latin contritum literally means "crushed" or "broken," rendered "brittle" in contrast with solidum ("solid").

@@ -25,7 +25,7 @@
 
 **12:10** Many will be chosen, and whitened, and tested like fire; and the wicked will act wickedly, nor will any of the wicked understand; the learned, however, will understand.
 
-**12:11** And from the time when the continual sacrifice has been taken away and the abomination has been set up for desolation, there will be one thousand two hundred ninety days.
+**12:11** And from the time when the perpetual sacrifice has been taken away and the abomination has been set up for desolation, there will be one thousand two hundred ninety days.
 
 **12:12** Blessed is the one who waits and reaches one thousand three hundred thirty-five days.
 

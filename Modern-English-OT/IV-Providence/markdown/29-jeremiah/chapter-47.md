@@ -5,15 +5,15 @@
 
 ## Text
 
-**47:1** The word that came to Jeremiah from the Lord after he was released from Ramah by Nebuzaradan, the commander of the troops, when he took him bound in chains among all those who were going into exile from Jerusalem and Judah and were being led to Babylon.
+**47:1** The word that came to Jeremiah from the Lord after he was released from Ramah by Nebuzaradan, the captain of the troops, when he took him bound in chains among all those who were going into exile from Jerusalem and Judah and were being led to Babylon.
 
-**47:2** So the captain of the troops took Jeremiah and said to him, "The Lord your God spoke this disaster against this place,
+**47:2** So the commander of the troops took Jeremiah and said to him, "The Lord your God spoke this disaster against this place,
 
 **47:3** and the Lord has brought it about and done just as He spoke, because you sinned against the Lord and did not listen to His voice; and this word has come about for you.
 
 **47:4** Now therefore, look, I have released you today from the chains that are on your hands. If it pleases you to come with me to Babylon, come, and I will set my eyes upon you; but if it displeases you to come with me to Babylon, stay behind. Look, the whole land is before you; whatever you choose, and wherever it pleases you to go, proceed there,
 
-**47:5** and do not come with me, but live with Gedaliah the son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the cities of Judah; live therefore with him among the people, or wherever it pleases you to go, go." The commander of the troops also gave him provisions and small gifts, and let him go.
+**47:5** and do not come with me, but live with Gedaliah the son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the cities of Judah; live therefore with him among the people, or wherever it pleases you to go, go." The captain of the troops also gave him provisions and small gifts, and let him go.
 
 **47:6** So Jeremiah came to Gedaliah the son of Ahikam at Mizpah, and lived with him among the people who had been left in the land.
 
@@ -39,7 +39,7 @@
 
 ## Translator Notes
 
-- **47:1** — The Vulgate renders the Hebrew title 'captain of the guard' with the late Roman military title 'commander of the troops' (magister militiae, and 'captain of the troops', princeps militiae, in verse 2).
+- **47:1** — The Vulgate renders the Hebrew title "captain of the guard" with the late Roman military title magister militiae ("captain of the troops"; princeps militiae, "commander of the troops," in verse 2).
 - **47:5** — The Vulgate resolves a difficult Hebrew clause ('while he had not yet turned back...') as a direct continuation of Nebuzaradan's speech: 'and do not come with me' (et mecum noli venire).
 - **47:8** — The Vulgate renders the Hebrew gentilics 'the Netophathite' and 'the Maacathite' as a place name ('from Netophathi', de Netophathi) and a patronymic ('the son of Maacathi', filius Maachathi).
 - **47:10** — The Vulgate reads 'answer the command of the Chaldeans who are sent to us' (respondeam praecepto Chaldaeorum qui mittuntur ad nos) where the Hebrew reads 'stand before the Chaldeans who come to us,' and renders 'summer fruit' as 'harvest' (messem) here and in verse 12.

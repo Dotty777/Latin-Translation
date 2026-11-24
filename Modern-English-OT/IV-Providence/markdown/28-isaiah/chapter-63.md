@@ -45,8 +45,8 @@
 
 ## Translator Notes
 
-- **63:6** — Vulgate translates the final noun as "their strength" (virtutem eorum), whereas many modern translations of the Hebrew understand a homonymous root meaning "their lifeblood."
+- **63:6** — Vulgate translates the final noun as "their strength" (virtutem eorum); the Hebrew word can also be understood, from a homonymous root, as "their lifeblood."
 - **63:9** — Following the Hebrew Ketiv ("not") against the Qere ("to Him"), Vulgate explicitly reads "He was not afflicted" (non est tribulatus), and renders the following title literally as "the angel of His face" (angelus faciei ejus).
 - **63:10** — Both here (spiritum Sancti ejus) and in 63:11 (spiritum Sancti sui), the Clementine Vulgate uses the capitalized genitive singular "of His Holy One" rather than an adjective agreeing with "Spirit" ("His Holy Spirit").
 - **63:12** — Vulgate makes Moses the direct object of "led out" ("who led Moses out at the right hand by the arm of His majesty") rather than the Hebrew "who caused His glorious arm to go at the right hand of Moses"; similarly in 63:14, Vulgate follows the Septuagint with "was its leader" (ductor ejus fuit) rather than Hebrew "gave them rest."
-- **63:18** — Vulgate reads "As nothing they have possessed Your holy people" (Quasi nihilum possederunt populum sanctum tuum), making the adversaries the subject and Your holy people the object, whereas the Hebrew is commonly translated "For a little while Your holy people possessed it."
+- **63:18** — Vulgate reads "As nothing they have possessed Your holy people" (Quasi nihilum possederunt populum sanctum tuum), making the adversaries the subject and Your holy people the object, whereas the Hebrew reads "for a little while Your holy people possessed it."

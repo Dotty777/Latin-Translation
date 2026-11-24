@@ -81,4 +81,4 @@
 - **52:23** — The Vulgate renders Hebrew 'toward the wind / on the sides' as 'hanging down' (dependentia), and reads that all one hundred pomegranates 'were surrounded by networks' (retiaculis circumdabantur).
 - **52:25** — Jerome translates the Hebrew phrase 'who mustered the people of the land' using the late Roman military expression 'who examined the recruits' (qui probabat tyrones).
 - **52:32** — The Vulgate reads 'who were after him' (qui erant post se, i.e., subordinate to him) where the Hebrew reads 'who were with him.' Verses 2-3, 15, and 28-30 are absent in this Septuagint-aligned chapter arrangement.
-- **52:15 *(additional)*** — The Clementine Vulgate reads "of the multitude" (de multitudine) here rather than "of the artisans."
+- **52:15 *(additional)*** — The Clementine Vulgate reads "of the multitude" (de multitudine) here, where the Hebrew word may mean "artisans."

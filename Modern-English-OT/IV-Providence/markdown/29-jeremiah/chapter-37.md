@@ -48,7 +48,7 @@
 ## Translator Notes
 
 - **37:3** — Latin convertam conversionem (literally "I will turn the turning" or "reverse the reversal," repeated in 37:18) is Jerome's etymological rendering of the Hebrew idiom for restoring fortunes or returning from captivity.
-- **37:8** — The Vulgate preserves abrupt pronoun shifts (jugum ejus, "his yoke"; collo tuo, "your neck"; vincula ejus, "his bonds"; ei, "him") and uses dominabuntur ("will rule over") rather than "enslave."
+- **37:8** — The Vulgate preserves abrupt pronoun shifts (jugum ejus, "his yoke"; collo tuo, "your neck"; vincula ejus, "his bonds"; ei, "him") and uses dominabuntur ("will rule over") where the Hebrew has a verb meaning "enslave."
 - **37:14** — Vulgate dura facta sunt ("have become hard," echoed by dura peccata, "hard sins," in 37:16) differs from the Hebrew Masoretic Text, which describes the sins as "numerous" or "mighty."
 - **37:17** — Latin Obducam cicatricem tibi ("I will draw a scar over you") is a classical medical idiom meaning to close an open wound with scar tissue so that it heals.
 - **37:18** — Vulgate in excelso suo ("upon its height") and templum juxta ordinem suum fundabitur ("the temple will be founded according to its order") are distinctive renderings compared to the Hebrew Masoretic Text ("on its mound" and "the citadel will stand in its rightful place").

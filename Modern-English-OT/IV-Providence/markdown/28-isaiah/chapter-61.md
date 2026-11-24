@@ -5,7 +5,7 @@
 
 ## Text
 
-**61:1** The Spirit of the Lord is upon me, because the Lord has anointed me; He sent me to preach to the meek, to heal those crushed in heart, and to proclaim pardon to the captives and opening to those confined;
+**61:1** The Spirit of the Lord is upon me, because the Lord has anointed me; He sent me to announce to the meek, to heal those crushed in heart, and to proclaim pardon to the captives and opening to those confined;
 
 **61:2** to proclaim a year favorable to the Lord and a day of vengeance for our God; to comfort all who mourn,
 
@@ -30,6 +30,6 @@
 ## Translator Notes
 
 - **61:1** — Vulgate reads "the Spirit of the Lord" (without "God" as in the Hebrew), "heal" (mederer) rather than Hebrew "bind up," "pardon" (indulgentiam, a legal term for amnesty or remission), and literally "opening to those confined" (clausis apertionem), preserving the ambiguity between opening a prison and opening eyes.
-- **61:3** — Vulgate uniquely includes "in her" (in ea, referring to Zion) and renders the Hebrew term often translated "oaks" or "terebinths" as "mighty ones" (fortes justitiae), concluding with the gerund "for glorification" (ad glorificandum).
+- **61:3** — Vulgate uniquely includes "in her" (in ea, referring to Zion) and renders the Hebrew term for "oaks" or "terebinths" as "mighty ones" (fortes justitiae), concluding with the gerund "for glorification" (ad glorificandum).
 - **61:7** — Vulgate connects "double" (duplici) to "your shame" ("Instead of your double shame and disgrace"), whereas the Hebrew text reads "Instead of your shame, a double portion."
 - **61:8** — Vulgate reads "robbery in a burnt offering" (rapinam in holocausto), interpreting the Hebrew noun as "burnt offering" rather than "wrongdoing," and translates the following term literally as "their work" (opus eorum) rather than "recompense."

@@ -65,7 +65,7 @@
 
 **11:30** And triremes and the Romans will come against him, and he will be struck, and he will return and become indignant against the covenant of the sanctuary, and will act; and he will return and plot against those who have abandoned the covenant of the sanctuary.
 
-**11:31** And arms from him will stand, and they will defile the sanctuary of strength, and take away the continual sacrifice; and they will place the abomination for desolation.
+**11:31** And arms from him will stand, and they will defile the sanctuary of strength, and take away the perpetual sacrifice; and they will place the abomination for desolation.
 
 **11:32** And the wicked against the covenant will pretend deceitfully; but the people who know their God will prevail and act.
 

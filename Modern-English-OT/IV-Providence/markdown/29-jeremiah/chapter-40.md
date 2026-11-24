@@ -15,9 +15,9 @@
 
 **40:5** of those who come to fight with the Chaldeans and to fill them with the corpses of the men whom I struck down in My fury and in My indignation, hiding My face from this city because of all their wickedness:
 
-**40:6** Look, I will heal over their wounds and bring them health, and I will cure them, and I will reveal to them the prayer of peace and truth.
+**40:6** Look, I will draw over them a scar and health, and I will cure them, and I will reveal to them the prayer of peace and truth.
 
-**40:7** And I will restore the restoration of Judah and the restoration of Jerusalem, and I will build them up as at the beginning.
+**40:7** And I will reverse the reversal of Judah and the reversal of Jerusalem, and I will build them up as at the beginning.
 
 **40:8** And I will cleanse them from all their iniquity in which they sinned against Me, and I will be merciful toward all their iniquities in which they abandoned Me and despised Me.
 
@@ -25,7 +25,7 @@
 
 **40:10** This is what the Lord says: "There will again be heard in this place, which you say is deserted because there is neither man nor beast in the cities of Judah and outside Jerusalem, which are desolate, without man, and without inhabitant, and without livestock,
 
-**40:11** the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride, the voice of those saying, 'Give thanks to the Lord of hosts, for the Lord is good, for His mercy is forever,' and of those bringing votive offerings into the house of the Lord; for I will bring back the restoration of the land as at the beginning," says the Lord.
+**40:11** the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride, the voice of those saying, 'Give thanks to the Lord of hosts, for the Lord is good, for His mercy is forever,' and of those bringing votive offerings into the house of the Lord; for I will bring back the return of the land as at the beginning," says the Lord.
 
 **40:12** This is what the Lord of hosts says: "There will again be in this deserted place, without man and without beast, and in all its cities, a dwelling place of shepherds of resting flocks.
 
@@ -35,6 +35,6 @@
 
 - **40:4** — In verses 4-5, the Vulgate coordinates et ad munitiones, et ad gladium with the preceding ad phrases and attaches venientium as a genitive ("the sword of those who come"), resolving a syntactically difficult Hebrew passage.
 - **40:6** — Latin obducam eis cicatricem is a medical idiom literally meaning "draw a scar over them," that is, heal over their wounds. The Vulgate also reads deprecationem ("prayer/supplication") where the Hebrew means "abundance," connecting the rare Hebrew term to a homonymous root meaning "to pray/entreat."
-- **40:7** — The Vulgate mirrors the Hebrew cognate idiom with convertam conversionem (and reducam conversionem in 40:11), rendered with "restoration" to preserve its distinction from captivitatem ("captivity") in 39:44.
+- **40:7** — Latin convertam conversionem mirrors the Hebrew cognate idiom (as in 37:3 and 37:18); the Vulgate keeps it distinct from convertam captivitatem ("turn back their captivity") in 39:44.
 - **40:10** — The Vulgate translates Hebrew chutzot ("streets") literally as foris ("outside Jerusalem"), reflecting the root sense of "outside."
 - **40:12** — The Vulgate's triple genitive pastorum accubantium gregum ("of shepherds of resting flocks") uses the intransitive participle accubantium modifying gregum, whereas the Hebrew uses a causative participle ("shepherds causing flocks to lie down").

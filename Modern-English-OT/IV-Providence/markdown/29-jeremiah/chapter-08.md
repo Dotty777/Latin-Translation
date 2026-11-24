@@ -60,4 +60,4 @@
 - **8:7** — Vulgate "milvus ... ciconia" ("kite ... stork") assigns different bird species from the Hebrew ("stork ... crane").
 - **8:13** — A notably difficult verse; the Vulgate literally reads "Congregans congregabo" ("Gathering, I will gather") and "dedi eis quae praetergressa sunt" ("I have given them what has passed away").
 - **8:16** — Vulgate "pugnatorum" ("warriors" or "fighters") translates Hebrew "mighty ones/stallions" and refers here to battle-horses, as indicated by "hinnituum" ("neighing").
-- **8:11 *(additional)*** — The Clementine Vulgate reads "ad ignominiam" ("shamefully," literally "to disgrace"), rather than "lightly."
+- **8:11 *(additional)*** — The Clementine Vulgate reads "ad ignominiam" ("shamefully," literally "to disgrace"), where the Hebrew has "lightly."

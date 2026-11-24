@@ -50,6 +50,6 @@
 ## Translator Notes
 
 - **59:5** — Vulgate 'quod confotum est, erumpet in regulum' ("what is warmed will burst forth into a basilisk") renders the Hebrew for a crushed egg as an incubated one and translates the serpent term with 'regulus' ("little king," i.e., basilisk).
-- **59:10** — Vulgate 'in caliginosis' ("in gloomy places") interprets an obscure Hebrew word often rendered elsewhere as "among the vigorous" or "in desolate places."
+- **59:10** — Vulgate 'in caliginosis' ("in gloomy places") interprets an obscure Hebrew word that may mean "among the vigorous" or "in desolate places."
 - **59:11** — Vulgate 'quasi columbæ meditantes' ("like meditating doves") reflects the primary sense of the Hebrew verb 'hagah', which can mean either "to meditate" or "to murmur/coo."
 - **59:16** — Vulgate 'aporiatus est' ("He was perplexed") borrows the Greek verb 'aporeo' ("to be at a loss") to translate the Hebrew verb for being appalled or astonished.

@@ -62,7 +62,7 @@
 ## Translator Notes
 
 - **9:23** — Latin vir desideriorum ("a man of desires") translates Hebrew ish chamudot ("greatly beloved" or "precious man") literally.
-- **9:24** — The Vulgate reads abbreviatae sunt ("have been shortened") where the Hebrew verb is commonly rendered "decreed," and masculine capitalized Sanctus sanctorum ("the Holy One of holies") rather than a neuter "most holy place."
+- **9:24** — The Vulgate reads abbreviatae sunt ("have been shortened"), where the Hebrew verb means "decreed" (literally "cut"), and the masculine Sanctus sanctorum ("the Holy One of holies"), not the neuter sanctum sanctorum used elsewhere for the most holy place.
 - **9:25** — Latin christum ducem ("Christ the leader") renders Hebrew mashiach nagid ("anointed leader/prince") with christus ("anointed one/Christ") and joins the seven and sixty-two weeks as a single span.
 - **9:26** — The Vulgate reads et non erit ejus populus qui eum negaturus est ("and the people who will deny Him will not be His"), where the Hebrew reads "and shall have nothing," and concludes with vastitas ("devastation") and post finem belli ("after the end of the war").
 - **9:27** — The Vulgate uses intransitive deficiet ("will cease/fail") rather than a causative verb and reads in templo ("in the temple") where the Hebrew has "on the wing of abominations."

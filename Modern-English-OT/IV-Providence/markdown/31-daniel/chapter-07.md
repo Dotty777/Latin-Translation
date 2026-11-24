@@ -39,25 +39,25 @@
 
 **7:17** 'These four great beasts are four kingdoms that will arise from the earth.
 
-**7:18** But the saints of the Most High God will receive the kingdom, and they will possess the kingdom forever, and for ages of ages.'
+**7:18** But the holy ones of the Most High God will receive the kingdom, and they will possess the kingdom forever, and for ages of ages.'
 
 **7:19** After this I wanted to learn carefully about the fourth beast, which was very different from all of them and exceedingly terrifying; its teeth and claws were iron, and it was eating and shattering, and trampling the remainder with its feet;
 
 **7:20** and about the ten horns that it had on its head, and about the other one that had sprung up, before which three horns had fallen; and about that horn which had eyes and a mouth speaking grand things, and was greater than the rest.
 
-**7:21** I was watching, and look, that horn was making war against the saints and prevailing over them,
+**7:21** I was watching, and look, that horn was making war against the holy ones and prevailing over them,
 
-**7:22** until the Ancient of Days came and gave judgment to the saints of the Exalted One, and the time arrived, and the saints took possession of the kingdom.
+**7:22** until the Ancient of Days came and gave judgment to the holy ones of the Exalted One, and the time arrived, and the holy ones took possession of the kingdom.
 
 **7:23** And he spoke in this way: 'The fourth beast will be a fourth kingdom on earth, which will be greater than all kingdoms, and it will devour the whole earth, and trample it, and shatter it.
 
 **7:24** Moreover, the ten horns of that kingdom will be ten kings; and another will arise after them, and he himself will be more powerful than the former ones, and he will humble three kings.
 
-**7:25** And he will speak words against the Exalted One, and he will crush the saints of the Most High; and he will think that he can change times and laws, and they will be handed over into his hand until a time, and times, and half a time.
+**7:25** And he will speak words against the Exalted One, and he will crush the holy ones of the Most High; and he will think that he can change times and laws, and they will be handed over into his hand until a time, and times, and half a time.
 
 **7:26** And the court will sit, so that power may be taken away, and be crushed, and perish to the end.
 
-**7:27** And let the kingdom, and the authority, and the greatness of the kingdom that is beneath the whole heaven, be given to the people of the saints of the Most High, whose kingdom is an everlasting kingdom, and all kings will serve Him and obey.'
+**7:27** And let the kingdom, and the authority, and the greatness of the kingdom that is beneath the whole heaven, be given to the people of the holy ones of the Most High, whose kingdom is an everlasting kingdom, and all kings will serve Him and obey.'
 
 **7:28** Up to this point is the end of the word. I, Daniel, was greatly troubled by my thoughts, and my face was changed in me; yet I kept the word in my heart."
 

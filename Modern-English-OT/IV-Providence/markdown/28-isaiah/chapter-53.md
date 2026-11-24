@@ -25,16 +25,16 @@
 
 **53:10** And the Lord willed to crush him in weakness. If he lays down his soul for sin, he will see long-lived offspring, and the will of the Lord will be directed in his hand.
 
-**53:11** Because of what his soul has labored through, he will see and be satisfied. By his knowledge My righteous servant himself will justify many, and he himself will carry their iniquities.
+**53:11** Because his soul has labored, he will see and be satisfied. By his knowledge My righteous servant himself will justify many, and he himself will carry their iniquities.
 
 **53:12** Therefore I will allot to him very many, and he will divide the spoils of the strong, because he handed over his soul to death and was counted with criminals, and he himself bore the sins of many and pleaded for transgressors.
 
 ## Translator Notes
 
 - **53:2** — Latin et desideravimus eum is an affirmative indicative clause following non erat aspectus ("there was no appearance, and we desired him"), lacking the Hebrew negative/purpose sense "that we should desire him."
-- **53:4** — The Vulgate uniquely renders Hebrew nagua ("stricken") as quasi leprosum ("like a leper").
+- **53:4** — The Vulgate renders Hebrew nagua ("stricken") as quasi leprosum ("like a leper").
 - **53:5** — Latin livore is singular ("bruise" or "welt"), and scelera denotes grave crimes or wicked deeds.
-- **53:7** — The Vulgate distinctly reads Oblatus est quia ipse voluit ("He was offered up because he himself willed it") rather than "He was oppressed and afflicted."
-- **53:8** — Latin percussi eum is first-person singular ("I struck him") with God speaking, contrasting with third-person passive in Hebrew.
+- **53:7** — The Vulgate distinctly reads Oblatus est quia ipse voluit ("He was offered up because he himself willed it") where the Hebrew reads "he was oppressed, and he was afflicted."
+- **53:8** — Latin percussi eum is first-person singular ("I struck him"), with God speaking, where the Hebrew has a noun phrase, "a stroke (was) to him" (or "to them").
 - **53:9** — Latin dabit is future tense ("he will give"), with singular divitem ("the rich man") for his death.
 - **53:12** — Latin dispertiam ei plurimos ("I will allot to him very many") takes "very many" as the direct object rather than "with the many."

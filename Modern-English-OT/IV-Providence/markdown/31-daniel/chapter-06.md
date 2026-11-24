@@ -70,6 +70,6 @@
 - **6:1** — In the Vulgate, chapter 6 begins here with Darius's accession (numbered 5:31 in the Masoretic Text), shifting subsequent verse numbers in the chapter by one.
 - **6:4** — Vulgate 'spiritus Dei amplior' explicitly adds 'of God,' whereas the Aramaic Masoretic Text reads simply 'an extraordinary spirit.'
 - **6:7** — Vulgate 'surripuerunt regi' ('approached the king stealthily') portrays the officials creeping in craftily upon Darius, where the Aramaic verb denotes coming together in a throng or conspiracy.
-- **6:19** — Vulgate 'cibi' ('food') renders the obscure Aramaic term often translated 'diversions' or 'entertainment,' and 'dormivit incoenatus' literally says the king went to sleep without supper before sleep departed from him.
+- **6:19** — Vulgate 'cibi' ('food') renders an obscure Aramaic term, and 'dormivit incoenatus' literally says the king went to sleep without supper before sleep departed from him.
 - **6:29** — Vulgate 'perseveravit usque ad' ('persevered until') differs from the Aramaic, which states that Daniel 'prospered during' the reign of Darius and the reign of Cyrus the Persian.
 - **6:16 *(additional)*** — The Vulgate reads intelligentes regem ("understanding the king"), where the Aramaic text describes the men coming together in a throng to the king.

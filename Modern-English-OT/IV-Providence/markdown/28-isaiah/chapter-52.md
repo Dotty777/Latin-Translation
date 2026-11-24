@@ -29,11 +29,11 @@
 
 **52:12** For you will not go out in tumult, nor will you hurry in flight; for the Lord will go before you, and the God of Israel will gather you.
 
-**52:13** Look, My servant will understand; He will be exalted and lifted up, and He will be exceedingly high.
+**52:13** Look, My servant will understand; he will be exalted and lifted up, and he will be exceedingly high.
 
-**52:14** Just as many were astounded at You, so inglorious will His appearance be among men, and His form among the sons of men.
+**52:14** Just as many were astounded at you, so inglorious will his appearance be among men, and his form among the sons of men.
 
-**52:15** He will sprinkle many nations; before Him kings will hold their mouths shut, for those to whom it has not been told about Him have seen, and those who have not heard have contemplated.
+**52:15** he will sprinkle many nations; before him kings will hold their mouths shut, for those to whom it has not been told about him have seen, and those who have not heard have contemplated.
 
 ## Translator Notes
 
@@ -41,4 +41,4 @@
 - **52:8** — The Vulgate has the transitive verb converterit Dominus Sion ('when the Lord brings Zion back'), whereas the Hebrew reads 'when the Lord returns to Zion.'
 - **52:12** — The Vulgate renders the Hebrew term for 'rearguard' literally from its verbal root as congregabit vos ('will gather you').
 - **52:14** — The Vulgate reads inglorius ... inter viros ... inter filios hominum ('inglorious ... among men ... among the sons of men'), where the Hebrew describes his appearance as marred more than any man.
-- **52:15** — The Vulgate reads quibus non est narratum de eo ('those to whom it has not been told about Him') with the perfect-tense verbs viderunt ('have seen') and contemplati sunt ('have contemplated'), diverging from the Hebrew future-tense 'what had not been told them they will see, and what they had not heard they will understand.'
+- **52:15** — The Vulgate reads quibus non est narratum de eo ('those to whom it has not been told about him') with the perfect-tense verbs viderunt ('have seen') and contemplati sunt ('have contemplated'), diverging from the Hebrew future-tense 'what had not been told them they will see, and what they had not heard they will understand.'

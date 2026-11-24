@@ -23,7 +23,7 @@
 
 **57:9** And you adorned yourself for the king with ointment, and multiplied your perfumes. You sent your envoys far away, and you were humbled all the way down to the underworld.
 
-**57:10** In the great extent of your way you grew weary; you did not say, "I will rest." You found the life of your hand; therefore you did not plead.
+**57:10** In the great extent of your way you labored; you did not say, "I will rest." You found the life of your hand; therefore you did not plead.
 
 **57:11** For whom were you anxious and afraid, that you lied, and did not remember Me, nor think of it in your heart? Because I am silent and as though not seeing, you have forgotten Me.
 
@@ -49,8 +49,8 @@
 
 ## Translator Notes
 
-- **57:5** — Vulgate qui consolamini in diis ('who console yourselves in gods') diverges from the Hebrew, commonly translated 'who burn with lust among the oaks.'
+- **57:5** — Vulgate qui consolamini in diis ('who console yourselves in gods') diverges from the Hebrew, which speaks of those who inflame themselves among the oaks (or 'with gods').
 - **57:8** — Vulgate juxta me ('beside Me'), suscepisti adulterum ('received an adulterer'), and manu aperta ('with an open hand') are distinct Vulgate readings differing from the Masoretic Text ('away from Me,' 'went up,' and 'looked on the hand/place').
 - **57:10** — Vulgate Quiescam ('I will rest') and non rogasti ('you did not plead') differ from the Hebrew ('It is hopeless' and 'you did not grow faint'), while Vitam manus tuae ('the life of your hand') translates the Hebrew idiom for renewed strength literally.
-- **57:16** — Vulgate egredietur ('will go out') and future faciam ('I will make') follow the Septuagint tradition rather than the Hebrew ('would grow faint' and past 'I have made').
+- **57:16** — Vulgate egredietur ('will go out') agrees with the Septuagint, and faciam ('I will make') is future, where the Hebrew has 'would grow faint' and the past 'I have made.'
 - **57:20** — Vulgate in conculcationem ('into trampling') reflects Jerome's derivation of the Hebrew word for 'mire' (refesh) from the verb meaning 'to tread down.'

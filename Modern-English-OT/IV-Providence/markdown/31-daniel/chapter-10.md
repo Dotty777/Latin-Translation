@@ -51,5 +51,5 @@
 
 - **10:1** — Latin fortitudo magna ("great strength") and intelligentia enim est opus in visione ("for understanding is needed in a vision") are distinctive Vulgate renderings of the Hebrew clauses usually taken as "a great conflict" and "he had understanding of the vision." Latin Baltassar is the Latinate form of Daniel's Babylonian name Belteshazzar.
 - **10:11** — Latin vir desideriorum ("man of desires") translates literally the Hebrew idiom for a greatly esteemed or beloved man; the same phrase recurs in 10:19.
-- **10:16** — Latin dissolutae sunt compages meae ("my joints have been loosened") is a distinctly Vulgate reading corresponding to the Hebrew clause usually rendered "pains/anguish turned upon me."
-- **10:20** — Latin Cum ego egrederer, apparuit princeps Graecorum veniens uses past tenses ("When I was going out, the prince of the Greeks appeared, coming"), whereas the Hebrew is normally rendered as future.
+- **10:16** — Latin dissolutae sunt compages meae ("my joints have been loosened") is a distinctly Vulgate reading, where the Hebrew has "my pangs have turned upon me."
+- **10:20** — Latin Cum ego egrederer, apparuit princeps Graecorum veniens uses past tenses ("When I was going out, the prince of the Greeks appeared, coming"), whereas the Hebrew uses participles ("I am going out, and the prince of Greece is coming").

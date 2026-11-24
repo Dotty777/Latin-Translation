@@ -53,5 +53,5 @@
 
 - **48:6** — Latin "num annuntiastis?" expects a negative answer in the perfect tense ("have you declared them?") and repeats "ex tunc" ("from then", used throughout vv. 3, 5, 6, 7, 8), whereas the Hebrew Masoretic Text reads "will you not declare it?" and "from now" here.
 - **48:9** — Latin "laude mea infrenabo te" ("with My praise I will bridle you") makes Israel the direct object of God's restraint, whereas the Hebrew Masoretic Text speaks of God restraining His anger for Israel's sake.
-- **48:10** — Latin "elegi te in camino paupertatis" literally reads "I have chosen you in the furnace of poverty," preserving the primary sense of the Hebrew verb ("choose") and translating the noun as "poverty," whereas many translations from Hebrew render "tested you in the furnace of affliction."
-- **48:16** — Latin "ex tempore antequam fieret" ("from the time before it came to be") emphasizes the speaker's preexistence before events unfolded, whereas the Hebrew reads "from the time it took place"; Christian interpretation traditionally identifies the speaker sent by "the Lord God ... and His Spirit" as the Messiah.
+- **48:10** — Latin "elegi te in camino paupertatis" literally reads "I have chosen you in the furnace of poverty," taking the Hebrew verb in its usual sense ("choose," though it can also mean "test") and rendering the Hebrew noun for "affliction" as "poverty."
+- **48:16** — Latin "ex tempore antequam fieret" ("from the time before it came to be") differs from the Hebrew, which reads "from the time it took place."

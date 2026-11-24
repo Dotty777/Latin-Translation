@@ -63,7 +63,7 @@
 
 **5:22** *(after `5:17`)* You also, his son Belshazzar, have not humbled your heart, although you knew all these things;
 
-**5:24** *(after `5:23`)* For this reason, the part of the hand that wrote what has been inscribed was sent from Him.
+**5:24** *(after `5:23`)* For this reason, the joint of the hand that wrote what has been inscribed was sent from Him.
 
 ## Translator Notes
 

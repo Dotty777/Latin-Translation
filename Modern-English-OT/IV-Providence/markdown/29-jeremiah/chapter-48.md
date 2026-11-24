@@ -23,7 +23,7 @@
 
 **48:9** Now the cistern into which Ishmael had thrown all the corpses of the men whom he struck down because of Gedaliah is the very one that King Asa made because of Baasha king of Israel; Ishmael son of Nethaniah filled it with those who were killed.
 
-**48:10** And Ishmael led captive all the remnant of the people who were in Mizpah, the daughters of the king, and all the people who had remained in Mizpah, whom Nebuzaradan, commander of the army, had entrusted to Gedaliah son of Ahikam; and Ishmael son of Nethaniah captured them and departed to cross over to the sons of Ammon.
+**48:10** And Ishmael led captive all the remnant of the people who were in Mizpah, the daughters of the king, and all the people who had remained in Mizpah, whom Nebuzaradan, commander of the troops, had entrusted to Gedaliah son of Ahikam; and Ishmael son of Nethaniah captured them and departed to cross over to the sons of Ammon.
 
 **48:11** Now Johanan son of Kareah, and all the commanders of the fighting men who were with him, heard of all the evil that Ishmael son of Nethaniah had done,
 
@@ -47,7 +47,7 @@
 
 **48:46** *(after `48:18`)* Woe to you, Moab: you have perished, people of Chemosh, because your sons and your daughters have been taken into captivity.
 
-**48:47** *(after `48:18`)* And I will reverse the captivity of Moab in the last days, says the Lord. Up to this point are the judgments of Moab.
+**48:47** *(after `48:18`)* And I will turn back the captivity of Moab in the last days, says the Lord. Up to this point are the judgments of Moab.
 
 ## Translator Notes
 

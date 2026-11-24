@@ -23,7 +23,7 @@
 
 **41:9** that each one should let his male slave and each one his female slave, a Hebrew man and a Hebrew woman, go free, and by no means hold dominion over them, that is, over a Jew and his brother.
 
-**41:10** Therefore all the princes and all the people who had entered into the pact listened, that each one should let his male slave and each one his female slave go free, and no longer hold dominion over them; so they listened and let them go.
+**41:10** Therefore all the princes and all the people who had entered into the covenant listened, that each one should let his male slave and each one his female slave go free, and no longer hold dominion over them; so they listened and let them go.
 
 **41:11** And afterward they turned back, and took back their male slaves and female slaves whom they had let go free, and subjugated them to be male servants and female servants.
 
@@ -33,7 +33,7 @@
 
 **41:14** 'When seven years have been completed, each one must let go his Hebrew brother who was sold to him; and he will serve you six years, and you will let him go free from you.' Yet your fathers did not listen to Me, nor did they incline their ear.
 
-**41:15** And you yourselves turned today, and did what is right in My eyes, to proclaim liberty, each one to his friend; and you entered into a pact in My presence, in the house where My name has been invoked over it;
+**41:15** And you yourselves turned today, and did what is right in My eyes, to proclaim liberty, each one to his friend; and you entered into a covenant in My presence, in the house where My name has been invoked over it;
 
 **41:16** and you turned back, and defiled My name, and brought back, each one his male slave and each one his female slave, whom you had let go so that they might be free and under their own authority, and you subjugated them so that they might be male slaves and female slaves to you.
 

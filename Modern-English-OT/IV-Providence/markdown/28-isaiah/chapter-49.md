@@ -51,7 +51,7 @@
 
 **49:23** And kings will be your foster fathers, and queens your nurses; with their faces lowered to the ground they will bow down before you, and they will lick the dust of your feet. And you will know that I am the Lord, on account of whom those who wait for Him will not be put to shame."
 
-**49:24** Can prey be taken from the mighty? Or can what has been captured by the strong be saved?
+**49:24** Will prey be taken from the mighty? Or can what has been captured by the strong be saved?
 
 **49:25** For this is what the Lord says: "Indeed, even the captives will be taken from the mighty, and what has been carried off by the strong will be saved. And those who have judged you I will judge, and your children I will save.
 
@@ -59,7 +59,7 @@
 
 ## Translator Notes
 
-- **49:5** — Latin "et Israel non congregabitur" ("and Israel will not be gathered") follows the written Hebrew consonantal text (Ketiv, "not"), whereas most modern versions follow the marginal reading (Qere, "to Him": "that Israel might be gathered to Him").
+- **49:5** — Latin "et Israel non congregabitur" ("and Israel will not be gathered") follows the written Hebrew consonantal text (Ketiv, "not") rather than the marginal reading (Qere, "to Him": "that Israel might be gathered to Him").
 - **49:6** — Latin "faeces Israel" literally reads "the dregs of Israel" (the remnant left at the bottom), differing from the Hebrew Masoretic Text's "the preserved ones of Israel."
 - **49:9** — Latin "in omnibus planis" ("on all the plains") differs from the Hebrew Masoretic Text, which reads "on all the bare heights."
 - **49:12** — Latin "de terra australi" ("from the southern land") translates geographically what the Hebrew Masoretic Text presents as a place name, "the land of Sinim."

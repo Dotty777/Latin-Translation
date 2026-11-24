@@ -67,9 +67,9 @@
 
 **38:31** "Look, days will come," says the Lord, "and I will make a new covenant with the house of Israel and with the house of Judah,
 
-**38:32** not according to the pact that I established with their fathers on the day I grasped their hand to lead them out of the land of Egypt, a pact that they made void, and I ruled over them," says the Lord.
+**38:32** not according to the covenant that I established with their fathers on the day I grasped their hand to lead them out of the land of Egypt, a covenant that they made void, and I ruled over them," says the Lord.
 
-**38:33** "Rather, this will be the pact that I will make with the house of Israel after those days," says the Lord: "I will put My law in their inward parts, and I will write it on their heart, and I will be God to them, and they will be a people to Me;
+**38:33** "Rather, this will be the covenant that I will make with the house of Israel after those days," says the Lord: "I will put My law in their inward parts, and I will write it on their heart, and I will be God to them, and they will be a people to Me;
 
 **38:34** and a man will no longer teach his neighbor, nor a man his brother, saying, 'Know the Lord,' for they will all know Me, from the least of them to the greatest," declares the Lord, "because I will be merciful toward their iniquity, and I will remember their sin no longer."
 
