@@ -15,7 +15,7 @@
 
 **13:5** And now may it not happen to me to spare my life in any time of tribulation, for I am not better than my brothers.
 
-**13:6** Therefore I will vindicate my nation and the holy places, and our children and wives as well, because all the nations have gathered together to crush us out of hostility."
+**13:6** Therefore I will avenge my nation and the holy places, and our children and wives as well, because all the nations have gathered together to crush us out of hostility."
 
 **13:7** And the spirit of the people was kindled as soon as they heard these words.
 

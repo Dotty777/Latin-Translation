@@ -5,7 +5,7 @@
 
 ## Text
 
-**14:1** In the one hundred seventy-second year, King Demetrius gathered his army and departed into Media to assemble auxiliary forces for himself, so that he might defeat Trypho.
+**14:1** In the one hundred and seventy-second year, King Demetrius gathered his army and departed into Media to assemble auxiliary forces for himself, so that he might defeat Trypho.
 
 **14:2** And Arsaces, king of Persia and Media, heard that Demetrius had entered his borders, and he sent one of his commanders to capture him alive and bring him to himself.
 
@@ -57,7 +57,7 @@
 
 **14:26** For he himself restored his brothers and fought off the enemies of Israel from them." And they established freedom for him, and inscribed it on bronze tablets, and placed them on pillars on Mount Zion.
 
-**14:27** And this is the copy of the writing: "On the eighteenth day of the month of Elul, in the one hundred seventy-second year, in the third year under Simon the great priest in Asaramel,
+**14:27** And this is the copy of the writing: "On the eighteenth day of the month of Elul, in the one hundred and seventy-second year, in the third year under Simon the great priest in Asaramel,
 
 **14:28** in a great assembly of the priests, and of the people, and of the rulers of the nation, and of the elders of the region, these things were made known: since battles frequently took place in our region,
 
@@ -79,7 +79,7 @@
 
 **14:37** and he stationed Jewish men in it for the protection of the region and of the city, and he heightened the walls of Jerusalem.
 
-**14:38** And King Demetrius confirmed the high priesthood for him.
+**14:38** And King Demetrius established the high priesthood for him.
 
 **14:39** In accordance with these things, he made him his friend and glorified him with great glory.
 

@@ -87,8 +87,8 @@
 
 ## Translator Notes
 
-- **3:4** — The Vulgate identifies Simon as from 'the tribe of Benjamin' (de tribu Benjamin) and states that he strove 'to contrive something unjust in the city' (iniquum aliquid in civitate moliri), whereas the Greek Septuagint assigns him to the priestly clan of Bilgah and describes a dispute over the supervision of the city market.
-- **3:5** — The Vulgate reads 'Tharseas' (Tharsææ), a distinct spelling corresponding to 'Thraseas' in the Greek Septuagint.
+- **3:4** — The Vulgate states that Simon strove 'to contrive something unjust in the city' (iniquum aliquid in civitate moliri), whereas the Greek describes a dispute with the high priest over the administration of the city market.
+- **3:5** — The Latin reads Tharsææ ('of Tharseas'), matching the Greek manuscripts' Tharseou; some modern editions of the Greek emend the name to 'Thraseas.'
 - **3:11** — The Vulgate reads positively 'among the things that the impious Simon had reported' (in his quæ detulerat impius Simon), whereas the Greek Septuagint explicitly denies Simon's claim ('not at all as the impious Simon had slanderously represented').
 - **3:19** — The Vulgate reads that the secluded virgins ran out 'to Onias' (ad Oniam), whereas the Greek Septuagint reads 'to the gates'.
 - **3:24** — The Vulgate reads 'the Spirit of Almighty God' (spiritus omnipotentis Dei), whereas the Greek Septuagint reads 'the Sovereign of spirits and of all authority'.

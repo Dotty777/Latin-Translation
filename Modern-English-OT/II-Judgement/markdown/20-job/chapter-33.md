@@ -51,7 +51,7 @@
 
 **33:23** If there is an angel speaking on his behalf, one out of thousands, to declare a man's uprightness,
 
-**33:24** He will show mercy to him and say, 'Deliver him, so that he does not descend into corruption; I have found that by which I may be gracious to him.'
+**33:24** he will show mercy to him and say, 'Deliver him, so that he does not descend into corruption; I have found that by which I may be gracious to him.'
 
 **33:25** His flesh has been consumed by torments; let him return to the days of his youth.
 
@@ -75,6 +75,6 @@
 
 - **33:7** — The Vulgate reads miraculum meum ("my wonder") and eloquentia mea ("my eloquence"), where the Hebrew has "my terror" and "my pressure" (or "hand").
 - **33:14** — The Vulgate reads et secundo idipsum non repetit ("and He does not repeat the same thing a second time"), whereas the Hebrew says God speaks in one way and in two, though a person does not perceive it.
-- **33:18** — Here and in verses 22, 24, and 30, the Vulgate renders Hebrew shachat ("the pit") as corruptio ("corruption"), matching the Septuagint's diaphthora.
-- **33:24** — The Vulgate translates Hebrew "I have found a ransom" as inveni in quo ei propitier ("I have found that by which I may be gracious to him"), reflecting divine propitiation and indicating God as the speaker.
+- **33:18** — Here and in verses 22, 24, and 30, the Vulgate renders Hebrew shachat ("the pit") as corruptio ("corruption").
+- **33:24** — The Vulgate translates Hebrew "I have found a ransom" as inveni in quo ei propitier ("I have found that by which I may be gracious to him"). The unexpressed subject of miserebitur and dicet may be the angel of v. 23 or God.
 - **33:25** — The Vulgate reads Consumpta est caro ejus a suppliciis ("His flesh has been consumed by torments"), contrasting with the Hebrew reading that his flesh becomes fresher than a child's.

@@ -73,7 +73,7 @@
 
 **9:34** And Bacchides learned of it, and on the Sabbath day he himself and all his army came across the Jordan.
 
-**9:35** And Jonathan sent his brother, the leader of the people, and asked the Nabateans, his friends, that they might entrust to them their equipment, which was abundant.
+**9:35** And Jonathan sent his brother, the leader of the people, and asked the Nabateans, his friends, that they might lend them their equipment, which was abundant.
 
 **9:36** And the sons of Jambri came out from Medeba, and seized John and all that he had, and went away with them in their possession.
 
@@ -155,7 +155,7 @@
 
 - **9:5** — The Clementine Vulgate reads Laisa, whereas most Greek manuscripts read Elasa.
 - **9:24** — The Vulgate distinctly adds "to Bacchides" (Bacchidi) and "their whole" (omnis ... eorum), whereas the Greek reads simply that "the country defected with them."
-- **9:35** — Latin commodarent (literally "lend") here carries the late-Latin sense of "entrust" or "deposit for safekeeping," meaning Jonathan's party asked to leave their abundant equipment (apparatum) with the Nabateans.
+- **9:35** — Latin commodarent means "lend"; the Greek has Jonathan's party asking to leave its abundant baggage with the Nabateans.
 - **9:37** — The Vulgate reads "from Medeba" (ex Madaba), where the Greek reads "from Nadabath." Latin ambitione here carries its late-Latin sense of "pomp" or "stately display" (Greek: "a great escort").
 - **9:45** — The Vulgate reads only "in front of us" (ex adverso, without the Greek "and behind us") and adds "the banks" (ripæ) before the marshes and thickets.
 - **9:48** — The Vulgate compresses the longer Greek text ("and swam across to the other side, and the enemy did not cross the Jordan against them") into "and they swam across the Jordan to them."

@@ -67,4 +67,4 @@
 
 - **9:19** — The Clementine Vulgate reads the plural principes ("princes" or "rulers") alongside Antiochus, whereas the Greek has the singular title strategos ("commander" or "general") referring to Antiochus himself.
 - **9:20** — Unlike the Greek text, which adds "to God" (or "to heaven"), the Vulgate simply reads "we give the greatest thanks" (maximas agimus gratias).
-- **9:26** — The Clementine Vulgate prints Ora (an orthographic variant for Oro, "I implore"), pairing in the first-person singular with et peto ("and ask") and taking the accusative vos ("you").
+- **9:26** — The Latin prints Ora (imperative in form), evidently for Oro ("I implore"), as the parallel first-person et peto ("and ask") and the accusative vos ("you") require.

@@ -9,7 +9,7 @@
 
 **23:2** Going around Judah, they gathered the Levites from all the cities of Judah and the leaders of the families of Israel, and they came to Jerusalem.
 
-**23:3** So the whole multitude entered into a pact in the house of God with the king, and Jehoiada said to them, "Look, the son of the king will reign, just as the Lord spoke concerning the sons of David.
+**23:3** So the whole multitude entered into a covenant in the house of God with the king, and Jehoiada said to them, "Look, the son of the king will reign, just as the Lord spoke concerning the sons of David.
 
 **23:4** This, therefore, is the thing that you will do:
 

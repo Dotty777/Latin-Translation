@@ -41,7 +41,7 @@
 
 **11:18** And King Ptolemy died on the third day, and those who were in the strongholds perished at the hands of those who were inside the camps.
 
-**11:19** And Demetrius began to reign in the one hundred sixty-seventh year.
+**11:19** And Demetrius began to reign in the one hundred and sixty-seventh year.
 
 **11:20** In those days Jonathan gathered those who were in Judea so that they might storm the citadel that is in Jerusalem, and they made many siege engines against it.
 
@@ -63,11 +63,11 @@
 
 **11:29** And the king agreed, and he wrote letters to Jonathan concerning all these things, containing these terms:
 
-**11:30** "King Demetrius to his brother Jonathan, greeting, and to the nation of the Jews.
+**11:30** "King Demetrius to his brother Jonathan, greetings, and to the nation of the Jews.
 
 **11:31** We have sent to you a copy of the letter that we wrote to our father Lasthenes concerning you, so that you may know:
 
-**11:32** 'King Demetrius to his father Lasthenes, greeting.
+**11:32** 'King Demetrius to his father Lasthenes, greetings.
 
 **11:33** To the nation of the Jews, our friends and keepers of what is just toward us, we have resolved to do good because of their goodwill that they have toward us.
 
@@ -93,7 +93,7 @@
 
 **11:44** And Jonathan sent him three thousand valiant men to Antioch; and they came to the king, and the king was delighted at their arrival.
 
-**11:45** And those who were of the city assembled, one hundred twenty thousand men, and they wanted to kill the king.
+**11:45** And those who were of the city assembled, one hundred and twenty thousand men, and they wanted to kill the king.
 
 **11:46** And the king fled into the palace, and those who were of the city seized the streets of the city and began to fight.
 
@@ -117,7 +117,7 @@
 
 **11:56** And Trypho took the beasts and gained control of Antioch.
 
-**11:57** And the young Antiochus wrote to Jonathan, saying, "I confirm to you the priesthood, and I appoint you over the four cities, so that you may be among the friends of the king."
+**11:57** And the young Antiochus wrote to Jonathan, saying, "I establish for you the priesthood, and I appoint you over the four cities, so that you may be among the friends of the king."
 
 **11:58** And he sent him gold vessels for service, and gave him authority to drink from gold, and to be in purple, and to have a gold clasp;
 

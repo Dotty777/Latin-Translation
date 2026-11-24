@@ -53,7 +53,7 @@
 
 ## Translator Notes
 
-- **26:5** — Latin intelligentis et videntis Deum literally reads "who understood and saw God," where the Masoretic Hebrew is commonly rendered "who instructed him in the fear of God" (or "in visions of God").
+- **26:5** — Latin intelligentis et videntis Deum literally reads "who understood and saw God," where the Masoretic Hebrew reads "who had understanding in the visions of God."
 - **26:7** — The Vulgate reads "against the Ammonites" (matching 26:8), whereas the Masoretic Hebrew reads "against the Meunites."
 - **26:8** — The Vulgate reads "because of his frequent victories" (propter crebras victorias), where the Masoretic Hebrew reads "for he became exceedingly strong."
 - **26:11** — Latin doctoris ("teacher" or "instructor") is Jerome's rendering of the Hebrew title for an administrative official (shoter).

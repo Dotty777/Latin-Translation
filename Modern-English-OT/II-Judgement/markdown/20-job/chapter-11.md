@@ -19,7 +19,7 @@
 
 **11:7** Will you perhaps comprehend the footsteps of God, and discover the Almighty even to perfection?
 
-**11:8** He is higher than heaven, and what will you do? Deeper than hell, and how will you come to know?
+**11:8** He is higher than heaven, and what will you do? Deeper than the underworld, and how will you come to know?
 
 **11:9** His measure is longer than the earth, and wider than the sea.
 

@@ -9,7 +9,7 @@
 
 **1:2** May God do good to you, and remember His covenant which He spoke to Abraham, Isaac, and Jacob, His faithful servants;
 
-**1:3** and grant to all of you a heart to worship Him and carry out His will with a generous heart and a willing spirit.
+**1:3** and grant to all of you a heart to worship Him and carry out His will with a great heart and a willing spirit.
 
 **1:4** May He open your heart in His law and in His precepts, and make peace.
 

@@ -37,7 +37,7 @@
 
 **25:16** The ninth for Mattaniah, his sons and his brothers, twelve.
 
-**25:17** The tenth for Shimei, his sons and his brothers, twelve.
+**25:17** The tenth for Shemaiah, his sons and his brothers, twelve.
 
 **25:18** The eleventh for Azarel, his sons and his brothers, twelve.
 
@@ -70,6 +70,6 @@
 ## Translator Notes
 
 - **25:2** — Latin 'juxta regem' literally means 'beside' or 'next to the king' (likewise in 25:6), rendering the Hebrew idiom for 'under the direction of the king.'
-- **25:3** — Although the text counts six sons of Jeduthun, only five are named here (the sixth, Shimei, appears in the tenth lot in 25:17). The Vulgate also renders the final phrase with plural participles ('super confitentes et laudantes', 'over those giving thanks to and praising'), whereas the Hebrew has infinitives ('in giving thanks and praising').
+- **25:3** — Although the text counts six sons of Jeduthun, only five are named here (the sixth is presumably Shemaiah, Latin Semeias, who receives the tenth lot in 25:17, where the Hebrew has Shimei). The Vulgate also renders the final phrase with plural participles ('super confitentes et laudantes', 'over those giving thanks to and praising'), whereas the Hebrew has infinitives ('in giving thanks and praising').
 - **25:7** — Distinctively Vulgate: Latin 'qui erudiebant ... cuncti doctores' reads actively ('who taught ... all of them teachers'), whereas the Hebrew describes them passively as 'trained' and 'skillful.'
 - **25:8** — Latin 'doctus pariter et indoctus' ('the learned and the unlearned alike') renders the Hebrew contrast between 'teacher' and 'pupil.'

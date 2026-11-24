@@ -87,7 +87,7 @@
 
 ## Translator Notes
 
-- **12:4** — The Clementine Vulgate combines what are verses 4 and 5 in Hebrew and most modern editions into 12:4 (leaving no separate 12:5), and reads Samaias (Shemaiah) where the Hebrew has Ishmaiah.
+- **12:4** — Here 12:4 contains what the Hebrew divides into verses 4 and 5, so there is no separate 12:5; the Latin reads Samaias (Shemaiah) where the Hebrew has Ishmaiah.
 - **12:9** — The Vulgate reads 'while he was hiding in the wilderness' (cum lateret in deserto), whereas the Hebrew text reads 'to the stronghold in the wilderness.'
 - **12:20** — The Vulgate reads 'yet he did not fight with them' (et non dimicavit cum eis), referring to David, where the Hebrew reads 'they did not help them.'
 - **12:21** — The Clementine Vulgate lists eight leaders from Manasseh by repeating Adnah and Jozabad (Ednas, et Jozabad) twice, whereas the Hebrew text lists seven names (repeating only Jozabad).

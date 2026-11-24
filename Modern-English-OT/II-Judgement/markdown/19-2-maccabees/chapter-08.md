@@ -69,7 +69,7 @@
 
 **8:32** And they killed Philarches, who was with Timothy, a wicked man who had afflicted the Jews in many ways.
 
-**8:33** And while they were holding victory celebrations in Jerusalem, they burned the one who had burned the sacred gates, that is, Callisthenes, when he had fled into a small house, a fitting reward having been repaid to him for his ungodly deeds.
+**8:33** And while they were holding victory celebrations in Jerusalem, they burned the one who had burned the sacred gates, that is, Callisthenes, when he had fled into a certain dwelling, a fitting reward having been repaid to him for his ungodly deeds.
 
 **8:34** Now the most villainous Nicanor, who had brought a thousand merchants for the sale of the Jews,
 

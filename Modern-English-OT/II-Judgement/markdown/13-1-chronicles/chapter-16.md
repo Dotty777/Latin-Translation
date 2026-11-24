@@ -1,6 +1,6 @@
 # 1 Chronicles 16 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (42 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (42 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -95,8 +95,7 @@
 
 ## Translator Notes
 
-- **16:3** — Vulgate partem assae carnis bubalae, et frixam oleo similam ("a portion of roasted beef, and fine flour fried in oil") translates two rare Hebrew food terms often rendered "a portion of meat" (or "date cake") and "a raisin cake."
-- **16:23** — Verse 24 of the Hebrew text ("Declare His glory among the nations, His marvelous works among all the peoples") is omitted in the Clementine Vulgate, which passes directly from 16:23 to 16:25.
+- **16:3** — Vulgate partem assae carnis bubalae, et frixam oleo similam ("a portion of roasted beef, and fine flour fried in oil") translates two rare Hebrew food terms probably meaning "a portion of meat" (or "date cake") and "a raisin cake."
 - **16:27** — Vulgate confessio ("thanksgiving," reflecting Septuagint exomologesis) denotes public praise and thanksgiving before God rather than admission of guilt, where the Hebrew text reads "splendor."
 - **16:29** — Unlike the Hebrew text ("Give to the Lord the glory due His name; bring an offering"), the Clementine Vulgate construes dative nomini ejus ("to His name") with the following clause, nomini ejus levate sacrificium ("lift up a sacrifice to His name").
-- **16:36** — Vulgate Et dicat omnis populo: Amen, et hymnum Domino ("And let all the people say, 'Amen,' and a hymn to the Lord") uses a jussive subjunctive (dicat) rather than the Hebrew past narrative ("and all the people said... and praised the Lord"), and preserves the Clementine Vulgate form omnis populo for omnis populus.
+- **16:36** — Vulgate Et dicat omnis populo: Amen, et hymnum Domino ("And let all the people say, 'Amen,' and a hymn to the Lord") uses a jussive subjunctive (dicat) rather than the Hebrew past narrative ("and all the people said... and praised the Lord"), and the text here reads omnis populo where omnis populus would be expected.

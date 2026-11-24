@@ -13,7 +13,7 @@
 
 **1:4** Not so the ungodly, not so, but like dust that the wind drives away from the face of the earth.
 
-**1:5** Therefore the ungodly will not rise again in judgment, nor sinners in the assembly of the righteous.
+**1:5** Therefore the ungodly will not rise again in judgment, nor sinners in the council of the righteous.
 
 **1:6** For the Lord knows the way of the righteous, and the path of the ungodly will perish.
 

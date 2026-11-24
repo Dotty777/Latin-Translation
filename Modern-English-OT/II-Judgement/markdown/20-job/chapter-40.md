@@ -17,17 +17,17 @@
 
 **40:6** Now the Lord, answering Job from the whirlwind, said:
 
-**40:7** "Gird your loins like a man; I will question you, and inform Me.
+**40:7** "Gird your loins like a man; I will question you, and declare to Me.
 
 **40:8** Will you render My judgment void, and condemn Me so that you yourself may be justified?
 
 **40:9** And do you have an arm like God? And do you thunder with a similar voice?
 
-**40:10** Wrap yourself in majesty, and lift yourself on high, and be glorious, and clothe yourself in stately garments.
+**40:10** Wrap yourself in beauty, and lift yourself on high, and be glorious, and clothe yourself in stately garments.
 
 **40:11** Scatter the proud in your fury, and looking upon every arrogant one, humble him.
 
-**40:12** Look upon all the proud and put them to shame, and crush the ungodly in their place.
+**40:12** Look upon all the proud and put them to shame, and crush the wicked in their place.
 
 **40:13** Conceal them together in the dust, and sink their faces into the pit.
 
@@ -71,8 +71,8 @@
 
 ## Translator Notes
 
-- **40:17** — Latin testiculorum ejus ("of his testicles") is a distinctive Vulgate rendering of Hebrew pahadaw, which modern translations typically render "of his thighs."
+- **40:17** — Latin testiculorum ejus ("of his testicles") is a distinctive Vulgate rendering of Hebrew pahadaw, usually taken to mean "his thighs."
 - **40:19** — The pronoun ejus in applicabit gladium ejus ("will apply his sword") is debated: grammatically non-reflexive ejus points to Behemoth's own weapon directed by his Maker, though many interpreters take it as God's sword brought near against him.
 - **40:21** — Here and in v. 22 (Protegunt umbrae umbram ejus, "Shadows protect his shadow"), the Vulgate renders Hebrew tse'elim ("lotus trees") as "shadow" and "shadows."
-- **40:24** — The Vulgate presents this verse as a declarative statement with an unexpressed third-person singular subject (capiet ... perforabit, rendered indefinitely as "one" and traditionally also referred to God from v. 19), whereas the Hebrew is commonly read as a rhetorical question. In Vulgate versification, Leviathan's description then begins at 40:25 (41:1 in Hebrew).
+- **40:24** — The Vulgate presents this verse as a declarative statement with an unexpressed third-person singular subject (capiet ... perforabit, rendered indefinitely as "one" and traditionally also referred to God from v. 19), whereas the Hebrew is commonly read as a rhetorical question.
 - **40:31** — Latin sagenas ("dragnets") and gurgustium piscium ("a fish hut") are distinctive Vulgate renderings where the Hebrew refers to barbed irons and fish spears.

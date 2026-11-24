@@ -67,7 +67,7 @@
 
 ## Translator Notes
 
-- **21:15** — The Vulgate reads "took pity" (misertus est), emphasizing divine compassion over the calamity where the Hebrew verb denotes relenting or grieving.
+- **21:15** — The Vulgate reads "took pity" (misertus est) where the Hebrew verb denotes relenting or grieving.
 - **21:20** — The Vulgate reads "looked up" (suspexisset), aligning with the angel standing between heaven and earth in verse 16, whereas the Hebrew text reads "turned back."
 - **21:28** — The Vulgate reads "Immediately" (Protinus) where the Hebrew text reads "At that time."
 - **21:30** — The Vulgate specifies "to the altar" (ad altare) where the Hebrew text reads "before it."

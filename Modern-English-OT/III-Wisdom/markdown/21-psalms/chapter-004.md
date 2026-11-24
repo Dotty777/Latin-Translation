@@ -11,7 +11,7 @@
 
 **4:3** Sons of men, how long will you be heavy of heart? Why do you love emptiness and seek falsehood?
 
-**4:4** And know that the Lord has wonderfully honored His holy one; the Lord will hear me when I cry out to Him.
+**4:4** And know that the Lord has made His holy one wondrous; the Lord will hear me when I cry out to Him.
 
 **4:5** Be angry, and do not sin; over what you say in your hearts, feel remorse on your beds.
 

@@ -87,7 +87,7 @@
 
 **12:41** Therefore all blessed the righteous judgment of the Lord, who had made hidden things evident;
 
-**12:42** and so, turning to prayer, they asked that the offense that had been committed be given over to oblivion. And the most valiant Judas urged the people to keep themselves without sin, seeing before their eyes what had happened because of the sins of those who were struck down.
+**12:42** and so, turning to prayer, they asked that the offense that had been committed be given over to oblivion. But the most valiant Judas urged the people to keep themselves without sin, seeing before their eyes what had happened because of the sins of those who were struck down.
 
 **12:43** And having made a collection, he sent twelve thousand drachmas of silver to Jerusalem for a sacrifice to be offered for the sins of the dead, thinking rightly and devoutly about the resurrection
 

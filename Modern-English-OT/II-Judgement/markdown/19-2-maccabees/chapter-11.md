@@ -29,7 +29,7 @@
 
 **11:12** And they put all of them to flight, and many of them escaped wounded and naked. Even Lysias himself escaped by fleeing shamefully.
 
-**11:13** And because he was not senseless, considering within himself the loss that had happened to him, and understanding that the Hebrews were invincible, relying on the help of almighty God, he sent to them,
+**11:13** And because he was not senseless, considering within himself the loss that had happened to him, and understanding that the Hebrews were invincible, relying on the help of Almighty God, he sent to them,
 
 **11:14** and promised that he would consent to all things that are just, and that he would compel the king to become a friend.
 

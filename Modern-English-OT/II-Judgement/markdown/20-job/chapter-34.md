@@ -82,7 +82,7 @@
 ## Translator Notes
 
 - **34:6** — The Vulgate renders the opening clause 'there is falsehood in judging me' (In judicando enim me mendacium est), whereas the Hebrew Masoretic Text reads 'concerning my right I am considered a liar.' 'My arrow' (sagitta mea) idiomatically denotes the grievous wound inflicted on Job (cf. Job 6:4).
-- **34:14** — The Vulgate distinguishes reflexive pronouns referring to God (cor suum, ad se) from non-reflexive pronouns referring to man (ad eum, illius), reading 'toward him' and 'his spirit' rather than 'to Himself' as in many translations of the Hebrew.
+- **34:14** — The Vulgate distinguishes reflexive pronouns referring to God (cor suum, ad se) from non-reflexive pronouns referring to man (ad eum, illius).
 - **34:17** — The Vulgate renders the Hebrew verb meaning 'bind up' or 'govern' in its medical sense as 'be healed' (sanari), rather than 'govern.'
 - **34:30** — Whereas the Hebrew Masoretic Text reads negatively ('that a godless man should not reign, nor ensnare the people'), the Vulgate reads affirmatively that God makes a hypocritical man reign because of the sins of the people.
 - **34:36** — The Vulgate translates the difficult Hebrew particle as the vocative 'My Father' (Pater mi), addressing God directly, and continues with the petition 'do not leave off from the man of iniquity' (ne desinas ab homine iniquitatis), where the Hebrew reads 'because of his answers like wicked men.'

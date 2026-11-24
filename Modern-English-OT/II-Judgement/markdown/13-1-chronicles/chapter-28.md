@@ -7,7 +7,7 @@
 
 **28:1** David therefore summoned all the leaders of Israel, the chiefs of the tribes, and the overseers of the contingents who served the king, also the tribunes and centurions, and those who were in charge of the property and possessions of the king, and his sons with the eunuchs, and the mighty men and all the strongest in the army of Jerusalem.
 
-**28:2** And when the king had risen and stood up, he said, "Listen to me, my brothers and my people: I planned to build a house in which the ark of the covenant of the Lord and the footstool of our God might rest, and I prepared everything for building.
+**28:2** And when the king had risen and stood up, he said, "Listen to me, my brothers and my people: I planned to build a house in which the ark of the covenant of the Lord and the footstool of the feet of our God might rest, and I prepared everything for building.
 
 **28:3** But God said to me, 'You will not build a house for My name, since you are a fighting man and have shed blood.'
 
@@ -21,7 +21,7 @@
 
 **28:8** Now therefore, before the entire assembly of Israel, with our God listening, keep and seek out all the commandments of the Lord our God, so that you may possess the good land and leave it to your sons after you forever.
 
-**28:9** And you, my son Solomon, know the God of your father and serve Him with a complete heart and a willing spirit; for the Lord examines all hearts and understands all the thoughts of minds. If you seek Him, you will find Him; but if you abandon Him, He will cast you away forever.
+**28:9** And you, my son Solomon, know the God of your father and serve Him with a perfect heart and a willing spirit; for the Lord examines all hearts and understands all the thoughts of minds. If you seek Him, you will find Him; but if you abandon Him, He will cast you away forever.
 
 **28:10** Now therefore, since the Lord has chosen you to build the house of the sanctuary, be strong and accomplish it."
 

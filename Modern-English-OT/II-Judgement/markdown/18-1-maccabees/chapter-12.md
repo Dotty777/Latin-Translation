@@ -61,7 +61,7 @@
 
 **12:28** And the adversaries heard that Jonathan with his men was ready for war, and they feared and were terrified in their heart, and they lit fires in their camp.
 
-**12:29** But Jonathan and those who were with him did not know until morning, for they saw the lights burning.
+**12:29** But Jonathan and those who were with him did not know until morning, and they saw the lights burning.
 
 **12:30** And Jonathan pursued them, and he did not overtake them, for they had crossed the Eleutherus River.
 
@@ -77,7 +77,7 @@
 
 **12:36** and to build walls in Jerusalem, and to raise a great height between the citadel and the city, so that he might separate it from the city, so that it might be by itself, and so that they might neither buy nor sell.
 
-**12:37** And they gathered together to build the city; and the wall that was above the brook on the east collapsed, and he repaired the one that is called Caphetetha.
+**12:37** And they gathered together to build the city; and the wall that was above the brook on the east collapsed, and he repaired it, the one that is called Caphetetha.
 
 **12:38** And Simon built Adiada in the Shephelah, and fortified it, and set up gates and bars.
 

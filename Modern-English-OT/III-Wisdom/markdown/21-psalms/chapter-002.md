@@ -35,7 +35,7 @@
 
 ## Translator Notes
 
-- **2:2** — Latin "christum ejus" literally means "His anointed one" (Greek "christos," Hebrew "mashiach"/Messiah), referring to the Davidic king and messianically to Christ.
+- **2:2** — Latin "christum ejus" literally means "His anointed one" (Greek "christos," Hebrew "mashiach").
 - **2:3** — Vulgate "jugum ipsorum" ("Their yoke") follows the Septuagint, whereas the Hebrew Masoretic Text reads "their cords."
 - **2:6** — Following the Septuagint, the Vulgate uses the passive voice ("I have been established as king by Him") with the Anointed speaking, and places "proclaiming His decree" at the end of verse 6; the Hebrew Masoretic Text has God speaking ("I have set My king") and begins verse 7 with the decree.
 - **2:9** — Vulgate "Reges eos" ("You will rule them") follows the Septuagint ("shepherd/rule," echoed in Revelation 2:27; 12:5; 19:15), reflecting a different vocalization of the Hebrew consonants than the Masoretic Text's "You will break them."

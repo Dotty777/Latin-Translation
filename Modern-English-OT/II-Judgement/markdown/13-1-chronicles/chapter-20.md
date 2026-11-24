@@ -22,6 +22,6 @@
 ## Translator Notes
 
 - **20:2** — The Vulgate reads the proper name Melchom (Milcom, the Ammonite deity) where the Hebrew consonants can also be vocalized as "their king," and adds "and from it he made a diadem for himself" where the Hebrew states that it was placed on David's head.
-- **20:3** — The Vulgate adds "so that they were cut in pieces and crushed," explicitly interpreting the treatment of the Ammonite captives as execution rather than forced labor.
+- **20:3** — The Vulgate adds "so that they were cut in pieces and crushed" (ita ut dissecarentur et contererentur).
 - **20:5** — The Vulgate translates the Hebrew names Elhanan ("God has been gracious") and Jair (read as "forest") into Latin as Adeodatus and Saltus, and omits the name Lahmi, identifying the slain Philistine simply as "the brother of Goliath the Gittite."
 - **20:7** — In the Clementine Vulgate, chapter 20 contains seven verses; the final sentence of verse 7 corresponds to verse 8 in the Hebrew text.

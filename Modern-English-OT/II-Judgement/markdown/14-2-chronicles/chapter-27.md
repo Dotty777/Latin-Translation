@@ -1,6 +1,6 @@
 # 2 Chronicles 27 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (8 verses, 2 translator notes, 1 additional)  
+> **Status:** `draft: true` (8 verses, 1 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`2 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -28,4 +28,3 @@
 ## Translator Notes
 
 - **27:7** — The Vulgate reads "and works" (et opera), whereas the Masoretic Hebrew reads "and his ways."
-- **27:9** — The Clementine Vulgate moves directly from 27:7 to 27:9, omitting the duplicate summary of Jotham's age and length of reign numbered 27:8 in the Masoretic Hebrew (already stated in 27:1).

@@ -23,7 +23,7 @@
 
 **18:9** The righteous decrees of the Lord are upright, gladdening hearts; the precept of the Lord is bright, illuminating the eyes.
 
-**18:10** The fear of the Lord is holy, abiding forever and ever; the judgments of the Lord are true, vindicated in themselves,
+**18:10** The fear of the Lord is holy, abiding forever and ever; the judgments of the Lord are true, justified in themselves,
 
 **18:11** desirable beyond gold and much precious stone, and sweeter than honey and the honeycomb.
 

@@ -25,7 +25,7 @@
 
 ## Translator Notes
 
-- **3:1** — In the Vulgate and Septuagint, the superscription is numbered as verse 1, shifting the remaining verse numbers in Psalm 3 by one relative to Hebrew and most English editions.
+- **3:1** — In the Vulgate and Septuagint, as in the Hebrew, the superscription is numbered as verse 1.
 - **3:2** — Vulgate "quid multiplicati sunt" ("why have ... multiplied?") follows the Septuagint as a question, whereas the Hebrew Masoretic Text reads as an exclamation ("how many are my foes").
 - **3:4** — Vulgate "susceptor meus" ("my upholder") follows the Septuagint ("my helper/supporter"), whereas the Hebrew Masoretic Text reads "a shield about me."
 - **3:7** — Vulgate "millia" reads "thousands," whereas the Hebrew Masoretic Text and Septuagint read "ten thousands" (myriads).

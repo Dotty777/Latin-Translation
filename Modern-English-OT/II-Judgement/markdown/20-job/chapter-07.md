@@ -13,7 +13,7 @@
 
 **7:4** If I sleep, I will say, 'When will I rise?' And again I will wait for the evening, and I will be filled with pains until darkness.
 
-**7:5** My flesh is clothed with decay and the filth of dust; my skin has dried up and contracted.
+**7:5** My flesh is clothed with decay, and with the filth of dust my skin has dried up and contracted.
 
 **7:6** My days have passed more swiftly than a web is cut off by a weaver, and they have been consumed without any hope.
 

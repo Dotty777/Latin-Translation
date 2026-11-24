@@ -77,7 +77,7 @@
 
 **20:36** And he became a partner in making ships that would go to Tarshish, and they made a fleet in Ezion-geber.
 
-**20:37** Then Eliezer son of Dodavahu, from Mareshah, prophesied to Jehoshaphat, saying, "Because you have had an alliance with Ahaziah, the Lord has struck your works." And the ships were shattered, and they could not go to Tarshish.
+**20:37** Then Eliezer son of Dodavahu, from Mareshah, prophesied to Jehoshaphat, saying, "Because you have had a covenant with Ahaziah, the Lord has struck your works." And the ships were shattered, and they could not go to Tarshish.
 
 ## Translator Notes
 

@@ -71,7 +71,7 @@
 
 **38:33** Do you know the order of heaven, and will you establish its design on the earth?
 
-**38:34** Will you lift up your voice to the cloud, and will a surge of waters cover you?
+**38:34** Will you lift up your voice in the cloud, and will a surge of waters cover you?
 
 **38:35** Will you send forth lightning bolts, and will they go, and returning, say to you, 'Here we are'?
 

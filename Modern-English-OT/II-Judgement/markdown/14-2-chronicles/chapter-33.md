@@ -27,7 +27,7 @@
 
 **33:11** For that reason He brought upon them the commanders of the army of the king of the Assyrians; and they seized Manasseh, and bound in chains and shackles, they led him away into Babylon.
 
-**33:12** After he was brought into dire distress, he prayed to the Lord his God and did deep penance before the God of his fathers.
+**33:12** After he was brought into dire distress, he prayed to the Lord his God and repented greatly before the God of his fathers.
 
 **33:13** He pleaded with Him and implored earnestly; and He heard his prayer and brought him back to Jerusalem into his kingdom, and Manasseh recognized that the Lord Himself was God.
 
@@ -35,13 +35,13 @@
 
 **33:15** He also removed the foreign gods and the idol from the house of the Lord, together with the altars that he had built on the mountain of the house of the Lord and in Jerusalem, and cast them all outside the city.
 
-**33:16** Furthermore, he restored the altar of the Lord and sacrificed upon it victims, peace offerings, and praise; and he commanded Judah to serve the Lord, the God of Israel.
+**33:16** Furthermore, he restored the altar of the Lord and sacrificed upon it victims, peace offerings, and praise; and he commanded Judah to serve the Lord God of Israel.
 
 **33:17** Even so, the people still offered sacrifices at the high places to the Lord their God.
 
-**33:18** Now the rest of the deeds of Manasseh, and his supplication to his God, and also the words of the seers who spoke to him in the name of the Lord, the God of Israel, are contained in the records of the kings of Israel.
+**33:18** Now the rest of the deeds of Manasseh, and his supplication to his God, and also the words of the seers who spoke to him in the name of the Lord God of Israel, are contained in the records of the kings of Israel.
 
-**33:19** His prayer as well and its favorable hearing, and all his sins and acts of contempt, and also the sites where he built high places and made sacred groves and statues before he did penance, are written in the records of Hozai.
+**33:19** His prayer as well and its favorable hearing, and all his sins and acts of contempt, and also the sites where he built high places and made sacred groves and statues before he repented, are written in the records of Hozai.
 
 **33:20** So Manasseh slept with his fathers, and they buried him in his own house; and his son Amon reigned in his place.
 
@@ -60,5 +60,5 @@
 - **33:3** — Vulgate 'lucos' ("sacred groves") renders the Hebrew 'asherim' (sacred poles or Asherah images), a characteristic Vulgate rendering also used in 33:19.
 - **33:6** — Vulgate 'observabat somnia' ("observed dreams") interprets the Hebrew divination verb as dream-omen observation.
 - **33:11** — Vulgate 'catenis atque compedibus' ("in chains and shackles") renders the Hebrew "with hooks and bronze fetters" without the specific reference to hooks.
-- **33:12** — Vulgate 'egit pœnitentiam' ("did penance," repeated in 33:19) renders the Hebrew verb meaning "humbled himself."
+- **33:12** — Vulgate 'egit pœnitentiam' ("repented," repeated in 33:19) renders the Hebrew verb meaning "humbled himself."
 - **33:23** — Vulgate 'non est reveritus faciem Domini' ("did not show reverence before the face of the Lord") differs from the Hebrew, which states that Amon "did not humble himself before the Lord."

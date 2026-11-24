@@ -23,5 +23,5 @@
 
 - **13:1** — The superscription "To the end" (Latin "In finem," from the Septuagint) differs from the Hebrew Masoretic Text, usually rendered "For the choir director." The Vulgate also includes "there is not even one" ("non est usque ad unum") in verse 1 as well as verse 3.
 - **13:3** — The Vulgate preserves the longer Septuagint text of verse 3 ("An open tomb is their throat ... no fear of God is before their eyes"), matching the catena quoted in Romans 3:13-18 and absent from the Hebrew Masoretic Text of Psalm 14:3.
-- **13:5** — Following the Septuagint, the Vulgate includes the closing clause "where there was no fear" ("ubi non erat timor," parallel to Psalm 52:6 / MT 53:5), which does not appear in the Hebrew Masoretic Text of Psalm 14:5.
+- **13:5** — Following the Septuagint, the Vulgate includes the closing clause "where there was no fear" ("ubi non erat timor," parallel to Psalm 52:6 / MT 53:6), which does not appear in the Hebrew Masoretic Text of Psalm 14:5.
 - **13:6** — Latin "spes" ("hope," following the Septuagint) corresponds to "refuge" in the Hebrew Masoretic Text.

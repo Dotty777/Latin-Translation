@@ -7,13 +7,13 @@
 
 **15:1** And King Antiochus, the son of Demetrius, sent letters from the islands of the sea to Simon the priest and ruler of the nation of the Jews, and to the whole nation;
 
-**15:2** and they contained this wording: "King Antiochus to Simon the high priest and to the nation of the Jews, greetings.
+**15:2** and they contained this wording: "King Antiochus to Simon the great priest and to the nation of the Jews, greetings.
 
-**15:3** Since indeed wicked men have taken possession of the kingdom of our fathers, I intend to reclaim the kingdom and restore it as it was before; and I have formed a chosen multitude of an army, and I have built warships.
+**15:3** Since indeed pestilent men have taken possession of the kingdom of our fathers, I intend to reclaim the kingdom and restore it as it was before; and I have formed a chosen multitude of an army, and I have built warships.
 
 **15:4** Now I intend to advance through the country so that I may take vengeance on those who have ruined our country and who have laid waste many cities in my kingdom.
 
-**15:5** Now therefore I confirm to you all the offerings which all the kings before me remitted to you, and whatever other gifts they remitted to you;
+**15:5** Now therefore I establish for you all the offerings which all the kings before me remitted to you, and whatever other gifts they remitted to you;
 
 **15:6** and I permit you to strike your own coinage in your country;
 
@@ -37,7 +37,7 @@
 
 **15:16** "Lucius, consul of the Romans, to King Ptolemy, greetings.
 
-**15:17** Envoys of the Jews, our friends, have come to us, renewing the former friendship and alliance, sent by Simon the high priest and the people of the Jews.
+**15:17** Envoys of the Jews, our friends, have come to us, renewing the former friendship and alliance, sent by Simon the chief priest and the people of the Jews.
 
 **15:18** Moreover, they also brought a golden shield of one thousand minas.
 
@@ -45,13 +45,13 @@
 
 **15:20** It has also seemed right to us to accept the shield from them.
 
-**15:21** If therefore any wicked men have fled from their country to you, hand them over to Simon the high priest, so that he may punish them according to his law."
+**15:21** If therefore any pestilent men have fled from their country to you, hand them over to Simon the chief priest, so that he may punish them according to his law."
 
 **15:22** These same things were written to King Demetrius, and to Attalus, and to Ariarathes, and to Arsaces,
 
 **15:23** and to all the countries: to Lampsacus, and to the Spartans, and to Delos, and to Myndus, and to Sicyon, and to Caria, and to Samos, and to Pamphylia, and to Lycia, and to Halicarnassus, and to Cos, and to Side, and to Aradus, and to Rhodes, and to Phaselis, and to Gortyna, and Cnidus, and Cyprus, and Cyrene.
 
-**15:24** And they wrote a copy of them to Simon the high priest and to the people of the Jews.
+**15:24** And they wrote a copy of them to Simon the chief priest and to the people of the Jews.
 
 **15:25** Meanwhile King Antiochus pitched camp against Dora a second time, continually bringing forces against it and building siege engines; and he shut Trypho in so that he could not go out.
 

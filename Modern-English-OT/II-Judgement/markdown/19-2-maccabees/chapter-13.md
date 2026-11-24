@@ -25,7 +25,7 @@
 
 **13:10** When Judas learned of these things, he commanded the people to call upon the Lord day and night, so that, as always, He might help them now also,
 
-**13:11** since indeed they feared being deprived of the law, their homeland, and the holy temple, and that He would not allow the people, who had recently caught their breath a little, to be subjected again to blasphemous nations.
+**13:11** since indeed they feared being deprived of the law, their homeland, and the holy temple; and so that He would not allow the people, who had recently caught their breath a little, to be subjected again to blasphemous nations.
 
 **13:12** Therefore, while all did this together and sought mercy from the Lord with weeping and fasts, lying prostrate for three continuous days, Judas urged them to prepare themselves.
 

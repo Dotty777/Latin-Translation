@@ -39,7 +39,7 @@
 
 **9:17** The Lord will be known executing judgments; in the works of his own hands the sinner has been caught.
 
-**9:18** Let sinners be turned into hell, all the nations that forget God.
+**9:18** Let sinners be turned into the underworld, all the nations that forget God.
 
 **9:19** For there will not be forgetfulness of the poor man to the end; the endurance of the poor will not perish to the end.
 

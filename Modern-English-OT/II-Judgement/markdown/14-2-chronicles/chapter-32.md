@@ -23,7 +23,7 @@
 
 **32:9** After these things had taken place, Sennacherib, king of the Assyrians, sent his servants to Jerusalem (for he himself with his entire army was besieging Lachish) to Hezekiah, king of Judah, and to all the people who were in the city, saying,
 
-**32:10** "Sennacherib, king of the Assyrians, declares these things: In what are you placing confidence as you sit besieged in Jerusalem?
+**32:10** "This is what Sennacherib, king of the Assyrians, says: In what are you placing confidence as you sit besieged in Jerusalem?
 
 **32:11** Is Hezekiah deceiving you to hand you over to death in hunger and thirst, asserting that the Lord your God will free you from the hand of the king of the Assyrians?
 
@@ -75,6 +75,6 @@
 
 - **32:1** — Vulgate 'hujuscemodi veritatem' literally reads "truthfulness of this sort" (rendering Hebrew 'emet', faithfulness/truth), and 'rex Assyriorum' reads "king of the Assyrians" rather than "king of Assyria."
 - **32:18** — Unlike the Hebrew plural ("they cried out... to frighten... and capture"), the Vulgate uses singular verbs ('personabat', 'terreret', 'caperet', continuing in 32:19 'Locutusque est'), attributing the proclamation directly to Sennacherib or his spokesman.
-- **32:20** — The Vulgate spells Isaiah's father's name as 'Amos' (identical to the prophet Amos), whereas standard English distinguishes him as Amoz following the Hebrew.
+- **32:20** — The Vulgate spells Isaiah's father's name as 'Amos' (identical to the prophet Amos), whereas the Hebrew distinguishes Amoz from Amos.
 - **32:22** — Vulgate 'præstitit eis quietem per circuitum' ("granted them rest on every side") follows the Septuagint reading rather than the Hebrew Masoretic Text's "guided them on every side."
 - **32:33** — Vulgate 'celebravit ejus exequias' ("celebrated his funeral rites") specifies funeral ceremonies, whereas the Hebrew reads more generally "did him honor at his death."

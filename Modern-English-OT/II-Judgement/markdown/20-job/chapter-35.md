@@ -23,7 +23,7 @@
 
 **35:9** Because of the multitude of false accusers they will cry out, and they will wail because of the force of the arm of tyrants.
 
-**35:10** And no one has said, 'Where is God who made me, who gave songs in the night,
+**35:10** And he has not said, 'Where is God who made me, who gave songs in the night,
 
 **35:11** who teaches us more than the beasts of the earth, and instructs us more than the birds of heaven?'
 

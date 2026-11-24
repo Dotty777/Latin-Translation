@@ -31,7 +31,7 @@
 
 ## Translator Notes
 
-- **22:2** — Vulgate preserves "forty-two" (quadraginta duorum) in agreement with the Hebrew Masoretic Text here, in contrast to "twenty-two" in 2 Kings 8:26 and the Septuagint.
+- **22:2** — Vulgate preserves "forty-two" (quadraginta duorum) in agreement with the Hebrew Masoretic Text here, in contrast to "twenty-two" in 2 Kings 8:26.
 - **22:6** — Vulgate summarizes the Hebrew reference to the battle at Ramah as "in the aforementioned battle" (in supradicto certamine), and reads "Ahaziah" (Ochozias) where the Hebrew Masoretic Text has the variant "Azariah."
 - **22:7** — Vulgate reads "it was the will of God" (Voluntatis quippe fuit Dei), whereas the Hebrew Masoretic Text reads "the downfall of Ahaziah was from God."
 - **22:9** — Vulgate renders the final clause as "there was no longer any hope" (Nec erat ultra spes aliqua), whereas the Hebrew text states that the house of Ahaziah had no one able to retain strength for the kingdom.

@@ -52,5 +52,5 @@
 - **4:5** — The Vulgate supplies the explicit subject "plaga" ("a scourge" or "stroke"), whereas the Hebrew leaves the subject of "comes" and "touches" unstated.
 - **4:6** — The Vulgate frames the verse as a single question listing four virtues ("Where is your fear..."), whereas the Hebrew has two equational rhetorical questions ("Is not your fear your confidence...").
 - **4:11** — The Vulgate renders the poetic Hebrew term for a fierce lion ("layish") as "tigris" ("the tiger"), distinct from both the Hebrew and the Septuagint ("ant-lion").
-- **4:12** — The Vulgate translates a rare Hebrew word for a faint whisper as "venas susurri ejus" ("the veins of its whisper"), an image Jerome uses again in Job 26:14.
+- **4:12** — The Vulgate translates a rare Hebrew word for a faint whisper as "venas susurri ejus" ("the veins of its whisper").
 - **4:21** — The Vulgate reads the Hebrew noun "yeter" in the sense of "remnant" ("those who remain") rather than "tent-cord," yielding "those who remain will be taken away from them."

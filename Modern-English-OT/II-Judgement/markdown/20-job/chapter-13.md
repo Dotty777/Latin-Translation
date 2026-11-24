@@ -5,7 +5,7 @@
 
 ## Text
 
-**13:1** Look, my eye has seen all these things, and my ear has heard, and I have understood each one.
+**13:1** "Look, my eye has seen all these things, and my ear has heard, and I have understood each one.
 
 **13:2** In accordance with your knowledge, I too know, and I am not inferior to you.
 

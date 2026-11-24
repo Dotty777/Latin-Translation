@@ -37,7 +37,7 @@
 
 **41:16** His heart will be hardened like a stone, and pressed firm like a blacksmith's anvil.
 
-**41:17** When he rises up, the angels will be afraid, and terrified, they will be purified.
+**41:17** When he is lifted up, the angels will be afraid, and terrified, they will be purified.
 
 **41:18** When a sword lays hold of him, it will not be able to stand firm, nor a spear, nor a breastplate.
 

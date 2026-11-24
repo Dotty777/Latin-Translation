@@ -7,7 +7,7 @@
 
 **37:1** "At this my heart has shuddered and has been moved out of its place.
 
-**37:2** Listen attentively to the terror of His voice, and to the sound proceeding from His mouth.
+**37:2** Listen attentively in the terror of His voice, and to the sound proceeding from His mouth.
 
 **37:3** Beneath all the heavens He Himself observes, and His light is over the ends of the earth.
 

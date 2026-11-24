@@ -61,13 +61,13 @@
 
 **15:28** And when they had finished and were returning with joy, they discovered that Nicanor had fallen in his armor.
 
-**15:29** Therefore, when a shout was raised and a commotion was stirred up, they blessed the almighty Lord in their native tongue.
+**15:29** Therefore, when a shout was raised and a commotion was stirred up, they blessed the Almighty Lord in their native tongue.
 
 **15:30** Now Judas, who in every way was ready in body and soul to die for the citizens, commanded that the head of Nicanor, and his hand cut off with the shoulder, be carried to Jerusalem.
 
 **15:31** When he arrived there, having called together his fellow tribesmen and the priests to the altar, he summoned also those who were in the citadel.
 
-**15:32** And after showing the head of Nicanor, and the wicked hand which he had stretched out against the holy house of almighty God as he boasted grandly,
+**15:32** And after showing the head of Nicanor, and the wicked hand which he had stretched out against the holy house of Almighty God as he boasted grandly,
 
 **15:33** he also ordered the tongue of the impious Nicanor to be cut off and given piece by piece to the birds, and the hand of the madman to be hung opposite the temple.
 
@@ -86,7 +86,7 @@
 ## Translator Notes
 
 - **15:30** — The Vulgate uniquely describes Judas as "ready in body and soul to die for the citizens" (mori pro civibus paratus erat), whereas the Greek describes him as the chief champion in body and soul who kept his youthful goodwill toward his compatriots.
-- **15:32** — In the Clementine Vulgate, this verse consists of an ablative absolute (ostenso capite...) and a relative clause without its own finite verb (unlike the Greek main verb "he displayed"), so it is linked grammatically to the main verb "ordered" in verse 33.
-- **15:34** — The Vulgate reads literally "all the heavens blessed the Lord" (Omnes igitur cæli), whereas the Greek has "all [the people], looking toward heaven, blessed the manifest Lord."
-- **15:36** — The Clementine Vulgate ends this verse after "without celebration," omitting the Greek specification of the date (the thirteenth day of the twelfth month, Adar, the day before Mordecai's day).
+- **15:32** — The Latin verse has no main verb of its own: ostenso capite... is an ablative absolute and gloriatus est belongs to the relative clause, so the sentence continues with jussit ("ordered") in verse 33.
+- **15:34** — Omnes igitur cæli can be construed "all the heavens" (as here) or, taking cæli as genitive with Dominum, "all blessed the Lord of heaven"; the Greek has "all [the people], looking toward heaven, blessed the manifest Lord."
+- **15:36** — The Latin text here ends the sentence after "without celebration" and has no equivalent of the Greek specification of the date (the thirteenth day of the twelfth month, Adar, the day before Mordecai's day).
 - **15:39** — The Vulgate epilogue differs markedly from the Greek: it contrasts always drinking wine or water with using them in turn (rather than mixing them), and notes that an account that is "always exacting" (semper exactus) will not please readers.

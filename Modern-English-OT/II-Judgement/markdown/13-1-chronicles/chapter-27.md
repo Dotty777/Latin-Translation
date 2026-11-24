@@ -57,7 +57,7 @@
 
 **27:26** And over the farm work and the farmers who tilled the land, Ezri the son of Chelub was in charge;
 
-**27:27** and over the cultivators of the vineyards, Shimei the Ramathite; and over the wine cellars, Zabdi the Aphonite.
+**27:27** and over the cultivators of the vineyards, Shemaiah the Ramathite; and over the wine cellars, Zabdi the Aphonite.
 
 **27:28** Moreover, over the olive groves and fig groves that were in the plains was Baal-hanan the Gederite; and over the storehouses of oil was Joash.
 

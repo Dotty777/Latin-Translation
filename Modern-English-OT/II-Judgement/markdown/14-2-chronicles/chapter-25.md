@@ -63,7 +63,7 @@
 
 ## Translator Notes
 
-- **25:8** — The Vulgate translates the difficult Hebrew clause as a clear conditional statement ("if you think that wars depend on the strength of an army"), whereas the Masoretic Hebrew is usually rendered "if you go, act, be strong for battle."
+- **25:8** — The Vulgate translates the difficult Hebrew clause as a clear conditional statement ("if you think that wars depend on the strength of an army"), whereas the Masoretic Hebrew reads "if you go, act, be strong for battle."
 - **25:17** — The Vulgate explicitly adds the judgment "very bad" (pessimo) to Amaziah's counsel, whereas the Masoretic Hebrew simply states that he "took counsel."
 - **25:24** — Latin filios obsidum ("sons of the hostages") is a literal rendering of the Hebrew idiom for hostages ("sons of pledges").
 - **25:28** — The Vulgate reads "in the city of David" (agreeing with 2 Kings 14:20 and some ancient witnesses), whereas the Masoretic Hebrew reads "in the city of Judah."
