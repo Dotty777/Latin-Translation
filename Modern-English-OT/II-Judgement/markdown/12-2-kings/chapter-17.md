@@ -57,7 +57,7 @@
 
 **17:26** And it was reported to the king of the Assyrians, and it was said, "The nations that you deported and caused to live in the cities of Samaria do not know the ordinances of the God of the land; and the Lord has sent lions among them, and look, they are killing them, because they do not know the rite of the God of the land."
 
-**17:27** Then the king of the Assyrians commanded, saying, "Lead one of the priests whom you brought captive from there to that place, and let him go and live with them, and let him teach them the ordinances of the God of the land."
+**17:27** Then the king of the Assyrians commanded, saying, "Lead to that place one of the priests whom you brought captive from there, and let him go and live with them, and let him teach them the ordinances of the God of the land."
 
 **17:28** Therefore, when one of these priests who had been led away captive from Samaria arrived, he lived in Bethel and taught them how they should worship the Lord.
 

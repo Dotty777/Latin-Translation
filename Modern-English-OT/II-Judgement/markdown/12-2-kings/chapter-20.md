@@ -25,7 +25,7 @@
 
 **20:10** And Hezekiah said, "It is easy for the shadow to grow by ten lines; I do not want this to happen, but rather for it to return backward by ten degrees."
 
-**20:11** Therefore Isaiah the prophet called upon the Lord, and He brought the shadow back along the lines by which it had already gone down on the sundial of Ahaz, backward by ten degrees.
+**20:11** Therefore Isaiah the prophet called upon the Lord, and he brought the shadow back along the lines by which it had already gone down on the sundial of Ahaz, backward by ten degrees.
 
 **20:12** At that time Berodach-baladan, the son of Baladan, king of the Babylonians, sent letters and gifts to Hezekiah, for he had heard that Hezekiah had been sick.
 

@@ -37,4 +37,4 @@
 
 - **10:9** — The Vulgate reads "so that it might be carried around and shown to the temples of the idols and to the peoples," whereas the Hebrew reads "to carry the good news to their idols and to the people."
 - **10:13** — The Vulgate uses the explicitly feminine term pythonissam ("a female medium"), identifying the medium of Endor (1 Samuel 28), where the Hebrew term is not grammatically feminine.
-- **10:14** — The Vulgate reads "and did not hope in the Lord" (nec speraverit in Domino), whereas the Hebrew reads "and did not inquire of the LORD."
+- **10:14** — The Vulgate reads "and did not hope in the Lord" (nec speraverit in Domino), whereas the Hebrew reads "and did not inquire of the Lord."

@@ -49,7 +49,7 @@
 
 **8:24** You who have kept for Your servant my father David what You spoke to him: You spoke with Your mouth, and with Your hands You have fulfilled it, as this day proves.
 
-**8:25** Now therefore, Lord God of Israel, keep for Your servant my father David what You spoke to him, saying, 'A man will not be taken away from you before Me to sit on the throne of Israel, only if your sons keep their way, so that they walk before Me just as you walked in My sight.'
+**8:25** Now therefore, Lord God of Israel, keep for Your servant my father David what You spoke to him, saying, 'A man will not be taken away from you before Me to sit on the throne of Israel, yet only if your sons keep their way, so that they walk before Me just as you walked in My sight.'
 
 **8:26** And now, Lord God of Israel, let Your words be confirmed that You spoke to Your servant my father David.
 
@@ -65,11 +65,11 @@
 
 **8:32** You will hear in heaven, and act, and judge Your servants, condemning the wicked man and returning his way upon his head, and justifying the righteous man and rewarding him according to his righteousness.
 
-**8:33** If Your people Israel flee from their enemies (because they will sin against You), and, doing penance and confessing Your name, come and pray and make supplication to You in this house,
+**8:33** If Your people Israel flee from their enemies (because they will sin against You), and, repenting and confessing Your name, come and pray and make supplication to You in this house,
 
 **8:34** hear in heaven, and forgive the sin of Your people Israel, and You will bring them back into the land that You gave to their fathers.
 
-**8:35** If heaven is shut up, and it does not rain because of their sins, and praying in this place they do penance to Your name, and turn back from their sins because of their affliction,
+**8:35** If heaven is shut up, and it does not rain because of their sins, and praying in this place they repent to Your name, and turn back from their sins because of their affliction,
 
 **8:36** hear them in heaven, and forgive the sins of Your servants and of Your people Israel; and show them the good way along which they should walk, and give rain upon Your land, which You gave to Your people as a possession.
 
@@ -93,7 +93,7 @@
 
 **8:46** Now if they sin against You (for there is no man who does not sin), and being angry You hand them over to their enemies, and they are led captive into the land of the enemies, far or near,
 
-**8:47** and they do penance in their heart in the place of captivity, and turning back they make supplication to You in their captivity, saying, 'We have sinned; we have acted iniquitously, we have done wickedly,'
+**8:47** and they repent in their heart in the place of captivity, and turning back they make supplication to You in their captivity, saying, 'We have sinned; we have acted iniquitously, we have done wickedly,'
 
 **8:48** and they return to You with all their heart and all their soul in the land of their enemies to which they were led captive, and pray to You toward the way of their land, which You gave to their fathers, and of the city that You have chosen, and of the temple that I have built for Your name,
 
@@ -137,9 +137,9 @@
 
 - **8:6** — Latin oraculum ("oracle," also in 8:8) renders the inner sanctuary as the place of divine speech, reflecting Jerome's etymological translation of Hebrew debir.
 - **8:8** — Latin foris sanctuarium literally reads "outside the sanctuary," differing from the Hebrew Masoretic Text ("from the Holy Place").
-- **8:15** — Latin literally reads in manibus ejus ("in/with his hands"), using the non-reflexive pronoun ejus and plural manibus; the context and the parallel in 8:24 indicate God's own hands, though some Latin readers have linked ejus to David.
+- **8:15** — Latin in manibus ejus ("in/with his hands") uses the non-reflexive ejus, which could grammatically point to David; the parallel in 8:24 (manibus perfecisti, "with Your hands You have fulfilled") indicates God's own hands.
 - **8:28** — Latin hymnum ("hymn") is a distinctly Vulgate rendering where the Hebrew has "cry" or "ringing cry."
-- **8:33** — Latin distinctively reads fugerit inimicos suos ("flee from their enemies"), the future periphrastic quia peccaturus est tibi ("because they will sin against You"), and agentes poenitentiam ("doing penance"), whereas the Hebrew has "are defeated before an enemy because they have sinned against You, and turn back to You."
+- **8:33** — Latin distinctively reads fugerit inimicos suos ("flee from their enemies"), the future periphrastic quia peccaturus est tibi ("because they will sin against You"), and agentes poenitentiam ("repenting"), whereas the Hebrew has "are defeated before an enemy because they have sinned against You, and turn back to You."
 - **8:38** — Latin devotatio et imprecatio quae acciderit ("curse and imprecation that happens to") is a distinctly Vulgate reading where the Hebrew has "any prayer or plea" offered by anyone.
 - **8:43** — Latin in firmamento habitaculi tui (and in firmamento solii tui in 8:49) uses firmamentum ("foundation/firm support"), with 8:49 distinctively specifying "Your throne" (solii tui) rather than "Your dwelling."
 - **8:53** — Solomon's declaration ("The Lord said that He would dwell in a cloud... Your most firm throne forever"), numbered 8:12-13 in the Saints Latin Critical Text and the Clementine Vulgate, stands here at the opening of 8:53, where 3 Kingdoms places it.

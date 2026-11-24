@@ -49,7 +49,7 @@
 
 **7:22** Therefore Ephraim their father mourned for many days, and his brothers came to comfort him.
 
-**7:23** And he went in to his wife, and she conceived and bore a son, and he called his name Beriah, because he had been born in the misfortunes of his house.
+**7:23** And he went in to his wife, and she conceived and bore a son, and she called his name Beriah, because he had been born in the misfortunes of his house.
 
 **7:24** And his daughter was Sheerah, who built Lower and Upper Beth-horon, and Uzzen-sheerah.
 

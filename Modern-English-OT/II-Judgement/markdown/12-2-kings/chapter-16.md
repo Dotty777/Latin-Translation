@@ -47,7 +47,7 @@
 
 ## Translator Notes
 
-- **16:3** — The Vulgate renders the Hebrew idiom for child sacrifice doubly as 'consecrated... passing him through the fire' (consecravit, transferens per ignem). It also reads 'idols' (idola) with neuter plural 'which' (quae) where the Hebrew has 'abominations' of the nations whom the Lord drove out.
+- **16:3** — The Vulgate renders the Hebrew idiom for child sacrifice doubly as 'consecrated... passing him through the fire' (consecravit, transferens per ignem). It also reads 'idols' (idola) where the Hebrew has 'abominations' of the nations whom the Lord drove out.
 - **16:9** — The Vulgate identifies the place of deportation as 'Cyrene' (Cyrenen), whereas the Hebrew text reads Kir.
 - **16:12** — The Vulgate reads 'venerated it' (veneratus est illud), whereas the Hebrew states that Ahaz 'approached the altar.'
 - **16:14** — The Vulgate reads 'from the place of the altar, and from the place of the temple of the Lord' (de loco altaris, et de loco templi Domini), where the Hebrew reads 'from between the altar and the house of the Lord.'

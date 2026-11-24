@@ -15,7 +15,7 @@
 
 **14:5** And when he had secured the kingdom, he struck down his servants who had killed the king, his father.
 
-**14:6** However, he did not kill the sons of those who had killed him, according to what is written in the book of the law of Moses, just as the Lord commanded, saying, "Fathers will not die for sons, nor will sons die for fathers; rather, each one will die in his own sin."
+**14:6** However, he did not kill the sons of those who had killed, according to what is written in the book of the law of Moses, just as the Lord commanded, saying, "Fathers will not die for sons, nor will sons die for fathers; rather, each one will die in his own sin."
 
 **14:7** He himself struck down ten thousand of Edom in the Valley of the Salt Pits, and seized the rock in battle, and called its name Joktheel, to the present day.
 

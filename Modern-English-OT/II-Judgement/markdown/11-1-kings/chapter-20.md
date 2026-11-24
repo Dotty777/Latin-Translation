@@ -65,7 +65,7 @@
 
 ## Translator Notes
 
-- **20:1** — Following the chapter order of the Septuagint (3 Kingdoms), the Naboth's vineyard narrative appears here as chapter 20 rather than chapter 21 as in the Hebrew Masoretic Text and standard Sixto-Clementine Vulgate numbering.
+- **20:1** — Following the chapter order of the Septuagint (3 Kingdoms), the Saints Latin Critical Text places the narrative of Naboth's vineyard in chapter 20, where the Hebrew Masoretic Text and the standard Sixto-Clementine numbering have chapter 21.
 - **20:3** — Latin Propitius sit mihi Dominus ("May the Lord be merciful to me") literally follows the Septuagint rendering of the Hebrew oath formula of refusal ("Far be it from me from the Lord").
 - **20:10** — Latin Benedixit ("has blessed," also in 20:13) preserves literally the Hebrew pious euphemism for "cursed." The Vulgate transliterates filios Belial ("sons of Belial") here, but translates the same phrase in 20:13 as filiis diaboli ("sons of the devil") and viri diabolici ("diabolical men").
 - **20:21** — Latin demetam posteriora tua ("I will cut down your posterity") uses a harvest metaphor for the Hebrew "sweep away after you," and clausum et ultimum ("the confined and the last") renders the Hebrew merism "bond and free."

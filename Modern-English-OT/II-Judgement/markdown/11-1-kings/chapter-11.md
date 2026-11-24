@@ -51,7 +51,7 @@
 
 **11:26** Jeroboam also, the son of Nebat, an Ephrathite from Zeredah, a servant of Solomon, whose mother was named Zeruah, a widowed woman, raised his hand against the king.
 
-**11:27** And this is the cause of the rebellion against him: that Solomon built the Millo and leveled the chasm of the city of David his father.
+**11:27** And this is the cause of the rebellion against him: that Solomon built Millo and leveled the chasm of the city of David his father.
 
 **11:28** Now Jeroboam was a strong and mighty man; and Solomon, seeing that the young man was of good character and industrious, had appointed him overseer over the tributes of the entire house of Joseph.
 

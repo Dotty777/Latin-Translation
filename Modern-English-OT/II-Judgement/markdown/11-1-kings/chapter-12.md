@@ -90,7 +90,7 @@
 ## Translator Notes
 
 - **12:10** — The Vulgate reads "the back of my father" (dorso patris mei), whereas the Hebrew Masoretic Text reads "my father's loins" or "waist."
-- **12:15** — The Vulgate reads "because the Lord had turned away from him" (quoniam aversatus fuerat eum Dominus), where the Hebrew Masoretic Text reads "for it was a turn of affairs from the LORD."
+- **12:15** — The Vulgate reads "because the Lord had turned away from him" (quoniam aversatus fuerat eum Dominus), where the Hebrew Masoretic Text reads "for it was a turn of affairs from the Lord."
 - **12:24** — Following the 3 Kingdoms supplement (12:24g-n), this verse includes the narrative of Abijah's illness and Ahijah's prophecy (paralleling 1 Kings 14:1-6, 10-13, 17-18). Within it, the Vulgate distinctively reads "both the confined and the last" (et clausum, et novissimum) and "a good word from the Lord God of Israel" (sermo bonus a Domino Deo Israël).
 - **12:30** — The Vulgate explicitly reads "to worship the calf" (ad adorandum vitulum) where the Hebrew Masoretic Text reads "before the one," and in v. 31 renders the origin of the priests as "from the lowest of the people" (de extremis populi).
 - **14:9 *(additional)*** — The Clementine Vulgate literally reads "behind your body" (post corpus tuum), corresponding to the Hebrew idiom "behind your back."

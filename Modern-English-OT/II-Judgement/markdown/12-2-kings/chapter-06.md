@@ -13,7 +13,7 @@
 
 **6:4** And he went with them. And when they had come to the Jordan, they were cutting wood.
 
-**6:5** Now it happened that when one had cut down a piece of timber, the iron of the axe fell into the water; and he cried out and said, "Oh no! Oh no! Oh no, my lord! And I had borrowed this very thing."
+**6:5** Now it happened that when one had cut down a piece of timber, the iron of the axe fell into the water; and he cried out and said, "Alas! Alas! Alas, my lord! And I had borrowed this very thing."
 
 **6:6** Then the man of God said, "Where did it fall?" And he showed him the place. So he cut off a piece of wood and threw it there, and the iron floated,
 
@@ -33,7 +33,7 @@
 
 **6:14** Therefore he sent horses and chariots there, and the strength of the army; and when they had come by night, they surrounded the city.
 
-**6:15** Now the attendant of the man of God, rising at dawn and going out, saw an army all around the city, and horses and chariots; and he reported to him, saying, "Oh no! Oh no! Oh no, my lord! What shall we do?"
+**6:15** Now the attendant of the man of God, rising at dawn and going out, saw an army all around the city, and horses and chariots; and he reported to him, saying, "Alas! Alas! Alas, my lord! What shall we do?"
 
 **6:16** But he answered, "Do not be afraid, for more are with us than with them."
 

@@ -17,7 +17,7 @@
 
 **5:6** he delivered the letter to the king of Israel in these words: "When you receive this letter, know that I have sent my servant Naaman to you, so that you may cure him of his leprosy."
 
-**5:7** And when the king of Israel had read the letter, he tore his garments and said, "Am I God, that I can kill and make alive, that this man has sent to me to cure a man of his leprosy? Take note and see that he is seeking pretexts against me."
+**5:7** And when the king of Israel had read the letter, he tore his garments and said, "Am I a god, that I can kill and make alive, that this man has sent to me to cure a man of his leprosy? Take note and see that he is seeking pretexts against me."
 
 **5:8** And when Elisha the man of God heard this, namely that the king of Israel had torn his garments, he sent to him, saying, "Why have you torn your garments? Let him come to me, and let him know that there is a prophet in Israel."
 

@@ -71,7 +71,7 @@
 
 **21:33** And the men took this as an omen; and hurrying, they snatched the word from his mouth and said, "Your brother Ben-hadad." And he said to them, "Go and bring him to me." Therefore Ben-hadad came out to him, and he lifted him up into his chariot.
 
-**21:34** And he said to him, "The cities that my father took from your father I will return, and make streets for yourself in Damascus, just as my father did in Samaria; and I, bound by a treaty, will depart from you." Therefore he made a treaty and let him go.
+**21:34** And he said to him, "The cities that my father took from your father I will return, and make streets for yourself in Damascus, just as my father did in Samaria; and I, bound by a covenant, will depart from you." Therefore he made a covenant and let him go.
 
 **21:35** Then a certain man of the sons of the prophets said to his companion by the word of the Lord, "Strike me." But he refused to strike.
 
@@ -95,6 +95,6 @@
 
 - **21:6** — Latin omne quod eis placuerit ("everything that pleases them," i.e., Ben-hadad's servants) aligns with the Septuagint and differs from the Hebrew Masoretic Text, which reads "whatever is desirable in your eyes."
 - **21:11** — Latin accinctus ("girded/fastened") and discinctus ("ungirded/unfastened") are military terms referring to putting on and taking off a war-belt or armor before and after battle.
-- **21:34** — In the Vulgate (et ego foederatus recedam a te), Ben-hadad continues speaking ("and I, bound by a treaty, will depart from you"), whereas in the Hebrew Masoretic Text Ahab speaks this clause ("and I will let you go with this treaty").
+- **21:34** — In the Vulgate (et ego foederatus recedam a te), Ben-hadad continues speaking ("and I, bound by a covenant, will depart from you"), whereas in the Hebrew Masoretic Text Ahab speaks this clause ("and I will let you go with this covenant").
 - **21:38** — Vulgate aspersione pulveris ("by a sprinkling of dust," continued in 21:41 abstersit pulverem, "wiped the dust") reflects reading the rare Hebrew word afer ("headband/bandage") as epher ("ashes/dust").
 - **21:43** — Vulgate audire contemnens ("scorning to listen") renders the Hebrew adjective sar ("sullen" or "resentful") as stubborn refusal to heed the prophet's rebuke.

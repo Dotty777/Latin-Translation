@@ -19,7 +19,7 @@
 
 **13:7** And none were left to Jehoahaz from the people except fifty horsemen, and ten chariots, and ten thousand foot soldiers; for the king of Syria had killed them and had reduced them like dust in the threshing of a threshing floor.
 
-**13:8** Now the rest of the accounts of Jehoahaz, and all that he did, and his might, are these not written in the book of the accounts of the days of the kings of Israel?
+**13:8** Now the rest of the accounts of Jehoahaz, and all that he did, and his might, are these not written in the book of the words of the days of the kings of Israel?
 
 **13:9** And Jehoahaz slept with his fathers, and they buried him in Samaria; and Joash his son reigned in his place.
 
@@ -27,7 +27,7 @@
 
 **13:11** And he did what is evil in the sight of the Lord; he did not turn aside from all the sins of Jeroboam the son of Nebat, who made Israel sin, but walked in them.
 
-**13:12** Now the rest of the accounts of Joash, and all that he did, and his might, how he fought against Amaziah king of Judah, are these not written in the book of the accounts of the days of the kings of Israel?
+**13:12** Now the rest of the accounts of Joash, and all that he did, and his might, how he fought against Amaziah king of Judah, are these not written in the book of the words of the days of the kings of Israel?
 
 **13:13** And Joash slept with his fathers, and Jeroboam sat upon his throne. Moreover, Joash was buried in Samaria with the kings of Israel.
 

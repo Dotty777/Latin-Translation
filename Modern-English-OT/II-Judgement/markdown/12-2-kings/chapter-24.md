@@ -13,7 +13,7 @@
 
 **24:4** and because of the innocent blood that he shed, and he filled Jerusalem with the blood of the innocent; and on account of this the Lord was not willing to be appeased.
 
-**24:5** Now the rest of the accounts of Jehoiakim, and all that he did, are these not written in the book of the accounts of the days of the kings of Judah? And Jehoiakim slept with his fathers,
+**24:5** Now the rest of the accounts of Jehoiakim, and all that he did, are these not written in the book of the words of the days of the kings of Judah? And Jehoiakim slept with his fathers,
 
 **24:6** and Jehoiachin his son reigned in his place.
 

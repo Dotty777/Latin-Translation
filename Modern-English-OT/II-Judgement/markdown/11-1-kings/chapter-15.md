@@ -77,8 +77,8 @@
 
 ## Translator Notes
 
-- **15:7** — Verse 6 is absent in this Clementine Vulgate text, with the battle notice between Abijam and Jeroboam appearing at the end of verse 7. The Vulgate's 'book of the words of the days' (in libro verborum dierum) literally reflects the Hebrew title for the royal annals or chronicles.
+- **15:7** — Latin verse 6 (on war between Rehoboam and Jeroboam) is given among this book's additional verses; the battle notice between Abijam and Jeroboam stands at the end of verse 7. The Vulgate's 'book of the words of the days' (in libro verborum dierum) literally reflects the Hebrew title for the royal annals or chronicles.
 - **15:12** — The Vulgate renders the Hebrew term for male cult prostitutes (qedeshim) as 'effeminate men' (effeminatos), a rendering repeated in 16:28.
 - **15:13** — Distinctly Vulgate reading: Jerome interpreted the Hebrew 'horrid image for Asherah' in terms of the Greco-Roman fertility god Priapus ('in the sacred rites of Priapus', in sacris Priapi), rendering Asherah as 'grove' (luco) and adding 'his cavern' (specum ejus) and 'the most shameful image' (simulacrum turpissimum).
 - **15:20** — The Vulgate half-translates the place name Abel-beth-maacah as Abeldomum Maacha ('Abel-house of Maacah') and inserts 'namely' (scilicet) to equate all Chinneroth with all the land of Naphtali.
-- **15:31** — Verse 32 (which in the Hebrew repeats the war notice between Asa and Baasha from verse 16) is absent from this Clementine Vulgate text.
+- **15:31** — Latin verse 32, which repeats the war notice between Asa and Baasha from verse 16, is given among this book's additional verses.

@@ -56,7 +56,7 @@
 ## Translator Notes
 
 - **3:5** — Vulgate reads 'Bathsheba' (Latin Bethsabee, as in 2 Samuel 11:3), whereas the Hebrew text of 1 Chronicles 3:5 reads 'Bath-shua.'
-- **3:17** — Vulgate treats Asir ('Assir') as the proper name of Jeconiah's first son, whereas many translations of the Hebrew take it as an epithet ('Jeconiah the captive').
+- **3:17** — Vulgate treats Asir ('Assir') as the proper name of Jeconiah's first son; the Hebrew 'assir can also be read as an epithet of Jeconiah, 'the captive.'
 - **3:18** — Vulgate reads 'Sama,' corresponding to 'Hoshama' in the Hebrew text.
 - **3:21** — Vulgate presents the names after Pelatiah as a continuous father-to-son lineage, whereas the Hebrew text lists separate collateral families ('the sons of Rephaiah, the sons of Arnan...').
 - **3:23** — Vulgate uses the singular 'son' (Filius) even though three names are listed and counted.

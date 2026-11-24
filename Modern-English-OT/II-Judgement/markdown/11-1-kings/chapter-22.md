@@ -53,7 +53,7 @@
 
 **22:24** Then Zedekiah, son of Chenaanah, approached and struck Micaiah on the cheek, and said, "Has the Spirit of the Lord then left me and spoken to you?"
 
-**22:25** And Micaiah said, "You will see on that day when you enter a room within a room to hide yourself."
+**22:25** And Micaiah said, "You will see on that day when you enter a chamber within a chamber to hide yourself."
 
 **22:26** And the king of Israel said, "Take Micaiah, and let him remain with Amon, the governor of the city, and with Joash, son of Amelech,
 

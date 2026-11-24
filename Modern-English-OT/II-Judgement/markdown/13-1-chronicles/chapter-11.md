@@ -101,4 +101,4 @@
 - **11:21** — The Vulgate resolves a difficult Hebrew phrase by explicitly contrasting "the second three" (tres secundos) with "the first three" (tres primos).
 - **11:22** — The Vulgate leaves the obscure Hebrew term ariel untranslated (duos ariel Moab); it is variously understood as "lion-like warriors" or "sons of Ariel."
 - **11:25** — Literally "at his ear" (ad auriculam suam), rendering Hebrew mishma'to ("bodyguard" or "listening council") to denote David's trusted personal counselor and guard.
-- **11:35** — The Clementine Vulgate omits "Eliphal the son of Ur" present here in the Hebrew Masoretic Text; in this warrior roster it also preserves distinct proper-name readings including Pharonite (11:27), Thosaite (11:45), and Mahumite, Josaia, and Masobia (11:46).
+- **11:35** — This Latin text lacks "Eliphal the son of Ur," present here in the Hebrew Masoretic Text; in this warrior roster it also has distinct proper-name readings including Pharonite (11:27), Thosaite (11:45), and Mahumite, Josaia, and Masobia (11:46).

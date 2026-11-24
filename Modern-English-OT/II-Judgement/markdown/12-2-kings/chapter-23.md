@@ -9,7 +9,7 @@
 
 **23:2** And the king went up to the temple of the Lord, and all the men of Judah, and all who lived in Jerusalem with him, the priests and the prophets, and all the people from small to great; and with everyone listening, he read all the words of the book of the covenant that was found in the house of the Lord.
 
-**23:3** And the king stood upon the step and made a covenant before the Lord, that they would walk after the Lord and keep His precepts and testimonies and ceremonies with all their heart and with their whole soul, and re-establish the words of this covenant that were written in that book; and the people agreed to the pact.
+**23:3** And the king stood upon the step and made a covenant before the Lord, that they would walk after the Lord and keep His precepts and testimonies and ceremonies with all their heart and with their whole soul, and re-establish the words of this covenant that were written in that book; and the people agreed to the covenant.
 
 **23:4** And the king commanded Hilkiah the high priest, and the priests of the second order, and the doorkeepers, to throw out of the temple of the Lord all the vessels that had been made for Baal, and in the grove, and for all the host of heaven; and he burned them outside Jerusalem in the valley of Kidron, and carried their dust to Bethel.
 
@@ -81,7 +81,7 @@
 
 ## Translator Notes
 
-- **23:1** — In the Clementine Vulgate, the opening sentence ("And they reported to the king what she had said") begins 23:1, whereas in the Hebrew Masoretic Text and most modern English Bibles it concludes 22:20.
+- **23:1** — In the Clementine Vulgate, the opening sentence ("And they reported to the king what she had said") begins 23:1, whereas in the Hebrew Masoretic Text it concludes 22:20.
 - **23:4** — Here and throughout the chapter (vv. 6, 7, 14, 15), the Vulgate renders Hebrew Asherah (a wooden cultic image or pole) as lucus ("grove"), following the Septuagint; in v. 4 it also reads "in the grove" (in luco).
 - **23:5** — Vulgate "soothsayers" (aruspices) renders a Hebrew term for idolatrous priests, and "the twelve signs" (duodecim signis) specifies the twelve signs of the zodiac where the Hebrew reads "constellations" (mazzalot).
 - **23:11** — Vulgate "in Pharurim" treats the obscure Hebrew term parwarim ("precincts" or "colonnades") as a proper name, and its masculine relative pronoun (qui) attaches Pharurim to Nathan-melech rather than to the chamber.

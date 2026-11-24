@@ -97,6 +97,6 @@
 
 - **9:1** — The Vulgate joins "and Judah" to the book title ("the book of the kings of Israel and Judah") and reads "and they were carried away," whereas the Hebrew Masoretic Text begins the following clause with "and Judah was carried away into exile."
 - **9:15** — The Vulgate translates the Hebrew personal name Heresh as the occupation "the carpenter" (carpentarius), taking it from the Hebrew noun for a craftsman.
-- **9:20** — The Vulgate reads "before the Lord" (coram Domino), combining elements that the Hebrew Masoretic Text divides as "in time past; the LORD was with him."
+- **9:20** — The Vulgate reads "before the Lord" (coram Domino), combining elements that the Hebrew Masoretic Text divides as "in time past; the Lord was with him."
 - **9:25** — The Vulgate renders the weekly rotation as "on their sabbaths" (in sabbatis suis), whereas the Hebrew reads "every seven days."
 - **9:41** — In agreement with the Septuagint and the parallel genealogy in 1 Chronicles 8:35, the Vulgate includes "and Ahaz" among the sons of Micah, which is absent in the Hebrew Masoretic Text of this verse.

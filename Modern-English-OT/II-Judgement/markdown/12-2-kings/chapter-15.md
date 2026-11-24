@@ -61,7 +61,7 @@
 
 **15:28** And he did what was evil before the Lord; he did not depart from the sins of Jeroboam, son of Nebat, who made Israel sin.
 
-**15:29** In the days of Pekah, king of Israel, Tiglath-pileser, king of Assyria, came and captured Ijon, and Abel House of Maacah, and Janoah, and Kedesh, and Hazor, and Gilead, and Galilee, and all the land of Naphtali, and carried them away to the Assyrians.
+**15:29** In the days of Pekah, king of Israel, Tiglath-pileser, king of Assyria, came and captured Ijon, and Abel House, Maacah and Janoah, and Kedesh, and Hazor, and Gilead, and Galilee, and all the land of Naphtali, and carried them away to the Assyrians.
 
 **15:30** Now Hoshea, son of Elah, conspired and laid an ambush against Pekah, son of Remaliah, and struck him and killed him, and reigned in his place in the twentieth year of Jotham, son of Uzziah.
 
@@ -86,4 +86,4 @@
 - **15:5** — Latin "in domo libera seorsum" ("in a free house apart") renders the obscure Hebrew term for an isolated house. The Clementine Vulgate also reads the future tense "judicabit" ("will judge") rather than the imperfect "judicabat" ("was judging"), translated here as "would judge" to fit the past-tense narrative.
 - **15:10** — Latin "palam" ("openly") translates the Hebrew phrase "before the people," which some Greek witnesses take as the place name Ibleam.
 - **15:25** — The Vulgate renders the Hebrew with "juxta" ("beside Argob and beside Arieh") and puts "quinquaginta viros" ("fifty men") in the accusative as additional victims struck down with Pekahiah, whereas the Hebrew is usually read as fifty Gileadites who accompanied Pekah in the conspiracy.
-- **15:29** — The Vulgate translates the Hebrew town name Abel-beth-maacah partly into Latin as "Abel Domum, Maacha" ("Abel House of Maacah," with a comma after "Domum" in the Clementine text), and renders the destination as "in Assyrios" ("to the Assyrians").
+- **15:29** — The Vulgate translates the Hebrew town name Abel-beth-maacah partly into Latin as "Abel Domum, Maacha" ("Abel House, Maacah," with a comma after "Domum" in the Clementine text, so that Maacha stands as a separate name), and renders the destination as "in Assyrios" ("to the Assyrians").

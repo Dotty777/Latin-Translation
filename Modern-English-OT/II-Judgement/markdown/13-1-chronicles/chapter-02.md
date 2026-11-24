@@ -103,7 +103,7 @@
 
 **2:49** And Shaaph, the father of Madmannah, fathered Sheva, the father of Machbena and the father of Gibea. And the daughter of Caleb was Achsah.
 
-**2:50** These were the sons of Caleb, the son of Hur, the firstborn of Ephrathah: Shobal, the father of Kiriath-jearim;
+**2:50** These were the sons of Caleb, the sons of Hur, the firstborn of Ephrathah: Shobal, the father of Kiriath-jearim;
 
 **2:51** Salma, the father of Bethlehem; Hareph, the father of Beth-gader.
 
@@ -119,7 +119,7 @@
 
 - **2:18** — Vulgate reads "took a wife named Azubah, by whom he fathered Jerioth," presenting Jerioth as a child of Caleb and Azubah rather than a second wife as in the Hebrew text.
 - **2:24** — Vulgate reads "when Hezron had died, Caleb went in to Ephrathah," taking Caleb-ephrathah (a place name in the Hebrew text) as Caleb taking Ephrathah as his wife.
-- **2:25** — Vulgate preserves the proper name Aram, where the Hebrew Masoretic Text reads Oren.
+- **2:25** — Vulgate reads the proper name Aram, where the Hebrew Masoretic Text reads Oren.
 - **2:49** — Vulgate makes Shaaph, the father of Madmannah, the subject who fathered Sheva, whereas the Hebrew text lists both Shaaph and Sheva as sons borne by Maacah.
 - **2:52** — Vulgate translates the Hebrew names Haroeh and half of the Menuhoth literally as "who saw half of the resting places" (Latin qui videbat dimidium requietionum).
 - **2:54** — Vulgate renders the Hebrew names Atroth-beth-joab and half of the Manahathites, the Zorites as "the crowns of the house of Joab, and half of the resting place of the Zorites" (Latin coronae domus Joab, et dimidium requietionis Sarai).

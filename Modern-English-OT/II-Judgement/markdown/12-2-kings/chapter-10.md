@@ -82,5 +82,5 @@
 - **10:9** — Vulgate 'si ego conjuravi' ("if I conspired") frames Jehu's admission as a rhetorical conditional, whereas the Hebrew reads "look, I conspired."
 - **10:12** — Vulgate 'Cameram pastorum' ("the Chamber of the Shepherds") renders the Hebrew place name Beth-eked of the Shepherds (literally "house of binding/shearing of the shepherds").
 - **10:24** — Vulgate mirrors the compressed Hebrew idiom ('anima ejus ... pro anima illius'), meaning that the life of whichever guard lets a captive escape will answer for the escapee's life.
-- **10:25** — Vulgate 'civitatem templi Baal' ("the city of the temple of Baal") literally renders the Hebrew expression for the inner citadel or sanctuary precinct of Baal's temple; in 10:26-27 the Vulgate also reads singular 'statuam' ("statue") where the Hebrew has plural pillars.
+- **10:25** — Vulgate 'civitatem templi Baal' ("the city of the temple of Baal") literally renders the Hebrew expression for the inner citadel or sanctuary precinct of Baal's temple; in 10:26 the Vulgate also reads singular 'statuam' ("statue") where the Hebrew has plural pillars.
 - **10:32** — Vulgate 'coepit Dominus taedere super Israel' ("the Lord began to grow weary of Israel") reflects a distinct reading of the Hebrew verb, where the Masoretic Text reads "began to cut off [territory] in Israel."

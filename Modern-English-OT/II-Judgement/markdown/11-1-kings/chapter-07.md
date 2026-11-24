@@ -47,7 +47,7 @@
 
 **7:23** In this manner he made ten bases, of one casting, measure, and similar carving.
 
-**7:24** He also made ten bronze basins: one basin held forty baths, and it was of four cubits; and he placed each basin upon each one, that is, the ten bases.
+**7:24** He also made ten bronze basins: one basin held forty baths, and it was of four cubits; and he also placed each basin upon each one, that is, the ten bases.
 
 **7:25** And he set the ten bases, five on the right side of the temple and five on the left; and the sea he placed on the right side of the temple, facing east toward the south.
 

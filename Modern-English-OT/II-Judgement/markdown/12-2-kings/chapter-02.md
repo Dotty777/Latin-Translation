@@ -5,7 +5,7 @@
 
 ## Text
 
-**2:1** Now it happened, when the Lord was about to lift Elijah up by a whirlwind into heaven, that Elijah and Elisha were going from Gilgal.
+**2:1** Now it happened, when the Lord willed to lift Elijah up by a whirlwind into heaven, that Elijah and Elisha were going from Gilgal.
 
 **2:2** And Elijah said to Elisha, "Stay here, because the Lord has sent me as far as Bethel." And Elisha said to him, "As the Lord lives, and as your soul lives, I will not abandon you." And when they had gone down to Bethel,
 

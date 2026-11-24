@@ -93,4 +93,4 @@
 - **5:15** — The Vulgate renders the Hebrew personal name Ahi as the common noun Fratres ("brothers") and makes filii ("sons") plural, while keeping princeps ("leader") singular.
 - **5:19** — The Vulgate translates Hebrew Jetur as the plural gentilic Ituraei ("Itureans") and makes the Itureans, Naphish, and Nodab the subjects of praebuerunt eis auxilium ("gave them aid") in 5:20, whereas the Hebrew lists them as opponents alongside the Hagrites and uses a passive verb ("they were helped against them").
 - **5:26** — The Vulgate keeps the place name Lahela, fusing the Hebrew preposition la- ("to") with the place name Halah while also supplying the Latin preposition in ("to") before it.
-- **5:27** — In the Clementine Vulgate, 1 Chronicles 5:27-41 concludes chapter 5 with the Levitical genealogy; in the Hebrew Masoretic Text and most modern English Bibles, these verses are numbered 1 Chronicles 6:1-15.
+- **5:27** — This text numbers these verses 5:27-41, as the Hebrew does; the printed Sixto-Clementine edition numbers them 6:1-15.

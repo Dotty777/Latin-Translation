@@ -111,7 +111,7 @@
 
 **6:53** Jokmeam also with its outskirts, and Beth-horon likewise,
 
-**6:54** and also Aijalon with its outskirts, and Gath-rimmon in the same manner.
+**6:54** and also Helon with its outskirts, and Gath-rimmon in the same manner.
 
 **6:55** Furthermore, from the half-tribe of Manasseh: Aner and its outskirts, Bileam and its outskirts; that is, for those who remained of the clan of the sons of Kohath.
 
@@ -139,10 +139,10 @@
 
 ## Translator Notes
 
-- **6:1** — In the Vulgate, 1 Chronicles 6:1-33 corresponds to 6:16-48 in the Hebrew Masoretic Text and most English translations, because the Vulgate includes the Aaronite high-priestly genealogy at 5:27-41.
+- **6:1** — This text follows the Hebrew numbering of chapter 6 (6:1-66); the printed Sixto-Clementine edition numbers these verses 6:16-81.
 - **6:13** — The Vulgate reads 'primogenitus Vasseni, et Abia' ('the firstborn Vashni, and Abijah'), following the Hebrew consonantal text where 'Vashni' is taken as the firstborn's name rather than 'Joel' with 'and the second, Abijah' (compare Joel son of Samuel in v. 18 and 1 Sam 8:2).
 - **6:16** — The Vulgate reads 'super cantores' ('over the singers') and 'ex quo collocata est arca' ('from the time the ark was set in place') where the Hebrew has 'over the service of song' and 'after the ark had rest'; likewise, v. 17 has 'tabernaculo testimonii' ('the tabernacle of the testimony') for Hebrew 'the tabernacle of the tent of meeting.'
-- **6:19** — The Vulgate preserves several distinct proper names here and in vv. 29-31: 'Thohu' ('Tohu', matching 1 Sam 1:1) where the Hebrew Masoretic Text has 'Toah'; in v. 29 'Cusi' ('Cushi', related to 'Kushaiah' in 1 Chr 15:17) for Hebrew 'Kishi'; and in v. 31 'Amasai' for Hebrew 'Amzi.'
+- **6:19** — The Vulgate has several distinct proper names here and in vv. 29-31: 'Thohu' ('Tohu', matching 1 Sam 1:1) where the Hebrew Masoretic Text has 'Toah'; in v. 29 'Cusi' ('Cushi', related to 'Kushaiah' in 1 Chr 15:17) for Hebrew 'Kishi'; and in v. 31 'Amasai' for Hebrew 'Amzi.'
 - **6:33** — The Vulgate reads 'domus Domini' ('the house of the Lord') where the Hebrew Masoretic Text has 'the house of God,' and links the Levites by the relative clause 'qui ordinati sunt' ('who were assigned').
 - **6:34** — The Vulgate reads 'adolebant incensum' ('burned incense') for both altars and 'ut precarentur pro Israel' ('to pray for Israel') where the Hebrew Masoretic Text has 'made offerings' and 'to make atonement for Israel.'
 - **6:40** — Here and throughout vv. 40-66, the Vulgate renders the open lands surrounding Levitical cities as 'suburbana' ('outskirts') where the Hebrew has 'pasturelands.'

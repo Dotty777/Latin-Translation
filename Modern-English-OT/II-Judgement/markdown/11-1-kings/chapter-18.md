@@ -57,7 +57,7 @@
 
 **18:26** When they had taken the bull that he had given them, they prepared it; and they called upon the name of Baal from morning until noon, saying, "Baal, answer us." Yet there was no voice, nor anyone who answered; and they kept leaping over the altar that they had made.
 
-**18:27** And when it was already noon, Elijah mocked them, saying, "Shout with a louder voice, for he is a god; and perhaps he is talking, or he is at an inn, or on a journey, or surely he is asleep and must be awakened."
+**18:27** And when it was already noon, Elijah mocked them, saying, "Shout with a louder voice, for he is a god; and perhaps he is talking, or he is at an inn, or on a journey, or surely he is asleep, so that he may be awakened."
 
 **18:28** So they shouted with a loud voice and cut themselves according to their custom with knives and lancets, until they were drenched with blood.
 

@@ -67,6 +67,6 @@
 
 - **8:2** — The Vulgate reads "for many days" (diebus multis), whereas the Masoretic Hebrew text reads "seven years."
 - **8:10** — The Vulgate reads "You will be healed" (Sanaberis), aligning with the Hebrew Qere and Septuagint, whereas the written Hebrew text (Ketiv) reads "You will not live."
-- **8:11** — The Clementine Latin prints Stetique ("and I stood"), a known orthographic variant for Stetitque ("and he stood"); the Vulgate also reads "was troubled to the flushing of his face" (conturbatus est usque ad suffusionem vultus), where the Hebrew reads "fixed his gaze until he was ashamed."
-- **8:16** — The Vulgate coordinates both kings in the genitive ("of Joram... and of Jehoshaphat king of Judah"), reflecting a difficult chronological clause in Hebrew often rendered "while Jehoshaphat was king of Judah."
+- **8:11** — The critical text prints Stetique (literally "and I stood"), evidently for Stetitque ("and he stood"), which the third-person narrative requires; the Vulgate also reads "was troubled to the flushing of his face" (conturbatus est usque ad suffusionem vultus), where the Hebrew reads "fixed his gaze until he was ashamed."
+- **8:16** — The Vulgate coordinates both kings in the genitive ("of Joram... and of Jehoshaphat king of Judah"), reflecting a difficult chronological clause in the Hebrew.
 - **8:23** — "The book of the words of the days" (libro verborum dierum) literally translates the Hebrew idiom for the royal chronicles or annals.
