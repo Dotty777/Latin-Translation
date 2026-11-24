@@ -45,4 +45,4 @@
 - **2:9** — Latin uses three distinct units of measure—coros (kors) for wheat and barley, metretas (metretes, an ancient liquid measure) for wine, and sata (seahs) for oil—where the Hebrew uses baths for both wine and oil.
 - **2:12** — Latin renders Hebrew Huram-abi literally as Hiram patrem meum ('Hiram my father'), reflecting an honorific title for a master craftsman while adopting the spelling Hiram.
 - **2:13** — Latin specifies marmore ('marble,' as also in 3:6) where the Hebrew reads 'stones.'
-- **2:16** — Latin renders Hebrew 'resident aliens' with the Septuagint-influenced term proselytos ('proselytes'), and divides the total as 'one hundred fifty thousand, and three thousand six hundred' in anticipation of 2:17.
+- **2:16** — Latin renders Hebrew 'resident aliens' with the Septuagint-influenced term proselytos ('proselytes').

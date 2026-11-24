@@ -39,7 +39,7 @@
 
 **3:18** After him their brothers built: Bavvai son of Henadad, ruler of half of Keilah;
 
-**3:19** and next to him Ezer son of Jeshua, ruler of Mizpah, built a second measure, opposite the ascent of the strongest corner.
+**3:19** and next to him Ezer son of Joshua, ruler of Mizpah, built a second measure, opposite the ascent of the strongest corner.
 
 **3:20** After him, on the mountain, Baruch son of Zaccai built a second measure, from the corner as far as the gate of the house of Eliashib the high priest.
 
@@ -83,6 +83,6 @@
 
 - **3:1** — Throughout chapter 3, the Vulgate uniformly uses aedifico ("build") where the Hebrew distinguishes between "build" and "repair/strengthen." Here it also reads "Flock Gate" (portam gregis, Hebrew "Sheep Gate") and renders the Hebrew Tower of the Hundred (Meah) as "the tower of a hundred cubits" (turrim centum cubitorum).
 - **3:5** — "Of their Lord" translates the Vulgate's singular Domini sui (referring to God), where the Hebrew Masoretic Text has plural "their lords" (understood either as their supervisors or as an honorific plural for God).
-- **3:8** — "They left Jerusalem as far as the wall of the broader street" translates the Vulgate's dimiserunt ... murum plateae latioris, whereas many modern translations of the Hebrew render "they restored Jerusalem as far as the Broad Wall."
+- **3:8** — "They left Jerusalem as far as the wall of the broader street" translates the Vulgate's dimiserunt ... murum plateae latioris, whereas the Hebrew is often understood as "they restored Jerusalem as far as the Broad Wall."
 - **3:15** — "Pool of Siloam" translates the Vulgate's piscinae Siloe, identifying the Hebrew Pool of Shelah with the Siloam pool of John 9:7. Other notable Vulgate readings in this section include "half of the district" in 3:11 (Hebrew "a second section"), "the strongest corner" in 3:19 (Hebrew "the armory at the angle"), "on the mountain" in 3:20 (Hebrew "zealously"), "of the Jordan" in 3:22, and "the wall of the temple" in 3:27 (Hebrew "the wall of Ophel").
-- **3:34** — In 3:34-36 (numbered 4:2-4 in Hebrew and most English Bibles), the Vulgate preserves several distinctive readings: "Will the nations let them alone?" (Hebrew "Will they restore it for themselves?"), "build the stones" (Hebrew "revive the stones"), "it will leap over" (transiliet in 3:35, Hebrew "break down"), and "to contempt" (in despectionem in 3:36, Hebrew "to plunder").
+- **3:34** — In 3:34-36 the Vulgate preserves several distinctive readings: "Will the nations let them alone?" (Hebrew "Will they restore it for themselves?"), "build the stones" (Hebrew "revive the stones"), "it will leap over" (transiliet in 3:35, Hebrew "break down"), and "to contempt" (in despectionem in 3:36, Hebrew "to plunder").

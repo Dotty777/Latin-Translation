@@ -84,6 +84,6 @@
 - **11:4** — The Vulgate reads Aziam here, where the Hebrew Masoretic Text has Uzziah; the Clementine punctuation also joins 'of the sons of Perez' to the following verse rather than exclusively to Athaiah.
 - **11:7** — The Vulgate reads Sellum (Shallum), where the Hebrew text reads Sallu.
 - **11:14** — Latin filius potentium ('son of the mighty men') translates Hebrew ben-haggedolim as a descriptive title rather than a proper name ('son of Haggedolim').
-- **11:17** — The Vulgate reads 'for praising and for giving thanks' (ad laudandum et ad confitendum), reflecting tehillah ('praise') where the Masoretic Text vocalizes techillah ('beginning').
+- **11:17** — The Vulgate reads 'for praising and for giving thanks' (ad laudandum et ad confitendum), reflecting tehillah ('praise') where the Masoretic Text has techillah ('beginning').
 - **11:25** — Following the Clementine punctuation, 'and in the houses throughout all their regions' concludes the sentence from v. 24. Throughout vv. 25-31, 'daughters' (filiabus) preserves the literal Hebraism for dependent surrounding towns, and Cabseel (Kabzeel) corresponds to Hebrew Jekabzeel (cf. Josh 15:21).
 - **11:21 *(additional)*** — The Nethinim were a class of temple servants.

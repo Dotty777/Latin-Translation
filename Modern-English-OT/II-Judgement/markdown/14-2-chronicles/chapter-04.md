@@ -43,7 +43,7 @@
 
 **4:19** And Solomon made all the vessels of the house of God, and the golden altar, and the tables, and upon them the loaves of presentation;
 
-**4:20** also the lampstands with their lamps, of the purest gold, so that they might shine before the inner sanctuary according to the rite;
+**4:20** also the lampstands with their lamps, of the purest gold, so that they might shine before the oracle according to the rite;
 
 **4:21** and certain floral ornaments, and the lamps, and the golden tongs; all were made of the purest gold.
 

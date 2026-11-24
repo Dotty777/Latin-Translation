@@ -29,7 +29,7 @@
 
 **6:12** Then he stood before the altar of the Lord, opposite the entire multitude of Israel, and stretched out his hands.
 
-**6:13** For indeed Solomon had made a bronze platform and had placed it in the middle of the basilica, measuring five cubits in length, five cubits in width, and three cubits in height; and he stood upon it, and then, with bent knees facing the entire multitude of Israel and with palms raised toward heaven,
+**6:13** For indeed Solomon had made a bronze platform and had placed it in the middle of the hall, measuring five cubits in length, five cubits in width, and three cubits in height; and he stood upon it, and then, with bent knees facing the entire multitude of Israel and with palms raised toward heaven,
 
 **6:14** he said, "Lord God of Israel, there is no god like You in heaven and on earth, You who keep covenant and mercy with Your servants who walk before You with all their heart,
 

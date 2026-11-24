@@ -25,7 +25,7 @@
 
 **10:10** And Ezra the priest arose and said to them, "You have transgressed and have married foreign wives, so as to add to the guilt of Israel.
 
-**10:11** And now make confession to the Lord, the God of your fathers, and do His pleasure, and separate yourselves from the peoples of the land and from the foreign wives."
+**10:11** And now make confession to the Lord God of your fathers, and do His pleasure, and separate yourselves from the peoples of the land and from the foreign wives."
 
 **10:12** And the entire multitude answered and said with a loud voice, "According to your word to us, so let it be done.
 
@@ -39,7 +39,7 @@
 
 **10:17** And all the men who had married foreign wives were dealt with by the first day of the first month.
 
-**10:18** And among the sons of the priests there were found those who had married foreign wives. Of the sons of Jeshua the son of Jozadak, and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah.
+**10:18** And among the sons of the priests there were found those who had married foreign wives. Of the sons of Joshua the son of Jozadak, and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah.
 
 **10:19** And they gave their hands that they would put away their wives, and that for their guilt they would offer a ram from the sheep.
 
@@ -65,7 +65,7 @@
 
 **10:30** And of the sons of Pahath-moab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.
 
-**10:31** And of the sons of Harim: Eliezer, Jeshua, Malchijah, Shemaiah, Simeon,
+**10:31** And of the sons of Harim: Eliezer, Joshua, Malchijah, Shemaiah, Simeon,
 
 **10:32** Benjamin, Malluch, Shemariah.
 
@@ -100,5 +100,5 @@
 - **10:15** — The Vulgate reads "Therefore ... stood over this" (Igitur ... steterunt super hoc), portraying these men as presiding over the measure rather than opposing it, and has Thecue ("Tekoa," matching the Septuagint) where the Hebrew reads "Tikvah."
 - **10:16** — The Vulgate reads "went into the houses of their fathers" (abierunt ... in domos patrum suorum), whereas the Hebrew text states that Ezra selected men according to their fathers' houses.
 - **10:25** — The Vulgate reads "Eliezer" (matching the Septuagint), whereas the Hebrew text reads "Eleazar."
-- **10:31** — The Vulgate reads Josue ("Jeshua," matching 10:18 and the Septuagint), whereas the Hebrew text reads "Isshijah."
+- **10:31** — The Vulgate reads Josue ("Joshua," as in 10:18), whereas the Hebrew text reads "Isshijah."
 - **10:44** — The Vulgate renders the difficult Hebrew ending cleanly as "there were women among them who had borne children" (fuerunt ex eis mulieres, quæ pepererant filios).

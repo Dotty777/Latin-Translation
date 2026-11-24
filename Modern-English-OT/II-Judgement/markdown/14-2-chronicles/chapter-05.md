@@ -17,11 +17,11 @@
 
 **5:6** Now King Solomon, and the entire assembly of Israel, and all who were assembled before the ark, were sacrificing rams and oxen without any number, for so great was the multitude of the sacrifices.
 
-**5:7** And the priests brought the ark of the covenant of the Lord into its place, that is, to the inner sanctuary of the temple, into the Holy of Holies, beneath the wings of the cherubim,
+**5:7** And the priests brought the ark of the covenant of the Lord into its place, that is, to the oracle of the temple, into the Holy of Holies, beneath the wings of the cherubim,
 
 **5:8** so that the cherubim spread out their wings over the place in which the ark had been placed, and covered the ark itself along with its poles.
 
-**5:9** Now the ends of the poles by which the ark was carried, because they were a little longer, were visible before the inner sanctuary; but if anyone was a little outside, he could not see them. So the ark has been there until the present day.
+**5:9** Now the ends of the poles by which the ark was carried, because they were a little longer, were visible before the oracle; but if anyone was a little outside, he could not see them. So the ark has been there until the present day.
 
 **5:10** And there was nothing else in the ark except the two tablets that Moses had placed at Horeb, when the Lord gave the law to the sons of Israel as they came out of Egypt.
 
@@ -37,6 +37,6 @@
 
 - **5:5** — Latin omnem paraturam tabernaculi ("all the furnishings of the tabernacle") renders Hebrew "the tent of meeting," and "the priests with the Levites" separates two groups where the Hebrew reads "the Levitical priests."
 - **5:7** — Latin oraculum (literally "oracle," the place of divine utterance, also in 4:20 and 5:9) is the Vulgate's regular rendering of Hebrew debir, the inner sanctuary of the temple.
-- **5:10** — The Vulgate reads "when the Lord gave the law" (legem dedit) where the Hebrew reads "when the LORD made a covenant."
+- **5:10** — The Vulgate reads "when the Lord gave the law" (legem dedit) where the Hebrew reads "when the Lord made a covenant."
 - **5:11** — The Vulgate states that the priestly courses and order of ministries had not yet been divided among them at that time, whereas the Hebrew indicates that the priests consecrated themselves without keeping to their divisions.
-- **5:13** — The Vulgate expands the musical account with "voice," "instruments, and various kinds of music," and "the sound was heard far away," and in 5:14 shifts from "cloud" (nube) to "thick darkness" (caliginem).
+- **5:13** — The Vulgate reads nube ("cloud") here but caliginem ("thick darkness") in 5:14, where the Hebrew has "cloud" in both verses.

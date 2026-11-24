@@ -35,6 +35,6 @@
 
 ## Translator Notes
 
-- **14:1** — In the Clementine Vulgate, chapter 14 begins at verse 2 of the Hebrew and modern English numbering (since Hebrew 14:1 stands at Vulgate 13:23). The Vulgate also reads 'his God' (Dei sui) and 'altars of foreign worship' (altaria peregrini cultus).
+- **14:1** — The Vulgate reads 'in the sight of his God' (in conspectu Dei sui) where the Hebrew has 'the Lord his God,' and 'altars of foreign worship' (altaria peregrini cultus).
 - **14:10** — The Vulgate reads 'whether You assist with few or with many' (utrum in paucis auxilieris, an in pluribus), whereas the Hebrew reads 'between the mighty and the one who has no strength.'
 - **14:11** — The Vulgate reads 'terrified' (Exterruit, echoing the 'great terror' of 14:13, where Latin omits 'of the Lord'), whereas the Hebrew reads 'struck down' or 'defeated.'

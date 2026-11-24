@@ -41,7 +41,7 @@
 
 ## Translator Notes
 
-- **5:4** — Retaining the first-person plural respondimus ("we answered"), the Vulgate presents this verse as the Jews' reply giving the builders' names, whereas many modern versions emend the Aramaic to third person ("they asked") following the Septuagint.
+- **5:4** — Retaining the first-person plural respondimus ("we answered") of the Aramaic, the Vulgate presents this verse as the Jews' reply giving the builders' names, whereas the Septuagint has the third person ("they said").
 - **5:5** — Latin satisfacerent adversus accusationem illam ("give satisfaction against that accusation") is a Vulgate-distinct rendering where the Aramaic speaks of sending back a letter regarding the matter.
 - **5:8** — The Vulgate renders Aramaic 'eben gelal ("huge/heavy stones") as lapide impolito ("unpolished stone").
 - **5:17** — The Vulgate renders Aramaic beit ginzayya ("house of treasures" or "treasury") as bibliotheca regis ("the library of the king").

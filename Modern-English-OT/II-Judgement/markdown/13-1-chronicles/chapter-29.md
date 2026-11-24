@@ -70,5 +70,5 @@
 - **29:2** — Latin "quasi stibinos" ("like antimony," i.e., dark gleaming stones resembling stibnite/kohl) and "marmor Parium" ("Parian marble," famed white marble from Paros) are distinctive Vulgate renderings of the Hebrew descriptions of decorative stones and marble.
 - **29:7** — Latin "solidos" translates the Hebrew darics using the Roman gold coin (solidus), matching the Vulgate's use of Roman military titles ("tribunes" and "centurions") in 29:6.
 - **29:15** — Latin "et nulla est mora" ("and there is no lingering" or "no delay") is a Vulgate-distinct reading where the Hebrew has "and there is no hope" (or "abiding").
-- **29:20** — The Vulgate reads "Deo nostro" ("our God") where the Hebrew has "your God," and adds "deinde" ("and then") before "the king" to distinguish the assembly's worship ("adoraverunt") of God from royal homage to David.
+- **29:20** — The Vulgate reads "Deo nostro" ("our God") where the Hebrew has "your God," and adds "deinde" ("then") before "the king."
 - **29:23** — Latin "et cunctis placuit" ("and he pleased everyone") is a Vulgate-distinct reading where the Hebrew reads "and he prospered."

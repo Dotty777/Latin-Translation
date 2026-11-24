@@ -17,7 +17,7 @@
 
 **9:6** You Yourself, Lord, alone, You made heaven, and the heaven of heavens, and all their host; the earth, and all things that are in it; the seas, and everything that is in them; and You give life to all these things, and the host of heaven worships You.
 
-**9:7** You Yourself are the Lord God, who chose Abram, and brought him out from the fire of the Chaldeans, and gave him the name Abraham;
+**9:7** It is You Yourself, Lord God, who chose Abram, and brought him out from the fire of the Chaldeans, and gave him the name Abraham;
 
 **9:8** and You found his heart faithful before You, and You struck a covenant with him to give him the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Jebusite, and the Girgashite, to give it to his seed; and You fulfilled Your words, because You are righteous.
 

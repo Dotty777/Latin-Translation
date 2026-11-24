@@ -150,7 +150,7 @@
 - **2:1** — The Vulgate reads de captivitate, quam transtulerat ("from the captivity that ... had deported"), using the singular collective noun captivitas for the deported community, whereas the Hebrew has the doubled phrase "from the captivity of the exile whom ... had exiled."
 - **2:2** — Here and in 2:6 the Vulgate reads Josue ("Joshua"), matching the fuller form of the name used in Haggai and Zechariah, whereas the Hebrew text of Ezra uses the shortened post-exilic form Yeshua ("Jeshua").
 - **2:6** — The Clementine Vulgate punctuates the asyndetic phrase as filiorum Josue: Joab ("of the sons of Joshua: Joab"), without a conjunction; it is commonly understood as referring either to the descendants of both Joshua and Joab or specifically to the Joab branch among Joshua's sons.
-- **2:25** — The Vulgate reads Cariathiarim ("Kiriath-jearim", matching Nehemiah 7:29), whereas the Hebrew Ketiv in Ezra 2:25 reads the shorter form Kiriath-arim.
+- **2:25** — The Vulgate reads Cariathiarim ("Kiriath-jearim", matching Nehemiah 7:29), whereas the Hebrew text of Ezra 2:25 reads the shorter form Kiriath-arim.
 - **2:43** — Latin Nathinæi ("Nethinim") transliterates the Hebrew title for the consecrated temple servants.
 - **2:57** — The Vulgate renders the Hebrew compound name Pochereth-hazzebaim as a personal name with a clause of origin, Phochereth, qui erant de Asebaim ("Pochereth, who were from Hazzebaim").
 - **2:63** — Latin Athersatha transliterates the Persian title ha-Tirshata ("the Tirshatha," meaning "the governor"). Where the Hebrew reads "with Urim and Thummim," the Vulgate renders those terms adjectivally as doctus atque perfectus ("learned and perfect").

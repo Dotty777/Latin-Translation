@@ -15,7 +15,7 @@
 
 **7:5** So King Solomon slaughtered offerings: twenty-two thousand oxen and one hundred twenty thousand rams; and the king and the entire people dedicated the house of God.
 
-**7:6** And the priests were standing in their duties, and the Levites at the instruments of the songs of the Lord, which King David made to praise the Lord, "For His mercy is eternal," singing the hymns of David by their hands; moreover, the priests were sounding trumpets before them, and all Israel was standing.
+**7:6** And the priests were standing in their duties, and the Levites at the instruments of the songs of the Lord, which King David made to praise the Lord, "For His mercy is forever," singing the hymns of David by their hands; moreover, the priests were sounding trumpets before them, and all Israel was standing.
 
 **7:7** Solomon also consecrated the middle of the courtyard before the temple of the Lord, for he had offered there the burnt offerings and the fat of the peace offerings, because the bronze altar that he had made could not hold the burnt offerings and the sacrifices and the fat.
 

@@ -69,7 +69,7 @@
 
 **8:32** And we came to Jerusalem, and we remained there three days.
 
-**8:33** Now on the fourth day, the silver, and the gold, and the vessels were weighed out in the house of our God by the hand of Meremoth the son of Uriah the priest, and with him was Eleazar the son of Phinehas, and with them were Jozabad the son of Jeshua and Noadiah the son of Binnui, Levites,
+**8:33** Now on the fourth day, the silver, and the gold, and the vessels were weighed out in the house of our God by the hand of Meremoth the son of Uriah the priest, and with him was Eleazar the son of Phinehas, and with them were Jozabad the son of Joshua and Noadiah the son of Binnui, Levites,
 
 **8:34** according to the number and weight of everything; and all the weight was written down at that time.
 

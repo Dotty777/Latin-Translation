@@ -11,7 +11,7 @@
 
 **1:3** and he passed through as far as the ends of the earth, and took the spoils of a multitude of nations, and the earth fell silent in his sight.
 
-**1:4** And he gathered power and an exceedingly strong army, and his heart was exalted and lifted up.
+**1:4** And he gathered a force and an exceedingly strong army, and his heart was exalted and lifted up.
 
 **1:5** And after these things he fell upon his bed, and knew that he was dying.
 

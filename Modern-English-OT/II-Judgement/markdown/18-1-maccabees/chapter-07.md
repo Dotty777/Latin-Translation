@@ -87,7 +87,7 @@
 
 **7:41** "Lord, because those who had been sent by King Sennacherib blasphemed You, an angel went out and struck down one hundred and eighty-five thousand of them;
 
-**7:42** so crush this army in our sight today, and let the rest know that he has spoken evil against Your sanctuary, and judge him according to his wickedness."
+**7:42** so crush this army in our sight today, and let the rest know that he has spoken evil against Your holy places, and judge him according to his wickedness."
 
 **7:43** And the armies joined battle on the thirteenth day of the month of Adar; and the camp of Nicanor was crushed, and he himself fell first in the battle.
 

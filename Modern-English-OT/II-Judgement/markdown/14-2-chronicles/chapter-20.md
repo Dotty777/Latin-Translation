@@ -81,7 +81,7 @@
 
 ## Translator Notes
 
-- **20:1** — Vulgate reads "some of the Ammonites" (de Ammonitis), reflecting the consonantal Hebrew text; many modern translations emend this to "Meunites" based on the Septuagint.
+- **20:1** — Vulgate reads "some of the Ammonites" (de Ammonitis), as does the Hebrew Masoretic Text, where the Septuagint reads "Meunites."
 - **20:7** — Vulgate reads "put to death" (interfecisti) where the Hebrew Masoretic Text reads "drove out."
 - **20:21** — Vulgate reads "gave counsel to the people" (deditque consilium populo) and "in their companies" (in turmis suis), whereas the Hebrew Masoretic Text has "took counsel with the people" and "in holy splendor."
 - **20:22** — Vulgate specifies that the Lord turned the enemies' own ambushes against themselves (vertit Dominus insidias eorum in semetipsos), whereas the Hebrew text speaks of the Lord setting ambushers against them.

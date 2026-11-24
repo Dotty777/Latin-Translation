@@ -63,7 +63,7 @@
 
 **10:29** And the rest of the people, the priests, the Levites, the gatekeepers, and the singers, the Nethinim, and all who separated themselves from the peoples of the lands to the law of God, their wives, their sons, and their daughters,
 
-**10:30** all who were able to understand, pledged on behalf of their brothers, their nobles, and came to promise and to swear that they would walk in the law of God, which He had given by the hand of Moses the servant of God, that they would do and keep all the commandments of the Lord our God, and His judgments and His ceremonies,
+**10:30** all who were able to understand, pledging on behalf of their brothers, their nobles, and those who came to promise and to swear that they would walk in the law of God, which He had given by the hand of Moses the servant of God, that they would do and keep all the commandments of the Lord our God, and His judgments and His ceremonies,
 
 **10:31** and that we would not give our daughters to the people of the land, and would not take their daughters for our sons.
 
@@ -87,7 +87,7 @@
 
 ## Translator Notes
 
-- **10:1** — In the Vulgate, chapter 10 begins one verse earlier than in the Hebrew Masoretic Text (where this verse is 9:38), shifting all subsequent verse numbers in the chapter by one. Latin foedus renders Hebrew amanah ('binding agreement') with the standard covenant term.
+- **10:1** — As in the Hebrew, chapter 10 begins with this verse. Latin foedus renders Hebrew amanah ('binding agreement') with the standard covenant term.
 - **10:2** — Latin Athersatha ("the Tirshatha") transliterates the Persian title hattirshata ('the governor'), borne by Nehemiah (cf. Neh 8:9).
 - **10:28** — The Vulgate reads Haran here, whereas the Hebrew text reads Harim (cf. Harem in v. 6).
 - **10:30** — The Vulgate renders this clause distinctively as 'pledging on behalf of their brothers' (spondentes pro fratribus suis) and 'to promise and to swear' (ad pollicendum et jurandum), where the Hebrew reads 'joining with their brothers' and 'entering into a curse and an oath.'

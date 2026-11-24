@@ -13,6 +13,6 @@
 
 ## Translator Notes
 
-- **10:1** — The Vulgate adds "entire" (omnem) and "all" (cunctas) and renders "islands of the sea" (maris insulas) with "made ... subject to tribute" (fecit tributarias), where the Hebrew MT has "laid a tribute on the land and the coastlands of the sea."
+- **10:1** — The Vulgate adds "entire" (omnem) and "all" (cunctas) and reads "made ... subject to tribute" (fecit tributarias), where the Hebrew MT has "laid a tribute on the land and the coastlands of the sea."
 - **10:2** — The Vulgate gives a declarative statement ("are written") citing the plural "books of the Medes and Persians" and the "honor and eminence" with which the king exalted Mordecai, whereas the Hebrew MT poses a rhetorical question citing "the book of the chronicles of the kings of Media and Persia."
 - **10:3** — Mordecai's interpretation of his dream (deuterocanonical Addition F; Vulgate 10:4-13, so numbered in the Saints Latin Critical Text) is included here in 10:3, where the Greek Esther places it. Notable Vulgate-distinct readings include "commanded that there be two lots" (praecepit, Greek "made") and the dense clause "to the day already fixed from that time before God for all the nations" (in statutum ex illo jam tempore diem coram Deo universis gentibus, taking the prepositionless dative universis gentibus as "for all the nations," where the Greek reads "to the hour and time and day of judgment before God and among all the nations").

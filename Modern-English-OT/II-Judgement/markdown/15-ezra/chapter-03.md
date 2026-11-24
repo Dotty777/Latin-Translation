@@ -21,7 +21,7 @@
 
 **3:8** Now in the second year of their coming to the temple of God in Jerusalem, in the second month, Zerubbabel son of Shealtiel, and Joshua son of Jozadak, and the rest of their brothers, the priests and the Levites, and all who had come from the captivity to Jerusalem, began, and they appointed the Levites from twenty years old and upward to press forward the work of the Lord.
 
-**3:9** And Joshua and his sons and his brothers, Kadmiel and his sons, and the sons of Judah stood as one man to oversee those who were doing the work in the temple of God: the sons of Henadad, and their sons, and their brothers the Levites.
+**3:9** And Joshua and his sons and his brothers, Kadmiel and his sons, and the sons of Judah stood as one man to urge on those who were doing the work in the temple of God: the sons of Henadad, and their sons, and their brothers the Levites.
 
 **3:10** Therefore, when the foundation of the temple of the Lord had been laid by the masons, the priests stood in their vestments with trumpets, and the Levites, the sons of Asaph, with cymbals, to praise God by the hands of David, king of Israel.
 

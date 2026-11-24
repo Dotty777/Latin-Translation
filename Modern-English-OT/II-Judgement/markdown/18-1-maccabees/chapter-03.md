@@ -128,7 +128,7 @@
 ## Translator Notes
 
 - **3:3** — The Vulgate reads "in battles" (in præliis) rather than the Greek verb phrase ("he set battles in array"), and adds "his" to "sword" (gladio suo).
-- **3:6** — Latin directa est (lit. "was directed" or "was guided straight") is a biblical Latin idiom expressing divinely guided success or prosperity.
+- **3:6** — Latin directa est (lit. "was directed" or "was guided straight") is an idiom expressing success or prosperity.
 - **3:13** — The Vulgate attaches "of the faithful" to "congregation" (congregationem fidelium, et ecclesiam secum) and omits the closing clause found in the Greek ("and of those going out to war").
 - **3:18** — The Vulgate explicitly reads "the God of heaven" (Dei cæli) here and "the Lord Himself" (ipse Dominus) in 3:22, where the standard Greek text uses only "Heaven" and "He" respectively.
 - **3:41** — Vulgate "servants" (pueros, also meaning "boys") reflects a reading of Greek paidas ("servants/boys") rather than pedas ("fetters/chains") found in standard Greek manuscripts; likewise "of the foreigners" (alienigenarum) replaces the Greek "of the Philistines."

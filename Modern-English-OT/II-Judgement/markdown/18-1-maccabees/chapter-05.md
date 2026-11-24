@@ -103,7 +103,7 @@
 
 **5:49** And Judas commanded it to be proclaimed in the camp that each one should encamp in the place where he was;
 
-**5:50** and the men of the force encamped, and he assaulted that city all day and all night, and the city was delivered into his hand;
+**5:50** and the men of valor encamped, and he assaulted that city all day and all night, and the city was delivered into his hand;
 
 **5:51** and they put every male to death by the edge of the sword, and he razed it, and took its spoils, and passed through the whole city over those who had been killed.
 
@@ -149,7 +149,7 @@
 - **5:26** — The Vulgate preserves the place-name forms "Barasa," "Casphor," and "Mageth," where the Greek text commonly reads "Bosora" (Bozrah), "Chaspho," and "Maked."
 - **5:31** — The Vulgate reads "the cry of battle rose up to heaven like a trumpet, and a great cry from the city," whereas the Greek reads "the cry of the city went up to heaven with trumpets and a great shout."
 - **5:36** — The Vulgate reads "Casbon" for the city called "Casphor" in 5:26, where the Greek reads "Chasphon" or "Chaspho."
-- **5:42** — The Vulgate reads plural "Leave no man behind" (Neminem hominem reliqueritis), whereas the Greek reads singular "Do not allow any man to encamp."
+- **5:42** — The Vulgate reads "Leave no man behind" (Neminem hominem reliqueritis), whereas the Greek reads "Do not allow any man to encamp."
 - **5:45** — The Vulgate reads "and a very great army" (et exercitum magnum valde), omitting the Greek mention of their "baggage" and rendering the Greek appositional phrase ("a very great company") as a coordinated noun phrase.
 - **5:63** — The Vulgate reads "the men of Judah" (viri Juda), whereas the Greek reads "the man Judas and his brothers."
 - **5:66** — The Vulgate reads "Samaria" (reflecting a major Greek manuscript tradition), whereas some other Greek witnesses read "Marissa" (Mareshah), which lies directly between Hebron and Azotus.
