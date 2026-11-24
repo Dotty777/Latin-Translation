@@ -13,7 +13,7 @@
 
 **17:4** Therefore Eleazar the priest took the bronze censers in which those whom the blaze devoured had offered, and beat them out into plates, fastening them to the altar,
 
-**17:5** so that afterward the sons of Israel might have things by which to be reminded that no outsider, and no one who is not of the offspring of Aaron, may approach to offer incense to the Lord, so that he may not suffer as Korah and all his congregation suffered, as the Lord spoke to Moses.
+**17:5** so that afterward the sons of Israel might have things by which to be reminded that no outsider, and no one who is not of the seed of Aaron, may approach to offer incense to the Lord, so that he may not suffer as Korah and all his congregation suffered, as the Lord spoke to Moses.
 
 **17:6** Now the whole multitude of the sons of Israel grumbled on the following day against Moses and Aaron, saying, "You have killed the people of the Lord."
 

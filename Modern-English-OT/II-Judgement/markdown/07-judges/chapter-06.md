@@ -91,4 +91,4 @@
 - **6:24** — The Vulgate translates the Hebrew altar name ("the Lord is peace") into Latin as Domini pax ("The Lord's Peace"), attaches "until the present day" to the naming, and joins "while he was still in Ophrah" to the Lord's nighttime command in 6:25.
 - **6:25** — The Vulgate renders Hebrew ha-asherah (the Asherah pole) as nemus ("grove," also in 6:26, 30) and lucum ("sacred grove," 6:28), while distinguishing the Lord's altar (altare, 6:24, 26, 28) from Baal's altar (ara, 6:25, 28, 30-32).
 - **6:26** — A distinctively Vulgate reading ("upon which you placed the sacrifice before"), whereas the Hebrew text directs that the altar be built "in proper order."
-- **6:31** — The Vulgate renders the Hebrew clause commonly translated "whoever contends for him" as qui adversarius est ejus ("Whoever is his adversary"), preserving the literal Latin syntax of Joash's challenge.
+- **6:31** — The Vulgate renders the Hebrew clause "whoever contends for him" as qui adversarius est ejus ("Whoever is his adversary"), preserving the literal Latin syntax of Joash's challenge.

@@ -9,11 +9,11 @@
 
 **15:2** And Abram said, "Lord God, what will You give me? I will go without children, and the son of the steward of my house is this Damascus Eliezer."
 
-**15:3** And Abram added, "Yet to me You have not given offspring, and look, my household-born servant will be my heir."
+**15:3** And Abram added, "Yet to me You have not given seed, and look, my household-born servant will be my heir."
 
 **15:4** And immediately the word of the Lord came to him, saying, "This one will not be your heir, but he who will come out from your body, him you will have as heir."
 
-**15:5** And He led him outside and said to him, "Look up at heaven and count the stars, if you can." And He said to him, "So will your offspring be."
+**15:5** And He led him outside and said to him, "Look up at heaven and count the stars, if you can." And He said to him, "So will your seed be."
 
 **15:6** He believed the Lord, and it was credited to him as righteousness.
 
@@ -29,7 +29,7 @@
 
 **15:12** And as the sun was going down, a deep sleep fell upon Abram, and a great and dark dread seized him.
 
-**15:13** And it was said to him, "Know beforehand for certain that your offspring will be a stranger in a land not its own, and they will subject them to servitude and afflict them for four hundred years.
+**15:13** And it was said to him, "Know beforehand for certain that your seed will be a stranger in a land not its own, and they will subject them to servitude and afflict them for four hundred years.
 
 **15:14** Yet the nation whom they will serve I will judge, and after these things they will come out with great possessions.
 
@@ -39,7 +39,7 @@
 
 **15:17** So when the sun had gone down, a dark gloom came about, and a smoking furnace appeared, and a torch of fire passing between those divided parts.
 
-**15:18** On that day the Lord made a covenant with Abram, saying, "To your offspring I will give this land, from the river of Egypt as far as the great river, the river Euphrates,
+**15:18** On that day the Lord made a covenant with Abram, saying, "To your seed I will give this land, from the river of Egypt as far as the great river, the river Euphrates,
 
 **15:19** the Kenites, and the Kenizzites, and the Kadmonites,
 

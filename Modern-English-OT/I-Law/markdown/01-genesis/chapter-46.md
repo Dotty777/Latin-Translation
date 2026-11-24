@@ -15,7 +15,7 @@
 
 **46:5** Jacob rose from the Well of the Oath, and his sons carried him with their little ones and their wives in the wagons that Pharaoh had sent to carry the old man,
 
-**46:6** and all that he possessed in the land of Canaan; and he came into Egypt with all his offspring,
+**46:6** and all that he possessed in the land of Canaan; and he came into Egypt with all his seed,
 
 **46:7** his sons and grandsons, his daughters, and all his descendants together.
 

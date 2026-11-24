@@ -53,4 +53,4 @@
 - **12:7** — Latin renders the Greek "thorn in the flesh" with a genitive phrase, stimulus carnis meae ("a goad of my flesh").
 - **12:9** — Latin nam virtus in infirmitate perficitur omits the possessive "My" before "power" (matching older Greek witnesses) and renders dynamis as virtus ("power").
 - **12:17** — Clementine Vulgate prints quod (for expected quos, "whom") referring back to eorum ("of those").
-- **12:21** — Latin non egerunt poenitentiam literally means "have not done penance" or "have not practiced repentance," the standard Vulgate idiom for Greek metanoeo ("repent").
+- **12:21** — Latin non egerunt poenitentiam literally means "have not done repentance," the standard Vulgate idiom for Greek metanoeo ("repent").

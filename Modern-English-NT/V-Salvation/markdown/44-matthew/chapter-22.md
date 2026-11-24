@@ -51,9 +51,9 @@
 
 **22:23** On that day, Sadducees, who say that there is no resurrection, approached Him and questioned Him,
 
-**22:24** saying, "Teacher, Moses said that if anyone dies without having a son, his brother should marry his wife and raise up offspring for his brother.
+**22:24** saying, "Teacher, Moses said that if anyone dies without having a son, his brother should marry his wife and raise up seed for his brother.
 
-**22:25** Now there were seven brothers among us; and the first, having taken a wife, died, and having no offspring, left his wife to his brother.
+**22:25** Now there were seven brothers among us; and the first, having taken a wife, died, and having no seed, left his wife to his brother.
 
 **22:26** Similarly, the second and the third, all the way to the seventh.
 

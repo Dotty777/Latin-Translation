@@ -43,6 +43,6 @@
 
 - **18:1** — "Its daughters" (Latin filias ejus) is a literal biblical idiom for the smaller dependent towns and villages surrounding Gath.
 - **18:3** — The Vulgate reads Adarezer (Hadarezer), preserving a textual variant with r rather than d (Hadadezer in 2 Samuel 8 and many Hebrew manuscripts), and explicitly adds "of the region" (regionis) before Hamath.
-- **18:7** — The Vulgate reads pharetras aureas ("golden quivers"), whereas the Hebrew term is usually translated "golden shields."
+- **18:7** — The Vulgate reads pharetras aureas ("golden quivers"), whereas the Hebrew term probably means "golden shields."
 - **18:12** — The Vulgate renders the Hebrew "Valley of Salt" as valle Salinarum ("Valley of Salt Pits"), and uses the Greco-Latin name Idumaea (Idumea) for Edom in vv. 11 and 13.
 - **18:16** — The Vulgate reads Ahimelech (matching the Septuagint and 2 Samuel 8:17) where the Masoretic Hebrew has Abimelech, and transliterates Shavsha as Susa.

@@ -105,7 +105,7 @@
 
 **22:50** Therefore I will give praise to You, Lord, among the nations, and I will sing to Your name.
 
-**22:51** He magnifies the deliverances of His king and shows mercy to His anointed, David, and to his offspring forever."
+**22:51** He magnifies the deliverances of His king and shows mercy to His anointed, David, and to his seed forever."
 
 ## Translator Notes
 

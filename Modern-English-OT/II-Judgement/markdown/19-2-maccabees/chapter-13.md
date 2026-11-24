@@ -53,7 +53,7 @@
 
 **13:24** He embraced Maccabeus and made him commander and ruler from Ptolemais to the Gerrenians.
 
-**13:25** But when he came to Ptolemais, the people of Ptolemais took the agreement of friendship badly, being indignant, for fear that perhaps they might violate the treaty.
+**13:25** But when he came to Ptolemais, the people of Ptolemais took the agreement of friendship badly, being indignant, for fear that perhaps they might violate the covenant.
 
 **13:26** Then Lysias ascended the tribunal, and explained the reason, and calmed the people, and returned to Antioch; and in this way the king's departure and return proceeded.
 
@@ -63,4 +63,4 @@
 - **13:4** — The Vulgate reads in eodem loco ('in that same place'; so also in v. 5), whereas the Greek names the city of Beroea.
 - **13:7** — The Vulgate creates a deliberate wordplay between tali lege ('by such a law') and praevaricatorem legis ('the transgressor of the law'), where the Greek reads 'by such a fate.'
 - **13:24** — In the Vulgate, the king appoints Maccabeus himself as commander and ruler (ducem et principem), whereas the Greek states that he left Hegemonides as governor.
-- **13:25** — The Vulgate clause indignantes ne forte foedus irrumperent ('being indignant, for fear that perhaps they might violate the treaty') diverges in syntax from the Greek, which states that they were angry at the stipulations and wanted to annul the agreements.
+- **13:25** — The Vulgate clause indignantes ne forte foedus irrumperent ('being indignant, for fear that perhaps they might violate the covenant') diverges in syntax from the Greek, which states that they were angry at the stipulations and wanted to annul the agreements.

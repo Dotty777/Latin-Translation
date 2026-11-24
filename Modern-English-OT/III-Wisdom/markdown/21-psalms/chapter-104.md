@@ -15,7 +15,7 @@
 
 **104:5** Remember His marvels that He has done, His wonders, and the judgments of His mouth,
 
-**104:6** offspring of Abraham His servant, sons of Jacob, His chosen ones.
+**104:6** seed of Abraham His servant, sons of Jacob, His chosen ones.
 
 **104:7** He Himself is the Lord our God; His judgments are throughout the whole earth.
 

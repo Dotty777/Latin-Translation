@@ -65,4 +65,4 @@
 - **7:10** — Vulgate "præparata ad capiendas animas" ("prepared to capture souls") is a distinctive Latin reading where the Hebrew text has "guarded/cunning of heart."
 - **7:16** — Vulgate "Intexui funibus lectulum meum" ("I have woven my couch with cords") refers to the woven rope lattice of a bed frame, whereas the Hebrew text speaks of spreading the bed with coverings.
 - **7:18** — Vulgate "uberibus" ("breasts") reflects reading the unpointed Hebrew consonants as "breasts" rather than "lovemaking," paralleling the Vulgate wording of Proverbs 5:19.
-- **7:22** — Vulgate "quasi agnus lasciviens" ("like a frolicking lamb") is a distinctive Latin rendering of a difficult Hebrew clause often translated in relation to fetters or a stag.
+- **7:22** — Vulgate "quasi agnus lasciviens" ("like a frolicking lamb") is a distinctive Latin rendering of a difficult Hebrew clause that mentions an anklet or fetter.

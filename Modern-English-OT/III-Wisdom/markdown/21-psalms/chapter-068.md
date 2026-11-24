@@ -77,7 +77,7 @@
 
 **68:36** For God will save Zion, and the cities of Judah will be built, and they will dwell there and acquire it by inheritance.
 
-**68:37** And the offspring of His servants will possess it, and those who love His name will dwell in it.
+**68:37** And the seed of His servants will possess it, and those who love His name will dwell in it.
 
 ## Translator Notes
 

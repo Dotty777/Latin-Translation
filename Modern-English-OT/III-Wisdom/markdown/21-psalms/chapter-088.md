@@ -13,7 +13,7 @@
 
 **88:4** I have ordained a covenant for My chosen ones; I have sworn to David My servant:
 
-**88:5** 'Forevermore I will prepare your offspring, and I will build up your throne to generation after generation.'"
+**88:5** 'Forevermore I will prepare your seed, and I will build up your throne to generation after generation.'"
 
 **88:6** The heavens will praise Your wonders, Lord, and indeed Your truth in the assembly of the holy ones.
 
@@ -63,7 +63,7 @@
 
 **88:29** Forever I will keep My mercy for him, and My covenant will be faithful to him.
 
-**88:30** And I will set his offspring forever and ever, and his throne like the days of heaven.
+**88:30** And I will set his seed forever and ever, and his throne like the days of heaven.
 
 **88:31** But if his sons abandon My law, and do not walk in My judgments;
 
@@ -77,7 +77,7 @@
 
 **88:36** Once I have sworn by My holiness, I will not lie to David:
 
-**88:37** his offspring will remain forever. And his throne will be like the sun in My sight,
+**88:37** his seed will remain forever. And his throne will be like the sun in My sight,
 
 **88:38** and like the moon perfected forever, and a faithful witness in heaven."
 
@@ -116,5 +116,5 @@
 - **88:3** — Vulgate reads second-person 'dixisti' ('You have said', following the Septuagint) rather than the Hebrew first-person 'I said', while retaining 'veritas tua' ('Your truth') in the following clause.
 - **88:11** — Vulgate 'superbum' ('the proud one') and 'vulneratum' ('a wounded man') follow the Septuagint where the Hebrew text reads 'Rahab' and 'one who is slain'; similarly, 88:13 has 'mare' ('the sea') where Hebrew has 'south'.
 - **88:36** — The Latin literally uses the biblical oath formula 'si David mentiar' ('if I should lie to David'), an idiomatic emphatic denial meaning 'I will not lie to David'.
-- **88:45** — Vulgate 'Destruxisti eum ab emundatione' ('You have destroyed him from purification') follows the Septuagint where the Hebrew text is commonly rendered 'You have made his splendor cease'.
+- **88:45** — Vulgate 'Destruxisti eum ab emundatione' ('You have destroyed him from purification') follows the Septuagint where the Hebrew text reads 'You have made his splendor cease.'
 - **88:52** — Vulgate 'commutationem' ('exchange', following the Septuagint) stands where the Hebrew text reads 'footsteps'; in 88:53 Latin 'Fiat, fiat' ('So be it, so be it') translates Hebrew 'Amen, amen'.

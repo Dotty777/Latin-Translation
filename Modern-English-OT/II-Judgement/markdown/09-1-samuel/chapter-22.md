@@ -55,6 +55,6 @@
 
 - **22:6** — The Vulgate reads "in the grove that is in Ramah" (in nemore quod est in Rama), treating Rama as a proper place name, whereas the Hebrew refers to a tamarisk tree "on the height" in Gibeah.
 - **22:7** — "sons of Jemini" renders the Vulgate filii Jemini literally, reflecting the shorter Hebrew gentilic form for Benjaminites; "tribunes and centurions" preserves the Vulgate's Roman military titles for commanders of thousands and hundreds.
-- **22:14** — The Vulgate reads "going at your command" (pergens ad imperium tuum), whereas the Hebrew Masoretic Text is commonly rendered "captain of your bodyguard."
+- **22:14** — The Vulgate reads "going at your command" (pergens ad imperium tuum), whereas the Hebrew Masoretic Text has "captain of your bodyguard."
 - **22:19** — "with the edge of the sword" translates the Latin idiom in ore gladii (literally "in the mouth of the sword"), mirroring the corresponding Hebrew expression.
 - **22:22** — The Vulgate reads "of all the souls of your father" (omnium animarum patris tui), without the word "house" found in the Hebrew Masoretic Text.

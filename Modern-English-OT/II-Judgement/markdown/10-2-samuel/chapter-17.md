@@ -67,7 +67,7 @@
 
 - **17:3** — Distinctively from the Masoretic Text and the Septuagint, the Vulgate renders Ahithophel's comparison as "just as one man usually returns" (quomodo unus homo reverti solet), connecting it to Absalom's search for a single man.
 - **17:11** — The Vulgate reads "in their midst" (in medio eorum), reflecting a reading of the Hebrew consonants as qerev ("midst") rather than the Masoretic vocalization qerav ("battle").
-- **17:20** — Translating an obscure Hebrew phrase often rendered "the brook of water" (mikhal ha-mayim), the Vulgate reads "after tasting a little water" (gustata paululum aqua).
+- **17:20** — Translating an obscure Hebrew phrase (mikhal ha-mayim, perhaps "the brook of water"), the Vulgate reads "after tasting a little water" (gustata paululum aqua).
 - **17:24** — Here and in 17:27, the Vulgate translates the Hebrew place name Mahanaim ("two camps") etymologically as a common noun, "into the camp" (in castra).
 - **17:25** — The Vulgate identifies Ithra as being "of Jezreel" (de Jezraëli), whereas the Masoretic Text reads "the Israelite" and 1 Chronicles 2:17 reads "the Ishmaelite."
 - **17:29** — The Vulgate renders an obscure Hebrew expression for dairy curds or cheese as "fatted calves" (pingues vitulos), alongside similarly distinct Vulgate renderings in 17:28 such as "rugs" (tapetia) and "roasted chickpeas" (frixum cicer).

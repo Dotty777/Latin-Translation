@@ -11,7 +11,7 @@
 
 **48:3** And when he came in to him, he said, "God Almighty appeared to me in Luz, which is in the land of Canaan, and blessed me,
 
-**48:4** and said, 'I will increase and multiply you, and make you into companies of peoples; and I will give this land to you and to your offspring after you as an everlasting possession.'
+**48:4** and said, 'I will increase and multiply you, and make you into companies of peoples; and I will give this land to you and to your seed after you as an everlasting possession.'
 
 **48:5** Therefore your two sons, who were born to you in the land of Egypt before I came here to you, will be mine; Ephraim and Manasseh, just like Reuben and Simeon, will be reckoned to me.
 
@@ -25,7 +25,7 @@
 
 **48:10** For the eyes of Israel had grown dim because of extreme old age, and he could not see clearly. And when they were brought near to him, having kissed and embraced them,
 
-**48:11** he said to his son, "I have not been deprived of the sight of you; furthermore, God has shown me your offspring."
+**48:11** he said to his son, "I have not been deprived of the sight of you; furthermore, God has shown me your seed."
 
 **48:12** And when Joseph had taken them from his father's lap, he bowed down prostrate to the ground.
 
@@ -41,7 +41,7 @@
 
 **48:18** And he said to his father, "It is not fitting this way, father; because this one is the firstborn, place your right hand upon his head."
 
-**48:19** But he, refusing, said, "I know, my son, I know; this one too will indeed become peoples and will be multiplied, but his younger brother will be greater than he, and his offspring will grow into nations."
+**48:19** But he, refusing, said, "I know, my son, I know; this one too will indeed become peoples and will be multiplied, but his younger brother will be greater than he, and his seed will grow into nations."
 
 **48:20** And he blessed them at that very time, saying, "In you Israel will be blessed, and it will be said, 'May God do for you as for Ephraim and as for Manasseh.'" And he set Ephraim before Manasseh.
 

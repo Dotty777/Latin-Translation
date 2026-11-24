@@ -1,7 +1,7 @@
 # Division V. Salvation (Gospels) — Saints Modern English NT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — **Complete 4/4 books**  
-> **Coverage:** 89 chapters, 3,763 verses (+ 9 additional Vulgate verses), 468 translator notes (+ 1 additional note)
+> **Coverage:** 89 chapters, 3,766 verses (+ 10 additional Vulgate verses), 470 translator notes (+ 1 additional note)
 
 ## Books Included (4 / 4 Complete)
 

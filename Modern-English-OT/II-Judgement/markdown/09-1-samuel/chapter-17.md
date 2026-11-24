@@ -136,7 +136,7 @@
 ## Translator Notes
 
 - **17:1** — Vulgate "in the borders of Dommim" (in finibus Dommim) translates the first element of the Hebrew place name Ephes-dammim as "in the borders of" and retains Dommim as the proper name. Similarly, in 17:2 Vulgate renders the Hebrew Valley of Elah literally as "the Valley of the Terebinth" (Vallem terebinthi).
-- **17:4** — Vulgate vir spurius ("an illegitimate man") reflects Jerome's interpretation of the Hebrew phrase ish ha-benayim ("man of the between-space," commonly translated "champion") as denoting mixed or illegitimate birth. Vulgate also gives his height as six cubits and a palm (palmi, corresponding to Hebrew "span").
+- **17:4** — Vulgate vir spurius ("an illegitimate man") reflects Jerome's interpretation of the Hebrew phrase ish ha-benayim ("man of the between-space," that is, "champion") as denoting mixed or illegitimate birth. Vulgate also gives his height as six cubits and a palm (palmi, corresponding to Hebrew "span").
 - **17:6** — Vulgate renders Hebrew kidon ("javelin" or "scimitar") as clypeus ("shield") here and in 17:45.
 - **17:35** — Vulgate includes "and strangle" (et suffocabam), a detail not present in the Hebrew Masoretic Text; in 17:34 Vulgate also specifies "a ram" (arietem) where the Hebrew has a general term for a sheep or lamb, and in 17:36 includes "Now I will go and take away the disgrace of the people," matching the Septuagint.
 - **17:47** — Vulgate uses ecclesia ("assembly") for the gathered Israelites, and in 17:52 translates the Hebrew place name Gai as "into the valley" (in vallem).

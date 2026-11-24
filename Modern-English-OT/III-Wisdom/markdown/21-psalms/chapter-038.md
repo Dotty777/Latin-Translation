@@ -5,7 +5,7 @@
 
 ## Text
 
-**38:1** For the end, for Jeduthun himself. A song of David.
+**38:1** To the end, for Jeduthun himself. A song of David.
 
 **38:2** I said, "I will guard my ways, so that I may not sin with my tongue." I placed a guard over my mouth while the sinner stood against me.
 
@@ -35,7 +35,7 @@
 
 ## Translator Notes
 
-- **38:1** — Vulgate "In finem" ("For the end") renders the Septuagint heading "eis to telos" rather than the Hebrew musical direction lamnatseach ("for the director"). "Idithun" is the Latinized form of Jeduthun, and "ipsi" reflects the Greek dative article.
+- **38:1** — Vulgate "In finem" ("To the end") renders the Septuagint heading "eis to telos" rather than the Hebrew musical direction lamnatseach ("for the director"). "Idithun" is the Latinized form of Jeduthun, and "ipsi" reflects the Greek dative article.
 - **38:3** — "Was humbled" (humiliatus sum) follows the Septuagint ("etapeinothen"), whereas the Hebrew Masoretic Text reads "in stillness" (or silence). In 38:4, "exardescet" ("will blaze up") is likewise future tense following the Septuagint.
 - **38:5** — "What is lacking to me" (quid desit mihi) follows the Septuagint, contrasting with the Hebrew Masoretic Text's "how fleeting I am." In 38:6, "mensurabiles" ("measurable") is a distinctive Vulgate rendering where the Hebrew reads "handbreadths," and "substantia" ("substance," repeated in 38:8) translates Greek "hypostasis."
 - **38:9** — "You have made me a reproach to the fool" (opprobrium insipienti dedisti me) is an indicative statement in the Vulgate and Septuagint, contrasting with the negative petition in the Hebrew Masoretic Text ("Do not make me...").

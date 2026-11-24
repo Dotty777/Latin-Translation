@@ -5,7 +5,7 @@
 
 ## Text
 
-**144:1** Praise of David himself. I will exalt You, my God, the King, and I will bless Your name forever, and forever and ever.
+**144:1** Praise for David himself. I will exalt You, my God, the King, and I will bless Your name forever, and forever and ever.
 
 **144:2** Every single day I will bless You, and I will praise Your name forever, and forever and ever.
 

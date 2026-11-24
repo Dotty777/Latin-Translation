@@ -51,7 +51,7 @@
 
 ## Translator Notes
 
-- **102:5** — Latin desiderium tuum ("your desire") follows the Septuagint (epithymian), where the Hebrew has a rare noun often rendered "your years" or "your prime."
+- **102:5** — Latin desiderium tuum ("your desire") follows the Septuagint (epithymian), where the Hebrew has a rare noun of uncertain meaning (perhaps "your years" or "your prime").
 - **102:6** — Latin misericordias ("acts of mercy") follows the Septuagint (eleemosynas), whereas the Hebrew reads "righteous deeds."
 - **102:7** — Latin voluntates suas is literally plural ("His wills," following the Septuagint thelemata), whereas the Hebrew reads "His deeds."
 - **102:9** — Latin comminabitur literally means "will threaten," whereas the Hebrew means "will keep His anger."

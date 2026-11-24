@@ -5,7 +5,7 @@
 
 ## Text
 
-**21:1** For the end, for the morning support. A psalm of David.
+**21:1** To the end, for the morning support. A psalm of David.
 
 **21:2** God, my God, look upon me: why have You abandoned me? Far from my salvation are the words of my offenses.
 
@@ -51,9 +51,9 @@
 
 **21:23** I will declare Your name to my brothers; in the midst of the assembly I will praise You.
 
-**21:24** You who fear the Lord, praise Him; all the offspring of Jacob, glorify Him.
+**21:24** You who fear the Lord, praise Him; all the seed of Jacob, glorify Him.
 
-**21:25** Let all the offspring of Israel fear Him, for He has not disdained nor despised the plea of the poor, nor has He turned His face away from me; and when I cried out to Him, He heard me.
+**21:25** Let all the seed of Israel fear Him, for He has not disdained nor despised the plea of the poor, nor has He turned His face away from me; and when I cried out to Him, He heard me.
 
 **21:26** With You is my praise in the great assembly; I will fulfill my vows in the sight of those who fear Him.
 
@@ -65,13 +65,13 @@
 
 **21:30** All the fat ones of the earth have eaten and worshiped; in His sight all who go down into the earth will fall.
 
-**21:31** And my soul will live for Him, and my offspring will serve Him.
+**21:31** And my soul will live for Him, and my seed will serve Him.
 
 **21:32** The generation to come will be proclaimed to the Lord, and the heavens will proclaim His righteousness to a people that will be born, whom the Lord has made.
 
 ## Translator Notes
 
-- **21:1** — In finem, pro susceptione matutina ("For the end, for the morning support") follows the Septuagint superscription, whereas the Hebrew Masoretic Text reads "To the choirmaster: according to The Doe of the Dawn."
+- **21:1** — In finem, pro susceptione matutina ("To the end, for the morning support") follows the Septuagint superscription, whereas the Hebrew Masoretic Text reads "To the choirmaster: according to The Doe of the Dawn."
 - **21:2** — The Vulgate includes respice in me ("look upon me"), absent from the Hebrew text, and renders verba delictorum meorum ("the words of my offenses") after the Septuagint, where the Hebrew has "the words of my groaning." Similarly in v. 3, non ad insipientiam mihi ("not to foolishness for me") follows the Septuagint against Hebrew "no rest."
 - **21:17** — Foderunt ("They have pierced" or "dug through") follows the Septuagint reading rather than the Masoretic Text's "like a lion." In v. 18, dinumeraverunt ("They have counted") is likewise third-person plural rather than the Hebrew first-person singular.
 - **21:22** — Unicornium ("unicorns") and humilitatem meam ("my lowliness") preserve the Vulgate and Septuagint readings, whereas the Hebrew text reads "wild oxen" and the verb "you have answered me."

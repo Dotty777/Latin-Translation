@@ -57,7 +57,7 @@
 
 **105:26** And He raised His hand over them to strike them down in the desert,
 
-**105:27** and to cast down their offspring among the nations, and to scatter them in the regions.
+**105:27** and to cast down their seed among the nations, and to scatter them in the regions.
 
 **105:28** And they were initiated to Baal-peor, and they ate the sacrifices of the dead.
 
@@ -93,7 +93,7 @@
 
 **105:44** And He saw when they were oppressed, and He heard their prayer.
 
-**105:45** And He was mindful of His covenant, and He relented according to the abundance of His mercy,
+**105:45** And He was mindful of His covenant, and He repented according to the abundance of His mercy,
 
 **105:46** and He gave them over to mercies in the sight of all who had captured them.
 

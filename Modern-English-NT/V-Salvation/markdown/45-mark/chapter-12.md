@@ -41,13 +41,13 @@
 
 **12:18** And Sadducees came to Him, who say that there is no resurrection, and they were questioning Him, saying,
 
-**12:19** "Teacher, Moses wrote for us that if anyone's brother dies and leaves behind a wife, and leaves no children, his brother should take his wife and raise up offspring for his brother.
+**12:19** "Teacher, Moses wrote for us that if anyone's brother dies and leaves behind a wife, and leaves no children, his brother should take his wife and raise up seed for his brother.
 
-**12:20** There were, then, seven brothers; and the first took a wife, and died leaving no offspring.
+**12:20** There were, then, seven brothers; and the first took a wife, and died leaving no seed.
 
-**12:21** And the second took her and died, and neither did he leave offspring. And the third likewise.
+**12:21** And the second took her and died, and neither did he leave seed. And the third likewise.
 
-**12:22** And the seven took her likewise, and left no offspring. Last of all, the woman also died.
+**12:22** And the seven took her likewise, and left no seed. Last of all, the woman also died.
 
 **12:23** In the resurrection, therefore, when they rise, whose wife among these will she be? For the seven had her as wife."
 

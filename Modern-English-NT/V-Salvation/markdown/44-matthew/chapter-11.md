@@ -69,6 +69,6 @@
 
 - **11:2** — The Vulgate reads "in vinculis" ("in chains") rather than "in prison," and "duos de discipulis suis" ("two of his disciples") rather than critical Greek "by his disciples."
 - **11:19** — The Vulgate reads "a filiis suis" ("by her children"), whereas modern critical Greek editions read "by her deeds."
-- **11:20** — The Vulgate phrase "pœnitentiam agere" (here and in 11:21) literally means "to perform repentance" or "do penance," and serves as the regular Latin equivalent for "repent."
+- **11:20** — The Vulgate phrase "pœnitentiam agere" (here and in 11:21) literally means "to perform repentance" and serves as the regular Latin equivalent for "repent."
 - **11:23** — The Vulgate adds "forte" ("perhaps it would have remained") in rendering the Greek conditional particle, and uses "infernum" ("the underworld," distinct from "gehennam" in 10:28) for Greek "Hades."
 - **11:28** — The Vulgate uses "reficiam" ("refresh" or "restore") here rather than repeating "rest" ("requiem," 11:29), and in 11:30 describes the yoke as "suave" ("sweet" or "pleasant").

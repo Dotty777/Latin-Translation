@@ -21,7 +21,7 @@
 
 **9:8** God also said these things to Noah and to his sons with him:
 
-**9:9** "Look, I will establish My covenant with you, and with your offspring after you,
+**9:9** "Look, I will establish My covenant with you, and with your seed after you,
 
 **9:10** and to every living soul that is with you, both among the birds and among the livestock and all the cattle of the earth that came out of the ark, and all the wild beasts of the earth.
 

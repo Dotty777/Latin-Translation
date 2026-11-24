@@ -17,9 +17,9 @@
 
 **9:6** It is not, however, that the word of God has failed. For not all who are from Israel are Israelites;
 
-**9:7** nor are those who are the offspring of Abraham all sons; rather, "In Isaac your offspring will be called."
+**9:7** nor are those who are the seed of Abraham all sons; rather, "In Isaac your seed will be called."
 
-**9:8** That is, it is not those who are sons of the flesh who are sons of God, but those who are sons of the promise are reckoned as offspring.
+**9:8** That is, it is not those who are sons of the flesh who are sons of God, but those who are sons of the promise are reckoned as seed.
 
 **9:9** For the word of promise is this: "At this time I will come, and Sarah will have a son."
 
@@ -61,7 +61,7 @@
 
 **9:28** For He is completing the word and cutting it short in equity, because the Lord will carry out a shortened word upon the earth."
 
-**9:29** And as Isaiah foretold: "If the Lord Sabaoth had not left us offspring, we would have become like Sodom, and we would have been similar to Gomorrah."
+**9:29** And as Isaiah foretold: "If the Lord Sabaoth had not left us seed, we would have become like Sodom, and we would have been similar to Gomorrah."
 
 **9:30** What then will we say? That Gentiles, who were not pursuing righteousness, laid hold of righteousness, namely, the righteousness that is from faith;
 

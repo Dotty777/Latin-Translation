@@ -59,13 +59,13 @@
 
 **20:27** Now some of the Sadducees approached, who deny that there is a resurrection, and they questioned Him,
 
-**20:28** saying, "Teacher, Moses wrote for us that if anyone's brother dies having a wife, and this man is without children, his brother should take her as his wife and raise up offspring for his brother.
+**20:28** saying, "Teacher, Moses wrote for us that if anyone's brother dies having a wife, and this man is without children, his brother should take her as his wife and raise up seed for his brother.
 
 **20:29** So there were seven brothers; and the first took a wife, and died without children.
 
 **20:30** And the next took her, and he also died without a son.
 
-**20:31** And the third took her, and likewise all seven as well, and they left no offspring and died.
+**20:31** And the third took her, and likewise all seven as well, and they left no seed and died.
 
 **20:32** Last of all, the woman also died.
 

@@ -79,7 +79,7 @@
 
 **1:37** and they shed innocent blood all around the sanctuary, and they polluted the sanctuary.
 
-**1:38** And the inhabitants of Jerusalem fled because of them, and she became a dwelling of strangers, and she became a stranger to her own offspring, and her children abandoned her.
+**1:38** And the inhabitants of Jerusalem fled because of them, and she became a dwelling of strangers, and she became a stranger to her own seed, and her children abandoned her.
 
 **1:39** Her sanctuary was made desolate like a wilderness; her feast days were turned into mourning, her Sabbaths into reproach, her honors into nothing.
 

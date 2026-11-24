@@ -36,7 +36,7 @@
 ## Translator Notes
 
 - **8:2** — Latin "ibi me docebis" ("there you will teach me") takes the Hebrew verb as second-person future and adds ibi ("there"); the Hebrew form can also be read "she will teach me."
-- **8:5** — Latin "deliciis affluens" ("overflowing with delights") has no counterpart in the Hebrew Masoretic Text; "corrupta est" ("was corrupted") and "violata est" ("was violated") reflect an alternate sense of the Hebrew root elsewhere translated "was in labor."
-- **8:6** — Latin "infernus" denotes the underworld or realm of the dead, and "lampades ... ignis atque flammarum" ("torches of fire and of flames") contains no divine name at the end of the verse, whereas the final Hebrew word ends in -yah and is sometimes read "a flame of the Lord."
+- **8:5** — Latin "deliciis affluens" ("overflowing with delights") has no counterpart in the Hebrew Masoretic Text; "corrupta est" ("was corrupted") and "violata est" ("was violated") reflect the other sense ("to corrupt") of the Hebrew root that here means "was in labor."
+- **8:6** — Latin "infernus" denotes the underworld or realm of the dead, and "lampades ... ignis atque flammarum" ("torches of fire and of flames") contains no divine name at the end of the verse, whereas the final Hebrew word ends in -yah, which may represent the divine name ("a flame of the Lord") or a superlative ("a mighty flame").
 - **8:7** — Latin uses the past tense "non potuerunt" ("could not") and singular "despiciet eam" ("he will despise it," referring to his wealth), whereas the Hebrew uses an impersonal plural.
 - **8:11** — Latin renders the Hebrew names Solomon and Baal-hamon etymologically as "pacifico" ("the peaceful one," continued in v. 12 with the Clementine genitive "tui pacifici") and "in ea quae habet populos" ("in that which has peoples").

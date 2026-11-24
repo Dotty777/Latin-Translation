@@ -88,5 +88,5 @@
 - **3:8** — The Vulgate reads adversum Judam ("against Judah"), whereas the Hebrew Masoretic Text reads "that belongs to Judah."
 - **3:21** — The Vulgate has the first-person singular verb ineam ("that I may enter into a covenant with you"), whereas the Hebrew has the third-person plural ("that they may make a covenant with you").
 - **3:22** — The Vulgate reads caesis latronibus ("having struck down the raiders"), whereas the Hebrew reads simply "from a raid."
-- **3:29** — Vulgate tenens fusum ("one who holds a spindle") translates a debated Hebrew phrase sometimes rendered "leaning on a crutch" or "staff," suggesting someone unfit for warfare and reduced to spinning.
+- **3:29** — Vulgate tenens fusum ("one who holds a spindle") translates a debated Hebrew phrase that may mean "leaning on a crutch" or "staff," suggesting someone unfit for warfare and reduced to spinning.
 - **3:33** — The Vulgate renders David's lament as a forceful statement (Nequaquam ... mortuus est, "By no means did Abner die") using ignavi ("cowards"), whereas the Hebrew poses a rhetorical question ("Should Abner die as a fool dies?").

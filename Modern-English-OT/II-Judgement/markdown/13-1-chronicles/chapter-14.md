@@ -43,4 +43,4 @@
 
 - **14:2** — The Vulgate reads 'over His people Israel' (super populum ejus Israel), whereas the Hebrew reads 'for the sake of His people Israel.'
 - **14:5** — The Vulgate spells both 14:5 and 14:7 identically as Eliphalet (Eliphelet), whereas the Hebrew distinguishes Elpelet in verse 5 from Eliphelet in verse 7.
-- **14:14** — Following the Septuagint, the Vulgate renders the Hebrew baca-trees (often translated balsam or mulberry trees) as 'pear trees' (pyrorum) here and in verse 15.
+- **14:14** — Following the Septuagint, the Vulgate renders the Hebrew baca-trees (perhaps balsam or mulberry trees) as 'pear trees' (pyrorum) here and in verse 15.

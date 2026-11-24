@@ -46,4 +46,4 @@
 - **20:2** — The Latin text here reads "Abimelech rex Terrae" ("Abimelech, king of the land"), rather than "king of Gerar" ("rex Gerarae") found in other Vulgate editions and the Hebrew.
 - **20:4** — The Vulgate follows the Septuagint in reading "gentem ignorantem et justam" ("an unknowing and righteous nation"), whereas the Hebrew reads "even a righteous nation."
 - **20:8** — The Vulgate specifies "Statimque de nocte" ("And immediately in the night"), whereas the Hebrew reads "early in the morning."
-- **20:16** — Distinctively in the Vulgate, Abimelech's closing words read "et quocumque perrexeris: mementoque te deprehensam" ("and wherever you go; and remember that you were caught"), whereas the Hebrew is commonly rendered "and before all you are vindicated."
+- **20:16** — Distinctively in the Vulgate, Abimelech's closing words read "et quocumque perrexeris: mementoque te deprehensam" ("and wherever you go; and remember that you were caught"), whereas the Hebrew reads "and before all you are vindicated."

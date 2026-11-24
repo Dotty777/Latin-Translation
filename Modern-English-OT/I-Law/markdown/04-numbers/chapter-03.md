@@ -110,7 +110,7 @@
 ## Translator Notes
 
 - **3:10** — The Vulgate specifies that the outsider approaches "to minister" (ad ministrandum), a detail not explicit in the Hebrew text.
-- **3:25** — The Vulgate renders Hebrew ohel mo'ed ("tent of meeting") here and in 3:38 as tabernaculum foederis ("tabernacle of the covenant")—and in 3:26 as tectum foederis ("shelter of the covenant")—whereas in 3:7 it renders the same Hebrew phrase as tabernaculum testimonii ("tabernacle of testimony").
+- **3:25** — The Vulgate renders Hebrew ohel mo'ed ("tent of meeting") here and in 3:38 as tabernaculum foederis ("tabernacle of the covenant")—and in 3:26 as tectum foederis ("shelter of the covenant")—whereas in 3:7 it renders the same Hebrew phrase as tabernaculum testimonii ("tabernacle of the testimony").
 - **3:38** — The Vulgate uniquely reads in medio filiorum Israel ("in the midst of the sons of Israel"), whereas the Hebrew text reads "for the charge/obligation of the sons of Israel."
 - **3:47** — Following the Septuagint, the Vulgate renders the Hebrew weight unit gerah with the Greek-derived term obolos ("obols"), and refers to the sanctuary standard as mensuram sanctuarii ("measure of the sanctuary") here and pondus sanctuarii ("weight of the sanctuary") in 3:50.
 - **3:49** — The Vulgate reads et quos redemerant a Levitis ("and whom they had redeemed from the Levites"), whereas the Hebrew text speaks of those over and above "those redeemed by the Levites."

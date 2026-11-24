@@ -5,7 +5,7 @@
 
 ## Text
 
-**39:1** For the end. A psalm for David himself.
+**39:1** To the end. A psalm for David himself.
 
 **39:2** Waiting, I waited for the Lord, and He attended to me.
 

@@ -54,5 +54,5 @@
 - **13:4** — The Vulgate translates the Hebrew month name Abib descriptively as mense novarum frugum ("the month of new crops").
 - **13:10** — Latin a diebus in dies ("from days to days") preserves the literal Hebrew idiom for an annual recurrence ("year by year").
 - **13:13** — The Vulgate generalizes the Hebrew "break its neck" to interficies ("you will kill it") and adds pretio ("with a price") for the redemption of a human firstborn.
-- **13:16** — For the Hebrew term often rendered "frontlets," the Vulgate reads quasi appensum quid, ob recordationem ("like something hung, for remembrance").
+- **13:16** — For the Hebrew totaphot ("frontlets"), the Vulgate reads quasi appensum quid, ob recordationem ("like something hung, for remembrance").
 - **13:21** — Where the Hebrew speaks of giving light so Israel could travel by day and night, the Vulgate reads ut dux esset itineris utroque tempore ("so that He might be the guide of the journey at both times").

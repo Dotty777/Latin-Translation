@@ -1,7 +1,7 @@
 # Division II. Judgement (Historical Books & Job) — Saints Modern English (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — **Complete 15/15 books**  
-> **Coverage:** 322 chapters, 9,405 verses (+ 97 additional Vulgate verses), 1,563 translator notes (+ 15 additional notes)  
+> **Coverage:** 322 chapters, 9,407 verses (+ 106 additional Vulgate verses), 1,558 translator notes (+ 17 additional notes)  
 > **Validation:** 100% validated against `Saints-Latin-Critical-Text` with `validate_modern_english.py --lang lat --strict` (`0` FAIL) and full scholarly audit.
 
 ## Books Included (15 / 15 Complete)

@@ -73,7 +73,7 @@
 
 - **2:8** — The Vulgate translates the Hebrew place name Mahanaim ("Two Camps") as the common noun castra ("the camp"; likewise in 2:12 and 2:29) and reads circumduxit ("led him around") rather than "brought him over."
 - **2:9** — Latin Gessuri ("Geshuri," i.e., Geshurites) differs from the Hebrew Masoretic Text, which reads "the Ashurites."
-- **2:16** — Latin Ager robustorum ("Field of the Strong") translates the Hebrew place name Helkath-hazzurim (often rendered "Field of Sword-Edges" or "Field of Flints").
+- **2:16** — Latin Ager robustorum ("Field of the Strong") translates the Hebrew place name Helkath-hazzurim (meaning "Field of Sword-Edges" or "Field of Flints").
 - **2:24** — The Vulgate renders the Hebrew place names Ammah and Giah as common nouns: collem aquæductus ("hill of the aqueduct") and vallis ("valley").
 - **2:26** — Latin an ignoras quod periculosa sit desperatio? ("Or do you not know that desperation is dangerous?") is a distinctly Vulgate rendering where the Hebrew Masoretic Text reads "Do you not know that it will be bitter in the end?"
 - **2:27** — The Clementine Vulgate reads si locutus fuisses ("if you had spoken") without the negative found in the Hebrew Masoretic Text ("if you had not spoken"), and uses Dominus ("the Lord") where the Hebrew has "God."

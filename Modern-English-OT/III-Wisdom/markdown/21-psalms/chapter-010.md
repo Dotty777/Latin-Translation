@@ -21,8 +21,8 @@
 
 ## Translator Notes
 
-- **10:1** — Vulgate Psalm 10 corresponds to Psalm 11 in Hebrew numbering. "To the end" renders Latin "In finem" (from Septuagint "eis to telos"), corresponding to the Hebrew musical heading often translated "for the choirmaster."
+- **10:1** — Vulgate Psalm 10 corresponds to Psalm 11 in Hebrew numbering. "To the end" renders Latin "In finem" (from Septuagint "eis to telos"), corresponding to the Hebrew musical heading lamnatseach ("for the choirmaster").
 - **10:3** — "what You have perfected" follows the Vulgate ("quae perfecisti") and Septuagint, addressing God directly, whereas the Masoretic Hebrew reads "the foundations."
 - **10:4** — "toward the poor" follows the Vulgate ("in pauperem") and Septuagint and is absent from the Masoretic Hebrew. "question" renders Latin "interrogant," denoting judicial questioning or examination (likewise in 10:5).
 - **10:5** — Following the Vulgate ("qui autem diligit iniquitatem, odit animam suam") and Septuagint, the lover of iniquity hates his own soul; in the Masoretic Hebrew, the Lord's soul hates the lover of violence.
-- **10:7** — Following the Vulgate ("aequitatem vidit vultus ejus") and Septuagint, "His face" is the subject and "equity" is the object; the Masoretic Hebrew is commonly rendered "the upright will see His face."
+- **10:7** — Following the Vulgate ("aequitatem vidit vultus ejus") and Septuagint, "His face" is the subject and "equity" is the object; the Masoretic Hebrew reads "the upright will see His face."

@@ -17,7 +17,7 @@
 
 **12:6** Abram passed through the land as far as the place of Shechem, as far as the illustrious valley. Now the Canaanite was then in the land.
 
-**12:7** And the Lord appeared to Abram and said to him, "To your offspring I will give this land." And he built there an altar to the Lord, who had appeared to him.
+**12:7** And the Lord appeared to Abram and said to him, "To your seed I will give this land." And he built there an altar to the Lord, who had appeared to him.
 
 **12:8** And moving on from there to the mountain that was on the east of Bethel, he pitched his tent there, having Bethel on the west and Ai on the east; he also built there an altar to the Lord and called upon His name.
 

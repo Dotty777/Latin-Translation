@@ -61,7 +61,7 @@
 
 **101:28** but You are the very same, and Your years will not fail.
 
-**101:29** The children of Your servants will dwell, and their offspring will be directed forever."
+**101:29** The children of Your servants will dwell, and their seed will be directed forever."
 
 ## Translator Notes
 

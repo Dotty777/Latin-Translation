@@ -5,7 +5,7 @@
 
 ## Text
 
-**65:1** For the end. A song of a psalm of the resurrection. Shout joyfully to God, all the earth;
+**65:1** To the end. A song of a psalm of the resurrection. Shout joyfully to God, all the earth;
 
 **65:2** sing a psalm to His name; give glory to His praise.
 
@@ -47,7 +47,7 @@
 
 ## Translator Notes
 
-- **65:1** — Latin "In finem" ("For the end") reflects the Septuagint ("eis to telos") rather than Hebrew "for the choirmaster," and "resurrectionis" ("of the resurrection") is a Vulgate/Septuagint addition to the superscription.
+- **65:1** — Latin "In finem" ("To the end") reflects the Septuagint ("eis to telos") rather than Hebrew "for the choirmaster," and "resurrectionis" ("of the resurrection") is a Vulgate/Septuagint addition to the superscription.
 - **65:3** — Latin "mentientur tibi" ("will lie to You," reflecting Septuagint "pseusontai") idiomatically conveys feigned or cringing submission before God's power.
 - **65:5** — Latin "in consiliis" ("in counsels") follows the Septuagint ("en tais boulais"), whereas the Hebrew text reads "in deeds."
 - **65:9** — The Vulgate and Septuagint read singular "animam meam" and "pedes meos" ("my soul," "my feet"), whereas the Hebrew has the plural "our."

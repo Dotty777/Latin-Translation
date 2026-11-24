@@ -33,7 +33,7 @@
 
 **10:14** Look, to the Lord your God belong heaven, and the heaven of heaven, the earth, and all things that are in it;
 
-**10:15** and yet the Lord was closely joined to your fathers, and loved them, and chose their offspring after them, that is, you, from all the nations, just as is confirmed today.
+**10:15** and yet the Lord was closely joined to your fathers, and loved them, and chose their seed after them, that is, you, from all the nations, just as is confirmed today.
 
 **10:16** Circumcise, therefore, the foreskin of your heart, and do not harden your neck any longer;
 

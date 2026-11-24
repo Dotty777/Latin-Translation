@@ -78,7 +78,7 @@
 ## Translator Notes
 
 - **15:4** — Vulgate renders the Hebrew place name Telaim (ba-Telaim) etymologically as "like lambs" (quasi agnos).
-- **15:9** — Vulgate reads "garments" (vestibus) where the Hebrew Masoretic Text has a term usually rendered "fatlings" or "secondlings" (ha-mishnim).
+- **15:9** — Vulgate reads "garments" (vestibus) where the Hebrew Masoretic Text has a term meaning "fatlings" or "secondlings" (ha-mishnim).
 - **15:12** — Vulgate renders Hebrew yad ("monument") as "a triumphal arch" (fornicem triumphalem) and includes the closing clause describing Saul offering a burnt offering from the first of the spoils, which is absent from the Hebrew Masoretic Text.
-- **15:29** — Vulgate reads "the Victor [lit. Triumpher] in Israel will not spare" (triumphator in Israël non parcet), where the Hebrew Masoretic Text is usually rendered "the Glory of Israel will not lie."
-- **15:32** — Vulgate describes Agag as "very fat and trembling" (pinguissimus et tremens) and casts his speech as a question, "Does bitter death separate like this?" (Siccine separat amara mors?), where the Hebrew Masoretic Text is commonly rendered "Surely the bitterness of death has passed."
+- **15:29** — Vulgate reads "the Victor [lit. Triumpher] in Israel will not spare" (triumphator in Israël non parcet), where the Hebrew Masoretic Text reads "the Glory of Israel will not lie."
+- **15:32** — Vulgate describes Agag as "very fat and trembling" (pinguissimus et tremens) and casts his speech as a question, "Does bitter death separate like this?" (Siccine separat amara mors?), where the Hebrew Masoretic Text reads "Surely the bitterness of death has passed."

@@ -7,7 +7,7 @@
 
 **111:1** Hallelujah, of the return of Haggai and Zechariah. Blessed is the man who fears the Lord; he will greatly delight in His commands.
 
-**111:2** Mighty on the earth will be his offspring; the generation of the upright will be blessed.
+**111:2** Mighty on the earth will be his seed; the generation of the upright will be blessed.
 
 **111:3** Glory and wealth are in his house, and his righteousness remains forever and ever.
 

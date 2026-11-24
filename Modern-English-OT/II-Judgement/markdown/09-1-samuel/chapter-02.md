@@ -43,7 +43,7 @@
 
 **2:19** And his mother used to make a small tunic for him, which she would bring on the appointed days when going up with her husband to offer the solemn sacrifice.
 
-**2:20** And Eli blessed Elkanah and his wife, and he said to him, "May the Lord repay you with offspring from this woman for the loan that you have lent to the Lord." And they went away to their own place.
+**2:20** And Eli blessed Elkanah and his wife, and he said to him, "May the Lord repay you with seed from this woman for the loan that you have lent to the Lord." And they went away to their own place.
 
 **2:21** Therefore the Lord visited Hannah, and she conceived and bore three sons and two daughters. And the boy Samuel was magnified before the Lord.
 

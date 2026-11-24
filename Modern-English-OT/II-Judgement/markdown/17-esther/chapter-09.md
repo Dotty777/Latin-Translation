@@ -55,13 +55,13 @@
 
 **9:26** and from that time these days were called Purim, that is, of lots, because Pur, that is, the lot, had been cast into the urn. And all the things that were done are contained in the scroll of this letter, that is, of this book:
 
-**9:27** and what they endured, and what was afterward changed, the Jews took upon themselves and their offspring, and upon all who wished to be joined to their religion, so that no one is permitted to pass these two days without solemn observance, which the writing attests and fixed times require, as the years continually succeed one another.
+**9:27** and what they endured, and what was afterward changed, the Jews took upon themselves and their seed, and upon all who wished to be joined to their religion, so that no one is permitted to pass these two days without solemn observance, which the writing attests and fixed times require, as the years continually succeed one another.
 
 **9:28** These are the days that no oblivion will ever blot out, and throughout every generation all provinces in the entire world will celebrate them; nor is there any city in which the days of Purim, that is, of lots, are not observed by the Jews and by their progeny, which is bound by these ceremonies.
 
 **9:29** And Queen Esther, daughter of Abihail, and Mordecai the Jew wrote a second letter as well, so that with all diligence this solemn day might be ratified for the future:
 
-**9:31** observing the days of lots, and that they should celebrate them in their proper time with joy, just as Mordecai and Esther had appointed; and they accepted to be observed by themselves and by their offspring the fasts, and the cries, and the days of lots,
+**9:31** observing the days of lots, and that they should celebrate them in their proper time with joy, just as Mordecai and Esther had appointed; and they accepted to be observed by themselves and by their seed the fasts, and the cries, and the days of lots,
 
 **9:32** and all things that are contained in the history of this book, which is called Esther.
 

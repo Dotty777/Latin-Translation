@@ -32,6 +32,6 @@
 ## Translator Notes
 
 - **6:4** — Latin suavis ("sweet") translates the Hebrew place name Tirzah etymologically according to its sense of "pleasant" or "delightful," following the Septuagint tradition.
-- **6:5** — Latin quia ipsi me avolare fecerunt ("for they have made me fly away") follows the Septuagint's vivid rendering where the Masoretic Hebrew is usually translated "for they overwhelm me."
+- **6:5** — Latin quia ipsi me avolare fecerunt ("for they have made me fly away") follows the Septuagint's vivid rendering where the Masoretic Hebrew reads "for they overwhelm me."
 - **6:10** — Latin electa ut sol ("choice as the sun") follows the Septuagint (eklekte) in taking the underlying Hebrew adjective in the sense of "select" rather than "bright."
-- **6:12** — Latin conturbavit me ("threw me into turmoil") and the proper name Aminadab (standard modern English "Amminadab") preserve a distinctive Vulgate reading where the Hebrew is often rendered "set me among the chariots of my noble people." Verse 6:12 ends chapter 6 in the Clementine Vulgate (Hebrew 6:13 corresponds to Vulgate 7:1).
+- **6:12** — Latin conturbavit me ("threw me into turmoil") and the proper name Aminadab (standard modern English "Amminadab") preserve a distinctive Vulgate reading where the obscure Hebrew may be read "set me among the chariots of my noble people." Verse 6:12 ends chapter 6 in the Clementine Vulgate (Hebrew 6:13 corresponds to Vulgate 7:1).

@@ -23,7 +23,7 @@
 
 ## Translator Notes
 
-- **100:2** — From verse 2b through verse 6 and in verse 8, the Vulgate follows the Septuagint in using past tenses (imperfect and perfect) to recount David's habitual conduct, whereas the Hebrew uses imperfect verbs usually translated as future resolutions.
+- **100:2** — From verse 2b through verse 6 and in verse 8, the Vulgate follows the Septuagint in using past tenses (imperfect and perfect) to recount David's habitual conduct, whereas the Hebrew uses imperfect verbs expressing future resolutions.
 - **100:4** — The Vulgate splits the clause across verses 3-4, making cor pravum ('a perverse heart') the subject of non adhaesit mihi ('did not cling to me') and joining declinantem a me ('turning away from me') to malignum ('the wicked one'), reflecting the Septuagint rather than the Hebrew clause division.
 - **100:5** — Latin persequebar ('I pursued') and cum hoc non edebam ('with him I did not eat') follow the Septuagint against the Hebrew ('I will destroy' and 'I will not endure', the latter from reading the Hebrew verb as 'eat' rather than 'be able/endure').
 - **100:7** — Latin superbiam ('pride') and iniqua ('iniquitous things') follow the Septuagint against Hebrew 'deceit' and 'lies'; intransitive non direxit (literally 'did not go straight') means 'did not succeed' or 'prosper' (past tense, against Hebrew future 'will not be established').

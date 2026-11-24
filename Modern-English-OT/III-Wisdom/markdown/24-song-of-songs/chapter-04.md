@@ -40,7 +40,7 @@
 ## Translator Notes
 
 - **4:1** — Latin absque eo quod intrinsecus latet ("apart from what lies hidden within," repeated in 4:3; cf. absque occultis tuis in 6:7) is a distinctive Vulgate reading where the Masoretic Hebrew reads "behind your veil."
-- **4:8** — Latin coronaberis ("you will be crowned") is a distinctive Vulgate reading where the Hebrew verb is commonly rendered "depart" or "look down."
+- **4:8** — Latin coronaberis ("you will be crowned") is a distinctive Vulgate reading where the Hebrew verb means "depart" or "look down."
 - **4:9** — Latin vulnerasti ("you have wounded") and in uno crine colli tui ("with one lock of hair on your neck") preserve distinctive Vulgate readings where the Hebrew refers to captivating the heart with a single jewel of a necklace.
 - **4:10** — Latin mammae and ubera ("breasts") and pulchriora ("more beautiful") follow the Septuagint tradition, whereas the Masoretic Hebrew reads "love" (or "caresses") and "better."
 - **4:11** — Latin thuris ("of frankincense") differs from the Masoretic Hebrew "of Lebanon"; conversely, in 4:14 the Vulgate reads lignis Libani ("trees of Lebanon") where the Hebrew reads "trees of frankincense."

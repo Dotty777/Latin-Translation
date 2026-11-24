@@ -33,7 +33,7 @@
 
 ## Translator Notes
 
-- **29:4** — Latin infernus ("the underworld," traditionally rendered "hell") denotes the abode of the dead. Also, a descendentibus in lacum ("from those going down into the pit") follows the Septuagint and the Hebrew consonantal text rather than "from going down into the pit."
+- **29:4** — Latin infernus ("the underworld") denotes the abode of the dead. Also, a descendentibus in lacum ("from those going down into the pit") follows the Septuagint and the Hebrew consonantal text rather than "from going down into the pit."
 - **29:6** — Vulgate ira in indignatione ejus ("anger is in His indignation") follows the Septuagint, whereas the Hebrew reads "His anger is for a moment."
 - **29:8** — Vulgate decori meo ("to my beauty") follows the Septuagint, contrasting with the Hebrew "to my mountain."
 - **29:11** — Following the Septuagint, the Vulgate uses past-tense statements ("The Lord heard... became my helper") where the Hebrew has imperatives ("Hear... be my helper").

@@ -5,7 +5,7 @@
 
 ## Text
 
-**40:1** For the end. A psalm for David himself.
+**40:1** To the end. A psalm for David himself.
 
 **40:2** Blessed is the one who has understanding for the needy and the poor: in the evil day the Lord will deliver him.
 

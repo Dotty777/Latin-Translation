@@ -38,7 +38,7 @@
 ## Translator Notes
 
 - **18:1** — Latin "In finem" ("To the end," also in 19:1 and 20:1) follows the Septuagint ("eis to telos"), where the Hebrew superscription reads "For the choirmaster."
-- **18:4** — Following the Septuagint, the Vulgate forms a double negative ("whose voices are not heard") affirming universal audibility, whereas the Hebrew is commonly rendered "their voice is not heard."
+- **18:4** — Following the Septuagint, the Vulgate forms a double negative ("whose voices are not heard") affirming universal audibility, whereas the Hebrew reads "their voice is not heard."
 - **18:5** — Latin "sonus" ("sound") follows the Septuagint ("phthongos," cited in Rom 10:18), whereas the Hebrew Masoretic Text reads "measuring line."
 - **18:6** — Following the Septuagint, the Vulgate reads "In the sun He has set His tent" and "gigas" ("giant"), whereas the Hebrew reads "In them [the heavens] he has set a tent for the sun" and "mighty man."
 - **18:10** — Latin "sanctus" ("holy") is a distinctly Vulgate reading where the Septuagint and Hebrew read "pure," and "in semetipsa" ("in themselves") corresponds to Hebrew "altogether."

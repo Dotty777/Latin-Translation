@@ -62,5 +62,5 @@
 - **41:2** — The Vulgate uses a first-person verb (Non quasi crudelis suscitabo eum, "Not as one who is cruel will I rouse him"), whereas the Hebrew has a third-person statement ("No one is so fierce that he dares to stir him up").
 - **41:4** — Latin Non parcam ei, et verbis potentibus, et ad deprecandum compositis ("I will not spare him, nor powerful words, nor those composed for supplication") is a distinctive Vulgate reading where the Hebrew speaks of not keeping silence concerning Leviathan's limbs, strength, and frame.
 - **41:15** — The second half (mittet contra eum fulmina, et ad locum alium non ferentur) is a distinctive Vulgate reading with God as the implied subject sending thunderbolts, whereas the Hebrew describes Leviathan's flesh as cast firm and immovable.
-- **41:17** — Latin angeli ("the angels") and purgabuntur ("will be purified") are distinctive Vulgate renderings of Hebrew terms commonly translated "the mighty" and "they are beside themselves."
-- **41:22** — Latin radii solis ("rays of the sun") and aurum ("gold") reflect the Vulgate's distinct rendering of Hebrew terms usually translated "sharp potsherds" and "a threshing sledge."
+- **41:17** — Latin angeli ("the angels") and purgabuntur ("will be purified") are distinctive Vulgate renderings of Hebrew terms meaning "the mighty" and "they are beside themselves."
+- **41:22** — Latin radii solis ("rays of the sun") and aurum ("gold") reflect the Vulgate's distinct rendering of Hebrew terms meaning "sharp potsherds" and "a threshing sledge."

@@ -5,7 +5,7 @@
 
 ## Text
 
-**33:1** And the Lord spoke to Moses, saying, "Go, go up from this place, you and your people whom you led out of the land of Egypt, into the land that I swore to Abraham, Isaac, and Jacob, saying, 'To your offspring I will give it';
+**33:1** And the Lord spoke to Moses, saying, "Go, go up from this place, you and your people whom you led out of the land of Egypt, into the land that I swore to Abraham, Isaac, and Jacob, saying, 'To your seed I will give it';
 
 **33:2** and I will send an angel as your forerunner, so that I may drive out the Canaanite, and the Amorite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite,
 

@@ -51,7 +51,7 @@
 
 **14:23** will not see the land concerning which I swore to their fathers, nor will anyone among those who disparaged Me look upon it.
 
-**14:24** My servant Caleb, who is full of another spirit and has followed Me, I will lead into this land that he traversed; and his offspring will possess it.
+**14:24** My servant Caleb, who is full of another spirit and has followed Me, I will lead into this land that he traversed; and his seed will possess it.
 
 **14:25** Since the Amalekite and the Canaanite dwell in the valleys, tomorrow move camp and return into the wilderness by the way of the Red Sea."
 

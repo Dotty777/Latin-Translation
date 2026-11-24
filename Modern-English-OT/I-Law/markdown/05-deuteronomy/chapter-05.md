@@ -73,7 +73,7 @@
 
 ## Translator Notes
 
-- **5:1** — Latin 'caeremonias' ("ceremonies," used consistently throughout chs. 5-6) is the Vulgate's characteristic rendering of the Hebrew term usually translated "statutes."
+- **5:1** — Latin 'caeremonias' ("ceremonies," used consistently throughout chs. 5-6) is the Vulgate's characteristic rendering of the Hebrew term chuqqim ("statutes").
 - **5:4** — The Vulgate reads 'nobis' ("to us"), whereas the Hebrew Masoretic Text reads "to you" (plural).
 - **5:5** — Latin 'sequester et medius' ("mediator and intermediary") expands the Hebrew "standing [between]" into a double mediatorial expression.
 - **5:14** — The Vulgate inserts the explanatory gloss 'id est, requies' ("that is, the rest") to explain the loanword 'sabbati' for Latin readers.

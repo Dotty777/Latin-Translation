@@ -32,4 +32,4 @@
 - **6:1** — Latin Pro octava ("For the eighth") corresponds to the Hebrew musical term sheminit, often understood as an eight-stringed instrument or a lower octave.
 - **6:6** — Latin in inferno literally refers to the lower realm or underworld (translating Greek Hades and Hebrew Sheol); confitebitur in ecclesiastical Latin carries the sense of giving praise or thanks.
 - **6:8** — Latin a furore ("from fury") and first-person inveteravi ("I have grown old") follow the Septuagint, whereas the Hebrew reads "from grief/vexation" and third-person "it [my eye] grows old."
-- **6:10** — Latin suscepit ("has accepted") follows the Septuagint aorist, whereas the Hebrew verb is usually rendered as present or future ("accepts / will accept").
+- **6:10** — Latin suscepit ("has accepted") follows the Septuagint aorist, whereas the Hebrew verb is imperfect ("accepts / will accept").

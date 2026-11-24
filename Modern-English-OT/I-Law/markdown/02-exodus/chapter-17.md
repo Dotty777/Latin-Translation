@@ -41,5 +41,5 @@
 
 - **17:7** — Latin Tentatio ("Testing" or "Temptation") replaces the Hebrew dual place-name Massah and Meribah with a single translated name, absorbing the sense of Meribah into the explanatory phrase propter jurgium ("because of the dispute").
 - **17:12** — Latin non lassarentur ("did not grow weary") is a distinctly Vulgate reading where the Hebrew states that the hands of Moses remained steady.
-- **17:15** — Latin Dominus exaltatio mea ("The Lord Is My Exaltation") interprets the altar's name distinctively, where the Hebrew reads YHWH-Nissi ("the Lord is my banner").
+- **17:15** — Latin Dominus exaltatio mea ("The Lord Is My Exaltation") interprets the altar's name distinctively, where the Hebrew name means "the Lord is my banner."
 - **17:16** — Latin manus solii Domini ("the hand of the throne of the Lord") renders a difficult Hebrew clause without a preposition before "throne," joining it with "the war of the Lord" as the subject of "will be against Amalek."

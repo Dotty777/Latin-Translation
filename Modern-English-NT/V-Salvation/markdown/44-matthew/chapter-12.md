@@ -110,5 +110,5 @@
 - **12:6** — The Vulgate uses the masculine comparative adjective major ("One greater"), whereas critical Greek texts read the neuter meizon ("something greater"); contrast the neuter plus ("something greater") in 12:41-42.
 - **12:8** — The Vulgate includes etiam ("even"), reflecting the traditional Byzantine Greek reading (kai tou sabbatou) rather than modern critical Greek editions that omit the word.
 - **12:24** — The Vulgate retains the spelling Beelzebub (here and in 12:27), echoing the Old Testament Baal-zebub (2 Kings 1:2), whereas critical Greek manuscripts read Beelzeboul (Beelzebul).
-- **12:41** — The Latin idiom poenitentiam egerunt (literally "did penance" or "practiced repentance") is Jerome's standard rendering of the Greek verb metanoeo ("repent").
+- **12:41** — The Latin idiom poenitentiam egerunt (literally "did repentance") is Jerome's standard rendering of the Greek verb metanoeo ("repent").
 - **12:47** — The Vulgate reads simply quaerentes te ("seeking You"), shorter than most Greek manuscripts that add "to speak to you"; several early Greek manuscripts omit verse 47 altogether.

@@ -1,7 +1,7 @@
 # Division VII. Glory (Revelation) — Saints Modern English NT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — **Complete 1/1 books**  
-> **Coverage:** 22 chapters, 404 verses, 100 translator notes
+> **Coverage:** 22 chapters, 405 verses, 101 translator notes
 
 ## Books Included (1 / 1 Complete)
 

@@ -34,4 +34,4 @@
 ## Translator Notes
 
 - **9:11** — Vulgate "comedet super mensam meam" ("will eat at my table") uses the future tense and retains the Masoretic Text's first-person "my table" without a change of speaker, whereas the Septuagint reads "David's table" as narrator commentary.
-- **9:12** — Vulgate "cognatio" ("family" or "kindred") renders the Hebrew noun more commonly translated "all who dwelt in the house."
+- **9:12** — Vulgate "cognatio" ("family" or "kindred") renders the Hebrew phrase meaning "all who dwelt in the house."

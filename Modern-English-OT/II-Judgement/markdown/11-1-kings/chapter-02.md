@@ -69,7 +69,7 @@
 
 **2:32** And the Lord will return his blood upon his head, because he killed two righteous men, better than himself, and cut them down with the sword, while my father David was unaware, Abner the son of Ner, commander of the forces of Israel, and Amasa the son of Jether, commander of the army of Judah;
 
-**2:33** and their blood will return upon the head of Joab and upon the head of his offspring forever. But for David, and for his offspring, and for his house, and for his throne, may there be peace to all eternity from the Lord."
+**2:33** and their blood will return upon the head of Joab and upon the head of his seed forever. But for David, and for his seed, and for his house, and for his throne, may there be peace to all eternity from the Lord."
 
 **2:34** So Benaiah the son of Jehoiada went up, and attacking him, put him to death; and he was buried in his house in the wilderness.
 

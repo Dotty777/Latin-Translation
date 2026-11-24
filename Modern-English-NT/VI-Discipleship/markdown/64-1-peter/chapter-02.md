@@ -57,7 +57,7 @@
 
 ## Translator Notes
 
-- **2:2** — The Vulgate renders Greek "logikon" (often translated "spiritual" or "of the word") as "rationabile" ("reasonable"); in 2:3, "dulcis" ("sweet") corresponds to Greek "chrestos" ("good/kind").
+- **2:2** — The Vulgate renders Greek "logikon" ("rational," "spiritual," or "of the word") as "rationabile" ("reasonable"); in 2:3, "dulcis" ("sweet") corresponds to Greek "chrestos" ("good/kind").
 - **2:13** — The Vulgate reads "omni humanae creaturae" ("every human creature") and "propter Deum" ("for God's sake"), whereas the Greek has "every human institution/creation" and "for the Lord's sake".
 - **2:20** — The Vulgate reads the adverb "patienter" ("patiently"), differing from the Greek participle "paschontes" ("suffering").
 - **2:21** — The Vulgate shifts pronouns from first-person "pro nobis" ("for us") to second-person "vobis" ("leaving you").

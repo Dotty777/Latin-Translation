@@ -43,7 +43,7 @@
 
 **11:20** A crooked heart is abominable to the Lord, and His pleasure is in those who walk in sincerity.
 
-**11:21** Hand in hand, an evil person will not be guiltless, but the offspring of the righteous will be saved.
+**11:21** Hand in hand, an evil person will not be guiltless, but the seed of the righteous will be saved.
 
 **11:22** A gold ring in a pig's snout: a beautiful and foolish woman.
 

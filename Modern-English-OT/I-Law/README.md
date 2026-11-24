@@ -1,7 +1,7 @@
 # Division I. Law (Pentateuch) — Saints Modern English (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — **Complete 5/5 books**  
-> **Coverage:** 187 chapters, 5,740 verses (+ 24 additional Vulgate verses), 894 translator notes (+ 3 additional notes)  
+> **Coverage:** 187 chapters, 5,752 verses (+ 31 additional Vulgate verses), 890 translator notes (+ 4 additional notes)  
 > **Validation:** 100% validated against `Saints-Latin-Critical-Text` with `validate_modern_english.py --lang lat --strict` (`0` FAIL) and full scholarly audit.
 
 ## Books Included (5 / 5 Complete)

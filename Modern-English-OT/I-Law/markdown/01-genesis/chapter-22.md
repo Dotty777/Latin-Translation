@@ -37,9 +37,9 @@
 
 **22:16** "By Myself I have sworn, says the Lord: because you have done this thing and have not spared your only-begotten son,
 
-**22:17** I will bless you and multiply your offspring like the stars of heaven and like the sand that is on the seashore; your offspring will possess the gates of their enemies,
+**22:17** I will bless you and multiply your seed like the stars of heaven and like the sand that is on the seashore; your seed will possess the gates of their enemies,
 
-**22:18** and in your offspring all the nations of the earth will be blessed, because you have obeyed My voice."
+**22:18** and in your seed all the nations of the earth will be blessed, because you have obeyed My voice."
 
 **22:19** Abraham returned to his young men, and they went to Beersheba together, and he lived there.
 

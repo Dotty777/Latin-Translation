@@ -52,7 +52,7 @@
 ## Translator Notes
 
 - **4:3** — Latin lamiae refers to legendary child-devouring monsters (or sea monsters), where the Hebrew refers to jackals; the Clementine Vulgate also preserves the Hebrew acrostic letter names at the head of each verse in chapter 4, with Pe (4:16) preceding Ayin (4:17).
-- **4:7** — Vulgate "Nazirites" (Nazaraei) and "ancient ivory" (ebore antiquo) preserve distinctive renderings where the Hebrew is commonly translated "princes" (or "consecrated ones") and "corals" (or "rubies").
+- **4:7** — Vulgate "Nazirites" (Nazaraei) and "ancient ivory" (ebore antiquo) preserve distinctive renderings where the Hebrew has terms meaning "consecrated ones" (or "princes") and "corals" (or "rubies").
 - **4:14** — Vulgate "when they could not, they held their hems" (cumque non possent, tenuerunt lacinias suas) is a distinctive Latin rendering of a difficult Hebrew clause usually understood as "so that no one could touch their garments."
 - **4:15** — Vulgate "they quarreled" (jurgati sunt) and the singular "He will no longer dwell among them" (Non addet ultra ut habitet in eis, referring to the Lord) differ from the Hebrew, which uses plural verbs referring to the exiles ("they fled" and "they shall stay no longer").
 - **4:20** — Latin christus Dominus ("the anointed Lord") sets the two nouns in apposition, as the Septuagint does (christos kyrios), where the Hebrew reads "the anointed of the Lord"; the Vulgate also reads oris nostri ("of our mouth") and in peccatis nostris ("in our sins") where the Hebrew has "of our nostrils" and "in their pits."

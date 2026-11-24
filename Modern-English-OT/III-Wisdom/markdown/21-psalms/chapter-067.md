@@ -5,7 +5,7 @@
 
 ## Text
 
-**67:1** For the end. A psalm of a song for David himself.
+**67:1** To the end. A psalm of a song for David himself.
 
 **67:2** May God rise up, and may His enemies be scattered, and may those who hate Him flee from His face.
 
@@ -79,7 +79,7 @@
 
 ## Translator Notes
 
-- **67:5** — Latin "super occasum" ("above the west," following Septuagint "epi dysmon") differs from the Hebrew, often rendered "through the deserts" or "upon the clouds"; the closing clause "Turbabuntur a facie ejus" ("They will be troubled before the face of Him") is also unique to the Vulgate/Septuagint.
+- **67:5** — Latin "super occasum" ("above the west," following Septuagint "epi dysmon") differs from the Hebrew ba'aravot ("through the deserts" or "upon the clouds"); the closing clause "Turbabuntur a facie ejus" ("They will be troubled before the face of Him") is also unique to the Vulgate/Septuagint.
 - **67:7** — Latin "unius moris" ("of one manner/mind") renders Greek "monotropous" (Hebrew "the solitary"), and the closing clause "similiter eos qui exasperant, qui habitant in sepulchris" ("likewise those who provoke, who dwell in tombs") follows the Septuagint rather than Hebrew "only the rebellious dwell in a parched land."
 - **67:13** — Following the Septuagint, the Vulgate reads "dilecti, dilecti" ("of the beloved, of the beloved") and "speciei domus" ("for the beauty of the house"), diverging markedly from the Hebrew ("kings of armies flee, they flee, and she who remains at home divides the spoil").
 - **67:16** — Latin "mons pinguis" ("a fat mountain") and "mons coagulatus" ("a curdled mountain") follow the Septuagint rather than Hebrew "mountain of Bashan" and "many-peaked mountain"; in 67:17 "montes coagulatos" is accusative as the direct object of "suspicamini" ("suspect").

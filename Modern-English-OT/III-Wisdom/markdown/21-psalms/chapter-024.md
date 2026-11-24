@@ -5,7 +5,7 @@
 
 ## Text
 
-**24:1** For the end. A psalm of David. To You, Lord, I have lifted up my soul.
+**24:1** To the end. A psalm of David. To You, Lord, I have lifted up my soul.
 
 **24:2** My God, in You I trust; may I not be ashamed.
 
@@ -29,7 +29,7 @@
 
 **24:12** Who is the man who fears the Lord? He has established a law for him in the way that he has chosen.
 
-**24:13** His soul will dwell in good things, and his offspring will inherit the earth.
+**24:13** His soul will dwell in good things, and his seed will inherit the earth.
 
 **24:14** The Lord is a firm support for those who fear Him, and His covenant is to be revealed to them.
 

@@ -43,7 +43,7 @@
 
 ## Translator Notes
 
-- **6:1** — Vulgate instruite literally means "instruct" or "set in order," rendering the Greek verb often translated "restore." The Latin also shifts directly from plural ("you who are spiritual") to singular ("examining yourself, so that you too may not be tempted").
+- **6:1** — Vulgate instruite literally means "instruct" or "set in order," rendering the Greek verb katartizo ("restore," "mend"). The Latin also shifts directly from plural ("you who are spiritual") to singular ("examining yourself, so that you too may not be tempted").
 - **6:5** — The Vulgate uses the same noun onus ("burden") and verb portare ("bear") in both 6:2 and 6:5, whereas the Greek distinguishes two different nouns for burden and load.
 - **6:8** — In the Clementine Vulgate, "For whatever things a man sows, these he will also reap" begins 6:8 rather than ending 6:7, and uses neuter plurals (quae ... haec) along with in carne sua ("in his own flesh") and in spiritu ("in the Spirit").
 - **6:11** — Vulgate qualibus litteris literally means "with what kind of letters" (rather than Greek "with what large letters"), and can also denote "what sort of letter."

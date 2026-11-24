@@ -33,9 +33,9 @@
 
 **13:14** And the Lord said to Abram, after Lot was separated from him, "Lift up your eyes and look from the place where you now are, to the north and to the south, to the east and to the west.
 
-**13:15** All the land that you see I will give to you and to your offspring forever.
+**13:15** All the land that you see I will give to you and to your seed forever.
 
-**13:16** And I will make your offspring like the dust of the earth: if any man can count the dust, he will also be able to count your offspring.
+**13:16** And I will make your seed like the dust of the earth: if any man can count the dust, he will also be able to count your seed.
 
 **13:17** Arise and walk through the land in its length and in its breadth, for I am going to give it to you."
 

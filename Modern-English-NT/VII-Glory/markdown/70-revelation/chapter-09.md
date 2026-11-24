@@ -53,4 +53,4 @@
 - **9:11** — The closing clause latine habens nomen Exterminans ('having in Latin the name Exterminans,' meaning 'Destroyer' or 'Exterminator') is a distinctive Vulgate addition absent from the Greek text.
 - **9:13** — Vulgate ante oculos Dei ('before the eyes of God') is a distinctive reading where the Greek text reads simply 'before God.'
 - **9:16** — Latin vicies millies dena millia literally means 'twenty thousand times ten thousand,' which equals two hundred million.
-- **9:20** — Latin poenitentiam agere (here and in 9:21) is the standard Vulgate idiom for 'to repent,' literally meaning 'to perform repentance/penance.'
+- **9:20** — Latin poenitentiam agere (here and in 9:21) is the standard Vulgate idiom for 'to repent,' literally meaning 'to perform repentance.'

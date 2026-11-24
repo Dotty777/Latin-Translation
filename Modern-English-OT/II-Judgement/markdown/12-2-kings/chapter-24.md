@@ -48,5 +48,5 @@
 ## Translator Notes
 
 - **24:5** — In the Clementine Vulgate, "And Jehoiakim slept with his fathers" ends 24:5, leaving only "and Jehoiachin his son reigned in his place" as 24:6, whereas the Hebrew text places both clauses in 24:6.
-- **24:14** — Vulgate "locksmith" (clusorem, also in v. 16) is a literal coinage from Latin claudere ("to shut/lock") for the Hebrew term masger, commonly rendered "smiths" or "metalworkers."
+- **24:14** — Vulgate "locksmith" (clusorem, also in v. 16) is a literal coinage from Latin claudere ("to shut/lock") for the Hebrew term masger ("smiths" or "metalworkers").
 - **24:15** — Vulgate "judges of the land" (judices terrae) renders a Hebrew phrase usually understood as "chief men" or "mighty men of the land."

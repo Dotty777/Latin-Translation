@@ -41,7 +41,7 @@
 
 ## Translator Notes
 
-- **3:2** — Latin "Pœnitentiam agite" literally means "do penance" (or "practice repentance"), the standard Vulgate idiom for "repent" and lexically linked to "pœnitentia" ("repentance") in vv. 8 and 11.
+- **3:2** — Latin "Pœnitentiam agite" literally means "do repentance," the standard Vulgate idiom for "repent" and lexically linked to "pœnitentia" ("repentance") in vv. 8 and 11.
 - **3:10** — The Clementine Vulgate uses future passive verbs ("excidetur, et in ignem mittetur," "will be cut down and thrown into the fire") where the Greek text uses present-tense verbs.
 - **3:12** — The Clementine Vulgate reads simply "in horreum" ("into the granary") without a possessive pronoun ("his").
 - **3:17** — Latin "in quo mihi complacui" (literally "in whom I have pleased Myself") uses the perfect tense with the reflexive dative "mihi."

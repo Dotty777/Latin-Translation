@@ -77,4 +77,4 @@
 - **36:14** — Latin 'in tempestate' ("in a storm") is a distinctly Vulgate rendering; the Hebrew reads "in youth."
 - **36:19** — The Vulgate construes this difficult verse as a direct imperative ('Depone magnitudinem tuam', "Lay down your greatness"), whereas the Hebrew is commonly taken as a question about whether cries or strength avail in distress.
 - **36:24** — Latin 'quod ignores' ("that you do not know") is a notable Vulgate-distinct reading where the Hebrew has "to magnify."
-- **36:33** — Latin 'amico suo' ("to His friend") and the clause about ascending to the light reflect a distinctly Vulgate interpretation of a notoriously obscure Hebrew verse often rendered as thunder announcing the storm.
+- **36:33** — Latin 'amico suo' ("to His friend") and the clause about ascending to the light reflect a distinctly Vulgate interpretation of a notoriously obscure Hebrew verse that appears to speak of thunder announcing the storm.

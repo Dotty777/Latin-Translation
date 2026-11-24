@@ -9,7 +9,7 @@
 
 **24:2** and he spoke to the people in this way: "This is what the Lord God of Israel says: 'Beyond the river your fathers lived from the beginning, Terah, the father of Abraham and Nahor; and they served foreign gods.
 
-**24:3** So I took your father Abraham from the borders of Mesopotamia, and brought him into the land of Canaan, and multiplied his offspring,
+**24:3** So I took your father Abraham from the borders of Mesopotamia, and brought him into the land of Canaan, and multiplied his seed,
 
 **24:4** and I gave him Isaac; and to him in turn I gave Jacob and Esau. Of these, to Esau I gave Mount Seir to possess; but Jacob and his sons went down into Egypt.
 

@@ -47,7 +47,7 @@
 
 **24:21** And now, because I know that you will most certainly reign and will hold the kingdom of Israel in your hand,
 
-**24:22** swear to me by the Lord that you will not blot out my offspring after me, nor remove my name from my father's house."
+**24:22** swear to me by the Lord that you will not blot out my seed after me, nor remove my name from my father's house."
 
 **24:23** And David swore to Saul. So Saul departed to his house, and David and his men went up to more secure places.
 

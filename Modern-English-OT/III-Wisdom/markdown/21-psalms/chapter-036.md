@@ -53,13 +53,13 @@
 
 **36:24** When he falls, he will not be dashed down, because the Lord places His hand underneath.
 
-**36:25** I was young, and indeed I have grown old, and I have not seen the righteous one abandoned, nor his offspring seeking bread.
+**36:25** I was young, and indeed I have grown old, and I have not seen the righteous one abandoned, nor his seed seeking bread.
 
-**36:26** All day long he shows mercy and lends, and his offspring will be in blessing.
+**36:26** All day long he shows mercy and lends, and his seed will be in blessing.
 
 **36:27** Turn away from evil and do good, and dwell forever and ever,
 
-**36:28** for the Lord loves judgment and will not abandon His holy ones; they will be preserved forever. The unjust will be punished, and the offspring of the ungodly will perish.
+**36:28** for the Lord loves judgment and will not abandon His holy ones; they will be preserved forever. The unjust will be punished, and the seed of the ungodly will perish.
 
 **36:29** But the righteous will inherit the land, and they will dwell upon it forever and ever.
 

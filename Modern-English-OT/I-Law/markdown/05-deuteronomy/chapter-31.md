@@ -45,7 +45,7 @@
 
 **31:20** For I will bring them into the land for which I swore to their fathers, flowing with milk and honey. And when they have eaten and been satisfied and grown fat, they will turn aside to foreign gods and serve them, and they will revile Me and nullify My covenant.
 
-**31:21** After many evils and afflictions have found them, this song, which no forgetfulness will erase from the mouth of their offspring, will answer them as a witness. For I know their thoughts, what they are about to do today, before I bring them into the land that I have promised them."
+**31:21** After many evils and afflictions have found them, this song, which no forgetfulness will erase from the mouth of their seed, will answer them as a witness. For I know their thoughts, what they are about to do today, before I bring them into the land that I have promised them."
 
 **31:22** Therefore Moses wrote the song and taught it to the sons of Israel.
 

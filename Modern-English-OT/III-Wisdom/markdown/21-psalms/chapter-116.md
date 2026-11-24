@@ -12,4 +12,4 @@
 ## Translator Notes
 
 - **116:1** — Vulgate Psalm 116 corresponds to Hebrew Psalm 117, placing Alleluja ("Hallelujah") at the opening of this psalm rather than at the close of the previous one. Unlike the Hebrew and Septuagint, which use two distinct verbs ("praise" and "extol"), the Vulgate repeats the same verb (laudate) in both clauses.
-- **116:2** — Latin confirmata est ("has been established/confirmed") reflects the Septuagint's passive verb where the Hebrew reads "is great/mighty," and veritas ("truth") corresponds to Hebrew emet (often rendered "faithfulness"). Unlike Hebrew Psalm 117:2, the Vulgate has no closing "Hallelujah" here.
+- **116:2** — Latin confirmata est ("has been established/confirmed") reflects the Septuagint's passive verb where the Hebrew reads "is great/mighty," and veritas ("truth") corresponds to Hebrew emet (which also means "faithfulness"). Unlike Hebrew Psalm 117:2, the Vulgate has no closing "Hallelujah" here.

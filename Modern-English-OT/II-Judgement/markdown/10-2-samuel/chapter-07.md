@@ -27,7 +27,7 @@
 
 **7:11** from the day on which I appointed judges over My people Israel. And I will give you rest from all your enemies; and the Lord foretells to you that the Lord will make a house for you.
 
-**7:12** And when your days have been completed and you sleep with your fathers, I will raise up your offspring after you, who will come forth from your own body, and I will confirm his kingdom.
+**7:12** And when your days have been completed and you sleep with your fathers, I will raise up your seed after you, who will come forth from your own body, and I will confirm his kingdom.
 
 **7:13** He himself will build a house for My name, and I will establish the throne of his kingdom forever.
 
@@ -69,4 +69,4 @@
 - **7:10** — Vulgate "sub eo" ("beneath it") literally renders the Hebrew idiom meaning "in its own place."
 - **7:19** — Vulgate "lex Adam" ("the law of Adam") retains Hebrew "ha-adam" ("mankind" or "humanity") as the proper name Adam.
 - **7:23** — Vulgate "gentem, et deum ejus" ("a nation and its god") uses singular nouns in an elliptical clause without an explicit verb such as "driving out."
-- **7:26** — Vulgate "coram Domino" ("before the Lord") reads in the third person where the Masoretic Text reads "before You"; similarly in 7:29 Vulgate "Incipe" ("Begin") renders the Hebrew verb often translated "be pleased."
+- **7:26** — Vulgate "coram Domino" ("before the Lord") reads in the third person where the Masoretic Text reads "before You"; similarly in 7:29 Vulgate "Incipe" ("Begin") renders the Hebrew verb meaning "be pleased."

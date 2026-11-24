@@ -11,7 +11,7 @@
 
 **34:3** and the southern part, and the breadth of the plain of Jericho, the city of palms, as far as Zoar.
 
-**34:4** And the Lord said to him: "This is the land about which I swore to Abraham, Isaac, and Jacob, saying, 'To your offspring I will give it.' You have seen it with your eyes, and you will not cross over to it."
+**34:4** And the Lord said to him: "This is the land about which I swore to Abraham, Isaac, and Jacob, saying, 'To your seed I will give it.' You have seen it with your eyes, and you will not cross over to it."
 
 **34:5** And Moses, the servant of the Lord, died there in the land of Moab, at the command of the Lord;
 
@@ -33,4 +33,4 @@
 
 - **34:2** — Latin mare novissimum ("the farthest sea") translates the Hebrew expression for the Mediterranean ("the western/hinder sea") literally; similarly, australem partem in v. 3 renders the Negev descriptively as "the southern part."
 - **34:6** — The Vulgate reads contra Phogor ("opposite Peor") without the prefix "Beth-" found in the Hebrew (Beth-peor).
-- **34:7** — Latin nec dentes illius moti sunt ("nor were his teeth loosened") is a distinctive Vulgate rendering of the Hebrew clause usually translated "nor had his vigor fled."
+- **34:7** — Latin nec dentes illius moti sunt ("nor were his teeth loosened") is a distinctive Vulgate rendering of the Hebrew clause "nor had his vigor fled."

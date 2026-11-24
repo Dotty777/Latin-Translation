@@ -21,7 +21,7 @@
 
 **11:8** Now King Ptolemy obtained dominion over the cities as far as Seleucia by the sea, and he was devising evil plans against Alexander.
 
-**11:9** And he sent envoys to Demetrius, saying, "Come, let us make a pact between us, and I will give you my daughter, whom Alexander has, and you will reign in your father's kingdom;
+**11:9** And he sent envoys to Demetrius, saying, "Come, let us make a covenant between us, and I will give you my daughter, whom Alexander has, and you will reign in your father's kingdom;
 
 **11:10** for I regret that I gave him my daughter, for he sought to kill me."
 

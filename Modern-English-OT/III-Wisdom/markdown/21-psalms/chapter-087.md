@@ -46,7 +46,7 @@
 ## Translator Notes
 
 - **87:1** — Latin 'in finem' ('to the end') and 'Intellectus' ('Understanding') are distinctive Vulgate superscriptions following the Septuagint for the Hebrew headings ('for the choir director' and 'Maskil').
-- **87:6** — Vulgate 'liber' ('free') and 'vulnerati' ('the wounded') follow the Septuagint, whereas the Hebrew text is commonly rendered 'forsaken' and 'the slain'.
+- **87:6** — Vulgate 'liber' ('free') and 'vulnerati' ('the wounded') follow the Septuagint; the Hebrew has chofshi ('free,' that is, cut loose among the dead) and 'the slain.'
 - **87:11** — Vulgate 'medici' ('physicians') follows the Septuagint in reading the Hebrew consonants for 'shades of the dead' as 'healers'.
 - **87:15** — Vulgate reads 'orationem meam' ('my prayer'), a distinctive reading where the Hebrew and Septuagint read 'my soul'.
 - **87:19** — Vulgate 'a miseria' ('because of misery') follows the Septuagint, whereas the Hebrew text reads 'darkness'.

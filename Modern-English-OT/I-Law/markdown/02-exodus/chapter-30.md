@@ -45,7 +45,7 @@
 
 **30:20** when they are about to enter the tabernacle of the testimony, and when they are about to approach the altar to offer incense on it to the Lord,
 
-**30:21** so that they may not die; it shall be an everlasting statute for him and for his offspring through successive generations."
+**30:21** so that they may not die; it shall be an everlasting statute for him and for his seed through successive generations."
 
 **30:22** And the Lord spoke to Moses,
 

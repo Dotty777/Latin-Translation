@@ -31,5 +31,5 @@
 
 - **28:1** — The superscription "at the completion of the tabernacle" (Latin in consummatione tabernaculi) and the second command "bring to the Lord the young of rams" (Latin filios arietum, literally "sons of rams") follow the Septuagint and are not present in the Hebrew text.
 - **28:6** — Following the Septuagint, the Vulgate reads comminuet eas ("will crush them into pieces"), dilectus ("the beloved," corresponding to Mount Sirion), and unicornium ("unicorns," for Hebrew wild oxen), whereas the Hebrew describes making Lebanon and Sirion skip like a calf and a young wild ox.
-- **28:9** — Vulgate praeparantis cervos ("preparing the deer") follows the Septuagint, whereas the Hebrew is commonly rendered as making deer give birth or twisting oaks.
+- **28:9** — Vulgate praeparantis cervos ("preparing the deer") follows the Septuagint, whereas the Hebrew speaks of making deer give birth or of twisting oaks.
 - **28:10** — Vulgate diluvium inhabitare facit ("causes the flood to dwell") renders the Septuagint's transitive verb, in contrast to the Hebrew "sat enthroned over the flood."

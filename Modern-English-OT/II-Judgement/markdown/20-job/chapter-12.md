@@ -58,7 +58,7 @@
 ## Translator Notes
 
 - **12:5** — A notoriously difficult verse in the Hebrew; the Vulgate construes it as Lampas contempta apud cogitationes divitum parata ad tempus statutum ("A lamp held in contempt in the thoughts of the rich is prepared for the appointed time").
-- **12:6** — The Vulgate concludes cum ipse dederit omnia in manus eorum ("although He Himself has given all things into their hands"), whereas the Hebrew is commonly rendered "those who bring their god in their hand."
+- **12:6** — The Vulgate concludes cum ipse dederit omnia in manus eorum ("although He Himself has given all things into their hands"), whereas the Hebrew reads "those who bring their god in their hand."
 - **12:17** — The Vulgate reads in stultum finem ("to a foolish end") and in stuporem ("into stupor"), whereas the Hebrew speaks of counselors led away stripped or barefoot and judges made fools.
 - **12:21** — The Vulgate reads eos qui oppressi fuerant relevans ("raising up those who had been oppressed"), whereas the Hebrew reads "loosens the belt of the strong."
 - **12:23** — The Vulgate concludes with et subversas in integrum restituit ("and restores them completely after they have been overturned"), using the Latin legal idiom in integrum restituere ("to restore wholly"), where the Hebrew reads "enlarges nations and leads them away."

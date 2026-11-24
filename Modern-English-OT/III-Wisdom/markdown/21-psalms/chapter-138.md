@@ -55,7 +55,7 @@
 
 ## Translator Notes
 
-- **138:1** — The superscription In finem ("To the end," also in 139:1) follows the Septuagint (eis to telos), corresponding to the Hebrew musical heading often rendered "For the choir director."
+- **138:1** — The superscription In finem ("To the end," also in 139:1) follows the Septuagint (eis to telos), corresponding to the Hebrew musical heading lamnatseach ("For the choir director").
 - **138:3** — Vulgate funiculum meum ("my cord" or "measuring line") follows the Septuagint, whereas the Hebrew reads "my lying down."
 - **138:11** — Following the Septuagint, the Vulgate reads nox illuminatio mea in deliciis meis ("the night will be my illumination in my delights"), where the Hebrew has "the light around me will be night."
 - **138:16** — Vulgate Imperfectum meum denotes an unformed or unfinished state; the closing clause Dies formabuntur, et nemo in eis ("Days will be formed, and no one will be in them") follows the Septuagint.

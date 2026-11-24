@@ -52,7 +52,7 @@
 ## Translator Notes
 
 - **14:4** — Vulgate distinctively expands with "conceptum semine" ("conceived from unclean seed") and renders the closing clause as a question addressed to God, "nonne tu qui solus es?" ("Is it not You, who alone are?"), whereas the Hebrew reads "Not one."
-- **14:13** — Vulgate "in inferno" literally means "in the lower realm" or "underworld" (traditionally rendered "hell"), denoting the abode of the dead.
+- **14:13** — Vulgate "in inferno" literally means "in the lower realm" or "underworld," denoting the abode of the dead.
 - **14:15** — Vulgate "porriges dexteram" ("You will extend Your right hand") is a distinctive rendering for the Hebrew "You will long for," and in 14:16-17 Vulgate likewise reads a plea for mercy and healing ("sed parce peccatis meis ... sed curasti iniquitatem meam").
 - **14:20** — Vulgate "Roborasti eum paululum" ("You made him strong for a little while") is a distinctive reading where the Hebrew reads "You overpower him forever."
 - **14:22** — Vulgate includes the temporal clause "dum vivet" ("while he lives"), which has no direct equivalent in the Hebrew Masoretic Text.

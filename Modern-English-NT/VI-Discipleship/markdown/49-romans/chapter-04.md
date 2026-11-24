@@ -29,17 +29,17 @@
 
 **4:12** and that he might be the father of circumcision, not only to those who are of circumcision, but also to those who follow the footsteps of the faith that is in the uncircumcision of our father Abraham.
 
-**4:13** For the promise to Abraham or to his offspring, that he would be heir of the world, was not through the law, but through the righteousness of faith.
+**4:13** For the promise to Abraham or to his seed, that he would be heir of the world, was not through the law, but through the righteousness of faith.
 
 **4:14** For if those who are of the law are heirs, faith has been made void; the promise has been abolished.
 
 **4:15** For the law produces wrath. For where there is no law, neither is there transgression.
 
-**4:16** Therefore it is by faith, so that according to grace the promise may be firm to all the offspring, not only to the one who is of the law, but also to the one who is of the faith of Abraham, who is the father of us all
+**4:16** Therefore it is by faith, so that according to grace the promise may be firm to all the seed, not only to the one who is of the law, but also to the one who is of the faith of Abraham, who is the father of us all
 
 **4:17** (just as it is written: "I have appointed you a father of many nations") before God, whom he believed, who gives life to the dead and calls the things that are not as the things that are.
 
-**4:18** Against hope, he believed in hope, so that he might become the father of many nations, according to what had been spoken to him: "So will your offspring be."
+**4:18** Against hope, he believed in hope, so that he might become the father of many nations, according to what had been spoken to him: "So will your seed be."
 
 **4:19** And he did not grow weak in faith, nor did he consider his own body dead, when he was already nearly a hundred years old, or the dead womb of Sarah.
 

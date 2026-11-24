@@ -1,7 +1,7 @@
 # Division IV. Providence (Prophets) — Saints Modern English (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — **Complete 16/16 books**  
-> **Coverage:** 245 chapters, 5,304 verses (+ 89 additional Vulgate verses), 1,143 translator notes (+ 18 additional notes)  
+> **Coverage:** 245 chapters, 5,302 verses (+ 93 additional Vulgate verses), 1,139 translator notes (+ 18 additional notes)  
 > **Validation:** 100% validated against `Saints-Latin-Critical-Text` with `validate_modern_english.py --lang lat --strict` (`0` FAIL) and full scholarly audit.
 
 ## Books Included (16 / 16 Complete)

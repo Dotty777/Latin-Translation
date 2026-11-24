@@ -63,4 +63,4 @@
 - **113:2** — Vulgate "Judæa" ("Judea") follows the Septuagint where the Hebrew reads "Judah," and "sanctificatio" literally means "sanctification" or "sanctuary."
 - **113:7** — Vulgate "mota est" ("was shaken") is a past passive indicative following the Septuagint, whereas the Hebrew has an imperative ("tremble").
 - **113:17** — Following the Septuagint, verses 17-19 use past indicative verbs ("hoped") rather than the Hebrew imperatives ("trust"), read "house of Israel" in verse 17, and render "protector" where the Hebrew has "shield"; verses 20-21 likewise use past tense ("blessed") where the Hebrew has future.
-- **113:25** — Vulgate "in infernum" ("into the underworld," literally "the lower region/hell") renders Septuagint "Hades" where the Hebrew reads "into silence," and the Vulgate adds the vocative "Domine" ("Lord").
+- **113:25** — Vulgate "in infernum" ("into the underworld," literally "the lower region") renders Septuagint "Hades" where the Hebrew reads "into silence," and the Vulgate adds the vocative "Domine" ("Lord").

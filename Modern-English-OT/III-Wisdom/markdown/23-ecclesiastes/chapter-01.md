@@ -46,5 +46,5 @@
 - **1:1** — The Vulgate retains the Greek-derived title Ecclesiastes ("convener of an assembly" or "speaker before an assembly"), corresponding to the Hebrew Qohelet.
 - **1:2** — Latin vanitas ("emptiness, futility, vanity") is used in the superlative genitive idiom vanitas vanitatum ("futility of futilities", traditionally "vanity of vanities") to express utter hollowness and transience.
 - **1:5** — Unlike the Hebrew, where circling south and turning north describe the wind in verse 6, the Vulgate links "rising anew there, it circles through the south and turns toward the north" to the sun; in verse 6, Latin spiritus means "wind" (or "spirit").
-- **1:14** — Latin afflictio spiritus ("affliction of spirit") is a distinctive Vulgate rendering of a Hebrew expression commonly translated "striving after wind."
+- **1:14** — Latin afflictio spiritus ("affliction of spirit") is a distinctive Vulgate rendering of the Hebrew expression re'ut ruach ("striving after wind").
 - **1:15** — Distinctively in the Vulgate, this proverb speaks of perverse people being corrected with difficulty and an infinite number of fools, whereas the Hebrew reads "what is crooked cannot be straightened, and what is lacking cannot be counted."

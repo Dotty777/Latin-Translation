@@ -17,7 +17,7 @@
 
 **24:6** Abraham said, "Be careful that you never bring my son back there.
 
-**24:7** The Lord God of heaven, who took me from the house of my father and from the land of my birth, who spoke to me and swore, saying, 'I will give this land to your offspring,' He Himself will send His angel before you, and from there you will take a wife for my son.
+**24:7** The Lord God of heaven, who took me from the house of my father and from the land of my birth, who spoke to me and swore, saying, 'I will give this land to your seed,' He Himself will send His angel before you, and from there you will take a wife for my son.
 
 **24:8** But if the woman is not willing to follow you, you will not be bound by the oath; only do not bring my son back there."
 
@@ -123,7 +123,7 @@
 
 **24:59** Therefore they sent her away, and her nurse, and Abraham's servant, and his companions,
 
-**24:60** invoking prosperity upon their sister and saying, "You are our sister; may you grow into a thousand thousands, and may your offspring possess the gates of their enemies."
+**24:60** invoking prosperity upon their sister and saying, "You are our sister; may you grow into a thousand thousands, and may your seed possess the gates of their enemies."
 
 **24:61** Therefore Rebekah and her young women, having mounted the camels, followed the man, who was hurriedly returning to his master.
 

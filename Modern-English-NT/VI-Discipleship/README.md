@@ -1,7 +1,7 @@
 # Division VI. Discipleship (Acts, Letters & General Epistles) — Saints Modern English NT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — **Complete 22/22 books**  
-> **Coverage:** 149 chapters, 3,763 verses (+ 5 additional Vulgate verses), 717 translator notes
+> **Coverage:** 149 chapters, 3,766 verses (+ 5 additional Vulgate verses), 719 translator notes
 
 ## Books Included (22 / 22 Complete)
 

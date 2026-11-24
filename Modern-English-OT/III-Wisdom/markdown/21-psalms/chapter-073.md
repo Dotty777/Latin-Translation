@@ -57,4 +57,4 @@
 - **73:9** — Latin et nos non cognoscet amplius ('and he will know us no more') follows the Septuagint against the Hebrew 'none among us knows how long'; the unnamed singular subject may refer either to the prophet or to God.
 - **73:15** — The Vulgate, following the Septuagint, treats the Hebrew adjective for 'perennial' or 'ever-flowing' as a proper name, Ethan ('the rivers of Ethan'); likewise v. 13 has 'strengthened' for Hebrew 'divided,' v. 14 has 'peoples of the Ethiopians' for 'desert-dwellers,' and v. 17 has 'spring' for 'winter.'
 - **73:19** — Latin animas confitentes tibi ('the souls confessing to You') follows the Septuagint where the Hebrew Masoretic Text reads 'the soul of Your turtledove.'
-- **73:20** — Latin qui obscurati sunt terrae ('those of the earth who have been darkened') follows the Septuagint's personal rendering of the Hebrew phrase usually translated 'the dark places of the earth.'
+- **73:20** — Latin qui obscurati sunt terrae ('those of the earth who have been darkened') follows the Septuagint's personal rendering of the Hebrew phrase 'the dark places of the earth.'

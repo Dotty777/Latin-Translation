@@ -127,7 +127,7 @@
 
 **5:61** because they did not listen to Judas and his brothers, thinking that they would act bravely.
 
-**5:62** However, they themselves were not of the offspring of those men through whom deliverance came about in Israel.
+**5:62** However, they themselves were not of the seed of those men through whom deliverance came about in Israel.
 
 **5:63** And the men of Judah were greatly magnified in the sight of all Israel, and of all the nations where their name was heard.
 

@@ -121,7 +121,7 @@
 
 **2:58** all the Nethinim and the sons of the servants of Solomon, three hundred ninety-two.
 
-**2:59** And these are the ones who went up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer; and they could not declare the house of their fathers and their lineage, whether they were from Israel.
+**2:59** And these are the ones who went up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer; and they could not declare the house of their fathers and their seed, whether they were from Israel.
 
 **2:60** The sons of Delaiah, the sons of Tobiah, the sons of Nekoda, six hundred fifty-two.
 

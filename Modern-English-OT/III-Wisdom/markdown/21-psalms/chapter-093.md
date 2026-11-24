@@ -55,6 +55,6 @@
 
 - **93:1** — The superscription 'quarta sabbati' (lit. 'fourth of the Sabbath,' i.e., Wednesday, the fourth day of the week) comes from the Septuagint and is absent in the Hebrew; 'libere egit' ('has acted freely') follows the Septuagint past indicative rather than the Hebrew imperative ('shine forth').
 - **93:15** — Following the Septuagint, the Vulgate connects this verse to verse 14 with 'quoadusque' ('until'), whereas the Hebrew starts a new clause ('for judgment will return to righteousness').
-- **93:17** — Latin 'in inferno' ('in the underworld,' traditionally 'hell') translates the Septuagint's 'Hades,' whereas the Hebrew reads 'silence.'
+- **93:17** — Latin 'in inferno' ('in the underworld') translates the Septuagint's 'Hades,' whereas the Hebrew reads 'silence.'
 - **93:20** — The Vulgate's second-person verb 'qui fingis' ('who fashion') attaches grammatically to 'tibi' ('You,' God, understood by Augustine as God appointing toil in His commandment), whereas the Hebrew uses a third-person participle describing the wicked throne framing mischief by statute.
 - **93:22** — Latin 'in adjutorium spei meae' ('a help of my hope') follows the Septuagint, whereas the Hebrew reads 'the rock of my refuge.'

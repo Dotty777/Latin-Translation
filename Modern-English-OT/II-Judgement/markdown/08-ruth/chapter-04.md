@@ -27,7 +27,7 @@
 
 **4:11** All the people who were in the gate, and the elders, answered, "We are witnesses. May the Lord make this woman, who is entering your house, like Rachel and Leah, who built the house of Israel, so that she may be an example of virtue in Ephrathah and may have a renowned name in Bethlehem;
 
-**4:12** and may your house become like the house of Perez, whom Tamar bore to Judah, from the offspring that the Lord will give you by this young woman."
+**4:12** and may your house become like the house of Perez, whom Tamar bore to Judah, from the seed that the Lord will give you by this young woman."
 
 **4:13** So Boaz took Ruth and received her as his wife, and he went in to her, and the Lord granted her to conceive and bear a son.
 

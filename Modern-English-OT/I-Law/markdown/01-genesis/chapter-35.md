@@ -27,7 +27,7 @@
 
 **35:11** and said to him, "I am God Almighty: increase and multiply; nations and peoples of nations will come from you; kings will come forth from your loins,
 
-**35:12** and the land that I gave to Abraham and Isaac, I will give to you and to your offspring after you."
+**35:12** and the land that I gave to Abraham and Isaac, I will give to you and to your seed after you."
 
 **35:13** And He departed from him.
 

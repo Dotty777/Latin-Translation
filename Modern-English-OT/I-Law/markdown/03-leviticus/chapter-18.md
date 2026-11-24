@@ -45,7 +45,7 @@
 
 **18:20** You shall not have intercourse with your neighbor's wife, nor shall you be defiled by the mingling of seed.
 
-**18:21** You shall not give any of your offspring to be consecrated to the idol Molech, nor shall you pollute the name of your God. I am the Lord.
+**18:21** You shall not give any of your seed to be consecrated to the idol Molech, nor shall you pollute the name of your God. I am the Lord.
 
 **18:22** You shall not unite with a male in intercourse as with a woman, because it is an abomination.
 

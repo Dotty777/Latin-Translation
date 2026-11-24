@@ -27,7 +27,7 @@
 
 **32:12** Please do not let the Egyptians say, 'Craftily He led them out to kill them in the mountains and blot them out from the earth.' Let Your anger subside, and be appeased over the wickedness of Your people.
 
-**32:13** Remember Abraham, Isaac, and Israel, Your servants, to whom You swore by Yourself, saying, 'I will multiply your offspring like the stars of heaven; and all this land about which I have spoken I will give to your offspring, and you will possess it forever.'"
+**32:13** Remember Abraham, Isaac, and Israel, Your servants, to whom You swore by Yourself, saying, 'I will multiply your seed like the stars of heaven; and all this land about which I have spoken I will give to your seed, and you will possess it forever.'"
 
 **32:14** And the Lord was appeased, so that He did not do the harm that He had spoken against His people.
 

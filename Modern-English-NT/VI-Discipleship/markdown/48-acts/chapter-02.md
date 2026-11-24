@@ -102,7 +102,7 @@
 ## Translator Notes
 
 - **2:23** — The Clementine Vulgate reads 'affligentes' ("afflicting") rather than 'affigentes' ("fastening/nailing"), differing from the Greek 'prospexantes' ("having nailed [to a cross]").
-- **2:24** — The Vulgate reads 'doloribus inferni' ("pains of the underworld," where Latin 'infernus' denotes the realm of the dead/hell), differing from the Greek text's "pangs of death."
+- **2:24** — The Vulgate reads 'doloribus inferni' ("pains of the underworld," where Latin 'infernus' denotes the realm of the dead), differing from the Greek text's "pangs of death."
 - **2:33** — The Vulgate reads masculine 'hunc, quem' ("this One, whom"), agreeing with the masculine noun Spiritus, whereas the Greek text uses the neuter "this which."
 - **2:42** — The Vulgate links 'communicatione' with the genitive 'fractionis' ("the communion of the breaking of bread"), combining two terms that appear as separate coordinate nouns ("fellowship" and "the breaking of bread") in Greek.
 - **2:43** — The Vulgate includes 'in Jerusalem' ("in Jerusalem") and the closing clause 'et metus erat magnus in universis' ("and there was great dread among all of them"), phrases absent from standard Greek editions.

@@ -55,7 +55,7 @@
 
 **10:25** And he wrote to them in these words: "King Demetrius, to the nation of the Jews, greetings.
 
-**10:26** Because you have kept the pact with us, and have remained in our friendship, and have not gone over to our enemies, we have heard and have rejoiced.
+**10:26** Because you have kept the covenant with us, and have remained in our friendship, and have not gone over to our enemies, we have heard and have rejoiced.
 
 **10:27** And now continue still to keep faith with us, and we will repay you good things for what you have done with us;
 

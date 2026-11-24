@@ -19,7 +19,7 @@
 
 **4:7** Now when they had entered the house, he was sleeping on his bed in the bedroom, and striking him, they killed him; and having taken off his head, they went away by the road of the wilderness all night,
 
-**4:8** and they brought the head of Ish-bosheth to David in Hebron, and said to the king, "Here is the head of Ish-bosheth the son of Saul, your enemy, who was seeking your life; and the Lord has given to my lord the king vengeance today on Saul and on his offspring."
+**4:8** and they brought the head of Ish-bosheth to David in Hebron, and said to the king, "Here is the head of Ish-bosheth the son of Saul, your enemy, who was seeking your life; and the Lord has given to my lord the king vengeance today on Saul and on his seed."
 
 **4:9** But David, answering Rechab and Baanah his brother, the sons of Rimmon the Beerothite, said to them, "As the Lord lives, who has rescued my life from every distress,
 
@@ -33,4 +33,4 @@
 
 - **4:3** — The Vulgate reads usque ad tempus illud ("until that time"), whereas the Hebrew reads "to this day."
 - **4:5** — The Vulgate includes the sleeping female doorkeeper cleaning wheat (shared with the Septuagint) at the end of verse 5 alongside the assassins' secret entry taking ears of wheat in verse 6 (reflecting the Hebrew), preserving both textual traditions.
-- **4:10** — The Vulgate reads cui oportebat mercedem dare pro nuntio ("to whom it was fitting to give a reward for the message"), an ironic rendering of a difficult Hebrew clause often translated "which was the reward I gave him for his news."
+- **4:10** — The Vulgate reads cui oportebat mercedem dare pro nuntio ("to whom it was fitting to give a reward for the message"), an ironic rendering of a difficult Hebrew clause ("which was the reward I gave him for his news").

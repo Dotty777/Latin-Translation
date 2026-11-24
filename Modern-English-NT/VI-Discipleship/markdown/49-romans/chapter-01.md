@@ -65,7 +65,7 @@
 
 **1:30** slanderers, hateful to God, insolent, proud, haughty, inventors of evil things, disobedient to parents,
 
-**1:31** foolish, disorderly, without affection, without fidelity, without mercy.
+**1:31** foolish, disorderly, without affection, without covenant, without mercy.
 
 **1:32** Although they had known the righteousness of God, they did not understand that those who practice such things are worthy of death, and not only those who do them, but also those who consent to those who do them.
 

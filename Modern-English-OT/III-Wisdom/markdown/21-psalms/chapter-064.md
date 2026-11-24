@@ -5,7 +5,7 @@
 
 ## Text
 
-**64:1** For the end. A psalm of David, a song of Jeremiah and Ezekiel for the people of the exile, when they were beginning to go out.
+**64:1** To the end. A psalm of David, a song of Jeremiah and Ezekiel for the people of the exile, when they were beginning to go out.
 
 **64:2** A hymn befits You, God, in Zion, and a vow will be paid to You in Jerusalem.
 

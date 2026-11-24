@@ -67,6 +67,6 @@
 
 - **20:11** — Vulgate-distinct reading: "the vices of his youth" (vitiis adolescentiæ ejus), whereas the Hebrew text refers to his youthful vigor.
 - **20:16** — Vulgate-distinct reading: Latin Caput aspidum ("the head of asps") renders the Hebrew word rosh ("poison" or "head") literally as "head."
-- **20:23** — Vulgate-distinct reading: "rain His war upon him" (pluat super illum bellum suum), understanding the Hebrew term (commonly translated as "food" or "flesh") from the root for war.
+- **20:23** — Vulgate-distinct reading: "rain His war upon him" (pluat super illum bellum suum), understanding the Hebrew term (meaning "food" or "flesh") from the root for war.
 - **20:25** — The Latin opens with an abrupt participial phrase ("Drawn out... flashing in its bitterness," rendering Hebrew "gallbladder" as amaritudine) before shifting to the masculine plural substantive horribiles ("terrifying ones").
 - **20:29** — Vulgate-distinct reading: "the inheritance of his words" (hæreditas verborum ejus), rendering the Hebrew term for an appointed decree from the root meaning "word."

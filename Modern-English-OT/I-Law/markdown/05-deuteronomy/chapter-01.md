@@ -19,7 +19,7 @@
 
 **1:7** turn back and come to the mountain of the Amorites, and to the other regions that are nearest to it, the plains and the mountains and the lower places toward the south, and beside the shore of the sea, the land of the Canaanites and of Lebanon, as far as the great river Euphrates.
 
-**1:8** Look,' He said, 'I have delivered it to you: go in and possess it, concerning which the Lord swore to your fathers Abraham, Isaac, and Jacob, that He would give it to them and to their offspring after them.'
+**1:8** Look,' He said, 'I have delivered it to you: go in and possess it, concerning which the Lord swore to your fathers Abraham, Isaac, and Jacob, that He would give it to them and to their seed after them.'
 
 **1:9** And I said to you at that time:
 

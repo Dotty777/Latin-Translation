@@ -65,6 +65,6 @@
 
 - **26:2** — The Vulgate has no negation and reads in quempiam superveniet ("will come upon someone"), agreeing with the Hebrew qere ("to him") rather than the ketiv ("not").
 - **26:8** — The Vulgate renders the Hebrew for a stone-heap or sling as acervum Mercurii ("a heap of Mercury"), referring to a Roman roadside cairn dedicated to Mercury onto which travelers tossed stones in tribute.
-- **26:10** — Where the Hebrew text is cryptic (commonly translated as an archer wounding passersby or one hiring a fool), the Vulgate has an entirely different proverb.
+- **26:10** — Where the Hebrew text is cryptic (apparently of an archer wounding passersby or of one hiring a fool), the Vulgate has an entirely different proverb.
 - **26:15** — The Vulgate reads sub ascella sua ("under his armpit") where the Masoretic Hebrew reads "in the dish."
 - **26:28** — Following the Septuagint, the Vulgate reads non amat veritatem ("does not love truth") where the Masoretic Hebrew reads "hates those it crushes."

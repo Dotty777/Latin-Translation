@@ -36,4 +36,4 @@
 - **17:2** — Where the Hebrew reads 'that were taken from you, and about which you uttered a curse,' the Vulgate reads 'that you had set apart for yourself, and over which you had sworn' (quos separaveras tibi, et super quibus ... juraveras).
 - **17:5** — The Vulgate inserts an explanatory gloss for 'ephod and teraphim' ('that is, a priestly garment and idols') and preserves the literal idiom 'filled the hand' (implevit ... manum, also in verse 12), meaning to ordain or install as a priest.
 - **17:10** — The Vulgate renders the Hebrew 'suit of clothes' as 'a double garment' (vestem duplicem).
-- **17:13** — The Vulgate reads 'God' (Deus) here, whereas the Hebrew Masoretic Text has the divine name YHWH ('the Lord').
+- **17:13** — The Vulgate reads 'God' (Deus) here, whereas the Hebrew Masoretic Text has the divine name ('the Lord').

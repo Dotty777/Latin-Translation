@@ -1,7 +1,7 @@
 # Division III. Wisdom (Wisdom & Poetry) — Saints Modern English (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — **Complete 7/7 books**  
-> **Coverage:** 276 chapters, 5,660 verses (+ 45 additional Vulgate verses), 1,303 translator notes (+ 8 additional notes)  
+> **Coverage:** 276 chapters, 5,672 verses (+ 48 additional Vulgate verses), 1,303 translator notes (+ 9 additional notes)  
 > **Validation:** 100% validated against `Saints-Latin-Critical-Text` with `validate_modern_english.py --lang lat --strict` (`0` FAIL) and full scholarly audit.
 
 ## Books Included (7 / 7 Complete)

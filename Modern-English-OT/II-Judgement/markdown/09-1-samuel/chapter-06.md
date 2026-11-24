@@ -49,7 +49,7 @@
 
 ## Translator Notes
 
-- **6:5** — Vulgate anos aureos literally means "golden anuses" (matching the Septuagint hedras, "seats/posteriors"), depicting the afflicted bodily part as a votive offering, whereas Hebrew is commonly rendered "tumors" or "hemorrhoids." Latin satrapis ("satraps") also uses a Persian-Greek imperial title for the Philistine rulers.
+- **6:5** — Vulgate anos aureos literally means "golden anuses" (matching the Septuagint hedras, "seats/posteriors"), depicting the afflicted bodily part as a votive offering, whereas the Hebrew has a word for "tumors" or "hemorrhoids." Latin satrapis ("satraps") also uses a Persian-Greek imperial title for the Philistine rulers.
 - **6:6** — Vulgate postquam percussus est, tunc dimisit eos ("after he was struck, did he not then let them go") uses singular verbs referring to Pharaoh, whereas the Hebrew reads "when He dealt severely with them, did they not send them away."
 - **6:18** — Vulgate Abelmagnum ("Great Abel") preserves Hebrew Abel haggedolah as a proper name rather than the variant reading "great stone," and reads usque in illum diem ("until that day") instead of "to this day." The feminine relative quae agrees grammatically with arcam ("the ark"), though the corresponding Hebrew clause refers to the landmark in Joshua's field.
 - **6:19** — Vulgate reads septuaginta viros, et quinquaginta millia plebis ("seventy men and fifty thousand of the common people"), inserting "and" and distinguishing viros from plebis at a well-known numerical crux in the Hebrew text.

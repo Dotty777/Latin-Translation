@@ -85,7 +85,7 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**11:39** *(after `11:38`)* and I will afflict the offspring of David because of this, yet not for all days.
+**11:39** *(after `11:38`)* and I will afflict the seed of David because of this, yet not for all days.
 
 ## Translator Notes
 

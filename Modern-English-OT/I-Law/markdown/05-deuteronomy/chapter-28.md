@@ -95,7 +95,7 @@
 
 **28:45** And all these curses will come upon you, and pursuing you they will take hold of you until you perish, because you did not listen to the voice of the Lord your God, nor keep His commandments and ceremonies which He commanded you.
 
-**28:46** And they will be signs and wonders upon you, and upon your offspring forever,
+**28:46** And they will be signs and wonders upon you, and upon your seed forever,
 
 **28:47** because you did not serve the Lord your God in joy and gladness of heart, on account of the abundance of all things.
 
@@ -121,7 +121,7 @@
 
 **28:58** If you do not keep and do all the words of this law which are written in this scroll, and fear His glorious and fearsome name, that is, the Lord your God,
 
-**28:59** the Lord will increase your plagues and the plagues of your offspring, great and persistent plagues, most severe and perpetual sicknesses,
+**28:59** the Lord will increase your plagues and the plagues of your seed, great and persistent plagues, most severe and perpetual sicknesses,
 
 **28:60** and He will turn upon you all the afflictions of Egypt, which you feared, and they will cling to you.
 
@@ -149,7 +149,7 @@
 - **28:20** — The Vulgate reads famem et esuriem ('famine and hunger') where the Hebrew has 'curse and confusion/panic'; the closing words reliquisti me ('you have forsaken Me') shift abruptly into the divine first person.
 - **28:21** — From v. 21 through v. 35 the Vulgate shifts from the future indicative of vv. 1-20 to the optative/jussive present subjunctive (Adjungat, Percutiat, Sit, etc.), translated 'May...' to preserve the imprecatory curse mood of the Latin.
 - **28:22** — The Vulgate renders these afflictions distinctively as egestate ('destitution'), frigore ('cold'), and aëre corrupto ('corrupted air') where the Hebrew has 'consumption', 'inflammation', and 'blight', and uses singular persequatur ('may He pursue you') with the Lord as subject.
-- **28:27** — The Vulgate gives an explicit anatomical periphrasis, partem corporis, per quam stercora egeruntur ('the part of the body through which excrement is discharged'), for the Hebrew term usually translated 'tumors' or 'hemorrhoids'.
+- **28:27** — The Vulgate gives an explicit anatomical periphrasis, partem corporis, per quam stercora egeruntur ('the part of the body through which excrement is discharged'), for the Hebrew term meaning 'tumors' or 'hemorrhoids.'
 - **28:42** — The Vulgate reads rubigo ('mildew', matching rubigine in v. 22), whereas the Hebrew term denotes a species of locust or whirring insect.
 - **28:54** — The Vulgate mentions only the man's brother and wife, omitting the third phrase found in the Hebrew ('and the rest of his children whom he has left').
 - **28:57** — The Clementine Vulgate has the plural verb Comedent ('they will eat') rather than the Hebrew singular ('she will eat').

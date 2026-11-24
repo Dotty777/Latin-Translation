@@ -50,7 +50,7 @@
 ## Translator Notes
 
 - **5:3** — The Vulgate reads vestiti ("clothed"), aligning with the textual tradition "having put it on" rather than the variant "unclothed."
-- **5:7** — Latin species literally denotes "visible appearance" or "form" (often translated "sight"), contrasting outward visible reality with faith.
+- **5:7** — Latin species literally denotes "visible appearance" or "form" (Greek eidos), contrasting outward visible reality with faith.
 - **5:10** — The Vulgate reads propria corporis ("the things proper to the body"), reflecting an ancient textual variant rather than the standard Greek "the things done through the body."
 - **5:14** — The Clementine Vulgate includes si ("if") in 5:14 ("if One died for all") and explicitly names Christus ("Christ") in 5:15, both absent from critical Greek texts.
 - **5:17** — The Vulgate punctuates Si qua ergo in Christo nova creatura as a single conditional clause ("If, therefore, anyone is a new creature in Christ") and adds omnia ("all things") in the closing clause.

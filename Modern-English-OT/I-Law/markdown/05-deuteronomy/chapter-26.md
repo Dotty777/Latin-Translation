@@ -45,7 +45,7 @@
 
 ## Translator Notes
 
-- **26:5** — Latin Syrus persequebatur patrem meum ("A Syrian was persecuting my father") reflects an ancient interpretive tradition referring to Laban pursuing Jacob, whereas the Hebrew is commonly rendered "A wandering (or perishing) Aramean was my father."
+- **26:5** — Latin Syrus persequebatur patrem meum ("A Syrian was persecuting my father") reflects an ancient interpretive tradition referring to Laban pursuing Jacob, whereas the Hebrew reads "A wandering (or perishing) Aramean was my father."
 - **26:10** — Latin adorato Domino Deo tuo is an ablative absolute ("having worshiped the Lord your God") leading syntactically into the verb of verse 11, where the Clementine Vulgate also retains a resumptive Et ("then").
 - **26:14** — Latin in re funebri ("on a funeral matter") specifies funerary expenditure where the Hebrew reads "to the dead."
 - **26:17** — Both here and in verse 18, the Vulgate translates the rare Hebrew verb ("declared/avouched") as elegisti and elegit ("have chosen" / "has chosen").

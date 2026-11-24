@@ -70,5 +70,5 @@
 - **6:2** — The Vulgate reads peccata mea quibus iram merui ("my sins by which I have deserved wrath"), whereas the Hebrew Masoretic Text reads "my vexation" without mention of deserving wrath.
 - **6:3** — In the Vulgate, feminine singular haec ("this") refers back to calamitas ("calamity"), comparing its weight on the scale to the sand of the sea, whereas the Hebrew states that it would be heavier than the sand of the seas.
 - **6:4** — The Vulgate reads quarum indignatio ebibit spiritum meum ("whose indignation drinks up my spirit"), making the arrows' indignation the subject, whereas the Hebrew has "my spirit drinks their poison."
-- **6:6** — The Vulgate renders the difficult Hebrew phrase (often translated "egg white" or "juice of the purslane") as quod gustatum affert mortem ("what, once tasted, brings death").
+- **6:6** — The Vulgate renders the difficult Hebrew phrase (possibly "egg white" or "juice of the purslane") as quod gustatum affert mortem ("what, once tasted, brings death").
 - **6:19** — In 6:19-20 the Vulgate uses second-person imperatives ("Examine... wait") and first-person singular ("because I hoped"; "right up to me"), whereas the Hebrew uses third-person indicatives describing the caravans looking and trusting.

@@ -87,7 +87,7 @@
 
 **20:41** And when the boy had gone away, David rose from the place that faced toward the south, and falling facedown to the ground, he bowed down three times. And kissing one another, they wept together, but David even more.
 
-**20:42** Therefore Jonathan said to David, "Go in peace: whatever we both have sworn in the name of the Lord, saying, 'May the Lord be between me and you, and between my offspring and your offspring forever.'"
+**20:42** Therefore Jonathan said to David, "Go in peace: whatever we both have sworn in the name of the Lord, saying, 'May the Lord be between me and you, and between my seed and your seed forever.'"
 
 ## Translator Notes
 

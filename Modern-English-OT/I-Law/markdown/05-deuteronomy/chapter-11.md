@@ -21,7 +21,7 @@
 
 **11:8** so that you may keep all His commandments that I command you today, and may be able to enter and possess the land into which you are going,
 
-**11:9** and may live for a long time in it, the land that the Lord promised under oath to your fathers and to their offspring, flowing with milk and honey.
+**11:9** and may live for a long time in it, the land that the Lord promised under oath to your fathers and to their seed, flowing with milk and honey.
 
 **11:10** For the land that you are entering to possess is not like the land of Egypt, from which you came out, where, once the seed has been sown, irrigating waters are channeled in the manner of gardens;
 

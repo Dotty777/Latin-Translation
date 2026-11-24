@@ -33,7 +33,7 @@
 
 **10:14** and in chains she did not abandon him, until she brought him the scepter of a kingdom and power against those who oppressed him; and she showed those who sullied him to be liars, and gave him eternal glory.
 
-**10:15** She delivered a righteous people and a blameless offspring from the nations that oppressed them.
+**10:15** She delivered a righteous people and a blameless seed from the nations that oppressed them.
 
 **10:16** She entered into the soul of the servant of God, and stood against terrifying kings with wonders and signs.
 

@@ -17,13 +17,13 @@
 
 **17:6** And I will make you grow exceedingly, and I will set you among the nations, and kings will come forth from you.
 
-**17:7** And I will establish My covenant between Me and you, and between your offspring after you throughout their generations, by an everlasting covenant, so that I may be your God and the God of your offspring after you.
+**17:7** And I will establish My covenant between Me and you, and between your seed after you throughout their generations, by an everlasting covenant, so that I may be your God and the God of your seed after you.
 
-**17:8** And I will give to you and to your offspring the land of your sojourning, all the land of Canaan, for an eternal possession, and I will be their God."
+**17:8** And I will give to you and to your seed the land of your sojourning, all the land of Canaan, for an eternal possession, and I will be their God."
 
-**17:9** God said again to Abraham, "And you therefore shall keep My covenant, and your offspring after you throughout their generations.
+**17:9** God said again to Abraham, "And you therefore shall keep My covenant, and your seed after you throughout their generations.
 
-**17:10** This is the covenant that you shall observe between Me and you, and your offspring after you: every male among you shall be circumcised,
+**17:10** This is the covenant that you shall observe between Me and you, and your seed after you: every male among you shall be circumcised,
 
 **17:11** and you shall circumcise the flesh of your foreskin, so that it may be a sign of the covenant between Me and you.
 
@@ -41,7 +41,7 @@
 
 **17:18** And he said to God, "If only Ishmael might live before You!"
 
-**17:19** And God said to Abraham, "Sarah your wife will bear you a son, and you shall call his name Isaac; and I will establish My covenant for him as an everlasting covenant, and for his offspring after him.
+**17:19** And God said to Abraham, "Sarah your wife will bear you a son, and you shall call his name Isaac; and I will establish My covenant for him as an everlasting covenant, and for his seed after him.
 
 **17:20** Regarding Ishmael also I have heard you: see, I will bless him, and increase him, and multiply him greatly; he will father twelve leaders, and I will make him into a great nation.
 

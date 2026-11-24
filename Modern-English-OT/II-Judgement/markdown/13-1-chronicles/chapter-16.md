@@ -29,7 +29,7 @@
 
 **16:12** Remember His wonders that He has done, His signs, and the judgments of His mouth,
 
-**16:13** offspring of Israel, His servant, sons of Jacob, His chosen ones.
+**16:13** seed of Israel, His servant, sons of Jacob, His chosen ones.
 
 **16:14** He is the Lord our God; His judgments are in all the earth.
 

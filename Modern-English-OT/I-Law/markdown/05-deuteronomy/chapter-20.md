@@ -27,7 +27,7 @@
 
 **20:11** If it accepts and opens the gates to you, all the people who are in it shall be saved and shall serve you under tribute.
 
-**20:12** But if it is unwilling to enter into a treaty and begins war against you, you shall attack it.
+**20:12** But if it is unwilling to enter into a covenant and begins war against you, you shall attack it.
 
 **20:13** And when the Lord your God hands it over into your hand, you shall strike down everything in it that is of the male sex with the edge of the sword,
 

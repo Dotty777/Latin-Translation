@@ -5,7 +5,7 @@
 
 ## Text
 
-**63:1** For the end. A psalm of David.
+**63:1** To the end. A psalm of David.
 
 **63:2** Hear my prayer, God, when I plead; rescue my soul from fear of the enemy.
 
@@ -29,8 +29,8 @@
 
 ## Translator Notes
 
-- **63:1** — Latin In finem ("For the end") translates the Septuagint superscription eis to telos, corresponding to the Hebrew term usually rendered "For the choirmaster."
+- **63:1** — Latin In finem ("To the end") translates the Septuagint superscription eis to telos, corresponding to the Hebrew term lamnatseach ("for the choirmaster").
 - **63:3** — The Vulgate (following the Septuagint) uses the past indicative Protexisti me ("You have sheltered me") rather than the Hebrew imperative ("Hide me").
 - **63:4** — Latin arcum rem amaram ("a bow, a bitter thing") follows the Septuagint, whereas the Hebrew reads "their arrows, bitter words."
-- **63:7** — Latin defecerunt ("they have failed") and Accedet ("will approach") follow the Septuagint reading of the Hebrew consonants, where translations of the Hebrew generally read "we have perfected a diligent search" and "the inward mind and heart of a man are deep."
+- **63:7** — Latin defecerunt ("they have failed") and Accedet ("will approach") follow the Septuagint reading of the Hebrew consonants, where the Masoretic Text reads "we have perfected a diligent search" and "the inward mind and heart of a man are deep."
 - **63:8** — Following the Septuagint, the Vulgate reads "and God will be exalted" (et exaltabitur Deus) and "the arrows of little children have become their wounds," whereas the Hebrew reads "But God shoots his arrow at them; they are wounded suddenly."

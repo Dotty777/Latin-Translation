@@ -69,7 +69,7 @@
 
 **8:32** and you will come to know the truth, and the truth will set you free."
 
-**8:33** They answered Him, "We are Abraham's offspring, and we have never been slaves to anyone; how do You say, 'You will be free'?"
+**8:33** They answered Him, "We are Abraham's seed, and we have never been slaves to anyone; how do You say, 'You will be free'?"
 
 **8:34** Jesus answered them, "Amen, amen, I tell you that everyone who commits sin is a slave of sin.
 

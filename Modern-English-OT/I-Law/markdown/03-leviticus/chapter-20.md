@@ -7,11 +7,11 @@
 
 **20:1** And the Lord spoke to Moses, saying,
 
-**20:2** "You shall speak these things to the sons of Israel: 'If any man from the sons of Israel, and from the strangers who live in Israel, gives from his offspring to the idol Molech, he shall surely die; the people of the land shall stone him.
+**20:2** "You shall speak these things to the sons of Israel: 'If any man from the sons of Israel, and from the strangers who live in Israel, gives from his seed to the idol Molech, he shall surely die; the people of the land shall stone him.
 
-**20:3** And I will set My face against him and will cut him off from the midst of his people, because he has given from his offspring to Molech, and has contaminated My sanctuary, and has defiled My holy name.
+**20:3** And I will set My face against him and will cut him off from the midst of his people, because he has given from his seed to Molech, and has contaminated My sanctuary, and has defiled My holy name.
 
-**20:4** And if the people of the land, being negligent and as if thinking little of My command, lets go the man who gave from his offspring to Molech, and refuses to kill him,
+**20:4** And if the people of the land, being negligent and as if thinking little of My command, lets go the man who gave from his seed to Molech, and refuses to kill him,
 
 **20:5** I will set My face upon that man and upon his relatives, and I will cut off both him and all who consented with him to commit fornication with Molech from the midst of their people.
 

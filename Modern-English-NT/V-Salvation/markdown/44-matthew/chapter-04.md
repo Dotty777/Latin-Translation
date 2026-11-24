@@ -59,6 +59,6 @@
 
 - **4:6** — Vulgate reads the perfect tense "mandavit" ("He has commanded"), matching the Vulgate Psalter (Psalm 90:11 [91:11]), whereas the Greek text of Matthew has the future tense ("He will command").
 - **4:16** — Vulgate reads "in regione umbrae mortis" ("in the region of the shadow of death"), whereas the Greek text coordinates both nouns ("in the region and shadow of death").
-- **4:17** — Latin poenitentiam agite literally means "do penance" or "practice repentance," the Vulgate idiom for Greek metanoeite; it is rendered "Repent" here, as in 3:2, where the Latin is identical.
+- **4:17** — Latin poenitentiam agite literally means "do repentance," the Vulgate idiom for Greek metanoeite; it is rendered "Repent" here, as in 3:2, where the Latin is identical.
 - **4:22** — Vulgate reads "relictis retibus" ("having left their nets"), whereas the Greek text has "leaving the boat."
 - **4:24** — Latin "lunaticos" literally means "moonstruck," a term anciently used for people suffering from epilepsy or periodic seizures.

@@ -43,5 +43,5 @@
 
 - **6:1** — The Vulgate reads "that the Lamb had opened" (quod aperuisset) rather than "when," and includes "and see" (et vide) here and in vv. 3, 5, and 7, which critical Greek editions omit.
 - **6:6** — Latin bilibris is literally a two-pound measure (rendering Greek choinix), and a denarius was a silver coin roughly equal to a day's wage; note also the Vulgate order "the wine and the oil" (Greek: "the oil and the wine").
-- **6:8** — Latin infernus ("hell") denotes the underworld or realm of the dead (Greek Hades). Notably, the Clementine Vulgate reads "over the four parts of the earth" (quatuor partes) and singular "to him" (illi), whereas the Greek reads "over a fourth of the earth" and (in critical editions) plural "to them."
+- **6:8** — Latin infernus ("the underworld") denotes the realm of the dead (Greek Hades). Notably, the Clementine Vulgate reads "over the four parts of the earth" (quatuor partes) and singular "to him" (illi), whereas the Greek reads "over a fourth of the earth" and (in critical editions) plural "to them."
 - **6:17** — The Vulgate reads plural "Their wrath" (irae ipsorum), referring jointly to Him who sits on the throne and the Lamb; some Greek manuscripts read singular "His wrath."

@@ -77,6 +77,6 @@
 
 - **24:12** — Vulgate Vires non suppetunt ("Strength does not suffice") differs from the Hebrew ("Look, we did not know this").
 - **24:15** — Vulgate et quaeras impietatem in domo justi ("and seek wickedness in the house of the righteous") takes the Hebrew word for "wicked" as an abstract object ("wickedness") rather than a vocative ("O wicked one").
-- **24:21** — Vulgate detractoribus ("slanderers") translates a difficult Hebrew term commonly rendered "those who change" or "rebels," matching detractor ("slanderer") in 24:9.
+- **24:21** — Vulgate detractoribus ("slanderers") translates a difficult Hebrew term meaning "those who change" or "rebels," matching detractor ("slanderer") in 24:9.
 - **24:23** — Latin Cognoscere personam (literally "to recognize a person") is a legal idiom meaning to show favoritism or partiality in judgment.
 - **24:33** — Unlike the Hebrew, which uses noun phrases ("a little sleep, a little slumber"), the Vulgate frames the verse as a direct second-person warning by the narrator with inquam ("I say") and future verbs.

@@ -27,9 +27,9 @@
 
 **21:11** Abraham took this hard on account of his son.
 
-**21:12** God said to him, "Do not let it seem harsh to you concerning the boy and concerning your servant woman; in all that Sarah says to you, listen to her voice, because in Isaac offspring will be named for you.
+**21:12** God said to him, "Do not let it seem harsh to you concerning the boy and concerning your servant woman; in all that Sarah says to you, listen to her voice, because in Isaac your seed will be called.
 
-**21:13** But I will also make the son of the servant woman into a great nation, because he is your offspring."
+**21:13** But I will also make the son of the servant woman into a great nation, because he is your seed."
 
 **21:14** So Abraham rose early in the morning, and taking bread and a skin of water, he placed them on her shoulder, handed over the boy, and sent her away. When she had departed, she wandered in the wilderness of Beersheba.
 

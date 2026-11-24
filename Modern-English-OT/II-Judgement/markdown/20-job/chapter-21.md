@@ -75,7 +75,7 @@
 
 ## Translator Notes
 
-- **21:2** — Vulgate-distinct reading: "repent" (agite pœnitentiam, literally "do penance"), taking the Hebrew root for consolation in its sense of repentance.
+- **21:2** — Vulgate-distinct reading: "repent" (agite pœnitentiam, literally "do repentance"), taking the Hebrew root for consolation in its sense of repentance.
 - **21:10** — Vulgate-distinct reading: Latin Bos eorum concepit uses bos as feminine ("cow") and translates the Hebrew clause about a bull breeding without fail as conceiving without miscarrying.
 - **21:19** — The Vulgate renders the entire verse as a statement in the future tense; in the Hebrew the second clause can be read as a wish ("let Him repay him, that he may know").
 - **21:22** — The Clementine Vulgate prints nominative Deus alongside nominative quispiam ("anyone"); because quispiam can only be the subject and the relative clause refers to God, the clause is translated as teaching knowledge to God (matching Deum in other Vulgate witnesses).

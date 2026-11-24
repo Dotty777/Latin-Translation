@@ -62,7 +62,7 @@
 ## Translator Notes
 
 - **9:1** — Latin "filii viri Jemini" renders the Hebrew gentilic "Yemini" (Benjaminite) as the proper name Jemini alongside Benjamin (also in 9:4, 21). "Mighty in strength" literally translates Latin "fortis robore", rendering the Hebrew idiom for a man of standing or valor.
-- **9:2** — Latin "electus et bonus" ("choice and good") renders the Hebrew phrase usually translated "a handsome young man", taking the Hebrew participle in its literal sense of "chosen" or "choice".
+- **9:2** — Latin "electus et bonus" ("choice and good") renders the Hebrew phrase meaning "a handsome young man," taking the Hebrew participle in its literal sense of "chosen" or "choice".
 - **9:8** — Latin uses "stater" (a Greek silver coin equivalent to a shekel) to render Hebrew "shekel".
 - **9:24** — Latin reads "armum" ("the shoulder") where Hebrew has "the thigh" (and omits "and what was on it"), and renders the following clause directly as "when I invited the people".
 - **9:25** — The closing clause "and Saul spread a bed on the rooftop and slept" is present in the Clementine Vulgate (with a parallel in the Septuagint), whereas the Hebrew Masoretic Text ends the verse after they spoke on the roof.

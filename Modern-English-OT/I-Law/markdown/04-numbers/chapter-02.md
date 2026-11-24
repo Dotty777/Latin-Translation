@@ -75,8 +75,8 @@
 
 ## Translator Notes
 
-- **2:2** — The Vulgate calls the sanctuary "tabernaculum foederis" (tabernacle of the covenant) here and "tabernaculum testimonii" (tabernacle of testimony) in 2:17, where the Hebrew has "tent of meeting" in both verses.
+- **2:2** — The Vulgate calls the sanctuary "tabernaculum foederis" (tabernacle of the covenant) here and "tabernaculum testimonii" (tabernacle of the testimony) in 2:17, where the Hebrew has "tent of meeting" in both verses.
 - **2:5** — Within the Lord's instructions (2:2-31), the Vulgate alternates between future tense for the camp layout and order of march (2:2-3, 9-10, 16-18, 24, 31) and past tense for several tribal encampments and leaders (2:5, 7, 12, 14, 18, 25, 27), reflecting the already completed organization and census of chapter 1.
 - **2:14** — The Vulgate reads "Duel" (Deuel), matching Numbers 1:14, 7:42, and 10:20, whereas the Hebrew Masoretic Text reads "Reuel" here.
-- **2:17** — Distinctively, the Vulgate describes the tabernacle of testimony being lifted up through the services of the Levites and taken down just as it will be erected, whereas the Hebrew describes the tent of meeting setting out with the camp of the Levites in the midst of the camps, setting out just as they camp.
+- **2:17** — Distinctively, the Vulgate describes the tabernacle of the testimony being lifted up through the services of the Levites and taken down just as it will be erected, whereas the Hebrew describes the tent of meeting setting out with the camp of the Levites in the midst of the camps, setting out just as they camp.
 - **2:22** — The Vulgate reads "Gedeonis" (genitive of "Gedeon", i.e., Gideon), whereas the Hebrew text names Abidan's father "Gideoni".

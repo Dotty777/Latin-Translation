@@ -57,7 +57,7 @@
 
 **5:26** But he said, "Was not my heart present when the man turned back from his chariot to meet you? Now therefore you have accepted silver, and you have accepted garments so that you may buy olive groves, and vineyards, and sheep, and oxen, and servants, and maidservants.
 
-**5:27** Yet the leprosy of Naaman will also cling to you and to your offspring forever." And he went out from him, leprous like snow.
+**5:27** Yet the leprosy of Naaman will also cling to you and to your seed forever." And he went out from him, leprous like snow.
 
 ## Translator Notes
 

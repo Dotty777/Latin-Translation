@@ -13,9 +13,9 @@
 
 **7:4** Then he went out from the land of the Chaldeans and lived in Haran. And from there, after his father died, He moved him into this land in which you now live.
 
-**7:5** And He did not give him an inheritance in it, not even a foot's step; but He promised to give it to him as a possession, and to his offspring after him, although he had no son.
+**7:5** And He did not give him an inheritance in it, not even a foot's step; but He promised to give it to him as a possession, and to his seed after him, although he had no son.
 
-**7:6** Now God spoke to him, that his offspring would be a resident alien in a foreign land, and they would subject them to servitude and mistreat them for four hundred years.
+**7:6** Now God spoke to him, that his seed would be a resident alien in a foreign land, and they would subject them to servitude and mistreat them for four hundred years.
 
 **7:7** 'And the nation that they serve, I Myself will judge,' said the Lord, 'and after these things they will come out and serve Me in this place.'
 

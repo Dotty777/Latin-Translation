@@ -74,7 +74,7 @@
 ## Translator Notes
 
 - **30:1** — Jerome renders the Hebrew proper names etymologically in the Vulgate: "the Gatherer" (Congregantis) for Agur, "the Vomiter" (Vomentis) for Jakeh, and "with whom God is, and who, strengthened by God dwelling with him" for Ithiel and Ucal.
-- **30:17** — The Vulgate reads "the childbirth of his mother" (partum matris suæ), differing from the Hebrew Masoretic Text, which is commonly rendered "obedience to a mother."
+- **30:17** — The Vulgate reads "the childbirth of his mother" (partum matris suæ), differing from the Hebrew Masoretic Text, which reads "obedience to a mother."
 - **30:19** — The Vulgate reads "the way of a man in youth" (viam viri in adolescentia), following the Septuagint, whereas the Hebrew Masoretic Text reads "the way of a man with a young woman."
 - **30:26** — The Vulgate identifies this creature as "the little hare" (lepusculus), whereas the Hebrew Masoretic Text refers to the rock badger (hyrax).
 - **30:31** — The Vulgate identifies the animals as a "rooster" (gallus) and a "ram" (aries) and concludes "nor is there a king who can resist him" (nec est rex, qui resistat ei), differing from the Hebrew Masoretic Text's obscure first phrase, "male goat," and "a king whose army is with him."

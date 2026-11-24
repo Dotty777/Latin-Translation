@@ -15,7 +15,7 @@
 
 **21:5** "Who from all the tribes of Israel did not go up in the army of the Lord?" For they had bound themselves with a great oath when they were in Mizpah, that those who were absent should be put to death.
 
-**21:6** And the sons of Israel, moved with remorse over their brother Benjamin, began to say, "One tribe has been taken away from Israel;
+**21:6** And the sons of Israel, moved by repentance over their brother Benjamin, began to say, "One tribe has been taken away from Israel;
 
 **21:7** from where will they take wives? For we have all sworn in common that we will not give them our daughters."
 
@@ -33,7 +33,7 @@
 
 **21:14** And the sons of Benjamin came at that time, and wives from the daughters of Jabesh-gilead were given to them; but they did not find others whom they might hand over in a similar way.
 
-**21:15** And all Israel grieved greatly and felt remorse over the slaughter of one tribe from Israel.
+**21:15** And all Israel grieved greatly and repented over the slaughter of one tribe from Israel.
 
 **21:16** And the elders said, "What shall we do for the rest, who have not received wives? All the women in Benjamin have fallen,
 

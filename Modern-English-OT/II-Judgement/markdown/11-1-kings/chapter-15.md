@@ -39,7 +39,7 @@
 
 **15:18** Therefore Asa took all the silver and gold that had remained in the treasuries of the house of the Lord and in the treasuries of the royal house, and gave it into the hands of his servants; and he sent to Ben-hadad son of Tabrimmon, son of Hezion, king of Syria, who lived in Damascus, saying,
 
-**15:19** "There is a treaty between me and you, and between my father and your father; therefore I have sent you gifts, silver and gold, and I ask that you come and make void the treaty that you have with Baasha king of Israel, so that he may withdraw from me."
+**15:19** "There is a covenant between me and you, and between my father and your father; therefore I have sent you gifts, silver and gold, and I ask that you come and make void the covenant that you have with Baasha king of Israel, so that he may withdraw from me."
 
 **15:20** Consenting to King Asa, Ben-hadad sent the commanders of his army against the cities of Israel, and they struck Ijon, and Dan, and Abel-beth-maacah, and all Chinneroth, namely, all the land of Naphtali.
 

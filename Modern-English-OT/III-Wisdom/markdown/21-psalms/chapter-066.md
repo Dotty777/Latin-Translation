@@ -5,7 +5,7 @@
 
 ## Text
 
-**66:1** For the end, in hymns. A psalm of a song of David.
+**66:1** To the end, in hymns. A psalm of a song of David.
 
 **66:2** May God have mercy on us and bless us; may He make His face shine upon us and have mercy on us,
 

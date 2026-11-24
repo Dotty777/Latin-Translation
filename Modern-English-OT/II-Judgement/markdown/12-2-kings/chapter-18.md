@@ -84,5 +84,5 @@
 - **18:4** — Vulgate renders the Hebrew sacred pillars as statuas ("statues") and Asherah symbols as lucos ("groves"), and uses the active singular vocavit ("he called") with the Latin transliteration Nohestan (Nehushtan).
 - **18:11** — Vulgate reads the plural fluviis Gozan ("the rivers of Gozan"), whereas the Hebrew text has the singular "the river of Gozan," and uses the ethnic plural in Assyrios ("to the Assyrians") for the land of Assyria.
 - **18:16** — Vulgate reads confregit ... valvas ... et laminas auri quas ipse affixerat ("broke off the doors ... and the plates of gold that he himself had fastened"), whereas the Hebrew text speaks of stripping gold from the doors and doorposts Hezekiah had overlaid.
-- **18:23** — Vulgate reads transite ad dominum meum ("come over to my lord"), diverging from the Hebrew idiom commonly translated "make a wager with my master."
+- **18:23** — Vulgate reads transite ad dominum meum ("come over to my lord"), diverging from the Hebrew idiom "make a wager with my master."
 - **18:31** — Vulgate renders the Hebrew idiom "make a blessing [i.e., terms of peace] with me" as Facite mecum quod vobis est utile ("Do with me what is advantageous to you").

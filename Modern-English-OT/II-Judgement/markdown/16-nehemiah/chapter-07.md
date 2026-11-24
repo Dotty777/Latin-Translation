@@ -125,7 +125,7 @@
 
 **7:60** All the Nethinim and the sons of the servants of Solomon, three hundred ninety-two.
 
-**7:61** Now these are the ones who came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer, and they could not show the house of their fathers and their lineage, whether they were from Israel:
+**7:61** Now these are the ones who came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer, and they could not show the house of their fathers and their seed, whether they were from Israel:
 
 **7:62** the sons of Delaiah, the sons of Tobiah, the sons of Nekoda, six hundred forty-two.
 

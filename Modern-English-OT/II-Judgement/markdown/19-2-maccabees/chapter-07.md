@@ -37,7 +37,7 @@
 
 **7:16** said, "Having power among men, though you are perishable, you do what you want; yet do not think that our race has been abandoned by God;
 
-**7:17** but you, wait patiently, and you will see His great power, how He will torture you and your offspring."
+**7:17** but you, wait patiently, and you will see His great power, how He will torture you and your seed."
 
 **7:18** After him they led out the sixth, and as he was beginning to die, he spoke thus: "Do not be mistaken in vain; for we suffer these things because of ourselves, sinning against our God, and things worthy of wonder have happened among us;
 

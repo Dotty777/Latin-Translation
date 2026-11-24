@@ -37,7 +37,7 @@
 
 **12:16** And the earth helped the woman, and the earth opened its mouth and swallowed up the river that the dragon cast from his mouth.
 
-**12:17** And the dragon grew angry with the woman, and he went away to do battle with the rest of her offspring, who keep the commandments of God and have the testimony of Jesus Christ.
+**12:17** And the dragon grew angry with the woman, and he went away to do battle with the rest of her seed, who keep the commandments of God and have the testimony of Jesus Christ.
 
 **12:18** And he stood upon the sand of the sea.
 

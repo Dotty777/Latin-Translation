@@ -65,7 +65,7 @@
 
 ## Translator Notes
 
-- **2:5** — Latin age poenitentiam (literally "do penance" or "exercise repentance") is the standard Vulgate idiom for repenting, paired with the verb poenitere in 2:21.
+- **2:5** — Latin age poenitentiam (literally "do repentance") is the standard Vulgate idiom for repenting, paired with the verb poenitere in 2:21.
 - **2:7** — The Vulgate reads "of My God" (Dei mei) rather than simply "of God" as in most modern critical Greek texts.
 - **2:13** — The Vulgate clause Et in diebus illis Antipas testis meus fidelis is elliptical and lacks a main verb before the relative clause; "was" is supplied to complete the sentence.
 - **2:14** — The Vulgate reads simply "to eat and to commit fornication" (edere, et fornicari), omitting "things sacrificed to idols," which appears in the Greek text and in 2:20.

@@ -52,6 +52,6 @@
 ## Translator Notes
 
 - **3:1** — Distinctively in the Vulgate, the second clause states that all things under heaven pass by in their own spans (suis spatiis transeunt), whereas the Hebrew speaks of a time for every purpose or matter under heaven.
-- **3:11** — Latin mundum tradidit disputationi eorum ("handed the world over to their disputation") is a distinctive Vulgate rendering of the Hebrew clause commonly translated "He has put eternity into their heart."
+- **3:11** — Latin mundum tradidit disputationi eorum ("handed the world over to their disputation") is a distinctive Vulgate rendering of the Hebrew clause "He has put eternity into their heart."
 - **3:17** — The Vulgate reads tunc ("then"), pointing to the time of God's judgment, where the Hebrew reads sham ("there").
 - **3:21** — Unlike 1:13, 2:3, 2:8, 3:10, and 3:18 (where the Vulgate translates Hebrew bene ha-adam as filii hominum, "sons of men"), here it distinctively uses the proper name in filiorum Adam ("the sons of Adam").

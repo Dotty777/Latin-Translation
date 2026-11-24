@@ -73,8 +73,8 @@
 
 ## Translator Notes
 
-- **5:8** — The Vulgate reads "The Lord chose new wars, and He Himself overthrew the gates of the enemies," whereas the Hebrew Masoretic Text is commonly rendered "they chose new gods; then war was in the gates." The conditional clause "if shield and spear appeared" reproduces a Hebraistic rhetorical idiom implying that none were seen.
+- **5:8** — The Vulgate reads "The Lord chose new wars, and He Himself overthrew the gates of the enemies," whereas the Hebrew Masoretic Text reads "they chose new gods; then war was in the gates." The conditional clause "if shield and spear appeared" reproduces a Hebraistic rhetorical idiom implying that none were seen.
 - **5:11** — A distinctively Vulgate rendering ("Where the chariots were smashed together and the army of the enemies was suffocated... and obtained dominion"), diverging markedly from the obscure Hebrew text usually understood to mention singers or archers at the watering places.
 - **5:15** — The Vulgate interprets Hebrew peluggot ("divisions" or "streams") as internal faction ("with Reuben divided against himself") and renders the following phrase as "a contention of great-hearted men was found," repeated in 5:16.
 - **5:18** — The Vulgate takes the Hebrew phrase merome sadeh ("heights of the field") as a geographical proper name, in regione Merome ("in the region of Merome").
-- **5:21** — The Vulgate renders Hebrew qedumim (commonly translated "ancient" or "onrushing") as a proper name, torrens Cadumim ("the torrent of Kedumim").
+- **5:21** — The Vulgate renders Hebrew qedumim (meaning "ancient" or "onrushing") as a proper name, torrens Cadumim ("the torrent of Kedumim").

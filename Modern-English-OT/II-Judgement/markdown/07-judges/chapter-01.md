@@ -80,7 +80,7 @@
 ## Translator Notes
 
 - **1:6** — Latin summitatibus manuum ejus ac pedum literally reads "the extremities of his hands and feet" (likewise in 1:7), whereas the Hebrew specifies the thumbs and big toes.
-- **1:14** — Latin suspirasset sedens in asino ("sighed while sitting on the donkey") reflects Jerome's understanding of the rare Hebrew verb tsanach, usually rendered as alighting from the donkey; similarly, in 1:11, 1:17, and 1:35 the Vulgate adds etymological glosses (civitas litterarum, anathema, and testaceo, reading Heres as "earthen" rather than "sun").
+- **1:14** — Latin suspirasset sedens in asino ("sighed while sitting on the donkey") reflects Jerome's understanding of the rare Hebrew verb tsanach (apparently "got down" from the donkey); similarly, in 1:11, 1:17, and 1:35 the Vulgate adds etymological glosses (civitas litterarum, anathema, and testaceo, reading Heres as "earthen" rather than "sun").
 - **1:19** — Latin falcatis curribus ("scythed chariots") renders Hebrew "chariots of iron"; throughout 1:19-33 (and 2:3, 21), the Vulgate also uses delere ("wipe out/destroy," and interficere, "kill," in 1:29, 32) where the Hebrew has horish ("drive out/dispossess").
 - **1:23** — Latin obsiderent ("were besieging") differs from the Hebrew, which says the house of Joseph sent spies to scout out Bethel.
 - **1:36** — The Vulgate translates the Hebrew place names Akrabbim ("Scorpions") and Sela ("the rock") directly into Latin as ascensu Scorpionis ("ascent of the Scorpion," singular) and petra ("the rock").

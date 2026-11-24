@@ -23,7 +23,7 @@
 
 **16:9** And the angel of the Lord said to her, "Return to your mistress, and humble yourself under her hands."
 
-**16:10** And again he said, "Multiplying, I will multiply your offspring, and it will not be counted because of the multitude."
+**16:10** And again he said, "Multiplying, I will multiply your seed, and it will not be counted because of the multitude."
 
 **16:11** And further he said, "Look, you have conceived and will bear a son, and you will call his name Ishmael, because the Lord has heard your affliction.
 
