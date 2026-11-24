@@ -27,9 +27,9 @@
 
 **9:11** And they were asking Him, saying, "Why then do the Pharisees and scribes say that Elijah must come first?"
 
-**9:12** And He, answering, said to them, "Elijah, when he comes first, will restore all things; and how is it written concerning the Son of Man that He should suffer many things and be despised?
+**9:12** And He, answering, said to them, "Elijah, when he comes first, will restore all things; and as it is written concerning the Son of Man, that He should suffer many things and be despised.
 
-**9:13** But I tell you that Elijah has indeed come (and they did to him whatever they wished), just as it is written about him."
+**9:13** But I tell you that Elijah has also come (and they did to him whatever they wished), just as it is written about him."
 
 **9:14** And coming to His disciples, He saw a great crowd around them, and scribes debating with them.
 
@@ -41,7 +41,7 @@
 
 **9:18** and wherever it seizes him, it dashes him down, and he foams, and grinds his teeth, and wastes away; and I told Your disciples to cast it out, and they could not."
 
-**9:19** And He, answering them, said, "Unbelieving generation, how long will I be with you? How long will I bear with you? Bring him to Me."
+**9:19** And He, answering them, said, "O unbelieving generation, how long will I be with you? How long will I bear with you? Bring him to Me."
 
 **9:20** And they brought him. And when it saw Him, the spirit immediately convulsed him; and dashed to the ground, he was rolling around, foaming.
 
@@ -111,6 +111,6 @@
 
 - **9:10** — The Vulgate renders the disciples' question with a temporal clause ("quid esset, cum a mortuis resurrexerit"), echoing Jesus's exact words in 9:9, rather than an infinitive ("what rising from the dead meant").
 - **9:11** — The Vulgate reads "pharisæi et scribæ" ("the Pharisees and scribes"), whereas the Greek textual tradition mentions only "the scribes."
-- **9:12** — The Clementine Vulgate ends this verse with a period rather than a question mark, though "et quomodo" ("and how") renders the Greek interrogative and contrasts with "sicut" ("just as") in 9:13.
+- **9:12** — The Latin punctuates this as a statement, with quomodo in its sense "as"; the Greek is commonly read as a question ("and how is it written...?").
 - **9:15** — The Vulgate translates the crowd's reaction with two verbs ("stupefactus est, et expaverunt," "were astounded and struck with fear") where the Greek has a single verb.
-- **9:29** — Following the broader Latin and Byzantine tradition, the Vulgate includes "et jejunio" ("and fasting") alongside prayer; likewise, it retains "credere" ("to believe") in 9:23, "in vitam æternam" ("into eternal life") and "ignis inextinguibilis" ("of unquenchable fire") in 9:45, and "et omnis victima sale salietur" ("and every sacrifice will be salted with salt") in 9:49.
+- **9:29** — Following the broader Latin and Byzantine tradition, the Vulgate includes "et jejunio" ("and fasting") alongside prayer; likewise, it retains "credere" ("to believe") in 9:23, "ignis inextinguibilis" ("of unquenchable fire") in 9:45, and "et omnis victima sale salietur" ("and every sacrifice will be salted with salt") in 9:49.

@@ -141,7 +141,7 @@
 
 ## Translator Notes
 
-- **24:22** — The Vulgate explicitly reads plural golden earrings weighing two shekels ("inaures aureas, appendentes siclos duos"; cf. v. 30), whereas the Hebrew and Septuagint describe a single gold ring weighing half a shekel.
+- **24:22** — The Vulgate explicitly reads plural golden earrings weighing two shekels ("inaures aureas, appendentes siclos duos"; cf. v. 30), whereas the Hebrew describes a single gold ring weighing half a shekel.
 - **24:27** — The Vulgate specifies that the Lord led the servant "by a straight path" ("recto itinere") into the house of his master's singular "brother" ("fratris"), where the Hebrew reads "in the way" and plural "brothers."
 - **24:32** — The Clementine Vulgate distinctly reads "to wash the feet of the camels and of the men" ("ad lavandos pedes camelorum, et virorum"), whereas the Hebrew and Septuagint read "to wash his feet and the feet of the men."
 - **24:47** — The Vulgate renders this clause as "I hung the earrings to adorn her face" ("Suspendi itaque inaures ad ornandam faciem ejus"), reconciling plural "earrings" with the Hebrew wording "I put the ring on her nose."

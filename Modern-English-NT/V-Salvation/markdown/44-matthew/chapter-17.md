@@ -41,7 +41,7 @@
 
 **17:18** And Jesus rebuked him, and the demon went out from him, and the boy was cured from that hour.
 
-**17:19** Then the disciples approached Jesus privately and said, "Why were we not able to cast it out?"
+**17:19** Then the disciples approached Jesus privately and said, "Why were we not able to cast him out?"
 
 **17:20** Jesus said to them, "Because of your unbelief. For amen, I tell you, if you have faith like a mustard seed, you will say to this mountain, 'Move from here to there,' and it will move, and nothing will be impossible for you."
 

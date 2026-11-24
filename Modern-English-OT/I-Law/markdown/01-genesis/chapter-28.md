@@ -33,7 +33,7 @@
 
 **28:14** And your offspring will be like the dust of the earth; you will spread out to the west and the east, the north and the south; and in you and in your seed all the tribes of the earth will be blessed.
 
-**28:15** And I will be your guardian wherever you go, and I will bring you back to this land; nor will I leave you until I have fulfilled everything that I have spoken."
+**28:15** And I will be your guardian wherever you go, and I will bring you back to this land; nor will I leave you unless I have fulfilled everything that I have spoken."
 
 **28:16** And when Jacob awoke from sleep, he said, "Truly the Lord is in this place, and I did not know."
 

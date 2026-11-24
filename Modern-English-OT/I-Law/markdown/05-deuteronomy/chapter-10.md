@@ -54,4 +54,4 @@
 - **10:3** — Latin "de lignis setim" transliterates the Hebrew term (shittim) for acacia wood.
 - **10:15** — Latin "conglutinatus est" literally means "was glued/bonded closely together with," vividly rendering the Hebrew verb for setting one's affection on someone; "as is confirmed today" (sicut hodie comprobatur) is also a distinctly Vulgate rendering of Hebrew "as at this day."
 - **10:17** — Latin "Dominus dominantium" uses a participle (literally "Lord of those who rule"), corresponding to Hebrew "Lord of lords"; "shows no partiality" renders the Latin idiom "personam non accipit" (literally "does not accept a person").
-- **10:20** — The Vulgate includes "alone" (ei soli, "Him alone"), agreeing with the Septuagint and Christ's quotation in Matthew 4:10 and Luke 4:8, where the Masoretic Hebrew has simply "Him."
+- **10:20** — The Vulgate includes "alone" (ei soli, "Him alone"), agreeing with the Septuagint and the quotation in Matthew 4:10 and Luke 4:8, where the Masoretic Hebrew has simply "Him."

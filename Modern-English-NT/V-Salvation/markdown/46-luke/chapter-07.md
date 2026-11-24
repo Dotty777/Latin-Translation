@@ -61,7 +61,7 @@
 
 **7:28** For I say to you, among those born of women there is no prophet greater than John the Baptist; yet the one who is least in the kingdom of God is greater than he."
 
-**7:29** And all the people who heard, and the tax collectors, vindicated God, having been baptized with the baptism of John.
+**7:29** And all the people who heard, and the tax collectors, justified God, having been baptized with the baptism of John.
 
 **7:30** But the Pharisees and the experts in the law rejected the counsel of God for themselves, not having been baptized by him.
 
@@ -73,7 +73,7 @@
 
 **7:34** The Son of Man has come eating and drinking, and you say, 'Look, a gluttonous man and one who drinks wine, a friend of tax collectors and sinners.'
 
-**7:35** And wisdom has been vindicated by all her children."
+**7:35** And wisdom has been justified by all her children."
 
 **7:36** Now one of the Pharisees asked Him to eat with him. And having entered the Pharisee's house, He reclined at table.
 
@@ -99,7 +99,7 @@
 
 **7:47** Therefore I say to you, many sins are forgiven her, for she has loved much. But the one to whom less is forgiven loves less."
 
-**7:48** Then He said to her, "Your sins are forgiven you."
+**7:48** Then He said to her, "Sins are forgiven you."
 
 **7:49** And those who were reclining at table together began to say within themselves, "Who is this who even forgives sins?"
 

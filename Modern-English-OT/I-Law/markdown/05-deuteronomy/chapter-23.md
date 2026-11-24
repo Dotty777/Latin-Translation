@@ -59,7 +59,7 @@
 
 ## Translator Notes
 
-- **23:1** — In the Vulgate chapter 23 begins here (corresponding to 22:30 in Hebrew and most English Bibles), so the verses of chapter 23 are numbered one higher than in the Hebrew text.
+- **23:1** — In the Latin, as in the Hebrew text, chapter 23 begins with this verse.
 - **23:2** — The Clementine Vulgate prints intravit (literally perfect tense), an orthographic b/v variant for future intrabit ('shall enter'), and explicitly adds eunuchus ('eunuch') with attritis vel amputatis ('crushed or amputated').
 - **23:3** — The Vulgate retains the Hebrew loanword mamzer and supplies the explanatory gloss hoc est, de scorto natus ('that is, one born of a prostitute'); ecclesiam ('assembly') renders the Septuagint term for the covenant congregation.
 - **23:15** — The Clementine Vulgate reads quo revelatus es ('where you uncovered yourself'), a well-known variant for quo relevatus es ('that of which you were relieved,' referring to bodily waste).

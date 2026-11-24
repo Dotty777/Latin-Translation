@@ -5,7 +5,7 @@
 
 ## Text
 
-**9:1** Listen, Israel: you will cross the Jordan today to possess very great nations, stronger than you, huge cities, walled all the way to heaven,
+**9:1** Hear, Israel: you will cross the Jordan today to possess very great nations, stronger than you, huge cities, walled all the way to heaven,
 
 **9:2** a great and tall people, the sons of the Anakim, whom you yourself have seen and heard, whom no one can resist face to face.
 
@@ -61,7 +61,7 @@
 
 **9:28** so that the inhabitants of the land from which You brought us out may not perhaps say, 'The Lord was not able to bring them into the land that He promised them, and He hated them; therefore He brought them out to kill them in the wilderness.'
 
-**9:29** Yet they are Your people and Your inheritance, whom You brought out in Your great strength and with Your outstretched arm."
+**9:29** They are Your people and Your inheritance, whom You brought out in Your great strength and with Your outstretched arm."
 
 ## Translator Notes
 

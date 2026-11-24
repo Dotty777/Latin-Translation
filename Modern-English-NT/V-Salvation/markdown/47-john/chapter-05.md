@@ -61,7 +61,7 @@
 
 **5:29** and they will come forth: those who have done good to a resurrection of life, but those who have committed evil to a resurrection of judgment.
 
-**5:30** I am not able to do anything on My own. Just as I hear, so I judge; and My judgment is righteous, because I do not seek My will, but the will of the One who sent Me.
+**5:30** I am not able to do anything on My own. Just as I hear, so I judge; and My judgment is just, because I do not seek My will, but the will of the One who sent Me.
 
 **5:31** If I bear testimony about Myself, My testimony is not true.
 

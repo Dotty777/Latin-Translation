@@ -102,5 +102,5 @@
 - **22:7** — The Clementine Vulgate includes the clause "when he heard this" (cum audisset), reflecting Byzantine and Western Greek witnesses, whereas modern critical Greek editions omit it.
 - **22:24** — The Vulgate reads singular "a son" (filium), whereas the Greek text reads plural "children" (tekna).
 - **22:30** — The Vulgate retains "of God" (angeli Dei) and uses future-tense verbs throughout (nubent, nubentur, erunt), whereas modern critical Greek editions omit "of God."
-- **22:37** — The Vulgate shifts from "from" (ex) with the heart to "in" (in) with the soul and mind, echoing the Latin of Deuteronomy 6:5 rather than repeating a single preposition as in the Greek text.
+- **22:37** — The Vulgate shifts from "from" (ex) with the heart to "in" (in) with the soul and mind, whereas the Greek text repeats a single preposition.
 - **22:44** — The Vulgate reads "a footstool for Your feet" (scabellum pedum tuorum, agreeing with Psalm 109:1 [110:1] and majority Greek witnesses), whereas modern critical Greek editions read "underneath Your feet."

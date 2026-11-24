@@ -5,7 +5,7 @@
 
 ## Text
 
-**27:1** Now Isaac grew old, and his eyes grew dim, and he could not see. And he called Esau, his older son, and said to him, "My son?" And he answered, "I am here."
+**27:1** Now Isaac grew old, and his eyes grew dim, and he could not see. And he called Esau, his older son, and said to him, "My son?" And he answered, "Here I am."
 
 **27:2** His father said to him, "You see that I have grown old, and I do not know the day of my death.
 

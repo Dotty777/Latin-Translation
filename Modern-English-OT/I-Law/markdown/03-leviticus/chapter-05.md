@@ -5,7 +5,7 @@
 
 ## Text
 
-**5:1** "If a soul sins, and hears the voice of one swearing, and is a witness because he either saw it himself or is aware of it: unless he discloses it, he will bear his iniquity.
+**5:1** "If a soul sins, and hears the voice of one swearing, and is a witness of what he either saw himself or is aware of: unless he discloses it, he will bear his iniquity.
 
 **5:2** A soul who touches anything unclean, whether what was killed by a beast, or died on its own, or any other creeping thing, and forgets his uncleanness, is guilty and has offended;
 
@@ -13,7 +13,7 @@
 
 **5:4** A soul who swears and utters with his lips to do either something evil or something good, and confirms that very thing with an oath and speech, and having forgotten, afterward realizes his offense,
 
-**5:5** let him do penance for the sin,
+**5:5** let him repent for the sin,
 
 **5:6** and let him offer from the flocks a female lamb or a female goat, and the priest shall pray for him and for his sin.
 
@@ -60,6 +60,6 @@
 ## Translator Notes
 
 - **5:2** — Vulgate quod occisum a bestia est, aut per se mortuum ("what was killed by a beast, or died on its own") differs from the Hebrew list of unclean animal carcasses, and oblita fuerit ("forgets") here and in verses 3-4 renders the Hebrew "it is hidden from him."
-- **5:5** — Vulgate agat poenitentiam ("let him do penance") is a distinctive Latin rendering; the Hebrew Masoretic Text and Septuagint speak of confessing the sin.
+- **5:5** — Vulgate agat poenitentiam ("let him repent") is a distinctive Latin rendering; the Hebrew Masoretic Text and Septuagint speak of confessing the sin.
 - **5:15** — Vulgate qui emi potest duobus siclis ("which can be bought for two shekels") specifies a two-shekel price reflecting ancient Jewish legal tradition, whereas the Hebrew mentions a valuation in "shekels of silver" without stating the number two.
-- **5:20** — In this versification (matching the Hebrew Masoretic Text), Leviticus 5 continues through 5:26; many modern English Bibles number 5:20-26 as Leviticus 6:1-7.
+- **5:20** — In this versification (matching the Hebrew Masoretic Text), Leviticus 5 continues through 5:26; other versifications number 5:20-26 as 6:1-7.

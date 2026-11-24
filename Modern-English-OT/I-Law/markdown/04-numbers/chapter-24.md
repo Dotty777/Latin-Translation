@@ -58,8 +58,8 @@
 ## Translator Notes
 
 - **24:3** — Vulgate cujus obturatus est oculus ("whose eye is closed") renders the debated Hebrew term as "closed," creating a deliberate contrast with "and thus his eyes are opened" in 24:4.
-- **24:7** — Vulgate Tolletur propter Agag, rex ejus, et auferetur regnum illius ("His king will be removed because of Agag, and his kingdom will be taken away") diverges sharply from the Hebrew ("his king will be higher than Agag, and his kingdom will be exalted"), reflecting an interpretation alluding to Saul losing the kingship after sparing Agag (1 Samuel 15).
+- **24:7** — Vulgate Tolletur propter Agag, rex ejus, et auferetur regnum illius ("His king will be removed because of Agag, and his kingdom will be taken away") differs from the Hebrew ("his king will be higher than Agag, and his kingdom will be exalted").
 - **24:8** — Vulgate rhinocerotis ("rhinoceros") renders Hebrew re'em ("wild ox"; Septuagint "unicorn").
-- **24:14** — Vulgate quid populus tuus populo huic faciat ("what your people will do to this people") reverses the subject and object of the Hebrew ("what this people will do to your people"), linking Balaam's counsel to Moab's entrapment of Israel in chapter 25.
+- **24:14** — Vulgate quid populus tuus populo huic faciat ("what your people will do to this people") reverses the subject and object of the Hebrew ("what this people will do to your people").
 - **24:22** — Vulgate et fueris electus de stirpe Cin ("and have been chosen from the lineage of Kain") differs markedly from the Hebrew ("yet Kain will be consumed").
-- **24:24** — The Vulgate uniquely renders Hebrew Kittim as Italia ("Italy"), specifies in trieribus ("in triremes"), and translates Hebrew Eber as Hebraeos ("the Hebrews").
+- **24:24** — The Vulgate renders Hebrew Kittim as Italia ("Italy"), specifies in trieribus ("in triremes"), and translates Hebrew Eber as Hebraeos ("the Hebrews").

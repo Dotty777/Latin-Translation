@@ -82,7 +82,7 @@
 ## Translator Notes
 
 - **26:1** — The Vulgate renders the scarlet dye literally as 'twice-dyed scarlet' (cocco bis tincto) and describes the curtain design as 'variegated with embroidered work' (variatas opere plumario), without mentioning cherubim here or in 26:31 as the Hebrew and Septuagint do.
-- **26:14** — Latin de janthinis pellibus ('of violet-colored skins') follows the Septuagint rendering of the obscure Hebrew term tahash, which modern translations often render as fine leather or the skins of marine animals.
+- **26:14** — Latin de janthinis pellibus ('of violet-colored skins') follows the Septuagint rendering of the obscure Hebrew term tahash, whose meaning is uncertain.
 - **26:15** — Latin de lignis setim retains the transliterated Hebrew name shittim for the desert acacia tree, translated here and throughout as 'acacia wood'.
 - **26:28** — The Vulgate uses the plural relative pronoun qui ('which'), referring to the bars generally passing through the middle of the boards, whereas the Hebrew specifies the single middle bar.
 - **26:32** — Latin capita ('capitals' or 'heads') describes the tops of the pillars (as also in 26:37 and 27:10, 11, 17), where the Hebrew refers to 'hooks'; similarly, 'propitiatory' in 26:34 directly translates Latin propitiatorium, the golden atonement cover traditionally called the mercy seat.

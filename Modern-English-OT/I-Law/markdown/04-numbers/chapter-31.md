@@ -115,8 +115,8 @@
 
 ## Translator Notes
 
-- **31:7** — The Vulgate adds atque vicissent ("and were victorious") and omits the Hebrew clause "as the LORD commanded Moses."
+- **31:7** — The Vulgate adds atque vicissent ("and were victorious") and omits the Hebrew clause "as the Lord commanded Moses."
 - **31:14** — The Vulgate renders the Israelite officers of thousands and hundreds with the Roman military titles tribunis ("tribunes") and centurionibus ("centurions"), which also recur in vv. 48 and 52.
 - **31:29** — The Vulgate renders the Hebrew tribute/contribution (terumah) as primitiae ("firstfruits"), a distinctive choice repeated in v. 41.
 - **31:42** — Unlike the Hebrew Masoretic Text, which begins the congregation's half here, the Vulgate joins v. 42 to v. 41 with the dative his ("for those who had been in the battle"), then contrasts it with the remaining multitude's half in v. 43 (De media vero parte).
-- **31:50** — The Vulgate translates the final two golden ornaments as dextralia ("bracelets" for the right arm or wrist) and muraenulas ("chain necklaces"), and renders the closing purpose clause as a request for Moses's intercession (ut depreceris pro nobis Dominum, "so that you may pray to the Lord for us") rather than Hebrew "to make atonement for our souls before the LORD."
+- **31:50** — The Vulgate translates the final two golden ornaments as dextralia ("bracelets" for the right arm or wrist) and muraenulas ("chain necklaces"), and renders the closing purpose clause as a request for Moses's intercession (ut depreceris pro nobis Dominum, "so that you may pray to the Lord for us") rather than Hebrew "to make atonement for our souls before the Lord."

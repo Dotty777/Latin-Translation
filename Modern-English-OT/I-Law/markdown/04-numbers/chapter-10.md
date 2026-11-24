@@ -51,7 +51,7 @@
 
 **10:23** And in the tribe of the sons of Manasseh, the leader was Gamaliel the son of Pedahzur.
 
-**10:24** And in the tribe of Benjamin, the commander was Abidan the son of Gideoni.
+**10:24** And in the tribe of Benjamin, the commander was Abidan the son of Gideon.
 
 **10:25** Last of all the camps, the sons of Dan set out by their companies, in whose army the leader was Ahiezer the son of Ammishaddai.
 

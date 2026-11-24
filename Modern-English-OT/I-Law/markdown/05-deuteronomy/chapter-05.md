@@ -9,7 +9,7 @@
 
 **5:2** The Lord our God established a covenant with us at Horeb.
 
-**5:3** Not with our fathers did He enter into the pact, but with us who are here at the present time and live.
+**5:3** Not with our fathers did He enter into the covenant, but with us who are here at the present time and live.
 
 **5:4** Face to face He spoke to us on the mountain from the midst of the fire.
 

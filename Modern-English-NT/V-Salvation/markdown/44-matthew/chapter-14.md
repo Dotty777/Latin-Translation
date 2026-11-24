@@ -53,7 +53,7 @@
 
 **14:24** but the boat was being tossed by the waves in the middle of the sea, for the wind was contrary.
 
-**14:25** Now in the fourth watch of the night, He came to them walking on the sea.
+**14:25** For in the fourth watch of the night, He came to them walking on the sea.
 
 **14:26** And seeing Him walking on the sea, they were troubled, saying, "It is a phantom!" And because of fear they cried out.
 

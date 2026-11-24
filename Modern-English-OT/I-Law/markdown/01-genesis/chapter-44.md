@@ -78,5 +78,5 @@
 - **44:5** — The Vulgate explicitly adds "that you stole" (quem furati estis) to the steward's accusation, whereas the Hebrew Masoretic Text reads more generally "Is not this the one from which my lord drinks?"
 - **44:14** — The Vulgate uniquely specifies that Judah entered "first" (Primusque Judas) and uses the plural "they had not yet departed" (abierant), referring to Joseph and his household, where the Hebrew has the singular "he was still there."
 - **44:18** — The Clementine Vulgate links "my lord" (dominus meus) at the start of 44:19 to the end of 44:18 ("after Pharaoh, my lord"), followed by second-person "You asked" (Interrogasti), whereas the Hebrew starts 44:19 with "My lord asked his servants."
-- **44:20** — The Vulgate reads "his mother has him alone" (ipsum solum habet mater sua), translated strictly from the Latin rather than harmonized to the Hebrew "he alone is left of his mother."
+- **44:20** — The Vulgate reads "his mother has him alone" (ipsum solum habet mater sua), where the Hebrew has "he alone is left of his mother."
 - **44:28** — The Vulgate uses the second person plural "and you said" (et dixistis), attributing the remark about the beast directly to the brothers rather than to Jacob himself as in the Hebrew ("and I said").

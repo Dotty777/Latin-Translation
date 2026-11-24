@@ -29,7 +29,7 @@
 
 **27:17** and who can go out and come in before them, and lead them out or bring them in, so that the people of the Lord will not be like sheep without a shepherd."
 
-**27:18** And the Lord said to him, "Take Joshua the son of Nun, a man in whom the Spirit is, and place your hand on him.
+**27:18** And the Lord said to him, "Take Joshua the son of Nun, a man in whom the spirit is, and place your hand on him.
 
 **27:19** He shall stand before Eleazar the priest and all the multitude,
 

@@ -58,5 +58,5 @@
 - **22:2** — The Vulgate renders Hebrew "land of Moriah" interpretively as terram visionis ("the land of vision"), connecting it to "The Lord sees" in verse 14; it also uses unigenitum ("only-begotten," repeated in verses 12 and 16).
 - **22:6** — Here and in verse 10 the Vulgate translates the Hebrew slaughter-knife as gladium ("sword"); in verses 7 and 8 it similarly renders Hebrew "lamb" as victima ("victim").
 - **22:13** — Latin post tergum ("behind his back") reflects reading the Hebrew text as "behind" rather than "one/a," and vepres renders the thicket specifically as "briers."
-- **22:14** — Latin Dominus videt ("The Lord sees") and In monte Dominus videbit ("On the mountain the Lord will see") render the place-name and proverb literally with "see," echoing "the land of vision" in verse 2 rather than "provide."
+- **22:14** — Latin Dominus videt ("The Lord sees") and In monte Dominus videbit ("On the mountain the Lord will see") render the place-name and proverb literally with "see," echoing "the land of vision" in verse 2.
 - **22:21** — Latin patrem Syrorum ("the father of the Syrians") renders the Hebrew name Aram with the classical ethnic designation "Syrians," following the Septuagint.

@@ -9,7 +9,7 @@
 
 **18:2** And when he had lifted up his eyes, three men appeared to him standing near him; and when he saw them, he ran to meet them from the doorway of the tent and bowed down on the ground.
 
-**18:3** And he said, "Lord, if I have found favor in Your eyes, do not pass by Your servant;
+**18:3** And he said, "Lord, if I have found favor in your eyes, do not pass by your servant;
 
 **18:4** but I will bring a little water; and wash your feet, and rest under the tree.
 

@@ -45,7 +45,7 @@
 
 ## Translator Notes
 
-- **13:1** — In the Vulgate, chapter 13 begins with this verse (numbered 12:32 in Hebrew and most modern English Bibles), shifting the rest of the chapter's numbering by one. Latin "do this alone for the Lord" (hoc tantum facito Domino) adds "for the Lord" and "alone" where the Hebrew reads "observe to do all the word."
+- **13:1** — As in the Hebrew, chapter 13 begins with this verse (numbered 12:32 in some other versifications), so the rest of the chapter is numbered one higher. Latin "do this alone for the Lord" (hoc tantum facito Domino) adds "for the Lord" and "alone" where the Hebrew reads "observe to do all the word."
 - **13:6** — Latin "fictor somniorum" ("fabricator of dreams") replaces the neutral "somniator" ("dreamer") of 13:4, emphasizing deliberate deceit.
 - **13:14** — Latin "filii Belial" ("sons of Belial") renders the Hebrew idiom for worthless or wicked people using the personal-name form Belial.
 - **13:18** — Latin "anathemate" ("accursed thing") translates Hebrew herem, referring to anything irrevocably devoted to God for total destruction under the ban.

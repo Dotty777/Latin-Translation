@@ -67,7 +67,7 @@
 
 **2:31** which You have prepared before the face of all peoples:
 
-**2:32** a light for the revelation of the nations, and the glory of Your people Israel."
+**2:32** a light for the revelation of the Gentiles, and the glory of Your people Israel."
 
 **2:33** And His father and mother were marveling at the things that were being spoken about Him.
 
@@ -105,7 +105,7 @@
 
 **2:50** And they themselves did not understand the word that He spoke to them.
 
-**2:51** And He went down with them and came to Nazareth, and remained subject to them. And His mother was keeping all these words in her heart.
+**2:51** And He went down with them and came to Nazareth, and was subject to them. And His mother was keeping all these words in her heart.
 
 **2:52** And Jesus was advancing in wisdom, in age, and in favor before God and people.
 
@@ -113,6 +113,6 @@
 
 - **2:2** — The Vulgate reads 'a præside Syriæ Cyrino' ("by Quirinius, governor of Syria"), expressing Quirinius as the agent of the registration rather than the Greek temporal clause ("while Quirinius was governing Syria").
 - **2:14** — The Vulgate reads 'hominibus bonæ voluntatis' ("to people of good will"), taking the Greek genitive ('eudokias') as a genitive of quality rather than "those with whom He is pleased."
-- **2:17** — The Vulgate reads 'cognoverunt' ("they came to know"), reflecting the variant 'egnosan', whereas most Greek editions read 'egnorisan' ("they made known").
+- **2:17** — The Vulgate reads cognoverunt ("they came to know"), where the Greek reads 'they made known.'
 - **2:22** — The Vulgate reads the singular 'purgationis ejus' ("her purification," referring to Mary under Leviticus 12, though Latin 'ejus' is grammatically gender-neutral), whereas critical Greek editions read the plural "their purification."
 - **2:49** — Literally "in those [things] that are of My Father" ('in his quæ Patris mei sunt'), a neuter plural expression preserving the Vulgate's openness between "My Father's affairs" and "My Father's house."

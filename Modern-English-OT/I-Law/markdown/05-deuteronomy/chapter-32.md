@@ -47,7 +47,7 @@
 
 **32:21** They themselves provoked Me with what was not God, and angered Me with their vanities; and I will provoke them with what is not a people, and with a foolish nation I will anger them.
 
-**32:22** A fire has been kindled in My fury, and it will burn all the way to the lowest depths of the netherworld; and it will devour the earth with its growth, and burn up the foundations of the mountains.
+**32:22** A fire has been kindled in My fury, and it will burn all the way to the lowest depths of the underworld; and it will devour the earth with its growth, and burn up the foundations of the mountains.
 
 **32:23** I will gather evils upon them, and I will use up My arrows on them.
 
@@ -67,7 +67,7 @@
 
 **32:31** For our God is not like their gods, and our enemies are judges.
 
-**32:32** From the vine of Sodom is their vine, and from the outskirts of Gomorrah; their grape is a grape of gall, and their clusters are most bitter.
+**32:32** From the vineyard of Sodom is their vineyard, and from the outskirts of Gomorrah; their grape is a grape of gall, and their clusters are most bitter.
 
 **32:33** Their wine is the gall of dragons, and the incurable venom of asps.
 

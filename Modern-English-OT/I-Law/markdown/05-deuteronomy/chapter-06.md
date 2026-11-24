@@ -54,7 +54,7 @@
 ## Translator Notes
 
 - **6:4** — Latin 'Dominus Deus noster, Dominus unus est' uses a single verb 'est' and can be read either as "the Lord our God is one Lord" (taking 'Dominus unus' as predicate) or "the Lord our God, the Lord is one."
-- **6:8** — Latin 'eruntque et movebuntur' ("and they shall be and move") follows the Septuagint rendering of the rare Hebrew term usually translated "frontlets"; likewise, v. 9 reads 'in limine, et ostiis' ("on the threshold and the doors") rather than Hebrew "doorposts" and "gates."
+- **6:8** — Latin 'eruntque et movebuntur' ("and they shall be and move") stands where the Hebrew has a rare noun for bands or frontlets; likewise, v. 9 reads 'in limine, et ostiis' ("on the threshold and the doors") rather than Hebrew "doorposts" and "gates."
 - **6:11** — In this Latin text, the material corresponding to standard verses 11-13 is combined under v. 11; note also the Vulgate-distinct readings 'quas non exstruxisti' ("which you did not construct," vs. Hebrew "fill") and 'illi soli' ("Him alone," matching the Septuagint and Matt 4:10).
 - **6:16** — Latin 'in loco tentationis' ("at the place of testing") translates the Hebrew place name Massah according to its meaning.
 - **6:25** — Latin 'Eritque nostri misericors' ("And He will be merciful to us") aligns with the Septuagint in reading "mercy" where the Hebrew Masoretic Text reads "righteousness" ("it will be righteousness for us").

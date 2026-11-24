@@ -29,7 +29,7 @@
 
 **20:12** Besides, she is truly my sister as well, the daughter of my father and not the daughter of my mother, and I took her as my wife.
 
-**20:13** Now after God brought me out from my father's house, I said to her, 'You will show this kindness to me: in every place that we enter, you will say that I am your brother.'"
+**20:13** Now after God brought me out from my father's house, I said to her, 'You will show this mercy to me: in every place that we enter, you will say that I am your brother.'"
 
 **20:14** So Abimelech took sheep and oxen, and male servants and female servants, and gave them to Abraham, and returned Sarah his wife to him,
 

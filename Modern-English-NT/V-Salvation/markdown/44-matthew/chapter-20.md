@@ -43,7 +43,7 @@
 
 **20:19** and will hand Him over to the Gentiles to be mocked, and flogged, and crucified, and on the third day He will rise again."
 
-**20:20** Then the mother of the sons of Zebedee approached Him with her sons, paying homage and asking something from Him.
+**20:20** Then the mother of the sons of Zebedee approached Him with her sons, worshiping and asking something from Him.
 
 **20:21** He said to her, "What do you want?" She said to Him, "Say that these two sons of mine may sit, one at Your right and one at Your left, in Your kingdom."
 

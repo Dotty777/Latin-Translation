@@ -41,7 +41,7 @@
 
 **2:18** And the disciples of John and the Pharisees were fasting; and they came and said to Him, "Why do the disciples of John and of the Pharisees fast, but Your disciples do not fast?"
 
-**2:19** And Jesus said to them, "Can the sons of the wedding fast as long as the bridegroom is with them? For as long as they have the bridegroom with them, they cannot fast.
+**2:19** And Jesus said to them, "Can the sons of the wedding fast as long as the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast.
 
 **2:20** But the days will come when the bridegroom will be taken away from them, and then they will fast in those days.
 

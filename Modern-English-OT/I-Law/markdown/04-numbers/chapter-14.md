@@ -91,7 +91,7 @@
 
 **14:43** The Amalekite and the Canaanite are before you, by whose sword you will fall, because you were unwilling to submit to the Lord; nor will the Lord be with you."
 
-**14:44** But they, darkened, went up to the summit of the mountain. Yet the ark of the testament of the Lord and Moses did not depart from the camp.
+**14:44** But they, darkened, went up to the summit of the mountain. Yet the ark of the covenant of the Lord and Moses did not depart from the camp.
 
 **14:45** And the Amalekite and the Canaanite, who dwelt on the mountain, came down, and striking them and cutting them down, pursued them as far as Hormah.
 
@@ -99,6 +99,6 @@
 
 - **14:3** — The Vulgate adds "vast" (vasta) to the wilderness, shifts to a present-tense wish ("if only we might perish," utinam pereamus), and continues with a negative wish ("may the Lord not lead us") rather than the Hebrew question ("Why is the Lord bringing us?").
 - **14:10** — Latin super tectum foederis literally reads "above the roof of the covenant," a distinctive Vulgate wording for the covering of the tent of meeting.
-- **14:12** — Latin faciam principem super gentem magnam specifies making Moses a ruler over a greater nation, whereas the Hebrew reads making him into a greater and mightier nation.
+- **14:12** — Latin faciam principem super gentem magnam specifies making Moses a ruler over a great nation, whereas the Hebrew reads making him into a greater and mightier nation.
 - **14:18** — Latin nullumque innoxium derelinquens literally means "leaving no one guiltless" (or "unpunished"), rendering the objectless Hebrew idiom for not acquitting guilt. The verb visitas ("You who visit") shifts into second-person address within the quoted proclamation.
 - **14:44** — Latin contenebrati ("darkened," i.e., blinded in mind) is a distinctive Vulgate rendering reflecting a connection between the Hebrew verb for acting presumptuously and the Hebrew root for darkness.

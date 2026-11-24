@@ -20,5 +20,5 @@
 - [Chapter 12](chapter-12.md) — 44 verses, 5 notes
 - [Chapter 13](chapter-13.md) — 37 verses, 5 notes
 - [Chapter 14](chapter-14.md) — 72 verses, 7 notes
-- [Chapter 15](chapter-15.md) — 46 verses, 5 notes, +1 additional
+- [Chapter 15](chapter-15.md) — 46 verses, 4 notes, +1 additional
 - [Chapter 16](chapter-16.md) — 20 verses, 4 notes

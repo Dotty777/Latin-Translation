@@ -17,7 +17,7 @@
 
 **21:6** "These things that you see, days will come in which not a stone will be left upon a stone that will not be demolished."
 
-**21:7** And they questioned Him, saying, "Teacher, when will these things be, and what will be the sign when they begin to take place?"
+**21:7** And they questioned Him, saying, "Master, when will these things be, and what will be the sign when they begin to take place?"
 
 **21:8** And He said, "Watch out that you are not led astray; for many will come in My name, saying, 'I am,' and, 'The time has drawn near.' Therefore do not go after them.
 

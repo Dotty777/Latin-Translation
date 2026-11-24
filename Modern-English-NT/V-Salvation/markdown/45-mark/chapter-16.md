@@ -11,7 +11,7 @@
 
 **16:3** And they were saying to each other, "Who will roll back the stone for us from the entrance of the tomb?"
 
-**16:4** And looking up, they saw the stone rolled back. For indeed it was very large.
+**16:4** And looking, they saw the stone rolled back. For indeed it was very large.
 
 **16:5** And entering the tomb, they saw a young man sitting on the right side, clothed in a bright white robe, and they were astounded.
 
@@ -50,4 +50,4 @@
 - **16:1** — Vulgate specifies Jesum ("Jesus") rather than a pronoun ("him") as in most Greek manuscripts.
 - **16:2** — Latin una sabbatorum (literally "on one of the Sabbaths") is a Semitic idiom meaning "on the first day of the week" (compare prima sabbati in 16:9).
 - **16:8** — Vulgate renders Greek ekstasis ("astonishment/bewilderment") with pavor ("terror/dread").
-- **16:19** — Vulgate uses the present tense sedet ("sits") rather than the Greek aorist ("sat down"), emphasizing Christ's ongoing session at the right hand of God.
+- **16:19** — The Vulgate uses the present tense sedet ("sits") where the Greek has the aorist ("sat down").

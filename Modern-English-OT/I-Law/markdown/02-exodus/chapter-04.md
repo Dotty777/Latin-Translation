@@ -70,6 +70,6 @@
 ## Translator Notes
 
 - **4:12** — Latin in ore tuo ("in your mouth"; likewise in 4:15) is a distinctly Vulgate reading where the Hebrew reads "with your mouth."
-- **4:13** — Latin mitte quem missurus es ("send the one whom You are going to send") uses the future active participle, retaining the ambiguity between asking God to send someone else and, in traditional Christian exegesis, pointing toward the coming Messiah.
+- **4:13** — Latin mitte quem missurus es ("send the one whom You are going to send") uses the future active participle; the Hebrew reads "send by the hand of whom You will send."
 - **4:16** — Latin in his quae ad Deum pertinent ("in those things that pertain to God") is a Vulgate-distinct rendering where the Hebrew literally reads "as God."
 - **4:25** — Latin acutissimam petram ("a very sharp stone") renders the Hebrew "flint," and Sponsus sanguinum ("a bridegroom of blood," literally plural "of bloods") preserves a famously difficult idiom whose precise referent remains debated.

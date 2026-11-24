@@ -111,6 +111,6 @@
 
 - **12:8** — The Vulgate renders the Hebrew "bitter herbs" (merorim) specifically as lactucis agrestibus ("wild lettuce").
 - **12:11** — The Vulgate transliterates Hebrew Pesach as Phase and inserts the explanatory gloss (id est, transitus), "that is, the passing over," which does not appear in the Hebrew text.
-- **12:22** — The Vulgate reads in limine ("on the threshold"), reflecting one meaning of the ambiguous Hebrew noun saph, which many other versions render "basin."
+- **12:22** — The Vulgate reads in limine ("on the threshold"), reflecting one meaning of the ambiguous Hebrew noun saph, which can also mean "basin."
 - **12:29** — The Vulgate specifies the feminine captivae ("the captive woman who was in prison"), whereas the Hebrew uses the masculine singular ("the captive who was in the dungeon").
 - **12:48** — The Vulgate uses Roman civic terms, in vestram coloniam ("into your settlement") here and colono ("settler") in v. 49, where the Hebrew speaks simply of a stranger sojourning with Israel.

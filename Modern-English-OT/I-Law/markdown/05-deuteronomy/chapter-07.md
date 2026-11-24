@@ -7,7 +7,7 @@
 
 **7:1** When the Lord your God brings you into the land that you will enter to possess, and wipes out many nations before you, the Hittites, the Girgashites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites, seven nations far greater in number than you are and stronger than you,
 
-**7:2** and the Lord your God hands them over to you, you shall strike them down to utter destruction. You shall not enter into a treaty with them, nor show mercy to them,
+**7:2** and the Lord your God hands them over to you, you shall strike them down to utter destruction. You shall not enter into a covenant with them, nor show mercy to them,
 
 **7:3** nor shall you form marriages with them. You shall not give your daughter to his son, nor shall you take his daughter for your son,
 
@@ -19,7 +19,7 @@
 
 **7:7** Not because you surpassed all the nations in number did the Lord join Himself to you and choose you, since you are fewer than all the peoples,
 
-**7:8** but because the Lord loved you and kept the oath that He swore to your fathers; and He brought you out with a mighty hand and redeemed you from the house of slavery, from the hand of Pharaoh, king of Egypt.
+**7:8** but because the Lord loved you and kept the oath that He swore to your fathers; and He brought you out with a strong hand and redeemed you from the house of slavery, from the hand of Pharaoh, king of Egypt.
 
 **7:9** And you will know that the Lord your God, He Himself is the mighty and faithful God, keeping covenant and mercy for those who love Him and for those who keep His precepts, to a thousand generations,
 
@@ -62,5 +62,5 @@
 - **7:5** — The Vulgate renders the Canaanite cult objects as statuas ("statues") and lucos ("groves"), whereas the Hebrew text refers to sacred pillars and Asherah poles.
 - **7:10** — The Vulgate expands the Hebrew idiom "to his face" into the explicit temporal rendering statim ... protinus eis restituens quod merentur ("immediately ... at once paying them back what they deserve").
 - **7:23** — The Vulgate reads et interficiet illos ("and He will put them to death"), whereas the Hebrew text reads "and throw them into great confusion."
-- **7:25** — The Clementine Vulgate reads Domini tui ("your Lord") without Dei ("God"), and reads de quibus facta sunt ("from which they are made") rather than the Hebrew "which is on them."
+- **7:25** — This Latin text reads Domini tui ("your Lord") without Dei ("God"), and reads de quibus facta sunt ("from which they are made") rather than the Hebrew "which is on them."
 - **7:26** — The Vulgate specifies ex idolo ("from an idol", vs. Hebrew "an abomination") and retains the loanword anathema, denoting something placed under a divine ban and devoted to destruction.

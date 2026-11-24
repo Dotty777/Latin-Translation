@@ -37,7 +37,7 @@
 
 **20:16** He will come and destroy those tenant farmers, and give the vineyard to others." Upon hearing this, they said to Him, "May that never happen!"
 
-**20:17** But He, looking closely at them, said, "What then is this that is written: 'The stone that the builders rejected, this one has become the head of the corner'?
+**20:17** But He, looking at them, said, "What then is this that is written: 'The stone that the builders rejected, this one has become the head of the corner'?
 
 **20:18** Everyone who falls on that stone will be shattered; yet on whomever it falls, it will crush him to pieces."
 

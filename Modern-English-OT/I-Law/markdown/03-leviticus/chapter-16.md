@@ -7,7 +7,7 @@
 
 **16:1** And the Lord spoke to Moses after the death of the two sons of Aaron, when they were killed while offering strange fire,
 
-**16:2** and commanded him, saying: "Speak to Aaron your brother, that he not enter at all times into the sanctuary that is inside the veil before the propitiatory by which the ark is covered, so that he may not die (for I will appear in a cloud over the oracle),
+**16:2** and commanded him, saying: "Speak to Aaron your brother, that he not enter at all times into the sanctuary that is inside the veil before the mercy seat by which the ark is covered, so that he may not die (for I will appear in a cloud over the oracle),
 
 **16:3** unless he has done these things beforehand: he will offer a calf for sin, and a ram as a burnt offering.
 
@@ -31,7 +31,7 @@
 
 **16:13** so that, when the aromatics are placed on the fire, their cloud and vapor may cover the oracle that is above the testimony, and he may not die.
 
-**16:14** He will also take some of the blood of the calf, and sprinkle with his finger seven times facing the propitiatory toward the east.
+**16:14** He will also take some of the blood of the calf, and sprinkle with his finger seven times facing the mercy seat toward the east.
 
 **16:15** And when he has slaughtered the male goat for the sin of the people, he will bring its blood inside the veil, just as was commanded concerning the blood of the calf, so that he may sprinkle it opposite the oracle,
 
@@ -76,7 +76,7 @@
 ## Translator Notes
 
 - **16:1** — Vulgate "when they were killed while offering strange fire" explicitly recalls the incident of Leviticus 10:1, whereas the Hebrew reads "when they drew near before the Lord and died."
-- **16:2** — Throughout this chapter the Vulgate alternates between "propitiatorium" ("propitiatory", vv. 2, 14) and "oraculum" ("oracle", vv. 2, 13, 15) to render the single Hebrew term for the cover of the ark.
-- **16:8** — Vulgate "capro emissario" ("for the emissary goat", the origin of the English term "scapegoat") interprets Hebrew "la'azazel" ("for Azazel") as a goat designated to be sent away; see also verses 10 and 26.
+- **16:2** — Throughout this chapter the Vulgate alternates between "propitiatorium" ("mercy seat", vv. 2, 14) and "oraculum" ("oracle", vv. 2, 13, 15) to render the single Hebrew term for the cover of the ark.
+- **16:8** — Vulgate "capro emissario" ("for the emissary goat") interprets Hebrew "la'azazel" ("for Azazel") as a goat designated to be sent away; see also verses 10 and 26.
 - **16:10** — Vulgate "ut fundat preces super eo" ("so that he may pour out prayers over it") renders the Hebrew verb for making atonement in terms of intercessory prayer, a distinctive Vulgate pattern also reflected in verses 6, 11, 17, 18, 24, and 34.
 - **16:18** — Vulgate "oret pro se" ("let him pray for himself") differs from the Hebrew, which speaks of making atonement for the altar itself.

@@ -11,7 +11,7 @@
 
 **25:3** And these are the things that you are to receive: gold, and silver, and bronze,
 
-**25:4** hyacinth-blue and purple, and twice-dyed scarlet, and fine linen, goat hair,
+**25:4** violet-blue and purple, and twice-dyed scarlet, and fine linen, goat hair,
 
 **25:5** and ram skins dyed red, and violet skins, and acacia wood;
 
@@ -93,5 +93,5 @@
 - **25:7** — Latin "rationale" (lit., "rational" or "oracle-piece," translating Septuagint "logeion") denotes the high priest's breastpiece.
 - **25:18** — Here and in v. 20 the Vulgate uses "oraculum" ("oracle") alongside "propitiatorium" ("mercy seat," vv. 17, 20, 22), whereas the Hebrew uses a single term ("kapporet") throughout.
 - **25:22** — Vulgate "Inde praecipiam" ("From there I will give commands") differs from the Hebrew reading "there I will meet with you."
-- **25:29** — Vulgate "thuribula" ("censers") is a distinctive Latin rendering for one of the golden table vessels (Hebrew "menaqiyyot," usually "bowls" or "jars").
+- **25:29** — Vulgate "thuribula" ("censers") is a distinctive Latin rendering for one of the golden table vessels.
 - **25:33** — Latin "in nucis modum" and "instar nucis" ("in the shape/likeness of a nut") and "lilia" ("lilies," also vv. 31, 34) are Vulgate renderings where the Hebrew specifies almond-shaped cups and blossoms.

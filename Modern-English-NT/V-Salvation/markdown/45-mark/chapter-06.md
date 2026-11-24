@@ -17,7 +17,7 @@
 
 **6:6** And He marveled because of their unbelief, and He was going around the surrounding villages, teaching.
 
-**6:7** And He called the Twelve, and began to send them out two by two, and He was giving them authority over unclean spirits.
+**6:7** And He called the twelve, and began to send them out two by two, and He was giving them authority over unclean spirits.
 
 **6:8** And He commanded them to take nothing on the way except a staff only: no bag, no bread, and no copper money in their belt,
 
@@ -77,7 +77,7 @@
 
 **6:36** send them away, so that going into the nearest hamlets and villages, they may buy themselves food to eat."
 
-**6:37** And answering, He said to them, "You give them something to eat." And they said to Him, "Should we go and buy loaves for two hundred denarii and give them something to eat?"
+**6:37** And answering, He said to them, "You give them something to eat." And they said to Him, "Let us go and buy loaves for two hundred denarii, and we will give them something to eat."
 
 **6:38** And He said to them, "How many loaves do you have? Go and see." And when they had found out, they said, "Five, and two fish."
 
@@ -93,7 +93,7 @@
 
 **6:44** Now those who ate were five thousand men.
 
-**6:45** And immediately He compelled His disciples to board the boat, so that they would go ahead of Him across the water to Bethsaida, while He Himself dismissed the people.
+**6:45** And immediately He compelled His disciples to board the boat, so that they would go ahead of Him across the strait to Bethsaida, while He Himself dismissed the people.
 
 **6:46** And when He had dismissed them, He went away to the mountain to pray.
 
@@ -113,13 +113,13 @@
 
 **6:54** And when they had come out of the boat, people immediately recognized Him,
 
-**6:55** and running through that entire region, they began to carry around on mats those who were ill, wherever they heard He was.
+**6:55** and running through that entire region, they began to carry around on cots those who were ill, wherever they heard He was.
 
 **6:56** And wherever He entered, into villages, or into hamlets, or cities, they would place the sick in the public squares and beg Him that they might touch even the fringe of His garment; and as many as touched Him were made well.
 
 ## Translator Notes
 
-- **6:3** — Latin faber denotes a craftsman or artisan (traditionally rendered "carpenter"). The Vulgate reads Joseph (matching certain ancient manuscripts), whereas many Greek texts read "Joses."
+- **6:3** — Latin faber denotes a craftsman or artisan. The Vulgate reads Joseph (matching certain ancient manuscripts), whereas many Greek texts read "Joses."
 - **6:4** — The Vulgate places "in his house" (in domo sua) before "among his relatives" (in cognatione sua), reversing the order found in most Greek manuscripts.
 - **6:20** — Following the majority Greek tradition (polla epoiei), the Vulgate reads multa faciebat ("he did many things"), whereas critical Greek editions read polla eporei ("he was greatly perplexed").
 - **6:26** — The Vulgate reads singular "the oath" (jusjurandum) and echoes contristatus est ("was grieved") with contristare ("to grieve her"), where the Greek has plural "oaths" and athetesai ("to refuse her").

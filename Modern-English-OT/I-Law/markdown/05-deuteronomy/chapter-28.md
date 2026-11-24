@@ -154,4 +154,4 @@
 - **28:54** — The Vulgate mentions only the man's brother and wife, omitting the third phrase found in the Hebrew ('and the rest of his children whom he has left').
 - **28:57** — The Clementine Vulgate has the plural verb Comedent ('they will eat') rather than the Hebrew singular ('she will eat').
 - **28:68** — The Vulgate uses third-person dixit ('He told', referring to the Lord) and passive venderis ('you will be sold'), where the Hebrew has first-person 'I said to you' and reflexive 'you will offer yourselves for sale'.
-- **28:69** — Following the Hebrew versification, the Vulgate concludes chapter 28 with this summary verse (28:69), which most English Bibles number as Deuteronomy 29:1.
+- **28:69** — As in the Hebrew text, this summary verse concludes chapter 28 in the Latin (28:69).

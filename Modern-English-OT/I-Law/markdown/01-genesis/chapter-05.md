@@ -72,4 +72,4 @@
 - **5:2** — The Vulgate retains "Adam" as a proper name for the pair ("called their name Adam") rather than translating it as a common noun ("Man" or "Humankind").
 - **5:3** — Like the Hebrew, the Latin omits an explicit direct object after "genuit" ("fathered"), translated literally here as "fathered one."
 - **5:24** — The Vulgate reads "non apparuit" ("he was not seen" or "he did not appear"), corresponding to the Hebrew "he was not" and the Septuagint "he was not found."
-- **5:31** — In the Vulgate verse numbering, Genesis 5 ends at verse 31, incorporating the notice of Noah's age and his three sons that Hebrew and most modern English Bibles place in a separate verse 32.
+- **5:31** — In this text's verse numbering, Genesis 5 ends at verse 31, which includes the notice of Noah's age and his three sons that the Hebrew places in a separate verse 32.

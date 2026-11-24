@@ -57,6 +57,6 @@
 
 ## Translator Notes
 
-- **19:6** — Latin regnum sacerdotale ("a priestly kingdom") translates the Hebrew "kingdom of priests" with an adjective modifying "kingdom," paralleling the Greek Septuagint.
+- **19:6** — Latin regnum sacerdotale ("a priestly kingdom") translates the Hebrew "kingdom of priests" with an adjective modifying "kingdom."
 - **19:18** — Latin eratque omnis mons terribilis ("and the entire mountain was terrifying") is a distinctly Vulgate reading where the Hebrew Masoretic Text states that the whole mountain trembled violently.
 - **19:19** — Latin et Deus respondebat ei ("and God answered him") omits the Hebrew phrase "in thunder" (or "with a voice"), while expanding the trumpet description with et prolixius tendebatur ("and was drawn out longer").

@@ -55,7 +55,7 @@
 
 **19:25** Now on hearing these things, the disciples were greatly amazed, saying, "Who, then, will be able to be saved?"
 
-**19:26** Looking steadily, Jesus said to them, "With human beings this is impossible; with God, however, everything is possible."
+**19:26** Looking at them, Jesus said to them, "With human beings this is impossible; with God, however, everything is possible."
 
 **19:27** Then, answering, Peter said to Him, "Look, we have left everything and followed You; what then will there be for us?"
 

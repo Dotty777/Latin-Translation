@@ -49,7 +49,7 @@
 
 **4:22** And all were bearing witness to Him, and marveling at the words of grace that were proceeding from His mouth, and they were saying, "Is this not the son of Joseph?"
 
-**4:23** And He said to them, "Certainly you will say this proverb to Me: 'Physician, heal yourself! All the things we have heard were done in Capernaum, do here also in Your homeland.'"
+**4:23** And He said to them, "Certainly you will say this proverb to Me: 'Physician, heal Yourself! All the things we have heard were done in Capernaum, do here also in Your homeland.'"
 
 **4:24** Then He said, "Amen, I tell you that no prophet is accepted in his own homeland.
 
@@ -73,7 +73,7 @@
 
 **4:34** saying, "Leave us alone! What do we have to do with You, Jesus the Nazarene? Have You come to destroy us? I know You, who You are: the Holy One of God."
 
-**4:35** And Jesus rebuked it, saying, "Be silent, and come out of him." And when the demon had thrown him into the middle, it came out of him and did not harm him at all.
+**4:35** And Jesus rebuked him, saying, "Be silent, and come out of him." And when the demon had thrown him into the middle, it came out of him and did not harm him at all.
 
 **4:36** And dread came upon all, and they were conversing with one another, saying, "What is this word, that with authority and power He commands unclean spirits, and they come out?"
 
@@ -99,5 +99,5 @@
 - **4:5** — The Vulgate explicitly includes 'diabolus' ("the devil") and 'in montem excelsum' ("onto a high mountain"), matching the Byzantine Greek tradition, whereas many critical Greek manuscripts omit both details in Luke.
 - **4:10** — Following the Latin Psalter (Psalm 90:11 [91:11]), the Vulgate uses the perfect tense 'mandavit' ("He has commanded") rather than the future tense found in the Greek text.
 - **4:18** — The Vulgate includes 'sanare contritos corde' ("to heal the brokenhearted").
-- **4:19** — The Clementine Vulgate uniquely adds 'et diem retributionis' ("and the day of retribution") from Isaiah 61:2.
+- **4:19** — The Clementine Vulgate adds 'et diem retributionis' ("and the day of retribution") from Isaiah 61:2, which the Greek text of Luke lacks here.
 - **4:44** — The Vulgate reads 'Galilææ' ("of Galilee"), matching the Byzantine Greek tradition, whereas many early Greek manuscripts and modern critical editions read "of Judea."

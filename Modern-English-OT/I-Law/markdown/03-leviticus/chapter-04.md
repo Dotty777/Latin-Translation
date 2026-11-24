@@ -11,17 +11,17 @@
 
 **4:3** if the priest who is anointed sins, causing the people to offend, he shall offer for his sin an unblemished calf to the Lord:
 
-**4:4** and he shall bring it to the doorway of the tabernacle of testimony before the Lord, and he shall place his hand upon its head and sacrifice it to the Lord.
+**4:4** and he shall bring it to the doorway of the tabernacle of the testimony before the Lord, and he shall place his hand upon its head and sacrifice it to the Lord.
 
-**4:5** He shall also draw from the blood of the calf, bringing it into the tabernacle of testimony.
+**4:5** He shall also draw from the blood of the calf, bringing it into the tabernacle of the testimony.
 
 **4:6** And when he has dipped his finger in the blood, he shall sprinkle with it seven times before the Lord, facing the veil of the sanctuary.
 
-**4:7** And he shall put some of that same blood upon the horns of the altar of incense most pleasing to the Lord, which is in the tabernacle of testimony; but all the remaining blood he shall pour onto the base of the altar of burnt offering at the entrance of the tabernacle.
+**4:7** And he shall put some of that same blood upon the horns of the altar of incense most pleasing to the Lord, which is in the tabernacle of the testimony; but all the remaining blood he shall pour onto the base of the altar of burnt offering at the entrance of the tabernacle.
 
-**4:8** And he shall remove the fat of the calf for sin, both that which covers the vital organs and all things that are inside:
+**4:8** And he shall remove the fat of the calf for sin, both that which covers the internal organs and all things that are inside:
 
-**4:9** the two kidneys and the caul that is over them beside the flanks, and the fat of the liver with the kidneys,
+**4:9** the two kidneys and the membrane that is over them beside the flanks, and the fat of the liver with the kidneys,
 
 **4:10** just as it is removed from the calf of the sacrifice of peace offerings; and he shall burn them upon the altar of burnt offering.
 
@@ -35,11 +35,11 @@
 
 **4:15** And the elders of the people shall place their hands upon its head before the Lord. And when the calf has been sacrificed in the sight of the Lord,
 
-**4:16** the priest who is anointed shall bring some of its blood into the tabernacle of testimony,
+**4:16** the priest who is anointed shall bring some of its blood into the tabernacle of the testimony,
 
 **4:17** having dipped his finger, sprinkling seven times facing the veil.
 
-**4:18** And he shall put some of that same blood on the horns of the altar that is before the Lord in the tabernacle of testimony; but the remaining blood he shall pour beside the base of the altar of burnt offerings, which is at the doorway of the tabernacle of testimony.
+**4:18** And he shall put some of that same blood on the horns of the altar that is before the Lord in the tabernacle of the testimony; but the remaining blood he shall pour beside the base of the altar of burnt offerings, which is at the doorway of the tabernacle of the testimony.
 
 **4:19** And he shall take all its fat and burn it upon the altar,
 
@@ -65,7 +65,7 @@
 
 **4:30** And the priest shall take some of the blood on his finger; and touching the horns of the altar of burnt offering, he shall pour the remainder at its base.
 
-**4:31** And removing all the fat, just as it is customarily removed from the victims of peace offerings, he shall burn it upon the altar for an aroma of sweetness to the Lord; and he shall pray for him, and it will be forgiven him.
+**4:31** And removing all the fat, just as it is customarily removed from the victims of peace offerings, he shall burn it upon the altar for a fragrance of sweetness to the Lord; and he shall pray for him, and it will be forgiven him.
 
 **4:32** But if instead he offers a victim for sin from the livestock, namely, an unblemished sheep:
 
@@ -78,6 +78,6 @@
 ## Translator Notes
 
 - **4:2** — Latin anima ("soul") is used throughout Leviticus 4-5 as a literal biblical idiom for an individual person.
-- **4:4** — Vulgate tabernaculi testimonii ("tabernacle of testimony") follows the Septuagint tradition, whereas the Hebrew Masoretic Text reads "tent of meeting."
+- **4:4** — Vulgate tabernaculi testimonii ("tabernacle of the testimony") follows the Septuagint tradition, whereas the Hebrew Masoretic Text reads "tent of meeting."
 - **4:20** — Throughout Leviticus 4-5, the Vulgate renders the priest's atoning act with verbs of intercessory prayer (rogare and orare, "pray," joined with expians in 5:13), and here reads propitius erit eis Dominus ("the Lord will be merciful to them") where the Hebrew has "it will be forgiven them."
-- **4:35** — Vulgate arietis ("ram") is a distinctly Vulgate reading where the Hebrew Masoretic Text and Septuagint read "lamb."
+- **4:35** — Vulgate arietis ("ram") is a distinctive reading where the Hebrew Masoretic Text reads "lamb" and the Septuagint "sheep."

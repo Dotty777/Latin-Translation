@@ -67,11 +67,11 @@
 
 **6:31** And just as you want people to do to you, you also do likewise to them.
 
-**6:32** And if you love those who love you, what credit do you have? For even sinners love those who love them.
+**6:32** And if you love those who love you, what thanks do you have? For even sinners love those who love them.
 
-**6:33** And if you do good to those who do good to you, what credit do you have? For indeed, even sinners do this.
+**6:33** And if you do good to those who do good to you, what thanks do you have? For indeed, even sinners do this.
 
-**6:34** And if you lend to those from whom you hope to receive back, what credit do you have? For even sinners lend to sinners so that they may receive back an equal amount.
+**6:34** And if you lend to those from whom you hope to receive back, what thanks do you have? For even sinners lend to sinners so that they may receive back an equal amount.
 
 **6:35** However, love your enemies, do good, and lend, hoping for nothing from it; and your reward will be great, and you will be sons of the Most High, because He Himself is kind toward the ungrateful and the evil.
 

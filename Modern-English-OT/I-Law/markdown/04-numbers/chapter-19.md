@@ -54,4 +54,4 @@
 - **19:2** — Latin religio victimae ("rite of the sacrifice") corresponds to Hebrew "statute of the law," and aetatis integrae ("of full age," literally "of unimpaired age") renders Hebrew temimah ("unblemished") alongside in qua nulla sit macula ("in which there is no blemish").
 - **19:3** — The Vulgate has Eleazar himself sacrifice the cow in conspectu omnium ("in the sight of all") and burn her cunctis videntibus ("while all look on," v. 5), whereas the Hebrew text has another person slaughter and burn her in Eleazar's presence.
 - **19:18** — The Vulgate summarizes the Hebrew list of corpse-defilement sources with the concise phrase homines hujuscemodi contagione pollutos ("the people defiled by a contagion of this kind").
-- **19:19** — The Vulgate reads immundus erit usque ad vesperum ("he will be unclean until evening"), matching verses 7, 8, 10, 21, and 22, whereas the Hebrew and Septuagint state that he will be "clean at evening."
+- **19:19** — The Vulgate reads immundus erit usque ad vesperum ("he will be unclean until evening"), as in verses 8, 10, 21, and 22, whereas the Hebrew states that he will be "clean at evening."

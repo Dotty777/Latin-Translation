@@ -123,7 +123,7 @@
 
 **7:59** and for sacrifices of peace offerings two oxen, five rams, five male goats, five one-year-old lambs. This was the offering of Gamaliel son of Pedahzur.
 
-**7:60** On the ninth day the chief of the sons of Benjamin, Abidan son of Gideoni,
+**7:60** On the ninth day the chief of the sons of Benjamin, Abidan son of Gideon,
 
 **7:61** presented a silver dish weighing one hundred thirty shekels, a silver bowl of seventy shekels, by the weight of the sanctuary, both full of fine flour moistened with oil for a sacrifice;
 
@@ -133,7 +133,7 @@
 
 **7:64** and a male goat for sin;
 
-**7:65** and for sacrifices of peace offerings two oxen, five rams, five male goats, five one-year-old lambs. This was the offering of Abidan son of Gideoni.
+**7:65** and for sacrifices of peace offerings two oxen, five rams, five male goats, five one-year-old lambs. This was the offering of Abidan son of Gideon.
 
 **7:66** On the tenth day the chief of the sons of Dan, Ahiezer son of Ammishaddai,
 

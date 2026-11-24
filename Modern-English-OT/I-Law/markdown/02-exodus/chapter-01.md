@@ -53,5 +53,5 @@
 
 - **1:7** — Latin "quasi germinantes" ("as though sprouting forth") renders the Hebrew verb for swarming or teeming with a botanical image of rapid growth.
 - **1:11** — Latin "urbes tabernaculorum" ("cities of tabernacles") is a distinctly Vulgate rendering, where the Hebrew Masoretic Text reads "store cities" and the Septuagint reads "fortified cities."
-- **1:16** — Latin "et partus tempus advenerit" ("and the time of birth has come") renders functionally the difficult Hebrew phrase usually translated "upon the birthstool."
-- **1:19** — Latin "ipsae enim obstetricandi habent scientiam" ("for they themselves have the knowledge of midwifery") is a notable Vulgate reading following ancient interpretive traditions, whereas the Hebrew Masoretic Text is commonly rendered "for they are vigorous."
+- **1:16** — Latin "et partus tempus advenerit" ("and the time of birth has come") renders by sense the difficult Hebrew phrase "upon the two stones" (apparently a birthstool).
+- **1:19** — Latin "ipsae enim obstetricandi habent scientiam" ("for they themselves have the knowledge of midwifery") is a distinctive Vulgate reading, whereas the Hebrew Masoretic Text says that they are "lively" (vigorous).

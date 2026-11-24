@@ -39,7 +39,7 @@
 
 **22:17** You shall not permit sorcerers to live.
 
-**22:18** Whoever has sexual relations with an animal must certainly die.
+**22:18** Whoever has sexual relations with an animal must surely die.
 
 **22:19** Whoever sacrifices to gods, except to the Lord alone, shall be put to death.
 

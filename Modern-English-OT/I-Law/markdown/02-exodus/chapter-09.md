@@ -79,6 +79,6 @@
 
 - **9:3** — The Vulgate reads super agros tuos ("upon your fields"), whereas the Hebrew text specifies "upon your livestock that are in the field."
 - **9:4** — As in 8:18 (Faciamque mirabilem ... terram Gessen, "I will make marvelous the land of Goshen"), the Vulgate reads faciet Dominus mirabile ("the Lord will do a marvelous thing") and possessiones ("possessions"), where the Hebrew emphasizes "setting apart" Israel's "livestock."
-- **9:15** — Following the Septuagint, the Vulgate uses direct future indicatives (percutiam ... peribisque, "I will strike ... and you will perish") rather than the counterfactual past sense common in translations from the Hebrew ("I could have struck ... and you would have been cut off").
+- **9:15** — As in the Septuagint, the Vulgate uses future indicatives (percutiam ... peribisque, "I will strike ... and you will perish"), whereas the Hebrew uses past forms, generally understood as counterfactual ("I could have struck ... and you would have been cut off").
 - **9:31** — The Vulgate renders the Hebrew crop terms ("in the ear" and "in bud") as virens ("green") and folliculos germinaret ("putting forth pods").
 - **9:35** — The Vulgate combines both hardening verbs in the passive voice in a single clause (ingravatum est ... et induratum nimis, "was made heavy and exceedingly hardened") and places the mention of Pharaoh's servants here rather than in 9:34.

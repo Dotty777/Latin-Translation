@@ -7,7 +7,7 @@
 
 **23:1** And rising up, the entire multitude of them led Him to Pilate.
 
-**23:2** And they began to accuse Him, saying, "We found this man subverting our nation, and forbidding taxes to be given to Caesar, and saying that He is the Christ, a king."
+**23:2** And they began to accuse Him, saying, "We found this man subverting our nation, and forbidding tribute to be given to Caesar, and saying that He is the Christ, a king."
 
 **23:3** Now Pilate questioned Him, saying, "Are You the king of the Jews?" But answering, He said, "You say so."
 
@@ -81,7 +81,7 @@
 
 **23:39** And one of the robbers who were hanging there was blaspheming Him, saying, "If You are the Christ, save Yourself and us."
 
-**23:40** But the other, answering, was rebuking him, saying, "Do you not even fear God, since you are under the same condemnation?
+**23:40** But the other, answering, was rebuking him, saying, "You do not even fear God, since you are under the same condemnation.
 
 **23:41** And we indeed justly, for we are receiving what our deeds deserve; but this man has done nothing evil."
 

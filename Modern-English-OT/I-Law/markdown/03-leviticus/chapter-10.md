@@ -21,7 +21,7 @@
 
 **10:8** The Lord also said to Aaron,
 
-**10:9** "Wine, and anything that can intoxicate, you and your sons shall not drink when you enter the tabernacle of testimony, so that you may not die; for it is an everlasting command throughout your generations,
+**10:9** "Wine, and anything that can intoxicate, you and your sons shall not drink when you enter the tabernacle of the testimony, so that you may not die; for it is an everlasting command throughout your generations,
 
 **10:10** and so that you may have the knowledge to distinguish between the holy and the profane, between the defiled and the clean,
 
@@ -48,7 +48,7 @@
 ## Translator Notes
 
 - **10:5** — The Vulgate explicitly reads "just as they lay, clothed in linen tunics" (sicut jacebant, vestitos lineis tunicis) and "cast them outside" (ejecerunt foras), whereas the Hebrew simply says they carried them out "by their tunics."
-- **10:9** — The Vulgate renders Hebrew "strong drink" descriptively as "anything that can intoxicate" (omne quod inebriare potest), and renders the "tent of meeting" as "tabernacle of testimony" (tabernaculum testimonii), following the Septuagint.
+- **10:9** — The Vulgate renders Hebrew "strong drink" descriptively as "anything that can intoxicate" (omne quod inebriare potest), and renders the "tent of meeting" as "tabernacle of the testimony" (tabernaculum testimonii), following the Septuagint.
 - **10:14** — The Vulgate reads "shoulder" (armum) for the Hebrew thigh/leg, "in a most clean place" (in loco mundissimo, superlative), and "sacrifices of salvation" (hostiis salutaribus), echoing the Septuagint's rendering of peace/fellowship offerings.
 - **10:18** — The Vulgate reads "as was commanded to me" (sicut praeceptum est mihi), agreeing with the Septuagint, whereas the Hebrew Masoretic Text reads "as I commanded."
 - **10:19** — The Vulgate renders Aaron's closing question distinctively as "or please the Lord in the ceremonies with a mournful mind?" (mente lugubri), whereas the Hebrew asks whether eating the sin offering would have pleased the Lord; in 10:20, recepit satisfactionem literally means "accepted satisfaction," i.e., accepted Aaron's justification.

@@ -93,7 +93,7 @@
 
 **10:44** and whoever wishes to be first among you will be the slave of all.
 
-**10:45** For indeed, the Son of Man did not come to be served, but to serve and to give His life as a redemption for many."
+**10:45** For even the Son of Man did not come to be served, but to serve and to give His life as a redemption for many."
 
 **10:46** And they came to Jericho; and as He and His disciples and a very large crowd were departing from Jericho, the son of Timaeus, Bartimaeus, a blind man, was sitting beside the road, begging.
 
@@ -112,7 +112,7 @@
 ## Translator Notes
 
 - **10:7** — The Clementine Vulgate includes "and will cling to his wife" (et adhærebit ad uxorem suam), a clause omitted in several early Greek manuscripts.
-- **10:19** — The Clementine Vulgate places "do not commit adultery" (ne adulteres) before "do not kill" (ne occidas), reversing the order found in most Greek manuscripts of Mark.
+- **10:19** — The Clementine Vulgate places "do not commit adultery" (ne adulteres) before "do not kill" (ne occidas), as does the Byzantine Greek text; critical Greek editions have the reverse order.
 - **10:24** — The Clementine Vulgate includes "for those who trust in riches" (confidentes in pecuniis), reflecting the longer Byzantine textual tradition rather than the shorter Alexandrian Greek text.
 - **10:33** — The Clementine Vulgate adds "and to the elders" (et senioribus) to the chief priests and scribes, a distinctive reading absent from most Greek witnesses.
 - **10:40** — The Clementine Vulgate includes "to you" (vobis) in "is not Mine to give to you," whereas most critical Greek editions omit the pronoun.

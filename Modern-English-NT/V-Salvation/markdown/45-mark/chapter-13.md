@@ -23,7 +23,7 @@
 
 **13:9** But watch out for yourselves. For they will hand you over to councils, and in synagogues you will be beaten, and you will stand before governors and kings on account of Me, as a testimony to them.
 
-**13:10** And among all nations the gospel must first be proclaimed.
+**13:10** And among all nations the Gospel must first be proclaimed.
 
 **13:11** And when they lead you away, handing you over, do not think beforehand about what you should speak, but whatever is given to you in that hour, speak that; for it is not you who are speaking, but the Holy Spirit.
 
@@ -61,7 +61,7 @@
 
 **13:28** Now learn a parable from the fig tree. When its branch has already become tender and leaves have sprouted, you recognize that summer is near;
 
-**13:29** so you also, when you see these things happening, know that He is near, at the doors.
+**13:29** so you also, when you see these things happening, know that it is near, at the doors.
 
 **13:30** Amen, I tell you that this generation will not pass away until all these things happen.
 
@@ -84,5 +84,5 @@
 - **13:5** — The Clementine Vulgate reads the neuter pronoun quid ("anything" / "nothing") rather than the masculine quis ("anyone"), broadening the warning beyond human deceivers to anything that might mislead.
 - **13:19** — The Vulgate uses the plural predicate nominative tribulationes tales ("tribulations such as..."), directly equating those days with the tribulations themselves, where the Greek text uses a singular noun.
 - **13:25** — The Vulgate reads the genitive stellae caeli ("the stars of heaven") with the periphrastic erunt decidentes ("will be falling down"), rather than "falling from heaven" as in the Greek text.
-- **13:29** — Latin sit has no expressed subject; it is rendered "He is near" (referring to the Son of Man of verse 26), though it may also be understood impersonally as "it is near" (referring to the end or fulfillment).
+- **13:29** — Latin sit has no expressed subject; it may be understood impersonally ("it is near") or as referring to the Son of Man of verse 26 ("He is near").
 - **13:34** — The Vulgate joins cujusque operis ("of each task") as a genitive modifying potestatem ("authority"), rather than separating "authority" and "to each his work" as in the Greek text.

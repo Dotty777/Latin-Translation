@@ -29,7 +29,7 @@
 
 **24:12** And since iniquity has abounded, the love of many will grow cold;
 
-**24:13** but the one who perseveres to the very end, this one will be saved.
+**24:13** but the one who perseveres to the end, this one will be saved.
 
 **24:14** And this gospel of the kingdom will be proclaimed in the entire world as a testimony to all nations, and then the consummation will come.
 
@@ -112,5 +112,5 @@
 - **24:2** — Latin Videtis haec omnia? ("Do you see all these things?") is an affirmative question without the negation ("Do you not see...?") found in the Greek text.
 - **24:7** — The Clementine Vulgate includes pestilentiae ("plagues") and places it before fames ("famines"), whereas critical Greek editions omit "plagues" and Byzantine manuscripts list "famines" first.
 - **24:31** — Latin cum tuba, et voce magna ("with a trumpet and a loud voice") coordinates two nouns with et, whereas Greek critical texts read "with a loud trumpet" (and Byzantine texts read "with a trumpet of a great sound").
-- **24:36** — Following the Latin and Byzantine textual tradition, the Clementine Vulgate omits "nor the Son," reading only neque angeli caelorum, nisi solus Pater ("not even the angels of the heavens, except the Father alone").
+- **24:36** — The Clementine Vulgate reads only neque angeli caelorum, nisi solus Pater ("not even the angels of the heavens, except the Father alone"), without "nor the Son," agreeing with the Byzantine Greek manuscripts; critical Greek editions include it.
 - **24:42** — Both here (qua hora, "at what hour") and in verse 43 (qua hora), the Clementine Vulgate reads "hour," whereas critical Greek texts read "what day" in verse 42 and "what watch" in verse 43.

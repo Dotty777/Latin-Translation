@@ -17,7 +17,7 @@
 
 **3:6** "Bring near the tribe of Levi, and make them stand in the sight of Aaron the priest so that they may minister to him and keep watch,
 
-**3:7** and observe whatever pertains to the service of the multitude before the tabernacle of testimony,
+**3:7** and observe whatever pertains to the service of the multitude before the tabernacle of the testimony,
 
 **3:8** and guard the vessels of the tabernacle, serving in its ministry.
 

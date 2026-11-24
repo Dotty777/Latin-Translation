@@ -57,7 +57,7 @@
 
 ## Translator Notes
 
-- **2:4** — Latin "Quid mihi et tibi est, mulier?" ("What is it to Me and to you, woman?") renders a Semitic idiom distancing the speaker from the interlocutor's concern, with "woman" used as a respectful form of address.
+- **2:4** — Latin "Quid mihi et tibi est, mulier?" renders a Semitic idiom, literally "What is it to Me and to you, woman?"
 - **2:6** — Latin "metretas" refers to the Greek liquid measure metretes, roughly nine to ten gallons (about 39 liters) each.
 - **2:10** — Latin "inebriati fuerint" literally means "have become drunk," though in biblical usage it can also convey drinking freely or to the full.
 - **2:17** — The Vulgate reads the perfect/present "comedit" ("has consumed"), matching its rendering of Psalm 68:10 (69:9), whereas most modern Greek critical editions read the future "will consume."

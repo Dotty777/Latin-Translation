@@ -45,7 +45,7 @@
 
 **9:20** Then He said to them, "But you, who do you say I am?" Answering, Simon Peter said, "The Christ of God."
 
-**9:21** But He, sternly warning them, ordered them not to tell this to anyone,
+**9:21** But He, rebuking them, ordered them not to tell this to anyone,
 
 **9:22** saying, "It is necessary for the Son of Man to suffer many things, and to be rejected by the elders and chief priests and scribes, and to be killed, and on the third day to rise again."
 
@@ -85,7 +85,7 @@
 
 **9:40** and I asked Your disciples to drive it out, and they were not able."
 
-**9:41** And answering, Jesus said, "Unbelieving and perverse generation, how long will I be with you and endure you? Bring your son here."
+**9:41** And answering, Jesus said, "O unbelieving and perverse generation, how long will I be with you and endure you? Bring your son here."
 
 **9:42** And as he was approaching, the demon dashed him down and convulsed him. And Jesus rebuked the unclean spirit, and healed the boy, and returned him to his father.
 

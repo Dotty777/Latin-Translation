@@ -57,7 +57,7 @@
 
 **23:26** And the Lord spoke to Moses, saying:
 
-**23:27** "On the tenth day of this seventh month, the day of atonements will be most celebrated, and it will be proclaimed holy; and you will afflict your souls on it, and you will offer a burnt offering to the Lord.
+**23:27** "On the tenth day of this seventh month, the day of expiations will be most celebrated, and it will be proclaimed holy; and you will afflict your souls on it, and you will offer a burnt offering to the Lord.
 
 **23:28** You will not do any servile work during the time of this day, because it is a day of propitiation, so that the Lord your God may be propitious to you.
 

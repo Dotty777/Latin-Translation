@@ -103,11 +103,11 @@
 
 **22:49** Now when those who were around Him saw what was about to happen, they said to Him, "Lord, should we strike with the sword?"
 
-**22:50** And one of them struck the slave of the high priest and severed his right ear.
+**22:50** And one of them struck the servant of the high priest and severed his right ear.
 
 **22:51** But Jesus responded and said, "Allow it this far." And when He touched his ear, He healed him.
 
-**22:52** Then Jesus said to those who had come to Him, the chief priests and the magistrates of the temple and the elders, "As if against a bandit, have you come out with swords and clubs?
+**22:52** Then Jesus said to those who had come to Him, the chief priests and the magistrates of the temple and the elders, "As if against a robber, have you come out with swords and clubs?
 
 **22:53** When I was with you daily in the temple, you did not extend your hands against Me; but this is your hour and the authority of darkness."
 
@@ -154,5 +154,5 @@
 - **22:31** — Vulgate explicitly introduces a new speech with "Ait autem Dominus" ("And the Lord said"), which is omitted in critical Greek editions. Here "vos" ("you") is plural, shifting to singular "te" and "tu" ("you") addressed to Peter alone in verse 32.
 - **22:36** — Vulgate leaves the object of "qui non habet" ("the one who has none") unexpressed and reads "tunicam" ("tunic") rather than "cloak." Jesus's speech continues directly into verse 37.
 - **22:43** — Vulgate includes verses 43-44 in full, places "Et factus in agonia, prolixius orabat" in verse 43 rather than verse 44, and uses "prolixius" ("at greater length") where the Greek has "ektenesteron" ("more earnestly").
-- **22:51** — Latin "Sinite usque huc" ("Allow it this far") is concise and can be understood either as telling the disciples to stop resisting or as asking the arresting party to permit Him to heal the wounded slave.
+- **22:51** — Latin "Sinite usque huc" ("Allow it this far") is concise and can be understood either as telling the disciples to stop resisting or as asking the arresting party to permit Him to heal the wounded servant.
 - **22:68** — Vulgate includes both "mihi" ("Me") and "neque dimittetis" ("nor will you release Me"), which are omitted in many critical Greek editions. Likewise, Vulgate places the council's question ("If You are the Christ, tell us") at the end of verse 66 rather than the beginning of verse 67.

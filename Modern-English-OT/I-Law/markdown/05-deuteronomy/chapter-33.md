@@ -17,9 +17,9 @@
 
 **33:6** Let Reuben live and not die, and let him be small in number."
 
-**33:7** This is the blessing of Judah: "Hear, Lord, the voice of Judah, and bring him in to his people; his hands will fight for him, and He will be his helper against his adversaries."
+**33:7** This is the blessing of Judah: "Hear, Lord, the voice of Judah, and bring him in to his people; his hands will fight for him, and his helper will be against his adversaries."
 
-**33:8** Of Levi he also said: "Your perfection and Your teaching belong to Your holy man, whom You proved in testing and judged at the waters of contradiction.
+**33:8** Of Levi he also said: "Your perfection and Your teaching belong to Your holy man, whom You proved in testing and judged at the waters of Contradiction.
 
 **33:9** He said to his father and to his mother, 'I do not know you,' and to his brothers, 'I do not recognize you,' and they did not know their sons. These kept Your word and observed Your covenant,
 
@@ -45,7 +45,7 @@
 
 **33:20** And of Gad he said: "Blessed is Gad in breadth; like a lion he rested, and he seized the arm and the crown of the head.
 
-**33:21** And he saw his preeminence, that in his portion the teacher was laid up, who was with the leaders of the people, and carried out the righteous deeds of the Lord and His judgment with Israel."
+**33:21** And he saw his preeminence, that in his portion the teacher was laid up, who was with the leaders of the people, and carried out the righteous deeds of the Lord and his judgment with Israel."
 
 **33:22** Of Dan he also said: "Dan is a lion's cub; he will flow abundantly from Bashan."
 

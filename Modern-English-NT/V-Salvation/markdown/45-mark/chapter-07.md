@@ -84,7 +84,7 @@
 ## Translator Notes
 
 - **7:3** — Latin crebro ("frequently") reflects the Greek variant pykna ("often"), whereas many Greek manuscripts read pygme ("with the fist" or "thoroughly").
-- **7:7** — The Clementine Vulgate joins "doctrines and precepts of men" with et ("and"), whereas the Greek lacks "and" and is commonly rendered "teaching as doctrines the commandments of men."
-- **7:15** — Latin communicant (also in vv. 18, 20, 23) literally means "make common," a biblical Latin calque for ritual defilement corresponding to "common hands" in vv. 2 and 5. The Clementine Vulgate omits v. 16.
-- **7:19** — In the Clementine Vulgate, "cleansing all foods?" (purgans omnes escas?) stands within Jesus's question rather than as a parenthetical narrator comment (as in many modern translations of the Greek masculine participle katharizon).
+- **7:7** — The Clementine Vulgate joins "doctrines and precepts of men" with et ("and"), whereas the Greek lacks "and" and reads "teaching as doctrines the commandments of men."
+- **7:15** — Latin communicant (also in vv. 18, 20, 23) literally means "make common," a biblical Latin calque for ritual defilement corresponding to "common hands" in vv. 2 and 5.
+- **7:19** — In the Clementine Vulgate, "cleansing all foods?" (purgans omnes escas?) stands within Jesus's question rather than as a parenthetical narrator comment.
 - **7:34** — The Clementine Vulgate prints suscipiens in caelum, a well-known historical Vulgate variant for suspiciens ("looking up") to heaven; similarly, in v. 32 the Vulgate reads mutum ("mute") where the Greek has mogilalon ("having difficulty speaking").

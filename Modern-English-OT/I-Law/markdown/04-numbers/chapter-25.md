@@ -29,7 +29,7 @@
 
 **25:12** Therefore speak to him: 'Look, I give him the peace of My covenant,
 
-**25:13** and there will be both for him and for his offspring an everlasting pact of the priesthood, because he was zealous for his God and atoned for the crime of the sons of Israel.'"
+**25:13** and there will be both for him and for his offspring an everlasting covenant of the priesthood, because he was zealous for his God and atoned for the crime of the sons of Israel.'"
 
 **25:14** Now the name of the Israelite man who was killed with the Midianite woman was Zimri son of Salu, a leader from the clan and tribe of Simeon.
 

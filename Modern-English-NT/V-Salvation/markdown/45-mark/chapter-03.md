@@ -41,7 +41,7 @@
 
 **3:18** and Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Cananaean,
 
-**3:19** and Judas Iscariot, who also betrayed Him.
+**3:19** and Judas Iscariot, who also handed Him over.
 
 **3:20** And they came to a house, and the crowd gathered again, so that they could not even eat bread.
 
@@ -77,7 +77,7 @@
 
 ## Translator Notes
 
-- **3:5** — The Vulgate distinctively reads 'cæcitate cordis eorum' ("the blindness of their heart") rather than "hardness of heart" as in most Greek-based translations.
+- **3:5** — The Vulgate distinctively reads 'cæcitate cordis eorum' ("the blindness of their heart"), where most Greek manuscripts read "hardness of heart."
 - **3:12** — In the Clementine Vulgate, 'Tu es Filius Dei' ("You are the Son of God") begins verse 12 rather than closing verse 11 as in standard Greek verse numbering.
 - **3:15** — The Vulgate includes 'curandi infirmitates' ("to heal illnesses") alongside authority to drive out demons, a longer reading omitted in many critical Greek editions.
 - **3:18** — 'Cananæum' ("Cananaean") transliterates the Aramaic epithet meaning "zealous one" (cf. "Zealot" in Luke 6:15) rather than indicating a native of Canaan.

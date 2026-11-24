@@ -85,7 +85,7 @@
 
 ## Translator Notes
 
-- **15:5** — The Vulgate renders the elliptical Greek clause as a complete statement, "Whatever gift is from me will benefit you" (Latin Munus, quodcumque est ex me, tibi proderit), whereas Greek-based translations usually read "What you would have gained from me is an offering [to God]." In 15:6, the Clementine Vulgate also includes "or his mother" and reads "commandment" (mandatum) rather than "word."
+- **15:5** — The Vulgate renders the elliptical Greek clause as a complete statement, "Whatever gift is from me will benefit you" (Latin Munus, quodcumque est ex me, tibi proderit). In 15:6, the Clementine Vulgate also includes "or his mother" and reads "commandment" (mandatum) where critical Greek editions read "word."
 - **15:9** — The Clementine Vulgate includes "and" (et) in docentes doctrinas et mandata hominum ("teaching the doctrines and commandments of men"), whereas the Greek reads "teaching as doctrines the commandments of men."
 - **15:26** — Unlike the Greek, which uses the diminutive kynaria ("little dogs") in both 15:26 and 15:27, the Vulgate distinguishes canibus ("dogs") in Jesus's reply from the diminutive catelli ("puppies" or "little dogs") in the woman's response.
 - **15:31** — Unlike most Greek manuscripts, the Clementine Vulgate omits "the crippled made whole" from the list of miracles witnessed by the crowd, naming only the mute speaking, the lame walking, and the blind seeing.

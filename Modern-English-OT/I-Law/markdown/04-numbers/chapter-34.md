@@ -67,5 +67,5 @@
 
 - **34:4** — The Vulgate translates Hebrew Akrabbim as singular Latin Scorpionis ("of the Scorpion"), renders Hebrew Tsinah as Senna (distinct from Sin/Zin in v. 3, following the Septuagint), and translates the first element of Hazar-addar as villam nomine Adar ("the village named Addar").
 - **34:7** — Where the Hebrew reads "Mount Hor" (Hor ha-har), the Vulgate translates descriptively as montem altissimum ("the highest mountain").
-- **34:11** — The Vulgate reading contra fontem Daphnim ("opposite the spring Daphnis") identifies Hebrew Ain ("spring") with the celebrated spring of Daphne near Riblah.
+- **34:11** — The Vulgate reads contra fontem Daphnim ("opposite the spring Daphnis"), naming the spring where the Hebrew has only Ain ("spring").
 - **34:26** — The Vulgate includes the title dux ("leader") only for Issachar's representative in this list, whereas the Hebrew applies the title nasi to each of the last seven tribal chiefs.

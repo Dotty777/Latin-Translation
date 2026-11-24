@@ -5,7 +5,7 @@
 
 ## Text
 
-**9:1** Then God blessed Noah and his sons. And He said to them, "Grow and multiply, and fill the earth.
+**9:1** Then God blessed Noah and his sons. And He said to them, "Increase and multiply, and fill the earth.
 
 **9:2** And let terror and dread of you be upon all the animals of the earth and upon all the birds of the sky, together with everything that moves upon the earth; all the fish of the sea have been delivered into your hand.
 
@@ -17,15 +17,15 @@
 
 **9:6** Whoever sheds human blood, his blood will be shed, for in the image of God man was made.
 
-**9:7** As for you, grow and multiply, and go forth upon the earth, and fill it."
+**9:7** As for you, increase and multiply, and go forth upon the earth, and fill it."
 
 **9:8** God also said these things to Noah and to his sons with him:
 
-**9:9** "Look, I will establish My pact with you, and with your offspring after you,
+**9:9** "Look, I will establish My covenant with you, and with your offspring after you,
 
-**9:10** and to every living soul that is with you, both among the birds and among the livestock and all the creatures of the earth that came out of the ark, and all the wild beasts of the earth.
+**9:10** and to every living soul that is with you, both among the birds and among the livestock and all the cattle of the earth that came out of the ark, and all the wild beasts of the earth.
 
-**9:11** I will establish My pact with you, and never again will all flesh be killed by the waters of a flood, nor will there be from now on a flood devastating the earth."
+**9:11** I will establish My covenant with you, and never again will all flesh be killed by the waters of a flood, nor will there be from now on a flood devastating the earth."
 
 **9:12** And God said, "This is the sign of the covenant that I am giving between Me and you, and to every living soul that is with you, for everlasting generations:
 

@@ -55,7 +55,7 @@
 
 ## Translator Notes
 
-- **21:4** — Latin "sed nec in principe populi sui contaminabitur" ("but not even for a ruler of his people shall he be defiled") resolves a notoriously difficult Hebrew clause (often rendered "as a husband/chief among his people, so as to profane himself") as a prohibition against defilement even for a deceased ruler.
+- **21:4** — Latin "sed nec in principe populi sui contaminabitur" ("but not even for a ruler of his people shall he be defiled") renders a difficult Hebrew clause (literally "a husband/chief shall not defile himself among his people, so as to profane himself") as a prohibition against defilement even for a deceased ruler.
 - **21:8** — The Vulgate specifies "panes propositionis" ("the loaves of presentation") and maintains third-person plural verbs, whereas the Hebrew refers more generally to "the bread of your God" in the second person singular.
 - **21:10** — Latin "Pontifex, id est, sacerdos maximus" incorporates Jerome's explanatory gloss ("that is, the greatest priest"), and "caput suum non discooperiet" ("shall not uncover his head") renders a Hebrew verb commonly understood as leaving the hair disheveled.
 - **21:15** — Latin "ne commisceat stirpem generis sui vulgo gentis suae" ("so that he does not mingle the stock of his lineage with the common people of his nation") is a distinctly Vulgate rendering where the Hebrew reads "so that he does not profane his offspring among his people."

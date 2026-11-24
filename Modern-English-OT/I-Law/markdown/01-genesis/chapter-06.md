@@ -51,7 +51,7 @@
 
 ## Translator Notes
 
-- **6:3** — Vulgate reads "God" (Deus) where the Hebrew Masoretic Text has YHWH, and renders the debated Hebrew verb yadon as permanebit ("will remain"), agreeing with the Septuagint.
+- **6:3** — Vulgate reads "God" (Deus) where the Hebrew Masoretic Text has the divine name, and renders the debated Hebrew verb yadon as permanebit ("will remain"), agreeing with the Septuagint.
 - **6:4** — Vulgate translates Hebrew nephilim as gigantes ("giants"), following the Septuagint, and links the clause with postquam enim ("for after") rather than "and also afterward."
 - **6:11** — Vulgate renders Hebrew chamas ("violence") here and in 6:13 as iniquitate ("iniquity").
 - **6:14** — Vulgate translates the rare Hebrew phrase for gopher wood (atsei gofer) as de lignis laevigatis ("of planed wood" or "smoothed timber").

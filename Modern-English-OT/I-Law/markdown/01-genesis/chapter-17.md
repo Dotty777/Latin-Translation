@@ -61,7 +61,7 @@
 
 ## Translator Notes
 
-- **17:4** — Latin "Ego sum" ("I am") renders the emphatic Hebrew pronoun ("As for Me, behold") as a divine self-declaration of being.
+- **17:4** — Latin "Ego sum" ("I am") renders the emphatic Hebrew pronoun phrase ("As for Me, look").
 - **17:6** — Latin "in gentibus" (ablative, "among the nations") differs from the Hebrew Masoretic Text ("into nations").
 - **17:16** — The Vulgate uses masculine pronouns ("cui ... eritque ... ex eo"), applying the second blessing and the descent of nations and kings to the promised son rather than to Sarah as in the Hebrew Masoretic Text.
 - **17:24** — The Vulgate uses the active verb "circumcidit" ("when he circumcised the flesh of his foreskin"), whereas the Hebrew Masoretic Text uses the passive ("when he was circumcised").

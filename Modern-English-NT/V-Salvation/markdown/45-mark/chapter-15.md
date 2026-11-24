@@ -1,6 +1,6 @@
 # Mark 15 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (46 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (46 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Mark`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -105,6 +105,5 @@
 
 - **15:7** — Vulgate reads singular qui ... fecerat ("who had committed"), explicitly attributing the murder during the insurrection to Barabbas himself, whereas the Greek uses a plural verb referring to the insurgents generally.
 - **15:22** — Latin Calvariae locus literally means "Place of a Skull" (from calvaria, "skull"), translating the Aramaic name Golgotha and giving rise to the English name "Calvary."
-- **15:27** — Verse 28 ("And the Scripture was fulfilled which says, 'He was numbered with the transgressors'") is absent from the Clementine Vulgate, so the verse numbering passes directly from 15:27 to 15:29.
 - **15:29** — Vulgate adds Dei ("the temple of God"), where most modern Greek editions read simply "the temple."
 - **15:40** — Vulgate reads Joseph here and in 15:47 (literally Maria Joseph, "Mary [the mother] of Joseph"), where most Greek manuscripts read the shorter form Joses.

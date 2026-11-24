@@ -57,7 +57,7 @@
 
 **1:26** Now in the sixth month, the angel Gabriel was sent by God into a city of Galilee whose name was Nazareth,
 
-**1:27** to a virgin engaged to a man whose name was Joseph, from the house of David; and the name of the virgin was Mary.
+**1:27** to a virgin betrothed to a man whose name was Joseph, from the house of David; and the name of the virgin was Mary.
 
 **1:28** And entering in to her, the angel said, "Greetings, full of grace; the Lord is with you. Blessed are you among women."
 

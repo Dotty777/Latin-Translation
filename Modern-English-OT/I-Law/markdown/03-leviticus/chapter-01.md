@@ -42,7 +42,7 @@
 ## Translator Notes
 
 - **1:1** — Vulgate reads "tabernaculo testimonii" ("tabernacle of the testimony"), matching the Greek Septuagint, whereas the Hebrew Masoretic Text reads "tent of meeting."
-- **1:3** — Vulgate reads "ad placandum sibi Dominum" ("to make the Lord favorable to himself"), interpreting the Hebrew phrase usually rendered "for his acceptance before the Lord."
+- **1:3** — Vulgate reads "ad placandum sibi Dominum" ("to make the Lord favorable to himself"), where the Hebrew reads "for his acceptance before the Lord."
 - **1:8** — Here and in 1:12, the Vulgate specifies "all that adheres to the liver" ("quae adhaerent jecori"), whereas the Hebrew reads simply "the fat" (suet).
 - **1:15** — Vulgate "retorto ad collum capite, ac rupto vulneris loco" ("with its head twisted back to the neck and the place of the wound broken open") gives a detailed procedural rendering of the Hebrew verb for wringing off the bird's head; "crepidinem" denotes the projecting ledge or base of the altar.
 - **1:17** — Latin "ascellas" denotes the bird's wing-joints or wings, and "neque ferro dividet eam" ("nor divide it with iron") is a Vulgate clarification of the Hebrew prohibition against severing the bird completely.

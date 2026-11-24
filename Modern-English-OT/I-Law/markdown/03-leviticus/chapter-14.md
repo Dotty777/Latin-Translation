@@ -25,7 +25,7 @@
 
 **14:10** on the eighth day he will take two unblemished lambs, and a year-old ewe without blemish, and three tenths of fine flour, which is mixed with oil, for a sacrifice, and separately a sextarius of oil.
 
-**14:11** And when the priest purifying the man has set him and all these things before the Lord at the doorway of the tabernacle of testimony,
+**14:11** And when the priest purifying the man has set him and all these things before the Lord at the doorway of the tabernacle of the testimony,
 
 **14:12** he will take a lamb and offer it for trespass, and the sextarius of oil; and when all of them have been offered before the Lord,
 
@@ -49,7 +49,7 @@
 
 **14:22** and two turtledoves or two young pigeons, one of which is to be for sin, and the other for a burnt offering;
 
-**14:23** and he will offer them on the eighth day of his purification to the priest, at the doorway of the tabernacle of testimony before the Lord.
+**14:23** and he will offer them on the eighth day of his purification to the priest, at the doorway of the tabernacle of the testimony before the Lord.
 
 **14:24** Receiving the lamb for trespass and the sextarius of oil, he will lift them up together;
 

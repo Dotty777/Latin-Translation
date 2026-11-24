@@ -37,7 +37,7 @@
 
 **18:16** whose redemption shall be after one month, for five shekels of silver, by the weight of the sanctuary. A shekel has twenty obols.
 
-**18:17** However, the firstborn of an ox, and of a sheep, and of a goat, you shall not have redeemed, because they have been sanctified to the Lord. Their blood alone you shall pour out upon the altar, and their fat you shall burn as a most pleasing aroma to the Lord.
+**18:17** However, the firstborn of an ox, and of a sheep, and of a goat, you shall not have redeemed, because they have been sanctified to the Lord. Their blood alone you shall pour out upon the altar, and their fat you shall burn as a most sweet fragrance to the Lord.
 
 **18:18** But the flesh shall go to your use, just like the consecrated breast and the right shoulder; they shall be yours.
 
@@ -72,7 +72,7 @@
 ## Translator Notes
 
 - **18:2** — "Scepter of your father" translates Latin "sceptrum patris tui," rendering Hebrew "shevet" in its sense of "rod" or "scepter" rather than "tribe."
-- **18:8** — Throughout Chapter 18 (18:8, 11, 12, 19, 26, 28, 30), the Vulgate translates the Hebrew term for "contribution" or "heave offering" ("terumah") as "primitiae" ("firstfruits").
+- **18:8** — Throughout Chapter 18 (18:8, 11, 19, 26, 28, 30), the Vulgate translates the Hebrew term for "contribution" or "heave offering" ("terumah") as "primitiae" ("firstfruits").
 - **18:12** — "Marrow" translates Latin "medullam," a literal Vulgate idiom for the richest or choicest part of the oil, wine, and grain (corresponding to Hebrew "fat").
 - **18:16** — "Obols" translates Latin "obolos," a Greco-Roman unit of weight used in the Vulgate (following the Septuagint) in place of the Hebrew "gerah."
 - **18:32** — Unlike the Hebrew (which states that the Levites will incur no sin once they contribute the best part), the Vulgate frames this verse as a prohibition against reserving the choice and fat portions for themselves ("egregia vobis et pinguia reservantes").

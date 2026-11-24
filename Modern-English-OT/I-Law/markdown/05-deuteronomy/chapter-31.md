@@ -23,7 +23,7 @@
 
 **31:9** So Moses wrote this law and handed it over to the priests, the sons of Levi, who carried the ark of the covenant of the Lord, and to all the elders of Israel.
 
-**31:10** And he commanded them, saying, "After seven years, in the year of remission, at the festival of tabernacles,
+**31:10** And he commanded them, saying, "After seven years, in the year of remission, at the solemn feast of Tabernacles,
 
 **31:11** when all those from Israel assemble to appear in the sight of the Lord your God in the place that the Lord will choose, you will read the words of this law in the presence of all Israel, in their hearing,
 
@@ -31,7 +31,7 @@
 
 **31:13** so that their children also, who now do not know, may be able to hear and may fear the Lord their God all the days in which they live in the land that you are going to obtain after crossing the Jordan."
 
-**31:14** And the Lord said to Moses, "Look, the days of your death are near; call Joshua, and stand in the tabernacle of testimony, so that I may command him." So Moses and Joshua went and stood in the tabernacle of testimony.
+**31:14** And the Lord said to Moses, "Look, the days of your death are near; call Joshua, and stand in the tabernacle of the testimony, so that I may command him." So Moses and Joshua went and stood in the tabernacle of the testimony.
 
 **31:15** And the Lord appeared there in a pillar of cloud, which stood at the entrance of the tabernacle.
 
@@ -43,7 +43,7 @@
 
 **31:19** Now therefore, write this song for yourselves and teach it to the sons of Israel, so that they may keep it in memory and sing it with their mouths, and this song may be a witness for Me among the sons of Israel.
 
-**31:20** For I will bring them into the land for which I swore to their fathers, flowing with milk and honey. And when they have eaten and been satisfied and grown fat, they will turn aside to foreign gods and serve them, and they will revile Me and nullify My pact.
+**31:20** For I will bring them into the land for which I swore to their fathers, flowing with milk and honey. And when they have eaten and been satisfied and grown fat, they will turn aside to foreign gods and serve them, and they will revile Me and nullify My covenant.
 
 **31:21** After many evils and afflictions have found them, this song, which no forgetfulness will erase from the mouth of their offspring, will answer them as a witness. For I know their thoughts, what they are about to do today, before I bring them into the land that I have promised them."
 

@@ -49,6 +49,6 @@
 
 - **33:4** — The Vulgate uses the singular verb flevit ("he wept"), referring specifically to Esau, whereas the Hebrew has the plural ("they wept").
 - **33:11** — The Vulgate links the final clause back to "the blessing" through a participle describing God ("and that God has granted to me, bestowing all these things"), whereas the Hebrew has Jacob state that God has dealt graciously with him and that he has everything.
-- **33:18** — Following the Septuagint, the Vulgate treats Salem as a proper place name ("Salem, the city of the Shechemites") rather than the adverb "safely" as in most translations from the Hebrew, and renders Hebrew Paddan-aram as "Mesopotamia of Syria."
+- **33:18** — Following the Septuagint, the Vulgate treats Salem as a proper place name ("Salem, the city of the Shechemites"), where the Hebrew word can also be read as the adverb "safely," and renders Hebrew Paddan-aram as "Mesopotamia of Syria."
 - **33:19** — Following the Septuagint, the Vulgate renders the rare Hebrew unit qesitah as "lambs" (centum agnis).
 - **33:20** — Rather than having Jacob name the altar "El-Elohe-Israel" as in the Hebrew, the Vulgate has him call upon "the most mighty God of Israel" over the altar.

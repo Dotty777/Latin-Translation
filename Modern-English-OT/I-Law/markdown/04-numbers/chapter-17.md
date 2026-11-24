@@ -13,7 +13,7 @@
 
 **17:4** Therefore Eleazar the priest took the bronze censers in which those whom the blaze devoured had offered, and beat them out into plates, fastening them to the altar,
 
-**17:5** so that afterward the sons of Israel might have things by which to be reminded that no outsider, and no one who is not of the offspring of Aaron, may approach to offer incense to the Lord, so that he may not suffer as Korah and all his assembly suffered, as the Lord spoke to Moses.
+**17:5** so that afterward the sons of Israel might have things by which to be reminded that no outsider, and no one who is not of the offspring of Aaron, may approach to offer incense to the Lord, so that he may not suffer as Korah and all his congregation suffered, as the Lord spoke to Moses.
 
 **17:6** Now the whole multitude of the sons of Israel grumbled on the following day against Moses and Aaron, saying, "You have killed the people of the Lord."
 
@@ -61,7 +61,7 @@
 
 ## Translator Notes
 
-- **17:1** — In the Clementine Vulgate, Numbers 17:1-15 corresponds to 16:36-50 in the Hebrew numbering, while 17:16-28 corresponds to 17:1-13; verse number 17:8 is omitted because its substance is merged into 17:7.
+- **17:1** — As in the Hebrew numbering, Numbers 17 here contains the censers and the plague (17:1-15) and Aaron's rod (17:16-28); verse number 17:8 is not used because its substance is merged into 17:7.
 - **17:3** — The Vulgate reads "in the deaths of the sinners" (Latin "in mortibus peccatorum"), whereas the Hebrew reads "at the cost of their lives."
 - **17:7** — "Tabernacle of the covenant" translates Latin "tabernaculum foederis" (used alongside "tabernaculum testimonii," "tabernacle of the testimony," in 17:22 and 17:25), where the Hebrew has "tent of meeting." The Vulgate also states that Moses and Aaron "fled" ("fugerunt") to it.
 - **17:12** — The Vulgate uses "incendium" ("blaze" or "fire") for what was devastating the multitude, matching 17:2 and 17:4, whereas the Hebrew refers here to "the plague."

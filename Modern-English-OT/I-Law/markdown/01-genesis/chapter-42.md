@@ -85,5 +85,5 @@
 
 - **42:1** — Vulgate "quare neglegitis" ("Why are you negligent?") renders the Hebrew "why do you look at one another?" as a reproach for inaction.
 - **42:11** — Vulgate "pacifici" ("peaceful men," also in 42:19, 31, 33) translates the Hebrew term for "honest" or "truthful men," contrasting the brothers' intentions with those of hostile spies.
-- **42:20** — Clementine Vulgate reads first-person plural "ut possimus vestros probare sermones" ("so that we may be able to test your words"), rather than a passive clause ("so that your words may be verified") as in the Hebrew text.
+- **42:20** — The Latin text here reads first-person plural "ut possimus vestros probare sermones" ("so that we may be able to test your words"), rather than a passive clause ("so that your words may be verified") as in the Hebrew text.
 - **42:38** — Vulgate "in terra ad quam pergitis" ("in the land to which you are going") differs from the Hebrew "on the way on which you go," and "ad inferos" ("to the underworld") renders Hebrew Sheol.

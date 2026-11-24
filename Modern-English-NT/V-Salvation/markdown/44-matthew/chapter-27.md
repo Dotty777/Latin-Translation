@@ -9,7 +9,7 @@
 
 **27:2** And having bound Him, they brought Him and handed Him over to Pontius Pilate, the governor.
 
-**27:3** Then when Judas, who had handed Him over, saw that He had been condemned, he was moved by remorse and brought back the thirty silver coins to the chief priests and the elders,
+**27:3** Then when Judas, who had handed Him over, saw that He had been condemned, he was moved by repentance and brought back the thirty silver coins to the chief priests and the elders,
 
 **27:4** saying, "I have sinned in handing over righteous blood." But they said, "What is that to us? You see to it."
 

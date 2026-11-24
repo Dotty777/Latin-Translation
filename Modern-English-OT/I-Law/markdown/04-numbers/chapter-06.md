@@ -23,7 +23,7 @@
 
 **6:9** But if anyone dies suddenly before him, the head of his consecration will be defiled; and he shall shave it immediately on that same day of his purification, and again on the seventh.
 
-**6:10** Then on the eighth day he shall offer two turtledoves or two young doves to the priest at the entrance of the covenant of testimony.
+**6:10** Then on the eighth day he shall offer two turtledoves or two young doves to the priest at the entrance of the covenant of the testimony.
 
 **6:11** And the priest shall prepare one for sin and the other as a burnt offering, and he shall intercede for him, because he sinned on account of a dead person; and he shall sanctify his head on that day,
 
@@ -61,6 +61,6 @@
 
 - **6:4** — The Vulgate reads ab uva passa usque ad acinum ("from the raisin even to the seed"), whereas the Hebrew text reads "from the seeds even to the skin."
 - **6:9** — The Vulgate prescribes shaving immediately on that day of purification and again on the seventh (illico ... et rursum septima), whereas the Hebrew text describes a single shaving on the seventh day.
-- **6:10** — The Vulgate uniquely reads in introitu foederis testimonii ("at the entrance of the covenant of testimony") where the Hebrew text has "at the entrance of the tent of meeting."
+- **6:10** — The Vulgate uniquely reads in introitu foederis testimonii ("at the entrance of the covenant of the testimony") where the Hebrew text has "at the entrance of the tent of meeting."
 - **6:23** — In the Clementine Vulgate, the promise corresponding to Hebrew verse 27 ("And they shall invoke My name...") is placed inside verse 23 before the blessing in verses 24-26, and renders Hebrew "put My name" as "invoke My name."
 - **6:25** — In verses 25-26, the Vulgate distinctively renders the blessing with Ostendat ("show") and misereatur ("have mercy on") in verse 25, and Convertat ("turn") in verse 26, where the Hebrew reads "make shine," "be gracious to," and "lift up."

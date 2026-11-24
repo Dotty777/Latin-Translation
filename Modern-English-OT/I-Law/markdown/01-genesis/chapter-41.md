@@ -79,7 +79,7 @@
 
 **41:37** The counsel pleased Pharaoh and all his ministers;
 
-**41:38** and he spoke to them, "Will we be able to find such a man, who is full of the Spirit of God?"
+**41:38** and he spoke to them, "Will we be able to find such a man, who is full of the spirit of God?"
 
 **41:39** Therefore he said to Joseph, "Since God has shown you all that you have spoken, will we be able to find anyone wiser and like you?
 
@@ -124,4 +124,4 @@
 - **41:13** — The Vulgate renders the execution phrase as "in cruce" ("on a cross"), whereas the Hebrew Masoretic Text reads "on a tree."
 - **41:43** — The Vulgate interprets the obscure Egyptian acclamation transliterated as "abrech" in the Hebrew text as a command "that all should bend the knee before him" ("ut omnes coram eo genu flecterent").
 - **41:45** — Instead of transliterating Joseph's Egyptian name (Hebrew "Zaphenath-paneah"), the Vulgate translates it into Latin as "Salvatorem mundi" ("Savior of the world"). Like the Septuagint, the Vulgate also uses the Greek name "Heliopolis" rather than Hebrew "On" (also in 41:50).
-- **41:54** — The Clementine Vulgate distinctively reads "non erat panis" ("there was no bread") in Egypt, contrasting with the Hebrew Masoretic Text and the Septuagint, which read that "there was bread."
+- **41:54** — The Latin text here reads "non erat panis" ("there was no bread") in Egypt, whereas the Hebrew Masoretic Text and the Septuagint read that "there was bread."

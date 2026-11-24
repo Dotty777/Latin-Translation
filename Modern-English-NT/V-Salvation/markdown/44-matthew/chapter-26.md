@@ -65,7 +65,7 @@
 
 **26:30** And when a hymn had been recited, they went out to the Mount of Olives.
 
-**26:31** Then Jesus said to them, "All of you will suffer stumbling because of Me on this very night. For it is written, 'I will strike the shepherd, and the sheep of the flock will be dispersed.'
+**26:31** Then Jesus said to them, "All of you will suffer stumbling because of Me on this night. For it is written, 'I will strike the shepherd, and the sheep of the flock will be dispersed.'
 
 **26:32** But after I have risen again, I will go ahead of you into Galilee."
 
@@ -161,7 +161,7 @@
 - **26:20** — The Clementine Vulgate explicitly reads cum duodecim discipulis suis ("with His twelve disciples"), where critical Greek texts read simply "with the twelve."
 - **26:28** — The Clementine Vulgate retains novi ("new") in novi testamenti ("of the new covenant") and uses the future passive effundetur ("will be poured out"), whereas critical Greek editions omit "new" and use a present participle.
 - **26:31** — The Vulgate translates the Greek passive verb periphrastically as scandalum patiemini ("will suffer stumbling" or "scandal"), distinguishing it from the passive verb forms of scandalizo in 26:33.
-- **26:50** — The Vulgate translates the ambiguous Greek clause ep' ho parei clearly as a direct question, ad quid venisti? ("for what purpose have you come?"), whereas many translations from the Greek render it as a command ("do what you have come for").
+- **26:50** — The Vulgate renders the elliptical Greek clause eph' ho parei as a direct question, ad quid venisti? ("for what purpose have you come?").
 - **26:61** — The Clementine Vulgate reads post triduum ("after three days") and reaedificare ("rebuild"), whereas the Greek reads dia trion hemeron ("within three days") and oikodomesai ("build").
 - **26:62** — The Vulgate combines the high priest's words into a single question (Nihil respondes ad ea, quae isti adversum te testificantur?), whereas the Greek divides them into two separate questions.
 - **26:64** — The Clementine Vulgate explicitly includes Dei ("of God") in virtutis Dei ("of the power of God") and uses in ("in the clouds of heaven"), whereas critical Greek texts read simply "of Power" and "on the clouds of heaven."

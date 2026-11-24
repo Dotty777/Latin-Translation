@@ -35,7 +35,7 @@
 
 **8:15** he sacrificed it, drawing the blood, and dipping his finger, he touched the horns of the altar all around; and when it had been purified and sanctified, he poured out the remaining blood at its foundations.
 
-**8:16** But the fat that was on the vital organs, and the membrane of the liver, and the two kidneys with their suet, he burned on the altar,
+**8:16** But the fat that was on the internal organs, and the membrane of the liver, and the two kidneys with their suet, he burned on the altar,
 
 **8:17** burning up the calf with its hide, and flesh, and dung outside the camp, just as the Lord had commanded.
 

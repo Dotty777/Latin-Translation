@@ -69,7 +69,7 @@
 
 **14:32** And they came to an estate whose name was Gethsemane. And He said to His disciples, "Sit here while I pray."
 
-**14:33** And He took Peter and James and John along with Him, and began to feel dread and deep distress.
+**14:33** And He took Peter and James and John along with Him, and began to feel dread and to be weary.
 
 **14:34** And He said to them, "My soul is sorrowful even to death; wait here and stay awake."
 
@@ -99,7 +99,7 @@
 
 **14:47** But a certain one of those standing by, drawing a sword, struck the servant of the high priest and cut off his ear.
 
-**14:48** And answering, Jesus said to them, "Have you come out as against a bandit with swords and clubs to apprehend Me?
+**14:48** And answering, Jesus said to them, "Have you come out as against a robber with swords and clubs to apprehend Me?
 
 **14:49** Every day I was with you in the temple teaching, and you did not seize Me; yet this is so that the Scriptures may be fulfilled."
 

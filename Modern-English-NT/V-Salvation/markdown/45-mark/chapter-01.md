@@ -91,7 +91,7 @@
 
 **1:43** And He sternly warned him and immediately sent him out,
 
-**1:44** and said to him, "See that you tell no one; but go, show yourself to the chief priest, and offer for your cleansing the things that Moses commanded, as a testimony to them."
+**1:44** and said to him, "See that you tell no one; but go, show yourself to the high priest, and offer for your cleansing the things that Moses commanded, as a testimony to them."
 
 **1:45** Yet having gone out, he began to proclaim and spread the word widely, so that He could no longer openly enter a city, but stayed outside in deserted places; and people were gathering to Him from everywhere.
 
@@ -101,4 +101,4 @@
 - **1:13** — The Vulgate includes "et quadraginta noctibus" ("and forty nights"), paralleling Matthew 4:2, whereas most Greek manuscripts of Mark 1:13 mention only forty days.
 - **1:27** — Following the Vulgate wording and clause division ("quænam doctrina hæc nova? quia in potestate..."), "with authority" modifies "He commands" rather than "new teaching."
 - **1:38** — The Vulgate splits the Greek compound for "market-towns" into two nouns, "vicos, et civitates" ("villages and cities"), and reads "veni" ("I came") rather than "I came out."
-- **1:44** — The Clementine Vulgate reads "principi sacerdotum" ("to the chief priest," or "high priest"), whereas Greek manuscripts read simply "to the priest."
+- **1:44** — The Clementine Vulgate reads "principi sacerdotum" ("to the high priest"), whereas Greek manuscripts read simply "to the priest."

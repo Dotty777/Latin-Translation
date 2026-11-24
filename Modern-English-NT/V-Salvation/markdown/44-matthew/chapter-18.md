@@ -5,7 +5,7 @@
 
 ## Text
 
-**18:1** In that hour the disciples approached Jesus, saying, "Who, do you think, is the greatest in the kingdom of heaven?"
+**18:1** In that hour the disciples approached Jesus, saying, "Who, do You think, is the greatest in the kingdom of heaven?"
 
 **18:2** And calling a little child to Himself, Jesus set him in their midst,
 

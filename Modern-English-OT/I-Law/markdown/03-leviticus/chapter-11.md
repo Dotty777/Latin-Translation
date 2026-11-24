@@ -13,9 +13,9 @@
 
 **11:4** However, whatever chews the cud and has a hoof, yet does not divide it, such as the camel and the rest, you shall not eat it, and you shall count it among the unclean.
 
-**11:5** The hare also, for it too chews the cud, but does not divide the hoof.
+**11:5** The rock badger, which chews the cud and does not divide the hoof, is unclean.
 
-**11:6** The rock badger, which chews the cud and does not divide the hoof, is unclean.
+**11:6** The hare also, for it too chews the cud, but does not divide the hoof.
 
 **11:7** And the pig, which, although it divides the hoof, does not chew the cud.
 
@@ -101,8 +101,8 @@
 
 ## Translator Notes
 
-- **11:4** — The Vulgate adds "and the rest" (et cetera) after the camel, and in 11:5-6 reverses the order of the Hebrew text by placing the hare (lepus) before the rock badger (choerogryllus, from Greek choirogryllios, the Syrian rock hyrax).
-- **11:13** — In 11:13-19 the Vulgate follows the Septuagint's Greek bird names, yielding several renderings distinct from modern translations of the Hebrew, including "griffin" (gryphem, understood in antiquity as a giant vulture or bird of prey), "ostrich" (struthionem), "ibis" (ibin), "swan" (cygnum), and "purple gallinule" (porphyrionem).
+- **11:4** — The Vulgate adds "and the rest" (et cetera) after the camel; in 11:5 choerogryllus (from Greek choirogryllios) denotes the rock hyrax.
+- **11:13** — In 11:13-19 the Vulgate follows the Septuagint's Greek bird names, yielding several renderings that differ from the Hebrew, including "griffin" (gryphem, understood in antiquity as a giant vulture or bird of prey), "ostrich" (struthionem), "ibis" (ibin), "swan" (cygnum), and "purple gallinule" (porphyrionem).
 - **11:22** — The Vulgate borrows three Greek locust-type terms (bruchus, a wingless locust; attacus and ophiomachus, leaping locust species whose exact identities remain uncertain) before locusta ("locust"), in a different sequence from the Hebrew.
 - **11:29** — In 11:29-30 the Vulgate again follows the Septuagint's fauna names, rendering crocodilus ("crocodile," used in antiquity for a large land lizard/monitor), mygale ("shrew"), and stellio ("spotted lizard" or gecko); in 11:35, chytropodes (literally "pot-feet") denotes footed clay cooking pots or pot-stands.
 - **11:42** — The Vulgate distinctively combines "on its breast on four feet" (super pectus quadrupes graditur) and concludes with "or drags itself along the ground" (sive per humum trahitur), whereas the Hebrew lists belly-crawlers, four-footed walkers, and many-footed creatures separately; in 11:47 the Vulgate uses second-person verbs ("so that you may know..."), keeping 11:46-47 within the Lord's direct speech.

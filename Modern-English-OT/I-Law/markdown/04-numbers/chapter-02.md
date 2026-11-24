@@ -37,7 +37,7 @@
 
 **2:16** All who were mustered in the camp of Reuben were one hundred fifty-one thousand four hundred fifty by their companies; they will set out in the second place.
 
-**2:17** Then the tabernacle of testimony will be lifted up through the services of the Levites and their companies; just as it will be erected, so also it will be taken down. Each will set out by their places and ranks.
+**2:17** Then the tabernacle of the testimony will be lifted up through the services of the Levites and their companies; just as it will be erected, so also it will be taken down. Each will set out by their places and ranks.
 
 **2:18** Toward the western region will be the camp of the sons of Ephraim, whose leader was Elishama son of Ammihud.
 
@@ -47,7 +47,7 @@
 
 **2:21** And the whole army of his warriors who were counted was thirty-two thousand two hundred.
 
-**2:22** In the tribe of the sons of Benjamin, the leader was Abidan son of Gideoni.
+**2:22** In the tribe of the sons of Benjamin, the leader was Abidan son of Gideon.
 
 **2:23** And the whole army of his warriors who were mustered was thirty-five thousand four hundred.
 

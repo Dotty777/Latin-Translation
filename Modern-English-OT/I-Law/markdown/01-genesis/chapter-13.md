@@ -44,6 +44,6 @@
 ## Translator Notes
 
 - **13:2** — The Vulgate renders Hebrew miqneh ("livestock/possessions") as in possessione ("in the possession of"), yielding "in the possession of silver and gold" without separately listing livestock.
-- **13:11** — Latin ab oriente ("from the east") reflects a literal rendering of the preposition, whereas many Hebrew-based translations render the phrase "eastward."
+- **13:11** — Latin ab oriente ("from the east") renders the Hebrew miqqedem, which can also mean "eastward."
 - **13:12** — Latin habitavit in Sodomis ("lived in Sodom") is distinctly Vulgate; the Hebrew reads "moved his tent as far as Sodom."
 - **13:18** — Latin convallem Mambre ("the valley of Mamre") renders the Hebrew elone Mamre ("the oaks/terebinths of Mamre"), as in 12:6.

@@ -41,7 +41,7 @@
 
 ## Translator Notes
 
-- **30:1** — In the Clementine Vulgate, chapter 30 begins with this verse (corresponding to Numbers 29:40 in the Hebrew Masoretic Text), so Vulgate 30:2-17 correspond to Hebrew 30:1-16.
+- **30:1** — As in the Hebrew Masoretic Text, chapter 30 begins with this verse; in the alternative versification it is numbered 29:40, and verses 30:2-17 here are numbered 30:1-16.
 - **30:4** — The classical Latin legal idiom 'voti rea' (also in v. 8; compare 'promissionis rea' in v. 13) means bound by or liable for a vow, rather than morally guilty.
 - **30:7** — Vulgate 'semel de ore ejus verbum egrediens' ("a word once going forth from her mouth") corresponds to Hebrew mivta sefateiha ("the rash utterance of her lips").
 - **30:14** — Vulgate adds the explanatory phrase 'per jejunium, vel ceterarum rerum abstinentiam' ("through fasting or abstinence from other things"), which is absent from the Hebrew text, and renders the husband's authority to confirm or annul the vow as 'in arbitrio viri erit ut faciat, sive non faciat'.

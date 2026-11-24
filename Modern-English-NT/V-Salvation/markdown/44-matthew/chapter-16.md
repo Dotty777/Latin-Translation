@@ -41,7 +41,7 @@
 
 **16:18** And I say to you that you are Peter, and upon this rock I will build My church, and the gates of the underworld will not prevail against it.
 
-**16:19** And to you I will give the keys of the kingdom of heaven. And whatever you bind on earth will be bound in heaven also, and whatever you unbind on earth will be unbound in heaven also."
+**16:19** And to you I will give the keys of the kingdom of heaven. And whatever you bind on earth will be bound in heaven also, and whatever you loose on earth will be loosed in heaven also."
 
 **16:20** Then He commanded His disciples to tell no one that He was Jesus Christ.
 
@@ -64,7 +64,7 @@
 ## Translator Notes
 
 - **16:4** — In the Clementine Vulgate verse division, the sentence about discerning the sky and the signs of the times opens verse 4 rather than concluding verse 3. The Vulgate also retains the weather saying in 16:2-3 and includes "the prophet" after Jonah.
-- **16:18** — The Latin preserves the wordplay between Petrus ("Peter") and petram ("rock"). Inferi (genitive singular of inferus) literally denotes the underworld or realm of the dead (rendering Greek Hades), distinct from gehenna, though traditionally often translated "hell."
+- **16:18** — The Latin preserves the wordplay between Petrus ("Peter") and petram ("rock"). Inferi denotes the underworld or realm of the dead (rendering Greek Hades), distinct from gehenna.
 - **16:20** — The Clementine Vulgate reads Jesus Christus ("Jesus Christ"), whereas most critical Greek texts omit "Jesus" and read simply "the Christ."
-- **16:25** — Across 16:25-26, the Latin uses the single noun anima four times, spanning both earthly "life" (16:25) and one's eternal "soul" (16:26).
+- **16:25** — Across 16:25-26, the Latin uses the single noun anima four times, rendered "life" in 16:25 and "soul" in 16:26.
 - **16:27** — The Vulgate reads plural opera ("works"), whereas the Greek uses the singular praxin ("deed" or "conduct").

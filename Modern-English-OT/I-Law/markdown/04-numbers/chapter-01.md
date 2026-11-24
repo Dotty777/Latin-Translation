@@ -25,7 +25,7 @@
 
 **1:10** and of the sons of Joseph, from Ephraim, Elishama, son of Ammihud; from Manasseh, Gamaliel, son of Pedahzur;
 
-**1:11** from Benjamin, Abidan, son of Gideoni;
+**1:11** from Benjamin, Abidan, son of Gideon;
 
 **1:12** from Dan, Ahiezer, son of Ammishaddai;
 

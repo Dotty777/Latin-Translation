@@ -43,7 +43,7 @@
 
 **19:19** Keep My laws. You shall not make your beast mate with animals of another kind. You shall not sow your field with diverse seed. You shall not be clothed in a garment that is woven from two kinds.
 
-**19:20** If a man sleeps with a woman in an intercourse of seed, who is a servant woman even of marriageable age, and yet not redeemed by a price nor granted freedom, both shall be beaten, and they shall not die, because she was not free.
+**19:20** If a man sleeps with a woman in an intercourse of seed, who is a slave woman even of marriageable age, and yet not redeemed by a price nor granted freedom, both shall be beaten, and they shall not die, because she was not free.
 
 **19:21** Now for his offense, he shall offer a ram to the Lord at the entrance of the tabernacle of the testimony,
 
@@ -82,7 +82,7 @@
 ## Translator Notes
 
 - **19:9** — Vulgate reads 'non tondebis usque ad solum superficiem terræ' (not shearing the surface of the land all the way to the ground), whereas the Hebrew Masoretic Text forbids reaping to the edges or corners of the field.
-- **19:18** — Vulgate uniquely uses 'amicum tuum' ('your friend') here rather than 'proximum tuum' ('your neighbor', used in vv. 11, 13, 15, and 16) to render the same Hebrew noun.
-- **19:20** — Vulgate describes the servant woman as 'etiam nubilis' ('even of marriageable age') and prescribes 'vapulabunt ambo' ('both shall be beaten'), whereas the Hebrew text refers to a slave woman designated for a man and states that there shall be an inquiry or punishment.
+- **19:18** — Vulgate here uses 'amicum tuum' ('your friend'), where vv. 13 and 16 render the same Hebrew noun with forms of 'proximus' ('neighbor').
+- **19:20** — Vulgate describes the slave woman as 'etiam nubilis' ('even of marriageable age') and prescribes 'vapulabunt ambo' ('both shall be beaten'), whereas the Hebrew text refers to a slave woman designated for a man and states that there shall be an inquiry or punishment.
 - **19:23** — Vulgate renders the idiom literally as 'auferetis præputia eorum' ('you shall remove their foreskins') and omits the phrase 'for three years' found in the Hebrew text, though 'the fourth year' follows in v. 24.
 - **19:36** — Vulgate uses the Roman units 'modius' (a dry measure) and 'sextarius' (a liquid or dry measure) to render the Hebrew 'ephah' and 'hin'.

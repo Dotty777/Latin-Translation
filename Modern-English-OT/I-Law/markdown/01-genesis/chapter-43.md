@@ -76,7 +76,7 @@
 ## Translator Notes
 
 - **43:5** — Vulgate includes "ut saepe diximus" ("as we have often said"), an explanatory clause absent from the Hebrew Masoretic Text.
-- **43:11** — Vulgate lists "resinae, et mellis, et storacis, et stactis, et terebinthi, et amygdalarum" ("resin, honey, storax, stacte, terebinth, and almonds"), reflecting Jerome's identifications of rare Hebrew plant products often translated elsewhere as gum, myrrh, and pistachio nuts.
+- **43:11** — Vulgate lists "resinae, et mellis, et storacis, et stactis, et terebinthi, et amygdalarum" ("resin, honey, storax, stacte, terebinth, and almonds"), reflecting Jerome's identifications of several rare Hebrew plant products.
 - **43:14** — Vulgate adds "meus" in "Deus autem meus omnipotens" ("my Almighty God") and renders the Hebrew expression of resignation ("if I am bereaved, I am bereaved") as "quasi orbatus absque liberis ero" ("I will be as one bereaved, without children").
 - **43:23** — Vulgate "probatam ego habeo" ("I myself have [it] verified") indicates that the steward holds the brothers' payment as tested and approved, and "thesauros" ("treasures") is plural against the Hebrew singular.
 - **43:24** — Latin "pauula" is an orthographic variant of "pabula" ("fodder"; compare "pabulum" in 42:27).

@@ -9,7 +9,7 @@
 
 **7:2** Therefore, where the burnt offering will be sacrificed, the victim for trespass will also be slaughtered; its blood will be poured out all around the altar.
 
-**7:3** They will offer from it the tail and the fat that covers the inward parts,
+**7:3** They will offer from it the tail and the fat that covers the internal organs,
 
 **7:4** the two kidneys, and the fat that is beside the flanks, and the membrane of the liver with the kidneys.
 

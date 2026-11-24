@@ -63,7 +63,7 @@
 
 ## Translator Notes
 
-- **8:1** — In the Clementine Vulgate, Exodus 8 begins at the command to stretch out Aaron's hand (corresponding to 8:5 in the Hebrew Masoretic Text and most modern English Bibles), because the preceding warning about frogs appears at 7:26-29; thus chapter 8 has 28 verses rather than 32.
+- **8:1** — As in the Hebrew Masoretic Text, chapter 8 of this Latin text begins at the command to stretch out Aaron's hand, because the preceding warning about frogs appears at 7:26-29; thus chapter 8 has 28 verses rather than the 32 of the alternative numbering, in which this verse is 8:5.
 - **8:8** — The Vulgate reads pro sponsione ranarum quam condixerat Pharaoni ("regarding the promise about the frogs that he had agreed upon with Pharaoh," reflecting the Septuagint), whereas the Hebrew text reads "because of the frogs that He had brought upon Pharaoh."
 - **8:11** — The Vulgate renders "just as the Lord had commanded" (praeceperat, also in 8:15 and 9:35), whereas the Hebrew reads "just as the Lord had spoken." It also distinguishes ingravare ("make heavy," 8:11, 8:28, 9:7, 9:35) from indurare ("harden," 8:15, 9:12, 9:35).
 - **8:17** — The Vulgate renders the Hebrew term for a swarm or mixture of insects as "every kind of fly" (omne genus muscarum) and "flies of various kinds" (muscis diversi generis), and uses collective singular musca in 8:20 and 8:25.

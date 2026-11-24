@@ -11,7 +11,7 @@
 
 **8:3** and Joanna the wife of Chuza, Herod's steward, and Susanna, and many others, who were ministering to Him from their own means.
 
-**8:4** Now when a very large crowd was gathering and people were hurrying to Him from the cities, He spoke through a comparison:
+**8:4** Now when a very large crowd was gathering and people were hurrying to Him from the cities, He spoke through a parable:
 
 **8:5** "The one who sows went out to sow his seed. And while he was sowing, some fell alongside the road, and it was trampled underfoot, and the birds of the sky ate it.
 
@@ -101,7 +101,7 @@
 
 **8:48** And He said to her, "Daughter, your faith has saved you; go in peace."
 
-**8:49** While He was still speaking, someone came to the ruler of the synagogue, saying to him, "Because your daughter has died, do not trouble Him."
+**8:49** While He was still speaking, someone came to the ruler of the synagogue, saying to him, "Your daughter has died; do not trouble Him."
 
 **8:50** But Jesus, having heard this word, answered the girl's father, "Do not be afraid; only believe, and she will be saved."
 

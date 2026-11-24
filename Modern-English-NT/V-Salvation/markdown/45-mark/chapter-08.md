@@ -87,4 +87,4 @@
 - **8:17** — The Clementine Vulgate has future cognoscetis ("Will you not yet perceive") alongside present intelligitis, and reads caecatum ("blinded") where the Greek text reads "hardened."
 - **8:25** — The Vulgate reads et coepit videre ("and he began to see"), where critical Greek editions read "and he looked intently."
 - **8:26** — The Vulgate preserves the fuller command "Go to your home, and if you enter the village, tell no one," whereas critical Greek editions read simply "Do not even enter the village."
-- **8:35** — Latin anima, rendered "life" here and "soul" in verses 36-37, encompasses both earthly life and the enduring soul.
+- **8:35** — Latin anima can mean both "life" and "soul"; it is rendered "life" here and "soul" in verses 36-37.

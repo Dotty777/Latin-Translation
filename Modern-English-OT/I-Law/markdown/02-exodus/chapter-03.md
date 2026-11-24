@@ -53,6 +53,6 @@
 
 - **3:2** — Latin "Dominus" ("the Lord") appears directly without "angel of," whereas both the Hebrew Masoretic Text and the Septuagint read "the angel of the Lord."
 - **3:12** — Latin "immolabis" ("you will sacrifice") uses a second-person singular verb specifically denoting sacrifice, whereas the Hebrew Masoretic Text has the second-person plural "you shall serve."
-- **3:14** — Latin "Qui est" ("He Who Is") uses a third-person ontological formulation shared with the Septuagint, whereas the Hebrew Masoretic Text repeats the first-person form ("I AM").
-- **3:18** — Latin "vocavit nos" ("has called us") agrees with the Septuagint against the Hebrew Masoretic Text, which is commonly rendered "has met with us."
+- **3:14** — Latin "Qui est" ("He Who Is") is a third-person formulation shared with the Septuagint, whereas the Hebrew Masoretic Text repeats the first-person form ("I am").
+- **3:18** — Latin "vocavit nos" ("has called us") agrees with the Septuagint against the Hebrew Masoretic Text, which reads "has met with us."
 - **3:22** — Latin "hospita" can denote either a female houseguest/lodger staying in the home (matching the Hebrew expression for a woman sojourning in the house) or a hostess.

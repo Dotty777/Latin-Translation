@@ -15,7 +15,7 @@
 
 **12:5** And once more he sent another, and they killed him; and many others: some they beat, while others they killed.
 
-**12:6** Therefore, still having one dearest son, he sent him also to them last, saying, 'They will respect my son.'
+**12:6** Therefore, still having one most beloved son, he sent him also to them last, saying, 'They will respect my son.'
 
 **12:7** But the tenants said to one another, 'This is the heir; come, let us kill him, and ours will be the inheritance.'
 

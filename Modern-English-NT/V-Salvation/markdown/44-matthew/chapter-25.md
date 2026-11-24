@@ -21,7 +21,7 @@
 
 **25:8** And the foolish ones said to the wise ones, 'Give us some of your oil, because our lamps are going out.'
 
-**25:9** The prudent ones answered, saying, 'Perhaps there will not be enough for us and for you; go instead to those who sell, and buy for yourselves.'
+**25:9** The prudent ones answered, saying, 'In case there is not enough for us and for you, go instead to those who sell, and buy for yourselves.'
 
 **25:10** Now while they were going to buy, the bridegroom arrived; and the ones who were ready entered with him to the wedding, and the door was shut.
 
@@ -100,7 +100,7 @@
 ## Translator Notes
 
 - **25:1** — The Clementine Vulgate adds 'and the bride' (et sponsae), a reading supported by several Old Latin and Syriac witnesses but absent from standard Greek editions.
-- **25:15** — The Vulgate places 'immediately' (statim) at the end of v. 15 modifying the master's departure, whereas many modern Greek editions and translations attach the adverb to the first servant's departure at the start of v. 16.
+- **25:15** — The Vulgate places 'immediately' (statim) at the end of v. 15 modifying the master's departure, whereas many modern Greek editions attach the adverb to the first servant's departure at the start of v. 16.
 - **25:29** — The Clementine Vulgate reads 'even what he seems to have' (et quod videtur habere, paralleling Luke 8:18), whereas standard Greek manuscripts of Matthew read simply 'even what he has.'
 - **25:31** — The Vulgate translates Greek doxa ('glory') as majestas ('majesty') in both occurrences here, and Greek thronos as sedes ('seat' or 'throne').
 - **25:40** — Here and in v. 45, the Vulgate translates Greek eph' hoson ('to the extent that') temporally as quamdiu ('as long as'); note also the Vulgate shift from superlative 'least brothers of Mine' (fratribus meis minimis) in v. 40 to comparative 'these lesser ones' (minoribus his) in v. 45.

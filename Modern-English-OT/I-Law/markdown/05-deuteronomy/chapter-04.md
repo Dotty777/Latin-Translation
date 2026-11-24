@@ -41,7 +41,7 @@
 
 **4:18** and of crawling creatures that move on the earth, or of fish that dwell beneath the earth in the waters;
 
-**4:19** so that, lifting your eyes to heaven, you might not see the sun and the moon and all the stars of heaven, and, deceived by error, worship them and serve what the Lord your God created for the service of all the peoples who are under heaven.
+**4:19** so that, lifting your eyes to heaven, you might not see the sun and the moon and all the stars of heaven, and, deceived by error, worship them and serve what the Lord your God created for the service of all the nations that are under heaven.
 
 **4:20** You, however, the Lord took and led out of the iron furnace of Egypt, so that He might have a people of inheritance, as it is on the present day.
 
@@ -99,7 +99,7 @@
 
 **4:47** took possession of his land and the land of Og, king of Bashan, the two kings of the Amorites, who were beyond the Jordan toward the rising of the sun,
 
-**4:48** from Aroer, which is situated on the bank of the torrent Arnon, as far as Mount Sion, which is also Hermon,
+**4:48** from Aroer, which is situated on the bank of the stream of Arnon, as far as Mount Sion, which is also Hermon,
 
 **4:49** all the plain beyond the Jordan toward the eastern region, as far as the sea of the wilderness, and as far as the foot of Mount Pisgah.
 
@@ -107,6 +107,6 @@
 
 - **4:5** — The Vulgate reads Scitis ("You know"), whereas the Hebrew Masoretic Text reads "See/Look."
 - **4:19** — The Vulgate reads quæ creavit ... in ministerium ("what the Lord your God created for the service"), whereas the Hebrew reads "which the Lord your God allotted" to all the peoples.
-- **4:29** — The Vulgate distinctively reads tota tribulatione animæ tuæ ("with all the affliction of your soul"), emphasizing penitential distress where the Hebrew has simply "with all your soul."
+- **4:29** — The Vulgate reads tota tribulatione animæ tuæ ("with all the affliction of your soul") where the Hebrew has simply "with all your soul."
 - **4:46** — The Vulgate renders Beth-peor as fanum Phogor ("the shrine of Peor") and ends the sentence after Moyses., making "The sons of Israel also, having come out of Egypt" the subject of "took possession" in verse 47 rather than pairing them with Moses in striking down Sihon.
 - **4:48** — Mount Sion (Latin montem Sion, Hebrew Si'on) is an alternative name for Mount Hermon in the north and is distinct from Mount Zion in Jerusalem.

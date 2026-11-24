@@ -17,7 +17,7 @@
 
 **11:6** And He said, "Look, there is one people, and one language for all; and they have begun to do this, nor will they desist from their plans until they complete them in deed.
 
-**11:7** Come therefore, let Us go down, and let Us confuse their tongues there, so that no one may understand the voice of his neighbor."
+**11:7** Come therefore, let Us go down, and let Us confuse their tongues there, so that no one may hear the voice of his neighbor."
 
 **11:8** And so the Lord divided them from that place across all lands, and they stopped building the city.
 
@@ -72,6 +72,6 @@
 ## Translator Notes
 
 - **11:4** — Latin celebremus nomen nostrum ("let us make our name renowned") differs in wording from the Hebrew "let us make a name for ourselves."
-- **11:5** — Latin filii Adam preserves "the sons of Adam" literally, whereas the Hebrew phrase bene ha-adam is commonly rendered "the children of men" or "humankind."
+- **11:5** — Latin filii Adam ("the sons of Adam") renders the Hebrew bene ha-adam ("sons of man") with the name Adam.
 - **11:6** — The Vulgate's nec desistent a cogitationibus suis, donec eas opere compleant ("nor will they desist from their plans until they complete them in deed") is a distinctly Latin rendering compared with the Hebrew "nothing that they propose to do will now be impossible for them."
 - **11:13** — The Clementine Vulgate reads trecentis tribus annis (303 years) here, whereas the Hebrew Masoretic Text reads 403 years.

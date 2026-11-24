@@ -19,7 +19,7 @@
 
 **6:7** This is the law of the sacrifice and of the libations, which the sons of Aaron will offer before the Lord and before the altar.
 
-**6:8** The priest will take a handful of the fine flour that has been moistened with oil, and all the frankincense that has been placed on the fine flour, and he will burn it on the altar as a memorial of a most pleasing aroma to the Lord;
+**6:8** The priest will take a handful of the fine flour that has been moistened with oil, and all the frankincense that has been placed on the fine flour, and he will burn it on the altar as a memorial of a very sweet fragrance to the Lord;
 
 **6:9** but Aaron will eat the remaining part of the fine flour with his sons, without leaven, and he will eat it in the holy place of the courtyard of the tabernacle.
 
@@ -31,7 +31,7 @@
 
 **6:13** "This is the offering of Aaron and of his sons, which they ought to offer to the Lord on the day of their anointing. They will offer a tenth part of an ephah of fine flour as an everlasting sacrifice, half of it in the morning, and half of it in the evening,
 
-**6:14** which, moistened with oil, will be fried in a frying pan. And it will be offered hot for a most pleasing aroma to the Lord
+**6:14** which, moistened with oil, will be fried in a frying pan. And it will be offered hot for a very sweet fragrance to the Lord
 
 **6:15** by the priest who succeeds his father by right, and all of it will be burned on the altar.
 
@@ -49,11 +49,11 @@
 
 **6:22** Every male of the priestly family will eat from its flesh, because it is most holy.
 
-**6:23** For a sacrifice that is killed for sin, whose blood is brought into the tabernacle of testimony to make atonement in the sanctuary, will not be eaten, but will be burned up with fire.'"
+**6:23** For a sacrifice that is killed for sin, whose blood is brought into the tabernacle of the testimony to make expiation in the sanctuary, will not be eaten, but will be burned up with fire.'"
 
 ## Translator Notes
 
-- **6:1** — In the Vulgate (following the Septuagint), Leviticus chapter 6 begins here (corresponding to Hebrew MT 6:8), because MT 6:1-7 appear as Vulgate 5:20-26.
+- **6:1** — In this versification (matching the Hebrew Masoretic Text), chapter 6 begins here; other versifications number this verse 6:8.
 - **6:4** — Vulgate distinctly adds "usque ad favillam consumi faciet" ("will cause them to be consumed down to fine ash"), distinguishing coarse charred ashes ("cineres", v. 3) from fine ash ("favillam"). Clementine "efferret" is an orthographic variant of future indicative "efferet".
 - **6:10** — Vulgate "quia pars ejus in Domini offertur incensum" ("because part of it is offered as a fire offering of the Lord") differs from MT ("I have given it as their portion from My fire offerings"). Here and in 7:5, 25, Latin "incensum" (literally "what is kindled/burned") denotes a fire offering on the altar, distinct from "thus" ("frankincense", v. 8), and "Sanctum sanctorum" is literally "holy of holies" (a superlative idiom).
 - **6:14** — Vulgate "calidam" ("hot") reflects a distinct reading from MT ("well-mixed" / "baked pieces"), and v. 15 "qui jure patri successerit" ("who succeeds his father by right") renders MT's "anointed priest in his place."

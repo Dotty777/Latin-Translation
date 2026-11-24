@@ -5,7 +5,7 @@
 
 ## Text
 
-**1:1** In the beginning the Word existed, and the Word was with God, and the Word was God.
+**1:1** In the beginning was the Word, and the Word was with God, and the Word was God.
 
 **1:2** This One was in the beginning with God.
 
@@ -29,13 +29,13 @@
 
 **1:12** Yet to as many as received Him, He gave authority to become sons of God, to those who believe in His name,
 
-**1:13** who were born not from bloodlines, nor from the will of the flesh, nor from the will of a husband, but from God.
+**1:13** who were born not from bloodlines, nor from the will of the flesh, nor from the will of a man, but from God.
 
 **1:14** And the Word became flesh and made His dwelling among us; and we saw His glory, glory as of the only-begotten from the Father, full of grace and truth.
 
-**1:15** John bears witness about Him and cries out, saying, "This was the One of whom I said, 'The One who is going to come after me has been placed ahead of me, because He existed before me.'"
+**1:15** John bears witness about Him and cries out, saying, "This was the One of whom I said, 'The One who is going to come after me has been placed ahead of me, because He was before me.'"
 
-**1:16** And from His fullness all of us have received, even grace in place of grace;
+**1:16** And from His fullness all of us have received, even grace for grace;
 
 **1:17** because the Law was given through Moses, while grace and truth came into being through Jesus Christ.
 
@@ -63,7 +63,7 @@
 
 **1:29** On the next day John saw Jesus coming toward him, and he said, "Look, the Lamb of God; look, the One who takes away the sin of the world!
 
-**1:30** This is the One about whom I said, 'After me comes a man who has been placed ahead of me, because He existed before me.'
+**1:30** This is the One about whom I said, 'After me comes a man who has been placed ahead of me, because He was before me.'
 
 **1:31** And I did not know Him, yet so that He might be revealed in Israel, for this reason I came baptizing in water."
 
@@ -109,7 +109,7 @@
 
 ## Translator Notes
 
-- **1:1** — Latin Verbum renders Greek Logos ("Word," denoting speech, expression, or divine reason); erat ("was/existed") is existential in the opening clause.
+- **1:1** — Latin Verbum renders Greek Logos ("Word").
 - **1:2** — Latin Hoc is neuter, agreeing grammatically with neuter Verbum ("the Word"), referring to the Word Himself.
 - **1:3** — Latin punctuation attaches quod factum est ("that has been made") to verse 3 rather than verse 4.
 - **1:5** — Latin comprehenderunt carries the dual sense of "grasped/understood" and "overtook/overcame."

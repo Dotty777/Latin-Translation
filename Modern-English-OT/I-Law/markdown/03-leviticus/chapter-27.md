@@ -59,7 +59,7 @@
 
 **27:27** And if the animal is unclean, the one who offered it will redeem it according to your assessment, and will add a fifth part of the price; if he does not wish to redeem it, it will be sold to another for whatever amount it has been assessed by you.
 
-**27:28** Everything that is consecrated to the Lord, whether it is a person, or an animal, or a field, will not be sold, nor can it be redeemed. Whatever has once been consecrated will be most holy to the Lord;
+**27:28** Everything that is consecrated to the Lord, whether it is a person, or an animal, or a field, will not be sold, nor can it be redeemed. Whatever has once been consecrated will be a holy of holies to the Lord;
 
 **27:29** and every consecration that is offered by a person will not be redeemed, but will surely die.
 

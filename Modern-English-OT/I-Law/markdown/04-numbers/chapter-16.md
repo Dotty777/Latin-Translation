@@ -85,6 +85,6 @@
 
 - **16:1** — The Vulgate introduces the rebellion with Ecce autem ("Now look") and joins Korah, Dathan, Abiram, and On directly to "rose up" (surrexerunt) in 16:2, smoothing a difficult Hebrew verb ("took") that lacks an explicit object.
 - **16:9** — Latin singular ei ("to Him") is grammatically ambiguous: it naturally parallels the preceding serviretis ei ("serve Him," referring to God), though it can also refer to frequentia ("the throng," corresponding to Hebrew plural "them").
-- **16:14** — Unlike the Hebrew negative ("you have not brought us"), the Vulgate renders Dathan and Abiram's words as biting sarcasm with Revera induxisti nos ("Indeed, you have brought us") and reads "our eyes" (oculos nostros) rather than "the eyes of these men."
-- **16:30** — Latin in infernum ("into the underworld," also traditionally rendered "hell") is the Vulgate's standard term for the realm of the dead (Hebrew Sheol), and blasphemaverint ("have blasphemed") renders Hebrew "have despised/spurned."
-- **16:35** — In Clementine Vulgate versification, Numbers 16 ends at 16:35; the subsequent account of the bronze censers (16:36-50 in most English Bibles) begins Numbers 17.
+- **16:14** — Unlike the Hebrew negative ("you have not brought us"), the Vulgate has the affirmative Revera induxisti nos ("Indeed, you have brought us") and reads "our eyes" (oculos nostros) rather than "the eyes of these men."
+- **16:30** — Latin in infernum ("into the underworld") is the Vulgate's standard term for the realm of the dead (Hebrew Sheol), and blasphemaverint ("have blasphemed") renders Hebrew "have despised/spurned."
+- **16:35** — In this versification, as in the Hebrew, Numbers 16 ends at 16:35, and the subsequent account of the bronze censers begins Numbers 17.

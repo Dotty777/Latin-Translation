@@ -13,7 +13,7 @@
 
 **15:4** whoever slaughters a sacrificial victim shall offer a sacrifice of fine flour, a tenth part of an ephah, mixed with oil that shall have the measure of a fourth part of a hin; and he shall give wine for pouring drink offerings of the same measure for a burnt offering or for a sacrifice. For individual lambs and rams there shall be a sacrifice of two tenths of fine flour, which shall be mixed with oil of a third part of a hin; and he shall offer wine for a drink offering of a third part of the same measure for a fragrance of sweetness to the Lord.
 
-**15:8** But when you make a burnt offering or a sacrifice from the oxen, to fulfill a vow or peace sacrifices,
+**15:8** But when you make a burnt offering or a sacrifice from the oxen, to fulfill a vow or peace offerings,
 
 **15:9** you shall give for each ox three tenths of fine flour mixed with oil that shall have half the measure of a hin,
 

@@ -82,5 +82,5 @@
 - **37:2** — The Vulgate reads sedecim ("sixteen") where the Hebrew Masoretic Text has "seventeen," and renders Joseph's report forensically as accusavit crimine pessimo ("accused of a most wicked crime").
 - **37:3** — Latin tunicam polymitam literally means a tunic woven with many threads or colors; in 37:23 the Vulgate combines this with talari ("ankle-length"), reflecting both ancient interpretations of the garment.
 - **37:20** — The Vulgate specifies cisternam veterem ("an old cistern") where the Hebrew Masoretic Text reads "one of the pits."
-- **37:35** — Latin in infernum (literally "into the lower realm / underworld," traditionally rendered "into hell") translates Hebrew Sheol, the abode of the dead, rather than the place of eternal punishment.
-- **37:36** — The Vulgate names the sellers Madianei ("Midianites," matching Mazianitis, a Clementine spelling for Midianite, in 37:28; cf. Hebrew Medanim), and describes Potiphar specifically as eunucho ("eunuch") and magistro militiae ("commander of the army," a Roman military title).
+- **37:35** — Latin in infernum ("into the underworld," literally "into the lower regions") here renders Hebrew Sheol, the abode of the dead.
+- **37:36** — The Vulgate names the sellers Madianei ("Midianites," matching Mazianitis, the Latin text's spelling of Midianite, in 37:28; cf. Hebrew Medanim), and describes Potiphar specifically as eunucho ("eunuch") and magistro militiae ("commander of the army").
