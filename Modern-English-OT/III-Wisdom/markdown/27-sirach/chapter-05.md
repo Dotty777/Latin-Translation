@@ -33,7 +33,7 @@
 
 **5:14** Do not be called a whisperer, and do not be caught by your tongue and put to shame; for upon a thief are shame and remorse, and the worst condemnation upon the double-tongued; but to the whisperer belong hatred and enmity and dishonor.
 
-**5:15** Do justice to small and great alike. Do not become an enemy to your neighbor instead of a friend; for an evil person will inherit reproach and dishonor, as will every envious and double-tongued sinner.
+**5:15** Do justice to small and great alike.
 
 ## Translator Notes
 
@@ -41,4 +41,4 @@
 - **5:3** — Latin "How was I able?" (Quomodo potui?) is a Vulgate-distinct reading where the Greek has "Who will have power over me?" The closing phrase "will surely take vengeance" translates the emphatic Latin participle-and-verb idiom vindicans vindicabit (literally "avenging, will avenge").
 - **5:5** — The Clementine Vulgate prints De propitiatio peccato (understood as a variant of propitiato peccato, "concerning a propitiated/forgiven sin"), differing from the Greek "concerning atonement."
 - **5:11** — Vulgate "Be gentle in hearing" (Esto mansuetus ad audiendum) is a distinct Latin reading where the Greek has "Be swift to hear."
-- **5:15** — Vulgate "Do justice to small and great alike" (Justifica pusillum et magnum similiter, literally "Justify the small and the great alike") differs from the Greek "In great and small matters do not err." The second sentence of this verse corresponds to 6:1 in the Greek and most modern editions.
+- **5:15** — Vulgate "Do justice to small and great alike" (Justifica pusillum et magnum similiter, literally "Justify the small and the great alike") differs from the Greek "In great and small matters do not err."

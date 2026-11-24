@@ -71,7 +71,7 @@
 
 **31:34** *(after `31:27`)* What defrauds life? Death.
 
-**31:37** *(after `31:27`)* Drinking soberly is health for soul and body.
+**31:37** *(after `31:28`)* Drinking soberly is health for soul and body.
 
 ## Translator Notes
 

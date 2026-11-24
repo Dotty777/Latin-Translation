@@ -65,7 +65,7 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**3:32** *(after `3:31`)* A wise and discerning heart will keep itself from sins, and in deeds of righteousness it will have success.
+**3:32** *(after `3:29`)* A wise and discerning heart will keep itself from sins, and in deeds of righteousness it will have success.
 
 ## Translator Notes
 

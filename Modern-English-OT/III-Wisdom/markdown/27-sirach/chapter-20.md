@@ -9,7 +9,7 @@
 
 **20:2** How good it is to rebuke rather than to be angry, and not to hinder the one who confesses in prayer!
 
-**20:4** So is the one who executes an unjust judgment by force. The lust of a eunuch will deflower a young woman.
+**20:4** The lust of a eunuch will deflower a young woman; so is the one who executes an unjust judgment by force.
 
 **20:5** There is one who keeps silent who is found to be wise, and there is a detestable person who is brash in speaking.
 
@@ -67,7 +67,7 @@
 
 ## Translator Notes
 
-- **20:4** — The Clementine Vulgate reverses the order of the two clauses compared with the Greek and uses a finite future verb, "will deflower" (devirginabit), where the Greek has an infinitive introducing the simile ("Like a eunuch's desire to deflower a young woman, so is...").
+- **20:4** — The Vulgate uses a finite future verb, "will deflower" (devirginabit), where the Greek has an infinitive introducing the simile ("Like a eunuch's desire to deflower a young woman, so is...").
 - **20:18** — The Vulgate likens "the slip of a false tongue" to falling on a pavement (Lapsus falsae linguae quasi qui in pavimento cadens), whereas the Greek contrasts them ("a slip on the pavement is better than one of the tongue").
 - **20:19** — The Vulgate retains the untranslated Greek loanword acharis ("ungracious" or "graceless") and reads "an empty tale" (fabula vana) where the Greek has "an untimely tale."
 - **20:21** — The Vulgate omits the negation present in the Greek ("will not be pricked by remorse"), reading affirmatively that "in his rest he will be stung" (stimulabitur).

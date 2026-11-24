@@ -67,7 +67,7 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**40:31** *(after `40:30`)* But a disciplined and educated man will guard himself.
+**40:31** *(after `40:29`)* But a disciplined and educated man will guard himself.
 
 ## Translator Notes
 

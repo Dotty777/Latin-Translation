@@ -1,6 +1,6 @@
 # Sirach 47 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (24 verses, 5 translator notes)  
+> **Status:** `draft: true` (25 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -33,7 +33,9 @@
 
 **47:14** and you were filled, like a river, with wisdom, and your soul uncovered the earth.
 
-**47:16** And you filled riddles with comparisons; to the islands far away your name was spread abroad, and you were loved in your peace.
+**47:15** And you filled riddles with comparisons;
+
+**47:16** to the islands far away your name was spread abroad, and you were loved in your peace.
 
 **47:17** At songs, and proverbs, and comparisons, and interpretations, the lands marveled,
 

@@ -1,11 +1,11 @@
 # Sirach 6 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes)  
+> **Status:** `draft: true` (36 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**6:2** Do not exalt yourself in the thought of your soul like a bull, or else your strength may be crushed through folly,
+**6:2** Do not become an enemy to your neighbor instead of a friend; for an evil person will inherit reproach and dishonor, as will every envious and double-tongued sinner. Do not exalt yourself in the thought of your soul like a bull, or else your strength may be crushed through folly,
 
 **6:3** and it may devour your leaves and destroy your fruits, and you may be left like a dry tree in the wilderness.
 
@@ -69,7 +69,9 @@
 
 **6:33** If you incline your ear, you will receive instruction; and if you love to listen, you will be wise.
 
-**6:35** Stand in the multitude of prudent elders, and join yourself from the heart to their wisdom, so that you may be able to hear every account of God, and proverbs of praise may not escape from you.
+**6:34** Stand in the multitude of prudent elders, and join yourself from the heart to their wisdom,
+
+**6:35** so that you may be able to hear every account of God, and proverbs of praise may not escape from you.
 
 **6:36** And if you see a discerning person, rise early to go to him, and let your foot wear away the steps of his doors.
 

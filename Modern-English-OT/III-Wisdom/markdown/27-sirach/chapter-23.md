@@ -61,9 +61,9 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**23:31** *(after `23:19`)* And he will be a disgrace to everyone, because he has not understood the fear of the Lord.
+**23:31** *(after `23:21`)* And he will be a disgrace to everyone, because he has not understood the fear of the Lord.
 
-**23:38** *(after `23:19`)* To follow the Lord is a great glory, for length of days will be received from Him.
+**23:38** *(after `23:27`)* To follow the Lord is a great glory, for length of days will be received from Him.
 
 ## Translator Notes
 

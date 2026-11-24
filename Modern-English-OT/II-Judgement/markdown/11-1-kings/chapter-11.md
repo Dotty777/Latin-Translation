@@ -93,4 +93,4 @@
 - **11:5** — Following the 3 Kingdoms order, the building of the shrines precedes the summary of Solomon's worship in v. 6. The Vulgate reads "Molech" (Moloch) here and in vv. 6 and 33, where the Hebrew Masoretic Text reads Milcom in vv. 5 and 33.
 - **11:14** — The account of Rezon (traditionally vv. 23-24) is placed directly after Hadad's introduction, matching the 3 Kingdoms arrangement. The Vulgate also reads "gathered men against him" (congregavit contra eum viros) rather than "to himself."
 - **11:25** — Because vv. 23-24 appear in v. 14, this verse directly follows Hadad's departure. The Vulgate distinctively reads "and this is the evil of Hadad, and the hatred against Israel; and he reigned in Syria."
-- **11:43** — Jeroboam's return from Egypt upon hearing of Solomon's death (traditionally 12:2) is placed at the end of ch. 11 in accordance with the 3 Kingdoms sequence, while traditional 11:39 is absent.
+- **11:43** — Jeroboam's return from Egypt upon hearing of Solomon's death (Vulgate 12:2, so numbered in the Saints Latin Critical Text) is placed at the end of ch. 11 in accordance with the 3 Kingdoms sequence.

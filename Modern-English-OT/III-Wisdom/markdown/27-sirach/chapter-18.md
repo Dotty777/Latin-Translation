@@ -1,6 +1,6 @@
 # Sirach 18 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 6 translator notes)  
+> **Status:** `draft: true` (31 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -17,7 +17,9 @@
 
 **18:8** What is man, and what is his grace? And what is his good, or what is his wickedness?
 
-**18:10** The number of the days of men, at most one hundred years, has been reckoned like a drop of water from the sea; and like a pebble of sand, so are a few years in the day of eternity.
+**18:9** The number of the days of men, at most one hundred years,
+
+**18:10** has been reckoned like a drop of water from the sea; and like a pebble of sand, so are a few years in the day of eternity.
 
 **18:11** Because of this, God is patient toward them, and He pours out His mercy upon them.
 

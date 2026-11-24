@@ -1,6 +1,6 @@
 # Sirach 51 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -21,7 +21,7 @@
 
 **51:9** You exalted my dwelling above the earth, and I pleaded because of death flowing down.
 
-**51:10** I called upon the Lord, the Father of my Lord, that He would not abandon me in the day of my distress, and in the time of the proud, without help. I will praise Your name continually, and I will extol it in thanksgiving; and my prayer was heard.
+**51:10** I called upon the Lord, the Father of my Lord, that He would not abandon me in the day of my distress, and in the time of the proud, without help.
 
 **51:12** Therefore I will give thanks, and I will speak praise to You, and I will bless the name of the Lord.
 
@@ -60,6 +60,10 @@
 **51:29** Let your soul rejoice in His mercy, and you will not be put to shame in His praise.
 
 **51:30** Do your work before the time, and He will give you your reward in His time."
+
+## Additional Verses (Not in Saints Numbering)
+
+**51:11** *(after `51:10`)* I will praise Your name continually, and I will extol it in thanksgiving; and my prayer was heard.
 
 ## Translator Notes
 

@@ -37,13 +37,13 @@
 
 **2:16** Those who fear the Lord will seek out the things that are well-pleasing to Him, and those who love Him will be filled with His law.
 
-**2:17** Those who fear the Lord will prepare their hearts, and in His sight will sanctify their souls,
+**2:17** Those who fear the Lord will prepare their hearts, and in His sight will sanctify their souls.
 
 **2:18** saying, "If we do not repent, we will fall into the hands of the Lord, and not into the hands of men. For according to His greatness, so also is His mercy with Him."
 
 ## Additional Verses (Not in Saints Numbering)
 
-**2:21** *(after `2:18`)* Those who fear the Lord keep His commandments, and they will remain patient until His visitation.
+**2:21** *(after `2:17`)* Those who fear the Lord keep His commandments, and they will remain patient until His visitation,
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Sirach 45 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (25 verses, 5 translator notes)  
+> **Status:** `draft: true` (26 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -53,7 +53,9 @@
 
 **45:24** Therefore He established for him a covenant of peace, as ruler of the holy things and of his nation, so that the dignity of the priesthood might belong to him and to his offspring forever.
 
-**45:26** And a covenant for King David, the son of Jesse, from the tribe of Judah, an inheritance for him and for his offspring, so that He might give wisdom into our heart, to judge His nation in righteousness, so that their good things would not be wiped out; and He made their glory eternal for their nation.
+**45:25** And a covenant for King David, the son of Jesse, from the tribe of Judah, an inheritance for him and for his offspring,
+
+**45:26** so that He might give wisdom into our heart, to judge His nation in righteousness, so that their good things would not be wiped out; and He made their glory eternal for their nation.
 
 ## Translator Notes
 

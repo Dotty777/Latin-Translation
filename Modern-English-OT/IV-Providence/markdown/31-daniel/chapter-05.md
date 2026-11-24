@@ -70,7 +70,7 @@
 - **5:1** — Vulgate unusquisque secundum suam bibebat aetatem ("each one was drinking according to his age") is a distinctly Vulgate reading, where the Aramaic text states that the king drank wine before the thousand.
 - **5:2** — Vulgate jam temulentus ("being already drunk") renders the Aramaic idiom "at the taste of the wine" more explicitly.
 - **5:5** — Vulgate articulos manus scribentis literally means "the joints of the hand that was writing," rendering the Aramaic phrase for the palm or back of the hand.
-- **5:17** — In this Latin text, the verse concludes with the inscription sentence (usually 5:25), which gives three words in the Vulgate—Mane, Thecel, Phares (standardized here as Mene, Tekel, Peres)—rather than the four-word Masoretic sequence (Mene, Mene, Tekel, Upharsin).
+- **5:17** — The closing sentence giving the inscription (Vulgate 5:25, so numbered in the Saints Latin Critical Text) stands here at the end of 5:17, where the Saints numbering places it. The Vulgate gives three words—Mane, Thecel, Phares (standardized here as Mene, Tekel, Peres)—rather than the four-word Masoretic sequence (Mene, Mene, Tekel, Upharsin).
 - **5:19 *(additional)*** — The Vulgate reads percutiebat ("he struck"), where the Aramaic text has "he kept alive."
 - **5:21 *(additional)*** — The Vulgate literally reads "his heart was placed with the beasts" (cor ejus cum bestiis positum est).
 - **5:24 *(additional)*** — Latin articulus manus literally refers to the joint or extremity of the hand.

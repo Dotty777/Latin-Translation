@@ -1,6 +1,6 @@
 # Nehemiah 12 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (43 verses, 5 translator notes, 3 additional)  
+> **Status:** `draft: true` (44 verses, 5 translator notes, 3 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Nehemiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -63,7 +63,9 @@
 
 **12:32** And Hoshaiah went after them, and half of the leaders of Judah,
 
-**12:33** and Azariah, Ezra, Meshullam, Judah, Benjamin, Shemaiah, and Jeremiah.
+**12:33** and Azariah, Ezra, Meshullam,
+
+**12:34** Judah, Benjamin, Shemaiah, and Jeremiah.
 
 **12:35** And from the sons of the priests with trumpets: Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Micaiah, the son of Zaccur, the son of Asaph,
 

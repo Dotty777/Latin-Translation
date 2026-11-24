@@ -41,13 +41,13 @@
 
 **26:18** Golden pillars upon silver bases; so are firm feet upon the soles of a steadfast woman.
 
-**26:28** A warrior failing through poverty; and a sensible man despised; and the one who crosses over from righteousness to sin: God has prepared him for the sword. Over two things my heart has been grieved, and at the third, indignation has come upon me:
+**26:28** Over two things my heart has been grieved, and at the third, indignation has come upon me: a warrior failing through poverty; and a sensible man despised; and the one who crosses over from righteousness to sin: God has prepared him for the sword.
 
 **26:29** Two kinds have appeared difficult and dangerous to me: with difficulty is a merchant freed from negligence, and a shopkeeper will not be justified from sins of the lips.
 
 ## Additional Verses (Not in Saints Numbering)
 
-**26:24** *(after `26:15`)* Like eternal foundations on solid rock, so are the commandments of God in the heart of a holy woman.
+**26:24** *(after `26:18`)* Like eternal foundations on solid rock, so are the commandments of God in the heart of a holy woman.
 
 ## Translator Notes
 
@@ -55,5 +55,5 @@
 - **26:5** — Latin facies mea metuit ("my face feared") takes "face" as the subject and renders Greek edeethen ("I pleaded") as a verb of fearing.
 - **26:10** — Latin non avertente se ("who does not turn herself away") is a literal etymological rendering of Greek adiatreptos ("shameless" or "headstrong"), and utatur se ("indulge herself") literally means "make use of herself."
 - **26:17** — Latin aetatem stabilem ("a steadfast age") renders Greek helikia ("age" or "stature") specifically as "age," parallel to stabilis mulieris ("a steadfast woman") in 26:18.
-- **26:28** — The Latin text places the three enumerated items before the introductory formula ("Over two things..."), and 26:29 preserves the Vulgate's opening expansion ("Two kinds have appeared difficult and dangerous to me"), the wordplay negotians ... negligentia ("merchant ... negligence," where Greek has "wrongdoing"), and "sins of the lips."
+- **26:29** — The Vulgate opens with an expansion ("Two kinds have appeared difficult and dangerous to me"), has the wordplay negotians ... negligentia ("merchant ... negligence," where the Greek has "wrongdoing"), and reads "sins of the lips."
 - **26:24 *(additional)*** — Literally, "Eternal foundations on solid rock, and the commandments of God in the heart of a holy woman," a comparative proverb construction.

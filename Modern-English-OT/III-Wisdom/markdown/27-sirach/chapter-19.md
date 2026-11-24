@@ -1,6 +1,6 @@
 # Sirach 19 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (27 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -13,7 +13,9 @@
 
 **19:4** The one who believes quickly is fickle in heart and will be diminished, and the one who offends against his own soul will be held in contempt.
 
-**19:6** The one who rejoices in iniquity will be denounced, and the one who hates reproof will be shortened in life, and the one who hates talkativeness extinguishes evil.
+**19:5** The one who rejoices in iniquity will be denounced, and the one who hates reproof will be shortened in life,
+
+**19:6** and the one who hates talkativeness extinguishes evil.
 
 **19:7** Do not repeat a wicked and harsh word, and you will not be diminished.
 

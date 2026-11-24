@@ -1,6 +1,6 @@
 # Daniel 3 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (97 verses, 9 translator notes)  
+> **Status:** `draft: true` (93 verses, 9 translator notes, 4 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -137,14 +137,6 @@
 
 **3:66** Bless the Lord, fire and heat; praise and supremely exalt Him forever.
 
-**3:67** Bless the Lord, cold and heat; praise and supremely exalt Him forever.
-
-**3:68** Bless the Lord, dews and hoarfrost; praise and supremely exalt Him forever.
-
-**3:69** Bless the Lord, frost and cold; praise and supremely exalt Him forever.
-
-**3:70** Bless the Lord, ice and snows; praise and supremely exalt Him forever.
-
 **3:71** Bless the Lord, nights and days; praise and supremely exalt Him forever.
 
 **3:72** Bless the Lord, light and darkness; praise and supremely exalt Him forever.
@@ -198,6 +190,16 @@
 **3:96** Therefore this decree has been laid down by me: that every people, tribe, and language, whichever speaks blasphemy against the God of Shadrach, Meshach, and Abednego, is to perish, and its house is to be laid waste; for there is no other god who is able to save in this way."
 
 **3:97** Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon.
+
+## Additional Verses (Not in Saints Numbering)
+
+**3:67** *(after `3:66`)* Bless the Lord, cold and heat; praise and supremely exalt Him forever.
+
+**3:68** *(after `3:66`)* Bless the Lord, dews and hoarfrost; praise and supremely exalt Him forever.
+
+**3:69** *(after `3:66`)* Bless the Lord, frost and cold; praise and supremely exalt Him forever.
+
+**3:70** *(after `3:66`)* Bless the Lord, ice and snows; praise and supremely exalt Him forever.
 
 ## Translator Notes
 

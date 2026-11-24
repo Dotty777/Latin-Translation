@@ -61,7 +61,7 @@
 
 ## Translator Notes
 
-- **17:3** — In the Clementine Vulgate, "He turned him back into it again" stands in v. 3 (whereas the Greek places it in v. 1), and "according to Himself" (secundum se) refers back to God rather than to human strength.
+- **17:3** — In the Latin this clause ("And He turned him back into it again...") precedes "He gave him a number of days" (17:2); "according to Himself" (secundum se) refers to God rather than to human strength.
 - **17:6** — The opening clause "He created from him a helper like himself" is a Vulgate addition (echoing Genesis 2:18 and the expanded Greek tradition) absent from the standard Septuagint.
 - **17:20** — Latin testamenta ("covenants") is a notable Vulgate-distinct reading where the Greek has "iniquities" (adikia), emphasizing that human wickedness does not conceal God's covenants.
 - **17:27** — This verse follows the expanded Old Latin and Vulgate text ("Go into the parts of the holy age...") rather than the standard Septuagint's question about praising God in Hades; here, in v. 28, and in 18:28, Latin confessio and confiteri carry the biblical sense of giving praise and thanksgiving.

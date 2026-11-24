@@ -1,6 +1,6 @@
 # Sirach 14 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (25 verses, 5 translator notes)  
+> **Status:** `draft: true` (26 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -49,7 +49,9 @@
 
 **14:23** who looks through her windows and listens at her doors.
 
-**14:25** He who rests near her house and drives a peg into her walls will set up his hut close by her hands, and good things will rest in his hut forever.
+**14:24** He who rests near her house and drives a peg into her walls
+
+**14:25** will set up his hut close by her hands, and good things will rest in his hut forever.
 
 **14:26** He will place his children under her shelter, and under her branches he will dwell.
 

@@ -1,6 +1,6 @@
 # Sirach 33 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (29 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -29,11 +29,11 @@
 
 **33:13** Like the clay of a potter in his hand, to mold it and arrange it.
 
-**33:15** Opposite evil is good, and opposite death is life; so too opposite a righteous man is a sinner. And thus look upon all the works of the Most High: two and two, and one opposite another.
+**33:14** Opposite evil is good, and opposite death is life; so too opposite a righteous man is a sinner.
 
-**33:16** And I, last of all, kept watch, and was like one who gathers grapes after the grape-harvesters.
+**33:15** And thus look upon all the works of the Most High: two and two, and one opposite another.
 
-**33:17** In the blessing of God I too hoped, and like one who harvests grapes I filled the winepress.
+**33:17** And I, last of all, kept watch, and was like one who gathers grapes after the grape-harvesters. In the blessing of God I too hoped, and like one who harvests grapes I filled the winepress.
 
 **33:18** See that I have not labored for myself alone, but for all who seek out instruction.
 
@@ -53,13 +53,15 @@
 
 **33:26** He works under discipline and seeks to rest; loosen his hands, and he seeks freedom.
 
-**33:27** A yoke and a strap bend a stiff neck, and constant labors bow down a slave. For a malicious slave, torture and shackles; send him to labor, so that he may not be idle.
+**33:27** A yoke and a strap bend a stiff neck, and constant labors bow down a slave.
+
+**33:28** For a malicious slave, torture and shackles; send him to labor, so that he may not be idle.
 
 **33:29** Set him to tasks, for so it is fitting for him. But if he does not obey, bend him with shackles, and do not go to excess upon any flesh; but without judgment do nothing severe.
 
-**33:32** If you have a faithful slave, let him be to you like your own soul; treat him just like a brother, because with the blood of the soul you purchased him.
+**33:31** If you have a faithful slave, let him be to you like your own soul; treat him just like a brother, because with the blood of the soul you purchased him.
 
-**33:33** If you harm him unjustly, he will turn to flight.
+**33:32** If you harm him unjustly, he will turn to flight.
 
 ## Translator Notes
 

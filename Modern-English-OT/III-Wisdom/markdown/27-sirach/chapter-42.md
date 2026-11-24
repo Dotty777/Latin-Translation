@@ -55,7 +55,7 @@
 
 ## Translator Notes
 
-- **42:2** — This verse continues the sentence begun at the end of 41:27 ('Do not be ashamed...'). The phrase 'of judgment to justify the ungodly' translates Latin 'de judicio justificare impium' literally and is debated, often understood as giving even an ungodly person a fair verdict when innocent.
+- **42:2** — This verse continues the sentence begun at the end of 41:23 ('Do not be ashamed...'). The phrase 'of judgment to justify the ungodly' translates Latin 'de judicio justificare impium' literally and is debated, often understood as giving even an ungodly person a fair verdict when innocent.
 - **42:8** — Vulgate 'senioribus qui judicantur ab adolescentibus' ('elderly men who are judged by young men') is a distinctively Latin reading where the Greek speaks of an aged man accused of or contending over sexual immorality.
 - **42:13** — The Vulgate reads 'iniquitas viri' ('a man's wickedness'), whereas the Greek reads 'a woman's wickedness.'
 - **42:17** — The Vulgate renders the Greek negative statement ('the Lord's holy ones have not been able to recount all His wonders') as a positive rhetorical question ('Nonne Dominus fecit...': 'Has not the Lord caused the holy ones to recount all His wonders...').

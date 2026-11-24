@@ -1,6 +1,6 @@
 # Sirach 37 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (29 verses, 4 translator notes)  
+> **Status:** `draft: true` (30 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -37,7 +37,9 @@
 
 **37:16** Before all works let a truthful word go before you, and before every action, steady counsel.
 
-**37:18** A wicked word will change the heart, from which four parts arise: good and evil, life and death; and their continual ruler is the tongue. There is a shrewd man who is an instructor of many, and he is useless to his own soul.
+**37:17** A wicked word will change the heart,
+
+**37:18** from which four parts arise: good and evil, life and death; and their continual ruler is the tongue. There is a shrewd man who is an instructor of many, and he is useless to his own soul.
 
 **37:20** He who speaks with sophistry is hateful; in every matter he will be defrauded.
 
@@ -68,4 +70,4 @@
 - **37:3** — Latin "praesumptio" ("presumption") corresponds to "evil inclination/thought" in the Greek, and the Vulgate adds "malitia et ... illius" ("with wickedness and its deceitfulness") to the clause about covering the dry land.
 - **37:9** — The Clementine Vulgate reads "mittat sudem in terram" ("thrust a stake into the ground," where the Greek has "cast a lot") and breaks off at "et dicat tibi:" without the counselor's quoted words found in the Greek.
 - **37:11** — Unlike the Greek ("do not consult"), the Clementine Vulgate lacks a negative before the imperative "tracta" ("confer"), giving the series an ironic force leading into the contrast of v. 12, and omits several additional examples present in the Greek.
-- **37:18** — The Vulgate reads "Verbum nequam immutabit cor" ("A wicked word will change the heart"), whereas the Greek speaks of a trace of the heart's change; the Clementine verse numbering also combines the material of Greek vv. 17-19 into v. 18.
+- **37:17** — The Vulgate reads "Verbum nequam immutabit cor" ("A wicked word will change the heart"), whereas the Greek speaks of a trace of the heart's change.

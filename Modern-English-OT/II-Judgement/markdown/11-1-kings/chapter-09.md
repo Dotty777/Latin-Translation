@@ -42,4 +42,4 @@
 ## Translator Notes
 
 - **9:8** — The Vulgate reads "will become an example" (in exemplum), portraying the ruined house as a cautionary sign, whereas the Hebrew Masoretic Text reads "will be high" (often understood or emended as "a heap of ruins").
-- **9:9** — The notice of Pharaoh's daughter moving into her house and the building of Millo stands here in the Saints Latin Critical Text (matching the Septuagint 3 Kingdoms arrangement) rather than at 9:24 as in the Hebrew Masoretic Text.
+- **9:9** — The notice of Pharaoh's daughter moving into her house and the building of Millo (Vulgate 9:24, so numbered in the Saints Latin Critical Text) stands here, where 3 Kingdoms places it.

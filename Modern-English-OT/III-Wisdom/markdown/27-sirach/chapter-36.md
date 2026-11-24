@@ -35,7 +35,7 @@
 
 **36:15** Give a reward to those who wait for You, so that Your prophets may be found faithful; and hear the prayers of Your servants,
 
-**36:17** according to the blessing of Aaron concerning Your people; and direct us into the way of righteousness, and let all who inhabit the earth know that You are God, the watcher of the ages.
+**36:16** according to the blessing of Aaron concerning Your people; and direct us into the way of righteousness, and let all who inhabit the earth know that You are God, the watcher of the ages.
 
 **36:18** The stomach will eat every food, yet one food is better than another.
 
@@ -60,5 +60,5 @@
 - **36:1** — The petition "and show us the light of Your mercies" (et ostende nobis lucem miserationum tuarum) is a Vulgate-distinct expansion absent from the standard Septuagint text.
 - **36:5** — Latin immuta literally means "change" or "alter," following the Greek rendering of a Hebrew verb that can mean either "repeat" or "make different," here conveying the sense of working fresh, varied wonders.
 - **36:13** — "Your inexpressible words" (inenarrabilibus verbis tuis, lit. words beyond recounting) is a distinctly Vulgate reading where the Greek has "the recital of Your praises"; the Latin also reads "Your people" (populum tuum) where many Greek witnesses read "Your temple."
-- **36:17** — Both "and direct us into the way of righteousness" (et dirige nos in viam justitiae) and the divine title "watcher of the ages" (conspector saeculorum) are distinctive Vulgate elements beyond the standard Greek "God of the ages."
+- **36:16** — Both "and direct us into the way of righteousness" (et dirige nos in viam justitiae) and the divine title "watcher of the ages" (conspector saeculorum) are distinctive Vulgate elements beyond the standard Greek "God of the ages."
 - **36:23** — The Vulgate expands the Greek ("if on her tongue there is mercy and gentleness") into "if there is a tongue of healing, it is also of soothing and mercy" (lingua curationis, est et mitigationis et misericordiae).

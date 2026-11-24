@@ -67,7 +67,7 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**10:21** *(after `10:20`)* God destroyed the memory of the proud and left the memory of those who are humble in mind.
+**10:21** *(after `10:17`)* God destroyed the memory of the proud and left the memory of those who are humble in mind.
 
 ## Translator Notes
 

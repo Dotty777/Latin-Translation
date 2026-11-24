@@ -1,6 +1,6 @@
 # Sirach 24 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes, 3 additional)  
+> **Status:** `draft: true` (32 verses, 5 translator notes, 3 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -23,7 +23,9 @@
 
 **24:9** From the beginning and before the ages I was created, and even to the coming age I will not cease; and in the holy dwelling I ministered before Him.
 
-**24:11** And so in Zion I was established, and in the sanctified city likewise I rested, and in Jerusalem is my authority.
+**24:10** And so in Zion I was established,
+
+**24:11** and in the sanctified city likewise I rested, and in Jerusalem is my authority.
 
 **24:12** And I took root in an honored people, and in the portion of my God is His inheritance, and in the fullness of the holy ones is my abiding place.
 
@@ -69,11 +71,11 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**24:24** *(after `24:23`)* I am the mother of beautiful love, of fear, of knowledge, and of holy hope.
+**24:24** *(after `24:17`)* I am the mother of beautiful love, of fear, of knowledge, and of holy hope.
 
-**24:40** *(after `24:34`)* I have poured out wisdom as rivers.
+**24:40** *(after `24:29`)* I have poured out wisdom as rivers.
 
-**24:45** *(after `24:31`)* I will penetrate all the lower parts of the earth, look upon all who sleep, and give light to all who hope in the Lord.
+**24:45** *(after `24:32`)* I will penetrate all the lower parts of the earth, look upon all who sleep, and give light to all who hope in the Lord.
 
 ## Translator Notes
 

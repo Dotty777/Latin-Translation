@@ -1,6 +1,6 @@
 # Sirach 35 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (22 verses, 5 translator notes)  
+> **Status:** `draft: true` (19 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -25,9 +25,7 @@
 
 **35:10** for the Lord is one who repays, and He will give back to you seven times as much.
 
-**35:11** Do not offer corrupt gifts, for He will not accept them.
-
-**35:12** And do not look to an unjust sacrifice, for the Lord is a judge, and there is no glory of person with Him.
+**35:12** Do not offer corrupt gifts, for He will not accept them. And do not look to an unjust sacrifice, for the Lord is a judge, and there is no glory of person with Him.
 
 **35:13** The Lord will not favor a person against a poor man, and He will hear the supplication of the injured one.
 
@@ -39,13 +37,9 @@
 
 **35:17** The prayer of the one who humbles himself will pierce the clouds; and until it draws near, it will not be comforted, and it will not depart until the Most High looks upon it.
 
-**35:19** And the Lord will not delay, and He will judge the righteous and execute judgment; and the Most Mighty will not have patience with them, so that He may crush their back;
+**35:21** And the Lord will not delay, and He will judge the righteous and execute judgment; and the Most Mighty will not have patience with them, so that He may crush their back; and He will render vengeance to the nations, until He takes away the fullness of the proud and crushes the scepters of the wicked;
 
-**35:21** and He will render vengeance to the nations, until He takes away the fullness of the proud and crushes the scepters of the wicked;
-
-**35:22** until He renders to people according to their deeds, and according to the works of Adam, and according to his presumption;
-
-**35:23** until He judges the judgment of His people, and He will delight the righteous with His mercy.
+**35:22** until He renders to people according to their deeds, and according to the works of Adam, and according to his presumption; until He judges the judgment of His people, and He will delight the righteous with His mercy.
 
 **35:24** Beautiful is the mercy of God in a time of tribulation, like clouds of rain in a time of drought.
 
@@ -54,5 +48,5 @@
 - **35:2** — The Vulgate makes "he who offers fine flour" the subject of the future verb "will return thanks" (Retribuet gratiam, also "repay a favor"), inverting the Greek sense in which returning a kindness is likened to offering fine flour.
 - **35:9** — "With a good eye" (in bono oculo) is a biblical idiom for generosity. The following phrase literally reads "do/make the finding of your hands" (adinventionem facito manuum tuarum), where adinventio renders Greek heurema (what one's hands have gained) and facito carries the sacrificial sense of offering or presenting.
 - **35:12** — "Glory of person" (gloria personae) is a literal rendering of the biblical idiom for outward prestige, status, or partiality (paired with "favor a person" in 35:13).
-- **35:19** — A distinctly Vulgate reading ("so that He may crush their back," ut contribulet dorsum ipsorum) where the Greek reads "until He crushes the loins of the merciless"; the Latin also takes "the righteous" (justos) as the direct object of "judge."
+- **35:21** — A distinctly Vulgate reading ("so that He may crush their back," ut contribulet dorsum ipsorum) where the Greek reads "until He crushes the loins of the merciless"; the Latin also takes "the righteous" (justos) as the direct object of "judge."
 - **35:22** — A notable Vulgate-distinct reading that renders Hebrew/generic "man" as the proper name "Adam" (Adae), followed by the singular "his presumption" (praesumptionem illius), where the Greek reads "the works of men according to their intentions."

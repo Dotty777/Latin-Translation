@@ -1,6 +1,6 @@
 # Nehemiah 7 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (72 verses, 8 translator notes)  
+> **Status:** `draft: true` (72 verses, 8 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Nehemiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -97,7 +97,9 @@
 
 **7:46** The Nethinim: the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth,
 
-**7:47** the sons of Keros, the sons of Sia, the sons of Padon, the sons of Lebana, the sons of Hagaba, the sons of Shalmai,
+**7:47** the sons of Keros, the sons of Sia, the sons of Padon,
+
+**7:48** the sons of Lebana, the sons of Hagaba, the sons of Shalmai,
 
 **7:49** the sons of Hanan, the sons of Giddel, the sons of Gahar,
 
@@ -137,8 +139,6 @@
 
 **7:67** besides their male servants and female servants, who were seven thousand three hundred thirty-seven, and among them male singers and female singers, two hundred forty-five.
 
-**7:68** Their horses, seven hundred thirty-six; their mules, two hundred forty-five;
-
 **7:69** their camels, four hundred thirty-five; donkeys, six thousand seven hundred twenty.
 
 **7:70** Now some of the leaders of the families gave for the work. The Tirshatha gave to the treasury one thousand drachmas of gold, fifty bowls, and five hundred thirty priestly tunics.
@@ -148,6 +148,10 @@
 **7:72** And what the rest of the people gave was twenty thousand drachmas of gold, two thousand minas of silver, and sixty-seven priestly tunics.
 
 **7:73** Now the priests, the Levites, the gatekeepers, the singers, the rest of the common people, the Nethinim, and all Israel lived in their cities.
+
+## Additional Verses (Not in Saints Numbering)
+
+**7:68** *(after `7:67`)* Their horses, seven hundred thirty-six; their mules, two hundred forty-five;
 
 ## Translator Notes
 
