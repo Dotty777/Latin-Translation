@@ -61,7 +61,7 @@
 
 **26:28** which shall be passed through the middle of the boards from one end to the other.
 
-**26:29** You shall also gild the boards themselves, and you shall cast golden rings on them through which the bars may hold the boarding together; and you shall cover the bars with golden plates.
+**26:29** You shall also gild the boards themselves, and you shall cast golden rings on them through which the bars may hold the boarding together; and these you shall cover with golden plates.
 
 **26:30** And you shall erect the tabernacle according to the pattern that was shown to you on the mountain.
 
@@ -71,7 +71,7 @@
 
 **26:33** Now the veil shall be inserted through the rings, within which you shall place the ark of the testimony, by which both the sanctuary and the sanctuaries of the sanctuary shall be divided.
 
-**26:34** You shall also place the propitiatory upon the ark of the testimony in the Holy of Holies,
+**26:34** You shall also place the mercy seat upon the ark of the testimony in the Holy of Holies,
 
 **26:35** and the table outside the veil, and opposite the table the lampstand on the southern side of the tabernacle; for the table shall stand on the northern side.
 
@@ -85,4 +85,4 @@
 - **26:14** — Latin de janthinis pellibus ('of violet-colored skins') follows the Septuagint rendering of the obscure Hebrew term tahash, whose meaning is uncertain.
 - **26:15** — Latin de lignis setim retains the transliterated Hebrew name shittim for the desert acacia tree, translated here and throughout as 'acacia wood'.
 - **26:28** — The Vulgate uses the plural relative pronoun qui ('which'), referring to the bars generally passing through the middle of the boards, whereas the Hebrew specifies the single middle bar.
-- **26:32** — Latin capita ('capitals' or 'heads') describes the tops of the pillars (as also in 26:37 and 27:10, 11, 17), where the Hebrew refers to 'hooks'; similarly, 'propitiatory' in 26:34 directly translates Latin propitiatorium, the golden atonement cover traditionally called the mercy seat.
+- **26:32** — Latin capita ('capitals' or 'heads') describes the tops of the pillars (as also in 26:37 and 27:10, 11, 17), where the Hebrew refers to 'hooks'.

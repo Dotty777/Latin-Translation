@@ -51,7 +51,7 @@
 
 **11:23** Jesus told her, "Your brother will rise again."
 
-**11:24** Martha told Him, "I know that he will rise again in the resurrection on the final day."
+**11:24** Martha told Him, "I know that he will rise again in the resurrection on the last day."
 
 **11:25** Jesus said to her, "I am the resurrection and the life; the one who believes in Me, even if he dies, will live;
 

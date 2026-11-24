@@ -13,7 +13,7 @@
 
 **13:4** Like those eighteen on whom the tower in Siloam fell and killed them, do you think that they too were debtors beyond all the people living in Jerusalem?
 
-**13:5** No, I tell you; but if you do not practice repentance, you will all perish in the same way."
+**13:5** No, I tell you; but if you do not repent, you will all perish in the same way."
 
 **13:6** Now He was also telling this parable: "A certain man had a fig tree planted in his vineyard, and he came looking for fruit on it and found none.
 
@@ -59,7 +59,7 @@
 
 **13:27** And He will say to you, 'I do not know you, where you are from; depart from Me, all you workers of unrighteousness.'
 
-**13:28** In that place there will be weeping and gnashing of teeth, when you see Abraham and Isaac and Jacob and all the prophets in the kingdom of God, and yourselves being driven outside.
+**13:28** In that place there will be weeping and gnashing of teeth, when you see Abraham and Isaac and Jacob and all the prophets in the kingdom of God, but yourselves being driven outside.
 
 **13:29** And they will come from the east and the west, and the north and the south, and will recline at table in the kingdom of God.
 
@@ -77,7 +77,7 @@
 
 ## Translator Notes
 
-- **13:3** — The Vulgate shifts from poenitentiam habueritis ("have repentance") here to poenitentiam non egeritis ("do not practice repentance," traditionally "do penance") in verse 5, varying its rendering of the Greek verb for repenting.
+- **13:3** — The Vulgate shifts from poenitentiam habueritis ("have repentance") here to poenitentiam non egeritis ("do not repent," literally "do not do repentance") in verse 5, varying its rendering of the Greek verb for repenting.
 - **13:9** — The Latin preserves an abrupt break in syntax (aposiopesis) after "if indeed it bears fruit" without supplying an implied "well," and places in futurum ("in the future") clearly with the second clause ("you will cut it down").
 - **13:10** — The Vulgate reads in synagoga eorum ("in their synagogue"), whereas the Greek text reads "in one of the synagogues."
 - **13:25** — The Vulgate reads intraverit ("has entered") rather than the Greek "has risen up."

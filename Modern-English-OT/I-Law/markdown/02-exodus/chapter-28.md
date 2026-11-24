@@ -13,13 +13,13 @@
 
 **28:4** Now these will be the vestments that he will make: a breastpiece and a shoulder vestment, a tunic and a close-fitting linen garment, a turban and a sash. They will make holy vestments for your brother Aaron and his sons, so that they may exercise the priesthood for Me.
 
-**28:5** And they will receive gold, violet-blue, purple, twice-dyed crimson, and fine linen.
+**28:5** And they will receive gold, violet-blue, purple, twice-dyed scarlet, and fine linen.
 
-**28:6** Now they will make the shoulder vestment of gold, violet-blue, purple, twice-dyed crimson, and twisted fine linen, in variegated woven work.
+**28:6** Now they will make the shoulder vestment of gold, violet-blue, purple, twice-dyed scarlet, and twisted fine linen, in variegated woven work.
 
 **28:7** It will have two joined borders on each side of the upper ends, so that they may come together into one.
 
-**28:8** The weaving itself also, and all the variety of the work, will be of gold, violet-blue, purple, twice-dyed crimson, and twisted fine linen.
+**28:8** The weaving itself also, and all the variety of the work, will be of gold, violet-blue, purple, twice-dyed scarlet, and twisted fine linen.
 
 **28:9** And you will take two onyx stones, and you will engrave on them the names of the sons of Israel:
 
@@ -33,7 +33,7 @@
 
 **28:14** and two small chains of the purest gold, linked to one another, which you will insert into the hooks.
 
-**28:15** You will also make the breastpiece of judgment in variegated woven work, according to the weaving of the shoulder vestment, of gold, violet-blue, purple, twice-dyed crimson, and twisted fine linen.
+**28:15** You will also make the breastpiece of judgment in variegated woven work, according to the weaving of the shoulder vestment, of gold, violet-blue, purple, twice-dyed scarlet, and twisted fine linen.
 
 **28:16** It will be four-cornered and doubled: it will have the measure of a palm both in length and in width.
 
@@ -57,7 +57,7 @@
 
 **28:32** in the middle of which at the top there will be an opening for the head, and a woven border all around it, just as is customarily made at the outermost parts of garments, so that it may not easily be torn.
 
-**28:33** Below, however, at the foot of that same tunic, all around, you will make, as it were, pomegranates, of violet-blue, purple, and twice-dyed crimson, with bells mingled in between,
+**28:33** Below, however, at the foot of that same tunic, all around, you will make, as it were, pomegranates, of violet-blue, purple, and twice-dyed scarlet, with bells mingled in between,
 
 **28:34** so that there is a gold bell and a pomegranate, and again another gold bell and a pomegranate.
 

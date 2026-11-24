@@ -62,5 +62,5 @@
 - **3:6** — The Vulgate reads surge, et ambula ("rise and walk"), aligning with the Byzantine Greek tradition rather than the shorter Alexandrian Greek reading ("walk").
 - **3:7** — The Vulgate translates the healed parts as bases ejus et plantae ("his feet and soles"), whereas the Greek text reads "feet and ankles."
 - **3:12** — The Clementine Vulgate reads virtute aut potestate ("power or authority"), in contrast to the Greek text's "power or piety."
-- **3:13** — Here and in 3:26, the Vulgate renders the Greek title pais ("servant/child") as filius ("Son"), emphasizing Jesus' divine sonship.
+- **3:13** — Here and in 3:26, the Vulgate renders the Greek title pais ("servant/child") as filius ("Son").
 - **3:20** — The Vulgate literally reproduces ut cum ("so that when") and reads qui praedicatus est ("who has been preached"), differing from the Alexandrian Greek reading "who has been appointed."

@@ -29,7 +29,7 @@
 
 **1:12** Then they returned to Jerusalem from the mountain that is called Olivet, which is close to Jerusalem, a Sabbath's journey away.
 
-**1:13** And when they had entered, they went up into the upper room where Peter and John, James and Andrew, Philip and Thomas, Bartholomew and Matthew, James son of Alphaeus, and Simon the Zealot, and Judas son of James were staying.
+**1:13** And when they had entered into the upper room, they went up to where Peter and John, James and Andrew, Philip and Thomas, Bartholomew and Matthew, James son of Alphaeus, and Simon the Zealot, and Judas son of James were staying.
 
 **1:14** All of these were continuing steadfastly, of one mind, in prayer with the women, and Mary the mother of Jesus, and His brothers.
 

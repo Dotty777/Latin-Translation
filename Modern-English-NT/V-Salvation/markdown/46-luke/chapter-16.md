@@ -7,7 +7,7 @@
 
 **16:1** Now He was also saying to His disciples, "There was a certain rich man who had a steward, and this man was accused before him as though he had squandered his possessions.
 
-**16:2** And he called him and said to him, 'What is this that I hear about you? Render an account of your stewardship, for you can no longer act as steward.'
+**16:2** And he called him and said to him, 'What is this that I hear about you? Render an account of your stewardship, for you will no longer be able to act as steward.'
 
 **16:3** Then the steward said within himself, 'What am I to do, since my master is taking the stewardship away from me? I am not strong enough to dig; I am ashamed to beg.
 
@@ -47,7 +47,7 @@
 
 **16:21** longing to be satisfied with the crumbs that fell from the rich man's table, and no one gave him any; moreover, even the dogs came and licked his sores.
 
-**16:22** Now it happened that the beggar died and was carried by the angels into Abraham's bosom. And the rich man also died and was buried in hell.
+**16:22** Now it happened that the beggar died and was carried by the angels into Abraham's bosom. And the rich man also died and was buried in the underworld.
 
 **16:23** And lifting up his eyes while he was in torments, he saw Abraham from a distance and Lazarus in his bosom.
 
@@ -71,6 +71,6 @@
 
 - **16:6** — Latin "cados" ("jars," rendering the Hebrew liquid measure bath, roughly eight to nine gallons) and "coros" in 16:7 ("cors," a dry measure of roughly ten to twelve bushels) represent substantial commercial debts.
 - **16:9** — The Vulgate reads the second-person plural "cum defeceritis" ("when you fail," meaning when your life comes to an end), whereas modern critical Greek editions read third-person singular ("when it [wealth] fails"). Latin "mammona" (also in 16:11, 13) transliterates the Aramaic term for worldly wealth.
-- **16:21** — The clause "et nemo illi dabat" ("and no one gave him any") is a distinctive Vulgate reading echoing 15:16 and is absent from Greek manuscripts.
-- **16:22** — The Clementine Vulgate attaches "in inferno" ("in hell," rendering Greek hades, the underworld or realm of the dead) to "was buried" at the end of verse 22, whereas the Greek text places it at the beginning of verse 23.
+- **16:21** — The clause "et nemo illi dabat" ("and no one gave him any") is a distinctive Vulgate reading echoing 15:16 and is absent from most Greek manuscripts.
+- **16:22** — The Clementine Vulgate attaches "in inferno" ("in the underworld," rendering Greek hades) to "was buried" at the end of verse 22, whereas the Greek text places it at the beginning of verse 23.
 - **16:25** — Latin "hic" can be read either as the pronoun "he/this man" (contrasting directly with "tu," "you") or as the adverb "here" (matching Greek hode); in 16:31, Vulgate "credent" ("will they believe") differs from Greek "will they be persuaded."

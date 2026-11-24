@@ -73,7 +73,7 @@
 
 **9:34** But the Pharisees were saying, "By the ruler of demons He casts out demons."
 
-**9:35** And Jesus was going about all the cities and villages, teaching in their synagogues, and proclaiming the Gospel of the kingdom, and curing every sickness and every infirmity.
+**9:35** And Jesus was going about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and curing every sickness and every infirmity.
 
 **9:36** Now seeing the crowds, He had compassion on them, because they were harassed and lying prostrate, like sheep having no shepherd.
 

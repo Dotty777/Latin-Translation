@@ -25,7 +25,7 @@
 
 **21:10** Jesus said to them, "Bring some of the fish that you have caught just now."
 
-**21:11** Simon Peter went aboard and pulled the net onto the land, full of large fish, one hundred fifty-three; and even though there were so many, the net was not torn.
+**21:11** Simon Peter went up and pulled the net onto the land, full of large fish, one hundred fifty-three; and even though there were so many, the net was not torn.
 
 **21:12** Jesus said to them, "Come, have breakfast." And none of those dining dared to question Him, "Who are You?" knowing that it was the Lord.
 

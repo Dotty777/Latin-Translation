@@ -79,5 +79,5 @@
 
 - **14:5** — The Vulgate reads asinus, aut bos ("a donkey or an ox"), whereas critical Greek editions generally read "a son or an ox."
 - **14:10** — The Vulgate omits "all" before "those reclining together," whereas most Greek manuscripts read "all who sit at table with you."
-- **14:24** — The Vulgate reads Dico autem vobis ("And I tell you," plural) rather than the Greek explanatory "For I tell you"; while continuing the host's declaration about "my dinner," the plural pronoun also reaches Jesus's own hearers.
+- **14:24** — The Vulgate reads Dico autem vobis ("And I tell you") where the Greek has "For I tell you."
 - **14:28** — The Vulgate expands the Greek "the cost" into sumptus, qui necessarii sunt ("the expenses that are necessary").

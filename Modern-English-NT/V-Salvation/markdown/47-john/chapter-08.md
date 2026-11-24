@@ -13,7 +13,7 @@
 
 **8:4** and said to Him, "Teacher, this woman has just now been caught in adultery.
 
-**8:5** Now in the Law Moses commanded us to stone such women. What therefore do You say?"
+**8:5** Now in the law Moses commanded us to stone such women. What therefore do You say?"
 
 **8:6** Yet they were saying this to test Him, so that they might be able to accuse Him. But Jesus, stooping downward, was writing with His finger on the ground.
 
@@ -130,6 +130,6 @@
 - **8:11** — Latin condemnabo is future tense ("Neither will I condemn you"), differing from Greek present-tense katakrino ("Neither do I condemn you").
 - **8:19** — The Vulgate renders the Greek conditional particle with forsitan ("perhaps"), yielding the distinctively Vulgate phrasing "perhaps you would also know My Father."
 - **8:24** — The Vulgate shifts from plural in peccatis vestris ("in your sins") to singular in peccato vestro ("in your sin"), where Greek texts use the plural in both clauses; quia ego sum is translated literally as "that I am" without supplying "He" (as also in 8:28).
-- **8:25** — Vulgate Principium, qui et loquor vobis ("The Beginning, who also speak to you") takes the difficult Greek phrase ten archen as a Christological title rather than an adverbial expression ("from the beginning").
+- **8:25** — Principium can be nominative or accusative; it is rendered here as a noun ("The Beginning, who also speak to you"), as the first-person qui et loquor vobis suggests, whereas the corresponding Greek ten archen is usually taken adverbially.
 - **8:27** — Vulgate quia Patrem ejus dicebat Deum ("that He was calling God His Father") reads ejus ("His") and explicitly includes Deum ("God"), whereas standard Greek texts read that He was speaking to them about the Father.
 - **8:45** — The Vulgate reads conditional si ("if") rather than causal hoti ("because") found in Greek manuscripts.

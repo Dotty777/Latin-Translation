@@ -73,7 +73,7 @@
 
 **10:34** Jesus answered them, "Is it not written in your law, 'I have said, you are gods'?
 
-**10:35** If He called them gods, to whom the word of God came, and the Scripture cannot be broken,
+**10:35** If he called them gods, to whom the word of God came, and the Scripture cannot be broken,
 
 **10:36** of Him whom the Father sanctified and sent into the world, do you say, 'You are blaspheming,' because I said, 'I am the Son of God'?
 

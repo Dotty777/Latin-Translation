@@ -35,7 +35,7 @@
 
 **36:15** He also made the breastpiece with patterned weaving, like the work of the shoulder vestment, of gold, blue, purple, twice-dyed scarlet, and twisted fine linen,
 
-**36:16** four-cornered, doubled, of a span's measure.
+**36:16** four-cornered, doubled, of a palm's measure.
 
 **36:17** And he set in it four rows of gems. In the first row were a sardius, a topaz, and an emerald.
 
@@ -83,6 +83,6 @@
 
 - **36:8** — This section follows the Septuagint-aligned verse ordering mapped to Vulgate text (corresponding to MT/standard Vulgate Exodus 39:1-31), moving directly from the offerings to the priestly garments. The Latin uses singular 'fecit' ("he made") through v. 17 before shifting to plural 'fecerunt' ("they made") in v. 22.
 - **36:9** — Latin 'superhumerale' (literally "over-shoulder garment") renders the Hebrew 'ephod', and 'cocco bis tincto' ("twice-dyed scarlet," cf. v. 36) reflects an ancient reading of Hebrew 'shani' as "double."
-- **36:15** — Latin 'rationale' (reflecting Greek 'logeion', "oracle-piece" or "piece of reason") denotes the high priest's breastpiece. In vv. 18-20, the Vulgate gemstone sequence follows the Greek tradition rather than the Hebrew order (for example, placing 'jaspis' in row two, 'ligurius' or "ligure" in row three, and 'beryllus' in row four).
+- **36:15** — Latin 'rationale' (reflecting Greek 'logeion', "oracle-piece" or "piece of reason") denotes the high priest's breastpiece. In vv. 17-20, the Vulgate's names for the gems follow the Greek tradition rather than the Hebrew (for example, 'jaspis' in row two and 'beryllus' in row four, where the Hebrew has jasper last).
 - **36:33** — The clause "with which the high priest walked adorned when he performed his ministry" ('quibus ornatus incedebat pontifex quando ministerio fungebatur') is a distinctive Vulgate expansion of the briefer Hebrew phrase ("for ministering").
 - **36:37** — Latin 'laminam sacrae venerationis' ("the plate of sacred veneration") and the genitive inscription 'Sanctum Domini' ("Holiness of the Lord," matching Septuagint 'hagiasma Kyriou') differ slightly from the Hebrew ("plate of the holy diadem" inscribed "Holy to the Lord," cf. Vulgate Exod 28:36 'Sanctum Domino').

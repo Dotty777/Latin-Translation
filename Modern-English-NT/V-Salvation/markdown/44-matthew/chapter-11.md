@@ -25,7 +25,7 @@
 
 **11:10** For this is the one about whom it is written, 'Look, I am sending My messenger before Your face, who will prepare Your way before You.'
 
-**11:11** Amen, I tell you, among those born of women no one greater than John the Baptist has arisen; yet whoever is least in the kingdom of heaven is greater than he is.
+**11:11** Amen, I tell you, among those born of women no one greater than John the Baptist has arisen; yet whoever is lesser in the kingdom of heaven is greater than he is.
 
 **11:12** Now from the days of John the Baptist until now, the kingdom of heaven suffers violence, and the violent seize it.
 

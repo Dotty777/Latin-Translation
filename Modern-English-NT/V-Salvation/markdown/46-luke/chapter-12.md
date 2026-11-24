@@ -134,4 +134,4 @@
 - **12:35** — Vulgate includes in manibus vestris ("in your hands"), a phrase not present in the standard Greek text.
 - **12:46** — Latin dividet eum literally means "will divide him" (here "will sever him"), translating the Greek verb meaning "cut in two" while also linking to "his portion" (partem ejus).
 - **12:49** — Vulgate reads et quid volo nisi ut accendatur? ("and what do I want except that it be kindled?"), whereas the Greek text is usually rendered "and how I wish it were already kindled!"
-- **12:56** — Vulgate places "the sky and the earth" (cæli et terræ) in that order and omits "know how to" in the second clause (quomodo non probatis?), differing from the Greek order ("earth and sky") and repeated verb.
+- **12:56** — Vulgate places "the sky and the earth" (cæli et terræ) in that order, whereas the Greek has "the earth and the sky."

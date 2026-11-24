@@ -9,7 +9,7 @@
 
 **20:2** and they spoke, saying to Him, "Tell us: by what authority do You do these things? Or who is it who gave You this authority?"
 
-**20:3** But Jesus, answering, said to them, "I too will ask you one question. Answer Me:
+**20:3** But Jesus, answering, said to them, "I too will ask you one thing. Answer Me:
 
 **20:4** Was John's baptism from heaven, or from men?"
 

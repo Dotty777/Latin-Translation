@@ -79,5 +79,5 @@
 
 - **34:6** — Unlike the Hebrew Masoretic Text, where the Lord proclaims His own name in the third person, the Vulgate renders this proclamation in the second person (v. 7: 'who keep... before You... who repay'), framing it as Moses' direct address to God ('Ruler, Lord God,' Latin Dominator Domine Deus) as the Lord passes before him.
 - **34:18** — Instead of transliterating the Hebrew month name Abib, the Vulgate translates it descriptively first as 'the month of new crops' (mensis novorum) and then as 'the month of the spring season' (mense verni temporis).
-- **34:29** — The Vulgate famously renders the Hebrew verb qaran ('shone, sent forth rays') as cornuta ('horned', from the related Hebrew root qeren, 'horn'), a reading repeated in vv. 30 and 35.
+- **34:29** — The Vulgate renders the Hebrew verb qaran ('shone, sent forth rays') as cornuta ('horned', from the related Hebrew root qeren, 'horn'), a reading repeated in vv. 30 and 35.
 - **34:35** — Where the Hebrew text states that Moses replaced the veil until he went in to speak with the Lord, the Vulgate reads siquando loquebatur ad eos ('whenever he spoke to them').

@@ -31,13 +31,13 @@
 
 **6:13** and they set up false witnesses who said, "This man does not cease speaking words against the holy place and the law;
 
-**6:14** for we have heard him saying that this Jesus of Nazareth will destroy this place and will change the traditions that Moses handed down to us."
+**6:14** for we have heard him saying that this Jesus the Nazarene will destroy this place and will change the traditions that Moses handed down to us."
 
 **6:15** And gazing intently at him, all who were sitting in the council saw his face as the face of an angel.
 
 ## Translator Notes
 
 - **6:1** — Vulgate renders Greek "Hellēnistōn" (Greek-speaking Jews) literally as "Græcorum" ("of the Greeks") and uses the stronger verb "despicerentur" ("were being slighted" or "looked down upon") for Greek "paretheōrounto" ("were being overlooked").
-- **6:5** — Vulgate renders Greek "prosēlyton" with the Latin calque "advenam" (lit. "newcomer" or "stranger"), the standard Vulgate biblical term for a Gentile convert or proselyte.
+- **6:5** — Vulgate renders Greek "prosēlyton" with "advenam" (lit. "newcomer" or "stranger"); elsewhere it keeps the loanword proselytus (e.g. 2:11).
 - **6:7** — Vulgate reads "verbum Domini" ("the word of the Lord"), where the Greek text reads "ho logos tou theou" ("the word of God").
 - **6:10** — Vulgate reads nominative "qui loquebatur" ("the Spirit who was speaking"), making the Spirit the grammatical subject, whereas the Greek reads dative "hō elalei" ("the Spirit by which he [Stephen] was speaking").

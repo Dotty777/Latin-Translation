@@ -87,7 +87,7 @@
 
 **13:41** The Son of Man will send His angels, and they will gather out of His kingdom all causes of stumbling and those who commit iniquity,
 
-**13:42** and they will throw them into the furnace of fire. In that place will be weeping and gnashing of teeth.
+**13:42** and they will throw them into the furnace of fire. There will be weeping and gnashing of teeth.
 
 **13:43** Then the righteous will shine like the sun in the kingdom of their Father. The one who has ears to hear, let him hear.
 
@@ -103,7 +103,7 @@
 
 **13:49** So it will be at the end of the age: the angels will go out and separate the evil from the midst of the righteous,
 
-**13:50** and they will throw them into the furnace of fire; in that place will be weeping and gnashing of teeth.
+**13:50** and they will throw them into the furnace of fire; there will be weeping and gnashing of teeth.
 
 **13:51** Have you understood all these things?" They say to Him, "Yes."
 
@@ -111,7 +111,7 @@
 
 **13:53** And it happened that when Jesus had finished these parables, He departed from there.
 
-**13:54** And coming into His own homeland, He was teaching them in their synagogues, so that they were astonished and said, "From where does this Man have this wisdom and mighty works?
+**13:54** And coming into His own homeland, He was teaching them in their synagogues, so that they were astonished and said, "From where does this man have this wisdom and mighty works?
 
 **13:55** Is He not the carpenter's son? Is not His mother called Mary, and His brothers James, and Joseph, and Simon, and Judas?
 

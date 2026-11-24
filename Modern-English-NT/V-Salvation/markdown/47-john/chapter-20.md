@@ -71,6 +71,6 @@
 
 - **20:1** — Latin literally reads "on one of the Sabbath" (una sabbati; similarly "una sabbatorum" in v. 19), a Semitic idiom for the first day of the week.
 - **20:10** — Latin literally reads "to themselves" (ad semetipsos), an idiom for returning to their own lodging or quarters.
-- **20:17** — Latin "Noli me tangere" literally means "Do not touch Me" (whereas the Greek present imperative is often rendered "Do not cling to Me"). The Clementine Vulgate also reads "to My Father" (ad Patrem meum) in the first clause, where the critical Greek text has "to the Father."
+- **20:17** — Latin "Noli me tangere" literally means "Do not touch Me." The Clementine Vulgate also reads "to My Father" (ad Patrem meum) in the first clause, where the critical Greek text has "to the Father."
 - **20:18** — The Clementine Vulgate places the second clause in the first person ("to me," mihi), whereas the Greek text uses the third person ("to her").
 - **20:25** — Following an ancient variant, the Latin distinguishes "the mark of the nails" (fixuram clavorum) from "the place of the nails" (locum clavorum), where most Greek manuscripts repeat "mark" (typon).

@@ -13,7 +13,7 @@
 
 **17:4** I glorified You on the earth; I have completed the work that You gave Me to do.
 
-**17:5** And now, You, Father, glorify Me with Yourself, with the glory that I had with You before the world existed.
+**17:5** And now, You, Father, glorify Me with Yourself, with the glory that I had with You before the world was.
 
 **17:6** I have manifested Your name to the people whom You gave Me out of the world. They were Yours, and You gave them to Me, and they have kept Your word.
 

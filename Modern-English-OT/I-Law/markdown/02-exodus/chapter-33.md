@@ -9,11 +9,11 @@
 
 **33:2** and I will send an angel as your forerunner, so that I may drive out the Canaanite, and the Amorite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite,
 
-**33:3** and you may enter a land flowing with milk and honey. For I will not go up with you, because you are a hard-necked people; otherwise I might destroy you on the way."
+**33:3** and you may enter a land flowing with milk and honey. For I will not go up with you, because you are a stiff-necked people; otherwise I might destroy you on the way."
 
 **33:4** And when the people heard this terrible word, they mourned, and no one dressed in his finery according to custom.
 
-**33:5** And the Lord said to Moses, "Speak to the sons of Israel: 'You are a hard-necked people; once I will go up in your midst and blot you out. Right now lay aside your adornment, so that I may know what I should do to you.'"
+**33:5** And the Lord said to Moses, "Speak to the sons of Israel: 'You are a stiff-necked people; once I will go up in your midst and blot you out. Right now lay aside your adornment, so that I may know what I should do to you.'"
 
 **33:6** Therefore the sons of Israel laid aside their adornment from Mount Horeb.
 

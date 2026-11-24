@@ -79,7 +79,7 @@
 
 **18:37** Pilate therefore said to Him, "So You are a king?" Jesus answered, "You say that I am a king. For this I was born, and for this I came into the world, that I may bear witness to the truth. Everyone who is of the truth hears My voice."
 
-**18:38** Pilate said to Him, "What is truth?" And when he had said this, he went out again to the Jews and said to them, "I find no fault in Him.
+**18:38** Pilate said to Him, "What is truth?" And when he had said this, he went out again to the Jews and said to them, "I find no grounds for a charge in Him.
 
 **18:39** Now you have a custom that I should release one man for you at the Passover. Do you want me, therefore, to release for you the King of the Jews?"
 
@@ -87,7 +87,7 @@
 
 ## Translator Notes
 
-- **18:5** — Latin Ego sum literally means "I am" without an expressed predicate "he," serving both to identify Jesus to the arresting party and to echo the divine self-designation of Exodus 3:14 and John 8:58 (likewise in 18:6 and 18:8).
+- **18:5** — Latin Ego sum literally means "I am" without an expressed predicate "he" (likewise in 18:6 and 18:8).
 - **18:18** — The Vulgate reads simply ad prunas ("by the burning coals"), omitting the Greek participial clause "having made a charcoal fire."
 - **18:30** — The Vulgate uses the noun malefactor ("a wrongdoer" or "evildoer"), corresponding to the Byzantine/Textus Receptus reading rather than the critical Greek participial phrase "doing evil."
 - **18:38** — Latin causam carries a legal sense ("ground for a charge," "case," or "fault"); in 18:40 the Vulgate also includes omnes ("all"), which is absent in critical Greek editions.

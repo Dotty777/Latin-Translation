@@ -15,7 +15,7 @@
 
 **29:5** you will clothe Aaron with his garments, that is, with the linen garment and the tunic, and with the shoulder vestment and the breastpiece, which you will fasten tightly with a sash.
 
-**29:6** And you will place the turban on his head, and the holy plate upon the turban,
+**29:6** And you will place the headdress on his head, and the holy plate upon the headdress,
 
 **29:7** and you will pour the anointing oil upon his head; and by this rite he will be consecrated.
 
@@ -53,13 +53,13 @@
 
 **29:24** and you will place them all upon the hands of Aaron and of his sons, and you will sanctify them, lifting them up before the Lord.
 
-**29:25** And you will receive all of them from their hands, and burn them upon the altar as a whole burnt offering, a most pleasing aroma in the sight of the Lord, because it is His offering.
+**29:25** And you will receive all of them from their hands, and burn them upon the altar as a burnt offering, a most pleasing aroma in the sight of the Lord, because it is His offering.
 
 **29:26** You will also take the breast from the ram with which Aaron was initiated, and you will sanctify it, lifted up before the Lord, and it will fall to your share.
 
 **29:27** And you will also sanctify the consecrated breast, and the shoulder that you separated from the ram,
 
-**29:28** with which Aaron and his sons were initiated, and they will fall to the share of Aaron and his sons by a perpetual right from the sons of Israel; because they are firstfruits and first portions from their peace sacrifices that they offer to the Lord.
+**29:28** with which Aaron and his sons were initiated, and they will fall to the share of Aaron and his sons by a perpetual right from the sons of Israel; because they are firstfruits and first portions from their peace offerings that they offer to the Lord.
 
 **29:29** And the holy vestment that Aaron will wear, his sons will have after him, so that they may be anointed in it, and their hands may be consecrated.
 
@@ -77,7 +77,7 @@
 
 **29:36** and you will offer a calf for sin each day to make atonement. And you will cleanse the altar when you have sacrificed the offering of atonement, and you will anoint it for sanctification.
 
-**29:37** For seven days you will make atonement for the altar and sanctify it, and it will be the Holy of Holies; everyone who touches it will be sanctified.
+**29:37** For seven days you will make atonement for the altar and sanctify it, and it will be most holy; everyone who touches it will be sanctified.
 
 **29:38** This is what you will do upon the altar: two one-year-old lambs each day continually,
 

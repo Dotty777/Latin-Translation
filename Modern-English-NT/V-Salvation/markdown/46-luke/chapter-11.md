@@ -21,7 +21,7 @@
 
 **11:8** And if he persists in knocking, I tell you, even though he will not rise and give to him because he is his friend, yet because of his shamelessness he will rise and give him as many as he needs.
 
-**11:9** And I too tell you: Ask, and it will be given to you; seek, and you will find; knock, and it will be opened for you.
+**11:9** And I tell you: Ask, and it will be given to you; seek, and you will find; knock, and it will be opened for you.
 
 **11:10** For everyone who asks receives, and the one who seeks finds, and for the one knocking it will be opened.
 

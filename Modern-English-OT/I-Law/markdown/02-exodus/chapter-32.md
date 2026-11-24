@@ -1,6 +1,6 @@
 # Exodus 32 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (34 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (34 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -15,11 +15,11 @@
 
 **32:5** When Aaron saw this, he built an altar before it, and called out with the voice of a herald, saying, "Tomorrow is a solemn festival of the Lord."
 
-**32:6** And rising in the morning, they offered burnt offerings and peace sacrifices; and the people sat down to eat and drink, and got up to play.
+**32:6** And rising in the morning, they offered burnt offerings and peace offerings; and the people sat down to eat and drink, and got up to play.
 
 **32:7** Now the Lord spoke to Moses, saying, "Go, go down; your people, whom you led out of the land of Egypt, have sinned.
 
-**32:8** They have quickly departed from the way that you showed them; and they have made for themselves a cast calf, and worshiped it, and sacrificing offerings to it, they said, 'These are your gods, Israel, who led you out of the land of Egypt.'
+**32:8** They have quickly departed from the way that you showed them; and they have made for themselves a cast calf, and worshiped it, and sacrificing offerings to it, they said, 'These are your gods, Israel, who led you out of the land of Egypt.'"
 
 **32:10** Leave Me alone, so that My fury may rage against them and I may blot them out, and I will make you into a great nation."
 
@@ -75,12 +75,11 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**32:9** *(after `32:8`)* And once again the Lord said to Moses, "I perceive that this people is stiff-necked."
+**32:9** *(after `32:8`)* And once again the Lord said to Moses, "I perceive that this people is stiff-necked.
 
 ## Translator Notes
 
 - **32:4** — The Vulgate reads "by the work of casting" (opere fusorio), referring to metal casting, whereas the Hebrew reads "with an engraving tool."
 - **32:8** — The Vulgate reads "the way that you showed them" (quam ostendisti eis), referring to Moses, whereas the Hebrew reads "the way that I commanded them."
-- **32:10** — Verse 32:9 ("Again the Lord said to Moses: I see that this people is stiff-necked") is absent from the Clementine Vulgate, so 32:10 follows directly upon 32:8.
-- **32:25** — The Vulgate renders the Hebrew "let loose" or "out of control" as "stripped naked" (nudatus) and adds the parenthetical explanation that Aaron had despoiled them "on account of the disgrace of filth" (propter ignominiam sordis) and set them naked among their enemies.
+- **32:25** — The Vulgate renders the Hebrew "let loose" (or "out of control") as "stripped naked" (nudatus) and "had despoiled" (spoliaverat), and reads "on account of the disgrace of filth" (propter ignominiam sordis) where the Hebrew speaks of a derision among their enemies.
 - **32:28** — The Vulgate reads "about twenty-three thousand men" (viginti tria millia), whereas the Hebrew Masoretic Text and Septuagint read "about three thousand men."

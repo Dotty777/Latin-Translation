@@ -15,13 +15,13 @@
 
 **19:5** (So Jesus went outside, wearing the crown of thorns and the purple garment.) And he said to them, "Here is the man."
 
-**19:6** So when the chief priests and the attendants saw Him, they were shouting, saying, "Crucify, crucify Him!" Pilate said to them, "Take Him yourselves and crucify Him, for I myself find no grounds for a charge in Him."
+**19:6** So when the chief priests and the officers saw Him, they were shouting, saying, "Crucify, crucify Him!" Pilate said to them, "Take Him yourselves and crucify Him, for I myself find no grounds for a charge in Him."
 
 **19:7** The Jews replied to him, "We have a law, and according to the law He must die, because He made Himself the Son of God."
 
 **19:8** So when Pilate heard this statement, he feared all the more.
 
-**19:9** And he entered the praetorium again and said to Jesus, "Where are You from?" But Jesus did not give him a reply.
+**19:9** And he entered the Praetorium again and said to Jesus, "Where are You from?" But Jesus did not give him a reply.
 
 **19:10** So Pilate said to Him, "Do You not speak to me? Do You not know that I have authority to crucify You, and I have authority to release You?"
 

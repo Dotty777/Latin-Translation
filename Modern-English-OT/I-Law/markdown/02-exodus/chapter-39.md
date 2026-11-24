@@ -50,4 +50,4 @@
 - **39:3** — The Vulgate explicitly specifies 'armatorum' ('of armed men'), a clarifying detail not present in the Hebrew text.
 - **39:6** — Following the Clementine Vulgate punctuation ('talenta septuaginta duo millia, et quadringenti supra sicli'), the Latin reads seventy-two thousand talents and four hundred shekels, whereas the Hebrew and Septuagint read seventy talents and two thousand four hundred shekels.
 - **39:17** — Latin 'propositionis panibus' literally means 'loaves of setting forth' or 'presentation' (following the Septuagint), corresponding to the 'bread of the Presence' in the Hebrew.
-- **39:20** — Latin 'de janthinis pellibus' ('of violet-colored skins,' from Greek 'ianthinos') preserves a distinctive Vulgate and Septuagint color rendering of Hebrew 'tahash', often translated as fine leather or sea-mammal skins.
+- **39:20** — Latin 'de janthinis pellibus' ('of violet-colored skins,' from Greek 'ianthinos') preserves a distinctive Vulgate and Septuagint color rendering of Hebrew 'tahash', a term of uncertain meaning.

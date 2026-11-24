@@ -17,7 +17,7 @@
 
 **12:6** Yet I say to you that One greater than the temple is here.
 
-**12:7** But if you knew what this means, 'I desire mercy and not sacrifice,' you would never have condemned the innocent.
+**12:7** But if you knew what this means, 'Mercy I desire, and not sacrifice,' you would never have condemned the innocent.
 
 **12:8** For the Son of Man is the Lord even of the Sabbath."
 
@@ -39,7 +39,7 @@
 
 **12:17** so that what was spoken through the prophet Isaiah might be fulfilled, saying:
 
-**12:18** "Here is My servant, whom I have chosen, My beloved, in whom My soul is thoroughly pleased. I will place My Spirit upon Him, and He will announce judgment to the nations.
+**12:18** "Here is My servant, whom I have chosen, My beloved, in whom My soul is well pleased. I will place My Spirit upon Him, and He will announce judgment to the nations.
 
 **12:19** He will not contend, nor cry out, nor will anyone hear His voice in the streets;
 

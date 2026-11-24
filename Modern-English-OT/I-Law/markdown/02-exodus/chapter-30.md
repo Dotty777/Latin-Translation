@@ -55,7 +55,7 @@
 
 **30:25** and you shall make holy anointing oil, an ointment compounded by the work of a perfumer,
 
-**30:26** and with it you shall anoint the tabernacle of the testimony, and the ark of the testament,
+**30:26** and with it you shall anoint the tabernacle of the testimony, and the ark of the covenant,
 
 **30:27** and the table with its vessels, and the lampstand and its utensils, the altars of incense
 

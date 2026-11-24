@@ -5,7 +5,7 @@
 
 ## Text
 
-**7:1** After these things, Jesus was walking about in Galilee, for He did not want to walk about in Judea, because the Jews were seeking to kill Him.
+**7:1** Now after these things, Jesus was walking about in Galilee, for He did not want to walk about in Judea, because the Jews were seeking to kill Him.
 
 **7:2** Now the feast of the Jews, Tabernacles, was close at hand.
 

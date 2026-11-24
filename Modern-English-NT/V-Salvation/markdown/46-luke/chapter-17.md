@@ -15,11 +15,11 @@
 
 **17:5** And the apostles said to the Lord, "Add to our faith."
 
-**17:6** But the Lord said, "If you have faith like a mustard seed, you will say to this mulberry tree, 'Be uprooted and be transplanted into the sea,' and it will obey you.
+**17:6** But the Lord said, "If you have faith like a grain of mustard seed, you will say to this mulberry tree, 'Be uprooted and be transplanted into the sea,' and it will obey you.
 
 **17:7** Now who among you, having a servant plowing or herding, would say to him when he has returned from the field, 'Come over at once, recline at table,'
 
-**17:8** and would not say to him, 'Prepare what I may dine on, and fasten your belt, and serve me while I eat and drink, and after these things you will eat and drink'?
+**17:8** and would not say to him, 'Prepare what I may dine on, and gird yourself, and serve me while I eat and drink, and after these things you will eat and drink'?
 
 **17:9** Is he grateful to that servant because he did what he had commanded him?
 
@@ -69,7 +69,7 @@
 
 **17:32** Be mindful of Lot's wife.
 
-**17:33** Whoever seeks to save his life will lose it, and whoever loses it will keep it alive.
+**17:33** Whoever seeks to save his life will lose it, and whoever loses it will give it life.
 
 **17:34** I tell you, in that night two will be in one bed: one will be taken up, and the other will be left behind;
 

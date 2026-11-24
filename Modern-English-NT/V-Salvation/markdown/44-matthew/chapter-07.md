@@ -49,7 +49,7 @@
 
 **7:22** Many will say to Me on that day, 'Lord, Lord, did we not prophesy in Your name, and in Your name cast out demons, and in Your name perform many mighty works?'
 
-**7:23** And then I will declare openly to them, 'I never knew you; depart from Me, you who practice iniquity.'
+**7:23** And then I will declare to them, 'I never knew you; depart from Me, you who practice iniquity.'
 
 **7:24** Therefore everyone who hears these words of Mine and does them will be likened to a wise man who built his house upon the rock.
 
@@ -65,7 +65,7 @@
 
 ## Translator Notes
 
-- **7:14** — The Clementine Vulgate reads the exclamation Quam ("How narrow...!") following the Greek variant ti, whereas many manuscripts and modern translations read causal hoti ("For/Because the gate is narrow").
+- **7:14** — The Vulgate reads the exclamation Quam ("How narrow...!"), corresponding to the Greek variant ti, where many Greek manuscripts read causal hoti ("For/Because the gate is narrow").
 - **7:17** — The Vulgate uses the same adjective malus ("bad") for both the tree and its fruits, whereas the Greek distinguishes sapron ("diseased/rotten") for the tree from ponerous ("bad/evil") for the fruit.
 - **7:21** — Vulgate-distinct addition: the Clementine Vulgate includes the concluding clause "he himself will enter the kingdom of heaven" (ipse intrabit in regnum caelorum), which is absent from most standard Greek editions.
 - **7:29** — Vulgate-distinct addition: the Clementine Vulgate adds "and the Pharisees" (et pharisaei) after "their scribes," a reading attested in Latin tradition and some Greek manuscripts but absent from most critical Greek texts.

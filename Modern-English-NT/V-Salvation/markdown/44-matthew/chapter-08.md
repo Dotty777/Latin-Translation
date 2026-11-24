@@ -27,7 +27,7 @@
 
 **8:11** And I say to you that many will come from east and west, and will recline with Abraham and Isaac and Jacob in the kingdom of heaven,
 
-**8:12** but the sons of the kingdom will be cast out into the outer darkness; there will be weeping and grinding of teeth."
+**8:12** but the sons of the kingdom will be cast out into the outer darkness; there will be weeping and gnashing of teeth."
 
 **8:13** And Jesus said to the centurion, "Go, and just as you have believed, let it be done for you." And the boy was healed in that hour.
 

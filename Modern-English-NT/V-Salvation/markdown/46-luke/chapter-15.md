@@ -72,6 +72,6 @@
 ## Translator Notes
 
 - **15:1** — The Clementine Vulgate lacks "all" (Greek pantes) before "tax collectors and sinners."
-- **15:7** — Latin ita ... quam preserves an elliptical comparative without an explicit "more." Poenitentiam agente (literally "doing penance," also in 15:10 and 16:30) is the Vulgate idiom for repentance and is rendered "repents" in keeping with the other Gospel occurrences.
+- **15:7** — Latin ita ... quam preserves an elliptical comparative without an explicit "more." Poenitentiam agente (literally "doing repentance," also in 15:10 and 16:30) is the Vulgate idiom for repentance and is rendered "repents" in keeping with the other Gospel occurrences.
 - **15:10** — The Vulgate uses the future tense "erit" ("there will be joy," matching 15:7) rather than the Greek present tense ("there is joy").
 - **15:30** — The Vulgate reads "substantiam suam" ("his property," referring to the younger son's divided share), whereas Greek manuscripts read "your livelihood/property."

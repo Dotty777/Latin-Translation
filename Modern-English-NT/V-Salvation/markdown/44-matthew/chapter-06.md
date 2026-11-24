@@ -17,7 +17,7 @@
 
 **6:6** But as for you, when you pray, enter your inner room, and with the door shut, pray to your Father in secret; and your Father, who sees in secret, will repay you.
 
-**6:7** And while praying, do not speak much, like the pagans, for they think that through their much speaking they will be heard.
+**6:7** And while praying, do not speak much, like the Gentiles, for they think that through their much speaking they will be heard.
 
 **6:8** Therefore do not become like them, for your Father knows what you need before you ask Him.
 
@@ -69,7 +69,7 @@
 
 **6:32** For the nations seek after all these things. For your Father knows that you need all these things.
 
-**6:33** So then, seek first the kingdom of God and His righteousness, and all these things will be added to you besides.
+**6:33** So then, seek first the kingdom of God and His righteousness, and all these things will be added to you.
 
 **6:34** Therefore do not be anxious for tomorrow. For tomorrow's day will be anxious for itself; its own trouble is enough for the day."
 

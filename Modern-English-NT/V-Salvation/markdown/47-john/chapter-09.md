@@ -13,7 +13,7 @@
 
 **9:4** I must work the works of Him who sent Me while it is day; night is coming, when no one is able to work.
 
-**9:5** For as long as I am in the world, I am the light of the world."
+**9:5** As long as I am in the world, I am the light of the world."
 
 **9:6** When He had said these things, He spat on the ground, and made mud from the saliva, and spread the mud over his eyes.
 

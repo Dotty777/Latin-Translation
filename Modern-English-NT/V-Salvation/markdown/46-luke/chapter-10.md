@@ -33,7 +33,7 @@
 
 **10:14** Nevertheless, for Tyre and Sidon it will be more bearable in the judgment than for you.
 
-**10:15** And you, Capernaum, exalted up to heaven, will be plunged down to hell.
+**10:15** And you, Capernaum, exalted up to heaven, will be plunged down to the underworld.
 
 **10:16** The one who hears you hears Me, and the one who despises you despises Me; and the one who despises Me despises Him who sent Me."
 
@@ -91,8 +91,8 @@
 
 ## Translator Notes
 
-- **10:11** — The Clementine Vulgate reads simply 'that clung to us' (qui adhaesit nobis), without the phrase 'to our feet' found in Greek manuscripts, and also omits 'to you' after 'the kingdom of God has drawn near.'
-- **10:15** — Unlike Greek editions that punctuate the first clause as a rhetorical question, the Vulgate uses a declarative participle ('exalted up to heaven,' exaltata) followed by 'plunged down to hell' (usque ad infernum demergeris).
+- **10:11** — The Clementine Vulgate reads simply 'that clung to us' (qui adhaesit nobis), without the phrase 'to our feet' found in Greek manuscripts.
+- **10:15** — Where critical Greek editions read a question ('will you be exalted to heaven?'), the Vulgate has the participle exaltata ('exalted up to heaven'), followed by 'plunged down to the underworld' (usque ad infernum demergeris).
 - **10:27** — Where Greek manuscripts use the singular 'strength,' the Vulgate renders the term in the plural as 'with all your powers' (ex omnibus virtutibus tuis).
 - **10:31** — Both here (praeterivit) and in 10:32 (pertransiit), the Vulgate states simply that the priest and the Levite 'passed by' without adding 'on the other side.'
 - **10:42** — The Vulgate uses the superlative 'the best part' (optimam partem), whereas the Greek text has the positive adjective 'the good part.'

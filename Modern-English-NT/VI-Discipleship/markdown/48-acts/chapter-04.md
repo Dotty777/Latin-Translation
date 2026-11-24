@@ -35,7 +35,7 @@
 
 **4:15** So they ordered them to withdraw outside the council, and they conferred with one another,
 
-**4:16** saying, "What shall we do with these men? For indeed a notable sign has been done through them; it is evident to all who live in Jerusalem, and we cannot deny it.
+**4:16** saying, "What shall we do with these men? For indeed a sign known to all who live in Jerusalem has been done through them; it is evident, and we cannot deny it.
 
 **4:17** But so that it may not spread further among the people, let us threaten them not to speak any longer in this name to any person."
 
@@ -83,6 +83,6 @@
 
 - **4:4** — The Vulgate gives the figure quinque millia ("five thousand") without the Greek qualifier "about."
 - **4:10** — The Clementine Vulgate includes Domini nostri ("our Lord") before "Jesus Christ the Nazarene," an addition not found in the standard Greek text.
-- **4:12** — The Latin salus ("salvation") and salvos fieri ("be saved") directly echo salvus factus est ("has been made well") in 4:9, linking physical restoration and spiritual salvation.
+- **4:12** — The Latin salus ("salvation") and salvos fieri ("be saved") share the root of salvus factus est ("has been made well") in 4:9.
 - **4:21** — The Vulgate reads clarificabant id quod factum fuerat in eo quod acciderat ("were glorifying what had been done in that which had happened"), without "God," whereas the Greek reads "were glorifying God for what had happened."
 - **4:27** — Here the Vulgate translates Greek pais as puerum ("Servant," matching David pueri tui in 4:25), whereas in 4:30 it translates the same Greek title for Jesus as filii ("Son").
