@@ -45,5 +45,5 @@
 
 - **2:5** — The Vulgate explicitly supplies "Deus" ("God") as the subject of "subjecit," whereas the Greek leaves the subject unexpressed.
 - **2:7** — The Vulgate includes the third clause from Psalm 8:7, "et constituisti eum super opera manuum tuarum" ("and You appointed him over the works of Your hands"), which is omitted in many modern critical Greek editions.
-- **2:10** — The Vulgate uses the pluperfect relative clause "qui ... adduxerat" ("who had brought"), unambiguously making God the subject, and singular "per passionem" ("through suffering"), where the Greek is plural.
-- **2:16** — The Vulgate renders Greek "ou depou" ("surely not") literally as "Nusquam" ("nowhere"); "apprehendit" ("takes hold of") denotes laying hold of someone to give aid or take up their nature.
+- **2:10** — The Vulgate uses the pluperfect relative clause "qui ... adduxerat" ("who had brought") and singular "per passionem" ("through suffering"), where the Greek is plural.
+- **2:16** — The Vulgate renders Greek "ou depou" ("surely not") as "Nusquam" ("nowhere"); "apprehendit" means "takes hold of."

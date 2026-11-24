@@ -35,7 +35,7 @@
 
 **3:15** but if I am delayed, so that you may know how you ought to conduct yourself in the house of God, which is the church of the living God, the pillar and support of the truth.
 
-**3:16** And manifestly great is the sacred mystery of godliness, which was manifested in the flesh, was justified in the spirit, appeared to angels, was preached to the Gentiles, was believed in the world, was taken up in glory.
+**3:16** And manifestly great is the mystery of godliness, which was manifested in the flesh, was justified in the spirit, appeared to angels, was preached to the Gentiles, was believed in the world, was taken up in glory.
 
 ## Translator Notes
 

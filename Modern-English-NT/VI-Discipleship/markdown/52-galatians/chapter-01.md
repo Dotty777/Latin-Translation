@@ -23,7 +23,7 @@
 
 **1:9** Just as we said before, now I also say again: if anyone proclaims a gospel to you other than what you received, let him be accursed.
 
-**1:10** For am I now trying to persuade men, or God? Or am I seeking to please men? If I were still pleasing men, I would not be a slave of Christ.
+**1:10** For am I now trying to persuade men, or God? Or am I seeking to please men? If I were still pleasing men, I would not be a servant of Christ.
 
 **1:11** For I make known to you, brothers, that the gospel which was proclaimed by me is not according to man;
 
@@ -31,7 +31,7 @@
 
 **1:13** For you have heard of my former way of life in Judaism: how beyond measure I was persecuting the church of God and trying to overthrow it,
 
-**1:14** and I was advancing in Judaism beyond many of my contemporaries among my own people, being far more exceedingly zealous for my ancestral traditions.
+**1:14** and I was advancing in Judaism beyond many of my contemporaries among my own people, being more exceedingly zealous for my ancestral traditions.
 
 **1:15** But when it pleased Him who separated me from my mother's womb and called me through His grace,
 

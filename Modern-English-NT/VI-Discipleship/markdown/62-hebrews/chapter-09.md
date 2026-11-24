@@ -25,7 +25,7 @@
 
 **9:10** and various washings, and ordinances of the flesh imposed until the time of reformation.
 
-**9:11** But Christ, having appeared as a high priest of the good things to come, through the greater and more perfect tabernacle, not made by hands, that is, not of this creation,
+**9:11** But Christ, being present as a high priest of the good things to come, through the greater and more perfect tabernacle, not made by hands, that is, not of this creation,
 
 **9:12** and not through the blood of goats or calves, but through His own blood, entered once into the holy places, having obtained eternal redemption.
 

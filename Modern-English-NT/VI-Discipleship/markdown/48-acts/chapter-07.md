@@ -79,7 +79,7 @@
 
 **7:37** This is the Moses who said to the sons of Israel, 'God will raise up a prophet for you from among your brothers, like me; to him you will listen.'
 
-**7:38** This is the one who was in the assembly in the wilderness with the angel who spoke to him on Mount Sinai, and with our fathers, who received words of life to give to us.
+**7:38** This is the one who was in the assembly in the wilderness with the angel who spoke to him on Mount Sinai, and with our fathers, the one who received words of life to give to us.
 
 **7:39** Our fathers were unwilling to obey him, but pushed him away and turned back in their hearts to Egypt,
 
@@ -91,7 +91,7 @@
 
 **7:43** And you took up the tabernacle of Moloch and the star of your god Rempham, the images that you made in order to worship them; and I will carry you away beyond Babylon.'
 
-**7:44** The tabernacle of testimony was with our fathers in the desert, just as God ordained for them, speaking to Moses, that he should make it according to the pattern that he had seen.
+**7:44** The tabernacle of the testimony was with our fathers in the desert, just as God ordained for them, speaking to Moses, that he should make it according to the pattern that he had seen.
 
 **7:45** This also our fathers, having received it, brought in with Joshua into the possession of the nations whom God drove out from before the face of our fathers, until the days of David,
 

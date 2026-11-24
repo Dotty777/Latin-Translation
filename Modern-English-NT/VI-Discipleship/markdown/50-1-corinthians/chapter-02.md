@@ -15,7 +15,7 @@
 
 **2:5** so that your faith may not be in the wisdom of men, but in the power of God.
 
-**2:6** Yet we do speak wisdom among the mature, though a wisdom not of this age, nor of the rulers of this age, who are being destroyed;
+**2:6** Yet we do speak wisdom among the perfect, though a wisdom not of this age, nor of the rulers of this age, who are being destroyed;
 
 **2:7** but we speak the wisdom of God in a mystery, which has been hidden, which God predestined before the ages for our glory,
 

@@ -13,7 +13,7 @@
 
 **13:4** For even though He was crucified out of weakness, yet He lives by the power of God. For we also are weak in Him, yet we will live with Him by the power of God in you.
 
-**13:5** Test yourselves whether you are in the faith; prove yourselves. Or do you not know yourselves, that Christ Jesus is in you, unless perhaps you are unapproved?
+**13:5** Test yourselves whether you are in the faith; prove yourselves. Or do you not know yourselves, that Christ Jesus is in you? Unless perhaps you are unapproved.
 
 **13:6** But I hope that you will know that we are not unapproved.
 

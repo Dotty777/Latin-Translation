@@ -27,7 +27,7 @@
 
 **8:11** now indeed complete it in action as well, so that just as the willing mind is ready, so it may also be ready to complete it out of what you have.
 
-**8:12** For if the willingness is ready, it is acceptable according to what one has, not according to what one does not have.
+**8:12** For if the willingness is ready, it is accepted according to what one has, not according to what one does not have.
 
 **8:13** For it is not that there should be relief for others and affliction for you, but out of equality.
 

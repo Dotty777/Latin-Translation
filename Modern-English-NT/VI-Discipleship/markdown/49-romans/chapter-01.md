@@ -74,5 +74,5 @@
 - **1:3** — The Clementine Vulgate includes "ei" ("for Him"), specifying that the Son was made from David's seed for God; this dative is absent from the Greek text.
 - **1:4** — The Vulgate renders the Greek "horisthentos" ("declared" or "designated") as "praedestinatus est" ("was predestined"), a notable Latin reading reflected throughout Western exegesis.
 - **1:17** — The Vulgate renders the quotation from Habakkuk 2:4 in the present tense ("vivit", "lives") rather than the Greek future tense ("will live").
-- **1:30** — Latin "Deo odibiles" uses a passive adjective with the dative ("hateful to God"), whereas the Greek "theostygeis" is often rendered actively as "haters of God."
+- **1:30** — Latin "Deo odibiles" uses a passive adjective with the dative ("hateful to God"), whereas the Greek "theostygeis" can also be taken actively ("haters of God").
 - **1:32** — The Clementine Vulgate adds "non intellexerunt" ("they did not understand") and links both those who do such things and those who consent to them as worthy of death, differing from the Greek clause structure.

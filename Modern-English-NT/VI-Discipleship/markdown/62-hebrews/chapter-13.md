@@ -25,7 +25,7 @@
 
 **13:10** We have an altar from which those who serve the tabernacle do not have authority to eat.
 
-**13:11** For the bodies of those animals whose blood is brought for sin into the Sanctuary through the high priest are burned outside the camp.
+**13:11** For the bodies of those animals whose blood is brought for sin into the holy places through the high priest are burned outside the camp.
 
 **13:12** For this reason Jesus also suffered outside the gate, so that He might sanctify the people through His own blood.
 

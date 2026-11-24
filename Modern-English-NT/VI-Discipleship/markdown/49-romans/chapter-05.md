@@ -13,11 +13,11 @@
 
 **5:4** and endurance, proven worth; and proven worth, hope;
 
-**5:5** and hope does not put to shame, because the love of God is poured out in our hearts through the Holy Spirit, who has been given to us.
+**5:5** and hope does not put to shame, because the love of God has been poured out in our hearts through the Holy Spirit, who has been given to us.
 
 **5:6** For why did Christ, while we were still weak, die at the appointed time for the ungodly?
 
-**5:7** For scarcely does anyone die for a righteous person; yet for a good person someone might perhaps dare to die.
+**5:7** For scarcely does anyone die for a righteous person; for someone might perhaps dare to die for a good person.
 
 **5:8** But God commends His own love in us, because while we were still sinners, at the appointed time,
 
@@ -49,8 +49,8 @@
 
 ## Translator Notes
 
-- **5:1** — Latin 'habeamus' is a hortatory subjunctive ('let us have'), whereas many modern translations from the Greek adopt the indicative ('we have').
+- **5:1** — Latin 'habeamus' is a hortatory subjunctive ('let us have'); the standard Greek text reads the indicative ('we have'), though many Greek manuscripts have the subjunctive.
 - **5:2** — The Vulgate reads 'gloriae filiorum Dei' ('of the glory of the sons of God'), including 'of the sons' where the standard Greek text reads simply 'the glory of God'.
 - **5:6** — The Vulgate renders this verse as a question ('Ut quid enim... mortuus est?'), whereas the standard Greek text is a declarative statement. In 5:8 the Clementine Vulgate also repeats 'secundum tempus' ('at the appointed time') and places 'Christ died for us' at the beginning of 5:9.
-- **5:12** — Latin 'in quo' ('in whom', masculine singular referring back to Adam) and 'in hunc mundum' ('into this world') are famous Vulgate readings; the underlying Greek expression is often translated 'because'.
+- **5:12** — Latin 'in quo' may be masculine ('in whom', referring back to the one man) or neuter ('in which'); the underlying Greek expression is often taken as 'because'. The Vulgate also reads 'in hunc mundum' ('into this world').
 - **5:16** — Latin 'per unum peccatum' ('through one sin') differs from the standard Greek ('through one who sinned'). In 5:17 the Vulgate likewise lists three coordinated genitives ('of grace, and of the gift, and of righteousness').

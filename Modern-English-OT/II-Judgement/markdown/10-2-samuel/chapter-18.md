@@ -59,7 +59,7 @@
 
 **18:27** Now the watchman said, "I observe the running of the first to be like the running of Ahimaaz the son of Zadok." And the king said, "He is a good man, and he comes carrying good news."
 
-**18:28** Then Ahimaaz, calling out, said to the king, "Hail, king." And bowing down to the king before him, prostrate to the ground, he said, "Blessed be the Lord your God, who has delivered up the men who lifted up their hands against my lord the king."
+**18:28** Then Ahimaaz, calling out, said to the king, "Hail, king." And bowing down to the king before him, prostrate to the ground, he said, "Blessed be the Lord your God, who has hemmed in the men who lifted up their hands against my lord the king."
 
 **18:29** And the king said, "Is there peace for the boy Absalom?" And Ahimaaz said, "I saw a great uproar when your servant Joab, king, sent me, your servant; I know nothing else."
 

@@ -62,7 +62,7 @@
 ## Translator Notes
 
 - **11:2** — The Vulgate distinctly locates this scene "after midday" (post meridiem, rather than Hebrew "at evening") and places Bathsheba "on her roof" (super solarium suum), whereas the Hebrew says David saw her "from the roof."
-- **11:4** — Latin statimque sanctificata est ("and immediately she was purified/sanctified") places Bathsheba's ritual purification immediately after the encounter, whereas translations of the Hebrew commonly treat it as a parenthetical explanation of her preceding bath.
+- **11:4** — Latin statimque sanctificata est ("and immediately she was purified/sanctified") places Bathsheba's ritual purification immediately after the encounter, whereas the Hebrew clause is commonly read as a parenthetical explanation of her preceding bath.
 - **11:11** — The Vulgate explicitly reads "the ark of God" (Arca Dei, where the Hebrew has simply "the ark") and "on the face of the earth" (super faciem terræ, where the Hebrew has "in the open field").
 - **11:21** — The Vulgate preserves Gideon's original name Jerobaal ("Jerubbaal," matching Judges and the Septuagint) rather than the Masoretic dysphemism "Jerubbesheth."
 - **11:25** — The Vulgate addresses Joab with "Strengthen your warriors ... and encourage them" (bellatores tuos ... exhortare eos), whereas the Hebrew Masoretic Text reads "intensify your battle ... and encourage him" (directing the messenger to encourage Joab).

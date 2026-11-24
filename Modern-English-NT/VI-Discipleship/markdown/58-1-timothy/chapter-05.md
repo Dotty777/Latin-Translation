@@ -7,11 +7,11 @@
 
 **5:1** Do not reprimand an older man, but appeal to him as a father, young men as brothers,
 
-**5:2** elderly women as mothers, young women as sisters, in complete purity.
+**5:2** elderly women as mothers, young women as sisters, in all chastity.
 
 **5:3** Honor widows who are genuinely widows.
 
-**5:4** But if any widow has children or grandchildren, let her first learn to govern her own household and to make a return in kind to her parents, for this is pleasing before God.
+**5:4** But if any widow has children or grandchildren, let her first learn to govern her own household and to make a return in kind to her parents, for this is acceptable before God.
 
 **5:5** Now let the one who is genuinely a widow and left alone hope in God and persist in supplications and prayers night and day.
 

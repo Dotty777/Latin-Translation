@@ -7,7 +7,7 @@
 
 **27:1** Now when it was decided that he should sail to Italy, and that Paul with the rest of the prisoners should be handed over to a centurion named Julius, of the Augustan cohort,
 
-**27:2** we boarded a ship of Adramyttium, about to sail around the places of Asia, and weighed anchor, with Aristarchus, a Macedonian of Thessalonica, remaining with us.
+**27:2** we boarded a ship of Adramyttium and, beginning to sail around the places of Asia, weighed anchor, with Aristarchus, a Macedonian of Thessalonica, remaining with us.
 
 **27:3** And on the following day we arrived at Sidon. And Julius, treating Paul kindly, permitted him to go to friends and take care of himself.
 
@@ -97,7 +97,7 @@
 
 - **27:1** — The Clementine Vulgate reads navigare eum ("that he should sail"), referring to Paul, whereas the Greek text has "that we should sail."
 - **27:5** — The Clementine Vulgate reads Lystram ("Lystra") in Lycia, a Vulgate-distinct place name where the Greek text has Myra.
-- **27:8** — The Clementine Vulgate names the harbor Boniportus ("Good Harbors," commonly rendered "Fair Havens") and the nearby city Thalassa, where most Greek manuscripts read Lasea.
+- **27:8** — The Clementine Vulgate names the harbor Boniportus ("Good Harbors") and the nearby city Thalassa, where most Greek manuscripts read Lasea.
 - **27:13** — The Clementine Vulgate reads de Asson ("from Asson"), taking the Greek comparative adverb asson ("closer") as a proper place name.
 - **27:40** — The Clementine Vulgate reads committebant se mari ("they committed themselves to the sea") after weighing the anchors, whereas the Greek text says they cast off the anchors and left them in the sea.
 - **27:44** — The Clementine Vulgate adds the active verb ferebant ("they carried") for the rest of the passengers brought ashore on planks and ship debris.

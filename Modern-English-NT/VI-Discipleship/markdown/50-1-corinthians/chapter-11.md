@@ -76,7 +76,7 @@
 ## Translator Notes
 
 - **11:2** — The Vulgate reads "my precepts" (praecepta mea) and includes "brothers" (fratres), whereas the critical Greek text has simply "the traditions" without "my" or "brothers."
-- **11:10** — Literally "authority on her head" (potestatem supra caput), traditionally understood as a veil signifying authority; "because of the angels" (propter angelos) is variously interpreted as referring to heavenly witnesses of Christian worship or guardians of created order.
+- **11:10** — Latin potestatem supra caput is literally "authority over the head"; "her" is supplied in English.
 - **11:16** — The Vulgate reads the singular "church of God" (ecclesia Dei), whereas the Greek text has the plural ("churches of God").
 - **11:24** — The Vulgate includes "Take and eat" (Accipite, et manducate) and reads the future passive "which will be handed over for you" (quod pro vobis tradetur), differing from both the critical Greek text ("which is for you") and the Textus Receptus ("which is broken for you").
 - **11:29** — The Vulgate retains "unworthily" (indigne) and "of the Lord" (Domini) in "the body of the Lord," readings absent from the critical Greek text.

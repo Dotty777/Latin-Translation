@@ -37,7 +37,7 @@
 
 **1:16** do not cease giving thanks for you, making remembrance of you in my prayers,
 
-**1:17** that the God of our Lord Jesus Christ, the Father of glory, may grant you a spirit of wisdom and revelation in the full knowledge of Him,
+**1:17** that the God of our Lord Jesus Christ, the Father of glory, may grant you a spirit of wisdom and revelation in the knowledge of Him,
 
 **1:18** with the eyes of your heart enlightened, so that you may know what is the hope of His calling, and what are the riches of the glory of His inheritance in the saints,
 
@@ -57,4 +57,4 @@
 - **1:6** — The Vulgate adds Filio ("in His beloved Son"), whereas Greek reads simply "in the Beloved."
 - **1:10** — Latin instaurare literally means "to restore" or "renew," a distinctive Vulgate rendering where Greek uses a verb meaning "to sum up" or "bring together under one head."
 - **1:22** — Latin supra omnem ecclesiam means "over the whole church" (with feminine omnem modifying ecclesiam), whereas Greek reads "head over all things to the church."
-- **1:23** — Latin adimpletur is passive ("is filled"), conveying the sense of Christ being brought to full completion in His body, the church; the Vulgate also includes "and" (et) before "the fullness."
+- **1:23** — Latin adimpletur is passive in form ("is filled"); the Vulgate also includes "and" (et) before "the fullness."

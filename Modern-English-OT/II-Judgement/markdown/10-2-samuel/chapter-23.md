@@ -85,8 +85,8 @@
 
 ## Translator Notes
 
-- **23:1** — The Vulgate reads cui constitutum est de christo Dei Jacob ("to whom it was appointed concerning the anointed of the God of Jacob"), giving a messianic nuance where the Hebrew reads "the man who was raised on high, the anointed of the God of Jacob."
-- **23:5** — The Vulgate expresses David's humility ("Nor is my house so great before God that He should enter into an eternal covenant with me"), differing from the Hebrew Masoretic Text's rhetorical question ("Is not my house so with God? For he has made with me an everlasting covenant").
+- **23:1** — The Vulgate reads cui constitutum est de christo Dei Jacob ("to whom it was appointed concerning the anointed of the God of Jacob"), where the Hebrew reads "the man who was raised on high, the anointed of the God of Jacob."
+- **23:5** — The Vulgate reads a negative statement ("Nor is my house so great before God that He should enter into an eternal covenant with me"), where the Masoretic Text has a rhetorical question ("Is not my house so with God? For He has made with me an everlasting covenant").
 - **23:8** — Rather than transliterating the Hebrew proper names (Josheb-basshebeth the Tahchemonite and Adino the Eznite), the Vulgate translates them etymologically as "the one sitting in the chair, the wisest chief" and "like the most tender little worm of wood."
 - **23:9** — The Vulgate translates Hebrew ben-dodo literally as "the son of his uncle" (filius patrui ejus) rather than treating Dodo as a personal name (so also in 23:24).
 - **23:23** — The Vulgate renders the Hebrew term for David's bodyguard (mishma'at, derived from the root "to hear") as auricularium, a secreto, denoting a confidential counselor in charge of secret affairs.

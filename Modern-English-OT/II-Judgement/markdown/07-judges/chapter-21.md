@@ -11,7 +11,7 @@
 
 **21:3** "Why, Lord God of Israel, has this evil happened among Your people, that today one tribe should be taken away from us?"
 
-**21:4** Now on the next day, rising at daybreak, they built an altar and offered burnt offerings and peace sacrifices there, and said,
+**21:4** Now on the next day, rising at daybreak, they built an altar and offered burnt offerings and peace offerings there, and said,
 
 **21:5** "Who from all the tribes of Israel did not go up in the army of the Lord?" For they had bound themselves with a great oath when they were in Mizpah, that those who were absent should be put to death.
 

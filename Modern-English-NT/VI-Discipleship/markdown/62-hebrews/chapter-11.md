@@ -25,7 +25,7 @@
 
 **11:10** For he was waiting for the city that has foundations, whose architect and founder is God.
 
-**11:11** By faith Sarah herself also, though barren, received power for the conception of seed even past the time of life, since she believed Him who had promised to be faithful.
+**11:11** By faith Sarah herself also, though barren, received power for the conception of seed even past the time of life, since she believed that He who had promised was faithful.
 
 **11:12** For this reason also, there sprang from one man (and him already lifeless) as many as the stars of heaven in multitude, and like the sand that is by the shore of the sea, innumerable.
 
@@ -87,7 +87,7 @@
 
 ## Translator Notes
 
-- **11:1** — Latin sperandarum substantia rerum, argumentum non apparentium uses the gerundive sperandarum ("things to be hoped for"), substantia ("substance"), and argumentum ("proof"), where Greek-based versions often render hypostasis and elenchos as "assurance" and "conviction."
+- **11:1** — Latin sperandarum substantia rerum, argumentum non apparentium uses the gerundive sperandarum ("things to be hoped for"), substantia ("substance"), and argumentum ("proof"), rendering Greek hypostasis and elenchos.
 - **11:3** — The Vulgate states the clause positively as ut ex invisibilibus visibilia fierent ("so that from invisible things visible things might come into being"), whereas the Greek states negatively that what is seen was not made out of things that appear.
 - **11:8** — The Vulgate reads qui vocatur Abraham ("the one who is called Abraham") rather than "Abraham, when he was called."
 - **11:21** — The Vulgate takes fastigium virgae ejus as the direct object of adoravit ("worshiped the top of his staff"), omitting the Greek preposition epi ("upon" or "leaning upon").

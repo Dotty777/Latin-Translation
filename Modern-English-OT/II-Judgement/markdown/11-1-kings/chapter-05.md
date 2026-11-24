@@ -5,7 +5,7 @@
 
 ## Text
 
-**5:1** And the above-mentioned governors of the king provided food for them; moreover, they also supplied the necessities of the table of King Solomon with immense care in their due time. Barley also, and straw for the horses and beasts of burden, they brought to the place where the king was, according to what was appointed for them.
+**5:1** And the above-mentioned prefects of the king provided food for them; moreover, they also supplied the necessities of the table of King Solomon with immense care in their due time. Barley also, and straw for the horses and beasts of burden, they brought to the place where the king was, according to what was appointed for them.
 
 **5:2** Now the food of Solomon for each day was thirty cors of fine flour, and sixty cors of meal,
 
@@ -47,7 +47,7 @@
 
 **5:25** And Solomon supplied Hiram twenty thousand cors of wheat as food for his household, and twenty cors of the purest oil; these things Solomon gave to Hiram each year.
 
-**5:26** And the Lord gave wisdom to Solomon, just as He had spoken to him; and there was peace between Hiram and Solomon, and the two of them struck a covenant.
+**5:26** The Lord also gave wisdom to Solomon, just as He had spoken to him; and there was peace between Hiram and Solomon, and the two of them struck a covenant.
 
 **5:27** And King Solomon selected laborers out of all Israel, and the levy was thirty thousand men.
 

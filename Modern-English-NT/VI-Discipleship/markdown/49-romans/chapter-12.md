@@ -7,7 +7,7 @@
 
 **12:1** Therefore I urge you, brothers, by the mercy of God, to present your bodies as a living sacrifice, holy, pleasing to God—your reasonable service.
 
-**12:2** And do not be conformed to this age, but be reformed in the newness of your mind, so that you may discern what the will of God is: what is good, and well-pleasing, and perfect.
+**12:2** And do not be conformed to this age, but be reformed in the newness of your mind, so that you may discern what the will of God is: good, and well-pleasing, and perfect.
 
 **12:3** For through the grace that has been given to me, I say to everyone among you not to think more highly than one ought to think, but to think with sober judgment, and to each person according as God has apportioned a measure of faith.
 
@@ -23,7 +23,7 @@
 
 **12:9** Let love be without pretense: hating what is evil, clinging to what is good;
 
-**12:10** loving one another with brotherly affection, outdoing one another in showing honor;
+**12:10** loving one another with brotherly love, outdoing one another in showing honor;
 
 **12:11** not sluggish in diligence, fervent in spirit, serving the Lord;
 
@@ -35,9 +35,9 @@
 
 **12:15** Rejoice with those who rejoice, weep with those who weep;
 
-**12:16** being of the same mind toward one another; not setting your mind on lofty things, but associating with the lowly. Do not be wise in your own estimation;
+**12:16** being of the same mind toward one another; not setting your mind on lofty things, but agreeing with the lowly. Do not be wise in your own estimation;
 
-**12:17** repaying no one evil for evil; taking care for what is honorable not only before God, but also before all people.
+**12:17** repaying no one evil for evil; taking care for what is good not only before God, but also before all people.
 
 **12:18** If it can be done, as far as it depends on you, being at peace with all people;
 

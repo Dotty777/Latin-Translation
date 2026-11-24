@@ -37,7 +37,7 @@
 
 ## Translator Notes
 
-- **3:5** — Both regenerationis and renovationis are Latin genitives, so "renewal of the Holy Spirit" may depend either on "the washing" or directly on the preposition "through."
+- **3:5** — Both genitives, regenerationis and renovationis, depend on lavacrum ("washing"), the accusative object of per: "the washing of regeneration and of renewal of the Holy Spirit."
 - **3:8** — Latin bonis operibus praeesse (also in 3:14) literally means "to stand at the head of" or "lead in good works," rendering a Greek verb meaning "to devote oneself to" or "take the lead in."
 - **3:10** — The Vulgate renders the Greek term for "factious" or "divisive" with the Christian Latin word haereticum ("heretical").
 - **3:15** — The Clementine Vulgate includes Dei ("of God") in "The grace of God" and concludes with "Amen," whereas most critical Greek texts read simply "Grace be with all of you."

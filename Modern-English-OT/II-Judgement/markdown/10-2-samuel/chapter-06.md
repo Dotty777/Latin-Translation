@@ -37,7 +37,7 @@
 
 **6:16** And when the ark of the Lord had entered into the city of David, Michal the daughter of Saul, looking out through the window, saw King David leaping and dancing before the Lord; and she despised him in her heart.
 
-**6:17** And they brought in the ark of the Lord, and placed it in its place in the middle of the tent that David had pitched for it; and David offered burnt offerings and peace offerings before the Lord.
+**6:17** And they brought in the ark of the Lord, and placed it in its place in the middle of the tabernacle that David had pitched for it; and David offered burnt offerings and peace offerings before the Lord.
 
 **6:18** And when he had finished offering the burnt offerings and the peace offerings, he blessed the people in the name of the Lord of hosts.
 
@@ -57,4 +57,4 @@
 - **6:3** — The Vulgate treats in Gabaa ("in Gibeah") as a proper name modifying Abinadab ("who was in Gibeah," also in 6:4), where the Hebrew may be read "on the hill"; in 6:4 the Vulgate also specifies that Ahio was "guarding the ark of God" (custodiens arcam Dei).
 - **6:8** — The Vulgate reads "was grieved" (contristatus est) where the Hebrew reads "was angry," and translates the place name Perez-uzzah literally into Latin as Percussio Ozae ("Striking of Uzzah").
 - **6:12** — The final clause ("and there were with David seven choirs, and a sacrificial calf") is a Vulgate reading shared with the Septuagint tradition and absent from the Hebrew Masoretic Text; similarly in 6:13 the Vulgate reads "a ram" (arietem) rather than "a fatling," and in 6:15 "the ark of the covenant of the Lord" (arcam testamenti Domini).
-- **6:19** — The Vulgate renders two rare Hebrew food terms as "one piece of roasted beef" (assaturam bubulae carnis unam) and "fine flour fried in oil" (similam frixam oleo), where translations from the Hebrew often read a portion of meat or date cake and a raisin cake.
+- **6:19** — The Vulgate renders two rare Hebrew food terms as "one piece of roasted beef" (assaturam bubulae carnis unam) and "fine flour fried in oil" (similam frixam oleo); the Hebrew terms are usually understood as a portion of meat (or a date cake) and a raisin cake.

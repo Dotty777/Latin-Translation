@@ -31,7 +31,7 @@
 
 **9:13** just as it is written: "I have loved Jacob, but I have hated Esau."
 
-**9:14** What then will we say? Is there injustice with God? Certainly not!
+**9:14** What then will we say? Is there injustice with God? Far from it.
 
 **9:15** For He says to Moses, "I will have mercy on whom I have mercy, and I will grant mercy to whom I will be merciful."
 
@@ -57,7 +57,7 @@
 
 **9:26** "And it will be: in the place where it was said to them, 'You are not My people,' there they will be called sons of the living God."
 
-**9:27** And Isaiah cries out concerning Israel: "Even if the number of the sons of Israel is like the sand of the sea, a remnant will be saved.
+**9:27** And Isaiah cries out concerning Israel: "If the number of the sons of Israel is like the sand of the sea, a remnant will be saved.
 
 **9:28** For He is completing the word and cutting it short in equity, because the Lord will carry out a shortened word upon the earth."
 

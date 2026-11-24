@@ -77,4 +77,4 @@
 - **11:3** — Vulgate adds et excidant ("and fall away") and reads in Christo ("in Christ"), without the Greek addition "and purity" found in some manuscripts.
 - **11:4** — Vulgate reads alium Christum ("another Christ"), whereas the Greek reads allon Iesoun ("another Jesus").
 - **11:17** — Vulgate reads secundum Deum ("according to God"), whereas the Greek reads kata Kyrion ("according to the Lord").
-- **11:23** — Latin renders Greek paraphronon ("speaking like a madman") more softly as ut minus sapiens ("as one less wise"), and places in carceribus ("in prisons") before in plagis ("in beatings").
+- **11:23** — Latin renders Greek paraphronon ("speaking like a madman") more softly as ut minus sapiens ("as one less wise").

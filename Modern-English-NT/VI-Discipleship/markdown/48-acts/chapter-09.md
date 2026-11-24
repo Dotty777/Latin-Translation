@@ -100,6 +100,6 @@
 - **9:5** — The Vulgate includes the clause "it is hard for you to kick against the goad" (with singular Latin "stimulum"), which is absent from the earliest Greek manuscripts here and appears instead in Acts 26:14.
 - **9:6** — In the Latin text this sentence begins verse 7.
 - **9:7** — Latin "stabant stupefacti" means "stood astounded" rather than the Greek "stood speechless."
-- **9:12** — The Clementine Vulgate encloses this verse in parentheses and omits "in a vision" (found in many Greek manuscripts). The Latin present subjunctive "recipiat" follows primary direct-speech sequence after "orat" in verse 11, indicating that the Lord's speech continues through this verse.
+- **9:12** — The Clementine Vulgate encloses this verse in parentheses and omits "in a vision" (found in many Greek manuscripts). The present subjunctive "recipiat" (primary sequence) suits reading "vidit" as "has seen," continuing the Lord's speech.
 - **9:29** — Where the Greek text names a single group ("the Hellenists"), the Vulgate uniquely distinguishes two groups: "speaking to the Gentiles" ("gentibus") and "disputing with the Greeks" ("Græcis").
 - **9:31** — The Vulgate reads "replebatur" ("was being filled") with the consolation of the Holy Spirit, whereas the Greek text reads "was multiplied" or "increased."

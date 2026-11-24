@@ -11,7 +11,7 @@
 
 **14:3** His father and his mother said to him, "Is there not a woman among the daughters of your brothers, and among all my people, that you want to take a wife from the Philistines, who are uncircumcised?" And Samson said to his father, "Take this one for me, because she has pleased my eyes."
 
-**14:4** Now his parents did not know that the matter was coming about from the Lord, and that He was seeking an occasion against the Philistines; for at that time the Philistines were ruling over Israel.
+**14:4** Now his parents did not know that the matter was coming about from the Lord, and that he was seeking an occasion against the Philistines; for at that time the Philistines were ruling over Israel.
 
 **14:5** So Samson went down with his father and mother to Timnah. And when they came to the vineyards of the town, a fierce and roaring young lion appeared and came to meet him.
 

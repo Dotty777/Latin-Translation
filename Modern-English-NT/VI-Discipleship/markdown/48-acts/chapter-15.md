@@ -17,7 +17,7 @@
 
 **15:6** And the apostles and elders came together to look into this matter.
 
-**15:7** Now when much debate had taken place, Peter rose up and said to them, "Men and brothers, you know that from early days God chose among us that by my mouth the Gentiles should hear the word of the gospel and believe.
+**15:7** Now when much debate was taking place, Peter rose up and said to them, "Men, brothers, you know that from early days God chose among us that by my mouth the Gentiles should hear the word of the gospel and believe.
 
 **15:8** And God, who knows the hearts, bore witness, giving them the Holy Spirit, just as also to us,
 
@@ -29,7 +29,7 @@
 
 **15:12** And the whole multitude fell silent; and they listened to Barnabas and Paul recounting what great signs and wonders God had done among the Gentiles through them.
 
-**15:13** And after they became silent, James answered, saying, "Men and brothers, listen to me.
+**15:13** And after they became silent, James answered, saying, "Men, brothers, listen to me.
 
 **15:14** Simon has recounted how God first visited to take from among the Gentiles a people for His name.
 

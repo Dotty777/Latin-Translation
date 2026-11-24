@@ -39,7 +39,7 @@
 
 **1:17** but when he had come to Rome, he diligently searched for me and found me.
 
-**1:18** May the Lord grant him to find mercy from the Lord on that day. And how much he served me in Ephesus, you yourself know very well.
+**1:18** May the Lord grant him to find mercy from the Lord on that day. And how much he served me in Ephesus, you yourself know better.
 
 ## Translator Notes
 

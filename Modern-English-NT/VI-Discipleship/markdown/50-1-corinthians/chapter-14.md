@@ -77,7 +77,7 @@
 
 **14:36** Or did the word of God come forth from you? Or did it reach you alone?
 
-**14:37** If anyone thinks himself to be a prophet or spiritual, let him recognize that the things I write to you are the Lord's commands.
+**14:37** If anyone seems to be a prophet or spiritual, let him recognize that the things I write to you are the Lord's commands.
 
 **14:38** But if anyone does not know, he will not be known.
 

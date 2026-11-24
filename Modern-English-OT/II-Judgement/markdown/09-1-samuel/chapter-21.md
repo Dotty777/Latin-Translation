@@ -39,8 +39,8 @@
 
 ## Translator Notes
 
-- **21:1** — The Vulgate numbers this verse 20:43 (20:42b in many English Bibles) and the remaining verses of chapter 21 one lower than here.
-- **21:6** — The Vulgate renders this difficult clause distinctly as "this journey is defiled, yet even it will be sanctified today in the vessels," whereas many Hebrew-based translations read "even on an ordinary journey, how much more today will their vessels be holy."
+- **21:1** — The Vulgate numbers this verse 20:43 and the remaining verses of chapter 21 one lower than here.
+- **21:6** — The Vulgate renders this difficult clause distinctly as "this journey is defiled, yet even it will be sanctified today in the vessels," whereas the Hebrew Masoretic Text is commonly understood as "even on an ordinary journey, how much more today will their vessels be holy."
 - **21:8** — The Vulgate reads "inside the tabernacle of the Lord" (intus in tabernaculo Domini), whereas the Hebrew Masoretic Text has "detained before the Lord."
 - **21:10** — The Vulgate translates the Hebrew place name Elah literally as "the Valley of the Terebinth" (Valle terebinthi).
 - **21:14** — The Vulgate reads "kept collapsing between their hands" (collabebatur inter manus eorum) and "kept striking against the doors of the gate" (impingebat in ostia portae), whereas the Hebrew describes David acting madly in their hands and making marks on the doors.

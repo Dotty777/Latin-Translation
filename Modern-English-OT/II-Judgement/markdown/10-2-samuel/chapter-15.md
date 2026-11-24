@@ -81,7 +81,7 @@
 
 ## Translator Notes
 
-- **15:7** — Both the Vulgate (Post quadraginta autem annos) and the Hebrew Masoretic Text read 'forty years,' whereas the Septuagint and Syriac read 'four years.'
+- **15:7** — Both the Vulgate (Post quadraginta autem annos) and the Hebrew Masoretic Text read 'forty years,' whereas the Lucianic Greek and the Syriac read 'four years.'
 - **15:18** — Vulgate describes the Cherethites and Pelethites as 'legions' (legiones) and adds 'mighty warriors' (pugnatores validi) and 'on foot' (pedites) in describing the six hundred Gittites.
 - **15:20** — Vulgate expands the blessing to include 'and the Lord will show mercy and truth toward you, because you have shown grace and faithfulness' (et Dominus faciet tecum misericordiam et veritatem, quia ostendisti gratiam et fidem), where the Hebrew Masoretic Text ends simply with 'steadfast love and faithfulness be with you.'
 - **15:27** — Vulgate renders the Hebrew expression as a direct vocative, 'O seer' (O videns), whereas the Hebrew Masoretic Text is often read as a question ('Are you not a seer?') or an imperative ('See!').

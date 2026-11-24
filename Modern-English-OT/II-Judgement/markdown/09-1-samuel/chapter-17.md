@@ -43,7 +43,7 @@
 
 **17:39** So David, having strapped on his sword over his garment, began to test whether he could walk while armed, for he was not accustomed to it. And David said to Saul, "I cannot walk like this, because I have no practice." And he took them off,
 
-**17:40** and took his staff, which he always had in his hands, and chose for himself five very smooth stones from the brook, and put them into the shepherd's pouch that he had with him, and took a sling in his hand; and he advanced against the Philistine.
+**17:40** and took his staff, which he always had in his hands, and chose for himself five very clean stones from the brook, and put them into the shepherd's pouch that he had with him, and took a sling in his hand; and he advanced against the Philistine.
 
 **17:42** And when the Philistine looked closely and saw David, he despised him. For he was a youth, ruddy, and handsome in appearance.
 
@@ -83,7 +83,7 @@
 
 **17:17** *(after `17:11`)* Now Jesse said to his son David, "Take for your brothers an ephah of roasted grain and these ten loaves of bread, and run into the camp to your brothers,
 
-**17:18** *(after `17:11`)* and bring these ten rounds of cheese to the commander; visit your brothers to see if they are doing well, and learn with whom they are stationed."
+**17:18** *(after `17:11`)* and bring these ten rounds of cheese to the tribune; visit your brothers to see if they are doing well, and learn with whom they are stationed."
 
 **17:19** *(after `17:11`)* Now Saul, and they, and all the sons of Israel were fighting against the Philistines in the Valley of the Terebinth.
 

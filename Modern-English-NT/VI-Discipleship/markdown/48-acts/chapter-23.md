@@ -7,13 +7,13 @@
 
 **23:1** Now looking intently at the council, Paul said, "Men, brothers, I have conducted myself with all good conscience before God up to this very day."
 
-**23:2** And the chief priest Ananias commanded those standing beside him to strike his mouth.
+**23:2** And the high priest Ananias commanded those standing beside him to strike his mouth.
 
 **23:3** Then Paul said to him, "God will strike you, whitewashed wall. And you sit judging me according to the law, and contrary to the law you order me to be struck?"
 
 **23:4** And those who were standing nearby said, "You are cursing the high priest of God."
 
-**23:5** And Paul said, "I did not know, brothers, that he is the chief priest. For it is written, 'You shall not curse the ruler of your people.'"
+**23:5** And Paul said, "I did not know, brothers, that he is the high priest. For it is written, 'You shall not curse the ruler of your people.'"
 
 **23:6** Now Paul, knowing that one part was Sadducees and the other Pharisees, cried out in the council, "Men, brothers, I am a Pharisee, a son of Pharisees; concerning the hope and resurrection of the dead I am being judged."
 

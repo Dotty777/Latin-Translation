@@ -55,7 +55,7 @@
 
 **8:25** And they indeed, having testified and spoken the word of the Lord, were returning to Jerusalem, and they were preaching the good news to many regions of the Samaritans.
 
-**8:26** Now an angel of the Lord spoke to Philip, saying, "Rise and go toward the south, to the road that goes down from Jerusalem to Gaza." This road is deserted.
+**8:26** Now an angel of the Lord spoke to Philip, saying, "Rise and go toward the south, to the road that goes down from Jerusalem to Gaza." This is deserted.
 
 **8:27** And rising, he departed. And look, an Ethiopian man, a eunuch, a high official of Candace, queen of the Ethiopians, who was over all her treasures, had come to worship in Jerusalem.
 
@@ -92,5 +92,5 @@
 - **8:5** — The Clementine Vulgate prints the third-person plural verb praedicabant ("were proclaiming") with the singular subject Philippus ("Philip"), an unusual textual reading likely arising as a scribal or printing slip for singular praedicabat (or understood loosely of Philip and those with him).
 - **8:7** — The Latin literally makes "many of those who had unclean spirits" (Multi eorum...) the grammatical subject of "came out" (exibant), reproducing a grammatical shift (anacoluthon) also found in some Greek manuscripts; in meaning, it is the unclean spirits that cried out and came out of those afflicted.
 - **8:12** — Unlike the Greek text, which links "and the name of Jesus Christ" to Philip's preaching, the Clementine Vulgate attaches in nomine Jesu Christi ("in the name of Jesus Christ") directly to baptizabantur ("were being baptized").
-- **8:22** — Where the Greek reads "the Lord," the Clementine Vulgate reads Deum ("God"); poenitentiam ... age is the standard Latin idiom for "repent" (historically also rendered "do penance").
+- **8:22** — Where the Greek reads "the Lord," the Clementine Vulgate reads Deum ("God"); poenitentiam ... age is the standard Latin idiom for "repent."
 - **8:33** — Where the Greek uses present-tense verbs in this Isaiah quotation, the Vulgate renders non aperuit in verse 32 in the past tense ("did not open") and tolletur in verse 33 in the future passive ("will be taken away").

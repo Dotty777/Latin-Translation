@@ -19,7 +19,7 @@
 
 **11:7** What then? What Israel was seeking, this it did not obtain, but the election obtained it, while the rest were blinded,
 
-**11:8** just as it is written: "God has given them a spirit of compunction, eyes so that they may not see, and ears so that they may not hear, down to this very day."
+**11:8** just as it is written: "God has given them a spirit of compunction, eyes so that they may not see, and ears so that they may not hear, down to this day."
 
 **11:9** And David says: "Let their table become a snare, and a trap, and a stumbling block, and a repayment to them.
 

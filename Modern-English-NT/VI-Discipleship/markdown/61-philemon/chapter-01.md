@@ -58,7 +58,7 @@
 ## Translator Notes
 
 - **1:6** — The Vulgate reads 'may become evident' (evidens fiat, vs. Greek 'effective'), adds 'work' in 'every good work' (omnis operis boni), uses plural 'in you' (in vobis, vs. critical Greek 'in us'), and ends with 'in Christ Jesus' (vs. 'for Christ').
-- **1:9** — The Clementine Vulgate reads second-person cum sis talis ('since you are such a one'), whereas the Greek text and critical Vulgate editions read first-person ('since I am such a one,' cum sim talis).
+- **1:9** — The Clementine Vulgate reads second-person cum sis talis ('since you are such a one'), whereas the Greek participle refers to Paul himself ('being such a one').
 - **1:12** — The Vulgate includes the imperative 'But you, welcome him' (matching the Byzantine Greek tradition) and renders Greek 'that is' with ut ('as'). Latin viscera (also in vv. 7 and 20) literally means 'inward parts,' used idiomatically for the heart as the seat of deepest affection.
 - **1:16** — Latin pro servo literally means 'instead of a slave' (rendering Greek hyper doulon, 'more than a slave'). Earlier in v. 15, Vulgate discessit ('he departed') uses an active verb where the Greek has a passive ('was separated').
 - **1:20** — At the close of the verse the Vulgate repeats in Domino ('in the Lord'), where the critical Greek text reads 'in Christ.' Latin te fruar ('May I have joy from you') reflects a verb of enjoyment or benefit, echoing the wordplay on the name Onesimus ('useful').

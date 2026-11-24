@@ -43,7 +43,7 @@
 
 ## Translator Notes
 
-- **4:4** — The Clementine Vulgate prints Deus ("God") with a capital letter, reflecting an ancient patristic reading that joins "of this age" to "unbelievers" ("God has blinded the minds of the unbelievers of this age"), though the more common grammatical reading takes Deus hujus sæculi as "the god of this age" (Satan).
+- **4:4** — The critical text capitalizes Deus; some ancient Latin interpreters joined hujus sæculi to infidelium ("God has blinded the minds of the unbelievers of this age"), while others read Deus hujus sæculi as "the god of this age."
 - **4:5** — The Vulgate explicitly reads Dominum nostrum ("our Lord") where critical Greek texts have simply "Lord," and uses per Jesum ("through Jesus") rather than "for Jesus' sake" (contrast propter Jesum in 4:11).
 - **4:10** — The Vulgate shifts from singular in corpore nostro ("in our body") to plural in corporibus nostris ("in our bodies"), whereas the Greek keeps the singular in both clauses.
 - **4:15** — The Vulgate makes gratia abundans ("abounding grace") the subject of abundet ("may abound") with in gratiarum actione ("in thanksgiving") as a prepositional modifier, whereas the Greek makes thanksgiving the object or subject of abounding.

@@ -23,7 +23,7 @@
 
 **7:9** now I rejoice, not because you were grieved, but because you were grieved to repentance. For you were grieved toward God, so that you might suffer loss in nothing from us.
 
-**7:10** For the sorrow that is according to God produces steadfast repentance to salvation, but the sorrow of the world produces death.
+**7:10** For the sorrow that is according to God produces repentance to salvation that is steadfast, but the sorrow of the world produces death.
 
 **7:11** For look at this very thing, your being grieved according to God: how much earnestness it produces in you; yes, defense; yes, indignation; yes, fear; yes, longing; yes, zeal; yes, avenging! In all things you have shown yourselves to be undefiled in the matter.
 

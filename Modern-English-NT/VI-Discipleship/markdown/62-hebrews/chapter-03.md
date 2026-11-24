@@ -25,9 +25,9 @@
 
 **3:10** for forty years. Because of this I was angry with this generation and said, 'They always go astray in heart. And they themselves have not known My ways,'
 
-**3:11** just as I swore in My wrath, 'They will never enter into My rest.'"
+**3:11** just as I swore in My wrath, 'They will not enter into My rest.'"
 
-**3:12** See to it, brothers, that there does not happen to be in any one of you an evil heart of unbelief, in departing from the living God;
+**3:12** See to it, brothers, that there does not happen to be in any one of you an evil heart of unbelief, of departing from the living God;
 
 **3:13** but encourage one another every single day, as long as it is called "Today," so that no one of you may be hardened by the deceit of sin.
 
@@ -47,6 +47,6 @@
 
 - **3:6** — The Vulgate reads "in domo sua" ("in His own house," where the Greek has "over"), nominative "quae domus" ("which house," where most Greek texts have "whose house"), and "gloriam spei" ("the glory of hope," where the Greek has "boasting/pride of hope").
 - **3:11** — Latin literally reads "Si introibunt in requiem meam" ("If they will enter into My rest"), reproducing the Hebrew elliptical oath formula for an emphatic negative (cf. 3:18).
-- **3:14** — The Vulgate adds "ejus" in "initium substantiae ejus" ("the beginning of His substance," matching "substantiae ejus" in 1:3), whereas the Greek lacks "his" and "hypostasis" is often translated "confidence" or "assurance."
+- **3:14** — The Vulgate adds "ejus" in "initium substantiae ejus" ("the beginning of His substance," matching "substantiae ejus" in 1:3), whereas the Greek lacks "his."
 - **3:16** — The Vulgate reads declarative statements ("Quidam ... sed non universi," "For some ... yet not all"), whereas modern critical Greek editions punctuate the verse as two rhetorical questions ("Who ...? Was it not all ...?").
 - **3:18** — The Vulgate reads "increduli fuerunt" ("were unbelieving"), tying the verse lexically to "incredulitatis" and "incredulitatem" ("unbelief") in 3:12 and 3:19, whereas the Greek uses a term meaning "disobedient."

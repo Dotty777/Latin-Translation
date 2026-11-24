@@ -37,7 +37,7 @@
 
 **1:16** Yet for this reason I obtained mercy, so that in me first Christ Jesus might show all patience, for the instruction of those who are going to believe in Him for eternal life.
 
-**1:17** Now to the King of the ages, immortal, invisible, the only God, honor and glory for the ages of ages. Amen.
+**1:17** Now to the King of the ages, immortal, invisible, the only God, honor and glory forever and ever. Amen.
 
 **1:18** This charge I entrust to you, son Timothy, according to the preceding prophecies concerning you, so that in them you may wage good warfare,
 

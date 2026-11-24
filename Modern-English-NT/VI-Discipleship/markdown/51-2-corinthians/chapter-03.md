@@ -15,7 +15,7 @@
 
 **3:5** not that we are sufficient to think anything from ourselves, as though out of ourselves; rather, our sufficiency is from God,
 
-**3:6** who also made us qualified ministers of a new testament, not by the letter, but by the Spirit; for the letter kills, but the Spirit makes alive.
+**3:6** who also made us qualified ministers of a new covenant, not by the letter, but by the Spirit; for the letter kills, but the Spirit makes alive.
 
 **3:7** Now if the ministry of death, formed in letters on stones, was in glory, so that the sons of Israel could not gaze intently at the face of Moses because of the glory of his countenance, which is being done away with,
 
@@ -31,7 +31,7 @@
 
 **3:13** and not as Moses placed a veil over his face, so that the sons of Israel would not gaze intently at the face of that which is being done away with,
 
-**3:14** but their minds were dulled. For to this present day that same veil remains unlifted in the reading of the old testament (because in Christ it is done away with),
+**3:14** but their minds were dulled. For to this present day that same veil remains unlifted in the reading of the old covenant (because in Christ it is done away with),
 
 **3:15** but to this present day, when Moses is read, a veil is placed over their heart.
 
@@ -43,7 +43,7 @@
 
 ## Translator Notes
 
-- **3:6** — Latin novi testamenti ("of a new testament") renders Greek kaines diathekes ("of a new covenant"). Notice also that non littera, sed Spiritu uses ablatives ("not by the letter, but by the Spirit") rather than Greek genitives.
+- **3:6** — Latin non littera, sed Spiritu uses ablatives ("not by the letter, but by the Spirit") where the Greek has genitives.
 - **3:13** — The Vulgate reads in faciem ejus, quod evacuatur ("at the face of that which is being done away with"), whereas the Greek reads "at the end of what is fading/abolished."
 - **3:16** — Latin masculine singular conversus fuerit leaves the subject unexpressed ("one" or "he," echoing Moses in Exodus 34:34 or referring to Israel/any reader) and does not grammatically agree with neuter cor ("heart") in 3:15.
 - **3:18** — The Vulgate shifts from gloriam ("glory") to a claritate in claritatem ("from splendor to splendor") where the Greek uses doxa throughout, and its genitive-ablative phrase a Domini Spiritu unambiguously means "by the Spirit of the Lord."

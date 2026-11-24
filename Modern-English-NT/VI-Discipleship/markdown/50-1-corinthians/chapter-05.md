@@ -29,11 +29,11 @@
 
 **5:12** For what is it to me to judge those who are outside? Do you not judge those who are inside?
 
-**5:13** For those who are outside, God will judge. Remove the evil person from among yourselves.
+**5:13** For those who are outside, God will judge. Remove the evil from among yourselves.
 
 ## Translator Notes
 
-- **5:4** — The Vulgate preserves fuller divine titles across vv. 4-5 ("Jesus Christ" in v. 4a, "our Lord Jesus" in v. 4b, and "our Lord Jesus Christ" in v. 5) where the critical Greek text has shorter forms, notably simply "the day of the Lord" in v. 5.
+- **5:4** — The Vulgate has fuller titles in v. 4a ("our Lord Jesus Christ") and v. 5 ("the day of our Lord Jesus Christ") where the critical Greek text has shorter forms (in v. 5 simply "the day of the Lord").
 - **5:6** — The Vulgate reads corrumpit ("corrupts" or "spoils"), a distinctive Western reading where the standard Greek text has "leavens" (zymoi).
 - **5:9** — The Clementine Vulgate omits "to you" (vobis) here, reading simply "I wrote in the letter," unlike v. 11 and the Greek text.
-- **5:13** — The Vulgate reads the future tense judicabit ("will judge"); malum can grammatically be masculine ("the evil person") or neuter ("the evil"), with v. 2 pointing to the offending individual.
+- **5:13** — The Vulgate reads the future tense judicabit ("will judge"); malum can grammatically be masculine ("the evil person") or neuter ("the evil").

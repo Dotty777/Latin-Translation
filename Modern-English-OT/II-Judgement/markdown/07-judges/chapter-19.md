@@ -69,6 +69,6 @@
 
 - **19:2** — Vulgate reads "who left him" (quae reliquit eum), aligning with a Septuagint tradition rather than the Masoretic Hebrew "was unfaithful to him"; in 19:1, 19:9, and 19:29 the Vulgate also calls her "wife" (uxor) alongside "concubine" (concubina) elsewhere in the chapter.
 - **19:16** — Vulgate preserves the distinct form "sons of Jemini" (filii Jemini, reflecting Hebrew bene yemini, meaning Benjaminites), contrasting with "Benjamin" in 19:14.
-- **19:18** — Vulgate reads "the house of God" (domum Dei), agreeing with the Septuagint against the Masoretic Hebrew "my house."
+- **19:18** — Vulgate reads "the house of God" (domum Dei), where the Masoretic Hebrew has "the house of the Lord" and the Septuagint "my house."
 - **19:22** — The parenthetical gloss "(that is, without a yoke)" (id est, absque jugo) is Jerome's etymological explanation of Belial embedded directly in the Vulgate text.
 - **19:24** — Vulgate explicitly renders the Hebrew "this disgraceful thing" as "this crime against nature" (scelus hoc contra naturam), and similarly renders Hebrew "know" as "abuse" (abutamur) in 19:22.

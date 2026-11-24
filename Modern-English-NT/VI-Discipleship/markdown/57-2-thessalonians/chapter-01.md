@@ -15,7 +15,7 @@
 
 **1:5** as an example of the just judgment of God, so that you may be considered worthy in the kingdom of God, for which you also suffer;
 
-**1:6** since indeed it is just with God to repay affliction to those who afflict you,
+**1:6** if indeed it is just with God to repay affliction to those who afflict you,
 
 **1:7** and to you who are afflicted, rest with us at the revelation of the Lord Jesus from heaven with the angels of His power,
 

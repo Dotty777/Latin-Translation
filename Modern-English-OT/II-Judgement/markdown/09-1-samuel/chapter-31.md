@@ -1,6 +1,6 @@
 # 1 Samuel 31 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (13 verses, 4 translator notes)  
+> **Status:** `draft: true` (13 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -33,7 +33,6 @@
 
 ## Translator Notes
 
-- **31:1** — Matches Latin 'ceciderunt interfecti' smoothly in battle context without using banned 'slain' or unidiomatic 'fell killed'.
 - **31:2** — The Vulgate reads Irrueruntque ... in Saul ("rushed upon Saul"), whereas the Hebrew Masoretic Text reads "pursued closely after" or "overtook."
 - **31:9** — The Vulgate reads plural in populis ("among the peoples") and has no possessive pronoun with in templo idolorum ("in the temple of idols"), whereas the Hebrew Masoretic Text reads "in the house of their idols and to the people."
 - **31:13** — The Vulgate reads in nemore Jabes ("in the grove of Jabesh"), whereas the Hebrew Masoretic Text reads "under the tamarisk tree in Jabesh."

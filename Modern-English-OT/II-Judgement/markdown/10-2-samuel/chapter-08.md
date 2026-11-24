@@ -43,7 +43,7 @@
 
 ## Translator Notes
 
-- **8:1** — Vulgate "frenum tributi" ("the bridle of tribute") interprets the obscure Hebrew phrase "Metheg-ammah," which many translations leave as a place name.
+- **8:1** — Vulgate "frenum tributi" ("the bridle of tribute") interprets the obscure Hebrew phrase "Metheg-ammah," which is often taken as a place name.
 - **8:2** — Vulgate "duos funiculos, unum ad occidendum, et unum ad vivificandum" counts two cords in total (one for death and one for life), whereas the Masoretic Text specifies two cords to put to death and one full cord to keep alive.
 - **8:3** — Vulgate "Adarezer" (Hadarezer) here, like "Thou" (Tou) in 8:9-10, preserves the name forms matching 1 Chronicles 18 rather than Masoretic 2 Samuel's "Hadadezer" and "Toi."
 - **8:13** — Vulgate "capta Syria in valle Salinarum" reads "Syria" (with the Masoretic Text's "Aram" against the Septuagint's "Edom") and renders the valley literally as "Salt Pits"; in 8:14 the Vulgate uses the Greco-Latin name "Idumea" for Edom.

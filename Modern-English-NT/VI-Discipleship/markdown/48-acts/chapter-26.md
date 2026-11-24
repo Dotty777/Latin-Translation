@@ -17,7 +17,7 @@
 
 **26:6** And now, in the hope of the promise that was made by God to our fathers, I stand subject to judgment,
 
-**26:7** to which our twelve tribes, zealously serving night and day, hope to attain. Concerning this hope I am accused by the Jews, king.
+**26:7** to which our twelve tribes, serving night and day, hope to attain. Concerning this hope I am accused by the Jews, king.
 
 **26:8** Why is it judged incredible among you if God raises the dead?
 
@@ -73,5 +73,5 @@
 
 - **26:5** — Latin certissimam (literally "most certain" or "surest") renders Greek akribestaten ("strictest" or "most exact").
 - **26:19** — Latin incredulus ("unbelieving" or "incredulous") translates Greek apeithes ("disobedient" or "unpersuaded"), preserving the Vulgate's focus on belief.
-- **26:23** — Latin si ... si ("whether ... whether," mirroring Greek ei ... ei) introduces the debated prophetic propositions (often smoothed as "that ... that"), and passibilis literally means "capable of" or "subject to suffering."
+- **26:23** — Latin si ... si ("whether ... whether," mirroring Greek ei ... ei) introduces the two propositions, and passibilis literally means "capable of" or "subject to suffering."
 - **26:28** — Latin In modico ("in a small measure" or "in a little") is famously debated—capable of meaning "in a short time," "with little effort," or "almost"—and is echoed in Paul's reply et in modico et in magno ("both in a small measure and in a great one") in verse 29.

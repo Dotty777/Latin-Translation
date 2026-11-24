@@ -17,7 +17,7 @@
 
 **4:6** Let your speech always be in grace, seasoned with salt, so that you may know how you ought to respond to each one.
 
-**4:7** Tychicus, the dearly loved brother, faithful minister, and fellow slave in the Lord, will make known to you all things concerning me,
+**4:7** Tychicus, the dearly loved brother, faithful minister, and fellow servant in the Lord, will make known to you all things concerning me,
 
 **4:8** whom I have sent to you for this very purpose, that he may know the things concerning you and comfort your hearts,
 
@@ -27,7 +27,7 @@
 
 **4:11** and Jesus, who is called Justus. They are of the circumcision; these alone are my helpers in the kingdom of God, who have been a consolation to me.
 
-**4:12** Epaphras, who is one of you, a slave of Christ Jesus, greets you, always earnestly concerned for you in prayers, so that you may stand perfect and full in all the will of God.
+**4:12** Epaphras, who is one of you, a servant of Christ Jesus, greets you, always earnestly concerned for you in prayers, so that you may stand perfect and full in all the will of God.
 
 **4:13** For I testify for him that he has great labor for you, and for those who are in Laodicea and those in Hierapolis.
 

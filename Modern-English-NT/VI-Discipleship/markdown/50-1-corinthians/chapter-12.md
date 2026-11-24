@@ -55,7 +55,7 @@
 
 **12:25** so that there may be no schism in the body, but that the members may have the very same care for one another.
 
-**12:26** And if one member suffers anything, all the members suffer with it; or if one member is glorified, all the members rejoice with it.
+**12:26** And if one member suffers anything, all the members suffer with it; or if one member glories, all the members rejoice with it.
 
 **12:27** Now you are the body of Christ, and members of a member.
 

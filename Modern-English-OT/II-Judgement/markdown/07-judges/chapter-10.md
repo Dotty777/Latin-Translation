@@ -45,4 +45,4 @@
 
 - **10:1** — The Vulgate reads 'dux in Israel' ('a leader in Israel') where the Hebrew has 'to save Israel,' and takes Hebrew 'ben-dodo' ('son of Dodo') as a common noun, rendering it 'patrui Abimelech' ('the uncle of Abimelech').
 - **10:4** — The explanatory phrase 'id est, oppida Jair' ('that is, the towns of Jair') is a Vulgate gloss interpreting the Hebrew place-name Havvoth-jair.
-- **10:12** — The Vulgate reads 'Chanaan' ('Canaan,' agreeing with the Septuagint) where the Hebrew Masoretic Text reads 'Maon' (the Maonites).
+- **10:12** — The Vulgate reads 'Chanaan' ('Canaan') where the Hebrew Masoretic Text reads 'Maon' (the Maonites).

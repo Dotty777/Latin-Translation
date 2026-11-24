@@ -56,7 +56,7 @@
 ## Translator Notes
 
 - **1:6** — The Clementine Vulgate includes a third clause (sive exhortamur pro vestra exhortatione et salute) not found in most Greek manuscripts, and continues in 1:7 with a purpose clause (ut spes nostra firma sit) where the Greek has a coordinate statement ("and our hope is firm"). Throughout 1:3-7, the Vulgate alternates between consolatio/consolari ("consolation"/"console") and exhortatio/exhortari ("encouragement"/"encourage") for a single Greek word family.
-- **1:10** — The Vulgate reads de tantis periculis ("from such great perils") and adds the present verb et eruit ("and delivers [us]"), whereas most Greek witnesses read "from so great a death" without the present verb.
+- **1:10** — The Vulgate reads de tantis periculis ("from such great perils") where most Greek witnesses read "from so great a death"; et eruit ("and delivers") corresponds to a second Greek verb that many witnesses give in the future ("and will rescue").
 - **1:12** — The Vulgate adds cordis ("of heart") to simplicitate ("simplicity") and uses gloria ("glory") here and in 1:14 where the Greek has kauchesis ("boast").
 - **1:20** — The Clementine Vulgate reads ad gloriam nostram ("for our glory"), whereas the Greek reads "for glory through us." Earlier in 1:17, Latin Est et Non (literally "It is and No," the Vulgate idiom for "Yes and No") appears singly rather than the doubled Greek "Yes, yes and No, no."
 - **1:24** — In the Latin text this verse is included in verse 23.

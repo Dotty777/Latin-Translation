@@ -69,7 +69,7 @@
 
 ## Translator Notes
 
-- **16:8** — The Clementine Vulgate prints eam ('her') here, a well-known printing slip for eum ('him'), which the context and the following verse require.
+- **16:8** — The Latin text reads eam ('her') here, evidently a slip for eum ('him'), which the context and the following verse require.
 - **16:13** — Like the Septuagint, the Vulgate includes the instruction about fastening the woven hair with a peg (clavum) driven into the ground, a clause absent from the Hebrew Masoretic Text.
 - **16:17** — The Vulgate renders Hebrew morah ('razor') as 'iron' (Ferrum) and adds the explanatory gloss 'that is, consecrated to God' (id est, consecratus Deo) for 'Nazirite.'
 - **16:28** — The Vulgate reads 'restore to me now my former strength' and 'for the loss of my two eyes' (pro amissione duorum luminum, literally 'two lights'), whereas the Hebrew has 'strengthen me just this once' and 'for one of my two eyes.'

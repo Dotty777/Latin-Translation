@@ -77,6 +77,6 @@
 
 - **17:4** — The Vulgate reads de colentibus gentilibusque ("of the worshipers and Gentiles"), coordinating two groups with -que and reading "Gentiles" rather than the Greek "devout Greeks."
 - **17:6** — The Clementine Vulgate reads urbem ("the city") rather than orbem ("the world," corresponding to Greek oikoumenen).
-- **17:18** — Latin seminiverbius (literally "word-sower") is Jerome's coinage rendering Greek spermologos ("seed-picker" or "babbler"); the Vulgate also reads novorum daemoniorum ("new divinities") where Greek has "foreign divinities."
+- **17:18** — Latin seminiverbius (literally "word-sower") renders Greek spermologos ("seed-picker" or "babbler"); the Vulgate also reads novorum daemoniorum ("new divinities") where Greek has "foreign divinities."
 - **17:22** — Latin superstitiosiores ("quite/more superstitious"), softened by quasi ("as it were"), renders Greek deisidaimonesterous, which can be understood either positively ("very religious") or critically ("very superstitious").
 - **17:30** — The Vulgate reads hujus ignorantiae ("of this ignorance") and annuntiat ("proclaims/declares"), where Greek lacks "this" and reads "commands."

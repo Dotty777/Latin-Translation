@@ -7,7 +7,7 @@
 
 **7:1** Now regarding the matters you wrote to me about: it is good for a man not to touch a woman.
 
-**7:2** Yet because of fornication, let each man have his own wife, and let each woman have her own husband.
+**7:2** Yet because of sexual immorality, let each man have his own wife, and let each woman have her own husband.
 
 **7:3** Let the husband pay what is due to his wife, and likewise the wife also to her husband.
 

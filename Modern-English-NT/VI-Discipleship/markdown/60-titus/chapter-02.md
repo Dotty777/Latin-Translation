@@ -27,7 +27,7 @@
 
 **2:11** For the grace of God our Savior has appeared to all people,
 
-**2:12** training us so that, renouncing impiety and worldly desires, we may live soberly, righteously, and piously in this age,
+**2:12** training us so that, renouncing ungodliness and worldly desires, we may live soberly, righteously, and in a godly manner in this age,
 
 **2:13** awaiting the blessed hope and the coming of the glory of the great God and our Savior Jesus Christ,
 

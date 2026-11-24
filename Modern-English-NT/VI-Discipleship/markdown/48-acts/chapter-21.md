@@ -87,7 +87,7 @@
 
 ## Translator Notes
 
-- **21:3** — Vulgate 'Cum apparuissemus autem Cypro' literally reads 'when we had appeared to Cyprus,' a passive nautical idiom for coming into view of land corresponding to the Greek variant 'anaphanentes' rather than active 'anaphanantes' ('having sighted').
+- **21:3** — Vulgate 'Cum apparuissemus autem Cypro' literally reads 'when we had appeared to Cyprus,' a nautical idiom for coming into view of land, corresponding to the Greek variant 'anaphanentes' ('having been shown') rather than 'anaphanantes' ('having sighted').
 - **21:16** — Vulgate 'adducentes secum ... Mnasonem' resolves a debated Greek dative construction by making Mnason the direct object accompanying the travelers ('bringing with them a certain Mnason') rather than a host awaiting them in Jerusalem.
 - **21:22** — Vulgate 'utique oportet convenire multitudinem' ('Certainly the multitude must assemble') preserves the longer clause shared with the Byzantine tradition, which most modern critical Greek editions omit.
 - **21:28** — Vulgate reads 'gentiles' ('Gentiles') where the Greek text has 'Hellenas' ('Greeks').

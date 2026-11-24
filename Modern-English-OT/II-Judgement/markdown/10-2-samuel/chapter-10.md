@@ -45,7 +45,7 @@
 
 ## Translator Notes
 
-- **10:6** — The Vulgate renders the Hebrew idiom "made themselves odious" as "done an injury" (injuriam fecissent), and treats Istob (Ishtob) as a proper name rather than "the men of Tob" (as in many translations of the Hebrew).
+- **10:6** — The Vulgate renders the Hebrew idiom "made themselves odious" as "done an injury" (injuriam fecissent), and treats Istob (Ishtob) as a proper name where the Hebrew is usually read as "the men of Tob."
 - **10:12** — The Vulgate reads singular "city" (civitate), whereas the Hebrew Masoretic Text has plural "cities."
 - **10:16** — The Vulgate preserves the form Adarezer ("Hadarezer," matching 1 Chronicles and the Septuagint) rather than the Masoretic "Hadadezer," and reads "brought their army" (adduxit eorum exercitum) where the Masoretic Text has "they came to Helam."
 - **10:19** — The clause "they were terrified, and fifty-eight thousand fled before Israel" is a distinctly Vulgate reading (stemming from the Old Latin tradition) absent from the Hebrew Masoretic Text; likewise "in support of" (in præsidio) corresponds to Hebrew "servants/vassals."

@@ -57,7 +57,7 @@
 
 **1:26** the mystery that was hidden from ages and generations, but has now been revealed to His saints,
 
-**1:27** to whom God willed to make known the riches of the glory of this sacrament among the Gentiles, which is Christ, in you the hope of glory,
+**1:27** to whom God willed to make known the riches of the glory of this mystery among the Gentiles, which is Christ, in you the hope of glory,
 
 **1:28** whom we proclaim, correcting every person and teaching every person in all wisdom, so that we may present every person perfect in Christ Jesus;
 

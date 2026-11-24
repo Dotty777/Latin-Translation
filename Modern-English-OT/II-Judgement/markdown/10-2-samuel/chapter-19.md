@@ -5,7 +5,7 @@
 
 ## Text
 
-**19:1** So the king, deeply grieved, went up to the upper room of the gate and wept. And as he walked, he kept saying this: "My son Absalom, Absalom my son! Who would grant me that I might die in your place, Absalom my son, my son Absalom?"
+**19:1** So the king, grieved, went up to the upper room of the gate and wept. And as he walked, he kept saying this: "My son Absalom, Absalom my son! Who would grant me that I might die in your place, Absalom my son, my son Absalom?"
 
 **19:2** Now it was reported to Joab that the king was weeping and mourning for his son.
 
@@ -49,7 +49,7 @@
 
 **19:22** Then Abishai the son of Zeruiah answered and said, "Should Shimei not be put to death for these words, because he cursed the Lord's anointed?"
 
-**19:23** And David said, "What have I to do with you, sons of Zeruiah? Why are you becoming an adversary to me today? Should a man be put to death in Israel today? Or do I not know that today I have been made king over Israel?"
+**19:23** And David said, "What have I to do with you, sons of Zeruiah? Why are you becoming an adversary to me today? Should a man then be put to death in Israel today? Or do I not know that today I have been made king over Israel?"
 
 **19:24** And the king said to Shimei, "You will not die." And he swore to him.
 

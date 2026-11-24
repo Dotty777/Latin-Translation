@@ -11,7 +11,7 @@
 
 **5:3** if indeed we are found clothed, not naked.
 
-**5:4** For indeed we who are in this tent groan, weighed down, because we do not want to be stripped, but to be clothed over, so that what is mortal may be absorbed by life.
+**5:4** For indeed we who are in this tent groan, weighed down, because we do not want to be stripped, but to be clothed over, so that what is mortal may be swallowed up by life.
 
 **5:5** Now He who fashions us for this very thing is God, who has given us the pledge of the Spirit.
 

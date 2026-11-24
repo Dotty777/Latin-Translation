@@ -65,7 +65,7 @@
 
 ## Translator Notes
 
-- **2:17** — The Clementine Vulgate reads "Si autem" ("But if"), matching the Byzantine Greek tradition, whereas modern critical Greek editions read "Ide" ("See"); the Vulgate treats verses 19-20 as the concluding clause of the sentence.
+- **2:17** — The Clementine Vulgate reads "Si autem" ("But if"), matching the Greek "Ei de" of modern critical editions, whereas the Byzantine tradition reads "Ide" ("See"); the Vulgate treats verses 19-20 as the concluding clause of the sentence.
 - **2:21** — In the Clementine Vulgate, verses 21-23 are punctuated as direct declarative indictments rather than rhetorical questions.
 - **2:22** — The Vulgate renders the Greek "hierosyleis" ("rob temples") more broadly as "sacrilegium facis" ("commit sacrilege").
 - **2:29** — Latin "in spiritu, non littera" lacks articles and may refer either to the Holy Spirit or to inward spiritual reality contrasted with the written letter of the law.

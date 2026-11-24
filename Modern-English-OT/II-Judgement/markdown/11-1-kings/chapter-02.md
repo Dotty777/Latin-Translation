@@ -9,7 +9,7 @@
 
 **2:2** "I am entering the way of all the earth; be strong, and be a man.
 
-**2:3** And observe the charges of the Lord your God, to walk in His ways, to keep His ceremonies, and His commands, and judgments, and testimonies, as it is written in the law of Moses, so that you may understand all that you do, and wherever you turn,
+**2:3** And observe the charges of the Lord your God, to walk in His ways, to keep His ceremonies, and His precepts, and judgments, and testimonies, as it is written in the law of Moses, so that you may understand all that you do, and wherever you turn,
 
 **2:4** so that the Lord may confirm His words which He spoke concerning me, saying, 'If your sons keep their ways, and walk before Me in truth, with all their heart and with all their soul, no man will be removed from you from the throne of Israel.'
 
@@ -73,7 +73,7 @@
 
 **2:34** So Benaiah the son of Jehoiada went up, and attacking him, put him to death; and he was buried in his house in the wilderness.
 
-**2:35** And the king appointed Benaiah the son of Jehoiada in his place over the army, and he set Zadok the priest in place of Abiathar. Now the chief officers set over all the works of Solomon were five hundred and fifty, who had the people subject to them and directed the appointed works. Solomon also offered, three times each year, burnt offerings and peace sacrifices on the altar that he had built for the Lord, and burned incense before the Lord; and the temple was completed.
+**2:35** And the king appointed Benaiah the son of Jehoiada in his place over the army, and he set Zadok the priest in place of Abiathar. Now the chief officers set over all the works of Solomon were five hundred and fifty, who had the people subject to them and directed the appointed works. Solomon also offered, three times each year, burnt offerings and peace offerings on the altar that he had built for the Lord, and burned incense before the Lord; and the temple was completed.
 
 **2:36** The king also sent and summoned Shimei, and said to him, "Build a house for yourself in Jerusalem, and live there; and you will not go out from there this way or that.
 
@@ -102,5 +102,5 @@
 - **2:3** — The Vulgate renders the Hebrew verb for prospering or acting wisely as ut intelligas ("so that you may understand") and translates Hebrew "statutes" as caeremonias ("ceremonies").
 - **2:6** — Latin ad inferos ("to the underworld," here and in 2:9) denotes the lower world or abode of the dead, corresponding to Hebrew Sheol.
 - **2:8** — The Vulgate renders Hebrew ben-hayemini ("the Benjaminite") literally as a patronymic, "the son of Jemini," and translates the place name Mahanaim by its literal meaning, "the camp" (ad castra).
-- **2:35** — The Clementine Vulgate retains this closing summary of Solomon's five hundred and fifty chief officers, thrice-yearly sacrifices, and the completion of the temple, reflecting an ancient textual tradition paralleled in the Septuagint miscellanies and in 1 Kings 9:23, 25 but absent here in the Hebrew Masoretic Text.
-- **2:46** — The Clementine Vulgate appends a summary of Solomon's prosperous reign (paralleling 1 Kings 4:20-21, 25 in the Hebrew text and the Septuagint miscellany at 2:46) and reads a flumine terrae Philisthiim ("from the river of the land of the Philistines"), where Hebrew 4:21 reads "from the River [Euphrates] to the land of the Philistines."
+- **2:35** — The Clementine Vulgate does not have this material at 2:35; following this edition's Greek-based verse arrangement, the English here joins Vulgate 2:35 with 9:23 and 9:25 (the five hundred and fifty chief officers, the thrice-yearly sacrifices, and the completion of the temple). The Septuagint has similar material in its additions after 2:35.
+- **2:46** — The Clementine Vulgate does not have this material at 2:46; following this edition's Greek-based verse arrangement, the English here joins Vulgate 2:46 with 4:20, 5:1 and 5:5 (the Septuagint has a similar summary in its additions after 2:46). The Latin reads a flumine terrae Philisthiim ("from the river of the land of the Philistines"), where the Hebrew reads "from the River to the land of the Philistines."

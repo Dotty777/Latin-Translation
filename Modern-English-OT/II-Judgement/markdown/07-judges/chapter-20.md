@@ -13,7 +13,7 @@
 
 **20:4** he answered, "I came to Gibeah of Benjamin with my wife and turned in there,
 
-**20:5** and look, the men of that city surrounded the house in which I was staying at night, wanting to kill me and abusing my wife with an unbelievable frenzy of lust; finally she died.
+**20:5** and look, at night the men of that city surrounded the house in which I was staying, wanting to kill me and abusing my wife with an unbelievable frenzy of lust; finally she died.
 
 **20:6** I took hold of her, cut her into pieces, and sent the parts into all the borders of your possession, because never has so great a wickedness and so heinous a sin been done in Israel.
 
@@ -55,7 +55,7 @@
 
 **20:25** the sons of Benjamin burst out from the gates of Gibeah, and meeting them, raged against them with such great slaughter that they struck down eighteen thousand men who drew the sword.
 
-**20:26** For this reason all the sons of Israel came to the house of God, and sitting down, they wept before the Lord; and they fasted on that day until evening, and offered to Him burnt offerings and peace sacrifices,
+**20:26** For this reason all the sons of Israel came to the house of God, and sitting down, they wept before the Lord; and they fasted on that day until evening, and offered to Him burnt offerings and peace offerings,
 
 **20:27** and inquired concerning their situation. At that time the ark of the covenant of God was there,
 

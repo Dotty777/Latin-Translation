@@ -63,7 +63,7 @@
 
 **15:29** Moreover, the Victor in Israel will not spare, and will not be swayed by regret; for He is not a man that He should repent."
 
-**15:30** Then he said, "I have sinned; yet now honor me before the elders of my people and before Israel, and return with me, so that I may worship the Lord your God."
+**15:30** But he said, "I have sinned; yet now honor me before the elders of my people and before Israel, and return with me, so that I may worship the Lord your God."
 
 **15:31** So Samuel returned and followed Saul, and Saul worshiped the Lord.
 

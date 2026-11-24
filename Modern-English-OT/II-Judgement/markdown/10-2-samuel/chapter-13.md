@@ -77,7 +77,7 @@
 
 **13:36** And when he had finished speaking, the sons of the king also appeared; and entering, they lifted up their voice and wept; and the king also, and all his servants, wept with a very great weeping.
 
-**13:37** Now Absalom, fleeing, went away to Talmai, the son of Ammihud, king of Geshur. And David mourned for his son every day.
+**13:37** Now Absalom, fleeing, went away to Talmai, the son of Ammihud, king of Geshur. So David mourned for his son every day.
 
 **13:38** And Absalom, after he had fled and had come to Geshur, was there for three years.
 
@@ -89,4 +89,4 @@
 - **13:21** — The clause "yet he was unwilling to grieve the spirit of Amnon his son, because he loved him, since he was his firstborn" is a major Vulgate reading shared with the Septuagint and 4QSam-a but absent from the Masoretic Text.
 - **13:27** — The concluding sentence, "And Absalom had prepared a feast like the feast of a king," is present in the Vulgate (alongside the Septuagint and 4QSam-a) but absent from the Masoretic Text.
 - **13:32** — Latin in ore Absalom erat positus literally means "he was placed in the mouth of Absalom," a Semitic idiom indicating that Amnon had been marked for death by Absalom's spoken decree or fixed intention.
-- **13:39** — The Vulgate reads the difficult Hebrew clause as David ceasing "to pursue Absalom" (persequi Absalom), whereas many translations from the Masoretic Text understand David as longing to go out to Absalom.
+- **13:39** — The Vulgate reads the difficult Hebrew clause as David ceasing "to pursue Absalom" (persequi Absalom), whereas the Masoretic Text is commonly understood as David longing to go out to Absalom.

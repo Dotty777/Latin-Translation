@@ -19,7 +19,7 @@
 
 **4:7** Now Solomon had twelve prefects over all Israel, who furnished provisions for the king and his household; for during each month of the year, each one supplied the necessities.
 
-**4:8** And these were their names: Ben-hur, in the hill country of Ephraim.
+**4:8** And these were their names: Ben-hur, in Mount Ephraim.
 
 **4:9** Ben-deker, in Makaz, and in Shaalbim, and in Beth-shemesh, and in Elon, and in Beth-hanan.
 

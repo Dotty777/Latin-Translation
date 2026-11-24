@@ -9,11 +9,11 @@
 
 **5:2** and walk in love, just as Christ also loved us and delivered Himself up for us, an offering and a sacrifice to God for an aroma of sweetness.
 
-**5:3** But sexual immorality and all impurity or greed must not even be named among you, as is fitting for saints,
+**5:3** But fornication and all impurity or greed must not even be named among you, as is fitting for saints,
 
 **5:4** nor obscenity, nor foolish talk, nor vulgar joking, which is out of place, but rather thanksgiving.
 
-**5:5** For know this, understanding that no sexually immoral, or impure, or greedy person, which is the service of idols, has an inheritance in the kingdom of Christ and God.
+**5:5** For know this, understanding that no fornicator, or impure, or greedy person, which is the service of idols, has an inheritance in the kingdom of Christ and God.
 
 **5:6** Let no one mislead you with empty words, for because of these things the wrath of God comes upon the sons of unbelief.
 
@@ -67,7 +67,7 @@
 
 **5:31** Because of this, a man will leave his father and his mother and will cling to his wife, and the two will be in one flesh.
 
-**5:32** This sacrament is great; I, however, speak in Christ and in the church.
+**5:32** This mystery is great; I, however, speak in Christ and in the church.
 
 **5:33** Nevertheless, you also individually, let each one love his own wife as himself; and let the wife fear her husband.
 
@@ -77,4 +77,4 @@
 - **5:15** — The Clementine Vulgate adds the address "brothers" (fratres), absent from standard Greek texts; similarly, it specifies "to God" (5:10) and "the will of God" (5:17) where Greek has "the Lord," and "the Holy Spirit" (5:18) where Greek has simply "the Spirit."
 - **5:26** — The Clementine Vulgate adds "of life" (in verbo vitae, "in the word of life"), whereas the Greek text reads simply "in the word."
 - **5:30** — The Vulgate includes "of His flesh and of His bones" (de carne ejus et de ossibus ejus), a reading found in many ancient witnesses but omitted in the critical Greek text.
-- **5:32** — The Vulgate translates Greek mysterion ("mystery") as sacramentum ("sacrament"), a landmark Latin reading; "in Christ and in the church" literally renders in Christo et in Ecclesia, meaning with reference to Christ and the church.
+- **5:32** — Latin sacramentum, the Vulgate's usual equivalent of Greek mysterion, is rendered "mystery" here as in 1:9, 3:3 and 3:9; "in Christ and in the church" literally renders in Christo et in Ecclesia, meaning with reference to Christ and the church.

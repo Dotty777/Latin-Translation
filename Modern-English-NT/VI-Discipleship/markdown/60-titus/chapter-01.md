@@ -5,7 +5,7 @@
 
 ## Text
 
-**1:1** Paul, a servant of God and an apostle of Jesus Christ, according to the faith of the elect of God and the knowledge of the truth which is according to piety,
+**1:1** Paul, a servant of God and an apostle of Jesus Christ, according to the faith of the elect of God and the knowledge of the truth which is according to godliness,
 
 **1:2** in hope of eternal life, which God, who does not lie, promised before the times of the ages;
 
@@ -39,7 +39,7 @@
 
 ## Translator Notes
 
-- **1:2** — Latin ante tempora saecularia literally means "before secular/age-long times," rendering the Greek expression for "before eternal times."
+- **1:2** — Latin ante tempora saecularia, literally "before the times of the ages," renders the Greek expression for "before eternal times."
 - **1:4** — The Vulgate reads dilecto filio ("beloved son"), whereas the Greek reads "true/genuine child."
 - **1:11** — The Vulgate uses redargui ("be refuted" or "reproved"), where the Greek uses a verb meaning "to silence" or "muzzle."
 - **1:16** — In Christian Latin of the Vulgate, incredibiles is used actively for "unbelieving" or "refusing obedience," rendering the Greek term for "disobedient."

@@ -11,7 +11,7 @@
 
 **12:3** Seeing this, I put my life in my hands and crossed over to the sons of Ammon, and the Lord handed them over into my hands. What have I deserved, that you rise up against me in battle?"
 
-**12:4** Therefore, having called all the men of Gilead to himself, he fought against Ephraim; and the men of Gilead struck down Ephraim, because they had said, "Gilead is a fugitive from Ephraim and lives in the midst of Ephraim and Manasseh."
+**12:4** Therefore, having called all the men of Gilead to himself, he fought against Ephraim; and the men of Gilead struck down Ephraim, because Ephraim had said, "Gilead is a fugitive from Ephraim and lives in the midst of Ephraim and Manasseh."
 
 **12:5** And the Gileadites seized the fords of the Jordan, by which Ephraim was about to return. And whenever one from the number of Ephraim came to them, fleeing, and said, "I beg you to permit me to cross over," the Gileadites would say to him, "Are you an Ephraimite?" And when he said, "I am not,"
 
@@ -25,7 +25,7 @@
 
 **12:10** and he died and was buried in Bethlehem.
 
-**12:11** Elon the Zebulunite succeeded him, and he judged Israel for ten years,
+**12:11** Aijalon the Zebulunite succeeded him, and he judged Israel for ten years,
 
 **12:12** and he died and was buried in Zebulun.
 
@@ -41,4 +41,4 @@
 - **12:5** — Latin reads Ephrathaeus ("Ephrathite"), Jerome's transliteration of the Hebrew gentilic Ephrati, which here denotes a member of the tribe of Ephraim.
 - **12:6** — Vulgate adds the explanatory glosses quod interpretatur Spica ("which means 'ear of grain'") and eadem littera spicam exprimere non valens ("not being able to pronounce 'ear of grain' with the same letter") to clarify the pronunciation test between Scibboleth and Sibboleth.
 - **12:7** — Vulgate reads the singular in civitate sua Galaad ("in his city, Gilead"), whereas the Hebrew text reads "in the cities of Gilead."
-- **12:11** — Vulgate spells the judge's name Ahialon (reflecting the Hebrew consonants of Elon/Aijalon), and in 12:12 states simply in Zabulon ("in Zebulun"), omitting the Hebrew place name "in Aijalon in the land of Zebulun."
+- **12:11** — Vulgate names the judge Ahialon (Aijalon), where the Hebrew vocalizes the name as Elon; in 12:12 it states simply in Zabulon ("in Zebulun"), omitting the Hebrew place name "in Aijalon in the land of Zebulun."

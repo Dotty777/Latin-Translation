@@ -50,7 +50,7 @@
 ## Translator Notes
 
 - **3:3** — The Vulgate uses sacramentum ("sacred secret" or "mystery") here and in 1:9 and 3:9, alternating with mysterium in 3:4 to denote the same hidden divine plan.
-- **3:11** — Latin praefinitionem saeculorum literally means "predetermination of the ages" (often rendered "eternal purpose").
+- **3:11** — Latin praefinitionem saeculorum literally means "predetermination of the ages."
 - **3:14** — The Vulgate includes "of our Lord Jesus Christ" (Domini nostri Jesu Christi) after "the Father," a reading absent from some Greek manuscripts.
 - **3:15** — Latin paternitas literally means "fatherhood" (preserving the wordplay with Patrem, "Father," in verse 14), whereas Greek patria denotes "family" or "lineage."
 - **3:20** — Latin omnia facere superabundanter quam makes "all things" (omnia) the direct object of "do," and intelligimus specifically means "understand" (where Greek has "think").

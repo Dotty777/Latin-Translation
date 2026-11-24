@@ -29,7 +29,7 @@
 
 **2:12** Therefore, my dearest ones, just as you have always obeyed, not as in my presence only, but much more now in my absence, work out your salvation with fear and trembling.
 
-**2:13** For it is God who works in you both to will and to accomplish for His good will.
+**2:13** For it is God who works in you both to will and to accomplish for good will.
 
 **2:14** Now do all things without grumblings and hesitations,
 
@@ -53,7 +53,7 @@
 
 **2:24** And I am confident in the Lord that I myself will also come to you soon.
 
-**2:25** Yet I deemed it necessary to send to you Epaphroditus, my brother and coworker and fellow soldier, and your messenger and minister to my need,
+**2:25** Yet I deemed it necessary to send to you Epaphroditus, my brother and coworker and fellow soldier, and your apostle and minister to my need,
 
 **2:26** since indeed he was longing for all of you and was distressed because you had heard that he had fallen ill.
 

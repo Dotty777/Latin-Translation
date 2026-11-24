@@ -123,7 +123,7 @@
 
 - **9:9** — Latin reads 'which both gods (dii) and men use (utuntur)' and 'be promoted (promovear) among the trees' (also vv. 11, 13), whereas the Hebrew speaks of honoring God/gods and men and swaying over the trees; Latin also distinguishes plural dii ('gods') here from singular Deum ('God') in v. 13.
 - **9:23** — Latin reads Dominus ('the Lord') where the Hebrew has Elohim ('God'), and links vv. 23-24 syntactically so that the inhabitants of Shechem themselves begin to detest Abimelech and lay the killing of Jerubbaal's seventy sons upon him and the Shechemite rulers.
-- **9:26** — Latin consistently gives the name of Gaal's father as Obed (vv. 26, 28, 30, 31, 35), following a Greek textual tradition, whereas the Hebrew reads Ebed.
+- **9:26** — Latin consistently gives the name of Gaal's father as Obed (vv. 26, 28, 30, 31, 35), whereas the Hebrew reads Ebed.
 - **9:28** — Latin renders the clause concerning Zebul as a continuation of Gaal's rhetorical question ('and did he not appoint Zebul...'), whereas the Hebrew contains an imperative ('Serve the men of Hamor...'); in v. 29 Latin similarly has a passive ('And it was said to Abimelech') rather than Gaal continuing to speak.
 - **9:41** — Latin reads in Ruma ('in Rumah'), reflecting a place name without the initial vowel of Hebrew Arumah.
 - **9:46** — Latin reads 'their god Berith' (omitting El- of Hebrew El-berith) and includes an explanatory expansion ('where they had made a covenant with him, and from it the place had received its name; and it was very strongly fortified') interpreting the meaning of Berith ('covenant') and the fortified stronghold.

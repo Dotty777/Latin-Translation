@@ -55,5 +55,5 @@
 
 - **6:3** — The Vulgate uses the ablative 'in morte ipsius' ('in His death') here, contrasting with the accusative 'in mortem' ('into death') in 6:4.
 - **6:5** — Latin 'complantati' ('planted together') uses an explicitly botanical metaphor where the Greek term means more broadly 'grown together' or 'united with'.
-- **6:7** — Latin 'justificatus est' literally reads 'has been justified' from sin, retaining the same legal verb used in 5:1 and 5:9 rather than 'freed'.
-- **6:23** — Latin 'Gratia' translates Greek 'charisma' ('free gift') with the standard term 'grace', contrasting unmerited grace with 'stipendia' ('pay' or military wages).
+- **6:7** — Latin 'justificatus est' ('has been justified') is the same verb used in 5:1 and 5:9.
+- **6:23** — Latin 'gratia' ('grace') renders Greek 'charisma' ('free gift'); 'stipendia' is the word for a soldier's pay.

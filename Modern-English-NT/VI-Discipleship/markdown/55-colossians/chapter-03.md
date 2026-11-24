@@ -13,7 +13,7 @@
 
 **3:4** When Christ, your life, appears, then you also will appear with Him in glory.
 
-**3:5** Put to death, therefore, your members that are on the earth: sexual immorality, impurity, lust, evil desire, and greed, which is servitude to idols.
+**3:5** Put to death, therefore, your members that are on the earth: fornication, impurity, lust, evil desire, and greed, which is servitude to idols.
 
 **3:6** On account of these things the wrath of God comes upon the sons of unbelief.
 

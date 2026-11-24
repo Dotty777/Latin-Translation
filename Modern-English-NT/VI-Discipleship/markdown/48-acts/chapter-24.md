@@ -5,7 +5,7 @@
 
 ## Text
 
-**24:1** Now after five days, the chief priest Ananias came down with certain elders and a certain orator, Tertullus, and they appeared before the governor against Paul.
+**24:1** Now after five days, the high priest Ananias came down with certain elders and a certain orator, Tertullus, and they appeared before the governor against Paul.
 
 **24:2** And when Paul had been summoned, Tertullus began to accuse him, saying, "Since we live in great peace through you, and many things are set right through your foresight,
 
@@ -64,7 +64,7 @@
 ## Translator Notes
 
 - **24:5** — The Clementine Vulgate distinctively adds "of the sedition" (auctorem seditionis) before "of the sect of the Nazarenes," intensifying Tertullus's accusation of insurrection.
-- **24:8** — The Clementine Vulgate omits verse 7 (which in the longer text tradition recounts the tribune Lysias taking Paul away by force), leaving the participle "ordering" (jubens) at the start of verse 8 syntactically attached to verse 6.
+- **24:8** — Verse 7 (which in the longer tradition recounts the tribune Lysias taking Paul away by force) is absent from the main Latin text here, leaving the participle "ordering" (jubens) at the start of verse 8 syntactically attached to verse 6.
 - **24:14** — Where the Greek reads "according to the Way which they call a sect" and "the ancestral God," the Clementine Vulgate distinctively reads "according to the sect that they call a heresy" (secundum sectam quam dicunt hæresim) and "the Father and my God" (Patri et Deo meo).
 - **24:17** — The Clementine Vulgate adds "and vows" (et vota) alongside alms and offerings, a phrase absent from standard Greek texts.
 - **24:25** — The Vulgate renders the Greek term for self-control specifically as castitate ("chastity").

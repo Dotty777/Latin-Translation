@@ -47,7 +47,7 @@
 
 **3:21** But now, apart from the law, the righteousness of God has been manifested, attested by the law and the prophets,
 
-**3:22** namely, the righteousness of God through faith in Jesus Christ, to all and upon all who believe in Him; for there is no distinction,
+**3:22** namely, the righteousness of God through the faith of Jesus Christ, to all and upon all who believe in Him; for there is no distinction,
 
 **3:23** for all have sinned and lack the glory of God,
 
@@ -55,7 +55,7 @@
 
 **3:25** whom God set forth as a propitiation through faith in His blood, for the demonstration of His righteousness because of the remission of previous offenses,
 
-**3:26** in the forbearance of God, for the demonstration of His righteousness at this time, so that He Himself may be righteous and may justify him who is of faith in Jesus Christ.
+**3:26** in the forbearance of God, for the demonstration of His righteousness at this time, so that He Himself may be righteous and may justify him who is of the faith of Jesus Christ.
 
 **3:27** Where then is your boasting? It is excluded. Through what law? Of deeds? No, but through the law of faith.
 

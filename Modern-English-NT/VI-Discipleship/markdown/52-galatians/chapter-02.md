@@ -35,7 +35,7 @@
 
 **2:15** We by nature are Jews, and not sinners from among the Gentiles.
 
-**2:16** Yet knowing that a man is not justified by works of the law, except through faith in Jesus Christ, we also believe in Christ Jesus, so that we may be justified by faith in Christ and not by works of the law, because by works of the law no flesh will be justified.
+**2:16** Yet knowing that a man is not justified by works of the law, except through the faith of Jesus Christ, we also believe in Christ Jesus, so that we may be justified by the faith of Christ and not by works of the law, because by works of the law no flesh will be justified.
 
 **2:17** But if, seeking to be justified in Christ, we ourselves also were found to be sinners, is Christ a minister of sin? Far from it!
 
@@ -43,7 +43,7 @@
 
 **2:19** For I, through the law, died to the law, so that I might live to God. I have been nailed to the cross with Christ.
 
-**2:20** And I live—no longer I, but Christ lives in me. And what I now live in the flesh, I live by faith in the Son of God, who loved me and handed Himself over for me.
+**2:20** And I live—no longer I, but Christ lives in me. And what I now live in the flesh, I live by the faith of the Son of God, who loved me and handed Himself over for me.
 
 **2:21** I do not cast aside the grace of God. For if righteousness is through the law, then Christ died for nothing.
 
@@ -53,4 +53,4 @@
 - **2:13** — The Vulgate reads duceretur ab eis in illam simulationem ("was led by them into that hypocrisy"), whereas the Greek has "was carried away by their hypocrisy."
 - **2:14** — Commentators differ on whether Paul's spoken address to Cephas ends at verse 14 or continues through verse 21.
 - **2:16** — Latin fidem Jesu Christi and fide Christi literally read "faith of [Jesus] Christ" (traditionally taken as objective genitive, "faith in Christ," though also debated as subjective, "faithfulness of Christ"); the Vulgate also uses present-tense credimus ("we believe") rather than the Greek aorist ("we believed").
-- **2:19** — Following the Clementine Vulgate verse division, Christo confixus sum cruci ("I have been nailed to the cross with Christ") concludes verse 19 rather than beginning verse 20 as in most modern English editions.
+- **2:19** — In the Clementine Vulgate verse division, Christo confixus sum cruci ("I have been nailed to the cross with Christ") concludes verse 19 rather than beginning verse 20.

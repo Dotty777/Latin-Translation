@@ -25,7 +25,7 @@
 
 **3:11** And the Lord said to Solomon, "Because you have asked for this matter, and have not sought for yourself many days, nor riches, nor the lives of your enemies, but have asked for yourself wisdom to discern justice,
 
-**3:12** look, I have done for you according to your words, and I have given you a wise and understanding heart, to such an extent that no one like you has existed before you, nor will arise after you.
+**3:12** look, I have done for you according to your words, and I have given you a wise and understanding heart, to such an extent that no one like you has been before you, nor will arise after you.
 
 **3:13** Moreover, I have also given you these things that you did not ask for: namely, riches and glory, so that no one among the kings has been like you in all past days.
 

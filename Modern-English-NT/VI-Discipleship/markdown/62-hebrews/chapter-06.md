@@ -5,7 +5,7 @@
 
 ## Text
 
-**6:1** For this reason, setting aside the introductory word about Christ, let us move forward to more mature things, not again laying a foundation of repentance from dead works and of faith toward God,
+**6:1** For this reason, setting aside the introductory word about Christ, let us be carried forward to more mature things, not again laying a foundation of repentance from dead works and of faith toward God,
 
 **6:2** of teaching concerning baptisms, also of the laying on of hands, and of the resurrection of the dead, and of eternal judgment.
 

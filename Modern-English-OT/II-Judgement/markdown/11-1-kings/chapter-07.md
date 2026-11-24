@@ -5,7 +5,7 @@
 
 ## Text
 
-**7:2** the son of a widowed woman from the tribe of Naphtali, whose father was a Tyrian, a bronze craftsman, and full of wisdom, understanding, and knowledge for making every work of bronze. When he had come to King Solomon, he did all his work.
+**7:2** the son of a widowed woman from the tribe of Naphtali, whose father was a Tyrian; he was a bronze craftsman, and full of wisdom, understanding, and knowledge for making every work of bronze. When he had come to King Solomon, he did all his work.
 
 **7:3** And he fashioned two bronze pillars, one pillar eighteen cubits in height, and a line of twelve cubits encircled each pillar.
 

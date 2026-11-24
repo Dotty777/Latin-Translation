@@ -5,7 +5,7 @@
 
 ## Text
 
-**15:1** Now after a short time, when the days of the wheat harvest were at hand, Samson came, wanting to visit his wife, and he brought her a kid from the goats. And when he wanted to enter her inner room as usual, her father stopped him, saying,
+**15:1** Now after a short time, when the days of the wheat harvest were at hand, Samson came, wanting to visit his wife, and he brought her a young goat from the goats. And when he wanted to enter her inner room as usual, her father stopped him, saying,
 
 **15:2** "I thought that you hated her, and therefore I gave her to your friend; but she has a sister who is younger and more beautiful than she is. Let her be a wife for you in her place."
 

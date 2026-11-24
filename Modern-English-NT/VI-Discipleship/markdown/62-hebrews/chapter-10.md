@@ -39,9 +39,9 @@
 
 **10:17** and their sins and their iniquities I will not remember anymore."
 
-**10:18** Now where there is remission of these, there is no longer an offering for sin.
+**10:18** Now where there is forgiveness of these, there is no longer an offering for sin.
 
-**10:19** Therefore, brothers, having confidence in the entrance to the sanctuary by the blood of Christ,
+**10:19** Therefore, brothers, having confidence in the entrance to the holy places by the blood of Christ,
 
 **10:20** which He initiated for us as a new and living way through the veil, that is, His flesh,
 

@@ -9,9 +9,9 @@
 
 **8:2** For the law of the Spirit of life in Christ Jesus has freed me from the law of sin and death.
 
-**8:3** For what was impossible for the Law, in that it was weakened through the flesh—God, by sending His own Son in the likeness of the flesh of sin and concerning sin, condemned sin in the flesh,
+**8:3** For what was impossible for the law, in that it was weakened through the flesh—God, by sending His own Son in the likeness of the flesh of sin and concerning sin, condemned sin in the flesh,
 
-**8:4** so that the righteous requirement of the Law might be fulfilled in us, who do not walk according to the flesh, but according to the Spirit.
+**8:4** so that the righteous requirement of the law might be fulfilled in us, who do not walk according to the flesh, but according to the Spirit.
 
 **8:5** For those who are according to the flesh set their minds on the things of the flesh, while those who are according to the Spirit set their thoughts on the things of the Spirit.
 
@@ -39,9 +39,9 @@
 
 **8:17** And if sons, also heirs: heirs indeed of God, and fellow heirs with Christ, if indeed we suffer with Him so that we may also be glorified with Him.
 
-**8:18** For I reckon that the sufferings of this present time are not worthy to be compared with the coming glory that will be revealed in us.
+**8:18** For I reckon that the sufferings of this time are not worthy to be compared with the coming glory that will be revealed in us.
 
-**8:19** For the eager expectation of creation awaits the revelation of the sons of God.
+**8:19** For the expectation of creation awaits the revelation of the sons of God.
 
 **8:20** For creation was subjected to futility, not willingly, but because of Him who subjected it in hope,
 
@@ -59,7 +59,7 @@
 
 **8:27** And the One who searches hearts knows what the Spirit desires, because He pleads for the saints according to God.
 
-**8:28** And we know that for those who love God, all things work together toward good, for those who according to His purpose have been called as saints.
+**8:28** And we know that for those who love God, all things work together toward good, for those who according to the purpose have been called as saints.
 
 **8:29** For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He Himself might be the firstborn among many brothers.
 
@@ -88,7 +88,7 @@
 - **8:1** — The Vulgate includes the clause qui non secundum carnem ambulant ("who do not walk according to the flesh"), absent from the earliest Greek manuscripts.
 - **8:2** — Latin reads first-person singular liberavit me ("has freed me") rather than "you."
 - **8:3** — Latin de peccato literally reads "concerning sin" (often understood in context as "for a sin offering").
-- **8:4** — Latin justificatio legis literally means "the justification/righteous requirement of the Law."
+- **8:4** — Latin justificatio legis literally means "the justification/righteous requirement of the law."
 - **8:7** — Latin shifts from prudentia ("mindset/prudence") in verse 6 to sapientia ("wisdom") here.
 - **8:11** — Latin reads Jesum Christum ("Jesus Christ") in the second clause, and propter inhabitantem Spiritum ejus ("because of His Spirit who dwells") uses causal propter rather than instrumental "through."
 - **8:13** — The Vulgate reads facta carnis ("the deeds of the flesh") rather than Greek "the deeds of the body."
@@ -96,7 +96,7 @@
 - **8:16** — Latin testimonium reddit spiritui nostro uses the dative ("bears witness to our spirit") rather than Greek "with our spirit."
 - **8:18** — Latin in nobis reads "in us" rather than "to us."
 - **8:23** — The Vulgate explicitly reads adoptionem filiorum Dei ("adoption as sons of God").
-- **8:28** — Two distinctive Vulgate features: omnia ("all things") is the subject of cooperantur ("work together"), and vocati sunt sancti adds sancti ("called as saints"). "His" is implied by secundum propositum ("according to the purpose").
+- **8:28** — Latin omnia ("all things") is the subject of cooperantur ("work together"), and vocati sunt sancti adds sancti ("called as saints"), which the Greek lacks; secundum propositum ("according to the purpose") has no possessive.
 - **8:32** — Latin donavit is past/perfect tense ("has He not also freely given") rather than future tense.
 - **8:37** — Latin propter eum ("because of Him") is causal rather than instrumental "through Him."
 - **8:38** — The Vulgate includes both virtutes ("powers") and fortitudo ("might") in the list.

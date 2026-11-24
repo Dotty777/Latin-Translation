@@ -5,7 +5,7 @@
 
 ## Text
 
-**24:1** And the fury of the Lord raged again against Israel, and He stirred up David against them to say, "Go, number Israel and Judah."
+**24:1** And the fury of the Lord raged again against Israel, and stirred up David against them to say, "Go, number Israel and Judah."
 
 **24:2** And the king said to Joab, the commander of his army, "Go through all the tribes of Israel from Dan to Beersheba, and number the people, so that I may know their number."
 

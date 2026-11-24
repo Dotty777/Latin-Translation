@@ -13,7 +13,7 @@
 
 **5:4** Nor does anyone take the honor for himself, but rather he who is called by God, just as Aaron was.
 
-**5:5** In this way Christ also did not glorify Himself to become a high priest, but He who spoke to Him: "You are My Son; today I have begotten You."
+**5:5** In this way Christ also did not glorify Himself to become a high priest, but He who spoke to Him: "You are My Son; today I have fathered You."
 
 **5:6** Just as He also says in another place: "You are a priest forever, according to the order of Melchizedek."
 
@@ -25,7 +25,7 @@
 
 **5:10** designated by God a high priest according to the order of Melchizedek.
 
-**5:11** Concerning this we have a great discourse, and one difficult to explain in words, because you have become weak in hearing.
+**5:11** Concerning this we have a great discourse, and one that cannot be explained in words, because you have become weak in hearing.
 
 **5:12** For indeed, although you ought to be teachers because of the time, you again need to be taught what the basic elements of the beginning of the words of God are, and you have become those who need milk, not solid food.
 

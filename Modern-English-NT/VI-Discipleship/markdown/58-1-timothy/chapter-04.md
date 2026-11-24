@@ -15,7 +15,7 @@
 
 **4:5** for it is made holy through the word of God and prayer.
 
-**4:6** By setting these things before the brothers, you will be a good servant of Christ Jesus, nourished by the words of the faith and of the good teaching that you have followed.
+**4:6** By setting these things before the brothers, you will be a good minister of Christ Jesus, nourished by the words of the faith and of the good teaching that you have followed.
 
 **4:7** But avoid silly and old wives' tales; instead, exercise yourself for godliness.
 
@@ -27,7 +27,7 @@
 
 **4:11** Command these things and teach them.
 
-**4:12** Let no one look down on your youth; instead, be an example for the believers in word, in conduct, in love, in faith, in purity.
+**4:12** Let no one look down on your youth; instead, be an example for the believers in word, in conduct, in love, in faith, in chastity.
 
 **4:13** Until I come, give attention to reading, to exhortation, and to teaching.
 
