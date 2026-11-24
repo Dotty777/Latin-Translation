@@ -13,7 +13,7 @@
 
 **60:4** for You have become my hope: a tower of strength from the face of the enemy.
 
-**60:5** I will dwell in Your tent for all ages; I will be sheltered in the covering of Your wings.
+**60:5** I will dwell in Your tabernacle for all ages; I will be sheltered in the covering of Your wings.
 
 **60:6** For You, my God, have heard my prayer; You have given a heritage to those who fear Your name.
 

@@ -16,5 +16,5 @@
 ## Translator Notes
 
 - **122:1** — Latin Canticum graduum literally means "A song of steps," a heading shared by Psalms 119-133 (Hebrew 120-134) and traditionally associated with the Temple steps or pilgrimage ascents to Jerusalem.
-- **122:2** — Following the Septuagint, the Vulgate uses plural manibus ("hands") and dominorum ("masters"), with locative in manibus ("on the hands"), whereas the Hebrew has singular "hand" and "master."
+- **122:2** — Following the Septuagint, the Vulgate uses plural manibus ("hands"), with locative in manibus ("on the hands"), whereas the Hebrew has singular "hand."
 - **122:4** — The Vulgate places opprobrium ("reproach") and despectio ("scorn") in the nominative with datives (abundantibus, superbis) rather than ablatives of filling as in v. 3, whereas the Hebrew reads "with the scoffing of those at ease, the contempt of the proud."

@@ -5,7 +5,7 @@
 
 ## Text
 
-**28:1** "Silver has the sources of its veins, and for gold there is a place in which it is smelted.
+**28:1** Silver has the sources of its veins, and for gold there is a place in which it is smelted.
 
 **28:2** Iron is taken up from the earth, and stone dissolved by heat is turned into copper.
 

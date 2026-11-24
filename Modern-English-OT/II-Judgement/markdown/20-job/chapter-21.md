@@ -5,7 +5,7 @@
 
 ## Text
 
-**21:1** Then Job responded and said:
+**21:1** Then Job answered and said:
 
 **21:2** "Hear my words, I beg you, and repent.
 
@@ -77,6 +77,6 @@
 
 - **21:2** — Vulgate-distinct reading: "repent" (agite pœnitentiam, literally "do penance"), taking the Hebrew root for consolation in its sense of repentance.
 - **21:10** — Vulgate-distinct reading: Latin Bos eorum concepit uses bos as feminine ("cow") and translates the Hebrew clause about a bull breeding without fail as conceiving without miscarrying.
-- **21:19** — Unlike translations from the Hebrew that treat the first clause as an objection from Job's friends and the second as a wish, the Vulgate renders the entire verse as a continuous future statement.
+- **21:19** — The Vulgate renders the entire verse as a statement in the future tense; in the Hebrew the second clause can be read as a wish ("let Him repay him, that he may know").
 - **21:22** — The Clementine Vulgate prints nominative Deus alongside nominative quispiam ("anyone"); because quispiam can only be the subject and the relative clause refers to God, the clause is translated as teaching knowledge to God (matching Deum in other Vulgate witnesses).
 - **21:33** — Vulgate-distinct proper name and reading: Jerome renders Hebrew "clods of the valley" as glareis Cocyti ("the gravel of Cocytus"), naming Cocytus, the classical underworld river of wailing, and making the dead man himself ("he was sweet") the subject.

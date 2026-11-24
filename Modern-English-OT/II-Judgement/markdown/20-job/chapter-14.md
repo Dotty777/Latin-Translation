@@ -47,7 +47,7 @@
 
 **14:21** Whether his sons are noble or ignoble, he will not understand.
 
-**14:22** Yet still, his flesh, while he lives, will feel pain, and his soul will mourn over himself.
+**14:22** Yet still, his flesh, while he lives, will feel pain, and his soul will mourn over himself."
 
 ## Translator Notes
 

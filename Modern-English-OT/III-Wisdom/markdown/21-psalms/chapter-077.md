@@ -117,13 +117,13 @@
 
 **77:56** And they tested and provoked the Most High God, and did not keep His testimonies.
 
-**77:57** And they turned away and did not observe the pact; just like their fathers, they were turned into a crooked bow.
+**77:57** And they turned away and did not observe the covenant; just like their fathers, they were turned into a crooked bow.
 
 **77:58** They roused Him to wrath on their hills, and with their carved images they provoked Him to jealousy.
 
 **77:59** God heard, and despised and utterly reduced Israel to nothing.
 
-**77:60** And He rejected the tent of Shiloh, His own tent, where He dwelt among people.
+**77:60** And He rejected the tabernacle of Shiloh, His own tabernacle, where He dwelt among people.
 
 **77:61** And He handed over their might into captivity, and their beauty into the hands of the enemy.
 

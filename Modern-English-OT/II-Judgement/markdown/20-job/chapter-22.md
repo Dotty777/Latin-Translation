@@ -5,7 +5,7 @@
 
 ## Text
 
-**22:1** Then Eliphaz the Temanite responded and said:
+**22:1** Then Eliphaz the Temanite answered and said:
 
 **22:2** "Can a man be compared to God, even when he possesses perfect knowledge?
 

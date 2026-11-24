@@ -55,7 +55,7 @@
 
 **19:25** For I know that my Redeemer lives, and on the last day I will rise from the earth;
 
-**19:26** and once more I will be clothed in my skin, and in my flesh I will see my God,
+**19:26** and once more I will be encompassed with my skin, and in my flesh I will see my God,
 
 **19:27** whom I myself will see, and my eyes will gaze upon, and not another: this hope of mine has been stored up in my breast.
 
@@ -69,4 +69,4 @@
 - **19:18** — Vulgate reads "Stulti" ("Fools"), whereas the Hebrew Masoretic Text reads "young boys."
 - **19:20** — Vulgate renders the closing clause "derelicta sunt tantummodo labia circa dentes meos" ("only the lips have been left around my teeth"), differing from the Hebrew idiom "I have escaped by the skin of my teeth."
 - **19:24** — Latin "celte" ("with a chisel") is a famously rare Vulgate term (from which the archaeological word "celt" derives), corresponding to the Hebrew "forever" and perhaps arising from an early textual variant for "certe" ("surely").
-- **19:25** — Verses 25-27 present one of the most notable Vulgate-distinct passages in the Old Testament: Jerome renders Job's confession explicitly in terms of bodily resurrection ("on the last day I will rise from the earth," "clothed in my skin," "in my flesh I will see my God," and "this hope of mine has been stored up in my breast"), differing markedly from the more elliptical Hebrew Masoretic Text.
+- **19:25** — In vv. 25-27 the Vulgate reads in novissimo die de terra surrecturus sum ("on the last day I will rise from the earth"), rursum circumdabor pelle mea ("once more I will be encompassed with my skin") and reposita est hæc spes mea in sinu meo ("this hope of mine has been stored up in my breast"), differing markedly from the Hebrew Masoretic Text.

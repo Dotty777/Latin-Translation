@@ -35,7 +35,7 @@
 
 ## Translator Notes
 
-- **64:1** — The reference to Jeremiah, Ezekiel, and "the people of the exile" (populo transmigrationis) is a distinctive Vulgate expansion of a Septuagint manuscript tradition absent from the Hebrew text.
+- **64:1** — The reference to Jeremiah, Ezekiel, and "the people of the exile" (populo transmigrationis) follows the Septuagint superscription and is absent from the Hebrew text.
 - **64:3** — Following the Septuagint, the Vulgate uses an imperative ("Hear my prayer") where the Hebrew has a vocative participle ("You who hear prayer").
 - **64:8** — Latin qui conturbas ("who stir up" or "trouble") follows the Septuagint, whereas the Hebrew reads "who stills" the roaring of the seas.
 - **64:12** — Following the Septuagint, the Vulgate reads "You will bless the crown" (Benedices coronae) and "Your fields" (campi tui), where the Hebrew reads "You crown the year" and "Your wagon tracks."

@@ -80,5 +80,5 @@
 - **15:3** — The Vulgate reads 'Arguis verbis eum qui non est aequalis tibi' ("You reprove with words one who is not equal to you," traditionally understood as God), whereas the Hebrew Masoretic Text speaks of arguing with unprofitable talk.
 - **15:11** — The Vulgate asks whether it is a great thing for God to comfort Job and adds that his perverse words prevent this, differing sharply from the Hebrew ("Are the consolations of God too small for you, and a word dealt gently with you?").
 - **15:15** — The Vulgate reads 'inter sanctos ejus nemo immutabilis' ("among His holy ones no one is unchangeable"), whereas the Hebrew reads that God puts no trust in His holy ones.
-- **15:30** — Latin 'spiritu oris sui' uses the reflexive possessive 'sui', pointing grammatically to the ungodly man's own mouth (cf. 15:6), whereas many translations from Hebrew refer the breath to God's mouth.
+- **15:30** — Latin 'spiritu oris sui' uses the reflexive possessive 'sui', pointing grammatically to the ungodly man's own mouth (cf. 15:6); the Hebrew has simply "his mouth."
 - **15:31** — The Vulgate reads 'Non credet, frustra errore deceptus, quod aliquo pretio redimendus sit' ("He will not believe... that he is to be redeemed at any price"), whereas the Hebrew warns him not to trust in emptiness because emptiness will be his recompense.

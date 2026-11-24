@@ -5,7 +5,7 @@
 
 ## Text
 
-**125:1** A song of the steps. When the Lord turned back the captivity of Zion, we became like those who have been comforted.
+**125:1** A song of steps. When the Lord turned back the captivity of Zion, we became like those who have been comforted.
 
 **125:2** Then our mouth was filled with joy, and our tongue with exultation. Then they will say among the nations, "The Lord has done great things with them."
 
@@ -19,7 +19,7 @@
 
 ## Translator Notes
 
-- **125:1** — Latin "Canticum graduum" ("A song of the steps," corresponding to Hebrew "ascents") is the traditional title of Psalms 119-133 in the Vulgate. Vulgate "sicut consolati" ("like those who have been comforted") follows the Septuagint, whereas the Hebrew Masoretic Text reads "like those who dream."
+- **125:1** — Latin "Canticum graduum" ("A song of steps," corresponding to Hebrew "ascents") is the traditional title of Psalms 119-133 in the Vulgate. Vulgate "sicut consolati" ("like those who have been comforted") follows the Septuagint, whereas the Hebrew Masoretic Text reads "like those who dream."
 - **125:2** — Vulgate "dicent" is future tense ("they will say," following the Septuagint), where the Hebrew verb is normally rendered in the past ("they said"). "The Lord has done great things with them" renders the literal Hebraic Latin idiom "Magnificavit Dominus facere cum eis" ("the Lord has magnified to do with them").
 - **125:4** — Vulgate "torrens in austro" ("a torrent in the south") is singular, following the Septuagint, whereas the Hebrew has the plural "watercourses in the Negev."
 - **125:6** — Vulgate uses plural verbs and a past-imperfect to future shift ("Euntes ibant et flebant... Venientes autem venient"), rendering the Hebrew emphatic infinitive absolutes via Septuagint plural participles; the Hebrew text is singular.

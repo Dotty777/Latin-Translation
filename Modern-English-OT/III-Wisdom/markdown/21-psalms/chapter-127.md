@@ -5,7 +5,7 @@
 
 ## Text
 
-**127:1** A song of the steps. Blessed are all who fear the Lord, who walk in His ways.
+**127:1** A song of steps. Blessed are all who fear the Lord, who walk in His ways.
 
 **127:2** Because you will eat the labors of your hands, you are blessed, and it will go well for you.
 

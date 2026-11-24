@@ -43,7 +43,7 @@
 
 **31:19** if I have despised one who was perishing because he had no clothing, and a poor man without a covering;
 
-**31:20** if his sides have not blessed me, nor has he been warmed by the fleeces of my sheep;
+**31:20** if his sides have not blessed me, and he has been warmed by the fleeces of my sheep;
 
 **31:21** if I have raised my hand against the orphan, even when I saw myself superior in the gate,
 
@@ -51,7 +51,7 @@
 
 **31:23** For always, like waves swelling over me, I feared God, and I could not bear His weight.
 
-**31:24** If I have considered gold my strength, and said to fine gold, "My confidence";
+**31:24** If I have considered gold my strength, and said to fine gold, 'My confidence';
 
 **31:25** if I have rejoiced over my many riches, and because my hand has found very much;
 
@@ -65,7 +65,7 @@
 
 **31:30** for I have not given my throat to sin, so that by cursing I would demand his life.
 
-**31:31** If the men of my tent have not said, "Who will give some of his flesh, so that we may be satisfied?"
+**31:31** If the men of my tent have not said, 'Who will give some of his flesh, so that we may be satisfied?'
 
 **31:32** The stranger did not stay outside; my door stood open to the traveler.
 
@@ -83,7 +83,7 @@
 
 **31:39** if I have eaten its fruits without money, and I have afflicted the soul of its farmers,
 
-**31:40** instead of wheat let the thistle spring up for me, and instead of barley the thorn. The words of Job are finished.
+**31:40** instead of wheat let the thistle spring up for me, and instead of barley the thorn." The words of Job are finished.
 
 ## Translator Notes
 

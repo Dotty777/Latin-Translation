@@ -370,12 +370,12 @@
 - **118:83** — Following the Septuagint, the Vulgate reads in pruina ("in the frost"), whereas the Hebrew Masoretic Text reads "in the smoke."
 - **118:85** — Following the Septuagint (which read Hebrew sichot, "tales," rather than shichot, "pits"), the Vulgate reads narraverunt mihi iniqui fabulationes ("the wicked have recounted fables to me"), whereas the Hebrew Masoretic Text reads "the arrogant have dug pits for me."
 - **118:91** — Following the Septuagint, the Vulgate makes "the day" (dies) the subject ("by Your ordering the day continues"), whereas the Hebrew Masoretic Text reads adverbially ("by Your ordinances they stand to this day").
-- **118:112** — Following the Septuagint, the Vulgate renders Hebrew eqev as propter retributionem ("because of the reward"), whereas many translations from the Masoretic Text read "to the very end."
+- **118:112** — Following the Septuagint, the Vulgate renders Hebrew eqev ("consequence," "reward," or "end") as propter retributionem ("because of the reward").
 - **118:119** — Following the Septuagint, the Vulgate reads praevaricantes reputavi omnes peccatores terrae ("I have counted all the sinners of the earth as transgressors"), whereas the Hebrew Masoretic Text reads "like dross You remove all the wicked of the earth."
 - **118:120** — Following the Septuagint (which connected Hebrew samar with the root for "nail"), the Vulgate reads confige timore tuo carnes meas ("pierce through my flesh with the fear of You"), whereas the Hebrew Masoretic Text reads "my flesh trembles for fear of You."
 - **118:127** — Following the Septuagint, the Vulgate renders Hebrew paz ("refined gold") as topazion ("topaz").
-- **118:148** — The Clementine Vulgate uniquely reads ad te diluculo ("to You at daybreak"), expanding on the Septuagint ("toward dawn"), whereas the Hebrew Masoretic Text reads "before the night watches."
+- **118:148** — The Vulgate reads ad te diluculo ("to You at daybreak"), where the Septuagint has "toward dawn" and the Hebrew Masoretic Text reads "before the night watches."
 - **118:150** — Following the Septuagint, the Vulgate reads appropinquaverunt persequentes me iniquitati ("those who persecute me have drawn near to iniquity"), whereas the Hebrew Masoretic Text reads "those who pursue wicked schemes draw near."
 - **118:151** — Following the Septuagint, the Vulgate reads omnes viae tuae ("all Your ways"), whereas the Hebrew Masoretic Text reads "all Your commandments."
-- **118:160** — Following the Septuagint (arche), the Vulgate renders Hebrew rosh as principium ("beginning"), whereas many translations from the Masoretic Text render it "sum" or "entirety."
+- **118:160** — Following the Septuagint (arche), the Vulgate renders Hebrew rosh ("head," also "sum" or "chief part") as principium ("beginning").
 - **118:173** — Following the Septuagint, the Vulgate reads ut salvet me ("to save me"), whereas the Hebrew Masoretic Text reads "to help me."

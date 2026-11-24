@@ -48,7 +48,7 @@
 ## Translator Notes
 
 - **71:6** — Latin in vellus ('upon a fleece') follows the Septuagint reading of a Hebrew term often rendered 'mown grass.'
-- **71:9** — Latin Aethiopes ('Ethiopians') and terram ('earth') follow the Septuagint where the Hebrew has 'desert-dwellers' and 'dust.'
+- **71:9** — Latin Aethiopes ('Ethiopians') follows the Septuagint where the Hebrew has 'desert-dwellers'; terram ('earth') stands where both the Septuagint and the Hebrew have 'dust.'
 - **71:14** — Latin ex usuris ('from usury') and nomen eorum ('their name') follow the Septuagint against the Hebrew 'from oppression' and 'their blood'; similarly in v. 12 Latin a potente ('from the mighty') differs from the Hebrew 'who cries out.'
 - **71:15** — Latin adorabunt de ipso renders Greek proseuxontai peri autou ('they will pray concerning him'), using adorare in its sense of praying or petitioning.
 - **71:16** — Latin firmamentum ('a support' or 'foundation') follows the Septuagint sterigma where the Hebrew has 'abundance of grain.'

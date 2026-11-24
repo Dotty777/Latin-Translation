@@ -23,7 +23,7 @@
 
 **78:9** Help us, God our Savior, and for the sake of the glory of Your name, Lord, deliver us, and be merciful toward our sins, for the sake of Your name.
 
-**78:10** May they never say among the nations, "Where is their God?" And let the avenging of the blood of Your servants that has been poured out become known among the peoples before our eyes.
+**78:10** So that they may not say among the nations, "Where is their God?" And let the avenging of the blood of Your servants that has been poured out become known among the peoples before our eyes.
 
 **78:11** Let the groaning of those in shackles enter into Your presence; according to the greatness of Your arm, take possession of the sons of those put to death,
 
@@ -35,5 +35,5 @@
 
 - **78:1** — The Vulgate "in pomorum custodiam" ("into a watch-post for fruit") follows the Septuagint, whereas the Hebrew Masoretic Text reads "into heaps of ruins."
 - **78:5** — The Latin "in finem" ("to the end") renders the Septuagint "eis telos" and corresponds to Hebrew "forever."
-- **78:10** — The Vulgate "Ne forte dicant" ("May they never say") follows the Septuagint negative construction rather than the Hebrew question ("Why should the nations say?").
+- **78:10** — The Vulgate "Ne forte dicant" ("so that they may not say") follows the Septuagint negative purpose clause (mepote) rather than the Hebrew question ("Why should the nations say?").
 - **78:11** — The Latin "posside filios mortificatorum" ("take possession of the sons of those put to death") follows the Septuagint, whereas the Hebrew reads "preserve those doomed to die."

@@ -5,7 +5,7 @@
 
 ## Text
 
-**17:1** "My spirit will be weakened; my days will be cut short, and only the tomb remains for me.
+**17:1** My spirit will be weakened; my days will be cut short, and only the tomb remains for me.
 
 **17:2** I have not sinned, and my eye lingers in bitterness.
 
@@ -29,17 +29,17 @@
 
 **17:12** They have turned night into day, and once again after darkness I hope for light.
 
-**17:13** If I wait, the netherworld is my house, and in darkness I have spread my bed.
+**17:13** If I wait, the underworld is my house, and in darkness I have spread my bed.
 
 **17:14** To decay I have said, 'You are my father'; to worms, 'My mother and my sister.'
 
 **17:15** Where then is my expectation now? And who regards my patience?
 
-**17:16** All that is mine will descend into the deepest netherworld: do you suppose that at least there I will have rest?"
+**17:16** All that is mine will descend into the deepest underworld: do you suppose that at least there I will have rest?"
 
 ## Translator Notes
 
 - **17:2** — Vulgate reads "Non peccavi" ("I have not sinned"), differing markedly from the Hebrew Masoretic Text, which speaks of mockers being with Job.
 - **17:9** — Latin "mundis manibus addet fortitudinem" is rendered with "mundis manibus" as a dative ("to clean hands he will add strength"), matching the Latin grammar and patristic exegesis; it can also be construed as an ablative of quality ("the one with clean hands will increase in strength"), closer to the underlying Hebrew.
-- **17:12** — Vulgate reads "et rursum post tenebras spero lucem" ("and once again after darkness I hope for light"), a distinct rendering compared to the Hebrew ("light is near in the face of darkness") that later inspired the Latin motto "Post tenebras lux."
-- **17:16** — Latin "infernus" (also in v. 13) denotes the netherworld or realm of the dead (Hebrew Sheol); the Vulgate's closing question ("do you suppose that at least there I will have rest?") differs from the Hebrew, which asks whether both will go down together into the dust.
+- **17:12** — Vulgate reads "et rursum post tenebras spero lucem" ("and once again after darkness I hope for light"), a distinct rendering compared to the Hebrew ("light is near in the face of darkness").
+- **17:16** — Latin "infernus" (also in v. 13) denotes the underworld or realm of the dead (Hebrew Sheol); the Vulgate's closing question ("do you suppose that at least there I will have rest?") differs from the Hebrew, which asks whether both will go down together into the dust.

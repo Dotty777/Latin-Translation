@@ -5,7 +5,7 @@
 
 ## Text
 
-**20:1** Then Zophar the Naamathite responded and said:
+**20:1** Then Zophar the Naamathite answered and said:
 
 **20:2** "For this reason my varied thoughts follow one another, and my mind is swept away in different directions.
 

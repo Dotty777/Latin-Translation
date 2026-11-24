@@ -27,7 +27,7 @@
 
 **58:11** My God, His mercy will go before me.
 
-**58:12** God will let me look upon my enemies; do not kill them, so that they may never forget my people. Scatter them by Your power, and bring them down, my protector, Lord:
+**58:12** God will show me concerning my enemies; do not kill them, so that they may never forget my people. Scatter them by Your power, and bring them down, my protector, Lord:
 
 **58:13** the offense of their mouth, the word of their own lips; and let them be caught in their pride. And for cursing and lying they will be declared
 
@@ -46,5 +46,5 @@
 - **58:5** — Vulgate 'I ran and went straight' (cucurri, et direxi, first-person singular, following the Septuagint) differs from the Masoretic Hebrew third-person plural ('they run and set themselves').
 - **58:7** — Vulgate 'suffer hunger' (famem patientur, repeated in 58:15) follows the Septuagint, whereas the Masoretic Hebrew means 'howl' or 'snarl.'
 - **58:10** — Vulgate 'My strength I will keep for You' (Fortitudinem meam ad te custodiam) and 58:11 'My God, His mercy will go before me' (Deus meus misericordia ejus præveniet me) follow the Septuagint wording and syntax; similarly, 58:18 directly addresses God as 'my mercy' (misericordia mea).
-- **58:12** — Latin ostendet mihi super inimicos meos is literally 'will show to me over my enemies' (letting the speaker look upon defeated foes). In nequando obliviscantur populi mei, populi mei is rendered as a genitive singular object ('so that they may never forget my people', matching the Septuagint syntax), though it can also be read as a nominative plural ('so that my peoples may never forget').
+- **58:12** — Latin ostendet mihi super inimicos meos is literally 'will show to me over my enemies,' with no object expressed. In nequando obliviscantur populi mei, populi mei is taken as a genitive object ('so that they may never forget my people'), though it can also be read as a nominative plural ('so that my peoples may never forget').
 - **58:16** — Vulgate passive 'they will be scattered' (dispergentur) and 'they will also murmur' (et murmurabunt) follow the Septuagint, whereas the Masoretic Hebrew reads 'they wander about' and 'they spend the night.'

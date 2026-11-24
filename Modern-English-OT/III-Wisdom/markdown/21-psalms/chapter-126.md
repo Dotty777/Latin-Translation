@@ -5,7 +5,7 @@
 
 ## Text
 
-**126:1** A song of the steps, of Solomon. Unless the Lord builds the house, those who build it have labored in vain. Unless the Lord guards the city, the one who guards it stays awake to no avail.
+**126:1** A song of steps, of Solomon. Unless the Lord builds the house, those who build it have labored in vain. Unless the Lord guards the city, the one who guards it stays awake to no avail.
 
 **126:2** It is in vain for you to rise before daylight; rise after you have sat down, you who eat the bread of pain. When He gives sleep to His beloved,
 

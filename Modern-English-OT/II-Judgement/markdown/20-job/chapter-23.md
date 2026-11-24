@@ -5,7 +5,7 @@
 
 ## Text
 
-**23:1** Then Job responded and said:
+**23:1** Then Job answered and said:
 
 **23:2** "Even now my speech is in bitterness, and the hand of my affliction is heavier than my groaning.
 
@@ -35,7 +35,7 @@
 
 **23:16** God has made my heart weak, and the Almighty has thrown me into turmoil.
 
-**23:17** For I have not perished because of the looming darkness, nor has thick darkness covered my face."
+**23:17** For I have not perished because of the looming darkness, nor has thick darkness covered my face.
 
 ## Additional Verses (Not in Saints Numbering)
 

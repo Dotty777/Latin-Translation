@@ -11,7 +11,7 @@
 
 **27:3** surely, as long as breath remains in me, and the spirit of God is in my nostrils,
 
-**27:4** my lips will not speak injustice, nor will my tongue meditate falsehood.
+**27:4** my lips will not speak iniquity, nor will my tongue meditate falsehood.
 
 **27:5** Far be it from me to judge you to be righteous; until I expire, I will not withdraw from my innocence.
 
@@ -49,7 +49,7 @@
 
 **27:22** And it will hurl upon him and will not spare; fleeing, he will flee from its hand.
 
-**27:23** It will clasp its hands over him and hiss at him, gazing upon his place."
+**27:23** It will clasp its hands over him and hiss at him, gazing upon his place.
 
 ## Translator Notes
 

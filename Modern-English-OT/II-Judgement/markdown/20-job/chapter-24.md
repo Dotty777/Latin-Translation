@@ -5,7 +5,7 @@
 
 ## Text
 
-**24:1** "Times are not hidden from the Almighty, yet those who know Him do not know His days.
+**24:1** Times are not hidden from the Almighty, yet those who know Him do not know His days.
 
 **24:2** Some have moved boundary markers; they have plundered flocks and pastured them.
 
@@ -31,7 +31,7 @@
 
 **24:13** They themselves have been rebels against the light; they have not known its ways, nor have they returned along its paths.
 
-**24:14** Early in the morning the murderer rises; he kills the needy and the poor, and through the night he will be like a thief.
+**24:14** Early in the morning the murderer rises; he kills the needy and the poor, but through the night he will be like a thief.
 
 **24:15** The eye of the adulterer watches for thick darkness, saying, 'No eye will see me,' and he will cover his face.
 
@@ -60,5 +60,5 @@
 - **24:1** — The Vulgate frames this verse as a declarative statement rather than the rhetorical question ("Why are times not kept...") found in the Hebrew Masoretic Text.
 - **24:12** — The Vulgate reverses the Hebrew Masoretic Text ("yet God pays no attention to wrong"), reading et Deus inultum abire non patitur ("and God does not allow it to go unavenged").
 - **24:19** — The Vulgate casts this verse as a curse on the wicked man ("Let him pass...") and renders inferos ("the underworld," the realm of the dead), differing from the Hebrew Masoretic Text's comparison of drought and Sheol. In v. 20, the Vulgate likewise reads misericordia ("mercy") where the Hebrew has "the womb."
-- **24:21** — The Vulgate renders Pavit ("has fed"), reflecting the Hebrew root for "pasture/feed" rather than the homonymous root meaning "harm/mistreat" often followed in translations of the Hebrew Masoretic Text.
+- **24:21** — The Vulgate renders Pavit ("has fed"), reflecting the Hebrew root for "pasture/feed" rather than the homonymous root meaning "harm/mistreat."
 - **24:23** — The Vulgate reads locum poenitentiae ("a place for repentance") abused for pride, differing from the Hebrew Masoretic Text ("gives them security"). In v. 25, the Vulgate likewise reads ante Deum ("before God") where the Hebrew has "to nothing."

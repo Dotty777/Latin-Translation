@@ -25,8 +25,8 @@
 
 ## Translator Notes
 
-- **114:1** — Vulgate Psalm 114 corresponds to Hebrew Psalm 116:1-9 (the Vulgate divides Hebrew Psalm 116 into Psalms 114 and 115). Latin Dilexi ("I have loved") has no explicit object, and exaudiet ("will listen to") is future tense, whereas many Hebrew-based translations read "I love the Lord, because He has heard."
-- **114:3** — Latin pericula inferni ("the perils of the underworld") follows the Septuagint; infernus denotes the realm of the dead (also traditionally rendered "hell," corresponding to Hebrew Sheol), while pericula ("perils") differs from the Hebrew Masoretic Text's "straits/distresses."
+- **114:1** — Vulgate Psalm 114 corresponds to Hebrew Psalm 116:1-9 (the Vulgate divides Hebrew Psalm 116 into Psalms 114 and 115). Latin Dilexi ("I have loved") has no explicit object, and exaudiet ("will listen to") is future tense.
+- **114:3** — Latin pericula inferni ("the perils of the underworld") follows the Septuagint; infernus denotes the realm of the dead (corresponding to Hebrew Sheol), while pericula ("perils") differs from the Hebrew Masoretic Text's "straits/distresses."
 - **114:6** — Latin parvulos ("little ones"), following the Septuagint, corresponds to "the simple" in the Hebrew Masoretic Text.
 - **114:8** — Latin eripuit ("He has rescued") is third person, following the Septuagint, whereas the Hebrew Masoretic Text addresses God in the second person ("You have rescued").
 - **114:9** — Latin Placebo Domino ("I will be pleasing to the Lord"), following the Septuagint, corresponds to "I will walk before the Lord" in the Hebrew Masoretic Text; in regione vivorum is literally "in the region of the living."

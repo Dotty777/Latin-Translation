@@ -47,11 +47,11 @@
 
 **16:21** and if only a man were judged with God just as a son of man is judged with his fellow.
 
-**16:22** For look, the brief years pass by, and I walk a path along which I will not return."
+**16:22** For look, the brief years pass by, and I walk a path along which I will not return.
 
 ## Translator Notes
 
-- **16:5** — The Clementine Vulgate reads 'roborarem vos ore meo, et moverem labia mea, quasi parcens vobis', omitting the Hebrew reference to shaking the head and presenting Job's imagined lip movement as feigned sympathy ("as though sparing you").
+- **16:5** — The Vulgate reads 'roborarem vos ore meo, et moverem labia mea, quasi parcens vobis' ("I would strengthen you with my mouth, and I would move my lips as though sparing you") and has no equivalent of the Hebrew reference (v. 4) to shaking the head.
 - **16:7** — The Vulgate attributes Job's distress to 'dolor meus' ("my pain") and reads 'omnes artus mei' ("all my limbs"), whereas the Hebrew speaks of God wearing Job out and desolating all his company.
 - **16:8** — The Vulgate renders Hebrew 'kachashi' ("my leanness") as 'falsiloquus' ("a liar"), which serves as the grammatical subject of the hostile actions in verse 9 ('hostis meus', "my enemy") before God is introduced in verse 11.
 - **16:15** — The Vulgate reads 'operui cinere carnem meam' ("covered my flesh with ashes"), whereas the Hebrew has "laid my horn in the dust."

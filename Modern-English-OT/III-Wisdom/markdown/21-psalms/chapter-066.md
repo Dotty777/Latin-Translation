@@ -1,6 +1,6 @@
 # Psalms 66 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (8 verses, 4 translator notes)  
+> **Status:** `draft: true` (8 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -25,5 +25,4 @@
 
 - **66:1** — Latin "in hymnis" ("in hymns") follows the Septuagint ("en hymnois") rather than Hebrew "with stringed instruments," and the attribution to David is specific to the Vulgate/Septuagint superscription.
 - **66:2** — The repeated clause "et misereatur nostri" ("and have mercy on us") is a Vulgate/Septuagint addition absent from the Hebrew text.
-- **66:3** — Latin "ut cognoscamus" ("so that we may know") reflects the active Septuagint construction, whereas the Hebrew uses a passive ("that Your way may be known").
 - **66:4** — Latin "confiteantur tibi" (lit. "confess to You") is the standard liturgical Vulgate idiom for publicly praising or giving thanks to God.

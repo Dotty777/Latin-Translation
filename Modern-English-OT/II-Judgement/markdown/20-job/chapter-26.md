@@ -21,7 +21,7 @@
 
 **26:8** He binds the waters in His clouds, so that they do not burst forth downward together.
 
-**26:9** He withholds the face of His throne, and spreads out His mist over it.
+**26:9** He holds the face of His throne, and spreads out His mist over it.
 
 **26:10** He has placed a boundary around the waters, until light and darkness come to an end.
 
@@ -31,7 +31,7 @@
 
 **26:13** His Spirit adorned the heavens, and with His hand acting as midwife, the twisting serpent was brought forth.
 
-**26:14** Look, these things have been spoken as part of His ways; and since we have barely heard a small drop of His word, who will be able to gaze upon the thunder of His greatness?"
+**26:14** Look, these things have been spoken in part about His ways; and since we have barely heard a small drop of His word, who will be able to gaze upon the thunder of His greatness?"
 
 ## Translator Notes
 

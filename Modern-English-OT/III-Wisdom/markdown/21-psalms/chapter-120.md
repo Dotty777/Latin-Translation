@@ -24,7 +24,7 @@
 ## Translator Notes
 
 - **120:1** — The Clementine Vulgate uses the past tense "Levavi" ("I lifted," following the Septuagint against the Hebrew imperfect) and punctuates "unde veniet auxilium mihi." as a relative statement ("from where help will come to me") rather than a question.
-- **120:3** — Latin "Non det in commotionem" literally means "May He not give into shaking/unsteadiness," using jussive subjunctives ("det," "dormitet") to express a blessing rather than the future indicative often translated from the Hebrew.
+- **120:3** — Latin "Non det in commotionem" literally means "May He not give into shaking/unsteadiness," using jussive subjunctives ("det," "dormitet") to express a blessing.
 - **120:5** — Latin "protectio tua" ("your protection") follows the Septuagint, where the Hebrew reads "your shade." The Vulgate also uses the present indicative "custodit" ("guards") here and in the first clause of verse 7.
 - **120:6** — Latin "uret" ("will burn") follows the Septuagint, whereas the Hebrew has "will strike."
 - **120:8** — Following the Septuagint, the Vulgate places "introitum" before "exitum" ("your coming in and your going out"), reversing the Hebrew order ("your going out and your coming in").

@@ -5,7 +5,7 @@
 
 ## Text
 
-**29:1** Job also continued, taking up his discourse, and said:
+**29:1** Job also continued, taking up his parable, and said:
 
 **29:2** "Who would grant to me that I might be as in former months, according to the days in which God guarded me,
 
@@ -53,7 +53,7 @@
 
 **29:24** Whenever I smiled at them, they did not believe it, and the light of my face did not fall to the ground.
 
-**29:25** If I had wished to go to them, I sat first; and while I sat like a king, with an army standing around, I was nevertheless a comforter of those who mourned."
+**29:25** If I had wished to go to them, I sat first; and while I sat like a king, with an army standing around, I was nevertheless a comforter of those who mourned.
 
 ## Translator Notes
 

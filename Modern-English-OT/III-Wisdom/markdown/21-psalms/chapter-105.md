@@ -95,7 +95,7 @@
 
 **105:45** And He was mindful of His covenant, and He relented according to the abundance of His mercy,
 
-**105:46** and He granted them mercies in the sight of all who had captured them.
+**105:46** and He gave them over to mercies in the sight of all who had captured them.
 
 **105:47** Save us, Lord our God, and gather us out of the nations, so that we may give thanks to Your holy name and boast in Your praise.
 
@@ -107,4 +107,4 @@
 - **105:7** — Following the Septuagint, the Vulgate reads "ascendentes in mare" ("as they went up into the sea"), whereas the Hebrew Masoretic Text reads "by the sea."
 - **105:15** — Following the Septuagint, the Vulgate reads "saturitatem" ("satiety" or "fullness," implying surfeit as in Num 11:20), where the Hebrew Masoretic Text reads "leanness" or "a wasting disease."
 - **105:33** — Following the Septuagint, the Vulgate reads "distinxit in labiis suis" ("made a distinction with his lips"), traditionally taken to mean speaking hesitantly or waveringly, where the Hebrew Masoretic Text reads "spoke rashly."
-- **105:48** — The Vulgate uses the future indicative "dicet" ("will say") and translates the closing Hebrew acclamation ("Amen, Amen") as Latin "Fiat, fiat" ("So be it, so be it").
+- **105:48** — The Vulgate uses the future indicative "dicet" ("will say") and, following the Septuagint, reads "Fiat, fiat" ("So be it, so be it") where the Hebrew has "Amen. Hallelujah."

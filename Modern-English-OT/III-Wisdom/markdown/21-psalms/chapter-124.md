@@ -18,5 +18,5 @@
 ## Translator Notes
 
 - **124:1** — Following the Septuagint, the Vulgate places qui habitat ("who dwells") at the end of v. 1 to join with in Jerusalem in v. 2, making the inhabitant of Jerusalem the subject of "will never be shaken" (literally "will not be shaken forever"); the Hebrew ends v. 1 with Mount Zion abiding forever.
-- **124:3** — Unlike the Hebrew, where the scepter of wickedness is the subject and "will not rest," the Vulgate makes the Lord the explicit subject who "will not leave" (non relinquet) "the rod of sinners" (virgam peccatorum). The Latin punctuation here links the purpose clause ("so that...") to the petition in v. 4, though many editions end the sentence at v. 3.
+- **124:3** — Unlike the Hebrew, where the scepter of wickedness is the subject and "will not rest," the Vulgate makes the Lord the explicit subject who "will not leave" (non relinquet) "the rod of sinners" (virgam peccatorum). The Latin punctuation here links the purpose clause ("so that...") to the petition in v. 4.
 - **124:5** — Latin in obligationes (literally "into bindings/obligations," here "into entanglements") renders the Septuagint word for "twistings" or "entanglements," whereas the Hebrew reads "to their crooked ways."

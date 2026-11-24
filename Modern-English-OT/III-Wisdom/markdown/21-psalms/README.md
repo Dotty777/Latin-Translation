@@ -71,7 +71,7 @@
 - [Chapter 63](chapter-063.md) — 11 verses, 5 notes
 - [Chapter 64](chapter-064.md) — 14 verses, 5 notes
 - [Chapter 65](chapter-065.md) — 20 verses, 4 notes
-- [Chapter 66](chapter-066.md) — 8 verses, 4 notes
+- [Chapter 66](chapter-066.md) — 8 verses, 3 notes
 - [Chapter 67](chapter-067.md) — 36 verses, 6 notes
 - [Chapter 68](chapter-068.md) — 37 verses, 5 notes
 - [Chapter 69](chapter-069.md) — 6 verses, 3 notes

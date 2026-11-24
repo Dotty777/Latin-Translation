@@ -75,7 +75,7 @@
 
 **67:35** Give glory to God over Israel; His magnificence and His power are in the clouds.
 
-**67:36** God is wondrous in His saints; the God of Israel Himself will give power and strength to His people. Blessed be God!
+**67:36** God is wondrous in His holy ones; the God of Israel Himself will give power and strength to His people. Blessed be God!
 
 ## Translator Notes
 

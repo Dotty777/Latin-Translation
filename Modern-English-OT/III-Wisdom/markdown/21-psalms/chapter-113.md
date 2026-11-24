@@ -51,7 +51,7 @@
 
 **113:23** Blessed are you by the Lord, who made heaven and earth.
 
-**113:24** The heaven of heaven belongs to the Lord, but the earth He gave to the children of men.
+**113:24** The heaven of heaven belongs to the Lord, but the earth He gave to the sons of men.
 
 **113:25** The dead will not praise You, Lord, nor all who descend into the underworld;
 

@@ -21,7 +21,7 @@
 
 ## Translator Notes
 
-- **119:1** — Latin "Canticum graduum" literally means "A song of steps" (corresponding to the traditional "Song of Ascents"). Latin "exaudivit" ("heard" favorably) follows the Septuagint, where the Hebrew has "answered."
+- **119:1** — Latin "Canticum graduum" literally means "A song of steps" (Hebrew "song of ascents"). Latin "exaudivit" ("heard" favorably) follows the Septuagint, where the Hebrew has "answered."
 - **119:3** — Latin "ad linguam dolosam" ("for" or "against a deceitful tongue") uses a preposition with the accusative, following the Septuagint rather than the direct vocative ("you deceitful tongue") of the Hebrew. In verse 2, Latin "labiis iniquis" ("unjust lips") likewise follows the Septuagint against Hebrew "lying lips."
 - **119:4** — Latin "carbonibus desolatoriis" ("desolating coals") follows the Septuagint, whereas the Hebrew reads "coals of the broom tree."
 - **119:5** — Latin "incolatus meus prolongatus est" ("my sojourn has been prolonged") follows the Septuagint where the Hebrew has the place name "Meshech." Vulgate "habitantibus Cedar" ("those who live in Kedar") also differs from Hebrew and Septuagint "tents of Kedar."
