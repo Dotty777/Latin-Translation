@@ -57,7 +57,7 @@
 
 ## Translator Notes
 
-- **2:1** — In the Vulgate, chapter 2 starts at Hebrew 1:10 (so 2:1-2 correspond to 1:10-11, and 2:3-25 to 2:1-23). The Vulgate also leaves "Filii Dei viventis" ("Sons of the living God") concise without an explicit verb.
+- **2:1** — As in the Hebrew, chapter 2 begins here; in the other common versification, 2:1-2 are numbered 1:10-11, and 2:3-25 are 2:1-23. The Vulgate also leaves "Filii Dei viventis" ("Sons of the living God") concise without an explicit verb.
 - **2:11** — Latin "liberabo" literally means "I will rescue" or "deliver," preserving the vivid metaphor of snatching His gifts away; "ignominiam" ("disgrace") renders the Hebrew "nakedness," just as "stultitiam" ("folly") renders "lewdness" in 2:12.
 - **2:17** — Distinctly Vulgate readings here include "vinitores ejus" ("her vinedressers," where the Hebrew reads "her vineyards"), "ad aperiendam spem" ("to open hope," vs. Hebrew "a door of hope"), and "canet" ("she will sing").
 - **2:18** — Where the Hebrew uses second person ("you will call"), the Vulgate reads third person ("vocabit", "she will call," continuing in 2:19 with "she will no longer remember"). "Baali" means "my master" or "my Baal," contrasting with "My husband."

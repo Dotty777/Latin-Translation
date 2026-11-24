@@ -29,7 +29,7 @@
 
 **3:12** Go and proclaim these words toward the north, and you will say, 'Return, apostate Israel, says the Lord, and I will not turn My face away from you, for I am holy, says the Lord, and I will not be angry forever.
 
-**3:13** Only acknowledge your iniquity, that you have acted unfaithfully against the Lord your God, and have scattered your ways to strangers under every leafy tree, and have not listened to My voice, says the Lord.'"
+**3:13** Nevertheless, acknowledge your iniquity, that you have acted unfaithfully against the Lord your God, and have scattered your ways to strangers under every leafy tree, and have not listened to My voice, says the Lord.'"
 
 **3:14** "Turn back, returning sons," says the Lord, "for I am your husband; and I will take you, one from a city and two from a clan, and I will bring you into Zion.
 

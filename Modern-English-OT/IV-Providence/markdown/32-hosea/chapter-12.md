@@ -37,7 +37,7 @@
 
 ## Translator Notes
 
-- **12:1** — The Vulgate reads testis descendit ("went down as a witness") where the Hebrew text reads "still rules" or "is unruly"; this verse is numbered 11:12 in most English Bibles.
+- **12:1** — The Vulgate reads testis descendit ("went down as a witness") where the Hebrew text reads "still rules" or "is unruly."
 - **12:4** — The Vulgate renders Hebrew "strove with God" as directus est cum angelo ("was directed with an angel," also understood in Vulgate usage as "succeeded with an angel").
 - **12:8** — The Vulgate preserves Chanaan ("Canaan") as a proper name; in Hebrew the same word can also mean "merchant."
 - **12:9** — The Vulgate reads idolum ("an idol") for Hebrew on ("wealth"), connecting it with aven ("idolatry" or "wickedness"), as also in 10:8 and 12:12.

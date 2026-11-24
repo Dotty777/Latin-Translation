@@ -11,7 +11,7 @@
 
 **4:3** And you will go out through the openings, one opposite another, and you will be cast into Armon," says the Lord.
 
-**4:4** "Come to Bethel and act wickedly; to Gilgal, and multiply transgression; and bring your sacrifices in the morning, your tithes every three days.
+**4:4** "Come to Bethel and act wickedly; to Gilgal, and multiply transgression; and bring your sacrifices in the morning, your tithes in three days.
 
 **4:5** And sacrifice a praise offering from what is leavened, and proclaim freewill offerings, and announce them; for so you have desired, sons of Israel," says the Lord God.
 

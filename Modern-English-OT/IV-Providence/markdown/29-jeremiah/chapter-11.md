@@ -58,5 +58,5 @@
 - **11:6** — The Vulgate renders the Hebrew word for "streets" as foris Jerusalem ("outside Jerusalem").
 - **11:12** — Here and in 11:13, 11:17 the Vulgate translates the Hebrew verb for burning incense as libare ("to offer libations").
 - **11:16** — Following Clementine Vulgate punctuation, grandis modifies ignis ("a great fire blazed up") after ad vocem loquelae ("at the sound of speech"), where the Hebrew reads "with the roar of a great tempest He has set fire to it."
-- **11:19** — The Vulgate's literal rendering Mittamus lignum in panem ejus ("Let us put wood into his bread"), reading "bread" where the Hebrew is commonly taken as "fruit," became a well-known patristic reading pointing to the cross and Eucharist.
+- **11:19** — The Vulgate reads Mittamus lignum in panem ejus ("Let us put wood into his bread"), where the Hebrew has "Let us destroy the tree with its bread," that is, its fruit.
 - **11:20** — Here alone in chapters 9-11 the Vulgate transliterates the Hebrew title Sabaoth ("hosts/armies") as Domine Sabaoth rather than translating it with exercituum.

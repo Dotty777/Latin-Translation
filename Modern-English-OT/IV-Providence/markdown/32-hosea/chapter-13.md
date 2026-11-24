@@ -19,7 +19,7 @@
 
 **13:7** And I will be to them like a lioness, like a leopard on the road of the Assyrians.
 
-**13:8** I will meet them like a bear whose cubs have been snatched away, and I will rip open the inner parts of their liver, and I will devour them there like a lion; the wild beast of the field will tear them apart.
+**13:8** I will meet them like a bear whose cubs have been snatched away, and I will rip open the inner parts of their liver, and I will devour them there like a lion; the beast of the field will tear them apart.
 
 **13:9** Destruction is yours, Israel; only in Me is your help.
 
@@ -31,7 +31,7 @@
 
 **13:13** The pains of a woman in labor will come upon him; he himself is not a wise son, for now he will not stand in the crushing of children.
 
-**13:14** From the hand of death I will deliver them; from death I will redeem them. I will be your death, death! Your bite I will be, hell! Consolation is concealed from My eyes.
+**13:14** From the hand of death I will deliver them; from death I will redeem them. I will be your death, death! Your bite I will be, underworld! Consolation is concealed from My eyes.
 
 **13:15** Because he himself will divide among brothers, the Lord will bring a burning wind rising from the desert, and He will dry up his springs and lay waste his fountain; and He Himself will plunder the treasury of every desirable vessel.
 

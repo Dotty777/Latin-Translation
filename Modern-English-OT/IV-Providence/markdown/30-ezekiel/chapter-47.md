@@ -9,7 +9,7 @@
 
 **47:2** And he led me out by way of the north gate, and brought me around to the way outside the outer gate, the way that faced toward the east; and look, waters were overflowing from the right side.
 
-**47:3** When the man who had a line in his hand went out toward the east, he measured a thousand cubits, and led me through the water up to the ankles.
+**47:3** When the man who had a cord in his hand went out toward the east, he measured a thousand cubits, and led me through the water up to the ankles.
 
 **47:4** And again he measured a thousand, and led me through the water up to the knees.
 
@@ -57,4 +57,4 @@
 - **47:8** — Vulgate translates Hebrew ha-gelilah ha-qadmonah ("the eastern region") as tumulos sabuli orientalis ("mounds of eastern sand"), and renders the phrase after "the sea" as a future verb, et exibunt ("and go out").
 - **47:13** — Literally "a double cord/line" (duplicem funiculum), a biblical idiom for a measured allotment; Vulgate specifies "double" where the Hebrew reads simply "portions."
 - **47:16** — Vulgate translates the first element of the Hebrew place names Hazer-hatticon here and Hazar-enan in v. 17 as common nouns: domus Tichon ("the house of Tichon") and atrium Enon ("the court of Enon").
-- **47:18** — Vulgate Metiemini etiam plagam orientalem ("You shall also measure the eastern side") reflects a verbal reading of the Hebrew consonants normally rendered "this is the eastern side"; in v. 19, Vulgate also translates Hebrew Meriboth literally as aquas contradictionis ("the waters of contradiction").
+- **47:18** — Vulgate Metiemini etiam plagam orientalem ("You shall also measure the eastern side") takes the Hebrew verb "you shall measure" together with the following words "and the eastern side"; in v. 19, Vulgate also translates Hebrew Meriboth literally as aquas contradictionis ("the waters of contradiction").

@@ -35,7 +35,7 @@
 
 **2:15** Sound the trumpet in Zion, sanctify a fast, call an assembly.
 
-**2:16** Gather the people, sanctify the congregation, bring together the elders, gather the little children and those nursing at the breast; let the bridegroom go out from his bedroom, and the bride from her bridal chamber.
+**2:16** Gather the people, sanctify the assembly, bring together the elders, gather the little children and those nursing at the breast; let the bridegroom go out from his bedroom, and the bride from her bridal chamber.
 
 **2:17** Between the vestibule and the altar the priests, the ministers of the Lord, will weep, and they will say, "Spare, Lord, spare Your people, and do not give Your inheritance to reproach, that the nations should rule over them. Why do they say among the peoples, 'Where is their God?'"
 
@@ -61,8 +61,8 @@
 
 ## Translator Notes
 
-- **2:3** — Latin hortus voluptatis ("garden of delight") translates the meaning of Hebrew "garden of Eden," matching the Vulgate rendering in Genesis 2:8.
+- **2:3** — Latin hortus voluptatis ("garden of delight") translates the meaning of Hebrew "garden of Eden," as voluptatis also does in Genesis 2:8 (paradisum voluptatis).
 - **2:6** — Latin redigentur in ollam literally means "will be reduced to a pot," taking the rare Hebrew term parur as "cooking pot" (suggesting faces blackened like a soot-covered pot) rather than growing pale.
 - **2:8** — Latin per fenestras cadent, et non demolientur ("fall through the windows, and they will not be destroyed") is a Vulgate-distinct reading; the Hebrew text speaks of plunging through weapons without breaking ranks.
-- **2:13** — Latin praestabilis super malitia is a distinctive Vulgate idiom (also in Jonah 4:2) meaning "ready to relent over calamity," rendering Hebrew "relenting of disaster."
-- **2:23** — Latin doctorem justitiae ("a teacher of righteousness") reads Hebrew moreh as "teacher" rather than "early rain," a famous Vulgate reading often understood messianically; imbrem matutinum et serotinum (lit. "morning and evening rain") denotes the early autumn and late spring rains.
+- **2:13** — Latin praestabilis super malitia is a distinctive Vulgate idiom meaning "ready to relent over calamity," rendering Hebrew "relenting of disaster."
+- **2:23** — Latin doctorem justitiae ("a teacher of righteousness") reads Hebrew moreh as "teacher" rather than "early rain"; imbrem matutinum et serotinum (lit. "morning and evening rain") denotes the early autumn and late spring rains.

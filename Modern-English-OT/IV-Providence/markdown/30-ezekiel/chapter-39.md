@@ -17,7 +17,7 @@
 
 **39:6** And I will send fire upon Magog, and upon those who live in the islands confidently; and they will know that I am the Lord.
 
-**39:7** And I will make My holy name known in the midst of My people Israel, and I will not profane My holy name any longer; and the nations will know that I am the Lord, the Holy One of Israel.
+**39:7** And I will make My holy name known in the midst of My people Israel, and I will not defile My holy name any longer; and the nations will know that I am the Lord, the Holy One of Israel.
 
 **39:8** Look, it has come, and it is done, says the Lord God; this is the day of which I have spoken.
 
@@ -66,7 +66,7 @@
 ## Translator Notes
 
 - **39:4** — Following the Clementine punctuation ('feris, avibus'), 'feris' is translated as a distinct noun ("wild animals") rather than an adjective modifying 'avibus' ("birds of prey," Hebrew 'eit tzippor').
-- **39:7** — Vulgate 'non polluam' is first-person active ("I will not profane"), whereas the Hebrew is commonly rendered permissively ("I will not let My holy name be profaned").
+- **39:7** — Vulgate 'non polluam' is first-person active ("I will not defile"), where the Hebrew can be read permissively ("I will not let My holy name be profaned").
 - **39:11** — Vulgate 'locum nominatum' ("a renowned place") reflects reading Hebrew 'sham' ("there") as 'shem' ("name/renown"), and 'obstupescere faciet praetereuntes' ("will cause those passing by to be astonished") diverges from the Hebrew "will block the travelers."
 - **39:18** — Vulgate 'altilium, et pinguium omnium' ("fattened animals, and all fat ones") omits the place name "Bashan" found in the Hebrew ("fatlings of Bashan"), translating it instead as an adjective of fatness.
 - **39:20** — Vulgate 'de equo, et equite forti' ("with horse and mighty horseman") attaches 'forti' ("mighty") directly to 'equite' ("horseman"), whereas the Hebrew lists "horses and charioteers, mighty men" separately.

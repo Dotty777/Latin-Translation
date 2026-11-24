@@ -79,6 +79,6 @@
 
 - **48:1** — Vulgate partially translates the place name Hazar-enan as atrium Enan ("the court of Enan") and keeps the terse clause et erit ei plaga orientalis mare ("and there will be for it the eastern side, the sea"), indicating a strip extending from the eastern side to the sea as in verses 2-7.
 - **48:8** — Throughout this chapter, Vulgate renders the sacred territorial allotment (Hebrew terumah) as primitiae ("firstfruits"). Likewise, Latin mare ("the sea") is kept literally where Vulgate refers to the western boundary by the Mediterranean, distinct from occidens/occidentalis ("west/western") elsewhere in the chapter.
-- **48:11** — Vulgate reads sanctuarium ("the sanctuary"), taking the underlying Hebrew form as the noun "sanctuary" rather than the participle "consecrated" applied to the priests in Hebrew-based translations.
+- **48:11** — Vulgate reads sanctuarium ("the sanctuary"), taking the underlying Hebrew form as the noun "sanctuary" rather than as the participle "consecrated" applied to the priests.
 - **48:28** — Vulgate translates Meribath-kadesh literally as aquas contradictionis Cades ("the waters of contradiction of Kadesh") and renders the following term as haereditas ("an inheritance"), reading the unpointed Hebrew consonants as "inheritance" rather than "to the brook" (the Brook of Egypt).
-- **48:35** — Vulgate Dominus ibidem renders the symbolic Hebrew name YHWH Shammah ("the Lord is there"), with Latin ibidem carrying the emphatic nuance "in that very place."
+- **48:35** — Latin Dominus ibidem (literally "the Lord in that very place") renders the Hebrew name meaning "the Lord is there."

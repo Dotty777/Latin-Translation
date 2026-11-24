@@ -33,7 +33,7 @@
 
 **15:14** And I will bring your enemies from a land that you do not know, for a fire has been kindled in My fury; it will burn upon you."
 
-**15:15** You know, Lord; remember me and visit me, and defend me from those who persecute me. In Your patience, do not take me away; know that because of You I have endured reproach.
+**15:15** You know, Lord; remember me and visit me, and defend me from those who persecute me. In Your patience, do not take me up; know that because of You I have endured reproach.
 
 **15:16** Your words were found, and I ate them; and Your word became for me joy and gladness of my heart, because Your name has been invoked over me, Lord God of hosts.
 
@@ -51,6 +51,6 @@
 
 - **15:6** — Vulgate 'laboravi rogans' literally reads "I have grown weary of pleading," whereas the Hebrew Masoretic Text reads "I am weary of relenting."
 - **15:11** — Latin 'Si non' ("If not...") reproduces the Hebrew elliptical oath formula ("Surely"). Vulgate 'reliquiæ tuæ' ("your remnant") and 'occurri tibi ... adversus inimicum' ("I have come to meet you ... against the enemy") differ notably from the Masoretic Text.
-- **15:12** — Vulgate 'fœderabitur' ("be allied") takes the Hebrew verb in the sense of associating as companions, whereas most modern translations from the Hebrew render it "break" or "shatter."
+- **15:12** — Vulgate 'fœderabitur' ("be allied") takes the Hebrew verb in the sense of associating as companions rather than "break" or "shatter."
 - **15:14** — Vulgate 'adducam inimicos tuos de terra' ("I will bring your enemies from a land") differs from the Hebrew Masoretic Text, which speaks of making Judah serve enemies in an unknown land.
 - **15:18** — Vulgate 'facta est' is third-person feminine singular, taking "my wound" ('plaga mea') as subject ("It has become to me..."), whereas the Hebrew uses second-person singular addressing God ("Will You be to me...").

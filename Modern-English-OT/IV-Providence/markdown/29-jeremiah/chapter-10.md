@@ -59,8 +59,8 @@
 
 ## Translator Notes
 
-- **10:5** — The Vulgate reads in similitudinem palmae ("in the likeness of a palm tree"), where the Hebrew phrase is commonly rendered "like a scarecrow in a cucumber field."
+- **10:5** — The Vulgate reads in similitudinem palmae ("in the likeness of a palm tree"), taking the Hebrew tomer as "palm tree" rather than "scarecrow."
 - **10:11** — The Vulgate renders the closing phrase as de his quae sub caelo sunt ("from these things that are under heaven"), rather than "from under these heavens" as in the Aramaic text.
 - **10:17** — The Vulgate reads confusionem tuam ("your shame"), linking the Hebrew word for "bundle" to the root meaning "to be humbled."
-- **10:18** — The Vulgate translates literally with the passive ita ut inveniantur ("so that they may be found"), where modern translations from the Hebrew often render "so that they may feel it."
+- **10:18** — The Vulgate has the passive ita ut inveniantur ("so that they may be found"), where the Hebrew has an active verb ("so that they may find").
 - **10:25** — The Vulgate renders the Hebrew terms for "families" and "habitation" as provincias ("provinces") and decus ("splendor").

@@ -1,6 +1,6 @@
 # Ezekiel 40 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (48 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (48 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -35,7 +35,7 @@
 
 **40:15** And before the face of the gate that reached all the way to the face of the vestibule of the inner gate, fifty cubits.
 
-**40:16** And oblique windows in the chambers and in their fronts, which were inside the gate on every side all around; and likewise there were also windows in the vestibules all around on the inside, and before the fronts a depiction of palm trees.
+**40:16** And slanted windows in the chambers and in their fronts, which were inside the gate on every side all around; and likewise there were also windows in the vestibules all around on the inside, and before the fronts a depiction of palm trees.
 
 **40:17** And he brought me out to the outer court, and look, treasury chambers and a pavement laid with stone in the court all around: thirty treasury chambers around the pavement.
 
@@ -79,7 +79,7 @@
 
 **40:38** And through each treasury chamber was a doorway in the fronts of the gates; there they washed the burnt offering.
 
-**40:39** And in the vestibule of the gate, two tables on this side and two tables on that side, so that the burnt offering may be sacrificed on them, and the offering for sin and for offense.
+**40:39** And in the vestibule of the gate, two tables on this side and two tables on that side, so that the burnt offering may be sacrificed on them, and the offering for sin and for guilt.
 
 **40:40** And at the outer side, which goes up to the doorway of the gate that leads to the north, were two tables; and at the other side, before the vestibule of the gate, two tables.
 
@@ -110,5 +110,4 @@
 - **40:5** — Latin "sex cubitorum et palmo" literally gives a total length of six cubits and a handbreadth, whereas the Hebrew Masoretic Text specifies six long cubits, each a cubit plus a handbreadth; Latin "ædificii" also reads "of the building" rather than "of the wall."
 - **40:9** — Throughout this chapter, the Vulgate consistently translates the Hebrew architectural term for the gate's jambs or pilasters as "frons" ("front").
 - **40:17** — Latin "gazophylacia" literally denotes treasury chambers or storerooms, the Vulgate's consistent rendering for the temple courtyard chambers, distinct from "thalami" ("chambers") inside the gatehouses.
-- **40:29** — Verse 30, which in the Hebrew Masoretic Text adds a separate vestibule measurement, is absent from the Clementine Vulgate (as also from the Septuagint), so the numbering moves directly from 40:29 to 40:31.
-- **40:43** — Latin "labia" ("rims" or "lips") reflects a Vulgate-distinct rendering of a difficult Hebrew architectural term often translated "hooks" in Masoretic-based versions.
+- **40:43** — Latin labia ("rims," literally "lips") renders a rare Hebrew term of uncertain meaning.

@@ -33,7 +33,7 @@
 
 **4:14** Peoples, peoples, in the valley of cutting down, for the day of the Lord is near in the valley of cutting down.
 
-**4:15** The sun and the moon have been darkened, and the stars have withdrawn their radiance.
+**4:15** The sun and the moon have been darkened, and the stars have withdrawn their brightness.
 
 **4:16** And the Lord will roar from Zion, and from Jerusalem He will utter His voice, and the heavens and the earth will be shaken; and the Lord is the hope of His people and the strength of the sons of Israel.
 
@@ -50,7 +50,7 @@
 ## Translator Notes
 
 - **4:11** — Vulgate "ibi occumbere faciet Dominus robustos tuos" makes the Lord the subject of a future threat of defeat against the enemy's warriors ("cause your mighty ones to fall"), whereas the Hebrew is commonly read as a prayer asking the Lord to bring down His own mighty ones.
-- **4:14** — Vulgate reads "Populi, populi, in valle concisionis" ("Peoples, peoples, in the valley of cutting down"), rendering the Hebrew term often translated "decision" as an act of cutting down or slaughter.
+- **4:14** — Vulgate reads "Populi, populi, in valle concisionis" ("Peoples, peoples, in the valley of cutting down"), taking the Hebrew term (which can mean "decision") as an act of cutting down or slaughter.
 - **4:18** — Vulgate "dulcedinem" ("sweetness") and "torrentem spinarum" ("torrent of thorns") render the Hebrew terms for "sweet wine" and the place-name "Valley of Shittim" (acacias) literally.
 - **4:19** — Latin "Idumaea" ("Idumea") is the Greco-Latin territorial name corresponding to Hebrew "Edom," just as "Judaea" ("Judea") in 4:20 corresponds to Hebrew "Judah."
 - **4:21** — Vulgate "mundabo sanguinem eorum, quem non mundaveram" ("I will cleanse their blood, which I had not cleansed") renders the debated Hebrew verb literally as purification rather than "avenge" or "acquit."

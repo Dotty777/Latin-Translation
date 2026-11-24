@@ -15,7 +15,7 @@
 
 **5:5** And the arrogance of Israel will answer to his face, and Israel and Ephraim will fall in their iniquity; Judah will also fall with them.
 
-**5:6** With their flocks and with their herds they will go to seek the Lord, and they will not find Him; He has withdrawn from them.
+**5:6** With their flocks and with their herds they will go to seek the Lord, and they will not find Him; He has been taken away from them.
 
 **5:7** They have broken faith with the Lord, because they have fathered foreign children; now a month will devour them together with their portions.
 

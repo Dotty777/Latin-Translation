@@ -23,7 +23,7 @@
 
 **7:10** and you have come and stood before Me in this house, in which My name has been invoked, and have said, 'We have been delivered, because we have done all these abominations.'
 
-**7:11** Has this house, in which My name has been invoked, then become a cave of robbers in your eyes? I, I am He; I have seen it, says the Lord.
+**7:11** Has this house, in which My name has been invoked, then become a cave of robbers in your eyes? I, I am; I have seen it, says the Lord.
 
 **7:12** Go to My place in Shiloh, where My name dwelt from the beginning, and see what I did to it because of the wickedness of My people Israel.
 

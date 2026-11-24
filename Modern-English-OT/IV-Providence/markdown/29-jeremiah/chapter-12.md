@@ -42,7 +42,7 @@
 ## Translator Notes
 
 - **12:2** — Latin renibus ("kidneys") follows the biblical idiom treating the kidneys as the seat of innermost thoughts, motives, and conscience.
-- **12:5** — The Vulgate reads securus fueris ("you have been secure") rather than "you fall down," and keeps superbia Jordanis ("pride of the Jordan") literally for the dense, lion-haunted thicket along the river.
+- **12:5** — The Vulgate keeps superbia Jordanis ("pride of the Jordan") literally for the dense, lion-haunted thicket along the river.
 - **12:7** — The Vulgate uses the accusative phrase dilectam animam meam ("My beloved soul"), matching the Septuagint rather than the Hebrew construct "the beloved of my soul."
 - **12:9** — The Vulgate presents two parallel questions about a multicolored and dyed bird (avis discolor ... avis tincta per totum), whereas the Hebrew Masoretic Text speaks of a speckled bird of prey surrounded by other birds of prey.
 - **12:13** — The Vulgate reads hæreditatem acceperunt ("they have received an inheritance"), reflecting a different reading of the Hebrew verb that the Masoretic Text vocalizes as "they have worn themselves out."

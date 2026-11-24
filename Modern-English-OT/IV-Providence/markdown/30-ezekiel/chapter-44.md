@@ -41,7 +41,7 @@
 
 **44:18** Linen headbands shall be on their heads, and linen undergarments shall be on their loins, and they shall not bind themselves in sweat.
 
-**44:19** And when they go out into the outer court to the people, they shall take off their garments in which they had ministered and lay them away in the treasury of the sanctuary; and they shall clothe themselves with other garments, and they shall not sanctify the people with their garments.
+**44:19** And when they go out into the outer court to the people, they shall take off their garments in which they had ministered and lay them away in the treasury chamber of the sanctuary; and they shall clothe themselves with other garments, and they shall not sanctify the people with their garments.
 
 **44:20** And they shall not shave their head, nor let their hair grow long; but they shall surely trim their heads.
 
@@ -71,6 +71,6 @@
 
 - **44:3** — Following the Vulgate sentence division, 'to the prince' (Latin principi) concludes the clause of v. 2 ('it shall be closed to the prince'), whereas the Hebrew Masoretic Text begins a new clause in v. 3 ('As for the prince...').
 - **44:15** — Here and in 43:19, the Vulgate reads 'the priests and the Levites' (Latin sacerdotes et Levitae), where the Hebrew Masoretic Text has 'the Levitical priests.'
-- **44:19** — The Vulgate renders the priestly rooms as the singular 'treasury of the sanctuary' (Latin in gazophylacio sanctuarii), whereas the Hebrew Masoretic Text has 'the holy chambers.'
+- **44:19** — The Vulgate renders the priestly rooms as the singular 'treasury chamber of the sanctuary' (Latin in gazophylacio sanctuarii), whereas the Hebrew Masoretic Text has 'the holy chambers.'
 - **44:23** — The Vulgate renders the opposite of 'holy' as 'defiled' (Latin pollutum), where the Hebrew Masoretic Text has 'common/profane.'
 - **44:28** — The Vulgate states negatively 'they shall have no inheritance' (Latin Non erit autem eis haereditas), whereas the Hebrew Masoretic Text reads affirmatively ('it shall be for them an inheritance').

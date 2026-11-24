@@ -36,6 +36,6 @@
 ## Translator Notes
 
 - **8:4** — Vulgate renders the verbs intransitively ("They themselves have reigned... they have become princes") rather than causatively as in the Hebrew ("they set up kings... they appointed princes").
-- **8:6** — Vulgate reads "in aranearum telas" ("spiders' webs") for the rare Hebrew term usually translated "splinters" or "broken pieces."
+- **8:6** — Vulgate reads "in aranearum telas" ("spiders' webs") for a rare Hebrew term generally taken to mean "splinters" or "broken pieces."
 - **8:10** — Vulgate reads "quiescent paulisper" ("they will rest for a little while," agreeing with the Septuagint) and coordinates "regis et principum" ("of the king and of the princes") where the Hebrew has "the king of princes."
 - **8:13** — Latin "visitabit" literally means "will visit" in the biblical sense of judicial inspection and punishment (recurring in 9:9 and linked to "visitation" in 9:7).

@@ -45,7 +45,7 @@
 - [Chapter 37](chapter-37.md) — 28 verses, 5 notes
 - [Chapter 38](chapter-38.md) — 23 verses, 5 notes
 - [Chapter 39](chapter-39.md) — 29 verses, 5 notes
-- [Chapter 40](chapter-40.md) — 48 verses, 5 notes, +1 additional
+- [Chapter 40](chapter-40.md) — 48 verses, 4 notes, +1 additional
 - [Chapter 41](chapter-41.md) — 26 verses, 5 notes
 - [Chapter 42](chapter-42.md) — 20 verses, 4 notes
 - [Chapter 43](chapter-43.md) — 27 verses, 5 notes

@@ -40,7 +40,7 @@
 ## Translator Notes
 
 - **7:2** — Vulgate reads "ne forte dicant" ("so that they may not perhaps say"), rendering the Hebrew negation as a negative purpose clause rather than a simple statement ("they do not consider").
-- **7:4** — Vulgate uniquely reads "civitas" ("the city"), taking the Hebrew word usually translated "from stirring [the fire]" as "the city."
+- **7:4** — Vulgate uniquely reads "civitas" ("the city"), taking the Hebrew word otherwise read as "from stirring [the fire]" as "the city."
 - **7:10** — Vulgate reads "humiliabitur" ("will be humbled"), following the Septuagint in deriving the Hebrew verb from the root meaning "to humble" rather than "to testify."
 - **7:14** — Vulgate renders the debated Hebrew verb ("gather together" or "gash themselves") as "ruminabant" ("they were ruminating," literally chewing the cud or brooding over).
 - **7:16** — Vulgate reads "ut essent absque jugo" ("so that they might be without a yoke"), understanding the Hebrew consonantal text as "without a yoke" rather than "not upward" or "not to the Most High."

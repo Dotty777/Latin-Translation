@@ -41,11 +41,11 @@
 
 **4:18** Your ways and your thoughts have done these things to you. This is your wickedness, because it is bitter, because it has touched your heart.
 
-**4:19** My belly, my belly! I am in pain; the senses of my heart are troubled within me. I will not be silent, because my soul has heard the sound of the war horn, the shout of battle.
+**4:19** My belly, my belly! I am in pain; the senses of my heart are troubled within me. I will not be silent, because my soul has heard the sound of the horn, the shout of battle.
 
 **4:20** Destruction upon destruction has been called out, and the whole land has been laid waste; suddenly my tents have been laid waste, in an instant my skins.
 
-**4:21** How long will I see the one fleeing, and hear the sound of the war horn?
+**4:21** How long will I see the one fleeing, and hear the sound of the horn?
 
 **4:22** "For My foolish people have not known Me; they are unwise and senseless sons. They are wise to do evil, but to do good they have not known how."
 

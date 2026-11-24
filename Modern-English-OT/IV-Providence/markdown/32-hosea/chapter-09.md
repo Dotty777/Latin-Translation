@@ -41,7 +41,7 @@
 
 ## Translator Notes
 
-- **9:7** — Vulgate reads "amentiæ" ("madness") here and "insania" ("insanity") in 9:8 for a Hebrew noun usually translated "hostility" or "enmity."
+- **9:7** — Vulgate reads "amentiæ" ("madness") here and "insania" ("insanity") in 9:8 for a Hebrew noun meaning "hostility" or "enmity."
 - **9:8** — Vulgate renders the Hebrew "fowler's snare" as "laqueus ruinæ" ("a snare of ruin") and makes "propheta" ("the prophet") the subject of that clause.
 - **9:10** — Vulgate reads "in cacumine ejus" ("at its top"), taking the Hebrew term for "in its first season" in a spatial sense.
 - **9:11** — Following the Clementine Vulgate punctuation and past tense "avolavit," the verb "has flown away" carries over by ellipsis to "their glory" in the second clause.

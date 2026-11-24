@@ -7,7 +7,7 @@
 
 **45:1** "And when you begin to divide the land by lot, set apart firstfruits to the Lord, a sanctified portion of the land, twenty-five thousand in length and ten thousand in width; it shall be sanctified throughout all its border all around.
 
-**45:2** And on every side there shall be a sanctified portion of five hundred by five hundred, square all around, and fifty cubits for its surrounding grounds around its perimeter.
+**45:2** And on every side there shall be a sanctified portion of five hundred by five hundred, square all around, and fifty cubits for its outskirts around its perimeter.
 
 **45:3** And from this measurement you shall measure a length of twenty-five thousand and a width of ten thousand; and in it shall be the temple, and the Holy of Holies.
 

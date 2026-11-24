@@ -15,7 +15,7 @@
 
 **17:9** Perverse is the heart of all, and unsearchable; who will know it?
 
-**17:10** I am the Lord, searching the heart and testing the inward parts, who give to each one according to his way and according to the fruit of his devices.
+**17:10** I am the Lord, searching the heart and testing the kidneys, who give to each one according to his way and according to the fruit of his devices.
 
 **17:11** The partridge has brooded over what she did not lay; he has made riches, and not with justice: in the middle of his days he will leave them, and at his end he will be a fool."
 
@@ -56,5 +56,5 @@
 - **17:6** — Vulgate 'myricæ' (plural, "tamarisks") renders the Hebrew desert shrub 'arar' as plural tamarisk bushes.
 - **17:8** — Vulgate 'ad humorem' ("toward the moisture") renders Hebrew 'al-yubal' ("by the stream") more generally as moisture.
 - **17:9** — Vulgate 'cor omnium' ("the heart of all") and 'inscrutabile' ("unsearchable," creating a wordplay with 'scrutans', "searching," in 17:10) differ from the Hebrew Masoretic Text ("deceitful above all things and desperately sick").
-- **17:10** — Latin 'renes' (literally "kidneys") is the biblical idiom for the innermost mind and affections, rendered here as "the inward parts."
+- **17:10** — Latin 'renes' ("kidneys") is the biblical idiom for the innermost mind and affections.
 - **17:16** — Vulgate 'te pastorem sequens' ("following You as Shepherd") applies "shepherd" to God rather than to Jeremiah, and 'diem hominis' ("the day of man") reads the Hebrew word for "woeful/incurable" as the word for "man."

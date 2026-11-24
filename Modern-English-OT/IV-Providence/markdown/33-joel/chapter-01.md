@@ -43,7 +43,7 @@
 
 **1:19** To You, Lord, I will cry out, because fire has consumed the lovely places of the wilderness, and flame has set ablaze all the trees of the countryside.
 
-**1:20** Even the wild beasts of the field, like a plot of ground thirsting for rain, have looked up to You, because the springs of water have dried up, and fire has devoured the lovely places of the wilderness.
+**1:20** Even the beasts of the field, like a plot of ground thirsting for rain, have looked up to You, because the springs of water have dried up, and fire has devoured the lovely places of the wilderness.
 
 ## Translator Notes
 

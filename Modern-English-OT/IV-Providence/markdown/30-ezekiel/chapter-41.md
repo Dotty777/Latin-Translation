@@ -23,7 +23,7 @@
 
 **41:9** and the width along the wall of the side on the outside, five cubits; and there was an inner house in the sides of the house.
 
-**41:10** And between the chambers was a width of twenty cubits all around the house on every side,
+**41:10** And between the treasury chambers was a width of twenty cubits all around the house on every side,
 
 **41:11** and the door of the side was for prayer: one door toward the way of the north, and one door toward the southern way; and the width of the place for prayer was five cubits all around.
 

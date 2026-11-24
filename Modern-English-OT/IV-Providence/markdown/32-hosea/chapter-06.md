@@ -15,7 +15,7 @@
 
 **6:5** Because of this I have hewn them by the prophets; I have killed them by the words of My mouth, and your judgments will go forth like light.
 
-**6:6** Because I have desired mercy and not sacrifice, and knowledge of God more than whole burnt offerings.
+**6:6** Because I have desired mercy and not sacrifice, and knowledge of God more than burnt offerings.
 
 **6:7** Yet they themselves, like Adam, have transgressed the covenant; there they have broken faith with Me.
 
@@ -30,7 +30,7 @@
 ## Translator Notes
 
 - **6:1** — In Vulgate verse numbering, the opening clause ("In their distress they will rise up early to Me") begins chapter 6 rather than closing 5:15 as in the Hebrew text.
-- **6:5** — The Vulgate preserves plural judicia tua ("your judgments"), following the Masoretic division rather than emending to singular "My judgment."
+- **6:5** — The Vulgate has plural judicia tua ("your judgments"), as in the Hebrew Masoretic Text, where the Septuagint reads singular "my judgment."
 - **6:7** — The Vulgate reads sicut Adam ("like Adam") as a reference to the first man, whereas the Hebrew phrase can also be taken as "like mankind" or "at Adam."
 - **6:8** — The Vulgate renders operantium idolum ("those who make an idol") rather than "workers of iniquity," and translates the Hebrew root for "heel" as supplantata ("undermined" or "tripped up").
 - **6:9** — The Vulgate translates the difficult opening phrase as fauces ("jaws") and reads de Sichem ("from Shechem," rather than "toward Shechem"), with particeps ("a partner") continuing the description of Gilead from 6:8.

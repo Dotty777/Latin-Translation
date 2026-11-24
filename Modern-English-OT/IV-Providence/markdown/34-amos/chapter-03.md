@@ -39,6 +39,6 @@
 
 - **3:2** — Latin visitabo ("I will visit," also in 3:14) follows the biblical idiom of judicial inspection, meaning to call to account and punish.
 - **3:5** — Latin absque aucupe ("without a bird-catcher") and auferetur laqueus ("will a snare be taken away") reflect Vulgate readings distinct from the Hebrew phrasing concerning a lure and a trap springing up.
-- **3:6** — Latin malum ("evil") here refers to disaster or calamity sent in judgment rather than moral wickedness.
+- **3:6** — Latin malum ("evil") can denote calamity or misfortune as well as moral evil.
 - **3:11** — Latin Tribulabitur et circuietur terra ("The land will be afflicted and surrounded") renders the Hebrew clause ("an adversary shall surround the land") as two passive verbs with "the land" as subject.
 - **3:12** — Latin in Damasci grabato ("on a bed of Damascus") takes the difficult Hebrew phrase as naming Damascus rather than denoting silken cushions or part of a bed.

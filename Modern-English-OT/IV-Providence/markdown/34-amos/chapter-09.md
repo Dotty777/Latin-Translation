@@ -7,7 +7,7 @@
 
 **9:1** I saw the Lord standing upon the altar, and He said, "Strike the hinge, and let the lintels shake: for greed is on the head of all, and the last of them I will kill with the sword; there will be no flight for them. They will flee, and the one who flees from among them will not be saved.
 
-**9:2** If they descend all the way to hell, from there My hand will bring them out; and if they ascend all the way to heaven, from there I will pull them down.
+**9:2** If they descend all the way to the underworld, from there My hand will bring them out; and if they ascend all the way to heaven, from there I will pull them down.
 
 **9:3** And if they are hidden on the summit of Carmel, from there, searching, I will take them away; and if they conceal themselves from My eyes in the depth of the sea, there I will command the serpent, and it will bite them.
 
@@ -38,7 +38,7 @@
 ## Translator Notes
 
 - **9:1** — Latin reads "hinge" (cardinem), "lintels" (superliminaria), and "for greed is on the head of all" (avaritia enim in capite omnium), where the Hebrew speaks of striking the capitals so the thresholds shake and shattering them on the head of all.
-- **9:6** — Latin reads "His bundle" (fasciculum suum), rendering a Hebrew term often translated "His vault" or "His band."
+- **9:6** — Latin reads "His bundle" (fasciculum suum), rendering a Hebrew term that can mean "band" or "vault."
 - **9:7** — The Vulgate names "Cappadocia" and "Cyrene" where the Hebrew reads Caphtor and Kir, and renders Hebrew Cushites as "Ethiopians" (Aethiopum).
 - **9:12** — Latin reads "the remnant of Idumea" (reliquias Idumaeae, corresponding to Hebrew Edom), whereas the Septuagint cited in Acts 15:17 reads "the remnant of mankind."
 - **9:13** — Latin reads "will drip sweetness" (stillabunt ... dulcedinem) and "all the hills will be cultivated" (omnes colli culti erunt), where the Hebrew speaks of dripping sweet wine and all the hills melting or flowing.

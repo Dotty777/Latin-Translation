@@ -27,8 +27,8 @@
 
 ## Translator Notes
 
-- **14:1** — Following the Hebrew versification, the Vulgate begins chapter 14 here (English Bibles place this verse at 13:16 and number Vulgate 14:2-10 as 14:1-9); Vulgate "Pereat" ("May [Samaria] perish") and "ad amaritudinem concitavit" ("provoked to bitterness") also differ from the Masoretic Text ("shall bear her guilt ... rebelled").
-- **14:3** — Vulgate "vitulos labiorum nostrorum" ("the calves of our lips") preserves the literal Hebrew imagery of praise offered in place of sacrificial calves, whereas the Septuagint and many modern versions read "the fruit of our lips."
+- **14:1** — Following the Hebrew versification, chapter 14 begins here (in the other common versification this verse is 13:16 and 14:2-10 are 14:1-9); Vulgate "Pereat" ("May [Samaria] perish") and "ad amaritudinem concitavit" ("provoked to bitterness") also differ from the Masoretic Text ("shall bear her guilt ... rebelled").
+- **14:3** — Vulgate "vitulos labiorum nostrorum" ("the calves of our lips") follows the Hebrew wording, whereas the Septuagint reads "the fruit of our lips."
 - **14:4** — Vulgate "Dii nostri opera manuum nostrarum" forms a plural nominal clause without a preposition before "works," and "ejus, qui in te est, misereberis pupilli" makes God the active subject ("You will have mercy on the orphan who is in You"), differing slightly from the Masoretic Text ("for in You the orphan finds mercy").
 - **14:5** — Vulgate "contritiones" ("bruises" or "crushings," matching the Septuagint) contrasts with the Hebrew Masoretic Text, which reads "their apostasy" or "backsliding."
 - **14:9** — In the Vulgate punctuation, "Ephraim, quid mihi ultra idola?" is spoken by God to Ephraim, and the accusative "ut abietem virentem" ("like a green fir tree") modifies Ephraim ("eum") rather than God as in the Masoretic Text ("I am like a luxuriant cypress").

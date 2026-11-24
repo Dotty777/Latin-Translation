@@ -7,7 +7,7 @@
 
 **19:1** This is what the Lord says: "Go, and take a potter's earthenware flask from the elders of the people and from the elders of the priests,
 
-**19:2** and go out to the valley of the son of Hinnom, which is near the entrance of the Pottery Gate; and you will proclaim there the words that I will speak to you.
+**19:2** and go out to the Valley of the Son of Hinnom, which is near the entrance of the Pottery Gate; and you will proclaim there the words that I will speak to you.
 
 **19:3** And you will say, 'Hear the word of the Lord, kings of Judah and inhabitants of Jerusalem. This is what the Lord of hosts, the God of Israel, says: Look, I will bring affliction upon this place, so that the ears of everyone who hears it will tingle,
 

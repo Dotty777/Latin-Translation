@@ -56,7 +56,7 @@
 ## Translator Notes
 
 - **8:3** — Vulgate renders "eligent" actively ("they will choose") and construes "quae derelicta sunt" ("that are left") with the places of exile, contrasting with the passive Hebrew "death will be chosen."
-- **8:5** — Vulgate "aversione contentiosa" ("with a contentious turning away") reflects a distinct understanding of the Hebrew phrase usually rendered "perpetual backsliding."
+- **8:5** — Vulgate "aversione contentiosa" ("with a contentious turning away") reflects a distinct understanding of the Hebrew phrase meaning "perpetual backsliding."
 - **8:7** — Vulgate "milvus ... ciconia" ("kite ... stork") assigns different bird species from the Hebrew ("stork ... crane").
 - **8:13** — A notably difficult verse; the Vulgate literally reads "Congregans congregabo" ("Gathering, I will gather") and "dedi eis quae praetergressa sunt" ("I have given them what has passed away").
 - **8:16** — Vulgate "pugnatorum" ("warriors" or "fighters") translates Hebrew "mighty ones/stallions" and refers here to battle-horses, as indicated by "hinnituum" ("neighing").

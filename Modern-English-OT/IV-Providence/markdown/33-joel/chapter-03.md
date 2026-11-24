@@ -17,6 +17,6 @@
 
 ## Translator Notes
 
-- **3:1** — In the Vulgate (following the four-chapter division of Joel), 3:1-5 corresponds to Joel 2:28-32 in most English Bibles.
+- **3:1** — This text follows the four-chapter division of Joel found in the Hebrew; in the three-chapter division, 3:1-5 is numbered 2:28-32.
 - **3:2** — Latin servos meos ("My male servants") includes the possessive "My" (agreeing with the Septuagint and Acts 2:18), whereas the Hebrew text reads simply "the male servants."
 - **3:3** — Latin vaporem fumi ("vapor of smoke") follows the Septuagint rather than Hebrew "columns of smoke."

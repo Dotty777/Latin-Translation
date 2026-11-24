@@ -52,7 +52,7 @@
 ## Translator Notes
 
 - **14:1** — Latin de sermonibus siccitatis ("concerning the words of the drought") literally reproduces the Hebrew idiom meaning "concerning the matters" or "events of the drought."
-- **14:6** — The Vulgate renders the animal name as dracones ("dragons"), whereas the Hebrew term tannim is typically translated "jackals" in modern Hebrew-based versions.
+- **14:6** — The Vulgate renders the Hebrew tannim ("jackals") as dracones ("dragons"), as in 9:10 and 10:22.
 - **14:13** — The threefold exclamation A, a, a is Jerome's characteristic Vulgate rendering of the Hebrew lament interjection, and the Vulgate reads third-person dabit ("He will give") where the Masoretic Text has first-person "I will give."
 - **14:18** — The Vulgate reads abierunt in terram quam ignorabant ("have gone away into a land that they did not know"), describing exile, whereas the Masoretic Text speaks of plying their trade in the land without knowing what to do.
 - **14:21** — The Vulgate reads Ne des nos in opprobrium ("Do not give us over to reproach") and includes nobis ("upon us") in neque facias nobis contumeliam, differing from the Masoretic Text's "Do not spurn ... do not disgrace the throne of Your glory."

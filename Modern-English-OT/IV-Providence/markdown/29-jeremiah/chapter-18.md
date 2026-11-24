@@ -54,6 +54,6 @@
 ## Translator Notes
 
 - **18:8** — The Vulgate uses the same phrase (poenitentiam agere, "repent") for both the nation's turning from evil and God's relenting of intended judgment (and again in 18:10), whereas the Hebrew uses two different verbs.
-- **18:14** — The Vulgate reads evelli ("be torn away") and erumpentes ("bursting forth"), reflecting a distinct Latin rendering of a difficult Hebrew line often translated "dry up" and "flowing from afar."
+- **18:14** — The Vulgate reads evelli ("be torn away") and erumpentes ("bursting forth") in a difficult Hebrew line; evelli corresponds to the Hebrew verb "be plucked up."
 - **18:17** — The Vulgate renders the Hebrew "east wind" interpretively as ventus urens ("a scorching wind").
 - **18:23** — Latin abutor (abutere eis) carries the strong sense "use up, consume, or deal harshly with," stronger than the Hebrew expression "deal with them."

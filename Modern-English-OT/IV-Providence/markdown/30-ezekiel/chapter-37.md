@@ -55,7 +55,7 @@
 
 **37:25** and they will live on the land that I gave to My servant Jacob, in which your fathers lived; and they will live on it, they themselves, and their sons, and the sons of their sons, for all eternity; and David, My servant, will be their prince forever.
 
-**37:26** And I will strike a covenant of peace with them; it will be an everlasting pact for them. And I will establish them and multiply them, and I will place My sanctification in their midst forever.
+**37:26** And I will strike a covenant of peace with them; it will be an everlasting covenant for them. And I will establish them and multiply them, and I will place My sanctification in their midst forever.
 
 **37:27** And My tabernacle will be among them; and I will be their God, and they themselves will be My people.
 
