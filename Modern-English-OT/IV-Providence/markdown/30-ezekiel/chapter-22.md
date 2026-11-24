@@ -55,7 +55,7 @@
 
 **22:25** There is a conspiracy of prophets in her midst; like a roaring lion seizing prey, they have devoured lives; they have taken wealth and valuables; they have multiplied her widows in the midst of her.
 
-**22:26** Her priests have despised My law, and they have defiled My sanctuaries; they have kept no distinction between the holy and the profane, and they have not discerned between the defiled and the clean; and they have turned their eyes away from My Sabbaths, and I was profaned in their midst.
+**22:26** Her priests have despised My law, and they have defiled My sanctuaries; they have kept no distinction between the holy and the profane, and they have not discerned between the defiled and the clean; and they have turned their eyes away from My Sabbaths, and I was defiled in their midst.
 
 **22:27** Her princes in the midst of her are like wolves seizing prey, to shed blood, and to destroy lives, and to pursue gain greedily.
 

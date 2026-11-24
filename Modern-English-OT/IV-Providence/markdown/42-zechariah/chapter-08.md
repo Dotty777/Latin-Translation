@@ -53,6 +53,6 @@
 
 ## Translator Notes
 
-- **8:3** — The Vulgate includes exercituum ("of hosts") in the opening formula (where the Hebrew has only "the LORD") and renders the final title as mons sanctificatus ("the sanctified mountain") rather than "the mountain of holiness."
+- **8:3** — The Vulgate includes exercituum ("of hosts") in the opening formula (where the Hebrew has only "the Lord") and renders the final title as mons sanctificatus ("the sanctified mountain") rather than "the mountain of holiness."
 - **8:10** — The Vulgate reverses the Hebrew order of "going out and coming in" to introeunti ... exeunti ("going in ... going out") and translates Hebrew "from the foe" abstractly as prae tribulatione ("because of tribulation").
 - **8:20** — The Vulgate reads usquequo veniant populi et habitent in civitatibus multis ("Until peoples come and dwell in many cities"), translating the Hebrew phrase as a temporal clause with a finite verb ("and dwell") rather than "It will yet be that peoples will come, even the inhabitants of many cities."

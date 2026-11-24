@@ -13,7 +13,7 @@
 
 **2:4** Look, as for the one who is unbelieving, his soul will not be upright within himself; but the righteous one will live in his faith.
 
-**2:5** And just as wine deceives the one who drinks, so will the proud man be, and he will not be honored, he who has widened his soul like the netherworld, and he himself is like death and is not filled; and he will gather to himself all nations, and heap up to himself all peoples.
+**2:5** And just as wine deceives the one who drinks, so will the proud man be, and he will not be honored, he who has widened his soul like the underworld, and he himself is like death and is not filled; and he will gather to himself all nations, and heap up to himself all peoples.
 
 **2:6** Will not all these take up a parable against him, and a saying of riddles about him? And it will be said, 'Woe to the one who multiplies what is not his! How long does he also load thick clay against himself?
 

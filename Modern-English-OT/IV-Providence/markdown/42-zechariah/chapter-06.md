@@ -13,7 +13,7 @@
 
 **6:4** And I answered and said to the angel who was speaking in me, "What are these, my lord?"
 
-**6:5** And the angel answered and said to me, "These are the four winds of heaven, which go out to stand before the Ruler of all the earth."
+**6:5** And the angel answered and said to me, "These are the four winds of heaven, which go out to stand before the Sovereign of all the earth."
 
 **6:6** The chariot in which the black horses were went out into the land of the north, and the white ones went out after them, and the dappled ones went out to the land of the south.
 
@@ -40,5 +40,5 @@
 - **6:5** — The Vulgate translates Hebrew "ruchot" specifically as "winds" ("venti", rather than "spirits") and reads "to stand" ("ut stent") where the Hebrew says "after presenting themselves".
 - **6:11** — The Vulgate reverses the Hebrew order to "gold and silver" ("aurum et argentum") and uses the Latin/Greek name form "Jesus" ("Jesu") for the high priest Joshua.
 - **6:12** — The Vulgate renders Hebrew "Branch" ("Tsemach") and its cognate verb as "Rising" ("Oriens") and "will rise" ("orietur"), following the Septuagint "Anatole" (cf. Luke 1:78).
-- **6:13** — Latin "et erit sacerdos super solio suo" may be read either as "He will be a priest upon His throne" (uniting royal and priestly offices in the Messiah) or "a priest will be upon his throne" (pointing to the two figures in "between those two").
+- **6:13** — Latin "et erit sacerdos super solio suo" may be read either as "He will be a priest upon His throne" (one figure holding both offices) or "a priest will be upon his throne" (pointing to the two figures in "between those two").
 - **6:14** — The Vulgate reads the name "Hem" where the Hebrew Masoretic Text has "Hen" (meaning "favor" or "grace").

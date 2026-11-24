@@ -7,7 +7,7 @@
 
 **21:1** And the word of the Lord came to me, saying,
 
-**21:2** "Son of man, set your face toward the way of the south, and let words drop toward the southwest, and prophesy to the forest of the southern field.
+**21:2** "Son of man, set your face against the way of the south, and let words drop toward the southwest, and prophesy to the forest of the southern field.
 
 **21:3** And you will say to the southern forest, 'Hear the word of the Lord. This is what the Lord God says: "Look, I will kindle a fire in you, and I will burn up in you every green tree and every dry tree. The flame of the burning will not be extinguished, and every face from the south to the north will be burned up in it,
 
@@ -53,7 +53,7 @@
 
 **21:24** "And you, son of man, lay out for yourself two roads, so that the sword of the king of Babylon may come. Both of them will go out from one land; and with his hand he will take a conjecture; at the head of the road to the city he will conjecture.
 
-**21:25** You will lay out a road so that the sword may come to Rabbah of the sons of Ammon, and to Judah, into strongly fortified Jerusalem.
+**21:25** You will lay out a road so that the sword may come to Rabbah of the sons of Ammon, and to Judah, into very strongly fortified Jerusalem.
 
 **21:26** For the king of Babylon stood at the fork in the road, at the head of the two roads, seeking divination, mixing arrows; he questioned the idols, he consulted the entrails.
 
@@ -81,7 +81,7 @@
 
 ## Translator Notes
 
-- **21:1** — Vulgate chapter 21 begins five verses earlier than the Hebrew Masoretic Text and most modern English Bibles (Vulgate 21:1-5 corresponds to MT 20:45-49, and Vulgate 21:6-37 to MT 21:1-32).
+- **21:1** — The Vulgate's chapter division here agrees with the Hebrew Masoretic Text; in the alternative numbering, Vulgate 21:1-5 is 20:45-49 and Vulgate 21:6-37 is 21:1-32.
 - **21:2** — Latin "stilla" literally means "drip" or "drop," a prophetic idiom for uttering words (repeated in 21:7). The Vulgate also distinguishes three southerly terms: "auster" (south), "africus" (southwest), and "meridianus" (southern).
 - **21:15** — Vulgate-distinct reading: Latin "qui moves sceptrum filii mei, succidisti omne lignum" ("you who move the scepter of My son, you have cut down every tree") renders an obscure Hebrew line differently from the Masoretic Text ("Shall we rejoice? The rod of my son despises every tree"). Similarly, 21:17-18 follows the Vulgate's distinct clauses ("who had fled" and "when it overthrows the scepter").
 - **21:24** — Vulgate-distinct reading: Latin "manu capiet conjecturam ... conjiciet" ("with his hand he will take a conjecture ... he will conjecture") depicts the king divining at the crossroads, whereas the Hebrew Masoretic Text instructs the prophet to carve a signpost.

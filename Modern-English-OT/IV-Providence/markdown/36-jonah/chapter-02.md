@@ -9,7 +9,7 @@
 
 **2:2** And Jonah prayed to the Lord his God from the belly of the fish,
 
-**2:3** and said, "I cried out from my tribulation to the Lord, and He heard me; from the belly of the netherworld I cried out, and You heard my voice.
+**2:3** and said, "I cried out from my tribulation to the Lord, and He heard me; from the belly of the underworld I cried out, and You heard my voice.
 
 **2:4** And You cast me into the deep, in the heart of the sea, and the current surrounded me; all Your whirlpools and Your waves passed over me.
 
@@ -29,8 +29,8 @@
 
 ## Translator Notes
 
-- **2:1** — Following the Hebrew versification, the Vulgate begins chapter 2 here (numbered 1:17 in many English Bibles) and reads "prepared" (præparavit) where the Hebrew reads "appointed."
-- **2:3** — Latin "inferi" (literally "the lower realm" or "netherworld") renders Hebrew Sheol, the underworld abode of the dead.
+- **2:1** — As in the Hebrew, the Vulgate begins chapter 2 here, and it reads "prepared" (præparavit) where the Hebrew reads "appointed."
+- **2:3** — Latin inferi ("the underworld," literally "the lower regions") renders Hebrew Sheol, the abode of the dead.
 - **2:6** — The Vulgate reads "the open sea covered my head" (pelagus operuit caput meum), interpreting the Hebrew term for reeds or seaweed as the sea itself.
 - **2:7** — Unlike the Hebrew past tense ("You brought up my life from the pit"), the Vulgate uses the future tense "You will raise up" (sublevabis) and reads "from corruption" (de corruptione), agreeing with the Septuagint.
 - **2:10** — The Vulgate joins "salvation" to the preceding verb as "I will pay to the Lord for salvation" (reddam pro salute Domino), whereas the Hebrew closes with a separate exclamation, "Salvation belongs to the Lord."

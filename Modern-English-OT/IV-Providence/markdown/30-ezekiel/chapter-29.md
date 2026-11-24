@@ -33,7 +33,7 @@
 
 **29:14** And I will lead back the captivity of Egypt, and I will settle them in the land of Pathros, in the land of their birth, and there they will become a lowly kingdom.
 
-**29:15** Among the other kingdoms it will be the lowliest, and it will no longer be lifted up above the nations; and I will diminish them so that they will not rule over the peoples.
+**29:15** Among the other kingdoms it will be the lowliest, and it will no longer be lifted up above the nations; and I will diminish them so that they will not rule over the nations.
 
 **29:16** Nor will they any longer be a confidence to the house of Israel, teaching iniquity so that they flee and follow them; and they will know that I am the Lord God.'"
 

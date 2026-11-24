@@ -41,7 +41,7 @@
 
 ## Translator Notes
 
-- **2:1** — Vulgate chapter numbering places the vision of the four horns and four craftsmen at 2:1-4 (Hebrew 1:18-21) and the measuring-line vision at 2:5-17 (Hebrew 2:1-13).
+- **2:1** — This Latin text, like the Hebrew, numbers the vision of the four horns and four craftsmen 2:1-4 and the measuring-line vision 2:5-17 (1:18-21 and 2:1-13 in some other editions).
 - **2:4** — Latin per singulos viros ("man by man") is a literal Vulgate rendering of a Hebrew idiom usually taken as "so that no man lifted his head."
 - **2:12** — The phrase Post gloriam ("After glory") is debated, understood either as "after restoring glory" or "afterward, in glory." Latin pupillam oculi mei ("the pupil of My eye") reads first-person "My eye," whereas the Hebrew Masoretic Text has third-person "his eye."
 - **2:16** — Latin in terra sanctificata ("in the sanctified land") uses the passive participle "sanctified," distinct from the simple adjective "holy" (sancto) in 2:17.

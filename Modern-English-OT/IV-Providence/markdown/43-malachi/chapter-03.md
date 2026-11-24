@@ -57,6 +57,6 @@
 
 - **3:2** — Vulgate reads "think of the day of His coming" (cogitare) and "to see Him" (ad videndum eum), where the Hebrew has "endure the day of His coming" and "when He appears"; "herb of fullers" (herba fullonum) refers to an alkali plant used in laundering cloth.
 - **3:8** — Vulgate translates the Hebrew verb for "rob/defraud" with "afflict" (affliget) and "pierce" (configitis, also in 3:9), reads "firstfruits" (primitiis) for Hebrew "contributions," and in 3:9 reads "in scarcity" (in penuria, cf. 2:2) where the Hebrew has "with a curse."
-- **3:19** — This Latin text continues chapter 3 through 3:24 rather than beginning a fourth chapter (English Protestant Bibles number 3:19-24 as 4:1-6).
+- **3:19** — This Latin text continues chapter 3 through 3:24 rather than beginning a fourth chapter (3:19-24 are numbered 4:1-6 in some editions).
 - **3:20** — Vulgate reads "from the herd" (de armento), whereas the Hebrew has "from the stall."
 - **3:22** — Following the Septuagint order, this Latin text places the Elijah prophecy in 3:22-23 and closes the book with the charge to remember the law of Moses in 3:24 (reversing the Masoretic order); in 3:23 "curse" translates anathemate, a ban of utter destruction.

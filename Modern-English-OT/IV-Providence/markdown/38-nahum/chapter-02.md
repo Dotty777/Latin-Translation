@@ -35,7 +35,7 @@
 
 ## Translator Notes
 
-- **2:1** — In Hebrew and most English Bibles, this verse is numbered 1:15. The Vulgate retains Belial as a proper name rather than translating it as 'the wicked one'.
+- **2:1** — As in the Hebrew, this verse begins chapter 2. The Vulgate retains Belial as a proper name rather than translating it as 'the wicked one'.
 - **2:2** — The Vulgate renders qui custodiat obsidionem ('who will maintain the siege') as a second relative clause describing the attacker, whereas the Hebrew shifts to an imperative addressed to Nineveh ('guard the rampart').
 - **2:4** — The Vulgate has two notable readings here: 'the reins of the chariot are fiery' (igneae habenae currus; Hebrew 'the chariots flash with steel') and 'the drivers have been lulled into a stupor' (agitatores consopiti sunt; Hebrew 'the cypress spears are brandished').
 - **2:8** — The Vulgate distinctly reads 'the soldier' (miles) for the difficult Hebrew hutzav, and 'murmuring in their hearts' (murmurantes in cordibus suis) where the Hebrew has 'beating their breasts'. Late Latin minabantur (passive of mino) means 'were being driven along'.

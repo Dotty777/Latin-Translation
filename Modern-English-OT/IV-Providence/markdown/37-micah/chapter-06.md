@@ -7,7 +7,7 @@
 
 **6:1** Hear what the Lord speaks: "Arise, contend in judgment against the mountains, and let the hills hear your voice."
 
-**6:2** Let the mountains hear the judgment of the Lord, and the strong foundations of the earth; for the judgment of the Lord is with His people, and with Israel He will contend in judgment.
+**6:2** Let the mountains hear the judgment of the Lord, and the strong foundations of the earth; for the judgment of the Lord is with His people, and with Israel it will be adjudicated.
 
 **6:3** My people, what have I done to you? Or how have I been burdensome to you? Answer Me.
 
@@ -42,5 +42,5 @@
 - **6:7** — Vulgate in multis millibus hircorum pinguium ('with many thousands of fat male goats') is a distinctly Vulgate reading where the Hebrew Masoretic Text reads 'with ten thousands of rivers of oil.'
 - **6:8** — Vulgate Indicabo ('I will show,' first-person future) differs from Hebrew 'He has told,' and sollicitum ('carefully' or 'attentively') expresses conscientious watchfulness rather than 'humbly.'
 - **6:9** — Vulgate salus erit timentibus nomen tuum ('there will be salvation for those who fear Your name') and tribus, et quis approbabit illud ('O tribes, and who will approve of it') reflect a distinctly Vulgate interpretation of a difficult Hebrew line.
-- **6:10** — Vulgate Adhuc ignis ('Still there is fire') reads the Hebrew particle as the noun 'fire,' and irae plena ('full of wrath') corresponds to 'accursed' in Hebrew-based versions.
-- **6:13** — Vulgate coepi ('I have begun') translates the Hebrew verb from the root 'to begin,' whereas many Hebrew-based versions take it from a homonymous root meaning 'to make sick' or 'strike grievously.'
+- **6:10** — Vulgate Adhuc ignis ('Still there is fire') reads the Hebrew particle as the noun 'fire,' and irae plena ('full of wrath') stands where the Hebrew has 'accursed.'
+- **6:13** — Vulgate coepi ('I have begun') translates the Hebrew verb from the root 'to begin' rather than from the homonymous root meaning 'to make sick' or 'strike grievously.'

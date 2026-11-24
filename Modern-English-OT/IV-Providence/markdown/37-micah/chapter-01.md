@@ -39,7 +39,7 @@
 
 ## Translator Notes
 
-- **1:8** — The Vulgate reads spoliatus ("stripped") where the Hebrew has "barefoot," and renders the Hebrew desert creatures as draconum ("dragons," often translated "jackals" from the Hebrew) and struthionum ("ostriches").
+- **1:8** — The Vulgate reads spoliatus ("stripped") where the Hebrew has "barefoot," and renders the Hebrew desert creatures as draconum ("dragons"; Hebrew "jackals") and struthionum ("ostriches").
 - **1:10** — Across 1:10-14 the Vulgate translates several Hebrew place names literally to preserve their wordplays, here rendering Beth-le-aphrah as in domo pulveris ("in the house of dust"), along with lacrimis ne ploretis ("do not weep with tears").
 - **1:11** — Continuing its literal translation of town names, the Vulgate renders Shaphir as habitatio pulchra ("beautiful dwelling"), Zaanan as in exitu ("at the exit"), and Beth-ezel as domus vicina ("the neighboring house"), and similarly renders Maroth in 1:12 as in amaritudinibus ("in bitterness").
 - **1:14** — The Vulgate has a third-person verb dabit ("she will give") with emissarios ("emissaries"), translates Moresheth-gath as hæreditatem Geth ("the inheritance of Gath"), and renders Achzib as domus mendacii ("houses of falsehood").

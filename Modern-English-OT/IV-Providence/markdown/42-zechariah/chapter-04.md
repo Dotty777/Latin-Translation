@@ -1,6 +1,6 @@
 # Zechariah 4 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (14 verses, 5 translator notes)  
+> **Status:** `draft: true` (14 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Zechariah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -31,11 +31,10 @@
 
 **4:13** And he said to me, saying, "Do you not know what these are?" And I said, "No, my lord."
 
-**4:14** And he said, "These are the two sons of oil who stand beside the Ruler of the whole earth."
+**4:14** And he said, "These are the two sons of oil who stand beside the Sovereign of the whole earth."
 
 ## Translator Notes
 
-- **4:1** — Latin "in me" literally translates the Hebrew preposition denoting interior prophetic speech, often rendered "with me" in modern versions.
 - **4:2** — The Vulgate distinguishes the main top "lamp" ("lampas", for Hebrew "bowl") from the seven "oil lamps" ("lucernae") and reads "seven funnels" ("septem infusoria") where the Hebrew text doubles the number ("seven and seven pipes").
 - **4:7** — The Vulgate uniquely renders the Hebrew phrase for shouts of "Grace, grace to it!" as "he will make grace equal to its grace" ("exaequabit gratiam gratiae ejus"), deriving the Hebrew noun from a root meaning to level or equalize.
 - **4:10** — The Vulgate has the plural "small days" ("dies parvos", vs. Hebrew "day of small things") and renders the plumb line literally as "the tin stone" ("lapidem stanneum"), referring to a weighted tin plumb bob.

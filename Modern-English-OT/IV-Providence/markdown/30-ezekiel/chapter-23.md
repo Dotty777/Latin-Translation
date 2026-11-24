@@ -89,7 +89,7 @@
 
 **23:42** And the voice of an exulting multitude was in her; and among the men who were brought from a multitude of people and came from the desert, they put bracelets on their hands and splendid crowns on their heads.
 
-**23:43** And I said of her who was worn out in adulteries: 'Now even this one will commit fornication in her fornication.'
+**23:43** And I said to her who was worn out in adulteries: 'Now even this one will commit fornication in her fornication.'
 
 **23:44** And they went in to her as to a prostitute woman; so they kept going in to Oholah and Oholibah, vile women.
 
@@ -109,4 +109,4 @@
 - **23:17** — The Vulgate translates "to the bed of breasts" (ad cubile mammarum), reading the Hebrew consonantal term for "love" as "breasts," and renders "her soul was satiated by them" (saturata est) where the Hebrew means "alienated" (similarly in vv. 22 and 28).
 - **23:23** — The Vulgate translates three titles as common nouns ("nobles, and tyrants, and princes") where the Hebrew text lists proper names of Mesopotamian tribes or regions (Pekod, Shoa, and Koa).
 - **23:32** — In Latin, the feminine relative clause "which is most capacious" (quae est capacissima) attaches grammatically to feminine "derision" (subsannationem) because Latin "cup" (calix) is masculine, whereas in the Hebrew it refers to the large capacity of the feminine "cup."
-- **23:42** — The Vulgate renders "came from the desert" (veniebant de deserto) where the Hebrew contains a disputed term often translated "drunkards" or "Sabeans," and uses the masculine pronoun (eorum) for "their hands" and "their heads."
+- **23:42** — The Vulgate renders "came from the desert" (veniebant de deserto) where the Hebrew contains a disputed term (read either as "drunkards" or as "Sabeans"), and uses the masculine pronoun (eorum) for "their hands" and "their heads."

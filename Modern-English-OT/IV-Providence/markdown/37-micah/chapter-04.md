@@ -35,8 +35,8 @@
 
 ## Translator Notes
 
-- **4:3** — Vulgate ligones literally means 'hoes' or 'mattocks,' whereas Hebrew-based translations render the parallel term as 'pruning hooks.'
+- **4:3** — Vulgate ligones literally means 'hoes' or 'mattocks,' where the Hebrew has 'pruning hooks.'
 - **4:8** — Vulgate nebulosa ('cloudy' or 'misty') interprets Hebrew ophel ('hill' or 'citadel') as a term for mist or darkness modifying 'tower.'
-- **4:9** — Vulgate moerore contraheris ('are you constricted with grief') is a distinctly Vulgate rendering of the Hebrew expression usually translated 'do you cry aloud.'
+- **4:9** — Vulgate moerore contraheris ('are you constricted with grief') is a distinctly Vulgate rendering where the Hebrew reads 'do you cry aloud.'
 - **4:11** — Vulgate Lapidetur ('Let her be stoned') is a distinctly Vulgate reading where the Hebrew Masoretic Text reads 'Let her be profaned.'
-- **4:14** — In the Vulgate (following the Hebrew chapter division), this verse ends chapter 4 rather than beginning chapter 5; filia latronis ('daughter of a robber') renders the Hebrew phrase often translated 'daughter of troops.'
+- **4:14** — In the Vulgate (following the Hebrew chapter division), this verse ends chapter 4 rather than beginning chapter 5; filia latronis ('daughter of a robber') renders the Hebrew phrase 'daughter of troops.'

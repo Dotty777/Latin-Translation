@@ -11,7 +11,7 @@
 
 **10:3** "Against the shepherds My fury is enraged, and I will punish the male goats; for the Lord of hosts has visited His flock, the house of Judah, and has made them like the horse of His glory in war.
 
-**10:4** From him the cornerstone, from him the peg, from him the bow of battle, from him every exactor will go out together.
+**10:4** From him the corner, from him the peg, from him the bow of battle, from him every exactor will go out together.
 
 **10:5** And they will be like mighty men trampling the mud of the roads in battle; and they will fight, because the Lord is with them, and the riders of horses will be confounded.
 

@@ -35,11 +35,11 @@
 
 **27:15** The sons of Dedan were your merchants; many islands were the trade of your hand; they exchanged tusks of ivory and ebony as your payment.
 
-**27:16** Syria was your merchant because of the abundance of your works; they displayed gems, and purple, and checkered cloth, and fine linen, and silk, and chodchod in your market.
+**27:16** The Syrian was your merchant because of the abundance of your works; they displayed gems, and purple, and checkered cloth, and fine linen, and silk, and chodchod in your market.
 
 **27:17** Judah and the land of Israel, they were your traders in the finest wheat; they displayed balsam, and honey, and oil, and resin in your fairs.
 
-**27:18** Damascus was your merchant in the abundance of your works, in the abundance of diverse wealth, in rich wine, in wool of the finest color.
+**27:18** The Damascene was your merchant in the abundance of your works, in the abundance of diverse wealth, in rich wine, in wool of the finest color.
 
 **27:19** Dan, and Greece, and Mosel displayed wrought iron in your fairs; stacte and calamus were in your trade.
 

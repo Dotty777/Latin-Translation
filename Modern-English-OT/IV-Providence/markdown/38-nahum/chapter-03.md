@@ -13,7 +13,7 @@
 
 **3:4** Because of the multitude of the fornications of the prostitute, beautiful and charming and possessing sorceries, who sold nations through her fornications and families through her sorceries.
 
-**3:5** "Look, I am against you," says the Lord of hosts, "and I will uncover your shameful parts over your face; and I will show the nations your nakedness, and the kingdoms your disgrace.
+**3:5** "Look, I am against you," says the Lord of hosts, "and I will uncover your shameful parts to your face; and I will show the nations your nakedness, and the kingdoms your disgrace.
 
 **3:6** And I will throw abominations upon you, and I will subject you to insults, and I will make you an example.
 
@@ -45,7 +45,7 @@
 
 ## Translator Notes
 
-- **3:5** — Where the Hebrew says 'I will lift up your skirts over your face', the Vulgate translates explicitly as 'I will uncover your shameful parts over your face' (revelabo pudenda tua in facie tua).
+- **3:5** — Where the Hebrew says 'I will lift up your skirts over your face', the Vulgate translates explicitly as 'I will uncover your shameful parts to your face' (revelabo pudenda tua in facie tua).
 - **3:8** — The Vulgate distinctly identifies the city as 'Alexandria of the peoples' (Alexandria populorum), rendering the Hebrew No-Amon (Thebes in Egypt).
 - **3:9** — The Vulgate renders the Hebrew Put as Africa. Like the Hebrew text, the Latin shifts in the second clause from third person ('her strength') to second person ('for your help', in auxilio tuo).
 - **3:17** — Where the Hebrew refers to military officials ('your marshals' or 'your scribes'), the Vulgate distinctly reads 'your little ones' (parvuli tui) and renders the Hebrew swarm idiom literally as 'locusts of locusts' (locustae locustarum).

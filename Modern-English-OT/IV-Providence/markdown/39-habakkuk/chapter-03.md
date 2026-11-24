@@ -35,7 +35,7 @@
 
 **3:15** You made a way in the sea for Your horses, in the mud of many waters.
 
-**3:16** I heard, and my belly was greatly troubled; at the voice my lips trembled. Let rottenness enter into my bones and swarm beneath me, so that I may rest in the day of tribulation, so that I may go up to our girded people.
+**3:16** I heard, and my belly was troubled; at the voice my lips trembled. Let rottenness enter into my bones and swarm beneath me, so that I may rest in the day of tribulation, so that I may go up to our girded people.
 
 **3:17** For the fig tree will not bloom, and there will be no sprout on the vines; the work of the olive will deceive, and the fields will not bring food; the flock will be cut off from the sheepfold, and there will be no herd in the stalls.
 

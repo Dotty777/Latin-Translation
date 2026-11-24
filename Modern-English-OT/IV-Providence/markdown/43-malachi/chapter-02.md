@@ -43,6 +43,6 @@
 
 - **2:2** — Vulgate reads "poverty" (egestatem) where the Hebrew has "the curse," and translates both curses in the future tense ("I will curse... and I will curse them") rather than shifting to a completed past tense.
 - **2:3** — Literally "I will cast away the arm for you" (projiciam vobis brachium); the Vulgate reads the Hebrew consonants as "arm" rather than "seed/offspring" and renders "cast away" instead of "rebuke."
-- **2:12** — Vulgate renders the difficult Hebrew idiom (often translated "him who wakes and him who answers") as "master and disciple" (magistrum et discipulum).
+- **2:12** — Vulgate renders the difficult Hebrew idiom (literally "one who wakes and one who answers") as "master and disciple" (magistrum et discipulum).
 - **2:15** — The grammar is notoriously difficult; the Vulgate literally asks "Did not One make [them], and the remnant of the spirit is His?" leaving the object of "make" (fecit) unexpressed.
-- **2:16** — Vulgate reads a second-person directive ("When you hate her, send her away," cf. Deut 24:1) followed by the warning that "iniquity will cover his garment," whereas many translations of the Hebrew render the opening clause as "I hate divorce."
+- **2:16** — Vulgate reads a second-person directive ("When you hate her, send her away," cf. Deut 24:1) followed by the warning that "iniquity will cover his garment"; the Hebrew opening clause can also be read as "he hates sending away."

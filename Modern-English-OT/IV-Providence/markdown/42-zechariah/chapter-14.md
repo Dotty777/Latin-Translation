@@ -51,6 +51,6 @@
 
 - **14:1** — Vulgate reads the plural "venient dies Domini" ("the days of the Lord will come"), whereas the Hebrew Masoretic Text has the singular "a day is coming for the Lord."
 - **14:5** — Vulgate has three distinct readings here: "montium eorum" ("their mountains," vs. Hebrew "My mountains"), "usque ad proximum" ("as far as the nearest place," rendering Hebrew "Azal" as a common noun rather than a place name), and "cum eo" ("with Him," agreeing with the Septuagint against Hebrew "with you").
-- **14:6** — Vulgate "non erit lux, sed frigus et gelu" ("there will not be light, but cold and frost") follows the Septuagint in resolving a difficult Hebrew phrase often translated "the bright ones will congeal" or "dwindle."
+- **14:6** — Vulgate "non erit lux, sed frigus et gelu" ("there will not be light, but cold and frost") agrees with the Septuagint in reading a difficult Hebrew phrase as "cold and frost."
 - **14:10** — Vulgate "revertetur... usque ad desertum, de colle Remmon" ("will return as far as the desert, from the hill of Rimmon") renders Hebrew "Geba" as a common noun ("hill") and "Arabah" as "desert," contrasting with the Hebrew Masoretic Text "will be turned into a plain from Geba to Rimmon." Vulgate also has plural "portam angulorum" ("Gate of the Corners").
 - **14:14** — Vulgate "adversus Jerusalem" ("against Jerusalem") interprets the Hebrew preposition in a hostile sense rather than locatively ("at/in Jerusalem").

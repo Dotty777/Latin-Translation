@@ -1,6 +1,6 @@
 # Ezekiel 32 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (31 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -19,7 +19,7 @@
 
 **32:7** And when you have been extinguished, I will cover the sky and make its stars grow dark; I will veil the sun with a cloud, and the moon will not give its light.
 
-**32:8** All the lights of the sky I will make mourn over you, and I will set darkness over your land, says the Lord God, when your wounded have fallen in the midst of the land, declares the Lord God.
+**32:8** All the lights of the sky I will make mourn over you, and I will set darkness over your land, says the Lord God, when your wounded have fallen in the midst of the land, says the Lord God.
 
 **32:9** And I will provoke the heart of many peoples when I bring your destruction among the nations, over lands that you do not know.
 
@@ -29,13 +29,13 @@
 
 **32:12** By the swords of the mighty I will cast down your multitude; unconquerable are all these nations, and they will lay waste the pride of Egypt, and its multitude will be dispersed.
 
-**32:13** And I will destroy all its livestock that were beside abundant waters; and the foot of man will no longer stir them up, nor will the hoof of livestock disturb them.
+**32:13** And I will destroy all its livestock that were beside very many waters; and the foot of man will no longer stir them up, nor will the hoof of livestock disturb them.
 
-**32:14** Then I will make their waters most pure, and I will lead their rivers like oil, declares the Lord God,
+**32:14** Then I will make their waters most pure, and I will lead their rivers like oil, says the Lord God,
 
 **32:15** when I make the land of Egypt desolate; moreover, the land will be left destitute of its fullness when I strike all its inhabitants, and they will know that I am the Lord."'
 
-**32:16** It is a lamentation, and they will lament it; the daughters of the nations will lament it; over Egypt and over its multitude they will lament it, declares the Lord God."
+**32:16** It is a lamentation, and they will lament it; the daughters of the nations will lament it; over Egypt and over its multitude they will lament it, says the Lord God."
 
 **32:17** And it happened in the twelfth year, on the fifteenth of the month, the word of the Lord came to me, saying:
 
@@ -59,13 +59,13 @@
 
 **32:28** And you therefore will be crushed in the midst of the uncircumcised, and you will sleep with those killed by the sword.
 
-**32:29** Edom is there, and its kings, and all its leaders, who were placed with their army, with those killed by the sword, and who slept with the uncircumcised and with those who go down into the pit.
+**32:29** Idumea is there, and its kings, and all its leaders, who were placed with their army, with those killed by the sword, and who slept with the uncircumcised and with those who go down into the pit.
 
 **32:30** All the princes of the north are there, and all the hunters, who were led down with those killed, terrified and put to shame in their strength, who slept uncircumcised with those killed by the sword, and bore their shame with those who go down into the pit.
 
-**32:31** Pharaoh saw them and was comforted over all his multitude that was killed by the sword: Pharaoh and all his army, declares the Lord God.
+**32:31** Pharaoh saw them and was comforted over all his multitude that was killed by the sword: Pharaoh and all his army, says the Lord God.
 
-**32:32** For I have put My terror in the land of the living, and he has slept in the midst of the uncircumcised with those killed by the sword: Pharaoh and all his multitude, declares the Lord God."
+**32:32** For I have put My terror in the land of the living, and he has slept in the midst of the uncircumcised with those killed by the sword: Pharaoh and all his multitude, says the Lord God."
 
 ## Additional Verses (Not in Saints Numbering)
 
@@ -75,6 +75,5 @@
 
 - **32:2** — Vulgate 'ventilabas cornu' ('thrust with a horn') reflects Jerome reading the Hebrew verb for bursting forth as goring or pushing with a horn (cf. Dan 8:4); 'draconi' renders the Hebrew sea creature as 'dragon.'
 - **32:6** — Vulgate 'foetore sanguinis tui' ('the stench of your blood') diverges from the Masoretic Text ('your outflow/discharge'), just as v. 5 has 'colles tuos sanie tua' ('your hills with your gore') where the Hebrew speaks of valleys and height or carcass.
-- **32:8** — The final clause ('when your wounded have fallen in the midst of the land, declares the Lord God') is distinctive to the Clementine Vulgate and absent from the Masoretic Text; 'moerere' ('mourn') also translates a Hebrew verb meaning both 'darken' and 'mourn.'
-- **32:18** — The Clementine Vulgate omits verse 19 (found in the Masoretic Text and modern editions), moving directly from verse 18 to verse 20.
+- **32:8** — The final clause ('when your wounded have fallen in the midst of the land, says the Lord God') is absent from the Masoretic Text; 'moerere' ('mourn') also translates a Hebrew verb meaning both 'darken' and 'mourn.'
 - **32:30** — Vulgate 'universi venatores' ('all the hunters') translates the Hebrew gentilic for 'Sidonians' etymologically from the root meaning 'to hunt.'

@@ -9,7 +9,7 @@
 
 **25:2** "Son of man, set your face against the sons of Ammon, and you shall prophesy concerning them.
 
-**25:3** And you shall say to the sons of Ammon, 'Hear the word of the Lord God. This is what the Lord God says: Because you said, "Aha, aha!" over My sanctuary, because it was profaned, and over the land of Israel, because it was made desolate, and over the house of Judah, because they were led into captivity,
+**25:3** And you shall say to the sons of Ammon, 'Hear the word of the Lord God. This is what the Lord God says: Because you said, "Aha, aha!" over My sanctuary, because it was defiled, and over the land of Israel, because it was made desolate, and over the house of Judah, because they were led into captivity,
 
 **25:4** therefore I will hand you over to the sons of the east as an inheritance; and they will set up their sheepfolds in you, and they will place their tents in you; they themselves will eat your produce, and they themselves will drink your milk.
 

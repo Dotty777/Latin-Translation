@@ -77,7 +77,7 @@
 
 **20:36** Just as I contended in judgment against your fathers in the desert of the land of Egypt, so I will judge you, says the Lord God.
 
-**20:37** And I will subject you to My scepter, and I will bring you into the bonds of the covenant.
+**20:37** And I will subject you to My scepter, and I will bring you in the bonds of the covenant.
 
 **20:38** And I will pick out from among you the transgressors and the ungodly, and I will lead them out of the land of their sojourning, and they will not enter the land of Israel; and you will know that I am the Lord.
 

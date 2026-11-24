@@ -63,7 +63,7 @@
 
 **34:29** And I will raise up for them a renowned shoot, and they will no longer be diminished by famine in the land, nor will they bear the reproach of the nations any longer.
 
-**34:30** And they will know that I, the Lord their God, am with them, and that they themselves are My people, the house of Israel, declares the Lord God.
+**34:30** And they will know that I, the Lord their God, am with them, and that they themselves are My people, the house of Israel, says the Lord God.
 
 **34:31** As for you, My flocks, the flocks of My pasture, you are human beings, and I am the Lord your God, says the Lord God.'"
 
@@ -73,4 +73,4 @@
 - **34:6** — Latin non erat, inquam, qui requireret ("there was no one, I say, who searched") repeats the same verb with an emphatic parenthetical "I say," whereas the Masoretic Text uses two different verbs without "I say."
 - **34:16** — Latin custodiam ("I will guard") agrees with the Septuagint against the Masoretic Text's "I will destroy," reflecting a consonant variant in the underlying Hebrew.
 - **34:25** — Latin qui habitant in deserto, securi dormient in saltibus makes "those who dwell in the wilderness" the subject of "will sleep securely in the woodlands," whereas the Masoretic Text coordinates two future verbs ("they will dwell securely in the wilderness and sleep in the woods").
-- **34:29** — Latin germen nominatum ("a renowned shoot") renders the Hebrew "planting of renown" with germen ("shoot/sprout"), echoing the messianic title used in the Vulgate of Jeremiah 23:5 and 33:15.
+- **34:29** — Latin germen nominatum ("a renowned shoot") renders the Hebrew "planting of renown" with germen ("shoot/sprout"), the same noun the Vulgate uses in Jeremiah 23:5 and 33:15.

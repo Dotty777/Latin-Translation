@@ -31,7 +31,7 @@
 
 **1:13** And the Lord answered the angel who was speaking in me with good words, comforting words.
 
-**1:14** And the angel who was speaking in me said to me, "Cry out, saying, 'This is what the Lord of hosts says: I have been jealous for Jerusalem and Zion with great jealousy,
+**1:14** And the angel who was speaking in me said to me, "Cry out, saying, 'This is what the Lord of hosts says: I have been zealous for Jerusalem and Zion with great zeal,
 
 **1:15** and with great anger I am angry against the wealthy nations, because I was a little angry, yet they themselves helped toward evil.
 

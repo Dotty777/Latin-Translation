@@ -54,7 +54,7 @@
 ## Translator Notes
 
 - **2:4** — The Clementine Vulgate encloses quoniam ego vobiscum sum, dicit Dominus exercituum in parentheses so that et facite ("and carry out") takes verbum ("the word") in 2:5 as its direct object, whereas the Hebrew treats 2:5 as a separate clause.
-- **2:7** — Latin veniet desideratus cunctis gentibus uses a singular verb and masculine singular participle ("the One desired by all nations will come"), a classic Vulgate-distinct Messianic reading; the Hebrew has a plural verb with "the desired things/treasures of all nations."
+- **2:7** — Latin veniet desideratus cunctis gentibus uses a singular verb and masculine singular participle ("the One desired by all nations will come"); the Hebrew has a plural verb with "the desired things/treasures of all nations."
 - **2:13** — Latin pollutus in anima literally means "defiled in soul," rendering the Hebrew idiom for ritual uncleanness contracted from a corpse (Hebrew nefesh can mean either "soul" or "dead body").
 - **2:16** — The Vulgate supplies dry measures (modiorum, Roman modii) and wine jars (lagenas) where the Hebrew leaves the units unstated, and uses exprimeretis ("to press out") rather than "to draw."
 - **2:19** — Latin in germine ("in sprout") and floruit ("blossomed") are Vulgate-distinct readings corresponding to Hebrew "in the barn/granary" and "borne [fruit]."

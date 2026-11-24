@@ -34,6 +34,6 @@
 ## Translator Notes
 
 - **5:3** — Vulgate convertentur ('they will return' or 'they will be converted') reflects the root for turning back, differing from the Hebrew Masoretic Text ('they will dwell securely').
-- **5:5** — Vulgate in lanceis ejus ('with its lances') takes the Hebrew term usually translated 'in its entrances' as drawn blades or lances.
+- **5:5** — Vulgate in lanceis ejus ('with its lances') stands where the Hebrew reads 'in its entrances.'
 - **5:10** — In the Clementine Vulgate, this verse includes the clauses numbered as 5:11 in some editions, so the verse numbering proceeds directly from 5:10 to 5:12.
 - **5:13** — Vulgate lucos tuos ('your groves') renders Hebrew Asherim (Asherah poles) as sacred groves.

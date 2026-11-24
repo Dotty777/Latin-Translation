@@ -45,7 +45,7 @@
 
 **24:20** And I said to them, "The word of the Lord came to me, saying,
 
-**24:21** 'Speak to the house of Israel, "This is what the Lord God says: Look, I will profane My sanctuary, the pride of your dominion, and the delight of your eyes, and that over which your soul is in dread; your sons and your daughters whom you left behind will fall by the sword.
+**24:21** 'Speak to the house of Israel, "This is what the Lord God says: Look, I will defile My sanctuary, the pride of your dominion, and the delight of your eyes, and that over which your soul is in dread; your sons and your daughters whom you left behind will fall by the sword.
 
 **24:22** And you will do just as I have done: you will not veil your faces with a covering, and you will not eat the food of mourners;
 
@@ -61,7 +61,7 @@
 
 ## Translator Notes
 
-- **24:5** — Latin strues ossium ("piles of bones", echoed by ossa in v. 10) translates the Hebrew consonants literally as bones used for fuel, whereas many modern versions emend the Hebrew to "wood" or "logs." The Vulgate also renders the second half of the verse with perfect indicatives ("has boiled up... have been boiled thoroughly") rather than imperatives.
+- **24:5** — Latin strues ossium ("piles of bones", echoed by ossa in v. 10) follows the Hebrew "bones" literally, as bones used for fuel. The Vulgate also renders the second half of the verse with perfect indicatives ("has boiled up... have been boiled thoroughly") rather than imperatives.
 - **24:7** — Latin limpidissimam petram (lit. "most clear/gleaming rock", recurring in 24:8 and 26:4, 14) renders Hebrew tzechich sela ("bare, sun-bleached rock"), emphasizing a smooth surface completely stripped of dust.
 - **24:17** — Latin corona ("crown", also in v. 23) translates Hebrew pe'er ("turban/headdress"), and cibos lugentium ("the food of mourners", also in v. 22) explicitly interprets Hebrew "bread of men."
 - **24:21** — Vulgate super quo pavet anima vestra ("that over which your soul is in dread") differs from the Hebrew Masoretic Text's "the compassion/longing of your soul"; contrast v. 25, where the Vulgate has requiescunt ("rest").

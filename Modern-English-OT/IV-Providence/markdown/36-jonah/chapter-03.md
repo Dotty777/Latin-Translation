@@ -27,7 +27,7 @@
 
 ## Translator Notes
 
-- **3:3** — The Vulgate reads simply "a great city" (civitas magna), omitting the Hebrew qualifying phrase "to God" (often rendered "exceedingly great").
+- **3:3** — The Vulgate reads simply "a great city" (civitas magna); the Hebrew adds "to God," an idiom for "exceedingly great."
 - **3:7** — The Vulgate reads literally "from the mouth of the king and his princes" (ex ore regis et principum ejus), whereas the Hebrew reads "by the decree of the king and his nobles."
 - **3:8** — The Vulgate reads "cry out to the Lord" (ad Dominum) and "from the iniquity" (ab iniquitate), where the Hebrew reads "to God" and "from the violence."
-- **3:10** — The Vulgate reads "God had mercy concerning the evil" (misertus est Deus super malitiam), echoing "forgive" (ignoscat) in 3:9, where the Hebrew uses the verb for relenting and a term encompassing disaster or harm.
+- **3:10** — The Vulgate reads "God had mercy concerning the evil" (misertus est Deus super malitiam), where the Hebrew uses the verb for relenting and a term encompassing disaster or harm.
