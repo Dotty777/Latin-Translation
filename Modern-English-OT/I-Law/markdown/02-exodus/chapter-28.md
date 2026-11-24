@@ -1,6 +1,6 @@
 # Exodus 28 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (37 verses, 5 translator notes, 4 additional)  
+> **Status:** `draft: true` (37 verses, 5 translator notes, 6 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -49,7 +49,7 @@
 
 **28:22** You will make on the breastpiece chains linked to one another of the purest gold,
 
-**28:29** and you will join the gold chains to the rings that are on its edges, and you will fasten the ends of the chains themselves to two hooks on each side of the shoulder vestment that faces the breastpiece. And Aaron will bear the names of the sons of Israel in the breastpiece of judgment over his chest, when he enters the sanctuary, as a memorial before the Lord forever.
+**28:29** And Aaron will bear the names of the sons of Israel in the breastpiece of judgment over his chest, when he enters the sanctuary, as a memorial before the Lord forever.
 
 **28:30** Moreover, you will place in the breastpiece of judgment Doctrine and Truth, which will be on Aaron's chest when he enters before the Lord; and he will carry the judgment of the sons of Israel on his chest, in the sight of the Lord always.
 
@@ -83,16 +83,20 @@
 
 **28:23** *(after `28:22`)* and two gold rings, which you will place at both ends of the breastpiece:
 
-**28:26** *(after `28:29`)* You will also make two gold rings, which you will place at the ends of the breastpiece, on the edges that are opposite the shoulder vestment and face its back side.
+**28:24** *(after `28:22`)* and you will join the gold chains to the rings that are on its edges,
 
-**28:27** *(after `28:29`)* And also two other gold rings, which are to be placed below on each side of the shoulder vestment that faces the front of the lower joining, so that it may be fitted together with the shoulder vestment,
+**28:25** *(after `28:22`)* and you will fasten the ends of the chains themselves to two hooks on each side of the shoulder vestment that faces the breastpiece.
 
-**28:28** *(after `28:29`)* and the breastpiece may be bound tightly by its rings to the rings of the shoulder vestment with a blue cord, so that the finely crafted joining remains intact, and the breastpiece and the shoulder vestment cannot be separated from one another.
+**28:26** *(after `28:22`)* You will also make two gold rings, which you will place at the ends of the breastpiece, on the edges that are opposite the shoulder vestment and face its back side.
+
+**28:27** *(after `28:22`)* And also two other gold rings, which are to be placed below on each side of the shoulder vestment that faces the front of the lower joining, so that it may be fitted together with the shoulder vestment,
+
+**28:28** *(after `28:22`)* and the breastpiece may be bound tightly by its rings to the rings of the shoulder vestment with a blue cord, so that the finely crafted joining remains intact, and the breastpiece and the shoulder vestment cannot be separated from one another.
 
 ## Translator Notes
 
 - **28:4** — The Vulgate renders the Hebrew breastpiece as rationale (literally "rationale" or "piece of reason," echoing the Septuagint logeion) and the ephod descriptively as superhumerale ("shoulder vestment"). The Clementine Vulgate also reads the singular verb faciet ("he will make") here before shifting to plural Facient ("They will make") in the next sentence.
-- **28:13** — Here and in 28:14, 29, the Vulgate reads uncinos ("hooks"), whereas the Hebrew text describes gold filigree settings.
+- **28:13** — Here and in 28:14 and 28:25, the Vulgate reads uncinos ("hooks"), whereas the Hebrew text describes gold filigree settings.
 - **28:30** — The Vulgate translates the Hebrew Urim and Thummim interpretatively as Doctrinam et Veritatem ("Doctrine and Truth"), following the Septuagint's delosis kai aletheia.
 - **28:32** — The Vulgate compares the woven neck-border to what is customarily made "at the outermost parts of garments" (in extremis vestium partibus), where the Hebrew text compares it to the opening of a coat of mail.
 - **28:43** — The Vulgate reads tabernaculum testimonii ("tabernacle of the testimony"), following the Septuagint skene tou martyriou rather than the Hebrew "tent of meeting."

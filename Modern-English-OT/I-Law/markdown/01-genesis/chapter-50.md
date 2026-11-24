@@ -1,6 +1,6 @@
 # Genesis 50 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (25 verses, 5 translator notes)  
+> **Status:** `draft: true` (26 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,7 +47,9 @@
 
 **50:21** Do not be afraid; I will nourish you and your little ones." And he consoled them and spoke kindly and gently.
 
-**50:23** And he dwelt in Egypt with all his father's house, and lived one hundred and ten years. And he saw Ephraim's children to the third generation. The children of Machir, the son of Manasseh, were also born on Joseph's knees.
+**50:22** And he dwelt in Egypt with all his father's house, and lived one hundred and ten years.
+
+**50:23** And he saw Ephraim's children to the third generation. The children of Machir, the son of Manasseh, were also born on Joseph's knees.
 
 **50:24** After these things had passed, he spoke to his brothers, "After my death God will visit you and cause you to go up from this land to the land that He swore to Abraham, Isaac, and Jacob."
 
@@ -61,4 +63,3 @@
 - **50:13** — The Vulgate translates Hebrew "the cave of the field of Machpelah" as spelunca duplici ("the double cave"), following the Septuagint and the etymology of Machpelah as "double."
 - **50:19** — The Vulgate distinctly reads num Dei possumus rennuere voluntatem? ("can we reject the will of God?", with rennuere for classical renuere, where other Vulgate editions read resistere, "resist"), whereas the Hebrew text asks "am I in the place of God?"
 - **50:20** — The Vulgate explicitly reads ut exaltaret me ("so that He might exalt me") and plural multos populos ("many peoples"), whereas the Hebrew has "to bring about as it is this day, to keep many people alive."
-- **50:23** — In this Clementine Vulgate verse numbering, the material numbered as verse 22 in Hebrew and modern English Bibles ("And he dwelt in Egypt... one hundred and ten years") is combined with verse 23.

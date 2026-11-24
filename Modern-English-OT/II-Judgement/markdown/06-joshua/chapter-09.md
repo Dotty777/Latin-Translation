@@ -1,13 +1,13 @@
 # Joshua 9 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 4 translator notes)  
+> **Status:** `draft: true` (27 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
 **9:1** When these things were heard, all the kings beyond the Jordan, who lived in the hill country and the plains, in the coastal regions and on the shore of the great sea, and those also who lived near Lebanon, the Hittite and the Amorite, the Canaanite, the Perizzite, and the Hivite, and the Jebusite,
 
-**9:2** Then Joshua built an altar to the Lord God of Israel on Mount Ebal, just as Moses the servant of the Lord had commanded the sons of Israel, and as is written in the scroll of the law of Moses: an altar of unpolished stones, which iron had not touched; and he offered burnt offerings on it to the Lord, and sacrificed peace offerings. And he wrote on the stones the Deuteronomy of the law of Moses, which he had set down before the sons of Israel. And all the people, and the elders, and the leaders and judges, were standing on both sides of the ark, in the sight of the priests who carried the ark of the covenant of the Lord, the foreigner as well as the native. Half of them were near Mount Gerizim, and half near Mount Ebal, just as Moses the servant of the Lord had commanded. And first indeed he blessed the people of Israel. After these things he read all the words of blessing and cursing, and all things that had been written in the scroll of the law. He left nothing untouched of those things that Moses had commanded, but repeated everything before the entire multitude of Israel, the women and little children, and the foreigners who stayed among them. They gathered together as one to fight against Joshua and Israel with one mind and the same resolve.
+**9:2** gathered together as one to fight against Joshua and Israel with one mind and the same resolve.
 
 **9:3** But those who lived in Gibeon, hearing all that Joshua had done to Jericho and Ai,
 
@@ -61,7 +61,6 @@
 
 ## Translator Notes
 
-- **9:2** — The Clementine Vulgate places the Mount Ebal altar and law-reading account (Hebrew 8:30-35) inside 9:2, interrupting the sentence begun in 9:1 whose main verb resumes at the end of 9:2. Here Latin "Deuteronomium" (borrowed from Greek) refers to a duplicate copy of the law of Moses.
 - **9:5** — "As a sign of age" translates the Vulgate explanatory phrase "ad indicium vetustatis," which has no equivalent in the Hebrew; similarly, the Vulgate describes the loaves as "hard and crumbled into pieces" where the Hebrew reads "dry and crumbly."
 - **9:7** — "In the land that is owed to us by lot" follows the distinctly Vulgate clause "in terra, quæ nobis sorte debetur," whereas the Hebrew reads, "Perhaps you live among us."
 - **9:16** — "Would be among them" preserves the Vulgate future periphrastic ("inter eos futuri essent"), whereas the Hebrew states simply that they were living in their midst.

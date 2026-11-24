@@ -74,4 +74,4 @@
 - **15:2** — Vulgate "fluxum seminis" ("a flow of seed") specifies a seminal discharge, whereas the Hebrew Masoretic Text reads more generally "a discharge from his flesh."
 - **15:3** — Vulgate "when moment by moment a foul fluid clings to his flesh and congeals" is a distinctly clinical Latin rendering of the Hebrew clause describing a discharge that either runs or is stopped up.
 - **15:10** — Vulgate omits the verb "touches" found in the Hebrew and Greek texts here, stating directly that whatever has been beneath the man is defiled until evening.
-- **15:22** — Latin "vas" (literally "vessel" or "utensil") is used broadly in the Vulgate for any household article or furnishing. Verse 15:23 of the Hebrew and Greek texts is absent from the Clementine Vulgate, so the numbering proceeds directly from 15:22 to 15:24.
+- **15:22** — Latin "vas" (literally "vessel" or "utensil") is used broadly in the Vulgate for any household article or furnishing. The Vulgate divides Hebrew 15:19 into two verses, so its 15:21-23 correspond to Hebrew 15:20-22; it has no counterpart to Hebrew 15:23.

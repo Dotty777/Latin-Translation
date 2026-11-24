@@ -1,6 +1,6 @@
 # Exodus 35 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes, 2 additional)  
+> **Status:** `draft: true` (31 verses, 4 translator notes, 4 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -25,7 +25,7 @@
 
 **35:11** namely, the tabernacle, and its roof and covering, the rings, and the boards with the bars, the pegs, and the bases;
 
-**35:12** the ark and the poles, the mercy seat, and the veil that is stretched out in front of it; the altar of incense and the poles, and the anointing oil and the incense of spices; the hanging at the doorway of the tabernacle; the curtains of the courtyard with the pillars and bases, the hanging at the doors of the vestibule;
+**35:12** the ark and the poles, the mercy seat, and the veil that is stretched out in front of it;
 
 **35:13** the table with the poles and utensils, and the loaves of presentation;
 
@@ -71,12 +71,15 @@
 
 **35:8** *(after `35:7`)* and oil for preparing the lamps, and for compounding the ointment, and the most fragrant incense,
 
-**35:18** *(after `35:12`)* the pegs of the tabernacle and of the courtyard with their cords;
+**35:15** *(after `35:14`)* the altar of incense and the poles, and the anointing oil and the incense of spices; the hanging at the doorway of the tabernacle;
+
+**35:17** *(after `35:16`)* the curtains of the courtyard with the pillars and bases, the hanging at the doors of the vestibule;
+
+**35:18** *(after `35:16`)* the pegs of the tabernacle and of the courtyard with their cords;
 
 ## Translator Notes
 
 - **35:5** — The Vulgate renders the Hebrew term for a sanctuary contribution (terumah) as primitias ('firstfruits'), here and in v. 21.
-- **35:7** — The Vulgate renders the obscure Hebrew skin term tachash as janthinas ('violet-colored', also in v. 23), and omits a separate v. 8 from this initial list of materials (the oil and spices appear in vv. 12, 14, and 28).
+- **35:7** — The Vulgate renders the obscure Hebrew skin term tachash as janthinas ('violet-colored', also in v. 23).
 - **35:9** — The Vulgate calls the high priest's ephod the superhumerale ('shoulder-vestment') and the breastpiece the rationale (literally 'piece of reason/judgment', calquing Greek logeion), here and in v. 27.
-- **35:12** — In the Clementine Vulgate versification, material corresponding to Hebrew vv. 15, 17, and 18 (the incense altar, anointing oil, incense, doorway hanging, and courtyard curtains and hangings) is grouped within v. 12, so those verse numbers do not appear separately.
 - **35:35** — The Vulgate specifies the artisans' crafts with the Latin triad abietarii, polymitarii, ac plumarii ('woodworker, tapestry-weaver, and embroiderer') and concludes with ac nova quæque reperiant ('and invent all kinds of new things').

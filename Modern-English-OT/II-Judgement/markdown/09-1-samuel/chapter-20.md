@@ -1,6 +1,6 @@
 # 1 Samuel 20 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (41 verses, 5 translator notes)  
+> **Status:** `draft: true` (42 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -45,7 +45,9 @@
 
 **20:20** And I will send three arrows beside it, and shoot as if practicing at a target.
 
-**20:21** I will also send a boy, saying to him, 'Go and bring me the arrows.' If I say to the boy, 'Look, the arrows are on this side of you; take them,' then you come to me, because there is peace for you and there is no harm, as the Lord lives. But if I speak like this to the boy, 'Look, the arrows are beyond you,' go in peace, because the Lord has sent you away.
+**20:21** I will also send a boy, saying to him, 'Go and bring me the arrows.'
+
+**20:22** If I say to the boy, 'Look, the arrows are on this side of you; take them,' then you come to me, because there is peace for you and there is no harm, as the Lord lives. But if I speak like this to the boy, 'Look, the arrows are beyond you,' go in peace, because the Lord has sent you away.
 
 **20:23** Now concerning the word that you and I have spoken, may the Lord be between me and you forever."
 
@@ -92,5 +94,5 @@
 - **20:3** — In the Clementine Vulgate, Davidi is dative ("And he swore again to David"), making Jonathan the subject of the oath and shifting to David with Et ille ("And the other"), whereas the Hebrew Masoretic Text has David swearing again.
 - **20:5** — Throughout chapter 20 (vv. 5, 18, 24, 27, 34), the Vulgate renders the monthly New Moon observance with the Latin term calendae (the Calends, the first day of the month).
 - **20:15** — The Vulgate subjunctive clause auferat Jonathan de domo sua, et requirat Dominus ("may He remove Jonathan from his house, and may the Lord require it") treats Jonathan as the direct object of the Lord's action, diverging in syntax and verse division from the Hebrew Masoretic Text.
-- **20:19** — The Vulgate renders the workday reference explicitly as in die qua operari licet ("on the day when it is lawful to work"); note also that in the Clementine Vulgate, v. 20:22 of the Hebrew numbering is merged into v. 20:21.
+- **20:19** — The Vulgate renders the workday reference explicitly as in die qua operari licet ("on the day when it is lawful to work").
 - **20:30** — The Vulgate renders Saul's insult as Fili mulieris virum ultro rapientis ("Son of a woman who of her own accord seizes a man") and ignominiosae matris tuae ("of your disgraceful mother"), differing from the Hebrew Masoretic Text ("son of a perverse, rebellious woman ... shame of your mother's nakedness").

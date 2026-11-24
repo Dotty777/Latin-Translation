@@ -1,6 +1,6 @@
 # Numbers 35 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (33 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -29,7 +29,11 @@
 
 **35:12** in which, when the fugitive is there, the kinsman of the one killed will not be able to kill him until he stands in the sight of the multitude and his case is judged.
 
-**35:15** Now of those very cities that are set apart for the refuge of fugitives, three will be across the Jordan and three in the land of Canaan, both for the sons of Israel and for strangers and sojourners, so that the one who has shed blood unintentionally may flee to them.
+**35:13** Now of those very cities that are set apart for the refuge of fugitives,
+
+**35:14** three will be across the Jordan and three in the land of Canaan,
+
+**35:15** both for the sons of Israel and for strangers and sojourners, so that the one who has shed blood unintentionally may flee to them.
 
 **35:16** If anyone strikes with iron, and the one who was struck dies, he will be guilty of murder, and he himself will die.
 
@@ -43,7 +47,11 @@
 
 **35:21** or, being an enemy, strikes him with his hand, and that one dies, the striker will be guilty of murder; the kinsman of the one killed, as soon as he finds him, will execute him.
 
-**35:25** But if by chance, and without hatred and hostilities, he has done any of these things, and this has been proven in the hearing of the people, and the inquiry has been examined between the striker and the close relative of the blood, the innocent one will be freed from the hand of the avenger, and he will be brought back by verdict into the city to which he had fled, and he will remain there until the high priest, who was anointed with the holy oil, dies.
+**35:22** But if by chance, and without hatred and hostilities, he has done any of these things,
+
+**35:24** and this has been proven in the hearing of the people, and the inquiry has been examined between the striker and the close relative of the blood,
+
+**35:25** the innocent one will be freed from the hand of the avenger, and he will be brought back by verdict into the city to which he had fled, and he will remain there until the high priest, who was anointed with the holy oil, dies.
 
 **35:26** If the killer outside the borders of the cities that have been assigned to exiles
 
@@ -66,7 +74,7 @@
 ## Translator Notes
 
 - **35:4** — The Vulgate gives mille passuum spatio ("a distance of a thousand paces," a Roman mile) where the Hebrew has "a thousand cubits," though the Vulgate retains "two thousand cubits" in v. 5.
-- **35:15** — The Clementine Vulgate combines the material of Hebrew vv. 13-15 into this single verse, so vv. 13-14 are not numbered separately.
-- **35:25** — The Clementine Vulgate condenses Hebrew vv. 22-25 into one verse, omitting the specific examples of accidental killing in vv. 22-23; propinquum sanguinis ("close relative of the blood") renders Hebrew go'el ha-dam ("avenger of blood," translated ultor sanguinis in v. 27).
+- **35:22** — The Vulgate condenses Hebrew vv. 22-25 into one sentence, without the specific examples of accidental killing given in Hebrew vv. 22-23.
+- **35:24** — Latin propinquum sanguinis ("close relative of the blood") renders Hebrew go'el ha-dam ("avenger of blood," translated ultor sanguinis in v. 27).
 - **35:32** — Unlike the Hebrew, which forbids accepting a ransom to let a fugitive return early, the Vulgate states directly that exiles and fugitives may by no means return before the high priest's death.
 - **35:33** — The Vulgate specifies insontium cruore ("the blood of the innocent") where the Hebrew says simply "blood," and in v. 34 turns the prohibition against defiling the land into the promise emundabitur vestra possessio ("your possession will be cleansed").

@@ -1,6 +1,6 @@
 # Genesis 31 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (53 verses, 5 translator notes)  
+> **Status:** `draft: true` (53 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -99,11 +99,11 @@
 
 **31:47** which Laban called Mound of Witness, and Jacob, Heap of Testimony, each according to the idiom of his own language.
 
-**31:48** And Laban said, "This mound will be a witness between me and you today," and for this reason its name was called Gilead, that is, Mound of Witness. And he said again to Jacob, "Look, this mound and the stone which I have set up between me and you,
+**31:48** And Laban said, "This mound will be a witness between me and you today," and for this reason its name was called Gilead, that is, Mound of Witness.
 
-**31:49** May the Lord watch and judge between us when we have departed from one another,
+**31:49** "May the Lord watch and judge between us when we have departed from one another,
 
-**31:50** if you afflict my daughters, and if you bring in other wives besides them; there is no witness to our word except God, who is present and looks on.
+**31:50** if you afflict my daughters, and if you bring in other wives besides them; there is no witness to our word except God, who is present and looks on."
 
 **31:52** will be a witness: let this mound, I say, and the stone be for a testimony, if either I pass beyond it going to you, or you pass by, devising harm against me.
 
@@ -111,10 +111,13 @@
 
 **31:54** and having offered sacrifices on the mountain, he called his brothers to eat bread. And when they had eaten, they remained there.
 
+## Additional Verses (Not in Saints Numbering)
+
+**31:51** *(after `31:50`)* And he said again to Jacob, "Look, this mound and the stone which I have set up between me and you,
+
 ## Translator Notes
 
 - **31:8** — In the Vulgate, Laban's second condition specifies alba ("white"), whereas the Hebrew has "striped" (or "streaked").
 - **31:24** — The Vulgate renders the Hebrew idiom "from good to bad" here as aspere ("harshly"), and similarly as durius ("too harsh") in 31:29.
 - **31:42** — The Vulgate reads nudum ("naked"), whereas the Hebrew has "empty-handed."
 - **31:47** — Rather than transliterating the Aramaic and Hebrew place names (Jegar-sahadutha and Galeed), the Vulgate translates both directly into Latin (Tumulus testis and Acervum testimonii) and adds "each according to the idiom of his own language."
-- **31:48** — In this Latin text, the clause conventionally numbered 31:51 ("And he said again to Jacob...") stands at the end of 31:48, so 31:49-50 intervene before its predicate ("will be a witness") in 31:52.

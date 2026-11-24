@@ -25,7 +25,7 @@
 
 **39:14** the veil; the ark, the poles, the mercy seat,
 
-**39:15** the golden altar, and the ointment, and the incense of spices,
+**39:15** the golden altar, and the ointment, and the incense of spices, and the hanging at the entrance of the tabernacle;
 
 **39:16** the lampstand, the lamps, and their utensils with the oil;
 
@@ -33,7 +33,7 @@
 
 **39:18** the garments also that the priests use in the sanctuary, namely, Aaron and his sons,
 
-**39:19** and the hanging at the entrance of the tabernacle; the hanging at the entrance of the courtyard, and its cords and pegs. Nothing was lacking of the vessels that were ordered to be made for the service of the tabernacle and for the tent of the covenant.
+**39:19** the hanging at the entrance of the courtyard, and its cords and pegs. Nothing was lacking of the vessels that were ordered to be made for the service of the tabernacle and for the tent of the covenant.
 
 **39:20** the covering of rams' skins dyed red, and another covering of violet-colored skins,
 
@@ -43,7 +43,7 @@
 
 ## Additional Verses (Not in Saints Numbering)
 
-**39:39** *(after `39:23`)* the bronze altar, the grating, the poles, and all its vessels; the basin with its base; the hangings of the courtyard, and the pillars with their bases;
+**39:39** *(after `39:15`)* the bronze altar, the grating, the poles, and all its vessels; the basin with its base; the hangings of the courtyard, and the pillars with their bases;
 
 ## Translator Notes
 

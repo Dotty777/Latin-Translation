@@ -8,9 +8,9 @@
 
 - [Chapter 1](chapter-01.md) — 54 verses, 4 notes
 - [Chapter 2](chapter-02.md) — 34 verses, 5 notes
-- [Chapter 3](chapter-03.md) — 50 verses, 5 notes
+- [Chapter 3](chapter-03.md) — 51 verses, 5 notes
 - [Chapter 4](chapter-04.md) — 49 verses, 5 notes
-- [Chapter 5](chapter-05.md) — 28 verses, 4 notes
+- [Chapter 5](chapter-05.md) — 31 verses, 4 notes
 - [Chapter 6](chapter-06.md) — 26 verses, 5 notes
 - [Chapter 7](chapter-07.md) — 89 verses, 6 notes
 - [Chapter 8](chapter-08.md) — 26 verses, 5 notes
@@ -40,5 +40,5 @@
 - [Chapter 32](chapter-32.md) — 42 verses, 5 notes
 - [Chapter 33](chapter-33.md) — 56 verses, 5 notes
 - [Chapter 34](chapter-34.md) — 29 verses, 4 notes
-- [Chapter 35](chapter-35.md) — 29 verses, 5 notes
-- [Chapter 36](chapter-36.md) — 10 verses, 2 notes
+- [Chapter 35](chapter-35.md) — 33 verses, 5 notes
+- [Chapter 36](chapter-36.md) — 13 verses, 2 notes

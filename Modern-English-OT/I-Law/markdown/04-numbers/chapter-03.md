@@ -1,6 +1,6 @@
 # Numbers 3 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (50 verses, 5 translator notes)  
+> **Status:** `draft: true` (51 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -21,7 +21,9 @@
 
 **3:8** and guard the vessels of the tabernacle, serving in its ministry.
 
-**3:10** And you will give the Levites as a gift to Aaron and his sons, to whom they have been handed over by the sons of Israel. But you will appoint Aaron and his sons over the service of the priesthood. An outsider who approaches to minister will die."
+**3:9** And you will give the Levites as a gift to Aaron and his sons, to whom they have been handed over by the sons of Israel.
+
+**3:10** But you will appoint Aaron and his sons over the service of the priesthood. An outsider who approaches to minister will die."
 
 **3:11** And the Lord spoke to Moses, saying:
 
@@ -107,7 +109,7 @@
 
 ## Translator Notes
 
-- **3:10** — In this Clementine Vulgate verse numbering, the material corresponding to Hebrew 3:9 is combined into 3:10 (so there is no separate 3:9). The Vulgate also specifies that the outsider approaches "to minister" (ad ministrandum), a detail not explicit in the Hebrew text.
+- **3:10** — The Vulgate specifies that the outsider approaches "to minister" (ad ministrandum), a detail not explicit in the Hebrew text.
 - **3:25** — The Vulgate renders Hebrew ohel mo'ed ("tent of meeting") here and in 3:38 as tabernaculum foederis ("tabernacle of the covenant")—and in 3:26 as tectum foederis ("shelter of the covenant")—whereas in 3:7 it renders the same Hebrew phrase as tabernaculum testimonii ("tabernacle of testimony").
 - **3:38** — The Vulgate uniquely reads in medio filiorum Israel ("in the midst of the sons of Israel"), whereas the Hebrew text reads "for the charge/obligation of the sons of Israel."
 - **3:47** — Following the Septuagint, the Vulgate renders the Hebrew weight unit gerah with the Greek-derived term obolos ("obols"), and refers to the sanctuary standard as mensuram sanctuarii ("measure of the sanctuary") here and pondus sanctuarii ("weight of the sanctuary") in 3:50.

@@ -1,6 +1,6 @@
 # Judges 5 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes)  
+> **Status:** `draft: true` (31 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Judges`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -65,7 +65,11 @@
 
 **5:30** 'Perhaps he is now dividing the spoils, and the most beautiful of the women is being chosen for him; garments of diverse colors are being handed over to Sisera as plunder, and varied finery is being gathered to adorn necks.'
 
-**5:31** So may all Your enemies perish, Lord; but those who love You, just as the sun shines at its rising, so may they shine brightly." And the land rested for forty years.
+**5:31** So may all Your enemies perish, Lord; but those who love You, just as the sun shines at its rising, so may they shine brightly."
+
+## Additional Verses (Not in Saints Numbering)
+
+**5:32** *(after `5:31`)* And the land rested for forty years.
 
 ## Translator Notes
 

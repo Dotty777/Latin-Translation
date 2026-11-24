@@ -1,6 +1,6 @@
 # Genesis 35 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -35,9 +35,9 @@
 
 **35:15** and calling the name of the place Bethel.
 
-**35:16** Having gone out from there, he came in the springtime to the land that leads to Ephrath, in which, while Rachel was in labor—Having gone out from there, he pitched his tent beyond the Tower of the Flock.
+**35:16** Having gone out from there, he came in the springtime to the land that leads to Ephrath, in which, while Rachel was in labor,
 
-**35:17** Because of the difficulty of childbirth, she began to be in danger. And the midwife said to her, "Do not be afraid, for you will have this son also."
+**35:17** because of the difficulty of childbirth, she began to be in danger. And the midwife said to her, "Do not be afraid, for you will have this son also."
 
 **35:18** Now as her soul was departing because of the pain, and death was already imminent, she called the name of her son Ben-oni, that is, Son of my pain; but the father called him Benjamin, that is, Son of the right hand.
 
@@ -61,10 +61,15 @@
 
 **35:29** And worn out by age, he died, and was joined to his people, old and full of days; and his sons Esau and Jacob buried him.
 
+## Additional Verses (Not in Saints Numbering)
+
+**35:21** *(after `35:20`)* Having gone out from there, he pitched his tent beyond the Tower of the Flock.
+
 ## Translator Notes
 
 - **35:5** — The Latin text reads the genitive singular 'civitatis' ('everyone all around the city,' referring to Shechem), whereas the Hebrew speaks of plural 'cities' around them.
 - **35:7** — The Vulgate translates the Hebrew place name El-bethel as 'House of God' (Domus Dei), and likewise translates Allon-bacuth in v. 8 as 'Oak of Weeping' (Quercus fletus) and Paddan-aram in vv. 9 and 26 as 'Mesopotamia of Syria' (Mesopotamiam Syriae).
-- **35:16** — Latin 'verno tempore' ('in the springtime') is a distinctive Vulgate rendering of the Hebrew phrase for a short distance of travel. In this Latin critical text, the clause corresponding to traditional v. 21 ('Having gone out from there, he pitched his tent beyond the Tower of the Flock,' translating Migdal-eder) stands at the end of v. 16 (with v. 21 omitted), while v. 17 resumes the narrative of Rachel's labor.
+- **35:16** — Latin 'verno tempore' ('in the springtime') is a distinctive Vulgate rendering of the Hebrew phrase for a short distance of travel.
 - **35:18** — The Vulgate supplies explicit etymological glosses for both names—'that is, Son of my pain' (Filius doloris mei) and 'that is, Son of the right hand' (Filius dexterae)—which do not appear in the Hebrew text.
 - **35:29** — Latin 'Consumptusque aetate' ('worn out by age') and 'appositus' ('joined' or 'placed beside') are distinctive Vulgate renderings of the Hebrew expressions 'breathed his last' and 'was gathered.'
+- **35:21 *(additional)*** — Latin Turrem gregis ('Tower of the Flock') translates the Hebrew place name Migdal-eder.
