@@ -5,7 +5,7 @@
 
 ## Text
 
-**11:1** And the Spirit lifted me up and brought me into the east gate of the house of the Lord, which faces toward the rising of the sun; and look, at the entrance of the gate were twenty-five men, and I saw in the midst of them Jaazaniah son of Azzur, and Pelatiah son of Benaiah, leaders of the people.
+**11:1** And the Spirit lifted me up and brought me to the east gate of the house of the Lord, which faces toward the rising of the sun; and look, at the entrance of the gate were twenty-five men, and I saw in the midst of them Jaazaniah son of Azzur, and Pelatiah son of Benaiah, leaders of the people.
 
 **11:2** And He said to me, "Son of man, these are the men who devise iniquity and plot the worst counsel in this city,
 
@@ -57,7 +57,7 @@
 
 ## Translator Notes
 
-- **11:3** — Latin "Nonne dudum aedificatae sunt domus?" ("Were not the houses built recently?") frames the leaders' boast as a confident question, whereas the Hebrew is commonly rendered "The time is not near to build houses."
+- **11:3** — Latin "Nonne dudum aedificatae sunt domus?" ("Were not the houses built recently?") frames the leaders' boast as a confident question, whereas the Hebrew reads "The time is not near to build houses."
 - **11:13** — The Vulgate intensifies Ezekiel's cry with a threefold "Heu! heu! heu!" ("Alas, alas, alas"), where the Hebrew has a single exclamation.
 - **11:16** — Latin "in sanctificationem modicam" literally means "a little sanctification" (or "a modest sanctification"), rendering the Hebrew phrase often understood as "a little sanctuary" or "a sanctuary for a little while."
 - **11:24** — Latin "transmigratio" (literally "migration" or "deportation") is used collectively here and in 11:25 for the community of exiles in Chaldea.

@@ -55,7 +55,7 @@
 
 - **10:11** — Latin "quae prima erat" ("the one that was first," feminine singular) refers grammatically to the foremost wheel, whereas the Hebrew reads "the head."
 - **10:12** — The Vulgate reads "colla" ("necks") and "circuli" ("circles"), where the Hebrew has "their backs" and "the wheels."
-- **10:13** — Latin "volubiles" ("Whirling" or "revolving") renders the Hebrew term for the wheelwork ("Galgal"). Verse 10:14 of the Hebrew text (describing the four faces of each cherub) is omitted in the Clementine Vulgate.
+- **10:13** — Latin "volubiles" ("Whirling" or "revolving") renders the Hebrew term for the wheelwork ("Galgal").
 - **10:17** — The Vulgate reads "spiritus vitae" ("the spirit of life"), whereas the Hebrew reads "the spirit of the living creature."
 - **10:19** — Latin "stetit" ("it stood") is third-person singular, referring to the cherubim assembly as a single living creature (compare 10:15, 20).
 - **10:14 *(additional)*** — The phrasing "in the third" and "in the fourth" literally reflects the Vulgate shift from nominative to prepositional phrases.

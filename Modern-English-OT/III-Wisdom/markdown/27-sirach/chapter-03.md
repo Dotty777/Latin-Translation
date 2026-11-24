@@ -7,9 +7,9 @@
 
 **3:1** Hear the judgment of a father, children, and act in this way, so that you may be saved.
 
-**3:2** For God honored the father over the children, and seeking out the judgment of the mother, He established it upon the children.
+**3:2** For God honored the father in the children, and seeking out the judgment of the mother, He established it upon the children.
 
-**3:3** He who loves God will pray for atonement for sins, and will restrain himself from them, and in daily prayer he will be heard.
+**3:3** He who loves God will make entreaty for sins, and will restrain himself from them, and in daily prayer he will be heard.
 
 **3:4** And just as one who stores up treasure, so also is he who honors his mother.
 
@@ -33,7 +33,7 @@
 
 **3:14** For in place of a mother's sin, good will be restored to you;
 
-**3:15** and in righteousness it will be built up for you, and on the day of affliction you will be remembered, and like ice in clear weather, your sins will dissolve.
+**3:15** and in righteousness it will be built up for you, and on the day of tribulation you will be remembered, and like ice in clear weather, your sins will dissolve.
 
 **3:16** How bad is the reputation of the one who abandons his father, and cursed by God is the one who provokes his mother!
 

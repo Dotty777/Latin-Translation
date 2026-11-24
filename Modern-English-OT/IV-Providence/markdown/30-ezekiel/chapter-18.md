@@ -61,7 +61,7 @@
 
 **18:28** for, considering and turning away from all his iniquities that he has practiced, he will certainly live, and he will not die.
 
-**18:29** And the children of Israel say, 'The way of the Lord is not fair!' Are My ways not fair, house of Israel, and are your ways not rather crooked?
+**18:29** And the sons of Israel say, 'The way of the Lord is not fair!' Are My ways not fair, house of Israel, and are your ways not rather crooked?
 
 **18:30** Therefore I will judge each one according to his ways, house of Israel, says the Lord God. Turn back and repent from all your iniquities, and iniquity will not become a ruin for you.
 
@@ -74,5 +74,5 @@
 - **18:2** — Vulgate "parabolam vertitis in proverbium istud" ("you turn a parable into this proverb") distinguishes two nouns where the Hebrew uses a cognate phrase ("using this proverb").
 - **18:3** — Vulgate "si erit ultra" preserves the Semitic oath construction in which "if" introduces an emphatic negation ("will no longer be").
 - **18:14** — Vulgate "timuerit" ("fears") reflects a Hebrew reading "and fears" rather than the Masoretic Text vocalization "and sees."
-- **18:21** — Vulgate "egerit poenitentiam" (and "agite poenitentiam" in 18:30) renders the Hebrew verb "turn" explicitly with the Latin idiom for repentance ("repent" or "do penance").
+- **18:21** — Vulgate "egerit poenitentiam" (and "agite poenitentiam" in 18:30) renders the Hebrew verb "turn" explicitly with the Latin idiom for repentance ("repent").
 - **18:22** — Vulgate "non recordabor" ("I will not remember") is first-person active, whereas the Hebrew Masoretic Text has a passive ("will not be remembered," as in Vulgate 18:24).

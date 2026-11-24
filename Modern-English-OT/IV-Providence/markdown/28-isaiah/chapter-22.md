@@ -17,7 +17,7 @@
 
 **22:6** And Elam took up the quiver, the chariot of a mounted man, and the shield laid bare the wall.
 
-**22:7** And your choicest valleys will be full of chariots, and horsemen will set their stations at the gate.
+**22:7** And your choice valleys will be full of chariots, and horsemen will set their stations at the gate.
 
 **22:8** And the covering of Judah will be uncovered, and on that day you will see the armory of the house of the forest.
 

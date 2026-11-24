@@ -55,7 +55,7 @@
 
 **10:25** For yet a little, a very brief while, and the indignation and My fury will be completed upon their wickedness."
 
-**10:26** And the Lord of hosts will raise up a scourge against him, according to the blow against Midian at the rock of Oreb; and His rod will be over the sea, and He will lift it up in the way of Egypt.
+**10:26** And the Lord of hosts will raise up a scourge against him, according to the blow against Midian at the rock of Oreb; and His rod over the sea, and He will lift it up in the way of Egypt.
 
 **10:27** And it will come to pass in that day: his burden will be taken away from your shoulder and his yoke from your neck, and the yoke will rot away before the face of the oil.
 
@@ -77,6 +77,6 @@
 
 - **10:15** — Latin 'qui utique lignum est' ("which is indeed wood") is a distinctly Vulgate reading where the Hebrew has "what is not wood."
 - **10:18** — Latin uses 'carmeli' as a common noun for "fruitful field" (orchard), and 'terrore profugus' ("a fugitive in terror") is a Vulgate-distinct rendering where the Hebrew has "as when a sick man wastes away."
-- **10:22** — Latin 'consummatio abbreviata' ("a shortened completion," echoed in 10:23 'consummationem et abbreviationem') follows the phrasing reflected in Romans 9:28, whereas the Hebrew has "destruction is decreed."
-- **10:27** — Latin 'a facie olei' ("before the face of the oil") renders the Hebrew word for fatness/oil specifically as "oil," a reading traditionally associated with anointing oil in Latin exegesis.
+- **10:22** — Latin 'consummatio abbreviata' ("a shortened completion," echoed in 10:23 'consummationem et abbreviationem') renders the Hebrew words for "destruction" and "decreed" by their root senses "finishing" and "cut short"; compare Romans 9:28.
+- **10:27** — Latin 'a facie olei' ("before the face of the oil") renders the Hebrew word for fatness/oil specifically as "oil."
 - **10:33** — Latin 'lagunculam' ("small flask") is a notable Vulgate-distinct rendering where the Hebrew text has "boughs" or "branches."

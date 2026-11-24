@@ -67,6 +67,6 @@
 
 - **1:4** — Latin 'electri' ("electrum") can denote either the gleaming gold-silver alloy or amber. The explanatory phrase 'id est, de medio ignis' ("that is, from the midst of the fire") is a Vulgate-distinct gloss.
 - **1:10** — The Vulgate specifies that the eagle's face is 'desuper' ("above") the four living creatures, a spatial detail not explicitly stated in the Hebrew text.
-- **1:13** — Verse 1:14 (found in the Hebrew text) is absent from the Clementine Vulgate, and Latin 'visio' ("vision") in 1:13 reflects a Vulgate-distinct reading for the movement of the fire among the living creatures.
+- **1:13** — Latin 'visio' ("vision") reflects a Vulgate-distinct reading for the movement of the fire among the living creatures.
 - **1:16** — Latin 'quasi visio maris' ("like the sight of the sea") reflects Jerome's rendering of Hebrew 'tarshish' as "the sea" rather than a gemstone such as beryl or chrysolite.
-- **1:20** — Latin 'spiritus vitæ' ("the spirit of life," repeated in 1:21) is a Vulgate-distinct reading where the Hebrew phrase is commonly rendered "the spirit of the living creature."
+- **1:20** — Latin 'spiritus vitæ' ("the spirit of life," repeated in 1:21) is a Vulgate-distinct reading where the Hebrew has "the spirit of the living creature."

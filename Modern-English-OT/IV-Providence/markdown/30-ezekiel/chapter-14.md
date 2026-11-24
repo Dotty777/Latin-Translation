@@ -54,7 +54,7 @@
 ## Translator Notes
 
 - **14:4** — Latin "Homo, homo" (literally "Man, man") reproduces a Hebrew distributive idiom meaning "each and every person." Here and in 14:3 the Vulgate renders the Hebrew term for idols as "immunditias" ("impurities") before switching to "idola" ("idols") in 14:5-7, and reads "in multitudine" ("in the multitude") with the Hebrew Ketib.
-- **14:11** — The Clementine Vulgate reads "Dominus exercituum" ("the Lord of hosts") here and in 14:14, where the Hebrew Masoretic Text reads "the Lord GOD" (Adonai YHWH).
+- **14:11** — The Clementine Vulgate reads "Dominus exercituum" ("the Lord of hosts") here and in 14:14, where the Hebrew Masoretic Text reads "the Lord God."
 - **14:13** — Latin "ut prævaricetur prævaricans" (literally "so that, transgressing, it transgresses") uses a cognate participle to reflect a Hebrew emphatic construction.
 - **14:21** — Unlike the Hebrew ("How much more when..."), the Vulgate frames 14:21-22 as a concessive sentence: "Quod etsi ... tamen" ("Even if ... yet").
 - **14:22** — The Vulgate uses the abstract noun "salvatio" ("deliverance/salvation") with an active participle "educentium" ("of those leading out"), whereas the Hebrew describes surviving sons and daughters being brought out; it likewise renders "ingredientur" ("will come in") for their arrival among the exiles.

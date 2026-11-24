@@ -33,7 +33,7 @@
 
 **16:14** And your name went out among the nations because of your loveliness, because you were perfect in My splendor which I had placed upon you, says the Lord God.
 
-**16:15** And having confidence in your beauty, you committed fornication on account of your name, and you offered your fornication to every passerby, so that you might become his.
+**16:15** And having confidence in your beauty, you committed fornication in your name, and you offered your fornication to every passerby, so that you might become his.
 
 **16:16** And taking from your garments, you made for yourself high places stitched together on every side, and you committed fornication upon them such as has not been done, nor will be.
 
@@ -138,7 +138,7 @@
 - **16:27** — Latin justificationem tuam ("your justification") reflects the standard Vulgate translation of the Hebrew term for an ordinance or allotted portion.
 - **16:30** — Latin In quo mundabo cor tuum ("With what shall I cleanse your heart?") is a notable Vulgate-distinct reading; the Hebrew reads "How weak is your heart!"
 - **16:31** — Latin fastidio augens pretium ("increasing the price through disdain") distinctly portrays a harlot feigning reluctance to raise her fee, whereas the Hebrew speaks of scorning payment.
-- **16:36** — Latin aes tuum ("your bronze") takes the underlying Hebrew noun from the root for bronze/copper, whereas translations from the Hebrew commonly render it as "your lust" or "your filthiness."
-- **16:43** — Latin et non feci juxta scelera tua ("and I have not acted according to your wicked deeds") preserves a first-person reading, whereas most translations from the Hebrew follow a second-person reading ("Have you not committed lewdness...").
+- **16:36** — Latin aes tuum ("your bronze") takes the underlying Hebrew noun from the root for bronze/copper, whereas the Hebrew is usually understood here as "your lust" or "your filthiness."
+- **16:43** — Latin et non feci juxta scelera tua ("and I have not acted according to your wicked deeds") preserves a first-person reading, whereas the Hebrew is usually read in the second person ("Have you not committed lewdness...").
 - **16:47** — Latin neque ... fecisti pauxillum minus: pene sceleratiora fecisti ("nor acted according to their wicked deeds a very little less; you have done almost more wicked deeds") is a distinctive Vulgate rendering of a difficult Hebrew phrase meaning "as if that were too small a thing, you acted even more corruptly."
 - **16:50** — Latin sicut vidisti ("as you have seen") reads the second person singular, whereas the Masoretic Hebrew reads the first person ("as I saw fit").

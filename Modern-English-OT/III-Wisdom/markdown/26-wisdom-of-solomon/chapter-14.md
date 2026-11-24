@@ -29,7 +29,7 @@
 
 **14:12** For the beginning of fornication is the devising of idols, and their invention is the corruption of life:
 
-**14:13** for neither did they exist from the beginning, nor will they exist forever.
+**14:13** for neither were they from the beginning, nor will they be forever.
 
 **14:14** For this futility of people came into the world, and therefore a brief end for them has been found.
 

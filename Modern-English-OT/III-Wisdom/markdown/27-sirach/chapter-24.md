@@ -19,7 +19,7 @@
 
 **24:7** and with power I trod upon the hearts of all the exalted and the humble. And among all these I sought rest, and in the inheritance of the Lord I will remain.
 
-**24:8** Then the Creator of all commanded and spoke to me, and He who created me rested in my tent.
+**24:8** Then the Creator of all commanded and spoke to me, and He who created me rested in my tabernacle.
 
 **24:9** From the beginning and before the ages I was created, and even to the coming age I will not cease; and in the holy dwelling I ministered before Him.
 
@@ -49,7 +49,7 @@
 
 **24:23** All these things are the book of life, and the covenant of the Most High, and the knowledge of truth.
 
-**24:25** It is He who fills wisdom like the Pishon, and like the Tigris in the days of new fruits,
+**24:25** It is he who fills wisdom like the Pishon, and like the Tigris in the days of new fruits,
 
 **24:26** who fills understanding to the full like the Euphrates, who multiplies it like the Jordan in the time of harvest,
 
@@ -79,9 +79,9 @@
 
 ## Translator Notes
 
-- **24:3** — Latin primogenita ante omnem creaturam ("firstborn before every creature") is a well-known Vulgate-distinct reading echoing Colossians 1:15, whereas the Greek reads "and like a mist I covered the earth."
+- **24:3** — The Vulgate reads primogenita ante omnem creaturam ("firstborn before every creature"), whereas the Greek reads "and like a mist I covered the earth."
 - **24:7** — The clause et omnium excellentium et humilium corda virtute calcavi ("and with power I trod upon the hearts of all the exalted and the humble") is unique to the Vulgate tradition, where the Greek says Wisdom held sway over every people and nation.
-- **24:8** — The Vulgate reads requievit in tabernaculo meo ("rested in my tent"), whereas the Greek has the Creator assign a resting place for Wisdom's tent.
+- **24:8** — The Vulgate reads requievit in tabernaculo meo ("rested in my tabernacle"), whereas the Greek has the Creator assign a resting place for Wisdom's tent.
 - **24:13** — The Vulgate reads in monte Sion ("on Mount Zion") here and in Cades ("in Kadesh") in 24:14, whereas the Greek names Mount Hermon and En-gedi respectively.
-- **24:28** — The Vulgate omits the negative before perficit ("completes") and reads infirmior ("the weaker one") rather than the Greek "the first man did not finish knowing her, and likewise the last man will not trace her out"; the masculine Qui connects 24:25-28 to God the Most High rather than the Greek masculine noun nomos ("law").
+- **24:28** — The Vulgate omits the negative before perficit ("completes") and reads infirmior ("the weaker one") rather than the Greek "the first man did not finish knowing her, and likewise the last man will not trace her out"; the antecedent of the masculine Qui in 24:25-28 is not stated (the Most High or liber, "book," in 24:23), whereas the Greek refers to the law.
 - **24:40 *(additional)*** — The source Latin reads accusative sapientiam ("wisdom as rivers"), whereas many Vulgate editions read nominative sapientia ("I, wisdom, have poured out rivers").

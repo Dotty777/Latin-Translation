@@ -29,7 +29,7 @@
 
 **19:12** Where are your wise men now? Let them announce to you and declare what the Lord of hosts has planned against Egypt.
 
-**19:13** The princes of Tanis have become foolish; the princes of Memphis have languished; they have deceived Egypt, the cornerstone of its peoples.
+**19:13** The princes of Tanis have become foolish; the princes of Memphis have languished; they have deceived Egypt, the corner of its peoples.
 
 **19:14** The Lord has mixed a spirit of dizziness in its midst; and they have made Egypt stagger in all its work, just as a drunken and vomiting man staggers.
 
@@ -57,8 +57,8 @@
 
 ## Translator Notes
 
-- **19:10** — The Vulgate reads "its irrigated grounds will droop: all who made ponds to catch fish" for a difficult Hebrew verse often translated "her weavers [or pillars] will be crushed, and all who work for wages will be grieved."
+- **19:10** — The Vulgate reads "its irrigated grounds will droop: all who made ponds to catch fish" for a difficult Hebrew verse that may mean "her weavers [or pillars] will be crushed, and all who work for wages will be grieved."
 - **19:11** — Latin "Taneos" (Tanis, also in 19:13) is the Greco-Latin name for the Egyptian city called Zoan in Hebrew.
 - **19:15** — The Vulgate construes "head and tail" as direct objects and renders the Hebrew botanical pair ("palm branch and reed") as "the one bending down and the one restraining" (incurvantem et refrenantem).
 - **19:18** — Latin "Civitas solis" ("City of the Sun," i.e., Heliopolis) reflects the Hebrew textual reading Ir ha-Cheres (attested also in the Dead Sea Scrolls), whereas the standard Masoretic Text reads Ir ha-Heres ("City of Destruction").
-- **19:23** — Latin "servient Aegyptii Assur" ("the Egyptians will serve Assyria") follows the Septuagint in taking Assyria as the object of service, whereas many modern translations from Hebrew render it "the Egyptians will worship with the Assyrians."
+- **19:23** — Latin "servient Aegyptii Assur" ("the Egyptians will serve Assyria") takes Assyria as the object of service, as the Septuagint does; the Hebrew can also mean "the Egyptians will worship with the Assyrians."

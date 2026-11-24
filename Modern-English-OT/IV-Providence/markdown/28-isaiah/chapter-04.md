@@ -21,4 +21,4 @@
 
 - **4:3** — Latin 'scriptus est in vita' ('written in life') uses the ablative case rather than the Hebrew 'written for life,' expressing inscription among the living.
 - **4:4** — Latin 'Si' ('If') literally reproduces the Hebrew conditional particle that in context carries a temporal sense ('when').
-- **4:5** — Latin 'ubi invocatus est' ('where He has been invoked') is a distinctly Vulgate rendering of the Hebrew term usually translated 'her assemblies.'
+- **4:5** — Latin 'ubi invocatus est' ('where He has been invoked') is a distinctly Vulgate rendering of the Hebrew term meaning 'her assemblies.'

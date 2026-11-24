@@ -9,7 +9,7 @@
 
 **37:2** Yet a companion and a friend will turn to enmity.
 
-**37:3** Most wicked presumption, from where were you created to cover the dry land with wickedness and its deceitfulness?
+**37:3** O most wicked presumption, from where were you created to cover the dry land with wickedness and its deceitfulness?
 
 **37:4** A companion rejoices together with a friend in pleasures, and in the time of distress he will be an adversary.
 

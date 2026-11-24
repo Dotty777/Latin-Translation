@@ -7,7 +7,7 @@
 
 **8:1** And it happened in the sixth year, in the sixth month, on the fifth of the month, I was sitting in my house, and the elders of Judah were sitting before me, and the hand of the Lord God fell upon me there.
 
-**8:2** And I saw, and look, a likeness like the appearance of fire: from the appearance of His waist downward, fire; and from His waist upward, like the appearance of brightness, as the sight of electrum.
+**8:2** And I saw, and look, a likeness like the appearance of fire: from the appearance of His loins downward, fire; and from His loins upward, like the appearance of brightness, as the sight of electrum.
 
 **8:3** And the likeness of a hand was stretched out and seized me by a lock of my head, and the Spirit lifted me up between earth and heaven and brought me into Jerusalem, in a vision of God, beside the inner entrance that faced toward the north, where the idol of jealousy was set up to provoke jealousy.
 
@@ -37,7 +37,7 @@
 
 **8:16** And He brought me into the inner court of the house of the Lord, and look, at the entrance of the temple of the Lord, between the vestibule and the altar, were about twenty-five men, having their backs toward the temple of the Lord and their faces toward the east; and they were worshiping toward the rising of the sun.
 
-**8:17** And He said to me, "Surely you have seen, son of man. Is this a light thing to the house of Judah, that they should do these abominations which they have done here, because, filling the land with iniquity, they have turned again to provoke Me? And look, they hold the branch to their noses.
+**8:17** And He said to me, "Surely you have seen, son of man. Is this a light thing to the house of Judah, that they should do these abominations which they have done here, because, filling the land with iniquity, they have turned to provoke Me? And look, they hold the branch to their noses.
 
 **8:18** Therefore I also will act in fury: My eye will not spare, nor will I have pity; and when they cry out to My ears with a loud voice, I will not listen to them."
 

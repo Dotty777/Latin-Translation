@@ -5,7 +5,7 @@
 
 ## Text
 
-**20:1** And it happened in the seventh year, in the fifth month, on the tenth of the month, that men from the elders of Israel came to inquire of the Lord, and they sat before me.
+**20:1** And it happened in the seventh year, in the fifth, on the tenth of the month, that men from the elders of Israel came to inquire of the Lord, and they sat before me.
 
 **20:2** And the word of the Lord came to me, saying:
 
@@ -23,7 +23,7 @@
 
 **20:9** And I acted for the sake of My name, so that it would not be profaned before the nations in whose midst they were, and among whom I appeared to them to lead them out of the land of Egypt.
 
-**20:10** Therefore I brought them out of the land of Egypt, and I led them out into the desert.
+**20:10** Therefore I cast them out of the land of Egypt, and I led them out into the desert.
 
 **20:11** And I gave them My precepts, and I showed them My judgments, by doing which a man will live in them.
 
@@ -31,7 +31,7 @@
 
 **20:13** And the house of Israel provoked Me in the desert: they did not walk in My precepts, and they cast aside My judgments, by doing which a man will live in them, and they greatly profaned My Sabbaths. Therefore I said that I would pour out My fury upon them in the desert and consume them;
 
-**20:14** and I acted for the sake of My name, so that it would not be profaned before the nations from which I brought them out in their sight.
+**20:14** and I acted for the sake of My name, so that it would not be profaned before the nations from which I cast them out in their sight.
 
 **20:15** I therefore lifted up My hand over them in the desert, that I would not bring them into the land that I gave them, flowing with milk and honey, the foremost of all lands,
 
@@ -47,7 +47,7 @@
 
 **20:21** And the sons exasperated Me: they did not walk in My precepts, and they did not keep My judgments to do them, which, when a man has done, he will live in them, and they profaned My Sabbaths. And I threatened to pour out My fury upon them and fulfill My anger against them in the desert.
 
-**20:22** But I turned away My hand and acted for the sake of My name, so that it would not be profaned before the nations from which I brought them out before their eyes.
+**20:22** But I turned away My hand and acted for the sake of My name, so that it would not be profaned before the nations from which I cast them out before their eyes.
 
 **20:23** Again I lifted up My hand against them in the wilderness, to scatter them among the nations and winnow them into the lands,
 

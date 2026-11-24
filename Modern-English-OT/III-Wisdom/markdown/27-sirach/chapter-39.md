@@ -17,11 +17,11 @@
 
 **39:6** For if the great Lord wills, He will fill him with the spirit of understanding,
 
-**39:7** and He Himself will direct his counsel and instruction, and he will reflect on His secrets.
+**39:7** and he himself will direct his counsel and instruction, and he will reflect on his secrets.
 
 **39:8** He himself will openly reveal the instruction of his teaching, and will glory in the law of the covenant of the Lord.
 
-**39:9** Many will praise his wisdom, and it will not be blotted out forever.
+**39:9** Many will praise his wisdom, and to eternity it will not be blotted out.
 
 **39:10** The nations will recount his wisdom, and the assembly will proclaim his praise.
 
@@ -77,7 +77,7 @@
 
 ## Translator Notes
 
-- **39:7** — The Latin pronouns (ipse, ejus, suis) are ambiguous following the Vulgate's shorter transition from 39:6; here ipse is taken as the Lord directing the wise man's counsel while consiliabitur shifts to the wise man reflecting on God's secrets, though a single subject throughout is also possible.
+- **39:7** — The Latin pronouns (ipse, ejus, suis) are ambiguous following the Vulgate's shorter transition from 39:6: ipse may be the Lord directing the wise man's counsel, or the wise man himself, as in the Greek; consiliabitur and the reflexive suis follow the same subject.
 - **39:12** — Latin ut furore ("as with frenzy/fury") is a Vulgate-distinct reading suggesting inspired ardor, whereas the Greek has "like the full moon."
 - **39:13** — Both In voce dicit ("With a voice he says") and divini fructus ("divine fruits") are Vulgate-distinct readings; the Greek lacks the introductory clause and addresses "devout children."
 - **39:23** — The Vulgate makes ira ipsius ("His wrath") the singular subject that "will inherit" the nations and adds quae non exquisierunt eum ("that have not sought Him out"), whereas the Greek makes the nations the subject inheriting His wrath.

@@ -20,5 +20,5 @@
 ## Translator Notes
 
 - **20:1** — The Clementine Vulgate reads "Thathan" (corresponding to Hebrew Tartan, an Assyrian military title meaning commander-in-chief) and "Azotum" (Azotus, the Greco-Latin name for Ashdod).
-- **20:3** — The Vulgate connects "of three years" (trium annorum) to the future "sign and wonder" rather than to the duration of Isaiah's walking naked and barefoot, as commonly construed in translations from the Masoretic Text.
+- **20:3** — The Vulgate connects "of three years" (trium annorum) to the future "sign and wonder" rather than to the duration of Isaiah's walking naked and barefoot.
 - **20:6** — Latin "insulae hujus" ("of this island") is a literal rendering of a Hebrew term that can denote either an island or a coastal region ("coastland").

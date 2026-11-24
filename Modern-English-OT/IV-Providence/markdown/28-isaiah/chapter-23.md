@@ -29,7 +29,7 @@
 
 **23:12** and He said: "You will no longer continue to boast, virgin daughter of Sidon, enduring oppression; rising up, cross over to Kittim; even there, there will be no rest for you."
 
-**23:13** Look, the land of the Chaldeans: such a people did not exist; Assyria founded it; they led away its strong men into captivity, they undermined its houses, they turned it into a ruin.
+**23:13** Look, the land of the Chaldeans: there was no such people; Assyria founded it; they led away its strong men into captivity, they undermined its houses, they turned it into a ruin.
 
 **23:14** Wail, ships of the sea, for your stronghold has been devastated.
 

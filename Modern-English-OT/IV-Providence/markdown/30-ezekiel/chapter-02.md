@@ -25,7 +25,7 @@
 
 ## Translator Notes
 
-- **2:1** — The Vulgate opens chapter 2 with 'Hæc visio similitudinis gloriæ Domini' ("This was the vision of the likeness of the glory of the Lord"), which the Hebrew text and most modern versions place at the end of 1:28.
+- **2:1** — The Vulgate opens chapter 2 with 'Hæc visio similitudinis gloriæ Domini' ("This was the vision of the likeness of the glory of the Lord"), which the Hebrew text places at the end of 1:28.
 - **2:3** — Latin 'prævaricati sunt pactum meum' ("have transgressed My covenant") is a Vulgate-distinct reading where the Hebrew text has simply "rebelled against Me."
 - **2:6** — Latin 'increduli et subversores' ("unbelievers and subverters") is a Vulgate-distinct reading where the Hebrew text speaks figuratively of briers and thorns.
 - **2:9** — Latin 'carmen' ("a song") renders a Hebrew word for groaning or mourning ('hegeh'), yielding the Vulgate triad "lamentations, and a song, and woe."

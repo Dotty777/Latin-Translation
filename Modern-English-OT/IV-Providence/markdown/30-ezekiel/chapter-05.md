@@ -44,5 +44,5 @@
 - **5:1** — Vulgate literally reads gladium acutum, radentem pilos ("a sharp sword that shaves hairs"), where the Hebrew has "a sharp sword; as a barber's razor".
 - **5:7** — Vulgate reads superastis ("you have surpassed"), interpreting the difficult Hebrew term for "your raging/turbulence" as exceeding the surrounding nations in wickedness.
 - **5:11** — Vulgate renders the affirmative Hebrew oath particle literally as nisi ("unless", i.e. "surely") and reads confringam ("break in pieces"), matching a textual variant rather than the Masoretic "withdraw/diminish".
-- **5:16** — Vulgate reads congregabo ("gather"), reflecting Hebrew "gather" rather than Masoretic "increase/add".
+- **5:16** — Vulgate reads congregabo ("gather"), where the Hebrew has "increase/add".
 - **5:17** — Vulgate reads usque ad internecionem ("even to utter destruction"), whereas the Hebrew reads "and they will bereave you [of children]".

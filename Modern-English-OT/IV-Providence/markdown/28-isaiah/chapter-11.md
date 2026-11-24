@@ -39,7 +39,7 @@
 
 ## Translator Notes
 
-- **11:2** — Together with 11:3, the Vulgate distinguishes 'pietatis' ("piety") from 'timoris Domini' ("the fear of the Lord," which "will fill Him"), producing the traditional sevenfold enumeration where the Hebrew repeats "fear of the Lord."
+- **11:2** — Together with 11:3, the Vulgate distinguishes 'pietatis' ("piety") from 'timoris Domini' ("the fear of the Lord," which "will fill Him"), giving seven distinct terms where the Hebrew repeats "fear of the Lord."
 - **11:6** — Latin reads 'ovis' ("sheep") in 11:6 and 'vitulus' ("calf") in 11:7 where the Hebrew has "fatling" and "cow"; in 11:8 'reguli' designates the basilisk.
-- **11:10** — Latin 'sepulchrum ejus' ("His tomb") is a celebrated Vulgate-distinct reading where the Hebrew text has "his resting place."
+- **11:10** — Latin 'sepulchrum ejus' ("His tomb") is a Vulgate-distinct reading where the Hebrew text has "his resting place."
 - **11:14** — Latin uses 'Idumaea' (Idumea), the Greco-Latin name for Edom, and renders the Hebrew "westward" literally as 'per mare' ("by the sea").

@@ -37,6 +37,6 @@
 
 - **17:3** — Latin "adjutorium" ("help") differs from the Hebrew Masoretic Text, which reads "fortress."
 - **17:6** — Latin "fructus ejus" ("its fruit") reflects reading the Hebrew as "its fruit" rather than "a fruitful tree"; in 17:5 "quod restiterit" ("what remains") similarly differs from Hebrew "standing grain."
-- **17:9** — Latin "aratra, et segetes" ("plows and grainfields") is a Vulgate-distinct rendering of a difficult Hebrew phrase often translated "wooded heights and summit" (or in the Septuagint, "the Hivites and the Amorites"); in 17:8 "lucos et delubra" ("groves and shrines") renders Hebrew Asherah poles and incense altars.
+- **17:9** — Latin "aratra, et segetes" ("plows and grainfields") is a Vulgate-distinct rendering of a difficult Hebrew phrase understood as "wooded heights and summit" (or in the Septuagint, "the Hivites and the Amorites"); in 17:8 "lucos et delubra" ("groves and shrines") renders Hebrew Asherah poles and incense altars.
 - **17:11** — Vulgate-distinct readings: "labrusca" ("a wild vine") and "in die haereditatis" ("on the day of inheritance," reading Hebrew nachalah as "inheritance" rather than "sickness/grief"), following "plantationem fidelem" ("a faithful planting") in 17:10.
 - **17:13** — The Latin shifts to singular pronouns ("eum ... fugiet ... rapietur," rendered "it") for the collective multitude and translates Hebrew galgal ("whirling dust/chaff") as "turbo" ("a whirlwind"); in 17:14 "in matutino" ("in the morning") contrasts with Hebrew "before morning."

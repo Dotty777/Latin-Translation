@@ -7,7 +7,7 @@
 
 **2:1** Son, approaching the service of God, stand in righteousness and fear, and prepare your soul for temptation.
 
-**2:2** Humble your heart, and endure; incline your ear, and receive words of understanding; and do not hasten in the time of gloom.
+**2:2** Humble your heart, and endure; incline your ear, and receive words of understanding; and do not hasten in the time of calamity.
 
 **2:3** Endure the delays of God; be joined to God, and endure, so that your life may increase at the last.
 
@@ -48,7 +48,7 @@
 ## Translator Notes
 
 - **2:1** — The clause "stand in righteousness and fear" ("sta in justitia et timore") is a Vulgate addition absent from the Greek; Latin "tentationem" ("temptation") carries the broad sense of both trial/testing and temptation.
-- **2:2** — The clause "incline your ear, and receive words of understanding" is a Vulgate addition; "obductionis" ("gloom," literally "covering over" or "clouding over") is an Old Latin calque of Greek "epagōgē" ("calamity/affliction").
+- **2:2** — The clause "incline your ear, and receive words of understanding" is a Vulgate addition; "obductionis" ("calamity," literally "a covering over" or "a bringing upon") is an Old Latin calque of Greek "epagōgē" ("calamity/affliction").
 - **2:3** — The opening command "Endure the delays of God" ("Sustine sustentationes Dei," literally "endure the deferrals/sustainings of God") is a Vulgate addition not present in the Greek.
 - **2:10** — Vulgate "nationes hominum" ("the nations of men") reflects an Old Latin rendering of Greek "archaias geneas" ("ancient generations") and adds "sons" ("filii"), while omitting two rhetorical questions that follow in the Greek.
-- **2:18** — The Vulgate adds "saying, 'If we do not repent'" ("dicentes: Si pœnitentiam non egerimus," literally "do not do penance"), absent from the Greek, framing the verse as a conditional statement, and adds "with Him" ("cum ipso est") at the end.
+- **2:18** — The Vulgate adds "saying, 'If we do not repent'" ("dicentes: Si pœnitentiam non egerimus"), absent from the Greek, framing the verse as a conditional statement, and adds "with Him" ("cum ipso est") at the end.

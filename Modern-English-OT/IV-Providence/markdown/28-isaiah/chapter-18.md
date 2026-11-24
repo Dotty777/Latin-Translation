@@ -21,7 +21,7 @@
 
 ## Translator Notes
 
-- **18:1** — Latin "cymbalo alarum" ("cymbal of wings") is a distinctive Vulgate rendering of a rare Hebrew phrase often translated "whirring wings" or "shadowing wings."
-- **18:2** — The Vulgate renders the difficult Hebrew descriptions of the Ethiopian nation as "uprooted and torn to pieces," "after whom there is no other," and "waiting and trampled down" (repeated in 18:7), where modern translations from the Masoretic Text often read "tall and smooth," "feared near and far," and "mighty and conquering."
+- **18:1** — Latin "cymbalo alarum" ("cymbal of wings") is a distinctive Vulgate rendering of a rare Hebrew phrase also understood as "whirring wings" or "shadowing wings."
+- **18:2** — The Vulgate renders the difficult Hebrew descriptions of the Ethiopian nation as "uprooted and torn to pieces," "after whom there is no other," and "waiting and trampled down" (repeated in 18:7), where the Hebrew Masoretic Text is generally understood as "tall and smooth," "feared near and far," and "mighty and conquering."
 - **18:4** — The Vulgate reads "as the midday light is clear" and "in the day of harvest" (in die messis), whereas the Masoretic Text has "like clear heat in sunshine" and "in the heat of harvest."
 - **18:5** — Latin "immatura perfectio" ("unripe perfection") literally renders a Hebrew expression for a ripening sour grape; similarly in 18:6 the Vulgate reads "aestate perpetua" ("in perpetual summer").

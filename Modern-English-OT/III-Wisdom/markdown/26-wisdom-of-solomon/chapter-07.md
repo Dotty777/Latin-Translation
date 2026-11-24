@@ -47,13 +47,13 @@
 
 **7:21** And whatever things are hidden and unforeseen I learned, for wisdom, the artisan of all things, taught me.
 
-**7:22** For there is in her a spirit of understanding, holy, unique, manifold, subtle, eloquent, mobile, undefiled, clear, sweet, loving the good, keen, which nothing hinders, doing good,
+**7:22** For there is in her a spirit of understanding, holy, unique, manifold, subtle, eloquent, mobile, undefiled, certain, sweet, loving the good, keen, which nothing hinders, doing good,
 
 **7:23** humane, gracious, firm, certain, untroubled, possessing all power, watching over all things, and which encompasses all spirits; intelligent, pure, subtle.
 
 **7:24** For wisdom is more mobile than all moving things, and she reaches everywhere because of her purity.
 
-**7:25** For she is a vapor of God's power, and a certain pure outflow of the splendor of almighty God; and therefore nothing defiled enters into her.
+**7:25** For she is a vapor of God's power, and a certain pure outflow of the splendor of Almighty God; and therefore nothing defiled enters into her.
 
 **7:26** For she is the radiance of eternal light, and a mirror without blemish of the majesty of God, and an image of His goodness.
 

@@ -17,7 +17,7 @@
 
 **10:6** She delivered the righteous man as he fled from the perishing ungodly, while fire came down upon Pentapolis.
 
-**10:7** As a witness to their wickedness, a smoking deserted land still remains, and trees bearing fruit at an uncertain time, and a standing figure of salt, a memorial of an unbelieving soul.
+**10:7** As a witness to their wickedness, a smoking deserted land remains, and trees bearing fruit at an uncertain time, and a standing figure of salt, a memorial of an unbelieving soul.
 
 **10:8** For in passing by wisdom, they not only fell into this, that they were ignorant of what is good, but also left mankind a memorial of their folly, so that in the things in which they sinned they could not even remain hidden.
 

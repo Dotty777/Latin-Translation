@@ -35,6 +35,6 @@
 
 - **6:1** — The Vulgate translates the Hebrew for the hem or train of the Lord's robe neutrally as "the things that were beneath Him" (ea quae sub ipso erant).
 - **6:2** — The Vulgate reads neuter "above it" (super illud, referring to the throne) and pairs plural verbs (velabant) with singular "His" (ejus), which Jerome and the Vulgate tradition understood as veiling the Lord's face and feet, whereas the Hebrew distributive singular refers to each seraph's own face and feet.
-- **6:5** — The Vulgate renders the Hebrew verb (often translated "I am ruined/undone") from its homonymous root meaning "be silent" (quia tacui, "because I have kept silent").
+- **6:5** — The Vulgate takes the Hebrew verb (which can mean "I am ruined") from its homonymous root meaning "be silent" (quia tacui, "because I have kept silent").
 - **6:10** — The Vulgate reads "Blind the heart" (Excaeca cor), where the Hebrew has "make fat/dull the heart."
 - **6:13** — Unlike the Hebrew Masoretic Text (which speaks of burning and a felled stump), the Vulgate presents a hopeful image: the remaining tenth "will be converted" (convertetur) and stand "for a display" (in ostensionem) like an oak "that spreads out its branches" (quae expandit ramos suos).

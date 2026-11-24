@@ -25,7 +25,7 @@
 
 **31:10** He who has been tested in it and made perfect will have eternal glory: he who was able to transgress and did not transgress, to do evil and did not do it.
 
-**31:11** Therefore his good things have been established in the Lord, and the whole assembly of the saints will recount his alms.
+**31:11** Therefore his good things have been established in the Lord, and the whole assembly of the holy ones will recount his alms.
 
 **31:12** Have you sat down at a great table? Do not open your throat over it first.
 

@@ -36,6 +36,6 @@
 ## Translator Notes
 
 - **6:3** — Vulgate reads rupibus ("cliffs"), whereas the Hebrew has "ravines" or "watercourses".
-- **6:4** — Vulgate renders Hebrew hammanim ("incense altars" or "sun-pillars") as simulacra ("images") here and in 6:5, and as delubra ("shrines") in 6:6.
+- **6:4** — Vulgate renders Hebrew hammanim ("incense altars" or "sun-pillars") as simulacra ("images") here, and as delubra ("shrines") in 6:6.
 - **6:9** — Vulgate reads active contrivi ("I have crushed"), whereas the Masoretic Hebrew has the passive or reflexive "I have been broken".
 - **6:14** — Vulgate preserves the proper name Deblatha (reflecting Hebrew Diblah with its final ending, often emended by modern critics to Riblah) and reads "from the desert of Deblatha" rather than "from the wilderness toward Diblah".

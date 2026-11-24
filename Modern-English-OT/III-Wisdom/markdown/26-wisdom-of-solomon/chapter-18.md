@@ -17,7 +17,7 @@
 
 **18:6** For that night was known beforehand by our fathers, so that, truly knowing which oaths they had trusted, they might be more steadfast in spirit.
 
-**18:7** Now the safety of the righteous indeed, but the destruction of the unrighteous, was awaited by Your people.
+**18:7** Now the safety of the righteous indeed, but the destruction of the unrighteous, was received by Your people.
 
 **18:8** For just as You harmed the adversaries, so also, calling us forth, You magnified us.
 
@@ -33,7 +33,7 @@
 
 **18:14** For while tranquil silence encompassed all things, and night in its course held the middle of its journey,
 
-**18:15** Your all-powerful word sprang forth out of heaven, from the royal thrones, a stern warrior into the middle of the land of destruction,
+**18:15** Your almighty word sprang forth out of heaven, from the royal thrones, a stern warrior into the middle of the land of destruction,
 
 **18:16** a sharp sword carrying Your unfeigned command, and standing, filled all things with death, and reached all the way to heaven while standing on the earth.
 
@@ -59,6 +59,6 @@
 
 - **18:1** — The Vulgate reads magnificabant te ('they magnified You'), explicitly directing praise to God from the righteous, whereas the Greek has emakarizon ('they called them blessed'), referring to the Egyptians congratulating the Israelites.
 - **18:13** — The Vulgate reads populum Dei esse ('to be the people of God'), whereas the Greek text reads 'the people to be God's son' (theou huion).
-- **18:16** — In the Vulgate, gladius acutus ('a sharp sword') is nominative in apposition to the Word itself, whereas the Greek accusative makes the sword an object carried by the warrior.
+- **18:16** — In the Vulgate, gladius acutus ('a sharp sword') is nominative in apposition to sermo tuus ('Your word') itself, whereas the Greek accusative makes the sword an object carried by the warrior.
 - **18:21** — The Clementine Vulgate reads prosperans (lit. 'prospering/succeeding', a variant of properans, 'hastening', matching Greek speusas) and deprecari pro populis ('to intercede for the peoples') where Greek has 'fought as champion'.
 - **18:22** — Vulgate turbas ('the crowds') reflects a Greek variant ochlon ('crowd/tumult') rather than cholon ('anger/wrath').

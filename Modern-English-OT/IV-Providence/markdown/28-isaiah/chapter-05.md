@@ -31,7 +31,7 @@
 
 **5:13** Therefore My people have been led captive, because they had no knowledge, and their nobles have perished from hunger, and their multitude has become parched with thirst.
 
-**5:14** Therefore hell has enlarged its soul, and has opened its mouth without any limit; and her mighty ones, and her people, and her lofty and glorious ones will go down to it.
+**5:14** Therefore the underworld has enlarged its soul, and has opened its mouth without any limit; and her mighty ones, and her people, and her lofty and glorious ones will go down to it.
 
 **5:15** And mankind will be bowed down, and man will be humbled, and the eyes of the lofty will be cast down.
 
@@ -53,7 +53,7 @@
 
 **5:24** Because of this, just as a tongue of fire devours stubble and the heat of the flame burns it up, so their root will be like ashes, and their shoot will rise like dust; for they have cast away the law of the Lord of hosts, and have blasphemed the speech of the Holy One of Israel.
 
-**5:25** Therefore the fury of the Lord grew angry against His people, and He stretched out His hand over them and struck them; and the mountains were shaken, and their corpses became like dung in the middle of the streets. In all these things His fury has not turned away, but His hand is still stretched out.
+**5:25** Therefore the fury of the Lord grew angry against His people, and He stretched out His hand over them and struck them; and the mountains were shaken, and their corpses became like dung in the middle of the streets. In all these things His fury has not been turned away, but His hand is still stretched out.
 
 **5:26** And He will lift up a standard among the nations far away, and He will whistle to it from the ends of the earth; and look, in haste it will come swiftly.
 
@@ -67,7 +67,7 @@
 
 ## Translator Notes
 
-- **5:1** — Latin 'patruelis mei' ('of my cousin') translates a Hebrew kinsman term often rendered 'my beloved,' and 'in cornu filio olei' ('on a horn, the son of oil') preserves the Hebrew idiom for a fertile hilltop.
+- **5:1** — Latin 'patruelis mei' ('of my cousin') takes the Hebrew term for 'my beloved' in its kinship sense ('uncle, kinsman'), and 'in cornu filio olei' ('on a horn, the son of oil') preserves the Hebrew idiom for a fertile hilltop.
 - **5:7** — Latin 'exspectavi' ('I waited') uses the first person singular directly as the Lord's voice, whereas the Hebrew has the third person ('he looked').
 - **5:9** — Latin 'nisi' ('unless') literally renders the Hebrew elliptical oath formula meaning 'surely,' and in 5:10 Jerome converts the Hebrew measures into Roman equivalents ('jugera,' 'lagunculam,' and 'modii').
 - **5:17** — Latin 'deserta in ubertatem versa' ('the desolate places that have been turned into fertility') is a distinctly Vulgate rendering where the Hebrew reads 'the ruins of the fat ones.'

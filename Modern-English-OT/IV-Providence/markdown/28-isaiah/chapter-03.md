@@ -61,6 +61,6 @@
 
 - **3:1** — Latin 'validum et fortem' ('the sturdy and the mighty') renders the Hebrew wordplay for 'support and staff' concretely as strong persons, before continuing with 'every support of bread and every support of water.'
 - **3:4** — Latin 'effeminati' ('the effeminate') is a distinctly Vulgate rendering of a rare Hebrew term meaning 'capricious ones' or 'babes.'
-- **3:12** — Latin 'qui te beatum dicunt' ('those who call you blessed') reflects an alternative vocalization of the Hebrew verb usually rendered 'those who guide you.'
-- **3:17** — Latin 'crinem earum nudabit' ('will lay bare their hair') is a distinctly Vulgate rendering where the Hebrew is usually translated 'foreheads' or 'secret parts.'
+- **3:12** — Latin 'qui te beatum dicunt' ('those who call you blessed') takes the Hebrew verb in its sense 'call happy' rather than 'guide.'
+- **3:17** — Latin 'crinem earum nudabit' ('will lay bare their hair') is a distinctly Vulgate rendering where the Hebrew word is variously understood as 'foreheads' or 'secret parts.'
 - **3:24** — The Vulgate omits the Hebrew closing clause 'branding instead of beauty,' carrying the word for 'beauty' into 3:25 as 'Pulcherrimi' ('your most handsome men').

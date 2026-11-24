@@ -38,5 +38,5 @@
 - **19:2** — Vulgate "Quare" ("Why") construes the opening Hebrew interrogative as a question of reason rather than "What was your mother?"
 - **19:4** — Vulgate "non absque vulneribus suis" ("not without their own wounds"), along with "in vulneribus earum" ("in their wounds") in 19:8, renders Hebrew "in their pit" by linking the Hebrew term with destruction or wounding.
 - **19:7** — Vulgate "didicit viduas facere" ("he learned to make widows") reflects reading the Hebrew consonants as "widows" rather than "palaces/citadels" and taking the verb as "learned" rather than "ravaged."
-- **19:10** — Vulgate "in sanguine tuo" ("in your blood") translates the difficult Hebrew phrase literally, where many modern versions emend or render "in your vineyard" or "in your likeness."
+- **19:10** — Vulgate "in sanguine tuo" ("in your blood") translates the difficult Hebrew phrase literally.
 - **19:11** — Vulgate "vidit altitudinem suam" ("she saw her height") takes the verb as active rather than passive ("was seen in its height").

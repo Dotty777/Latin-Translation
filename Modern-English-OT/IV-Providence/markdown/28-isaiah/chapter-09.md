@@ -47,7 +47,7 @@
 
 ## Translator Notes
 
-- **9:1** — Vulgate Isaiah 9:1-20 corresponds to 9:2-21 in the Hebrew Masoretic Text and most modern English versions, since Vulgate 8:23 corresponds to Hebrew 9:1.
+- **9:1** — The numbering here (8:23; 9:1-20) follows the Hebrew; in the alternative numbering these verses are 9:1-21.
 - **9:2** — Latin 'et non magnificasti laetitiam' ("and have not magnified the joy") follows the Hebrew written text (Ketiv, "not") rather than the read tradition (Qere, "for it"); the Latin also specifies 'victores' ("victors").
 - **9:5** — The Clementine Vulgate separates the first four titles with commas ('Admirabilis, Consiliarius, Deus, Fortis'), and 'Pater futuri saeculi' ("Father of the Age to Come") is a Vulgate-distinct rendering corresponding to Hebrew "Everlasting Father."
 - **9:13** — Latin 'incurvantem et refrenantem' ("the one bowing down and the one restraining") is a distinctly Vulgate rendering where the Hebrew text has "palm branch and reed."

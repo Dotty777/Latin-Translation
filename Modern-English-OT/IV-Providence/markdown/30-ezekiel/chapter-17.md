@@ -31,11 +31,11 @@
 
 **17:13** And he will take from the seed of the kingdom, and will strike a covenant with him, and will receive an oath from him. Moreover, he will also take the mighty ones of the land,
 
-**17:14** so that the kingdom may be lowly and not be lifted up, but may keep his pact and observe it.
+**17:14** so that the kingdom may be lowly and not be lifted up, but may keep his covenant and observe it.
 
-**17:15** Yet he, withdrawing from him, sent messengers to Egypt, so that it might give him horses and many people. Will the one who did these things prosper, or obtain safety? And he who broke the pact, will he escape?
+**17:15** Yet he, withdrawing from him, sent messengers to Egypt, so that it might give him horses and many people. Will the one who did these things prosper, or obtain safety? And he who broke the covenant, will he escape?
 
-**17:16** As I live, says the Lord God, surely in the place of the king who appointed him king, whose oath he made void, and he broke the pact that he had with him, in the midst of Babylon he will die.
+**17:16** As I live, says the Lord God, surely in the place of the king who appointed him king, whose oath he made void, and he broke the covenant that he had with him, in the midst of Babylon he will die.
 
 **17:17** And neither with a great army nor with many people will Pharaoh wage battle against him, at the casting up of a mound and at the building of ramparts, to kill many souls.
 
@@ -56,7 +56,7 @@
 ## Translator Notes
 
 - **17:3** — Vulgate "longo membrorum ductu" ("with a long span of limbs") and "medullam cedri" ("the pith/marrow of the cedar," as also in 17:22) are distinctive Latin renderings where the Hebrew Masoretic Text has "long of pinion" and "the crown/top of the cedar."
-- **17:5** — Vulgate "in superficie" ("on the surface") reflects a distinct understanding of the obscure Hebrew word "tsaftsafah" (often rendered "like a willow" from the Masoretic Text).
+- **17:5** — Vulgate "in superficie" ("on the surface") reflects a distinct understanding of the obscure Hebrew word "tsaftsafah" (usually understood as "like a willow").
 - **17:10** — Vulgate "ventus urens" ("the burning wind," as also in 19:12) renders the scorching effect of the Hebrew "east wind."
 - **17:12** — Following "venit" ("comes"), the Vulgate narrates the deportation in 17:12-13 with future verbs ("will take," "will bring," "will strike") before shifting to past tense in 17:15, whereas the Hebrew narrates the events in the past.
 - **17:17** — Vulgate "faciet contra eum Pharao praelium" ("Pharaoh will wage battle against him") differs from the Hebrew Masoretic Text's sense that Pharaoh will not help Zedekiah in battle.

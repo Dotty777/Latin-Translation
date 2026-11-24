@@ -45,7 +45,7 @@
 
 **25:21** Do not gaze upon a woman's beauty, and do not desire a woman for her beauty.
 
-**25:22** A woman's anger is both shamelessness and great disgrace. If a woman holds supremacy, she is opposed to her husband.
+**25:22** A woman's anger, and shamelessness, and great disgrace. If a woman holds supremacy, she is opposed to her husband.
 
 **25:23** A downcast heart, a sad face, and a wound of the heart: a wicked woman. Weak hands and slack knees: a woman who does not make her husband happy.
 

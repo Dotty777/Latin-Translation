@@ -43,9 +43,9 @@
 
 **8:19** Now I was a gifted boy, and I received a good soul as my lot.
 
-**8:20** And since I was even more good, I came to an undefiled body.
+**8:20** And since I was more good, I came to an undefiled body.
 
-**8:21** And when I knew that I could not otherwise be self-controlled unless God gives it, and that this very thing belonged to wisdom, to know whose gift this was, I approached the Lord and implored Him, and I spoke from my whole heart:
+**8:21** And when I knew that I could not otherwise be self-controlled unless God gives it—and this very thing belonged to wisdom, to know whose gift this was—I approached the Lord and implored Him, and I spoke from my whole heart:
 
 ## Translator Notes
 

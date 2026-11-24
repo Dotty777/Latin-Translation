@@ -47,7 +47,7 @@
 
 ## Translator Notes
 
-- **19:13** — Clementine Vulgate versification incorporates the clause numbered 19:14 in Greek editions into 19:13 (omitting verse number 14), and reads bonos hospites ('good guests') where Greek has 'guest-benefactors'.
+- **19:13** — In this critical text no verse 14 is numbered: this verse includes the material of Greek 19:14 (the Clementine numbers the following verse, beginning Et non solum hæc, as 19:14). The Latin reads bonos hospites ('good guests') where the Greek has 'guest-benefactors'.
 - **19:15** — Vulgate respectus ('regard/consideration', rendering Greek episkope, 'visitation/scrutiny') and past-tense erat ('was') differ from the Greek future 'there will be a visitation for them'.
 - **19:18** — Vulgate in organo qualitatis sonus immutatur ('on a musical instrument the sound of the quality is altered') is a distinct Latin rendering of the Greek comparison of harp notes changing the name of the rhythm while keeping their own tone.
-- **19:21** — Clementine Vulgate merges Greek 19:22 into the end of verse 21, and reads bonam escam ('good food') where Greek has 'ambrosial/immortal food'.
+- **19:21** — This verse includes the material of Greek 19:22 (the Clementine numbers this whole verse 19:20, and no verse 22 is numbered here); the Latin reads bonam escam ('good food') where the Greek has 'ambrosial/immortal food'.

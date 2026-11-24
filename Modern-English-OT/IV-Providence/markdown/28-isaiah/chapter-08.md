@@ -29,7 +29,7 @@
 
 **8:12** "Do not say, 'Conspiracy,' for everything that this people speaks is a conspiracy; and do not fear its fear, nor be in dread.
 
-**8:13** Sanctify the Lord of hosts Himself; let Him be your dread, and let Him be your terror;
+**8:13** Sanctify the Lord of hosts Himself; He is your dread, and He is your terror;
 
 **8:14** and He will be a sanctification for you, yet a stone of stumbling and a rock of offense for the two houses of Israel, a snare and a ruin for those who dwell in Jerusalem.
 
@@ -54,7 +54,7 @@
 ## Translator Notes
 
 - **8:1** — Both here (Velociter spolia detrahe, cito praedare) and in 8:3 (Accelera spolia detrahere; Festina praedari), the Vulgate translates the Hebrew symbolic name Maher-shalal-hash-baz directly into Latin rather than transliterating it.
-- **8:6** — The Vulgate reads "has rather adopted" (assumpsit magis) Rezin and the son of Remaliah, where the Hebrew Masoretic Text is commonly translated "rejoices in" or "melts in fear before."
+- **8:6** — The Vulgate reads "has rather adopted" (assumpsit magis) Rezin and the son of Remaliah, where the Hebrew Masoretic Text has "and rejoicing in."
 - **8:21** — The Clementine Vulgate prints suscipiet sursum, a traditional orthographic variant for suspiciet sursum ("will look upward"), parallel to "gaze at the earth" in 8:22.
 - **8:22** — The Vulgate joins the opening clause of Hebrew 8:23 (English 9:1) to the end of 8:22 and derives its verb from the root "to fly," reading "and he will not be able to fly away from his anguish" (et non poterit avolare de angustia sua).
-- **8:23** — Following Hebrew versification (corresponding to English 9:1), the Vulgate renders the Hebrew antithesis literally through passive verbs of weight, "was lightened" (alleviata est) versus "was weighed down" (aggravata est), where the Hebrew is commonly rendered "treated with contempt" versus "made glorious."
+- **8:23** — Following Hebrew versification (corresponding to English 9:1), the Vulgate renders the Hebrew antithesis literally through passive verbs of weight, "was lightened" (alleviata est) versus "was weighed down" (aggravata est); the Hebrew verbs can also mean "treated with contempt" and "made glorious."
