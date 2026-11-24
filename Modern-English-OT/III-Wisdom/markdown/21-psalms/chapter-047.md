@@ -33,12 +33,12 @@
 
 **47:14** Set your hearts on her strength, and distribute her houses, so that you may recount it in another generation.
 
-**47:15** For this is God, our God forever, and for age upon age: He Himself will rule us through the ages.
+**47:15** For this is God, our God forever, and forever and ever: He Himself will rule us through the ages.
 
 ## Translator Notes
 
 - **47:1** — Latin secunda sabbati ("on the second day of the week," lit. "second of the sabbath," i.e., Monday) follows the Septuagint liturgical heading and is absent from the Hebrew Masoretic Text.
 - **47:3** — Latin Fundatur exsultatione ("is founded with the exultation") follows the Septuagint, whereas the Hebrew Masoretic Text reads "beautiful in elevation, the joy of all the earth."
-- **47:9** — Latin Domini virtutum (literally "of the Lord of powers") renders the Septuagint divine title corresponding to Hebrew "LORD of hosts" and is rendered "the Lord of hosts" consistently across the Psalter.
+- **47:9** — Latin Domini virtutum (literally "of the Lord of powers") renders the Septuagint divine title corresponding to Hebrew "Lord of hosts" and is rendered "the Lord of hosts" consistently across the Psalter.
 - **47:13** — Following the Septuagint, the Vulgate reads complectimini eam; narrate in turribus ejus ("embrace her; tell it in her towers") and in 47:14 distribuite domos ejus ("distribute her houses"), where the Hebrew has "encircle her, count her towers" and "pass through her citadels."
 - **47:15** — Latin reget nos in sæcula ("will rule us through the ages") follows the Septuagint in reading the closing Hebrew phrase as "forever" rather than "even to death."

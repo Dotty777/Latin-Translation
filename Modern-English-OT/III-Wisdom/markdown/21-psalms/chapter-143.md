@@ -37,8 +37,8 @@
 
 ## Translator Notes
 
-- **143:1** — The superscription "Against Goliath" and the reading "my God" (where the Hebrew has "my rock") follow the Septuagint and are distinctive to the Vulgate tradition.
+- **143:1** — The superscription "Against Goliath" and the reading "my God" (where the Hebrew has "my rock") follow the Septuagint.
 - **143:3** — Vulgate "innotuisti ei" ("You have become known to him," following the Septuagint) differs from the Hebrew Masoretic Text, which reads "that you know/regard him."
 - **143:12** — Following the Septuagint, the Vulgate renders vv. 12-14 in the third person ("whose sons... their daughters... their storehouses"), continuing the description of the "sons of foreigners" from v. 11, whereas the Hebrew reads first-person plural ("our sons").
 - **143:13** — Vulgate "ex hoc in illud" ("from this into that," mirroring the Septuagint) reflects a different reading of the Hebrew expression usually rendered "of every kind" (literally "from kind to kind").
-- **143:15** — Vulgate "Beatum dixerunt" ("They have called ... blessed," following the Septuagint) includes a verb absent from the Hebrew, contrasting popular praise of material prosperity (vv. 12-14) with true blessedness in the Lord.
+- **143:15** — Vulgate "Beatum dixerunt" ("They have called ... blessed," following the Septuagint) includes a verb absent from the Hebrew.

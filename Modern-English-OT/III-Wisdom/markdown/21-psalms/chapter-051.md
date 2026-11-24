@@ -23,7 +23,7 @@
 
 **51:9** "Here is the man who did not make God his helper, but hoped in the abundance of his riches and grew strong in his vanity."
 
-**51:10** But I am like a fruitful olive tree in the house of God; I have hoped in the mercy of God forever and for age upon age.
+**51:10** But I am like a fruitful olive tree in the house of God; I have hoped in the mercy of God forever, and forever and ever.
 
 **51:11** I will give thanks to You forever, because You have acted; and I will wait for Your name, for it is good in the sight of Your holy ones.
 

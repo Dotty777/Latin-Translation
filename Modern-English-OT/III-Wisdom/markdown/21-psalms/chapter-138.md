@@ -19,7 +19,7 @@
 
 **138:7** Where will I go from Your Spirit? And where will I flee from Your face?
 
-**138:8** If I ascend into heaven, You are there; if I descend into hell, You are present.
+**138:8** If I ascend into heaven, You are there; if I descend into the underworld, You are present.
 
 **138:9** If I take my wings at dawn, and dwell in the farthest parts of the sea,
 
@@ -58,6 +58,6 @@
 - **138:1** — The superscription In finem ("To the end," also in 139:1) follows the Septuagint (eis to telos), corresponding to the Hebrew musical heading often rendered "For the choir director."
 - **138:3** — Vulgate funiculum meum ("my cord" or "measuring line") follows the Septuagint, whereas the Hebrew reads "my lying down."
 - **138:11** — Following the Septuagint, the Vulgate reads nox illuminatio mea in deliciis meis ("the night will be my illumination in my delights"), where the Hebrew has "the light around me will be night."
-- **138:16** — Vulgate Imperfectum meum denotes an unformed or unfinished state; the closing clause Dies formabuntur, et nemo in eis ("Days will be formed, and no one will be in them") follows the Septuagint and the written Hebrew (Ketiv), whereas many translations follow the spoken Hebrew (Qere) "when as yet there was not one of them."
+- **138:16** — Vulgate Imperfectum meum denotes an unformed or unfinished state; the closing clause Dies formabuntur, et nemo in eis ("Days will be formed, and no one will be in them") follows the Septuagint.
 - **138:17** — Following the Septuagint, the Vulgate reads amici tui ("Your friends") and principatus eorum ("their rule"), whereas the Hebrew reads "Your thoughts" and "their sum."
 - **138:20** — Vulgate dicitis in cogitatione: Accipient in vanitate civitates tuas ("you say in thought, 'They will take Your cities in vain'") follows the Septuagint, whereas the Hebrew refers to enemies taking God's name in vain.

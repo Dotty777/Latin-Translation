@@ -1,6 +1,6 @@
 # Proverbs 4 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (26 verses, 3 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -64,6 +64,5 @@
 ## Translator Notes
 
 - **4:2** — Vulgate 'Donum bonum' ("a good gift") follows the Septuagint rather than the Hebrew ("good teaching").
-- **4:6** — Verse 4:7 of the Hebrew Masoretic Text ("The beginning of wisdom is: acquire wisdom...") is absent from the Clementine Vulgate (as in the primary Septuagint tradition), so the text passes directly from 4:6 to 4:8.
 - **4:9** — Vulgate 'augmenta gratiarum' ("an increase of graces") reflects deriving the Hebrew term for "garland" from a root meaning "to add/join," and 'corona inclyta proteget te' uses an ablative of means ("shield you with a glorious crown") matching the Septuagint.
 - **4:27** — The second half of the verse ("For the Lord knows the ways that are on the right ... lead your journeys forward in peace") is a major Vulgate expansion derived from the Septuagint and absent from the Hebrew Masoretic Text.

@@ -5,7 +5,7 @@
 
 ## Text
 
-**132:1** A song of the steps, of David. Look, how good and how delightful it is for brothers to dwell as one!
+**132:1** A song of steps, of David. Look, how good and how delightful it is for brothers to dwell as one!
 
 **132:2** Like ointment on the head, which descends onto the beard, the beard of Aaron, which descends onto the border of his garment;
 

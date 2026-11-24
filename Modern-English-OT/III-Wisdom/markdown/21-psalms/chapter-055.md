@@ -5,9 +5,9 @@
 
 ## Text
 
-**55:1** To the end, for the people who were removed far from the holy things. Of David, for a title inscription, when the foreigners held him in Gath.
+**55:1** To the end, for the people who were removed far from the holy things. Of David, for the inscription of a title, when the foreigners held him in Gath.
 
-**55:2** Be merciful to me, God, for man has trampled on me; attacking all day long, he has afflicted me.
+**55:2** Have mercy on me, God, for man has trampled on me; attacking all day long, he has afflicted me.
 
 **55:3** My enemies have trampled on me all day long, for many are waging war against me.
 

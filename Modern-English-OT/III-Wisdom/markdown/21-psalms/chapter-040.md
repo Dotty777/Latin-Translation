@@ -23,7 +23,7 @@
 
 **40:9** They decreed an unjust word against me: "Will the one who sleeps rise up no more?"
 
-**40:10** For even the man of my peace, in whom I trusted, who ate my bread, has magnified treachery against me.
+**40:10** For even the man of my peace, in whom I hoped, who ate my bread, has magnified treachery against me.
 
 **40:11** But You, Lord, have mercy on me, and raise me up; and I will repay them.
 

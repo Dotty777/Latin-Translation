@@ -56,5 +56,5 @@
 - **5:2** — The second sentence ("Do not pay attention to the deceit of a woman") is a Vulgate reading shared with the Septuagint and absent from the Hebrew Masoretic Text; likewise in 5:3 the Vulgate reads "prostitute" (meretricis) rather than the Hebrew "strange woman."
 - **5:6** — The Vulgate uses a plural verb ("They do not walk"), continuing "her feet" and "her steps" from 5:5, and concludes "and untraceable" (investigabiles), where the Hebrew has singular "she does not ponder" and "she does not know it."
 - **5:14** — Literally "in the midst of the church/assembly (ecclesiae) and the synagogue/congregation (synagogae)," preserving the Vulgate's Greek loanwords for the public gathering.
-- **5:16** — Unlike many translations of the Hebrew that frame this verse as a rhetorical question, the Vulgate renders it positively as a jussive and imperative ("let your springs be channeled abroad, and divide your waters").
+- **5:16** — The Vulgate renders this verse as a positive jussive and imperative (deriventur ... divide), whereas the Hebrew is often read as a rhetorical question.
 - **5:23** — The Vulgate reads "he will be deceived" (decipietur) rather than the Hebrew "he goes astray."

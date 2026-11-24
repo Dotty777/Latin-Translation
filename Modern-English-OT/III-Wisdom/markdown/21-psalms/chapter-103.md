@@ -5,7 +5,7 @@
 
 ## Text
 
-**103:1** To David himself. Bless the Lord, my soul. Lord my God, You are exceedingly magnified. You have put on praise and splendor,
+**103:1** For David himself. Bless the Lord, my soul. Lord my God, You are exceedingly magnified. You have put on praise and splendor,
 
 **103:2** wrapped in light as in a garment; stretching out heaven like a skin,
 
@@ -77,7 +77,7 @@
 
 ## Translator Notes
 
-- **103:1** — Following the Septuagint, the Vulgate includes the superscription 'To David himself' (absent in the Masoretic Text, where this is Psalm 104). Latin confessionem (literally 'confession') here carries its ecclesiastical sense of praise and acknowledgment, where the Hebrew reads 'majesty.'
+- **103:1** — Following the Septuagint, the Vulgate includes the superscription 'For David himself' (absent in the Masoretic Text, where this is Psalm 104). Latin confessionem (literally 'confession') here has the sense of praise and acknowledgment, where the Hebrew reads 'majesty.'
 - **103:11** — Vulgate expectabunt ('will wait') follows the Septuagint, whereas the Masoretic Text reads 'quench' their thirst. In the Latin grammar, omnes bestiae is nominative plural, making the beasts the subject of potabunt ('will drink').
 - **103:15** — The unexpressed third-person singular subject of ut exhilaret ('so that he may cheer') is ambiguous in Latin and may be understood either as man (from preceding hominis) or as God.
 - **103:17** — Vulgate herodii domus dux est eorum ('the house of the heron is their leader') follows the Septuagint, where the Masoretic Text reads that the stork has its home in the fir trees.

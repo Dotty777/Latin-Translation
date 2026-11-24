@@ -5,7 +5,7 @@
 
 ## Text
 
-**102:1** Of David himself. Bless the Lord, my soul, and everything that is within me, His holy name.
+**102:1** For David himself. Bless the Lord, my soul, and everything that is within me, His holy name.
 
 **102:2** Bless the Lord, my soul, and do not forget all His recompenses.
 
@@ -17,7 +17,7 @@
 
 **102:6** The Lord performs acts of mercy, and judgment for all who suffer wrong.
 
-**102:7** He made His ways known to Moses; to the children of Israel, His will.
+**102:7** He made His ways known to Moses; to the sons of Israel, His will.
 
 **102:8** Compassionate and merciful is the Lord: patient, and greatly merciful.
 

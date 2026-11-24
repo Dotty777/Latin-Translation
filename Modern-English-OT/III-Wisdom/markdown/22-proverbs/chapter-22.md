@@ -11,7 +11,7 @@
 
 **22:3** A shrewd person saw evil and hid himself; an innocent person went right on and was afflicted with loss.
 
-**22:4** The outcome of humility is the fear of the Lord, wealth, glory, and life.
+**22:4** The outcome of modesty is the fear of the Lord, wealth, glory, and life.
 
 **22:5** Weapons and swords are in the way of the perverse person, yet the guardian of his own soul withdraws far from them.
 
@@ -70,6 +70,6 @@
 - **22:5** — The Vulgate renders Hebrew tsinnim pachim ("thorns and snares") as Arma et gladii ("Weapons and swords"), reflecting the alternate sense of Hebrew tsinnah as a large shield.
 - **22:9** — The second sentence ("The one who gives gifts will acquire victory and honor, yet he takes away the soul of the recipients") is present in the Vulgate and Septuagint but absent from the Masoretic Hebrew text.
 - **22:16** — Latin calumniatur literally denotes false accusation or extortion through malicious litigation, used here in the Vulgate to render Hebrew ashaq ("oppress").
-- **22:20** — Latin tripliciter ("in a threefold way") is a famous Vulgate reading—contrasting with Masoretic Hebrew "thirty [sayings]" or "excellent things"—which early Christian interpreters often connected to the threefold sense of Scripture.
+- **22:20** — Latin tripliciter ("in a threefold way") is a distinctive Vulgate reading, contrasting with Masoretic Hebrew "thirty [sayings]" or "excellent things."
 - **22:23** — The Vulgate uses the repeated verb configet ... confixerunt ("will pierce ... have pierced"), whereas the Masoretic Hebrew speaks of despoiling or robbing the poor.
 - **22:6 *(additional)*** — The Clementine Vulgate presents this verse as a condensed, verbless proverb ("a youth according to his own way") rather than an imperative command.

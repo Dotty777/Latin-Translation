@@ -7,7 +7,7 @@
 
 **134:1** Hallelujah. Praise the name of the Lord; servants, praise the Lord,
 
-**134:2** you who stand in the house of the Lord, in the courtyards of the house of our God.
+**134:2** you who stand in the house of the Lord, in the courts of the house of our God.
 
 **134:3** Praise the Lord, because the Lord is good; sing psalms to His name, for it is pleasant.
 
@@ -50,6 +50,6 @@
 ## Translator Notes
 
 - **134:1** — Latin "laudate, servi, Dominum" treats "servants" as a standalone vocative and "the Lord" as the direct object, following the Septuagint, whereas the Hebrew reads "praise, servants of the Lord."
-- **134:5** — Latin "Deus noster" ("our God") follows the Septuagint, where the Hebrew has "our Lord."
+- **134:5** — The Vulgate reads "Deus noster" ("our God") where the Hebrew has "our Lord."
 - **134:14** — Latin "in servis suis deprecabitur" uses "deprecor" passively ("will be moved by prayer / pleaded with"), following the Septuagint ("will be consoled / appealed to"), whereas the Hebrew has "will have compassion on His servants."
 - **134:21** — Following the Septuagint, the Vulgate omits the closing "Hallelujah" found at the end of Hebrew Psalm 135:21, placing it instead at the opening of Vulgate Psalm 135:1.

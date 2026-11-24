@@ -7,7 +7,7 @@
 
 **83:1** To the end, for the winepresses, for the sons of Korah. A psalm.
 
-**83:2** How beloved are Your dwelling places, Lord of hosts!
+**83:2** How beloved are Your tabernacles, Lord of hosts!
 
 **83:3** My soul yearns and faints for the courts of the Lord; my heart and my flesh have exulted in the living God.
 
@@ -34,8 +34,8 @@
 ## Translator Notes
 
 - **83:1** — Following the Septuagint's interpretation of the Hebrew musical heading ("for the choir director, according to the Gittith"), the Vulgate reads "To the end, for the winepresses" (In finem, pro torcularibus).
-- **83:2** — Latin Domine [Deus] virtutum (literally "Lord [God] of powers," vv. 2, 4, 9, 13) renders the Septuagint equivalent of Hebrew "LORD [God] of hosts" and is rendered "Lord [God] of hosts" consistently across the Psalter.
+- **83:2** — Latin Domine [Deus] virtutum (literally "Lord [God] of powers," vv. 2, 4, 9, 13) renders the Septuagint equivalent of Hebrew "Lord [God] of hosts" and is rendered "Lord [God] of hosts" consistently across the Psalter.
 - **83:6** — In vv. 6-7, following the Septuagint, the Vulgate reads "he has arranged ascents in his heart, in the valley of tears, in the place that he has set," whereas the Hebrew reads "in whose heart are the highways [to Zion]; passing through the valley of Baca, they make it a spring."
 - **83:8** — Following the Septuagint, the Vulgate reads "the lawgiver will give a blessing" (legislator, taking Hebrew moreh as "teacher/lawgiver" rather than "early rain") and "the God of gods will be seen in Zion" (videbitur Deus deorum, where the Hebrew reads "each one appears before God in Zion").
 - **83:11** — Following the Septuagint, the Vulgate reads plural "thousands" (millia), "to be lowly" (abjectus esse, lit. "cast aside," where the Hebrew reads "stand at the threshold"), and "of sinners" (peccatorum) rather than "of wickedness."
-- **83:12** — Following the Septuagint, the Vulgate reads "For God loves mercy and truth" (misericordiam et veritatem diligit Deus), whereas the Hebrew reads "For the LORD God is a sun and shield."
+- **83:12** — Following the Septuagint, the Vulgate reads "For God loves mercy and truth" (misericordiam et veritatem diligit Deus), whereas the Hebrew reads "For the Lord God is a sun and shield."

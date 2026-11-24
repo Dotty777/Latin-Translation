@@ -79,6 +79,6 @@
 
 - **6:3** — The Vulgate renders the closing imperatives as "Run about, hurry, rouse your friend" (Discurre, festina, suscita amicum tuum), differing from the Hebrew "go, humble yourself, and importune your neighbor."
 - **6:5** — The Vulgate translates the first clause literally as "from the hand" (de manu), whereas the Hebrew is commonly vocalized as "from the hunter."
-- **6:11** — The second sentence ("Yet if you are diligent...") is a Vulgate reading derived from the Septuagint and absent from the Hebrew Masoretic Text; in the first clause, the Vulgate reads "traveler" (viator) where the Hebrew is often rendered "robber" or "vagabond."
+- **6:11** — The second sentence ("Yet if you are diligent...") is a Vulgate reading derived from the Septuagint and absent from the Hebrew Masoretic Text; in the first clause, the Vulgate reads "traveler" (viator) where the Hebrew means "one who roams" (a vagabond or robber).
 - **6:22** — The Vulgate takes the final verb as a second-person imperative addressed to the son ("and on waking, speak with them"), whereas the Hebrew makes the instruction the subject ("when you awake, it will talk with you").
 - **6:30** — The Vulgate reads "It is not a great fault when someone steals" (Non grandis est culpa), contrasting with the Hebrew "People do not despise a thief if he steals."

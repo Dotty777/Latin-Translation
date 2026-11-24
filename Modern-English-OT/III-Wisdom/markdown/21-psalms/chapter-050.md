@@ -49,7 +49,7 @@
 
 ## Translator Notes
 
-- **50:1** — Latin 'In finem' ('To the end') reflects the Septuagint 'eis to telos', rendering the Hebrew superscription usually translated 'for the choirmaster' or 'for the choir director'.
+- **50:1** — Latin 'In finem' ('To the end') reflects the Septuagint 'eis to telos', rendering the Hebrew superscription lamnatseach ('for the director').
 - **50:5** — Latin 'contra me' literally means 'against me' (or 'facing me'), whereas the Septuagint and Hebrew read 'before me'.
 - **50:6** — Latin 'cum judicaris' ('when You are judged') is passive, following the Septuagint (as also quoted in Romans 3:4), whereas the Hebrew is active ('when You judge').
 - **50:8** — Following the Septuagint, the Vulgate reads 'incerta et occulta sapientiae tuae' ('the uncertain and hidden things of Your wisdom'), whereas the Hebrew speaks of truth in the inward parts and wisdom in the secret heart.

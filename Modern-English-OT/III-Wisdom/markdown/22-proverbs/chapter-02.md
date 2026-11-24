@@ -19,7 +19,7 @@
 
 **2:7** He will guard the salvation of the upright, and protect those who walk guilelessly,
 
-**2:8** preserving the paths of righteousness, and guarding the ways of the saints.
+**2:8** preserving the paths of righteousness, and guarding the ways of the holy ones.
 
 **2:9** Then you will understand righteousness, judgment, equity, and every good path.
 

@@ -19,4 +19,4 @@
 
 - **42:1** — The superscription "A psalm of David" (Psalmus David) follows the Septuagint; the Hebrew Masoretic Text has no heading for this psalm (MT Psalm 43).
 - **42:3** — Following the Septuagint, the Vulgate uses perfect indicative verbs ("have led ... and brought," deduxerunt, et adduxerunt) rather than the Hebrew jussive ("let them lead ... and bring").
-- **42:4** — "Who gladdens my youth" (qui laetificat juventutem meam) follows the Septuagint rendering of the Hebrew phrase usually translated "my exceeding joy."
+- **42:4** — "Who gladdens my youth" (qui laetificat juventutem meam) follows the Septuagint, where the Hebrew reads "the joy of my exultation."

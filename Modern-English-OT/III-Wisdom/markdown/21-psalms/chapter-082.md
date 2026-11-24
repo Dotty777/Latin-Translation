@@ -25,7 +25,7 @@
 
 **82:10** Do to them as to Midian and Sisera, as to Jabin at the Kishon torrent.
 
-**82:11** They perished in Endor; they became like manure for the earth.
+**82:11** They perished in Endor; they became like the dung of the earth.
 
 **82:12** Make their princes like Oreb, Zeeb, Zebah, and Zalmunna: all their princes,
 

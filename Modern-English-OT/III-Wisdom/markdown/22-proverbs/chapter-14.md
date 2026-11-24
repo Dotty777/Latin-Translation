@@ -27,7 +27,7 @@
 
 **14:11** The house of the wicked will be wiped out, but the tents of the righteous will sprout.
 
-**14:12** There is a way that appears right to a man, but its final ends lead down to death.
+**14:12** There is a way that appears just to a man, but its final ends lead down to death.
 
 **14:13** Laughter will be mingled with sorrow, and mourning seizes the end of joy.
 

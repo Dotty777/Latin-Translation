@@ -63,6 +63,6 @@
 
 - **19:7** — The Vulgate renders the difficult final clause as "The one who pursues only words will have nothing" (Qui tantum verba sectatur nihil habebit), contrasting it with 19:8, whereas the Hebrew is commonly taken to mean that the poor man pursues his friends with words, yet they are gone.
 - **19:19** — The Vulgate translates the second half in the third person ("when he takes by force, he will add something else", cum rapuerit, aliud apponet), whereas the Hebrew Masoretic Text uses the second person ("if you rescue him, you will have to do it again").
-- **19:22** — Following a distinct reading of the Hebrew, the Vulgate has "A needy person is merciful" (Homo indigens misericors est), whereas the Hebrew Masoretic Text is generally translated "What is desired in a man is steadfast love."
+- **19:22** — Following a distinct reading of the Hebrew, the Vulgate has "A needy person is merciful" (Homo indigens misericors est), whereas the Hebrew Masoretic Text is generally understood as "What is desired in a man is steadfast love."
 - **19:24** — The Vulgate reads "under his armpit" (sub ascella), a distinctly Vulgate rendering where the Hebrew Masoretic Text reads "in the dish."
 - **19:27** — The Vulgate turns this proverb into a direct prohibition ("Do not cease, son, to listen to instruction", Non cesses, fili, audire doctrinam), whereas the Hebrew Masoretic Text uses an ironic imperative ("Cease, my son, to hear instruction, and you will stray from the words of knowledge").

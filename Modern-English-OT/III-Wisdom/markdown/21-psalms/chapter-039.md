@@ -43,7 +43,7 @@
 
 ## Translator Notes
 
-- **39:5** — "The name of the Lord" (nomen Domini) follows the Septuagint ("to onoma kyriou"), whereas the Hebrew Masoretic Text reads simply "the LORD."
+- **39:5** — "The name of the Lord" (nomen Domini) follows the Septuagint ("to onoma kyriou"), whereas the Hebrew Masoretic Text reads simply "the Lord."
 - **39:7** — "You perfected ears for me" (aures autem perfecisti mihi) is a distinctive Gallican Vulgate reading combining "ears" (cf. Hebrew "ears You have dug/opened for me") with "perfecisti" from Greek "katertiso," where most Septuagint manuscripts and Hebrews 10:5 read "a body You have prepared for me."
 - **39:8** — "At the head of the book" (In capite libri) translates Greek "en kephalidi bibliou" (the roll or heading of the scroll). The Clementine Vulgate attaches "ut facerem voluntatem tuam" ("that I should do Your will") in 39:9 directly to 39:8 rather than to "volui" ("I have desired it").
 - **39:12** — "Have always upheld me" (semper susceperunt me) is a past/perfect indicative statement in the Vulgate and Septuagint, contrasting with the jussive wish in the Hebrew Masoretic Text ("may Your steadfast love and faithfulness continually preserve me").

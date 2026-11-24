@@ -24,4 +24,4 @@
 - **52:1** — Latin 'pro Maeleth' reflects the Hebrew musical or liturgical term 'Mahalath' via the Septuagint, and 'intelligentiae' ('of understanding') renders the Septuagint translation of Hebrew 'maskil'. In the Vulgate numbering, the superscription is joined with the opening line of the psalm.
 - **52:4** — Latin 'inutiles' ('useless', following the Septuagint's 'made unprofitable') corresponds to the Hebrew 'corrupt' or 'tainted'.
 - **52:6** — Latin 'eorum qui hominibus placent' ('those who please men') follows the Septuagint ('men-pleasers'), whereas the Hebrew reads 'the one who encamps against you'. Likewise, 'confusi sunt' ('they were put to shame') is passive, whereas the Hebrew is second-person active ('you put them to shame').
-- **52:7** — Latin 'converterit ... captivitatem' literally speaks of turning back captivity (following the Septuagint), whereas modern translations of the Hebrew often render the idiom 'restores the fortunes'.
+- **52:7** — Latin 'converterit ... captivitatem' literally speaks of turning back captivity (following the Septuagint); the Hebrew idiom can also mean 'restores the fortunes'.

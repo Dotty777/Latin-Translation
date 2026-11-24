@@ -18,5 +18,5 @@
 ## Translator Notes
 
 - **92:1** — The Vulgate superscription (absent in the Hebrew Masoretic Text) follows the Septuagint in assigning this psalm to the day before the Sabbath (Friday), while rendering the Greek 'was inhabited' as 'was founded' (fundata est).
-- **92:2** — Latin 'ex tunc' ('from then') literally mirrors the Septuagint, linking the preparation of God's throne to the primordial founding of the earth.
-- **92:4** — The Clementine Vulgate attaches 'a vocibus aquarum multarum' ('from the voices of many waters') to the end of verse 3, whereas the Hebrew reads it as a comparative ('more than the roar of many waters') introducing verse 4.
+- **92:2** — Latin 'ex tunc' ('from then') literally mirrors the Septuagint.
+- **92:4** — Latin 'a vocibus aquarum multarum' ('from the voices of many waters') continues the sentence of verse 3, whereas the Hebrew reads it as a comparative ('more than the roar of many waters').

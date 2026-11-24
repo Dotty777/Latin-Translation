@@ -51,7 +51,7 @@
 
 **11:24** Some share out what is their own and become richer; others seize what is not theirs and are always in poverty.
 
-**11:25** The soul that blesses will be enriched, and the one who satisfies with drink will himself also be satisfied.
+**11:25** The soul that blesses will be made fat, and the one who satisfies with drink will himself also be satisfied.
 
 **11:26** Whoever hides grain will be cursed among the peoples, but a blessing will be upon the head of those who sell.
 

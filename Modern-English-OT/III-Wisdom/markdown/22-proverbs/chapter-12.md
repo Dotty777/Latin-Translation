@@ -65,6 +65,6 @@
 
 - **12:11** — The second sentence ('Whoever delights in lingering over wine...') is a Clementine Vulgate addition matching the Septuagint and is absent from the Hebrew Masoretic Text.
 - **12:18** — The Vulgate reads 'promittit, et quasi gladio pungitur conscientiae' ('promises and is pierced as if by a sword of conscience'), whereas the Hebrew Masoretic Text speaks of rash speech being like sword thrusts.
-- **12:26** — The Vulgate renders a difficult Hebrew clause as 'Qui negligit damnum propter amicum, justus est' ('Whoever disregards loss for the sake of a friend is righteous'), whereas many modern renderings of the Hebrew read 'The righteous is a guide to his neighbor.'
+- **12:26** — The Vulgate renders a difficult Hebrew clause as 'Qui negligit damnum propter amicum, justus est' ('Whoever disregards loss for the sake of a friend is righteous'), whereas the Hebrew is commonly understood as 'The righteous is a guide to his neighbor.'
 - **12:27** — The Vulgate reads 'fraudulentus' ('fraudulent person') and 'auri pretium' ('the value of gold'), taking the Hebrew terms in their alternate senses of deceit and gold rather than laziness and diligence.
 - **12:28** — Following the ancient versions including the Septuagint, the Vulgate reads 'iter autem devium ducit ad mortem' ('but a wayward path leads to death'), whereas the Hebrew Masoretic Text reads 'and in its pathway there is no death.'

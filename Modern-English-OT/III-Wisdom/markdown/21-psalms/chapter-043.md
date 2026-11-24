@@ -51,7 +51,7 @@
 
 **43:23** Because for Your sake we are put to death all day long; we have been reckoned like sheep for slaughter.
 
-**43:24** Arise; why do You sleep, Lord? Arise, and do not reject us forever.
+**43:24** Arise; why do You sleep, Lord? Arise, and do not reject us to the end.
 
 **43:25** Why do You turn Your face away? Do You forget our poverty and our distress?
 

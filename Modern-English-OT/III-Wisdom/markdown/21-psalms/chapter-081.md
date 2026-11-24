@@ -9,7 +9,7 @@
 
 **81:2** "How long do you judge unjustly and show partiality to sinners?
 
-**81:3** Judge for the needy and the orphan; vindicate the humble and the poor.
+**81:3** Judge for the needy and the orphan; justify the humble and the poor.
 
 **81:4** Rescue the poor, and free the needy from the hand of the sinner.
 

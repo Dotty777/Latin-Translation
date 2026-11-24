@@ -17,7 +17,7 @@
 
 **140:6** their judges, joined to the rock, have been swallowed up. They will hear my words, because they have prevailed.
 
-**140:7** Just as the thickness of the earth has been broken open upon the earth, our bones have been scattered beside hell.
+**140:7** Just as the thickness of the earth has been broken open upon the earth, our bones have been scattered beside the underworld.
 
 **140:8** For toward You, Lord, Lord, are my eyes; I have hoped in You; do not take away my soul.
 

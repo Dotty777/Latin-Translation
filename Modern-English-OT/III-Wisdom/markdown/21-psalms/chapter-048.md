@@ -41,7 +41,7 @@
 
 **48:18** for when he dies, he will not take all things, nor will his glory descend with him.
 
-**48:19** For his soul will be blessed in his own life; he will praise You when You do good to him.
+**48:19** For his soul will be blessed in his own life; he will praise you when you do good to him.
 
 **48:20** He will enter even to the generations of his fathers, and even forever he will not see light.
 
@@ -50,7 +50,7 @@
 ## Translator Notes
 
 - **48:6** — Latin iniquitas calcanei mei ("the iniquity of my heel") follows the Septuagint literally, whereas the Hebrew is commonly understood as "the iniquity of my supplanters/foes."
-- **48:8** — Latin Frater non redimit, redimet homo ("A brother does not redeem, a man will redeem") literally reflects the Septuagint rendering of an emphatic Hebrew construction ("no man can by any means redeem a brother"), taken either as a rhetorical question or, in Latin patristic tradition, as a reference to Christ; in 48:9, laborabit ("he will labor") similarly reflects the Septuagint reading.
+- **48:8** — Latin Frater non redimit, redimet homo ("A brother does not redeem, a man will redeem") literally reflects the Septuagint rendering of an emphatic Hebrew construction ("no man can by any means redeem a brother"); in 48:9, laborabit ("he will labor") similarly reflects the Septuagint reading.
 - **48:13** — Following the Septuagint, the Vulgate reads non intellexit ("did not understand") in both 48:13 and 48:21, whereas the Hebrew has "will not remain" in 48:13 and "does not understand" in 48:21.
 - **48:15** — Latin infernus (and inferi in 48:16) denotes the underworld or realm of the dead, rendering Greek Hades. The clause auxilium eorum veterascet in inferno a gloria eorum ("their help will grow old in the underworld, away from their glory") follows the Septuagint against Hebrew "their form will waste away in Sheol from their dwelling."
-- **48:19** — Latin confitebitur tibi cum benefeceris ei ("he will praise You when You do good to him") follows the Septuagint in shifting Hebrew "men will praise you when you do well for yourself" into a clause traditionally read in Latin exegesis as addressing God.
+- **48:19** — Latin confitebitur tibi cum benefeceris ei ("he will praise you when you do good to him") follows the Septuagint, where the Hebrew reads "men will praise you when you do well for yourself"; tibi may refer to the person addressed in 48:17 or to God.

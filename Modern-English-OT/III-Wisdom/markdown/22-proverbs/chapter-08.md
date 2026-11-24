@@ -1,6 +1,6 @@
 # Proverbs 8 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (35 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -39,11 +39,11 @@
 
 **8:17** I love those who love me, and those who watch early for me will find me.
 
-**8:18** With me are riches and glory, splendid wealth and justice.
+**8:18** With me are riches and glory, splendid wealth and righteousness.
 
 **8:19** For my fruit is better than gold and precious stone, and my yield than choice silver.
 
-**8:20** I walk in the ways of justice, in the middle of the paths of judgment,
+**8:20** I walk in the ways of righteousness, in the middle of the paths of judgment,
 
 **8:21** so that I may enrich those who love me, and fill their treasuries.
 
@@ -51,7 +51,7 @@
 
 **8:23** From eternity I was ordained, and from ancient times before the earth was made.
 
-**8:24** The depths did not yet exist, and I had already been conceived; nor had the springs of waters yet burst forth,
+**8:24** The depths were not yet, and I had already been conceived; nor had the springs of waters yet burst forth,
 
 **8:25** nor had the mountains yet stood firm with their heavy mass; before the hills I was being brought forth.
 
@@ -82,7 +82,6 @@
 ## Translator Notes
 
 - **8:5** — Latin "parvuli" (literally "little ones," as also in 7:7) is the Vulgate's characteristic rendering for the naive or inexperienced.
-- **8:22** — Vulgate "possedit me" ("possessed me") renders the Hebrew verb that can mean "acquired/possessed" or "created" (rendered "created" in the Greek Septuagint), a key verse in early Christological debates.
+- **8:22** — Vulgate "possedit me" ("possessed me") renders the Hebrew verb that can mean "acquired/possessed" or "created" (rendered "created" in the Greek Septuagint).
 - **8:26** — Vulgate "flumina" ("rivers") and "cardines orbis terræ" ("pivots of the world") are distinctive Latin renderings where the Hebrew text refers to open fields and the first dust of the world.
 - **8:30** — Vulgate "cuncta componens" ("arranging all things") resolves an ambiguous Hebrew term (debated between "master craftsman" and "little child") by portraying Wisdom as ordering creation alongside God.
-- **8:32** — Verse 8:33 (present in the Hebrew text and some other Latin witnesses) is omitted in this Clementine Vulgate text, which moves directly from 8:32 to 8:34.

@@ -5,7 +5,7 @@
 
 ## Text
 
-**131:1** A song of the steps. Remember, Lord, David and all his gentleness,
+**131:1** A song of steps. Remember, Lord, David and all his gentleness,
 
 **131:2** how he swore to the Lord; he made a vow to the God of Jacob:
 
@@ -13,11 +13,11 @@
 
 **131:4** if I give sleep to my eyes, and to my eyelids slumber,
 
-**131:5** and rest to my temples, until I find a place for the Lord, a tent for the God of Jacob."
+**131:5** and rest to my temples, until I find a place for the Lord, a tabernacle for the God of Jacob."
 
 **131:6** Look, we heard of it in Ephrathah; we found it in the fields of the forest.
 
-**131:7** We will enter His tent; we will worship at the place where His feet stood.
+**131:7** We will enter His tabernacle; we will worship at the place where His feet stood.
 
 **131:8** Rise up, Lord, into Your rest, You and the ark of Your sanctification.
 
@@ -43,7 +43,7 @@
 
 ## Translator Notes
 
-- **131:1** — Latin mansuetudinis ejus ("his gentleness") follows the Septuagint, whereas the Hebrew Masoretic Text reads "all his affliction/hardship." Canticum graduum ("A song of the steps") is the Vulgate title for the Psalms of Ascents (Psalms 119-133 in Vulgate numbering).
+- **131:1** — Latin mansuetudinis ejus ("his gentleness") follows the Septuagint, whereas the Hebrew Masoretic Text reads "all his affliction/hardship." Canticum graduum ("A song of steps") is the Vulgate title for the Psalms of Ascents (Psalms 119-133 in Vulgate numbering).
 - **131:5** — The clause et requiem temporibus meis ("and rest to my temples," referring to the temples of the head) follows the Septuagint and is absent from the Hebrew Masoretic Text. Verses 3-5 preserve the literal elliptical oath formula ("If I enter..."), implying "I surely will not."
 - **131:7** — Latin in loco ubi steterunt pedes ejus ("at the place where His feet stood") follows the Septuagint, whereas the Hebrew Masoretic Text reads "at His footstool."
 - **131:15** — Latin Viduam ejus ("her widow") follows the Septuagint, whereas the Hebrew Masoretic Text reads "her provisions."

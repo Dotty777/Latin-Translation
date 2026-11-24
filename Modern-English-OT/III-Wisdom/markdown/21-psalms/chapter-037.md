@@ -25,7 +25,7 @@
 
 **37:10** Lord, before You is all my desire, and my groaning is not hidden from You.
 
-**37:11** My heart is deeply troubled; my strength has abandoned me, and the light of my eyes, even that is not with me.
+**37:11** My heart is troubled; my strength has abandoned me, and the light of my eyes, even that is not with me.
 
 **37:12** My friends and my neighbors drew near against me and stood, and those who were near me stood far off; and those who were seeking my life were using violence.
 

@@ -99,6 +99,6 @@
 
 - **104:4** — Latin et confirmamini ("and be strengthened"), following the Septuagint, differs from the Hebrew Masoretic Text's "and His strength."
 - **104:18** — Latin ferrum pertransiit animam ejus makes "iron" the grammatical subject ("iron passed through his soul"), a distinctive Vulgate reading compared with the Hebrew Masoretic Text ("his neck was put in iron").
-- **104:19** — Latin inflammavit ("inflamed") renders Greek epyrosen ("tried or refined by fire," corresponding to Hebrew "tested"), carrying the metaphor of purifying metal in fire as well as kindling ardor.
+- **104:19** — Latin inflammavit ("inflamed") renders Greek epyrosen ("tried or refined by fire," corresponding to Hebrew "tested").
 - **104:22** — Latin ut erudiret principes ejus sicut semetipsum ("so that he might instruct his princes like himself") follows the Septuagint rather than the Hebrew Masoretic Text ("to bind his princes at his pleasure").
 - **104:28** — Latin et non exacerbavit sermones suos ("and He did not embitter His words") uses a singular verb with a reflexive pronoun referring to God, a distinctive Vulgate reading differing from both the Hebrew Masoretic Text ("and they did not rebel against His words") and most Septuagint witnesses ("and they provoked His words").

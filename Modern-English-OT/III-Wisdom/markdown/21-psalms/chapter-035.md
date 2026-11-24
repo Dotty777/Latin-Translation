@@ -33,7 +33,7 @@
 
 ## Translator Notes
 
-- **35:1** — Latin In finem ("For the end") renders the Septuagint superscription eis to telos, corresponding to the Hebrew liturgical heading usually translated "For the choirmaster."
+- **35:1** — Latin In finem ("For the end") renders the Septuagint superscription eis to telos, corresponding to the Hebrew liturgical heading lamnatseach ("for the director").
 - **35:2** — Following the Septuagint, the Vulgate reads Dixit injustus ut delinquat in semetipso ("The unrighteous man has said within himself that he will transgress"), whereas the Hebrew Masoretic Text reads "Transgression speaks to the wicked deep in my [or his] heart."
 - **35:3** — Latin in conspectu ejus ("in His sight") is traditionally understood in the Vulgate as referring to God (from v. 2), though the pronoun could alternatively refer to the sinner himself as in the Hebrew; ad odium literally means "for hatred."
 - **35:8** — The Clementine Vulgate connects v. 8 to v. 7 with quemadmodum ("just as") and follows the Septuagint in reading multiplicasti ("You have multiplied") and tegmine ("shelter/covering"), where the Hebrew begins a new exclamation ("How precious is Your steadfast love") and speaks of the "shadow" of God's wings.

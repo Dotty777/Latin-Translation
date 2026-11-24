@@ -39,7 +39,7 @@
 
 **34:17** Lord, when will You look? Restore my soul from their malice; from the lions, my only one.
 
-**34:18** I will give thanks to You in a great assembly; among a numerous people I will praise You.
+**34:18** I will give thanks to You in a great assembly; among a weighty people I will praise You.
 
 **34:19** May those who oppose me unjustly not gloat over me, those who hate me without cause and wink with their eyes.
 

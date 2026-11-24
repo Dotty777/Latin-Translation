@@ -68,7 +68,7 @@
 ## Translator Notes
 
 - **16:5** — Literally 'even if hand is to hand,' an idiom expressing certainty or mutual pledging. The second sentence ('The beginning of a good way... offering sacrifices') is a Vulgate reading from the Septuagint tradition absent from the Hebrew Masoretic Text.
-- **16:9** — Vulgate reads 'propter semetipsum' ('for His own sake'), whereas the Hebrew Masoretic Text is commonly rendered 'for its own purpose.' This verse corresponds to 16:4 in the Hebrew text.
+- **16:9** — Vulgate reads 'propter semetipsum' ('for His own sake'), whereas the Hebrew Masoretic Text is commonly understood as 'for its own purpose.' This verse corresponds to 16:4 in the Hebrew text.
 - **16:10** — Latin 'divinatio' literally means 'divination,' used here for an inspired or oracular pronouncement on a king's lips.
 - **16:28** — Vulgate reads 'verbosus' ('a talkative man') and 'principes' ('princes'), whereas the Hebrew Masoretic Text reads 'a whisperer' and 'close friends.'
 - **16:30** — Vulgate reads 'attonitis oculis' ('with staring/fixed eyes') and 'mordens labia sua' ('biting his own lips'), whereas the Hebrew Masoretic Text reads 'shuts his eyes' and 'compresses his lips.'

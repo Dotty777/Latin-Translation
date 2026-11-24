@@ -43,6 +43,6 @@
 
 - **89:5** — Following the Septuagint, the Vulgate reads "things that are counted as nothing will be their years," whereas the Masoretic Text reads "You sweep them away as with a flood; they are like a dream."
 - **89:8** — Latin "sæculum nostrum" ("our age" or "our lifetime") follows the Septuagint reading of the Hebrew consonants, whereas the Masoretic Text reads "our secret sins."
-- **89:9** — Latin "sicut aranea meditabuntur" ("will meditate like a spider") follows the Septuagint's rendering of the Hebrew root for "murmur/meditate" (MT: "we finish our years like a sigh"), evoking the fragile labor of a spider.
+- **89:9** — Latin "sicut aranea meditabuntur" ("will meditate like a spider") follows the Septuagint's rendering of the Hebrew root for "murmur/meditate" (MT: "we finish our years like a sigh").
 - **89:10** — Latin "supervenit mansuetudo, et corripiemur" ("gentleness has arrived, and we will be corrected") follows the Septuagint, whereas the Masoretic Text reads "it soon passes, and we fly away."
 - **89:12** — Following the Septuagint, the Vulgate attaches "dinumerare" ("to count") to the question of v. 11 and reads "Dexteram tuam" ("Your right hand"), whereas the Masoretic Text reads "teach us to number our days."

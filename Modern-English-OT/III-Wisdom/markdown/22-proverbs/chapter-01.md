@@ -77,4 +77,4 @@
 - **1:5** — Latin gubernacula literally means "helms" or "rudders," a nautical metaphor for steering, direction, and wise guidance.
 - **1:7** — The Vulgate reads sapientiae ("wisdom"), agreeing with the Septuagint, where the Hebrew Masoretic Text reads "knowledge."
 - **1:22** — The Vulgate uses parvuli ("little ones") and infantia ("childishness") for terms referring to the naive in Hebrew, and reads ea quae sibi sunt noxia ("the things that are harmful to themselves") where the Hebrew speaks of scoffers delighting in scoffing.
-- **1:28** — Vulgate mane consurgent ("they will rise early in the morning") reflects the Hebrew root for "dawn," where the Hebrew verb is commonly rendered "seek diligently."
+- **1:28** — Vulgate mane consurgent ("they will rise early in the morning") reflects the Hebrew root for "dawn"; the Hebrew verb means "seek diligently."

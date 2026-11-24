@@ -29,13 +29,13 @@
 
 **54:12** and injustice; and usury and deceit have not ceased from its squares.
 
-**54:13** For if my enemy had cursed me, I would certainly have endured it. And if the one who hated me had spoken great things over me, perhaps I would have hidden myself from him.
+**54:13** For if my enemy had cursed me, I would certainly have endured it. And if the one who hated me had spoken great things against me, perhaps I would have hidden myself from him.
 
 **54:14** But you, a like-minded man, my guide and my acquaintance,
 
 **54:15** who together with me used to take sweet foods; in the house of God we walked in agreement.
 
-**54:16** Let death come upon them, and let them descend into hell alive, for wicked deeds are in their dwellings, in their midst.
+**54:16** Let death come upon them, and let them descend into the underworld alive, for wicked deeds are in their dwellings, in their midst.
 
 **54:17** As for me, I cried out to God, and the Lord will save me.
 

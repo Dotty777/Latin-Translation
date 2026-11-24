@@ -23,7 +23,7 @@
 
 **41:9** By day the Lord has commanded His mercy, and by night His song; with me is a prayer to the God of my life.
 
-**41:10** I will say to God, "You are my protector; why have You forgotten me? And why do I walk about saddened, while the enemy afflicts me?"
+**41:10** I will say to God, "You are my upholder; why have You forgotten me? And why do I walk about saddened, while the enemy afflicts me?"
 
 **41:11** While my bones are being broken, my enemies who distress me have reproached me, while they say to me day by day, "Where is your God?"
 

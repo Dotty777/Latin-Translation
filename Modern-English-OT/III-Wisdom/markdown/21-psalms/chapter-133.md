@@ -5,7 +5,7 @@
 
 ## Text
 
-**133:1** A song of the steps. Look now, bless the Lord, all servants of the Lord, you who stand in the house of the Lord, in the courts of the house of our God.
+**133:1** A song of steps. Look now, bless the Lord, all servants of the Lord, you who stand in the house of the Lord, in the courts of the house of our God.
 
 **133:2** During the nights, raise your hands toward the sanctuary, and bless the Lord.
 

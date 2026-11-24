@@ -5,7 +5,7 @@
 
 ## Text
 
-**100:1** A psalm of David himself. I will sing of mercy and judgment to You, Lord; I will sing praises,
+**100:1** A psalm for David himself. I will sing of mercy and judgment to You, Lord; I will sing praises,
 
 **100:2** and I will understand in an undefiled way: when will You come to me? I walked about in the innocence of my heart, in the midst of my house.
 

@@ -15,7 +15,7 @@
 
 **148:5** let them praise the name of the Lord. For He Himself spoke, and they came into being; He Himself commanded, and they were created.
 
-**148:6** He established them forever, and for age upon age; He set a decree, and it will not pass away.
+**148:6** He established them forever, and forever and ever; He set a decree, and it will not pass away.
 
 **148:7** Praise the Lord from the earth, dragons and all abysses;
 
@@ -31,7 +31,7 @@
 
 **148:13** for His name alone has been exalted.
 
-**148:14** Thanksgiving to Him is above heaven and earth; and He has exalted the horn of His people. A hymn for all His saints, the children of Israel, a people drawing near to Him. Hallelujah.
+**148:14** Thanksgiving to Him is above heaven and earth; and He has exalted the horn of His people. A hymn for all His holy ones, the sons of Israel, a people drawing near to Him. Hallelujah.
 
 ## Translator Notes
 

@@ -34,5 +34,5 @@
 - **96:1** — This superscription is unique to the Vulgate and Septuagint (Psalm 97 in Hebrew has none); Latin "Huic David" ("For this David") reflects the Greek dative article with a demonstrative, and "restituta est" refers to the restoration of his land.
 - **96:2** — Latin "correctio" (literally "setting straight" or "right ordering," rendering Greek "katorthōsis") corresponds to "foundation" in the Hebrew Masoretic Text.
 - **96:5** — The Clementine Vulgate reads nominative "omnis terra" ("all the earth," continuing the ellipsis from the preceding clause), whereas the Hebrew Masoretic Text and Greek Septuagint read the genitive ("the Lord of all the earth").
-- **96:7** — Following the Septuagint (also quoted in Hebrews 1:6), the Vulgate reads "omnes angeli ejus" ("all His angels"), whereas the Hebrew Masoretic Text reads "all gods."
+- **96:7** — Following the Septuagint, the Vulgate reads "omnes angeli ejus" ("all His angels"), whereas the Hebrew Masoretic Text reads "all gods."
 - **96:11** — Following the Septuagint ("aneteilen"), the Vulgate reads "orta est" ("has risen") with singular "justo" ("for the righteous one"), whereas the Hebrew Masoretic Text reads "is sown"; similarly in v. 10, the Vulgate has singular "peccatoris" ("of the sinner") rather than plural "of the wicked."

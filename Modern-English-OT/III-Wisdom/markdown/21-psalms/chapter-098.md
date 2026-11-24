@@ -5,7 +5,7 @@
 
 ## Text
 
-**98:1** A psalm of David himself. The Lord has reigned: let the peoples be angry; He who sits above the cherubim: let the earth be shaken.
+**98:1** A psalm for David himself. The Lord has reigned: let the peoples be angry; He who sits above the cherubim: let the earth be shaken.
 
 **98:2** The Lord is great in Zion, and lofty above all the peoples.
 
@@ -25,7 +25,7 @@
 
 ## Translator Notes
 
-- **98:1** — Following the Septuagint, the Vulgate includes the superscription 'A psalm of David himself' (literally 'to/for David himself'), which is absent from the Hebrew, and reads irascantur ('let them be angry') rather than Hebrew 'let them tremble'.
+- **98:1** — Following the Septuagint, the Vulgate includes the superscription 'A psalm for David himself' (Psalmus ipsi David), which is absent from the Hebrew, and reads irascantur ('let them be angry') rather than Hebrew 'let them tremble'.
 - **98:3** — Latin terribile et sanctum est uses neuter singular adjectives agreeing with nomen ('name'), giving 'for it is fearsome and holy', whereas the Hebrew reads 'Your great and awesome name; holy is He'.
 - **98:4** — Latin honor regis ('the honor of the king') reflects the Septuagint rather than Hebrew 'strength of the king'; directiones (plural, literally 'straightenings' or 'directions') translates Greek euthytetas ('uprightness, equity').
 - **98:5** — Latin adorate scabellum takes a direct object ('worship the footstool', without Hebrew's 'at') and follows with neuter quoniam sanctum est ('for it is holy'), referring to the footstool rather than Hebrew 'for He is holy'.

@@ -55,13 +55,13 @@
 
 **21:26** All day long he craves and desires, while the one who is righteous will give and will not cease.
 
-**21:27** The sacrifices of the wicked are detestable, because they are offered from wrongdoing.
+**21:27** The sacrifices of the wicked are abominable, because they are offered from wrongdoing.
 
 **21:28** A lying witness will perish; an obedient man will speak victory.
 
 **21:29** A wicked man brazenly hardens his face, while the one who is upright corrects his way.
 
-**21:30** There is no wisdom, there is no discernment, there is no plan against the Lord.
+**21:30** There is no wisdom, there is no prudence, there is no counsel against the Lord.
 
 **21:31** A horse is made ready for the day of battle, but the Lord grants deliverance.
 
@@ -74,5 +74,5 @@
 - **21:4** — The Clementine Vulgate divides this verse into two separate statements with est ("is"), rendering dilatatio cordis literally ("swelling of the heart") and reading lucerna ("lamp", Hebrew ner) rather than "plowing" (nir).
 - **21:6** — Following the Septuagint tradition, the Vulgate reads vanus et excors est, et impingetur ad laqueos mortis ("is empty and senseless, and will be driven into the snares of death"), where the Masoretic Hebrew speaks of a fleeting vapor and seekers of death.
 - **21:12** — The Vulgate reads ut detrahat impios a malo ("so that he may draw the wicked away from evil"), portraying a righteous person seeking to turn the wicked from evil rather than God casting them into ruin as in the Masoretic Hebrew.
-- **21:16** — Latin gigantum ("giants") is the Vulgate's standard rendering of Hebrew rephaim, which Hebrew-based translations typically render as "the dead" or "shades."
+- **21:16** — Latin gigantum ("giants") renders Hebrew rephaim ("the dead" or "shades"), as also at 9:18.
 - **21:28** — In a distinctive Vulgate reading, vir obediens loquetur victoriam ("an obedient man will speak victory") interprets Hebrew shomea ("listening") as "obedient" and lanetsach ("enduringly") in its later sense of "victory."

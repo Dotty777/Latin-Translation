@@ -33,6 +33,6 @@
 
 - **45:2** — Masculine Deus noster literally means "Our God" (rather than "God is our refuge"), and quae invenerunt nos nimis ("that have come upon us greatly," literally "found us exceedingly") follows the Septuagint in making the tribulations the subject, whereas the Hebrew means "a very present help in trouble."
 - **45:5** — Following the Septuagint, the Vulgate reads sanctificavit as a verb ("the Most High has sanctified His tabernacle"), whereas the Hebrew has a noun phrase ("the holy dwelling places of the Most High").
-- **45:8** — Latin Dominus virtutum (literally "the Lord of powers," matching the Septuagint) corresponds to Hebrew "LORD of hosts" and is rendered "the Lord of hosts" consistently across the Psalter; susceptor ("upholder" or "protector") corresponds to Hebrew "stronghold."
+- **45:8** — Latin Dominus virtutum (literally "the Lord of powers," matching the Septuagint) corresponds to Hebrew "Lord of hosts" and is rendered "the Lord of hosts" consistently across the Psalter; susceptor ("upholder" or "protector") corresponds to Hebrew "stronghold."
 - **45:10** — Following the Septuagint, the Vulgate reads arma ("weapons") and scuta ("shields"), along with prodigia ("wonders") in 45:9, where the Hebrew has "spear," "chariots," and "desolations."
 - **45:11** — Latin Vacate means "cease," "be still," or "be at leisure," and the Vulgate distinctively reads videte ("see") where the Hebrew and Septuagint have "know."
