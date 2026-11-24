@@ -53,5 +53,5 @@
 
 - **38:8** — The Vulgate explicitly renders Hebrew ma'alot ("steps/degrees") as horologio ("sundial") and lineis ("lines"), before using gradus ("steps") in the final clause.
 - **38:10** — Latin quaesivi ("I have sought") is a Vulgate-distinct rendering where the Masoretic Text reads "I am deprived of / consigned."
-- **38:11** — Latin habitatorem quietis ("inhabitant of rest") reflects Jerome's rendering of Hebrew chadel as "rest" or "cessation," whereas many Hebrew-based translations render it "the world."
+- **38:11** — Latin habitatorem quietis ("inhabitant of rest") reflects Jerome's rendering of Hebrew chadel as "rest" or "cessation."
 - **38:14** — Latin meditabor ("I will meditate") translates Hebrew hagah by its primary sense of meditating/murmuring rather than "moan" or "coo."

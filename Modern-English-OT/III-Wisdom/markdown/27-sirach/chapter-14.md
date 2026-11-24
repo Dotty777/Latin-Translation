@@ -45,7 +45,7 @@
 
 **14:20** Blessed is the man who will dwell in wisdom, and who will meditate in his righteousness, and in understanding will ponder the watchfulness of God;
 
-**14:21** who reflects on her ways in his heart and has understanding in her secrets, going after her like a tracker and taking his stand in her ways;
+**14:21** who reflects on her ways in his heart and has understanding in his own secrets, going after her like a tracker and taking his stand in her ways;
 
 **14:23** who looks through her windows and listens at her doors.
 

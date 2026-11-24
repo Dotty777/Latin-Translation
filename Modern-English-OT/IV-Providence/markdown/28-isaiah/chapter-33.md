@@ -43,7 +43,7 @@
 
 **33:19** You will not see a shameless people, a people of deep speech, so that you cannot understand the eloquence of their tongue, in whom there is no wisdom.
 
-**33:20** Look upon Zion, the city of our solemn feast: your eyes will see Jerusalem, a wealthy dwelling, a tent that can by no means be moved; nor will its pegs ever be taken away, and none of its ropes will be broken:
+**33:20** Look, Zion, upon the city of our solemn feast: your eyes will see Jerusalem, a wealthy dwelling, a tent that can by no means be moved; nor will its pegs ever be taken away, and none of its ropes will be broken:
 
 **33:21** because only there is our Lord magnificent: a place of rivers, very broad and open streams; no ship of rowers will pass through it, nor will a great trireme cross over it.
 
@@ -59,4 +59,4 @@
 - **33:7** — Vulgate "videntes" ("the seers" or "those who see") renders a rare Hebrew term usually taken as "valiant ones" or "heroes," deriving it from the verb "to see"; "angeli pacis" literally means "angels/messengers of peace."
 - **33:11** — Vulgate "Concipietis ardorem" ("You will conceive heat") contrasts with the Hebrew Masoretic Text, which reads "chaff" or "dry grass" parallel to "stubble."
 - **33:14** — Vulgate "de vobis" and "ex vobis" ("among you") address the sinners in Zion directly, whereas the Hebrew Masoretic Text reads "among us," placing the questions in the mouths of the terrified sinners.
-- **33:18** — Vulgate "legis verba ponderans" ("weighing the words of the law") and "doctor parvulorum" ("teacher of little children") are distinctive Latin renderings of Hebrew expressions usually translated as one who weighs tribute and one who counts towers.
+- **33:18** — Vulgate "legis verba ponderans" ("weighing the words of the law") and "doctor parvulorum" ("teacher of little children") are distinctive Latin renderings of Hebrew expressions referring to one who weighs (the tribute) and one who counts the towers.

@@ -37,7 +37,7 @@
 
 **22:19** One who pricks an eye draws forth tears, and whoever pricks a heart brings forth feeling.
 
-**22:20** One who throws a stone at birds will drive them off; so also one who reviles a friend dissolves friendship.
+**22:20** One who throws a stone at birds will bring them down; so also one who reviles a friend dissolves friendship.
 
 **22:21** Against a friend, even if you have drawn a sword, do not despair, for there is a return. Against a friend,
 
@@ -61,7 +61,7 @@
 
 - **22:1** — Vulgate reads lapidatus est ("has been stoned") here and in 22:2, whereas the Greek reads "is compared to."
 - **22:5** — The clause et ab impiis non minorabitur is a Vulgate-distinct addition absent from the standard Greek; it can mean either "she will not be less [wicked] than the ungodly" or "she will not be belittled by the ungodly."
-- **22:18** — Latin sine impensa uses impensa in its architectural sense of "mortar" or "binding material." As transmitted here, the Vulgate preserves only the opening half of the comparison (the concluding clause about a timid heart in the Greek text is absent).
+- **22:18** — Latin sine impensa uses impensa in its architectural sense of "mortar" or "binding material." The comparison is completed in a separate Vulgate line (sic et cor timidum in cogitatione stulti contra impetum timoris non resistet), corresponding to the Greek clause about a timid heart.
 - **22:21** — In the Clementine Vulgate verse division, the opening phrase Ad amicum ("Against a friend") of the second sentence stands at the end of verse 21 and continues into verse 22; in verse 22, Vulgate also adds triste ("bitter") to "mouth."
 - **22:25** — Vulgate reads salutare ("to greet") and adds sustinebo ("I will endure"), whereas the Greek reads "to shelter" and connects "if harm happens to me through him" directly to verse 26.
 - **22:17 *(additional)*** — The Latin critical text contains no aligned Clementine Vulgate passage at this verse slot.

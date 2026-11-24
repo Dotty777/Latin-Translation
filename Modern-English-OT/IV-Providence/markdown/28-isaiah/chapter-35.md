@@ -29,4 +29,4 @@
 
 - **35:4** — Vulgate "ultionem adducet retributionis" ("will bring the vengeance of retribution") links the two nouns in a genitive phrase governed by "will bring," whereas the Hebrew text places "vengeance" and "recompense of God" in parallel clauses.
 - **35:6** — Vulgate "aperta erit" ("will be opened") parallels "will be opened" in 35:5, whereas the Hebrew Masoretic Text reads "will shout for joy" or "will sing."
-- **35:8** — Vulgate "et hæc erit vobis directa via" ("and this will be a straight way for you") offers a clear Latin rendering of a difficult Hebrew clause often translated "and it will be for the one who walks on that way."
+- **35:8** — Vulgate "et hæc erit vobis directa via" ("and this will be a straight way for you") gives a clear sense to a difficult Hebrew clause (literally "and it is for them; one walking the way").

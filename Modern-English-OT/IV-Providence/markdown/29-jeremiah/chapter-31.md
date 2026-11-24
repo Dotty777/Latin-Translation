@@ -96,7 +96,7 @@
 ## Translator Notes
 
 - **31:2** — The Vulgate renders Hebrew Madmen (often taken as a Moabite town name) etymologically as silens conticesces ("in silence you will fall silent") and attaches contra Hesebon ("against Heshbon") to the opening clause.
-- **31:9** — The Vulgate translates Hebrew tsits as florem ("flower") and the following verb as florens ("blossoming"), whereas many Hebrew-based translations render "wings ... fly away" or "salt."
+- **31:9** — The Vulgate translates Hebrew tsits as florem ("flower") and the following verb as florens ("blossoming"); the Hebrew is obscure and has also been understood as "wings ... fly away" or "salt."
 - **31:31** — Both here and in 31:36, the Vulgate translates the Moabite city name Kir-heres etymologically as muri fictilis ("of the clay wall").
 - **31:33** — The Vulgate reads Hebrew karmel ("orchard" or "fruitful field") as the proper name Carmel (de Carmelo).
 - **31:34** — The Vulgate translates Hebrew Eglath-shelishiyah (often taken as a place name) literally as the ablative phrase vitula conternante ("a three-year-old heifer").

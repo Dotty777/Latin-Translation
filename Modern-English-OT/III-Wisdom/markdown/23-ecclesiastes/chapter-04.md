@@ -11,7 +11,7 @@
 
 **4:3** And I judged happier than both the one who has not yet been born and has not seen the evils that happen under the sun.
 
-**4:4** Again I contemplated all the labors of people, and I noticed that endeavors are exposed to a neighbor's envy; therefore in this too there is futility and needless anxiety.
+**4:4** Again I contemplated all the labors of people, and I noticed that endeavors are exposed to a neighbor's envy; therefore in this too there is futility and superfluous care.
 
 **4:5** A fool folds his hands together and eats his own flesh, saying:
 
@@ -45,4 +45,4 @@
 - **4:4** — The Vulgate reads industrias ... patere invidiae proximi ("endeavors are exposed to a neighbor's envy"), whereas the Hebrew text speaks of toil and skill arising from a person's envy of a neighbor.
 - **4:5** — The Vulgate adds dicens ("saying"), explicitly framing the proverb in 4:6 as the fool's own speech rather than the narrator's remark.
 - **4:13** — The Vulgate reads qui nescit praevidere in posterum ("who does not know how to look ahead to the future"), whereas the Hebrew text speaks of a king who no longer knows how to accept a warning.
-- **4:17** — In the Vulgate chapter division, 4:17 corresponds to 5:1 in the Hebrew Masoretic Text (shifting the numbering of chapter 5 by one verse). The Vulgate also renders the clause with the explicit noun obedientia ("obedience").
+- **4:17** — This verse is 4:17 in both the Vulgate and the Hebrew Masoretic Text (5:1 in some other numberings). The Vulgate renders the clause with the explicit noun obedientia ("obedience").

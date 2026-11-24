@@ -87,7 +87,7 @@
 
 ## Translator Notes
 
-- **23:6** — The Vulgate renders the Messianic title with the adjective justus ("The Lord Our Righteous One") rather than the abstract noun "righteousness" found in the Hebrew Masoretic Text, and uses the active plural vocabunt eum ("they will call Him").
+- **23:6** — The Vulgate has the adjective justus ("The Lord Our Righteous One") where the Hebrew Masoretic Text has the noun "righteousness," and uses the active plural vocabunt ("they will call").
 - **23:14** — Vulgate similitudinem adulterantium ("the likeness of adulterers") is a distinctly Latin reading where the Hebrew Masoretic Text reads "a horrible thing: committing adultery."
 - **23:22** — The Vulgate has the first-person singular avertissem ("I would certainly have turned them back"), whereas the Hebrew Masoretic Text has the third-person plural ("they would have turned them back").
 - **23:32** — Vulgate in miraculis suis ("by their miracles") differs from the Hebrew Masoretic Text, which speaks of the false prophets' "recklessness" or "boasting."

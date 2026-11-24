@@ -35,7 +35,7 @@
 
 **30:15** The leech has two daughters, saying, 'Bring, bring.' There are three insatiable things, and a fourth that never says, 'It is enough.'
 
-**30:16** The underworld, and the opening of the womb, and the earth that is not satisfied with water; and fire never says, 'It is enough.'
+**30:16** The underworld, and the opening of the womb, and the earth that is not satisfied with water; but fire never says, 'It is enough.'
 
 **30:17** May the ravens from the streams gouge out the eye that mocks a father and that despises the childbirth of his mother, and may the young of the eagle devour it!
 

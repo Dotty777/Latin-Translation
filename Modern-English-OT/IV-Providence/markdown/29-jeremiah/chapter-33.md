@@ -43,7 +43,7 @@
 
 **33:19** Did Hezekiah king of Judah and all Judah condemn him to death? Did they not fear the Lord and implore the face of the Lord, and the Lord relented of the harm that He had spoken against them? Therefore we are doing great harm against our souls."
 
-**33:20** There was also a man prophesying in the name of the Lord, Uriah son of Shemaiah, of Kiriath-jearim, and he prophesied against this city and against this land according to all the words of Jeremiah.
+**33:20** There was also a man prophesying in the name of the Lord, Uriah son of Shimei, of Kiriath-jearim, and he prophesied against this city and against this land according to all the words of Jeremiah.
 
 **33:21** And King Jehoiakim, and all his powerful men and princes, heard these words, and the king sought to kill him; and Uriah heard, and was afraid, and fled, and entered Egypt.
 
@@ -61,8 +61,8 @@
 
 ## Translator Notes
 
-- **33:3** — Latin "pœniteat me mali" literally means "it may regret Me of the evil/harm," a biblical idiom expressing God's decision to withhold threatened judgment upon human repentance.
+- **33:3** — Latin pœniteat me mali is literally "it may repent me of the evil," an impersonal idiom rendered here "relent of the harm."
 - **33:5** — Latin "de nocte consurgens, et dirigens" ("rising up in the night and dispatching") is the Vulgate's literal rendering of the Hebrew idiom for rising early and sending persistently.
 - **33:8** — The Vulgate uses the third-person jussive "Morte moriatur" ("Let him surely die," literally "By death let him die") and third-person "prophetavit" ("has he prophesied") in v. 9, whereas the Hebrew Masoretic Text addresses Jeremiah in the second person.
-- **33:23** — Latin "vulgi ignobilis" ("the lowly common people") expands the Hebrew expression "the sons of the people," emphasizing the unmarked burial ground of ordinary citizens.
+- **33:23** — Latin "vulgi ignobilis" ("the lowly common people") expands the Hebrew expression "the sons of the people."
 - **33:26 *(additional)*** — The Clementine Vulgate reads "reducam conversionem eorum" ("I will bring back their return"), a literal rendering of the Hebrew idiom for restoring fortunes or returning from exile.

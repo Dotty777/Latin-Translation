@@ -7,7 +7,7 @@
 
 **25:1** Lord, You are my God; I will exalt You, and I will give thanks to Your name: for You have done wondrous things, faithful plans of old. Amen.
 
-**25:2** Because You have turned the city into a heap, the strong city into a ruin, the house of foreigners, so that it is not a city and will not be built forever.
+**25:2** Because You have turned the city into a heap, the strong city into a ruin, the house of foreigners, so that it is not a city and will never be built.
 
 **25:3** For this reason a strong people will praise You; the city of mighty nations will fear You:
 

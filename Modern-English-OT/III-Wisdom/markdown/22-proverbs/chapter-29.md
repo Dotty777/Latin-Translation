@@ -31,7 +31,7 @@
 
 **29:13** A poor man and a creditor have met each other: the Lord is the giver of light to both of them.
 
-**29:14** For a king who judges the poor in truth, his throne will be made firm forever.
+**29:14** As for a king who judges the poor in truth, his throne will be made firm forever.
 
 **29:15** The rod and correction impart wisdom, but a boy who is left to his own will disgraces his mother.
 

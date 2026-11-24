@@ -43,7 +43,7 @@
 
 **25:19** A rotten tooth and a weary foot: such is one who puts his hope in an unfaithful man in the day of distress,
 
-**25:20** and loses his cloak in the day of cold. Vinegar on soda: such is one who sings songs to a wicked heart. Just as a moth does to a garment and a worm to wood, so a man's sorrow harms the heart.
+**25:20** and loses his cloak in the day of cold. Vinegar on soda: such is one who sings songs to a very wicked heart. Just as a moth does to a garment and a worm to wood, so a man's sorrow harms the heart.
 
 **25:21** If your enemy is hungry, feed him; if he is thirsty, give him water to drink;
 
@@ -66,5 +66,5 @@
 - **25:8** — The Vulgate attaches "What your eyes have seen" to v. 8 as the object of "bring out" (whereas the Hebrew attaches it to the end of v. 7) and reads "when you have dishonored your friend" instead of the Hebrew "when your neighbor puts you to shame."
 - **25:10** — The second sentence ("Favor and friendship deliver; preserve them for yourself, so that you do not become an object of reproach") reflects the Septuagint via the Old Latin and is absent from the Masoretic Hebrew.
 - **25:11** — The Vulgate reads in lectis argenteis ("on silver beds"), an interpretation of the Hebrew expression usually rendered "in settings of silver."
-- **25:20** — The Vulgate links "and loses his cloak in the day of cold" to v. 19, translates the Hebrew for a troubled heart literally as cordi pessimo ("a wicked heart"), and includes the final sentence on the moth, worm, and sorrow from the Septuagint.
+- **25:20** — The Vulgate links "and loses his cloak in the day of cold" to v. 19, renders the Hebrew for a troubled heart as cordi pessimo ("a very wicked heart"), and includes the final sentence on the moth, worm, and sorrow from the Septuagint.
 - **25:27** — Where the Hebrew text is obscure, the Vulgate reads qui scrutator est majestatis opprimetur a gloria ("one who is a scrutinizer of majesty will be crushed by glory").

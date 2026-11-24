@@ -33,19 +33,19 @@
 
 **28:14** Because of this, hear the word of the Lord, mocking men, who rule over My people who are in Jerusalem.
 
-**28:15** For you have said, "We have struck a covenant with death, and with hell we have made a pact; when the overflowing scourge passes through, it will not come upon us, because we have set falsehood as our hope, and by falsehood we have been protected."
+**28:15** For you have said, "We have struck a covenant with death, and with the underworld we have made a pact; when the overflowing scourge passes through, it will not come upon us, because we have set falsehood as our hope, and by falsehood we have been protected."
 
 **28:16** Therefore this is what the Lord God says: "Look, I will place in the foundations of Zion a stone, a tested stone, a cornerstone, precious, founded in the foundation; let the one who believes not hurry.
 
 **28:17** And I will set judgment by weight, and justice by measure; and hail will overturn the hope of falsehood, and waters will overflow the protection.
 
-**28:18** And your covenant with death will be blotted out, and your pact with hell will not stand; when the overflowing scourge passes through, you will be to it for trampling.
+**28:18** And your covenant with death will be blotted out, and your pact with the underworld will not stand; when the overflowing scourge passes through, you will be to it for trampling.
 
 **28:19** Whenever it passes through, it will carry you away, for in the morning at daybreak it will pass through, by day and by night; and only vexation alone will give understanding to what is heard.
 
 **28:20** For the bed is made so narrow that one falls off, and the short cloak cannot cover both."
 
-**28:21** For just as on the mountain of divisions the Lord will stand up, just as in the valley that is in Gibeon He will be angry, so that He may do His work, strange is His work; so that He may perform His work, foreign is His work from Him.
+**28:21** For just as on the mountain of divisions the Lord will stand, just as in the valley that is in Gibeon He will be angry, so that He may do His work, strange is His work; so that He may perform His work, foreign is His work from Him.
 
 **28:22** And now do not mock, so that your bonds may not perhaps be tightened; for I have heard of a completion and a shortening from the Lord God of hosts, upon the whole earth.
 
@@ -59,7 +59,7 @@
 
 **28:27** For black cumin will not be threshed with saws, nor will a wagon wheel go around over cumin; rather, black cumin will be beaten out with a rod, and cumin with a staff.
 
-**28:28** Bread, however, will be crushed; yet the one threshing will not thresh it forever, nor bruise it with a wagon wheel, nor crush it with his hooves.
+**28:28** Bread, however, will be crushed; yet the one threshing will not thresh it forever, nor will the wagon wheel bruise it, nor will he crush it with his hooves.
 
 **28:29** And this has gone forth from the Lord God of hosts, so that He might make counsel wonderful and magnify justice.
 

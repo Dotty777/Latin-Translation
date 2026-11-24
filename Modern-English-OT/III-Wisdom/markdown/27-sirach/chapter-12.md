@@ -41,7 +41,7 @@
 
 ## Translator Notes
 
-- **12:3** — Vulgate 'eleemosynas non danti' ("does not give alms") and 'et misertus est poenitentibus' ("and has shown mercy to those who repent") are distinctly Vulgate readings; the Greek speaks of not showing gratitude and lacks the final clause.
+- **12:3** — The closing words 'et misertus est poenitentibus' ("and has shown mercy to those who repent") have no counterpart in the Greek.
 - **12:5** — Latin 'panes' ("loaves of bread") is plural, which accounts for the plural pronoun 'in ipsis' ("through them").
 - **12:9** — Vulgate 'amicus agnitus est' ("a friend is recognized") differs notably from the Greek ("even a friend will withdraw"); Latin 'malitia' here means "adversity" or "misfortune," paralleling 'in malis' in 12:8.
 - **12:12** — Vulgate 'conversus in locum tuum' ("turn into your place") differs from the Greek ("having overthrown you").

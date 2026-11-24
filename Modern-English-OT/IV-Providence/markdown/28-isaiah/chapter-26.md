@@ -23,7 +23,7 @@
 
 **26:9** My soul has desired You in the night, and indeed with my spirit in my inmost heart I will keep watch for You from early morning. When You carry out Your judgments on the earth, the inhabitants of the world will learn righteousness.
 
-**26:10** Let us show mercy to the wicked, and he will not learn righteousness; in the land of the saints he has done unjust things, and he will not see the glory of the Lord.
+**26:10** Let us show mercy to the wicked, and he will not learn righteousness; in the land of the holy ones he has done unjust things, and he will not see the glory of the Lord.
 
 **26:11** Lord, let Your hand be lifted up, and let them not see; let the envious peoples see and be put to shame, and let fire devour Your enemies.
 

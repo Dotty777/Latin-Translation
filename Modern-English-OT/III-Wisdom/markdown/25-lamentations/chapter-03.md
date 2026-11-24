@@ -151,4 +151,4 @@
 - **3:47** — The Vulgate distinctively reads vaticinatio ("prophecy") and laqueus ("a snare"), where the Hebrew reads "devastation" and "pitfall."
 - **3:58** — The Vulgate reads the noun redemptor vitae meae ("Redeemer of my life") alongside Judicasti ("You have judged"), whereas the Hebrew has verbal forms rendered "You have pleaded" and "You have redeemed my life."
 - **3:65** — The Vulgate translates Hebrew meginnat-lev ("hardness/dullness of heart") literally as scutum cordis ("a shield of the heart"), and reads laborem tuum ("Your toil") where the Hebrew reads "Your curse."
-- **3:23 *(additional)*** — Latin "Novi" is masculine plural referring back to the Lord's mercies and compassions in the preceding verse, and "diluculo" is singular ("at daybreak").
+- **3:23 *(additional)*** — Latin "Novi" ("new," masculine plural) has no expressed noun and is taken as referring back to the Lord's mercies and compassions in the preceding verse, although misericordiae and miserationes are feminine; "diluculo" is singular ("at daybreak").

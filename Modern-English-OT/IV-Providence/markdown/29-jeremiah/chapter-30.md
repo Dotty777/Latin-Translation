@@ -9,7 +9,7 @@
 
 **30:2** Flee, and turn your backs; go down into the chasm, inhabitants of Dedan, for I have brought the destruction of Esau upon him, the time of his visitation.
 
-**30:3** If grape-gatherers had come upon you, would they not have left a cluster? If thieves by night, they would have seized what was enough for themselves.
+**30:3** If grape-gatherers had come upon you, they would not have left a cluster; if thieves by night, they would have seized what was enough for themselves.
 
 **30:4** But I have uncovered Esau; I have revealed his hidden places, and he will not be able to be concealed. His offspring has been laid waste, as well as his brothers and his neighbors, and he will be no more.
 
@@ -27,7 +27,7 @@
 
 **30:11** "And Idumea will become deserted; everyone who passes through it will be astonished and will hiss over all its wounds.
 
-**30:12** Just as Sodom and Gomorrah and its neighboring towns were overthrown," declares the Lord, "no man will dwell there, and no son of man will inhabit it.
+**30:12** Just as Sodom and Gomorrah and its neighboring towns were overthrown," says the Lord, "no man will dwell there, and no son of man will inhabit it.
 
 **30:13** Look, like a lion he will come up from the pride of the Jordan to the strong beauty, for suddenly I will make him run to it. And who will be the chosen one whom I will set over it? For who is like Me? And who will withstand Me? And who is this shepherd who can resist My face?"
 
@@ -35,27 +35,27 @@
 
 **30:15** At the sound of their downfall the earth shook; the cry of its voice was heard at the Red Sea.
 
-**30:16** Look, like an eagle he will rise up and fly swiftly, and spread out his wings over Bozrah; and the heart of the mighty men of Idumea in that day will be like the heart of a woman in labor.
+**30:16** Look, like an eagle he will rise up and fly away, and spread out his wings over Bozrah; and the heart of the mighty men of Idumea in that day will be like the heart of a woman in labor.
 
 **30:17** Concerning the sons of Ammon. This is what the Lord says: "Does Israel have no sons, or does he have no heir? Why then has Milcom possessed Gad by inheritance, and his people dwelt in its cities?
 
-**30:18** Therefore, look, days are coming," says the Lord, "and I will cause the roar of battle to be heard over Rabbah of the sons of Ammon, and she will be shattered into tumult, and her daughters will be burned with fire, and Israel will possess his possessors," declares the Lord.
+**30:18** Therefore, look, days are coming," says the Lord, "and I will cause the roar of battle to be heard over Rabbah of the sons of Ammon, and she will be shattered into tumult, and her daughters will be burned with fire, and Israel will possess his possessors," says the Lord.
 
 **30:19** "Wail, Heshbon, for Ai has been laid waste; cry out, daughters of Rabbah: wrap yourselves in sackcloth, lament and go around among the hedges, for Milcom will be led into exile, his priests and his princes together.
 
 **30:20** Why do you boast in the valleys? Your valley has flowed away, delicate daughter, who trusted in your treasures and said, 'Who will come to me?'
 
-**30:21** Look, I will bring terror upon you," declares the Lord God of hosts, "from all who are around you; and you will be scattered, each one away from your sight, and there will be no one to gather those who flee."
+**30:21** Look, I will bring terror upon you," says the Lord God of hosts, "from all who are around you; and you will be scattered, each one away from your sight, and there will be no one to gather those who flee."
 
 **30:23** Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon struck. This is what the Lord says: "Arise, and go up against Kedar, and lay waste the sons of the east.
 
 **30:24** They will seize their tents and their flocks; they will carry off for themselves their hides, and all their vessels, and their camels, and they will proclaim dread over them all around.
 
-**30:25** Flee, depart hastily, stay in the chasms, you who dwell in Hazor," declares the Lord, "for Nebuchadnezzar king of Babylon has formed a counsel against you and has devised plans against you.
+**30:25** Flee, depart hastily, stay in the chasms, you who dwell in Hazor," says the Lord, "for Nebuchadnezzar king of Babylon has formed a counsel against you and has devised plans against you.
 
-**30:26** Rise up, and go up against a quiet nation, and one dwelling confidently," declares the Lord. "They have neither doors nor bars; they dwell alone.
+**30:26** Rise up, and go up against a quiet nation, and one dwelling confidently," says the Lord. "They have neither doors nor bars; they dwell alone.
 
-**30:27** And their camels will become plunder, and the multitude of livestock a prey; and I will scatter them to every wind, those who have their hair clipped, and from every border of theirs I will bring ruin upon them," declares the Lord.
+**30:27** And their camels will become plunder, and the multitude of livestock a prey; and I will scatter them to every wind, those who have their hair clipped, and from every border of theirs I will bring ruin upon them," says the Lord.
 
 **30:28** "And Hazor will become a dwelling place of dragons, deserted forever; no man will remain there, nor will a son of man inhabit it."
 
@@ -65,7 +65,7 @@
 
 **30:31** How have they abandoned the praiseworthy city, the city of joy?
 
-**30:32** "Therefore her young men will fall in her squares, and all the men of battle will fall silent in that day," declares the Lord of hosts.
+**30:32** "Therefore her young men will fall in her squares, and all the men of battle will fall silent in that day," says the Lord of hosts.
 
 **30:33** "And I will kindle a fire in the wall of Damascus, and it will devour the fortifications of Ben-hadad."
 

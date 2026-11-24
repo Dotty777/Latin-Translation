@@ -27,7 +27,7 @@
 
 **9:11** Do not be jealous of the glory and wealth of a sinner, for you do not know what his overthrow will be.
 
-**9:12** Do not let the injustice of the unjust please you, knowing that even down to the netherworld the ungodly man will not be pleasing.
+**9:12** Do not let the injustice of the unjust please you, knowing that even down to the underworld the ungodly man will not be pleasing.
 
 **9:13** Stay far away from a man who has the power to kill, and you will not suspect the fear of death. And if you approach him, do not commit any offense, or else he might take away your life. Know the fellowship of death, for you will tread in the midst of snares, and you will walk upon the weapons of those who grieve.
 

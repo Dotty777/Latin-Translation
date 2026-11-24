@@ -49,7 +49,7 @@
 
 **26:22** The words of a whisperer are seemingly simple, and they penetrate to the depths of the belly.
 
-**26:23** Just as if you wanted to adorn a clay vessel with impure silver, so are swelling lips allied with a wicked heart.
+**26:23** Just as if you wanted to adorn a clay vessel with impure silver, so are swelling lips allied with a very wicked heart.
 
 **26:24** By his lips an enemy is recognized, when he has plotted deceits in his heart.
 
@@ -63,8 +63,8 @@
 
 ## Translator Notes
 
-- **26:2** — Following the Hebrew ketiv ("to him") rather than the qere ("not"), the Vulgate omits any negation and reads in quempiam superveniet ("will come upon someone").
+- **26:2** — The Vulgate has no negation and reads in quempiam superveniet ("will come upon someone"), agreeing with the Hebrew qere ("to him") rather than the ketiv ("not").
 - **26:8** — The Vulgate renders the Hebrew for a stone-heap or sling as acervum Mercurii ("a heap of Mercury"), referring to a Roman roadside cairn dedicated to Mercury onto which travelers tossed stones in tribute.
-- **26:10** — Where the Hebrew text is cryptic (commonly translated as an archer wounding passersby or one hiring a fool), the Vulgate preserves an entirely different proverb from the Old Latin tradition.
-- **26:15** — Following the Septuagint, the Vulgate reads sub ascella sua ("under his armpit") where the Masoretic Hebrew reads "in the dish."
+- **26:10** — Where the Hebrew text is cryptic (commonly translated as an archer wounding passersby or one hiring a fool), the Vulgate has an entirely different proverb.
+- **26:15** — The Vulgate reads sub ascella sua ("under his armpit") where the Masoretic Hebrew reads "in the dish."
 - **26:28** — Following the Septuagint, the Vulgate reads non amat veritatem ("does not love truth") where the Masoretic Hebrew reads "hates those it crushes."

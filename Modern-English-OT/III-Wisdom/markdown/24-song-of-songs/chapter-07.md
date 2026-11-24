@@ -34,7 +34,7 @@
 ## Translator Notes
 
 - **7:5** — Latin "filiae multitudinis" ("daughter of the multitude") translates the Hebrew place name Bath-rabbim literally.
-- **7:6** — Latin "purpura regis vincta canalibus" ("a king's purple bound in channels") is a distinct Vulgate reading depicting royal purple cloth or yarn fastened in dyeing troughs, where modern Hebrew translations generally read of a king held captive in tresses.
+- **7:6** — Latin "purpura regis vincta canalibus" ("a king's purple bound in channels") is a distinct Vulgate reading depicting royal purple cloth or yarn fastened in dyeing troughs, where the Hebrew is usually read as a king held captive in the tresses.
 - **7:10** — Latin "labiisque et dentibus illius ad ruminandum" ("for his lips and teeth to chew over") is a distinct Vulgate reading; the Hebrew reads of wine gliding over the lips of sleepers.
 - **7:11** — Latin "conversio" ("turning") follows the Greek Septuagint ("epistrophe") rather than the Hebrew word for "desire."
 - **7:13** — Latin "ubera mea" ("my breasts") follows the Septuagint rather than the Hebrew Masoretic reading "my love."

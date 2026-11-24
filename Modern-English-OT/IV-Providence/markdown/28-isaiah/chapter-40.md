@@ -69,7 +69,7 @@
 
 ## Translator Notes
 
-- **40:1** — The Vulgate pairs passive/middle consolamini with the vocative popule meus ("Take comfort, My people"), whereas the Hebrew is commonly taken transitively ("Comfort my people").
+- **40:1** — The Vulgate pairs passive/middle consolamini with the vocative popule meus ("Take comfort, My people"), whereas the Hebrew has a transitive imperative with "My people" as its object ("Comfort My people").
 - **40:2** — Latin malitia ("wickedness") is a Vulgate-distinct reading where the Masoretic Text reads "her warfare" or "hard service."
 - **40:8** — The Clementine Vulgate reads Domini nostri ("of our Lord"), whereas the Hebrew Masoretic Text reads "of our God."
 - **40:22** — Latin velut nihilum ("like nothing") is a Vulgate-distinct rendering where the Masoretic Text has ka-doq ("like a thin curtain/gauze").

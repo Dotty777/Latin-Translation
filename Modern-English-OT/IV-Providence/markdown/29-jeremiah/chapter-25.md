@@ -46,5 +46,5 @@
 ## Translator Notes
 
 - **25:3** — Latin de nocte consurgens ("rising in the night") here and consurgens diluculo ("rising at daybreak") in 25:4 both render the Hebrew idiom for rising early and acting persistently.
-- **25:14** — Following the Septuagint placement of the oracles against the nations immediately after 25:13, this Latin critical text presents the oracle against Elam at 25:14-19 (located at 49:34-39 in the Hebrew Masoretic Text and traditional Clementine Vulgate, which place the cup of wrath oracle at 25:14-38). Latin facum is a spelling variant for factum ("came").
-- **25:19** — Vulgate captivos ("the captives") renders the object personally, whereas the corresponding Hebrew idiom is often rendered more broadly as "the fortunes" or "the captivity."
+- **25:14** — Following the Septuagint placement of the oracles against the nations immediately after 25:13, this Latin critical text presents the oracle against Elam at 25:14-19 (located at 49:34-39 in the Hebrew Masoretic Text and traditional Clementine Vulgate, which place the cup of wrath oracle at 25:14-38). The critical text's facum stands for factum ("came").
+- **25:19** — Vulgate captivos ("the captives") renders the object personally, whereas the corresponding Hebrew idiom can mean "the fortunes" or "the captivity."

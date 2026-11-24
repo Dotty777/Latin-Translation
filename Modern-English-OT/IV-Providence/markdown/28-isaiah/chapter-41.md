@@ -27,7 +27,7 @@
 
 **41:11** Look, all who fight against you will be confounded and ashamed; they will be as though they did not exist, and the men who speak against you will perish.
 
-**41:12** You will seek them and will not find them, the men who rebel against you; the men who wage war against you will be as though they did not exist and like utter destruction.
+**41:12** You will seek them and will not find them, the men who rebel against you; the men who wage war against you will be as though they did not exist and like destruction.
 
 **41:13** For I am the Lord your God, taking hold of your hand and saying to you, "Do not fear; I have helped you."
 

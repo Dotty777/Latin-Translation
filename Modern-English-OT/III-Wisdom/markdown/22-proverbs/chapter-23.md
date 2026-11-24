@@ -1,6 +1,6 @@
 # Proverbs 23 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (34 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (34 verses, 4 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -31,7 +31,7 @@
 
 **23:13** Do not withhold discipline from a boy; for if you strike him with a rod, he will not die.
 
-**23:14** You will strike him with a rod, and you will rescue his soul from hell.
+**23:14** You will strike him with a rod, and you will rescue his soul from the underworld.
 
 **23:15** My son, if your mind is wise, my heart will rejoice with you,
 
@@ -82,5 +82,4 @@
 - **23:2** — The Vulgate renders the Hebrew idiom for a person of strong appetite ("a master of appetite") literally as "if indeed you have your soul in your power" (si tamen habes in potestate animam tuam).
 - **23:7** — A distinctly Vulgate reading: Latin in similitudinem arioli et conjectoris aestimat quod ignorat ("in the likeness of a fortune-teller and an interpreter of omens, he calculates what he does not know") differs from the Hebrew ("as he reckons within himself, so is he").
 - **23:10** — Vulgate parvulorum terminos ("boundaries of little ones") reflects reading the Hebrew word for "ancient" as "little children," creating a direct parallel with "orphans" in the second clause.
-- **23:24** — Verse 23:23 ("Buy truth and do not sell it...") is absent from the Clementine Vulgate text; numbering skips directly from 23:22 to 23:24.
 - **23:29** — Vulgate cujus patri vae ("whose father has woe") and cui foveae ("who has pits") are distinctive renderings of the Hebrew expressions for "sorrow" and "complaining."

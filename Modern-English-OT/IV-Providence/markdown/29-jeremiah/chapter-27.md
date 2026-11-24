@@ -17,7 +17,7 @@
 
 **27:6** My people have become a lost flock; their shepherds have led them astray and made them wander on the mountains; they have passed from mountain to hill; they have forgotten their resting place.
 
-**27:7** All who found them devoured them, and their enemies said, 'We have not sinned, because they have sinned against the Lord, the beauty of justice, and the hope of their fathers, the Lord.'
+**27:7** All who found them devoured them, and their enemies said, 'We have not sinned, because they have sinned against the Lord, the beauty of righteousness, and the hope of their fathers, the Lord.'
 
 **27:8** Withdraw from the midst of Babylon, and go out from the land of the Chaldeans, and be like young goats before the flock.
 
@@ -101,6 +101,6 @@
 
 - **27:21** — The Vulgate translates the Hebrew symbolic place names Merathaim and Pekod as common expressions: terram dominantium ("the land of those who rule") and the imperative verb visita ("visit").
 - **27:26** — The Vulgate diverges notably from the Hebrew ("open her granaries; pile her up like heaps"), reading instead "open up so that those who trample her may come out; lift stones from the road and gather them into heaps."
-- **27:39** — Latin dracones cum faunis ficariis ("dragons with fig-eating fauns") is a distinctive Vulgate rendering of Hebrew terms for desert beasts (usually rendered "wild beasts" and "hyenas" or "jackals").
+- **27:39** — Latin dracones cum faunis ficariis ("dragons with fig-eating fauns") is a distinctive Vulgate rendering of Hebrew terms for desert animals.
 - **27:44** — Latin ad pulchritudinem robustam ("to the strong beauty") reflects Jerome's rendering of Hebrew neweh ("pasture/habitation") as "beauty" (as also in 27:7, decori justitiæ); likewise, ad illam ("to her") differs from the Hebrew "away from her."
 - **27:45** — Latin nisi ... nisi ("unless ... unless") literally reproduces the Hebrew elliptical oath formula meaning "surely ... surely," leaving the implied consequence unstated.

@@ -17,11 +17,11 @@
 
 **2:6** His left hand is beneath my head, and his right hand will embrace me.
 
-**2:7** I make you swear, daughters of Jerusalem, by the gazelles and deer of the fields, neither to rouse nor to awaken the beloved until she herself wishes.
+**2:7** I make you swear, daughters of Jerusalem, by the roe deer and stags of the fields, neither to rouse nor to awaken the beloved until she herself wishes.
 
 **2:8** The voice of my beloved! Look, here he comes, leaping upon the mountains, bounding across the hills.
 
-**2:9** My beloved is like a gazelle and a fawn of the deer. See, he himself stands behind our wall, gazing through the windows, peering through the lattices.
+**2:9** My beloved is like a roe deer and a fawn of the stags. See, he himself stands behind our wall, gazing through the windows, peering through the lattices.
 
 **2:10** Look, my beloved speaks to me: "Rise up, hurry, my friend, my dove, my lovely one, and come;
 
@@ -35,9 +35,9 @@
 
 **2:15** Catch for us the little foxes that destroy the vineyards, for our vineyard has blossomed.
 
-**2:16** My beloved belongs to me, and I to him, who grazes among the lilies,
+**2:16** My beloved belongs to me, and I to him, who feeds among the lilies,
 
-**2:17** until the day breathes and the shadows decline. Return; my beloved, be like a gazelle and a fawn of the deer upon the mountains of Bether.
+**2:17** until the day breathes and the shadows decline. Return; my beloved, be like a roe deer and a fawn of the stags upon the mountains of Bether.
 
 ## Translator Notes
 

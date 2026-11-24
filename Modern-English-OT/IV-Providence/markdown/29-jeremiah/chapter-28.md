@@ -9,7 +9,7 @@
 
 **28:2** and I will send winnowers into Babylon, and they will winnow her and lay waste her land, for they have come against her from every side on the day of her affliction.
 
-**28:3** Let the one who bends his bow not bend it, and let him not go up in armor; do not spare her young men; put all her army to death.
+**28:3** Let the one who bends his bow not bend it, and let the one in armor not go up; do not spare her young men; put all her army to death.
 
 **28:4** And those put to death will fall in the land of the Chaldeans, and the wounded in her regions.
 
@@ -128,12 +128,12 @@
 ## Translator Notes
 
 - **28:1** — Latin "qui cor suum levaverunt contra me" ("who have lifted up their heart against Me") translates the Hebrew phrase leb qamai literally rather than decoding it as an atbash cipher for Chaldea.
-- **28:6** — Vulgate "nolite tacere" ("do not keep silent") reads the Hebrew verb damam as "be silent" rather than "be cut off/perish" as in many modern translations from the Hebrew.
+- **28:6** — Vulgate "nolite tacere" ("do not keep silent") reads the Hebrew verb damam as "be silent"; the verb can also mean "be cut off/perish."
 - **28:13** — Latin "pedalis praecisionis tuae" literally means "the foot-measure of your cutting off," corresponding to the Hebrew "cubit" and evoking the set length at which a weaver's web is cut from the loom.
 - **28:20** — The Vulgate reads the Hebrew noun mappetz ("war-club/hammer") as a finite verb ("collidis," "you crush") governing "weapons of war," and uses instrumental "in te" ("with you") throughout the following verses.
 - **28:27** — The Vulgate transliterates the Hebrew title tiphsar ("marshal" or "military commander") as a proper name, Taphsar, paired with "numerate" ("number/muster").
-- **28:37** — Latin "draconum" ("of dragons") renders the Hebrew term often translated "jackals" from the Masoretic Text, paralleling "draco" ("dragon") in verse 34.
+- **28:37** — Latin "draconum" ("of dragons") renders the Hebrew word for "jackals" in the Masoretic Text, paralleling "draco" ("dragon") in verse 34.
 - **28:38** — Vulgate "excutient comas" ("they will shake out their manes") reflects reading the Hebrew verb na'ar as "shake out" rather than "growl," supplying "manes" for the lion imagery.
 - **28:41** — "Sheshach" is the standard modern English form of Latin "Sesach," an atbash cipher for Babylon.
 - **28:56** — The Vulgate adds the explanatory gloss "id est" ("that is"), renders the verb for the bows as "emarcuit" ("has withered"), and translates Hebrew 'El gemulot ("God of recompenses") as "fortis ultor" ("mighty avenger").
-- **28:59** — Vulgate "princeps prophetiae" ("chief of the prophecy") is a distinctly Vulgate reading where the Hebrew Masoretic Text has sar menuchah, usually rendered "quartermaster" or "staff officer."
+- **28:59** — Vulgate "princeps prophetiae" ("chief of the prophecy") is a distinctly Vulgate reading where the Hebrew Masoretic Text has sar menuchah ("officer of the resting place").

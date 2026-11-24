@@ -19,7 +19,7 @@
 
 **35:7** However, listen to this word that I speak in your ears and in the ears of the whole people:
 
-**35:8** the prophets who were before me and before you from the beginning prophesied against many lands and against great kingdoms of battle, and of affliction, and of famine;
+**35:8** the prophets who were before me and before you from the beginning prophesied against many lands and against great kingdoms concerning battle, and concerning affliction, and concerning famine;
 
 **35:9** the prophet who has prophesied peace, when his word comes about, will be known as the prophet whom the Lord has sent in truth."
 

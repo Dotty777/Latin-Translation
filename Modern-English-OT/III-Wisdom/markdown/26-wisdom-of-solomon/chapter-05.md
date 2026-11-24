@@ -29,7 +29,7 @@
 
 **5:12** or like an arrow shot toward a designated place, the divided air immediately closed back into itself, so that its passage is unknown:
 
-**5:13** so we too, once born, immediately ceased to be; and indeed we were able to show no sign of virtue, but in our wickedness we were consumed." Such things those who sinned spoke in hell,
+**5:13** so we too, once born, immediately ceased to be; and indeed we were able to show no sign of virtue, but in our wickedness we were consumed." Such things those who sinned spoke in the underworld,
 
 **5:14** because the hope of the wicked man is like thistledown that is carried off by the wind, and like thin foam that is scattered by a storm, and like smoke that is dispersed by the wind, and like the memory of a guest of one day passing by.
 
@@ -54,7 +54,7 @@
 ## Translator Notes
 
 - **5:6** — Vulgate-distinct reading: Latin adds intelligentiæ ("of understanding") to "the sun," and in 5:7 reads lassati sumus ("we grew weary") where the Greek has "we had our fill."
-- **5:13** — Vulgate-distinct clause: Talia dixerunt in inferno hi qui peccaverunt ("Such things those who sinned spoke in hell") is a Vulgate transition not present in the standard Greek text.
+- **5:13** — Vulgate-distinct clause: Talia dixerunt in inferno hi qui peccaverunt ("Such things those who sinned spoke in the underworld") is a Vulgate transition not present in the standard Greek text.
 - **5:14** — Vulgate-distinct reading: spuma gracilis ("thin foam") contrasts with the Greek Septuagint ("thin frost").
 - **5:17** — Vulgate-distinct syntax: zelus illius ("His zeal") is the nominative subject of Accipiet ("will take up"), whereas the Greek treats "His zeal" as an accusative in apposition to "full armor."
 - **5:22** — Vulgate-distinct reading: a petrosa ira plenæ ... grandines ("from stony wrath, full hailstones") reflects the Clementine Latin wording, whereas the Greek reads "from a catapult, hailstones full of wrath."

@@ -21,7 +21,7 @@
 
 **21:8** Whoever builds his house at the expense of others is like one who gathers his stones in winter.
 
-**21:9** Tow gathered together is the assembly of those who sin, and their end is a flame of fire.
+**21:9** Tow gathered together is the congregation of those who sin, and their end is a flame of fire.
 
 **21:10** The way of sinners is made smooth with stones, and at their end are the underworld, and darkness, and punishments.
 
@@ -43,7 +43,7 @@
 
 **21:19** Instruction to a fool is shackles on the feet, and like bonds for the hands on the right hand.
 
-**21:20** A fool raises his voice in laughter, but a wise man will scarcely smile quietly.
+**21:20** A fool raises his voice in laughter, but a wise man will scarcely laugh quietly.
 
 **21:21** Instruction to a prudent person is a golden ornament, and like an armlet on the right arm.
 
@@ -63,7 +63,7 @@
 
 ## Translator Notes
 
-- **21:2** — Vulgate reads suscipient te ("they will take hold of you"), whereas the Greek reads "it will bite you" and adds a line comparing sin's teeth to a lion's teeth.
+- **21:2** — Vulgate reads suscipient te ("they will take hold of you"), whereas the Greek reads "it will bite you"; the Greek's following line on a lion's teeth stands in the Vulgate as a separate line (Dentes leonis dentes ejus, interficientes animas hominum).
 - **21:5** — Latin ejus ("His") implicitly refers to God as the hearer of the poor person's plea.
 - **21:7** — Vulgate adds audaci ("bold") and reads scit labi se ab ipso ("knows that he slips from him"), whereas the Greek means "knows when the other slips."
 - **21:8** — Vulgate in hieme ("in winter") reflects a Greek variant meaning "for winter" rather than the usual Greek reading "for his burial mound."

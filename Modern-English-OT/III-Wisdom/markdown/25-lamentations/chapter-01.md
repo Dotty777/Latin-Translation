@@ -13,7 +13,7 @@
 
 **1:4** Daleth: The roads of Zion mourn because there are none who come to the festival; all her gates are destroyed, her priests are groaning, her virgins are unkempt, and she herself is oppressed with bitterness.
 
-**1:5** He: Her foes have been placed at the head; her enemies have grown wealthy, for the Lord has spoken against her because of the multitude of her iniquities. Her little ones have been led into captivity before the face of the oppressor.
+**1:5** He: Her foes have come to be at the head; her enemies have grown wealthy, for the Lord has spoken against her because of the multitude of her iniquities. Her little ones have been led into captivity before the face of the oppressor.
 
 **1:6** Vav: And all her beauty has gone out from the daughter of Zion; her princes have become like rams finding no pasture, and they have gone away without strength before the face of the pursuer.
 

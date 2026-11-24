@@ -65,7 +65,7 @@
 
 **11:32** From one spark a fire is increased, and from one deceitful man blood is increased; and a sinful man lies in ambush for blood.
 
-**11:33** Guard yourself against a pestilent man, for he devises evil things, so that he may not bring mockery upon you forever.
+**11:33** Guard yourself against a pestilent man, for he devises evil things, or else he may bring mockery upon you forever.
 
 **11:34** Admit a stranger to yourself, and he will overthrow you in a whirlwind, and he will estrange you from your own.
 

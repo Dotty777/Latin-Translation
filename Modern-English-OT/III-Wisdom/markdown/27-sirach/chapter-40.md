@@ -17,7 +17,7 @@
 
 **40:6** Little, as nothing, in rest, and from then on in dreams, as in a day of watch.
 
-**40:7** He was troubled in the vision of his heart, like one who has escaped on the day of battle; at the time of his deliverance he rose up, even marveling at no fear,
+**40:7** He was troubled in the vision of his heart, like one who has escaped on the day of battle; at the time of his deliverance he rose up, and marveling at no fear,
 
 **40:8** with all flesh, from man to beast, and upon sinners sevenfold.
 

@@ -9,7 +9,7 @@
 
 **7:2** It is better to go to a house of mourning than to a house of banqueting, for in that house the end of all people is brought to mind, and the one who is living considers what will be.
 
-**7:3** Anger is better than laughter, because through sadness of face the spirit of the wrongdoer is corrected.
+**7:3** Anger is better than laughter, because through sadness of face the mind of the wrongdoer is corrected.
 
 **7:4** The heart of the wise is where sadness is, and the heart of fools is where gladness is.
 
@@ -39,13 +39,13 @@
 
 **7:17** Do not act wickedly to excess, and do not be foolish, so that you do not die at a time that is not your own.
 
-**7:18** It is good for you to support the righteous man, and indeed do not withdraw your hand from him, because the one who fears God neglects nothing.
+**7:18** It is good for you to support the righteous man, but also do not withdraw your hand from him, because the one who fears God neglects nothing.
 
 **7:19** Wisdom has strengthened a wise man more than ten rulers of a city,
 
 **7:20** for there is not a righteous man on the earth who does good and does not sin.
 
-**7:21** Also, do not direct your heart to all the words that are spoken, so that you do not happen to hear your servant cursing you,
+**7:21** But also, do not direct your heart to all the words that are spoken, so that you do not happen to hear your servant cursing you,
 
 **7:22** for your conscience knows that you also have frequently cursed others.
 

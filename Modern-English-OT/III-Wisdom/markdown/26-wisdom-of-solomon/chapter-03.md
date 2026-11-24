@@ -41,7 +41,7 @@
 
 **3:18** and if they die sooner, they will have no hope, nor consolation in the day of recognition.
 
-**3:19** For the endings of an unjust generation are dire.
+**3:19** For the endings of an unjust nation are dire.
 
 ## Translator Notes
 

@@ -55,6 +55,6 @@
 
 - **24:6** — Vulgate reads "will sin" (peccabunt) and "will go mad" (insanient), where the Hebrew Masoretic Text has "bear guilt" and "are scorched."
 - **24:14** — Vulgate has the temporal clause "when the Lord has been glorified" (cum glorificatus fuerit Dominus) and hinnient (literally "will neigh," Jerome's literal rendering of the Hebrew verb used both for neighing and for a ringing cry).
-- **24:15** — Vulgate reads "in teachings" (in doctrinis), interpreting the Hebrew term (often translated "in the east" or "in the regions of light") in the sense of illuminations or doctrines.
-- **24:16** — Vulgate renders the Hebrew expression often translated "I waste away" as "My secret to me" (Secretum meum mihi), taking the Hebrew root in the sense of "secret" or "mystery."
+- **24:15** — Vulgate reads "in teachings" (in doctrinis), taking the Hebrew term meaning "in the lights" (understood of the regions of light, the east) in the sense of illuminations or doctrines.
+- **24:16** — Vulgate reads "My secret to me" (Secretum meum mihi), taking the Hebrew razi-li in the sense of "secret" or "mystery" rather than "leanness" ("I waste away").
 - **24:22** — Vulgate reads "of a single bundle" (unius fascis) where the Hebrew reads "of a prisoner"; similarly in 24:20 Vulgate has "carried off like a tent of a single night" (auferetur quasi tabernaculum unius noctis) for Hebrew "sways like a hut."

@@ -43,7 +43,7 @@
 
 **27:19** Just as in waters the faces of those looking in shine back, so the hearts of people are evident to the prudent.
 
-**27:20** Hell and destruction are never filled; likewise, the eyes of people are also insatiable.
+**27:20** The underworld and destruction are never filled; likewise, the eyes of people are also insatiable.
 
 **27:21** Just as silver is tested in a crucible and gold in a furnace, so a person is tested by the mouth of one who praises. The heart of an unjust person seeks evil things, but an upright heart seeks knowledge.
 
@@ -63,6 +63,6 @@
 
 - **27:4** — The Vulgate reads 'the onslaught of one who is stirred up' (impetum concitati), whereas the Hebrew Masoretic Text reads 'jealousy.'
 - **27:16** — The Vulgate literally reads 'he will summon the oil of his right hand' (oleum dexteræ suæ vocabit), taking the Hebrew verb in the sense of 'call' rather than 'encounter' or 'grasp.'
-- **27:19** — Following the Septuagint, the Vulgate reads 'the hearts of people are evident to the prudent' (corda hominum manifesta sunt prudentibus), where the Hebrew reads 'the heart of man reflects man.'
+- **27:19** — The Vulgate reads 'the hearts of people are evident to the prudent' (corda hominum manifesta sunt prudentibus), where the Hebrew reads 'the heart of man reflects man.'
 - **27:21** — The second sentence ('The heart of an unjust person seeks evil things, but an upright heart seeks knowledge') is present in the Vulgate, agreeing with the Septuagint, and absent from the Hebrew Masoretic Text.
 - **27:24** — The Vulgate contrasts the two clauses affirmatively ('for you will not continually have power, but a crown will be bestowed from generation to generation'), whereas the Hebrew negates both ('riches are not forever, nor does a crown endure to all generations').

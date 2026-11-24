@@ -69,6 +69,6 @@
 
 - **51:5** — Vulgate a rege iniquo ("from a wicked king") is a Vulgate-distinct reading where the Greek text speaks of a slanderous report to a king. Syntactically, the prepositional phrases in 51:4-5 depend on the verb of deliverance in the preceding context.
 - **51:9** — Vulgate pro morte defluente ("because of death flowing down") reflects a Vulgate-distinct rendering of Greek rhyseos as derived from rheo ("flow") rather than rhyomai ("deliver," as in "deliverance from death").
-- **51:10** — Vulgate Dominum patrem Domini mei ("the Lord, the Father of my Lord") follows the Greek textual tradition rather than the Hebrew ("O LORD, you are my father"), a reading widely noted in Christian exegesis for its messianic resonance.
+- **51:10** — Vulgate Dominum patrem Domini mei ("the Lord, the Father of my Lord") follows the Greek textual tradition rather than the Hebrew ("O Lord, you are my father").
 - **51:14** — Vulgate pro illis ("for them") is a Vulgate-distinct plural where the Greek has singular "for her" (wisdom), and effloruit ("it blossomed") supplies a finite verb rather than the Greek prepositional phrase "from the blossom."
 - **51:20** — Vulgate in agnitione ("in knowledge") is a Vulgate-distinct reading where the Greek text reads "in purification."

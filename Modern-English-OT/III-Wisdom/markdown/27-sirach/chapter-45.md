@@ -7,7 +7,7 @@
 
 **45:1** And He preserved for him men of mercy, finding favor in the eyes of all flesh.
 
-**45:2** He made him equal in the glory of the holy ones, and He magnified him in the fear of enemies, and by his words he calmed portents.
+**45:2** He made him similar in the glory of the holy ones, and He magnified him in the fear of enemies, and by his words he calmed portents.
 
 **45:3** He glorified him in the sight of kings, and commanded him before His people, and showed him His glory.
 

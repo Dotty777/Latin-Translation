@@ -23,7 +23,7 @@
 
 **5:9** What is your beloved like compared to another beloved, most beautiful of women? What is your beloved like compared to another beloved, that you have adjured us like this?
 
-**5:10** My beloved is radiant and ruddy, chosen from among thousands.
+**5:10** My beloved is white and ruddy, chosen from among thousands.
 
 **5:11** His head is the finest gold; his locks are like shoots of palm trees, black as a raven.
 

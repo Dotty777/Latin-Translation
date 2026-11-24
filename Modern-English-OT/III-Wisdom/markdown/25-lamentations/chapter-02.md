@@ -43,7 +43,7 @@
 
 **2:19** Qoph: Rise up, give praise in the night, at the beginning of the watches; pour out your heart like water before the presence of the Lord; lift up your hands to Him for the soul of your little ones, who have fainted in hunger at the head of all the crossroads.
 
-**2:20** Resh: See, Lord, and consider whom You have harvested in this way. Will women really eat their fruit, little ones the measure of a palm? Should priest and prophet be killed in the sanctuary of the Lord?
+**2:20** Resh: See, Lord, and consider whom You have harvested in this way. Will women really eat their fruit, little ones the measure of a palm? Are priest and prophet killed in the sanctuary of the Lord?
 
 **2:21** Shin: The boy and the old man have lain on the ground outside; my virgins and my young men have fallen by the sword. You have killed on the day of Your fury; You have struck down and have not shown mercy.
 

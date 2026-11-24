@@ -9,11 +9,11 @@
 
 **8:2** I will take hold of you and lead you into the house of my mother; there you will teach me, and I will give you a cup of spiced wine and the new wine of my pomegranates.
 
-**8:3** His left hand is under my head, and his right hand will embrace me.
+**8:3** His left hand is beneath my head, and his right hand will embrace me.
 
-**8:4** I put you under oath, daughters of Jerusalem, that you neither rouse nor awaken the beloved until she herself wishes.
+**8:4** I make you swear, daughters of Jerusalem, neither to rouse nor to awaken the beloved until she herself wishes.
 
-**8:5** Who is this who ascends from the desert, overflowing with delights, leaning on her beloved? Under the apple tree I roused you; there your mother was corrupted, there she who bore you was violated.
+**8:5** Who is this who comes up from the wilderness, overflowing with delights, leaning on her beloved? Under the apple tree I roused you; there your mother was corrupted, there she who bore you was violated.
 
 **8:6** Place me as a seal upon your heart, as a seal upon your arm, for love is strong like death, jealousy unyielding like the underworld; its torches are torches of fire and of flames.
 
@@ -35,8 +35,8 @@
 
 ## Translator Notes
 
-- **8:2** — Latin "ibi me docebis" ("there you will teach me") renders the verb as second-person future and includes "there" with the Septuagint, whereas many modern Hebrew translations read "she who taught me."
+- **8:2** — Latin "ibi me docebis" ("there you will teach me") takes the Hebrew verb as second-person future and adds ibi ("there"); the Hebrew form can also be read "she will teach me."
 - **8:5** — Latin "deliciis affluens" ("overflowing with delights") has no counterpart in the Hebrew Masoretic Text; "corrupta est" ("was corrupted") and "violata est" ("was violated") reflect an alternate sense of the Hebrew root elsewhere translated "was in labor."
-- **8:6** — Latin "infernus" denotes the underworld or realm of the dead, and "lampades ... ignis atque flammarum" ("torches of fire and of flames") contains no divine name at the end of the verse, unlike Hebrew translations rendering "a flame of the Lord."
+- **8:6** — Latin "infernus" denotes the underworld or realm of the dead, and "lampades ... ignis atque flammarum" ("torches of fire and of flames") contains no divine name at the end of the verse, whereas the final Hebrew word ends in -yah and is sometimes read "a flame of the Lord."
 - **8:7** — Latin uses the past tense "non potuerunt" ("could not") and singular "despiciet eam" ("he will despise it," referring to his wealth), whereas the Hebrew uses an impersonal plural.
 - **8:11** — Latin renders the Hebrew names Solomon and Baal-hamon etymologically as "pacifico" ("the peaceful one," continued in v. 12 with the Clementine genitive "tui pacifici") and "in ea quae habet populos" ("in that which has peoples").

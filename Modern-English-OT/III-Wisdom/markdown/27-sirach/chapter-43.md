@@ -73,7 +73,7 @@
 
 ## Translator Notes
 
-- **43:1** — Vulgate 'pulchritudo ejus' ('His beauty', continuing the reference to the Lord's glory in 42:26, or possibly 'its beauty', referring to the height) differs from the Greek, which reads 'the expanse of purity'.
+- **43:1** — Vulgate 'pulchritudo ejus' ('His beauty', continuing the reference to the Lord's glory in 42:25, or possibly 'its beauty', referring to the height) differs from the Greek, which reads 'the expanse of purity'.
 - **43:8** — Vulgate repeats 'in consummatione' ('in completion') from v. 7, whereas the Greek reads 'in its changing' (referring to the moon's phases).
 - **43:9** — Vulgate reads 'mundum illuminans in excelsis Dominus' ('the Lord illuminates the world in the heights'), taking 'mundum' as 'world' and nominative 'Dominus' as subject, whereas the Greek reads 'a shining ornament in the heights of the Lord'.
 - **43:22** — Vulgate 'humilem efficiet eum' ('will make him humble') likely reflects a Latin textual shift from 'hilarem' ('cheerful'), corresponding to the Greek 'will refresh' after the scorching heat.

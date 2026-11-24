@@ -43,7 +43,7 @@
 
 ## Translator Notes
 
-- **9:1** — Vulgate reads utrum amore an odio dignus sit ("whether he is worthy of love or of hatred"), a distinctive reading prominent in Latin theology, where the Hebrew states that man does not know whether love or hatred awaits him.
+- **9:1** — Vulgate reads utrum amore an odio dignus sit ("whether he is worthy of love or of hatred"), where the Hebrew states that man does not know whether love or hatred awaits him.
 - **9:2** — Vulgate opens with omnia in futurum servantur incerta ("all things are kept uncertain for the future") and closes by contrasting perjurus ("the perjurer") with ille qui verum dejerat ("the one who swears the truth"), diverging from the Masoretic wording.
 - **9:3** — Latin ad inferos ("to the underworld," and apud inferos in 9:10) denotes the abode of the dead, corresponding to Sheol and Hades.
 - **9:4** — Vulgate opens with Nemo est qui semper vivat, et qui hujus rei habeat fiduciam ("There is no one who lives forever and who has confidence in this matter"), differing markedly from the Hebrew ("Whoever is joined to all the living has hope").

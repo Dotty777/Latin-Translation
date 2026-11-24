@@ -17,7 +17,7 @@
 
 **32:20** and to all in general: all the kings of the land of Uz, and all the kings of the land of the Philistines, and Ashkelon, and Gaza, and Ekron, and the remnant of Ashdod;
 
-**32:21** and Edom, and Moab, and the sons of Ammon;
+**32:21** and Idumea, and Moab, and the sons of Ammon;
 
 **32:22** and all the kings of Tyre, and all the kings of Sidon, and the kings of the land of the islands who are across the sea;
 

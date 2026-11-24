@@ -5,9 +5,9 @@
 
 ## Text
 
-**41:1** Death, how bitter is the memory of you for a man who has peace in his possessions!
+**41:1** O death, how bitter is the memory of you for a man who has peace in his possessions!
 
-**41:2** Death, your judgment is good for a man in need and for one who is diminished in strength.
+**41:2** O death, your judgment is good for a man in need and for one who is diminished in strength.
 
 **41:3** Do not fear the judgment of death. Remember what was before you and what is to come upon you: this is the judgment from the Lord for all flesh.
 
@@ -23,7 +23,7 @@
 
 **41:9** And if you are born, you will be born in a curse; and if you die, your portion will be in a curse.
 
-**41:10** All things that are from the earth will return to the earth; so too the ungodly, from a curse to destruction.
+**41:10** All things that are from the earth will turn back to the earth; so too the ungodly, from a curse to destruction.
 
 **41:11** The mourning of people is over their own body, but the name of the ungodly will be erased.
 

@@ -5,7 +5,7 @@
 
 ## Text
 
-**10:1** Dying flies ruin the sweetness of ointment. More precious than wisdom and glory is a small and temporary folly.
+**10:1** Dying flies ruin the sweetness of ointment. Wisdom and glory are more precious than a small and temporary folly.
 
 **10:2** A wise man's heart is at his right hand, and a fool's heart is at his left hand.
 
@@ -47,7 +47,7 @@
 
 ## Translator Notes
 
-- **10:1** — Latin muscae morientes literally means "dying flies" (unlike Hebrew "dead flies"). In the second clause, following the Hebrew word order, sapientia et gloria acts as an ablative of comparison ("more precious than wisdom and glory is a small and temporary folly"), though the uninflected-looking feminine forms have sometimes been construed in reverse.
+- **10:1** — Latin muscae morientes literally means "dying flies" (unlike Hebrew "dead flies"). In the second sentence sapientia et gloria is taken as the subject and parva et ad tempus stultitia as the ablative of comparison; the Hebrew has the reverse sense ("a little folly outweighs wisdom and honor").
 - **10:3** — The Vulgate resolves the ambiguous Hebrew clause as omnes stultos aestimat ("considers all people to be fools"), whereas the Hebrew can also mean that the fool reveals to everyone that he himself is a fool.
 - **10:10** — The Vulgate uniquely uses passive exacuetur ("will be sharpened") and closes with post industriam sequetur sapientia ("after diligence wisdom will follow"), differing from the Hebrew Masoretic Text ("he must exert more strength, and wisdom has the advantage of giving success").
 - **10:11** — The Vulgate reads in silentio ("in silence") and interprets the Hebrew "master of the tongue" (snake charmer) as qui occulte detrahit ("the one who slanders secretly"), who is nihil eo minus ("in no way less than it," i.e., the serpent).

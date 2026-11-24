@@ -61,6 +61,6 @@
 
 - **2:2** — The Vulgate reads errorem ("error") and the passive question Quid frustra deciperis? ("Why are you deceived in vain?"), whereas the Hebrew has "madness" and "What does it accomplish?"
 - **2:3** — Distinctively in the Vulgate, Ecclesiastes resolves to withdraw his flesh from wine and avoid folly, whereas the Hebrew is usually translated as cheering his body with wine and laying hold on folly.
-- **2:8** — Latin scyphos, et urceos in ministerio ad vina fundenda ("cups and pitchers in service for pouring out wines") is Jerome's rendering of an obscure Hebrew phrase often translated "concubines" in modern versions.
+- **2:8** — Latin scyphos, et urceos in ministerio ad vina fundenda ("cups and pitchers in service for pouring out wines") is Jerome's rendering of an obscure Hebrew phrase often taken to mean "concubines."
 - **2:12** — The Vulgate renders the parenthetical question as referring to man following God ("the King, his Maker"), taking the Hebrew verb form as "his Maker" rather than "what has already been done."
-- **2:25** — The Vulgate's ut ego ("as I do") reflects the Hebrew reading mimmeni ("apart from me" or "more than I"), whereas some witnesses and modern versions read "apart from Him."
+- **2:25** — The Vulgate's ut ego ("as I do") reflects the Hebrew reading mimmeni ("apart from me" or "more than I"), whereas some witnesses read "apart from Him."
