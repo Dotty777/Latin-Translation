@@ -9,7 +9,7 @@
 
 **20:2** 'Set apart the cities of fugitives, about which I spoke to you through the hand of Moses,
 
-**20:3** so that whoever has struck a person unknowingly may flee to them, and may be able to escape the wrath of the kinsman who is the avenger of blood.'"
+**20:3** so that whoever has struck a person unknowingly may flee to them, and may be able to escape the wrath of the kinsman who is the avenger of blood.
 
 **20:7** And they designated Kedesh in Galilee of the hill country of Naphtali, and Shechem in the hill country of Ephraim, and Kiriath-arba, which is Hebron, in the hill country of Judah.
 
@@ -23,7 +23,7 @@
 
 **20:5** *(after `20:3`)* And when the avenger of blood pursues him, they will not surrender him into his hands, because he struck his neighbor unknowingly and is not shown to have been his enemy two or three days earlier.
 
-**20:6** *(after `20:3`)* And he will live in that city until he stands before the court, rendering an account of his deed, and until the high priest who is in office at that time dies; then the killer will return and enter his city and his house, from which he had fled.
+**20:6** *(after `20:3`)* And he will live in that city until he stands before the court, rendering an account of his deed, and until the high priest who is in office at that time dies; then the killer will return and enter his city and his house, from which he had fled.'"
 
 ## Translator Notes
 

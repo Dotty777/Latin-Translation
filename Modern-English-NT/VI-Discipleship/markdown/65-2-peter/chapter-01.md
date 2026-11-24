@@ -9,7 +9,7 @@
 
 **1:2** May grace and peace be brought to fullness for you in the knowledge of God and of Christ Jesus our Lord,
 
-**1:3** seeing that all things of His divine power that are for life and godliness have been granted to us through the knowledge of Him who called us by His own glory and virtue,
+**1:3** as all things of His divine power that are for life and godliness have been granted to us through the knowledge of Him who called us by His own glory and virtue,
 
 **1:4** through whom He has granted us the greatest and precious promises, so that through these you may become sharers of the divine nature, fleeing the corruption of that lust which is in the world.
 
@@ -49,7 +49,7 @@
 
 ## Translator Notes
 
-- **1:4** — The Vulgate reads "through whom" (per quem, masculine singular, referring to Christ), whereas modern critical Greek editions read "through which" (referring to God's glory and virtue).
+- **1:4** — The Vulgate reads "through whom" (per quem, masculine singular, referring back to the one who called us in 1:3), whereas the Greek reads "through which" (plural, referring to glory and virtue).
 - **1:9** — Latin "groping by hand" (manu tentans) is a Vulgate-distinct rendering where the Greek means "nearsighted" or "closing the eyes."
 - **1:10** — The Vulgate includes "through good works" (per bona opera), reflecting a variant Greek manuscript tradition absent from modern critical Greek editions.
 - **1:17** — The Vulgate adds "listen to Him" (ipsum audite) at the end of the Transfiguration voice (compare Matt 17:5), a clause absent from modern critical Greek editions of 2 Peter.

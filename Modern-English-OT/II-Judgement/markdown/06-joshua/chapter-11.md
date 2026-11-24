@@ -53,7 +53,7 @@
 
 ## Translator Notes
 
-- **11:6** — Latin "vulnerandos" ("to be wounded") renders Hebrew "chalalim" ("pierced/killed"), whereas the Septuagint reads "put to flight" and most modern versions translate "killed" or "defeated."
+- **11:6** — Latin "vulnerandos" ("to be wounded") renders Hebrew "chalalim" ("pierced/killed"), where the Septuagint reads "put to flight."
 - **11:8** — The Vulgate translates the second element of Hebrew "Misrephoth-maim" into Latin as "aquas Maserephoth" ("the waters of Misrephoth"), and shifts to the singular ("percussit ... dimitteret," referring to Joshua) where the Hebrew has the plural ("they struck").
 - **11:13** — A distinctly Vulgate reading: Israel burned the other cities ("ceteras succendit Israël") apart from those on hills and mounds, and flame consumed Hazor alone, "the most strongly fortified" ("munitissimam," a Vulgate addition; "flamma" may be read as nominative "flame" or ablative "with flame"). By contrast, the Hebrew text states that Israel burned none of the cities standing on mounds except Hazor alone, which Joshua burned.
 - **11:17** — Latin "partem montis" ("the part of the mountain," and similarly "cujus pars" in 12:7) interprets Hebrew "hahar hechalaq" ("Mount Halak" or "the bare mountain") from the root meaning "portion/part." In 11:16, the Vulgate likewise renders Hebrew "ha'arabah" ("the Arabah") as "occidentalem plagam" ("the western region").

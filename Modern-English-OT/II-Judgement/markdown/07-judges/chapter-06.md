@@ -88,7 +88,7 @@
 ## Translator Notes
 
 - **6:11** — The Vulgate divides the Hebrew gentilic avi ha-ezri ("the Abiezrite") literally as patrem familiae Ezri ("the father of the family of Ezri"; cf. 6:24), whereas 6:34 uses the form Abiezer. At the end of the verse, the Latin reads ut fugeret Madian ("in order to flee from Midian") rather than hiding the grain from Midian.
-- **6:24** — The Vulgate translates the Hebrew altar name YHWH-Shalom into Latin as Domini pax ("The Lord's Peace"), attaches "until the present day" to the naming, and joins "while he was still in Ophrah" to the Lord's nighttime command in 6:25.
+- **6:24** — The Vulgate translates the Hebrew altar name ("the Lord is peace") into Latin as Domini pax ("The Lord's Peace"), attaches "until the present day" to the naming, and joins "while he was still in Ophrah" to the Lord's nighttime command in 6:25.
 - **6:25** — The Vulgate renders Hebrew ha-asherah (the Asherah pole) as nemus ("grove," also in 6:26, 30) and lucum ("sacred grove," 6:28), while distinguishing the Lord's altar (altare, 6:24, 26, 28) from Baal's altar (ara, 6:25, 28, 30-32).
 - **6:26** — A distinctively Vulgate reading ("upon which you placed the sacrifice before"), whereas the Hebrew text directs that the altar be built "in proper order."
 - **6:31** — The Vulgate renders the Hebrew clause commonly translated "whoever contends for him" as qui adversarius est ejus ("Whoever is his adversary"), preserving the literal Latin syntax of Joash's challenge.

@@ -51,11 +51,11 @@
 
 **10:24** And when they had been led out to him, he called all the men of Israel and said to the commanders of the army who were with him, "Go and put your feet on the necks of these kings." When they had gone forward and were treading with their feet on the necks of those subdued,
 
-**10:25** he said to them again, "Do not fear, nor be terrified; be strengthened and be strong, for thus the Lord will do to all your enemies against whom you fight."
+**10:25** he said to them again, "Do not fear, nor be terrified; be strengthened and be resolute, for thus the Lord will do to all your enemies against whom you fight."
 
 **10:26** And Joshua struck them and killed them, and hanged them on five stakes; and they were hanging until evening.
 
-**10:27** And when the sun was setting, he commanded his companions to take them down from the gallows. Having taken them down, they threw them into the cave in which they had hidden, and placed huge stones over its mouth, which remain until the present.
+**10:27** And when the sun was setting, he commanded his companions to take them down from the gibbets. Having taken them down, they threw them into the cave in which they had hidden, and placed huge stones over its mouth, which remain until the present.
 
 **10:28** On that same day also, Joshua captured Makkedah and struck it with the edge of the sword, and killed its king and all its inhabitants; he did not leave in it even a small remnant. And he did to the king of Makkedah just as he had done to the king of Jericho.
 
@@ -81,7 +81,7 @@
 
 **10:39** he captured it and laid it waste; its king also, and all the surrounding towns, he struck with the edge of the sword; he did not leave in it any remnant; just as he had done to Hebron and Libnah and their kings, so he did to Debir and its king.
 
-**10:40** Therefore Joshua struck all the hill country and the south and the plains, and Asedoth, with their kings; he did not leave in it any remnant, but he killed everything that could breathe, just as the Lord God of Israel had commanded him,
+**10:40** Therefore Joshua struck all the hill country and the south and the plains, and Ashdoth, with their kings; he did not leave in it any remnant, but he killed everything that could breathe, just as the Lord God of Israel had commanded him,
 
 **10:41** from Kadesh-barnea as far as Gaza. All the land of Goshen as far as Gibeon,
 
@@ -97,6 +97,6 @@
 
 - **10:12** — "Do not move opposite Gibeon" reflects Vulgate "contra Gabaon ne movearis," whereas the Hebrew reads "be still at Gibeon."
 - **10:13** — "The book of the just" translates the Vulgate plural "in libro justorum," corresponding to the Hebrew "Book of Jashar" ("the Upright").
-- **10:14** — "So long a day" preserves Vulgate "tam longa dies" (Hebrew: "a day like it"). Verse 10:15 of the Hebrew text (reporting Joshua's return to Gilgal) is absent from the Clementine Vulgate, which proceeds directly to 10:16.
-- **10:40** — "Asedoth" preserves the Vulgate treatment of the Hebrew geographic common noun "ashedot" ("the slopes" or "foothills") as a proper place name.
-- **10:42** — "Fought for him" reflects Vulgate "pugnavit pro eo" (Hebrew: "fought for Israel"). Verse 10:43 of the Hebrew text (the return to Gilgal) is absent from the Clementine Vulgate.
+- **10:14** — "So long a day" preserves Vulgate "tam longa dies" (Hebrew: "a day like it").
+- **10:40** — "Ashdoth" (Latin Asedoth) preserves the Vulgate treatment of the Hebrew geographic common noun "ashedot" ("the slopes" or "foothills") as a proper place name.
+- **10:42** — "Fought for him" reflects Vulgate "pugnavit pro eo" (Hebrew: "fought for Israel").

@@ -75,12 +75,12 @@
 
 **2:35** And I will raise up for Myself a faithful priest, who will act according to My heart and My soul; and I will build for him a faithful house, and he will walk before My anointed one for all days.
 
-**2:36** And it will come about that whoever remains in your house will come so that prayer may be made for him, and will offer a silver coin and a loaf of bread, and will say, 'Admit me, I beg you, to one priestly office, so that I may eat a morsel of bread.'"
+**2:36** And it will come about that whoever remains in your house will come so that prayer may be made for him, and will offer a silver coin and a loaf of bread, and will say, 'Admit me, I beg you, to one priestly portion, so that I may eat a morsel of bread.'"
 
 ## Translator Notes
 
 - **2:3** — The Vulgate reads 'vetera' ("old things", connecting Hebrew 'ataq' with the root "ancient" rather than "arrogant") and 'ipsi præparantur cogitationes' ("for Him thoughts are prepared"), where the Hebrew has "by Him actions are weighed."
 - **2:5** — The Vulgate renders 'plurimos' ("very many") where the Hebrew specifies "seven," and 'saturati sunt' ("have been satisfied") where the Hebrew reads "have ceased [to hunger]."
-- **2:10** — Latin 'christi sui' (like 'christo meo' in 2:35) translates Hebrew 'mashiach' ("anointed one"), a title also read messianically in Christian tradition; the Vulgate also reads 'imperium' ("dominion") where the Hebrew has "strength."
+- **2:10** — Latin 'christi sui' (like 'christo meo' in 2:35) translates Hebrew 'mashiach' ("anointed one"); the Vulgate also reads 'imperium' ("dominion") where the Hebrew has "strength."
 - **2:32** — The Vulgate reads 'æmulum tuum in templo' ("your rival in the temple"), understanding Hebrew 'tsar ma'on' as a rival in the sanctuary rather than "distress in the dwelling."
 - **2:36** — The Vulgate reads 'ut oretur pro eo, et offerat nummum argenteum, et tortam panis' ("so that prayer may be made for him, and will offer a silver coin and a loaf of bread"), whereas the Hebrew depicts Eli's descendant bowing down to beg for silver and bread.

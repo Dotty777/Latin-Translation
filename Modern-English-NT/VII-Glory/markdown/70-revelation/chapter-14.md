@@ -9,7 +9,7 @@
 
 **14:2** And I heard a sound from heaven, like the sound of many waters and like the sound of loud thunder, and the sound that I heard was like that of harpists playing on their harps.
 
-**14:3** And they were singing, as it were, a new song before the throne and before the four living creatures and the elders; and no one was able to recite the song except those one hundred forty-four thousand who were bought from the earth.
+**14:3** And they were singing, as it were, a new song before the throne and before the four living beings and the elders; and no one was able to recite the song except those one hundred forty-four thousand who were bought from the earth.
 
 **14:4** These are the ones who have not been defiled with women, for they are virgins. These follow the Lamb wherever He goes. These were bought from among mankind as firstfruits to God and to the Lamb,
 

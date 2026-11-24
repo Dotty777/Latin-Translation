@@ -7,7 +7,7 @@
 
 **2:1** And the angel of the Lord went up from Gilgal to the Place of Those Who Weep, and said, "I led you out of Egypt, and brought you into the land concerning which I swore to your fathers; and I promised that I would not make My covenant with you void forever,
 
-**2:2** provided only that you would not strike a treaty with the inhabitants of this land, but would overthrow their altars; yet you were unwilling to listen to My voice. Why have you done this?
+**2:2** provided only that you would not strike a covenant with the inhabitants of this land, but would overthrow their altars; yet you were unwilling to listen to My voice. Why have you done this?
 
 **2:3** For this reason I was unwilling to wipe them out from before your face, so that you may have enemies, and their gods may be a ruin to you."
 
@@ -56,5 +56,5 @@
 - **2:1** — The Vulgate translates the Hebrew place name Bochim into Latin as Locum flentium ("the Place of Those Who Weep"), and adds the explanatory gloss sive lacrimarum ("or of Tears") in 2:5.
 - **2:3** — Latin nolui delere... ut habeatis hostes, et dii eorum sint vobis in ruinam ("I was unwilling to wipe them out... so that you may have enemies, and their gods may be a ruin to you") differs from the Hebrew, which reads "I also said, I will not drive them out... they will be in your sides, and their gods will be a snare to you."
 - **2:5** — The Clementine Vulgate reads the genitive hostias Domini ("sacrifices of the Lord," an objective genitive denoting offerings presented to the Lord) where the Hebrew and some Latin manuscripts have the dative "to the Lord."
-- **2:9** — Latin Thamnathsare corresponds to "Timnath-serah" (agreeing with Joshua 19:50 and 24:30), whereas the Masoretic Text of Judges 2:9 reads "Timnath-heres."
+- **2:9** — Latin Thamnathsare corresponds to "Timnath-serah" (agreeing with Joshua 19:50 and 24:31), whereas the Masoretic Text of Judges 2:9 reads "Timnath-heres."
 - **2:14** — In the Vulgate, the plural relative clause qui ceperunt eos, et vendiderunt makes the plunderers the subject who captured and sold Israel to surrounding enemies, whereas in the Hebrew the Lord Himself is the subject who sold them; similarly, in 2:17 audientes mandata Domini, omnia fecere contraria applies to the rebellious Israelites rather than to their obedient fathers.

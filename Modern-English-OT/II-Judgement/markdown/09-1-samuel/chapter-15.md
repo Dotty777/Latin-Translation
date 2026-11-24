@@ -9,7 +9,7 @@
 
 **15:2** This is what the Lord of hosts says: 'I have reviewed all that Amalek did to Israel, how he opposed him on the way when he was coming up from Egypt.
 
-**15:3** Now therefore go and strike Amalek, and utterly destroy everything that is his; do not spare him, and do not covet anything from his possessions, but kill from man to woman, both little child and nursing infant, ox and sheep, camel and donkey.'"
+**15:3** Now therefore go and strike Amalek, and destroy everything that is his; do not spare him, and do not covet anything from his possessions, but kill from man to woman, both little child and nursing infant, ox and sheep, camel and donkey.'"
 
 **15:4** So Saul commanded the people and counted them like lambs: two hundred thousand foot soldiers, and ten thousand men of Judah.
 
@@ -21,7 +21,7 @@
 
 **15:8** And he captured Agag, king of Amalek, alive; but all the common people he killed with the edge of the sword.
 
-**15:9** And Saul and the people spared Agag, and the best flocks of sheep and herds, and the garments and the rams, and everything that was beautiful, and they were unwilling to destroy them; but whatever was inferior and rejected, this they utterly destroyed.
+**15:9** And Saul and the people spared Agag, and the best flocks of sheep and herds, and the garments and the rams, and everything that was beautiful, and they were unwilling to destroy them; but whatever was inferior and rejected, this they destroyed.
 
 **15:10** Now the word of the Lord came to Samuel, saying,
 

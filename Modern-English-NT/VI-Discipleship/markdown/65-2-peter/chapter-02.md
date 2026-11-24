@@ -51,7 +51,7 @@
 
 ## Translator Notes
 
-- **2:4** — The Vulgate reads "with ropes of hell" (rudentibus inferni) and adds "to be tormented" (cruciandos), whereas modern critical Greek editions read "chains" or "pits of gloom" without the added phrase.
+- **2:4** — The Vulgate reads "with ropes of the underworld" (rudentibus inferni) and adds "to be tormented" (cruciandos), whereas modern critical Greek editions read "chains" or "pits of gloom" without the added phrase.
 - **2:8** — Unlike the Greek, in which Lot torments his own righteous soul, the Vulgate uses a plural verb (cruciabant) so that the wicked inhabitants of Sodom are the ones who tormented Lot's righteous soul from day to day.
 - **2:10** — The Vulgate reads "they do not fear to introduce sects" (sectas non metuunt introducere), whereas the Greek speaks of not trembling to blaspheme "glorious ones" (angelic majesties).
 - **2:11** — The Vulgate uses the reflexive "against themselves" (adversum se) and omits "before the Lord," whereas Greek manuscripts read "against them before the Lord."

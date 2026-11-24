@@ -5,7 +5,7 @@
 
 ## Text
 
-**4:1** Dearest ones, do not believe every spirit, but test the spirits to see if they are from God, because many false prophets have gone out into the world.
+**4:1** Beloved, do not believe every spirit, but test the spirits to see if they are from God, because many false prophets have gone out into the world.
 
 **4:2** By this the Spirit of God is known: every spirit that confesses that Jesus Christ has come in the flesh is from God;
 
@@ -17,7 +17,7 @@
 
 **4:6** We are from God. The one who knows God listens to us; the one who is not from God does not listen to us. By this we know the Spirit of truth and the spirit of error.
 
-**4:7** Dearest ones, let us love one another, because love is from God. And everyone who loves has been born of God and knows God.
+**4:7** Beloved, let us love one another, because love is from God. And everyone who loves has been born of God and knows God.
 
 **4:8** The one who does not love does not know God, because God is love.
 
@@ -25,7 +25,7 @@
 
 **4:10** In this is love: not as though we loved God, but that He Himself first loved us and sent His Son as a propitiation for our sins.
 
-**4:11** Dearest ones, if God loved us in this way, we also ought to love one another.
+**4:11** Beloved, if God loved us in this way, we also ought to love one another.
 
 **4:12** No one has ever seen God. If we love one another, God remains in us, and His love is perfected in us.
 
@@ -52,4 +52,4 @@
 - **4:2** — The Vulgate reads the passive 'cognoscitur' ('is known'), whereas the Greek text has the second-person plural 'ginoskete' ('you know').
 - **4:3** — The Vulgate reads 'qui solvit Jesum' ('that dissolves Jesus,' reflecting the early reading 'lyei') rather than 'does not confess Jesus,' and renders the next clause directly as 'this is the antichrist' rather than 'the [spirit] of the antichrist.'
 - **4:4** — The Vulgate uses the singular 'eum' ('him,' referring back to the antichrist of v. 3), whereas the Greek text has the plural 'autous' ('them,' referring to the false prophets).
-- **4:19** — The Vulgate uses the hortatory subjunctive 'diligamus' ('let us love') with explicit 'Deum' ('God') and 'Deus' ('God'), whereas most Greek manuscripts read indicative 'we love' and 'he' without explicit nouns.
+- **4:19** — The Vulgate uses the hortatory subjunctive 'diligamus' ('let us love') with explicit 'Deum' ('God') and 'Deus' ('God'), whereas the Greek agapomen is usually read as indicative ('we love'), and most Greek manuscripts lack both explicit nouns.

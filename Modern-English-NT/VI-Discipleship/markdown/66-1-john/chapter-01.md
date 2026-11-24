@@ -28,5 +28,5 @@
 ## Translator Notes
 
 - **1:3** — The Vulgate uses the subjunctive sit ('may be'), coordinating this clause with habeatis under ut, whereas the Greek has no verb here and is usually read as indicative ('is').
-- **1:4** — The Vulgate includes the clause ut gaudeatis ('so that you may rejoice') and reads gaudium vestrum ('your joy'), whereas many Greek manuscripts omit the first clause and read 'our joy.'
+- **1:4** — The Vulgate includes the clause ut gaudeatis ('so that you may rejoice'), which the Greek text lacks, and reads gaudium vestrum ('your joy') with part of the Greek tradition, whereas other Greek manuscripts read 'our joy.'
 - **1:7** — The Vulgate reads Jesu Christi ('Jesus Christ'), whereas many critical Greek editions omit 'Christ.'

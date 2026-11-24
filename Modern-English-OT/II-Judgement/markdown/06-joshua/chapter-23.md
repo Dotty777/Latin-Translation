@@ -17,17 +17,17 @@
 
 **23:6** Only be strong and be careful to keep everything that is written in the scroll of the law of Moses, and do not turn aside from them either to the right or to the left,
 
-**23:7** so that after you have gone in to the peoples who will be among you, you do not swear by the name of their gods, nor serve them, nor worship them,
+**23:7** so that after you have gone in to the nations who will be among you, you do not swear by the name of their gods, nor serve them, nor worship them,
 
 **23:8** but cling to the Lord your God, which you have done until this day.
 
-**23:9** And then the Lord God will remove in your sight great and very strong peoples, and no one will be able to resist you.
+**23:9** And then the Lord God will remove in your sight great and very strong nations, and no one will be able to resist you.
 
 **23:10** One of you will pursue a thousand men of the enemies, because the Lord your God Himself will fight for you, just as He promised.
 
 **23:11** Take care most diligently for this alone, that you love the Lord your God.
 
-**23:12** But if you choose to cling to the errors of these peoples who dwell among you, and to join in marriage with them, and to form friendships,
+**23:12** But if you choose to cling to the errors of these nations who dwell among you, and to join in marriage with them, and to form friendships,
 
 **23:13** know right now that the Lord your God will not wipe them out before your face, but they will be a pit and a snare to you, and a stumbling block at your side, and stakes in your eyes, until He removes and destroys you from this excellent land, which He delivered to you.
 

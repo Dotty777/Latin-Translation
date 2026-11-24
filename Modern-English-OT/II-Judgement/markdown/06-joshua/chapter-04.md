@@ -56,7 +56,7 @@
 ## Translator Notes
 
 - **4:3** — Latin durissimos ("very hard") is a Vulgate-distinct rendering where the Hebrew refers to the firmness of the priests' standing-place.
-- **4:5** — Latin juxta numerum filiorum Israël ("according to the number of the sons of Israel") omits "tribes," referring directly to the twelve patriarchs; the same Vulgate reading recurs in 4:8.
+- **4:5** — Latin juxta numerum filiorum Israël ("according to the number of the sons of Israel") lacks the Hebrew's "tribes"; the same Vulgate reading recurs in 4:8.
 - **4:9** — Latin Alios quoque duodecim lapides ("twelve other stones") explicitly distinguishes a second monument set in the riverbed from the twelve stones carried to Gilgal, whereas the Hebrew lacks the word "other."
 - **4:13** — Latin per turmas, et cuneos ("by squadrons and columns") renders the armed vanguard using Roman military terms for cavalry squadrons and wedge formations, where the Hebrew simply describes troops equipped for battle.
 - **4:23** — This Latin text ends with Israel's crossing of the Jordan without the comparative clause about drying up the Red Sea found in the Hebrew and some Vulgate editions.

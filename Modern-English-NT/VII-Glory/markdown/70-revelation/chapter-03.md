@@ -21,7 +21,7 @@
 
 **3:8** I know your works. Look, I have set before you an open door that no one can shut, because you have little strength, and have kept My word, and have not denied My name.
 
-**3:9** Look, I will give some from the synagogue of Satan, who say that they are Jews and are not, but lie; look, I will make them come and bow down before your feet, and they will know that I have loved you.
+**3:9** Look, I will give some from the synagogue of Satan, who say that they are Jews and are not, but lie; look, I will make them come and worship before your feet, and they will know that I have loved you.
 
 **3:10** Because you have kept the word of My endurance, I also will keep you from the hour of testing that is about to come upon the whole world, to test those who dwell on the earth.
 

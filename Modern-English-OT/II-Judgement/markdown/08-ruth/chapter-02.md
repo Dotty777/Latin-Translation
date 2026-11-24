@@ -35,7 +35,7 @@
 
 **2:15** And she arose from there to gather ears of grain as usual. Now Boaz commanded his servants, saying, "Even if she wants to reap with you, do not forbid her;
 
-**2:16** and also drop some from your own sheaves on purpose, and allow them to remain, so that she may gather without embarrassment, and let no one rebuke her as she gathers."
+**2:16** and also drop some from your own sheaves on purpose, and allow them to remain, so that she may gather without embarrassment, and no one may rebuke her as she gathers."
 
 **2:17** So she gathered in the field until evening, and beating and shaking out with a stick what she had gathered, she found about the measure of an ephah of barley, that is, three modii.
 

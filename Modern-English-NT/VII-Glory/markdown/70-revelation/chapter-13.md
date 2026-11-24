@@ -44,6 +44,6 @@
 ## Translator Notes
 
 - **13:2** — The Clementine Vulgate reads 'his power and great authority' (virtutem suam, et potestatem magnam), omitting 'and his throne' found in the Greek text.
-- **13:8** — The Vulgate uses the past tense adoraverunt ('worshiped') where the Greek has a future tense, and unambiguously links ab origine mundi ('from the beginning of the world') to the Lamb who was killed.
+- **13:8** — The Vulgate uses the past tense adoraverunt ('worshiped') where the Greek has a future tense.
 - **13:10** — The Vulgate reads Qui in captivitatem duxerit ('Whoever leads into captivity'), matching the parallel retribution of the sword clause, whereas modern critical Greek editions read 'If anyone is destined for captivity.'
 - **13:16** — The Vulgate uses the future tense faciet ('will cause') and habere caracterem ('to have a mark'), where the Greek uses the present tense and 'that they be given a mark.'

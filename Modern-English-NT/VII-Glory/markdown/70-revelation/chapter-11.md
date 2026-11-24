@@ -45,8 +45,8 @@
 
 ## Translator Notes
 
-- **11:3** — Latin dabo duobus testibus meis ("I will give to My two witnesses") preserves the elliptic biblical construction without an explicit direct object, denoting God's granting of a prophetic commission.
+- **11:3** — Latin dabo duobus testibus meis ("I will give to My two witnesses") preserves the elliptic biblical construction without an explicit direct object.
 - **11:8** — The Clementine Vulgate uses plural corpora ("bodies") and plateis ("streets") and adds the verb jacebunt ("will lie"), whereas critical Greek texts read singular "corpse" and "street" without a verb; likewise 11:9 has plural corpora and monumentis ("tombs") and places tribubus ("tribes") before populis ("peoples").
 - **11:13** — Literally nomina hominum septem millia ("seven thousand names of people/men"), a biblical idiom referring to counted individuals.
-- **11:15** — The Clementine Vulgate distinctly specifies hujus mundi ("of this world") and closes the acclamation with Amen, both absent from standard Greek editions.
+- **11:15** — The Clementine Vulgate reads hujus mundi ("of this world") where standard Greek editions have simply "of the world," and closes the acclamation with Amen, which they lack.
 - **11:19** — The Clementine Vulgate lists four phenomena (flashes of lightning, voices, an earthquake, and great hail), omitting the "thunders" present in Greek manuscripts.

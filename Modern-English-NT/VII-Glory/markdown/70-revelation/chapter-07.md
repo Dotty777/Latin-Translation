@@ -25,7 +25,7 @@
 
 **7:10** and they were crying out with a loud voice, saying, "Salvation to our God, who sits on the throne, and to the Lamb."
 
-**7:11** And all the angels were standing around the throne, and the elders, and the four living creatures; and they fell on their faces in the sight of the throne and worshiped God,
+**7:11** And all the angels were standing around the throne, and the elders, and the four living beings; and they fell on their faces in the sight of the throne and worshiped God,
 
 **7:12** saying, "Amen. Blessing, and splendor, and wisdom, and thanksgiving, honor, and might, and strength to our God forever and ever. Amen."
 

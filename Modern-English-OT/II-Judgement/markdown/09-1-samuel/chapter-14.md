@@ -111,7 +111,7 @@
 
 ## Translator Notes
 
-- **14:15** — The Vulgate translates the Hebrew term for "trembling" or "panic" twice as miraculum ("miracle"), emphasizing the sudden turmoil in the Philistine camp as a miraculous intervention from God.
+- **14:15** — The Vulgate translates the Hebrew term for "trembling" or "panic" twice as miraculum ("miracle").
 - **14:22** — The closing sentence ("And there were with Saul about ten thousand men") is a Vulgate reading shared with the Septuagint that does not appear in the Hebrew Masoretic Text.
 - **14:24** — The Vulgate reads sociati sunt sibi ("were joined together"), reflecting a different vocalization or reading of the Hebrew verb that the Masoretic Text renders "were hard-pressed."
 - **14:38** — Latin angulos ("corners") literally reproduces the Hebrew idiom for the chiefs or leaders of the people, viewed as their cornerstones.

@@ -13,11 +13,11 @@
 
 **15:4** Who will not fear You, Lord, and magnify Your name? For You alone are merciful; for all the nations will come and worship in Your sight, because Your judgments are manifest."
 
-**15:5** And after these things I saw, and look: the temple of the tabernacle of testimony in heaven was opened,
+**15:5** And after these things I saw, and look: the temple of the tabernacle of the testimony in heaven was opened,
 
 **15:6** and the seven angels having the seven plagues came out from the temple, clothed in clean and bright white linen, and wrapped around their chests with golden sashes.
 
-**15:7** And one of the four living creatures gave to the seven angels seven golden bowls, full of the fury of God, who lives forever and ever.
+**15:7** And one of the four living beings gave to the seven angels seven golden bowls, full of the fury of God, who lives forever and ever.
 
 **15:8** And the temple was filled with smoke from the majesty of God and from His power, and no one was able to enter the temple until the seven plagues of the seven angels were completed.
 

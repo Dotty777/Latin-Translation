@@ -51,7 +51,7 @@
 
 **1:23** And her husband Elkanah said to her, "Do what seems good to you, and remain until you wean him; and I pray that the Lord may fulfill His word." So the woman remained and nursed her son until she took him off milk.
 
-**1:24** And she brought him with her after she had weaned him, with three calves, and three measures of flour, and a jar of wine, and she brought him to the house of the Lord in Shiloh. Now the boy was still a very small child;
+**1:24** And she brought him with her after she had weaned him, with three calves, and three modii of flour, and a jar of wine, and she brought him to the house of the Lord in Shiloh. Now the boy was still a very small child;
 
 **1:25** and they sacrificed a calf, and they presented the boy to Eli.
 
@@ -66,5 +66,5 @@
 - **1:5** — The Vulgate reads 'partem unam tristis' ("one portion sorrowfully"), interpreting the difficult Hebrew 'appayim' as Elkanah's sorrowful countenance rather than "a double portion."
 - **1:16** — The Vulgate preserves the Hebrew transliteration 'Belial' (meaning "worthlessness" or "wickedness") as a name both here and in 2:12.
 - **1:18** — The Vulgate reads 'vultusque illius non sunt amplius in diversa mutati' ("her countenance was no longer changed in different ways"), expanding the concise Hebrew idiom meaning her face was no longer downcast.
-- **1:24** — The Vulgate has 'tribus modiis' ("three measures"), reflecting Jerome's reckoning of one Hebrew ephah as three modii (seahs), and retains 'vitulis tribus' ("three calves") rather than the Septuagint's "a three-year-old bull."
+- **1:24** — The Vulgate has 'tribus modiis' ("three modii"), reflecting Jerome's reckoning of one Hebrew ephah as three modii (seahs), and retains 'vitulis tribus' ("three calves") rather than the Septuagint's "a three-year-old bull."
 - **1:28** — The Vulgate reads 'quibus fuerit commodatus Domino' ("that he is lent to the Lord") rather than the Hebrew "as long as he lives," uses plural 'adoraverunt' ("they worshiped") with the Septuagint, and places "And Hannah prayed and said:" at the end of 1:28 rather than at 2:1.

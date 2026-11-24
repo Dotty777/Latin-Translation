@@ -5,11 +5,11 @@
 
 ## Text
 
-**12:1** These are the kings whom the sons of Israel struck down, and whose land they possessed beyond the Jordan toward the rising of the sun, from the torrent of Arnon as far as Mount Hermon, and all the eastern region that faces the wilderness.
+**12:1** These are the kings whom the sons of Israel struck down, and whose land they possessed beyond the Jordan toward the rising of the sun, from the stream of Arnon as far as Mount Hermon, and all the eastern region that faces the wilderness.
 
-**12:2** Sihon, king of the Amorites, who lived in Heshbon, ruled from Aroer, which is situated on the bank of the torrent of Arnon, and over the middle part in the valley, and over half of Gilead, as far as the torrent of Jabbok, which is the border of the sons of Ammon;
+**12:2** Sihon, king of the Amorites, who lived in Heshbon, ruled from Aroer, which is situated on the bank of the stream of Arnon, and over the middle part in the valley, and over half of Gilead, as far as the stream of Jabbok, which is the border of the sons of Ammon;
 
-**12:3** and from the wilderness as far as the Sea of Chinneroth toward the east, and as far as the sea of the desert, which is the very salty sea, toward the eastern region by the road that leads to Beth-jeshimoth, and on the southern side, which lies beneath Ashdoth-pisgah.
+**12:3** and from the wilderness as far as the Sea of Chinneroth toward the east, and as far as the sea of the desert, which is the Saltiest Sea, toward the eastern region by the road that leads to Beth-jeshimoth, and on the southern side, which lies beneath Ashdoth, Pisgah.
 
 **12:4** The territory of Og, king of Bashan, of the remnant of the Rephaim, who lived in Ashtaroth and in Edrei, and ruled in Mount Hermon, and in Salecah, and in all Bashan, as far as the borders
 
@@ -55,7 +55,7 @@
 
 ## Translator Notes
 
-- **12:3** — Latin "mare salsissimum" ("the very salty sea") uses a superlative for Hebrew "yam hammelach" ("the Salt Sea"). Both here ("Asedoth, Phasga") and in 12:8 ("In Asedoth"), the Vulgate retains Hebrew "ashedoth" ("slopes") as a proper name, Ashdoth.
+- **12:3** — Latin "mare salsissimum" ("the Saltiest Sea") uses a superlative for Hebrew "yam hammelach" ("the Salt Sea"). Both here ("Asedoth, Phasga") and in 12:8 ("In Asedoth"), the Vulgate retains Hebrew "ashedoth" ("slopes") as a proper name, Ashdoth.
 - **12:8** — The Clementine Vulgate attaches the first three geographical regions to the preceding sentence (v. 7) and begins a new sentence with the remaining three ("In Ashdoth, and in the wilderness, and in the south") linked to the nations by the verb "fuit" ("were"), whereas the Hebrew lists all six regions together.
 - **12:18** — The Vulgate reads "Saron" ("Sharon"), treating the prefix of Hebrew "la-Sharon" as a preposition rather than part of the place name ("Lasharon").
 - **12:20** — The Vulgate reads simply "Semeron" ("Shimron," as in 11:1), omitting the second element of Hebrew "Shimron-meron."

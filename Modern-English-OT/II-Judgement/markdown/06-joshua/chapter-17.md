@@ -17,7 +17,7 @@
 
 **17:6** For the daughters of Manasseh possessed an inheritance in the midst of his sons. And the land of Gilead fell to the lot of the sons of Manasseh who remained.
 
-**17:7** And the border of Manasseh was from Asher to Michmethath, which faces Shechem; and it goes out to the right beside the inhabitants of the spring of Tappuah.
+**17:7** And the border of Manasseh was from Asher, Michmethath, which faces Shechem; and it goes out to the right beside the inhabitants of the spring of Tappuah.
 
 **17:8** For the land of Tappuah had fallen in the lot of Manasseh, which, beside the borders of Manasseh, belongs to the sons of Ephraim.
 

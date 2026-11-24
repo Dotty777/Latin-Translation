@@ -35,7 +35,7 @@
 
 **18:15** Now on the south, from the side of Kiriath-jearim, the border goes out toward the sea, and reaches as far as the spring of the waters of Nephtoah.
 
-**18:16** And it goes down to the part of the mountain that faces the valley of the sons of Hinnom, and it is toward the northern side at the farthest part of the valley of Rephaim. And it goes down to Ge-hinnom (that is, the valley of Hinnom) along the flank of the Jebusite to the south, and reaches the spring of Rogel,
+**18:16** And it goes down to the part of the mountain that faces the valley of the sons of Hinnom, and it is toward the northern side at the farthest part of the valley of Rephaim. And it goes down to Gehennom (that is, the valley of Hinnom) along the flank of the Jebusite to the south, and reaches the spring of Rogel,
 
 **18:17** passing over to the north, and going out to En-shemesh, that is, the spring of the sun,
 

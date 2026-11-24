@@ -7,7 +7,7 @@
 
 **11:1** And it happened about a month later that Nahash the Ammonite went up and began to fight against Jabesh-gilead. And all the men of Jabesh said to Nahash, "Have us as allies, and we will serve you."
 
-**11:2** And Nahash the Ammonite answered them, "On this condition I will make a treaty with you: that I gouge out the right eyes of all of you, and make you a reproach in all Israel."
+**11:2** And Nahash the Ammonite answered them, "On this condition I will make a covenant with you: that I gouge out the right eyes of all of you, and make you a reproach in all Israel."
 
 **11:3** And the elders of Jabesh said to him, "Grant us seven days, so that we may send messengers to all the territories of Israel; and if there is no one to defend us, we will come out to you."
 

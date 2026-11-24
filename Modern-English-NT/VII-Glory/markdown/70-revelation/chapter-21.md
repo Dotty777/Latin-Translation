@@ -23,7 +23,7 @@
 
 **21:9** And one of the seven angels who had the bowls full of the seven last plagues came and spoke with me, saying, "Come, and I will show you the bride, the wife of the Lamb."
 
-**21:10** And he carried me up in the Spirit to a great and high mountain, and showed me the holy city Jerusalem coming down out of heaven from God,
+**21:10** And he carried me up in spirit to a great and high mountain, and showed me the holy city Jerusalem coming down out of heaven from God,
 
 **21:11** having the radiance of God; and its light was like a precious stone, like a jasper stone, like crystal.
 

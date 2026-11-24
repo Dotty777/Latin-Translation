@@ -7,7 +7,7 @@
 
 **4:1** After these things I looked, and see, an open door in heaven, and the first voice, which I heard like that of a trumpet speaking with me, saying, "Come up here, and I will show you the things that must take place after these things."
 
-**4:2** And immediately I was in the Spirit, and look, a throne was set in heaven, and One seated upon the throne.
+**4:2** And immediately I was in spirit, and look, a throne was set in heaven, and One seated upon the throne.
 
 **4:3** And He who was seated was like the appearance of a jasper stone and a sardius, and a rainbow was around the throne, like the appearance of an emerald.
 
@@ -25,7 +25,7 @@
 
 **4:10** the twenty-four elders fell down before Him who sits on the throne, and worshiped Him who lives forever and ever, and cast their crowns before the throne, saying,
 
-**4:11** "Worthy are You, Lord our God, to receive glory, and honor, and power, because You created all things, and because of Your will they existed and were created."
+**4:11** "Worthy are You, Lord our God, to receive glory, and honor, and power, because You created all things, and because of Your will they were, and were created."
 
 ## Translator Notes
 

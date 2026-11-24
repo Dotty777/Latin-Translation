@@ -61,5 +61,5 @@
 
 - **2:4** — The Vulgate translates Greek diekrithete ('made distinctions') with judicatis ('pass judgment'), creating a wordplay with judices ('judges').
 - **2:15** — The Clementine Vulgate reads frater et soror ('a brother and a sister'), whereas the Greek reads 'a brother or a sister.'
-- **2:18** — The extent of the speaker's quotation is debated and may continue to the end of the verse. The Vulgate also reads sine operibus ('without works') with the Byzantine Greek tradition rather than the Alexandrian reading 'by works.'
+- **2:18** — The extent of the speaker's quotation is debated and may continue to the end of the verse. The Vulgate's sine operibus ('without works') agrees with the critical Greek text, whereas the Byzantine Greek tradition reads 'by your works.'
 - **2:20** — The Vulgate reads mortua est ('is dead'), following the Byzantine Greek text rather than the Alexandrian reading 'useless/idle.'

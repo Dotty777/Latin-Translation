@@ -56,6 +56,6 @@
 ## Translator Notes
 
 - **4:3** — Vulgate falcatos currus ('scythed chariots,' also in 4:13) interprets the Hebrew 'chariots of iron' as chariots fitted with blades or scythes.
-- **4:6** — The Vulgate presents Deborah's opening words as a direct statement ('has commanded you') rather than the Hebrew Masoretic Text's rhetorical question ('Has not the LORD commanded?').
+- **4:6** — The Vulgate presents Deborah's opening words as a direct statement ('has commanded you') rather than the Hebrew Masoretic Text's rhetorical question ('Has not the Lord commanded?').
 - **4:11** — Vulgate vallem, quae vocatur Sennim ('the valley that is called Sennim') differs from the Hebrew Masoretic Text's 'the oak in Zaanannim.'
 - **4:21** — The Vulgate explicitly adds 'into his brain' (in cerebrum) and expresses Sisera's death as 'uniting deep sleep with death' (soporem morti consocians), where the Hebrew notes that he was fast asleep and exhausted.

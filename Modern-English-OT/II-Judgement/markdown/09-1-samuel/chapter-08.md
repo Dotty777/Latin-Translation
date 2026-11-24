@@ -54,4 +54,4 @@
 - **8:9** — Latin jus regis ("the right of the king," repeated in 8:11) denotes the legal prerogative or custom a monarch will claim, rendering Hebrew mishpat hammelek.
 - **8:12** — Vulgate tribunos, et centuriones ("tribunes and centurions") casts the military ranks in Roman terminology, substituting centurions (commanders of hundreds) where the Hebrew has commanders of fifties.
 - **8:15** — Vulgate translates Hebrew sarisim literally as eunuchis ("eunuchs") rather than the broader sense "court officials."
-- **8:18** — The closing clause quia petistis vobis regem ("because you have asked a king for yourselves") is a Vulgate-distinct addition not found in the Masoretic Hebrew text.
+- **8:18** — The closing clause quia petistis vobis regem ("because you have asked a king for yourselves") is not found in the Masoretic Hebrew text; the Septuagint has a similar clause.

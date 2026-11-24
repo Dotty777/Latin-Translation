@@ -44,6 +44,6 @@
 ## Translator Notes
 
 - **1:6** — The Vulgate reads 'sorte divides' ('divide by lot'), making the lottery allotment of the land explicit where the Hebrew reads simply 'cause to inherit.'
-- **1:7** — The Vulgate renders this clause 'ut intelligas cuncta quæ agis' ('so that you may understand all that you do'), and similarly in 1:8 'diriges viam tuam, et intelliges eam' ('you will direct your way, and you will understand it'), emphasizing practical understanding where the Hebrew is commonly rendered 'succeed' or 'prosper.'
+- **1:7** — The Vulgate renders this clause 'ut intelligas cuncta quæ agis' ('so that you may understand all that you do'), and similarly in 1:8 'diriges viam tuam, et intelliges eam' ('you will direct your way, and you will understand it'), where the Hebrew verb means 'act wisely' or 'prosper.'
 - **1:9** — The Vulgate opens with an emphatic command, 'Ecce præcipio tibi' ('Look, I command you'), whereas the Hebrew poses a rhetorical question ('Have I not commanded you?').
 - **1:11** — The Vulgate specifies 'post diem tertium' ('after the third day'), matching the three-day stay in 3:1-2, whereas the Hebrew reads 'within three days.'

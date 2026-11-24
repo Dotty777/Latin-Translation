@@ -11,11 +11,11 @@
 
 **19:3** And again they said, "Hallelujah!" And her smoke rises forever and ever.
 
-**19:4** And the twenty-four elders and the four living creatures fell down and worshiped God sitting on the throne, saying, "Amen! Hallelujah!"
+**19:4** And the twenty-four elders and the four living beings fell down and worshiped God sitting on the throne, saying, "Amen! Hallelujah!"
 
 **19:5** And a voice came out from the throne, saying, "Give praise to our God, all His servants, and you who fear Him, small and great."
 
-**19:6** And I heard something like the voice of a great crowd, and like the sound of many waters, and like the sound of great thunders, saying, "Hallelujah! For the Lord our God, the Almighty, has begun to reign.
+**19:6** And I heard something like the voice of a great crowd, and like the sound of many waters, and like the sound of great thunders, saying, "Hallelujah! For the Lord our God, the Almighty, has reigned.
 
 **19:7** Let us rejoice and exult, and let us give glory to Him, because the wedding of the Lamb has come, and His wife has prepared herself."
 

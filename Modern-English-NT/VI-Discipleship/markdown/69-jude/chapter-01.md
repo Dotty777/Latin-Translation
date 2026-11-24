@@ -41,7 +41,7 @@
 
 **1:18** who kept telling you that in the last time mockers will come, walking according to their own desires in acts of ungodliness.
 
-**1:19** These are the ones who separate themselves, merely natural, not having the Spirit.
+**1:19** These are the ones who separate themselves, natural, not having the Spirit.
 
 **1:20** But you, dearest ones, building yourselves up upon your most holy faith, praying in the Holy Spirit,
 
@@ -57,7 +57,7 @@
 
 ## Translator Notes
 
-- **1:5** — The Vulgate explicitly reads "Jesus" as the one who saved the people from Egypt, agreeing with major early Greek manuscripts, whereas the Textus Receptus and some translations read "the Lord."
+- **1:5** — The Vulgate explicitly reads "Jesus" as the one who saved the people from Egypt, agreeing with major early Greek manuscripts, whereas other Greek witnesses, including the Textus Receptus, read "the Lord."
 - **1:8** — The Clementine Vulgate omits the Greek participle meaning "in their dreaming" and uses the singular "majesty" (majestatem) where the Greek has the plural "glorious ones" (doxas).
 - **1:12** — The Vulgate reads "stains in their feasts" (in epulis suis maculae) rather than the Greek "hidden reefs in your love-feasts," and uses the future verb "will be carried around" (circumferentur).
 - **1:22** — The Vulgate reads "reprove some who have been judged" (arguite judicatos), introducing a three-group instruction across verses 22-23, whereas critical Greek editions read "have mercy on those who doubt."

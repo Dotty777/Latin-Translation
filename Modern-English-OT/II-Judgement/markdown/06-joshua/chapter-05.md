@@ -15,7 +15,7 @@
 
 **5:5** all of whom were circumcised. But the people who were born in the desert
 
-**5:6** were uncircumcised during the forty years of the journey through the vast wilderness, until those were consumed who had not listened to the voice of the Lord, and to whom He had previously sworn that He would not show them a land flowing with milk and honey.
+**5:6** were uncircumcised during the forty years of the journey through the very vast wilderness, until those were consumed who had not listened to the voice of the Lord, and to whom He had previously sworn that He would not show them a land flowing with milk and honey.
 
 **5:7** Their sons succeeded to the place of their fathers, and were circumcised by Joshua, because, just as they had been born, they still had their foreskin, and no one had circumcised them on the way.
 

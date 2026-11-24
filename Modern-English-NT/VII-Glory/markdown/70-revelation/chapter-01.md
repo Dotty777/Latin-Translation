@@ -23,7 +23,7 @@
 
 **1:9** I, John, your brother and sharer in the tribulation and kingdom and endurance in Christ Jesus, was on the island that is called Patmos on account of the word of God and the testimony of Jesus.
 
-**1:10** I was in the Spirit on the Lord's day, and I heard behind me a loud voice like that of a trumpet,
+**1:10** I was in spirit on the Lord's day, and I heard behind me a loud voice like that of a trumpet,
 
 **1:11** saying, "Write in a book what you see, and send it to the seven churches that are in Asia: to Ephesus, and to Smyrna, and to Pergamum, and to Thyatira, and to Sardis, and to Philadelphia, and to Laodicea."
 

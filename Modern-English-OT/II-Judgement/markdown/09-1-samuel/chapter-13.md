@@ -27,7 +27,7 @@
 
 **13:12** I said, 'Now the Philistines will come down to me in Gilgal, and I have not appeased the face of the Lord.' Compelled by necessity, I offered the burnt offering."
 
-**13:13** And Samuel said to Saul, "You have acted foolishly, and you have not kept the commands of the Lord your God that He commanded you. If you had not done this, even now the Lord would have established your kingdom over Israel forever;
+**13:13** And Samuel said to Saul, "You have acted foolishly, and you have not kept the commands of the Lord your God that He commanded you. If you had not done this, even now the Lord would have prepared your kingdom over Israel forever;
 
 **13:14** but your kingdom will by no means rise any further. The Lord has sought out for Himself a man according to His own heart, and the Lord has commanded him to be leader over His people, because you have not observed what the Lord commanded."
 

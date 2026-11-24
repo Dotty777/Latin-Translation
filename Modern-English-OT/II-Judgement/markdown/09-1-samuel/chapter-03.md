@@ -25,7 +25,7 @@
 
 **3:10** And the Lord came and stood, and called, just as He had called the second time, "Samuel, Samuel." And Samuel said, "Speak, Lord, because Your servant is listening."
 
-**3:11** And the Lord said to Samuel, "Look, I am doing a thing in Israel; for whoever hears it, both of his ears will tingle.
+**3:11** And the Lord said to Samuel, "Look, I am doing a thing in Israel; whoever hears it, both of his ears will tingle.
 
 **3:12** On that day I will raise up against Eli all that I have spoken concerning his house; I will begin, and I will finish.
 

@@ -15,7 +15,7 @@
 
 **3:5** So also the tongue is indeed a small member, and it exalts great things. Look how small a fire sets ablaze how large a forest!
 
-**3:6** And the tongue is a fire, a universe of iniquity. The tongue is established among our members, which stains the whole body and inflames the wheel of our birth, itself inflamed by hell.
+**3:6** And the tongue is a fire, a universe of iniquity. The tongue is established among our members, which stains the whole body and inflames the wheel of our birth, itself inflamed by Gehenna.
 
 **3:7** For every nature of beasts and of birds and of reptiles and of the rest is tamed and has been tamed by human nature,
 
