@@ -1,6 +1,6 @@
 # Luke 4 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (43 verses, 5 translator notes)  
+> **Status:** `draft: true` (44 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Luke`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -39,7 +39,9 @@
 
 **4:17** And the scroll of Isaiah the prophet was handed to Him. And when He unrolled the scroll, He found the place where it was written:
 
-**4:18** "The Spirit of the Lord is upon Me, because He has anointed Me; He has sent Me to announce good news to the poor, to heal the brokenhearted, to proclaim freedom to the captives and sight to the blind, to let the crushed go in freedom, to proclaim the acceptable year of the Lord and the day of retribution."
+**4:18** "The Spirit of the Lord is upon Me, because He has anointed Me; He has sent Me to announce good news to the poor, to heal the brokenhearted,
+
+**4:19** to proclaim freedom to the captives and sight to the blind, to let the crushed go in freedom, to proclaim the acceptable year of the Lord and the day of retribution."
 
 **4:20** And when He had rolled up the scroll, He returned it to the attendant and sat down. And the eyes of everyone in the synagogue were gazing intently at Him.
 
@@ -96,5 +98,6 @@
 - **4:4** — The Vulgate includes the closing clause 'sed in omni verbo Dei' ("but by every word of God"), aligning with the Byzantine Greek tradition and Matthew 4:4, whereas most modern critical Greek editions end the quotation after "bread alone."
 - **4:5** — The Vulgate explicitly includes 'diabolus' ("the devil") and 'in montem excelsum' ("onto a high mountain"), matching the Byzantine Greek tradition, whereas many critical Greek manuscripts omit both details in Luke.
 - **4:10** — Following the Latin Psalter (Psalm 90:11 [91:11]), the Vulgate uses the perfect tense 'mandavit' ("He has commanded") rather than the future tense found in the Greek text.
-- **4:18** — The Clementine Vulgate combines verses 18 and 19 into a single verse (with no separate 4:19), includes 'sanare contritos corde' ("to heal the brokenhearted"), and uniquely adds 'et diem retributionis' ("and the day of retribution") from Isaiah 61:2.
+- **4:18** — The Vulgate includes 'sanare contritos corde' ("to heal the brokenhearted").
+- **4:19** — The Clementine Vulgate uniquely adds 'et diem retributionis' ("and the day of retribution") from Isaiah 61:2.
 - **4:44** — The Vulgate reads 'Galilææ' ("of Galilee"), matching the Byzantine Greek tradition, whereas many early Greek manuscripts and modern critical editions read "of Judea."

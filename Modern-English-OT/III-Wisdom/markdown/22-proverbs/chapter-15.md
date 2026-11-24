@@ -80,5 +80,5 @@
 - **15:5** — The second sentence ('In abundant righteousness... will be uprooted') is a Vulgate reading derived from the Septuagint tradition and is absent from the Hebrew Masoretic Text.
 - **15:11** — Latin 'infernus' denotes the lower realm or underworld (the abode of the dead, also in 15:24 'inferno novissimo'), corresponding to Hebrew Sheol.
 - **15:16** — Vulgate reads 'insatiabiles' ('insatiable'), whereas the Hebrew Masoretic Text reads 'with turmoil.'
-- **15:27** — The second sentences of 15:27, 15:28, and 15:29 correspond to verses 16:6, 16:7, and 16:8 in the Hebrew Masoretic Text, reflecting the distinct verse arrangement of the Clementine Vulgate.
+- **15:27** — The second sentence here is a Septuagint-derived addition in the Vulgate corresponding to Hebrew 16:6 (the Latin also gives that proverb at 16:6). The second sentences of 15:28 and 15:29 are numbered 16:7 and 16:8 in the Latin text and stand here following the Septuagint arrangement.
 - **15:28** — Vulgate reads 'obedientiam' ('obedience'), whereas the Hebrew Masoretic Text reads 'how to answer.'

@@ -1,13 +1,15 @@
 # Hosea 6 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (10 verses, 5 translator notes)  
+> **Status:** `draft: true` (11 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Hosea`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
 **6:1** In their distress they will rise up early to Me: "Come, and let us return to the Lord.
 
-**6:3** He will make us alive after two days; on the third day He will raise us up, and we will live in His presence. We will know, and we will follow so that we may know the Lord; His going forth is prepared like the dawn, and He will come to us like rain, early and late, for the earth."
+**6:2** He will make us alive after two days; on the third day He will raise us up, and we will live in His presence.
+
+**6:3** We will know, and we will follow so that we may know the Lord; His going forth is prepared like the dawn, and He will come to us like rain, early and late, for the earth."
 
 **6:4** What am I to do with you, Ephraim? What am I to do with you, Judah? Your mercy is like a morning cloud, and like dew passing away early.
 

@@ -1,6 +1,6 @@
 # Acts 9 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (42 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (43 verses, 6 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -15,7 +15,9 @@
 
 **9:5** He said, "Who are You, Lord?" And He replied, "I am Jesus, whom you are persecuting; it is hard for you to kick against the goad."
 
-**9:6** And the Lord said to him, "Get up and go into the city, and there you will be told what you must do." Now those men who were traveling with him stood astounded, hearing the voice indeed, yet seeing no one.
+**9:6** And the Lord said to him, "Get up and go into the city, and there you will be told what you must do."
+
+**9:7** Now those men who were traveling with him stood astounded, hearing the voice indeed, yet seeing no one.
 
 **9:8** Then Saul got up from the ground, and with his eyes opened, he saw nothing; and leading him by the hands, they brought him into Damascus.
 
@@ -96,7 +98,8 @@
 ## Translator Notes
 
 - **9:5** — The Vulgate includes the clause "it is hard for you to kick against the goad" (with singular Latin "stimulum"), which is absent from the earliest Greek manuscripts here and appears instead in Acts 26:14.
-- **9:6** — This Latin critical text omits the "trembling and astonished" expansion found in some Clementine printings and combines the material traditionally numbered as verses 6 and 7; in addition, Latin "stabant stupefacti" means "stood astounded" rather than the Greek "stood speechless."
+- **9:6** — In the Latin text this sentence begins verse 7.
+- **9:7** — Latin "stabant stupefacti" means "stood astounded" rather than the Greek "stood speechless."
 - **9:12** — The Clementine Vulgate encloses this verse in parentheses and omits "in a vision" (found in many Greek manuscripts). The Latin present subjunctive "recipiat" follows primary direct-speech sequence after "orat" in verse 11, indicating that the Lord's speech continues through this verse.
 - **9:29** — Where the Greek text names a single group ("the Hellenists"), the Vulgate uniquely distinguishes two groups: "speaking to the Gentiles" ("gentibus") and "disputing with the Greeks" ("Græcis").
 - **9:31** — The Vulgate reads "replebatur" ("was being filled") with the consolation of the Holy Spirit, whereas the Greek text reads "was multiplied" or "increased."

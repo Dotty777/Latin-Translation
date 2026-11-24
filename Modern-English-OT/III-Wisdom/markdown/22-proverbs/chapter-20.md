@@ -64,7 +64,7 @@
 ## Translator Notes
 
 - **20:1** — The Vulgate describes wine as "a wanton thing" (luxuriosa res) and drunkenness (ebrietas) as tumultuous, warning whoever "delights in these" (his delectatur), whereas the Hebrew Masoretic Text calls wine a mocker and strong drink a brawler, warning against being led astray by it.
-- **20:9** — In the Clementine Vulgate, this verse incorporates the three proverbs numbered 20:20-22 in the Hebrew Masoretic Text.
+- **20:9** — The second, third, and fourth sentences are numbered 20:20-22 in the Latin text (as in the Hebrew); they stand here following the Septuagint arrangement.
 - **20:10** — The literal idiom "a weight and a weight, a measure and a measure" (pondus et pondus, mensura et mensura, echoed in 20:23) denotes dishonest, differing standards; the Vulgate here reads "before God" (apud Deum) where the Hebrew has the divine name.
 - **20:25** — The Vulgate literally reads "to devour holy ones" (devorare sanctos), a distinctly Vulgate reading where the Hebrew Masoretic Text speaks of rashly declaring something holy.
 - **20:26** — The Vulgate literally reads "bends an arch over them" (incurvat super eos fornicem), a distinctive Latin rendering of the Hebrew image of driving a threshing wheel over the wicked.

@@ -1,6 +1,6 @@
 # Wisdom of Solomon 2 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes)  
+> **Status:** `draft: true` (24 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Wisdom of Solomon`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -9,7 +9,9 @@
 
 **2:2** Because we were born out of nothing, and after this we will be as though we had not been. For the breath in our nostrils is smoke, and speech is a spark to stir our heart;
 
-**2:4** when it is extinguished, our body will be ashes, and the spirit will disperse like soft air; and our life will pass away like the trace of a cloud, and will dissolve like a mist that has been driven off by the rays of the sun and weighed down by its heat. And our name will fall into oblivion over time, and no one will hold remembrance of our works.
+**2:3** when it is extinguished, our body will be ashes, and the spirit will disperse like soft air; and our life will pass away like the trace of a cloud, and will dissolve like a mist that has been driven off by the rays of the sun and weighed down by its heat.
+
+**2:4** And our name will fall into oblivion over time, and no one will hold remembrance of our works.
 
 **2:5** For our time is the passing of a shadow, and there is no return of our end; because it has been sealed, and no one returns.
 
@@ -54,7 +56,7 @@
 ## Translator Notes
 
 - **2:2** — Vulgate ex nihilo ("out of nothing") is distinctive compared with the Greek autoschedios ("by chance"); likewise sermo ... ad commovendum cor ("speech ... to stir our heart") reflects an Old Latin rendering of Greek logos ("reason") and en kinesei kardias ("in the beating of our heart").
-- **2:4** — In the Clementine Vulgate, the text of traditional verse 2:3 is combined into verse 2:4.
+- **2:3** — The Latin places "and our life will pass away like the trace of a cloud ... weighed down by its heat" in verse 3, whereas the Greek has it in verse 4, after the statement about our name.
 - **2:13** — Vulgate filium Dei ("son of God") differs from the Greek paida kyriou ("servant/child of the Lord"), a distinctive Latin wording repeated with verus filius Dei in 2:18.
 - **2:23** — Vulgate ad imaginem similitudinis suae ("in the image of His own likeness") preserves an Old Latin reading reflecting the Greek variant idiotetos ("own nature") rather than the standard Septuagint aidiotetos ("eternity").
 - **2:24** — Vulgate imitantur autem illum ("imitate him [the devil]") is a well-known Vulgate-distinct reading contrasting with the Greek peirazousin de auton ("experience it [death]"); this verse also combines traditional 2:24-25 in the Clementine Vulgate.

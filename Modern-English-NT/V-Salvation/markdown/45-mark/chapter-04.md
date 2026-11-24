@@ -1,6 +1,6 @@
 # Mark 4 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (40 verses, 5 translator notes)  
+> **Status:** `draft: true` (41 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Mark`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -83,7 +83,9 @@
 
 **4:39** And rising up, He rebuked the wind and said to the sea, "Be silent, be mute." And the wind ceased, and a great calm came about.
 
-**4:41** And He said to them, "Why are you fearful? Do you not yet have faith?" And they feared with a great fear, and were saying to one another, "Who, do you think, is this, that both the wind and the sea obey Him?"
+**4:40** And He said to them, "Why are you fearful? Do you not yet have faith?"
+
+**4:41** And they feared with a great fear, and were saying to one another, "Who, do you think, is this, that both the wind and the sea obey Him?"
 
 ## Translator Notes
 
@@ -91,4 +93,5 @@
 - **4:12** — The Vulgate repeats the verb video three times (videntes videant, et non videant) and includes peccata ("sins") at the end of the verse, whereas modern critical Greek editions distinguish seeing from perceiving and omit "sins."
 - **4:27** — The Vulgate reads dum nescit ille ("while he does not know") with temporal dum, rather than Greek hos ("how he does not know").
 - **4:37** — The Vulgate uses singular mittebat with procella ("storm") as subject throwing fluctus ("the waves") into the boat, and omits "already" before impleretur navis.
-- **4:41** — In this Clementine Vulgate versification, the material divided as verses 40-41 in modern editions appears under verse 41; the Latin also includes parenthetical putas ("do you think") in the disciples' question and necdum ("not yet") in Jesus' rebuke.
+- **4:40** — The Latin includes necdum ("not yet") in Jesus' rebuke.
+- **4:41** — In the Latin text this verse is included in verse 40. The Latin also includes the parenthetical putas ("do you think") in the disciples' question.

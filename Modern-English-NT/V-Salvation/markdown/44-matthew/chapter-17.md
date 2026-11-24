@@ -1,6 +1,6 @@
 # Matthew 17 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (25 verses, 5 translator notes)  
+> **Status:** `draft: true` (26 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Matthew`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -31,7 +31,9 @@
 
 **17:13** Then the disciples understood that He had spoken to them about John the Baptist.
 
-**17:15** And when He had come to the crowd, a man approached Him, falling to his knees before Him, saying, "Lord, have mercy on my son, because he is moonstruck and suffers severely; for he often falls into the fire and frequently into the water.
+**17:14** And when He had come to the crowd, a man approached Him, falling to his knees before Him,
+
+**17:15** saying, "Lord, have mercy on my son, because he is moonstruck and suffers severely; for he often falls into the fire and frequently into the water.
 
 **17:16** And I brought him to Your disciples, and they were not able to cure him."
 
@@ -59,6 +61,7 @@
 
 - **17:2** — The Vulgate reads "sicut nix" ("like snow"), whereas most modern critical Greek texts read "as light."
 - **17:4** — The Vulgate uses the first-person plural "faciamus" ("let us make"), matching the Byzantine tradition rather than the singular ("I will make") found in most modern critical Greek texts.
-- **17:15** — The Vulgate merges traditional verse 14 into verse 15 and reads singular "cum venisset" ("when He had come") rather than plural "when they had come." "Moonstruck" literally renders Latin "lunaticus," an ancient term for periodic seizures or epilepsy.
+- **17:14** — The Vulgate reads singular "cum venisset" ("when He had come") rather than plural "when they had come."
+- **17:15** — In the Latin text this verse is included in verse 14. "Moonstruck" literally renders Latin "lunaticus," an ancient term for periodic seizures or epilepsy.
 - **17:20** — The Vulgate reads "incredulitatem" ("unbelief") and includes the emphatic particle "quippe" ("for indeed"), whereas most modern critical Greek editions read "little faith."
 - **17:27** — A "stater" was a silver coin worth four drachmas, exactly covering the "didrachma" (the two-drachma temple tax in 17:24) for both Jesus and Peter.

@@ -1,6 +1,6 @@
 # Psalms 43 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 6 translator notes)  
+> **Status:** `draft: true` (27 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,7 +47,9 @@
 
 **43:21** If we have forgotten the name of our God, and if we have stretched out our hands to a foreign god,
 
-**43:23** will God not search out these things? For He Himself knows the hidden things of the heart. Because for Your sake we are put to death all day long; we have been reckoned like sheep for slaughter.
+**43:22** will God not search out these things? For He Himself knows the hidden things of the heart.
+
+**43:23** Because for Your sake we are put to death all day long; we have been reckoned like sheep for slaughter.
 
 **43:24** Arise; why do You sleep, Lord? Arise, and do not reject us forever.
 
@@ -63,5 +65,5 @@
 - **43:13** — "There was no abundance in their exchanges" (non fuit multitudo in commutationibus eorum) follows a Septuagint reading where the Hebrew means "You did not increase the price in their sale."
 - **43:19** — Following the Septuagint, the Vulgate reads the second-person verb "You have turned aside" (declinasti), whereas the Hebrew reads third-person "our steps have not turned aside."
 - **43:20** — "In the place of affliction" (in loco afflictionis) follows the Septuagint, contrasting with the Hebrew "in the place of jackals."
-- **43:23** — The Clementine Vulgate verse numbering skips 43:22 and combines both sentences under 43:23.
+- **43:23** — In the Latin text this sentence is included in verse 22.
 - **43:27** — Following the Septuagint, the Vulgate reads "for the sake of Your name" (propter nomen tuum) rather than Hebrew "for the sake of Your steadfast love."

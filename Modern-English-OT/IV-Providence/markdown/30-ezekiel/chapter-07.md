@@ -1,6 +1,6 @@
 # Ezekiel 7 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 4 translator notes)  
+> **Status:** `draft: true` (27 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -21,7 +21,9 @@
 
 **7:8** And My eye will not spare you, and I will not have pity; but I will set your ways upon you, and your abominations will be in your midst, and you will know that I am the Lord.'
 
-**7:10** This is what the Lord God says: 'One affliction, an affliction, look, it is coming! Look, the day! Look, it is coming! Ruin has gone out, the rod has blossomed, pride has sprouted,
+**7:9** This is what the Lord God says: 'One affliction, an affliction, look, it is coming!
+
+**7:10** Look, the day! Look, it is coming! Ruin has gone out, the rod has blossomed, pride has sprouted,
 
 **7:11** iniquity has risen up in a rod of wickedness. None of them, and none of the people, nor of their sound; and there will be no rest among them.
 
@@ -59,7 +61,7 @@
 
 ## Translator Notes
 
-- **7:3** — In this Latin text, verses 3-8 follow an alternate sequence compared to the Hebrew Masoretic numbering (corresponding to Hebrew verses 6-9 and 3-4), and verse 10 combines the material of Hebrew verses 5 and 10, with no separate verse 9.
+- **7:3** — In this Latin text, verses 3-9 follow an alternate sequence compared to the Hebrew Masoretic numbering (corresponding to Hebrew verses 6-9, 3-4, and 5).
 - **7:4** — Latin "the day of slaughter is near, and not of the glory of the mountains" (dies occisionis, et non gloriæ montium) is a distinctive Vulgate rendering where the Hebrew Masoretic Text reads a day of tumult rather than joyful shouting on the mountains.
 - **7:11** — The abrupt verbless clause ("None of them, and none of the people, nor of their sound") reflects an obscure Hebrew line, and the Vulgate reads "no rest" (non erit requies) where the Hebrew is variously understood as eminence or wailing.
 - **7:23** — Latin "Make a confinement" (Fac conclusionem, i.e., a shutting-in or blockade) renders a rare Hebrew noun usually understood as "the chain"; similarly in verse 22 emissarii ("emissaries") corresponds to Hebrew "violent ones," and in verse 24 possidebunt ("they will possess") corresponds to Hebrew "they will be profaned."

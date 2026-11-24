@@ -1,6 +1,6 @@
 # Luke 17 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (36 verses, 5 translator notes)  
+> **Status:** `draft: true` (36 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Luke`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -75,7 +75,11 @@
 
 **17:35** two women will be grinding together: one will be taken up, and the other will be left behind; two in the field: one will be taken up, and the other will be left behind."
 
-**17:37** Answering, they say to Him, "Where, Lord?" And He said to them, "Wherever the body is, there the eagles will also be gathered."
+**17:37** And He said to them, "Wherever the body is, there the eagles will also be gathered."
+
+## Additional Verses (Not in Saints Numbering)
+
+**17:36** *(after `17:35`)* Answering, they say to Him, "Where, Lord?"
 
 ## Translator Notes
 
@@ -83,4 +87,4 @@
 - **17:10** — The Clementine Vulgate begins verse 10 with non puto ('I do not think so'), a phrase omitted in most modern critical Greek texts and placed at the end of verse 9 in the Textus Receptus.
 - **17:21** — Latin intra vos explicitly renders the debated Greek expression entos hymon as 'within you' rather than 'among you' or 'in your midst'.
 - **17:31** — Latin In illa hora ('In that hour') is a distinctly Vulgate reading where the Greek text has 'on that day'.
-- **17:35** — The Clementine Vulgate includes the clause 'two in the field: one will be taken up, and the other will be left behind' at the end of verse 35 rather than as a separate verse 36; the line is omitted in most modern critical Greek texts.
+- **17:35** — The Latin text includes the clause 'two in the field: one will be taken up, and the other will be left behind' at the end of verse 35; it is traditionally numbered as verse 36, and the line is omitted in most modern critical Greek texts.

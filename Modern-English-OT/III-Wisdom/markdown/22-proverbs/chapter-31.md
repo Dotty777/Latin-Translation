@@ -72,4 +72,4 @@
 - **31:19** — Latin ad fortia ("to strong things") preserves a distinctly Vulgate reading where the Hebrew Masoretic Text refers to the distaff.
 - **31:21** — Latin duplicibus ("in double garments") reflects reading the Hebrew consonantal text as "double" rather than "scarlet," a well-known reading shared by the Vulgate and the Septuagint.
 - **31:24** — Latin Chananæo ("to the Canaanite") renders the Hebrew kena'ani literally by the proper name "Canaanite," a term also used idiomatically for Phoenician traders and merchants.
-- **31:28** — Following the Clementine Vulgate verse numbering, verse 25 is absent as a separate verse: verse 26 here corresponds to verse 25 in Hebrew-based editions, and the opening sentence of verse 28 here corresponds to verse 26.
+- **31:28** — The opening sentence ("She opened her mouth to wisdom...") is numbered 31:25 in the Latin critical text (verse 26 in the Hebrew); following this edition's verse arrangement it is joined to verse 28. Verse 26 here ("Strength and splendor...") is verse 25 in the Hebrew.

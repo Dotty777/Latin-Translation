@@ -1,6 +1,6 @@
 # Psalms 72 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,7 +47,9 @@
 
 **72:21** For my heart was inflamed, and my kidneys were changed;
 
-**72:22** and I was brought to nothing, and I did not know; I became like a beast before You, and I am always with You.
+**72:22** and I was brought to nothing, and I did not know;
+
+**72:23** I became like a beast before You, and I am always with You.
 
 **72:24** You have held my right hand, and in Your will You have led me, and with glory You have received me.
 

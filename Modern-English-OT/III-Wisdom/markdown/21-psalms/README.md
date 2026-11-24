@@ -7,9 +7,9 @@
 ## Chapters
 
 - [Chapter 1](chapter-001.md) — 6 verses, 4 notes
-- [Chapter 2](chapter-002.md) — 12 verses, 5 notes
+- [Chapter 2](chapter-002.md) — 12 verses, 5 notes, +1 additional
 - [Chapter 3](chapter-003.md) — 9 verses, 5 notes
-- [Chapter 4](chapter-004.md) — 9 verses, 6 notes
+- [Chapter 4](chapter-004.md) — 9 verses, 6 notes, +1 additional
 - [Chapter 5](chapter-005.md) — 13 verses, 5 notes
 - [Chapter 6](chapter-006.md) — 11 verses, 4 notes
 - [Chapter 7](chapter-007.md) — 18 verses, 5 notes
@@ -17,10 +17,10 @@
 - [Chapter 9](chapter-009.md) — 39 verses, 5 notes
 - [Chapter 10](chapter-010.md) — 7 verses, 5 notes
 - [Chapter 11](chapter-011.md) — 9 verses, 5 notes
-- [Chapter 12](chapter-012.md) — 5 verses, 3 notes
+- [Chapter 12](chapter-012.md) — 6 verses, 4 notes
 - [Chapter 13](chapter-013.md) — 7 verses, 4 notes
 - [Chapter 14](chapter-014.md) — 5 verses, 2 notes
-- [Chapter 15](chapter-015.md) — 10 verses, 5 notes
+- [Chapter 15](chapter-015.md) — 11 verses, 6 notes
 - [Chapter 16](chapter-016.md) — 15 verses, 5 notes
 - [Chapter 17](chapter-017.md) — 51 verses, 5 notes
 - [Chapter 18](chapter-018.md) — 15 verses, 6 notes
@@ -48,7 +48,7 @@
 - [Chapter 40](chapter-040.md) — 14 verses, 4 notes
 - [Chapter 41](chapter-041.md) — 12 verses, 5 notes
 - [Chapter 42](chapter-042.md) — 5 verses, 3 notes
-- [Chapter 43](chapter-043.md) — 26 verses, 6 notes
+- [Chapter 43](chapter-043.md) — 27 verses, 6 notes
 - [Chapter 44](chapter-044.md) — 18 verses, 5 notes
 - [Chapter 45](chapter-045.md) — 12 verses, 5 notes
 - [Chapter 46](chapter-046.md) — 10 verses, 4 notes
@@ -77,7 +77,7 @@
 - [Chapter 69](chapter-069.md) — 6 verses, 3 notes
 - [Chapter 70](chapter-070.md) — 24 verses, 4 notes
 - [Chapter 71](chapter-071.md) — 20 verses, 5 notes
-- [Chapter 72](chapter-072.md) — 27 verses, 5 notes
+- [Chapter 72](chapter-072.md) — 28 verses, 5 notes
 - [Chapter 73](chapter-073.md) — 23 verses, 5 notes
 - [Chapter 74](chapter-074.md) — 11 verses, 4 notes
 - [Chapter 75](chapter-075.md) — 13 verses, 5 notes
@@ -113,7 +113,7 @@
 - [Chapter 105](chapter-105.md) — 48 verses, 5 notes
 - [Chapter 106](chapter-106.md) — 43 verses, 4 notes
 - [Chapter 107](chapter-107.md) — 14 verses, 5 notes
-- [Chapter 108](chapter-108.md) — 30 verses, 5 notes
+- [Chapter 108](chapter-108.md) — 31 verses, 6 notes
 - [Chapter 109](chapter-109.md) — 7 verses, 3 notes
 - [Chapter 110](chapter-110.md) — 10 verses, 4 notes
 - [Chapter 111](chapter-111.md) — 10 verses, 5 notes
@@ -134,7 +134,7 @@
 - [Chapter 126](chapter-126.md) — 5 verses, 4 notes
 - [Chapter 127](chapter-127.md) — 6 verses, 4 notes
 - [Chapter 128](chapter-128.md) — 8 verses, 3 notes
-- [Chapter 129](chapter-129.md) — 7 verses, 3 notes
+- [Chapter 129](chapter-129.md) — 8 verses, 4 notes
 - [Chapter 130](chapter-130.md) — 3 verses, 2 notes
 - [Chapter 131](chapter-131.md) — 18 verses, 5 notes
 - [Chapter 132](chapter-132.md) — 3 verses, 2 notes

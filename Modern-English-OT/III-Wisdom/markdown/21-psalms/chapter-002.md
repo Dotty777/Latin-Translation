@@ -1,6 +1,6 @@
 # Psalms 2 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (12 verses, 5 translator notes)  
+> **Status:** `draft: true` (12 verses, 5 translator notes, 1 additional)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -27,7 +27,11 @@
 
 **2:11** Serve the Lord in fear, and exult to Him with trembling.
 
-**2:12** Take hold of discipline, so that the Lord may not at any time become angry, and you may not perish from the righteous way. When His wrath flares up in a short time, blessed are all who trust in Him.
+**2:12** Take hold of discipline, so that the Lord may not at any time become angry, and you may not perish from the righteous way.
+
+## Additional Verses (Not in Saints Numbering)
+
+**2:13** *(after `2:12`)* When His wrath flares up in a short time, blessed are all who trust in Him.
 
 ## Translator Notes
 

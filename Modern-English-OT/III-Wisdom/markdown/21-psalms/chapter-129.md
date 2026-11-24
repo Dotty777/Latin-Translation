@@ -1,6 +1,6 @@
 # Psalms 129 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (7 verses, 3 translator notes)  
+> **Status:** `draft: true` (8 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -11,7 +11,9 @@
 
 **129:3** If You should take note of iniquities, Lord, Lord, who will endure?
 
-**129:5** For with You there is propitiation, and because of Your law I have waited for You, Lord. My soul has waited upon His word;
+**129:4** For with You there is propitiation, and because of Your law,
+
+**129:5** I have waited for You, Lord. My soul has waited upon His word;
 
 **129:6** my soul has hoped in the Lord.
 
@@ -22,5 +24,6 @@
 ## Translator Notes
 
 - **129:3** — Latin sustinere ("endure" here) is repeated twice in 129:5 in the sense of patiently "waiting" for the Lord and upon His word, reflecting the dual semantic range of Greek hypomeno.
-- **129:5** — Vulgate propitiatio ("propitiation") and propter legem tuam ("because of Your law") follow the Septuagint tradition against the Hebrew Masoretic Text ("forgiveness, that You may be feared"). Note also the sudden shift from second person ("You") to third person ("His word").
-- **129:6** — This Latin critical text merges the traditional verse 4 into 129:5 and omits the clause "From the morning watch until night, let Israel hope in the Lord" found in some Vulgate and Septuagint witnesses.
+- **129:4** — Vulgate propitiatio ("propitiation") and propter legem tuam ("because of Your law") follow the Septuagint tradition against the Hebrew Masoretic Text ("forgiveness, that You may be feared").
+- **129:5** — In the Latin text this verse is included in verse 4. Note the sudden shift from second person ("You") to third person ("His word").
+- **129:6** — The Latin critical text does not include the clause that follows here in the Clementine Vulgate, "From the morning watch until night, let Israel hope in the Lord" (A custodia matutina usque ad noctem, speret Israël in Domino).

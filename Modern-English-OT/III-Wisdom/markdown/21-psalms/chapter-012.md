@@ -1,11 +1,13 @@
 # Psalms 12 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (5 verses, 3 translator notes)  
+> **Status:** `draft: true` (6 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**12:2** To the end. A psalm of David. How long, Lord, will You forget me to the end? How long do You turn Your face away from me?
+**12:1** To the end. A psalm of David.
+
+**12:2** How long, Lord, will You forget me to the end? How long do You turn Your face away from me?
 
 **12:3** How long will I place counsels in my soul, sorrow in my heart throughout the day?
 
@@ -17,6 +19,7 @@
 
 ## Translator Notes
 
-- **12:2** — Vulgate Psalm 12 corresponds to Psalm 13 in Hebrew numbering. The second occurrence of "to the end" translates Latin "in finem" (Septuagint "eis telos"), meaning completely or forever, echoing the superscription.
-- **12:3** — The Latin text here ends with "throughout the day" ("per diem") and does not include the additional question ("How long will my enemy be exalted over me?") found in the Masoretic Hebrew.
+- **12:1** — Vulgate Psalm 12 corresponds to Psalm 13 in Hebrew numbering.
+- **12:2** — In the Latin text this verse is included in verse 1. Here "to the end" translates Latin "in finem" (Septuagint "eis telos"), meaning completely or forever, echoing the superscription.
+- **12:3** — The Latin critical text here ends with "throughout the day" ("per diem"); it does not include the further question "How long will my enemy be exalted over me?" (Clementine Vulgate "usquequo exaltabitur inimicus meus super me?"), which the Septuagint and the Hebrew also have.
 - **12:6** — "and I will sing psalms to the name of the Lord Most High" follows the Vulgate ("et psallam nomini Domini altissimi") and Septuagint; this final clause is absent from the Masoretic Hebrew.
