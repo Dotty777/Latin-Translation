@@ -1,8 +1,8 @@
 # 2 Samuel (2 Kingdoms) 04 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:27Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -77,7 +68,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Audivit autem Isboseth filius Saul quod cecidisset Abner in Hebron: et dissolutæ sunt manus eius, omnisque Israel perturbatus est.
   - `VulgConte (2009)`: Audivit autem Isboseth filius Saul quod cecidisset Abner in Hebron: et dissolutæ sunt manus eius, omnisque Israel perturbatus est.
   - `VulgSistina (1590)`: Audivit autem Isboseth filius Saul quod cecidisset Abner in Hebron: et dissolutae sunt manus eius, omnisque Israel perturbatus est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Duo autem viri principes latronum erant filio Saul, nomen uni Baana, et nomen alteri Rechab, filii Remmon Berothitæ de filiis Benjamin: siquidem et Beroth reputata est in Benjamin.
@@ -86,7 +77,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Duo autem viri principes latronum erant filio Saul, nomen uni Baana, et nomen alteri Rechab, filii Remmon Berothitæ de filiis Beniamin: siquidem et Beroth reputata est in Beniamin.
   - `VulgConte (2009)`: Duo autem viri principes latronum erant filio Saul, nomen uni Baana, et nomen alteri Rechab, filii Remmon Berothitæ de filiis Beniamin: siquidem et Beroth reputata est in Beniamin.
   - `VulgSistina (1590)`: Duo autem viri principes latronum erant filio Saul, nomen uni Baana, et nomen alteri Rechab, filii Remmon Berothitae de filiis Beniamin: siquidem et Beroth reputata est in Beniamin.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et fugerunt Berothitæ in Gethaim, fueruntque ibi advenæ usque ad tempus illud.
@@ -95,7 +86,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et fugerunt Berothitæ in Gethaim, fueruntque ibi advenæ usque ad tempus illud.
   - `VulgConte (2009)`: Et fugerunt Berothitæ in Gethaim, fueruntque ibi advenæ usque ad tempus illud.
   - `VulgSistina (1590)`: et fugerunt Berothitae in Gethaim, fueruntque ibi advenae usque ad tempus illud.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Erat autem Jonathæ filio Saul filius debilis pedibus: quinquennis enim fuit, quando venit nuntius de Saul et Jonatha ex Jezrahel. Tollens itaque eum nutrix sua, fugit: cumque festinaret ut fugeret, cecidit, et claudus effectus est: habuitque vocabulum Miphiboseth.
@@ -104,7 +95,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Erat autem Ionathæ filio Saul filius debilis pedibus: quinquennis enim fuit, quando venit nuncius de Saul et Ionatha ex Iezrahel. tollens itaque eum nutrix sua, fugit: cumque festinaret ut fugeret, cecidit, et claudus effectus est: habuitque vocabulum Miphiboseth.
   - `VulgConte (2009)`: Erat autem Ionathæ filio Saul filius debilis pedibus: quinquennis enim fuit, quando venit nuncius de Saul et Ionatha ex Iezrahel. Tollens itaque eum nutrix sua, fugit: cumque festinaret ut fugeret, cecidit, et claudus effectus est: habuitque vocabulum Miphiboseth.
   - `VulgSistina (1590)`: Erat autem Ionathae filio Saul filius debilis pedibus: quinquennis enim fuit, quando venit nuncius de Saul et Ionatha ex Iezrahel. tollens itaque eum nutrix sua, fugit: cumque festinaret ut fugeret, cecidit, et claudus effectus est: habuitque vocabulum Miphiboseth.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Venientes igitur filii Remmon Berothitæ, Rechab et Baana, ingressi sunt fervente die domum Isboseth: qui dormiebat super stratum suum meridie. Et ostiaria domus purgans triticum, obdormivit.
@@ -113,7 +104,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Venientes igitur filii Remmon Berothitæ, Rechab et Baana, ingressi sunt fervente die domum Isboseth: qui dormiebat super stratum suum meridie. Et ostiaria domus purgans triticum, obdormivit.
   - `VulgConte (2009)`: Venientes igitur filii Remmon Berothitæ, Rechab et Baana, ingressi sunt fervente die domum Isboseth: qui dormiebat super stratum suum meridie. Et ostiaria domus purgans triticum, obdormivit.
   - `VulgSistina (1590)`: Venientes igitur filii Remmon Berothitae, Rechab et Baana, ingressi sunt fervente die domum Isboseth: qui dormiebat super stratum suum meridie. Et ostiaria domus purgans triticum, obdormivit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ingressi sunt autem domum latenter assumentes spicas tritici, et percusserunt eum in inguine Rechab, et Baana frater ejus, et fugerunt.
@@ -122,7 +113,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ingressi sunt autem domum latenter assumentes spicas tritici, et percusserunt eum in inguine Rechab et Baana frater eius, et fugerunt.
   - `VulgConte (2009)`: Ingressi sunt autem domum latenter assumentes spicas tritici, et percusserunt eum in inguine Rechab et Baana frater eius, et fugerunt.
   - `VulgSistina (1590)`: Ingressi sunt autem domum latenter assumentes spicas tritici, et percusserunt eum in inguine Rechab et Baana frater eius, et fugerunt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cum autem ingressi fuissent domum, ille dormiebat super lectum suum in conclavi, et percutientes interfecerunt eum: sublatoque capite ejus, abierunt per viam deserti tota nocte,
@@ -131,7 +122,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cum autem ingressi fuissent domum, ille dormiebat super lectum suum in conclavi, et percutientes interfecerunt eum: sublatoque capite eius, abierunt per viam deserti tota nocte,
   - `VulgConte (2009)`: Cum autem ingressi fuissent domum, ille dormiebat super lectum suum in conclavi, et percutientes interfecerunt eum: sublatoque capite eius, abierunt per viam deserti tota nocte,
   - `VulgSistina (1590)`: Cum autem ingressi fuissent domum, ille dormiebat super lectum suum in conclavi, et percutientes interfecerunt eum: sublatoque capite eius, abierunt per viam deserti tota nocte,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et attulerunt caput Isboseth ad David in Hebron: dixeruntque ad regem: Ecce caput Isboseth filii Saul inimici tui, qui quærebat animam tuam: et dedit Dominus domino meo regi ultionem hodie de Saul, et de semine ejus.
@@ -140,7 +131,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et attulerunt caput Isboseth ad David in Hebron: dixeruntque ad regem: Ecce caput Isboseth filii Saul inimici tui, qui quærebat animam tuam: et dedit Dominus domino meo regi ultionem hodie de Saul, et de semine eius.
   - `VulgConte (2009)`: et attulerunt caput Isboseth ad David in Hebron: dixeruntque ad regem: Ecce caput Isboseth filii Saul inimici tui, qui quærebat animam tuam: et dedit Dominus domino meo regi ultionem hodie de Saul, et de semine eius.
   - `VulgSistina (1590)`: et attulerunt caput Isboseth ad David in Hebron: dixeruntque ad regem: Ecce caput Isboseth filii Saul inimici tui, qui quaerebat animam tuam: et dedit Dominus domino meo regi ultionem hodie de Saul, et de semine eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Respondens autem David Rechab, et Baana fratri ejus, filiis Remmon Berothitæ, dixit ad eos: Vivit Dominus, qui eruit animam meam de omni angustia,
@@ -149,7 +140,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Respondens autem David Rechab, et Baana fratri eius, filiis Remmon Berothitæ, dixit ad eos: Vivit Dominus, qui eruit animam meam de omni angustia,
   - `VulgConte (2009)`: Respondens autem David Rechab, et Baana fratri eius, filiis Remmon Berothitæ, dixit ad eos: Vivit Dominus, qui eruit animam meam de omni angustia,
   - `VulgSistina (1590)`: Respondens autem David Rechab, et Baana fratri eius, filiis Remmon Berothitae, dixit ad eos: Vivit Dominus, qui eruit animam meam de omni angustia,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quoniam eum qui annuntiaverat mihi, et dixerat: Mortuus est Saul: qui putabat se prospera nuntiare, tenui, et occidi eum in Siceleg, cui oportebat mercedem dare pro nuntio.
@@ -158,7 +149,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: quoniam eum, qui annunciaverat mihi, et dixerat: Mortuus est Saul: qui putabat se prospera nunciare, tenui, et occidi eum in Siceleg, cui oportebat mercedem dare pro nuncio.
   - `VulgConte (2009)`: quoniam eum, qui annunciaverat mihi, et dixerat: Mortuus est Saul: qui putabat se prospera nunciare, tenui, et occidi eum in Siceleg, cui oportebat mercedem dare pro nuncio.
   - `VulgSistina (1590)`: quoniam eum, qui annunciaverat mihi, et dixerat: Mortuus est Saul: qui putabat se prospera nunciare, tenui, et occidi eum in Siceleg, cui oportebat mercedem dare pro nuncio.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quanto magis nunc cum homines impii interfecerunt virum innoxium in domo sua, super lectum suum, non quæram sanguinem ejus de manu vestra, et auferam vos de terra?
@@ -167,7 +158,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quanto magis nunc cum homines impii interfecerunt virum innoxium in domo sua, super lectum suum, non quæram sanguinem eius de manu vestra, et auferam vos de terra?
   - `VulgConte (2009)`: Quanto magis nunc cum homines impii interfecerunt virum innoxium in domo sua, super lectum suum, non quæram sanguinem eius de manu vestra, et auferam vos de terra?
   - `VulgSistina (1590)`: Quanto magis nunc cum homines impii interfecerunt virum innoxium in domo sua, super lectum suum, non quaeram sanguinem eius de manu vestra, et auferam vos de terra?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Præcepit itaque David pueris suis, et interfecerunt eos: præcidentesque manus et pedes eorum, suspenderunt eos super piscinam in Hebron: caput autem Isboseth tulerunt, et sepelierunt in sepulchro Abner in Hebron.
@@ -176,4 +167,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Præcepit itaque David pueris suis, et interfecerunt eos: præcidentesque manus et pedes eorum, suspenderunt eos super piscinam in Hebron: caput autem Isboseth tulerunt, et sepelierunt in sepulchro Abner in Hebron.
   - `VulgConte (2009)`: Præcepit itaque David pueris suis, et interfecerunt eos: præcidentesque manus et pedes eorum, suspenderunt eos super piscinam in Hebron: caput autem Isboseth tulerunt, et sepelierunt in sepulchro Abner in Hebron.
   - `VulgSistina (1590)`: Praecepit itaque David pueris suis, et interfecerunt eos: praecidentesque manus et pedes eorum, suspenderunt eos super piscinam in Hebron: caput autem Isboseth tulerunt, et sepelierunt in sepulchro Abner in Hebron.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

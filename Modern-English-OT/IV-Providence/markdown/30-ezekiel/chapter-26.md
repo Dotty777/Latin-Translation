@@ -7,7 +7,7 @@
 
 **26:1** And it happened in the eleventh year, on the first of the month, that the word of the Lord came to me, saying,
 
-**26:2** "Son of man, because Tyre has said concerning Jerusalem, 'Aha! The gates of the peoples are shattered; she has turned to me; I will be filled; she is deserted,'
+**26:2** "Son of man, because Tyre has said concerning Jerusalem, 'Aha! The gates of the peoples are shattered; she has been turned to me; I will be filled; she is deserted,'
 
 **26:3** therefore this is what the Lord God says: Look, I am against you, Tyre, and I will cause many nations to rise up against you, just as the surging sea rises up.
 

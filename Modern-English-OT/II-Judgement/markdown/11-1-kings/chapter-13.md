@@ -1,6 +1,6 @@
 # 1 Kings 13 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (33 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (34 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -57,6 +57,8 @@
 
 **13:26** When that prophet who had brought him back from the road heard this, he said, "It is the man of God who was disobedient to the mouth of the Lord, and the Lord handed him over to the lion, and it crushed him and killed him, according to the word of the Lord that He spoke to him."
 
+**13:27** And he said to his sons, "Saddle a donkey for me." And when they had saddled it,
+
 **13:28** and he had departed, he found his corpse thrown on the road, and the donkey and the lion standing beside the corpse; the lion had not eaten from the corpse, nor had it harmed the donkey.
 
 **13:29** So the prophet lifted up the corpse of the man of God and placed it upon the donkey, and returning, he brought it into the city of the old prophet to mourn him.
@@ -70,10 +72,6 @@
 **13:33** After these words Jeroboam did not turn back from his most wicked way, but on the contrary he made priests of the high places from the lowest of the people; whoever wished filled his hand and became a priest of the high places.
 
 **13:34** And for this reason the house of Jeroboam sinned, and was overthrown and wiped out from the surface of the earth.
-
-## Additional Verses (Not in Saints Numbering)
-
-**13:27** *(after `13:26`)* And he said to his sons, "Saddle a donkey for me." And when they had saddled it,
 
 ## Translator Notes
 

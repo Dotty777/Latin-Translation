@@ -1,6 +1,6 @@
 # Genesis 1 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes)  
+> **Status:** `draft: true` (31 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -72,5 +72,4 @@
 - **1:1** — Latin cælum is singular ("heaven"), unlike Hebrew plural hashshamayim ("the heavens").
 - **1:2** — Latin inanis et vacua literally means "empty and vacant"; ferebatur ("was borne" or "moved") renders the Spirit's motion over the waters.
 - **1:6** — Latin firmamentum denotes a solid vault or expanse; rendered "expanse" to maintain modern vocabulary.
-- **1:21** — The Saints Latin text reads mutabilem (a Clementine textual spelling/variant of motabilem, "moving"); rendered "moving" in keeping with the Latin swimming-creatures clause.
 - **1:29** — Latin ecce ("look") introduces the grant of plant food; rendered "Look" rather than archaic "behold."

@@ -1,6 +1,6 @@
 # Matthew 18 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (34 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (35 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Matthew`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -24,6 +24,8 @@
 **18:9** And if your eye causes you to stumble, tear it out and throw it away from you. It is better for you to enter into life with one eye than, having two eyes, to be thrown into the Gehenna of fire.
 
 **18:10** See that you do not despise one of these little ones; for I say to you that their angels in heaven always see the face of My Father who is in heaven.
+
+**18:11** For the Son of Man came to save what had been lost.
 
 **18:12** What do you think? If someone has one hundred sheep, and one of them goes astray, does he not leave the ninety-nine on the mountains and go to search for the one that went astray?
 
@@ -72,10 +74,6 @@
 **18:34** And his master, being angry, handed him over to the torturers until he repaid the whole debt.
 
 **18:35** So also will My heavenly Father do to you, if each of you does not forgive his brother from your hearts."
-
-## Additional Verses (Not in Saints Numbering)
-
-**18:11** *(after `18:10`)* For the Son of Man came to save what had been lost.
 
 ## Translator Notes
 

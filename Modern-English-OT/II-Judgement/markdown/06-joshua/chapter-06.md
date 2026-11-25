@@ -1,6 +1,6 @@
 # Joshua 6 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (27 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -10,6 +10,8 @@
 **6:2** And the Lord said to Joshua, "Look, I have given Jericho into your hand, and its king, and all the mighty men.
 
 **6:3** Circle the city, all you fighting men, once a day; thus you shall do for six days.
+
+**6:4** But on the seventh day, let the priests take up seven trumpets that are used in the jubilee and go ahead of the ark of the covenant; you will circle the city seven times, and the priests will blow the trumpets.
 
 **6:5** And when the sound of the trumpet resounds, longer and more broken, and rings out in your ears, all the people shall shout together with a very great outcry, and the walls of the city will collapse to their foundations, and each one shall enter through the place opposite which he stands."
 
@@ -56,10 +58,6 @@
 **6:26** "Cursed before the Lord be the man who raises up and builds the city of Jericho. At the cost of his firstborn may he lay its foundations, and at the cost of the youngest of his children may he set its gates."
 
 **6:27** Therefore the Lord was with Joshua, and his name was spread throughout all the land.
-
-## Additional Verses (Not in Saints Numbering)
-
-**6:4** *(after `6:3`)* But on the seventh day, let the priests take up seven trumpets that are used in the jubilee and go ahead of the ark of the covenant; you will circle the city seven times, and the priests will blow the trumpets.
 
 ## Translator Notes
 

@@ -1,58 +1,49 @@
 # Jeremiah 41 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (22 verses, 5 translator notes)  
+> **Status:** `draft: true` (18 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**41:1** The word that came to Jeremiah from the Lord when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth that were under the authority of his hand, and all the peoples, were waging war against Jerusalem and against all its cities, saying:
+**41:1** And it happened in the seventh month that Ishmael son of Nethaniah, son of Elishama, of the royal seed, and the nobles of the king, and ten men with him, came to Gedaliah son of Ahikam in Mizpah, and they ate bread there together in Mizpah.
 
-**41:2** "This is what the Lord God of Israel says: Go and speak to Zedekiah king of Judah, and you will say to him, 'This is what the Lord says: Look, I will deliver this city into the hands of the king of Babylon, and he will burn it with fire;
+**41:2** Then Ishmael son of Nethaniah rose up, and the ten men who were with him, and they struck Gedaliah son of Ahikam, son of Shaphan, with the sword, and killed the one whom the king of Babylon had appointed over the land.
 
-**41:3** and you will not escape from his hand, but you will certainly be captured, and you will be delivered into his hand; and your eyes will see the eyes of the king of Babylon, and his mouth will speak with your mouth, and you will enter Babylon.
+**41:3** Ishmael also struck down all the Jews who were with Gedaliah in Mizpah, and the Chaldeans who were found there, and the fighting men.
 
-**41:4** Nevertheless, hear the word of the Lord, Zedekiah, king of Judah: This is what the Lord says to you: You will not die by the sword,
+**41:4** Now on the second day after he had killed Gedaliah, while no one yet knew,
 
-**41:5** but you will die in peace; and according to the burnings of your fathers, the former kings who were before you, so they will burn you, and they will lament for you, "Alas, lord!" for I have spoken the word, says the Lord.'"
+**41:5** men came from Shechem, and from Shiloh, and from Samaria, eighty men, with their beards shaved, and with their garments torn, and disheveled; and they had offerings and frankincense in their hand to offer in the house of the Lord.
 
-**41:6** And Jeremiah the prophet spoke all these words to Zedekiah king of Judah in Jerusalem.
+**41:6** So Ishmael son of Nethaniah went out from Mizpah to meet them, walking along and weeping as he went; and when he had met them, he said to them, "Come to Gedaliah son of Ahikam."
 
-**41:7** And the army of the king of Babylon was fighting against Jerusalem and against all the cities of Judah that were left, against Lachish and against Azekah; for these remained of the cities of Judah, fortified cities.
+**41:7** And when they had come to the middle of the city, Ishmael son of Nethaniah killed them near the middle of the cistern, he and the men who were with him.
 
-**41:8** The word that came to Jeremiah from the Lord after King Zedekiah made a covenant with all the people in Jerusalem, proclaiming
+**41:8** But ten men were found among them who said to Ishmael, "Do not kill us, for we have treasures in the field, of wheat, and of barley, and of oil, and of honey." And he stopped, and did not kill them with their brothers.
 
-**41:9** that each one should let his male slave and each one his female slave, a Hebrew man and a Hebrew woman, go free, and by no means hold dominion over them, that is, over a Jew and his brother.
+**41:9** Now the cistern into which Ishmael had thrown all the corpses of the men whom he struck down because of Gedaliah is the very one that King Asa made because of Baasha king of Israel; Ishmael son of Nethaniah filled it with those who were killed.
 
-**41:10** Therefore all the princes and all the people who had entered into the covenant listened, that each one should let his male slave and each one his female slave go free, and no longer hold dominion over them; so they listened and let them go.
+**41:10** And Ishmael led captive all the remnant of the people who were in Mizpah, the daughters of the king, and all the people who had remained in Mizpah, whom Nebuzaradan, commander of the troops, had entrusted to Gedaliah son of Ahikam; and Ishmael son of Nethaniah captured them and departed to cross over to the sons of Ammon.
 
-**41:11** And afterward they turned back, and took back their male slaves and female slaves whom they had let go free, and subjugated them to be male servants and female servants.
+**41:11** Now Johanan son of Kareah, and all the commanders of the fighting men who were with him, heard of all the evil that Ishmael son of Nethaniah had done,
 
-**41:12** And the word of the Lord came to Jeremiah from the Lord, saying:
+**41:12** and having taken all the men, they set out to fight against Ishmael son of Nethaniah; and they found him by the many waters that are in Gibeon.
 
-**41:13** "This is what the Lord God of Israel says: I made a covenant with your fathers on the day when I brought them out of the land of Egypt, out of the house of slavery, saying:
+**41:13** And when all the people who were with Ishmael saw Johanan son of Kareah, and all the commanders of the fighting men who were with him, they rejoiced,
 
-**41:14** 'When seven years have been completed, each one must let go his Hebrew brother who was sold to him; and he will serve you six years, and you will let him go free from you.' Yet your fathers did not listen to Me, nor did they incline their ear.
+**41:14** and all the people whom Ishmael had captured in Mizpah turned around, and turning back, went to Johanan son of Kareah.
 
-**41:15** And you yourselves turned today, and did what is right in My eyes, to proclaim liberty, each one to his friend; and you entered into a covenant in My presence, in the house where My name has been invoked over it;
+**41:15** But Ishmael son of Nethaniah fled with eight men from before Johanan, and went to the sons of Ammon.
 
-**41:16** and you turned back, and defiled My name, and brought back, each one his male slave and each one his female slave, whom you had let go so that they might be free and under their own authority, and you subjugated them so that they might be male slaves and female slaves to you.
+**41:16** So Johanan son of Kareah, and all the commanders of the fighting men who were with him, took all the remnant of the common people whom he had brought back from Ishmael son of Nethaniah from Mizpah, after he struck down Gedaliah son of Ahikam: men strong for battle, and women, and children, and eunuchs, whom he had brought back from Gibeon.
 
-**41:17** Therefore this is what the Lord says: You have not listened to Me, to proclaim liberty, each one to his brother and each one to his friend; look, I proclaim liberty to you, says the Lord, to the sword, to pestilence, and to famine, and I will make you a commotion to all the kingdoms of the earth.
+**41:17** And they departed and stayed, sojourning in Chimham, which is near Bethlehem, to go on and enter Egypt,
 
-**41:18** And I will give over the men who transgress My covenant and have not kept the words of the covenant to which they agreed in My presence, the calf that they cut into two parts and passed between its divisions,
-
-**41:19** the princes of Judah and the princes of Jerusalem, the eunuchs and the priests, and all the people of the land who passed between the divisions of the calf,
-
-**41:20** and I will give them into the hands of their enemies and into the hands of those who seek their life, and their carcass will become food for the birds of the sky and the beasts of the earth.
-
-**41:21** And Zedekiah king of Judah and his princes I will give into the hands of their enemies, and into the hands of those who seek their lives, and into the hands of the armies of the king of Babylon, who have withdrawn from you.
-
-**41:22** Look, I command, says the Lord, and I will bring them back to this city, and they will battle against it, and capture it, and burn it with fire; and the cities of Judah I will make a desolation, because there is no inhabitant."
+**41:18** from before the Chaldeans; for they were afraid of them, because Ishmael son of Nethaniah had struck down Gedaliah son of Ahikam, whom the king of Babylon had placed in charge in the land of Judah.
 
 ## Translator Notes
 
-- **41:5** — The Vulgate reads 'sic comburent te' ('so they will burn you'), referring to royal funeral burnings of aromatic spices in honor of deceased kings (cf. 2 Chronicles 16:14), whereas the Hebrew text reads 'they will burn [spices] for you.'
-- **41:9** — The Vulgate explicitly adds the explanatory phrase 'id est' ('that is') and the conjunction 'et' ('in Judaeo et fratre suo,' 'over a Jew and his brother'), expanding the concise Hebrew 'a Jew, his brother.'
-- **41:16** — Latin 'suae potestatis' ('under their own authority,' literally 'of their own power') renders the Hebrew phrase 'according to their desire' with a Roman legal idiom for legally independent, emancipated persons.
-- **41:18** — Following the Hebrew, the Vulgate places 'vitulum' ('the calf') directly in the accusative without a comparative 'like,' indicating either that the covenant-breakers will be treated like the severed calf or identifying the calf with the covenant ratified between its divided parts.
-- **41:22** — The Vulgate translates the Hebrew 'without an inhabitant' as a causal clause, 'eo quod non sit habitator' ('because there is no inhabitant').
+- **41:5** — Latin squallentes ("disheveled" or "unkempt in mourning") describes the men's disheveled state of mourning, whereas the Hebrew Masoretic Text reads "gashing themselves."
+- **41:7** — Latin circa medium laci ("near the middle of the cistern") reflects the elliptical Hebrew phrase "into the midst of the cistern," without an explicit verb of throwing until 48:9.
+- **41:9** — Latin propter Godoliam ("because of Gedaliah") interprets the difficult Hebrew phrase "by the hand/side of Gedaliah," where the Septuagint reads "a great cistern."
+- **41:17** — Latin peregrinantes in Chamaam ("sojourning in Chimham") translates the Hebrew word geruth as a participle rather than treating "Geruth Chimham" as a compound place name.

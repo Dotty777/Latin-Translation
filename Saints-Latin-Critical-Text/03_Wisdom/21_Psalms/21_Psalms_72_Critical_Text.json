@@ -7,9 +7,9 @@
   "usfm_code": "PSA",
   "chapter": 72,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-22T08:01:47Z",
-  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
-  "versification_anchor": "Clem-Saints",
+  "updated_at": "2026-11-25T00:08:08Z",
+  "versification": "Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py.",
+  "versification_anchor": "Clem1598-USFX",
   "orthographic_base": "Clem1598-USFX",
   "versification_notes": [
     "Psalt-Pianum (1945): 72:8 not collated (wording does not match the reference verse)",
@@ -27,16 +27,16 @@
       "tier": 1,
       "weight": 0.88,
       "license": "Public Domain"
-    },
+    }
+  ],
+  "apparatus_witnesses": [
     {
       "siglum": "Clem-Saints",
       "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
       "tier": 1,
-      "weight": 0.86,
-      "license": "Public Domain"
-    }
-  ],
-  "apparatus_witnesses": [
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
     {
       "siglum": "VulgHetzenauer (1906)",
       "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
@@ -84,8 +84,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -95,8 +95,8 @@
           "slot_index": -1,
           "lemma": "Psalmus Asaph.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
           ],
@@ -124,8 +124,8 @@
           "slot_index": -1,
           "lemma": "Israël",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -153,8 +153,8 @@
           "slot_index": -1,
           "lemma": "his",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -182,8 +182,8 @@
           "slot_index": -1,
           "lemma": "recto",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -209,7 +209,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -231,8 +231,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -242,8 +242,8 @@
           "slot_index": -1,
           "lemma": "pene moti sunt",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -271,8 +271,8 @@
           "slot_index": -1,
           "lemma": "pene effusi",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -298,7 +298,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -320,8 +320,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -331,8 +331,8 @@
           "slot_index": -1,
           "lemma": "zelavi super iniquos, pacem",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -360,8 +360,8 @@
           "slot_index": -1,
           "lemma": "iniquos,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -389,8 +389,8 @@
           "slot_index": -1,
           "lemma": "videns.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -416,7 +416,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -438,8 +438,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -449,8 +449,8 @@
           "slot_index": -1,
           "lemma": "Quia non",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -478,8 +478,8 @@
           "slot_index": -1,
           "lemma": "respectus morti",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -507,8 +507,8 @@
           "slot_index": -1,
           "lemma": "et firmamentum in plaga eorum.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -534,7 +534,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -556,8 +556,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -567,8 +567,8 @@
           "slot_index": -1,
           "lemma": "labore hominum",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -596,8 +596,8 @@
           "slot_index": -1,
           "lemma": "sunt,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -625,8 +625,8 @@
           "slot_index": -1,
           "lemma": "flagellabuntur.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -652,7 +652,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -674,8 +674,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -685,8 +685,8 @@
           "slot_index": -1,
           "lemma": "tenuit",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -714,8 +714,8 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -743,8 +743,8 @@
           "slot_index": -1,
           "lemma": "operti sunt iniquitate",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -772,8 +772,8 @@
           "slot_index": -1,
           "lemma": "impietate sua.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -799,7 +799,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -821,8 +821,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -832,8 +832,8 @@
           "slot_index": -1,
           "lemma": "Prodiit quasi",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -861,8 +861,8 @@
           "slot_index": -1,
           "lemma": "adipe",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -890,8 +890,8 @@
           "slot_index": -1,
           "lemma": "transierunt in affectum cordis.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -917,7 +917,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -938,14 +938,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -967,8 +967,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -978,8 +978,8 @@
           "slot_index": -1,
           "lemma": "Posuerunt in",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1007,8 +1007,8 @@
           "slot_index": -1,
           "lemma": "os suum,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1036,8 +1036,8 @@
           "slot_index": -1,
           "lemma": "transivit in terra.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1063,7 +1063,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1085,8 +1085,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1096,8 +1096,8 @@
           "slot_index": -1,
           "lemma": "convertetur",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1125,8 +1125,8 @@
           "slot_index": -1,
           "lemma": "hic,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1154,8 +1154,8 @@
           "slot_index": -1,
           "lemma": "dies pleni invenientur in eis.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1181,7 +1181,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1203,8 +1203,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1214,8 +1214,8 @@
           "slot_index": -1,
           "lemma": "dixerunt:",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1243,8 +1243,8 @@
           "slot_index": -1,
           "lemma": "si est scientia",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1272,8 +1272,8 @@
           "slot_index": -1,
           "lemma": "excelso?",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1299,7 +1299,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1321,8 +1321,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1332,8 +1332,8 @@
           "slot_index": -1,
           "lemma": "ipsi",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1361,8 +1361,8 @@
           "slot_index": -1,
           "lemma": "abundantes in sæculo obtinuerunt divitias.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1388,7 +1388,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1410,8 +1410,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1421,8 +1421,8 @@
           "slot_index": -1,
           "lemma": "Et dixi: Ergo sine causa justificavi",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1450,8 +1450,8 @@
           "slot_index": -1,
           "lemma": "inter innocentes",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1477,7 +1477,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1498,14 +1498,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1527,8 +1527,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1538,8 +1538,8 @@
           "slot_index": -1,
           "lemma": "dicebam: Narrabo sic; ecce nationem",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1567,8 +1567,8 @@
           "slot_index": -1,
           "lemma": "reprobavi.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1594,7 +1594,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1616,8 +1616,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1627,8 +1627,8 @@
           "slot_index": -1,
           "lemma": "Existimabam",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1656,8 +1656,8 @@
           "slot_index": -1,
           "lemma": "labor",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1685,8 +1685,8 @@
           "slot_index": -1,
           "lemma": "ante me:",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1712,7 +1712,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1734,8 +1734,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1745,8 +1745,8 @@
           "slot_index": -1,
           "lemma": "intrem",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1774,8 +1774,8 @@
           "slot_index": -1,
           "lemma": "sanctuarium",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1803,8 +1803,8 @@
           "slot_index": -1,
           "lemma": "et intelligam",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1832,8 +1832,8 @@
           "slot_index": -1,
           "lemma": "intelligam in novissimis eorum.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1859,7 +1859,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1880,14 +1880,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1909,8 +1909,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1920,8 +1920,8 @@
           "slot_index": -1,
           "lemma": "facti",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1949,8 +1949,8 @@
           "slot_index": -1,
           "lemma": "in desolationem? subito defecerunt: perierunt propter iniquitatem suam.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -1976,7 +1976,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1998,8 +1998,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2009,8 +2009,8 @@
           "slot_index": -1,
           "lemma": "Velut",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2038,8 +2038,8 @@
           "slot_index": -1,
           "lemma": "surgentium,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2067,8 +2067,8 @@
           "slot_index": -1,
           "lemma": "in civitate tua imaginem ipsorum ad nihilum rediges.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2094,7 +2094,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2116,8 +2116,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2127,8 +2127,8 @@
           "slot_index": -1,
           "lemma": "Quia inflammatum est",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2156,8 +2156,8 @@
           "slot_index": -1,
           "lemma": "et renes mei commutati sunt;",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2183,7 +2183,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2204,14 +2204,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2235,8 +2235,8 @@
         "Psalt-Pianum (1945)": "72:22"
       },
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2246,8 +2246,8 @@
           "slot_index": -1,
           "lemma": "factus sum apud",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2275,8 +2275,8 @@
           "slot_index": -1,
           "lemma": "et",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2304,8 +2304,8 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2333,8 +2333,8 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2360,7 +2360,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2382,8 +2382,8 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2393,8 +2393,8 @@
           "slot_index": -1,
           "lemma": "Tenuisti manum dexteram meam,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2422,8 +2422,8 @@
           "slot_index": -1,
           "lemma": "in voluntate tua deduxisti",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2451,8 +2451,8 @@
           "slot_index": -1,
           "lemma": "et cum gloria suscepisti me.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2478,7 +2478,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2499,14 +2499,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2530,8 +2530,8 @@
         "Psalt-Pianum (1945)": "72:25"
       },
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2541,8 +2541,8 @@
           "slot_index": -1,
           "lemma": "Defecit",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2570,8 +2570,8 @@
           "slot_index": -1,
           "lemma": "Deus",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2597,7 +2597,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2621,8 +2621,8 @@
         "Psalt-Pianum (1945)": "72:26"
       },
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2632,8 +2632,8 @@
           "slot_index": -1,
           "lemma": "Quia",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2661,8 +2661,8 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2690,8 +2690,8 @@
           "slot_index": -1,
           "lemma": "elongant se",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2719,8 +2719,8 @@
           "slot_index": -1,
           "lemma": "perdidisti",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2746,7 +2746,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2770,8 +2770,8 @@
         "Psalt-Pianum (1945)": "72:27"
       },
       "apparatus_witnesses": [
+        "Clem-Saints",
         "Psalt-Pianum (1945)",
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2781,8 +2781,8 @@
           "slot_index": -1,
           "lemma": "adhærere Deo",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2810,8 +2810,8 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2839,8 +2839,8 @@
           "slot_index": -1,
           "lemma": "spem meam: ut annuntiem omnes prædicationes tuas in portis filiæ Sion.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2884,7 +2884,7 @@
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false

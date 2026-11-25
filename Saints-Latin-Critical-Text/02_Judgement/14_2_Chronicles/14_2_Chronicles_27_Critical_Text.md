@@ -1,8 +1,8 @@
 # 2 Chronicles 27 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:25Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
+
+### Versification & Alignment Notes
+- Clem-Saints: 1 verse(s) re-aligned by content (8←26:3)
 
 ---
 
@@ -61,6 +55,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Viginti quinque / Vigintiquinque`, `Viginti quinque / Vigintiquinque`, `Viginti quinque / Vigintiquinque` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### 2 Chronicles 27:8
+- **Apparatus:** `Viginti quinque` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Sedecim** Clem-Saints
+- **Apparatus:** `om.` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Ozias** Clem-Saints
+- **Apparatus:** `sedecim` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quinquaginta duobus** Clem-Saints
+- **Apparatus:** `om.` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **nomen matris ejus Jechelia de Jerusalem.** Clem-Saints
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Viginti quinque / Vigintiquinque`, `Viginti quinque / Vigintiquinque`, `Viginti quinque / Vigintiquinque` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ---
@@ -74,7 +72,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vigintiquinque annorum erat Ioatham cum regnare cœpisset, et sedecim annis regnavit in Ierusalem: nomen matris eius Ierusa filia Sadoc.
   - `VulgConte (2009)`: Vigintiquinque annorum erat Ioatham cum regnare cœpisset, et sedecim annis regnavit in Ierusalem: nomen matris eius Ierusa filia Sadoc.
   - `VulgSistina (1590)`: Vigintiquinque annorum erat Ioatham cum regnare coepisset, et sedecim annis regnavit in Ierusalem: nomen matris eius Ierusa filia Sadoc.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Fecitque quod rectum erat coram Domino, juxta omnia quæ fecerat Ozias pater suus, excepto quod non est ingressus templum Domini: et adhuc populus delinquebat.
@@ -83,7 +81,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Fecitque quod rectum erat coram Domino iuxta omnia quæ fecerat Ozias pater suus, excepto quod non est ingressus templum Domini, et adhuc populus delinquebat.
   - `VulgConte (2009)`: Fecitque quod rectum erat coram Domino iuxta omnia quæ fecerat Ozias pater suus, excepto quod non est ingressus templum Domini, et adhuc populus delinquebat.
   - `VulgSistina (1590)`: Fecitque quod rectum erat coram Domino iuxta omnia quae fecerat Ozias pater suus, excepto quod non est ingressus templum Domini, et adhuc populus delinquebat.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ipse ædificavit portam domus Domini excelsam, et in muro Ophel multa construxit.
@@ -92,7 +90,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ipse ædificavit portam domus Domini excelsam, et in muro Ophel multa construxit.
   - `VulgConte (2009)`: Ipse ædificavit portam domus Domini excelsam, et in muro Ophel multa construxit.
   - `VulgSistina (1590)`: Ipse aedificavit portam domus Domini excelsam, et in muro Ophel multa construxit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Urbes quoque ædificavit in montibus Juda, et in saltibus castella et turres.
@@ -101,7 +99,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Urbes quoque ædificavit in montibus Iuda, et in saltibus castella, et turres.
   - `VulgConte (2009)`: Urbes quoque ædificavit in montibus Iuda, et in saltibus castella, et turres.
   - `VulgSistina (1590)`: Urbes quoque aedificavit in montibus Iuda, et in saltibus castella, et turres.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ipse pugnavit contra regem filiorum Ammon, et vicit eos, dederuntque ei filii Ammon in tempore illo centum talenta argenti, et decem millia coros tritici, ac totidem coros hordei: hæc ei præbuerunt filii Ammon in anno secundo et tertio.
@@ -110,7 +108,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ipse pugnavit contra regem filiorum Ammon, et vicit eos, dederuntque ei filii Ammon in tempore illo centum talenta argenti, et decem millia coros tritici, ac totidem coros hordei: hæc ei præbuerunt filii Ammon in anno secundo et tertio.
   - `VulgConte (2009)`: Ipse pugnavit contra regem filiorum Ammon, et vicit eos, dederuntque ei filii Ammon in tempore illo centum talenta argenti, et decem millia coros tritici, ac totidem coros hordei: hæc ei præbuerunt filii Ammon in anno secundo et tertio.
   - `VulgSistina (1590)`: Ipse pugnavit contra regem filiorum Ammon, et vicit eos, dederuntque ei filii Ammon in tempore illo centum talenta argenti, et decem millia coros tritici, ac totidem coros hordei: haec ei praebuerunt filii Ammon in anno secundo et tertio.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Corroboratusque est Joatham, eo quod direxisset vias suas coram Domino Deo suo.
@@ -119,7 +117,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Corroboratusque est Ioatham eo quod direxisset vias suas coram Domino Deo suo.
   - `VulgConte (2009)`: Corroboratusque est Ioatham eo quod direxisset vias suas coram Domino Deo suo.
   - `VulgSistina (1590)`: Corroboratusque est Ioatham eo quod direxisset vias suas coram Domino Deo suo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Reliqua autem sermonum Joatham, et omnes pugnæ ejus et opera, scripta sunt in libro regum Israël et Juda.
@@ -128,11 +126,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Reliqua autem sermonum Ioatham, et omnes pugnæ eius, et opera, scripta sunt in Libro regum Israel et Iuda.
   - `VulgConte (2009)`: Reliqua autem sermonum Ioatham, et omnes pugnæ eius, et opera, scripta sunt in Libro regum Israel et Iuda.
   - `VulgSistina (1590)`: Reliqua autem sermonum Ioatham, et omnes pugnae eius, et opera, scripta sunt in Libro regum Israel et Iuda.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Viginti quinque annorum erat cum regnare cœpisset, et sedecim annis regnavit in Jerusalem.
   - `Clem1598-USFX`: Viginti quinque annorum erat cum regnare cœpisset, et sedecim annis regnavit in Jerusalem.
+  - `Clem-Saints` *(numbered 26:3 in this witness)*: Sedecim annorum erat Ozias cum regnare cœpisset, et quinquaginta duobus annis regnavit in Jerusalem: nomen matris ejus Jechelia de Jerusalem.
   - `VulgHetzenauer (1906)`: Vigintiquinque annorum erat cum regnare cœpisset, et sedecim annis regnavit in Ierusalem.
   - `VulgConte (2009)`: Vigintiquinque annorum erat cum regnare cœpisset, et sedecim annis regnavit in Ierusalem.
   - `VulgSistina (1590)`: Vigintiquinque annorum erat cum regnare coepisset, et sedecim annis regnavit in Ierusalem.
@@ -145,4 +144,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dormivitque Ioatham cum patribus suis, et sepelierunt eum in Civitate David: et regnavit Achaz filius eius pro eo.
   - `VulgConte (2009)`: Dormivitque Ioatham cum patribus suis, et sepelierunt eum in Civitate David: et regnavit Achaz filius eius pro eo.
   - `VulgSistina (1590)`: Dormivitque Ioatham cum patribus suis, et sepelierunt eum in Civitate David: et regnavit Achaz filius eius pro eo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

@@ -47,19 +47,19 @@
 
 **36:21** Dishon, Ezer, and Dishan. These are the Horite chiefs, the sons of Seir in the land of Edom.
 
-**36:22** Now the sons of Lotan were Hori and Teman; and the sister of Lotan was Timna.
+**36:22** Now the sons of Lotan were Hori and Heman; and the sister of Lotan was Timna.
 
-**36:23** And these are the sons of Shobal: Alvan, Manahath, Ebal, Shephi, and Onam.
+**36:23** And these are the sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam.
 
 **36:24** And these are the sons of Zibeon: Aiah and Anah. This is Anah, who found warm waters in the wilderness while pasturing the donkeys of Zibeon his father;
 
-**36:25** and he had a son, Dishan, and a daughter, Oholibamah.
+**36:25** and he had a son, Dishon, and a daughter, Oholibamah.
 
-**36:26** And these are the sons of Dishan: Hemdan, Eshban, Ithran, and Cheran.
+**36:26** And these are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.
 
 **36:27** These also are the sons of Ezer: Bilhan, Zaavan, and Akan.
 
-**36:28** Now Dishan had sons: Uz and Aran.
+**36:28** Now Dishan had sons: Uz and Aram.
 
 **36:29** These are the chiefs of the Horites: Chief Lotan, Chief Shobal, Chief Zibeon, Chief Anah,
 
@@ -81,9 +81,9 @@
 
 **36:38** And when he also had passed away, Baal-hanan the son of Achbor succeeded to the kingdom.
 
-**36:39** When he also had died, Hadad reigned in his place, and the name of his city also was Pau; and his wife was called Mehetabel, the daughter of Matred, the daughter of Mezahab.
+**36:39** When he also had died, Hadar reigned in his place, and the name of his city was Pau; and his wife was called Mehetabel, the daughter of Matred, the daughter of Mezahab.
 
-**36:40** Therefore these are the names of Esau in their clans, places, and designations: Chief Timna, Chief Alvah, Chief Jetheth,
+**36:40** Therefore these are the names of the chiefs of Esau in their clans, places, and designations: Chief Timna, Chief Alvah, Chief Jetheth,
 
 **36:41** Chief Oholibamah, Chief Elah, Chief Pinon,
 
@@ -94,7 +94,7 @@
 ## Translator Notes
 
 - **36:2** — The Latin uses the feminine genitive "filiae" ("daughter") in apposition to Anah here and in 36:14 (and similarly with Matred in 36:39), even though 36:24-25 identifies Anah as a son of Zibeon.
-- **36:22** — The Latin text reads "Theman" (Teman) here instead of the Hebrew "Hemam" (or "Homam"), and in 36:25-26 reads "Disan" (Dishan) instead of the Hebrew "Dishon".
-- **36:24** — The Vulgate renders the rare Hebrew term "ha-yemim" as "aquas calidas" ("warm waters", i.e., thermal hot springs), and continues in 36:25 with "and he had a son, Dishan, and a daughter, Oholibamah".
+- **36:24** — The Vulgate renders the rare Hebrew term "ha-yemim" as "aquas calidas" ("warm waters", i.e., thermal hot springs), and continues in 36:25 with "and he had a son, Dishon, and a daughter, Oholibamah".
 - **36:37** — The Vulgate reads "de fluvio Rohoboth" ("from the river Rehoboth"), whereas the Hebrew has "from Rehoboth by the River"; similarly in 36:39 the Vulgate reads "Adad" (Hadad, matching 1 Chronicles 1:50) rather than the Hebrew Genesis "Hadar".
-- **36:40** — The Latin text omits "ducum" ("of the chiefs") before "Esau", reading literally "the names of Esau"; likewise, 36:16 reads "sons of Eliphaz" where the Hebrew has "chiefs of Eliphaz", and 36:43 reads "imperii sui" ("of their dominion") rather than "of their possession".
+- **36:39** — The Clementine Vulgate reads 'Adar' ('Hadar', matching 25:15 and some Hebrew manuscripts) where other traditions read 'Hadad.'
+- **36:40** — In this section, 36:16 reads "sons of Eliphaz" where the Hebrew has "chiefs of Eliphaz", and 36:43 reads "imperii sui" ("of their dominion") rather than "of their possession".

@@ -1,6 +1,6 @@
 # Proverbs 31 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 6 translator notes)  
+> **Status:** `draft: true` (31 verses, 8 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -53,11 +53,13 @@
 
 **31:24** She made linen cloth and sold it, and delivered a belt to the Canaanite.
 
-**31:26** Strength and splendor are her clothing, and she will laugh on the last day.
+**31:25** Strength and splendor are her clothing, and she will laugh on the last day.
+
+**31:26** She opened her mouth to wisdom, and the law of mercy is on her tongue.
 
 **31:27** She examined the paths of her house, and did not eat bread in idleness.
 
-**31:28** She opened her mouth to wisdom, and the law of mercy is on her tongue. Her children rose up and proclaimed her most blessed; her husband also, and he praised her.
+**31:28** Her children rose up and proclaimed her most blessed; her husband also, and he praised her.
 
 **31:29** "Many daughters have gathered wealth; you have surpassed all of them."
 
@@ -72,4 +74,6 @@
 - **31:19** — Latin ad fortia ("to strong things") preserves a distinctly Vulgate reading where the Hebrew Masoretic Text refers to the distaff.
 - **31:21** — Latin duplicibus ("in double garments") reflects reading the Hebrew consonantal text as "double" rather than "scarlet," a well-known reading shared by the Vulgate and the Septuagint.
 - **31:24** — Latin Chananæo ("to the Canaanite") renders the Hebrew kena'ani literally by the proper name "Canaanite," a term also used idiomatically for Phoenician traders and merchants.
-- **31:28** — The opening sentence ("She opened her mouth to wisdom...") is numbered 31:25 in the Latin critical text (verse 26 in the Hebrew); following this edition's verse arrangement it is joined to verse 28. Verse 26 here ("Strength and splendor...") is verse 25 in the Hebrew.
+- **31:25** — Native Vulgate 31:25 ('Fortitudo et decor...') matches Hebrew 31:25 (mapped to Saints 31:26 / Greek 31:25); Stage 1 corrected the prior CT swap of 31:25 and 31:26.
+- **31:26** — Native Vulgate 31:26 ('Os suum aperuit sapientiæ...') matches Hebrew 31:26; Saints.Bible parallel display joins it to 31:28.
+- **31:28** — Native Vulgate 31:28 contains only 'Surrexerunt filii ejus...'; 'She opened her mouth to wisdom...' stands at its native Vulgate slot 31:26 (and 'Strength and splendor...' at native 31:25), correcting the earlier critical-text swap. Parallel Saints.Bible display maps native 31:26 into Saints 31:28.

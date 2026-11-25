@@ -1,6 +1,6 @@
 # 1 Kings 8 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (64 verses, 9 translator notes)  
+> **Status:** `draft: true` (66 verses, 9 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -26,6 +26,10 @@
 **8:10** Now it happened, when the priests had come out of the sanctuary, that a cloud filled the house of the Lord,
 
 **8:11** and the priests were unable to stand and minister because of the cloud, for the glory of the Lord had filled the house of the Lord.
+
+**8:12** Then Solomon said, "The Lord said that He would dwell in a cloud.
+
+**8:13** Building, I have built a house for Your dwelling, Your most firm throne forever."
 
 **8:14** And the king turned his face and blessed the whole assembly of Israel; for the whole assembly of Israel was standing.
 
@@ -103,9 +107,9 @@
 
 **8:51** For they are Your people and Your inheritance, whom You brought out of the land of Egypt, from the midst of the iron furnace.
 
-**8:52** May Your eyes be open to the supplication of Your servant and of Your people Israel, and may You hear them in all things for which they call upon You."
+**8:52** May Your eyes be open to the supplication of Your servant and of Your people Israel, and may You hear them in all things for which they call upon You.
 
-**8:53** Then Solomon said, "The Lord said that He would dwell in a cloud. Building, I have built a house for Your dwelling, Your most firm throne forever. For You separated them for Yourself as an inheritance from all the peoples of the earth, just as You spoke through Your servant Moses when You brought our fathers out of Egypt, Lord God."
+**8:53** For You separated them for Yourself as an inheritance from all the peoples of the earth, just as You spoke through Your servant Moses when You brought our fathers out of Egypt, Lord God."
 
 **8:54** Now it happened, when Solomon had finished praying all this prayer and supplication to the Lord, that he rose from before the altar of the Lord; for he had fixed both knees on the ground and had spread out his hands toward heaven.
 
@@ -137,10 +141,10 @@
 
 - **8:6** — Latin oraculum ("oracle," also in 8:8) renders the inner sanctuary as the place of divine speech, reflecting Jerome's etymological translation of Hebrew debir.
 - **8:8** — Latin foris sanctuarium literally reads "outside the sanctuary," differing from the Hebrew Masoretic Text ("from the Holy Place").
+- **8:12** — Native Clementine Vulgate places Solomon's declaration at 8:12-13 (located at 8:53 in Saints.Bible / 3 Kingdoms).
 - **8:15** — Latin in manibus ejus ("in/with his hands") uses the non-reflexive ejus, which could grammatically point to David; the parallel in 8:24 (manibus perfecisti, "with Your hands You have fulfilled") indicates God's own hands.
 - **8:28** — Latin hymnum ("hymn") is a distinctly Vulgate rendering where the Hebrew has "cry" or "ringing cry."
 - **8:33** — Latin distinctively reads fugerit inimicos suos ("flee from their enemies"), the future periphrastic quia peccaturus est tibi ("because they will sin against You"), and agentes poenitentiam ("repenting"), whereas the Hebrew has "are defeated before an enemy because they have sinned against You, and turn back to You."
 - **8:38** — Latin devotatio et imprecatio quae acciderit ("curse and imprecation that happens to") is a distinctly Vulgate reading where the Hebrew has "any prayer or plea" offered by anyone.
 - **8:43** — Latin in firmamento habitaculi tui (and in firmamento solii tui in 8:49) uses firmamentum ("foundation/firm support"), with 8:49 distinctively specifying "Your throne" (solii tui) rather than "Your dwelling."
-- **8:53** — Solomon's declaration ("The Lord said that He would dwell in a cloud... Your most firm throne forever"), numbered 8:12-13 in the Saints Latin Critical Text and the Clementine Vulgate, stands here at the opening of 8:53, where 3 Kingdoms places it.
 - **8:61** — Latin uses the first-person plural (cor nostrum, ambulemus, custodiamus -- "our heart ... we may walk ... keep"), whereas the Hebrew Masoretic Text addresses the assembly in the second-person plural ("your heart").

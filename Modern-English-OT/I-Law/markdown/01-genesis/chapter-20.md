@@ -1,13 +1,13 @@
 # Genesis 20 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (18 verses, 4 translator notes)  
+> **Status:** `draft: true` (18 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
 **20:1** Abraham set out from there into the southern land, lived between Kadesh and Shur, and sojourned in Gerar.
 
-**20:2** And he said of Sarah his wife, "She is my sister." So Abimelech, king of the land, sent and took her.
+**20:2** And he said of Sarah his wife, "She is my sister." So Abimelech, king of Gerar, sent and took her.
 
 **20:3** But God came to Abimelech through a dream in the night and said to him, "Look, you will die because of the woman whom you have taken, for she has a husband."
 
@@ -39,11 +39,10 @@
 
 **20:17** Then as Abraham prayed, God healed Abimelech and his wife and his female servants, and they gave birth;
 
-**20:18** for God had closed up every womb of the house of Abimelech because of Sarah, the wife of Abraham.
+**20:18** for the Lord had closed up every womb of the house of Abimelech because of Sarah, the wife of Abraham.
 
 ## Translator Notes
 
-- **20:2** — The Latin text here reads "Abimelech rex Terrae" ("Abimelech, king of the land"), rather than "king of Gerar" ("rex Gerarae") found in other Vulgate editions and the Hebrew.
 - **20:4** — The Vulgate follows the Septuagint in reading "gentem ignorantem et justam" ("an unknowing and righteous nation"), whereas the Hebrew reads "even a righteous nation."
 - **20:8** — The Vulgate specifies "Statimque de nocte" ("And immediately in the night"), whereas the Hebrew reads "early in the morning."
 - **20:16** — Distinctively in the Vulgate, Abimelech's closing words read "et quocumque perrexeris: mementoque te deprehensam" ("and wherever you go; and remember that you were caught"), whereas the Hebrew reads "and before all you are vindicated."

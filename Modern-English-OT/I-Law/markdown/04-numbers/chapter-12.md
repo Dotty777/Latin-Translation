@@ -1,6 +1,6 @@
 # Numbers 12 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (16 verses, 4 translator notes)  
+> **Status:** `draft: true` (15 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -34,8 +34,6 @@
 **12:14** The Lord answered him, "If her father had spit in her face, should she not have been flushed with shame for at least seven days? Let her be separated outside the camp for seven days, and afterward she will be called back."
 
 **12:15** Therefore Miriam was shut outside the camp for seven days, and the people did not move from that place until Miriam was called back.
-
-**12:16** And the people set out from Hazeroth, pitching their tents in the wilderness of Paran.
 
 ## Translator Notes
 

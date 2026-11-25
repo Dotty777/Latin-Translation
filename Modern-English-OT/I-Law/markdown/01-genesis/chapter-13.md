@@ -7,7 +7,7 @@
 
 **13:1** So Abram went up from Egypt, he and his wife, and all that he had, and Lot with him, toward the southern region.
 
-**13:2** Now he was very rich in the possession of silver and gold.
+**13:2** Now he was very rich in the possession of gold and silver.
 
 **13:3** And he returned by the way by which he had come, from the south to Bethel, as far as the place where he had previously pitched the tent between Bethel and Ai,
 
@@ -35,7 +35,7 @@
 
 **13:15** All the land that you see I will give to you and to your seed forever.
 
-**13:16** And I will make your seed like the dust of the earth: if any man can count the dust, he will also be able to count your seed.
+**13:16** And I will make your seed like the dust of the earth: if any man can count the dust of the earth, he will also be able to count your seed.
 
 **13:17** Arise and walk through the land in its length and in its breadth, for I am going to give it to you."
 
@@ -43,7 +43,7 @@
 
 ## Translator Notes
 
-- **13:2** — The Vulgate renders Hebrew miqneh ("livestock/possessions") as in possessione ("in the possession of"), yielding "in the possession of silver and gold" without separately listing livestock.
+- **13:2** — The Vulgate renders Hebrew miqneh ("livestock/possessions") as in possessione ("in the possession of"), yielding "in the possession of gold and silver" without separately listing livestock.
 - **13:11** — Latin ab oriente ("from the east") renders the Hebrew miqqedem, which can also mean "eastward."
 - **13:12** — Latin habitavit in Sodomis ("lived in Sodom") is distinctly Vulgate; the Hebrew reads "moved his tent as far as Sodom."
 - **13:18** — Latin convallem Mambre ("the valley of Mamre") renders the Hebrew elone Mamre ("the oaks/terebinths of Mamre"), as in 12:6.

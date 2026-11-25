@@ -1,47 +1,51 @@
 # Jeremiah 35 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (17 verses, 4 translator notes)  
+> **Status:** `draft: true` (19 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**35:1** And it happened in that year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, in the fifth month, that Hananiah son of Azzur, the prophet from Gibeon, spoke to me in the house of the Lord, before the priests and all the people, saying:
+**35:1** The word that came to Jeremiah from the Lord in the days of Jehoiakim son of Josiah, king of Judah, saying:
 
-**35:2** "This is what the Lord of hosts, the God of Israel, says: I have shattered the yoke of the king of Babylon.
+**35:2** "Go to the house of the Rechabites and speak to them, and you will bring them into the house of the Lord, into one chamber of the treasuries, and you will give them wine to drink."
 
-**35:3** Still two years of days, and I will cause to be brought back to this place all the vessels of the house of the Lord, which Nebuchadnezzar king of Babylon took from this place and carried away into Babylon.
+**35:3** And I took Jaazaniah son of Jeremiah, son of Habazziniah, and his brothers, and all his sons, and the entire house of the Rechabites,
 
-**35:4** And Jeconiah son of Jehoiakim, king of Judah, and all the exiles of Judah who entered Babylon, I will bring back to this place, says the Lord, for I will shatter the yoke of the king of Babylon."
+**35:4** and I brought them into the house of the Lord, to the treasury chamber of the sons of Hanan son of Igdaliah, the man of God, which was next to the treasury chamber of the princes, above the treasury of Maaseiah son of Shallum, who was keeper of the vestibule;
 
-**35:5** And Jeremiah the prophet spoke to Hananiah the prophet in the sight of the priests and in the sight of all the people who were standing in the house of the Lord,
+**35:5** and I set before the sons of the house of the Rechabites bowls full of wine, and cups, and I said to them, "Drink wine."
 
-**35:6** and Jeremiah the prophet said, "Amen! May the Lord do so; may the Lord establish your words that you have prophesied, so that the vessels may be brought back into the house of the Lord, and all the exiles from Babylon to this place.
+**35:6** They answered, "We will not drink wine, because Jonadab son of Rechab, our father, commanded us, saying, 'You will not drink wine, you and your sons, forever;
 
-**35:7** However, listen to this word that I speak in your ears and in the ears of the whole people:
+**35:7** and you will not build a house, and you will not sow seed, and you will not plant vineyards nor have any; but you will dwell in tents all your days, so that you may live many days upon the face of the land in which you reside as foreigners.'
 
-**35:8** the prophets who were before me and before you from the beginning prophesied against many lands and against great kingdoms concerning battle, and concerning affliction, and concerning famine;
+**35:8** Therefore we have obeyed the voice of Jonadab son of Rechab, our father, in all that he commanded us, so that we have not drunk wine all our days, we and our wives, our sons and our daughters,
 
-**35:9** the prophet who has prophesied peace, when his word comes about, will be known as the prophet whom the Lord has sent in truth."
+**35:9** and have not built houses to dwell in; and we have not had a vineyard, or a field, or seed;
 
-**35:10** And Hananiah the prophet took the chain from the neck of Jeremiah the prophet and broke it.
+**35:10** but we have dwelt in tents, and we have been obedient according to all that Jonadab our father commanded us.
 
-**35:11** And Hananiah spoke in the presence of all the people, saying, "This is what the Lord says: In this way I will break the yoke of Nebuchadnezzar king of Babylon after two years of days from the neck of all the nations."
+**35:11** However, when Nebuchadnezzar king of Babylon came up to our land, we said, 'Come, and let us enter Jerusalem from before the army of the Chaldeans and from before the army of Syria,' and we remained in Jerusalem."
 
-**35:12** And Jeremiah the prophet went on his way. And the word of the Lord came to Jeremiah, after Hananiah the prophet broke the chain from the neck of Jeremiah the prophet, saying:
+**35:12** And the word of the Lord came to Jeremiah, saying:
 
-**35:13** "Go, and you will say to Hananiah, 'This is what the Lord says: You have shattered wooden chains, and you will make iron chains in place of them.
+**35:13** "This is what the Lord of hosts, the God of Israel, says: Go and say to the men of Judah and to the inhabitants of Jerusalem, 'Will you not receive instruction, so that you obey My words?—says the Lord.
 
-**35:14** For this is what the Lord of hosts, the God of Israel, says: I have put an iron yoke upon the neck of all these nations, that they may serve Nebuchadnezzar king of Babylon, and they will serve him; moreover, I have also given him the beasts of the earth.'"
+**35:14** The words of Jonadab son of Rechab have prevailed, which he commanded his sons, that they should not drink wine, and they have not drunk to this day, because they obeyed the command of their father; but I have spoken to you, rising early in the morning and speaking, and you have not obeyed Me.
 
-**35:15** And Jeremiah the prophet said to Hananiah the prophet, "Listen, Hananiah! The Lord has not sent you, and you have made this people trust in a lie.
+**35:15** And I sent to you all My servants the prophets, rising at dawn and sending them, and saying, "Turn back, each one from his most wicked way, and make your pursuits good, and do not follow foreign gods nor worship them, and you will dwell in the land that I gave to you and to your fathers." Yet you did not incline your ear, nor did you listen to Me.
 
-**35:16** Therefore this is what the Lord says: Look, I will send you away from the face of the earth; this year you will die, for you have spoken against the Lord."
+**35:16** Therefore the sons of Jonadab son of Rechab have upheld the command of their father that he had commanded them; but this people has not obeyed Me.
 
-**35:17** And Hananiah the prophet died in that year, in the seventh month.
+**35:17** For this reason, this is what the Lord of hosts, the God of Israel, says: Look, I will bring upon Judah and upon all the inhabitants of Jerusalem all the affliction that I have spoken against them, because I spoke to them, and they did not listen; I called them, and they did not answer Me.'"
+
+**35:18** But to the house of the Rechabites Jeremiah said, "This is what the Lord of hosts, the God of Israel, says: Because you have obeyed the command of Jonadab your father, and have kept all his commandments, and have done all that he commanded you,
+
+**35:19** therefore this is what the Lord of hosts, the God of Israel, says: There will not be lacking a man from the lineage of Jonadab son of Rechab, standing in My presence all the days."
 
 ## Translator Notes
 
-- **35:3** — Latin "duo anni dierum" ("two years of days") preserves a Hebraic idiom meaning two full years; in v. 11, the Vulgate reads "post duos annos dierum" ("after two years of days") rather than Hebrew "within two years."
-- **35:8** — The Vulgate reads "de prælio, et de afflictione, et de fame" ("of battle, and of affliction, and of famine"), whereas the Hebrew Masoretic Text lists war, disaster, and pestilence.
-- **35:13** — Following 34:2 and 35:10, the Vulgate renders Hebrew "yoke-bars" as "catenas" ("chains"), producing the distinctly Vulgate imagery of "wooden chains" replaced by "iron chains."
-- **35:14** — The Vulgate has "bestias terræ" ("the beasts of the earth") here, differing slightly from "bestias agri" ("the beasts of the field") in 34:6.
+- **35:2** — The Vulgate reads 'in unam exedram thesaurorum' ('into one chamber of the treasuries'), specifying treasury chambers where the Hebrew simply has 'one of the chambers,' anticipating 'gazophylacium' ('treasury chamber') and 'thesaurum' ('treasury') in verse 4.
+- **35:10** — The Vulgate reads 'et obedientes fuimus' ('and we have been obedient'), condensing the Hebrew paired verbs 'we have obeyed and done.'
+- **35:11** — The Vulgate includes the possessive 'nostram' ('ad terram nostram,' 'to our land') where the Hebrew reads simply 'to the land,' and renders Hebrew 'Aram' as 'Syriae' ('of Syria').
+- **35:19** — The Vulgate explicitly supplies 'de stirpe' ('from the lineage') before 'Jonadab son of Rechab,' clarifying the Hebrew phrasing 'for Jonadab son of Rechab.'

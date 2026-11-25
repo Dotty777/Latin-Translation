@@ -37,7 +37,7 @@
 
 **19:16** While he hesitated, they took hold of his hand, and the hand of his wife, and of his two daughters, because the Lord was sparing him.
 
-**19:17** And they brought him out and set him outside the city. There he spoke to him, "Save your life; do not look behind you, nor stop in all the surrounding region, but save yourself on the mountain, so that you also do not perish at the same time."
+**19:17** And they brought him out and set him outside the city. And there they spoke to him, saying, "Save your life; do not look behind you, nor stop in all the surrounding region, but save yourself on the mountain, so that you also do not perish at the same time."
 
 **19:18** And Lot said to them, "Please, my lord,
 
@@ -61,9 +61,9 @@
 
 **19:28** gazed out over Sodom and Gomorrah and the entire land of that region, and he saw ashes rising from the earth like the smoke of a furnace.
 
-**19:29** For when God overthrew its cities and regions, remembering Abraham, He delivered Lot from the overthrow of the cities in which he had lived.
+**19:29** For when God overthrew the cities of that region, remembering Abraham, He delivered Lot from the overthrow of the cities in which he had lived.
 
-**19:30** And Lot went up from Zoar and stayed on the mountain, and his two daughters also with him (for he had been afraid to stay in Zoar), and he stayed in a cave, he and his two daughters.
+**19:30** And Lot went up from Zoar and stayed on the mountain, and his two daughters also with him (for he had been afraid to stay in Zoar), and he stayed in a cave, he and his two daughters with him.
 
 **19:31** And the older said to the younger, "Our father is old, and none of the men has remained on the earth who could come in to us according to the custom of the whole earth.
 
@@ -73,7 +73,7 @@
 
 **19:34** On the next day also, the older said to the younger, "Look, yesterday I slept with my father; let us give him wine to drink this night also, and you will sleep with him, so that we may save seed from our father."
 
-**19:35** On that night as well they gave their father wine, and the younger daughter went in and slept with him; and not even then did he notice when she lay with him or when she got up.
+**19:35** On that night as well they gave their father wine to drink, and the younger daughter went in and slept with him; and not even then did he notice when she lay with him or when she got up.
 
 **19:36** So the two daughters of Lot conceived by their father.
 
@@ -83,8 +83,8 @@
 
 ## Translator Notes
 
-- **19:17** — The Latin shifts abruptly from plural ("they brought... set") to singular ("he spoke"), and in v. 18 Lot speaks to "them" ("ad eos") while addressing a single spokesperson as lowercase "domine mi" ("my lord").
+- **19:17** — In v. 18 Lot speaks to "them" ("ad eos") while addressing a single spokesperson as lowercase "domine mi" ("my lord").
 - **19:22** — The Latin spells Zoar as "Segor" (following the Septuagint transliteration of Hebrew Tsoar, linked to "small" in v. 20).
 - **19:26** — The Vulgate reads "statuam salis" ("a statue of salt"), rather than the Hebrew "pillar of salt."
-- **19:29** — The Latin text here reads "civitates et regiones illius" ("its cities and regions"), whereas other Vulgate witnesses read "civitates regionis illius" ("the cities of that region") and the Hebrew has "the cities of the valley."
+- **19:29** — The Vulgate reads "civitates regionis illius" ("the cities of that region") where the Hebrew has "the cities of the valley."
 - **19:38** — Whereas the Hebrew gives the son's name as Ben-ammi ("son of my people"), the Vulgate writes "Ammon" directly and supplies the explanatory gloss "id est, Filius populi mei" ("that is, 'Son of my people'").

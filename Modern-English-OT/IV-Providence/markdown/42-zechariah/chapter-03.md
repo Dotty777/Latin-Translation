@@ -31,4 +31,4 @@
 - **3:4** — Latin mutatoriis ("fresh garments," literally "changes of clothing") denotes clean ceremonial or festive robes kept for changing into.
 - **3:5** — Latin reads third-person Et dixit ("And he said"), continuing the angel's command, where the Hebrew Masoretic Text has first-person "And I said."
 - **3:7** — Latin ambulantes ("those who walk") takes the Hebrew term as a plural participle (persons walking) rather than as a noun meaning "goings" or "access."
-- **3:8** — Latin Orientem ("the Rising," also "the Dawn" or "the East") follows the Septuagint anatole where the Hebrew has tsemach ("Branch" or "Sprout"); viri portendentes ("foreshadowing men") means men who serve as a portent.
+- **3:8** — Latin Orientem ("the Rising," also "the Dawn" or "the East") follows the Septuagint anatole where the Hebrew has tsemach ("Branch" or "Sprout"); viri portendentes ("foreshadowing men") means men who serve as a portent. Clem1598-USFX prints capitalized Orientem ('the Rising'); capitalization is subject to edition-wide policy.

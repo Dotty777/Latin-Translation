@@ -1,15 +1,15 @@
 # Hosea 6 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (11 verses, 5 translator notes)  
+> **Status:** `draft: true` (11 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Hosea`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**6:1** In their distress they will rise up early to Me: "Come, and let us return to the Lord.
+**6:1** In their distress they will rise up early to Me: "Come, and let us return to the Lord,
 
-**6:2** He will make us alive after two days; on the third day He will raise us up, and we will live in His presence.
+**6:2** for He Himself has seized us, and He will heal us; He will strike, and He will cure us.
 
-**6:3** We will know, and we will follow so that we may know the Lord; His going forth is prepared like the dawn, and He will come to us like rain, early and late, for the earth."
+**6:3** He will make us alive after two days; on the third day He will raise us up, and we will live in His presence. We will know, and we will follow so that we may know the Lord; His going forth is prepared like the dawn, and He will come to us like rain, early and late, for the earth."
 
 **6:4** What am I to do with you, Ephraim? What am I to do with you, Judah? Your mercy is like a morning cloud, and like dew passing away early.
 
@@ -30,6 +30,8 @@
 ## Translator Notes
 
 - **6:1** — In Vulgate verse numbering, the opening clause ("In their distress they will rise up early to Me") begins chapter 6 rather than closing 5:15 as in the Hebrew text.
+- **6:2** — Stage 1 restored Clementine Vulgate Hosea 6:2 (corresponding to the second half of Saints.Bible 6:1). Vulgate cepit ('seized') and curabit ('will cure') differ from the Hebrew ('has torn' and 'will bind up').
+- **6:3** — In native Clementine Vulgate numbering, 6:3 combines both sentences (mapped to Saints.Bible 6:2-3), following the restoration of native 6:2.
 - **6:5** — The Vulgate has plural judicia tua ("your judgments"), as in the Hebrew Masoretic Text, where the Septuagint reads singular "my judgment."
 - **6:7** — The Vulgate reads sicut Adam ("like Adam") as a reference to the first man, whereas the Hebrew phrase can also be taken as "like mankind" or "at Adam."
 - **6:8** — The Vulgate renders operantium idolum ("those who make an idol") rather than "workers of iniquity," and translates the Hebrew root for "heel" as supplantata ("undermined" or "tripped up").

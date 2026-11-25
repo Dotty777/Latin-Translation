@@ -1,6 +1,6 @@
 # Esther 4 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (16 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (17 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Esther`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -14,6 +14,8 @@
 **4:4** Now Esther's maids and eunuchs came in and reported it to her. Hearing this, she was dismayed, and she sent clothing so that, once the sackcloth was removed, they might clothe him; but he refused to accept it.
 
 **4:5** Then, having summoned Hathach the eunuch, whom the king had given to her as an attendant, she commanded him to go to Mordecai and learn from him why he was doing this.
+
+**4:6** And Hathach went out to Mordecai, who was standing in the square of the city, in front of the palace entrance:
 
 **4:7** He disclosed to him everything that had happened: how Haman had promised to bring silver into the king's treasuries for the slaughter of the Jews.
 
@@ -36,10 +38,6 @@
 **4:16** "Go and gather all the Jews whom you find in Susa, and pray for me. Do not eat and do not drink for three days and three nights; and I with my maidservants will fast in the same way, and then I will go in to the king, acting against the law, without being called, and handing myself over to death and danger."
 
 **4:17** So Mordecai went and did everything that Esther had commanded him.
-
-## Additional Verses (Not in Saints Numbering)
-
-**4:6** *(after `4:5`)* And Hathach went out to Mordecai, who was standing in the square of the city, in front of the palace entrance:
 
 ## Translator Notes
 

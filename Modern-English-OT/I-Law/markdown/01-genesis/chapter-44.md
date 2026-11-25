@@ -23,7 +23,7 @@
 
 **44:9** With whichever of your servants what you seek is found, let him die, and we will be servants of our lord."
 
-**44:10** He said, "Let it be according to your judgment: the one with whom the cup is found, let him be my servant, but you will be innocent."
+**44:10** He said to them, "Let it be according to your judgment: the one with whom it is found, let him be my servant, but you will be innocent."
 
 **44:11** Therefore, hastily lowering their sacks to the ground, each one opened his.
 
@@ -31,11 +31,11 @@
 
 **44:13** Then they, having torn their garments and loaded their donkeys again, returned into the town.
 
-**44:14** And Judah first, with his brothers, went in to Joseph (for they had not yet departed from the place), and all of them fell down together on the ground before him.
+**44:14** And Judah first, with his brothers, went in to Joseph (for he had not yet departed from the place), and all of them fell down together on the ground before him.
 
 **44:15** He said to them, "Why did you wish to act in this way? Or are you unaware that there is no one like me in the knowledge of divination?"
 
-**44:16** Judah said to him, "What shall we answer my lord? Or what shall we speak, or what just thing will we be able to put forward? God has found the iniquity of your servants; look, we are all servants of my lord, both we and the one with whom the cup was found."
+**44:16** Judah said to him, "What shall we answer my lord? Or what shall we speak, or what will we justly be able to put forward? God has found the iniquity of your servants; look, we are all servants of my lord, both we and the one with whom the cup was found."
 
 **44:17** Joseph answered, "Far be it from me to act in this way: the one who stole the cup, let him be my servant; but you, go away free to your father."
 
@@ -51,7 +51,7 @@
 
 **44:23** And you said to your servants, 'Unless your youngest brother comes with you, you will not see my face again.'
 
-**44:24** Therefore, when we had gone up to your servant our father, we recounted to him everything that our lord spoke.
+**44:24** Therefore, when we had gone up to your servant our father, we recounted to him everything that my lord spoke.
 
 **44:25** And our father said, 'Go back and buy us a little wheat.'
 
@@ -76,7 +76,7 @@
 ## Translator Notes
 
 - **44:5** — The Vulgate explicitly adds "that you stole" (quem furati estis) to the steward's accusation, whereas the Hebrew Masoretic Text reads more generally "Is not this the one from which my lord drinks?"
-- **44:14** — The Vulgate uniquely specifies that Judah entered "first" (Primusque Judas) and uses the plural "they had not yet departed" (abierant), referring to Joseph and his household, where the Hebrew has the singular "he was still there."
+- **44:14** — The Vulgate uniquely specifies that Judah entered "first" (Primusque Judas).
 - **44:18** — The Clementine Vulgate links "my lord" (dominus meus) at the start of 44:19 to the end of 44:18 ("after Pharaoh, my lord"), followed by second-person "You asked" (Interrogasti), whereas the Hebrew starts 44:19 with "My lord asked his servants."
 - **44:20** — The Vulgate reads "his mother has him alone" (ipsum solum habet mater sua), where the Hebrew has "he alone is left of his mother."
 - **44:28** — The Vulgate uses the second person plural "and you said" (et dixistis), attributing the remark about the beast directly to the brothers rather than to Jacob himself as in the Hebrew ("and I said").

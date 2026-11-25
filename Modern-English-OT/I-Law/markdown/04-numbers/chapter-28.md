@@ -1,6 +1,6 @@
 # Numbers 28 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (29 verses, 6 translator notes)  
+> **Status:** `draft: true` (31 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -61,7 +61,11 @@
 
 **28:28** and in their sacrifices, three-tenths of fine flour mixed with oil for each young bull, two for each ram,
 
-**28:29** a tenth of a tenth for each of the lambs, which together are seven lambs; also a male goat, which is slaughtered for atonement, besides the perpetual burnt offering and its drink offerings. You shall offer them all unblemished, with their libations.'"
+**28:29** a tenth of a tenth for each of the lambs, which together are seven lambs; also a male goat,
+
+**28:30** which is slaughtered for atonement, besides the perpetual burnt offering and its drink offerings.
+
+**28:31** You shall offer them all unblemished, with their libations.'"
 
 ## Translator Notes
 
@@ -70,4 +74,5 @@
 - **28:10** — The Vulgate links this verse directly to the drink offerings ("which are duly poured out... as a perpetual burnt offering," and similarly v. 15), whereas the Hebrew places these offerings "besides" the continual burnt offering.
 - **28:13** — Latin "decimam decimae" (literally "a tenth of a tenth," also in vv. 21 and 29) renders the Hebrew distributive repetition "a tenth [of an ephah] each" as a nested fraction.
 - **28:24** — The Vulgate renders Hebrew "food of the fire offering" as "fuel for the fire" ("in fomitem ignis") and explicitly describes the sweet fragrance as rising from the burnt offering and each offering's libations.
-- **28:29** — In this Clementine Vulgate versification, verse 29 combines the text commonly divided across verses 29-31, and renders Hebrew "its grain offering" as "its drink offerings" ("liba ejus").
+- **28:29** — Native Vulgate Numbers 28:29-31 divide these offerings across separate verses 28:29-31 (fixing the old merged 28:29), and render Hebrew "its grain offering" as "its drink offerings" ("liba ejus").
+- **28:30** — Native Clementine Vulgate divides this passage across 28:29-31, and renders Hebrew "its grain offering" as "its drink offerings" ("liba ejus").

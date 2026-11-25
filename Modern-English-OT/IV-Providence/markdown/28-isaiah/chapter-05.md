@@ -71,4 +71,4 @@
 - **5:7** — Latin 'exspectavi' ('I waited') uses the first person singular directly as the Lord's voice, whereas the Hebrew has the third person ('he looked').
 - **5:9** — Latin 'nisi' ('unless') literally renders the Hebrew elliptical oath formula meaning 'surely,' and in 5:10 Jerome converts the Hebrew measures into Roman equivalents ('jugera,' 'lagunculam,' and 'modii').
 - **5:17** — Latin 'deserta in ubertatem versa' ('the desolate places that have been turned into fertility') is a distinctly Vulgate rendering where the Hebrew reads 'the ruins of the fat ones.'
-- **5:25** — This Latin text reads 'adversus' as an orthographic variant for 'aversus' ('turned away').
+- **5:25** — The adopted Clementine text (unanimous across witnesses) reads 'adversus' as an orthographic variant for 'aversus' ('turned away').

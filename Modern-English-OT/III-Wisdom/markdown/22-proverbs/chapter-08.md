@@ -1,6 +1,6 @@
 # Proverbs 8 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (35 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (36 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -69,15 +69,13 @@
 
 **8:32** Now therefore, sons, listen to me: blessed are those who keep my ways.
 
+**8:33** Listen to discipline, and be wise, and do not cast it aside.
+
 **8:34** Blessed is the man who listens to me, and who watches at my doors daily, and keeps watch at the posts of my doorway.
 
 **8:35** Whoever finds me will find life, and will draw salvation from the Lord.
 
 **8:36** But whoever sins against me will harm his own soul; all who hate me love death."
-
-## Additional Verses (Not in Saints Numbering)
-
-**8:33** *(after `8:32`)* Listen to discipline, and be wise, and do not cast it aside.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Genesis 18 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (33 verses, 4 translator notes)  
+> **Status:** `draft: true` (33 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -41,7 +41,7 @@
 
 **18:18** since he is to become a great and most mighty nation, and all the nations of the earth are to be blessed in him?
 
-**18:19** For I know that he will command his sons and his household after him to keep the way of the Lord and to do righteousness and justice, so that the Lord may bring about for Abraham's sake all the things that He has spoken to him."
+**18:19** For I know that he will command his sons and his household after him to keep the way of the Lord and to do justice and righteousness, so that the Lord may bring about for Abraham's sake all the things that He has spoken to him."
 
 **18:20** Therefore the Lord said, "The outcry of Sodom and Gomorrah has been multiplied, and their sin has become exceedingly grave.
 
@@ -53,15 +53,15 @@
 
 **18:24** If there are fifty righteous people in the city, will they perish together? And will You not spare that place for the sake of the fifty righteous people, if they are in it?
 
-**18:25** Far be it from You to do this thing, and kill the righteous with the wicked, so that the righteous becomes like the wicked; this is not like You: You who judge all the earth will by no means execute judgment."
+**18:25** Far be it from You to do this thing, and kill the righteous with the wicked, so that the righteous becomes like the wicked; this is not like You: You who judge all the earth will by no means execute this judgment."
 
 **18:26** And the Lord said to him, "If I find in Sodom fifty righteous people in the midst of the city, I will pardon the whole place for their sake."
 
 **18:27** Answering, Abraham said, "Since I have once begun, I will speak to my Lord, though I am dust and ashes.
 
-**18:28** What if there are five fewer than fifty righteous people? Will You wipe out the entire city because of five?" And He said, "I will not wipe it out if I find forty-five there."
+**18:28** What if there are five fewer than fifty righteous people? Will You wipe out the entire city because of forty-five?" And He said, "I will not wipe it out if I find forty-five there."
 
-**18:29** And again he spoke to Him, "But if forty are found, what will You do?" He said, "I will not strike it for the sake of forty."
+**18:29** And again he spoke to Him, "But if forty are found there, what will You do?" He said, "I will not strike it for the sake of forty."
 
 **18:30** "Please do not be indignant, Lord," he said, "if I speak: what if thirty are found there?" He answered, "I will not do it if I find thirty there."
 
@@ -76,4 +76,5 @@
 - **18:1** — The Vulgate reads "in convalle Mambre" ("in the valley of Mamre"), whereas the Hebrew Masoretic Text refers to the oaks or terebinths of Mamre.
 - **18:10** — Latin "vita comite" (literally "with life as companion," repeated in 18:14) is a classical Latin ablative absolute rendering the Hebrew idiom for the return of the season next year, meaning if life continues.
 - **18:19** — Latin "propter Abraham" ("for Abraham's sake") differs slightly from the Hebrew Masoretic Text ("upon Abraham").
-- **18:25** — The Vulgate renders the closing clause as a negative statement with "nequaquam" ("You who judge all the earth will by no means execute judgment"; many Clementine editions add "hoc," "this judgment"), unlike the Hebrew Masoretic Text's rhetorical question ("Shall not the Judge of all the earth do justice?").
+- **18:25** — The Vulgate renders the closing clause as a negative statement with "nequaquam" ("You who judge all the earth will by no means execute this judgment"), unlike the Hebrew Masoretic Text's rhetorical question ("Shall not the Judge of all the earth do justice?").
+- **18:28** — The Sixto-Clementine Vulgate distinctively reads 'propter quadraginta quinque' ('because of forty-five') where the Hebrew text and Codex Amiatinus read 'because of five.'

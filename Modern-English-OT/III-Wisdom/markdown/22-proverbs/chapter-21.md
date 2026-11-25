@@ -1,6 +1,6 @@
 # Proverbs 21 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (31 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -12,6 +12,8 @@
 **21:3** To practice mercy and justice pleases the Lord more than sacrifices.
 
 **21:4** Haughtiness of the eyes is swelling of the heart; the lamp of the wicked is sin.
+
+**21:5** The plans of a vigorous person are always in abundance, yet every lazy person is always in poverty.
 
 **21:6** One who gathers treasures by a lying tongue is empty and senseless, and will be driven into the snares of death.
 
@@ -64,10 +66,6 @@
 **21:30** There is no wisdom, there is no prudence, there is no counsel against the Lord.
 
 **21:31** A horse is made ready for the day of battle, but the Lord grants deliverance.
-
-## Additional Verses (Not in Saints Numbering)
-
-**21:5** *(after `21:4`)* The plans of a vigorous person are always in abundance, yet every lazy person is always in poverty.
 
 ## Translator Notes
 

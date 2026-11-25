@@ -1,6 +1,6 @@
 # 2 Kings 11 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (20 verses, 5 translator notes)  
+> **Status:** `draft: true` (21 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`2 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -45,6 +45,8 @@
 
 **11:20** And all the people of the land rejoiced, and the city was quiet; but Athaliah was killed with the sword in the king's house.
 
+**11:21** And Joash was seven years old when he began to reign.
+
 ## Translator Notes
 
 - **11:2** — Vulgate 'furata est eum ... et nutricem ejus de triclinio' ("stole him ... and his nurse from the bedchamber") treats the bedchamber as the place from which the nurse was taken, whereas the Hebrew states that Jehosheba hid Joash and his nurse in the bedchamber.
@@ -52,3 +54,4 @@
 - **11:8** — Vulgate 'septum templi' ("the enclosure of the temple," also plural in 11:15) renders Hebrew 'sederot' ("ranks"), understanding the boundary as the temple precinct rather than the soldiers' lines.
 - **11:14** — Vulgate reads 'super tribunal' ("on the platform") and 'cantores' ("the singers") where the Hebrew Masoretic Text reads "by the pillar" and "the captains" (reflecting a different Hebrew vocalization).
 - **11:19** — Vulgate 'Cerethi et Phelethi legiones' ("the legions of the Cherethites and Pelethites") identifies the royal guard with David's famed corps, whereas the Hebrew Masoretic Text reads "the Carites and the guards."
+- **11:21** — Native Vulgate 2 Kings 11:21 maps to Saints.Bible 12:1, and native 12:1-21 map to Saints.Bible 12:2-22.

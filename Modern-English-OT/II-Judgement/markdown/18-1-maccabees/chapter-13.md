@@ -1,6 +1,6 @@
 # 1 Maccabees 13 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (53 verses, 7 translator notes)  
+> **Status:** `draft: true` (54 verses, 8 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Maccabees`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -109,7 +109,9 @@
 
 **13:52** And he decreed that every year these days should be observed with gladness.
 
-**13:53** And Simon saw his son John, that he was a valiant man of battle, and he appointed him commander of all the forces; and he lived in Gazara.
+**13:53** And he fortified the temple mountain, which was beside the citadel, and he himself lived there along with those who were with him.
+
+**13:54** And Simon saw his son John, that he was a valiant man of battle, and he appointed him commander of all the forces; and he lived in Gazara.
 
 ## Translator Notes
 
@@ -120,3 +122,4 @@
 - **13:37** — "The palm branch" translates the Vulgate's rare transliteration bahem (from Greek baine, "palm branch"), paired here with the golden crown.
 - **13:43** — The Vulgate names the city Gaza (Gazam), whereas the Greek Septuagint reads Gazara (compare Gazaris, "Gazara," in 13:53).
 - **13:45** — "Right hands" literally renders Latin dextras (also in 13:50), an idiom denoting pledges of peace or terms of surrender.
+- **13:53** — Native Vulgate 1 Maccabees 13:53 maps to Saints.Bible 13:52b, and native 13:54 maps to Saints.Bible 13:53.

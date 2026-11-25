@@ -11,7 +11,7 @@
 
 **48:3** And when he came in to him, he said, "God Almighty appeared to me in Luz, which is in the land of Canaan, and blessed me,
 
-**48:4** and said, 'I will increase and multiply you, and make you into companies of peoples; and I will give this land to you and to your seed after you as an everlasting possession.'
+**48:4** and said, 'I will increase and multiply you, and make you into multitudes of peoples; and I will give this land to you and to your seed after you as an everlasting possession.'
 
 **48:5** Therefore your two sons, who were born to you in the land of Egypt before I came here to you, will be mine; Ephraim and Manasseh, just like Reuben and Simeon, will be reckoned to me.
 
@@ -23,7 +23,7 @@
 
 **48:9** He answered, "They are my sons, whom God gave me in this place." "Bring them to me," he said, "so that I may bless them."
 
-**48:10** For the eyes of Israel had grown dim because of extreme old age, and he could not see clearly. And when they were brought near to him, having kissed and embraced them,
+**48:10** For the eyes of Israel were dim because of extreme old age, and he could not see clearly. And when they were brought near to him, having kissed and embraced them,
 
 **48:11** he said to his son, "I have not been deprived of the sight of you; furthermore, God has shown me your seed."
 
@@ -33,7 +33,7 @@
 
 **48:14** And stretching out his right hand, he placed it upon the head of Ephraim, the younger brother, and his left upon the head of Manasseh, who was older by birth, crossing his hands.
 
-**48:15** And he blessed his son Joseph, and said, "The God in whose presence my fathers Abraham and Isaac walked, the God who shepherds me from my youth up to the present day,
+**48:15** And Jacob blessed the sons of Joseph, and said, "The God in whose presence my fathers Abraham and Isaac walked, the God who shepherds me from my youth up to the present day,
 
 **48:16** the angel who rescued me from all evils, bless these boys; and let my name be invoked upon them, and also the names of my fathers Abraham and Isaac, and let them grow into a multitude upon the earth."
 
@@ -51,7 +51,7 @@
 
 ## Translator Notes
 
-- **48:7** — The Vulgate distinctly reads "and it was springtime" (eratque vernum tempus), whereas the Hebrew Masoretic Text refers to "some distance" still remaining to Ephrath; the Latin text also spells Ephrath as Eufratae in its second occurrence.
-- **48:11** — The Vulgate reads "I have not been deprived of the sight of you" (Non sum fraudatus aspectui tuo, agreeing with the Septuagint), whereas the Hebrew reads "I did not expect to see your face."
+- **48:7** — The Vulgate distinctly reads "and it was springtime" (eratque vernum tempus), whereas the Hebrew Masoretic Text refers to "some distance" still remaining to Ephrath.
+- **48:11** — The Vulgate reads "I have not been deprived of the sight of you" (Non sum fraudatus aspectu tuo, agreeing with the Septuagint), whereas the Hebrew reads "I did not expect to see your face."
 - **48:15** — The Vulgate reads "from my youth" (ab adolescentia mea, agreeing with the Septuagint), whereas the Hebrew reads "all my life."
 - **48:22** — The Vulgate translates the Hebrew term shekhem ("ridge/shoulder" or "Shechem") as "one portion" (partem unam).

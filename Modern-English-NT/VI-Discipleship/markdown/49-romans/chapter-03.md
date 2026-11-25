@@ -1,6 +1,6 @@
 # Romans 3 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes)  
+> **Status:** `draft: true` (31 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Romans`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -73,4 +73,5 @@
 - **3:9** — Where the debated Greek middle/passive verb can mean "are we better off?" or "are we worse off?", the Vulgate renders it actively with an explicit object, "præcellimus eos" ("do we surpass them?").
 - **3:22** — The Vulgate reads "in omnes et super omnes qui credunt in eum" ("to all and upon all who believe in Him"), including "upon all" and "in Him" which are absent from modern critical Greek texts. The genitive "fidem Jesu Christi" can be understood either objectively ("faith in Jesus Christ") or subjectively ("the faithfulness of Jesus Christ").
 - **3:25** — The Vulgate renders the rare Greek word "paresis" ("passing over") as "remissionem" ("remission" or "forgiveness").
+- **3:26** — The Latin genitive 'ex fide Jesu Christi' literally reads 'of the faith of Jesus Christ' and can be understood either objectively ('faith in Jesus Christ') or subjectively ('the faithfulness of Jesus Christ').
 - **3:30** — The Vulgate uses the present tense "justificat" ("justifies") where the Greek has a future ("will justify"), and preserves the prepositional shift from "ex fide" ("by faith") to "per fidem" ("through faith").

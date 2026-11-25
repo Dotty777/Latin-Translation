@@ -1,9 +1,11 @@
 # 1 Kings 3 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
+
+**3:1** Therefore the kingdom was established in the hand of Solomon, and he was joined in marriage alliance to Pharaoh, king of Egypt; for he took his daughter and brought her into the city of David, until he finished building his own house, and the house of the Lord, and the wall of Jerusalem all around.
 
 **3:2** However, the people were sacrificing on the high places, for a temple had not been built for the name of the Lord until that day.
 
@@ -61,6 +63,7 @@
 
 ## Translator Notes
 
+- **3:1** — Native Clementine Vulgate opens chapter 3 with Solomon's marriage alliance (grouped with 4:34 and 9:16 at Saints.Bible 5:14 following 3 Kingdoms).
 - **3:8** — Latin populi infiniti ("a boundless people") is a distinctive Vulgate rendering where the Hebrew reads "a great/numerous people."
 - **3:9** — Latin cor docile literally means "a teachable heart," differing from the Hebrew idiom "a listening heart"; Dabis is literally future indicative ("You will give") used with the force of a petition.
 - **3:13** — Latin cunctis retro diebus ("in all past days") is a distinctive Vulgate reading comparing Solomon to all earlier kings, whereas the Hebrew reads "all your days."

@@ -7,36 +7,18 @@
   "usfm_code": "NUM",
   "chapter": 35,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-22T08:01:44Z",
-  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
-  "versification_anchor": "Clem-Saints",
+  "updated_at": "2026-11-25T00:08:06Z",
+  "versification": "Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py.",
+  "versification_anchor": "Clem1598-USFX",
   "orthographic_base": "Clem1598-USFX",
   "versification_notes": [
-    "Clem1598-USFX: Source import repair, 35:1: 'in campes tribus Moab' → 'in campestribus Moab' (Swete prints in campestribus Moab (split-word typo in Clem1598-USFX; corroborated by Clem-Saints, VulgHetzenauer, VulgSistina, Stuttgart-BSV)). the words typed twice are kept once; no word was supplied. Original file unchanged.",
-    "Clem1598-USFX: 35:24 folded into verse 22 (the reference prints these words there)",
-    "Clem1598-USFX: 35:23 folded into verse 22 (the reference prints these words there)",
-    "Clem1598-USFX: 35:22 folded into verse 22 (the reference prints these words there)",
-    "Clem1598-USFX: 35:14 folded into verse 13 (the reference prints these words there)",
-    "Clem1598-USFX: 35:13 folded into verse 13 (the reference prints these words there)",
-    "Clem1598-USFX: 2 verse(s) re-aligned by content (13←35:15, 22←35:25)",
-    "VulgHetzenauer (1906): 35:24 folded into verse 22 (the reference prints these words there)",
-    "VulgHetzenauer (1906): 35:23 folded into verse 22 (the reference prints these words there)",
-    "VulgHetzenauer (1906): 35:22 folded into verse 22 (the reference prints these words there)",
-    "VulgHetzenauer (1906): 35:14 folded into verse 13 (the reference prints these words there)",
-    "VulgHetzenauer (1906): 35:13 folded into verse 13 (the reference prints these words there)",
-    "VulgHetzenauer (1906): 2 verse(s) re-aligned by content (13←35:15, 22←35:25)",
-    "VulgConte (2009): 35:24 folded into verse 22 (the reference prints these words there)",
-    "VulgConte (2009): 35:23 folded into verse 22 (the reference prints these words there)",
-    "VulgConte (2009): 35:22 folded into verse 22 (the reference prints these words there)",
-    "VulgConte (2009): 35:14 folded into verse 13 (the reference prints these words there)",
-    "VulgConte (2009): 35:13 folded into verse 13 (the reference prints these words there)",
-    "VulgConte (2009): 2 verse(s) re-aligned by content (13←35:15, 22←35:25)",
-    "VulgSistina (1590): 35:24 folded into verse 22 (the reference prints these words there)",
-    "VulgSistina (1590): 35:23 folded into verse 22 (the reference prints these words there)",
-    "VulgSistina (1590): 35:22 folded into verse 22 (the reference prints these words there)",
-    "VulgSistina (1590): 35:14 folded into verse 13 (the reference prints these words there)",
-    "VulgSistina (1590): 35:13 folded into verse 13 (the reference prints these words there)",
-    "VulgSistina (1590): 2 verse(s) re-aligned by content (13←35:15, 22←35:25)"
+    "Clem-Saints: verse 35:13 runs across the anchor's division between 35:13 and 35:14; re-divided there",
+    "Clem-Saints: verse 35:14 runs into its neighbour across the anchor's division between 35:14 and 35:15; re-divided there",
+    "Clem-Saints: verse 36:7 runs across the anchor's division between 36:7 and 36:8; re-divided there",
+    "Clem-Saints: verse 36:8 runs across the anchor's division between 36:8 and 36:9; re-divided there",
+    "Clem-Saints: verse 36:9 runs into its neighbour across the anchor's division between 36:9 and 36:10; re-divided there",
+    "Clem-Saints: 1 verse(s) re-aligned by content (25←35:22)",
+    "VulgConte (2009): verse 36:9 runs into its neighbour across the anchor's division between 36:9 and 36:10; re-divided there"
   ],
   "admitted_witnesses": [
     {
@@ -45,16 +27,16 @@
       "tier": 1,
       "weight": 0.88,
       "license": "Public Domain"
-    },
+    }
+  ],
+  "apparatus_witnesses": [
     {
       "siglum": "Clem-Saints",
       "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
       "tier": 1,
-      "weight": 0.86,
-      "license": "Public Domain"
-    }
-  ],
-  "apparatus_witnesses": [
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
     {
       "siglum": "VulgHetzenauer (1906)",
       "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
@@ -94,14 +76,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -122,14 +104,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -150,14 +132,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -178,14 +160,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -206,14 +188,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -234,14 +216,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -262,14 +244,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -290,7 +272,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -315,7 +297,7 @@
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -336,14 +318,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -364,14 +346,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -392,14 +374,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -420,14 +402,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -435,32 +417,83 @@
     {
       "id": 66283,
       "verse": 13,
-      "critical_text": "De ipsis autem urbibus, quæ ad fugitivorum subsidia separantur, tres erunt trans Jordanem, et tres in terra Chanaan, tam filiis Israël quam advenis atque peregrinis, ut confugiat ad eas qui nolens sanguinem fuderit.",
+      "critical_text": "De ipsis autem urbibus, quæ ad fugitivorum subsidia separantur,",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
-        "Clem1598-USFX": "De ipsis autem urbibus, quæ ad fugitivorum subsidia separantur, tres erunt trans Jordanem, et tres in terra Chanaan, tam filiis Israël quam advenis atque peregrinis, ut confugiat ad eas qui nolens sanguinem fuderit.",
-        "Clem-Saints": "De ipsis autem urbibus, quæ ad fugitivorum subsidia separantur, tres erunt trans Jordanem, et tres in terra Chanaan, tam filiis Israël quam advenis atque peregrinis, ut confugiat ad eas qui nolens sanguinem fuderit.",
-        "VulgHetzenauer (1906)": "De ipsis autem urbibus, quæ ad fugitivorum subsidia separantur, tres erunt trans Iordanem, et tres in Terra Chanaan, tam filiis Israel quam advenis atque peregrinis, ut confugiat ad eas qui nolens sanguinem fuderit.",
-        "VulgConte (2009)": "De ipsis autem urbibus, quæ ad fugitivorum subsidia separantur, tres erunt trans Iordanem, et tres in Terra Chanaan, tam filiis Israel quam advenis atque peregrinis, ut confugiat ad eas qui nolens sanguinem fuderit.",
-        "VulgSistina (1590)": "De ipsis autem urbibus, quae ad fugitivorum subsidia separantur, tres erunt trans Iordanem, et tres in Terra Chanaan, tam filiis Israel quam advenis atque peregrinis, ut confugiat ad eas qui nolens sanguinem fuderit."
+        "Clem1598-USFX": "De ipsis autem urbibus, quæ ad fugitivorum subsidia separantur,",
+        "Clem-Saints": "De ipsis autem urbibus, quæ ad fugitivorum subsidia separantur,",
+        "VulgHetzenauer (1906)": "De ipsis autem urbibus, quæ ad fugitivorum subsidia separantur,",
+        "VulgConte (2009)": "De ipsis autem urbibus, quæ ad fugitivorum subsidia separantur,",
+        "VulgSistina (1590)": "De ipsis autem urbibus, quae ad fugitivorum subsidia separantur,"
       },
       "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "35:15",
-        "VulgHetzenauer (1906)": "35:15",
-        "VulgConte (2009)": "35:15",
-        "VulgSistina (1590)": "35:15"
-      },
+      "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 35:15 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 477972,
+      "verse": 14,
+      "critical_text": "tres erunt trans Jordanem, et tres in terra Chanaan,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "tres erunt trans Jordanem, et tres in terra Chanaan,",
+        "Clem-Saints": "tres erunt trans Jordanem, et tres in terra Chanaan,",
+        "VulgHetzenauer (1906)": "tres erunt trans Iordanem, et tres in Terra Chanaan,",
+        "VulgConte (2009)": "tres erunt trans Iordanem, et tres in Terra Chanaan,",
+        "VulgSistina (1590)": "tres erunt trans Iordanem, et tres in Terra Chanaan,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 477973,
+      "verse": 15,
+      "critical_text": "tam filiis Israël quam advenis atque peregrinis, ut confugiat ad eas qui nolens sanguinem fuderit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "tam filiis Israël quam advenis atque peregrinis, ut confugiat ad eas qui nolens sanguinem fuderit.",
+        "Clem-Saints": "tam filiis Israël quam advenis atque peregrinis, ut confugiat ad eas qui nolens sanguinem fuderit.",
+        "VulgHetzenauer (1906)": "tam filiis Israel quam advenis atque peregrinis, ut confugiat ad eas qui nolens sanguinem fuderit.",
+        "VulgConte (2009)": "tam filiis Israel quam advenis atque peregrinis, ut confugiat ad eas qui nolens sanguinem fuderit.",
+        "VulgSistina (1590)": "tam filiis Israel quam advenis atque peregrinis, ut confugiat ad eas qui nolens sanguinem fuderit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -481,14 +514,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -509,14 +542,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -537,14 +570,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -565,7 +598,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -575,8 +608,8 @@
           "slot_index": -1,
           "lemma": "interficiet.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
           ],
@@ -601,7 +634,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -622,14 +655,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -650,14 +683,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -665,32 +698,136 @@
     {
       "id": 66290,
       "verse": 22,
-      "critical_text": "Quod si fortuitu, et absque odio et inimicitiis quidquam horum fecerit, et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quæstio ventilata: liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur.",
+      "critical_text": "Quod si fortuitu, et absque odio",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
       "witness_readings": {
-        "Clem1598-USFX": "Quod si fortuitu, et absque odio et inimicitiis quidquam horum fecerit, et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quæstio ventilata: liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur.",
-        "Clem-Saints": "Quod si fortuitu, et absque odio et inimicitiis quidquam horum fecerit, et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quæstio ventilata: liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur.",
-        "VulgHetzenauer (1906)": "Quod si fortuitu, et absque odio, et inimicitiis quidquam horum fecerit, et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quæstio ventilata: liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur.",
-        "VulgConte (2009)": "Quod si fortuitu, et absque odio, et inimicitiis quidquam horum fecerit, et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quæstio ventilata: liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur.",
-        "VulgSistina (1590)": "Quod si fortuitu, et absque odio, et inimicitiis quidquam horum fecerit, et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quaestio ventilata: liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur."
+        "Clem1598-USFX": "Quod si fortuitu, et absque odio",
+        "VulgHetzenauer (1906)": "Quod si fortuitu, et absque odio,",
+        "VulgConte (2009)": "Quod si fortuitu, et absque odio,",
+        "VulgSistina (1590)": "Quod si fortuitu, et absque odio,"
       },
       "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "35:25",
-        "VulgHetzenauer (1906)": "35:25",
-        "VulgConte (2009)": "35:25",
-        "VulgSistina (1590)": "35:25"
-      },
+      "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 35:25 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 477981,
+      "verse": 23,
+      "critical_text": "et inimicitiis quidquam horum fecerit,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et inimicitiis quidquam horum fecerit,",
+        "VulgHetzenauer (1906)": "et inimicitiis quidquam horum fecerit,",
+        "VulgConte (2009)": "et inimicitiis quidquam horum fecerit,",
+        "VulgSistina (1590)": "et inimicitiis quidquam horum fecerit,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 477982,
+      "verse": 24,
+      "critical_text": "et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quæstio ventilata:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quæstio ventilata:",
+        "VulgHetzenauer (1906)": "et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quæstio ventilata:",
+        "VulgConte (2009)": "et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quæstio ventilata:",
+        "VulgSistina (1590)": "et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quaestio ventilata:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 477983,
+      "verse": 25,
+      "critical_text": "liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur.",
+        "Clem-Saints": "Quod si fortuitu, et absque odio et inimicitiis quidquam horum fecerit, et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quæstio ventilata: liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur.",
+        "VulgHetzenauer (1906)": "liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur.",
+        "VulgConte (2009)": "liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur.",
+        "VulgSistina (1590)": "liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "35:22"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem1598-USFX",
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "Quod si fortuitu, et absque odio et inimicitiis quidquam horum fecerit, et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quæstio ventilata:",
+              "witnesses": [
+                "Clem-Saints"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 0,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -711,14 +848,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -739,14 +876,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -767,14 +904,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -795,14 +932,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -823,14 +960,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -851,14 +988,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -879,14 +1016,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -907,14 +1044,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -935,14 +1072,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false

@@ -1,6 +1,6 @@
 # Wisdom of Solomon 9 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (18 verses, 4 translator notes)  
+> **Status:** `draft: true` (19 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Wisdom of Solomon`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -39,11 +39,14 @@
 
 **9:17** And who will know Your mind, unless You give wisdom and send Your Holy Spirit from the highest places,
 
-**9:18** and thus the paths of those who are on earth are set straight, and men learn the things that please You? For through wisdom all who pleased You, Lord, from the beginning were healed."
+**9:18** and thus the paths of those who are on earth are set straight, and men learn the things that please You?
+
+**9:19** For through wisdom all who pleased You, Lord, from the beginning were healed."
 
 ## Translator Notes
 
 - **9:4** — Both here (sedium tuarum) and in 9:12 (sedium patris mei), the Vulgate preserves the plural "thrones" (a majestic plural matching Greek thronon), whereas 9:10 uses the singular sede.
 - **9:10** — Latin magnitudinis tuae ("of Your greatness") is a Vulgate-distinct reading where the Greek Septuagint has doxes sou ("of Your glory"); similarly, 9:11 reads potentia ("power") where Greek has doxe ("glory").
 - **9:16** — Latin in prospectu ("in view") is a Vulgate-distinct reading where the Greek Septuagint has en chersin ("in our hands" or "close at hand").
-- **9:18** — Latin sanati sunt ("were healed") and the concluding phrase quicumque placuerunt tibi, Domine, a principio ("all who pleased You, Lord, from the beginning") are Vulgate-distinct readings compared with the shorter Greek Septuagint text ("by wisdom they were saved").
+- **9:18** — Native Vulgate splits Saints/Greek 9:18 across native 9:18 and 9:19 (closing Solomon's prayer opened in 9:1 at the end of 9:19).
+- **9:19** — Native Vulgate 9:19 corresponds to the closing clause of Saints/Greek 9:18. Latin sanati sunt ("were healed") and quicumque placuerunt tibi, Domine, a principio ("all who pleased You, Lord, from the beginning") are Vulgate-distinct readings compared with the shorter Greek Septuagint text ("by wisdom they were saved").

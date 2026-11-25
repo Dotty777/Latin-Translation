@@ -21,9 +21,9 @@
 
 **49:8** Judah, your brothers will praise you; your hand will be upon the necks of your enemies; the sons of your father will bow down to you.
 
-**49:9** A lion's cub is Judah; from the prey, my son, you have gone up; resting, you lay down like a lion, and like a lioness; who will rouse him?
+**49:9** A lion's cub is Judah; to the prey, my son, you have gone up; resting, you lay down like a lion, and like a lioness; who will rouse him?
 
-**49:10** The scepter will not be removed from Judah, nor a leader from his thighs, until the one who is to be sent comes, and he himself will be the expectation of the nations.
+**49:10** The scepter will not be removed from Judah, nor a leader from his thigh, until the one who is to be sent comes, and he himself will be the expectation of the nations.
 
 **49:11** Tying his foal to the vineyard, and to the vine, my son, his female donkey, he will wash his robe in wine and his cloak in the blood of the grape.
 
@@ -35,7 +35,7 @@
 
 **49:15** And he saw rest, that it was good, and the land, that it was the best; and he submitted his shoulder to carrying, and became a servant to tributes.
 
-**49:16** Dan will judge his people just like another tribe of Israel.
+**49:16** Dan will judge his people just like another tribe in Israel.
 
 **49:17** Let Dan be a snake in the road, a horned viper in the path, biting the hooves of the horse so that its rider falls backward.
 
@@ -59,15 +59,15 @@
 
 **49:27** Benjamin is a ravenous wolf; in the morning he will eat the prey, and in the evening he will divide the spoils."
 
-**49:28** All these are in the twelve tribes of Israel; these things their father spoke to them, and he blessed each of the twelve with their own blessings.
+**49:28** All these are in the twelve tribes of Israel; these things their father spoke to them, and he blessed each one with their own blessings.
 
 **49:29** And he commanded them, saying, "I am being gathered to my people; bury me with my fathers in the double cave which is in the field of Ephron the Hittite,
 
 **49:30** opposite Mamre in the land of Canaan, which Abraham bought with the field from Ephron the Hittite as the possession of a burial place.
 
-**49:31** There they buried him and Sarah his wife; there Isaac was buried with Rebekah his spouse; and there Leah also was interred."
+**49:31** There they buried him and Sarah his wife; there Isaac was buried with Rebekah his spouse; and there Leah also lies buried."
 
-**49:33** And when the commands with which he was instructing his sons were finished, he drew his feet up onto the bed and died, and he was added to his people.
+**49:32** And when the commands with which he was instructing his sons were finished, he drew his feet up onto the bed and died, and he was added to his people.
 
 ## Translator Notes
 
@@ -75,4 +75,4 @@
 - **49:10** — The Vulgate renders the difficult Hebrew word shiloh as "the one who is to be sent" (qui mittendus est, linking it to shalach, "to send") and reads "the expectation of the nations" (expectatio gentium, agreeing with the Septuagint against the Hebrew "obedience of the peoples").
 - **49:22** — The Vulgate translates the difficult Hebrew imagery literally in human terms ("a growing son ... handsome in appearance; the daughters ran about upon the wall"), whereas the Hebrew is commonly understood of a fruitful vine beside a spring whose branches climb over a wall.
 - **49:26** — The Vulgate distinctly reads "until the desire of the eternal hills should come" (donec veniret desiderium collium æternorum, taking Hebrew ta'avah as "desire" rather than "utmost bound") and renders Hebrew nezir ("one set apart") as "Nazirite" (Nazaræi).
-- **49:31** — Verse 49:32 (present in the Hebrew Masoretic Text, stating that the field and cave were bought from the sons of Heth) is absent from the Clementine Vulgate, which proceeds directly from 49:31 to 49:33.
+- **49:31** — The clause numbered 49:32 in the Hebrew Masoretic Text (stating that the field and cave were bought from the sons of Heth) is absent from the Clementine Vulgate, so native Vulgate 49:32 corresponds to Saints.Bible 49:33.

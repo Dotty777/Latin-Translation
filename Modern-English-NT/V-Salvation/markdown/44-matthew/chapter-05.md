@@ -11,9 +11,9 @@
 
 **5:3** "Blessed are the poor in spirit, because the kingdom of heaven is theirs.
 
-**5:4** Blessed are those who mourn, because they will be comforted.
+**5:4** Blessed are the meek, because they will possess the earth.
 
-**5:5** Blessed are the meek, because they will possess the earth.
+**5:5** Blessed are those who mourn, because they will be comforted.
 
 **5:6** Blessed are those who hunger and thirst for righteousness, because they will be satisfied.
 
@@ -103,7 +103,7 @@
 
 ## Translator Notes
 
-- **5:5** — Latin possidebunt ("will possess") reflects the Vulgate wording rather than the Greek verb meaning "inherit."
+- **5:4** — Native Vulgate Matthew 5:4-5 place the beatitude of the meek at 5:4 and those who mourn at 5:5 (reverse of Saints.Bible Greek order 5:5 and 5:4). Latin possidebunt ("will possess") reflects the Vulgate wording rather than the Greek verb meaning "inherit."
 - **5:21** — Latin occides ... occiderit means "kill," rendered the same way as non occides in Mark 10:19 and Luke 18:20; in Matthew 19:18 the Vulgate instead reads homicidium ("murder").
 - **5:22** — Raca is an Aramaic term of contempt, and gehennae ignis ("the Gehenna of fire") retains the Latin loanword referring to the Valley of Hinnom as an image of fiery judgment.
 - **5:26** — A quadrans was the smallest Roman bronze coin, worth one-quarter of an as.

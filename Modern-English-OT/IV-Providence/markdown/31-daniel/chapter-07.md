@@ -1,6 +1,6 @@
 # Daniel 7 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -66,5 +66,6 @@
 - **7:4** — Vulgate 'leaena' distinctly reads 'lioness' (feminine, matching Latin 'bestia'), whereas the Aramaic has 'lion.'
 - **7:5** — Vulgate 'tres ordines ... in ore ejus, et in dentibus ejus' ('three rows in its mouth and in its teeth') differs distinctly from the Aramaic 'three ribs in its mouth between its teeth.'
 - **7:10** — Vulgate 'decies millies centena millia' literally states 'ten thousand times a hundred thousand' (one billion), whereas the Aramaic reads 'ten thousand times ten thousand' (one hundred million).
-- **7:14** — Vulgate 'Et dedit ei' uses an active verb ('And He gave Him,' with the Ancient of Days as implied subject), whereas the Aramaic reads passively 'was given.'
+- **7:13** — Latin quasi filius hominis ('like a son of man') is lowercase; capitalization of 'Son of Man' and its pronouns follows traditional messianic reading and is subject to edition-wide policy.
+- **7:14** — Vulgate 'Et dedit ei' uses an active verb ('And He gave Him,' with the Ancient of Days as implied subject), whereas the Aramaic reads passively 'was given.' Capitalization of pronouns referring to the figure of 7:13 follows traditional messianic interpretation.
 - **7:19** — Vulgate 'dentes et ungues ejus ferrei' makes both the fourth beast's teeth and claws iron, omitting the Aramaic detail that its claws were bronze; similarly, 7:17, 7:23, and 7:24 read 'four kingdoms,' 'greater,' and 'more powerful' where the Aramaic reads 'four kings' and 'different.'

@@ -1,6 +1,6 @@
 # Proverbs 15 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes, 2 additional)  
+> **Status:** `draft: true` (33 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,26 +59,22 @@
 
 **15:27** The one who pursues greed throws his own house into turmoil, but the one who hates bribes will live. Through mercy and faith sins are cleansed, and through the fear of the Lord everyone turns away from evil.
 
-**15:28** The mind of the righteous meditates on obedience; the mouth of the wicked overflows with evil things. When the ways of a man please the Lord, He will turn even his enemies to peace.
+**15:28** The mind of the righteous meditates on obedience; the mouth of the wicked overflows with evil things.
 
-**15:29** The Lord is far away from the wicked, and He will hear the prayers of the righteous. A little with righteousness is better than many fruits with unrighteousness.
+**15:29** The Lord is far away from the wicked, and He will hear the prayers of the righteous.
 
 **15:30** The light of the eyes gladdens the soul; a good report fattens the bones.
+
+**15:31** The ear that listens to the rebukes of life will dwell in the midst of the wise.
 
 **15:32** The one who casts aside discipline despises his own soul, but the one who yields to rebukes is a possessor of a heart.
 
 **15:33** The fear of the Lord is the discipline of wisdom, and humility precedes glory.
-
-## Additional Verses (Not in Saints Numbering)
-
-**15:31** *(after `15:30`)* The ear that listens to the rebukes of life will dwell in the midst of the wise.
-
-**16:1** *(after `15:33`)* It belongs to a man to prepare the soul, and to the Lord to govern the tongue.
 
 ## Translator Notes
 
 - **15:5** — The second sentence ('In abundant righteousness... will be uprooted') is a Vulgate reading derived from the Septuagint tradition and is absent from the Hebrew Masoretic Text.
 - **15:11** — Latin 'infernus' denotes the lower realm or underworld (the abode of the dead, also in 15:24 'inferno novissimo'), corresponding to Hebrew Sheol.
 - **15:16** — Vulgate reads 'insatiabiles' ('insatiable'), whereas the Hebrew Masoretic Text reads 'with turmoil.'
-- **15:27** — The second sentence here is a Septuagint-derived addition in the Vulgate corresponding to Hebrew 16:6 (the Latin also gives that proverb at 16:6). The second sentences of 15:28 and 15:29 are numbered 16:7 and 16:8 in the Latin text and stand here following the Septuagint arrangement.
-- **15:28** — Vulgate reads 'obedientiam' ('obedience'), whereas the Hebrew Masoretic Text reads 'how to answer.'
+- **15:27** — The second sentence here is a Septuagint-derived addition in the Vulgate corresponding to Hebrew 16:6 (the Latin also gives that proverb at 16:6).
+- **15:28** — Vulgate reads 'obedientiam' ('obedience'), whereas the Hebrew Masoretic Text reads 'how to answer.' Native 16:7 stands in chapter 16 (joined to 15:28 in Saints.Bible). The second sentence of 15:27 is a Septuagint-derived addition in the Vulgate corresponding to 16:6. In native Vulgate order, 15:28 ('The mind of the righteous...') and 15:29 ('The Lord is far away...') stand separately from 16:1, 16:3, 16:4, 16:6, 16:7 ('When the ways of a man please the Lord, He will turn even his enemies to peace.'), 16:8 ('A little with righteousness is better than many fruits with unrighteousness.'), and restored 16:9, whereas Saints/Septuagint merges 16:7-8 into 15:28-29.

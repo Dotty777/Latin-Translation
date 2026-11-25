@@ -1,6 +1,6 @@
 # Isaiah 59 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (21 verses, 4 translator notes)  
+> **Status:** `draft: true` (21 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Isaiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -53,3 +53,4 @@
 - **59:10** — Vulgate 'in caliginosis' ("in gloomy places") interprets an obscure Hebrew word that may mean "among the vigorous" or "in desolate places."
 - **59:11** — Vulgate 'quasi columbæ meditantes' ("like meditating doves") reflects the primary sense of the Hebrew verb 'hagah', which can mean either "to meditate" or "to murmur/coo."
 - **59:16** — Vulgate 'aporiatus est' ("He was perplexed") borrows the Greek verb 'aporeo' ("to be at a loss") to translate the Hebrew verb for being appalled or astonished.
+- **59:20** — Latin redemptor ('a redeemer') is lowercase; capitalization as 'a Redeemer' reflects traditional messianic reading and is subject to edition-wide policy.

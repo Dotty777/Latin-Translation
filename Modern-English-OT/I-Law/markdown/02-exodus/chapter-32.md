@@ -1,6 +1,6 @@
 # Exodus 32 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (34 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (35 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -20,6 +20,8 @@
 **32:7** Now the Lord spoke to Moses, saying, "Go, go down; your people, whom you led out of the land of Egypt, have sinned.
 
 **32:8** They have quickly departed from the way that you showed them; and they have made for themselves a cast calf, and worshiped it, and sacrificing offerings to it, they said, 'These are your gods, Israel, who led you out of the land of Egypt.'"
+
+**32:9** And once again the Lord said to Moses, "I perceive that this people is stiff-necked.
 
 **32:10** Leave Me alone, so that My fury may rage against them and I may blot them out, and I will make you into a great nation."
 
@@ -72,10 +74,6 @@
 **32:34** but as for you, go and lead this people where I have spoken to you; My angel will go ahead of you. Yet on the day of vengeance I Myself will also punish this sin of theirs."
 
 **32:35** Therefore the Lord struck the people for the guilt of the calf that Aaron had made.
-
-## Additional Verses (Not in Saints Numbering)
-
-**32:9** *(after `32:8`)* And once again the Lord said to Moses, "I perceive that this people is stiff-necked.
 
 ## Translator Notes
 

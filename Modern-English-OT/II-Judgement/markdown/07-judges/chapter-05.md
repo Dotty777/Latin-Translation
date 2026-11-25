@@ -1,6 +1,6 @@
 # Judges 5 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (32 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Judges`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -67,9 +67,7 @@
 
 **5:31** So may all Your enemies perish, Lord; but those who love You, just as the sun shines at its rising, so may they shine brightly."
 
-## Additional Verses (Not in Saints Numbering)
-
-**5:32** *(after `5:31`)* And the land rested for forty years.
+**5:32** And the land rested for forty years.
 
 ## Translator Notes
 

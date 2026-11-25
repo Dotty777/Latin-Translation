@@ -1,8 +1,8 @@
 # Nehemiah 07 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:43Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -122,8 +113,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Nehemiah 7:12
-- **Apparatus:** `ducenti` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **octigenti** VulgSistina (1590)
-- **Apparatus:** `ducenti quinquaginta quatuor:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **octigenti quinquagintaquattuor:** VulgSistina (1590)
+- **Apparatus:** `ducenti` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **octigenti** VulgSistina (1590)
+- **Apparatus:** `ducenti quinquaginta quatuor:` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **octigenti quinquagintaquattuor:** VulgSistina (1590)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quinquaginta quatuor: / quinquagintaquattuor:`, `quinquaginta quatuor: / quinquagintaquattuor:` (VulgConte (2009), VulgHetzenauer (1906)) — *Apparatus witness, not a variant: Word division differs, with a spelling difference*
 
 ### Nehemiah 7:13
@@ -217,8 +208,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quadraginta duo. / quadragintaduo.`, `quadraginta duo. / quadragintaduo.`, `quadraginta duo. / quadragintaduo.` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:66
-- **Apparatus:** `millia trecenti` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **milia sescenti** VulgSistina (1590)
-- **Apparatus:** `trecenti` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **sexcenti** VulgSistina (1590)
+- **Apparatus:** `millia trecenti` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **milia sescenti** VulgSistina (1590)
+- **Apparatus:** `trecenti` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **sexcenti** VulgSistina (1590)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quadraginta duo / quadragintaduo`, `quadraginta duo / quadragintaduo`, `quadraginta duo / quadragintaduo` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Nehemiah 7:67
@@ -244,7 +235,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Postquam autem ædificatus est murus, et posui valvas, et recensui ianitores, et cantores, et Levitas:
   - `VulgConte (2009)`: Postquam autem ædificatus est murus, et posui valvas, et recensui ianitores, et cantores, et Levitas:
   - `VulgSistina (1590)`: Postquam autem aedificatus est murus, et posui valvas, et recensui ianitores, et cantores, et Levitas:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** præcepi Hanani fratri meo, et Hananiæ principi domus de Jerusalem (ipse enim quasi vir verax et timens Deum plus ceteris videbatur),
@@ -253,7 +244,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: præcepi Hanani fratri meo, et Hananiæ principi domus de Ierusalem (ipse enim quasi vir verax et timens Deum plus ceteris videbatur)
   - `VulgConte (2009)`: præcepi Hanani fratri meo, et Hananiæ principi domus de Ierusalem (ipse enim quasi vir verax et timens Deum plus ceteris videbatur)
   - `VulgSistina (1590)`: praecepi Hanani fratri meo, et Hananiae principi domus de Ierusalem (ipse enim quasi vir verax et timens Deum plus ceteris videbatur)
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et dixi eis: Non aperiantur portæ Jerusalem usque ad calorem solis. Cumque adhuc assisterent, clausæ portæ sunt, et oppilatæ: et posui custodes de habitatoribus Jerusalem, singulos per vices suas, et unumquemque contra domum suam.
@@ -262,7 +253,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et dixi eis: Non aperiantur portæ Ierusalem usque ad calorem solis. Cumque adhuc assisterent, clausæ portæ sunt, et oppilatæ: et posui custodes de habitatoribus Ierusalem, singulos per vices suas, et unumquemque contra domum suam.
   - `VulgConte (2009)`: et dixi eis: Non aperiantur portæ Ierusalem usque ad calorem solis. Cumque adhuc assisterent, clausæ portæ sunt, et oppilatæ: et posui custodes de habitatoribus Ierusalem, singulos per vices suas, et unumquemque contra domum suam.
   - `VulgSistina (1590)`: et dixi eis: Non aperiantur portae Ierusalem usque ad calorem solis. Cumque adhuc assisterent, clausae portae sunt, et oppilatae: et posui custodes de habitatoribus Ierusalem, singulos per vices suas, et unumquemque contra domum suam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Civitas autem erat lata nimis et grandis, et populus parvus in medio ejus, et non erant domus ædificatæ.
@@ -271,7 +262,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Civitas autem erat lata nimis et grandis, et populus parvus in medio eius, et non erant domus ædificatæ.
   - `VulgConte (2009)`: Civitas autem erat lata nimis et grandis, et populus parvus in medio eius, et non erant domus ædificatæ.
   - `VulgSistina (1590)`: Civitas autem erat lata nimis et grandis, et populus parvus in medio eius, et non erant domus aedificatae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Deus autem dedit in corde meo, et congregavi optimates, et magistratus, et vulgus, ut recenserem eos: et inveni librum census eorum qui ascenderant primum, et inventum est scriptum in eo.
@@ -280,7 +271,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Deus autem dedit in corde meo, et congregavi optimates, et magistratus, et vulgus, ut recenserem eos: et inveni librum census eorum, qui ascenderant primum, et inventum est scriptum in eo.
   - `VulgConte (2009)`: Deus autem dedit in corde meo, et congregavi optimates, et magistratus, et vulgus, ut recenserem eos: et inveni librum census eorum, qui ascenderant primum, et inventum est scriptum in eo.
   - `VulgSistina (1590)`: Deus autem dedit in corde meo, et congregavi optimates, et magistratus, et vulgus, ut recenserem eos: et inveni librum census eorum, qui ascenderant primum, et inventum est scriptum in eo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Isti filii provinciæ, qui ascenderunt de captivitate migrantium, quos transtulerat Nabuchodonosor rex Babylonis, et reversi sunt in Jerusalem et in Judæam, unusquisque in civitatem suam.
@@ -289,7 +280,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Isti filii provinciæ, qui ascenderunt de captivitate migrantium, quos transtulerat Nabuchodonosor rex Babylonis, et reversi sunt in Ierusalem, et in Iudæam, unusquisque in civitatem suam.
   - `VulgConte (2009)`: Isti filii provinciæ, qui ascenderunt de captivitate migrantium, quos transtulerat Nabuchodonosor rex Babylonis, et reversi sunt in Ierusalem, et in Iudæam, unusquisque in civitatem suam.
   - `VulgSistina (1590)`: Isti filii provinciae, qui ascenderunt de captivitate migrantium, quos transtulerat Nabuchodonosor rex Babylonis, et reversi sunt in Ierusalem, et in Iudaeam, unusquisque in civitatem suam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui venerunt cum Zorobabel, Josue, Nehemias, Azarias, Raamias, Nahamani, Mardochæus, Belsam, Mespharath, Begoai, Nahum, Baana. Numerus virorum populi Israël:
@@ -298,7 +289,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Qui venerunt cum Zorobabel, Iosue, Nehemias, Azarias, Raamias, Nahamani, Mardochæus, Belsam, Mespharath, Begoai, Nahum, Baana. Numerus virorum populi Israel:
   - `VulgConte (2009)`: Qui venerunt cum Zorobabel, Iosue, Nehemias, Azarias, Raamias, Nahamani, Mardochæus, Belsam, Mespharath, Begoai, Nahum, Baana. Numerus virorum populi Israel:
   - `VulgSistina (1590)`: Qui venerunt cum Zorobabel, Iosue, Nehemias, Azarias, Raamias, Nahamani, Mardochaeus, Belsam, Mespharath, Begoai, Nahum, Baana. Numerus virorum populi Israel:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Pharos, duo millia centum septuaginta duo:
@@ -307,7 +298,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Pharos, duo millia centum septuaginta duo:
   - `VulgConte (2009)`: Filii Pharos, duo millia centum septuaginta duo:
   - `VulgSistina (1590)`: Filii Pharos, duo millia centum septuaginta duo:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Saphatia, trecenti septuaginta duo:
@@ -316,7 +307,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Saphatia, trecenti septuaginta duo:
   - `VulgConte (2009)`: Filii Saphatia, trecenti septuaginta duo:
   - `VulgSistina (1590)`: Filii Saphatia, trecenti septuaginta duo:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Area, sexcenti quinquaginta duo:
@@ -325,7 +316,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Area, sexcenti quinquaginta duo:
   - `VulgConte (2009)`: Filii Area, sexcenti quinquaginta duo:
   - `VulgSistina (1590)`: Filii Area, sexcenti quinquaginta duo:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Phahathmoab filiorum Josue et Joab, duo millia octingenti decem et octo:
@@ -334,7 +325,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Phahathmoab filiorum Iosue et Ioab, duo millia octingenti decem et octo:
   - `VulgConte (2009)`: Filii Phahathmoab filiorum Iosue et Ioab, duo millia octingenti decem et octo:
   - `VulgSistina (1590)`: Filii Phahathmoab filiorum Iosue et Ioab, duo millia octingenti decem et octo:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Ælam, mille ducenti quinquaginta quatuor:
@@ -343,7 +334,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Ælam, mille ducenti quinquagintaquattuor:
   - `VulgConte (2009)`: Filii Ælam, mille ducenti quinquagintaquattuor:
   - `VulgSistina (1590)`: Filii Aelam, mille octigenti quinquagintaquattuor:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Zethua, octingenti quadraginta quinque:
@@ -352,7 +343,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Zethua, octingenti quadragintaquinque:
   - `VulgConte (2009)`: Filii Zethua, octingenti quadragintaquinque:
   - `VulgSistina (1590)`: Filii Zethua, octingenti quadragintaquinque:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Zachai, septingenti sexaginta:
@@ -361,7 +352,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Zachai, septingenti sexaginta:
   - `VulgConte (2009)`: Filii Zachai, septingenti sexaginta:
   - `VulgSistina (1590)`: Filii Zachai, septingenti sexaginta:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Bannui, sexcenti quadraginta octo:
@@ -370,7 +361,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Bannui, sexcenti quadragintaocto:
   - `VulgConte (2009)`: Filii Bannui, sexcenti quadragintaocto:
   - `VulgSistina (1590)`: Filii Bannui, sexcenti quadragintaocto:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Bebai, sexcenti viginti octo:
@@ -379,7 +370,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Bebai, sexcenti vigintiocto:
   - `VulgConte (2009)`: Filii Bebai, sexcenti vigintiocto:
   - `VulgSistina (1590)`: Filii Bebai, sexcenti vigintiocto:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Azgad, duo millia trecenti viginti duo:
@@ -388,7 +379,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Azgad, duo millia trecenti vigintiduo:
   - `VulgConte (2009)`: Filii Azgad, duo millia trecenti vigintiduo:
   - `VulgSistina (1590)`: Filii Azgad, duo millia trecenti vigintiduo:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Adonicam, sexcenti sexaginta septem:
@@ -397,7 +388,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Adonicam, sexcenti sexagintaseptem:
   - `VulgConte (2009)`: Filii Adonicam, sexcenti sexagintaseptem:
   - `VulgSistina (1590)`: Filii Adonicam, sexcenti sexagintaseptem:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Beguai, duo millia sexaginta septem:
@@ -406,7 +397,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Beguai, duo millia sexagintaseptem:
   - `VulgConte (2009)`: Filii Beguai, duo millia sexagintaseptem:
   - `VulgSistina (1590)`: Filii Beguai, duo millia sexagintaseptem:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Adin, sexcenti quinquaginta quinque:
@@ -415,7 +406,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Adin, sexcenti quinquagintaquinque:
   - `VulgConte (2009)`: Filii Adin, sexcenti quinquagintaquinque:
   - `VulgSistina (1590)`: Filii Adin, sexcenti quinquagintaquinque:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Ater, filii Hezeciæ, nonaginta octo:
@@ -424,7 +415,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Ater, filii Hezeciæ, nonagintaocto:
   - `VulgConte (2009)`: Filii Ater, filii Hezeciæ, nonagintaocto:
   - `VulgSistina (1590)`: Filii Ater, filii Hezeciae, nonagintaocto:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Hasem, trecenti viginti octo:
@@ -433,7 +424,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Hasem, trecenti vigintiocto:
   - `VulgConte (2009)`: Filii Hasem, trecenti vigintiocto:
   - `VulgSistina (1590)`: Filii Hasem, trecenti vigintiocto:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Besai, trecenti viginti quatuor:
@@ -442,7 +433,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Besai, trecenti vigintiquattuor:
   - `VulgConte (2009)`: Filii Besai, trecenti vigintiquattuor:
   - `VulgSistina (1590)`: Filii Besai, trecenti vigintiquattuor:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Hareph, centum duodecim:
@@ -451,7 +442,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Hareph, centum duodecim:
   - `VulgConte (2009)`: Filii Hareph, centum duodecim:
   - `VulgSistina (1590)`: Filii Hareph, centum duodecim:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Gabaon, nonaginta quinque:
@@ -460,7 +451,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Gabaon, nonagintaquinque:
   - `VulgConte (2009)`: Filii Gabaon, nonagintaquinque:
   - `VulgSistina (1590)`: Filii Gabaon, nonagintaquinque:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Bethlehem et Netupha, centum octoginta octo.
@@ -469,7 +460,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Bethlehem, et Netupha, centum octogintaocto.
   - `VulgConte (2009)`: Filii Bethlehem, et Netupha, centum octogintaocto.
   - `VulgSistina (1590)`: Filii Bethlehem, et Netupha, centum octogintaocto.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Viri Anathoth, centum viginti octo.
@@ -478,7 +469,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Viri Anathoth, centum vigintiocto.
   - `VulgConte (2009)`: Viri Anathoth, centum vigintiocto.
   - `VulgSistina (1590)`: Viri Anathoth, centum vigintiocto.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Viri Bethazmoth, quadraginta duo.
@@ -487,7 +478,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Viri Bethazmoth, quadragintaduo.
   - `VulgConte (2009)`: Viri Bethazmoth, quadragintaduo.
   - `VulgSistina (1590)`: Viri Bethazmoth, quadragintaduo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Viri Cariathiarim, Cephira, et Beroth, septingenti quadraginta tres.
@@ -496,7 +487,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Viri Cariathiarim, Cephira, et Beroth, septingenti quadragintatres.
   - `VulgConte (2009)`: Viri Cariathiarim, Cephira, et Beroth, septingenti quadragintatres.
   - `VulgSistina (1590)`: Viri Cariathiarim, Cephira, et Beroth, septingenti quadragintatres.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Viri Rama et Geba, sexcenti viginti unus.
@@ -505,7 +496,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Viri Rama et Geba, sexcenti vigintiunus.
   - `VulgConte (2009)`: Viri Rama et Geba, sexcenti vigintiunus.
   - `VulgSistina (1590)`: Viri Rama et Geba, sexcenti vigintiunus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Viri Machmas, centum viginti duo.
@@ -514,7 +505,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Viri Machmas, centum vigintiduo.
   - `VulgConte (2009)`: Viri Machmas, centum vigintiduo.
   - `VulgSistina (1590)`: Viri Machmas, centum vigintiduo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Viri Bethel et Hai, centum viginti tres.
@@ -523,7 +514,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Viri Bethel et Hai, centum vigintitres.
   - `VulgConte (2009)`: Viri Bethel et Hai, centum vigintitres.
   - `VulgSistina (1590)`: Viri Bethel et Hai, centum vigintitres.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Viri Nebo alterius, quinquaginta duo.
@@ -532,7 +523,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Viri Nebo alterius, quinquagintaduo.
   - `VulgConte (2009)`: Viri Nebo alterius, quinquagintaduo.
   - `VulgSistina (1590)`: Viri Nebo alterius, quinquagintaduo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 34 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Viri Ælam alterius, mille ducenti quinquaginta quatuor.
@@ -541,7 +532,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Viri Ælam alterius, mille ducenti quinquagintaquattuor.
   - `VulgConte (2009)`: Viri Ælam alterius, mille ducenti quinquagintaquattuor.
   - `VulgSistina (1590)`: Viri Aelam alterius, mille ducenti quinquagintaquattuor.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 35 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii Harem, trecenti viginti.
@@ -550,7 +541,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Harem, trecenti viginti.
   - `VulgConte (2009)`: Filii Harem, trecenti viginti.
   - `VulgSistina (1590)`: Filii Harem, trecenti viginti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 36 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii Jericho, trecenti quadraginta quinque.
@@ -559,7 +550,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Iericho, trecenti quadragintaquinque.
   - `VulgConte (2009)`: Filii Iericho, trecenti quadragintaquinque.
   - `VulgSistina (1590)`: Filii Iericho, trecenti quadragintaquinque.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 37 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii Lod Hadid et Ono, septingenti viginti unus.
@@ -568,7 +559,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Lod Hadid et Ono, septingenti vigintiunus.
   - `VulgConte (2009)`: Filii Lod, Hadid et Ono, septingenti vigintiunus.
   - `VulgSistina (1590)`: Filii Lod Hadid et Ono, septingenti vigintiunus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 38 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii Senaa, tria millia nongenti triginta.
@@ -577,7 +568,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Senaa, tria millia nongenti triginta.
   - `VulgConte (2009)`: Filii Senaa, tria millia nongenti triginta.
   - `VulgSistina (1590)`: Filii Senaa, tria millia nongenti triginta.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 39 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sacerdotes: filii Idaia in domo Josue, nongenti septuaginta tres.
@@ -586,7 +577,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sacerdotes: Filii Idaia in domo Iosue, nongenti septuagintatres.
   - `VulgConte (2009)`: Sacerdotes: Filii Idaia in domo Iosue, nongenti septuagintatres.
   - `VulgSistina (1590)`: Sacerdotes: Filii Idaia in domo Iosue, nongenti septuagintatres.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 40 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii Emmer, mille quinquaginta duo.
@@ -595,7 +586,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Emmer, mille quinquagintaduo.
   - `VulgConte (2009)`: Filii Emmer, mille quinquagintaduo.
   - `VulgSistina (1590)`: Filii Emmer, mille quinquagintaduo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 41 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii Phashur, mille ducenti quadraginta septem.
@@ -604,7 +595,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Phashur, mille ducenti quadragintaseptem.
   - `VulgConte (2009)`: Filii Phashur, mille ducenti quadragintaseptem.
   - `VulgSistina (1590)`: Filii Phashur, mille ducenti quadragintaseptem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 42 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii Arem, mille decem et septem. Levitæ:
@@ -613,7 +604,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Arem, mille decem et septem. Levitæ:
   - `VulgConte (2009)`: Filii Arem, mille decem et septem. Levitæ:
   - `VulgSistina (1590)`: Filii Arem, mille decem et septem. Levitae:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 43 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Josue et Cedmihel filiorum
@@ -622,7 +613,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Iosue et Cedmihel filiorum
   - `VulgConte (2009)`: Filii Iosue et Cedmihel filiorum
   - `VulgSistina (1590)`: Filii Iosue et Cedmihel filiorum
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 44 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Oduiæ, septuaginta quatuor. Cantores:
@@ -631,7 +622,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Oduiæ, septuagintaquattuor. Cantores:
   - `VulgConte (2009)`: Oduiæ, septuagintaquattuor. Cantores:
   - `VulgSistina (1590)`: Oduiae, septuagintaquattuor. Cantores:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 45 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Asaph, centum quadraginta octo.
@@ -640,7 +631,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Asaph, centum quadragintaocto.
   - `VulgConte (2009)`: Filii Asaph, centum quadragintaocto.
   - `VulgSistina (1590)`: Filii Asaph, centum quadragintaocto.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 46 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Janitores: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatita, filii Sobai: centum triginta octo.
@@ -649,7 +640,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ianitores: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatita, filii Sobai: centum trigintaocto.
   - `VulgConte (2009)`: Ianitores: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatita, filii Sobai: centum trigintaocto.
   - `VulgSistina (1590)`: Ianitores: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatita, filii Sobai: centum trigintaocto.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 47 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nathinæi: filii Soha, filii Hasupha, filii Tebbaoth,
@@ -658,7 +649,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nathinæi: filii Soha, filii Hasupha, filii Tebbaoth,
   - `VulgConte (2009)`: Nathinæi: filii Soha, filii Hasupha, filii Tebbaoth,
   - `VulgSistina (1590)`: Nathinaei: filii Soha, filii Hasupha, filii Tebbaoth,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 48 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Ceros, filii Siaa, filii Phadon, filii Lebana, filii Hagaba, filii Selmai,
@@ -667,7 +658,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: filii Ceros, filii Siaa, filii Phadon, filii Lebana, filii Hagaba, filii Selmai,
   - `VulgConte (2009)`: filii Ceros, filii Siaa, filii Phadon, filii Lebana, filii Hagaba, filii Selmai,
   - `VulgSistina (1590)`: filii Ceros, filii Siaa, filii Phadon, filii Lebana, filii Hagaba, filii Selmai,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 49 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Hanan, filii Geddel, filii Gaher,
@@ -676,7 +667,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: filii Hanan, filii Geddel, filii Gaher,
   - `VulgConte (2009)`: filii Hanan, filii Geddel, filii Gaher,
   - `VulgSistina (1590)`: filii Hanan, filii Geddel, filii Gaher,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 50 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Raaia, filii Rasin, filii Necoda,
@@ -685,7 +676,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: filii Raaia, filii Rasin, filii Necoda,
   - `VulgConte (2009)`: filii Raaia, filii Rasin, filii Necoda,
   - `VulgSistina (1590)`: filii Raaia, filii Rasin, filii Necoda,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 51 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Gezem, filii Aza, filii Phasea,
@@ -694,7 +685,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: filii Gezem, filii Aza, filii Phasea,
   - `VulgConte (2009)`: filii Gezem, filii Aza, filii Phasea,
   - `VulgSistina (1590)`: filii Gezem, filii Aza, filii Phasea,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 52 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Besai, filii Munim, filii Nephussim,
@@ -703,7 +694,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: filii Besai, filii Munim, filii Nephussim,
   - `VulgConte (2009)`: filii Besai, filii Munim, filii Nephussim,
   - `VulgSistina (1590)`: filii Besai, filii Munim, filii Nephussim,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 53 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Bacbuc, filii Hacupha, filii Harhur,
@@ -712,7 +703,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: filii Bacbuc, filii Hacupha, filii Harhur,
   - `VulgConte (2009)`: filii Bacbuc, filii Hacupha, filii Harhur,
   - `VulgSistina (1590)`: filii Bacbuc, filii Hacupha, filii Harhur,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 54 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Besloth, filii Mahida, filii Harsa,
@@ -721,7 +712,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: filii Besloth, filii Mahida, filii Harsa,
   - `VulgConte (2009)`: filii Besloth, filii Mahida, filii Harsa,
   - `VulgSistina (1590)`: filii Besloth, filii Mahida, filii Harsa,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 55 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Bercos, filii Sisara, filii Thema,
@@ -730,7 +721,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: filii Bercos, filii Sisara, filii Thema,
   - `VulgConte (2009)`: filii Bercos, filii Sisara, filii Thema,
   - `VulgSistina (1590)`: filii Bercos, filii Sisara, filii Thema,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 56 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Nasia, filii Hatipha,
@@ -739,7 +730,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: filii Nasia, filii Hatipha,
   - `VulgConte (2009)`: filii Nasia, filii Hatipha,
   - `VulgSistina (1590)`: filii Nasia, filii Hatipha,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 57 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii servorum Salomonis, filii Sothai, filii Sophereth, filii Pharida,
@@ -748,7 +739,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: filii servorum Salomonis, filii Sothai, filii Sophereth, filii Pharida,
   - `VulgConte (2009)`: filii servorum Salomonis, filii Sothai, filii Sophereth, filii Pharida,
   - `VulgSistina (1590)`: filii servorum Salomonis, filii Sothai, filii Sophereth, filii Pharida,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 58 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Jahala, filii Darcon, filii Jeddel,
@@ -757,7 +748,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: filii Iahala, filii Darcon, filii Ieddel,
   - `VulgConte (2009)`: filii Iahala, filii Darcon, filii Ieddel,
   - `VulgSistina (1590)`: filii Iahala, filii Darcon, filii Ieddel,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 59 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Saphatia, filii Hatil, filii Phochereth, qui erat ortus ex Sabaim filio Amon.
@@ -766,7 +757,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: filii Saphatia, filii Hatil, filii Phochereth, qui erat ortus ex Sabaim, filio Amon.
   - `VulgConte (2009)`: filii Saphatia, filii Hatil, filii Phochereth, qui erat ortus ex Sabaim, filio Amon.
   - `VulgSistina (1590)`: filii Saphatia, filii Hatil, filii Phochereth, qui erat ortus ex Sabaim, filio Amon.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 60 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnes Nathinæi, et filii servorum Salomonis, trecenti nonaginta duo.
@@ -775,7 +766,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnes Nathinæi, et filii servorum Salomonis, trecenti nonagintaduo.
   - `VulgConte (2009)`: Omnes Nathinæi, et filii servorum Salomonis, trecenti nonagintaduo.
   - `VulgSistina (1590)`: Omnes Nathinaei, et filii servorum Salomonis, trecenti nonagintaduo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 61 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hi sunt autem qui ascenderunt de Thelmela, Thelharsa, Cherub, Addon, et Emmer: et non potuerunt indicare domum patrum suorum, et semen suum, utrum ex Israël essent,
@@ -784,7 +775,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hi sunt autem, qui ascenderunt de Thelmela, Thelharsa, Cherub, Addon, et Emmer: et non potuerunt indicare domum patrum suorum, et semen suum, utrum ex Israel essent.
   - `VulgConte (2009)`: Hi sunt autem, qui ascenderunt de Thelmela, Thelharsa, Cherub, Addon, et Emmer: et non potuerunt indicare domum patrum suorum, et semen suum, utrum ex Israel essent.
   - `VulgSistina (1590)`: Hi sunt autem, qui ascenderunt de Thelmela, Thelharsa, Cherub, Addon, et Emmer: et non potuerunt indicare domum patrum suorum, et semen suum, utrum ex Israel essent.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 62 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** filii Dalaia, filii Tobia, filii Necoda, sexcenti quadraginta duo.
@@ -793,7 +784,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Dalaia, filii Tobia, filii Necoda, sexcenti quadragintaduo.
   - `VulgConte (2009)`: Filii Dalaia, filii Tobia, filii Necoda, sexcenti quadragintaduo.
   - `VulgSistina (1590)`: Filii Dalaia, filii Tobia, filii Necoda, sexcenti quadragintaduo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 63 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et de sacerdotibus, filii Habia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis uxorem, et vocatus est nomine eorum.
@@ -802,7 +793,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et de Sacerdotibus, filii Habia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis uxorem: et vocatus est nomine eorum.
   - `VulgConte (2009)`: Et de Sacerdotibus, filii Habia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis uxorem: et vocatus est nomine eorum.
   - `VulgSistina (1590)`: Et de Sacerdotibus, filii Habia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis uxorem: et vocatus est nomine eorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 64 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hi quæsierunt scripturam suam in censu, et non invenerunt: et ejecti sunt de sacerdotio.
@@ -811,7 +802,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hi quæsierunt scripturam suam in censu, et non invenerunt: et eiecti sunt de sacerdotio.
   - `VulgConte (2009)`: Hi quæsierunt scripturam suam in censu, et non invenerunt: et eiecti sunt de sacerdotio.
   - `VulgSistina (1590)`: Hi quaesierunt scripturam suam in censu, et non invenerunt: et eiecti sunt de sacerdotio.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 65 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixitque Athersatha eis ut non manducarent de Sanctis sanctorum, donec staret sacerdos doctus et eruditus.
@@ -820,7 +811,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixitque Athersatha eis ut non manducarent de Sanctis sanctorum, donec staret Sacerdos doctus et eruditus.
   - `VulgConte (2009)`: Dixitque Athersatha eis ut non manducarent de Sanctis sanctorum, donec staret Sacerdos doctus et eruditus.
   - `VulgSistina (1590)`: Dixitque Athersatha eis ut non manducarent de Sanctis sanctorum, donec staret Sacerdos doctus et eruditus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 66 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnis multitudo quasi vir unus quadraginta duo millia trecenti sexaginta,
@@ -829,7 +820,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnis multitudo quasi vir unus quadragintaduo millia trecenti sexaginta,
   - `VulgConte (2009)`: Omnis multitudo quasi vir unus quadragintaduo millia trecenti sexaginta,
   - `VulgSistina (1590)`: Omnis multitudo quasi vir unus quadragintaduo millia sexcenti sexaginta,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 67 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** absque servis et ancillis eorum, qui erant septem millia trecenti triginta septem, et inter eos cantores et cantatrices, ducenti quadraginta quinque.
@@ -838,7 +829,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: absque servis et ancillis eorum, qui erant septem millia trecenti trigintaseptem, et inter eos cantores, et cantatrices, ducenti quadragintaquinque.
   - `VulgConte (2009)`: absque servis et ancillis eorum, qui erant septem millia trecenti trigintaseptem, et inter eos cantores, et cantatrices, ducenti quadragintaquinque.
   - `VulgSistina (1590)`: absque servis et ancillis eorum, qui erant septem millia trecenti trigintaseptem, et inter eos cantores, et cantatrices, ducenti quadragintaquinque.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 68 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Equi eorum, septingenti triginta sex: muli eorum, ducenti quadraginta quinque:
@@ -847,7 +838,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Equi eorum, septingenti trigintasex: muli eorum, ducenti quadragintaquinque:
   - `VulgConte (2009)`: Equi eorum, septingenti trigintasex: muli eorum, ducenti quadragintaquinque:
   - `VulgSistina (1590)`: Equi eorum, septingenti trigintasex: muli eorum, ducenti quadragintaquinque:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 69 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** cameli eorum, quadringenti triginta quinque: asini, sex millia septingenti viginti.
@@ -856,7 +847,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: cameli eorum, quadringenti trigintaquinque: asini, sex millia septingenti viginti.
   - `VulgConte (2009)`: cameli eorum, quadringenti trigintaquinque: asini, sex millia septingenti viginti.
   - `VulgSistina (1590)`: cameli eorum, quadringenti trigintaquinque: asini, sex millia septingenti viginti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 70 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nonnulli autem de principibus familiarum dederunt in opus. Athersatha dedit in thesaurum auri drachmas mille, phialas quinquaginta, tunicas sacerdotales quingentas triginta.
@@ -865,7 +856,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nonnulli autem de principibus familiarum dederunt in opus. Athersatha dedit in thesaurum auri drachmas mille, phialas quinquaginta, tunicas sacerdotales quingentas triginta.
   - `VulgConte (2009)`: Nonnulli autem de principibus familiarum dederunt in opus. Athersatha dedit in thesaurum auri drachmas mille, phialas quinquaginta, tunicas sacerdotales quingentas triginta.
   - `VulgSistina (1590)`: Nonnulli autem de principibus familiarum dederunt in opus. Athersatha dedit in thesaurum auri drachmas mille, phialas quinquaginta, tunicas sacerdotales quingentas triginta.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 71 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et de principibus familiarum dederunt in thesaurum operis, auri drachmas viginti millia, et argenti mnas duo millia ducentas.
@@ -874,7 +865,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et de principibus familiarum dederunt in thesaurum operis auri drachmas viginti millia, et argenti mnas duo millia ducentas.
   - `VulgConte (2009)`: Et de principibus familiarum dederunt in thesaurum operis auri drachmas viginti millia, et argenti mnas duo millia ducentas.
   - `VulgSistina (1590)`: Et de principibus familiarum dederunt in thesaurum operis auri drachmas viginti millia, et argenti mnas duo millia ducentas.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 72 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et quod dedit reliquus populus, auri drachmas viginti millia, et argenti mnas duo millia, et tunicas sacerdotales sexaginta septem.
@@ -883,7 +874,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et quod dedit reliquus populus, auri drachmas viginti millia, et argenti mnas duo millia, et tunicas sacerdotales sexagintaseptem.
   - `VulgConte (2009)`: Et quod dedit reliquus populus, auri drachmas viginti millia, et argenti mnas duo millia, et tunicas sacerdotales sexagintaseptem.
   - `VulgSistina (1590)`: Et quod dedit reliquus populus, auri drachmas viginti millia, et argenti mnas duo millia, et tunicas sacerdotales sexagintaseptem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 73 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Habitaverunt autem sacerdotes, et Levitæ, et janitores, et cantores, et reliquum vulgus, et Nathinæi, et omnis Israël, in civitatibus suis.
@@ -892,4 +883,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Habitaverunt autem Sacerdotes, et Levitæ, et ianitores, et cantores, et reliquum vulgus, et Nathinæi, et omnis Israel in civitatibus suis.
   - `VulgConte (2009)`: Habitaverunt autem Sacerdotes, et Levitæ, et ianitores, et cantores, et reliquum vulgus, et Nathinæi, et omnis Israel in civitatibus suis.
   - `VulgSistina (1590)`: Habitaverunt autem Sacerdotes, et Levitae, et ianitores, et cantores, et reliquum vulgus, et Nathinaei, et omnis Israel in civitatibus suis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

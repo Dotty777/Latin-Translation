@@ -9,19 +9,19 @@
 
 **7:2** "And you, son of man, this is what the Lord God says to the land of Israel: 'The end has come; the end has come upon the four quarters of the land.
 
-**7:3** The end has come, the end has come; it has awakened against you; look, it is coming.
+**7:3** Now the end is upon you, and I will send My fury against you; and I will judge you according to your ways, and I will set all your abominations against you.
 
-**7:4** Ruin has come upon you, who dwell in the land; the time has come, the day of slaughter is near, and not of the glory of the mountains.
+**7:4** And My eye will not spare you, and I will not have pity; but I will set your ways upon you, and your abominations will be in your midst, and you will know that I am the Lord.'
 
-**7:5** Now shortly I will pour out My wrath upon you, and I will complete My fury against you; and I will judge you according to your ways, and I will lay all your crimes upon you,
+**7:5** This is what the Lord God says: 'One affliction, an affliction, look, it is coming!
 
-**7:6** and My eye will not spare, nor will I have pity; but I will lay your ways upon you, and your abominations will be in your midst, and you will know that I am the Lord who strikes.
+**7:6** The end has come, the end has come; it has awakened against you; look, it is coming.
 
-**7:7** Now the end is upon you, and I will send My fury against you; and I will judge you according to your ways, and I will set all your abominations against you.
+**7:7** Ruin has come upon you, who dwell in the land; the time has come, the day of slaughter is near, and not of the glory of the mountains.
 
-**7:8** And My eye will not spare you, and I will not have pity; but I will set your ways upon you, and your abominations will be in your midst, and you will know that I am the Lord.'
+**7:8** Now shortly I will pour out My wrath upon you, and I will complete My fury against you; and I will judge you according to your ways, and I will lay all your crimes upon you,
 
-**7:9** This is what the Lord God says: 'One affliction, an affliction, look, it is coming!
+**7:9** and My eye will not spare, nor will I have pity; but I will lay your ways upon you, and your abominations will be in your midst, and you will know that I am the Lord who strikes.
 
 **7:10** Look, the day! Look, it is coming! Ruin has gone out, the rod has blossomed, pride has sprouted,
 
@@ -61,7 +61,7 @@
 
 ## Translator Notes
 
-- **7:3** — In this Latin text, verses 3-9 follow an alternate sequence compared to the Hebrew Masoretic numbering (corresponding to Hebrew verses 6-9, 3-4, and 5).
-- **7:4** — Latin "the day of slaughter is near, and not of the glory of the mountains" (dies occisionis, et non gloriæ montium) is a distinctive Vulgate rendering where the Hebrew Masoretic Text reads a day of tumult rather than joyful shouting on the mountains.
+- **7:3** — In native Clementine Vulgate numbering, 7:3-9 follow the Masoretic sequence (mapping to Saints.Bible 7:7, 7:8, 7:9, 7:3, 7:4, 7:5, 7:6 respectively); 7:10 aligns 1-to-1.
+- **7:7** — Latin "the day of slaughter is near, and not of the glory of the mountains" (dies occisionis, et non gloriæ montium) is a distinctive Vulgate rendering where the Hebrew Masoretic Text reads a day of tumult rather than joyful shouting on the mountains.
 - **7:11** — The abrupt verbless clause ("None of them, and none of the people, nor of their sound") reflects an obscure Hebrew line, and the Vulgate reads "no rest" (non erit requies) where the Hebrew is variously understood as eminence or wailing.
 - **7:23** — Latin "Make a confinement" (Fac conclusionem, i.e., a shutting-in or blockade) renders a rare Hebrew noun usually understood as "the chain"; similarly in verse 22 emissarii ("emissaries") corresponds to Hebrew "violent ones," and in verse 24 possidebunt ("they will possess") corresponds to Hebrew "they will be profaned."

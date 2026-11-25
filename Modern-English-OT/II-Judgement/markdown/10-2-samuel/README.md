@@ -1,7 +1,7 @@
 # 2 Samuel — Saints Modern English OT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Division: **II. Judgement (Historical Books & Job)**  
-> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; Saints.Bible versification).  
+> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; native Sixto-Clementine Vulgate versification).  
 > **Structured JSON:** [`10-2-samuel.json`](../../json/10-2-samuel.json) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Chapters
@@ -23,8 +23,8 @@
 - [Chapter 15](chapter-15.md) — 37 verses, 5 notes
 - [Chapter 16](chapter-16.md) — 23 verses, 4 notes
 - [Chapter 17](chapter-17.md) — 29 verses, 6 notes
-- [Chapter 18](chapter-18.md) — 32 verses, 5 notes
-- [Chapter 19](chapter-19.md) — 44 verses, 6 notes
+- [Chapter 18](chapter-18.md) — 33 verses, 6 notes
+- [Chapter 19](chapter-19.md) — 43 verses, 5 notes
 - [Chapter 20](chapter-20.md) — 26 verses, 5 notes
 - [Chapter 21](chapter-21.md) — 22 verses, 5 notes
 - [Chapter 22](chapter-22.md) — 51 verses, 5 notes

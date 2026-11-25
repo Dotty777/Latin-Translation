@@ -71,14 +71,14 @@
 
 **29:33** And again she conceived and gave birth to a son, and she said, "Because the Lord has heard that I am held in contempt, He has given this one also to me." And she called his name Simeon.
 
-**29:34** She conceived a third time and bore another, and said, "Now too my husband will be united to me, because I have given birth to three sons for him." And for that reason she gave him the name Levi.
+**29:34** And she conceived a third time and bore another son, and said, "Now too my husband will be united to me, because I have given birth to three sons for him." And for that reason she gave him the name Levi.
 
 **29:35** A fourth time she conceived and gave birth to a son, and said, "Now I will give praise to the Lord." And because of this she called him Judah, and she stopped giving birth.
 
 ## Translator Notes
 
 - **29:1** — The Vulgate condenses the Hebrew idiom ('lifted up his feet and went to the land of the sons of the east') into 'set out and came to the eastern land' (terram orientalem).
-- **29:12** — The Vulgate literally translates the broad Hebrew term for kinsman as 'brother' (frater patris eius), though v. 13 identifies Jacob more specifically as Laban's sister's son.
+- **29:12** — The Vulgate literally translates the broad Hebrew term for kinsman as 'brother' (frater patris sui), though v. 13 identifies Jacob more specifically as Laban's sister's son.
 - **29:17** — Vulgate 'lippis erat oculis' ('had bleary eyes') gives a distinctly physical rendering of Hebrew rakkot ('soft' or 'weak').
 - **29:22** — Where the Hebrew has 'gathered all the men of the place and made a feast,' the Vulgate reads 'having called many crowds of friends to a banquet, he held the wedding.'
 - **29:35** — Vulgate 'confitebor Domino' (lit. 'I will confess/acknowledge the Lord') is the standard biblical Latin expression for offering praise and thanksgiving to God, reflecting the wordplay behind the name Judah.

@@ -1,6 +1,6 @@
 # Deuteronomy 12 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Deuteronomy`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -67,6 +67,8 @@
 
 **12:31** You shall not do likewise to the Lord your God. For all the abominations that the Lord detests they have done for their gods, offering their sons and daughters and burning them with fire.
 
+**12:32** What I command you, do this alone for the Lord; neither add anything nor diminish it.
+
 ## Translator Notes
 
 - **12:3** — The Vulgate renders the Canaanite cult objects as "statuas" ("statues," for Hebrew pillars), "lucos" ("groves," for Hebrew Asherim), and "idola" ("idols"), and uses the plural for both "nomina" ("names") and "locis illis" ("those places").
@@ -74,3 +76,4 @@
 - **12:15** — The Vulgate treats "immundum" and "mundum" as neuter adjectives referring to the animal and inserts explanatory glosses ("that is, blemished and weak" and "that is, whole and without blemish, which is lawful to offer"), whereas the Hebrew refers to ceremonially unclean and clean persons eating the meat (as the Vulgate itself does with masculine forms in v. 22).
 - **12:23** — Latin "pro anima" ("in place of the life," where "anima" can mean "life" or "soul") softens the Hebrew's direct identification ("the blood is the life").
 - **12:30** — The Vulgate renders the Hebrew "be ensnared after them" as "imiteris eas" ("imitate them") and translates "before you" with the ablative absolute "te ... introëunte" ("as you enter").
+- **12:32** — Native Vulgate places this verse at 12:32 (mapping to Saints.Bible 13:1), so native Vulgate chapter 13 has 18 verses (13:1-18 = Saints.Bible 13:2-19). Latin "do this alone for the Lord" (hoc tantum facito Domino) adds "for the Lord" and "alone" where the Hebrew reads "observe to do all the word."

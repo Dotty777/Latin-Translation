@@ -1,8 +1,8 @@
 # Jeremiah 34 — Saints Latin Critical Text
 
-**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:36Z`
+**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:09Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,284 +28,273 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
-- Clem1598-USFX: 34:2 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:3 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:4 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:5 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:6 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:8 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:9 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:10 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:11 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:12 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:14 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:15 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:16 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:18 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:19 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:20 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 34:22 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 17 verse(s) re-aligned by content (2←27:2, 3←27:3, 4←27:4, 5←27:5, 6←27:6, 8←27:8…)
-- VulgHetzenauer (1906): 34:2 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:3 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:4 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:5 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:6 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:8 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:9 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:10 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:11 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:12 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:14 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:15 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:16 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:18 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:19 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:20 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 34:22 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 17 verse(s) re-aligned by content (2←27:2, 3←27:3, 4←27:4, 5←27:5, 6←27:6, 8←27:8…)
-- VulgConte (2009): 34:2 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:3 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:4 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:5 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:6 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:8 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:9 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:10 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:11 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:12 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:14 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:15 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:16 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:18 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:19 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:20 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 34:22 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 17 verse(s) re-aligned by content (2←27:2, 3←27:3, 4←27:4, 5←27:5, 6←27:6, 8←27:8…)
-- VulgSistina (1590): 34:2 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:3 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:4 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:5 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:6 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:8 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:9 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:10 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:11 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:12 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:14 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:15 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:16 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:18 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:19 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:20 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 34:22 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 17 verse(s) re-aligned by content (2←27:2, 3←27:3, 4←27:4, 5←27:5, 6←27:6, 8←27:8…)
-- Clem1598-USFX: verse 1 left out as a versification/conversion duplicate (Clem-Saints prints these words at 41:1)
-- Clem1598-USFX: verse 7 left out as a versification/conversion duplicate (Clem-Saints prints these words at 41:7)
-- Clem1598-USFX: verse 13 left out as a versification/conversion duplicate (Clem-Saints prints these words at 41:13)
-- Clem1598-USFX: verse 17 left out as a versification/conversion duplicate (Clem-Saints prints these words at 41:17)
-- Clem1598-USFX: verse 21 left out as a versification/conversion duplicate (Clem-Saints prints these words at 41:21)
+- Clem-Saints: 34:2 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:3 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:4 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:5 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:6 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:8 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:9 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:10 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:11 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:12 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:14 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:15 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:16 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:18 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:19 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:20 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 34:22 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 22 verse(s) re-aligned by content (1←41:1, 2←41:2, 3←41:3, 4←41:4, 5←41:5, 6←41:6…)
 
 ---
 
 ## Section II — Continuous Latin Critical Text
 
-**2** Hæc dicit Dominus ad me: Fac tibi vincula et catenas, et pones eas in collo tuo,
-**3** et mittes eas ad regem Edom, et ad regem Moab, et ad regem filiorum Ammon, et ad regem Tyri, et ad regem Sidonis, in manu nuntiorum qui venerunt Jerusalem ad Sedeciam regem Juda.
-**4** Et præcipies eis ut ad dominos suos loquantur: Hæc dicit Dominus exercituum, Deus Israël: Hæc dicetis ad dominos vestros:
-**5** Ego feci terram, et homines, et jumenta quæ sunt super faciem terræ, in fortitudine mea magna, et in brachio meo extento, et dedi eam ei qui placuit in oculis meis.
-**6** Et nunc itaque ego dedi omnes terras istas in manu Nabuchodonosor regis Babylonis servi mei: insuper et bestias agri dedi ei, ut serviant illi:
-**8** Gens autem et regnum quod non servierit Nabuchodonosor regi Babylonis, et quicumque non curvaverit collum suum sub jugo regis Babylonis, in gladio, et in fame, et in peste visitabo super gentem illam, ait Dominus, donec consumam eos in manu ejus.
-**9** Vos ergo nolite audire prophetas vestros, et divinos, et somniatores, et augures, et maleficos, qui dicunt vobis: Non servietis regi Babylonis:
-**10** quia mendacium prophetant vobis, ut longe vos faciant de terra vestra, et ejiciant vos, et pereatis.
-**11** Porro gens quæ subjecerit cervicem suam sub jugo regis Babylonis, et servierit ei, dimittam eam in terra sua, dicit Dominus, et colet eam, et habitabit in ea.
-**12** Et ad Sedeciam regem Juda locutus sum secundum omnia verba hæc, dicens: Subjicite colla vestra sub jugo regis Babylonis, et servite ei et populo ejus, et vivetis.
-**14** Nolite audire verba prophetarum dicentium vobis: Non servietis regi Babylonis: quia mendacium ipsi loquuntur vobis:
-**15** quia non misi eos, ait Dominus, et ipsi prophetant in nomine meo mendaciter, ut ejiciant vos, et pereatis, tam vos quam prophetæ qui vaticinantur vobis.
-**16** Et ad sacerdotes, et ad populum istum, locutus sum, dicens: Hæc dicit Dominus: Nolite audire verba prophetarum vestrorum, qui prophetant vobis, dicentes: Ecce vasa Domini revertentur de Babylone nunc cito: mendacium enim prophetant vobis.
-**18** Et si prophetæ sunt, et est verbum Domini in eis, occurrant Domino exercituum, ut non veniant vasa quæ derelicta fuerant in domo Domini, et in domo regis Juda, et in Jerusalem, in Babylonem.
-**19** Quia hæc dicit Dominus exercituum ad columnas, et ad mare, et ad bases, et ad reliqua vasorum quæ remanserunt in civitate hac,
-**20** quæ non tulit Nabuchodonosor rex Babylonis cum transferret Jechoniam filium Joakim regem Juda de Jerusalem in Babylonem, et omnes optimates Juda et Jerusalem:
-**22** In Babylonem transferentur, et ibi erunt usque ad diem visitationis suæ, dicit Dominus, et afferri faciam ea, et restitui in loco isto.
+**1** Verbum quod factum est ad Jeremiam a Domino quando Nabuchodonosor rex Babylonis, et omnis exercitus ejus, universaque regna terræ quæ erant sub potestate manus ejus, et omnes populi, bellabant contra Jerusalem, et contra omnes urbes ejus, dicens:
+**2** Hæc dicit Dominus Deus Israël: Vade, et loquere ad Sedeciam regem Juda, et dices ad eum: Hæc dicit Dominus: Ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni:
+**3** et tu non effugies de manu ejus, sed comprehensione capieris, et in manu ejus traderis: et oculi tui oculos regis Babylonis videbunt, et os ejus cum ore tuo loquetur, et Babylonem introibis.
+**4** Attamen audi verbum Domini, Sedecia, rex Juda: Hæc dicit Dominus ad te: Non morieris in gladio,
+**5** sed in pace morieris: et secundum combustiones patrum tuorum, regum priorum qui fuerunt ante te, sic comburent te: et: Væ domine, plangent te: quia verbum ego locutus sum, dicit Dominus.
+**6** Et locutus est Jeremias propheta ad Sedeciam regem Juda universa verba hæc in Jerusalem.
+**7** Et exercitus regis Babylonis pugnabat contra Jerusalem, et contra omnes civitates Juda quæ reliquæ erant, contra Lachis et contra Azecha: hæ enim supererant de civitatibus Juda, urbes munitæ.
+**8** Verbum quod factum est ad Jeremiam a Domino, postquam percussit rex Sedecias fœdus cum omni populo in Jerusalem, prædicans
+**9** ut dimitteret unusquisque servum suum et unusquisque ancillam suam, Hebræum et Hebræam, liberos, et nequaquam dominarentur eis, id est, in Judæo et fratre suo.
+**10** Audierunt ergo omnes principes et universus populus qui inierant pactum ut dimitteret unusquisque servum suum et unusquisque ancillam suam liberos, et ultra non dominarentur eis: audierunt igitur, et dimiserunt.
+**11** Et conversi sunt deinceps: et retraxerunt servos et ancillas suas quos dimiserant liberos, et subjugaverunt in famulos et famulas.
+**12** Et factum est verbum Domini ad Jeremiam a Domino, dicens:
+**13** Hæc dicit Dominus Deus Israël: Ego percussi fœdus cum patribus vestris in die qua eduxi eos de terra Ægypti, de domo servitutis, dicens:
+**14** Cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebræum, qui venditus est ei: et serviet tibi sex annis, et dimittes eum a te liberum: et non audierunt patres vestri me, nec inclinaverunt aurem suam.
+**15** Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut prædicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo, in domo in qua invocatum est nomen meum super eam:
+**16** et reversi estis, et commaculastis nomen meum, et reduxistis unusquisque servum suum et unusquisque ancillam suam quos dimiseratis ut essent liberi et suæ potestatis, et subjugastis eos ut sint vobis servi et ancillæ.
+**17** Propterea hæc dicit Dominus: Vos non audistis me, ut prædicaretis libertatem unusquisque fratri suo et unusquisque amico suo: ecce ego prædico vobis libertatem, ait Dominus, ad gladium, ad pestem, et ad famem, et dabo vos in commotionem cunctis regnis terræ.
+**18** Et dabo viros qui prævaricantur fœdus meum, et non observaverunt verba fœderis quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones ejus,
+**19** principes Juda et principes Jerusalem, eunuchi et sacerdotes, et omnis populus terræ, qui transierunt inter divisiones vituli:
+**20** et dabo eos in manus inimicorum suorum, et in manus quærentium animam eorum, et erit morticinum eorum in escam volatilibus cæli et bestiis terræ.
+**21** Et Sedeciam regem Juda, et principes ejus, dabo in manus inimicorum suorum, et in manus quærentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
+**22** Ecce ego præcipio, dicit Dominus, et reducam eos in civitatem hanc, et præliabuntur adversus eam, et capient eam, et incendent igni: et civitates Juda dabo in solitudinem, eo quod non sit habitator.
 
 ---
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
-### Jeremiah 34:3
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Jerusalem / Hierusalem`, `nuntiorum / nunciorum`, `nuntiorum / nunciorum`, `nuntiorum / nunciorum`, `Sedeciam / Sedechiam` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+### Jeremiah 34:2
+- **Apparatus:** `igni:` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **igne.** VulgSistina (1590)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Israël: / Israhel`, `Sedeciam / Sedechiam` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
-### Jeremiah 34:12
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Subjicite / subicite`, `Sedeciam / Sedechiam` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+### Jeremiah 34:6
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Jeremias / Hieremias`, `Jerusalem. / Hierusalem`, `Sedeciam / Sedechiam` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
-### Jeremiah 34:16
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **domus** VulgSistina (1590)
+### Jeremiah 34:8
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Jeremiam / Hieremiam`, `Jerusalem, / Hierusalem`, `Sedecias / Sedechias` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Jeremiah 34:21
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Sedeciam / Sedechiam` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Jeremiah 34:22
+- **Apparatus:** `igni:` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **igne:** VulgSistina (1590)
 
 ---
 
 ## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
 
+### Verse 1 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Verbum quod factum est ad Jeremiam a Domino quando Nabuchodonosor rex Babylonis, et omnis exercitus ejus, universaque regna terræ quæ erant sub potestate manus ejus, et omnes populi, bellabant contra Jerusalem, et contra omnes urbes ejus, dicens:
+  - `Clem1598-USFX`: Verbum quod factum est ad Jeremiam a Domino quando Nabuchodonosor rex Babylonis, et omnis exercitus ejus, universaque regna terræ quæ erant sub potestate manus ejus, et omnes populi, bellabant contra Jerusalem, et contra omnes urbes ejus, dicens:
+  - `Clem-Saints` *(numbered 41:1 in this witness)*: Verbum quod factum est ad Jeremiam a Domino quando Nabuchodonosor rex Babylonis, et omnis exercitus ejus, universaque regna terræ quæ erant sub potestate manus ejus, et omnes populi, bellabant contra Jerusalem, et contra omnes urbes ejus, dicens:
+  - `VulgHetzenauer (1906)`: Verbum, quod factum est ad Ieremiam a Domino, quando Nabuchodonosor rex Babylonis, et omnis exercitus eius, universaque regna terræ, quæ erant sub potestate manus eius, et omnes populi bellabant contra Ierusalem, et contra omnes urbes eius, dicens:
+  - `VulgConte (2009)`: Verbum, quod factum est ad Ieremiam a Domino, quando Nabuchodonosor rex Babylonis, et omnis exercitus eius, universaque regna terræ, quæ erant sub potestate manus eius, et omnes populi bellabant contra Ierusalem, et contra omnes urbes eius, dicens:
+  - `VulgSistina (1590)`: Verbum, quod factum est ad Ieremiam a Domino, quando Nabuchodonosor rex Babylonis, et omnis exercitus eius, universaque regna terrae, quae erant sub potestate manus eius, et omnes populi bellabant contra Ierusalem, et contra omnes urbes eius, dicens:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
+
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Hæc dicit Dominus ad me: Fac tibi vincula et catenas, et pones eas in collo tuo,
-  - `Clem1598-USFX` *(numbered 27:2 in this witness)*: Hæc dicit Dominus ad me: Fac tibi vincula et catenas, et pones eas in collo tuo,
-  - `Clem-Saints`: Hæc dicit Dominus ad me: Fac tibi vincula et catenas, et pones eas in collo tuo,
-  - `VulgHetzenauer (1906)` *(numbered 27:2 in this witness)*: Hæc dicit Dominus ad me: Fac tibi vincula, et catenas: et pones eas in collo tuo.
-  - `VulgConte (2009)` *(numbered 27:2 in this witness)*: Hæc dicit Dominus ad me: Fac tibi vincula, et catenas: et pones eas in collo tuo.
-  - `VulgSistina (1590)` *(numbered 27:2 in this witness)*: Haec dicit Dominus ad me: Fac tibi vincula, et catenas: et pones eas in collo tuo.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:2 (re-aligned by content).
+- **Critical Text:** Hæc dicit Dominus Deus Israël: Vade, et loquere ad Sedeciam regem Juda, et dices ad eum: Hæc dicit Dominus: Ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni:
+  - `Clem1598-USFX`: Hæc dicit Dominus Deus Israël: Vade, et loquere ad Sedeciam regem Juda, et dices ad eum: Hæc dicit Dominus: Ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni:
+  - `Clem-Saints` *(numbered 41:2 in this witness)*: Hæc dicit Dominus Deus Israël: Vade, et loquere ad Sedeciam regem Juda, et dices ad eum: Hæc dicit Dominus: Ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni:
+  - `VulgHetzenauer (1906)`: Hæc dicit Dominus Deus Israel: Vade, et loquere ad Sedeciam regem Iuda: et dices ad eum: Hæc dicit Dominus: Ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni.
+  - `VulgConte (2009)`: Hæc dicit Dominus Deus Israel: Vade, et loquere ad Sedeciam regem Iuda: et dices ad eum: Hæc dicit Dominus: Ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni.
+  - `VulgSistina (1590)`: Haec dicit Dominus Deus Israel: Vade, et loquere ad Sedechiam regem Iuda: et dices ad eum: Haec dicit Dominus: Ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igne.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** et mittes eas ad regem Edom, et ad regem Moab, et ad regem filiorum Ammon, et ad regem Tyri, et ad regem Sidonis, in manu nuntiorum qui venerunt Jerusalem ad Sedeciam regem Juda.
-  - `Clem1598-USFX` *(numbered 27:3 in this witness)*: et mittes eas ad regem Edom, et ad regem Moab, et ad regem filiorum Ammon, et ad regem Tyri, et ad regem Sidonis, in manu nuntiorum qui venerunt Jerusalem ad Sedeciam regem Juda.
-  - `Clem-Saints`: et mittes eas ad regem Edom, et ad regem Moab, et ad regem filiorum Ammon, et ad regem Tyri, et ad regem Sidonis, in manu nuntiorum qui venerunt Jerusalem ad Sedeciam regem Juda.
-  - `VulgHetzenauer (1906)` *(numbered 27:3 in this witness)*: Et mittes eas ad regem Edom, et ad regem Moab, et ad regem filiorum Ammon, et ad regem Tyri, et ad regem Sidonis: in manu nunciorum qui venerunt Ierusalem ad Sedeciam regem Iuda.
-  - `VulgConte (2009)` *(numbered 27:3 in this witness)*: Et mittes eas ad regem Edom, et ad regem Moab, et ad regem filiorum Ammon, et ad regem Tyri, et ad regem Sidonis: in manu nunciorum qui venerunt Ierusalem ad Sedeciam regem Iuda.
-  - `VulgSistina (1590)` *(numbered 27:3 in this witness)*: Et mittes eas ad regem Edom, et ad regem Moab, et ad regem filiorum Ammon, et ad regem Tyri, et ad regem Sidonis: in manu nunciorum qui venerunt Ierusalem ad Sedechiam regem Iuda.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:3 (re-aligned by content).
+- **Critical Text:** et tu non effugies de manu ejus, sed comprehensione capieris, et in manu ejus traderis: et oculi tui oculos regis Babylonis videbunt, et os ejus cum ore tuo loquetur, et Babylonem introibis.
+  - `Clem1598-USFX`: et tu non effugies de manu ejus, sed comprehensione capieris, et in manu ejus traderis: et oculi tui oculos regis Babylonis videbunt, et os ejus cum ore tuo loquetur, et Babylonem introibis.
+  - `Clem-Saints` *(numbered 41:3 in this witness)*: et tu non effugies de manu ejus, sed comprehensione capieris, et in manu ejus traderis: et oculi tui oculos regis Babylonis videbunt, et os ejus cum ore tuo loquetur, et Babylonem introibis.
+  - `VulgHetzenauer (1906)`: Et tu non effugies de manu eius: sed comprehensione capieris, et in manu eius traderis: et oculi tui oculos regis Babylonis videbunt, et os eius cum ore tuo loquetur, et Babylonem introibis.
+  - `VulgConte (2009)`: Et tu non effugies de manu eius: sed comprehensione capieris, et in manu eius traderis: et oculi tui oculos regis Babylonis videbunt, et os eius cum ore tuo loquetur, et Babylonem introibis.
+  - `VulgSistina (1590)`: Et tu non effugies de manu eius: sed comprehensione capieris, et in manu eius traderis: et oculi tui oculos regis Babylonis videbunt, et os eius cum ore tuo loquetur, et Babylonem introibis.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et præcipies eis ut ad dominos suos loquantur: Hæc dicit Dominus exercituum, Deus Israël: Hæc dicetis ad dominos vestros:
-  - `Clem1598-USFX` *(numbered 27:4 in this witness)*: Et præcipies eis ut ad dominos suos loquantur: Hæc dicit Dominus exercituum, Deus Israël: Hæc dicetis ad dominos vestros:
-  - `Clem-Saints`: Et præcipies eis ut ad dominos suos loquantur: Hæc dicit Dominus exercituum, Deus Israël: Hæc dicetis ad dominos vestros:
-  - `VulgHetzenauer (1906)` *(numbered 27:4 in this witness)*: Et præcipies eis ut ad dominos suos loquantur: Hæc dicit Dominus exercituum Deus Israel: Hæc dicetis ad dominos vestros:
-  - `VulgConte (2009)` *(numbered 27:4 in this witness)*: Et præcipies eis ut ad dominos suos loquantur: Hæc dicit Dominus exercituum Deus Israel: Hæc dicetis ad dominos vestros:
-  - `VulgSistina (1590)` *(numbered 27:4 in this witness)*: Et praecipies eis ut ad dominos suos loquantur: Haec dicit Dominus exercituum Deus Israel: Haec dicetis ad dominos vestros:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:4 (re-aligned by content).
+- **Critical Text:** Attamen audi verbum Domini, Sedecia, rex Juda: Hæc dicit Dominus ad te: Non morieris in gladio,
+  - `Clem1598-USFX`: Attamen audi verbum Domini, Sedecia, rex Juda: Hæc dicit Dominus ad te: Non morieris in gladio,
+  - `Clem-Saints` *(numbered 41:4 in this witness)*: Attamen audi verbum Domini, Sedecia, rex Juda: Hæc dicit Dominus ad te: Non morieris in gladio,
+  - `VulgHetzenauer (1906)`: Attamen audi verbum Domini Sedecia rex Iuda: Hæc dicit Dominus ad te: Non morieris in gladio,
+  - `VulgConte (2009)`: Attamen audi verbum Domini Sedecia rex Iuda: Hæc dicit Dominus ad te: Non morieris in gladio,
+  - `VulgSistina (1590)`: Attamen audi verbum Domini Sedecia rex Iuda: Haec dicit Dominus ad te: Non morieris in gladio,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Ego feci terram, et homines, et jumenta quæ sunt super faciem terræ, in fortitudine mea magna, et in brachio meo extento, et dedi eam ei qui placuit in oculis meis.
-  - `Clem1598-USFX` *(numbered 27:5 in this witness)*: Ego feci terram, et homines, et jumenta quæ sunt super faciem terræ, in fortitudine mea magna, et in brachio meo extento, et dedi eam ei qui placuit in oculis meis.
-  - `Clem-Saints`: Ego feci terram, et homines, et jumenta quæ sunt super faciem terræ, in fortitudine mea magna, et in brachio meo extento, et dedi eam ei qui placuit in oculis meis.
-  - `VulgHetzenauer (1906)` *(numbered 27:5 in this witness)*: Ego feci terram, et homines, et iumenta, quæ sunt super faciem terræ, in fortitudine mea magna, et in brachio meo extento: et dedi eam ei, qui placuit in oculis meis.
-  - `VulgConte (2009)` *(numbered 27:5 in this witness)*: Ego feci terram, et homines, et iumenta, quæ sunt super faciem terræ, in fortitudine mea magna, et in brachio meo extento: et dedi eam ei, qui placuit in oculis meis.
-  - `VulgSistina (1590)` *(numbered 27:5 in this witness)*: Ego feci terram, et homines, et iumenta, quae sunt super faciem terrae, in fortitudine mea magna, et in brachio meo extento: et dedi eam ei, qui placuit in oculis meis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:5 (re-aligned by content).
+- **Critical Text:** sed in pace morieris: et secundum combustiones patrum tuorum, regum priorum qui fuerunt ante te, sic comburent te: et: Væ domine, plangent te: quia verbum ego locutus sum, dicit Dominus.
+  - `Clem1598-USFX`: sed in pace morieris: et secundum combustiones patrum tuorum, regum priorum qui fuerunt ante te, sic comburent te: et: Væ domine, plangent te: quia verbum ego locutus sum, dicit Dominus.
+  - `Clem-Saints` *(numbered 41:5 in this witness)*: sed in pace morieris: et secundum combustiones patrum tuorum, regum priorum qui fuerunt ante te, sic comburent te: et: Væ domine, plangent te: quia verbum ego locutus sum, dicit Dominus.
+  - `VulgHetzenauer (1906)`: sed in pace morieris, et secundum combustiones patrum tuorum regum priorum qui fuerunt ante te, sic comburent te: et væ domine, plangent te: quia verbum ego locutus sum, dicit Dominus.
+  - `VulgConte (2009)`: sed in pace morieris, et secundum combustiones patrum tuorum regum priorum qui fuerunt ante te, sic comburent te: et Væ domine, plangent te: quia verbum ego locutus sum, dicit Dominus.
+  - `VulgSistina (1590)`: sed in pace morieris, et secundum combustiones patrum tuorum regum priorum qui fuerunt ante te, sic comburent te: et vae domine, plangent te: quia verbum ego locutus sum, dicit Dominus.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et nunc itaque ego dedi omnes terras istas in manu Nabuchodonosor regis Babylonis servi mei: insuper et bestias agri dedi ei, ut serviant illi:
-  - `Clem1598-USFX` *(numbered 27:6 in this witness)*: Et nunc itaque ego dedi omnes terras istas in manu Nabuchodonosor regis Babylonis servi mei: insuper et bestias agri dedi ei, ut serviant illi:
-  - `Clem-Saints`: Et nunc itaque ego dedi omnes terras istas in manu Nabuchodonosor regis Babylonis servi mei: insuper et bestias agri dedi ei, ut serviant illi:
-  - `VulgHetzenauer (1906)` *(numbered 27:6 in this witness)*: Et nunc itaque ego dedi omnes terras istas in manu Nabuchodonosor regis Babylonis servi mei: insuper et bestias agri dedi ei ut serviant illi.
-  - `VulgConte (2009)` *(numbered 27:6 in this witness)*: Et nunc itaque ego dedi omnes terras istas in manu Nabuchodonosor regis Babylonis servi mei: insuper et bestias agri dedi ei ut serviant illi.
-  - `VulgSistina (1590)` *(numbered 27:6 in this witness)*: Et nunc itaque ego dedi omnes terras istas in manu Nabuchodonosor regis Babylonis servi mei: insuper et bestias agri dedi ei ut serviant illi.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:6 (re-aligned by content).
+- **Critical Text:** Et locutus est Jeremias propheta ad Sedeciam regem Juda universa verba hæc in Jerusalem.
+  - `Clem1598-USFX`: Et locutus est Jeremias propheta ad Sedeciam regem Juda universa verba hæc in Jerusalem.
+  - `Clem-Saints` *(numbered 41:6 in this witness)*: Et locutus est Jeremias propheta ad Sedeciam regem Juda universa verba hæc in Jerusalem.
+  - `VulgHetzenauer (1906)`: Et locutus est Ieremias propheta ad Sedeciam regem Iuda universa verba hæc in Ierusalem.
+  - `VulgConte (2009)`: Et locutus est Ieremias propheta ad Sedeciam regem Iuda universa verba hæc in Ierusalem.
+  - `VulgSistina (1590)`: Et locutus est Ieremias propheta ad Sedechiam regem Iuda universa verba haec in Ierusalem.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
+
+### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Et exercitus regis Babylonis pugnabat contra Jerusalem, et contra omnes civitates Juda quæ reliquæ erant, contra Lachis et contra Azecha: hæ enim supererant de civitatibus Juda, urbes munitæ.
+  - `Clem1598-USFX`: Et exercitus regis Babylonis pugnabat contra Jerusalem, et contra omnes civitates Juda quæ reliquæ erant, contra Lachis et contra Azecha: hæ enim supererant de civitatibus Juda, urbes munitæ.
+  - `Clem-Saints` *(numbered 41:7 in this witness)*: Et exercitus regis Babylonis pugnabat contra Jerusalem, et contra omnes civitates Juda quæ reliquæ erant, contra Lachis et contra Azecha: hæ enim supererant de civitatibus Juda, urbes munitæ.
+  - `VulgHetzenauer (1906)`: Et exercitus regis Babylonis pugnabat contra Ierusalem, et contra omnes civitates Iuda, quæ reliquæ erant contra Lachis, et contra Azecha: hæ enim supererant de civitatibus Iuda, urbes munitæ.
+  - `VulgConte (2009)`: Et exercitus regis Babylonis pugnabat contra Ierusalem, et contra omnes civitates Iuda, quæ reliquæ erant contra Lachis, et contra Azecha: hæ enim supererant de civitatibus Iuda, urbes munitæ.
+  - `VulgSistina (1590)`: Et exercitus regis Babylonis pugnabat contra Ierusalem, et contra omnes civitates Iuda, quae reliquae erant contra Lachis, et contra Azecha: hae enim supererant de civitatibus Iuda, urbes munitae.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Gens autem et regnum quod non servierit Nabuchodonosor regi Babylonis, et quicumque non curvaverit collum suum sub jugo regis Babylonis, in gladio, et in fame, et in peste visitabo super gentem illam, ait Dominus, donec consumam eos in manu ejus.
-  - `Clem1598-USFX` *(numbered 27:8 in this witness)*: Gens autem et regnum quod non servierit Nabuchodonosor regi Babylonis, et quicumque non curvaverit collum suum sub jugo regis Babylonis, in gladio, et in fame, et in peste visitabo super gentem illam, ait Dominus, donec consumam eos in manu ejus.
-  - `Clem-Saints`: Gens autem et regnum quod non servierit Nabuchodonosor regi Babylonis, et quicumque non curvaverit collum suum sub jugo regis Babylonis, in gladio, et in fame, et in peste visitabo super gentem illam, ait Dominus, donec consumam eos in manu ejus.
-  - `VulgHetzenauer (1906)` *(numbered 27:8 in this witness)*: Gens autem et regnum, quod non servierit Nabuchodonosor regi Babylonis, et quicumque non curvaverit collum suum sub iugo regis Babylonis: in gladio, et in fame, et in peste visitabo super gentem illam, ait Dominus: donec consumam eos in manu eius.
-  - `VulgConte (2009)` *(numbered 27:8 in this witness)*: Gens autem et regnum, quod non servierit Nabuchodonosor regi Babylonis, et quicumque non curvaverit collum suum sub iugo regis Babylonis: in gladio, et in fame, et in peste visitabo super gentem illam, ait Dominus: donec consumam eos in manu eius.
-  - `VulgSistina (1590)` *(numbered 27:8 in this witness)*: Gens autem et regnum, quod non servierit Nabuchodonosor regi Babylonis, et quicumque non curvaverit collum suum sub iugo regis Babylonis: in gladio, et in fame, et in peste visitabo super gentem illam, ait Dominus: donec consumam eos in manu eius.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:8 (re-aligned by content).
+- **Critical Text:** Verbum quod factum est ad Jeremiam a Domino, postquam percussit rex Sedecias fœdus cum omni populo in Jerusalem, prædicans
+  - `Clem1598-USFX`: Verbum quod factum est ad Jeremiam a Domino, postquam percussit rex Sedecias fœdus cum omni populo in Jerusalem, prædicans
+  - `Clem-Saints` *(numbered 41:8 in this witness)*: Verbum quod factum est ad Jeremiam a Domino, postquam percussit rex Sedecias fœdus cum omni populo in Jerusalem, prædicans
+  - `VulgHetzenauer (1906)`: Verbum, quod factum est ad Ieremiam a Domino, postquam percussit rex Sedecias fœdus cum omni populo in Ierusalem, prædicans:
+  - `VulgConte (2009)`: Verbum, quod factum est ad Ieremiam a Domino, postquam percussit rex Sedecias fœdus cum omni populo in Ierusalem, prædicans:
+  - `VulgSistina (1590)`: Verbum, quod factum est ad Ieremiam a Domino, postquam percussit rex Sedechias foedus cum omni populo in Ierusalem, praedicans:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Vos ergo nolite audire prophetas vestros, et divinos, et somniatores, et augures, et maleficos, qui dicunt vobis: Non servietis regi Babylonis:
-  - `Clem1598-USFX` *(numbered 27:9 in this witness)*: Vos ergo nolite audire prophetas vestros, et divinos, et somniatores, et augures, et maleficos, qui dicunt vobis: Non servietis regi Babylonis:
-  - `Clem-Saints`: Vos ergo nolite audire prophetas vestros, et divinos, et somniatores, et augures, et maleficos, qui dicunt vobis: Non servietis regi Babylonis:
-  - `VulgHetzenauer (1906)` *(numbered 27:9 in this witness)*: Vos ergo nolite audire prophetas vestros, et divinos, et somniatores, et augures, et maleficos, qui dicunt vobis: Non servietis regi Babylonis.
-  - `VulgConte (2009)` *(numbered 27:9 in this witness)*: Vos ergo nolite audire prophetas vestros, et divinos, et somniatores, et augures, et maleficos, qui dicunt vobis: Non servietis regi Babylonis.
-  - `VulgSistina (1590)` *(numbered 27:9 in this witness)*: Vos ergo nolite audire prophetas vestros, et divinos, et somniatores, et augures, et maleficos, qui dicunt vobis: Non servietis regi Babylonis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:9 (re-aligned by content).
+- **Critical Text:** ut dimitteret unusquisque servum suum et unusquisque ancillam suam, Hebræum et Hebræam, liberos, et nequaquam dominarentur eis, id est, in Judæo et fratre suo.
+  - `Clem1598-USFX`: ut dimitteret unusquisque servum suum et unusquisque ancillam suam, Hebræum et Hebræam, liberos, et nequaquam dominarentur eis, id est, in Judæo et fratre suo.
+  - `Clem-Saints` *(numbered 41:9 in this witness)*: ut dimitteret unusquisque servum suum et unusquisque ancillam suam, Hebræum et Hebræam, liberos, et nequaquam dominarentur eis, id est, in Judæo et fratre suo.
+  - `VulgHetzenauer (1906)`: Ut dimitteret unusquisque servum suum, et unusquisque ancillam suam, Hebræum et Hebræam liberos: et nequaquam dominarentur eis, id est in Iudæo et fratre suo.
+  - `VulgConte (2009)`: Ut dimitteret unusquisque servum suum, et unusquisque ancillam suam, Hebræum et Hebræam liberos: et nequaquam dominarentur eis, id est in Iudæo et fratre suo.
+  - `VulgSistina (1590)`: Ut dimitteret unusquisque servum suum, et unusquisque ancillam suam, Hebraeum et Hebraeam liberos: et nequaquam dominarentur eis, id est in Iudaeo et fratre suo.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** quia mendacium prophetant vobis, ut longe vos faciant de terra vestra, et ejiciant vos, et pereatis.
-  - `Clem1598-USFX` *(numbered 27:10 in this witness)*: quia mendacium prophetant vobis, ut longe vos faciant de terra vestra, et ejiciant vos, et pereatis.
-  - `Clem-Saints`: quia mendacium prophetant vobis, ut longe vos faciant de terra vestra, et ejiciant vos, et pereatis.
-  - `VulgHetzenauer (1906)` *(numbered 27:10 in this witness)*: Quia mendacium prophetant vobis: ut longe vos faciant de terra vestra, et eiiciant vos, et pereatis.
-  - `VulgConte (2009)` *(numbered 27:10 in this witness)*: Quia mendacium prophetant vobis: ut longe vos faciant de terra vestra, et eiiciant vos, et pereatis.
-  - `VulgSistina (1590)` *(numbered 27:10 in this witness)*: Quia mendacium prophetant vobis: ut longe vos faciant de terra vestra, et eiiciant vos, et pereatis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:10 (re-aligned by content).
+- **Critical Text:** Audierunt ergo omnes principes et universus populus qui inierant pactum ut dimitteret unusquisque servum suum et unusquisque ancillam suam liberos, et ultra non dominarentur eis: audierunt igitur, et dimiserunt.
+  - `Clem1598-USFX`: Audierunt ergo omnes principes et universus populus qui inierant pactum ut dimitteret unusquisque servum suum et unusquisque ancillam suam liberos, et ultra non dominarentur eis: audierunt igitur, et dimiserunt.
+  - `Clem-Saints` *(numbered 41:10 in this witness)*: Audierunt ergo omnes principes et universus populus qui inierant pactum ut dimitteret unusquisque servum suum et unusquisque ancillam suam liberos, et ultra non dominarentur eis: audierunt igitur, et dimiserunt.
+  - `VulgHetzenauer (1906)`: Audierunt ergo omnes principes et universus populus, qui inierant pactum ut dimitteret unusquisque servum suum, et unusquisque ancillam suam liberos, et ultra non dominarentur eis: audierunt igitur, et dimiserunt.
+  - `VulgConte (2009)`: Audierunt ergo omnes principes et universus populus, qui inierant pactum ut dimitteret unusquisque servum suum, et unusquisque ancillam suam liberos, et ultra non dominarentur eis: audierunt igitur, et dimiserunt.
+  - `VulgSistina (1590)`: Audierunt ergo omnes principes et universus populus, qui inierant pactum ut dimitteret unusquisque servum suum, et unusquisque ancillam suam liberos, et ultra non dominarentur eis: audierunt igitur, et dimiserunt.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Porro gens quæ subjecerit cervicem suam sub jugo regis Babylonis, et servierit ei, dimittam eam in terra sua, dicit Dominus, et colet eam, et habitabit in ea.
-  - `Clem1598-USFX` *(numbered 27:11 in this witness)*: Porro gens quæ subjecerit cervicem suam sub jugo regis Babylonis, et servierit ei, dimittam eam in terra sua, dicit Dominus, et colet eam, et habitabit in ea.
-  - `Clem-Saints`: Porro gens quæ subjecerit cervicem suam sub jugo regis Babylonis, et servierit ei, dimittam eam in terra sua, dicit Dominus, et colet eam, et habitabit in ea.
-  - `VulgHetzenauer (1906)` *(numbered 27:11 in this witness)*: Porro gens, quæ subiecerit cervicem suam sub iugo regis Babylonis, et servierit ei; dimittam eam in terra sua, dicit Dominus: et colet eam, et habitabit in ea.
-  - `VulgConte (2009)` *(numbered 27:11 in this witness)*: Porro gens, quæ subiecerit cervicem suam sub iugo regis Babylonis, et servierit ei; dimittam eam in terra sua, dicit Dominus: et colet eam, et habitabit in ea.
-  - `VulgSistina (1590)` *(numbered 27:11 in this witness)*: Porro gens, quae subiecerit cervicem suam sub iugo regis Babylonis, et servierit ei; dimittam eam in terra sua, dicit Dominus: et colet eam, et habitabit in ea.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:11 (re-aligned by content).
+- **Critical Text:** Et conversi sunt deinceps: et retraxerunt servos et ancillas suas quos dimiserant liberos, et subjugaverunt in famulos et famulas.
+  - `Clem1598-USFX`: Et conversi sunt deinceps: et retraxerunt servos et ancillas suas quos dimiserant liberos, et subjugaverunt in famulos et famulas.
+  - `Clem-Saints` *(numbered 41:11 in this witness)*: Et conversi sunt deinceps: et retraxerunt servos et ancillas suas quos dimiserant liberos, et subjugaverunt in famulos et famulas.
+  - `VulgHetzenauer (1906)`: Et conversi sunt deinceps: et retraxerunt servos et ancillas suas, quos dimiserant liberos, et subiugaverunt in famulos et famulas.
+  - `VulgConte (2009)`: Et conversi sunt deinceps: et retraxerunt servos et ancillas suas, quos dimiserant liberos, et subiugaverunt in famulos et famulas.
+  - `VulgSistina (1590)`: Et conversi sunt deinceps: et retraxerunt servos et ancillas suas, quos dimiserant liberos, et subiugaverunt in famulos et famulas.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et ad Sedeciam regem Juda locutus sum secundum omnia verba hæc, dicens: Subjicite colla vestra sub jugo regis Babylonis, et servite ei et populo ejus, et vivetis.
-  - `Clem1598-USFX` *(numbered 27:12 in this witness)*: Et ad Sedeciam regem Juda locutus sum secundum omnia verba hæc, dicens: Subjicite colla vestra sub jugo regis Babylonis, et servite ei et populo ejus, et vivetis.
-  - `Clem-Saints`: Et ad Sedeciam regem Juda locutus sum secundum omnia verba hæc, dicens: Subjicite colla vestra sub jugo regis Babylonis, et servite ei et populo ejus, et vivetis.
-  - `VulgHetzenauer (1906)` *(numbered 27:12 in this witness)*: Et ad Sedeciam regem Iuda locutus sum secundum omnia verba hæc, dicens: Subiicite colla vestra sub iugo regis Babylonis, et servite ei, et populo eius, et vivetis.
-  - `VulgConte (2009)` *(numbered 27:12 in this witness)*: Et ad Sedeciam regem Iuda locutus sum secundum omnia verba hæc, dicens: Subiicite colla vestra sub iugo regis Babylonis, et servite ei, et populo eius, et vivetis.
-  - `VulgSistina (1590)` *(numbered 27:12 in this witness)*: Et ad Sedechiam regem Iuda locutus sum secundum omnia verba haec, dicens: Subiicite colla vestra sub iugo regis Babylonis, et servite ei, et populo eius, et vivetis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:12 (re-aligned by content).
+- **Critical Text:** Et factum est verbum Domini ad Jeremiam a Domino, dicens:
+  - `Clem1598-USFX`: Et factum est verbum Domini ad Jeremiam a Domino, dicens:
+  - `Clem-Saints` *(numbered 41:12 in this witness)*: Et factum est verbum Domini ad Jeremiam a Domino, dicens:
+  - `VulgHetzenauer (1906)`: Et factum est verbum Domini ad Ieremiam a Domino, dicens:
+  - `VulgConte (2009)`: Et factum est verbum Domini ad Ieremiam a Domino, dicens:
+  - `VulgSistina (1590)`: Et factum est verbum Domini ad Ieremiam a Domino, dicens:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
+
+### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Hæc dicit Dominus Deus Israël: Ego percussi fœdus cum patribus vestris in die qua eduxi eos de terra Ægypti, de domo servitutis, dicens:
+  - `Clem1598-USFX`: Hæc dicit Dominus Deus Israël: Ego percussi fœdus cum patribus vestris in die qua eduxi eos de terra Ægypti, de domo servitutis, dicens:
+  - `Clem-Saints` *(numbered 41:13 in this witness)*: Hæc dicit Dominus Deus Israël: Ego percussi fœdus cum patribus vestris in die qua eduxi eos de terra Ægypti, de domo servitutis, dicens:
+  - `VulgHetzenauer (1906)`: Hæc dicit Dominus Deus Israel: Ego percussi fœdus cum patribus vestris in die, qua eduxi eos de Terra Ægypti de domo servitutis, dicens:
+  - `VulgConte (2009)`: Hæc dicit Dominus Deus Israel: Ego percussi fœdus cum patribus vestris in die, qua eduxi eos de Terra Ægypti de domo servitutis, dicens:
+  - `VulgSistina (1590)`: Haec dicit Dominus Deus Israel: Ego percussi foedus cum patribus vestris in die, qua eduxi eos de Terra Aegypti de domo servitutis, dicens:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Nolite audire verba prophetarum dicentium vobis: Non servietis regi Babylonis: quia mendacium ipsi loquuntur vobis:
-  - `Clem1598-USFX` *(numbered 27:14 in this witness)*: Nolite audire verba prophetarum dicentium vobis: Non servietis regi Babylonis: quia mendacium ipsi loquuntur vobis:
-  - `Clem-Saints`: Nolite audire verba prophetarum dicentium vobis: Non servietis regi Babylonis: quia mendacium ipsi loquuntur vobis:
-  - `VulgHetzenauer (1906)` *(numbered 27:14 in this witness)*: Nolite audire verba prophetarum dicentium vobis: Non servietis regi Babylonis: quia mendacium ipsi loquuntur vobis.
-  - `VulgConte (2009)` *(numbered 27:14 in this witness)*: Nolite audire verba prophetarum dicentium vobis: Non servietis regi Babylonis: quia mendacium ipsi loquuntur vobis.
-  - `VulgSistina (1590)` *(numbered 27:14 in this witness)*: Nolite audire verba prophetarum dicentium vobis: Non servietis regi Babylonis: quia mendacium ipsi loquuntur vobis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:14 (re-aligned by content).
+- **Critical Text:** Cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebræum, qui venditus est ei: et serviet tibi sex annis, et dimittes eum a te liberum: et non audierunt patres vestri me, nec inclinaverunt aurem suam.
+  - `Clem1598-USFX`: Cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebræum, qui venditus est ei: et serviet tibi sex annis, et dimittes eum a te liberum: et non audierunt patres vestri me, nec inclinaverunt aurem suam.
+  - `Clem-Saints` *(numbered 41:14 in this witness)*: Cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebræum, qui venditus est ei: et serviet tibi sex annis, et dimittes eum a te liberum: et non audierunt patres vestri me, nec inclinaverunt aurem suam.
+  - `VulgHetzenauer (1906)`: Cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebræum, qui venditus est ei, et serviet tibi sex annis: et dimittes eum a te liberum: et non audierunt patres vestri me, nec inclinaverunt aurem suam.
+  - `VulgConte (2009)`: Cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebræum, qui venditus est ei, et serviet tibi sex annis: et dimittes eum a te liberum: et non audierunt patres vestri me, nec inclinaverunt aurem suam.
+  - `VulgSistina (1590)`: Cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebraeum, qui venditus est ei, et serviet tibi sex annis: et dimittes eum a te liberum: et non audierunt patres vestri me, nec inclinaverunt aurem suam.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** quia non misi eos, ait Dominus, et ipsi prophetant in nomine meo mendaciter, ut ejiciant vos, et pereatis, tam vos quam prophetæ qui vaticinantur vobis.
-  - `Clem1598-USFX` *(numbered 27:15 in this witness)*: quia non misi eos, ait Dominus, et ipsi prophetant in nomine meo mendaciter, ut ejiciant vos, et pereatis, tam vos quam prophetæ qui vaticinantur vobis.
-  - `Clem-Saints`: quia non misi eos, ait Dominus, et ipsi prophetant in nomine meo mendaciter, ut ejiciant vos, et pereatis, tam vos quam prophetæ qui vaticinantur vobis.
-  - `VulgHetzenauer (1906)` *(numbered 27:15 in this witness)*: Quia non misi eos, ait Dominus: et ipsi prophetant in nomine meo mendaciter: ut eiiciant vos, et pereatis tam vos, quam prophetæ, qui vaticinantur vobis.
-  - `VulgConte (2009)` *(numbered 27:15 in this witness)*: Quia non misi eos, ait Dominus: et ipsi prophetant in nomine meo mendaciter: ut eiiciant vos, et pereatis tam vos, quam prophetæ, qui vaticinantur vobis.
-  - `VulgSistina (1590)` *(numbered 27:15 in this witness)*: Quia non misi eos, ait Dominus: et ipsi prophetant in nomine meo mendaciter: ut eiiciant vos, et pereatis tam vos, quam prophetae, qui vaticinantur vobis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:15 (re-aligned by content).
+- **Critical Text:** Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut prædicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo, in domo in qua invocatum est nomen meum super eam:
+  - `Clem1598-USFX`: Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut prædicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo, in domo in qua invocatum est nomen meum super eam:
+  - `Clem-Saints` *(numbered 41:15 in this witness)*: Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut prædicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo, in domo in qua invocatum est nomen meum super eam:
+  - `VulgHetzenauer (1906)`: Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut prædicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo in domo, in qua invocatum est nomen meum super eam.
+  - `VulgConte (2009)`: Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut prædicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo in domo, in qua invocatum est nomen meum super eam.
+  - `VulgSistina (1590)`: Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut praedicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo in domo, in qua invocatum est nomen meum super eam.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et ad sacerdotes, et ad populum istum, locutus sum, dicens: Hæc dicit Dominus: Nolite audire verba prophetarum vestrorum, qui prophetant vobis, dicentes: Ecce vasa Domini revertentur de Babylone nunc cito: mendacium enim prophetant vobis.
-  - `Clem1598-USFX` *(numbered 27:16 in this witness)*: Et ad sacerdotes, et ad populum istum, locutus sum, dicens: Hæc dicit Dominus: Nolite audire verba prophetarum vestrorum, qui prophetant vobis, dicentes: Ecce vasa Domini revertentur de Babylone nunc cito: mendacium enim prophetant vobis.
-  - `Clem-Saints`: Et ad sacerdotes, et ad populum istum, locutus sum, dicens: Hæc dicit Dominus: Nolite audire verba prophetarum vestrorum, qui prophetant vobis, dicentes: Ecce vasa Domini revertentur de Babylone nunc cito: mendacium enim prophetant vobis.
-  - `VulgHetzenauer (1906)` *(numbered 27:16 in this witness)*: Et ad sacerdotes, et ad populum istum locutus sum, dicens: Hæc dicit Dominus: Nolite audire verba prophetarum vestrorum, qui prophetant vobis, dicentes: Ecce vasa Domini revertentur de Babylone nunc cito, mendacium enim prophetant vobis.
-  - `VulgConte (2009)` *(numbered 27:16 in this witness)*: Et ad sacerdotes, et ad populum istum locutus sum, dicens: Hæc dicit Dominus: Nolite audire verba prophetarum vestrorum, qui prophetant vobis, dicentes: Ecce vasa Domini revertentur de Babylone nunc cito: Mendacium enim prophetant vobis.
-  - `VulgSistina (1590)` *(numbered 27:16 in this witness)*: Et ad sacerdotes, et ad populum istum locutus sum, dicens: Haec dicit Dominus: Nolite audire verba prophetarum vestrorum, qui prophetant vobis, dicentes: Ecce vasa domus Domini revertentur de Babylone nunc cito, mendacium enim prophetant vobis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:16 (re-aligned by content).
+- **Critical Text:** et reversi estis, et commaculastis nomen meum, et reduxistis unusquisque servum suum et unusquisque ancillam suam quos dimiseratis ut essent liberi et suæ potestatis, et subjugastis eos ut sint vobis servi et ancillæ.
+  - `Clem1598-USFX`: et reversi estis, et commaculastis nomen meum, et reduxistis unusquisque servum suum et unusquisque ancillam suam quos dimiseratis ut essent liberi et suæ potestatis, et subjugastis eos ut sint vobis servi et ancillæ.
+  - `Clem-Saints` *(numbered 41:16 in this witness)*: et reversi estis, et commaculastis nomen meum, et reduxistis unusquisque servum suum et unusquisque ancillam suam quos dimiseratis ut essent liberi et suæ potestatis, et subjugastis eos ut sint vobis servi et ancillæ.
+  - `VulgHetzenauer (1906)`: Et reversi estis, et commaculastis nomen meum: et reduxistis unusquisque servum suum, et unusquisque ancillam suam, quos dimiseratis ut essent liberi et suæ potestatis: et subiugastis eos ut sint vobis servi et ancillæ.
+  - `VulgConte (2009)`: Et reversi estis, et commaculastis nomen meum: et reduxistis unusquisque servum suum, et unusquisque ancillam suam, quos dimiseratis ut essent liberi et suæ potestatis: et subiugastis eos ut sint vobis servi et ancillæ.
+  - `VulgSistina (1590)`: Et reversi estis, et commaculastis nomen meum: et reduxistis unusquisque servum suum, et unusquisque ancillam suam, quos dimiseratis ut essent liberi et suae potestatis: et subiugastis eos ut sint vobis servi et ancillae.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
+
+### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Propterea hæc dicit Dominus: Vos non audistis me, ut prædicaretis libertatem unusquisque fratri suo et unusquisque amico suo: ecce ego prædico vobis libertatem, ait Dominus, ad gladium, ad pestem, et ad famem, et dabo vos in commotionem cunctis regnis terræ.
+  - `Clem1598-USFX`: Propterea hæc dicit Dominus: Vos non audistis me, ut prædicaretis libertatem unusquisque fratri suo et unusquisque amico suo: ecce ego prædico vobis libertatem, ait Dominus, ad gladium, ad pestem, et ad famem, et dabo vos in commotionem cunctis regnis terræ.
+  - `Clem-Saints` *(numbered 41:17 in this witness)*: Propterea hæc dicit Dominus: Vos non audistis me, ut prædicaretis libertatem unusquisque fratri suo et unusquisque amico suo: ecce ego prædico vobis libertatem, ait Dominus, ad gladium, ad pestem, et ad famem, et dabo vos in commotionem cunctis regnis terræ.
+  - `VulgHetzenauer (1906)`: Propterea hæc dicit Dominus: Vos non audistis me, ut prædicaretis libertatem unusquisque fratri suo, et unusquisque amico suo: ecce ego prædico vobis libertatem, ait Dominus ad gladium, ad pestem, et ad famem: et dabo vos in commotionem cunctis regnis terræ.
+  - `VulgConte (2009)`: Propterea hæc dicit Dominus: Vos non audistis me, ut prædicaretis libertatem unusquisque fratri suo, et unusquisque amico suo: ecce ego prædico vobis libertatem, ait Dominus ad gladium, ad pestem, et ad famem: et dabo vos in commotionem cunctis regnis terræ.
+  - `VulgSistina (1590)`: Propterea haec dicit Dominus: Vos non audistis me, ut praedicaretis libertatem unusquisque fratri suo, et unusquisque amico suo: ecce ego praedico vobis libertatem, ait Dominus ad gladium, ad pestem, et ad famem: et dabo vos in commotionem cunctis regnis terrae.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et si prophetæ sunt, et est verbum Domini in eis, occurrant Domino exercituum, ut non veniant vasa quæ derelicta fuerant in domo Domini, et in domo regis Juda, et in Jerusalem, in Babylonem.
-  - `Clem1598-USFX` *(numbered 27:18 in this witness)*: Et si prophetæ sunt, et est verbum Domini in eis, occurrant Domino exercituum, ut non veniant vasa quæ derelicta fuerant in domo Domini, et in domo regis Juda, et in Jerusalem, in Babylonem.
-  - `Clem-Saints`: Et si prophetæ sunt, et est verbum Domini in eis, occurrant Domino exercituum, ut non veniant vasa quæ derelicta fuerant in domo Domini, et in domo regis Juda, et in Jerusalem, in Babylonem.
-  - `VulgHetzenauer (1906)` *(numbered 27:18 in this witness)*: Et si prophetæ sunt, et est verbum Domini in eis: occurrant Domino exercituum, ut non veniant vasa, quæ derelicta fuerant in domo Domini, et in domo regis Iuda, et in Ierusalem, in Babylonem.
-  - `VulgConte (2009)` *(numbered 27:18 in this witness)*: Et si prophetæ sunt, et est verbum Domini in eis: occurrant Domino exercituum, ut non veniant vasa, quæ derelicta fuerant in domo Domini, et in domo regis Iuda, et in Ierusalem, in Babylonem.
-  - `VulgSistina (1590)` *(numbered 27:18 in this witness)*: Et si prophetae sunt, et est verbum Domini in eis: occurrant Domino exercituum, ut non veniant vasa, quae derelicta fuerant in domo Domini, et in domo regis Iuda, et in Ierusalem, in Babylonem.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:18 (re-aligned by content).
+- **Critical Text:** Et dabo viros qui prævaricantur fœdus meum, et non observaverunt verba fœderis quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones ejus,
+  - `Clem1598-USFX`: Et dabo viros qui prævaricantur fœdus meum, et non observaverunt verba fœderis quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones ejus,
+  - `Clem-Saints` *(numbered 41:18 in this witness)*: Et dabo viros qui prævaricantur fœdus meum, et non observaverunt verba fœderis quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones ejus,
+  - `VulgHetzenauer (1906)`: Et dabo viros, qui prævaricantur fœdus meum, et non observaverunt verba fœderis, quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones eius:
+  - `VulgConte (2009)`: Et dabo viros, qui prævaricantur fœdus meum, et non observaverunt verba fœderis, quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones eius:
+  - `VulgSistina (1590)`: Et dabo viros, qui praevaricantur foedus meum, et non observaverunt verba foederis, quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones eius:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Quia hæc dicit Dominus exercituum ad columnas, et ad mare, et ad bases, et ad reliqua vasorum quæ remanserunt in civitate hac,
-  - `Clem1598-USFX` *(numbered 27:19 in this witness)*: Quia hæc dicit Dominus exercituum ad columnas, et ad mare, et ad bases, et ad reliqua vasorum quæ remanserunt in civitate hac,
-  - `Clem-Saints`: Quia hæc dicit Dominus exercituum ad columnas, et ad mare, et ad bases, et ad reliqua vasorum quæ remanserunt in civitate hac,
-  - `VulgHetzenauer (1906)` *(numbered 27:19 in this witness)*: Quia hæc dicit Dominus exercituum ad columnas, et ad mare, et ad bases, et ad reliqua vasorum, quæ remanserunt in civitate hac:
-  - `VulgConte (2009)` *(numbered 27:19 in this witness)*: Quia hæc dicit Dominus exercituum ad columnas, et ad mare, et ad bases, et ad reliqua vasorum, quæ remanserunt in civitate hac:
-  - `VulgSistina (1590)` *(numbered 27:19 in this witness)*: Quia haec dicit Dominus exercituum ad columnas, et ad mare, et ad bases, et ad reliqua vasorum, quae remanserunt in civitate hac:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:19 (re-aligned by content).
+- **Critical Text:** principes Juda et principes Jerusalem, eunuchi et sacerdotes, et omnis populus terræ, qui transierunt inter divisiones vituli:
+  - `Clem1598-USFX`: principes Juda et principes Jerusalem, eunuchi et sacerdotes, et omnis populus terræ, qui transierunt inter divisiones vituli:
+  - `Clem-Saints` *(numbered 41:19 in this witness)*: principes Juda et principes Jerusalem, eunuchi et sacerdotes, et omnis populus terræ, qui transierunt inter divisiones vituli:
+  - `VulgHetzenauer (1906)`: Principes Iuda et principes Ierusalem, eunuchi et sacerdotes, et omnis populus terræ, qui transierunt inter divisiones vituli:
+  - `VulgConte (2009)`: Principes Iuda et principes Ierusalem, eunuchi et sacerdotes, et omnis populus terræ, qui transierunt inter divisiones vituli:
+  - `VulgSistina (1590)`: Principes Iuda et principes Ierusalem, eunuchi et sacerdotes, et omnis populus terrae, qui transierunt inter divisiones vituli:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** quæ non tulit Nabuchodonosor rex Babylonis cum transferret Jechoniam filium Joakim regem Juda de Jerusalem in Babylonem, et omnes optimates Juda et Jerusalem:
-  - `Clem1598-USFX` *(numbered 27:20 in this witness)*: quæ non tulit Nabuchodonosor rex Babylonis cum transferret Jechoniam filium Joakim regem Juda de Jerusalem in Babylonem, et omnes optimates Juda et Jerusalem:
-  - `Clem-Saints`: quæ non tulit Nabuchodonosor rex Babylonis cum transferret Jechoniam filium Joakim regem Juda de Jerusalem in Babylonem, et omnes optimates Juda et Jerusalem:
-  - `VulgHetzenauer (1906)` *(numbered 27:20 in this witness)*: quæ non tulit Nabuchodonosor rex Babylonis, cum transferret Iechoniam filium Ioakim regem Iuda de Ierusalem in Babylonem, et omnes optimates Iuda et Ierusalem.
-  - `VulgConte (2009)` *(numbered 27:20 in this witness)*: quæ non tulit Nabuchodonosor rex Babylonis, cum transferret Iechoniam filium Ioakim regem Iuda de Ierusalem in Babylonem, et omnes optimates Iuda et Ierusalem.
-  - `VulgSistina (1590)` *(numbered 27:20 in this witness)*: quae non tulit Nabuchodonosor rex Babylonis, cum transferret Iechoniam filium Ioakim regem Iuda de Ierusalem in Babylonem, et omnes optimates Iuda et Ierusalem.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:20 (re-aligned by content).
+- **Critical Text:** et dabo eos in manus inimicorum suorum, et in manus quærentium animam eorum, et erit morticinum eorum in escam volatilibus cæli et bestiis terræ.
+  - `Clem1598-USFX`: et dabo eos in manus inimicorum suorum, et in manus quærentium animam eorum, et erit morticinum eorum in escam volatilibus cæli et bestiis terræ.
+  - `Clem-Saints` *(numbered 41:20 in this witness)*: et dabo eos in manus inimicorum suorum, et in manus quærentium animam eorum, et erit morticinum eorum in escam volatilibus cæli et bestiis terræ.
+  - `VulgHetzenauer (1906)`: Et dabo eos in manus inimicorum suorum, et in manus quærentium animam eorum: et erit morticinum eorum in escam volatilibus cæli, et bestiis terræ.
+  - `VulgConte (2009)`: Et dabo eos in manus inimicorum suorum, et in manus quærentium animam eorum: et erit morticinum eorum in escam volatilibus cæli, et bestiis terræ.
+  - `VulgSistina (1590)`: Et dabo eos in manus inimicorum suorum, et in manus quaerentium animam eorum: et erit morticinum eorum in escam volatilibus caeli, et bestiis terrae.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
+
+### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Et Sedeciam regem Juda, et principes ejus, dabo in manus inimicorum suorum, et in manus quærentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
+  - `Clem1598-USFX`: Et Sedeciam regem Juda, et principes ejus, dabo in manus inimicorum suorum, et in manus quærentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
+  - `Clem-Saints` *(numbered 41:21 in this witness)*: Et Sedeciam regem Juda, et principes ejus, dabo in manus inimicorum suorum, et in manus quærentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
+  - `VulgHetzenauer (1906)`: Et Sedeciam regem Iuda, et principes eius dabo in manus inimicorum suorum, et in manus quærentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
+  - `VulgConte (2009)`: Et Sedeciam regem Iuda, et principes eius dabo in manus inimicorum suorum, et in manus quærentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
+  - `VulgSistina (1590)`: Et Sedechiam regem Iuda, et principes eius dabo in manus inimicorum suorum, et in manus quaerentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** In Babylonem transferentur, et ibi erunt usque ad diem visitationis suæ, dicit Dominus, et afferri faciam ea, et restitui in loco isto.
-  - `Clem1598-USFX` *(numbered 27:22 in this witness)*: In Babylonem transferentur, et ibi erunt usque ad diem visitationis suæ, dicit Dominus, et afferri faciam ea, et restitui in loco isto.
-  - `Clem-Saints`: In Babylonem transferentur, et ibi erunt usque ad diem visitationis suæ, dicit Dominus, et afferri faciam ea, et restitui in loco isto.
-  - `VulgHetzenauer (1906)` *(numbered 27:22 in this witness)*: In Babylonem transferentur, et ibi erunt usque ad diem visitationis suæ, dicit Dominus, et afferri faciam ea, et restitui in loco isto.
-  - `VulgConte (2009)` *(numbered 27:22 in this witness)*: In Babylonem transferentur, et ibi erunt usque ad diem visitationis suæ, dicit Dominus, et afferri faciam ea, et restitui in loco isto.
-  - `VulgSistina (1590)` *(numbered 27:22 in this witness)*: In Babylonem transferentur, et ibi erunt usque ad diem visitationis suae, dicit Dominus, et afferri faciam ea, et restitui in loco isto.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 27:22 (re-aligned by content).
+- **Critical Text:** Ecce ego præcipio, dicit Dominus, et reducam eos in civitatem hanc, et præliabuntur adversus eam, et capient eam, et incendent igni: et civitates Juda dabo in solitudinem, eo quod non sit habitator.
+  - `Clem1598-USFX`: Ecce ego præcipio, dicit Dominus, et reducam eos in civitatem hanc, et præliabuntur adversus eam, et capient eam, et incendent igni: et civitates Juda dabo in solitudinem, eo quod non sit habitator.
+  - `Clem-Saints` *(numbered 41:22 in this witness)*: Ecce ego præcipio, dicit Dominus, et reducam eos in civitatem hanc, et præliabuntur adversus eam, et capient eam, et incendent igni: et civitates Juda dabo in solitudinem, eo quod non sit habitator.
+  - `VulgHetzenauer (1906)`: Ecce ego præcipio, dicit Dominus, et reducam eos in civitatem hanc, et præliabuntur adversus eam, et capient eam, et incendent igni: et civitates Iuda dabo in solitudinem, eo quod non sit habitator.
+  - `VulgConte (2009)`: Ecce ego præcipio, dicit Dominus, et reducam eos in civitatem hanc, et præliabuntur adversus eam, et capient eam, et incendent igni: et civitates Iuda dabo in solitudinem, eo quod non sit habitator.
+  - `VulgSistina (1590)`: Ecce ego praecipio, dicit Dominus, et reducam eos in civitatem hanc, et praeliabuntur adversus eam, et capient eam, et incendent igne: et civitates Iuda dabo in solitudinem, eo quod non sit habitator.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

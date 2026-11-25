@@ -65,8 +65,8 @@
 
 ## Translator Notes
 
-- **41:2** — The Vulgate reads 'Justum' ('the Righteous One') and 'vocavit eum ut sequeretur se' ('called him to follow Him'), diverging from the Hebrew 'whom righteousness/victory meets at his feet.'
+- **41:2** — The Vulgate reads 'Justum' ('the Righteous One') and 'vocavit eum ut sequeretur se' ('called him to follow Him'), diverging from the Hebrew 'whom righteousness/victory meets at his feet.' Note Clem1598-USFX prints capitalized Justum ('the Righteous One'), while current English keeps pronouns 'him'/'his' lowercase.
 - **41:4** — The Vulgate 'primus et novissimus ego sum' ('I am the first and the last') differs from the Hebrew 'I am the first, and with the last I am He.'
 - **41:7** — The Vulgate renders the Hebrew word for 'anvil' as 'tunc temporis' ('at that time'), reading it from the homonym meaning 'time.'
-- **41:10** — Distinctive Vulgate readings here include 'ne declines' ('do not turn aside' vs. Hebrew 'do not be dismayed'), perfect-tense verbs ('have strengthened ... have helped ... has upheld'), and 'dextera Justi mei' ('the right hand of My Righteous One' vs. Hebrew 'My righteous right hand').
+- **41:10** — Distinctive Vulgate readings here include 'ne declines' ('do not turn aside' vs. Hebrew 'do not be dismayed'), perfect-tense verbs ('have strengthened ... have helped ... has upheld'), and 'dextera Justi mei' ('the right hand of My Righteous One' vs. Hebrew 'My righteous right hand'). Clem1598-USFX prints capitalized Justi mei ('My Righteous One'); capitalization is subject to edition-wide policy.
 - **41:14** — The Vulgate reads 'qui mortui estis ex Israel' ('you who are dead from Israel'), vocalizing the Hebrew word for 'men' as 'dead.'

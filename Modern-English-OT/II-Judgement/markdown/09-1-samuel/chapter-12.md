@@ -1,6 +1,6 @@
 # 1 Samuel 12 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (25 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (25 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -55,10 +55,6 @@
 
 **12:25** But if you persist in wickedness, both you and your king will perish together."
 
-## Additional Verses (Not in Saints Numbering)
-
-**13:1** *(after `12:25`)* Saul was a son of one year when he began to reign, and he reigned over Israel for two years.
-
 ## Translator Notes
 
 - **12:3** — The Vulgate reads 'et contemnam illud hodie' ('and I will despise it today'), differing from the Hebrew ('to blind my eyes with it') and the Septuagint ('even a sandal'); 'munus' ('gift') carries the judicial sense of a bribe.
@@ -66,4 +62,3 @@
 - **12:11** — The Vulgate 'Badan' ('Bedan') follows the Hebrew Masoretic Text; this deliverer is otherwise unknown by that name, while the Septuagint and Syriac read 'Barak.'
 - **12:17** — Latin 'voces et pluvias' literally means 'voices and rains,' a Hebraic idiom for peals of thunder and rainstorms (likewise in 12:18).
 - **12:22** — The Vulgate reads 'juravit' ('has sworn'), whereas the Hebrew has 'was pleased' or 'resolved.'
-- **13:1 *(additional)*** — The Vulgate renders a difficult Hebrew idiom literally as "a son of one year," often explained as a missing numeral or the start of Saul's kingship.

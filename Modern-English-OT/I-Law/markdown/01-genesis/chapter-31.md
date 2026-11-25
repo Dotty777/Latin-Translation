@@ -1,6 +1,6 @@
 # Genesis 31 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (53 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (55 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -35,7 +35,7 @@
 
 **31:15** Has he not regarded us as foreigners, and sold us, and consumed our price?
 
-**31:16** But God has taken away our father's wealth and handed it over to us and to our children; therefore do all that He has commanded."
+**31:16** But God has taken away our father's wealth and handed it over to us and to our children; therefore do all that God has commanded you."
 
 **31:17** So Jacob rose up, and having placed his children and his wives on camels, departed.
 
@@ -51,17 +51,17 @@
 
 **31:23** Taking his brothers with him, he pursued him for seven days and overtook him on Mount Gilead.
 
-**31:24** And in a dream he saw the Lord saying to him, "Be careful not to speak anything harshly against Jacob."
+**31:24** And in a dream he saw God saying to him, "Be careful not to speak anything harshly against Jacob."
 
 **31:25** Now Jacob had already pitched his tent on the mountain, when he caught up with him along with his brothers and set up his tent on the same Mount Gilead.
 
 **31:26** And he said to Jacob, "Why have you acted like this, that without my knowledge you drove away my daughters like captives of the sword?
 
-**31:27** Why did you want to flee while I was unaware, and not inform me, so that I might send you off with joy, and songs, and tambourines, and lyre?
+**31:27** Why did you want to flee while I was unaware, and not inform me, so that I might send you off with joy, and songs, and tambourines, and lyres?
 
 **31:28** You did not allow me to kiss my sons and daughters; you have acted foolishly; and now
 
-**31:29** my hand indeed has the power to repay you with harm; but the God of your father said to me yesterday, 'Be careful not to speak anything too harsh with Jacob.'
+**31:29** my hand indeed has the power to repay you with harm; but the God of your father said to me yesterday, 'Be careful not to speak anything too harsh against Jacob.'
 
 **31:30** Granted, you desired to go to your own people, and you had a longing for your father's house; why did you steal my gods?"
 
@@ -75,7 +75,7 @@
 
 **31:35** she said, "Let my lord not be angry that I cannot rise before you, for it has now happened to me according to the custom of women." Thus the diligence of the one searching was foiled.
 
-**31:36** And Jacob, swelling with anger, said in contention, "For what fault of mine, and for what sin, have you burned so hotly after me,
+**31:36** And Jacob, swelling with anger, said in contention, "For what fault of mine, and for what sin of mine, have you burned so hotly after me,
 
 **31:37** and searched all my household goods? What have you found of all the possessions of your house? Set it here before my brothers and your brothers, and let them judge between me and you.
 
@@ -89,7 +89,7 @@
 
 **31:42** Unless the God of my father Abraham and the fear of Isaac had been with me, perhaps now you would have sent me away naked; God has looked upon my affliction and the labor of my hands, and rebuked you yesterday."
 
-**31:43** Laban answered him, "The daughters and the children, and your flocks, and all that you see, are mine; what can I do to my children and my grandchildren?
+**31:43** Laban answered him, "My daughters and the children, and your flocks, and all that you see, are mine; what can I do to my children and my grandchildren?
 
 **31:44** Come therefore, and let us enter into a covenant, so that it may be a testimony between me and you."
 
@@ -105,15 +105,15 @@
 
 **31:50** if you afflict my daughters, and if you bring in other wives besides them; there is no witness to our word except God, who is present and looks on."
 
+**31:51** And he said again to Jacob, "Look, this mound and the stone which I have set up between me and you,
+
 **31:52** will be a witness: let this mound, I say, and the stone be for a testimony, if either I pass beyond it going to you, or you pass by, devising harm against me.
 
 **31:53** May the God of Abraham and the God of Nahor judge between us, the God of their father." Jacob swore by the fear of his father Isaac,
 
 **31:54** and having offered sacrifices on the mountain, he called his brothers to eat bread. And when they had eaten, they remained there.
 
-## Additional Verses (Not in Saints Numbering)
-
-**31:51** *(after `31:50`)* And he said again to Jacob, "Look, this mound and the stone which I have set up between me and you,
+**31:55** Now Laban, rising up in the night, kissed his sons and his daughters and blessed them, returning to his own place.
 
 ## Translator Notes
 

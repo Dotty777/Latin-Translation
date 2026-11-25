@@ -1,8 +1,8 @@
 # 2 Samuel (2 Kingdoms) 21 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:27Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -71,7 +62,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### 2 Samuel (2 Kingdoms) 21:1
-- **Apparatus:** `Propter` Clem-Saints Clem1598-USFX VulgSistina (1590) **]** **Proper** VulgConte (2009) VulgHetzenauer (1906)
+- **Apparatus:** `Propter` Clem1598-USFX Clem-Saints VulgSistina (1590) **]** **Proper** VulgConte (2009) VulgHetzenauer (1906)
 
 ### 2 Samuel (2 Kingdoms) 21:3
 - *Disregarded Surface Variant:* kept `(adopted text)` over `hæreditati / hereditati`, `hæreditati / hereditati`, `hæreditati / hereditati`, `hæreditati / hereditati` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -96,7 +87,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Facta est quoque fames in diebus David tribus annis iugiter: et consuluit David oraculum Domini. Dixitque Dominus: Proper Saul, et domum eius sanguinum, quia occidit Gabaonitas.
   - `VulgConte (2009)`: Facta est quoque fames in diebus David tribus annis iugiter: et consuluit David oraculum Domini. Dixitque Dominus: Proper Saul, et domum eius sanguinum, quia occidit Gabaonitas.
   - `VulgSistina (1590)`: Facta est quoque fames in diebus David tribus annis iugiter: et consuluit David oraculum Domini. Dixitque Dominus: Propter Saul, et domum eius sanguinum, quia occidit Gabaonitas.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vocatis ergo Gabaonitis rex, dixit ad eos (porro Gabaonitæ non erant de filiis Israël, sed reliquiæ Amorrhæorum: filii quippe Israël juraverant eis, et voluit Saul percutere eos zelo, quasi pro filiis Israël et Juda),
@@ -105,7 +96,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vocatis ergo Gabaonitis rex, dixit ad eos. (Porro Gabaonitæ non erant de filiis Israel, sed reliquiæ Amorrhæorum: filii quippe Israel iuraverant eis, et voluit Saul percutere eos zelo, quasi pro filiis Israel et Iuda.)
   - `VulgConte (2009)`: Vocatis ergo Gabaonitis rex, dixit ad eos. (Porro Gabaonitæ non erant de filiis Israel, sed reliquiæ Amorrhæorum: filii quippe Israel iuraverant eis, et voluit Saul percutere eos zelo, quasi pro filiis Israel et Iuda.)
   - `VulgSistina (1590)`: Vocatis ergo Gabaonitis rex, dixit ad eos. (Porro Gabaonitae non erant de filiis Israel, sed reliquiae Amorrhaeorum: filii quippe Israel iuraverant eis, et voluit Saul percutere eos zelo, quasi pro filiis Israel et Iuda.)
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** dixit ergo David ad Gabaonitas: Quid faciam vobis? et quod erit vestri piaculum, ut benedicatis hæreditati Domini?
@@ -114,7 +105,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixit ergo David ad Gabaonitas: Quid faciam vobis? et quod erit vestri piaculum, ut benedicatis hereditati Domini?
   - `VulgConte (2009)`: Dixit ergo David ad Gabaonitas: Quid faciam vobis? Et quod erit vestri piaculum, ut benedicatis hereditati Domini?
   - `VulgSistina (1590)`: Dixit ergo David ad Gabaonitas: Quid faciam vobis? et quod erit vestri piaculum, ut benedicatis hereditati Domini?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixeruntque ei Gabaonitæ: Non est nobis super argento et auro quæstio, sed contra Saul, et contra domum ejus: neque volumus ut interficiatur homo de Israël. Ad quos rex ait: Quid ergo vultis ut faciam vobis?
@@ -123,7 +114,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixeruntque ei Gabaonitæ: Non est nobis super argento et auro quæstio, sed contra Saul, et contra domum eius: neque volumus ut interficiatur homo de Israel. Ad quos rex ait: Quid ergo vultis ut faciam vobis?
   - `VulgConte (2009)`: Dixeruntque ei Gabaonitæ: Non est nobis super argento et auro quæstio, sed contra Saul, et contra domum eius: neque volumus ut interficiatur homo de Israel. Ad quos rex ait: Quid ergo vultis ut faciam vobis?
   - `VulgSistina (1590)`: Dixeruntque ei Gabaonitae: Non est nobis super argento et auro quaestio, sed contra Saul, et contra domum eius: neque volumus ut interficiatur homo de Israel. Ad quos rex ait: Quid ergo vultis ut faciam vobis?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui dixerunt regi: Virum qui attrivit nos et oppressit inique, ita delere debemus, ut ne unus quidem residuus sit de stirpe ejus in cunctis finibus Israël.
@@ -132,7 +123,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Qui dixerunt regi: Virum, qui attrivit nos et oppressit inique, ita delere debemus, ut ne unus quidem residuus sit de stirpe eius in cunctis finibus Israel.
   - `VulgConte (2009)`: Qui dixerunt regi: Virum, qui attrivit nos et oppressit inique, ita delere debemus, ut ne unus quidem residuus sit de stirpe eius in cunctis finibus Israel.
   - `VulgSistina (1590)`: Qui dixerunt regi: Virum, qui attrivit nos et oppressit inique, ita delere debemus, ut ne unus quidem residuus sit de stirpe eius in cunctis finibus Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dentur nobis septem viri de filiis ejus, ut crucifigamus eos Domino in Gabaa Saul, quondam electi Domini. Et ait rex: Ego dabo.
@@ -141,7 +132,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dentur nobis septem viri de filiis eius, ut crucifigamus eos Domino in Gabaa Saul, quondam electi Domini. Et ait rex: Ego dabo.
   - `VulgConte (2009)`: Dentur nobis septem viri de filiis eius, ut crucifigamus eos Domino in Gabaa Saul, quondam electi Domini. Et ait rex: Ego dabo.
   - `VulgSistina (1590)`: Dentur nobis septem viri de filiis eius, ut crucifigamus eos Domino in Gabaa Saul, quondam electi Domini. Et ait rex: Ego dabo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Pepercitque rex Miphiboseth filio Jonathæ filii Saul, propter jusjurandum Domini quod fuerat inter David et inter Jonathan filium Saul.
@@ -150,7 +141,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Pepercitque rex Miphiboseth filio Ionathæ filii Saul, propter iusiurandum Domini, quod fuerat inter David et inter Ionathan filium Saul.
   - `VulgConte (2009)`: Pepercitque rex Miphiboseth filio Ionathæ filii Saul, propter iusiurandum Domini, quod fuerat inter David et inter Ionathan filium Saul.
   - `VulgSistina (1590)`: Pepercitque rex Miphiboseth filio Ionathae filii Saul, propter iusiurandum Domini, quod fuerat inter David et inter Ionathan filium Saul.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tulit itaque rex duos filios Respha filiæ Aja quos peperit Sauli, Armoni, et Miphiboseth: et quinque filios Michol filiæ Saul quos genuerat Hadrieli filio Berzellai, qui fuit de Molathi,
@@ -159,7 +150,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tulit itaque rex duos filios Respha filiæ Aia, quos peperit Sauli, Armoni, et Miphiboseth: et quinque filios Michol filiæ Saul, quos genuerat Hadrieli filio Berzellai, qui fuit de Molathi,
   - `VulgConte (2009)`: Tulit itaque rex duos filios Respha filiæ Aia, quos peperit Sauli, Armoni, et Miphiboseth: et quinque filios Michol filiæ Saul, quos genuerat Hadrieli filio Berzellai, qui fuit de Molathi,
   - `VulgSistina (1590)`: Tulit itaque rex duos filios Respha filiae Aia, quos peperit Sauli, Armoni, et Miphiboseth: et quinque filios Michol filiae Saul, quos genuerat Hadrieli filio Berzellai, qui fuit de Molathi,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et dedit eos in manus Gabaonitarum: qui crucifixerunt eos in monte coram Domino: et ceciderunt hi septem simul occisi in diebus messis primis, incipiente messione hordei.
@@ -168,7 +159,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et dedit eos in manus Gabaonitarum: qui crucifixerunt eos in monte coram Domino: et ceciderunt hi septem simul occisi in diebus messis primis, incipiente messione hordei.
   - `VulgConte (2009)`: et dedit eos in manus Gabaonitarum: qui crucifixerunt eos in monte coram Domino: et ceciderunt hi septem simul occisi in diebus messis primis, incipiente messione hordei.
   - `VulgSistina (1590)`: et dedit eos in manus Gabaonitarum: qui crucifixerunt eos in monte coram Domino: et ceciderunt hi septem simul occisi in diebus messis primis, incipiente messione hordei.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tollens autem Respha filia Aja cilicium, substravit sibi supra petram ab initio messis, donec stillaret aqua super eos de cælo: et non dimisit aves lacerare eos per diem, neque bestias per noctem.
@@ -177,7 +168,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tollens autem Respha filia Aia, cilicium substravit sibi supra petram ab initio messis, donec stillaret aqua super eos de cælo: et non dimisit aves lacerare eos per diem, neque bestias per noctem.
   - `VulgConte (2009)`: Tollens autem Respha filia Aia, cilicium substravit sibi supra petram ab initio messis, donec stillaret aqua super eos de cælo: et non dimisit aves lacerare eos per diem, neque bestias per noctem.
   - `VulgSistina (1590)`: Tollens autem Respha filia Aia, cilicium substravit sibi supra petram ab initio messis, donec stillaret aqua super eos de caelo: et non dimisit aves lacerare eos per diem, neque bestias per noctem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et nuntiata sunt David quæ fecerat Respha filia Aja, concubina Saul.
@@ -186,7 +177,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et nunciata sunt David quæ fecerat Respha, filia Aia, concubina Saul.
   - `VulgConte (2009)`: Et nunciata sunt David quæ fecerat Respha, filia Aia, concubina Saul.
   - `VulgSistina (1590)`: Et nunciata sunt David quae fecerat Respha, filia Aia, concubina Saul.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et abiit David, et tulit ossa Saul, et ossa Jonathæ filii ejus, a viris Jabes Galaad, qui furati fuerant ea de platea Bethsan in qua suspenderant eos Philisthiim cum interfecissent Saul in Gelboë:
@@ -195,7 +186,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et abiit David, et tulit ossa Saul, et ossa Ionathæ filii eius a viris Iabes Galaad, qui furati fuerant ea de platea Bethsan, in qua suspenderant eos Philisthiim cum interfecissent Saul in Gelboe:
   - `VulgConte (2009)`: Et abiit David, et tulit ossa Saul, et ossa Ionathæ filii eius a viris Iabes Galaad, qui furati fuerant ea de platea Bethsan, in qua suspenderant eos Philisthiim cum interfecissent Saul in Gelboe:
   - `VulgSistina (1590)`: Et abiit David, et tulit ossa Saul, et ossa Ionathae filii eius a viris Iabes Galaad, qui furati fuerant ea de platea Bethsan, in qua suspenderant eos Philisthiim cum interfecissent Saul in Gelboe:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et asportavit inde ossa Saul, et ossa Jonathæ filii ejus: et colligentes ossa eorum qui affixi fuerant,
@@ -204,7 +195,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et asportavit inde ossa Saul, et ossa Ionathæ filii eius: et colligentes ossa eorum, qui affixi fuerant,
   - `VulgConte (2009)`: et asportavit inde ossa Saul, et ossa Ionathæ filii eius: et colligentes ossa eorum, qui affixi fuerant,
   - `VulgSistina (1590)`: et asportavit inde ossa Saul, et ossa Ionathae filii eius: et colligentes ossa eorum, qui affixi fuerant,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** sepelierunt ea cum ossibus Saul et Jonathæ filii ejus in terra Benjamin, in latere, in sepulchro Cis patris ejus: feceruntque omnia quæ præceperat rex, et repropitiatus est Deus terræ post hæc.
@@ -213,7 +204,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: sepelierunt ea cum ossibus Saul et Ionathæ filii eius in Terra Beniamin, in latere, in sepulchro Cis patris eius: feceruntque omnia, quæ præceperat rex, et repropitiatus est Deus terræ post hæc.
   - `VulgConte (2009)`: sepelierunt ea cum ossibus Saul et Ionathæ filii eius in Terra Beniamin, in latere, in sepulchro Cis patris eius: feceruntque omnia, quæ præceperat rex, et repropitiatus est Deus terræ post hæc.
   - `VulgSistina (1590)`: sepelierunt ea cum ossibus Saul et Ionathae filii eius in Terra Beniamin, in latere, in sepulchro Cis patris eius: feceruntque omnia, quae praeceperat rex, et repropitiatus est Deus terrae post haec.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Factum est autem rursum prælium Philisthinorum adversum Israël, et descendit David, et servi ejus cum eo, et pugnabant contra Philisthiim. Deficiente autem David,
@@ -222,7 +213,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Factum est autem rursum prælium Philisthinorum adversum Israel, et descendit David, et servi eius cum eo, et pugnabant contra Philisthiim. Deficiente autem David,
   - `VulgConte (2009)`: Factum est autem rursum prælium Philisthinorum adversum Israel, et descendit David, et servi eius cum eo, et pugnabant contra Philisthiim. Deficiente autem David,
   - `VulgSistina (1590)`: Factum est autem rursum praelium Philisthinorum adversum Israel, et descendit David, et servi eius cum eo, et pugnabant contra Philisthiim. Deficiente autem David,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Jesbibenob, qui fuit de genere Arapha, cujus ferrum hastæ trecentas uncias appendebat, et accinctus erat ense novo, nisus est percutere David.
@@ -231,7 +222,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iesbibenob, qui fuit de genere arapha, cuius ferrum hastæ trecentas uncias appendebat, et accinctus erat ense novo, nisus est percutere David.
   - `VulgConte (2009)`: Iesbibenob, qui fuit de genere Arapha, cuius ferrum hastæ trecentas uncias appendebat, et accinctus erat ense novo, nisus est percutere David.
   - `VulgSistina (1590)`: Iesbibenob, qui fuit de genere arapha, cuius ferrum hastae trecentas uncias appendebat, et accinctus erat ense novo, nisus est percutere David.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Præsidioque ei fuit Abisai filius Sarviæ, et percussum Philisthæum interfecit. Tunc juraverunt viri David, dicentes: Jam non egredieris nobiscum in bellum, ne extinguas lucernam Israël.
@@ -240,7 +231,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Præsidioque ei fuit Abisai filius Sarviæ, et percussum Philisthæum interfecit. Tunc iuraverunt viri David, dicentes: Iam non egredieris nobiscum in bellum, ne extinguas lucernam Israel.
   - `VulgConte (2009)`: Præsidioque ei fuit Abisai filius Sarviæ, et percussum Philisthæum interfecit. Tunc iuraverunt viri David, dicentes: Iam non egredieris nobiscum in bellum, ne extinguas lucernam Israel.
   - `VulgSistina (1590)`: Praesidioque ei fuit Abisai filius Sarviae, et percussum Philisthaeum interfecit. Tunc iuraverunt viri David, dicentes: Iam non egredieris nobiscum in bellum, ne extinguas lucernam Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Secundum quoque bellum fuit in Gob contra Philisthæos: tunc percussit Sobochai de Husati, Saph de stirpe Arapha de genere gigantum.
@@ -249,7 +240,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Secundum quoque bellum fuit in Gob contra Philisthæos: tunc percussit Sobochai de Husati, Saph de stirpe arapha de genere gigantum.
   - `VulgConte (2009)`: Secundum quoque bellum fuit in Gob contra Philisthæos: tunc percussit Sobochai de Husati, Saph de stirpe Arapha de genere gigantum.
   - `VulgSistina (1590)`: Secundum quoque bellum fuit in Gob contra Philisthaeos: tunc percussit Sobochai de Husati, Saph de stirpe arapha de genere gigantum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tertium quoque fuit bellum in Gob contra Philisthæos, in quo percussit Adeodatus filius Saltus polymitarius Bethlehemites Goliath Gethæum, cujus hastile hastæ erat quasi liciatorium texentium.
@@ -258,7 +249,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tertium quoque fuit bellum in Gob contra Philisthæos, in quo percussit Adeodatus filius Saltus polymitarius Bethlehemites Goliath Gethæum, cuius hastile hastæ erat quasi liciatorium texentium.
   - `VulgConte (2009)`: Tertium quoque fuit bellum in Gob contra Philisthæos, in quo percussit Adeodatus filius saltus polymitarius Bethlehemites Goliath Gethæum, cuius hastile hastæ erat quasi liciatorium texentium.
   - `VulgSistina (1590)`: Tertium quoque fuit bellum in Gob contra Philisthaeos, in quo percussit Adeodatus filius Saltus polymitarius Bethlehemites Goliath Gethaeum, cuius hastile hastae erat quasi liciatorium texentium.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quartum bellum fuit in Geth: in quo vir fuit excelsus, qui senos in manibus pedibusque habebat digitos, id est, viginti quatuor: et erat de origine Arapha.
@@ -267,7 +258,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quartum bellum fuit in Geth: in quo vir fuit excelsus, qui senos in manibus pedibusque habebat digitos, id est viginti quattuor, et erat de origine arapha.
   - `VulgConte (2009)`: Quartum bellum fuit in Geth: in quo vir fuit excelsus, qui senos in manibus pedibusque habebat digitos, id est, viginti quattuor, et erat de origine Arapha.
   - `VulgSistina (1590)`: Quartum bellum fuit in Geth: in quo vir fuit excelsus, qui senos in manibus pedibusque habebat digitos, id est viginti quattuor, et erat de origine arapha.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et blasphemavit Israël: percussit autem eum Jonathan filius Samaa fratris David.
@@ -276,7 +267,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et blasphemavit Israel: percussit autem eum Ionathan filius Samaa fratris David.
   - `VulgConte (2009)`: Et blasphemavit Israel: percussit autem eum Ionathan filius Samaa fratris David.
   - `VulgSistina (1590)`: Et blasphemavit Israel: percussit autem eum Ionathan filius Samaa fratris David.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hi quatuor nati sunt de Arapha in Geth, et ceciderunt in manu David et servorum ejus.
@@ -285,4 +276,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hi quattuor nati sunt de arapha in Geth, et ceciderunt in manu David, et servorum eius.
   - `VulgConte (2009)`: Hi quattuor nati sunt de Arapha in Geth, et ceciderunt in manu David, et servorum eius.
   - `VulgSistina (1590)`: Hi quattuor nati sunt de arapha in Geth, et ceciderunt in manu David, et servorum eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

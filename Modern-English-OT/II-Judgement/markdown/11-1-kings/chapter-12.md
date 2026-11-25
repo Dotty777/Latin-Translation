@@ -1,11 +1,13 @@
 # 1 Kings 12 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 4 translator notes, 9 additional)  
+> **Status:** `draft: true` (33 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
 **12:1** Now Rehoboam came to Shechem, for all Israel had gathered there to appoint him king.
+
+**12:2** Meanwhile, Jeroboam the son of Nebat, while he was still in Egypt as a fugitive from the face of King Solomon, upon hearing of his death, returned from Egypt.
 
 **12:3** And they sent and called him; therefore Jeroboam and the entire multitude of Israel came and spoke to Rehoboam, saying,
 
@@ -35,6 +37,8 @@
 
 **12:16** Therefore the people, seeing that the king had been unwilling to listen to them, answered him, saying, "What share do we have in David? Or what inheritance in the son of Jesse? Go to your tents, Israel! Now see to your own house, David!" And Israel went away to their tents.
 
+**12:17** But Rehoboam reigned over all the sons of Israel who lived in the cities of Judah.
+
 **12:18** King Rehoboam therefore sent Adoram, who was over the tributes, and all Israel stoned him, and he died. Meanwhile, King Rehoboam hastily mounted a chariot and fled to Jerusalem;
 
 **12:19** and Israel withdrew from the house of David to the present day.
@@ -47,7 +51,7 @@
 
 **12:23** "Speak to Rehoboam the son of Solomon, king of Judah, and to all the house of Judah and Benjamin, and the rest of the people, saying,
 
-**12:24** 'This is what the Lord says: You shall not go up, nor shall you wage war against your brothers, the sons of Israel; let each man return to his house, for from Me this thing has come about.'" They listened to the word of the Lord and turned back from the journey, just as the Lord had commanded them. At that time Abijah the son of Jeroboam fell ill. And Jeroboam said to his wife, "Rise and change your attire, so that you are not recognized as being the wife of Jeroboam, and go to Shiloh, where Ahijah the prophet is, who spoke to me that I would reign over this people. Take also in your hand ten loaves, and a cake, and a jar of honey, and go to him; for he himself will tell you what is going to happen to this boy." The wife of Jeroboam did as he had said; and rising up, she went away to Shiloh and came to the house of Ahijah; but he could not see, because his eyes had grown dim from old age. Now the Lord said to Ahijah, "Look, the wife of Jeroboam is coming in to consult you concerning her son, who is sick; you shall speak this and that to her." Therefore when she was entering and concealing who she was, Ahijah heard the sound of her feet entering through the doorway, and he said, "Come in, wife of Jeroboam! Why do you pretend to be another woman? Yet I have been sent to you as a harsh messenger. Therefore, look, I will bring evils upon the house of Jeroboam, and I will strike down from Jeroboam the one who urinates against a wall, both the confined and the last in Israel; and I will clean out the remnants of the house of Jeroboam, just as dung is usually cleaned out until it is clean. Those of Jeroboam who die in the city, dogs will eat; and those who die in the field, the birds of the sky will devour; for the Lord has spoken. You, therefore, rise and go to your house; and at the very entrance of your feet into the city, the boy will die, and all Israel will mourn him and bury him; for this one alone from Jeroboam will be carried into a tomb, because a good word from the Lord God of Israel has been found concerning him in the house of Jeroboam." Therefore the wife of Jeroboam rose, went away, and came to Tirzah; and as she was entering the threshold of the house, the boy died, and they buried him. And all Israel mourned him according to the word of the Lord, which He spoke by the hand of His servant Ahijah the prophet.
+**12:24** 'This is what the Lord says: You shall not go up, nor shall you wage war against your brothers, the sons of Israel; let each man return to his house, for from Me this thing has come about.'" They listened to the word of the Lord and turned back from the journey, just as the Lord had commanded them.
 
 **12:25** Now Jeroboam built Shechem on Mount Ephraim and lived there; and going out from there, he built Penuel.
 
@@ -67,31 +71,10 @@
 
 **12:33** And he went up onto the altar that he had constructed in Bethel, on the fifteenth day of the eighth month, which he had invented out of his own heart; and he made a solemn feast for the sons of Israel, and went up onto the altar to burn incense.
 
-## Additional Verses (Not in Saints Numbering)
-
-**12:17** *(after `12:16`)* But Rehoboam reigned over all the sons of Israel who lived in the cities of Judah.
-
-**14:7** *(after `12:24`)* Go and say to Jeroboam: This is what the Lord God of Israel says: Because I lifted you up from the midst of the people and appointed you leader over My people Israel,
-
-**14:8** *(after `12:24`)* and tore apart the kingdom of the house of David and gave it to you, and you have not been like My servant David, who kept My commandments and followed Me with his whole heart, doing what was pleasing in My sight:
-
-**14:9** *(after `12:24`)* but you have done evil beyond all who were before you, and have made for yourself foreign gods and cast images to provoke Me to anger, and you have thrown Me behind your body:
-
-**14:14** *(after `12:24`)* Moreover, the Lord will appoint for Himself a king over Israel, who will strike the house of Jeroboam on this day and at this time:
-
-**14:15** *(after `12:24`)* and the Lord God will strike Israel just as a reed is swayed in the water; and He will uproot Israel from this good land, which He gave to their fathers, and He will scatter them beyond the river, because they made sacred groves for themselves to anger the Lord.
-
-**14:16** *(after `12:24`)* And the Lord will hand over Israel because of the sins of Jeroboam, who sinned and caused Israel to sin.
-
-**14:19** *(after `12:24`)* Now the rest of the matters of Jeroboam, how he fought and how he reigned—look, they are written in the book of the words of the days of the kings of Israel.
-
-**14:20** *(after `12:24`)* Now the days in which Jeroboam reigned were twenty-two years; and he slept with his fathers, and Nadab his son reigned in his place.
-
 ## Translator Notes
 
+- **12:2** — Native Clementine Vulgate places Jeroboam's return at 12:2 (grouped at Saints.Bible 11:43 following 3 Kingdoms).
 - **12:10** — The Vulgate reads "the back of my father" (dorso patris mei), whereas the Hebrew Masoretic Text reads "my father's loins" or "waist."
 - **12:15** — The Vulgate reads "because the Lord had turned away from him" (quoniam aversatus fuerat eum Dominus), where the Hebrew Masoretic Text reads "for it was a turn of affairs from the Lord."
-- **12:24** — Following the 3 Kingdoms supplement (12:24g-n), this verse includes the narrative of Abijah's illness and Ahijah's prophecy (paralleling 1 Kings 14:1-6, 10-13, 17-18). Within it, the Vulgate distinctively reads "both the confined and the last" (et clausum, et novissimum) and "a good word from the Lord God of Israel" (sermo bonus a Domino Deo Israël).
+- **12:24** — Native Clementine Vulgate places Abijah's illness and Ahijah's prophecy in chapter 14 (14:1-18), rather than joining them to 12:24 as in Saints.Bible.
 - **12:30** — The Vulgate explicitly reads "to worship the calf" (ad adorandum vitulum) where the Hebrew Masoretic Text reads "before the one," and in v. 31 renders the origin of the priests as "from the lowest of the people" (de extremis populi).
-- **14:9 *(additional)*** — The Clementine Vulgate literally reads "behind your body" (post corpus tuum), corresponding to the Hebrew idiom "behind your back."
-- **14:15 *(additional)*** — The Clementine Vulgate renders the idolatrous Asherah poles of the Hebrew as "sacred groves" (lucos).

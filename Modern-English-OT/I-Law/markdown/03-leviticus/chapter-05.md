@@ -1,6 +1,6 @@
 # Leviticus 5 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 4 translator notes)  
+> **Status:** `draft: true` (19 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Leviticus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -43,23 +43,8 @@
 
 **5:19** because through error he offended against the Lord."
 
-**5:20** The Lord spoke to Moses, saying:
-
-**5:21** "A soul who sins and, having despised the Lord, denies to his neighbor a deposit that had been committed to his trust, or extorts something by force, or makes a false accusation,
-
-**5:22** or finds a lost item and, denying it, moreover swears falsely, and does any other of the many things in which people customarily sin,
-
-**5:23** when convicted of the offense,
-
-**5:24** he shall return in full everything that he wanted to obtain through fraud, and a fifth part in addition to the owner to whom he had caused the loss.
-
-**5:25** But for his sin he shall offer an unblemished ram from the flock, and give it to the priest, according to the valuation and measure of the offense;
-
-**5:26** who shall pray for him before the Lord, and it will be forgiven him for each of the things that he sinned by doing."
-
 ## Translator Notes
 
 - **5:2** — Vulgate quod occisum a bestia est, aut per se mortuum ("what was killed by a beast, or died on its own") differs from the Hebrew list of unclean animal carcasses, and oblita fuerit ("forgets") here and in verses 3-4 renders the Hebrew "it is hidden from him."
 - **5:5** — Vulgate agat poenitentiam ("let him repent") is a distinctive Latin rendering; the Hebrew Masoretic Text and Septuagint speak of confessing the sin.
 - **5:15** — Vulgate qui emi potest duobus siclis ("which can be bought for two shekels") specifies a two-shekel price reflecting ancient Jewish legal tradition, whereas the Hebrew mentions a valuation in "shekels of silver" without stating the number two.
-- **5:20** — In this versification (matching the Hebrew Masoretic Text), Leviticus 5 continues through 5:26; other versifications number 5:20-26 as 6:1-7.

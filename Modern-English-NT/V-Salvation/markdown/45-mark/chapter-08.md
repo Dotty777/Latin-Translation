@@ -1,6 +1,6 @@
 # Mark 8 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (38 verses, 5 translator notes)  
+> **Status:** `draft: true` (39 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Mark`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -80,6 +80,8 @@
 **8:37** Or what will a man give in exchange for his soul?
 
 **8:38** For the one who is ashamed of Me and of My words in this adulterous and sinful generation, the Son of Man will also be ashamed of him when He comes in His Father's glory with the holy angels."
+
+**8:39** And He was saying to them, "Amen, I tell you that there are some of those standing here who will not taste death until they see the kingdom of God coming in power."
 
 ## Translator Notes
 

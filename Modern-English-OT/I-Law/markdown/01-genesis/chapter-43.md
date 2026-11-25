@@ -45,9 +45,9 @@
 
 **43:20** they spoke, "We beg you, my lord, to hear us. We already came down before to buy food;
 
-**43:21** and when it had been bought, after we had come to the lodging place, we opened our bags and found the money in the mouth of the sacks, which we are now bringing back in the same weight.
+**43:21** and when it had been bought, after we had come to the lodging place, we opened our sacks and found the money in the mouth of the sacks, which we have now brought back in the same weight.
 
-**43:22** And we have also brought other silver so that we may buy what is necessary. It is not within our knowledge who put it in our pouches."
+**43:22** And we have also brought other silver so that we may buy what is necessary for us. It is not within our knowledge who put it in our pouches."
 
 **43:23** And he answered, "Peace be with you; do not be afraid. Your God and the God of your father has given you treasures in your bags, for I myself have the money that you gave me, verified." And he brought Simeon out to them.
 
@@ -76,7 +76,7 @@
 ## Translator Notes
 
 - **43:5** — Vulgate includes "ut saepe diximus" ("as we have often said"), an explanatory clause absent from the Hebrew Masoretic Text.
-- **43:11** — Vulgate lists "resinae, et mellis, et storacis, et stactis, et terebinthi, et amygdalarum" ("resin, honey, storax, stacte, terebinth, and almonds"), reflecting Jerome's identifications of several rare Hebrew plant products.
+- **43:10** — Clem1598-USFX (with the Sixtine and Hetzenauer Clementine editions) prints 'vice alter' where feminine ablative 'vice altera' ('a second time', Codex Amiatinus) is required by the sense.
+- **43:11** — Vulgate lists "resinae, et mellis, et storacis, stactes, et terebinthi, et amygdalarum" ("resin, honey, storax, stacte, terebinth, and almonds"), reflecting Jerome's identifications of several rare Hebrew plant products.
 - **43:14** — Vulgate adds "meus" in "Deus autem meus omnipotens" ("my Almighty God") and renders the Hebrew expression of resignation ("if I am bereaved, I am bereaved") as "quasi orbatus absque liberis ero" ("I will be as one bereaved, without children").
 - **43:23** — Vulgate "probatam ego habeo" ("I myself have [it] verified") indicates that the steward holds the brothers' payment as tested and approved, and "thesauros" ("treasures") is plural against the Hebrew singular.
-- **43:24** — Latin "pauula" is an orthographic variant of "pabula" ("fodder"; compare "pabulum" in 42:27).

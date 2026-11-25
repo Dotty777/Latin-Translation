@@ -1,8 +1,8 @@
 # 1 Corinthians 08 — Saints Latin Critical Text
 
-**Division:** `06_Discipleship` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:22Z`
+**Division:** `06_Discipleship` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:10Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,39 +14,30 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Full 27-Book NT) | Tier 2 | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
+| **VL 75 (d)** | Codex Claromontanus — Old Latin Pauline Epistles (COMPAUL CC BY 4.0) | Tier 4 | CC BY 4.0 (UBIRA eData / ITSEE COMPAUL) | Premier Western Old Latin Pauline Witness (Rom, 1–2 Cor, Gal) |
+| **VL 89** | Budapest Anonymous — Old Latin Pauline Commentary Text (COMPAUL CC BY 4.0) | Tier 4 | CC BY 4.0 (UBIRA eData / ITSEE COMPAUL) | Earliest Continuous Old Latin Pauline Text (Rom, 1–2 Cor, Gal) |
 | **AMst** | Ambrosiaster — 4th-c. Old Latin Pauline Lemmata (COMPAUL CC BY 4.0) | Tier 4 | CC BY 4.0 (UBIRA eData / ITSEE COMPAUL) | Pre-Vulgate Roman Old Latin Commentary Text (Rom, 1–2 Cor, Gal) |
 | **PEL** | Pelagius — Early 5th-c. Latin Pauline Lemmata (COMPAUL CC BY 4.0) | Tier 4 | CC BY 4.0 (UBIRA eData / ITSEE COMPAUL) | Early Vulgate / Old Latin Commentary Text (Rom, 1–2 Cor, Gal) |
-| **VL 51 (gig)** | Codex Gigas — Pauline Epistles (COMPAUL CC BY 4.0) | Tier 4 | CC BY 4.0 (UBIRA eData / ITSEE COMPAUL) | Old Latin / Vulgate Mixed Witness (Rom, 1–2 Cor, Gal) |
-| **VL 61 (ar)** | Book of Armagh — Irish Pauline Epistles (COMPAUL CC BY 4.0) | Tier 4 | CC BY 4.0 (UBIRA eData / ITSEE COMPAUL) | Irish Mixed Old Latin / Vulgate Witness (Rom, 1–2 Cor, Gal) |
-| **VL 75 (d)** | Codex Claromontanus — Old Latin Pauline Epistles (COMPAUL CC BY 4.0) | Tier 4 | CC BY 4.0 (UBIRA eData / ITSEE COMPAUL) | Premier Western Old Latin Pauline Witness (Rom, 1–2 Cor, Gal) |
 | **VL 77 (g)** | Codex Boernerianus — Old Latin Pauline Epistles (COMPAUL CC BY 4.0) | Tier 4 | CC BY 4.0 (UBIRA eData / ITSEE COMPAUL) | Western Interlinear Old Latin Pauline Witness (Rom, 1–2 Cor, Gal) |
+| **VL 61 (ar)** | Book of Armagh — Irish Pauline Epistles (COMPAUL CC BY 4.0) | Tier 4 | CC BY 4.0 (UBIRA eData / ITSEE COMPAUL) | Irish Mixed Old Latin / Vulgate Witness (Rom, 1–2 Cor, Gal) |
 | **VL 78 (f)** | Codex Augiensis — Latin Pauline Epistles (COMPAUL CC BY 4.0) | Tier 4 | CC BY 4.0 (UBIRA eData / ITSEE COMPAUL) | Old Latin / Early Vulgate Pauline Witness (Rom, 1–2 Cor, Gal) |
-| **VL 89** | Budapest Anonymous — Old Latin Pauline Commentary Text (COMPAUL CC BY 4.0) | Tier 4 | CC BY 4.0 (UBIRA eData / ITSEE COMPAUL) | Earliest Continuous Old Latin Pauline Text (Rom, 1–2 Cor, Gal) |
+| **VL 51 (gig)** | Codex Gigas — Pauline Epistles (COMPAUL CC BY 4.0) | Tier 4 | CC BY 4.0 (UBIRA eData / ITSEE COMPAUL) | Old Latin / Vulgate Mixed Witness (Rom, 1–2 Cor, Gal) |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -71,153 +62,153 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### 1 Corinthians 8:1
-- **Apparatus:** `quæ idolis sacrificantur,` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VL 75 (d) VL 89 VulgConte (2009) VulgHetzenauer (1906) **]** **que idulis immolantur** VL 61 (ar) ; **quae idolis immolantur** AMst PEL VL 78 (f) VulgSistina (1590) ; **quae idolis immolantur uel sacrificantur** VL 77 (g)
-- **Apparatus:** `sacrificantur,` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VL 75 (d) VL 77 (g) VL 89 VulgConte (2009) VulgHetzenauer (1906) **]** **immolantur** AMst PEL VL 78 (f) VulgSistina (1590) VL 61 (ar)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **immolantur uel** VL 77 (g)
-- **Apparatus:** `quia` Clem-Saints Clem1598-USFX AMst VL 61 (ar) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quoniam** Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 77 (g)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **enim** PEL ; **autem** VL 61 (ar)
-- **Apparatus:** `vero` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **autem** VL 61 (ar) VL 75 (d) ; **om.** VL 78 (f) ; **uero uel autem** VL 77 (g)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **uel autem** VL 77 (g)
+- **Apparatus:** `quæ idolis sacrificantur,` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VL 75 (d) VL 89 VulgConte (2009) VulgHetzenauer (1906) **]** **que idulis immolantur** VL 61 (ar) ; **quae idolis immolantur** AMst PEL VL 78 (f) VulgSistina (1590) ; **quae idolis immolantur uel sacrificantur** VL 77 (g)
+- **Apparatus:** `sacrificantur,` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VL 75 (d) VL 77 (g) VL 89 VulgConte (2009) VulgHetzenauer (1906) **]** **immolantur** AMst PEL VL 78 (f) VulgSistina (1590) VL 61 (ar)
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **immolantur uel** VL 77 (g)
+- **Apparatus:** `quia` Clem1598-USFX AMst Clem-Saints VL 61 (ar) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quoniam** Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 77 (g)
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **enim** PEL ; **autem** VL 61 (ar)
+- **Apparatus:** `vero` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **autem** VL 61 (ar) VL 75 (d) ; **om.** VL 78 (f) ; **uero uel autem** VL 77 (g)
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **uel autem** VL 77 (g)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `iis / his`, `iis / his`, `iis / his`, `iis / his`, `iis / his`, `idolis / ydolis`, `iis / his`, `iis / his`, `iis / his`, `iis / his`, `iis / his`, `caritas / charitas`, `… and 2 more` (AMst, Amiatinus (A), PEL, VL 51 (gig), VL 61 (ar), VL 75 (d), VL 77 (g), VL 78 (f), VL 89, VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### 1 Corinthians 8:2
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quod** AMst PEL VL 61 (ar) VL 75 (d) ; **si autem uel quod** VL 77 (g)
-- **Apparatus:** `autem` Clem-Saints Clem1598-USFX VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **existimat** AMst ; **om.** Amiatinus (A) PEL VL 61 (ar) VL 75 (d) VL 77 (g) ; **enim existimat cognouisse** VL 89 ; **autem putat** VL 78 (f)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **putat** VL 78 (f)
-- **Apparatus:** `existimat` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst VL 78 (f) VL 89 ; **existimat cognoscere uel** VL 77 (g)
-- **Apparatus:** `existimat scire` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VL 89 ; **scire** AMst VL 78 (f) ; **existimat cognouisse** VL 75 (d) ; **existimat cognoscere uel scire** VL 77 (g)
-- **Apparatus:** `scire` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cognouisse** VL 75 (d) ; **om.** VL 89
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cognoscere uel** VL 77 (g)
-- **Apparatus:** `aliquid,` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst ; **aliquit** PEL
-- **Apparatus:** `oporteat` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **oportet** VL 61 (ar)
-- **Apparatus:** `eum` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst VL 75 (d) VL 77 (g) VL 78 (f) VL 89
+- **Apparatus:** `om.` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quod** AMst PEL VL 61 (ar) VL 75 (d) ; **si autem uel quod** VL 77 (g)
+- **Apparatus:** `autem` Clem1598-USFX Clem-Saints VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **existimat** AMst ; **om.** Amiatinus (A) PEL VL 61 (ar) VL 75 (d) VL 77 (g) ; **enim existimat cognouisse** VL 89 ; **autem putat** VL 78 (f)
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **putat** VL 78 (f)
+- **Apparatus:** `existimat` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst VL 78 (f) VL 89 ; **existimat cognoscere uel** VL 77 (g)
+- **Apparatus:** `existimat scire` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VL 89 ; **scire** AMst VL 78 (f) ; **existimat cognouisse** VL 75 (d) ; **existimat cognoscere uel scire** VL 77 (g)
+- **Apparatus:** `scire` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cognouisse** VL 75 (d) ; **om.** VL 89
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cognoscere uel** VL 77 (g)
+- **Apparatus:** `aliquid,` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst ; **aliquit** PEL
+- **Apparatus:** `oporteat` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **oportet** VL 61 (ar)
+- **Apparatus:** `eum` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst VL 75 (d) VL 77 (g) VL 78 (f) VL 89
 
 ### 1 Corinthians 8:3
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **uero** AMst ; **autem** VL 77 (g) VL 78 (f)
-- **Apparatus:** `autem` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst VL 77 (g) VL 78 (f)
-- **Apparatus:** `diligit` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **dilegit** VL 61 (ar)
-- **Apparatus:** `ab eo.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **a deo** VL 89 ; **ab illo** VL 75 (d) VL 77 (g) VL 78 (f)
-- **Apparatus:** `eo.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **illo** VL 75 (d) VL 77 (g) VL 78 (f) ; **deo** VL 89
+- **Apparatus:** `om.` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **uero** AMst ; **autem** VL 77 (g) VL 78 (f)
+- **Apparatus:** `autem` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst VL 77 (g) VL 78 (f)
+- **Apparatus:** `diligit` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **dilegit** VL 61 (ar)
+- **Apparatus:** `ab eo.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **a deo** VL 89 ; **ab illo** VL 75 (d) VL 77 (g) VL 78 (f)
+- **Apparatus:** `eo.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **illo** VL 75 (d) VL 77 (g) VL 78 (f) ; **deo** VL 89
 
 ### 1 Corinthians 8:4
-- **Apparatus:** `escis autem quæ idolis immolantur,` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cibis igitur simulacris immolatorum** AMst ; **esca ergo sacrificiorum** VL 77 (g) VL 78 (f) ; **escis autem eorum quae idolis immolantur** PEL ; **sanctis autem que idulis immolantur** VL 61 (ar) ; **escis autem sacrificiorum** VL 75 (d) VL 89
-- **Apparatus:** `escis` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sanctis** VL 61 (ar) ; **cibis** AMst ; **esca** VL 77 (g) VL 78 (f)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **eorum** PEL
-- **Apparatus:** `quæ idolis` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **que idulis** VL 61 (ar) ; **simulacris immolatorum** AMst ; **sacrificiorum** VL 75 (d) VL 77 (g) VL 78 (f) VL 89
-- **Apparatus:** `quæ idolis immolantur,` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sacrificiorum** VL 75 (d) VL 89 VL 77 (g) VL 78 (f) ; **simulacris immolatorum** AMst ; **que idulis immolantur** VL 61 (ar)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **enim** AMst ; **autem** VL 51 (gig)
-- **Apparatus:** `est` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VL 75 (d)
-- **Apparatus:** `idolum in mundo,` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **simulacrum** AMst ; **idulum** VL 61 (ar) ; **idolum** PEL VL 89 ; **idolum in saeculo** VL 75 (d)
-- **Apparatus:** `in mundo,` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** PEL VL 89 AMst VL 61 (ar) ; **in saeculo** VL 75 (d)
-- **Apparatus:** `mundo,` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **saeculo** VL 75 (d) ; **om.** AMst PEL VL 61 (ar) VL 89
-- **Apparatus:** `quod nullus est` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quia nemo** AMst ; **quod nullus** Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) ; **quod nemo** VL 75 (d) VL 89 ; **quia nullus** VL 78 (f)
-- **Apparatus:** `quod` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quia** VL 78 (f) AMst
-- **Apparatus:** `nullus est` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **nemo** VL 75 (d) VL 89 AMst ; **nullus** Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f)
-- **Apparatus:** `est` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) AMst VL 75 (d) VL 89
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **deus** VL 61 (ar)
+- **Apparatus:** `escis autem quæ idolis immolantur,` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cibis igitur simulacris immolatorum** AMst ; **esca ergo sacrificiorum** VL 77 (g) VL 78 (f) ; **escis autem eorum quae idolis immolantur** PEL ; **sanctis autem que idulis immolantur** VL 61 (ar) ; **escis autem sacrificiorum** VL 75 (d) VL 89
+- **Apparatus:** `escis` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 75 (d) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sanctis** VL 61 (ar) ; **cibis** AMst ; **esca** VL 77 (g) VL 78 (f)
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **eorum** PEL
+- **Apparatus:** `quæ idolis` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **que idulis** VL 61 (ar) ; **simulacris immolatorum** AMst ; **sacrificiorum** VL 75 (d) VL 77 (g) VL 78 (f) VL 89
+- **Apparatus:** `quæ idolis immolantur,` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sacrificiorum** VL 75 (d) VL 89 VL 77 (g) VL 78 (f) ; **simulacris immolatorum** AMst ; **que idulis immolantur** VL 61 (ar)
+- **Apparatus:** `om.` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **enim** AMst ; **autem** VL 51 (gig)
+- **Apparatus:** `est` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VL 75 (d)
+- **Apparatus:** `idolum in mundo,` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **simulacrum** AMst ; **idulum** VL 61 (ar) ; **idolum** PEL VL 89 ; **idolum in saeculo** VL 75 (d)
+- **Apparatus:** `in mundo,` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** PEL VL 89 AMst VL 61 (ar) ; **in saeculo** VL 75 (d)
+- **Apparatus:** `mundo,` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **saeculo** VL 75 (d) ; **om.** AMst PEL VL 61 (ar) VL 89
+- **Apparatus:** `quod nullus est` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quia nemo** AMst ; **quod nullus** Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) ; **quod nemo** VL 75 (d) VL 89 ; **quia nullus** VL 78 (f)
+- **Apparatus:** `quod` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quia** VL 78 (f) AMst
+- **Apparatus:** `nullus est` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **nemo** VL 75 (d) VL 89 AMst ; **nullus** Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f)
+- **Apparatus:** `est` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) AMst VL 75 (d) VL 89
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **deus** VL 61 (ar)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quæ idolis / que ydolis`, `nihil / nichil`, `idolum / ydolum` (VL 51 (gig)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### 1 Corinthians 8:5
-- **Apparatus:** `Nam etsi sunt` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **licet sint** AMst ; **nam et si sint** VL 75 (d) VL 89 ; **etenim si sunt** VL 78 (f)
-- **Apparatus:** `Nam etsi` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **etenim si** VL 78 (f) ; **licet sint** AMst ; **nam et** VL 75 (d) VL 89
-- **Apparatus:** `etsi sunt` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et si sint** VL 75 (d) VL 89 ; **sint** AMst ; **si sunt** VL 78 (f)
-- **Apparatus:** `dicantur` Clem-Saints Clem1598-USFX AMst Amiatinus (A) VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **dicuntur** PEL VL 61 (ar)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et domini** AMst VL 75 (d)
-- **Apparatus:** `(siquidem sunt dii multi, et domini multi):` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst ; **sicut enim sunt di multi et domini multi** VL 75 (d) ; **sicut sunt dii multi et domini multi** VL 77 (g) VL 78 (f) ; **sicuti sunt dii multi et domini multi** VL 89
-- **Apparatus:** `(siquidem` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sicut enim** VL 75 (d) ; **sicut** VL 77 (g) VL 78 (f) ; **sicuti** VL 89 ; **om.** AMst
+- **Apparatus:** `Nam etsi sunt` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **licet sint** AMst ; **nam et si sint** VL 75 (d) VL 89 ; **etenim si sunt** VL 78 (f)
+- **Apparatus:** `Nam etsi` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **etenim si** VL 78 (f) ; **licet sint** AMst ; **nam et** VL 75 (d) VL 89
+- **Apparatus:** `etsi sunt` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et si sint** VL 75 (d) VL 89 ; **sint** AMst ; **si sunt** VL 78 (f)
+- **Apparatus:** `dicantur` Clem1598-USFX AMst Amiatinus (A) Clem-Saints VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **dicuntur** PEL VL 61 (ar)
+- **Apparatus:** `om.` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et domini** AMst VL 75 (d)
+- **Apparatus:** `(siquidem sunt dii multi, et domini multi):` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst ; **sicut enim sunt di multi et domini multi** VL 75 (d) ; **sicut sunt dii multi et domini multi** VL 77 (g) VL 78 (f) ; **sicuti sunt dii multi et domini multi** VL 89
+- **Apparatus:** `(siquidem` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sicut enim** VL 75 (d) ; **sicut** VL 77 (g) VL 78 (f) ; **sicuti** VL 89 ; **om.** AMst
 - *Disregarded Surface Variant:* kept `(adopted text)` over `etsi / et si`, `etsi / et si`, `etsi / et si`, `etsi / et si`, `etsi / et si`, `etsi / et si`, `(siquidem / (si quidem` (Amiatinus (A), PEL, VL 51 (gig), VL 61 (ar), VL 77 (g), VulgConte (2009)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `dii / di` (VL 75 (d)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### 1 Corinthians 8:6
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sed** VL 75 (d) VL 77 (g) VL 78 (f)
-- **Apparatus:** `tamen` Clem-Saints Clem1598-USFX AMst Amiatinus (A) VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **autem** PEL ; **om.** VL 75 (d) VL 77 (g) VL 78 (f) VL 89
-- **Apparatus:** `est` Clem-Saints Clem1598-USFX VL 75 (d) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et** Amiatinus (A)
-- **Apparatus:** `in illum:` Clem-Saints Clem1598-USFX Amiatinus (A) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **per ipsum** VL 89 ; **in illo** AMst PEL VL 51 (gig) ; **in ipsum** VL 75 (d) ; **in ipsum uel ipso** VL 77 (g) ; **in ipso** VL 78 (f)
-- **Apparatus:** `illum:` Clem-Saints Clem1598-USFX Amiatinus (A) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **illo** AMst PEL VL 51 (gig) ; **ipsum** VL 75 (d) VL 89 ; **ipsum uel ipso** VL 77 (g) ; **ipso** VL 78 (f)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **est** VL 61 (ar)
-- **Apparatus:** `Christus,` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst VL 75 (d) VL 78 (f)
-- **Apparatus:** `per ipsum.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **in ipso** VL 89
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sed** VL 75 (d) VL 77 (g) VL 78 (f)
+- **Apparatus:** `tamen` Clem1598-USFX AMst Amiatinus (A) Clem-Saints VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **autem** PEL ; **om.** VL 75 (d) VL 77 (g) VL 78 (f) VL 89
+- **Apparatus:** `est` Clem1598-USFX Clem-Saints VL 75 (d) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f)
+- **Apparatus:** `om.` Clem1598-USFX AMst Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **et** Amiatinus (A)
+- **Apparatus:** `in illum:` Clem1598-USFX Amiatinus (A) Clem-Saints VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **per ipsum** VL 89 ; **in illo** AMst PEL VL 51 (gig) ; **in ipsum** VL 75 (d) ; **in ipsum uel ipso** VL 77 (g) ; **in ipso** VL 78 (f)
+- **Apparatus:** `illum:` Clem1598-USFX Amiatinus (A) Clem-Saints VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **illo** AMst PEL VL 51 (gig) ; **ipsum** VL 75 (d) VL 89 ; **ipsum uel ipso** VL 77 (g) ; **ipso** VL 78 (f)
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **est** VL 61 (ar)
+- **Apparatus:** `Christus,` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst VL 75 (d) VL 78 (f)
+- **Apparatus:** `per ipsum.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **in ipso** VL 89
 
 ### 1 Corinthians 8:7
-- **Apparatus:** `est` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VL 75 (d)
-- **Apparatus:** `Quidam` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **aliqui** AMst
-- **Apparatus:** `autem cum conscientia` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **enim in conscientiam** VL 89 ; **autem adhuc conscientia** AMst ; **autem conscientia** Amiatinus (A) VL 51 (gig) ; **autem in conscientia** PEL VL 75 (d) VL 77 (g) VL 78 (f) ; **autem cum scientia** VL 61 (ar)
-- **Apparatus:** `cum` Clem-Saints Clem1598-USFX VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **adhuc** AMst ; **om.** Amiatinus (A) VL 51 (gig) ; **in** PEL VL 75 (d) VL 77 (g) VL 78 (f) VL 89
-- **Apparatus:** `conscientia usque nunc` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scientia adhuc** VL 61 (ar) ; **conscientia simulacri** AMst ; **conscientia usque adhuc** PEL VL 75 (d) VL 77 (g) VL 78 (f) ; **conscientiam usque adhuc** VL 89
-- **Apparatus:** `usque nunc idoli,` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **simulacri** AMst ; **usque adhuc idoli** PEL VL 75 (d) VL 77 (g) VL 78 (f) VL 89 ; **adhuc idoli** VL 61 (ar)
-- **Apparatus:** `nunc` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **adhuc** PEL VL 75 (d) VL 77 (g) VL 78 (f) VL 89 ; **om.** AMst VL 61 (ar)
-- **Apparatus:** `idolothytum` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **simulacro immolatum** AMst ; **idolo immolatum** VL 75 (d) VL 89 ; **idolothytum uel idolo immolatum** VL 77 (g)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **uel idolo immolatum** VL 77 (g)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **uel edunt** VL 77 (g)
-- **Apparatus:** `ipsorum` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **aliorum** AMst ; **eorum** VL 75 (d) VL 77 (g) VL 78 (f) VL 89
-- **Apparatus:** `polluitur.` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **coinquinatur** AMst ; **inquinatur** PEL VL 61 (ar) VL 75 (d) VL 77 (g) VL 89 ; **inquinabitur** VL 78 (f)
+- **Apparatus:** `est` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VL 75 (d)
+- **Apparatus:** `Quidam` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **aliqui** AMst
+- **Apparatus:** `autem cum conscientia` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **enim in conscientiam** VL 89 ; **autem adhuc conscientia** AMst ; **autem conscientia** Amiatinus (A) VL 51 (gig) ; **autem in conscientia** PEL VL 75 (d) VL 77 (g) VL 78 (f) ; **autem cum scientia** VL 61 (ar)
+- **Apparatus:** `cum` Clem1598-USFX Clem-Saints VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **adhuc** AMst ; **om.** Amiatinus (A) VL 51 (gig) ; **in** PEL VL 75 (d) VL 77 (g) VL 78 (f) VL 89
+- **Apparatus:** `conscientia usque nunc` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scientia adhuc** VL 61 (ar) ; **conscientia simulacri** AMst ; **conscientia usque adhuc** PEL VL 75 (d) VL 77 (g) VL 78 (f) ; **conscientiam usque adhuc** VL 89
+- **Apparatus:** `usque nunc idoli,` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **simulacri** AMst ; **usque adhuc idoli** PEL VL 75 (d) VL 77 (g) VL 78 (f) VL 89 ; **adhuc idoli** VL 61 (ar)
+- **Apparatus:** `nunc` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **adhuc** PEL VL 75 (d) VL 77 (g) VL 78 (f) VL 89 ; **om.** AMst VL 61 (ar)
+- **Apparatus:** `idolothytum` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **simulacro immolatum** AMst ; **idolo immolatum** VL 75 (d) VL 89 ; **idolothytum uel idolo immolatum** VL 77 (g)
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **uel idolo immolatum** VL 77 (g)
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **uel edunt** VL 77 (g)
+- **Apparatus:** `ipsorum` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **aliorum** AMst ; **eorum** VL 75 (d) VL 77 (g) VL 78 (f) VL 89
+- **Apparatus:** `polluitur.` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **coinquinatur** AMst ; **inquinatur** PEL VL 61 (ar) VL 75 (d) VL 77 (g) VL 89 ; **inquinabitur** VL 78 (f)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `idolothytum / idolothitum`, `idoli, / ydoli`, `idolothytum / ydolotitum`, `idolothytum / idolothitum`, `idolothytum / idolothitum` (PEL, VL 51 (gig), VL 61 (ar), VL 78 (f)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### 1 Corinthians 8:8
-- **Apparatus:** `enim si manducaverimus, abundabimus: neque` Clem-Saints Clem1598-USFX PEL VL 61 (ar) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A) ; **enim si ederimus habundabimus neque** AMst ; **enim si** VL 51 (gig) ; **enim si manducauerimus abundauimus neque enim** VL 75 (d) ; **enim si manducauerimus abundamus neque** VL 89
-- **Apparatus:** `manducaverimus, abundabimus:` Clem-Saints Clem1598-USFX PEL VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ederimus habundabimus** AMst ; **om.** Amiatinus (A) VL 51 (gig) ; **manducauerimus abundamus** VL 89
-- **Apparatus:** `manducaverimus, abundabimus: neque si` Clem-Saints Clem1598-USFX PEL VL 61 (ar) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VL 51 (gig) ; **ederimus habundabimus neque si** AMst ; **si** Amiatinus (A) ; **manducauerimus abundauimus neque enim si** VL 75 (d) ; **manducauerimus abundamus neque si** VL 89
-- **Apparatus:** `abundabimus:` Clem-Saints Clem1598-USFX AMst PEL VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **abundamus** VL 89 ; **om.** Amiatinus (A) VL 51 (gig)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **enim** VL 75 (d)
-- **Apparatus:** `manducaverimus, deficiemus.` Clem-Saints Clem1598-USFX VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ederimus deerit nobis** AMst ; **manducauerimus deficiemus neque si manducauerimus abundauimus** Amiatinus (A) VL 51 (gig) ; **manducauerimus de erit nobis** PEL VL 61 (ar) VL 77 (g) ; **manducauerimus egemus** VL 75 (d) VL 89
-- **Apparatus:** `deficiemus.` Clem-Saints Clem1598-USFX VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **de erit nobis** PEL VL 61 (ar) VL 77 (g) AMst ; **egemus** VL 75 (d) VL 89 ; **deficiemus neque si manducauerimus abundauimus** Amiatinus (A) VL 51 (gig)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst PEL VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **neque si manducauerimus abundauimus** Amiatinus (A) VL 51 (gig)
+- **Apparatus:** `enim si manducaverimus, abundabimus: neque` Clem1598-USFX Clem-Saints PEL VL 61 (ar) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A) ; **enim si ederimus habundabimus neque** AMst ; **enim si** VL 51 (gig) ; **enim si manducauerimus abundauimus neque enim** VL 75 (d) ; **enim si manducauerimus abundamus neque** VL 89
+- **Apparatus:** `manducaverimus, abundabimus:` Clem1598-USFX Clem-Saints PEL VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ederimus habundabimus** AMst ; **om.** Amiatinus (A) VL 51 (gig) ; **manducauerimus abundamus** VL 89
+- **Apparatus:** `manducaverimus, abundabimus: neque si` Clem1598-USFX Clem-Saints PEL VL 61 (ar) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VL 51 (gig) ; **ederimus habundabimus neque si** AMst ; **si** Amiatinus (A) ; **manducauerimus abundauimus neque enim si** VL 75 (d) ; **manducauerimus abundamus neque si** VL 89
+- **Apparatus:** `abundabimus:` Clem1598-USFX AMst Clem-Saints PEL VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **abundamus** VL 89 ; **om.** Amiatinus (A) VL 51 (gig)
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **enim** VL 75 (d)
+- **Apparatus:** `manducaverimus, deficiemus.` Clem1598-USFX Clem-Saints VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ederimus deerit nobis** AMst ; **manducauerimus deficiemus neque si manducauerimus abundauimus** Amiatinus (A) VL 51 (gig) ; **manducauerimus de erit nobis** PEL VL 61 (ar) VL 77 (g) ; **manducauerimus egemus** VL 75 (d) VL 89
+- **Apparatus:** `deficiemus.` Clem1598-USFX Clem-Saints VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **de erit nobis** PEL VL 61 (ar) VL 77 (g) AMst ; **egemus** VL 75 (d) VL 89 ; **deficiemus neque si manducauerimus abundauimus** Amiatinus (A) VL 51 (gig)
+- **Apparatus:** `om.` Clem1598-USFX AMst Clem-Saints PEL VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **neque si manducauerimus abundauimus** Amiatinus (A) VL 51 (gig)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `abundabimus: / habundabimus` (VL 61 (ar)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `abundabimus: / abundauimus`, `abundabimus: / abundauimus` (VL 75 (d), VL 78 (f)) — *Apparatus witness, not a variant: b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)*
 
 ### 1 Corinthians 8:9
-- **Apparatus:** `autem` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **tamen** AMst
-- **Apparatus:** `hæc` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst VL 75 (d) VL 77 (g) VL 89
-- **Apparatus:** `offendiculum` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **offensio** AMst
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **haec** VL 75 (d) VL 77 (g) VL 89
-- **Apparatus:** `infirmis.` Clem-Saints Clem1598-USFX AMst PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **infirmibus** Amiatinus (A) VL 75 (d) VL 89
+- **Apparatus:** `autem` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **tamen** AMst
+- **Apparatus:** `hæc` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst VL 75 (d) VL 77 (g) VL 89
+- **Apparatus:** `offendiculum` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **offensio** AMst
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **haec** VL 75 (d) VL 77 (g) VL 89
+- **Apparatus:** `infirmis.` Clem1598-USFX AMst Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **infirmibus** Amiatinus (A) VL 75 (d) VL 89
 
 ### 1 Corinthians 8:10
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Nam** VL 75 (d) VL 89
-- **Apparatus:** `enim` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VL 75 (d) VL 89
-- **Apparatus:** `eum,` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **te** VL 75 (d) ; **habentem** VL 77 (g) VL 78 (f)
-- **Apparatus:** `eum, qui habet` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **habentem** VL 77 (g) VL 78 (f) ; **te qui habet** VL 75 (d)
-- **Apparatus:** `scientiam,` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scientia et** VL 75 (d)
-- **Apparatus:** `idolio` Clem-Saints Clem1598-USFX AMst PEL VL 51 (gig) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) **]** **idulo** VL 61 (ar) ; **idolo** VulgSistina (1590) VL 75 (d)
-- **Apparatus:** `idolio recumbentem:` Clem-Saints Clem1598-USFX AMst PEL VL 51 (gig) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) **]** **idolo recunbentem** VL 75 (d) ; **idulo recumbentem** VL 61 (ar) ; **idolo recumbentem:** VulgSistina (1590)
-- **Apparatus:** `conscientia` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scientia** VL 61 (ar)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **infirmantis uel** VL 77 (g)
-- **Apparatus:** `ædificabitur` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **uel infirmus aedificatur** VL 77 (g) ; **aedificabitur idulis** VL 61 (ar)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **idulis** VL 61 (ar)
-- **Apparatus:** `manducandum idolothyta?` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **edendum idolothita** PEL ; **manducandum de simulacris** AMst ; **manducandum immolatum** VL 61 (ar) ; **manducandum immolata** VL 75 (d) VL 89 ; **manducandum idolothyta uel immolata** VL 77 (g)
-- **Apparatus:** `idolothyta?` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **de simulacris** AMst ; **immolatum** VL 61 (ar) ; **immolata** VL 75 (d) VL 89 ; **idolothyta uel immolata** VL 77 (g)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **uel immolata** VL 77 (g)
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Nam** VL 75 (d) VL 89
+- **Apparatus:** `enim` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VL 75 (d) VL 89
+- **Apparatus:** `eum,` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **te** VL 75 (d) ; **habentem** VL 77 (g) VL 78 (f)
+- **Apparatus:** `eum, qui habet` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **habentem** VL 77 (g) VL 78 (f) ; **te qui habet** VL 75 (d)
+- **Apparatus:** `scientiam,` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scientia et** VL 75 (d)
+- **Apparatus:** `idolio` Clem1598-USFX AMst Clem-Saints PEL VL 51 (gig) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) **]** **idulo** VL 61 (ar) ; **idolo** VulgSistina (1590) VL 75 (d)
+- **Apparatus:** `idolio recumbentem:` Clem1598-USFX AMst Clem-Saints PEL VL 51 (gig) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) **]** **idolo recunbentem** VL 75 (d) ; **idulo recumbentem** VL 61 (ar) ; **idolo recumbentem:** VulgSistina (1590)
+- **Apparatus:** `conscientia` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scientia** VL 61 (ar)
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **infirmantis uel** VL 77 (g)
+- **Apparatus:** `ædificabitur` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **uel infirmus aedificatur** VL 77 (g) ; **aedificabitur idulis** VL 61 (ar)
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **idulis** VL 61 (ar)
+- **Apparatus:** `manducandum idolothyta?` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **edendum idolothita** PEL ; **manducandum de simulacris** AMst ; **manducandum immolatum** VL 61 (ar) ; **manducandum immolata** VL 75 (d) VL 89 ; **manducandum idolothyta uel immolata** VL 77 (g)
+- **Apparatus:** `idolothyta?` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **de simulacris** AMst ; **immolatum** VL 61 (ar) ; **immolata** VL 75 (d) VL 89 ; **idolothyta uel immolata** VL 77 (g)
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **uel immolata** VL 77 (g)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `idolio / ydolio`, `ædificabitur / edificabitur`, `idolothyta? / ydolotita`, `idolothyta? / idolothita` (VL 51 (gig), VL 78 (f)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### 1 Corinthians 8:11
-- **Apparatus:** `peribit` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **perit** VL 75 (d) VL 89 ; **peribit qui** AMst PEL VL 61 (ar) VL 77 (g)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **qui** AMst PEL VL 61 (ar) VL 77 (g)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **est** AMst PEL VL 61 (ar) VL 77 (g)
-- **Apparatus:** `scientia,` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) **]** **conscientia** VL 51 (gig) VL 61 (ar) VulgSistina (1590)
-- **Apparatus:** `propter quem` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pro quo** AMst VL 61 (ar)
-- **Apparatus:** `propter quem Christus` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pro quo** VL 61 (ar) ; **pro quo christus** AMst
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **christus** VL 61 (ar)
+- **Apparatus:** `peribit` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **perit** VL 75 (d) VL 89 ; **peribit qui** AMst PEL VL 61 (ar) VL 77 (g)
+- **Apparatus:** `om.` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **qui** AMst PEL VL 61 (ar) VL 77 (g)
+- **Apparatus:** `om.` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **est** AMst PEL VL 61 (ar) VL 77 (g)
+- **Apparatus:** `scientia,` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) **]** **conscientia** VL 51 (gig) VL 61 (ar) VulgSistina (1590)
+- **Apparatus:** `propter quem` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pro quo** AMst VL 61 (ar)
+- **Apparatus:** `propter quem Christus` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pro quo** VL 61 (ar) ; **pro quo christus** AMst
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **christus** VL 61 (ar)
 
 ### 1 Corinthians 8:12
-- **Apparatus:** `Sic` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **si** VL 75 (d)
-- **Apparatus:** `in` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **inter** VL 61 (ar)
-- **Apparatus:** `et` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst VL 75 (d) VL 77 (g) VL 78 (f) VL 89
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ipsorum** VL 75 (d) ; **eorum** VL 77 (g)
-- **Apparatus:** `conscientiam` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VL 78 (f)
-- **Apparatus:** `eorum` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **illorum** AMst ; **ipsorum** PEL VL 61 (ar) VL 89 ; **om.** VL 75 (d) VL 77 (g) ; **eorum conscientiamam** VL 78 (f)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **conscientiamam** VL 78 (f)
-- **Apparatus:** `Christum` Clem-Saints Clem1598-USFX VL 51 (gig) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **christo** AMst Amiatinus (A) PEL VL 61 (ar) VL 75 (d) VL 77 (g) VL 89
+- **Apparatus:** `Sic` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **si** VL 75 (d)
+- **Apparatus:** `in` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **inter** VL 61 (ar)
+- **Apparatus:** `et` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst VL 75 (d) VL 77 (g) VL 78 (f) VL 89
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ipsorum** VL 75 (d) ; **eorum** VL 77 (g)
+- **Apparatus:** `conscientiam` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VL 78 (f)
+- **Apparatus:** `eorum` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **illorum** AMst ; **ipsorum** PEL VL 61 (ar) VL 89 ; **om.** VL 75 (d) VL 77 (g) ; **eorum conscientiamam** VL 78 (f)
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **conscientiamam** VL 78 (f)
+- **Apparatus:** `Christum` Clem1598-USFX Clem-Saints VL 51 (gig) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **christo** AMst Amiatinus (A) PEL VL 61 (ar) VL 75 (d) VL 77 (g) VL 89
 
 ### 1 Corinthians 8:13
-- **Apparatus:** `Quapropter` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **propter quod** AMst VL 75 (d) VL 89
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **propter quod uel** VL 77 (g)
-- **Apparatus:** `scandalizat` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scandalitzat** VL 61 (ar)
-- **Apparatus:** `meum,` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst VL 75 (d) VL 77 (g) VL 78 (f)
-- **Apparatus:** `manducabo` Clem-Saints Clem1598-USFX Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **edam** AMst
-- **Apparatus:** `ne` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ut non** VL 75 (d) VL 77 (g) VL 78 (f) VL 89
-- **Apparatus:** `meum` Clem-Saints Clem1598-USFX Amiatinus (A) VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst PEL VL 75 (d) VL 77 (g) VL 78 (f) VL 89
-- **Apparatus:** `scandalizem.` Clem-Saints Clem1598-USFX AMst Amiatinus (A) PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scandalitzem** VL 61 (ar)
+- **Apparatus:** `Quapropter` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 77 (g) VL 78 (f) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **propter quod** AMst VL 75 (d) VL 89
+- **Apparatus:** `om.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **propter quod uel** VL 77 (g)
+- **Apparatus:** `scandalizat` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scandalitzat** VL 61 (ar)
+- **Apparatus:** `meum,` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst VL 75 (d) VL 77 (g) VL 78 (f)
+- **Apparatus:** `manducabo` Clem1598-USFX Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **edam** AMst
+- **Apparatus:** `ne` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ut non** VL 75 (d) VL 77 (g) VL 78 (f) VL 89
+- **Apparatus:** `meum` Clem1598-USFX Amiatinus (A) Clem-Saints VL 51 (gig) VL 61 (ar) VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** AMst PEL VL 75 (d) VL 77 (g) VL 78 (f) VL 89
+- **Apparatus:** `scandalizem.` Clem1598-USFX AMst Amiatinus (A) Clem-Saints PEL VL 51 (gig) VL 75 (d) VL 77 (g) VL 78 (f) VL 89 VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scandalitzem** VL 61 (ar)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `æternum, / eternum`, `esca / aesca` (VL 51 (gig), VL 77 (g)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ---
@@ -240,7 +231,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VL 61 (ar)`: DE his autem que idulis immolantur scimus quia omnes scientiam habemus scientia autem inflat caritas autem aedificat
   - `VL 78 (f)`: De his autem quę idolis immolantur scimus quia omnes scientiam habemus Scientia inflat caritas aedificat
   - `VL 51 (gig)`: De his autem quę ydolis sacrificantur scimus quoniam omnes scientiam habemus Scientia inflat caritas uero ędificat
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Si quis autem se existimat scire aliquid, nondum cognovit quemadmodum oporteat eum scire.
@@ -258,7 +249,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VL 61 (ar)`: quod si quis se existimat scire aliquid nondum cognouit quemadmodum oportet eum scire
   - `VL 78 (f)`: Si quis autem putat se scire aliquid nondum cognouit quemadmodum oporteat scire
   - `VL 51 (gig)`: Si quis autem se existimat scire aliquid nondum cognouit quemadmodum oporteat eum scire
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Si quis autem diligit Deum, hic cognitus est ab eo.
@@ -276,7 +267,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VL 61 (ar)`: si quis autem dilegit deum hic cognitus est ab eo
   - `VL 78 (f)`: Si autem quis diligit deum hic cognitus est ab illo
   - `VL 51 (gig)`: Si quis autem diligit deum hic cognitus est ab eo
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** De escis autem quæ idolis immolantur, scimus quia nihil est idolum in mundo, et quod nullus est Deus, nisi unus.
@@ -294,7 +285,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VL 61 (ar)`: De sanctis autem que idulis immolantur scimus quia nihil est idulum et quod nullus deus nisi unus deus
   - `VL 78 (f)`: De esca ergo sacrificiorum scimus quia nihil est idolum in mundo et quia nullus deus nisi unus
   - `VL 51 (gig)`: De escis autem que ydolis immolantur scimus autem quia nichil est ydolum in mundo et quod nullus deus nisi unus
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nam etsi sunt qui dicantur dii sive in cælo, sive in terra (siquidem sunt dii multi, et domini multi):
@@ -312,7 +303,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VL 61 (ar)`: nam et si sunt qui dicuntur dii siue in caelo siue in terra siquidem sunt dii multi et domini multi
   - `VL 78 (f)`: etenim si sunt qui dicantur dii siue in caelo siue in terra sicut sunt dii multi et domini multi
   - `VL 51 (gig)`: Nam et si sunt qui dicantur dii siue in cęlo siue in terra siquidem sunt dii multi et domini multi
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** nobis tamen unus est Deus, Pater, ex quo omnia, et nos in illum: et unus Dominus Jesus Christus, per quem omnia, et nos per ipsum.
@@ -330,7 +321,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VL 61 (ar)`: nobis tamen unus deus pater ex quo omnia et nos in illum et unus est dominus iesus christus per quem omnia et nos per ipsum
   - `VL 78 (f)`: sed nobis unus deus pater ex quo omnia et nos in ipso et unus dominus iesus per quem omnia et nos per ipsum
   - `VL 51 (gig)`: nobis tamen unus deus pater ex quo omnia et nos in illo et unus dominus iesus christus per quem omnia et nos per ipsum
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sed non in omnibus est scientia. Quidam autem cum conscientia usque nunc idoli, quasi idolothytum manducant: et conscientia ipsorum cum sit infirma, polluitur.
@@ -348,7 +339,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VL 61 (ar)`: sed non in omnibus est scientia Quidam autem cum scientia adhuc idoli quasi idolothitum manducant et conscientia ipsorum cum sit infirma inquinatur
   - `VL 78 (f)`: sed non in omnibus est scientia Quidam autem in conscientia usque adhuc idoli quasi idolothitum manducant et conscientia eorum cum sit infirma inquinabitur
   - `VL 51 (gig)`: Sed non in omnibus est scientia Quidam autem conscientia usque nunc ydoli quasi ydolotitum manducant et conscientia ipsorum cum sit infirma polluitur
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Esca autem nos non commendat Deo. Neque enim si manducaverimus, abundabimus: neque si non manducaverimus, deficiemus.
@@ -366,7 +357,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VL 61 (ar)`: Esca autem nos non commendat deo neque enim si manducauerimus habundabimus neque si non manducauerimus deerit nobis
   - `VL 78 (f)`: esca autem nos non commendat deo Neque enim si manducauerimus abundauimus Neque si non manducauerimus deficiemus
   - `VL 51 (gig)`: Esca autem nos non commendat deo Neque enim si non manducauerimus deficiemus neque si manducauerimus habundabimus
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Videte autem ne forte hæc licentia vestra offendiculum fiat infirmis.
@@ -384,7 +375,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VL 61 (ar)`: Uidete autem ne forte haec licentia uestra offendiculum fiat infirmis
   - `VL 78 (f)`: Uidete autem ne forte haec licentia uestra Offendiculum fiat infirmis
   - `VL 51 (gig)`: Uidete autem ne forte hęc licentia uestra offendiculum fiat infirmis
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Si enim quis viderit eum, qui habet scientiam, in idolio recumbentem: nonne conscientia ejus, cum sit infirma, ædificabitur ad manducandum idolothyta?
@@ -402,7 +393,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VL 61 (ar)`: si enim quis uiderit eum qui habet scientiam in idulo recumbentem nonne scientia eius cum sit infirma aedificabitur idulis ad manducandum immolatum
   - `VL 78 (f)`: Si enim quis uiderit habentem scientiam in idolio recumbentem Nonne conscientia eius cum sit infirma aedificabitur ad manducandum idolothita
   - `VL 51 (gig)`: Si enim quis uiderit eum qui habet scientiam in ydolio recumbentem nonne conscientia eius cum sit infirma edificabitur ad manducandum ydolotita
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et peribit infirmus in tua scientia, frater, propter quem Christus mortuus est?
@@ -420,7 +411,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VL 61 (ar)`: et peribit qui infirmus est in tua conscientia frater pro quo mortuus est christus
   - `VL 78 (f)`: et peribit infirmus in tua scientia frater propter quem christus mortuus est
   - `VL 51 (gig)`: et peribit infirmus in tua conscientia frater propter quem christus mortuus est
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sic autem peccantes in fratres, et percutientes conscientiam eorum infirmam, in Christum peccatis.
@@ -438,7 +429,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VL 61 (ar)`: Sic autem peccantes inter fratres et percutientes conscientiam ipsorum infirmam in christo peccatis
   - `VL 78 (f)`: Sic autem peccantes in fratres percutientes eorum conscientiamam infirmam in christum peccatis
   - `VL 51 (gig)`: Sic autem peccantes in fratres et percutientes conscientiam eorum infirmam in christum peccatis
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quapropter si esca scandalizat fratrem meum, non manducabo carnem in æternum, ne fratrem meum scandalizem.
@@ -456,4 +447,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VL 61 (ar)`: quapropter si esca scandalitzat fratrem meum non manducabo carnem in aeternum ne fratrem meum scandalitzem
   - `VL 78 (f)`: Quapropter si esca scandalizat fratrem non manducabo carnem in æternum ut non fratrem scandalizem
   - `VL 51 (gig)`: Quapropter si esca scandalizat fratrem meum non manducabo carnem in eternum ne fratrem meum scandalizem
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

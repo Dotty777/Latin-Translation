@@ -1,6 +1,6 @@
 # Ezekiel 32 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (32 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -41,6 +41,8 @@
 
 **32:18** "Son of man, sing a mournful song over the multitude of Egypt, and drag her down, her very self and the daughters of strong nations, to the lowest earth, with those who go down into the pit.
 
+**32:19** Whom are you more beautiful than? Go down, and sleep with the uncircumcised.
+
 **32:20** In the midst of those killed by the sword they will fall; the sword has been given; they have dragged her and all her peoples.
 
 **32:21** The most powerful of the strong will speak to him from the midst of the underworld, who went down with his helpers and slept uncircumcised, killed by the sword.
@@ -66,10 +68,6 @@
 **32:31** Pharaoh saw them and was comforted over all his multitude that was killed by the sword: Pharaoh and all his army, says the Lord God.
 
 **32:32** For I have put My terror in the land of the living, and he has slept in the midst of the uncircumcised with those killed by the sword: Pharaoh and all his multitude, says the Lord God."
-
-## Additional Verses (Not in Saints Numbering)
-
-**32:19** *(after `32:18`)* Whom are you more beautiful than? Go down, and sleep with the uncircumcised.
 
 ## Translator Notes
 

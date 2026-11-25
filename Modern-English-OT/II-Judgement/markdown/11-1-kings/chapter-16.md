@@ -59,7 +59,7 @@
 
 **16:27** Now the rest of the matters of Omri, and his battles that he fought, are these not written in the book of the words of the days of the kings of Israel?
 
-**16:28** And Omri slept with his fathers and was buried in Samaria; and Ahab his son reigned in his place. Moreover, he also removed from the land the remnant of the effeminate men who had remained in the days of Asa his father. And there was no king appointed in Edom at that time. Now King Jehoshaphat had made fleets on the sea to sail to Ophir for gold, yet they could not go, because they were shattered at Ezion-geber. Then Ahaziah son of Ahab said to Jehoshaphat, "Let my servants go with your servants in the ships." And Jehoshaphat was unwilling.
+**16:28** And Omri slept with his fathers and was buried in Samaria; and Ahab his son reigned in his place.
 
 **16:29** Now Ahab son of Omri reigned over Israel in the thirty-eighth year of Asa king of Judah. And Ahab son of Omri reigned over Israel in Samaria for twenty-two years.
 
@@ -78,5 +78,5 @@
 - **16:3** — The Vulgate renders the Hebrew threat to sweep away Baasha's house with the agricultural metaphor 'cut down the posterity' (demetam posteriora).
 - **16:7** — Striking Vulgate-distinct reading: whereas the Hebrew cites Baasha's slaughter of Jeroboam's house as a reason for the oracle, the Clementine Vulgate adds the gloss 'that is, Jehu son of Hanani the prophet' (hoc est, Jehu filium Hanani prophetam), stating that Baasha killed the prophet Jehu for delivering the message.
 - **16:9** — The Vulgate reads 'horsemen' (equitum) rather than the Hebrew 'chariots', and condenses the Hebrew phrase 'who was over the house in Tirzah' into 'the prefect of Tirzah' (præfecti Thersa).
-- **16:28** — Following the Septuagint (3 Kingdoms) placement of the Jehoshaphat summary, the material numbered 22:47-50 in the Saints Latin Critical Text stands here after Omri's death and Ahab's accession; 'Asa his father' signals the shift of subject to Jehoshaphat, whose name appears midway through.
+- **16:28** — Native Clementine Vulgate places the Jehoshaphat summary at 22:47-50 (grouped at Saints.Bible 16:28 following 3 Kingdoms).
 - **16:34** — The Vulgate's literal preposition 'in' (in Abiram ... in Segub) reflects the Hebrew idiom of price ('at the cost of'), fulfilling Joshua's curse on the rebuilder of Jericho (Joshua 6:26).

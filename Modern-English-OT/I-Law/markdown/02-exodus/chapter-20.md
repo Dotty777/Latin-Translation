@@ -29,11 +29,11 @@
 
 **20:12** Honor your father and your mother, so that you may be long-lived on the land that the Lord your God will give to you.
 
-**20:13** You must not commit adultery.
+**20:13** You must not kill.
 
-**20:14** You must not commit theft.
+**20:14** You must not commit adultery.
 
-**20:15** You must not kill.
+**20:15** You must not commit theft.
 
 **20:16** You must not speak false testimony against your neighbor.
 
@@ -61,6 +61,6 @@
 
 - **20:1** — The Vulgate reads Dominus ("the Lord") rather than Hebrew Elohim ("God") and omits Hebrew "saying"; similarly, v. 19 reads "the Lord" for Hebrew "God."
 - **20:5** — The Vulgate renders Hebrew El qanna ("a jealous God") as fortis, zelotes ("mighty, jealous"), translating El according to its sense of "mighty."
-- **20:13** — In this Vulgate text, vv. 13-15 order the prohibitions as adultery (v. 13), theft (v. 14), and killing (v. 15), matching the Septuagint order rather than the Hebrew Masoretic Text order (murder, adultery, theft).
+- **20:13** — Native Vulgate Exodus 20:13-15 order the prohibitions as killing (20:13), adultery (20:14), and theft (20:15); Saints.Bible parallel display maps to 20:15, 20:13, 20:14 respectively.
 - **20:18** — Literally "saw the voices and the torches" (videbat voces et lampades), preserving the Vulgate's vivid portrayal of thunder as voices and lightning as fiery torches.
 - **20:25** — Latin cultrum literally means "knife," rendering Hebrew cherev ("sword/knife"), here referring to an iron stone-cutting blade or tool.

@@ -1,6 +1,6 @@
 # Ezekiel 10 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (22 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -31,6 +31,8 @@
 
 **10:13** And He called these wheels "Whirling" in my hearing.
 
+**10:14** Now each one had four faces: one face was the face of a cherub, and the second face was the face of a man; and in the third was the face of a lion, and in the fourth was the face of an eagle.
+
 **10:15** And the cherubim were lifted up; this is the very living creature that I had seen beside the river Chebar.
 
 **10:16** And when the cherubim went, the wheels also went alongside them; and when the cherubim lifted their wings to be raised up from the earth, the wheels did not stay behind, but they themselves also were beside them.
@@ -47,15 +49,11 @@
 
 **10:22** And the likeness of their faces was the very faces that I had seen beside the river Chebar, and their look; and the impulse of each one was to proceed before its face.
 
-## Additional Verses (Not in Saints Numbering)
-
-**10:14** *(after `10:13`)* Now each one had four faces: one face was the face of a cherub, and the second face was the face of a man; and in the third was the face of a lion, and in the fourth was the face of an eagle.
-
 ## Translator Notes
 
 - **10:11** — Latin "quae prima erat" ("the one that was first," feminine singular) refers grammatically to the foremost wheel, whereas the Hebrew reads "the head."
 - **10:12** — The Vulgate reads "colla" ("necks") and "circuli" ("circles"), where the Hebrew has "their backs" and "the wheels."
 - **10:13** — Latin "volubiles" ("Whirling" or "revolving") renders the Hebrew term for the wheelwork ("Galgal").
+- **10:14** — The phrasing "in the third" and "in the fourth" literally reflects the Vulgate shift from nominative to prepositional phrases.
 - **10:17** — The Vulgate reads "spiritus vitae" ("the spirit of life"), whereas the Hebrew reads "the spirit of the living creature."
 - **10:19** — Latin "stetit" ("it stood") is third-person singular, referring to the cherubim assembly as a single living creature (compare 10:15, 20).
-- **10:14 *(additional)*** — The phrasing "in the third" and "in the fourth" literally reflects the Vulgate shift from nominative to prepositional phrases.

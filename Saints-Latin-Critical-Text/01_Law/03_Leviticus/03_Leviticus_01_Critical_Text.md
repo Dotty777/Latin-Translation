@@ -1,8 +1,8 @@
 # Leviticus 01 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:40Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -66,17 +57,17 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Leviticus 1:1
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Dominus** VulgSistina (1590)
-- **Apparatus:** `Dominus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Dominus** VulgSistina (1590)
+- **Apparatus:** `Dominus` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
 
 ### Leviticus 1:4
-- **Apparatus:** `manum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **manus** VulgSistina (1590)
+- **Apparatus:** `manum` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **manus** VulgSistina (1590)
 
 ### Leviticus 1:5
-- **Apparatus:** `sacerdotes` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **sacerdotis** VulgSistina (1590)
+- **Apparatus:** `sacerdotes` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **sacerdotis** VulgSistina (1590)
 
 ### Leviticus 1:10
-- **Apparatus:** `masculum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **agnum anniculum, et** VulgSistina (1590)
+- **Apparatus:** `masculum` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **agnum anniculum, et** VulgSistina (1590)
 
 ---
 
@@ -89,7 +80,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vocavit autem Moysen, et locutus est ei Dominus de tabernaculo testimonii, dicens:
   - `VulgConte (2009)`: Vocavit autem Moysen, et locutus est ei Dominus de tabernaculo testimonii, dicens:
   - `VulgSistina (1590)`: Vocavit autem Dominus Moysen et locutus est ei de tabernaculo testimonii, dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Loquere filiis Israël, et dices ad eos: Homo, qui obtulerit ex vobis hostiam Domino de pecoribus, id est, de bobus et ovibus offerens victimas,
@@ -98,7 +89,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Loquere filiis Israel, et dices ad eos: Homo, qui obtulerit ex vobis hostiam Domino de pecoribus, id est, de bobus et ovibus offerens victimas,
   - `VulgConte (2009)`: Loquere filiis Israel, et dices ad eos: Homo, qui obtulerit ex vobis hostiam Domino de pecoribus, id est, de bobus et ovibus offerens victimas,
   - `VulgSistina (1590)`: Loquere filiis Israel, et dices ad eos: Homo, qui obtulerit ex vobis hostiam Domino de pecoribus, id est, de bobus et ovibus offerens victimas,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** si holocaustum fuerit ejus oblatio, ac de armento: masculum immaculatum offeret ad ostium tabernaculi testimonii, ad placandum sibi Dominum:
@@ -107,7 +98,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: si holocaustum fuerit eius oblatio, ac de armento; masculum immaculatum offeret ad ostium tabernaculi testimonii, ad placandum sibi Dominum:
   - `VulgConte (2009)`: si holocaustum fuerit eius oblatio, ac de armento; masculum immaculatum offeret ad ostium tabernaculi testimonii, ad placandum sibi Dominum:
   - `VulgSistina (1590)`: si holocaustum fuerit eius oblatio, ac de armento; masculum immaculatum offeret ad ostium tabernaculi testimonii, ad placandum sibi Dominum:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ponetque manum super caput hostiæ, et acceptabilis erit, atque in expiationem ejus proficiens.
@@ -116,7 +107,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ponetque manum super caput hostiæ, et acceptabilis erit, atque in expiationem eius proficiens.
   - `VulgConte (2009)`: ponetque manum super caput hostiæ, et acceptabilis erit, atque in expiationem eius proficiens.
   - `VulgSistina (1590)`: ponetque manus super caput hostiae, et acceptabilis erit, atque in expiationem eius proficiens.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Immolabitque vitulum coram Domino, et offerent filii Aaron sacerdotes sanguinem ejus, fundentes per altaris circuitum, quod est ante ostium tabernaculi:
@@ -125,7 +116,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: immolabitque vitulum coram Domino, et offerent filii Aaron sacerdotes sanguinem eius, fundentes per altaris circuitum, quod est ante ostium tabernaculi.
   - `VulgConte (2009)`: Immolabitque vitulum coram Domino, et offerent filii Aaron sacerdotes sanguinem eius, fundentes per altaris circuitum, quod est ante ostium tabernaculi.
   - `VulgSistina (1590)`: immolabitque vitulum coram Domino, et offerent filii Aaron sacerdotis sanguinem eius, fundentes per altaris circuitum, quod est ante ostium tabernaculi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** detractaque pelle hostiæ, artus in frusta concident.
@@ -134,7 +125,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: detractaque pelle hostiæ, artus in frusta concident,
   - `VulgConte (2009)`: Detractaque pelle hostiæ, artus in frusta concident,
   - `VulgSistina (1590)`: detractaque pelle hostiae, artus in frusta concident,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et subjicient in altari ignem, strue lignorum ante composita:
@@ -143,7 +134,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et subiicient in altari ignem, strue lignorum ante composita:
   - `VulgConte (2009)`: et subiicient in altari ignem, strue lignorum ante composita:
   - `VulgSistina (1590)`: et subiicient in altari ignem, strue lignorum ante composita:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et membra quæ sunt cæsa, desuper ordinantes, caput videlicet, et cuncta quæ adhærent jecori,
@@ -152,7 +143,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et membra quæ sunt cæsa, desuper ordinantes, caput videlicet, et cuncta quæ adhærent iecori,
   - `VulgConte (2009)`: et membra quæ sunt cæsa, desuper ordinantes, caput videlicet, et cuncta quæ adhærent iecori,
   - `VulgSistina (1590)`: et membra quae sunt caesa, desuper ordinantes, caput videlicet, et cuncta quae adhaerent iecori,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** intestinis et pedibus lotis aqua: adolebitque ea sacerdos super altare in holocaustum et suavem odorem Domino.
@@ -161,7 +152,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: intestinis et pedibus lotis aqua: adolebitque ea sacerdos super altare in holocaustum et suavem odorem Domino.
   - `VulgConte (2009)`: intestinis et pedibus lotis aqua: adolebitque ea sacerdos super altare in holocaustum et suavem odorem Domino.
   - `VulgSistina (1590)`: intestinis et pedibus lotis aqua: adolebitque ea sacerdos super altare in holocaustum et suavem odorem Domino.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quod si de pecoribus oblatio est, de ovibus sive de capris holocaustum, masculum absque macula offeret:
@@ -170,7 +161,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quod si de pecoribus oblatio est, de ovibus sive de capris holocaustum, masculum absque macula offeret:
   - `VulgConte (2009)`: Quod si de pecoribus oblatio est, de ovibus sive de capris holocaustum, masculum absque macula offeret:
   - `VulgSistina (1590)`: Quod si de pecoribus oblatio est, de ovibus sive de capris holocaustum agnum anniculum, et absque macula offeret:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** immolabitque ad latus altaris, quod respicit ad aquilonem, coram Domino: sanguinem vero illius fundent super altare filii Aaron per circuitum:
@@ -179,7 +170,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: immolabitque ad latus altaris, quod respicit ad Aquilonem, coram Domino: sanguinem vero illius fundent super altare filii Aaron per circuitum:
   - `VulgConte (2009)`: immolabitque ad latus altaris, quod respicit ad Aquilonem, coram Domino: sanguinem vero illius fundent super altare filii Aaron per circuitum:
   - `VulgSistina (1590)`: immolabitque ad latus altaris, quod respicit ad Aquilonem, coram Domino: sanguinem vero illius fundent super altare filii Aaron per circuitum:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** dividentque membra, caput, et omnia quæ adhærent jecori, et ponent super ligna, quibus subjiciendus est ignis:
@@ -188,7 +179,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: dividentque membra, caput, et omnia quæ adhærent iecori: et ponent super ligna, quibus subiiciendus est ignis:
   - `VulgConte (2009)`: dividentque membra, caput, et omnia quæ adhærent iecori: et ponent super ligna, quibus subiiciendus est ignis:
   - `VulgSistina (1590)`: dividentque membra, caput, et omnia quae adhaerent iecori: et ponent super ligna, quibus subiiciendus est ignis:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** intestina vero et pedes lavabunt aqua. Et oblata omnia adolebit sacerdos super altare in holocaustum et odorem suavissimum Domino.
@@ -197,7 +188,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: intestina vero et pedes lavabunt aqua. Et oblata omnia adolebit sacerdos super altare in holocaustum et odorem suavissimum Domino.
   - `VulgConte (2009)`: intestina vero et pedes lavabunt aqua. Et oblata omnia adolebit sacerdos super altare in holocaustum et odorem suavissimum Domino.
   - `VulgSistina (1590)`: intestina vero et pedes lavabunt aqua. Et oblata omnia adolebit sacerdos super altare in holocaustum et odorem suavissimum Domino.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Si autem de avibus, holocausti oblatio fuerit Domino, de turturibus, aut pullis columbæ,
@@ -206,7 +197,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Si autem de avibus, holocausti oblatio fuerit Domino, de turturibus, aut pullis columbæ,
   - `VulgConte (2009)`: Si autem de avibus, holocausti oblatio fuerit Domino, de turturibus, aut pullis columbæ,
   - `VulgSistina (1590)`: Si autem de avibus, holocausti oblatio fuerit Domino, de turturibus, aut pullis columbae,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** offeret eam sacerdos ad altare: et retorto ad collum capite, ac rupto vulneris loco, decurrere faciet sanguinem super crepidinem altaris:
@@ -215,7 +206,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: offeret eam sacerdos ad altare: et retorto ad collum capite, ac rupto vulneris loco, decurrere faciet sanguinem super crepidinem altaris:
   - `VulgConte (2009)`: offeret eam sacerdos ad altare: et retorto ad collum capite, ac rupto vulneris loco, decurrere faciet sanguinem super crepidinem altaris:
   - `VulgSistina (1590)`: offeret eam sacerdos ad altare: et retorto ad collum capite, ac rupto vulneris loco, decurrere faciet sanguinem super crepidinem altaris:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** vesiculam vero gutturis, et plumas projiciet prope altare ad orientalem plagam, in loco in quo cineres effundi solent,
@@ -224,7 +215,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: vesiculam vero gutturis, et plumas proiiciet prope altare ad orientalem plagam, in loco in quo cineres effundi solent,
   - `VulgConte (2009)`: vesiculam vero gutturis, et plumas proiiciet prope altare ad orientalem plagam, in loco in quo cineres effundi solent,
   - `VulgSistina (1590)`: vesiculam vero gutturis, et plumas proiiciet prope altare ad orientalem plagam, in loco in quo cineres effundi solent,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** confringetque ascellas ejus, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino.
@@ -233,4 +224,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: confringetque ascellas eius, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino.
   - `VulgConte (2009)`: confringetque ascellas eius, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino.
   - `VulgSistina (1590)`: confringetque ascellas eius, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

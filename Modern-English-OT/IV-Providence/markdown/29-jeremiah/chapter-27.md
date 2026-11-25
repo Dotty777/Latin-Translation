@@ -1,106 +1,59 @@
 # Jeremiah 27 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (46 verses, 5 translator notes)  
+> **Status:** `draft: true` (22 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**27:1** The word which the Lord spoke concerning Babylon and concerning the land of the Chaldeans, by the hand of Jeremiah the prophet:
+**27:1** In the beginning of the reign of Jehoiakim the son of Josiah, king of Judah, this word came to Jeremiah from the Lord, saying:
 
-**27:2** "Declare among the nations, and make it heard; lift up a standard, proclaim, and do not conceal it; say, 'Babylon has been captured, Bel has been put to shame, Merodach has been conquered, her carved images have been put to shame, their idols have been overcome.'
+**27:2** This is what the Lord says to me: "Make for yourself bonds and chains, and you will put them on your neck,
 
-**27:3** For a nation has come up against her from the north, which will make her land a desolation, and there will be no one to dwell in her, from man to beast; and they have moved and gone away.
+**27:3** and you will send them to the king of Edom, and to the king of Moab, and to the king of the sons of Ammon, and to the king of Tyre, and to the king of Sidon, by the hand of the messengers who have come to Jerusalem to Zedekiah king of Judah.
 
-**27:4** In those days and at that time," says the Lord, "the sons of Israel will come, they and the sons of Judah together; walking and weeping they will hasten, and they will seek the Lord their God.
+**27:4** And you will command them to speak to their masters, 'This is what the Lord of hosts, the God of Israel, says: This is what you will say to your masters:
 
-**27:5** They will ask the way to Zion, their faces turned here; they will come and be joined to the Lord in an everlasting covenant that will not be blotted out by any forgetfulness.
+**27:5** I made the earth, and the people, and the livestock that are upon the face of the earth, by My great strength and by My outstretched arm, and I have given it to the one who was pleasing in My eyes.
 
-**27:6** My people have become a lost flock; their shepherds have led them astray and made them wander on the mountains; they have passed from mountain to hill; they have forgotten their resting place.
+**27:6** And now therefore I have given all these lands into the hand of Nebuchadnezzar king of Babylon, My servant; moreover, I have also given him the beasts of the field, that they may serve him.
 
-**27:7** All who found them devoured them, and their enemies said, 'We have not sinned, because they have sinned against the Lord, the beauty of righteousness, and the hope of their fathers, the Lord.'
+**27:7** And all the nations will serve him, and his son, and his son's son, until the time of his land and of himself comes; and many nations and great kings will serve him.
 
-**27:8** Withdraw from the midst of Babylon, and go out from the land of the Chaldeans, and be like young goats before the flock.
+**27:8** But as for the nation and kingdom that will not serve Nebuchadnezzar king of Babylon, and whoever will not bend his neck under the yoke of the king of Babylon, I will visit that nation with the sword, and with famine, and with pestilence, says the Lord, until I consume them by his hand.
 
-**27:9** For look, I am stirring up and will bring against Babylon an assembly of great nations from the land of the north, and they will prepare themselves against her, and from there she will be captured; its arrow is like that of a mighty man, a killer; it will not return empty.
+**27:9** You therefore, do not listen to your prophets, and diviners, and dreamers, and augurs, and sorcerers, who say to you, "You will not serve the king of Babylon,"
 
-**27:10** And Chaldea will become plunder; all who lay her waste will be filled," says the Lord.
+**27:10** for they prophesy a lie to you, so that they may put you far from your land, and drive you out, and you may perish.
 
-**27:11** "Because you exult and speak great things, plundering My inheritance; because you have been let loose like calves upon the grass, and have bellowed like bulls,
+**27:11** But as for the nation that submits its neck under the yoke of the king of Babylon and serves him, I will leave it in its own land, says the Lord, and it will cultivate it and live in it.'"
 
-**27:12** your mother has been greatly put to shame, and she who bore you has been leveled to the dust; look, she will be the last among the nations, deserted, trackless, and parched.
+**27:12** And to Zedekiah king of Judah I spoke according to all these words, saying, "Submit your necks under the yoke of the king of Babylon, and serve him and his people, and you will live.
 
-**27:13** Because of the wrath of the Lord she will not be inhabited, but she will be reduced entirely to a desolation; everyone who passes through Babylon will be appalled and will hiss over all her plagues.
+**27:13** Why will you die, you and your people, by sword, and by famine, and by pestilence, just as the Lord has spoken concerning the nation that refuses to serve the king of Babylon?
 
-**27:14** Prepare yourselves against Babylon all around, all you who bend the bow; attack her, do not spare the arrows, for she has sinned against the Lord.
+**27:14** Do not listen to the words of the prophets saying to you, 'You will not serve the king of Babylon,' for they themselves speak a lie to you,
 
-**27:15** Shout against her; everywhere she has given her hand; her foundations have fallen, her walls have been destroyed, for it is the vengeance of the Lord; take vengeance on her; just as she has done, do to her.
+**27:15** for I have not sent them, says the Lord, and they themselves prophesy falsely in My name, so that they may drive you out, and you may perish, both you and the prophets who prophesy to you."
 
-**27:16** Destroy the sower from Babylon, and the one holding the sickle in the time of harvest; from the face of the sword of the dove, each one will turn to his own people, and every individual will flee to his own land.
+**27:16** And to the priests and to this people I spoke, saying, "This is what the Lord says: Do not listen to the words of your prophets who prophesy to you, saying, 'Look, the vessels of the Lord will return from Babylon soon now,' for they prophesy a lie to you.
 
-**27:17** Israel is a scattered flock; lions have driven him out. First, the king of Assyria devoured him; this last one, Nebuchadnezzar king of Babylon, has crushed his bones."
+**27:17** Therefore do not listen to them, but serve the king of Babylon, so that you may live. Why is this city being given over to desolation?
 
-**27:18** Therefore this is what the Lord of hosts, the God of Israel, says: "Look, I will visit the king of Babylon and his land, just as I visited the king of Assyria;
+**27:18** And if they are prophets, and the word of the Lord is in them, let them intercede with the Lord of hosts so that the vessels that had been left behind in the house of the Lord, and in the house of the king of Judah, and in Jerusalem, may not come into Babylon.
 
-**27:19** and I will bring Israel back to his dwelling place; and he will graze on Carmel and Bashan, and on Mount Ephraim and Gilead his soul will be satisfied.
+**27:19** For this is what the Lord of hosts says concerning the pillars, and concerning the sea, and concerning the bases, and concerning the rest of the vessels that have remained in this city,
 
-**27:20** In those days and at that time," says the Lord, "the iniquity of Israel will be sought, and there will be none, and the sin of Judah, and it will not be found; for I will be merciful to those whom I leave behind.
+**27:20** which Nebuchadnezzar king of Babylon did not take when he carried away Jeconiah son of Jehoiakim, king of Judah, from Jerusalem into Babylon, and all the nobles of Judah and Jerusalem:
 
-**27:21** Go up against the land of those who rule, and visit upon its inhabitants; destroy and kill what is after them," says the Lord, "and do according to all that I have commanded you.
+**27:21** for this is what the Lord of hosts, the God of Israel, says concerning the vessels that were left behind in the house of the Lord, and in the house of the king of Judah, and in Jerusalem:
 
-**27:22** The sound of war is in the land, and great destruction.
-
-**27:23** How has the hammer of the whole earth been broken and crushed? How has Babylon been turned into a desert among the nations?
-
-**27:24** I have ensnared you, and you have been captured, Babylon, and you did not know it; you have been found and seized, because you have provoked the Lord.
-
-**27:25** The Lord has opened His treasury and has brought out the vessels of His wrath, for the Lord God of hosts has a work in the land of the Chaldeans.
-
-**27:26** Come against her from the farthest borders; open up so that those who trample her may come out; lift stones from the road and gather them into heaps; and kill her, and let nothing remain.
-
-**27:27** Destroy all her mighty men; let them go down to the slaughter; woe to them, for their day has come, the time of their visitation!"
-
-**27:28** The voice of those fleeing and of those who have escaped from the land of Babylon, to declare in Zion the vengeance of the Lord our God, the vengeance of His temple.
-
-**27:29** "Declare against Babylon to very many, to all who bend the bow; take your stand against her all around, and let no one escape; repay her according to her work; according to all that she has done, do to her, for she has lifted herself up against the Lord, against the Holy One of Israel.
-
-**27:30** Therefore her young men will fall in her streets, and all her men of war will fall silent on that day," says the Lord.
-
-**27:31** "Look, I am against you, proud one!" says the Lord God of hosts, "for your day has come, the time of your visitation.
-
-**27:32** And the proud one will fall and collapse, and there will be no one to raise him up; and I will kindle a fire in his cities, and it will devour all things around him."
-
-**27:33** This is what the Lord of hosts says: "The sons of Israel and the sons of Judah together endure oppression; all who captured them hold them fast; they refuse to let them go.
-
-**27:34** Their Redeemer is mighty; the Lord of hosts is His name; in judgment He will defend their cause, so that He may terrify the earth and shake the inhabitants of Babylon.
-
-**27:35** A sword against the Chaldeans," says the Lord, "and against the inhabitants of Babylon, and against the princes, and against her wise men.
-
-**27:36** A sword against her diviners, who will become fools; a sword against her mighty men, who will be afraid.
-
-**27:37** A sword against her horses and against her chariots, and against all the multitude that is in her midst, and they will become like women; a sword against her treasures, which will be plundered.
-
-**27:38** A drought will be upon her waters, and they will dry up, for it is a land of carved images, and they boast in portents.
-
-**27:39** Therefore dragons will dwell with fig-eating fauns, and ostriches will dwell in her; and she will no longer be inhabited forever, nor will she be built up through generation after generation.
-
-**27:40** Just as the Lord overthrew Sodom and Gomorrah and her neighboring cities," says the Lord, "no man will dwell there, and no son of man will inhabit her.
-
-**27:41** Look, a people is coming from the north, and a great nation, and many kings will rise up from the ends of the earth.
-
-**27:42** They will take hold of bow and shield; they are cruel and merciless; their voice will sound like the sea, and they will mount upon horses, like a man prepared for battle against you, daughter of Babylon.
-
-**27:43** The king of Babylon has heard the report of them, and his hands have grown feeble; anguish has seized him, pain like a woman in labor.
-
-**27:44** Look, like a lion he will come up from the pride of the Jordan to the strong beauty, for suddenly I will make him run to her. And who will be the chosen one whom I will appoint over her? For who is like Me? And who will withstand Me? And who is this shepherd who can resist My face?"
-
-**27:45** Therefore hear the counsel of the Lord which He has conceived in His mind against Babylon, and His thoughts which He has thought concerning the land of the Chaldeans: unless the little ones of the flocks drag them away, unless their dwelling place is destroyed with them.
-
-**27:46** At the sound of the captivity of Babylon the earth has been shaken, and an outcry has been heard among the nations.
+**27:22** 'They will be carried away into Babylon, and there they will be until the day of their visitation, says the Lord, and I will cause them to be brought and restored in this place.'"
 
 ## Translator Notes
 
-- **27:21** — The Vulgate translates the Hebrew symbolic place names Merathaim and Pekod as common expressions: terram dominantium ("the land of those who rule") and the imperative verb visita ("visit").
-- **27:26** — The Vulgate diverges notably from the Hebrew ("open her granaries; pile her up like heaps"), reading instead "open up so that those who trample her may come out; lift stones from the road and gather them into heaps."
-- **27:39** — Latin dracones cum faunis ficariis ("dragons with fig-eating fauns") is a distinctive Vulgate rendering of Hebrew terms for desert animals.
-- **27:44** — Latin ad pulchritudinem robustam ("to the strong beauty") reflects Jerome's rendering of Hebrew neweh ("pasture/habitation") as "beauty" (as also in 27:7, decori justitiæ); likewise, ad illam ("to her") differs from the Hebrew "away from her."
-- **27:45** — Latin nisi ... nisi ("unless ... unless") literally reproduces the Hebrew elliptical oath formula meaning "surely ... surely," leaving the implied consequence unstated.
+- **27:1** — Vulgate 27:1 names Jehoiakim (Joakim); absent in Saints.Bible ch. 34, which begins at 34:2 (= native 27:2).
+- **27:2** — The Vulgate reads "vincula et catenas" ("bonds and chains"), rather than the Hebrew "thongs and yoke-bars," a rendering maintained in 35:10-13 with "chain" and "wooden/iron chains."
+- **27:7** — Vulgate reads servient ei ('will serve him') at the close of the verse as well as the opening, differing from the Hebrew reading 'will make him serve.'
+- **27:9** — The Vulgate renders "somniatores" ("dreamers"), matching the Septuagint, where the Hebrew Masoretic Text reads "your dreams."
+- **27:10** — Both here and in v. 15, the Vulgate reads third-person plural "ejiciant vos" ("they may drive you out," referring to the false prophets), whereas the Hebrew has first-person singular ("I will drive you out").
+- **27:18** — Latin "occurrant" literally means "let them meet" or "come before," used in the Vulgate here for urgent prophetic intercession before the Lord.

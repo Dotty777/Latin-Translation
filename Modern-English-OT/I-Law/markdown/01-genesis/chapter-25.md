@@ -1,6 +1,6 @@
 # Genesis 25 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (34 verses, 5 translator notes)  
+> **Status:** `draft: true` (34 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -17,7 +17,7 @@
 
 **25:6** but upon the sons of the concubines he bestowed gifts, and separated them from Isaac his son, while he himself was still living, toward the eastern region.
 
-**25:7** Now the days of his life were one hundred seventy-five years.
+**25:7** Now the days of Abraham's life were one hundred seventy-five years.
 
 **25:8** And expiring, he died in a good old age, advanced in years and full of days, and he was gathered to his people.
 
@@ -33,7 +33,7 @@
 
 **25:14** Mishma also, Dumah, Massa,
 
-**25:15** Hadad, Tema, Jetur, Naphish, and Kedemah.
+**25:15** Hadar, Tema, Jetur, Naphish, and Kedemah.
 
 **25:16** These are the sons of Ishmael, and these are the names by their villages and towns, twelve princes of their tribes.
 
@@ -45,17 +45,17 @@
 
 **25:20** who, when he was forty years old, took as wife Rebekah, the daughter of Bethuel the Syrian from Mesopotamia, the sister of Laban.
 
-**25:21** And he pleaded with the Lord for his wife, because she was barren; and He heard him, and gave conception to Rebekah.
+**25:21** And Isaac pleaded with the Lord for his wife, because she was barren; and He heard him, and gave conception to Rebekah.
 
 **25:22** But the little ones clashed together in her womb, and she said, "If it was going to be this way for me, what need was there to conceive?" And she went to consult the Lord.
 
 **25:23** And answering, He said, "Two nations are in your womb, and two peoples will be divided from your belly, and one people will overcome the other people, and the older will serve the younger."
 
-**25:24** Now the time for giving birth had come, and look, twins were found in the womb.
+**25:24** Now the time for giving birth had come, and look, twins were found in her womb.
 
 **25:25** The one who came out first was red, and completely hairy like a pelt; and his name was called Esau. Immediately the other, coming out, was holding the sole of his brother's foot with his hand, and for that reason she named him Jacob.
 
-**25:26** Isaac was sixty years old when the little ones were born.
+**25:26** Isaac was sixty years old when the little ones were born to him.
 
 **25:27** When they had grown up, Esau became a man skilled in hunting and a farmer, while Jacob, a simple man, lived in tents.
 
@@ -69,7 +69,7 @@
 
 **25:32** He answered, "Look, I am dying; what benefit will the birthright be to me?"
 
-**25:33** Jacob said, "Swear to me, then." Esau swore and sold the birthright.
+**25:33** Jacob said, "Swear to me, then." Esau swore to him and sold the birthright.
 
 **25:34** And so, having received bread and a dish of lentils, he ate and drank, and went away, regarding it as a small thing that he had sold the birthright.
 
@@ -77,6 +77,7 @@
 
 - **25:9** — The Vulgate translates the Hebrew place name Machpelah literally as "spelunca duplici" ("the double cave").
 - **25:11** — Instead of transliterating the Hebrew Beer-lahai-roi, the Vulgate translates it as "puteum nomine Viventis et videntis" ("the well by the name of the Living and Seeing One").
+- **25:15** — The Clementine Vulgate reads 'Hadar' (with some Hebrew manuscripts) where other traditions read 'Hadad.'
 - **25:18** — The Vulgate renders the Hebrew verb "naphal" (often understood as "settled") as "obiit" ("he died"), giving "he died in the presence of all his brothers."
 - **25:22** — The Vulgate renders the elliptical Hebrew question ("If so, why am I like this?") explicitly as "Si sic mihi futurum erat, quid necesse fuit concipere?" ("If it was going to be this way for me, what need was there to conceive?").
 - **25:27** — The Vulgate renders Hebrew "ish sadeh" ("man of the field") as "homo agricola" ("a farmer") and "ish tam" ("a quiet/complete man") as "vir simplex" ("a simple man").

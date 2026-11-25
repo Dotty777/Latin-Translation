@@ -1,6 +1,6 @@
 # Judges 21 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (24 verses, 4 translator notes)  
+> **Status:** `draft: true` (24 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Judges`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -56,6 +56,7 @@
 ## Translator Notes
 
 - **21:2** — As in 20:18, the Vulgate renders Hebrew Beth-el as domum Dei ("the house of God") and explicitly locates it in Silo ("in Shiloh"); compare also the mention of Shiloh in 21:9.
+- **21:6** — Latin 'ducti pœnitentia' ('moved by repentance' or 'moved by remorse/regret') uses the same idiom as Matthew 27:3; here 'repentance' keeps edition-wide consistency for 'pœnitentia', though 'remorse' or 'regret' is a plausible contextual sense.
 - **21:10** — The Vulgate reads decem millia ("ten thousand"), whereas the Hebrew Masoretic Text reads twelve thousand.
 - **21:22** — On a difficult Hebrew clause, the Vulgate gives a distinct sense: Benjamin did not seize the women by right of war, rather the families incurred sin by withholding them when asked.
 - **21:24** — The Clementine Vulgate combines verses 24 and 25 of the Hebrew Masoretic Text into a single verse 21:24.

@@ -1,8 +1,8 @@
 # 2 Kings (4 Kingdoms) 05 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:26Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -82,11 +73,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Eliseus / Heliseus`, `nuntium, / nuncium,`, `nuntium, / nuncium,`, `nuntium, / nuncium,` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### 2 Kings (4 Kingdoms) 5:13
-- **Apparatus:** `nunc` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **tantum** VulgSistina (1590)
+- **Apparatus:** `nunc` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **tantum** VulgSistina (1590)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `etsi / et si`, `etsi / et si`, `etsi / et si` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### 2 Kings (4 Kingdoms) 5:17
-- **Apparatus:** `Ut` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Si** VulgSistina (1590)
+- **Apparatus:** `Ut` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Si** VulgSistina (1590)
 
 ### 2 Kings (4 Kingdoms) 5:21
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Rectene / Recte ne`, `Rectene / Recte ne`, `Rectene / Recte ne` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
@@ -102,7 +93,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Naaman princeps militiæ regis Syriæ, erat vir magnus apud dominum suum, et honoratus: per illum enim dedit Dominus salutem Syriæ: erat autem vir fortis et dives, sed leprosus.
   - `VulgConte (2009)`: Naaman princeps militiæ regis Syriæ, erat vir magnus apud dominum suum, et honoratus: per illum enim dedit Dominus salutem Syriæ: erat autem vir fortis et dives, sed leprosus.
   - `VulgSistina (1590)`: Naaman princeps militiae regis Syriae, erat vir magnus apud dominum suum, et honoratus: per illum enim dedit Dominus salutem Syriae: erat autem vir fortis et dives, sed leprosus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Porro de Syria egressi fuerant latrunculi, et captivam duxerant de terra Israël puellam parvulam, quæ erat in obsequio uxoris Naaman:
@@ -111,7 +102,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Porro de Syria egressi fuerant latrunculi, et captivam duxerant de Terra Israel puellam parvulam, quæ erat in obsequio uxoris Naaman,
   - `VulgConte (2009)`: Porro de Syria egressi fuerant latrunculi, et captivam duxerant de Terra Israel puellam parvulam, quæ erat in obsequio uxoris Naaman,
   - `VulgSistina (1590)`: Porro de Syria egressi fuerant latrunculi, et captivam duxerant de Terra Israel puellam parvulam, quae erat in obsequio uxoris Naaman,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quæ ait ad dominam suam: Utinam fuisset dominus meus ad prophetam qui est in Samaria, profecto curasset eum a lepra quam habet.
@@ -120,7 +111,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: quæ ait ad dominam suam: Utinam fuisset dominus meus ad prophetam, qui est in Samaria: profecto curasset eum a lepra, quam habet.
   - `VulgConte (2009)`: quæ ait ad dominam suam: Utinam fuisset dominus meus ad prophetam, qui est in Samaria: profecto curasset eum a lepra, quam habet.
   - `VulgSistina (1590)`: quae ait ad dominam suam: Utinam fuisset dominus meus ad prophetam, qui est in Samaria: profecto curasset eum a lepra, quam habet.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ingressus est itaque Naaman ad dominum suum, et nuntiavit ei, dicens: Sic et sic locuta est puella de terra Israël.
@@ -129,7 +120,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ingressus est itaque Naaman ad dominum suum, et nunciavit ei, dicens: Sic et sic locuta est puella de Terra Israel.
   - `VulgConte (2009)`: Ingressus est itaque Naaman ad dominum suum, et nunciavit ei, dicens: Sic et sic locuta est puella de Terra Israel.
   - `VulgSistina (1590)`: Ingressus est itaque Naaman ad dominum suum, et nunciavit ei, dicens: Sic et sic locuta est puella de Terra Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixitque ei rex Syriæ: Vade, et mittam litteras ad regem Israël. Qui cum profectus esset, et tulisset secum decem talenta argenti, et sex millia aureos, et decem mutatoria vestimentorum,
@@ -138,7 +129,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixitque ei rex Syriæ: Vade, et mittam litteras ad regem Israel. Qui cum profectus esset, et tulisset secum decem talenta argenti, et sex millia aureos, et decem mutatoria vestimentorum,
   - `VulgConte (2009)`: Dixitque ei rex Syriæ: Vade, et mittam litteras ad regem Israel. Qui cum profectus esset, et tulisset secum decem talenta argenti, et sex millia aureos, et decem mutatoria vestimentorum,
   - `VulgSistina (1590)`: Dixitque ei rex Syriae: Vade, et mittam litteras ad regem Israel. Qui cum profectus esset, et tulisset secum decem talenta argenti, et sex millia aureos, et decem mutatoria vestimentorum,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** detulit litteras ad regem Israël in hæc verba: Cum acceperis epistolam hanc, scito quod miserim ad te Naaman servum meum, ut cures eum a lepra sua.
@@ -147,7 +138,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: detulit litteras ad regem Israel, in hæc verba: Cum acceperis epistolam hanc, scito quod miserim ad te Naaman servum meum, ut cures eum a lepra sua.
   - `VulgConte (2009)`: detulit litteras ad regem Israel, in hæc verba: Cum acceperis epistolam hanc, scito quod miserim ad te Naaman servum meum, ut cures eum a lepra sua.
   - `VulgSistina (1590)`: detulit litteras ad regem Israel, in haec verba: Cum acceperis epistolam hanc, scito quod miserim ad te Naaman servum meum, ut cures eum a lepra sua.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque legisset rex Israël litteras, scidit vestimenta sua, et ait: Numquid deus ego sum, ut occidere possim et vivificare, quia iste misit ad me ut curem hominem a lepra sua? animadvertite, et videte quod occasiones quærat adversum me.
@@ -156,7 +147,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque legisset rex Israel litteras, scidit vestimenta sua, et ait: Numquid Deus ego sum, ut occidere possim, et vivificare, quia iste misit ad me, ut curem hominem a lepra sua? animadvertite, et videte quod occasiones quærat adversum me.
   - `VulgConte (2009)`: Cumque legisset rex Israel litteras, scidit vestimenta sua, et ait: Numquid Deus ego sum, ut occidere possim, et vivificare, quia iste misit ad me, ut curem hominem a lepra sua? Animadvertite, et videte quod occasiones quærat adversum me.
   - `VulgSistina (1590)`: Cumque legisset rex Israel litteras, scidit vestimenta sua, et ait: Numquid Deus ego sum, ut occidere possim, et vivificare, quia iste misit ad me, ut curem hominem a lepra sua? animadvertite, et videte quod occasiones quaerat adversum me.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quod cum audisset Eliseus vir Dei, scidisse videlicet regem Israël vestimenta sua, misit ad eum, dicens: Quare scidisti vestimenta tua? veniat ad me, et sciat esse prophetam in Israël.
@@ -165,7 +156,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quod cum audisset Eliseus vir Dei, scidisse videlicet regem Israel vestimenta sua, misit ad eum, dicens: Quare scidisti vestimenta tua? veniat ad me, et sciat esse prophetam in Israel.
   - `VulgConte (2009)`: Quod cum audisset Eliseus vir Dei, scidisse videlicet regem Israel vestimenta sua, misit ad eum, dicens: Quare scidisti vestimenta tua? Veniat ad me, et sciat esse prophetam in Israel.
   - `VulgSistina (1590)`: Quod cum audisset Eliseus vir Dei, scidisse videlicet regem Israel vestimenta sua, misit ad eum, dicens: Quare scidisti vestimenta tua? veniat ad me, et sciat esse prophetam in Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Venit ergo Naaman cum equis et curribus, et stetit ad ostium domus Elisei:
@@ -174,7 +165,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Venit ergo Naaman cum equis, et curribus, et stetit ad ostium domus Elisei:
   - `VulgConte (2009)`: Venit ergo Naaman cum equis, et curribus, et stetit ad ostium domus Elisei:
   - `VulgSistina (1590)`: Venit ergo Naaman cum equis, et curribus, et stetit ad ostium domus Elisei:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** misitque ad eum Eliseus nuntium, dicens: Vade, et lavare septies in Jordane, et recipiet sanitatem caro tua, atque mundaberis.
@@ -183,7 +174,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: misitque ad eum Eliseus nuncium, dicens: Vade, et lavare septies in Iordane, et recipiet sanitatem caro tua, atque mundaberis.
   - `VulgConte (2009)`: misitque ad eum Eliseus nuncium, dicens: Vade, et lavare septies in Iordane, et recipiet sanitatem caro tua, atque mundaberis.
   - `VulgSistina (1590)`: misitque ad eum Eliseus nuncium, dicens: Vade, et lavare septies in Iordane, et recipiet sanitatem caro tua, atque mundaberis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Iratus Naaman recedebat, dicens: Putabam quod egrederetur ad me, et stans invocaret nomen Domini Dei sui, et tangeret manu sua locum lepræ, et curaret me.
@@ -192,7 +183,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iratus Naaman recedebat, dicens: Putabam quod egrederetur ad me, et stans invocaret nomen Domini Dei sui, et tangeret manu sua locum lepræ, et curaret me.
   - `VulgConte (2009)`: Iratus Naaman recedebat, dicens: Putabam quod egrederetur ad me, et stans invocaret nomen Domini Dei sui, et tangeret manu sua locum lepræ, et curaret me.
   - `VulgSistina (1590)`: Iratus Naaman recedebat, dicens: Putabam quod egrederetur ad me, et stans invocaret nomen Domini Dei sui, et tangeret manu sua locum leprae, et curaret me.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Numquid non meliores sunt Abana et Pharphar fluvii Damasci, omnibus aquis Israël, ut laver in eis, et munder? Cum ergo vertisset se, et abiret indignans,
@@ -201,7 +192,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Numquid non meliores sunt Abana, et Pharphar fluvii Damasci omnibus aquis Israel, ut laver in eis, et munder? Cum ergo vertisset se, et abiret indignans,
   - `VulgConte (2009)`: Numquid non meliores sunt Abana, et Pharphar fluvii Damasci omnibus aquis Israel, ut laver in eis, et munder? Cum ergo vertisset se, et abiret indignans,
   - `VulgSistina (1590)`: Numquid non meliores sunt Abana, et Pharphar fluvii Damasci omnibus aquis Israel, ut laver in eis, et munder? Cum ergo vertisset se, et abiret indignans,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** accesserunt ad eum servi sui, et locuti sunt ei: Pater, etsi rem grandem dixisset tibi propheta, certe facere debueras: quanto magis quia nunc dixit tibi: Lavare, et mundaberis?
@@ -210,7 +201,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: accesserunt ad eum servi sui, et locuti sunt ei: Pater, et si rem grandem dixisset tibi propheta, certe facere debueras: quanto magis quia nunc dixit tibi: Lavare, et mundaberis?
   - `VulgConte (2009)`: accesserunt ad eum servi sui, et locuti sunt ei: Pater, et si rem grandem dixisset tibi propheta, certe facere debueras: quanto magis quia nunc dixit tibi: Lavare, et mundaberis?
   - `VulgSistina (1590)`: accesserunt ad eum servi sui, et locuti sunt ei: Pater, et si rem grandem dixisset tibi propheta, certe facere debueras: quanto magis quia tantum dixit tibi: Lavare, et mundaberis?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Descendit, et lavit in Jordane septies juxta sermonem viri Dei: et restituta est caro ejus sicut caro pueri parvuli, et mundatus est.
@@ -219,7 +210,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Descendit, et lavit in Iordane septies iuxta sermonem viri Dei, et restituta est caro eius, sicut caro pueri parvuli, et mundatus est.
   - `VulgConte (2009)`: Descendit, et lavit in Iordane septies iuxta sermonem viri Dei, et restituta est caro eius, sicut caro pueri parvuli, et mundatus est.
   - `VulgSistina (1590)`: Descendit, et lavit in Iordane septies iuxta sermonem viri Dei, et restituta est caro eius, sicut caro pueri parvuli, et mundatus est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Reversusque ad virum Dei cum universo comitatu suo, venit, et stetit coram eo, et ait: Vere scio quod non sit alius deus in universa terra, nisi tantum in Israël. Obsecro itaque ut accipias benedictionem a servo tuo.
@@ -228,7 +219,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Reversusque ad virum Dei cum universo comitatu suo, venit, et stetit coram eo, et ait: Vere scio quod non sit alius Deus in universa terra, nisi tantum in Israel. Obsecro itaque ut accipias benedictionem a servo tuo.
   - `VulgConte (2009)`: Reversusque ad virum Dei cum universo comitatu suo, venit, et stetit coram eo, et ait: Vere scio quod non sit alius Deus in universa terra, nisi tantum in Israel. Obsecro itaque ut accipias benedictionem a servo tuo.
   - `VulgSistina (1590)`: Reversusque ad virum Dei cum universo comitatu suo, venit, et stetit coram eo, et ait: Vere scio quod non sit alius Deus in universa terra, nisi tantum in Israel. Obsecro itaque ut accipias benedictionem a servo tuo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** At ille respondit: Vivit Dominus, ante quem sto, quia non accipiam. Cumque vim faceret, penitus non acquievit.
@@ -237,7 +228,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: At ille respondit: Vivit Dominus, ante quem sto, quia non accipiam. Cumque vim faceret, penitus non acquievit.
   - `VulgConte (2009)`: At ille respondit: Vivit Dominus, ante quem sto, quia non accipiam. Cumque vim faceret, penitus non acquievit.
   - `VulgSistina (1590)`: At ille respondit: Vivit Dominus, ante quem sto, quia non accipiam. Cumque vim faceret, penitus non acquievit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixitque Naaman: Ut vis: sed, obsecro, concede mihi servo tuo ut tollam onus duorum burdonum de terra: non enim faciet ultra servus tuus holocaustum aut victimam diis alienis, nisi Domino.
@@ -246,7 +237,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixitque Naaman: Ut vis: sed, obsecro, concede mihi servo tuo ut tollam onus duorum burdonum de terra: non enim faciet ultra servus tuus holocaustum, aut victimam diis alienis, nisi domino.
   - `VulgConte (2009)`: Dixitque Naaman: Ut vis: sed, obsecro, concede mihi servo tuo ut tollam onus duorum burdonum de terra: non enim faciet ultra servus tuus holocaustum, aut victimam diis alienis, nisi Domino.
   - `VulgSistina (1590)`: Dixitque Naaman: Si vis: sed, obsecro, concede mihi servo tuo ut tollam onus duorum burdonum de terra: non enim faciet ultra servus tuus holocaustum, aut victimam diis alienis, nisi domino.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hoc autem solum est, de quo depreceris Dominum pro servo tuo, quando ingredietur dominus meus templum Remmon ut adoret: et illo innitente super manum meam, si adoravero in templo Remmon, adorante eo in eodem loco, ut ignoscat mihi Dominus servo tuo pro hac re.
@@ -255,7 +246,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hoc autem solum est, de quo depreceris Dominum pro servo tuo, quando ingredietur dominus meus templum Remmon, ut adoret: et illo innitente super manum meam, si adoravero in templo Remmon, adorante eo in eodem loco, ut ignoscat mihi Dominus servo tuo pro hac re.
   - `VulgConte (2009)`: Hoc autem solum est, de quo depreceris Dominum pro servo tuo, quando ingredietur dominus meus templum Remmon, ut adoret: et illo innitente super manum meam, si adoravero in templo Remmon, adorante eo in eodem loco, ut ignoscat mihi Dominus servo tuo pro hac re.
   - `VulgSistina (1590)`: Hoc autem solum est, de quo depreceris Dominum pro servo tuo, quando ingredietur dominus meus templum Remmon, ut adoret: et illo innitente super manum meam, si adoravero in templo Remmon, adorante eo in eodem loco, ut ignoscat mihi Dominus servo tuo pro hac re.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui dixit ei: Vade in pace. Abiit ergo ab eo electo terræ tempore.
@@ -264,7 +255,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Qui dixit ei: Vade in pace. Abiit ergo ab eo electo terræ tempore.
   - `VulgConte (2009)`: Qui dixit ei: Vade in pace. Abiit ergo ab eo electo terræ tempore.
   - `VulgSistina (1590)`: Qui dixit ei: Vade in pace. Abiit ergo ab eo electo terrae tempore.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixitque Giezi puer viri Dei: Pepercit dominus meus Naaman Syro isti, ut non acciperet ab eo quæ attulit: vivit Dominus, quia curram post eum, et accipiam ab eo aliquid.
@@ -273,7 +264,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixitque Giezi puer viri Dei: Pepercit dominus meus Naaman Syro isti, ut non acciperet ab eo quæ attulit: vivit Dominus, quia curram post eum, et accipiam ab eo aliquid.
   - `VulgConte (2009)`: Dixitque Giezi puer viri Dei: Pepercit dominus meus Naaman Syro isti, ut non acciperet ab eo quæ attulit: vivit Dominus, quia curram post eum, et accipiam ab eo aliquid.
   - `VulgSistina (1590)`: Dixitque Giezi puer viri Dei: Pepercit dominus meus Naaman Syro isti, ut non acciperet ab eo quae attulit: vivit Dominus, quia curram post eum, et accipiam ab eo aliquid.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et secutus est Giezi post tergum Naaman: quem cum vidisset ille currentem ad se, desiliit de curru in occursum ejus, et ait: Rectene sunt omnia?
@@ -282,7 +273,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et secutus est Giezi post tergum Naaman: quem cum vidisset ille currentem ad se, desiliit de curru in occursum eius, et ait: Recte ne sunt omnia?
   - `VulgConte (2009)`: Et secutus est Giezi post tergum Naaman: quem cum vidisset ille currentem ad se, desiliit de curru in occursum eius, et ait: Recte ne sunt omnia?
   - `VulgSistina (1590)`: Et secutus est Giezi post tergum Naaman: quem cum vidisset ille currentem ad se, desiliit de curru in occursum eius, et ait: Recte ne sunt omnia?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ille ait: Recte. Dominus meus misit me ad te dicens: Modo venerunt ad me duo adolescentes de monte Ephraim, ex filiis prophetarum: da eis talentum argenti, et vestes mutatorias duplices.
@@ -291,7 +282,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ille ait: Recte. dominus meus misit me ad te, dicens: Modo venerunt ad me duo adolescentes de monte Ephraim, ex filiis prophetarum: da eis talentum argenti, et vestes mutatorias duplices.
   - `VulgConte (2009)`: Et ille ait: Recte. Dominus meus misit me ad te, dicens: Modo venerunt ad me duo adolescentes de monte Ephraim, ex filiis prophetarum: da eis talentum argenti, et vestes mutatorias duplices.
   - `VulgSistina (1590)`: Et ille ait: Recte. dominus meus misit me ad te, dicens: Modo venerunt ad me duo adolescentes de monte Ephraim, ex filiis prophetarum: da eis talentum argenti, et vestes mutatorias duplices.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixitque Naaman: Melius est ut accipias duo talenta. Et coëgit eum, ligavitque duo talenta argenti in duobus saccis, et duplicia vestimenta, et imposuit duobus pueris suis, qui et portaverunt coram eo.
@@ -300,7 +291,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixitque Naaman: Melius est ut accipias duo talenta. Et coegit eum, ligavitque duo talenta argenti in duobus saccis, et duplicia vestimenta, et imposuit duobus pueris suis, qui et portaverunt coram eo.
   - `VulgConte (2009)`: Dixitque Naaman: Melius est ut accipias duo talenta. Et coegit eum, ligavitque duo talenta argenti in duobus saccis, et duplicia vestimenta, et imposuit duobus pueris suis, qui et portaverunt coram eo.
   - `VulgSistina (1590)`: Dixitque Naaman: Melius est ut accipias duo talenta. Et coegit eum, ligavitque duo talenta argenti in duobus saccis, et duplicia vestimenta, et imposuit duobus pueris suis, qui et portaverunt coram eo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque venisset jam vesperi, tulit de manu eorum, et reposuit in domo, dimisitque viros, et abierunt.
@@ -309,7 +300,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque venisset iam vesperi, tulit de manu eorum, et reposuit in domo, dimisitque viros, et abierunt.
   - `VulgConte (2009)`: Cumque venisset iam vesperi, tulit de manu eorum, et reposuit in domo, dimisitque viros, et abierunt.
   - `VulgSistina (1590)`: Cumque venisset iam vesperi, tulit de manu eorum, et reposuit in domo, dimisitque viros, et abierunt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ipse autem ingressus, stetit coram domino suo. Et dixit Eliseus: Unde venis, Giezi? Qui respondit: Non ivit servus tuus quoquam.
@@ -318,7 +309,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ipse autem ingressus, stetit coram domino suo. Et dixit Eliseus: Unde venis Giezi? Qui respondit: Non ivit servus tuus quoquam.
   - `VulgConte (2009)`: Ipse autem ingressus, stetit coram domino suo. Et dixit Eliseus: Unde venis Giezi? Qui respondit: Non ivit servus tuus quoquam.
   - `VulgSistina (1590)`: ipse autem ingressus, stetit coram domino suo. Et dixit Eliseus: Unde venis Giezi? Qui respondit: Non ivit servus tuus quoquam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** At ille ait: Nonne cor meum in præsenti erat, quando reversus est homo de curru suo in occursum tui? nunc igitur accepisti argentum, et accepisti vestes ut emas oliveta, et vineas, et oves, et boves, et servos, et ancillas.
@@ -327,7 +318,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: At ille ait: Nonne cor meum in præsenti erat, quando reversus est homo de curru suo in occursum tui? Nunc igitur accepisti argentum, et accepisti vestes ut emas oliveta, et vineas, et oves, et boves, et servos, et ancillas.
   - `VulgConte (2009)`: At ille ait: Nonne cor meum in præsenti erat, quando reversus est homo de curru suo in occursum tui? Nunc igitur accepisti argentum, et accepisti vestes ut emas oliveta, et vineas, et oves, et boves, et servos, et ancillas.
   - `VulgSistina (1590)`: At ille ait: Nonne cor meum in praesenti erat, quando reversus est homo de curru suo in occursum tui? Nunc igitur accepisti argentum, et accepisti vestes ut emas oliveta, et vineas, et oves, et boves, et servos, et ancillas.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sed et lepra Naaman adhærebit tibi, et semini tuo usque in sempiternum. Et egressus est ab eo leprosus quasi nix.
@@ -336,4 +327,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sed et lepra Naaman adhærebit tibi, et semini tuo, usque in sempiternum. Et egressus est ab eo leprosus quasi nix.
   - `VulgConte (2009)`: Sed et lepra Naaman adhærebit tibi, et semini tuo, usque in sempiternum. Et egressus est ab eo leprosus quasi nix.
   - `VulgSistina (1590)`: Sed et lepra Naaman adhaerebit tibi, et semini tuo, usque in sempiternum. Et egressus est ab eo leprosus quasi nix.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

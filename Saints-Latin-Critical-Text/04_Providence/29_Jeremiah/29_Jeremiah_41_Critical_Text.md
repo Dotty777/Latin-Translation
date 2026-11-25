@@ -1,8 +1,8 @@
 # Jeremiah 41 — Saints Latin Critical Text
 
-**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:36Z`
+**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:09Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,340 +28,221 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
-- Clem1598-USFX: 41:1 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:2 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:3 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:4 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:5 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:6 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:7 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:8 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:9 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:10 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:11 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:12 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:13 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:14 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:15 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:16 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:17 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 41:18 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 22 verse(s) re-aligned by content (1←34:1, 2←34:2, 3←34:3, 4←34:4, 5←34:5, 6←34:6…)
-- VulgHetzenauer (1906): 41:1 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:2 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:3 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:4 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:5 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:6 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:7 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:8 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:9 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:10 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:11 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:12 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:13 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:14 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:15 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:16 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:17 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 41:18 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 22 verse(s) re-aligned by content (1←34:1, 2←34:2, 3←34:3, 4←34:4, 5←34:5, 6←34:6…)
-- VulgConte (2009): 41:1 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:2 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:3 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:4 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:5 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:6 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:7 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:8 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:9 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:10 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:11 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:12 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:13 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:14 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:15 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:16 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:17 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 41:18 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 22 verse(s) re-aligned by content (1←34:1, 2←34:2, 3←34:3, 4←34:4, 5←34:5, 6←34:6…)
-- VulgSistina (1590): 41:1 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:2 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:3 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:4 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:5 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:6 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:7 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:8 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:9 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:10 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:11 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:12 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:13 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:14 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:15 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:16 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:17 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 41:18 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 22 verse(s) re-aligned by content (1←34:1, 2←34:2, 3←34:3, 4←34:4, 5←34:5, 6←34:6…)
+- Clem-Saints: 41:1 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:2 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:3 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:4 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:5 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:6 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:7 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:8 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:9 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:10 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:11 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:12 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:13 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:14 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:15 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:16 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:17 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 41:18 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 18 verse(s) re-aligned by content (1←48:1, 2←48:2, 3←48:3, 4←48:4, 5←48:5, 6←48:6…)
+- Clem-Saints: has verse(s) 19, 20, 21, 22 that no voting edition prints here (an apparatus witness: not printed)
 
 ---
 
 ## Section II — Continuous Latin Critical Text
 
-**1** Verbum quod factum est ad Jeremiam a Domino quando Nabuchodonosor rex Babylonis, et omnis exercitus ejus, universaque regna terræ quæ erant sub potestate manus ejus, et omnes populi, bellabant contra Jerusalem, et contra omnes urbes ejus, dicens:
-**2** Hæc dicit Dominus Deus Israël: Vade, et loquere ad Sedeciam regem Juda, et dices ad eum: Hæc dicit Dominus: Ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni:
-**3** et tu non effugies de manu ejus, sed comprehensione capieris, et in manu ejus traderis: et oculi tui oculos regis Babylonis videbunt, et os ejus cum ore tuo loquetur, et Babylonem introibis.
-**4** Attamen audi verbum Domini, Sedecia, rex Juda: Hæc dicit Dominus ad te: Non morieris in gladio,
-**5** sed in pace morieris: et secundum combustiones patrum tuorum, regum priorum qui fuerunt ante te, sic comburent te: et: Væ domine, plangent te: quia verbum ego locutus sum, dicit Dominus.
-**6** Et locutus est Jeremias propheta ad Sedeciam regem Juda universa verba hæc in Jerusalem.
-**7** Et exercitus regis Babylonis pugnabat contra Jerusalem, et contra omnes civitates Juda quæ reliquæ erant, contra Lachis et contra Azecha: hæ enim supererant de civitatibus Juda, urbes munitæ.
-**8** Verbum quod factum est ad Jeremiam a Domino, postquam percussit rex Sedecias fœdus cum omni populo in Jerusalem, prædicans
-**9** ut dimitteret unusquisque servum suum et unusquisque ancillam suam, Hebræum et Hebræam, liberos, et nequaquam dominarentur eis, id est, in Judæo et fratre suo.
-**10** Audierunt ergo omnes principes et universus populus qui inierant pactum ut dimitteret unusquisque servum suum et unusquisque ancillam suam liberos, et ultra non dominarentur eis: audierunt igitur, et dimiserunt.
-**11** Et conversi sunt deinceps: et retraxerunt servos et ancillas suas quos dimiserant liberos, et subjugaverunt in famulos et famulas.
-**12** Et factum est verbum Domini ad Jeremiam a Domino, dicens:
-**13** Hæc dicit Dominus Deus Israël: Ego percussi fœdus cum patribus vestris in die qua eduxi eos de terra Ægypti, de domo servitutis, dicens:
-**14** Cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebræum, qui venditus est ei: et serviet tibi sex annis, et dimittes eum a te liberum: et non audierunt patres vestri me, nec inclinaverunt aurem suam.
-**15** Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut prædicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo, in domo in qua invocatum est nomen meum super eam:
-**16** et reversi estis, et commaculastis nomen meum, et reduxistis unusquisque servum suum et unusquisque ancillam suam quos dimiseratis ut essent liberi et suæ potestatis, et subjugastis eos ut sint vobis servi et ancillæ.
-**17** Propterea hæc dicit Dominus: Vos non audistis me, ut prædicaretis libertatem unusquisque fratri suo et unusquisque amico suo: ecce ego prædico vobis libertatem, ait Dominus, ad gladium, ad pestem, et ad famem, et dabo vos in commotionem cunctis regnis terræ.
-**18** Et dabo viros qui prævaricantur fœdus meum, et non observaverunt verba fœderis quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones ejus,
-**19** principes Juda et principes Jerusalem, eunuchi et sacerdotes, et omnis populus terræ, qui transierunt inter divisiones vituli:
-**20** et dabo eos in manus inimicorum suorum, et in manus quærentium animam eorum, et erit morticinum eorum in escam volatilibus cæli et bestiis terræ.
-**21** Et Sedeciam regem Juda, et principes ejus, dabo in manus inimicorum suorum, et in manus quærentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
-**22** Ecce ego præcipio, dicit Dominus, et reducam eos in civitatem hanc, et præliabuntur adversus eam, et capient eam, et incendent igni: et civitates Juda dabo in solitudinem, eo quod non sit habitator.
+**1** Et factum est in mense septimo, venit Ismahel filius Nathaniæ filii Elisama, de semine regali, et optimates regis, et decem viri cum eo, ad Godoliam filium Ahicam, in Masphath, et comederunt ibi panes simul in Masphath.
+**2** Surrexit autem Ismahel filius Nathaniæ, et decem viri qui cum eo erant, et percusserunt Godoliam filium Ahicam filii Saphan gladio, et interfecerunt eum quem præfecerat rex Babylonis terræ.
+**3** Omnes quoque Judæos qui erant cum Godolia in Masphath, et Chaldæos qui reperti sunt ibi, et viros bellatores, percussit Ismahel.
+**4** Secundo autem die postquam occiderat Godoliam, nullo adhuc sciente,
+**5** venerunt viri de Sichem, et de Silo, et de Samaria, octoginta viri, rasi barba, et scissis vestibus, et squallentes: et munera et thus habebant in manu, ut offerrent in domo Domini.
+**6** Egressus ergo Ismahel filius Nathaniæ in occursum eorum de Masphath, incedens et plorans ibat: cum autem occurrisset eis, dixit ad eos: Venite ad Godoliam filium Ahicam.
+**7** Qui cum venissent ad medium civitatis, interfecit eos Ismahel filius Nathaniæ circa medium laci, ipse et viri qui erant cum eo.
+**8** Decem autem viri reperti sunt inter eos, qui dixerunt ad Ismahel: Noli occidere nos, quia habemus thesauros in agro, frumenti, et hordei, et olei, et mellis: et cessavit, et non interfecit eos cum fratribus suis.
+**9** Lacus autem in quem projecerat Ismahel omnia cadavera virorum quos percussit propter Godoliam, ipse est quem fecit rex Asa propter Baasa regem Israël: ipsum replevit Ismahel filius Nathaniæ occisis.
+**10** Et captivas duxit Ismahel omnes reliquias populi qui erant in Masphath, filias regis, et universum populum qui remanserat in Masphath, quos commendaverat Nabuzardan princeps militiæ, Godoliæ filio Ahicam: et cepit eos Ismahel filius Nathaniæ, et abiit ut transiret ad filios Ammon.
+**11** Audivit autem Johanan filius Caree, et omnes principes bellatorum qui erant cum eo, omne malum quod fecerat Ismahel filius Nathaniæ,
+**12** et assumptis universis viris, profecti sunt ut bellarent adversum Ismahel filium Nathaniæ: et invenerunt eum ad aquas multas quæ sunt in Gabaon.
+**13** Cumque vidisset omnis populus qui erat cum Ismahel Johanan filium Caree, et universos principes bellatorum qui erant cum eo, lætati sunt:
+**14** et reversus est omnis populus quem ceperat Ismahel, in Masphath, reversusque abiit ad Johanan filium Caree.
+**15** Ismahel autem filius Nathaniæ fugit cum octo viris a facie Johanan, et abiit ad filios Ammon.
+**16** Tulit ergo Johanan filius Caree, et omnes principes bellatorum qui erant cum eo, universas reliquias vulgi quas reduxerat ab Ismahel filio Nathaniæ de Masphath, postquam percussit Godoliam filium Ahicam: fortes viros ad prælium, et mulieres, et pueros, et eunuchos, quos reduxerat de Gabaon.
+**17** Et abierunt, et sederunt peregrinantes in Chamaam, quæ est juxta Bethlehem, ut pergerent, et introirent Ægyptum,
+**18** a facie Chaldæorum: timebant enim eos, quia percusserat Ismahel filius Nathaniæ Godoliam filium Ahicam, quem præposuerat rex Babylonis in terra Juda.
 
 ---
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
-### Jeremiah 41:2
-- **Apparatus:** `igni:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **igne.** VulgSistina (1590)
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Israël: / Israhel`, `Sedeciam / Sedechiam` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
-
-### Jeremiah 41:6
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Jeremias / Hieremias`, `Jerusalem. / Hierusalem`, `Sedeciam / Sedechiam` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
-
-### Jeremiah 41:8
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Jeremiam / Hieremiam`, `Jerusalem, / Hierusalem`, `Sedecias / Sedechias` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
-
-### Jeremiah 41:21
-- *Disregarded Surface Variant:* kept `(adopted text)` over `Sedeciam / Sedechiam` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
-
-### Jeremiah 41:22
-- **Apparatus:** `igni:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **igne:** VulgSistina (1590)
+*No substantive or orthographic variants detected across admitted witnesses in this chapter.*
 
 ---
 
 ## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
 
 ### Verse 1 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Verbum quod factum est ad Jeremiam a Domino quando Nabuchodonosor rex Babylonis, et omnis exercitus ejus, universaque regna terræ quæ erant sub potestate manus ejus, et omnes populi, bellabant contra Jerusalem, et contra omnes urbes ejus, dicens:
-  - `Clem1598-USFX` *(numbered 34:1 in this witness)*: Verbum quod factum est ad Jeremiam a Domino quando Nabuchodonosor rex Babylonis, et omnis exercitus ejus, universaque regna terræ quæ erant sub potestate manus ejus, et omnes populi, bellabant contra Jerusalem, et contra omnes urbes ejus, dicens:
-  - `Clem-Saints`: Verbum quod factum est ad Jeremiam a Domino quando Nabuchodonosor rex Babylonis, et omnis exercitus ejus, universaque regna terræ quæ erant sub potestate manus ejus, et omnes populi, bellabant contra Jerusalem, et contra omnes urbes ejus, dicens:
-  - `VulgHetzenauer (1906)` *(numbered 34:1 in this witness)*: Verbum, quod factum est ad Ieremiam a Domino, quando Nabuchodonosor rex Babylonis, et omnis exercitus eius, universaque regna terræ, quæ erant sub potestate manus eius, et omnes populi bellabant contra Ierusalem, et contra omnes urbes eius, dicens:
-  - `VulgConte (2009)` *(numbered 34:1 in this witness)*: Verbum, quod factum est ad Ieremiam a Domino, quando Nabuchodonosor rex Babylonis, et omnis exercitus eius, universaque regna terræ, quæ erant sub potestate manus eius, et omnes populi bellabant contra Ierusalem, et contra omnes urbes eius, dicens:
-  - `VulgSistina (1590)` *(numbered 34:1 in this witness)*: Verbum, quod factum est ad Ieremiam a Domino, quando Nabuchodonosor rex Babylonis, et omnis exercitus eius, universaque regna terrae, quae erant sub potestate manus eius, et omnes populi bellabant contra Ierusalem, et contra omnes urbes eius, dicens:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:1 (re-aligned by content).
+- **Critical Text:** Et factum est in mense septimo, venit Ismahel filius Nathaniæ filii Elisama, de semine regali, et optimates regis, et decem viri cum eo, ad Godoliam filium Ahicam, in Masphath, et comederunt ibi panes simul in Masphath.
+  - `Clem1598-USFX`: Et factum est in mense septimo, venit Ismahel filius Nathaniæ filii Elisama, de semine regali, et optimates regis, et decem viri cum eo, ad Godoliam filium Ahicam, in Masphath, et comederunt ibi panes simul in Masphath.
+  - `Clem-Saints` *(numbered 48:1 in this witness)*: Et factum est in mense septimo, venit Ismahel filius Nathaniæ filii Elisama, de semine regali, et optimates regis, et decem viri cum eo, ad Godoliam filium Ahicam, in Masphath, et comederunt ibi panes simul in Masphath.
+  - `VulgHetzenauer (1906)`: Et factum est in mense septimo, venit Ismahel filius Nathaniæ, filii Elisama de semine regali, et optimates regis, et decem viri cum eo, ad Godoliam filium Ahicam in Masphath: et comederunt ibi panes simul in Masphath.
+  - `VulgConte (2009)`: Et factum est in mense septimo, venit Ismahel filius Nathaniæ, filii Elisama de semine regali, et optimates regis, et decem viri cum eo, ad Godoliam filium Ahicam in Masphath: et comederunt ibi panes simul in Masphath.
+  - `VulgSistina (1590)`: Et factum est in mense septimo, venit Ismahel filius Nathaniae, filii Elisama de semine regali, et optimates regis, et decem viri cum eo, ad Godoliam filium Ahicam in Masphath: et comederunt ibi panes simul in Masphath.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Hæc dicit Dominus Deus Israël: Vade, et loquere ad Sedeciam regem Juda, et dices ad eum: Hæc dicit Dominus: Ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni:
-  - `Clem1598-USFX` *(numbered 34:2 in this witness)*: Hæc dicit Dominus Deus Israël: Vade, et loquere ad Sedeciam regem Juda, et dices ad eum: Hæc dicit Dominus: Ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni:
-  - `Clem-Saints`: Hæc dicit Dominus Deus Israël: Vade, et loquere ad Sedeciam regem Juda, et dices ad eum: Hæc dicit Dominus: Ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni:
-  - `VulgHetzenauer (1906)` *(numbered 34:2 in this witness)*: Hæc dicit Dominus Deus Israel: Vade, et loquere ad Sedeciam regem Iuda: et dices ad eum: Hæc dicit Dominus: Ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni.
-  - `VulgConte (2009)` *(numbered 34:2 in this witness)*: Hæc dicit Dominus Deus Israel: Vade, et loquere ad Sedeciam regem Iuda: et dices ad eum: Hæc dicit Dominus: Ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni.
-  - `VulgSistina (1590)` *(numbered 34:2 in this witness)*: Haec dicit Dominus Deus Israel: Vade, et loquere ad Sedechiam regem Iuda: et dices ad eum: Haec dicit Dominus: Ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igne.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:2 (re-aligned by content).
+- **Critical Text:** Surrexit autem Ismahel filius Nathaniæ, et decem viri qui cum eo erant, et percusserunt Godoliam filium Ahicam filii Saphan gladio, et interfecerunt eum quem præfecerat rex Babylonis terræ.
+  - `Clem1598-USFX`: Surrexit autem Ismahel filius Nathaniæ, et decem viri qui cum eo erant, et percusserunt Godoliam filium Ahicam filii Saphan gladio, et interfecerunt eum quem præfecerat rex Babylonis terræ.
+  - `Clem-Saints` *(numbered 48:2 in this witness)*: Surrexit autem Ismahel filius Nathaniæ, et decem viri qui cum eo erant, et percusserunt Godoliam filium Ahicam filii Saphan gladio, et interfecerunt eum quem præfecerat rex Babylonis terræ.
+  - `VulgHetzenauer (1906)`: Surrexit autem Ismahel filius Nathaniæ, et decem viri, qui cum eo erant, et percusserunt Godoliam filium Ahicam filii Saphan gladio, et interfecerunt eum, quem præfecerat rex Babylonis terræ.
+  - `VulgConte (2009)`: Surrexit autem Ismahel filius Nathaniæ, et decem viri, qui cum eo erant, et percusserunt Godoliam filium Ahicam filii Saphan gladio, et interfecerunt eum, quem præfecerat rex Babylonis terræ.
+  - `VulgSistina (1590)`: Surrexit autem Ismahel filius Nathaniae, et decem viri, qui cum eo erant, et percusserunt Godoliam filium Ahicam filii Saphan gladio, et interfecerunt eum, quem praefecerat rex Babylonis terrae.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** et tu non effugies de manu ejus, sed comprehensione capieris, et in manu ejus traderis: et oculi tui oculos regis Babylonis videbunt, et os ejus cum ore tuo loquetur, et Babylonem introibis.
-  - `Clem1598-USFX` *(numbered 34:3 in this witness)*: et tu non effugies de manu ejus, sed comprehensione capieris, et in manu ejus traderis: et oculi tui oculos regis Babylonis videbunt, et os ejus cum ore tuo loquetur, et Babylonem introibis.
-  - `Clem-Saints`: et tu non effugies de manu ejus, sed comprehensione capieris, et in manu ejus traderis: et oculi tui oculos regis Babylonis videbunt, et os ejus cum ore tuo loquetur, et Babylonem introibis.
-  - `VulgHetzenauer (1906)` *(numbered 34:3 in this witness)*: Et tu non effugies de manu eius: sed comprehensione capieris, et in manu eius traderis: et oculi tui oculos regis Babylonis videbunt, et os eius cum ore tuo loquetur, et Babylonem introibis.
-  - `VulgConte (2009)` *(numbered 34:3 in this witness)*: Et tu non effugies de manu eius: sed comprehensione capieris, et in manu eius traderis: et oculi tui oculos regis Babylonis videbunt, et os eius cum ore tuo loquetur, et Babylonem introibis.
-  - `VulgSistina (1590)` *(numbered 34:3 in this witness)*: Et tu non effugies de manu eius: sed comprehensione capieris, et in manu eius traderis: et oculi tui oculos regis Babylonis videbunt, et os eius cum ore tuo loquetur, et Babylonem introibis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:3 (re-aligned by content).
+- **Critical Text:** Omnes quoque Judæos qui erant cum Godolia in Masphath, et Chaldæos qui reperti sunt ibi, et viros bellatores, percussit Ismahel.
+  - `Clem1598-USFX`: Omnes quoque Judæos qui erant cum Godolia in Masphath, et Chaldæos qui reperti sunt ibi, et viros bellatores, percussit Ismahel.
+  - `Clem-Saints` *(numbered 48:3 in this witness)*: Omnes quoque Judæos qui erant cum Godolia in Masphath, et Chaldæos qui reperti sunt ibi, et viros bellatores, percussit Ismahel.
+  - `VulgHetzenauer (1906)`: Omnes quoque Iudæos, qui erant cum Godolia in Masphath, et Chaldæos, qui reperti sunt ibi, et viros bellatores percussit Ismahel.
+  - `VulgConte (2009)`: Omnes quoque Iudæos, qui erant cum Godolia in Masphath, et Chaldæos, qui reperti sunt ibi, et viros bellatores percussit Ismahel.
+  - `VulgSistina (1590)`: Omnes quoque Iudaeos, qui erant cum Godolia in Masphath, et Chaldaeos, qui reperti sunt ibi, et viros bellatores percussit Ismahel.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Attamen audi verbum Domini, Sedecia, rex Juda: Hæc dicit Dominus ad te: Non morieris in gladio,
-  - `Clem1598-USFX` *(numbered 34:4 in this witness)*: Attamen audi verbum Domini, Sedecia, rex Juda: Hæc dicit Dominus ad te: Non morieris in gladio,
-  - `Clem-Saints`: Attamen audi verbum Domini, Sedecia, rex Juda: Hæc dicit Dominus ad te: Non morieris in gladio,
-  - `VulgHetzenauer (1906)` *(numbered 34:4 in this witness)*: Attamen audi verbum Domini Sedecia rex Iuda: Hæc dicit Dominus ad te: Non morieris in gladio,
-  - `VulgConte (2009)` *(numbered 34:4 in this witness)*: Attamen audi verbum Domini Sedecia rex Iuda: Hæc dicit Dominus ad te: Non morieris in gladio,
-  - `VulgSistina (1590)` *(numbered 34:4 in this witness)*: Attamen audi verbum Domini Sedecia rex Iuda: Haec dicit Dominus ad te: Non morieris in gladio,
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:4 (re-aligned by content).
+- **Critical Text:** Secundo autem die postquam occiderat Godoliam, nullo adhuc sciente,
+  - `Clem1598-USFX`: Secundo autem die postquam occiderat Godoliam, nullo adhuc sciente,
+  - `Clem-Saints` *(numbered 48:4 in this witness)*: Secundo autem die postquam occiderat Godoliam, nullo adhuc sciente,
+  - `VulgHetzenauer (1906)`: Secundo autem die postquam occiderat Godoliam, nullo adhuc sciente,
+  - `VulgConte (2009)`: Secundo autem die postquam occiderat Godoliam, nullo adhuc sciente,
+  - `VulgSistina (1590)`: Secundo autem die postquam occiderat Godoliam, nullo adhuc sciente,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** sed in pace morieris: et secundum combustiones patrum tuorum, regum priorum qui fuerunt ante te, sic comburent te: et: Væ domine, plangent te: quia verbum ego locutus sum, dicit Dominus.
-  - `Clem1598-USFX` *(numbered 34:5 in this witness)*: sed in pace morieris: et secundum combustiones patrum tuorum, regum priorum qui fuerunt ante te, sic comburent te: et: Væ domine, plangent te: quia verbum ego locutus sum, dicit Dominus.
-  - `Clem-Saints`: sed in pace morieris: et secundum combustiones patrum tuorum, regum priorum qui fuerunt ante te, sic comburent te: et: Væ domine, plangent te: quia verbum ego locutus sum, dicit Dominus.
-  - `VulgHetzenauer (1906)` *(numbered 34:5 in this witness)*: sed in pace morieris, et secundum combustiones patrum tuorum regum priorum qui fuerunt ante te, sic comburent te: et væ domine, plangent te: quia verbum ego locutus sum, dicit Dominus.
-  - `VulgConte (2009)` *(numbered 34:5 in this witness)*: sed in pace morieris, et secundum combustiones patrum tuorum regum priorum qui fuerunt ante te, sic comburent te: et Væ domine, plangent te: quia verbum ego locutus sum, dicit Dominus.
-  - `VulgSistina (1590)` *(numbered 34:5 in this witness)*: sed in pace morieris, et secundum combustiones patrum tuorum regum priorum qui fuerunt ante te, sic comburent te: et vae domine, plangent te: quia verbum ego locutus sum, dicit Dominus.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:5 (re-aligned by content).
+- **Critical Text:** venerunt viri de Sichem, et de Silo, et de Samaria, octoginta viri, rasi barba, et scissis vestibus, et squallentes: et munera et thus habebant in manu, ut offerrent in domo Domini.
+  - `Clem1598-USFX`: venerunt viri de Sichem, et de Silo, et de Samaria, octoginta viri, rasi barba, et scissis vestibus, et squallentes: et munera et thus habebant in manu, ut offerrent in domo Domini.
+  - `Clem-Saints` *(numbered 48:5 in this witness)*: venerunt viri de Sichem, et de Silo, et de Samaria, octoginta viri, rasi barba, et scissis vestibus, et squallentes: et munera et thus habebant in manu, ut offerrent in domo Domini.
+  - `VulgHetzenauer (1906)`: venerunt viri de Sichem, et de Silo, et de Samaria octoginta viri: rasi barba, et scissis vestibus, et squallentes: et munera, et thus habebant in manu, ut offerrent in domo Domini.
+  - `VulgConte (2009)`: venerunt viri de Sichem, et de Silo, et de Samaria octoginta viri: rasi barba, et scissis vestibus, et squallentes: et munera, et thus habebant in manu, ut offerrent in domo Domini.
+  - `VulgSistina (1590)`: venerunt viri de Sichem, et de Silo, et de Samaria octoginta viri: rasi barba, et scissis vestibus, et squallentes: et munera, et thus habebant in manu, ut offerrent in domo Domini.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et locutus est Jeremias propheta ad Sedeciam regem Juda universa verba hæc in Jerusalem.
-  - `Clem1598-USFX` *(numbered 34:6 in this witness)*: Et locutus est Jeremias propheta ad Sedeciam regem Juda universa verba hæc in Jerusalem.
-  - `Clem-Saints`: Et locutus est Jeremias propheta ad Sedeciam regem Juda universa verba hæc in Jerusalem.
-  - `VulgHetzenauer (1906)` *(numbered 34:6 in this witness)*: Et locutus est Ieremias propheta ad Sedeciam regem Iuda universa verba hæc in Ierusalem.
-  - `VulgConte (2009)` *(numbered 34:6 in this witness)*: Et locutus est Ieremias propheta ad Sedeciam regem Iuda universa verba hæc in Ierusalem.
-  - `VulgSistina (1590)` *(numbered 34:6 in this witness)*: Et locutus est Ieremias propheta ad Sedechiam regem Iuda universa verba haec in Ierusalem.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:6 (re-aligned by content).
+- **Critical Text:** Egressus ergo Ismahel filius Nathaniæ in occursum eorum de Masphath, incedens et plorans ibat: cum autem occurrisset eis, dixit ad eos: Venite ad Godoliam filium Ahicam.
+  - `Clem1598-USFX`: Egressus ergo Ismahel filius Nathaniæ in occursum eorum de Masphath, incedens et plorans ibat: cum autem occurrisset eis, dixit ad eos: Venite ad Godoliam filium Ahicam.
+  - `Clem-Saints` *(numbered 48:6 in this witness)*: Egressus ergo Ismahel filius Nathaniæ in occursum eorum de Masphath, incedens et plorans ibat: cum autem occurrisset eis, dixit ad eos: Venite ad Godoliam filium Ahicam.
+  - `VulgHetzenauer (1906)`: Egressus ergo Ismahel filius Nathaniæ in occursum eorum de Masphath, incedens et plorans ibat: cum autem occurrisset eis, dixit ad eos: Venite ad Godoliam filium Ahicam.
+  - `VulgConte (2009)`: Egressus ergo Ismahel filius Nathaniæ in occursum eorum de Masphath, incedens et plorans ibat: cum autem occurrisset eis, dixit ad eos: Venite ad Godoliam filium Ahicam.
+  - `VulgSistina (1590)`: Egressus ergo Ismahel filius Nathaniae in occursum eorum de Masphath, incedens et plorans ibat: cum autem occurrisset eis, dixit ad eos: Venite ad Godoliam filium Ahicam.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et exercitus regis Babylonis pugnabat contra Jerusalem, et contra omnes civitates Juda quæ reliquæ erant, contra Lachis et contra Azecha: hæ enim supererant de civitatibus Juda, urbes munitæ.
-  - `Clem1598-USFX` *(numbered 34:7 in this witness)*: Et exercitus regis Babylonis pugnabat contra Jerusalem, et contra omnes civitates Juda quæ reliquæ erant, contra Lachis et contra Azecha: hæ enim supererant de civitatibus Juda, urbes munitæ.
-  - `Clem-Saints`: Et exercitus regis Babylonis pugnabat contra Jerusalem, et contra omnes civitates Juda quæ reliquæ erant, contra Lachis et contra Azecha: hæ enim supererant de civitatibus Juda, urbes munitæ.
-  - `VulgHetzenauer (1906)` *(numbered 34:7 in this witness)*: Et exercitus regis Babylonis pugnabat contra Ierusalem, et contra omnes civitates Iuda, quæ reliquæ erant contra Lachis, et contra Azecha: hæ enim supererant de civitatibus Iuda, urbes munitæ.
-  - `VulgConte (2009)` *(numbered 34:7 in this witness)*: Et exercitus regis Babylonis pugnabat contra Ierusalem, et contra omnes civitates Iuda, quæ reliquæ erant contra Lachis, et contra Azecha: hæ enim supererant de civitatibus Iuda, urbes munitæ.
-  - `VulgSistina (1590)` *(numbered 34:7 in this witness)*: Et exercitus regis Babylonis pugnabat contra Ierusalem, et contra omnes civitates Iuda, quae reliquae erant contra Lachis, et contra Azecha: hae enim supererant de civitatibus Iuda, urbes munitae.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:7 (re-aligned by content).
+- **Critical Text:** Qui cum venissent ad medium civitatis, interfecit eos Ismahel filius Nathaniæ circa medium laci, ipse et viri qui erant cum eo.
+  - `Clem1598-USFX`: Qui cum venissent ad medium civitatis, interfecit eos Ismahel filius Nathaniæ circa medium laci, ipse et viri qui erant cum eo.
+  - `Clem-Saints` *(numbered 48:7 in this witness)*: Qui cum venissent ad medium civitatis, interfecit eos Ismahel filius Nathaniæ circa medium laci, ipse et viri qui erant cum eo.
+  - `VulgHetzenauer (1906)`: Qui cum venissent ad medium civitatis, interfecit eos Ismahel filius Nathaniæ circa medium laci, ipse et viri, qui erant cum eo.
+  - `VulgConte (2009)`: Qui cum venissent ad medium civitatis, interfecit eos Ismahel filius Nathaniæ circa medium laci, ipse et viri, qui erant cum eo.
+  - `VulgSistina (1590)`: Qui cum venissent ad medium civitatis, interfecit eos Ismahel filius Nathaniae circa medium laci, ipse et viri, qui erant cum eo.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Verbum quod factum est ad Jeremiam a Domino, postquam percussit rex Sedecias fœdus cum omni populo in Jerusalem, prædicans
-  - `Clem1598-USFX` *(numbered 34:8 in this witness)*: Verbum quod factum est ad Jeremiam a Domino, postquam percussit rex Sedecias fœdus cum omni populo in Jerusalem, prædicans
-  - `Clem-Saints`: Verbum quod factum est ad Jeremiam a Domino, postquam percussit rex Sedecias fœdus cum omni populo in Jerusalem, prædicans
-  - `VulgHetzenauer (1906)` *(numbered 34:8 in this witness)*: Verbum, quod factum est ad Ieremiam a Domino, postquam percussit rex Sedecias fœdus cum omni populo in Ierusalem, prædicans:
-  - `VulgConte (2009)` *(numbered 34:8 in this witness)*: Verbum, quod factum est ad Ieremiam a Domino, postquam percussit rex Sedecias fœdus cum omni populo in Ierusalem, prædicans:
-  - `VulgSistina (1590)` *(numbered 34:8 in this witness)*: Verbum, quod factum est ad Ieremiam a Domino, postquam percussit rex Sedechias foedus cum omni populo in Ierusalem, praedicans:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:8 (re-aligned by content).
+- **Critical Text:** Decem autem viri reperti sunt inter eos, qui dixerunt ad Ismahel: Noli occidere nos, quia habemus thesauros in agro, frumenti, et hordei, et olei, et mellis: et cessavit, et non interfecit eos cum fratribus suis.
+  - `Clem1598-USFX`: Decem autem viri reperti sunt inter eos, qui dixerunt ad Ismahel: Noli occidere nos, quia habemus thesauros in agro, frumenti, et hordei, et olei, et mellis: et cessavit, et non interfecit eos cum fratribus suis.
+  - `Clem-Saints` *(numbered 48:8 in this witness)*: Decem autem viri reperti sunt inter eos, qui dixerunt ad Ismahel: Noli occidere nos, quia habemus thesauros in agro, frumenti, et hordei, et olei, et mellis: et cessavit, et non interfecit eos cum fratribus suis.
+  - `VulgHetzenauer (1906)`: Decem autem viri reperti sunt inter eos, qui dixerunt ad Ismahel: Noli occidere nos: quia habemus thesauros in agro, frumenti, et hordei, et olei, et mellis. Et cessavit: et non interfecit eos cum fratribus suis.
+  - `VulgConte (2009)`: Decem autem viri reperti sunt inter eos, qui dixerunt ad Ismahel: Noli occidere nos: quia habemus thesauros in agro, frumenti, et hordei, et olei, et mellis. Et cessavit: et non interfecit eos cum fratribus suis.
+  - `VulgSistina (1590)`: Decem autem viri reperti sunt inter eos, qui dixerunt ad Ismahel: Noli occidere nos: quia habemus thesauros in agro, frumenti, et hordei, et olei, et mellis. Et cessavit: et non interfecit eos cum fratribus suis.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** ut dimitteret unusquisque servum suum et unusquisque ancillam suam, Hebræum et Hebræam, liberos, et nequaquam dominarentur eis, id est, in Judæo et fratre suo.
-  - `Clem1598-USFX` *(numbered 34:9 in this witness)*: ut dimitteret unusquisque servum suum et unusquisque ancillam suam, Hebræum et Hebræam, liberos, et nequaquam dominarentur eis, id est, in Judæo et fratre suo.
-  - `Clem-Saints`: ut dimitteret unusquisque servum suum et unusquisque ancillam suam, Hebræum et Hebræam, liberos, et nequaquam dominarentur eis, id est, in Judæo et fratre suo.
-  - `VulgHetzenauer (1906)` *(numbered 34:9 in this witness)*: Ut dimitteret unusquisque servum suum, et unusquisque ancillam suam, Hebræum et Hebræam liberos: et nequaquam dominarentur eis, id est in Iudæo et fratre suo.
-  - `VulgConte (2009)` *(numbered 34:9 in this witness)*: Ut dimitteret unusquisque servum suum, et unusquisque ancillam suam, Hebræum et Hebræam liberos: et nequaquam dominarentur eis, id est in Iudæo et fratre suo.
-  - `VulgSistina (1590)` *(numbered 34:9 in this witness)*: Ut dimitteret unusquisque servum suum, et unusquisque ancillam suam, Hebraeum et Hebraeam liberos: et nequaquam dominarentur eis, id est in Iudaeo et fratre suo.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:9 (re-aligned by content).
+- **Critical Text:** Lacus autem in quem projecerat Ismahel omnia cadavera virorum quos percussit propter Godoliam, ipse est quem fecit rex Asa propter Baasa regem Israël: ipsum replevit Ismahel filius Nathaniæ occisis.
+  - `Clem1598-USFX`: Lacus autem in quem projecerat Ismahel omnia cadavera virorum quos percussit propter Godoliam, ipse est quem fecit rex Asa propter Baasa regem Israël: ipsum replevit Ismahel filius Nathaniæ occisis.
+  - `Clem-Saints` *(numbered 48:9 in this witness)*: Lacus autem in quem projecerat Ismahel omnia cadavera virorum quos percussit propter Godoliam, ipse est quem fecit rex Asa propter Baasa regem Israël: ipsum replevit Ismahel filius Nathaniæ occisis.
+  - `VulgHetzenauer (1906)`: Lacus autem, in quem proiecerat Ismahel omnia cadavera virorum, quos percussit propter Godoliam, ipse est, quem fecit rex Asa propter Baasa regem Israel: ipsum replevit Ismahel filius Nathaniæ occisis.
+  - `VulgConte (2009)`: Lacus autem, in quem proiecerat Ismahel omnia cadavera virorum, quos percussit propter Godoliam, ipse est, quem fecit rex Asa propter Baasa regem Israel: ipsum replevit Ismahel filius Nathaniæ occisis.
+  - `VulgSistina (1590)`: Lacus autem, in quem proiecerat Ismahel omnia cadavera virorum, quos percussit propter Godoliam, ipse est, quem fecit rex Asa propter Baasa regem Israel: ipsum replevit Ismahel filius Nathaniae occisis.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Audierunt ergo omnes principes et universus populus qui inierant pactum ut dimitteret unusquisque servum suum et unusquisque ancillam suam liberos, et ultra non dominarentur eis: audierunt igitur, et dimiserunt.
-  - `Clem1598-USFX` *(numbered 34:10 in this witness)*: Audierunt ergo omnes principes et universus populus qui inierant pactum ut dimitteret unusquisque servum suum et unusquisque ancillam suam liberos, et ultra non dominarentur eis: audierunt igitur, et dimiserunt.
-  - `Clem-Saints`: Audierunt ergo omnes principes et universus populus qui inierant pactum ut dimitteret unusquisque servum suum et unusquisque ancillam suam liberos, et ultra non dominarentur eis: audierunt igitur, et dimiserunt.
-  - `VulgHetzenauer (1906)` *(numbered 34:10 in this witness)*: Audierunt ergo omnes principes et universus populus, qui inierant pactum ut dimitteret unusquisque servum suum, et unusquisque ancillam suam liberos, et ultra non dominarentur eis: audierunt igitur, et dimiserunt.
-  - `VulgConte (2009)` *(numbered 34:10 in this witness)*: Audierunt ergo omnes principes et universus populus, qui inierant pactum ut dimitteret unusquisque servum suum, et unusquisque ancillam suam liberos, et ultra non dominarentur eis: audierunt igitur, et dimiserunt.
-  - `VulgSistina (1590)` *(numbered 34:10 in this witness)*: Audierunt ergo omnes principes et universus populus, qui inierant pactum ut dimitteret unusquisque servum suum, et unusquisque ancillam suam liberos, et ultra non dominarentur eis: audierunt igitur, et dimiserunt.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:10 (re-aligned by content).
+- **Critical Text:** Et captivas duxit Ismahel omnes reliquias populi qui erant in Masphath, filias regis, et universum populum qui remanserat in Masphath, quos commendaverat Nabuzardan princeps militiæ, Godoliæ filio Ahicam: et cepit eos Ismahel filius Nathaniæ, et abiit ut transiret ad filios Ammon.
+  - `Clem1598-USFX`: Et captivas duxit Ismahel omnes reliquias populi qui erant in Masphath, filias regis, et universum populum qui remanserat in Masphath, quos commendaverat Nabuzardan princeps militiæ, Godoliæ filio Ahicam: et cepit eos Ismahel filius Nathaniæ, et abiit ut transiret ad filios Ammon.
+  - `Clem-Saints` *(numbered 48:10 in this witness)*: Et captivas duxit Ismahel omnes reliquias populi qui erant in Masphath, filias regis, et universum populum qui remanserat in Masphath, quos commendaverat Nabuzardan princeps militiæ, Godoliæ filio Ahicam: et cepit eos Ismahel filius Nathaniæ, et abiit ut transiret ad filios Ammon.
+  - `VulgHetzenauer (1906)`: Et captivas duxit Ismahel omnes reliquias populi, qui erant in Masphath: filias regis, et universum populum, qui remanserat in Masphath: quos commendaverat Nabuzardan princeps militiæ Godoliæ filio Ahicam. Et cepit eos Ismahel filius Nathaniæ, et abiit ut transiret ad filios Ammon.
+  - `VulgConte (2009)`: Et captivas duxit Ismahel omnes reliquias populi, qui erant in Masphath: filias regis, et universum populum, qui remanserat in Masphath: quos commendaverat Nabuzardan princeps militiæ Godoliæ filio Ahicam. Et cepit eos Ismahel filius Nathaniæ, et abiit ut transiret ad filios Ammon.
+  - `VulgSistina (1590)`: Et captivas duxit Ismahel omnes reliquias populi, qui erant in Masphath: filias regis, et universum populum, qui remanserat in Masphath: quos commendaverat Nabuzardan princeps militiae Godoliae filio Ahicam. Et cepit eos Ismahel filius Nathaniae, et abiit ut transiret ad filios Ammon.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et conversi sunt deinceps: et retraxerunt servos et ancillas suas quos dimiserant liberos, et subjugaverunt in famulos et famulas.
-  - `Clem1598-USFX` *(numbered 34:11 in this witness)*: Et conversi sunt deinceps: et retraxerunt servos et ancillas suas quos dimiserant liberos, et subjugaverunt in famulos et famulas.
-  - `Clem-Saints`: Et conversi sunt deinceps: et retraxerunt servos et ancillas suas quos dimiserant liberos, et subjugaverunt in famulos et famulas.
-  - `VulgHetzenauer (1906)` *(numbered 34:11 in this witness)*: Et conversi sunt deinceps: et retraxerunt servos et ancillas suas, quos dimiserant liberos, et subiugaverunt in famulos et famulas.
-  - `VulgConte (2009)` *(numbered 34:11 in this witness)*: Et conversi sunt deinceps: et retraxerunt servos et ancillas suas, quos dimiserant liberos, et subiugaverunt in famulos et famulas.
-  - `VulgSistina (1590)` *(numbered 34:11 in this witness)*: Et conversi sunt deinceps: et retraxerunt servos et ancillas suas, quos dimiserant liberos, et subiugaverunt in famulos et famulas.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:11 (re-aligned by content).
+- **Critical Text:** Audivit autem Johanan filius Caree, et omnes principes bellatorum qui erant cum eo, omne malum quod fecerat Ismahel filius Nathaniæ,
+  - `Clem1598-USFX`: Audivit autem Johanan filius Caree, et omnes principes bellatorum qui erant cum eo, omne malum quod fecerat Ismahel filius Nathaniæ,
+  - `Clem-Saints` *(numbered 48:11 in this witness)*: Audivit autem Johanan filius Caree, et omnes principes bellatorum qui erant cum eo, omne malum quod fecerat Ismahel filius Nathaniæ,
+  - `VulgHetzenauer (1906)`: Audivit autem Iohanan filius Caree, et omnes principes bellatorum, qui erant cum eo, omne malum, quod fecerat Ismahel filius Nathaniæ.
+  - `VulgConte (2009)`: Audivit autem Iohanan filius Caree, et omnes principes bellatorum, qui erant cum eo, omne malum, quod fecerat Ismahel filius Nathaniæ.
+  - `VulgSistina (1590)`: Audivit autem Iohanan filius Caree, et omnes principes bellatorum, qui erant cum eo, omne malum, quod fecerat Ismahel filius Nathaniae.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et factum est verbum Domini ad Jeremiam a Domino, dicens:
-  - `Clem1598-USFX` *(numbered 34:12 in this witness)*: Et factum est verbum Domini ad Jeremiam a Domino, dicens:
-  - `Clem-Saints`: Et factum est verbum Domini ad Jeremiam a Domino, dicens:
-  - `VulgHetzenauer (1906)` *(numbered 34:12 in this witness)*: Et factum est verbum Domini ad Ieremiam a Domino, dicens:
-  - `VulgConte (2009)` *(numbered 34:12 in this witness)*: Et factum est verbum Domini ad Ieremiam a Domino, dicens:
-  - `VulgSistina (1590)` *(numbered 34:12 in this witness)*: Et factum est verbum Domini ad Ieremiam a Domino, dicens:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:12 (re-aligned by content).
+- **Critical Text:** et assumptis universis viris, profecti sunt ut bellarent adversum Ismahel filium Nathaniæ: et invenerunt eum ad aquas multas quæ sunt in Gabaon.
+  - `Clem1598-USFX`: et assumptis universis viris, profecti sunt ut bellarent adversum Ismahel filium Nathaniæ: et invenerunt eum ad aquas multas quæ sunt in Gabaon.
+  - `Clem-Saints` *(numbered 48:12 in this witness)*: et assumptis universis viris, profecti sunt ut bellarent adversum Ismahel filium Nathaniæ: et invenerunt eum ad aquas multas quæ sunt in Gabaon.
+  - `VulgHetzenauer (1906)`: Et assumptis universis viris, profecti sunt ut bellarent adversum Ismahel filium Nathaniæ, et invenerunt eum ad aquas multas, quæ sunt in Gabaon.
+  - `VulgConte (2009)`: Et assumptis universis viris, profecti sunt ut bellarent adversum Ismahel filium Nathaniæ, et invenerunt eum ad aquas multas, quæ sunt in Gabaon.
+  - `VulgSistina (1590)`: Et assumptis universis viris, profecti sunt ut bellarent adversum Ismahel filium Nathaniae, et invenerunt eum ad aquas multas, quae sunt in Gabaon.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Hæc dicit Dominus Deus Israël: Ego percussi fœdus cum patribus vestris in die qua eduxi eos de terra Ægypti, de domo servitutis, dicens:
-  - `Clem1598-USFX` *(numbered 34:13 in this witness)*: Hæc dicit Dominus Deus Israël: Ego percussi fœdus cum patribus vestris in die qua eduxi eos de terra Ægypti, de domo servitutis, dicens:
-  - `Clem-Saints`: Hæc dicit Dominus Deus Israël: Ego percussi fœdus cum patribus vestris in die qua eduxi eos de terra Ægypti, de domo servitutis, dicens:
-  - `VulgHetzenauer (1906)` *(numbered 34:13 in this witness)*: Hæc dicit Dominus Deus Israel: Ego percussi fœdus cum patribus vestris in die, qua eduxi eos de Terra Ægypti de domo servitutis, dicens:
-  - `VulgConte (2009)` *(numbered 34:13 in this witness)*: Hæc dicit Dominus Deus Israel: Ego percussi fœdus cum patribus vestris in die, qua eduxi eos de Terra Ægypti de domo servitutis, dicens:
-  - `VulgSistina (1590)` *(numbered 34:13 in this witness)*: Haec dicit Dominus Deus Israel: Ego percussi foedus cum patribus vestris in die, qua eduxi eos de Terra Aegypti de domo servitutis, dicens:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:13 (re-aligned by content).
+- **Critical Text:** Cumque vidisset omnis populus qui erat cum Ismahel Johanan filium Caree, et universos principes bellatorum qui erant cum eo, lætati sunt:
+  - `Clem1598-USFX`: Cumque vidisset omnis populus qui erat cum Ismahel Johanan filium Caree, et universos principes bellatorum qui erant cum eo, lætati sunt:
+  - `Clem-Saints` *(numbered 48:13 in this witness)*: Cumque vidisset omnis populus qui erat cum Ismahel Johanan filium Caree, et universos principes bellatorum qui erant cum eo, lætati sunt:
+  - `VulgHetzenauer (1906)`: Cumque vidisset omnis populus, qui erat cum Ismahel, Iohanan filium Caree, et universos principes bellatorum, qui erant cum eo, lætati sunt.
+  - `VulgConte (2009)`: Cumque vidisset omnis populus, qui erat cum Ismahel, Iohanan filium Caree, et universos principes bellatorum, qui erant cum eo, lætati sunt.
+  - `VulgSistina (1590)`: Cumque vidisset omnis populus, qui erat cum Ismahel, Iohanan filium Caree, et universos principes bellatorum, qui erant cum eo, laetati sunt.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebræum, qui venditus est ei: et serviet tibi sex annis, et dimittes eum a te liberum: et non audierunt patres vestri me, nec inclinaverunt aurem suam.
-  - `Clem1598-USFX` *(numbered 34:14 in this witness)*: Cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebræum, qui venditus est ei: et serviet tibi sex annis, et dimittes eum a te liberum: et non audierunt patres vestri me, nec inclinaverunt aurem suam.
-  - `Clem-Saints`: Cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebræum, qui venditus est ei: et serviet tibi sex annis, et dimittes eum a te liberum: et non audierunt patres vestri me, nec inclinaverunt aurem suam.
-  - `VulgHetzenauer (1906)` *(numbered 34:14 in this witness)*: Cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebræum, qui venditus est ei, et serviet tibi sex annis: et dimittes eum a te liberum: et non audierunt patres vestri me, nec inclinaverunt aurem suam.
-  - `VulgConte (2009)` *(numbered 34:14 in this witness)*: Cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebræum, qui venditus est ei, et serviet tibi sex annis: et dimittes eum a te liberum: et non audierunt patres vestri me, nec inclinaverunt aurem suam.
-  - `VulgSistina (1590)` *(numbered 34:14 in this witness)*: Cum completi fuerint septem anni, dimittat unusquisque fratrem suum Hebraeum, qui venditus est ei, et serviet tibi sex annis: et dimittes eum a te liberum: et non audierunt patres vestri me, nec inclinaverunt aurem suam.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:14 (re-aligned by content).
+- **Critical Text:** et reversus est omnis populus quem ceperat Ismahel, in Masphath, reversusque abiit ad Johanan filium Caree.
+  - `Clem1598-USFX`: et reversus est omnis populus quem ceperat Ismahel, in Masphath, reversusque abiit ad Johanan filium Caree.
+  - `Clem-Saints` *(numbered 48:14 in this witness)*: et reversus est omnis populus quem ceperat Ismahel, in Masphath, reversusque abiit ad Johanan filium Caree.
+  - `VulgHetzenauer (1906)`: Et reversus est omnis populus, quem ceperat Ismahel, in Masphath: reversusque abiit ad Iohanan filium Caree.
+  - `VulgConte (2009)`: Et reversus est omnis populus, quem ceperat Ismahel, in Masphath: reversusque abiit ad Iohanan filium Caree.
+  - `VulgSistina (1590)`: Et reversus est omnis populus, quem ceperat Ismahel, in Masphath: reversusque abiit ad Iohanan filium Caree.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut prædicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo, in domo in qua invocatum est nomen meum super eam:
-  - `Clem1598-USFX` *(numbered 34:15 in this witness)*: Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut prædicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo, in domo in qua invocatum est nomen meum super eam:
-  - `Clem-Saints`: Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut prædicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo, in domo in qua invocatum est nomen meum super eam:
-  - `VulgHetzenauer (1906)` *(numbered 34:15 in this witness)*: Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut prædicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo in domo, in qua invocatum est nomen meum super eam.
-  - `VulgConte (2009)` *(numbered 34:15 in this witness)*: Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut prædicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo in domo, in qua invocatum est nomen meum super eam.
-  - `VulgSistina (1590)` *(numbered 34:15 in this witness)*: Et conversi estis vos hodie, et fecistis quod rectum est in oculis meis, ut praedicaretis libertatem unusquisque ad amicum suum: et inistis pactum in conspectu meo in domo, in qua invocatum est nomen meum super eam.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:15 (re-aligned by content).
+- **Critical Text:** Ismahel autem filius Nathaniæ fugit cum octo viris a facie Johanan, et abiit ad filios Ammon.
+  - `Clem1598-USFX`: Ismahel autem filius Nathaniæ fugit cum octo viris a facie Johanan, et abiit ad filios Ammon.
+  - `Clem-Saints` *(numbered 48:15 in this witness)*: Ismahel autem filius Nathaniæ fugit cum octo viris a facie Johanan, et abiit ad filios Ammon.
+  - `VulgHetzenauer (1906)`: Ismahel autem filius Nathaniæ fugit cum octo viris a facie Iohanan, et abiit ad filios Ammon.
+  - `VulgConte (2009)`: Ismahel autem filius Nathaniæ fugit cum octo viris a facie Iohanan, et abiit ad filios Ammon.
+  - `VulgSistina (1590)`: Ismahel autem filius Nathaniae fugit cum octo viris a facie Iohanan, et abiit ad filios Ammon.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** et reversi estis, et commaculastis nomen meum, et reduxistis unusquisque servum suum et unusquisque ancillam suam quos dimiseratis ut essent liberi et suæ potestatis, et subjugastis eos ut sint vobis servi et ancillæ.
-  - `Clem1598-USFX` *(numbered 34:16 in this witness)*: et reversi estis, et commaculastis nomen meum, et reduxistis unusquisque servum suum et unusquisque ancillam suam quos dimiseratis ut essent liberi et suæ potestatis, et subjugastis eos ut sint vobis servi et ancillæ.
-  - `Clem-Saints`: et reversi estis, et commaculastis nomen meum, et reduxistis unusquisque servum suum et unusquisque ancillam suam quos dimiseratis ut essent liberi et suæ potestatis, et subjugastis eos ut sint vobis servi et ancillæ.
-  - `VulgHetzenauer (1906)` *(numbered 34:16 in this witness)*: Et reversi estis, et commaculastis nomen meum: et reduxistis unusquisque servum suum, et unusquisque ancillam suam, quos dimiseratis ut essent liberi et suæ potestatis: et subiugastis eos ut sint vobis servi et ancillæ.
-  - `VulgConte (2009)` *(numbered 34:16 in this witness)*: Et reversi estis, et commaculastis nomen meum: et reduxistis unusquisque servum suum, et unusquisque ancillam suam, quos dimiseratis ut essent liberi et suæ potestatis: et subiugastis eos ut sint vobis servi et ancillæ.
-  - `VulgSistina (1590)` *(numbered 34:16 in this witness)*: Et reversi estis, et commaculastis nomen meum: et reduxistis unusquisque servum suum, et unusquisque ancillam suam, quos dimiseratis ut essent liberi et suae potestatis: et subiugastis eos ut sint vobis servi et ancillae.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:16 (re-aligned by content).
+- **Critical Text:** Tulit ergo Johanan filius Caree, et omnes principes bellatorum qui erant cum eo, universas reliquias vulgi quas reduxerat ab Ismahel filio Nathaniæ de Masphath, postquam percussit Godoliam filium Ahicam: fortes viros ad prælium, et mulieres, et pueros, et eunuchos, quos reduxerat de Gabaon.
+  - `Clem1598-USFX`: Tulit ergo Johanan filius Caree, et omnes principes bellatorum qui erant cum eo, universas reliquias vulgi quas reduxerat ab Ismahel filio Nathaniæ de Masphath, postquam percussit Godoliam filium Ahicam: fortes viros ad prælium, et mulieres, et pueros, et eunuchos, quos reduxerat de Gabaon.
+  - `Clem-Saints` *(numbered 48:16 in this witness)*: Tulit ergo Johanan filius Caree, et omnes principes bellatorum qui erant cum eo, universas reliquias vulgi quas reduxerat ab Ismahel filio Nathaniæ de Masphath, postquam percussit Godoliam filium Ahicam: fortes viros ad prælium, et mulieres, et pueros, et eunuchos, quos reduxerat de Gabaon.
+  - `VulgHetzenauer (1906)`: Tulit ergo Iohanan filius Caree, et omnes principes bellatorum, qui erant cum eo, universas reliquias vulgi, quas reduxerat ab Ismahel filio Nathaniæ de Masphath, postquam percussit Godoliam filium Ahicam: fortes viros ad prælium, et mulieres, et pueros, et eunuchos, quos reduxerat de Gabaon.
+  - `VulgConte (2009)`: Tulit ergo Iohanan filius Caree, et omnes principes bellatorum, qui erant cum eo, universas reliquias vulgi, quas reduxerat ab Ismahel filio Nathaniæ de Masphath, postquam percussit Godoliam filium Ahicam: fortes viros ad prælium, et mulieres, et pueros, et eunuchos, quos reduxerat de Gabaon.
+  - `VulgSistina (1590)`: Tulit ergo Iohanan filius Caree, et omnes principes bellatorum, qui erant cum eo, universas reliquias vulgi, quas reduxerat ab Ismahel filio Nathaniae de Masphath, postquam percussit Godoliam filium Ahicam: fortes viros ad praelium, et mulieres, et pueros, et eunuchos, quos reduxerat de Gabaon.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Propterea hæc dicit Dominus: Vos non audistis me, ut prædicaretis libertatem unusquisque fratri suo et unusquisque amico suo: ecce ego prædico vobis libertatem, ait Dominus, ad gladium, ad pestem, et ad famem, et dabo vos in commotionem cunctis regnis terræ.
-  - `Clem1598-USFX` *(numbered 34:17 in this witness)*: Propterea hæc dicit Dominus: Vos non audistis me, ut prædicaretis libertatem unusquisque fratri suo et unusquisque amico suo: ecce ego prædico vobis libertatem, ait Dominus, ad gladium, ad pestem, et ad famem, et dabo vos in commotionem cunctis regnis terræ.
-  - `Clem-Saints`: Propterea hæc dicit Dominus: Vos non audistis me, ut prædicaretis libertatem unusquisque fratri suo et unusquisque amico suo: ecce ego prædico vobis libertatem, ait Dominus, ad gladium, ad pestem, et ad famem, et dabo vos in commotionem cunctis regnis terræ.
-  - `VulgHetzenauer (1906)` *(numbered 34:17 in this witness)*: Propterea hæc dicit Dominus: Vos non audistis me, ut prædicaretis libertatem unusquisque fratri suo, et unusquisque amico suo: ecce ego prædico vobis libertatem, ait Dominus ad gladium, ad pestem, et ad famem: et dabo vos in commotionem cunctis regnis terræ.
-  - `VulgConte (2009)` *(numbered 34:17 in this witness)*: Propterea hæc dicit Dominus: Vos non audistis me, ut prædicaretis libertatem unusquisque fratri suo, et unusquisque amico suo: ecce ego prædico vobis libertatem, ait Dominus ad gladium, ad pestem, et ad famem: et dabo vos in commotionem cunctis regnis terræ.
-  - `VulgSistina (1590)` *(numbered 34:17 in this witness)*: Propterea haec dicit Dominus: Vos non audistis me, ut praedicaretis libertatem unusquisque fratri suo, et unusquisque amico suo: ecce ego praedico vobis libertatem, ait Dominus ad gladium, ad pestem, et ad famem: et dabo vos in commotionem cunctis regnis terrae.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:17 (re-aligned by content).
+- **Critical Text:** Et abierunt, et sederunt peregrinantes in Chamaam, quæ est juxta Bethlehem, ut pergerent, et introirent Ægyptum,
+  - `Clem1598-USFX`: Et abierunt, et sederunt peregrinantes in Chamaam, quæ est juxta Bethlehem, ut pergerent, et introirent Ægyptum,
+  - `Clem-Saints` *(numbered 48:17 in this witness)*: Et abierunt, et sederunt peregrinantes in Chamaam, quæ est juxta Bethlehem, ut pergerent, et introirent Ægyptum,
+  - `VulgHetzenauer (1906)`: Et abierunt, et sederunt peregrinantes in Chamaam, quæ est iuxta Bethlehem, ut pergerent, et introirent Ægyptum
+  - `VulgConte (2009)`: Et abierunt, et sederunt peregrinantes in Chamaam, quæ est iuxta Bethlehem, ut pergerent, et introirent Ægyptum
+  - `VulgSistina (1590)`: Et abierunt, et sederunt peregrinantes in Chamaam, quae est iuxta Bethlehem, ut pergerent, et introirent Aegyptum
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et dabo viros qui prævaricantur fœdus meum, et non observaverunt verba fœderis quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones ejus,
-  - `Clem1598-USFX` *(numbered 34:18 in this witness)*: Et dabo viros qui prævaricantur fœdus meum, et non observaverunt verba fœderis quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones ejus,
-  - `Clem-Saints`: Et dabo viros qui prævaricantur fœdus meum, et non observaverunt verba fœderis quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones ejus,
-  - `VulgHetzenauer (1906)` *(numbered 34:18 in this witness)*: Et dabo viros, qui prævaricantur fœdus meum, et non observaverunt verba fœderis, quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones eius:
-  - `VulgConte (2009)` *(numbered 34:18 in this witness)*: Et dabo viros, qui prævaricantur fœdus meum, et non observaverunt verba fœderis, quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones eius:
-  - `VulgSistina (1590)` *(numbered 34:18 in this witness)*: Et dabo viros, qui praevaricantur foedus meum, et non observaverunt verba foederis, quibus assensi sunt in conspectu meo, vitulum quem conciderunt in duas partes, et transierunt inter divisiones eius:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:18 (re-aligned by content).
-
-### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** principes Juda et principes Jerusalem, eunuchi et sacerdotes, et omnis populus terræ, qui transierunt inter divisiones vituli:
-  - `Clem1598-USFX` *(numbered 34:19 in this witness)*: principes Juda et principes Jerusalem, eunuchi et sacerdotes, et omnis populus terræ, qui transierunt inter divisiones vituli:
-  - `Clem-Saints`: principes Juda et principes Jerusalem, eunuchi et sacerdotes, et omnis populus terræ, qui transierunt inter divisiones vituli:
-  - `VulgHetzenauer (1906)` *(numbered 34:19 in this witness)*: Principes Iuda et principes Ierusalem, eunuchi et sacerdotes, et omnis populus terræ, qui transierunt inter divisiones vituli:
-  - `VulgConte (2009)` *(numbered 34:19 in this witness)*: Principes Iuda et principes Ierusalem, eunuchi et sacerdotes, et omnis populus terræ, qui transierunt inter divisiones vituli:
-  - `VulgSistina (1590)` *(numbered 34:19 in this witness)*: Principes Iuda et principes Ierusalem, eunuchi et sacerdotes, et omnis populus terrae, qui transierunt inter divisiones vituli:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:19 (re-aligned by content).
-
-### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** et dabo eos in manus inimicorum suorum, et in manus quærentium animam eorum, et erit morticinum eorum in escam volatilibus cæli et bestiis terræ.
-  - `Clem1598-USFX` *(numbered 34:20 in this witness)*: et dabo eos in manus inimicorum suorum, et in manus quærentium animam eorum, et erit morticinum eorum in escam volatilibus cæli et bestiis terræ.
-  - `Clem-Saints`: et dabo eos in manus inimicorum suorum, et in manus quærentium animam eorum, et erit morticinum eorum in escam volatilibus cæli et bestiis terræ.
-  - `VulgHetzenauer (1906)` *(numbered 34:20 in this witness)*: Et dabo eos in manus inimicorum suorum, et in manus quærentium animam eorum: et erit morticinum eorum in escam volatilibus cæli, et bestiis terræ.
-  - `VulgConte (2009)` *(numbered 34:20 in this witness)*: Et dabo eos in manus inimicorum suorum, et in manus quærentium animam eorum: et erit morticinum eorum in escam volatilibus cæli, et bestiis terræ.
-  - `VulgSistina (1590)` *(numbered 34:20 in this witness)*: Et dabo eos in manus inimicorum suorum, et in manus quaerentium animam eorum: et erit morticinum eorum in escam volatilibus caeli, et bestiis terrae.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:20 (re-aligned by content).
-
-### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et Sedeciam regem Juda, et principes ejus, dabo in manus inimicorum suorum, et in manus quærentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
-  - `Clem1598-USFX` *(numbered 34:21 in this witness)*: Et Sedeciam regem Juda, et principes ejus, dabo in manus inimicorum suorum, et in manus quærentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
-  - `Clem-Saints`: Et Sedeciam regem Juda, et principes ejus, dabo in manus inimicorum suorum, et in manus quærentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
-  - `VulgHetzenauer (1906)` *(numbered 34:21 in this witness)*: Et Sedeciam regem Iuda, et principes eius dabo in manus inimicorum suorum, et in manus quærentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
-  - `VulgConte (2009)` *(numbered 34:21 in this witness)*: Et Sedeciam regem Iuda, et principes eius dabo in manus inimicorum suorum, et in manus quærentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
-  - `VulgSistina (1590)` *(numbered 34:21 in this witness)*: Et Sedechiam regem Iuda, et principes eius dabo in manus inimicorum suorum, et in manus quaerentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:21 (re-aligned by content).
-
-### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Ecce ego præcipio, dicit Dominus, et reducam eos in civitatem hanc, et præliabuntur adversus eam, et capient eam, et incendent igni: et civitates Juda dabo in solitudinem, eo quod non sit habitator.
-  - `Clem1598-USFX` *(numbered 34:22 in this witness)*: Ecce ego præcipio, dicit Dominus, et reducam eos in civitatem hanc, et præliabuntur adversus eam, et capient eam, et incendent igni: et civitates Juda dabo in solitudinem, eo quod non sit habitator.
-  - `Clem-Saints`: Ecce ego præcipio, dicit Dominus, et reducam eos in civitatem hanc, et præliabuntur adversus eam, et capient eam, et incendent igni: et civitates Juda dabo in solitudinem, eo quod non sit habitator.
-  - `VulgHetzenauer (1906)` *(numbered 34:22 in this witness)*: Ecce ego præcipio, dicit Dominus, et reducam eos in civitatem hanc, et præliabuntur adversus eam, et capient eam, et incendent igni: et civitates Iuda dabo in solitudinem, eo quod non sit habitator.
-  - `VulgConte (2009)` *(numbered 34:22 in this witness)*: Ecce ego præcipio, dicit Dominus, et reducam eos in civitatem hanc, et præliabuntur adversus eam, et capient eam, et incendent igni: et civitates Iuda dabo in solitudinem, eo quod non sit habitator.
-  - `VulgSistina (1590)` *(numbered 34:22 in this witness)*: Ecce ego praecipio, dicit Dominus, et reducam eos in civitatem hanc, et praeliabuntur adversus eam, et capient eam, et incendent igne: et civitates Iuda dabo in solitudinem, eo quod non sit habitator.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:22 (re-aligned by content).
+- **Critical Text:** a facie Chaldæorum: timebant enim eos, quia percusserat Ismahel filius Nathaniæ Godoliam filium Ahicam, quem præposuerat rex Babylonis in terra Juda.
+  - `Clem1598-USFX`: a facie Chaldæorum: timebant enim eos, quia percusserat Ismahel filius Nathaniæ Godoliam filium Ahicam, quem præposuerat rex Babylonis in terra Juda.
+  - `Clem-Saints` *(numbered 48:18 in this witness)*: a facie Chaldæorum: timebant enim eos, quia percusserat Ismahel filius Nathaniæ Godoliam filium Ahicam, quem præposuerat rex Babylonis in terra Juda.
+  - `VulgHetzenauer (1906)`: a facie Chaldæorum: timebant enim eos, quia percusserat Ismahel filius Nathaniæ Godoliam filium Ahicam, quem præposuerat rex Babylonis in Terra Iuda.
+  - `VulgConte (2009)`: a facie Chaldæorum: timebant enim eos, quia percusserat Ismahel filius Nathaniæ Godoliam filium Ahicam, quem præposuerat rex Babylonis in Terra Iuda.
+  - `VulgSistina (1590)`: a facie Chaldaeorum: timebant enim eos, quia percusserat Ismahel filius Nathaniae Godoliam filium Ahicam, quem praeposuerat rex Babylonis in Terra Iuda.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

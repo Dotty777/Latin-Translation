@@ -1,6 +1,6 @@
 # Micah 4 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (14 verses, 5 translator notes)  
+> **Status:** `draft: true` (13 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Micah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -31,12 +31,9 @@
 
 **4:13** Arise and thresh, daughter of Zion, for I will make your horn iron, and I will make your hooves bronze; and you will crush many peoples, and you will destroy their plunder for the Lord, and their strength for the Lord of the whole earth.
 
-**4:14** Now you will be laid waste, daughter of a robber. They have laid a siege against us; with a rod they will strike the cheek of the judge of Israel.
-
 ## Translator Notes
 
 - **4:3** — Vulgate ligones literally means 'hoes' or 'mattocks,' where the Hebrew has 'pruning hooks.'
 - **4:8** — Vulgate nebulosa ('cloudy' or 'misty') interprets Hebrew ophel ('hill' or 'citadel') as a term for mist or darkness modifying 'tower.'
 - **4:9** — Vulgate moerore contraheris ('are you constricted with grief') is a distinctly Vulgate rendering where the Hebrew reads 'do you cry aloud.'
 - **4:11** — Vulgate Lapidetur ('Let her be stoned') is a distinctly Vulgate reading where the Hebrew Masoretic Text reads 'Let her be profaned.'
-- **4:14** — In the Vulgate (following the Hebrew chapter division), this verse ends chapter 4 rather than beginning chapter 5; filia latronis ('daughter of a robber') renders the Hebrew phrase 'daughter of troops.'

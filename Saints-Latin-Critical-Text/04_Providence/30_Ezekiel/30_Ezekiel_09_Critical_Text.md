@@ -1,8 +1,8 @@
 # Ezekiel 09 — Saints Latin Critical Text
 
-**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:31Z`
+**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:09Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -60,7 +51,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Ezekiel 9:6
-- **Apparatus:** `parvulum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **parvulos,** VulgSistina (1590)
+- **Apparatus:** `parvulum` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **parvulos,** VulgSistina (1590)
 
 ---
 
@@ -73,7 +64,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et clamavit in auribus meis voce magna, dicens: Appropinquaverunt visitationes urbis, et unusquisque vas interfectionis habet in manu sua.
   - `VulgConte (2009)`: Et clamavit in auribus meis voce magna, dicens: Appropinquaverunt visitationes urbis, et unusquisque vas interfectionis habet in manu sua.
   - `VulgSistina (1590)`: Et clamavit in auribus meis voce magna, dicens: Appropinquaverunt visitationes urbis, et unusquisque vas interfectionis habet in manu sua.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ecce sex viri veniebant de via portæ superioris, quæ respicit ad aquilonem, et uniuscujusque vas interitus in manu ejus: vir quoque unus in medio eorum vestitus erat lineis, et atramentarium scriptoris ad renes ejus: et ingressi sunt, et steterunt juxta altare æreum.
@@ -82,7 +73,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ecce sex viri veniebant de via portæ superioris, quæ respicit ad Aquilonem: et uniuscuiusque vas interitus in manu eius: vir quoque unus in medio eorum vestitus erat lineis, et atramentarium scriptoris ad renes eius: et ingressi sunt, et steterunt iuxta altare æreum:
   - `VulgConte (2009)`: Et ecce sex viri veniebant de via portæ superioris, quæ respicit ad Aquilonem: et uniuscuiusque vas interitus in manu eius: vir quoque unus in medio eorum vestitus erat lineis, et atramentarium scriptoris ad renes eius: et ingressi sunt, et steterunt iuxta altare æreum:
   - `VulgSistina (1590)`: Et ecce sex viri veniebant de via portae superioris, quae respicit ad Aquilonem: et uniuscuiusque vas interitus in manu eius: vir quoque unus in medio eorum vestitus erat lineis, et atramentarium scriptoris ad renes eius: et ingressi sunt, et steterunt iuxta altare aereum:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et gloria Domini Israël assumpta est de cherub, quæ erat super eum ad limen domus: et vocavit virum qui indutus erat lineis, et atramentarium scriptoris habebat in lumbis suis:
@@ -91,7 +82,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et gloria Domini Israel assumpta est de cherub, quæ erat super eum ad limen domus: et vocavit virum, qui indutus erat lineis, et atramentarium scriptoris habebat in lumbis suis.
   - `VulgConte (2009)`: Et gloria Domini Israel assumpta est de cherub, quæ erat super eum ad limen domus: et vocavit virum, qui indutus erat lineis, et atramentarium scriptoris habebat in lumbis suis.
   - `VulgSistina (1590)`: Et gloria Domini Israel assumpta est de cherub, quae erat super eum ad limen domus: et vocavit virum, qui indutus erat lineis, et atramentarium scriptoris habebat in lumbis suis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et dixit Dominus ad eum: Transi per mediam civitatem, in medio Jerusalem, et signa thau super frontes virorum gementium et dolentium super cunctis abominationibus quæ fiunt in medio ejus.
@@ -100,7 +91,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et dixit Dominus ad eum: Transi per mediam civitatem in medio Ierusalem: et signa thau super frontes virorum gementium, et dolentium super cunctis abominationibus, quæ fiunt in medio eius.
   - `VulgConte (2009)`: Et dixit Dominus ad eum: Transi per mediam civitatem in medio Ierusalem: et signa Thau super frontes virorum gementium, et dolentium super cunctis abominationibus, quæ fiunt in medio eius.
   - `VulgSistina (1590)`: Et dixit Dominus ad eum: Transi per mediam civitatem in medio Ierusalem: et signa thau super frontes virorum gementium, et dolentium super cunctis abominationibus, quae fiunt in medio eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et illis dixit, audiente me: Transite per civitatem sequentes eum, et percutite: non parcat oculus vester, neque misereamini:
@@ -109,7 +100,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et illis dixit, audiente me: Transite per civitatem sequentes eum, et percutite: non parcat oculus vester, neque misereamini.
   - `VulgConte (2009)`: Et illis dixit, audiente me: Transite per civitatem sequentes eum, et percutite: non parcat oculus vester, neque misereamini.
   - `VulgSistina (1590)`: Et illis dixit, audiente me: Transite per civitatem sequentes eum, et percutite: non parcat oculus vester, neque misereamini.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** senem, adolescentulum et virginem, parvulum et mulieres interficite usque ad internecionem: omnem autem super quem videritis thau, ne occidatis: et a sanctuario meo incipite. Cœperunt ergo a viris senioribus, qui erant ante faciem domus.
@@ -118,7 +109,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Senem, adolescentulum, et virginem, parvulum, et mulieres interficite usque ad internecionem: omnem autem, super quem videritis thau, ne occidatis, et a sanctuario meo incipite. Cœperunt ergo a viris senioribus, qui erant ante faciem domus.
   - `VulgConte (2009)`: Senem, adolescentulum, et virginem, parvulum, et mulieres interficite usque ad internecionem: omnem autem, super quem videritis Thau, ne occidatis, et a sanctuario meo incipite. Cœperunt ergo a viris senioribus, qui erant ante faciem domus.
   - `VulgSistina (1590)`: Senem, adolescentulum, et virginem, parvulos, et mulieres interficite usque ad internecionem: omnem autem, super quem videritis thau, ne occidatis, et a sanctuario meo incipite. Coeperunt ergo a viris senioribus, qui erant ante faciem domus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et dixit ad eos: Contaminate domum, et implete atria interfectis; egredimini. Et egressi sunt, et percutiebant eos qui erant in civitate.
@@ -127,7 +118,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et dixit ad eos: Contaminate domum, et implete atria interfectis: egredimini. Et egressi sunt, et percutiebant eos, qui erant in civitate.
   - `VulgConte (2009)`: Et dixit ad eos: Contaminate domum, et implete atria interfectis: egredimini. Et egressi sunt, et percutiebant eos, qui erant in civitate.
   - `VulgSistina (1590)`: Et dixit ad eos: Contaminate domum, et implete atria interfectis: egredimini. Et egressi sunt, et percutiebant eos, qui erant in civitate.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cæde completa, remansi ego, ruique super faciem meam, et clamans aio: Heu! heu! heu! Domine Deus: ergone disperdes omnes reliquias Israël, effundens furorem tuum super Jerusalem?
@@ -136,7 +127,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et cæde completa, remansi ego: ruique super faciem meam, et clamans aio: Heu, heu, heu Domine Deus: ergone disperdes omnes reliquias Israel, effundens furorem tuum super Ierusalem?
   - `VulgConte (2009)`: Et cæde completa, remansi ego: ruique super faciem meam, et clamans aio: Heu, heu, heu Domine Deus: ergone disperdes omnes reliquias Israel, effundens furorem tuum super Ierusalem?
   - `VulgSistina (1590)`: Et caede completa, remansi ego: ruique super faciem meam, et clamans aio: Heu, heu, heu Domine Deus: ergone disperdes omnes reliquias Israel, effundens furorem tuum super Ierusalem?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et dixit ad me: Iniquitas domus Israël et Juda magna est nimis valde, et repleta est terra sanguinibus, et civitas repleta est aversione: dixerunt enim: Dereliquit Dominus terram, et Dominus non videt.
@@ -145,7 +136,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et dixit ad me: Iniquitas domus Israel, et Iuda, magna est nimis valde, et repleta est terra sanguinibus, et civitas repleta est aversione: dixerunt enim: Dereliquit Dominus terram, et Dominus non videt.
   - `VulgConte (2009)`: Et dixit ad me: Iniquitas domus Israel, et Iuda, magna est nimis valde, et repleta est terra sanguinibus, et civitas repleta est aversione: dixerunt enim: Dereliquit Dominus terram, et Dominus non videt.
   - `VulgSistina (1590)`: Et dixit ad me: Iniquitas domus Israel, et Iuda, magna est nimis valde, et repleta est terra sanguinibus, et civitas repleta est aversione: dixerunt enim: Dereliquit Dominus terram, et Dominus non videt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Igitur et meus non parcet oculus, neque miserebor: viam eorum super caput eorum reddam.
@@ -154,7 +145,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Igitur et meus non parcet oculus, neque miserebor: viam eorum super caput eorum reddam.
   - `VulgConte (2009)`: Igitur et meus non parcet oculus, neque miserebor: viam eorum super caput eorum reddam.
   - `VulgSistina (1590)`: Igitur et meus non parcet oculus, neque miserebor: viam eorum super caput eorum reddam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ecce vir qui erat indutus lineis, qui habebat atramentarium in dorso suo, respondit verbum, dicens: Feci sicut præcepisti mihi.
@@ -163,4 +154,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ecce vir, qui erat indutus lineis, qui habebat atramentarium in dorso suo, respondit verbum, dicens: Feci sicut præcepisti mihi.
   - `VulgConte (2009)`: Et ecce vir, qui erat indutus lineis, qui habebat atramentarium in dorso suo, respondit verbum, dicens: Feci sicut præcepisti mihi.
   - `VulgSistina (1590)`: Et ecce vir, qui erat indutus lineis, qui habebat atramentarium in dorso suo, respondit verbum, dicens: Feci sicut praecepisti mihi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

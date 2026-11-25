@@ -1,6 +1,6 @@
 # Proverbs 4 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 3 translator notes, 1 additional)  
+> **Status:** `draft: true` (27 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -16,6 +16,8 @@
 **4:5** Possess wisdom, possess discernment; do not forget, nor turn aside from the words of my mouth.
 
 **4:6** Do not let her go, and she will guard you; love her, and she will preserve you.
+
+**4:7** The beginning of wisdom: gain wisdom, and with all you possess acquire prudence.
 
 **4:8** Seize her, and she will exalt you; you will be glorified by her when you have embraced her.
 
@@ -56,10 +58,6 @@
 **4:26** Direct the path for your feet, and all your ways will be made firm.
 
 **4:27** Do not turn aside to the right or to the left; turn your foot away from evil. For the Lord knows the ways that are on the right, but those that are on the left are perverse. He Himself, however, will make your courses straight, and He will lead your journeys forward in peace.
-
-## Additional Verses (Not in Saints Numbering)
-
-**4:7** *(after `4:6`)* The beginning of wisdom: gain wisdom, and with all you possess acquire prudence.
 
 ## Translator Notes
 

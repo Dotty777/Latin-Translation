@@ -7,9 +7,9 @@
   "usfm_code": "2CO",
   "chapter": 9,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-22T08:01:26Z",
-  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
-  "versification_anchor": "Clem-Saints",
+  "updated_at": "2026-11-25T00:08:10Z",
+  "versification": "Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py.",
+  "versification_anchor": "Clem1598-USFX",
   "orthographic_base": "Clem1598-USFX",
   "versification_notes": [
     "VL 75 (d): verse 8:15 runs into its neighbour across the anchor's division between 8:14 and 8:15; re-divided there",
@@ -28,16 +28,16 @@
       "tier": 1,
       "weight": 0.88,
       "license": "Public Domain"
-    },
+    }
+  ],
+  "apparatus_witnesses": [
     {
       "siglum": "Clem-Saints",
       "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
       "tier": 1,
-      "weight": 0.86,
-      "license": "Public Domain"
-    }
-  ],
-  "apparatus_witnesses": [
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
     {
       "siglum": "VulgHetzenauer (1906)",
       "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
@@ -67,6 +67,27 @@
       "role": "apparatus only (recorded, not voting)"
     },
     {
+      "siglum": "VL 75 (d)",
+      "title": "Codex Claromontanus — Old Latin Pauline Epistles (COMPAUL CC BY 4.0)",
+      "tier": 4,
+      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VL 89",
+      "title": "Budapest Anonymous — Old Latin Pauline Commentary Text (COMPAUL CC BY 4.0)",
+      "tier": 4,
+      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VL 64 (r)",
+      "title": "Freising Fragments — 5th/6th-c. Old Latin Paul (COMPAUL CC BY 4.0)",
+      "tier": 4,
+      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
       "siglum": "AMst",
       "title": "Ambrosiaster — 4th-c. Old Latin Pauline Lemmata (COMPAUL CC BY 4.0)",
       "tier": 4,
@@ -81,8 +102,8 @@
       "role": "apparatus only (recorded, not voting)"
     },
     {
-      "siglum": "VL 51 (gig)",
-      "title": "Codex Gigas — Pauline Epistles (COMPAUL CC BY 4.0)",
+      "siglum": "VL 77 (g)",
+      "title": "Codex Boernerianus — Old Latin Pauline Epistles (COMPAUL CC BY 4.0)",
       "tier": 4,
       "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
       "role": "apparatus only (recorded, not voting)"
@@ -95,27 +116,6 @@
       "role": "apparatus only (recorded, not voting)"
     },
     {
-      "siglum": "VL 64 (r)",
-      "title": "Freising Fragments — 5th/6th-c. Old Latin Paul (COMPAUL CC BY 4.0)",
-      "tier": 4,
-      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
-      "role": "apparatus only (recorded, not voting)"
-    },
-    {
-      "siglum": "VL 75 (d)",
-      "title": "Codex Claromontanus — Old Latin Pauline Epistles (COMPAUL CC BY 4.0)",
-      "tier": 4,
-      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
-      "role": "apparatus only (recorded, not voting)"
-    },
-    {
-      "siglum": "VL 77 (g)",
-      "title": "Codex Boernerianus — Old Latin Pauline Epistles (COMPAUL CC BY 4.0)",
-      "tier": 4,
-      "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
-      "role": "apparatus only (recorded, not voting)"
-    },
-    {
       "siglum": "VL 78 (f)",
       "title": "Codex Augiensis — Latin Pauline Epistles (COMPAUL CC BY 4.0)",
       "tier": 4,
@@ -123,8 +123,8 @@
       "role": "apparatus only (recorded, not voting)"
     },
     {
-      "siglum": "VL 89",
-      "title": "Budapest Anonymous — Old Latin Pauline Commentary Text (COMPAUL CC BY 4.0)",
+      "siglum": "VL 51 (gig)",
+      "title": "Codex Gigas — Pauline Epistles (COMPAUL CC BY 4.0)",
       "tier": 4,
       "license": "CC BY 4.0 (UBIRA eData / ITSEE COMPAUL)",
       "role": "apparatus only (recorded, not voting)"
@@ -158,8 +158,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 75 (d)",
@@ -175,10 +175,10 @@
           "slot_index": -1,
           "lemma": "Nam",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -212,10 +212,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -249,9 +249,9 @@
           "slot_index": -1,
           "lemma": "ex abundanti",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 75 (d)",
             "VulgConte (2009)",
@@ -297,9 +297,9 @@
           "slot_index": -1,
           "lemma": "abundanti",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 75 (d)",
             "VulgConte (2009)",
@@ -352,10 +352,10 @@
           "slot_index": -1,
           "lemma": "mihi",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 61 (ar)",
             "VL 75 (d)",
@@ -387,7 +387,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -419,8 +419,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 75 (d)",
@@ -436,9 +436,9 @@
           "slot_index": -1,
           "lemma": "promptum animum vestrum:",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 75 (d)",
             "VL 78 (f)",
@@ -491,9 +491,9 @@
           "slot_index": -1,
           "lemma": "promptum animum vestrum: pro quo",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -558,10 +558,10 @@
           "slot_index": -1,
           "lemma": "pro",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 61 (ar)",
             "VL 78 (f)",
@@ -601,9 +601,9 @@
           "slot_index": -1,
           "lemma": "quo de",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -662,9 +662,9 @@
           "slot_index": -1,
           "lemma": "quo",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VL 89",
@@ -711,10 +711,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -748,9 +748,9 @@
           "slot_index": -1,
           "lemma": "de",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -791,8 +791,8 @@
           "slot_index": -1,
           "lemma": "glorior apud Macedones. Quoniam et",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
@@ -864,9 +864,9 @@
           "slot_index": -1,
           "lemma": "Macedones.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
@@ -913,8 +913,8 @@
           "slot_index": -1,
           "lemma": "Macedones. Quoniam et",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
@@ -980,8 +980,8 @@
           "slot_index": -1,
           "lemma": "et Achaia",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
@@ -1017,8 +1017,8 @@
           "slot_index": -1,
           "lemma": "et",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
@@ -1060,10 +1060,10 @@
           "slot_index": -1,
           "lemma": "parata",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -1097,9 +1097,9 @@
           "slot_index": -1,
           "lemma": "præterito,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -1140,10 +1140,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 75 (d)",
@@ -1177,10 +1177,10 @@
           "slot_index": -1,
           "lemma": "vestra",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -1220,10 +1220,10 @@
           "slot_index": -1,
           "lemma": "æmulatio",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 75 (d)",
@@ -1257,9 +1257,9 @@
           "slot_index": -1,
           "lemma": "provocavit plurimos.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 89",
@@ -1300,9 +1300,9 @@
           "slot_index": -1,
           "lemma": "plurimos.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 89",
@@ -1361,7 +1361,7 @@
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1393,8 +1393,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 75 (d)",
@@ -1410,10 +1410,10 @@
           "slot_index": -1,
           "lemma": "Misi",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 75 (d)",
             "VL 78 (f)",
@@ -1447,9 +1447,9 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -1484,9 +1484,9 @@
           "slot_index": -1,
           "lemma": "ut",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -1527,9 +1527,9 @@
           "slot_index": -1,
           "lemma": "ut ne",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 77 (g)",
             "VL 78 (f)",
@@ -1582,9 +1582,9 @@
           "slot_index": -1,
           "lemma": "ne quod gloriamur",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -1649,9 +1649,9 @@
           "slot_index": -1,
           "lemma": "quod gloriamur de vobis, evacuetur",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -1716,9 +1716,9 @@
           "slot_index": -1,
           "lemma": "quod gloriamur de vobis,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VL 89",
@@ -1777,10 +1777,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -1814,9 +1814,9 @@
           "slot_index": -1,
           "lemma": "gloriamur",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VL 89",
@@ -1869,10 +1869,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 75 (d)",
             "VL 77 (g)",
@@ -1912,9 +1912,9 @@
           "slot_index": -1,
           "lemma": "evacuetur",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -1955,10 +1955,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -1992,10 +1992,10 @@
           "slot_index": -1,
           "lemma": "parte,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -2029,10 +2029,10 @@
           "slot_index": -1,
           "lemma": "dixi)",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -2066,9 +2066,9 @@
           "slot_index": -1,
           "lemma": "parati",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -2101,7 +2101,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2133,8 +2133,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 75 (d)",
@@ -2150,10 +2150,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -2187,10 +2187,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -2224,8 +2224,8 @@
           "slot_index": -1,
           "lemma": "venerint Macedones",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -2273,8 +2273,8 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VL 61 (ar)",
             "VL 75 (d)",
             "VL 89",
@@ -2310,10 +2310,10 @@
           "slot_index": -1,
           "lemma": "Macedones",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 77 (g)",
@@ -2347,8 +2347,8 @@
           "slot_index": -1,
           "lemma": "mecum,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VL 61 (ar)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
@@ -2390,10 +2390,10 @@
           "slot_index": -1,
           "lemma": "et",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 75 (d)",
@@ -2427,10 +2427,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -2464,10 +2464,10 @@
           "slot_index": -1,
           "lemma": "vos",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -2501,9 +2501,9 @@
           "slot_index": -1,
           "lemma": "imparatos, erubescamus",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -2550,9 +2550,9 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -2587,9 +2587,9 @@
           "slot_index": -1,
           "lemma": "(ut non dicamus",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -2648,10 +2648,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 75 (d)",
             "VL 77 (g)",
@@ -2685,9 +2685,9 @@
           "slot_index": -1,
           "lemma": "(ut non dicamus vos)",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -2746,9 +2746,9 @@
           "slot_index": -1,
           "lemma": "dicamus",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -2795,9 +2795,9 @@
           "slot_index": -1,
           "lemma": "in hac substantia.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 75 (d)",
             "VL 78 (f)",
@@ -2844,10 +2844,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -2881,9 +2881,9 @@
           "slot_index": -1,
           "lemma": "substantia.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 75 (d)",
             "VL 78 (f)",
@@ -2945,7 +2945,7 @@
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2977,8 +2977,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 75 (d)",
@@ -2994,10 +2994,10 @@
           "slot_index": -1,
           "lemma": "ergo",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -3031,9 +3031,9 @@
           "slot_index": -1,
           "lemma": "præveniant",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 77 (g)",
             "VL 78 (f)",
@@ -3086,10 +3086,10 @@
           "slot_index": -1,
           "lemma": "et",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -3123,8 +3123,8 @@
           "slot_index": -1,
           "lemma": "præparent repromissam",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
@@ -3190,9 +3190,9 @@
           "slot_index": -1,
           "lemma": "præparent",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 75 (d)",
@@ -3227,8 +3227,8 @@
           "slot_index": -1,
           "lemma": "repromissam",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 61 (ar)",
             "VulgConte (2009)",
@@ -3282,10 +3282,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 61 (ar)",
             "VL 75 (d)",
@@ -3319,9 +3319,9 @@
           "slot_index": -1,
           "lemma": "hanc",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -3362,9 +3362,9 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -3399,9 +3399,9 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -3436,8 +3436,8 @@
           "slot_index": -1,
           "lemma": "tamquam avaritiam.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -3479,8 +3479,8 @@
           "slot_index": -1,
           "lemma": "tamquam",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
             "VulgSistina (1590)"
@@ -3529,7 +3529,7 @@
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -3561,8 +3561,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 75 (d)",
@@ -3578,8 +3578,8 @@
           "slot_index": -1,
           "lemma": "dico:",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VulgConte (2009)",
@@ -3621,9 +3621,9 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 75 (d)",
@@ -3658,10 +3658,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -3695,10 +3695,10 @@
           "slot_index": -1,
           "lemma": "parce",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -3732,10 +3732,10 @@
           "slot_index": -1,
           "lemma": "seminat,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -3769,10 +3769,10 @@
           "slot_index": -1,
           "lemma": "parce",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -3806,9 +3806,9 @@
           "slot_index": -1,
           "lemma": "et",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -3843,9 +3843,9 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -3880,9 +3880,9 @@
           "slot_index": -1,
           "lemma": "benedictionibus, de benedictionibus et",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -3947,9 +3947,9 @@
           "slot_index": -1,
           "lemma": "benedictionibus, de benedictionibus",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -4014,9 +4014,9 @@
           "slot_index": -1,
           "lemma": "benedictionibus,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -4057,9 +4057,9 @@
           "slot_index": -1,
           "lemma": "benedictionibus",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -4106,10 +4106,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -4141,7 +4141,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -4173,8 +4173,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 75 (d)",
@@ -4190,8 +4190,8 @@
           "slot_index": -1,
           "lemma": "prout destinavit in corde suo,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "PEL",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
@@ -4245,8 +4245,8 @@
           "slot_index": -1,
           "lemma": "prout destinavit in",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "PEL",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
@@ -4300,8 +4300,8 @@
           "slot_index": -1,
           "lemma": "in",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "PEL",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
@@ -4349,9 +4349,9 @@
           "slot_index": -1,
           "lemma": "suo,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 78 (f)",
@@ -4386,10 +4386,10 @@
           "slot_index": -1,
           "lemma": "tristitia,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -4423,9 +4423,9 @@
           "slot_index": -1,
           "lemma": "ex",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 77 (g)",
@@ -4466,9 +4466,9 @@
           "slot_index": -1,
           "lemma": "ex necessitate:",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 77 (g)",
@@ -4509,10 +4509,10 @@
           "slot_index": -1,
           "lemma": "diligit",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 77 (g)",
@@ -4574,7 +4574,7 @@
           "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
         }
       ],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -4606,8 +4606,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 75 (d)",
@@ -4623,10 +4623,10 @@
           "slot_index": -1,
           "lemma": "Potens est",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -4666,10 +4666,10 @@
           "slot_index": -1,
           "lemma": "est",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -4703,9 +4703,9 @@
           "slot_index": -1,
           "lemma": "abundare facere",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -4740,9 +4740,9 @@
           "slot_index": -1,
           "lemma": "facere",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -4777,9 +4777,9 @@
           "slot_index": -1,
           "lemma": "ut",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -4820,9 +4820,9 @@
           "slot_index": -1,
           "lemma": "ut in omnibus",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -4869,10 +4869,10 @@
           "slot_index": -1,
           "lemma": "in omnibus",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -4912,10 +4912,10 @@
           "slot_index": -1,
           "lemma": "semper",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -4949,10 +4949,10 @@
           "slot_index": -1,
           "lemma": "omnem",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 75 (d)",
@@ -4986,9 +4986,9 @@
           "slot_index": -1,
           "lemma": "habentes, abundetis",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 75 (d)",
             "VL 77 (g)",
@@ -5035,9 +5035,9 @@
           "slot_index": -1,
           "lemma": "abundetis",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 75 (d)",
             "VL 77 (g)",
@@ -5084,10 +5084,10 @@
           "slot_index": -1,
           "lemma": "in",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -5121,10 +5121,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 75 (d)",
@@ -5158,10 +5158,10 @@
           "slot_index": -1,
           "lemma": "bonum,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 75 (d)",
@@ -5208,7 +5208,7 @@
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -5240,8 +5240,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 75 (d)",
@@ -5257,10 +5257,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 75 (d)",
@@ -5294,10 +5294,10 @@
           "slot_index": -1,
           "lemma": "Dispersit,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -5331,10 +5331,10 @@
           "slot_index": -1,
           "lemma": "justitia",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -5368,8 +5368,8 @@
           "slot_index": -1,
           "lemma": "sæculum sæculi.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 61 (ar)",
             "VL 77 (g)",
@@ -5418,7 +5418,7 @@
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -5451,8 +5451,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 64 (r)",
@@ -5469,9 +5469,9 @@
           "slot_index": -1,
           "lemma": "administrat",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 78 (f)",
@@ -5512,9 +5512,9 @@
           "slot_index": -1,
           "lemma": "ad manducandum præstabit,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -5572,9 +5572,9 @@
           "slot_index": -1,
           "lemma": "manducandum præstabit,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -5632,10 +5632,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -5670,9 +5670,9 @@
           "slot_index": -1,
           "lemma": "præstabit,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -5725,9 +5725,9 @@
           "slot_index": -1,
           "lemma": "augebit incrementa frugum",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -5793,9 +5793,9 @@
           "slot_index": -1,
           "lemma": "augebit",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 61 (ar)",
             "VL 75 (d)",
@@ -5843,9 +5843,9 @@
           "slot_index": -1,
           "lemma": "incrementa frugum",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 78 (f)",
@@ -5929,7 +5929,7 @@
           "reason": "Apparatus witness, not a variant: b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)"
         }
       ],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -5962,8 +5962,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 64 (r)",
@@ -5980,10 +5980,10 @@
           "slot_index": -1,
           "lemma": "ut",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -6018,9 +6018,9 @@
           "slot_index": -1,
           "lemma": "locupletati abundetis",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 61 (ar)",
             "VL 78 (f)",
@@ -6074,10 +6074,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 64 (r)",
@@ -6112,9 +6112,9 @@
           "slot_index": -1,
           "lemma": "abundetis",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -6150,9 +6150,9 @@
           "slot_index": -1,
           "lemma": "omnem simplicitatem, quæ",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 75 (d)",
@@ -6199,9 +6199,9 @@
           "slot_index": -1,
           "lemma": "omnem simplicitatem,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 75 (d)",
@@ -6248,9 +6248,9 @@
           "slot_index": -1,
           "lemma": "omnem",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 75 (d)",
@@ -6291,9 +6291,9 @@
           "slot_index": -1,
           "lemma": "quæ",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -6329,10 +6329,10 @@
           "slot_index": -1,
           "lemma": "nos",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 61 (ar)",
             "VL 75 (d)",
@@ -6366,10 +6366,10 @@
           "slot_index": -1,
           "lemma": "gratiarum",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -6404,10 +6404,10 @@
           "slot_index": -1,
           "lemma": "Deo.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -6454,7 +6454,7 @@
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -6487,8 +6487,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 64 (r)",
@@ -6505,10 +6505,10 @@
           "slot_index": -1,
           "lemma": "Quoniam ministerium",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -6566,9 +6566,9 @@
           "slot_index": -1,
           "lemma": "Quoniam ministerium hujus",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -6633,9 +6633,9 @@
           "slot_index": -1,
           "lemma": "hujus",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -6671,10 +6671,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 64 (r)",
             "VL 75 (d)",
@@ -6715,9 +6715,9 @@
           "slot_index": -1,
           "lemma": "officii",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 78 (f)",
@@ -6759,9 +6759,9 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -6797,10 +6797,10 @@
           "slot_index": -1,
           "lemma": "supplet",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -6847,10 +6847,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -6885,10 +6885,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -6923,10 +6923,10 @@
           "slot_index": -1,
           "lemma": "ea",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -6961,9 +6961,9 @@
           "slot_index": -1,
           "lemma": "etiam abundat",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -7017,9 +7017,9 @@
           "slot_index": -1,
           "lemma": "etiam",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -7061,9 +7061,9 @@
           "slot_index": -1,
           "lemma": "abundat",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -7111,9 +7111,9 @@
           "slot_index": -1,
           "lemma": "multas",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 78 (f)",
             "VL 89",
             "VulgConte (2009)",
@@ -7161,9 +7161,9 @@
           "slot_index": -1,
           "lemma": "actiones in Domino,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 78 (f)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
@@ -7223,9 +7223,9 @@
           "slot_index": -1,
           "lemma": "actiones",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 61 (ar)",
             "VL 78 (f)",
             "VL 89",
@@ -7273,9 +7273,9 @@
           "slot_index": -1,
           "lemma": "in Domino,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -7323,9 +7323,9 @@
           "slot_index": -1,
           "lemma": "Domino,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -7393,7 +7393,7 @@
           "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
         }
       ],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -7426,8 +7426,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 64 (r)",
@@ -7444,10 +7444,10 @@
           "slot_index": -1,
           "lemma": "probationem",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 77 (g)",
@@ -7487,10 +7487,10 @@
           "slot_index": -1,
           "lemma": "probationem ministerii",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 77 (g)",
@@ -7536,9 +7536,9 @@
           "slot_index": -1,
           "lemma": "glorificantes",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -7573,9 +7573,9 @@
           "slot_index": -1,
           "lemma": "glorificantes Deum",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -7616,9 +7616,9 @@
           "slot_index": -1,
           "lemma": "obedientia",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 78 (f)",
             "VulgConte (2009)",
@@ -7684,9 +7684,9 @@
           "slot_index": -1,
           "lemma": "obedientia confessionis vestræ,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 78 (f)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)",
@@ -7758,10 +7758,10 @@
           "slot_index": -1,
           "lemma": "vestræ,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 61 (ar)",
             "VL 64 (r)",
@@ -7802,9 +7802,9 @@
           "slot_index": -1,
           "lemma": "Evangelium",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 64 (r)",
@@ -7852,9 +7852,9 @@
           "slot_index": -1,
           "lemma": "et",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -7896,10 +7896,10 @@
           "slot_index": -1,
           "lemma": "simplicitate communicationis",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 75 (d)",
@@ -7939,10 +7939,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -7977,10 +7977,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -8015,9 +8015,9 @@
           "slot_index": -1,
           "lemma": "et in omnes,",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 75 (d)",
@@ -8065,7 +8065,7 @@
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -8098,8 +8098,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 64 (r)",
@@ -8116,8 +8116,8 @@
           "slot_index": -1,
           "lemma": "in",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 61 (ar)",
             "VL 64 (r)",
@@ -8160,8 +8160,8 @@
           "slot_index": -1,
           "lemma": "in ipsorum obsecratione",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 61 (ar)",
             "VulgConte (2009)",
@@ -8220,8 +8220,8 @@
           "slot_index": -1,
           "lemma": "obsecratione",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -8274,10 +8274,10 @@
           "slot_index": -1,
           "lemma": "desiderantium",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 64 (r)",
@@ -8312,9 +8312,9 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -8350,9 +8350,9 @@
           "slot_index": -1,
           "lemma": "eminentem",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 75 (d)",
             "VL 78 (f)",
@@ -8393,10 +8393,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -8431,10 +8431,10 @@
           "slot_index": -1,
           "lemma": "in vobis.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -8479,7 +8479,7 @@
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -8512,8 +8512,8 @@
       "apparatus_witnesses": [
         "AMst",
         "Amiatinus (A)",
+        "Clem-Saints",
         "PEL",
-        "Stuttgart-BSV",
         "VL 51 (gig)",
         "VL 61 (ar)",
         "VL 64 (r)",
@@ -8530,10 +8530,10 @@
           "slot_index": -1,
           "lemma": "Gratias",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 77 (g)",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
@@ -8580,10 +8580,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 75 (d)",
             "VL 77 (g)",
             "VL 89",
@@ -8624,10 +8624,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "VL 51 (gig)",
             "VL 61 (ar)",
             "VL 64 (r)",
@@ -8662,10 +8662,10 @@
           "slot_index": -1,
           "lemma": "inenarrabili",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 78 (f)",
@@ -8717,10 +8717,10 @@
           "slot_index": -1,
           "lemma": "inenarrabili dono",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 78 (f)",
@@ -8772,10 +8772,10 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -8810,10 +8810,10 @@
           "slot_index": -1,
           "lemma": "ejus.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
             "AMst",
             "Amiatinus (A)",
+            "Clem-Saints",
             "PEL",
             "VL 51 (gig)",
             "VL 61 (ar)",
@@ -8852,7 +8852,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false

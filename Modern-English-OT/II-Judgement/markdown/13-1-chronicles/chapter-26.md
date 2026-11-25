@@ -1,6 +1,6 @@
 # 1 Chronicles 26 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -71,6 +71,7 @@
 
 ## Translator Notes
 
+- **26:6** — The Clementine Vulgate spells the name 'Semei' (Shimei) here against 'Semeias' (Shemaiah) in 26:4 and 'Semeiæ' in 26:7.
 - **26:10** — Distinctively Vulgate: Latin 'non enim habuerat primogenitum' reads 'for he had not had a firstborn' (referring to Hosah), whereas the Hebrew states of Shimri that 'he was not the firstborn.'
 - **26:15** — Distinctively Vulgate: Latin 'seniorum concilium' ('the council of the elders'; likewise 'concilium' in 26:17) interprets the Hebrew 'beit ha-asuppim' (usually understood as a storehouse) as a meeting place for the elders.
 - **26:16** — The Vulgate omits the Hebrew proper name of the gate (Shallecheth), rendering the clause simply as 'beside the gate that leads to the road of ascent.' Similarly, in 26:18, Latin 'cellulis janitorum' ('chambers of the gatekeepers') translates the obscure Hebrew architectural term 'Parbar.'

@@ -23,7 +23,7 @@
 
 **37:9** He also saw another dream, and recounting it to his brothers, he said, "I saw in a dream, as it were, the sun and the moon and eleven stars paying homage to me."
 
-**37:10** When he had reported this to his father and brothers, his father rebuked him and said, "What does this dream that you saw mean? Will I and your mother and brothers really pay homage to you upon the earth?"
+**37:10** When he had reported this to his father and brothers, his father rebuked him and said, "What does this dream that you saw mean? Will I and your mother and your brothers really pay homage to you upon the earth?"
 
 **37:11** Therefore his brothers envied him, but his father silently considered the matter.
 
@@ -31,7 +31,7 @@
 
 **37:13** Israel said to him, "Your brothers are tending the sheep in Shechem; come, I will send you to them." When he answered,
 
-**37:14** "I am ready," he said, "Go and see whether all things are well with your brothers and the livestock, and report back to me what is going on." Having been sent from the valley of Hebron, he came to Shechem,
+**37:14** "I am ready." He said to him, "Go and see whether all things are well with your brothers and the livestock, and report back to me what is going on." Having been sent from the valley of Hebron, he came to Shechem,
 
 **37:15** and a man found him wandering in the field and asked what he was looking for.
 
@@ -43,7 +43,7 @@
 
 **37:19** and they were speaking to one another, "Look, the dreamer is coming;
 
-**37:20** come, let us kill him and throw him into an old cistern, and let us say, 'A most vicious wild animal has devoured him,' and then it will appear what his dreams profit him."
+**37:20** come, let us kill him and throw him into an old cistern, and we will say, 'A most vicious wild animal has devoured him,' and then it will appear what his dreams profit him."
 
 **37:21** Hearing this, Reuben tried to free him from their hands and said,
 
@@ -51,7 +51,7 @@
 
 **37:23** Therefore, immediately when he reached his brothers, they stripped him of the ankle-length and multicolored tunic,
 
-**37:24** and put him into the cistern, which had no water.
+**37:24** and put him into the old cistern, which had no water.
 
 **37:25** And sitting down to eat bread, they saw Ishmaelite travelers coming from Gilead, and their camels carrying spices and resin and stacte into Egypt.
 
@@ -75,7 +75,7 @@
 
 **37:35** Now when all his children had gathered together to soothe their father's grief, he refused to accept consolation and said, "I will go down to my son mourning into the underworld." And while he persisted in weeping,
 
-**37:36** the Midianites sold Joseph into Egypt to Potiphar, a eunuch of Pharaoh, commander of the army.
+**37:36** the Midianites sold Joseph in Egypt to Potiphar, a eunuch of Pharaoh, commander of the army.
 
 ## Translator Notes
 
@@ -83,4 +83,4 @@
 - **37:3** — Latin tunicam polymitam literally means a tunic woven with many threads or colors; in 37:23 the Vulgate combines this with talari ("ankle-length"), reflecting both ancient interpretations of the garment.
 - **37:20** — The Vulgate specifies cisternam veterem ("an old cistern") where the Hebrew Masoretic Text reads "one of the pits."
 - **37:35** — Latin in infernum ("into the underworld," literally "into the lower regions") here renders Hebrew Sheol, the abode of the dead.
-- **37:36** — The Vulgate names the sellers Madianei ("Midianites," matching Mazianitis, the Latin text's spelling of Midianite, in 37:28; cf. Hebrew Medanim), and describes Potiphar specifically as eunucho ("eunuch") and magistro militiae ("commander of the army").
+- **37:36** — The Vulgate names the sellers Madianitæ ("Midianites," matching Madianitis in 37:28; cf. Hebrew Medanim), and describes Potiphar specifically as eunucho ("eunuch") and magistro militum ("commander of the soldiers/army").

@@ -1,6 +1,6 @@
 # Mark 11 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (33 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Mark`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -53,7 +53,9 @@
 
 **11:24** Therefore I say to you, all things that you ask for while praying, believe that you will receive them, and they will come about for you.
 
-**11:25** And when you stand to pray, forgive, if you hold anything against anyone, so that your Father also, who is in heaven, may forgive you your sins."
+**11:25** And when you stand to pray, forgive, if you hold anything against anyone, so that your Father also, who is in heaven, may forgive you your sins.
+
+**11:26** But if you do not forgive, neither will your Father, who is in heaven, forgive you your sins."
 
 **11:27** And they came again to Jerusalem. And as He was walking in the temple, the chief priests and the scribes and the elders came to Him,
 
@@ -68,10 +70,6 @@
 **11:32** If we say, 'From men,' we fear the people; for all held that John was truly a prophet."
 
 **11:33** And answering, they said to Jesus, "We do not know." And answering, Jesus said to them, "Neither do I tell you by what authority I do these things."
-
-## Additional Verses (Not in Saints Numbering)
-
-**11:26** *(after `11:25`)* But if you do not forgive, neither will your Father, who is in heaven, forgive you your sins.
 
 ## Translator Notes
 

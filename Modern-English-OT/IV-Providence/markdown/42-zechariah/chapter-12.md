@@ -38,4 +38,4 @@
 - **12:2** — The Vulgate renders Hebrew sap (which can mean either "bowl/cup" or "threshold/lintel") as superliminare ("lintel"), giving superliminare crapulae ("a lintel of drunkenness").
 - **12:5** — The Vulgate reads a passive jussive verb, Confortentur ("May ... be strengthened"), where the Hebrew has a noun ("are a strength to me").
 - **12:8** — The Vulgate uses the genitive quasi Dei ("like that of God," referring back to "the house"), whereas the Hebrew reads "like God."
-- **12:10** — The Vulgate reads ut doleri solet in morte primogeniti ("as one customarily grieves at the death of a firstborn"), making "at the death of" explicit where the Hebrew reads "like bitter weeping over a firstborn."
+- **12:10** — The Vulgate reads ut doleri solet in morte primogeniti ("as one customarily grieves at the death of a firstborn"), making "at the death of" explicit where the Hebrew reads "like bitter weeping over a firstborn." Capitalization of 'Him' (for lowercase Latin eum, following 'look to Me, whom they have pierced') reflects traditional messianic/divine-referent reading and is subject to edition-wide policy.

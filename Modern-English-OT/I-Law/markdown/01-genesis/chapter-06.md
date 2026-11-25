@@ -1,6 +1,6 @@
 # Genesis 6 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (22 verses, 5 translator notes)  
+> **Status:** `draft: true` (22 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,12 +47,13 @@
 
 **6:21** You shall therefore take with you of all foods that can be eaten, and you shall gather them to yourself; and they will be food both for you and for them."
 
-**6:22** Therefore Noah did everything that the Lord had commanded him.
+**6:22** Therefore Noah did everything that God had commanded him.
 
 ## Translator Notes
 
 - **6:3** — Vulgate reads "God" (Deus) where the Hebrew Masoretic Text has the divine name, and renders the debated Hebrew verb yadon as permanebit ("will remain"), agreeing with the Septuagint.
 - **6:4** — Vulgate translates Hebrew nephilim as gigantes ("giants"), following the Septuagint, and links the clause with postquam enim ("for after") rather than "and also afterward."
+- **6:6** — Clem1598-USFX prints 'hominum' (matching the 1590 Sixtine edition) where accusative singular 'hominem' ('man', Codex Amiatinus) is required by the sense.
 - **6:11** — Vulgate renders Hebrew chamas ("violence") here and in 6:13 as iniquitate ("iniquity").
 - **6:14** — Vulgate translates the rare Hebrew phrase for gopher wood (atsei gofer) as de lignis laevigatis ("of planed wood" or "smoothed timber").
 - **6:16** — Vulgate renders Hebrew tzohar as fenestram ("window"), and specifies the three levels of the ark as deorsum, coenacula et tristega ("lower rooms, second-story chambers, and third stories").

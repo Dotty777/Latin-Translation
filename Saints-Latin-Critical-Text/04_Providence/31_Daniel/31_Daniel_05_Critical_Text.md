@@ -1,8 +1,8 @@
 # Daniel 05 — Saints Latin Critical Text
 
-**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:29Z`
+**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:09Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,27 +28,20 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
-- Clem1598-USFX: verse 31 left out as a versification/conversion duplicate (Clem-Saints prints these words at 6:1)
+- Clem1598-USFX: Source import repair, 5:2: 'in Ierusalem,' → 'in Jerusalem,' (Jerusalem (j-orthography consistency with all 795 other occurrences in Clem1598-USFX)). verified import repair applied. Original file unchanged.
+- Clem1598-USFX: Source import repair, 5:3: 'in Ierusalem:' → 'in Jerusalem:' (Jerusalem (j-orthography consistency with all 795 other occurrences in Clem1598-USFX)). verified import repair applied. Original file unchanged.
+- Clem-Saints: verse 6:1 moved to 5:31 across chapter break before re-division
 
 ---
 
 ## Section II — Continuous Latin Critical Text
 
 **1** Baltassar rex fecit grande convivium optimatibus suis mille: et unusquisque secundum suam bibebat ætatem.
-**2** Præcepit ergo jam temulentus ut afferrentur vasa aurea et argentea, quæ asportaverat Nabuchodonosor pater ejus de templo, quod fuit in Ierusalem, ut biberent in eis rex, et optimates ejus, uxoresque ejus, et concubinæ.
-**3** Tunc allata sunt vasa aurea, et argentea, quæ asportaverat de templo, quod fuerat in Ierusalem: et biberunt in eis rex, et optimates ejus, uxores et concubinæ illius.
+**2** Præcepit ergo jam temulentus ut afferrentur vasa aurea et argentea, quæ asportaverat Nabuchodonosor pater ejus de templo, quod fuit in Jerusalem, ut biberent in eis rex, et optimates ejus, uxoresque ejus, et concubinæ.
+**3** Tunc allata sunt vasa aurea, et argentea, quæ asportaverat de templo, quod fuerat in Jerusalem: et biberunt in eis rex, et optimates ejus, uxores et concubinæ illius.
 **4** Bibebant vinum, et laudabant deos suos aureos et argenteos, æreos, ferreos, ligneosque et lapideos.
 **5** In eadem hora apparuerunt digiti, quasi manus hominis scribentis contra candelabrum in superficie parietis aulæ regiæ: et rex aspiciebat articulos manus scribentis.
 **6** Tunc facies regis commutata est, et cogitationes ejus conturbabant eum: et compages renum ejus solvebantur, et genua ejus ad se invicem collidebantur.
@@ -76,16 +69,20 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **28** Phares: divisum est regnum tuum, et datum est Medis, et Persis.
 **29** Tunc, jubente rege, indutus est Daniel purpura, et circumdata est torques aurea collo ejus: et prædicatum est de eo quod haberet potestatem tertius in regno suo.
 **30** Eadem nocte interfectus est Baltassar rex Chaldæus.
+**31** Et Darius Medus successit in regnum, annos natus sexaginta duos.
 
 ---
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Daniel 5:11
-- **Apparatus:** `sapientia` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **sapientiae** VulgSistina (1590)
+- **Apparatus:** `sapientia` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **sapientiae** VulgSistina (1590)
 
 ### Daniel 5:13
-- **Apparatus:** `Judæ,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Iuda,** VulgSistina (1590)
+- **Apparatus:** `Judæ,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Iuda,** VulgSistina (1590)
+
+### Daniel 5:31
+- *Disregarded Surface Variant:* kept `(adopted text)` over `sexaginta duos. / sexagintaduos`, `sexaginta duos. / sexagintaduos.`, `sexaginta duos. / sexagintaduos.`, `sexaginta duos. / sexagintaduos.` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ---
 
@@ -98,25 +95,25 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Baltassar rex fecit grande convivium optimatibus suis mille: et unusquisque secundum suam bibebat ætatem.
   - `VulgConte (2009)`: Baltassar rex fecit grande convivium optimatibus suis mille: et unusquisque secundum suam bibebat ætatem.
   - `VulgSistina (1590)`: Baltassar rex fecit grande convivium optimatibus suis mille: et unusquisque secundum suam bibebat aetatem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Præcepit ergo jam temulentus ut afferrentur vasa aurea et argentea, quæ asportaverat Nabuchodonosor pater ejus de templo, quod fuit in Ierusalem, ut biberent in eis rex, et optimates ejus, uxoresque ejus, et concubinæ.
-  - `Clem1598-USFX`: Præcepit ergo jam temulentus ut afferrentur vasa aurea et argentea, quæ asportaverat Nabuchodonosor pater ejus de templo, quod fuit in Ierusalem, ut biberent in eis rex, et optimates ejus, uxoresque ejus, et concubinæ.
+- **Critical Text:** Præcepit ergo jam temulentus ut afferrentur vasa aurea et argentea, quæ asportaverat Nabuchodonosor pater ejus de templo, quod fuit in Jerusalem, ut biberent in eis rex, et optimates ejus, uxoresque ejus, et concubinæ.
+  - `Clem1598-USFX`: Præcepit ergo jam temulentus ut afferrentur vasa aurea et argentea, quæ asportaverat Nabuchodonosor pater ejus de templo, quod fuit in Jerusalem, ut biberent in eis rex, et optimates ejus, uxoresque ejus, et concubinæ.
   - `Clem-Saints`: Præcepit ergo jam temulentus ut afferrentur vasa aurea et argentea, quæ asportaverat Nabuchodonosor pater ejus de templo, quod fuit in Ierusalem, ut biberent in eis rex, et optimates ejus, uxoresque ejus, et concubinæ.
   - `VulgHetzenauer (1906)`: Præcepit ergo iam temulentus ut afferrentur vasa aurea et argentea, quæ asportaverat Nabuchodonosor pater eius de templo, quod fuit in Ierusalem, ut biberent in eis rex, et optimates eius, uxoresque eius, et concubinæ.
   - `VulgConte (2009)`: Præcepit ergo iam temulentus ut afferrentur vasa aurea et argentea, quæ asportaverat Nabuchodonosor pater eius de templo, quod fuit in Ierusalem, ut biberent in eis rex, et optimates eius, uxoresque eius, et concubinæ.
   - `VulgSistina (1590)`: Praecepit ergo iam temulentus ut afferrentur vasa aurea et argentea, quae asportaverat Nabuchodonosor pater eius de templo, quod fuit in Ierusalem, ut biberent in eis rex, et optimates eius, uxoresque eius, et concubinae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Tunc allata sunt vasa aurea, et argentea, quæ asportaverat de templo, quod fuerat in Ierusalem: et biberunt in eis rex, et optimates ejus, uxores et concubinæ illius.
-  - `Clem1598-USFX`: Tunc allata sunt vasa aurea, et argentea, quæ asportaverat de templo, quod fuerat in Ierusalem: et biberunt in eis rex, et optimates ejus, uxores et concubinæ illius.
+- **Critical Text:** Tunc allata sunt vasa aurea, et argentea, quæ asportaverat de templo, quod fuerat in Jerusalem: et biberunt in eis rex, et optimates ejus, uxores et concubinæ illius.
+  - `Clem1598-USFX`: Tunc allata sunt vasa aurea, et argentea, quæ asportaverat de templo, quod fuerat in Jerusalem: et biberunt in eis rex, et optimates ejus, uxores et concubinæ illius.
   - `Clem-Saints`: Tunc allata sunt vasa aurea, et argentea, quæ asportaverat de templo, quod fuerat in Ierusalem: et biberunt in eis rex, et optimates ejus, uxores et concubinæ illius.
   - `VulgHetzenauer (1906)`: Tunc allata sunt vasa aurea, et argentea, quæ asportaverat de templo, quod fuerat in Ierusalem: et biberunt in eis rex, et optimates eius, uxores et concubinæ illius.
   - `VulgConte (2009)`: Tunc allata sunt vasa aurea, et argentea, quæ asportaverat de templo, quod fuerat in Ierusalem: et biberunt in eis rex, et optimates eius, uxores et concubinæ illius.
   - `VulgSistina (1590)`: Tunc allata sunt vasa aurea, et argentea, quae asportaverat de templo, quod fuerat in Ierusalem: et biberunt in eis rex, et optimates eius, uxores et concubinae illius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Bibebant vinum, et laudabant deos suos aureos et argenteos, æreos, ferreos, ligneosque et lapideos.
@@ -125,7 +122,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Bibebant vinum, et laudabant deos suos aureos, et argenteos, æreos, ferreos, ligneosque et lapideos.
   - `VulgConte (2009)`: Bibebant vinum, et laudabant deos suos aureos, et argenteos, æreos, ferreos, ligneosque et lapideos.
   - `VulgSistina (1590)`: Bibebant vinum, et laudabant deos suos aureos, et argenteos, aereos, ferreos, ligneosque et lapideos.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In eadem hora apparuerunt digiti, quasi manus hominis scribentis contra candelabrum in superficie parietis aulæ regiæ: et rex aspiciebat articulos manus scribentis.
@@ -134,7 +131,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In eadem hora apparuerunt digiti, quasi manus hominis scribentis contra candelabrum in superficie parietis aulæ regiæ: et rex aspiciebat articulos manus scribentis.
   - `VulgConte (2009)`: In eadem hora apparuerunt digiti, quasi manus hominis scribentis contra candelabrum in superficie parietis aulæ regiæ: et rex aspiciebat articulos manus scribentis.
   - `VulgSistina (1590)`: In eadem hora apparuerunt digiti, quasi manus hominis scribentis contra candelabrum in superficie parietis aulae regiae: et rex aspiciebat articulos manus scribentis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tunc facies regis commutata est, et cogitationes ejus conturbabant eum: et compages renum ejus solvebantur, et genua ejus ad se invicem collidebantur.
@@ -143,7 +140,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tunc facies regis commutata est, et cogitationes eius conturbabant eum: et compages renum eius solvebantur, et genua eius ad se invicem collidebantur.
   - `VulgConte (2009)`: Tunc facies regis commutata est, et cogitationes eius conturbabant eum: et compages renum eius solvebantur, et genua eius ad se invicem collidebantur.
   - `VulgSistina (1590)`: Tunc facies regis commutata est, et cogitationes eius conturbabant eum: et compages renum eius solvebantur, et genua eius ad se invicem collidebantur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Exclamavit itaque rex fortiter ut introducerent magos, Chaldæos, et aruspices. Et proloquens rex ait sapientibus Babylonis: Quicumque legerit scripturam hanc, et interpretationem ejus manifestam mihi fecerit, purpura vestietur, et torquem auream habebit in collo, et tertius in regno meo erit.
@@ -152,7 +149,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Exclamavit itaque rex fortiter ut introducerent magos, Chaldæos, et aruspices. Et proloquens rex ait sapientibus Babylonis: Quicumque legerit scripturam hanc, et interpretationem eius manifestam mihi fecerit, purpura vestietur, et torquem auream habebit in collo, et tertius in regno meo erit.
   - `VulgConte (2009)`: Exclamavit itaque rex fortiter ut introducerent magos, Chaldæos, et aruspices. Et proloquens rex ait sapientibus Babylonis: Quicumque legerit scripturam hanc, et interpretationem eius manifestam mihi fecerit, purpura vestietur, et torquem auream habebit in collo, et tertius in regno meo erit.
   - `VulgSistina (1590)`: Exclamavit itaque rex fortiter ut introducerent magos, Chaldaeos, et aruspices. Et proloquens rex ait sapientibus Babylonis: Quicumque legerit scripturam hanc, et interpretationem eius manifestam mihi fecerit, purpura vestietur, et torquem auream habebit in collo, et tertius in regno meo erit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tunc ingressi omnes sapientes regis non potuerunt nec scripturam legere, nec interpretationem indicare regi.
@@ -161,7 +158,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tunc ingressi omnes sapientes regis non potuerunt nec scripturam legere, nec interpretationem indicare regi.
   - `VulgConte (2009)`: Tunc ingressi omnes sapientes regis non potuerunt nec scripturam legere, nec interpretationem indicare regi.
   - `VulgSistina (1590)`: Tunc ingressi omnes sapientes regis non potuerunt nec scripturam legere, nec interpretationem indicare regi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Unde rex Baltassar satis conturbatus est, et vultus illius immutatus est; sed et optimates ejus turbabantur.
@@ -170,7 +167,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Unde rex Baltassar satis conturbatus est, et vultus illius immutatus est. sed et optimates eius turbabantur.
   - `VulgConte (2009)`: Unde rex Baltassar satis conturbatus est, et vultus illius immutatus est: sed et optimates eius turbabantur.
   - `VulgSistina (1590)`: Unde rex Baltassar satis conturbatus est, et vultus illius immutatus est. sed et optimates eius turbabantur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Regina autem pro re, quæ acciderat regi et optimatibus ejus, domum convivii ingressa est: et proloquens ait: Rex, in æternum vive! non te conturbent cogitationes tuæ, neque facies tua immutetur.
@@ -179,7 +176,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Regina autem pro re, quæ acciderat regi, et optimatibus eius, domum convivii ingressa est: et proloquens ait: Rex in æternum vive: non te conturbent cogitationes tuæ, neque facies tua immutetur.
   - `VulgConte (2009)`: Regina autem pro re, quæ acciderat regi, et optimatibus eius, domum convivii ingressa est: et proloquens ait: Rex in æternum vive: non te conturbent cogitationes tuæ, neque facies tua immutetur.
   - `VulgSistina (1590)`: Regina autem pro re, quae acciderat regi, et optimatibus eius, domum convivii ingressa est: et proloquens ait: Rex in aeternum vive: non te conturbent cogitationes tuae, neque facies tua immutetur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Est vir in regno tuo, qui spiritum deorum sanctorum habet in se, et in diebus patris tui scientia et sapientia inventæ sunt in eo: nam et rex Nabuchodonosor pater tuus principem magorum, incantatorum, Chaldæorum, et aruspicum constituit eum, pater, inquam, tuus, o rex:
@@ -188,7 +185,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Est vir in regno tuo, qui spiritum deorum sanctorum habet in se: et in diebus patris tui scientia et sapientia inventæ sunt in eo: nam et rex Nabuchodonosor pater tuus principem magorum, incantatorum, Chaldæorum, et aruspicum constituit eum, pater, inquam, tuus, o rex:
   - `VulgConte (2009)`: Est vir in regno tuo, qui spiritum deorum sanctorum habet in se: et in diebus patris tui scientia et sapientia inventæ sunt in eo: nam et rex Nabuchodonosor pater tuus principem magorum, incantatorum, Chaldæorum, et aruspicum constituit eum, pater, inquam, tuus, o rex:
   - `VulgSistina (1590)`: Est vir in regno tuo, qui spiritum deorum sanctorum habet in se: et in diebus patris tui scientia et sapientiae inventae sunt in eo: nam et rex Nabuchodonosor pater tuus principem magorum, incantatorum, Chaldaeorum, et aruspicum constituit eum, pater, inquam, tuus, o rex:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quia spiritus amplior, et prudentia, intelligentiaque et interpretatio somniorum, et ostensio secretorum, ac solutio ligatorum inventæ sunt in eo, hoc est in Daniele: cui rex posuit nomen Baltassar. Nunc itaque Daniel vocetur, et interpretationem narrabit.
@@ -197,7 +194,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: quia spiritus amplior, et prudentia, intelligentiaque et interpretatio somniorum, et ostensio secretorum, ac solutio ligatorum inventæ sunt in eo, hoc est in Daniele: cui rex posuit nomen Baltassar. nunc itaque Daniel vocetur, et interpretationem narrabit.
   - `VulgConte (2009)`: quia spiritus amplior, et prudentia, intelligentiaque et interpretatio somniorum, et ostensio secretorum, ac solutio ligatorum inventæ sunt in eo, hoc est in Daniele: cui rex posuit nomen Baltassar: nunc itaque Daniel vocetur, et interpretationem narrabit.
   - `VulgSistina (1590)`: quia spiritus amplior, et prudentia, intelligentiaque et interpretatio somniorum, et ostensio secretorum, ac solutio ligatorum inventae sunt in eo, hoc est in Daniele: cui rex posuit nomen Baltassar. nunc itaque Daniel vocetur, et interpretationem narrabit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Igitur introductus est Daniel coram rege: ad quem præfatus rex ait: Tu es Daniel de filiis captivitatis Judæ, quem adduxit pater meus rex de Judæa?
@@ -206,7 +203,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Igitur introductus est Daniel coram rege. Ad quem præfatus rex ait: Tu es Daniel de filiis captivitatis Iudæ, quem adduxit pater meus rex de Iudæa?
   - `VulgConte (2009)`: Igitur introductus est Daniel coram rege. Ad quem præfatus rex ait: Tu es Daniel de filiis captivitatis Iudæ, quem adduxit pater meus rex de Iudæa?
   - `VulgSistina (1590)`: Igitur introductus est Daniel coram rege. Ad quem praefatus rex ait: Tu es Daniel de filiis captivitatis Iuda, quem adduxit pater meus rex de Iudaea?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** audivi de te, quoniam spiritum deorum habeas, et scientia, intelligentiaque ac sapientia ampliores inventæ sunt in te.
@@ -231,7 +228,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Porro ego audivi de te, quod possis obscura interpretari, et ligata dissolvere: si ergo vales scripturam legere, et interpretationem eius indicare mihi, purpura vestieris, et torquem auream circa collum tuum habebis, et tertius in regno meo princeps eris.
   - `VulgConte (2009)`: Porro ego audivi de te, quod possis obscura interpretari, et ligata dissolvere: si ergo vales scripturam legere, et interpretationem eius indicare mihi, purpura vestieris, et torquem auream circa collum tuum habebis, et tertius in regno meo princeps eris.
   - `VulgSistina (1590)`: Porro ego audivi de te, quod possis obscura interpretari, et ligata dissolvere: si ergo vales scripturam legere, et interpretationem eius indicare mihi, purpura vestieris, et torquem auream circa collum tuum habebis, et tertius in regno meo princeps eris.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ad quæ respondens Daniel, ait coram rege: Munera tua sint tibi, et dona domus tuæ alteri da: scripturam autem legam tibi, rex, et interpretationem ejus ostendam tibi.
@@ -240,7 +237,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ad quæ respondens Daniel, ait coram rege: Munera tua sint tibi, et dona domus tuæ alteri da: scripturam autem legam tibi, rex, et interpretationem eius ostendam tibi.
   - `VulgConte (2009)`: Ad quæ respondens Daniel, ait coram rege: Munera tua sint tibi, et dona domus tuæ alteri da: scripturam autem legam tibi, rex, et interpretationem eius ostendam tibi.
   - `VulgSistina (1590)`: Ad quae respondens Daniel, ait coram rege: Munera tua sint tibi, et dona domus tuae alteri da: scripturam autem legam tibi, rex, et interpretationem eius ostendam tibi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** O rex, Deus altissimus regnum et magnificentiam, gloriam et honorem dedit Nabuchodonosor patri tuo.
@@ -289,7 +286,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: sed adversum Dominatorem cæli elevatus es: et vasa domus eius allata sunt coram te: et tu, et optimates tui, et uxores tuæ, et concubinæ tuæ vinum bibistis in eis: deos quoque argenteos, et aureos, et æreos, ferreos, ligneosque et lapideos, qui non vident, neque audiunt, neque sentiunt, laudasti: porro Deum, qui habet flatum tuum in manu sua, et omnes vias tuas, non glorificasti.
   - `VulgConte (2009)`: sed adversum Dominatorem cæli elevatus es: et vasa domus eius allata sunt coram te: et tu, et optimates tui, et uxores tuæ, et concubinæ tuæ vinum bibistis in eis: deos quoque argenteos, et aureos, et æreos, ferreos, ligneosque et lapideos, qui non vident, neque audiunt, neque sentiunt, laudasti: porro Deum, qui habet flatum tuum in manu sua, et omnes vias tuas, non glorificasti.
   - `VulgSistina (1590)`: sed adversum Dominatorem caeli elevatus es: et vasa domus eius allata sunt coram te: et tu, et optimates tui, et uxores tuae, et concubinae tuae vinum bibistis in eis: deos quoque argenteos, et aureos, et aereos, ferreos, ligneosque et lapideos, qui non vident, neque audiunt, neque sentiunt, laudasti: porro Deum, qui habet flatum tuum in manu sua, et omnes vias tuas, non glorificasti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Idcirco ab eo missus est articulus manus, quæ scripsit hoc quod exaratum est.
@@ -314,7 +311,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et hæc est interpretatio sermonis. MANE: numeravit Deus regnum tuum, et complevit illud.
   - `VulgConte (2009)`: Et hæc est interpretatio sermonis. MANE: numeravit Deus regnum tuum, et complevit illud.
   - `VulgSistina (1590)`: Et haec est interpretatio sermonis. MANE: numeravit Deus regnum tuum, et complevit illud.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Thecel: appensus es in statera, et inventus es minus habens.
@@ -339,7 +336,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tunc iubente rege indutus est Daniel purpura, et circumdata est torques aurea collo eius: et prædicatum est de eo quod haberet potestatem tertius in regno suo.
   - `VulgConte (2009)`: Tunc iubente rege indutus est Daniel purpura, et circumdata est torques aurea collo eius: et prædicatum est de eo quod haberet potestatem tertius in regno suo.
   - `VulgSistina (1590)`: Tunc iubente rege indutus est Daniel purpura, et circumdata est torques aurea collo eius: et praedicatum est de eo quod haberet potestatem tertius in regno suo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Eadem nocte interfectus est Baltassar rex Chaldæus.
@@ -348,4 +345,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Eadem nocte interfectus est Baltassar rex Chaldæus.
   - `VulgConte (2009)`: Eadem nocte interfectus est Baltassar rex Chaldæus.
   - `VulgSistina (1590)`: Eadem nocte interfectus est Baltassar rex Chaldaeus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
+
+### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Et Darius Medus successit in regnum, annos natus sexaginta duos.
+  - `Clem1598-USFX`: Et Darius Medus successit in regnum, annos natus sexaginta duos.
+  - `Clem-Saints`: Et Darius Medus successit in regnum, annos natus sexaginta duos.
+  - `VulgHetzenauer (1906)`: Et Darius Medus successit in regnum annos natus sexagintaduos.
+  - `VulgConte (2009)`: Et Darius Medus successit in regnum annos natus sexagintaduos.
+  - `VulgSistina (1590)`: Et Darius Medus successit in regnum annos natus sexagintaduos.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

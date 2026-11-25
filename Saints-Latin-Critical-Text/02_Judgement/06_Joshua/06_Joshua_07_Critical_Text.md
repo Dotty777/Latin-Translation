@@ -1,8 +1,8 @@
 # Joshua 07 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:39Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -75,8 +66,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Joshua 7:5
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **et** VulgSistina (1590)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **ad** VulgSistina (1590)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **et** VulgSistina (1590)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **ad** VulgSistina (1590)
 
 ---
 
@@ -89,7 +80,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii autem Israel prævaricati sunt mandatum, et usurpaverunt de anathemate. Nam Achan filius Charmi, filii Zabdi, filii Zare de tribu Iuda, tulit aliquid de anathemate: iratusque est Dominus contra filios Israel.
   - `VulgConte (2009)`: Filii autem Israel prævaricati sunt mandatum, et usurpaverunt de anathemate. Nam Achan filius Charmi, filii Zabdi, filii Zare de tribu Iuda, tulit aliquid de anathemate: iratusque est Dominus contra filios Israel.
   - `VulgSistina (1590)`: Filii autem Israel praevaricati sunt mandatum, et usurpaverunt de anathemate. Nam Achan filius Charmi, filii Zabdi, filii Zare de tribu Iuda, tulit aliquid de anathemate: iratusque est Dominus contra filios Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque mitteret Josue de Jericho viros contra Hai, quæ est juxta Bethaven, ad orientalem plagam oppidi Bethel, dixit eis: Ascendite, et explorate terram. Qui præcepta complentes exploraverunt Hai.
@@ -98,7 +89,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque mitteret Iosue de Iericho viros contra Hai, quæ est iuxta Bethaven, ad Orientalem plagam oppidi Bethel, dixit eis: Ascendite, et explorate Terram. Qui præcepta complentes exploraverunt Hai.
   - `VulgConte (2009)`: Cumque mitteret Iosue de Iericho viros contra Hai, quæ est iuxta Bethaven, ad Orientalem plagam oppidi Bethel, dixit eis: Ascendite, et explorate Terram. Qui præcepta complentes exploraverunt Hai.
   - `VulgSistina (1590)`: Cumque mitteret Iosue de Iericho viros contra Hai, quae est iuxta Bethaven, ad Orientalem plagam oppidi Bethel, dixit eis: Ascendite, et explorate Terram. Qui praecepta complentes exploraverunt Hai.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et reversi dixerunt ei: Non ascendat omnis populus, sed duo vel tria millia virorum pergant, et deleant civitatem: quare omnis populus frustra vexabitur contra hostes paucissimos?
@@ -107,7 +98,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et reversi dixerunt ei: Non ascendat omnis populus, sed duo vel tria millia virorum pergant, et deleant civitatem: quare omnis populus frustra vexabitur contra hostes paucissimos?
   - `VulgConte (2009)`: Et reversi dixerunt ei: Non ascendat omnis populus, sed duo vel tria millia virorum pergant, et deleant civitatem: quare omnis populus frustra vexabitur contra hostes paucissimos?
   - `VulgSistina (1590)`: Et reversi dixerunt ei: Non ascendat omnis populus, sed duo vel tria millia virorum pergant, et deleant civitatem: quare omnis populus frustra vexabitur contra hostes paucissimos?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ascenderunt ergo tria millia pugnatorum. Qui statim terga vertentes,
@@ -116,7 +107,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ascenderunt ergo tria millia pugnatorum. Qui statim terga vertentes,
   - `VulgConte (2009)`: Ascenderunt ergo tria millia pugnatorum. Qui statim terga vertentes,
   - `VulgSistina (1590)`: Ascenderunt ergo tria millia pugnatorum. Qui statim terga vertentes,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** percussi sunt a viris urbis Hai, et corruerunt ex eis triginta sex homines: persecutique sunt eos adversarii de porta usque ad Sabarim, et ceciderunt per prona fugientes: pertimuitque cor populi, et instar aquæ liquefactum est.
@@ -125,7 +116,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: percussi sunt a viris urbis Hai, et corruerunt ex eis triginta sex homines: persecutique sunt eos adversarii de porta usque ad Sabarim, et ceciderunt per prona fugientes: pertimuitque cor populi, et instar aquæ liquefactum est.
   - `VulgConte (2009)`: percussi sunt a viris urbis Hai, et corruerunt ex eis triginta sex homines: persecutique sunt eos adversarii de porta usque ad Sabarim, et ceciderunt per prona fugientes: pertimuitque cor populi, et instar aquæ liquefactum est.
   - `VulgSistina (1590)`: percussi sunt a viris urbis Hai, et corruerunt ex eis triginta et sex homines: persecutique sunt eos adversarii de porta usque ad Sabarim, et ceciderunt per prona fugientes: pertimuitque cor populi, et ad instar aquae liquefactum est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Josue vero scidit vestimenta sua, et pronus cecidit in terram coram arca Domini usque ad vesperam, tam ipse quam omnes senes Israël: miseruntque pulverem super capita sua,
@@ -134,7 +125,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iosue vero scidit vestimenta sua, et pronus cecidit in terram coram arca Domini usque ad vesperam, tam ipse quam omnes senes Israel: miseruntque pulverem super capita sua,
   - `VulgConte (2009)`: Iosue vero scidit vestimenta sua, et pronus cecidit in terram coram arca Domini usque ad vesperam, tam ipse quam omnes senes Israel: miseruntque pulverem super capita sua,
   - `VulgSistina (1590)`: Iosue vero scidit vestimenta sua, et pronus cecidit in terram coram arca Domini usque ad vesperam, tam ipse quam omnes senes Israel: miseruntque pulverem super capita sua,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et dixit Josue: Heu Domine Deus, quid voluisti traducere populum istum Jordanem fluvium, ut traderes nos in manus Amorrhæi, et perderes? utinam ut cœpimus, mansissemus trans Jordanem.
@@ -143,7 +134,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et dixit Iosue: Heu Domine Deus, quid voluisti traducere populum istum Iordanem fluvium, ut traderes nos in manus Amorrhæi, et perderes? utinam ut cœpimus, mansissemus trans Iordanem.
   - `VulgConte (2009)`: et dixit Iosue: Heu Domine Deus, quid voluisti traducere populum istum Iordanem fluvium, ut traderes nos in manus Amorrhæi, et perderes? Utinam ut cœpimus, mansissemus trans Iordanem.
   - `VulgSistina (1590)`: et dixit Iosue: Heu Domine Deus, quid voluisti traducere populum istum Iordanem fluvium, ut traderes nos in manus Amorrhaei, et perderes? utinam ut coepimus, mansissemus trans Iordanem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Mi Domine Deus, quid dicam, videns Israëlem hostibus suis terga vertentem?
@@ -152,7 +143,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Mi Domine Deus quid dicam, videns Israelem hostibus suis terga vertentem?
   - `VulgConte (2009)`: Mi Domine Deus quid dicam, videns Israelem hostibus suis terga vertentem?
   - `VulgSistina (1590)`: Mi Domine Deus quid dicam, videns Israelem hostibus suis terga vertentem?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Audient Chananæi, et omnes habitatores terræ, et pariter conglobati circumdabunt nos, atque delebunt nomen nostrum de terra: et quid facies magno nomini tuo?
@@ -161,7 +152,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Audient Chananæi, et omnes habitatores Terræ, et pariter conglobati circumdabunt nos, atque delebunt nomen nostrum de terra: et quid facies magno nomini tuo?
   - `VulgConte (2009)`: Audient Chananæi, et omnes habitatores Terræ, et pariter conglobati circumdabunt nos, atque delebunt nomen nostrum de terra: et quid facies magno nomini tuo?
   - `VulgSistina (1590)`: Audient Chananaei, et omnes habitatores Terrae, et pariter conglobati circumdabunt nos, atque delebunt nomen nostrum de terra: et quid facies magno nomini tuo?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixitque Dominus ad Josue: Surge: cur jaces pronus in terra?
@@ -170,7 +161,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixitque Dominus ad Iosue: Surge, cur iaces pronus in terra?
   - `VulgConte (2009)`: Dixitque Dominus ad Iosue: Surge, cur iaces pronus in terra?
   - `VulgSistina (1590)`: Dixitque Dominus ad Iosue: Surge, cur iaces pronus in terra?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Peccavit Israël, et prævaricatus est pactum meum: tuleruntque de anathemate, et furati sunt atque mentiti, et absconderunt inter vasa sua.
@@ -179,7 +170,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Peccavit Israel, et prævaricatus est pactum meum: tuleruntque de anathemate, et furati sunt atque mentiti, et absconderunt inter vasa sua.
   - `VulgConte (2009)`: Peccavit Israel, et prævaricatus est pactum meum: tuleruntque de anathemate, et furati sunt atque mentiti, et absconderunt inter vasa sua.
   - `VulgSistina (1590)`: Peccavit Israel, et praevaricatus est pactum meum: tuleruntque de anathemate, et furati sunt atque mentiti, et absconderunt inter vasa sua.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nec poterit Israël stare ante hostes suos, eosque fugiet: quia pollutus est anathemate. Non ero ultra vobiscum, donec conteratis eum qui hujus sceleris reus est.
@@ -188,7 +179,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nec poterit Israel stare ante hostes suos, eosque fugiet: quia pollutus est anathemate. non ero ultra vobiscum, donec conteratis eum, qui huius sceleris reus est.
   - `VulgConte (2009)`: Nec poterit Israel stare ante hostes suos, eosque fugiet: quia pollutus est anathemate. Non ero ultra vobiscum, donec conteratis eum, qui huius sceleris reus est.
   - `VulgSistina (1590)`: Nec poterit Israel stare ante hostes suos, eosque fugiet: quia pollutus est anathemate. non ero ultra vobiscum, donec conteratis eum, qui huius sceleris reus est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Surge, sanctifica populum, et dic eis: Sanctificamini in crastinum: hæc enim dicit Dominus Deus Israël: Anathema in medio tui est, Israël: non poteris stare coram hostibus tuis, donec deleatur ex te qui hoc contaminatus est scelere.
@@ -197,7 +188,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Surge, sanctifica populum, et dic eis: Sanctificamini in crastinum: hæc enim dicit Dominus Deus Israel: Anathema in medio tui est Israel: non poteris stare coram hostibus tuis, donec deleatur ex te qui hoc contaminatus est scelere.
   - `VulgConte (2009)`: Surge, sanctifica populum, et dic eis: Sanctificamini in crastinum: hæc enim dicit Dominus Deus Israel: Anathema in medio tui est Israel: non poteris stare coram hostibus tuis, donec deleatur ex te qui hoc contaminatus est scelere.
   - `VulgSistina (1590)`: Surge, sanctifica populum, et dic eis: Sanctificamini in crastinum: haec enim dicit Dominus Deus Israel: Anathema in medio tui est Israel: non poteris stare coram hostibus tuis, donec deleatur ex te qui hoc contaminatus est scelere.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Accedetisque mane singuli per tribus vestras: et quamcumque tribum sors invenerit, accedet per cognationes suas, et cognatio per domos, domusque per viros.
@@ -206,7 +197,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Accedetisque mane singuli per tribus vestras: et quamcumque tribum sors invenerit, accedet per cognationes suas, et cognatio per domos, domusque per viros.
   - `VulgConte (2009)`: Accedetisque mane singuli per tribus vestras: et quamcumque tribum sors invenerit, accedet per cognationes suas, et cognatio per domos, domusque per viros.
   - `VulgSistina (1590)`: Accedetisque mane singuli per tribus vestras: et quamcumque tribum sors invenerit, accedet per cognationes suas, et cognatio per domos, domusque per viros.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et quicumque ille in hoc facinore fuerit deprehensus, comburetur igni cum omni substantia sua: quoniam prævaricatus est pactum Domini, et fecit nefas in Israël.
@@ -215,7 +206,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et quicumque ille in hoc facinore fuerit deprehensus, comburetur igni cum omni substantia sua: quoniam prævaricatus est pactum Domini, et fecit nefas in Israel.
   - `VulgConte (2009)`: Et quicumque ille in hoc facinore fuerit deprehensus, comburetur igni cum omni substantia sua: quoniam prævaricatus est pactum Domini, et fecit nefas in Israel.
   - `VulgSistina (1590)`: Et quicumque ille in hoc facinore fuerit deprehensus, comburetur igni cum omni substantia sua: quoniam praevaricatus est pactum Domini, et fecit nefas in Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Surgens itaque Josue mane, applicuit Israël per tribus suas, et inventa est tribus Juda.
@@ -224,7 +215,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Surgens itaque Iosue mane, applicuit Israel per tribus suas, et inventa est tribus Iuda.
   - `VulgConte (2009)`: Surgens itaque Iosue mane, applicuit Israel per tribus suas, et inventa est tribus Iuda.
   - `VulgSistina (1590)`: Surgens itaque Iosue mane, applicuit Israel per tribus suas, et inventa est tribus Iuda.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quæ cum juxta familias suas esset oblata, inventa est familia Zare. Illam quoque per domos offerens, reperit Zabdi:
@@ -233,7 +224,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quæ cum iuxta familias suas esset oblata, inventa est familia Zare. Illam quoque per domos offerens, reperit Zabdi:
   - `VulgConte (2009)`: Quæ cum iuxta familias suas esset oblata, inventa est familia Zare. Illam quoque per domos offerens, reperit Zabdi:
   - `VulgSistina (1590)`: Quae cum iuxta familias suas esset oblata, inventa est familia Zare. Illam quoque per domos offerens, reperit Zabdi:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** cujus domum in singulos dividens viros, invenit Achan filium Charmi filii Zabdi filii Zare de tribu Juda.
@@ -242,7 +233,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: cuius domum in singulos dividens viros, invenit Achan filium Charmi, filii Zabdi: filii Zare de tribu Iuda.
   - `VulgConte (2009)`: cuius domum in singulos dividens viros, invenit Achan filium Charmi, filii Zabdi: filii Zare de tribu Iuda.
   - `VulgSistina (1590)`: cuius domum in singulos dividens viros, invenit Achan filium Charmi, filii Zabdi: filii Zare de tribu Iuda.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ait Josue ad Achan: Fili mi, da gloriam Domino Deo Israël, et confitere, atque indica mihi quid feceris, ne abscondas.
@@ -251,7 +242,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ait Iosue ad Achan: Fili mi, da gloriam Domino Deo Israel, et confitere, atque indica mihi quid feceris, ne abscondas.
   - `VulgConte (2009)`: Et ait Iosue ad Achan: Fili mi, da gloriam Domino Deo Israel, et confitere, atque indica mihi quid feceris, ne abscondas.
   - `VulgSistina (1590)`: Et ait Iosue ad Achan: Fili mi, da gloriam Domino Deo Israel, et confitere, atque indica mihi quid feceris, ne abscondas.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Responditque Achan Josue, et dixit ei: Vere ego peccavi Domino Deo Israël, et sic et sic feci.
@@ -260,7 +251,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Responditque Achan Iosue, et dixit ei: Vere ego peccavi Domino Deo Israel, et sic et sic feci.
   - `VulgConte (2009)`: Responditque Achan Iosue, et dixit ei: Vere ego peccavi Domino Deo Israel, et sic et sic feci.
   - `VulgSistina (1590)`: Responditque Achan Iosue, et dixit ei: Vere ego peccavi Domino Deo Israel, et sic et sic feci.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vidi enim inter spolia pallium coccineum valde bonum, et ducentos siclos argenti, regulamque auream quinquaginta siclorum: et concupiscens abstuli, et abscondi in terra contra medium tabernaculi mei, argentumque fossa humo operui.
@@ -269,7 +260,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: vidi enim inter spolia pallium coccineum valde bonum, et ducentos siclos argenti, regulamque auream quinquaginta siclorum: et concupiscens abstuli, et abscondi in terra contra medium tabernaculi mei, argentumque fossa humo operui.
   - `VulgConte (2009)`: Vidi enim inter spolia pallium coccineum valde bonum, et ducentos siclos argenti, regulamque auream quinquaginta siclorum: et concupiscens abstuli, et abscondi in terra contra medium tabernaculi mei, argentumque fossa humo operui.
   - `VulgSistina (1590)`: vidi enim inter spolia pallium coccineum valde bonum, et ducentos siclos argenti, regulamque auream quinquaginta siclorum: et concupiscens abstuli, et abscondi in terra contra medium tabernaculi mei, argentumque fossa humo operui.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Misit ergo Josue ministros: qui currentes ad tabernaculum illius, repererunt cuncta abscondita in eodem loco, et argentum simul.
@@ -278,7 +269,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Misit ergo Iosue ministros: qui currentes ad tabernaculum illius, repererunt cuncta abscondita in eodem loco, et argentum simul.
   - `VulgConte (2009)`: Misit ergo Iosue ministros: qui currentes ad tabernaculum illius, repererunt cuncta abscondita in eodem loco, et argentum simul.
   - `VulgSistina (1590)`: Misit ergo Iosue ministros: qui currentes ad tabernaculum illius, repererunt cuncta abscondita in eodem loco, et argentum simul.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Auferentesque de tentorio, tulerunt ea ad Josue, et ad omnes filios Israël, projeceruntque ante Dominum.
@@ -287,7 +278,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Auferentesque de tentorio tulerunt ea ad Iosue, et ad omnes filios Israel, proieceruntque ante Dominum.
   - `VulgConte (2009)`: Auferentesque de tentorio tulerunt ea ad Iosue, et ad omnes filios Israel, proieceruntque ante Dominum.
   - `VulgSistina (1590)`: Auferentesque de tentorio tulerunt ea ad Iosue, et ad omnes filios Israel, proieceruntque ante Dominum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tollens itaque Josue Achan filium Zare, argentumque et pallium, et auream regulam, filios quoque et filias ejus, boves et asinos et oves, ipsumque tabernaculum, et cunctam supellectilem (et omnis Israël cum eo), duxerunt eos ad vallem Achor:
@@ -296,7 +287,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tollens itaque Iosue Achan filium Zare, argentumque et pallium, et auream regulam, filios quoque et filias eius, boves et asinos, et oves, ipsumque tabernaculum, et cunctam supellectilem: (et omnis Israel cum eo) duxerunt eos ad Vallem Achor:
   - `VulgConte (2009)`: Tollens itaque Iosue Achan filium Zare, argentumque et pallium, et auream regulam, filios quoque et filias eius, boves et asinos, et oves, ipsumque tabernaculum, et cunctam supellectilem: (et omnis Israel cum eo) duxerunt eos ad Vallem Achor:
   - `VulgSistina (1590)`: Tollens itaque Iosue Achan filium Zare, argentumque et pallium, et auream regulam, filios quoque et filias eius, boves et asinos, et oves, ipsumque tabernaculum, et cunctam supellectilem: (et omnis Israel cum eo) duxerunt eos ad Vallem Achor:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ubi dixit Josue: Quia turbasti nos, exturbet te Dominus in die hac. Lapidavitque eum omnis Israël: et cuncta quæ illius erant, igne consumpta sunt.
@@ -305,7 +296,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ubi dixit Iosue: Quia turbasti nos, exturbet te Dominus in die hac. Lapidavitque eum omnis Israel: et cuncta quæ illius erant, igne consumpta sunt.
   - `VulgConte (2009)`: ubi dixit Iosue: Quia turbasti nos, exturbet te Dominus in die hac. Lapidavitque eum omnis Israel: et cuncta quæ illius erant, igne consumpta sunt.
   - `VulgSistina (1590)`: ubi dixit Iosue: Quia turbasti nos, exturbet te Dominus in die hac. Lapidavitque eum omnis Israel: et cuncta quae illius erant, igne consumpta sunt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Congregaveruntque super eum acervum magnum lapidum, qui permanet usque in præsentem diem. Et aversus est furor Domini ab eis. Vocatumque est nomen loci illius, vallis Achor, usque hodie.
@@ -314,4 +305,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Congregaveruntque super eum acervum magnum lapidum, qui permanet usque in præsentem diem. Et aversus est furor Domini ab eis. Vocatumque est nomen loci illius, Vallis Achor, usque hodie.
   - `VulgConte (2009)`: Congregaveruntque super eum acervum magnum lapidum, qui permanet usque in præsentem diem. Et aversus est furor Domini ab eis. Vocatumque est nomen loci illius, Vallis Achor, usque hodie.
   - `VulgSistina (1590)`: Congregaveruntque super eum acervum magnum lapidum, qui permanet usque in praesentem diem. Et aversus est furor Domini ab eis. Vocatumque est nomen loci illius, Vallis Achor, usque hodie.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

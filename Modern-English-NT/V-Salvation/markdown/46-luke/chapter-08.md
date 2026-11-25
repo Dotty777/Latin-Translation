@@ -1,6 +1,6 @@
 # Luke 8 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (56 verses, 5 translator notes)  
+> **Status:** `draft: true` (56 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Luke`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -119,6 +119,7 @@
 
 ## Translator Notes
 
+- **8:2** — Stage 1 verified typo fix: adopted Clem1598-USFX reads 'infirmitatibus' (fixing 'infirmatibus' in earlier printings); English already renders 'illnesses' accurately.
 - **8:10** — The Vulgate reads singular mysterium ("mystery"), whereas the Greek text of Luke has plural "mysteries."
 - **8:25** — The Vulgate reads mari ("the sea") rather than Greek "the water," and uses the parenthetical putas ("do you suppose") to render the Greek inferential particle.
 - **8:36** — Distinctively, the Vulgate reads a legione ("from the legion"), whereas the Greek text reads "the demon-possessed man."

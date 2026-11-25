@@ -1,6 +1,6 @@
 # Numbers 16 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes, 2 additional)  
+> **Status:** `draft: true` (50 verses, 8 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -75,11 +75,35 @@
 
 **16:35** Moreover, fire coming out from the Lord killed the two hundred fifty men who were offering incense.
 
-## Additional Verses (Not in Saints Numbering)
+**16:36** Then the Lord spoke to Moses, saying:
 
-**16:36** *(after `16:35`)* Then the Lord spoke to Moses, saying:
+**16:37** "Command Eleazar the priest, the son of Aaron, to take up the censers that lie in the blaze and scatter the fire here and there, since they have been sanctified
 
-**16:44** *(after `16:35`)* Then the Lord said to Moses:
+**16:38** in the deaths of the sinners; and let him beat them out into plates and fasten them to the altar, because incense was offered in them to the Lord and they have been sanctified, so that the sons of Israel may see them as a sign and a reminder."
+
+**16:39** Therefore Eleazar the priest took the bronze censers in which those whom the blaze devoured had offered, and beat them out into plates, fastening them to the altar,
+
+**16:40** so that afterward the sons of Israel might have things by which to be reminded that no outsider, and no one who is not of the seed of Aaron, may approach to offer incense to the Lord, so that he may not suffer as Korah and all his congregation suffered, as the Lord spoke to Moses.
+
+**16:41** Now the whole multitude of the sons of Israel grumbled on the following day against Moses and Aaron, saying, "You have killed the people of the Lord."
+
+**16:42** And when a rebellion arose and the uproar grew,
+
+**16:43** Moses and Aaron fled to the tabernacle of the covenant. After they entered it, the cloud covered it, and the glory of the Lord appeared.
+
+**16:44** Then the Lord said to Moses:
+
+**16:45** "Withdraw from the midst of this multitude; even now I will destroy them." And while they were lying on the ground,
+
+**16:46** Moses said to Aaron, "Take the censer, and having drawn fire from the altar, put incense on top, going quickly to the people so that you may pray for them; for wrath has already gone out from the Lord, and the plague is raging."
+
+**16:47** When Aaron had done this and had run into the midst of the multitude, which the blaze was already devastating, he offered the incense,
+
+**16:48** and standing between the dead and the living, he pleaded for the people, and the plague ceased.
+
+**16:49** Now those who were struck down were fourteen thousand seven hundred people, apart from those who had perished in the rebellion of Korah.
+
+**16:50** And Aaron returned to Moses at the entrance of the tabernacle of the covenant after the destruction had subsided.
 
 ## Translator Notes
 
@@ -88,3 +112,6 @@
 - **16:14** — Unlike the Hebrew negative ("you have not brought us"), the Vulgate has the affirmative Revera induxisti nos ("Indeed, you have brought us") and reads "our eyes" (oculos nostros) rather than "the eyes of these men."
 - **16:30** — Latin in infernum ("into the underworld") is the Vulgate's standard term for the realm of the dead (Hebrew Sheol), and blasphemaverint ("have blasphemed") renders Hebrew "have despised/spurned."
 - **16:35** — In this versification, as in the Hebrew, Numbers 16 ends at 16:35, and the subsequent account of the bronze censers begins Numbers 17.
+- **16:38** — The Vulgate reads "in the deaths of the sinners" (Latin "in mortibus peccatorum"), whereas the Hebrew reads "at the cost of their lives."
+- **16:42** — In native Clementine Vulgate numbering, 16:36-50 conclude chapter 16 (mapped to Saints.Bible 17:1-15).
+- **16:47** — The Vulgate uses "incendium" ("blaze" or "fire") for what was devastating the multitude, matching 17:2 and 17:4, whereas the Hebrew refers here to "the plague."

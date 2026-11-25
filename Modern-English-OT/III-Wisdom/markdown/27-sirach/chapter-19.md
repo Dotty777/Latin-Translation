@@ -1,6 +1,6 @@
 # Sirach 19 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (28 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -13,9 +13,9 @@
 
 **19:4** The one who believes quickly is fickle in heart and will be diminished, and the one who offends against his own soul will be held in contempt.
 
-**19:5** The one who rejoices in iniquity will be denounced, and the one who hates reproof will be shortened in life,
+**19:5** The one who rejoices in iniquity will be denounced, and the one who hates reproof will be shortened in life, and the one who hates talkativeness extinguishes evil.
 
-**19:6** and the one who hates talkativeness extinguishes evil.
+**19:6** The one who sins against his own soul will repent, and the one who takes delight in wickedness will be denounced.
 
 **19:7** Do not repeat a wicked and harsh word, and you will not be diminished.
 
@@ -39,34 +39,33 @@
 
 **19:17** For who is there who has not offended with his tongue? Reprove a neighbor before you threaten him,
 
-**19:20** and give place to the fear of the Most High, for all wisdom is the fear of God, and in it is to fear God, and in all wisdom is the ordering of the law.
+**19:18** and give place to the fear of the Most High, for all wisdom is the fear of God, and in it is to fear God, and in all wisdom is the ordering of the law.
 
-**19:22** And the discipline of wickedness is not wisdom, and the thinking of sinners is not prudence.
+**19:19** And the discipline of wickedness is not wisdom, and the thinking of sinners is not prudence.
 
-**19:23** There is wickedness, and in it is an abomination, and there is a foolish person who is diminished in wisdom.
+**19:20** There is wickedness, and in it is an abomination, and there is a foolish person who is diminished in wisdom.
 
-**19:24** Better is a man who is diminished in wisdom and lacking in understanding, in fear, than one who abounds in understanding and transgresses the law of the Most High.
+**19:21** Better is a man who is diminished in wisdom and lacking in understanding, in fear, than one who abounds in understanding and transgresses the law of the Most High.
 
-**19:25** There is an exact cleverness, and it itself is unjust.
+**19:22** There is an exact cleverness, and it itself is unjust.
 
-**19:26** And there is one who utters an exact word, declaring the truth. There is one who wickedly humbles himself, and his inward parts are full of deceit.
+**19:23** And there is one who utters an exact word, declaring the truth. There is one who wickedly humbles himself, and his inward parts are full of deceit.
 
-**19:27** And there is one who submits himself excessively from much humility, and there is one who bows his face and pretends not to see what is unknown.
+**19:24** And there is one who submits himself excessively from much humility, and there is one who bows his face and pretends not to see what is unknown.
 
-**19:28** And if by weakness of strength he is prevented from sinning, if he finds a time for doing evil, he will do evil.
+**19:25** And if by weakness of strength he is prevented from sinning, if he finds a time for doing evil, he will do evil.
 
-**19:29** From appearance a man is known, and from the meeting of the face a sensible man is known.
+**19:26** From appearance a man is known, and from the meeting of the face a sensible man is known.
 
-**19:30** The clothing of the body, and the laughter of the teeth, and the gait of a man tell about him.
+**19:27** The clothing of the body, and the laughter of the teeth, and the gait of a man tell about him.
 
-## Additional Verses (Not in Saints Numbering)
-
-**19:6** *(after `19:6`)* The one who sins against his own soul will repent, and the one who takes delight in wickedness will be denounced.
+**19:28** There is a lying reproof in the anger of an abusive man, and there is a judgment that is not proved to be good, and there is one who keeps silent, and he is prudent.
 
 ## Translator Notes
 
 - **19:3** — The Vulgate expands this verse with the doublet "he will be lifted up as a greater example, and his soul will be taken away from the number" (extolletur in exemplum majus, et tolletur de numero anima ejus), where the standard Greek text has a single clause ("a reckless soul will be taken away").
 - **19:8** — The Vulgate reads "if you have a fault, do not lay it bare" (si est tibi delictum, noli denudare), omitting the negation found in the Greek ("unless it is a sin for you"); in v. 9 the Vulgate also adds the distinctive phrase "as though defending the sin" (quasi defendens peccatum) where the Greek has "in due time."
 - **19:15** — Late Latin commissio literally means a "setting at variance" or "offense," used here in the sense of slander or false report (corresponding to Greek diabole).
-- **19:20** — The Vulgate distinctively reads "fear of the Most High" (timori Altissimi), "fear of God" (timor Dei), the added clause "and in it is to fear God," and "the ordering of the law" (dispositio legis), where the Greek reads "law of the Most High," "fear of the Lord," and "doing of the law."
-- **19:26** — The Vulgate reads "utters an exact word, declaring the truth" (emittit verbum certum enarrans veritatem), diverging sharply from the Greek ("perverts favor to bring forth a judgment"); v. 27 likewise adds the clause "who submits himself excessively from much humility."
+- **19:18** — The Vulgate distinctively reads "fear of the Most High" (timori Altissimi), "fear of God" (timor Dei), the added clause "and in it is to fear God," and "the ordering of the law" (dispositio legis), where the Greek reads "law of the Most High," "fear of the Lord," and "doing of the law."
+- **19:23** — The Vulgate reads "utters an exact word, declaring the truth" (emittit verbum certum enarrans veritatem), diverging sharply from the Greek ("perverts favor to bring forth a judgment"); native 19:24 (Saints 19:27) likewise adds the clause "who submits himself excessively from much humility."
+- **19:28** — Native Vulgate places 'Est correptio mendax...' at the close of chapter 19 (19:28 = Saints/Greek 20:1), beginning chapter 20 at 'Quam bonum est arguere...' (20:1 = Saints 20:2).

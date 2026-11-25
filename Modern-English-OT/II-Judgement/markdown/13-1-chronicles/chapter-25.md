@@ -1,6 +1,6 @@
 # 1 Chronicles 25 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 4 translator notes)  
+> **Status:** `draft: true` (31 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -73,3 +73,4 @@
 - **25:3** — Although the text counts six sons of Jeduthun, only five are named here (the sixth is presumably Shemaiah, Latin Semeias, who receives the tenth lot in 25:17, where the Hebrew has Shimei). The Vulgate also renders the final phrase with plural participles ('super confitentes et laudantes', 'over those giving thanks to and praising'), whereas the Hebrew has infinitives ('in giving thanks and praising').
 - **25:7** — Distinctively Vulgate: Latin 'qui erudiebant ... cuncti doctores' reads actively ('who taught ... all of them teachers'), whereas the Hebrew describes them passively as 'trained' and 'skillful.'
 - **25:8** — Latin 'doctus pariter et indoctus' ('the learned and the unlearned alike') renders the Hebrew contrast between 'teacher' and 'pupil.'
+- **25:17** — The Vulgate reads 'Semeiæ' (Shemaiah, also 'Semeias' in 27:27) where the Hebrew Masoretic Text reads 'Shimei.'

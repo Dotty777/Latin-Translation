@@ -1,6 +1,6 @@
 # Jeremiah 16 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (21 verses, 3 translator notes, 4 additional)  
+> **Status:** `draft: true` (21 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,19 +47,8 @@
 
 **16:21** "Therefore, look, I will show them this time; I will show them My hand and My power, and they will know that My name is the Lord."
 
-## Additional Verses (Not in Saints Numbering)
-
-**17:1** *(after `16:21`)* The sin of Judah is written with an iron stylus, with a diamond point, engraved upon the breadth of their heart and on the horns of their altars.
-
-**17:2** *(after `16:21`)* When their children remember their altars, and their sacred groves, and the leafy trees on the high mountains,
-
-**17:3** *(after `16:21`)* sacrificing in the field: I will give your strength and all your treasures over to plunder; your high places, because of sins throughout all your borders.
-
-**17:4** *(after `16:21`)* And you will be left alone, apart from your inheritance that I gave you, and I will make you serve your enemies in a land that you do not know; for you have kindled a fire in My fury: it will burn forever.
-
 ## Translator Notes
 
 - **16:3** — Vulgate 'de quorum stirpe sunt nati' ("from whose lineage they were born") expands on the simpler Hebrew expression "who fathered them."
 - **16:5** — Vulgate 'domum convivii' ("a house of feasting," also in 16:8) renders Hebrew 'bet marzeah' (a funerary banquet house or house of mourning) literally as a banquet house.
 - **16:13** — Vulgate 'qui non dabunt vobis requiem' ("who will not give you rest") refers in the third-person plural to the foreign gods, whereas the Hebrew Masoretic Text reads first-person singular ("for I will show you no favor").
-- **17:1 *(additional)*** — The Clementine Vulgate reads "super latitudinem" ("upon the breadth"), in contrast to the Hebrew "tablet."

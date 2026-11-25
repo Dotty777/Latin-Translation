@@ -1,6 +1,6 @@
 # Sirach 33 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (33 verses, 9 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -21,7 +21,9 @@
 
 **33:8** By the knowledge of the Lord they were separated, when the sun was made and kept the command.
 
-**33:9** Some of them God exalted and magnified, and some of them He placed in the number of days. And all people are from the soil and from the earth from which Adam was created.
+**33:9** And He altered the seasons and their festival days, and in them they celebrated festival days at the appointed hour.
+
+**33:10** Some of them God exalted and magnified, and some of them He placed in the number of days. And all people are from the soil and from the earth from which Adam was created.
 
 **33:11** In the abundance of knowledge the Lord separated them and changed their ways.
 
@@ -29,11 +31,13 @@
 
 **33:13** Like the clay of a potter in his hand, to mold it and arrange it.
 
-**33:14** Opposite evil is good, and opposite death is life; so too opposite a righteous man is a sinner.
+**33:14** All its ways are according to his arrangement; so is man in the hand of Him who made him, and He will repay him according to His judgment.
 
-**33:15** And thus look upon all the works of the Most High: two and two, and one opposite another.
+**33:15** Opposite evil is good, and opposite death is life; so too opposite a righteous man is a sinner. And thus look upon all the works of the Most High: two and two, and one opposite another.
 
-**33:17** And I, last of all, kept watch, and was like one who gathers grapes after the grape-harvesters. In the blessing of God I too hoped, and like one who harvests grapes I filled the winepress.
+**33:16** And I, last of all, kept watch, and was like one who gathers grapes after the grape-harvesters.
+
+**33:17** In the blessing of God I too hoped, and like one who harvests grapes I filled the winepress.
 
 **33:18** See that I have not labored for myself alone, but for all who seek out instruction.
 
@@ -57,16 +61,24 @@
 
 **33:28** For a malicious slave, torture and shackles; send him to labor, so that he may not be idle.
 
-**33:29** Set him to tasks, for so it is fitting for him. But if he does not obey, bend him with shackles, and do not go to excess upon any flesh; but without judgment do nothing severe.
+**33:29** For idleness has taught much malice.
+
+**33:30** Set him to tasks, for so it is fitting for him. But if he does not obey, bend him with shackles, and do not go to excess upon any flesh; but without judgment do nothing severe.
 
 **33:31** If you have a faithful slave, let him be to you like your own soul; treat him just like a brother, because with the blood of the soul you purchased him.
 
 **33:32** If you harm him unjustly, he will turn to flight.
 
+**33:33** And if, lifting himself up, he departs, you do not know whom to seek or on what road to seek him.
+
 ## Translator Notes
 
 - **33:2** — Vulgate links this clause directly to the wise person of 33:1 ("and he will not be wrecked"), omitting the contrasting clause about a hypocrite found in the Greek Septuagint.
 - **33:8** — Vulgate reads the ablative absolute "facto sole, et praeceptum custodiente" ("when the sun was made and kept the command"), whereas the Greek Septuagint speaks of the Lord varying seasons and feasts.
+- **33:9** — Restored native Clementine Vulgate verse 33:9 (parallel to Saints/Greek 33:8b).
 - **33:12** — Vulgate renders the final phrase literally "a separatione ipsorum" ("from their separation"), echoing the theme of separation in vv. 8 and 11, where the Greek Septuagint has "from their station."
+- **33:14** — Restored native Clementine Vulgate verse 33:14 (parallel to Saints/Greek 33:13b).
 - **33:21** — Vulgate reads third-person indicative "non immutabit te omnis caro" (lit. "all flesh will not change you"), differing from the Greek imperative "do not exchange yourself for any flesh."
 - **33:26** — Vulgate reads "Operatur in disciplina, et quaerit requiescere" ("He works under discipline and seeks to rest"), reflecting a distinct reading from the Greek imperative "Make a slave work, and you will find rest."
+- **33:29** — Restored native Clementine Vulgate verse 33:29 (corresponding to Saints.Bible 33:28b; native 33:28-29 cover Saints.Bible 33:27-28).
+- **33:33** — Restored native Clementine Vulgate verse 33:33 (continuing 33:32; together native 33:32-33 correspond to Saints.Bible 33:33).

@@ -1,8 +1,8 @@
 # Ezekiel 45 — Saints Latin Critical Text
 
-**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:32Z`
+**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:09Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -114,7 +105,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque cœperitis terram dividere sortito, separate primitias Domino, sanctificatum de terra, longitudine vigintiquinque millia, et latitudine decem millia: sanctificatum erit in omni termino eius per circuitum.
   - `VulgConte (2009)`: Cumque cœperitis terram dividere sortito, separate primitias Domino, sanctificatum de terra, longitudine vigintiquinque millia, et latitudine decem millia: sanctificatum erit in omni termino eius per circuitum.
   - `VulgSistina (1590)`: Cumque coeperitis terram dividere sortito, separate primitias Domino, sanctificatum de terra, longitudine vigintiquinque millia, et latitudine decem millia: sanctificatum erit in omni termino eius per circuitum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et erit ex omni parte sanctificatum quingentos per quingentos, quadrifariam per circuitum, et quinquaginta cubitis in suburbana ejus per gyrum.
@@ -123,7 +114,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et erit ex omni parte sanctificatum quingentos per quingentos, quadrifariam per circuitum: et quinquaginta cubitis in suburbana eius per gyrum.
   - `VulgConte (2009)`: Et erit ex omni parte sanctificatum quingentos per quingentos, quadrifariam per circuitum: et quinquaginta cubitis in suburbana eius per gyrum.
   - `VulgSistina (1590)`: Et erit ex omni parte sanctificatum quingentos per quingentos, quadrifariam per circuitum: et quinquaginta cubitis in suburbana eius per gyrum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et a mensura ista mensurabis longitudinem viginti quinque millium, et latitudinem decem millium: et in ipso erit templum, Sanctumque sanctorum.
@@ -132,7 +123,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et a mensura ista mensurabis longitudinem vigintiquinque millium, et latitudinem decem millium, et in ipso erit templum, sanctumque sanctorum.
   - `VulgConte (2009)`: Et a mensura ista mensurabis longitudinem vigintiquinque millium, et latitudinem decem millium, et in ipso erit templum, Sanctumque Sanctorum.
   - `VulgSistina (1590)`: Et a mensura ista mensurabis longitudinem vigintiquinque millium, et latitudinem decem millium, et in ipso erit templum, sanctumque sanctorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sanctificatum de terra erit sacerdotibus ministris sanctuarii, qui accedunt ad ministerium Domini: et erit eis locus in domos, et in sanctuarium sanctitatis.
@@ -141,7 +132,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sanctificatum de terra erit sacerdotibus ministris sanctuarii, qui accedunt ad ministerium Domini: et erit eis locus in domos, et in sanctuarium sanctitatis.
   - `VulgConte (2009)`: Sanctificatum de terra erit sacerdotibus ministris sanctuarii, qui accedunt ad ministerium Domini: et erit eis locus in domos, et in sanctuarium sanctitatis.
   - `VulgSistina (1590)`: Sanctificatum de terra erit sacerdotibus ministris sanctuarii, qui accedunt ad ministerium Domini: et erit eis locus in domos, et in sanctuarium sanctitatis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Viginti quinque autem millia longitudinis, et decem millia latitudinis erunt Levitis qui ministrant domui: ipsi possidebunt viginti gazophylacia.
@@ -150,7 +141,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vigintiquinque autem millia longitudinis, et decem millia latitudinis erunt Levitis, qui ministrant domui: ipsi possidebunt viginti gazophylacia.
   - `VulgConte (2009)`: Vigintiquinque autem millia longitudinis, et decem millia latitudinis erunt Levitis, qui ministrant domui: ipsi possidebunt viginti gazophylacia.
   - `VulgSistina (1590)`: Vigintiquinque autem millia longitudinis, et decem millia latitudinis erunt Levitis, qui ministrant domui: ipsi possidebunt viginti gazophylacia.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et possessionem civitatis dabitis quinque millia latitudinis, et longitudinis viginti quinque millia, secundum separationem sanctuarii, omni domui Israël.
@@ -159,7 +150,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et possessionem civitatis dabitis quinque millia latitudinis, et longitudinis vigintiquinque millia secundum separationem sanctuarii, omni domui Israel.
   - `VulgConte (2009)`: Et possessionem civitatis dabitis quinque millia latitudinis, et longitudinis vigintiquinque millia secundum separationem sanctuarii, omni domui Israel.
   - `VulgSistina (1590)`: Et possessionem civitatis dabitis quinque millia latitudinis, et longitudinis vigintiquinque millia secundum separationem sanctuarii, omni domui Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Principi quoque hinc et inde in separationem sanctuarii, et in possessionem civitatis, contra faciem separationis sanctuarii, et contra faciem possessionis urbis, a latere maris usque ad mare, et a latere orientis usque ad orientem: longitudinis autem juxta unamquamque partem, a termino occidentali usque ad terminum orientalem.
@@ -168,7 +159,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Principi quoque hinc et inde in separationem sanctuarii, et in possessionem civitatis, contra faciem separationis sanctuarii, et contra faciem possessionis urbis: a latere Maris usque ad Mare, et a latere Orientis usque ad Orientem: Longitudinis autem iuxta unamquamque partem a termino Occidentali usque ad terminum Orientalem.
   - `VulgConte (2009)`: Principi quoque hinc et inde in separationem sanctuarii, et in possessionem civitatis, contra faciem separationis sanctuarii, et contra faciem possessionis urbis: a latere Maris usque ad Mare, et a latere Orientis usque ad Orientem: Longitudinis autem iuxta unamquamque partem a termino Occidentali usque ad terminum Orientalem.
   - `VulgSistina (1590)`: Principi quoque hinc et inde in separationem sanctuarii, et in possessionem civitatis, contra faciem separationis sanctuarii, et contra faciem possessionis urbis: a latere Maris usque ad Mare, et a latere Orientis usque ad Orientem: Longitudinis autem iuxta unamquamque partem a termino Occidentali usque ad terminum Orientalem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** De terra erit ei possessio in Israël, et non depopulabuntur ultra principes populum meum: sed terram dabunt domui Israël secundum tribus eorum.
@@ -177,7 +168,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: De terra erit ei possessio in Israel: et non depopulabuntur ultra principes populum meum: sed terram dabunt domui Israel secundum tribus eorum.
   - `VulgConte (2009)`: De terra erit ei possessio in Israel: et non depopulabuntur ultra principes populum meum: sed terram dabunt domui Israel secundum tribus eorum.
   - `VulgSistina (1590)`: De terra erit ei possessio in Israel: et non depopulabuntur ultra principes populum meum: sed terram dabunt domui Israel secundum tribus eorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæc dicit Dominus Deus: Sufficiat vobis, principes Israël: iniquitatem et rapinas intermittite, et judicium et justitiam facite: separate confinia vestra a populo meo, ait Dominus Deus.
@@ -186,7 +177,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hæc dicit Dominus Deus: Sufficiat vobis principes Israel: iniquitatem et rapinas intermittite, et iudicium et iustitiam facite, separate confinia vestra a populo meo, ait Dominus Deus.
   - `VulgConte (2009)`: Hæc dicit Dominus Deus: Sufficiat vobis principes Israel: iniquitatem et rapinas intermittite, et iudicium et iustitiam facite, separate confinia vestra a populo meo, ait Dominus Deus.
   - `VulgSistina (1590)`: Haec dicit Dominus Deus: Sufficiat vobis principes Israel: iniquitatem et rapinas intermittite, et iudicium et iustitiam facite, separate confinia vestra a populo meo, ait Dominus Deus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Statera justa, et ephi justum, et batus justus erit vobis.
@@ -195,7 +186,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Statera iusta, et ephi iustum, et batus iustus erit vobis.
   - `VulgConte (2009)`: Statera iusta, et ephi iustum, et batus iustus erit vobis.
   - `VulgSistina (1590)`: Statera iusta, et ephi iustum, et batus iustus erit vobis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ephi et batus æqualia et unius mensuræ erunt, ut capiat decimam partem cori batus, et decimam partem cori ephi: juxta mensuram cori erit æqua libratio eorum.
@@ -204,7 +195,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ephi, et batus æqualia, et unius mensuræ erunt: ut capiat decimam partem cori batus, et decimam partem cori ephi: iuxta mensuram cori erit æqua libratio eorum.
   - `VulgConte (2009)`: Ephi, et batus æqualia, et unius mensuræ erunt: ut capiat decimam partem cori batus, et decimam partem cori ephi: iuxta mensuram cori erit æqua libratio eorum.
   - `VulgSistina (1590)`: Ephi, et batus aequalia, et unius mensurae erunt: ut capiat decimam partem cori batus, et decimam partem cori ephi: iuxta mensuram cori erit aequa libratio eorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Siclus autem viginti obolos habet: porro viginti sicli, et viginti quinque sicli, et quindecim sicli, mnam faciunt.
@@ -213,7 +204,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Siclus autem viginti obolos habet. Porro viginti sicli, et vigintiquinque sicli, et quindecim sicli, mnam faciunt.
   - `VulgConte (2009)`: Siclus autem viginti obolos habet. Porro viginti sicli, et vigintiquinque sicli, et quindecim sicli, mnam faciunt.
   - `VulgSistina (1590)`: Siclus autem viginti obolos habet. Porro viginti sicli, et vigintiquinque sicli, et quindecim sicli, mnam faciunt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et hæ sunt primitiæ quas tolletis: sextam partem ephi de coro frumenti, et sextam partem ephi de coro hordei.
@@ -222,7 +213,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et hæ sunt primitiæ, quas tolletis: sextam partem ephi de coro frumenti, et sextam partem ephi de coro hordei.
   - `VulgConte (2009)`: Et hæ sunt primitiæ, quas tolletis: sextam partem ephi de coro frumenti, et sextam partem ephi de coro hordei.
   - `VulgSistina (1590)`: Et hae sunt primitiae, quas tolletis: sextam partem ephi de coro frumenti, et sextam partem ephi de coro hordei.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Mensura quoque olei, batus olei, decima pars cori est: et decem bati corum faciunt, quia decem bati implent corum.
@@ -231,7 +222,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Mensura quoque olei, batus olei, decima pars cori est: et decem bati corum faciunt: quia decem bati implent corum.
   - `VulgConte (2009)`: Mensura quoque olei, batus olei, decima pars cori est: et decem bati corum faciunt: quia decem bati implent corum.
   - `VulgSistina (1590)`: Mensura quoque olei, batus olei, decima pars cori est: et decem bati corum faciunt: quia decem bati implent corum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et arietem unum de grege ducentorum, de his quæ nutriunt Israël, in sacrificium, et in holocaustum, et in pacifica, ad expiandum pro eis, ait Dominus Deus.
@@ -240,7 +231,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et arietem unum de grege ducentorum de his, quæ nutriunt Israel in sacrificium, et in holocaustum, et in pacifica, ad expiandum pro eis, ait Dominus Deus.
   - `VulgConte (2009)`: Et arietem unum de grege ducentorum de his, quæ nutriunt Israel in sacrificium, et in holocaustum, et in pacifica, ad expiandum pro eis, ait Dominus Deus.
   - `VulgSistina (1590)`: Et arietem unum de grege ducentorum de his, quae nutriunt Israel in sacrificium, et in holocaustum, et in pacifica, ad expiandum pro eis, ait Dominus Deus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnis populus terræ tenebitur primitiis his principi in Israël.
@@ -249,7 +240,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnis populus terræ tenebitur primitiis his principi in Israel.
   - `VulgConte (2009)`: Omnis populus terræ tenebitur primitiis his principi in Israel.
   - `VulgSistina (1590)`: Omnis populus terrae tenebitur primitiis his principi in Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et super principem erunt holocausta, et sacrificium, et libamina, in solemnitatibus, et in calendis, et in sabbatis, et in universis solemnitatibus domus Israël: ipse faciet pro peccato sacrificium, et holocaustum, et pacifica, ad expiandum pro domo Israël.
@@ -258,7 +249,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et super principem erunt holocausta, et sacrificium, et libamina in sollemnitatibus, et in Calendis, et in Sabbatis, et in universis sollemnitatibus domus Israel: ipse faciet pro peccato sacrificium, et holocaustum, et pacifica ad expiandum pro domo Israel.
   - `VulgConte (2009)`: Et super principem erunt holocausta, et sacrificium, et libamina in sollemnitatibus, et in Calendis, et in Sabbatis, et in universis sollemnitatibus domus Israel: ipse faciet pro peccato sacrificium, et holocaustum, et pacifica ad expiandum pro domo Israel.
   - `VulgSistina (1590)`: Et super principem erunt holocausta, et sacrificium, et libamina in sollemnitatibus, et in Calendis, et in Sabbatis, et in universis sollemnitatibus domus Israel: ipse faciet pro peccato sacrificium, et holocaustum, et pacifica ad expiandum pro domo Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæc dicit Dominus Deus: In primo mense, una mensis, sumes vitulum de armento immaculatum, et expiabis sanctuarium.
@@ -267,7 +258,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hæc dicit Dominus Deus: In primo mense, una mensis sumes vitulum de armento immaculatum, et expiabis sanctuarium.
   - `VulgConte (2009)`: Hæc dicit Dominus Deus: In primo mense, una mensis sumes vitulum de armento immaculatum, et expiabis sanctuarium.
   - `VulgSistina (1590)`: Haec dicit Dominus Deus: In primo mense, una mensis sumes vitulum de armento immaculatum, et expiabis sanctuarium.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et tollet sacerdos de sanguine quod erit pro peccato, et ponet in postibus domus, et in quatuor angulis crepidinis altaris, et in postibus portæ atrii interioris.
@@ -276,7 +267,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et tollet sacerdos de sanguine quod erit pro peccato: et ponet in postibus domus, et in quattuor angulis crepidinis altaris, et in postibus portæ atrii interioris.
   - `VulgConte (2009)`: Et tollet sacerdos de sanguine quod erit pro peccato: et ponet in postibus domus, et in quattuor angulis crepidinis altaris, et in postibus portæ atrii interioris.
   - `VulgSistina (1590)`: Et tollet sacerdos de sanguine quod erit pro peccato: et ponet in postibus domus, et in quattuor angulis crepidinis altaris, et in postibus portae atrii interioris.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et sic facies in septima mensis, pro unoquoque qui ignoravit, et errore deceptus est: et expiabis pro domo.
@@ -285,7 +276,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et sic facies in septima mensis pro unoquoque, qui ignoravit, et errore deceptus est, et expiabis pro domo.
   - `VulgConte (2009)`: Et sic facies in septima mensis pro unoquoque, qui ignoravit, et errore deceptus est, et expiabis pro domo.
   - `VulgSistina (1590)`: Et sic facies in septima mensis pro unoquoque, qui ignoravit, et errore deceptus est, et expiabis pro domo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In primo mense, quartadecima die mensis, erit vobis Paschæ solemnitas: septem diebus azyma comedentur.
@@ -294,7 +285,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In primo mense, quartadecima die mensis erit vobis Paschæ sollemnitas: septem diebus azyma comedentur.
   - `VulgConte (2009)`: In primo mense, quartadecima die mensis erit vobis Paschæ sollemnitas: septem diebus azyma comedentur.
   - `VulgSistina (1590)`: In primo mense, quartadecima die mensis erit vobis Paschae sollemnitas: septem diebus azyma comedentur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et faciet princeps in die illa, pro se et pro universo populo terræ, vitulum pro peccato.
@@ -303,7 +294,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et faciet princeps in die illa pro se, et pro universo populo terræ, vitulum pro peccato.
   - `VulgConte (2009)`: Et faciet princeps in die illa pro se, et pro universo populo terræ, vitulum pro peccato.
   - `VulgSistina (1590)`: Et faciet princeps in die illa pro se, et pro universo populo terrae, vitulum pro peccato.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et in septem dierum solemnitate faciet holocaustum Domino, septem vitulos et septem arietes immaculatos, quotidie septem diebus: et pro peccato hircum caprarum quotidie.
@@ -312,7 +303,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et in septem dierum sollemnitate faciet holocaustum Domino septem vitulos, et septem arietes immaculatos quotidie septem diebus: et pro peccato hircum caprarum quotidie.
   - `VulgConte (2009)`: Et in septem dierum sollemnitate faciet holocaustum Domino septem vitulos, et septem arietes immaculatos quotidie septem diebus: et pro peccato hircum caprarum quotidie.
   - `VulgSistina (1590)`: Et in septem dierum sollemnitate faciet holocaustum Domino septem vitulos, et septem arietes immaculatos quotidie septem diebus: et pro peccato hircum caprarum quotidie.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et sacrificium ephi per vitulum, et ephi per arietem faciet, et olei hin per singula ephi.
@@ -321,7 +312,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et sacrificium ephi per vitulum, et ephi per arietem faciet: et olei hin per singula ephi.
   - `VulgConte (2009)`: Et sacrificium ephi per vitulum, et ephi per arietem faciet: et olei hin per singula ephi.
   - `VulgSistina (1590)`: Et sacrificium ephi per vitulum, et ephi per arietem faciet: et olei hin per singula ephi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Septimo mense, quintadecima die mensis, in solemnitate, faciet sicut supra dicta sunt per septem dies, tam pro peccato quam pro holocausto, et in sacrificio, et in oleo.
@@ -330,4 +321,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Septimo mense, quintadecima die mensis in sollemnitate faciet sicut supra dicta sunt per septem dies: tam pro peccato, quam pro holocausto, et in sacrificio, et in oleo.
   - `VulgConte (2009)`: Septimo mense, quintadecima die mensis in sollemnitate faciet sicut supra dicta sunt per septem dies: tam pro peccato, quam pro holocausto, et in sacrificio, et in oleo.
   - `VulgSistina (1590)`: Septimo mense, quintadecima die mensis in sollemnitate faciet sicut supra dicta sunt per septem dies: tam pro peccato, quam pro holocausto, et in sacrificio, et in oleo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

@@ -1,8 +1,8 @@
 # Joshua 20 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:39Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -70,7 +61,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et locutus est Dominus ad Iosue, dicens: Loquere filiis Israel, et dic eis:
   - `VulgConte (2009)`: Et locutus est Dominus ad Iosue, dicens: Loquere filiis Israel, et dic eis:
   - `VulgSistina (1590)`: Et locutus est Dominus ad Iosue, dicens: Loquere filiis Israel, et dic eis:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Separate urbes fugitivorum, de quibus locutus sum ad vos per manum Moysi:
@@ -79,7 +70,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Separate urbes fugitivorum, de quibus locutus sum ad vos per manum Moysi;
   - `VulgConte (2009)`: Separate urbes fugitivorum, de quibus locutus sum ad vos per manum Moysi;
   - `VulgSistina (1590)`: Separate urbes fugitivorum, de quibus locutus sum ad vos per manum Moysi;
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ut confugiat ad eas quicumque animam percusserit nescius, et possit evadere iram proximi, qui ultor est sanguinis:
@@ -88,7 +79,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ut confugiat ad eas quicumque animam percusserit nescius: et possit evadere iram proximi, qui ultor est sanguinis:
   - `VulgConte (2009)`: ut confugiat ad eas quicumque animam percusserit nescius: et possit evadere iram proximi, qui ultor est sanguinis:
   - `VulgSistina (1590)`: ut confugiat ad eas quicumque animam percusserit nescius: et possit evadere iram proximi, qui ultor est sanguinis:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** cum ad unam harum confugerit civitatum, stabit ante portam civitatis, et loquetur senioribus urbis illius ea quæ se comprobent innocentem: sicque suscipient eum, et dabunt ei locum ad habitandum.
@@ -121,7 +112,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Decreveruntque Cedes in Galilæa montis Nephthali, et Sichem in monte Ephraim, et Cariatharbe, ipsa est Hebron in monte Iuda.
   - `VulgConte (2009)`: Decreveruntque Cedes in Galilæa montis Nephthali, et Sichem in monte Ephraim, et Cariatharbe, ipsa est Hebron in monte Iuda.
   - `VulgSistina (1590)`: Decreveruntque Cedes in Galilaea montis Nephthali, et Sichem in monte Ephraim, et Cariatharbe, ipsa est Hebron in monte Iuda.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et trans Jordanem contra orientalem plagam Jericho, statuerunt Bosor, quæ sita est in campestri solitudine de tribu Ruben, et Ramoth in Galaad de tribu Gad, et Gaulon in Basan de tribu Manasse.
@@ -130,7 +121,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et trans Iordanem contra Orientalem plagam Iericho, statuerunt Bosor, quæ sita est in campestri solitudine de tribu Ruben, et Ramoth in Galaad de tribu Gad, et Gaulon in Basan de tribu Manasse.
   - `VulgConte (2009)`: Et trans Iordanem contra Orientalem plagam Iericho, statuerunt Bosor, quæ sita est in campestri solitudine de tribu Ruben, et Ramoth in Galaad de tribu Gad, et Gaulon in Basan de tribu Manasse.
   - `VulgSistina (1590)`: Et trans Iordanem contra Orientalem plagam Iericho, statuerunt Bosor, quae sita est in campestri solitudine de tribu Ruben, et Ramoth in Galaad de tribu Gad, et Gaulon in Basan de tribu Manasse.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæ civitates constitutæ sunt cunctis filiis Israël, et advenis qui habitabant inter eos, ut fugeret ad eas qui animam nescius percussisset, et non moreretur in manu proximi, effusum sanguinem vindicare cupientis, donec staret ante populum expositurus causam suam.
@@ -139,4 +130,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hæ civitates constitutæ sunt cunctis filiis Israel, et advenis, qui habitabant inter eos: ut fugeret ad eas qui animam nescius percussisset, et non moreretur in manu proximi, effusum sanguinem vindicare cupientis, donec staret ante populum expositurus causam suam.
   - `VulgConte (2009)`: Hæ civitates constitutæ sunt cunctis filiis Israel, et advenis, qui habitabant inter eos: ut fugeret ad eas qui animam nescius percussisset, et non moreretur in manu proximi, effusum sanguinem vindicare cupientis, donec staret ante populum expositurus causam suam.
   - `VulgSistina (1590)`: Hae civitates constitutae sunt cunctis filiis Israel, et advenis, qui habitabant inter eos: ut fugeret ad eas qui animam nescius percussisset, et non moreretur in manu proximi, effusum sanguinem vindicare cupientis, donec staret ante populum expositurus causam suam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

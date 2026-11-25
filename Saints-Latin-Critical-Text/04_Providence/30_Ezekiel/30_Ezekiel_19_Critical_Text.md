@@ -1,8 +1,8 @@
 # Ezekiel 19 — Saints Latin Critical Text
 
-**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:31Z`
+**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:09Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -63,7 +54,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Ezekiel 19:1
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **fili hominis** VulgSistina (1590)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **fili hominis** VulgSistina (1590)
 
 ### Ezekiel 19:5
 - *Disregarded Surface Variant:* kept `(adopted text)` over `exspectatio / expectatio`, `exspectatio / expectatio`, `exspectatio / expectatio`, `exspectatio / expectatio` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -79,7 +70,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et tu assume planctum super principes Israel,
   - `VulgConte (2009)`: Et tu assume planctum super principes Israel,
   - `VulgSistina (1590)`: Et tu fili hominis assume planctum super principes Israel,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et dices: Quare mater tua leæna inter leones cubavit? in medio leunculorum enutrivit catulos suos?
@@ -88,7 +79,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et dices: Quare mater tua leæna inter leones cubavit, in medio leunculorum enutrivit catulos suos?
   - `VulgConte (2009)`: et dices: Quare mater tua leæna inter leones cubavit, in medio leunculorum enutrivit catulos suos?
   - `VulgSistina (1590)`: et dices: Quare mater tua leaena inter leones cubavit, in medio leunculorum enutrivit catulos suos?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et eduxit unum de leunculis suis, et leo factus est: et didicit capere prædam, hominemque comedere.
@@ -97,7 +88,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et eduxit unum de leunculis suis, et leo factus est: et didicit capere prædam, hominemque comedere.
   - `VulgConte (2009)`: Et eduxit unum de leunculis suis, et leo factus est: et didicit capere prædam, hominemque comedere.
   - `VulgSistina (1590)`: Et eduxit unum de leunculis suis, et leo factus est: et didicit capere praedam, hominemque comedere.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et audierunt de eo gentes: et non absque vulneribus suis ceperunt eum, et adduxerunt eum in catenis in terram Ægypti.
@@ -106,7 +97,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et audierunt de eo Gentes, et non absque vulneribus suis ceperunt eum: et adduxerunt eum in catenis in Terram Ægypti.
   - `VulgConte (2009)`: Et audierunt de eo Gentes, et non absque vulneribus suis ceperunt eum: et adduxerunt eum in catenis in Terram Ægypti.
   - `VulgSistina (1590)`: Et audierunt de eo Gentes, et non absque vulneribus suis ceperunt eum: et adduxerunt eum in catenis in Terram Aegypti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quæ cum vidisset quoniam infirmata est, et periit exspectatio ejus, tulit unum de leunculis suis; leonem constituit eum.
@@ -115,7 +106,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quæ cum vidisset quoniam infirmata est, et periit expectatio eius: tulit unum de leunculis suis, leonem constituit eum.
   - `VulgConte (2009)`: Quæ cum vidisset quoniam infirmata est, et periit expectatio eius: tulit unum de leunculis suis, leonem constituit eum.
   - `VulgSistina (1590)`: Quae cum vidisset quoniam infirmata est, et periit expectatio eius: tulit unum de leunculis suis, leonem constituit eum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui incedebat inter leones, et factus est leo: et didicit prædam capere, et homines devorare:
@@ -124,7 +115,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Qui incedebat inter leones, et factus est leo: et didicit prædam capere, et homines devorare:
   - `VulgConte (2009)`: Qui incedebat inter leones, et factus est leo: et didicit prædam capere, et homines devorare:
   - `VulgSistina (1590)`: Qui incedebat inter leones, et factus est leo: et didicit praedam capere, et homines devorare:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** didicit viduas facere, et civitates earum in desertum adducere: et desolata est terra et plenitudo ejus a voce rugitus illius.
@@ -133,7 +124,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Didicit viduas facere, et civitates earum in desertum adducere: et desolata est terra, et plenitudo eius a voce rugitus illius.
   - `VulgConte (2009)`: Didicit viduas facere, et civitates earum in desertum adducere: et desolata est terra, et plenitudo eius a voce rugitus illius.
   - `VulgSistina (1590)`: Didicit viduas facere, et civitates earum in desertum adducere: et desolata est terra, et plenitudo eius a voce rugitus illius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et convenerunt adversus eum gentes undique de provinciis, et expanderunt super eum rete suum: in vulneribus earum captus est,
@@ -142,7 +133,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et convenerunt adversus eum Gentes undique de provinciis, et expanderunt super eum rete suum, in vulneribus earum captus est.
   - `VulgConte (2009)`: Et convenerunt adversus eum Gentes undique de provinciis, et expanderunt super eum rete suum, in vulneribus earum captus est.
   - `VulgSistina (1590)`: Et convenerunt adversus eum Gentes undique de provinciis, et expanderunt super eum rete suum, in vulneribus earum captus est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et miserunt eum in caveam: in catenis adduxerunt eum ad regem Babylonis, miseruntque eum in carcerem, ne audiretur vox ejus ultra super montes Israël.
@@ -151,7 +142,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et miserunt eum in caveam, in catenis adduxerunt eum ad regem Babylonis: miseruntque eum in carcerem, ne audiretur vox eius ultra super montes Israel.
   - `VulgConte (2009)`: Et miserunt eum in caveam, in catenis adduxerunt eum ad regem Babylonis: miseruntque eum in carcerem, ne audiretur vox eius ultra super montes Israel.
   - `VulgSistina (1590)`: Et miserunt eum in caveam, in catenis adduxerunt eum ad regem Babylonis: miseruntque eum in carcerem, ne audiretur vox eius ultra super montes Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Mater tua quasi vinea in sanguine tuo super aquam plantata est: fructus ejus et frondes ejus creverunt ex aquis multis.
@@ -160,7 +151,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Mater tua quasi vinea in sanguine tuo super aquam plantata est: fructus eius, et frondes eius creverunt ex aquis multis.
   - `VulgConte (2009)`: Mater tua quasi vinea in sanguine tuo super aquam plantata est: fructus eius, et frondes eius creverunt ex aquis multis.
   - `VulgSistina (1590)`: Mater tua quasi vinea in sanguine tuo super aquam plantata est: fructus eius, et frondes eius creverunt ex aquis multis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et factæ sunt ei virgæ solidæ in sceptra dominantium, et exaltata est statura ejus inter frondes, et vidit altitudinem suam in multitudine palmitum suorum.
@@ -169,7 +160,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et factæ sunt ei virgæ solidæ in sceptra dominantium, et exaltata est statura eius inter frondes: et vidit altitudinem suam in multitudine palmitum suorum.
   - `VulgConte (2009)`: Et factæ sunt ei virgæ solidæ in sceptra dominantium, et exaltata est statura eius inter frondes: et vidit altitudinem suam in multitudine palmitum suorum.
   - `VulgSistina (1590)`: Et factae sunt ei virgae solidae in sceptra dominantium, et exaltata est statura eius inter frondes: et vidit altitudinem suam in multitudine palmitum suorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et evulsa est in ira, in terramque projecta, et ventus urens siccavit fructum ejus: marcuerunt et arefactæ sunt virgæ roboris ejus: ignis comedit eam.
@@ -178,7 +169,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et evulsa est in ira, in terramque proiecta, et ventus urens siccavit fructum eius: marcuerunt, et arefactæ sunt virgæ roboris eius: ignis comedit eam.
   - `VulgConte (2009)`: Et evulsa est in ira, in terramque proiecta, et ventus urens siccavit fructum eius: marcuerunt, et arefactæ sunt virgæ roboris eius: ignis comedit eam.
   - `VulgSistina (1590)`: Et evulsa est in ira, in terramque proiecta, et ventus urens siccavit fructum eius: marcuerunt, et arefactae sunt virgae roboris eius: ignis comedit eam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et nunc transplantata est in desertum, in terra invia et sitienti.
@@ -187,7 +178,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et nunc transplantata est in desertum, in terra invia, et sitienti.
   - `VulgConte (2009)`: Et nunc transplantata est in desertum, in terra invia, et sitienti.
   - `VulgSistina (1590)`: Et nunc transplantata est in desertum, in terra invia, et sitienti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et egressus est ignis de virga ramorum ejus, qui fructum ejus comedit: et non fuit in ea virga fortis, sceptrum dominantium. Planctus est, et erit in planctum.
@@ -196,4 +187,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et egressus est ignis de virga ramorum eius, qui fructum eius comedit: et non fuit in ea virga fortis, sceptrum dominantium. Planctus est, et erit in planctum.
   - `VulgConte (2009)`: Et egressus est ignis de virga ramorum eius, qui fructum eius comedit: et non fuit in ea virga fortis, sceptrum dominantium. Planctus est, et erit in planctum.
   - `VulgSistina (1590)`: Et egressus est ignis de virga ramorum eius, qui fructum eius comedit: et non fuit in ea virga fortis, sceptrum dominantium. Planctus est, et erit in planctum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

@@ -1,6 +1,6 @@
 # Lamentations 3 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (62 verses, 10 translator notes, 4 additional)  
+> **Status:** `draft: true` (66 verses, 11 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Lamentations`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,6 +47,12 @@
 
 **3:21** Zayin: Recalling these things in my heart, I will therefore hope.
 
+**3:22** Heth: It is through the mercies of the Lord that we have not been consumed, because His compassions have not failed.
+
+**3:23** Heth: They are new at daybreak; Your faithfulness is great.
+
+**3:24** Heth: "The Lord is my portion," my soul has said; therefore I will wait for Him.
+
 **3:25** Teth: The Lord is good to those who hope in Him, to the soul seeking Him.
 
 **3:26** Teth: It is good to await in silence the salvation of God.
@@ -54,6 +60,8 @@
 **3:27** Teth: It is good for a man when he bears a yoke from his youth.
 
 **3:28** Yod: He will sit alone and keep silent, because he has lifted it upon himself.
+
+**3:29** Yod: He will put his mouth in the dust, if perhaps there may be hope.
 
 **3:30** Yod: He will give his cheek to the one striking him; he will be sated with reproaches.
 
@@ -129,26 +137,16 @@
 
 **3:66** Tav: You will pursue them in fury and crush them under the heavens, Lord.
 
-## Additional Verses (Not in Saints Numbering)
-
-**3:22** *(after `3:21`)* Heth: It is through the mercies of the Lord that we have not been consumed, because His compassions have not failed.
-
-**3:23** *(after `3:21`)* Heth: They are new at daybreak; Your faithfulness is great.
-
-**3:24** *(after `3:21`)* Heth: "The Lord is my portion," my soul has said; therefore I will wait for Him.
-
-**3:29** *(after `3:28`)* Yod: He will put his mouth in the dust, if perhaps there may be hope.
-
 ## Translator Notes
 
 - **3:1** — In the Clementine Vulgate, the Hebrew acrostic letter names appear inline before every verse of Lamentations 3 (rendered here in standard modern English spelling). The Vulgate also reads paupertatem meam ("my poverty"), whereas the Hebrew reads "affliction."
 - **3:16** — The Vulgate distinctively reads ad numerum ("by number," i.e., tooth by tooth) and cibavit me cinere ("He has fed me ashes"), where the Hebrew reads "with gravel" and "He has made me cower in ashes."
 - **3:18** — The Vulgate translates Hebrew netzach ("endurance" or "strength") as finis meus ("my end"), reflecting its standard rendering of that root elsewhere in the Vulgate.
 - **3:19** — The Vulgate reads transgressionis meae ("my transgression"), whereas the Hebrew term is generally understood as "my wandering" or "my homelessness."
+- **3:23** — Latin "Novi" ("new," masculine plural) has no expressed noun and is taken as referring back to the Lord's mercies and compassions in the preceding verse, although misericordiae and miserationes are feminine; "diluculo" is singular ("at daybreak").
 - **3:28** — The Vulgate uses the reflexive levavit super se ("he has lifted it upon himself," referring to the yoke of v. 27), differing from the Hebrew phrasing commonly understood as "because He [God] has laid it on him."
 - **3:36** — The Vulgate reads Dominus ignoravit ("the Lord did not know"), rendering Hebrew lo' ra'ah ("does not see/approve") with "not knowing" in the biblical sense of refusing to recognize or countenance the injustices of vv. 34-36.
 - **3:45** — The Clementine Vulgate reads singular posuisti me ("You have made me") with eradicationem ("an uprooting"), whereas the Hebrew reads plural "You have made us offscouring/scum."
 - **3:47** — The Vulgate distinctively reads vaticinatio ("prophecy") and laqueus ("a snare"), where the Hebrew reads "devastation" and "pitfall."
 - **3:58** — The Vulgate reads the noun redemptor vitae meae ("Redeemer of my life") alongside Judicasti ("You have judged"), whereas the Hebrew has verbal forms rendered "You have pleaded" and "You have redeemed my life."
 - **3:65** — The Vulgate translates Hebrew meginnat-lev ("hardness/dullness of heart") literally as scutum cordis ("a shield of the heart"), and reads laborem tuum ("Your toil") where the Hebrew reads "Your curse."
-- **3:23 *(additional)*** — Latin "Novi" ("new," masculine plural) has no expressed noun and is taken as referring back to the Lord's mercies and compassions in the preceding verse, although misericordiae and miserationes are feminine; "diluculo" is singular ("at daybreak").

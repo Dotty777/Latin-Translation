@@ -1,102 +1,94 @@
 # Jeremiah 31 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (44 verses, 5 translator notes)  
+> **Status:** `draft: true` (40 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**31:1** Concerning Moab. This is what the Lord of hosts, the God of Israel, says: "Woe upon Nebo, for it has been laid waste and put to shame! Kiriathaim has been captured; the strong one has been put to shame and has trembled.
+**31:1** "At that time," says the Lord, "I will be God to all the families of Israel, and they will be a people to Me."
 
-**31:2** There is no longer exultation in Moab against Heshbon; they have plotted evil: 'Come, and let us wipe her out from being a nation.' Therefore in silence you will fall silent, and the sword will follow you.
+**31:2** This is what the Lord says: "The people who had remained from the sword found favor in the desert; Israel will go to his rest."
 
-**31:3** The sound of an outcry from Horonaim: devastation and great shattering!
+**31:3** From far away the Lord appeared to me. "And with a perpetual love I have loved you; therefore I have drawn you, showing mercy.
 
-**31:4** Moab has been shattered; proclaim the outcry to her little ones.
+**31:4** And again I will build you, and you will be built, virgin Israel; once more you will be adorned with your tambourines, and you will go out in the dance of those celebrating.
 
-**31:5** For by the ascent of Luhith she will go up weeping in tears, for on the descent of Horonaim the enemies have heard the wailing of shattering.
+**31:5** Once more you will plant vineyards on the mountains of Samaria; the planters will plant, and until the time comes, they will not gather the vintage.
 
-**31:6** Flee, save your lives, and you will be like tamarisks in the desert;
+**31:6** For there will be a day on which the watchmen on Mount Ephraim will cry out, 'Rise up, and let us go up to Zion, to the Lord our God.'"
 
-**31:7** for because you have had confidence in your strongholds and in your treasures, you also will be captured; and Chemosh will go into exile, his priests and his princes together.
+**31:7** For this is what the Lord says: "Exult with gladness, Jacob, and neigh against the head of the nations; sound aloud, and sing, and say, 'Save Your people, Lord, the remnant of Israel.'
 
-**31:8** And the plunderer will come upon every city, and no city will be saved; and the valleys will perish, and the plains will be ruined, for the Lord has spoken.
+**31:8** Look, I will bring them from the land of the north, and I will gather them from the ends of the earth; among whom will be the blind and the lame, the pregnant woman and the one giving birth together, a great assembly of those returning here.
 
-**31:9** Give a flower to Moab, for blossoming she will go forth; and her cities will be deserted and uninhabitable.
+**31:9** With weeping they will come, and in mercy I will lead them back; and I will bring them along streams of water on a straight path, and they will not stumble on it, because I have become a father to Israel, and Ephraim is My firstborn."
 
-**31:10** Cursed is the one who does the work of the Lord deceitfully, and cursed is the one who holds back his sword from blood.
+**31:10** Hear the word of the Lord, nations, and proclaim in the islands that are far away, and say: "He who scattered Israel will gather him and will guard him as a shepherd guards his flock."
 
-**31:11** Moab has been fertile from his youth, and has rested on his dregs; nor has he been poured from vessel to vessel, and he has not gone into exile; therefore his taste has remained in him, and his aroma has not been changed.
+**31:11** For the Lord has redeemed Jacob and has delivered him from the hand of one stronger.
 
-**31:12** Therefore look, the days are coming," says the Lord, "and I will send to him arrangers and tilters of wine flasks, and they will tip him over, and empty his vessels, and smash their flasks.
+**31:12** And they will come and give praise on Mount Zion, and they will stream together to the good things of the Lord, over the grain, and wine, and oil, and the offspring of flocks and herds; and their soul will be like a watered garden, and they will no longer hunger.
 
-**31:13** And Moab will be put to shame by Chemosh, just as the house of Israel was put to shame by Bethel, in which it had confidence.
+**31:13** Then the virgin will rejoice in the dance, young men and old men together; and I will turn their mourning into joy, and I will comfort them and make them glad after their sorrow.
 
-**31:14** How do you say, 'We are strong, and mighty men for battle'?
+**31:14** And I will saturate the soul of the priests with richness, and My people will be filled with My good things, says the Lord.
 
-**31:15** Moab has been laid waste, and her cities have collapsed, and her chosen young men have gone down to the slaughter," says the King; the Lord of hosts is His name.
+**31:15** This is what the Lord says: "A voice of lamentation has been heard on high, mourning and weeping of Rachel, wailing for her children and unwilling to be comforted over them, because they are no more."
 
-**31:16** The ruin of Moab is close to coming, and his calamity will rush on very swiftly.
+**31:16** This is what the Lord says: "Let your voice cease from wailing, and your eyes from tears, for there is a reward for your work," says the Lord, "and they will return from the land of the enemy;
 
-**31:17** Console him, all you who are around him; and all you who know his name, say, "How has the strong rod been broken, the glorious staff?"
+**31:17** and there is hope for your final days," says the Lord, "and the children will return to their own borders."
 
-**31:18** Come down from glory and sit in thirst, dwelling of the daughter of Dibon, for the destroyer of Moab has come up against you; he has ruined your strongholds.
+**31:18** Hearing, I have heard Ephraim going into exile: "You have disciplined me, and I have been instructed, like an untamed young bull; turn me back, and I will be turned back, for You are the Lord my God.
 
-**31:19** Stand by the road and watch, dwelling of Aroer; question the one who is fleeing, and to the one who has escaped say, "What has happened?"
+**31:19** For after You turned me back, I repented; and after You showed me, I struck my thigh. I was put to shame and blushed, because I bore the reproach of my youth."
 
-**31:20** Moab has been put to shame, for he has been conquered. Wail and cry out; proclaim in Arnon that Moab has been laid waste,
+**31:20** Is Ephraim an honorable son to Me? Is he a cherished child? For from the time I spoke about him, I will still remember him. Therefore My inward parts have been stirred over him; showing mercy, I will have mercy on him, says the Lord.
 
-**31:21** and judgment has come to the land of the plain, upon Holon, and upon Jahaz, and upon Mephaath,
+**31:21** Set up a watchtower for yourself; place bitternesses for yourself; direct your heart to the straight path on which you walked; return, virgin Israel, return to these cities of yours.
 
-**31:22** and upon Dibon, and upon Nebo, and upon the house of Diblathaim,
+**31:22** How long will you be dissolved in luxuries, wandering daughter? For the Lord has created a new thing on the earth: a woman will surround a man.
 
-**31:23** and upon Kiriathaim, and upon Beth-gamul, and upon Beth-meon,
+**31:23** This is what the Lord of hosts, the God of Israel, says: "Once more they will speak this word in the land of Judah and in its cities, when I turn back their captivity: 'May the Lord bless you, beauty of righteousness, holy mountain.'
 
-**31:24** and upon Kerioth, and upon Bozrah, and upon all the cities of the land of Moab, those that are far and those that are near.
+**31:24** And Judah and all its cities together will dwell in it, farmers and those driving flocks.
 
-**31:25** "The horn of Moab has been cut off, and his arm has been shattered," says the Lord.
+**31:25** For I have saturated the weary soul, and I have satisfied every hungry soul."
 
-**31:26** Make him drunk, because he has raised himself up against the Lord; and Moab will strike his hand in his vomit, and he himself also will become an object of derision.
+**31:26** Therefore I was awakened as if from sleep, and I looked, and my sleep was sweet to me.
 
-**31:27** For Israel was an object of derision to you, as if you had found him among thieves; therefore, because of your words that you have spoken against him, you will be led away captive.
+**31:27** "Look, days are coming," says the Lord, "and I will sow the house of Israel and the house of Judah with the seed of humans and the seed of livestock.
 
-**31:28** Leave the cities and dwell in the rock, inhabitants of Moab, and be like a dove nesting at the top of the mouth of a cleft.
+**31:28** And just as I watched over them to uproot and tear down, to scatter, destroy, and afflict, so I will watch over them to build and to plant," says the Lord.
 
-**31:29** We have heard of the pride of Moab; he is exceedingly proud: his loftiness, and arrogance, and pride, and the haughtiness of his heart.
+**31:29** In those days they will no longer say, "The fathers ate a sour grape, and the teeth of the children have grown numb."
 
-**31:30** "I know," says the Lord, "his boasting, and that his strength is not in proportion to it, nor has it attempted to act according to what it was able.
+**31:30** Rather, each one will die in his own iniquity; every person who eats a sour grape, his teeth will grow numb.
 
-**31:31** Therefore I will wail over Moab, and to all Moab I will cry out, to the lamenting men of the clay wall;
+**31:31** "Look, days will come," says the Lord, "and I will make a new covenant with the house of Israel and with the house of Judah,
 
-**31:32** with the mourning of Jazer I will weep for you, vine of Sibmah. Your shoots have crossed the sea; they have reached as far as the sea of Jazer; upon your harvest and your vintage the plunderer has rushed.
+**31:32** not according to the covenant that I established with their fathers on the day I grasped their hand to lead them out of the land of Egypt, a covenant that they made void, and I ruled over them," says the Lord.
 
-**31:33** Gladness and exultation have been taken away from Carmel and from the land of Moab, and I have removed the wine from the winepresses; by no means will the treader of the grape sing the accustomed chant.
+**31:33** "Rather, this will be the covenant that I will make with the house of Israel after those days," says the Lord: "I will put My law in their inward parts, and I will write it on their heart, and I will be God to them, and they will be a people to Me;
 
-**31:34** From the outcry of Heshbon as far as Elealeh and Jahaz they have raised their voice; from Zoar as far as Horonaim, like a three-year-old heifer; the waters of Nimrim also will be very bad.
+**31:34** and a man will no longer teach his neighbor, nor a man his brother, saying, 'Know the Lord,' for they will all know Me, from the least of them to the greatest," says the Lord, "because I will be merciful toward their iniquity, and I will remember their sin no longer."
 
-**31:35** And I will remove from Moab," says the Lord, "the one who offers on the high places and who sacrifices to his gods.
+**31:35** This is what the Lord says, who gives the sun for the light of day, the order of the moon and the stars for the light of night; who stirs up the sea, and its waves roar; the Lord of hosts is His name:
 
-**31:36** Therefore My heart will resound like flutes for Moab, and My heart will give the sound of flutes for the men of the clay wall; because he did more than he could, therefore they have perished.
+**31:36** "If these laws fail before Me," says the Lord, "then the seed of Israel will also fail, so that it will not be a nation before Me for all days."
 
-**31:37** For every head will be baldness, and every beard will be shaved; on all hands there will be binding, and upon every back, sackcloth;
+**31:37** This is what the Lord says: "If the heavens above can be measured, and the foundations of the earth below can be searched out, then I too will cast off all the seed of Israel because of all that they have done," says the Lord.
 
-**31:38** upon all the rooftops of Moab and in its squares, all is mourning; for I have shattered Moab like a useless vessel," says the Lord.
+**31:38** "Look, days are coming," says the Lord, "and the city will be built for the Lord, from the tower of Hananel to the Corner Gate.
 
-**31:39** How has she been conquered, and they have wailed? How has Moab lowered his neck and been put to shame? And Moab will become an object of derision and an example to all those around him.
+**31:39** And the measuring line will go out further in front of it over the hill of Gareb, and will go around Goah,
 
-**31:40** This is what the Lord says: "Look, like an eagle he will fly and will spread out his wings against Moab.
-
-**31:41** Kerioth has been captured, and the strongholds have been seized; and the heart of the mighty men of Moab on that day will be like the heart of a woman in labor,
-
-**31:42** and Moab will cease to be a people, because he has boasted against the Lord.
-
-**31:43** Terror and pit and snare are upon you, inhabitant of Moab," says the Lord.
-
-**31:44** "Whoever flees from the face of terror will fall into the pit, and whoever climbs up out of the pit will be caught in the snare; for I will bring upon Moab the year of their visitation," says the Lord.
+**31:40** and the whole valley of dead bodies and of ashes, and the entire region of death as far as the brook Kidron, and as far as the corner of the eastern Horse Gate, a holy place of the Lord; it will not be uprooted and will not be destroyed again forever."
 
 ## Translator Notes
 
-- **31:2** — The Vulgate renders Hebrew Madmen (often taken as a Moabite town name) etymologically as silens conticesces ("in silence you will fall silent") and attaches contra Hesebon ("against Heshbon") to the opening clause.
-- **31:9** — The Vulgate translates Hebrew tsits as florem ("flower") and the following verb as florens ("blossoming"); the Hebrew is obscure and has also been understood as "wings ... fly away" or "salt."
-- **31:31** — Both here and in 31:36, the Vulgate translates the Moabite city name Kir-heres etymologically as muri fictilis ("of the clay wall").
-- **31:33** — The Vulgate reads Hebrew karmel ("orchard" or "fruitful field") as the proper name Carmel (de Carmelo).
-- **31:34** — The Vulgate translates Hebrew Eglath-shelishiyah (often taken as a place name) literally as the ablative phrase vitula conternante ("a three-year-old heifer").
+- **31:5** — The Vulgate reads "et donec tempus veniat, non vindemiabunt" ("and until the time comes, they will not gather the vintage"), reflecting the Levitical waiting period before harvesting new vineyards, whereas the Hebrew Masoretic Text reads "and they shall enjoy the fruit."
+- **31:7** — The Vulgate renders the Hebrew verb for shouting joyfully literally as "hinnite" ("neigh") and translates "contra caput gentium" as "against the head of the nations."
+- **31:15** — The Vulgate translates the Hebrew place name Ramah etymologically as "in excelso" ("on high").
+- **31:21** — The Vulgate renders the Hebrew terms for road markers and guideposts as "speculam" ("watchtower") and "amaritudines" ("bitternesses"), connecting the latter to the Hebrew root meaning "bitter."
+- **31:40** — The Vulgate reads "universam regionem mortis" ("the entire region of death"), interpreting the Hebrew word for fields or terraces ("shdemot") as a compound referring to death. Native Vulgate chapter 31 maps to Saints.Bible chapter 38 (where 38:35-37 follow the Septuagint sequence relative to native Vulgate 31:35-37).

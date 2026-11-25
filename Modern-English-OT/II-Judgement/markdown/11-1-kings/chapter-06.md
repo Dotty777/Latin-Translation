@@ -1,11 +1,11 @@
 # 1 Kings 6 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes, 5 additional)  
+> **Status:** `draft: true` (38 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**6:1** And the king commanded that they take great stones, costly stones for the foundation of the temple, and square them. Therefore it came about in the four hundred and eightieth year from the departure of the sons of Israel out of the land of Egypt, in the fourth year of the reign of Solomon over Israel, in the month of Ziv (that is the second month), that the house began to be built for the Lord. In the fourth year the house of the Lord was founded in the month of Ziv; and in the eleventh year, in the month of Bul (that is the eighth month), the house was completed in all its work and in all its utensils; and he built it in seven years.
+**6:1** Therefore it came about in the four hundred and eightieth year from the departure of the sons of Israel out of the land of Egypt, in the fourth year of the reign of Solomon over Israel, in the month of Ziv (that is the second month), that the house began to be built for the Lord.
 
 **6:2** Now the house that King Solomon was building for the Lord had sixty cubits in length, and twenty cubits in width, and thirty cubits in height.
 
@@ -25,11 +25,21 @@
 
 **6:10** And he built a story over the entire house, five cubits in height, and he overlaid the house with cedar wood.
 
+**6:11** And the word of the Lord came to Solomon, saying:
+
+**6:12** As for this house that you are building, if you walk in My precepts, and carry out My judgments, and keep all My commandments, walking by them, I will confirm My word to you, which I spoke to David your father:
+
+**6:13** and I will dwell in the midst of the sons of Israel, and I will not abandon My people Israel.
+
+**6:14** Therefore Solomon built the house and completed it.
+
 **6:15** And he built the walls of the house on the inside with cedar paneling; from the floor of the house up to the top of the walls, and up to the paneled ceilings, he overlaid them with cedar wood on the inside; and he covered the floor of the house with fir planks.
 
 **6:16** And he built cedar paneling of twenty cubits at the rear part of the temple, from the floor up to the upper parts; and he made the inner house of the oracle as the Holy of Holies.
 
 **6:17** Moreover, the temple itself before the doors of the oracle was forty cubits.
+
+**6:18** And the entire house was covered on the inside with cedar, having its skillfully crafted turned woodwork and joints, and raised carvings; everything was covered with cedar planks, and no stone at all could appear in the wall.
 
 **6:19** Now he had made the oracle in the middle of the house, in the interior part, so that he might place there the ark of the covenant of the Lord.
 
@@ -67,23 +77,16 @@
 
 **6:36** And he built the inner court with three courses of polished stones, and one course of cedar timbers.
 
-## Additional Verses (Not in Saints Numbering)
+**6:37** In the fourth year the house of the Lord was founded in the month of Ziv;
 
-**6:11** *(after `6:10`)* And the word of the Lord came to Solomon, saying:
-
-**6:12** *(after `6:10`)* As for this house that you are building, if you walk in My precepts, and carry out My judgments, and keep all My commandments, walking by them, I will confirm My word to you, which I spoke to David your father:
-
-**6:13** *(after `6:10`)* and I will dwell in the midst of the sons of Israel, and I will not abandon My people Israel.
-
-**6:14** *(after `6:10`)* Therefore Solomon built the house and completed it.
-
-**6:18** *(after `6:17`)* And the entire house was covered on the inside with cedar, having its skillfully crafted turned woodwork and joints, and raised carvings; everything was covered with cedar planks, and no stone at all could appear in the wall.
+**6:38** and in the eleventh year, in the month of Bul (that is the eighth month), the house was completed in all its work and in all its utensils; and he built it in seven years.
 
 ## Translator Notes
 
-- **6:1** — The Clementine Vulgate spells the second month 'Zio' (a manuscript variant of 'Ziu' for Hebrew 'Ziv'), agrees with the Hebrew Masoretic Text in reading the 'four hundred and eightieth' year (Septuagint: 'four hundred and fortieth'), and renders 'in universis utensilibus suis' ('in all its utensils') where the Hebrew reads 'in all its specifications.'
+- **6:1** — The Clementine Vulgate spells the second month 'Zio' (a manuscript variant of 'Ziu' for Hebrew 'Ziv') and agrees with the Hebrew Masoretic Text in reading the 'four hundred and eightieth' year (Septuagint: 'four hundred and fortieth'). Native 5:17 and 6:37-38 stand in their native slots (grouped at Saints.Bible 6:1).
 - **6:4** — Latin 'fenestras obliquas' ('oblique windows') interprets the debated Hebrew architectural phrase as splayed or slanted embrasure windows cut through the thick temple wall.
 - **6:5** — Throughout chapter 6, the Vulgate renders the inner sanctuary (Hebrew 'debir') as 'oraculum' ('oracle'), connecting it etymologically with the Hebrew root for speaking as the chamber of divine utterance.
 - **6:6** — The Vulgate reads 'trabes' ('beams') placed around the outside of the house, whereas the Hebrew Masoretic Text refers to stepped ledges or offsets cut into the outer temple wall.
+- **6:18** — The Clementine Vulgate describes the interior cedar ornaments in architectural terms (turned woodwork, crafted joints, and raised carvings) rather than the gourds and open flowers of the Masoretic Hebrew.
 - **6:21** — The Vulgate reads 'affixit laminas clavis aureis' ('fastened the plates with golden nails'), diverging from the Hebrew Masoretic Text, which speaks of drawing golden chains across in front of the inner sanctuary.
-- **6:18 *(additional)*** — The Clementine Vulgate describes the interior cedar ornaments in architectural terms (turned woodwork, crafted joints, and raised carvings) rather than the gourds and open flowers of the Masoretic Hebrew.
+- **6:38** — The Clementine Vulgate renders 'in universis utensilibus suis' ('in all its utensils') where the Hebrew reads 'in all its specifications.'

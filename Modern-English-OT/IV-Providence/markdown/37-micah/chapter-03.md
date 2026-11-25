@@ -32,5 +32,5 @@
 ## Translator Notes
 
 - **3:1** — The Clementine Vulgate reads singular princeps Jacob ("ruler of Jacob") alongside plural duces ("leaders"), whereas 3:9 and 3:11 use plural principes.
-- **3:7** — The Vulgate reads vultos suos ("their faces," a variant plural form of vultus) where the Hebrew specifies covering the mustache or upper lip.
+- **3:7** — The adopted Latin text reads vultus suos ("their faces"; apparatus witnesses read the variant plural vultos), where the Hebrew specifies covering the mustache or upper lip.
 - **3:11** — The Vulgate places the verbs in the past imperfect (judicabant, docebant, divinabant, requiescebant, "rested") where the Hebrew uses imperfective/present forms and "leaned."

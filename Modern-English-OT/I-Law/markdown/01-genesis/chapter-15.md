@@ -15,7 +15,7 @@
 
 **15:5** And He led him outside and said to him, "Look up at heaven and count the stars, if you can." And He said to him, "So will your seed be."
 
-**15:6** He believed the Lord, and it was credited to him as righteousness.
+**15:6** Abram believed God, and it was credited to him as righteousness.
 
 **15:7** And He said to him, "I am the Lord who led you out of Ur of the Chaldeans, so that I might give you this land and you might possess it."
 
@@ -39,7 +39,7 @@
 
 **15:17** So when the sun had gone down, a dark gloom came about, and a smoking furnace appeared, and a torch of fire passing between those divided parts.
 
-**15:18** On that day the Lord made a covenant with Abram, saying, "To your seed I will give this land, from the river of Egypt as far as the great river, the river Euphrates,
+**15:18** On that day the Lord made a covenant with Abram, saying, "To your seed I will give this land, from the river of Egypt as far as the great river Euphrates,
 
 **15:19** the Kenites, and the Kenizzites, and the Kadmonites,
 
@@ -52,4 +52,4 @@
 - **15:1** — The Vulgate renders the Hebrew metaphor "shield" as "protector" (Latin protector), echoing "under whose protection" in 14:20.
 - **15:2** — The Vulgate resolves a difficult Hebrew phrase as "the son of the steward of my house is this Damascus Eliezer" (Latin filius procuratoris domus meae iste Damascus Eliezer).
 - **15:4** — Latin de utero tuo literally means "from your belly" or "from your womb," used here in its broader anatomical sense for Abram's own body as the source of his natural heir.
-- **15:6** — Following the passive construction also found in the Septuagint and Romans 4:3, the Latin reads passive "it was credited to him" (deputatum est ei) rather than the Hebrew active "He reckoned it to him."
+- **15:6** — Following the passive construction also found in the Septuagint and Romans 4:3, the Latin reads passive "it was credited to him" (reputatum est illi) rather than the Hebrew active "He reckoned it to him."

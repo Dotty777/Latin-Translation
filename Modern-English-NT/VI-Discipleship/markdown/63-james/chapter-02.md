@@ -1,6 +1,6 @@
 # James 2 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 4 translator notes)  
+> **Status:** `draft: true` (26 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`James`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,6 +59,7 @@
 
 ## Translator Notes
 
+- **2:1** — Latin 'fidem Domini nostri Jesu Christi' literally reads 'the faith of our Lord Jesus Christ' (often understood objectively as 'faith in our Lord Jesus Christ').
 - **2:4** — The Vulgate translates Greek diekrithete ('made distinctions') with judicatis ('pass judgment'), creating a wordplay with judices ('judges').
 - **2:15** — The Clementine Vulgate reads frater et soror ('a brother and a sister'), whereas the Greek reads 'a brother or a sister.'
 - **2:18** — The extent of the speaker's quotation is debated and may continue to the end of the verse. The Vulgate's sine operibus ('without works') agrees with the critical Greek text, whereas the Byzantine Greek tradition reads 'by your works.'

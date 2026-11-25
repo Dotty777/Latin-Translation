@@ -1,6 +1,6 @@
 # Numbers 15 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 4 translator notes)  
+> **Status:** `draft: true` (41 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -11,7 +11,13 @@
 
 **15:3** and have made an offering to the Lord as a burnt offering or a sacrifice, paying vows, or willingly offering gifts, or in your solemn feasts burning a fragrance of sweetness to the Lord, from the oxen or from the sheep,
 
-**15:4** whoever slaughters a sacrificial victim shall offer a sacrifice of fine flour, a tenth part of an ephah, mixed with oil that shall have the measure of a fourth part of a hin; and he shall give wine for pouring drink offerings of the same measure for a burnt offering or for a sacrifice. For individual lambs and rams there shall be a sacrifice of two tenths of fine flour, which shall be mixed with oil of a third part of a hin; and he shall offer wine for a drink offering of a third part of the same measure for a fragrance of sweetness to the Lord.
+**15:4** whoever slaughters a sacrificial victim shall offer a sacrifice of fine flour, a tenth part of an ephah, mixed with oil that shall have the measure of a fourth part of a hin;
+
+**15:5** and he shall give wine for pouring drink offerings of the same measure for a burnt offering or for a sacrifice. For individual lambs
+
+**15:6** and rams there shall be a sacrifice of two tenths of fine flour, which shall be mixed with oil of a third part of a hin;
+
+**15:7** and he shall offer wine for a drink offering of a third part of the same measure for a fragrance of sweetness to the Lord.
 
 **15:8** But when you make a burnt offering or a sacrifice from the oxen, to fulfill a vow or peace offerings,
 
@@ -19,7 +25,21 @@
 
 **15:10** and wine for pouring drink offerings of the same measure, for an offering of the sweetest fragrance to the Lord.
 
-**15:11** So you shall do for each ox and ram and lamb and young goat. Both the native-born and foreigners shall offer sacrifices by the same rite. There shall be one precept and judgment both for you and for the strangers of the land.'" The Lord spoke to Moses, saying, "Speak to the sons of Israel, and you shall say to them, 'When you come into the land that I will give to you,
+**15:11** So you shall do
+
+**15:12** for each ox and ram and lamb and young goat.
+
+**15:13** Both the native-born and foreigners
+
+**15:14** shall offer sacrifices by the same rite.
+
+**15:15** There shall be one precept and judgment both for you and for the strangers of the land.'"
+
+**15:16** The Lord spoke to Moses, saying,
+
+**15:17** "Speak to the sons of Israel, and you shall say to them,
+
+**15:18** 'When you come into the land that I will give to you,
 
 **15:19** and eat from the breads of that region, you shall set apart firstfruits to the Lord
 
@@ -69,7 +89,8 @@
 
 ## Translator Notes
 
-- **15:4** — The Clementine Vulgate attaches "For individual lambs" (Per agnos singulos) to "and rams" (et arietes) under the two-tenths flour and third-of-a-hin measure, whereas the Hebrew Masoretic Text closes the preceding one-tenth/fourth-of-a-hin measure with "for each lamb."
+- **15:5** — The Clementine Vulgate attaches "For individual lambs" (Per agnos singulos, closing 15:5) to "and rams" (et arietes, opening 15:6) under the two-tenths flour and third-of-a-hin measure, whereas the Hebrew Masoretic Text closes the preceding one-tenth/fourth-of-a-hin measure with "for each lamb."
+- **15:11** — Native Vulgate Numbers 15:11-18 divide the clauses previously merged into 15:11 under the Greek-slotted anchor (native 15:11 'Sic facies', 15:12 'per singulos boves...', 15:13-18 continuing the law of offerings).
 - **15:20** — Latin de cibis vestris ("from your foods") here and de pulmentis ("from the cooked dishes") in 15:21 are distinctly Vulgate renderings of the rare Hebrew term usually understood as coarse meal or dough.
 - **15:25** — Latin incensum ("incense") here renders the Hebrew term for a fire-offering, and the Vulgate adds pro se ("for themselves") alongside "for their sin and error."
 - **15:30** — Latin per superbiam ("through pride") renders the Hebrew idiom "with a high hand" (meaning defiant, deliberate sin), and rebellis fuit ("has been rebellious") stands where the Hebrew reads "blasphemes."

@@ -1,6 +1,6 @@
 # Nehemiah 3 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (31 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Nehemiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -16,6 +16,8 @@
 **3:5** And next to them the Tekoites built; however, their nobles did not submit their necks in the work of their Lord.
 
 **3:6** And Joiada son of Paseah and Meshullam son of Besodeiah built the Old Gate; they covered it, and set up its doors, and bolts, and bars.
+
+**3:7** And beside them, Melatiah the Gibeonite and Jadon the Meronothite, men of Gibeon and Mizpah, built for the governor who was in the region beyond the river.
 
 **3:8** And next to him Uzziel son of Harhaiah, a goldsmith, built; and next to him Hananiah, the son of a perfumer, built; and they left Jerusalem as far as the wall of the broader street.
 
@@ -63,21 +65,7 @@
 
 **3:30** After him Hananiah son of Shelemiah and Hanun, the sixth son of Zalaph, built a second measure; after him Meshullam son of Berechiah built opposite his own treasury. After him Malchijah, the son of a goldsmith, built as far as the house of the Nethinim and of those selling small wares, opposite the Judicial Gate, and as far as the upper room of the corner.
 
-**3:32** And between the upper room of the corner and the Flock Gate, the goldsmiths and the merchants built.
-
-**3:33** Now it happened, when Sanballat had heard that we were building the wall, that he became very angry; and greatly agitated, he mocked the Jews,
-
-**3:34** and he said before his brothers and the throng of the Samaritans, "What are the feeble Jews doing? Will the nations let them alone? Will they sacrifice, and finish in one day? Will they be able to build the stones from the heaps of dust, which have been burned?"
-
-**3:35** Moreover, Tobiah the Ammonite, who was next to him, said, "Let them build! If a fox climbs up, it will leap over their stone wall."
-
-**3:36** Hear, our God, for we have become an object of contempt; turn back the reproach upon their head, and give them over to contempt in a land of captivity.
-
-**3:37** Do not cover their iniquity, and let not their sin be blotted out before Your face, because they have derided the builders.
-
-## Additional Verses (Not in Saints Numbering)
-
-**3:7** *(after `3:6`)* And beside them, Melatiah the Gibeonite and Jadon the Meronothite, men of Gibeon and Mizpah, built for the governor who was in the region beyond the river.
+**3:31** And between the upper room of the corner and the Flock Gate, the goldsmiths and the merchants built.
 
 ## Translator Notes
 
@@ -85,4 +73,3 @@
 - **3:5** — "Of their Lord" translates the Vulgate's singular Domini sui (referring to God), where the Hebrew Masoretic Text has plural "their lords" (understood either as their supervisors or as an honorific plural for God).
 - **3:8** — "They left Jerusalem as far as the wall of the broader street" translates the Vulgate's dimiserunt ... murum plateae latioris, whereas the Hebrew is often understood as "they restored Jerusalem as far as the Broad Wall."
 - **3:15** — "Pool of Siloam" translates the Vulgate's piscinae Siloe, identifying the Hebrew Pool of Shelah with the Siloam pool of John 9:7. Other notable Vulgate readings in this section include "half of the district" in 3:11 (Hebrew "a second section"), "the strongest corner" in 3:19 (Hebrew "the armory at the angle"), "on the mountain" in 3:20 (Hebrew "zealously"), "of the Jordan" in 3:22, and "the wall of the temple" in 3:27 (Hebrew "the wall of Ophel").
-- **3:34** — In 3:34-36 the Vulgate preserves several distinctive readings: "Will the nations let them alone?" (Hebrew "Will they restore it for themselves?"), "build the stones" (Hebrew "revive the stones"), "it will leap over" (transiliet in 3:35, Hebrew "break down"), and "to contempt" (in despectionem in 3:36, Hebrew "to plunder").

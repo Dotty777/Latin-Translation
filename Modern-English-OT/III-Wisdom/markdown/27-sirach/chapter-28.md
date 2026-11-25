@@ -1,6 +1,6 @@
 # Sirach 28 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes)  
+> **Status:** `draft: true` (30 verses, 9 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -17,50 +17,62 @@
 
 **28:6** Remember the last things, and cease being hostile.
 
-**28:7** Be mindful of the fear of God, and do not be angry with your neighbor.
+**28:7** For decay and death are imminent in His commandments.
 
-**28:8** Keep yourself from strife, and you will lessen sins.
+**28:8** Be mindful of the fear of God, and do not be angry with your neighbor.
 
-**28:9** For a hot-tempered man kindles strife, and a sinful man will trouble friends, and in the midst of those who have peace he will cast enmity.
+**28:9** Be mindful of the covenant of the Most High, and overlook the ignorance of a neighbor.
 
-**28:10** For according to the wood of the forest, so a fire blazes up; and according to a man's strength, so his wrath will be; and according to his wealth, he will heighten his anger.
+**28:10** Keep yourself from strife, and you will lessen sins.
 
-**28:11** A hurried contention kindles a fire, and hasty strife sheds blood, and a testifying tongue brings death.
+**28:11** For a hot-tempered man kindles strife, and a sinful man will trouble friends, and in the midst of those who have peace he will cast enmity.
 
-**28:12** If you blow on a spark, it will blaze up like a fire; and if you spit on it, it will be extinguished: both come out of the mouth.
+**28:12** For according to the wood of the forest, so a fire blazes up; and according to a man's strength, so his wrath will be; and according to his wealth, he will heighten his anger.
 
-**28:13** Cursed is the whisperer and the double-tongued, for he will trouble many who have peace.
+**28:13** A hurried contention kindles a fire, and hasty strife sheds blood, and a testifying tongue brings death.
 
-**28:14** A third tongue has shaken many and scattered them from nation to nation.
+**28:14** If you blow on a spark, it will blaze up like a fire; and if you spit on it, it will be extinguished: both come out of the mouth.
 
-**28:15** A third tongue has driven out courageous women and deprived them of their labors.
+**28:15** Cursed is the whisperer and the double-tongued, for he will trouble many who have peace.
 
-**28:16** Whoever pays attention to it will not have rest, nor will he have a friend in whom he may rest.
+**28:16** A third tongue has shaken many and scattered them from nation to nation.
 
-**28:17** The blow of a whip makes a bruise, but the blow of the tongue will shatter bones.
+**28:17** It has destroyed the walled cities of the rich and undermined the houses of great men.
 
-**28:18** Many have fallen by the edge of the sword, yet not as many as those who have perished through their own tongue.
+**28:18** It has cut down the forces of peoples and broken up strong nations.
 
-**28:19** Blessed is the one who is sheltered from a wicked tongue, who has not passed into its wrath, and who has not dragged its yoke, and has not been bound in its chains.
+**28:19** A third tongue has driven out courageous women and deprived them of their labors.
 
-**28:20** For its yoke is an iron yoke, and its chain is a bronze chain.
+**28:20** Whoever pays attention to it will not have rest, nor will he have a friend in whom he may rest.
 
-**28:21** Its death is a most wicked death, and the underworld is more advantageous than it.
+**28:21** The blow of a whip makes a bruise, but the blow of the tongue will shatter bones.
 
-**28:22** Its persistence will not endure, but it will hold the ways of the unrighteous, and in its flame it will not burn the righteous.
+**28:22** Many have fallen by the edge of the sword, yet not as many as those who have perished through their own tongue.
 
-**28:23** Those who abandon God will fall into it, and it will blaze up in them and will not be extinguished; and it will be sent against them like a lion, and like a leopard it will injure them.
+**28:23** Blessed is the one who is sheltered from a wicked tongue, who has not passed into its wrath, and who has not dragged its yoke, and has not been bound in its chains.
 
-**28:24** Hedge your ears with thorns; do not listen to a wicked tongue; and make doors and bars for your mouth.
+**28:24** For its yoke is an iron yoke, and its chain is a bronze chain.
 
-**28:25** Melt down your gold and your silver, and make a balance for your words and proper bridles for your mouth.
+**28:25** Its death is a most wicked death, and the underworld is more advantageous than it.
 
-**28:26** And watch out so that you do not by chance slip with your tongue and fall in the sight of enemies lying in wait for you, and so that your fall does not become incurable to death.
+**28:26** Its persistence will not endure, but it will hold the ways of the unrighteous, and in its flame it will not burn the righteous.
+
+**28:27** Those who abandon God will fall into it, and it will blaze up in them and will not be extinguished; and it will be sent against them like a lion, and like a leopard it will injure them.
+
+**28:28** Hedge your ears with thorns; do not listen to a wicked tongue; and make doors and bars for your mouth.
+
+**28:29** Melt down your gold and your silver, and make a balance for your words and proper bridles for your mouth.
+
+**28:30** And watch out so that you do not by chance slip with your tongue and fall in the sight of enemies lying in wait for you, and so that your fall does not become incurable to death.
 
 ## Translator Notes
 
 - **28:1** — Latin servans servabit (lit. "keeping, He will keep") is a Hebraizing intensive construction indicating that the Lord will strictly retain his sins in account.
-- **28:6** — This Latin text lacks the second half of Greek v. 6 ("remember corruption and death, and abide in the commandments"), and in v. 7 reads timorem Dei ("the fear of God") without the Greek second clause on the covenant of the Most High.
-- **28:14** — "A third tongue" (lingua tertia, also in v. 15) is an idiom for a slanderous or meddling tongue intervening as a third party between others. This Latin text also lacks the Greek closing clauses about pulling down strong cities and overturning the houses of great men.
-- **28:22** — The Vulgate reads Perseverantia illius non permanebit, sed obtinebit vias injustorum ("Its persistence will not endure, but it will hold the ways of the unrighteous"), whereas the Greek Septuagint reads "It will not have power over the godly."
-- **28:24** — The Vulgate reads aures tuas ("your ears," vs. Greek "your property"), adds "do not listen to a wicked tongue," and places "doors and bars" here rather than in v. 25, where the Vulgate instead reads confla ("melt down") and frenos ori tuo rectos ("proper bridles for your mouth").
+- **28:6** — Native Vulgate divides Greek 28:6 across 28:6 and restored 28:7 ("For decay and death are imminent in His commandments"), and divides Greek 28:7 across 28:8 (timorem Dei) and restored 28:9 (testamentum Altissimi).
+- **28:7** — Restored native Clementine Vulgate verse 28:7 (parallel to Saints/Greek 28:6b; previously claimed absent in the note on 28:6). Latin 'imminent in mandatis ejus' reflects the Vulgate's distinct intransitive syntax ("are imminent / loom in His commandments") where Greek has an imperative to abide in the commandments.
+- **28:9** — Restored native Clementine Vulgate verse 28:9 (parallel to Saints/Greek 28:7b; previously claimed absent in the note on 28:6).
+- **28:16** — "A third tongue" (lingua tertia, also in native Vulgate 28:19 / Saints 28:15) is an idiom for a slanderous or meddling tongue intervening as a third party between others. The clauses on destroying walled cities and undermining the houses of great men now stand in restored native Vulgate 28:17-18.
+- **28:17** — Restored native Clementine Vulgate verse 28:17 (parallel to Saints/Greek 28:14b; previously claimed absent in the note on old 28:14).
+- **28:18** — Restored native Clementine Vulgate verse 28:18 (Vulgate expansion continuing 28:17).
+- **28:26** — The Vulgate reads Perseverantia illius non permanebit, sed obtinebit vias injustorum ("Its persistence will not endure, but it will hold the ways of the unrighteous"), whereas the Greek Septuagint reads "It will not have power over the godly."
+- **28:28** — The Vulgate reads aures tuas ("your ears," vs. Greek "your property"), adds "do not listen to a wicked tongue," and places "doors and bars" here (native 28:28 = Saints 28:24) rather than in native 28:29 (Saints 28:25), where the Vulgate instead reads confla ("melt down") and frenos ori tuo rectos ("proper bridles for your mouth").

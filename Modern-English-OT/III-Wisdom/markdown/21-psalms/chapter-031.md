@@ -1,6 +1,6 @@
 # Psalms 31 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (11 verses, 4 translator notes)  
+> **Status:** `draft: true` (11 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -32,4 +32,5 @@
 - **31:1** — The Vulgate superscription Ipsi David intellectus reflects the Septuagint ("For David, of understanding"), corresponding to the Hebrew term maskil (a contemplative or instructive psalm); Vulgate Psalm 31 corresponds to Psalm 32 in Hebrew numbering.
 - **31:4** — Following the Septuagint, the Vulgate reads conversus sum in aerumna mea, dum configitur spina ("I was turned in my misery while a thorn is driven in"), whereas the Hebrew reads "my vitality was turned into the droughts of summer."
 - **31:5** — Following the Septuagint, the Vulgate reads adversum me injustitiam meam ("my unrighteousness against myself"), where the Hebrew has "my transgressions."
+- **31:8** — Editorial policy review: "My eyes" (Latin "oculos meos") is capitalized on the traditional reading that the Lord speaks in v. 8; some readers take the psalmist himself as speaker (lowercase "my eyes"), especially before the direct address to God in v. 9 ("ad te").
 - **31:9** — The Vulgate renders the second sentence with the imperative constringe ... ad te, traditionally read as a prayer to God to curb stubborn people who refuse to come near to Him, whereas the Hebrew describes curbing a horse or mule so it stays near its handler.

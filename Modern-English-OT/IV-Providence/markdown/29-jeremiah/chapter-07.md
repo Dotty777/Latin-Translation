@@ -1,9 +1,11 @@
 # Jeremiah 7 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (33 verses, 5 translator notes)  
+> **Status:** `draft: true` (34 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
+
+**7:1** The word that came to Jeremiah from the Lord, saying:
 
 **7:2** Stand in the gate of the house of the Lord, and proclaim this word there, and say, "Hear the word of the Lord, all Judah, you who enter through these gates to worship the Lord.
 

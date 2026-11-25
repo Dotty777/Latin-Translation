@@ -1,7 +1,7 @@
 # Judges — Saints Modern English OT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Division: **II. Judgement (Historical Books & Job)**  
-> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; Saints.Bible versification).  
+> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; native Sixto-Clementine Vulgate versification).  
 > **Structured JSON:** [`07-judges.json`](../../json/07-judges.json) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Chapters
@@ -10,7 +10,7 @@
 - [Chapter 2](chapter-02.md) — 23 verses, 5 notes
 - [Chapter 3](chapter-03.md) — 31 verses, 5 notes
 - [Chapter 4](chapter-04.md) — 24 verses, 4 notes
-- [Chapter 5](chapter-05.md) — 31 verses, 5 notes, +1 additional
+- [Chapter 5](chapter-05.md) — 32 verses, 5 notes
 - [Chapter 6](chapter-06.md) — 40 verses, 5 notes
 - [Chapter 7](chapter-07.md) — 25 verses, 5 notes
 - [Chapter 8](chapter-08.md) — 35 verses, 5 notes
@@ -26,4 +26,4 @@
 - [Chapter 18](chapter-18.md) — 31 verses, 5 notes
 - [Chapter 19](chapter-19.md) — 30 verses, 5 notes
 - [Chapter 20](chapter-20.md) — 48 verses, 5 notes
-- [Chapter 21](chapter-21.md) — 24 verses, 4 notes
+- [Chapter 21](chapter-21.md) — 24 verses, 5 notes

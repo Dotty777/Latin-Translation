@@ -1,9 +1,11 @@
 # 1 Samuel 13 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (22 verses, 5 translator notes)  
+> **Status:** `draft: true` (23 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
+
+**13:1** Saul was a son of one year when he began to reign, and he reigned over Israel for two years.
 
 **13:2** And Saul chose for himself three thousand from Israel; and two thousand were with Saul in Michmash and in the mountain of Bethel, while one thousand were with Jonathan in Gibeah of Benjamin; and as for the rest of the people, he sent them away, each one to his tents.
 
@@ -51,6 +53,7 @@
 
 ## Translator Notes
 
+- **13:1** — The Vulgate renders a difficult Hebrew idiom literally as "a son of one year," often explained as a missing numeral or the start of Saul's kingship.
 - **13:3** — The Vulgate uses 'Gabaa' consistently throughout this chapter (13:2, 3, 15, 16), whereas the Hebrew text alternates between Gibeah (13:2, 15) and Geba (13:3, 16).
 - **13:4** — The Vulgate reads 'erexit se Israel adversus Philisthiim' ('Israel has risen up against the Philistines') and active 'Clamavit' ('cried out'), whereas the Hebrew has 'Israel had become odious to the Philistines' and 'the people were called out.'
 - **13:15** — The middle sentence ('And the rest of the people went up after Saul... on the hill of Benjamin') is a distinctly Vulgate reading shared with the Septuagint tradition but absent from the Hebrew Masoretic Text.

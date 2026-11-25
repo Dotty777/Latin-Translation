@@ -1,8 +1,8 @@
 # 1 Chronicles 02 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:21Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -104,14 +95,14 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### 1 Chronicles 2:3
-- **Apparatus:** `Sue Chananitide.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Suae Chananitidis.** VulgSistina (1590)
-- **Apparatus:** `Chananitide.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Chananitidis** VulgSistina (1590)
+- **Apparatus:** `Sue Chananitide.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Suae Chananitidis.** VulgSistina (1590)
+- **Apparatus:** `Chananitide.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Chananitidis** VulgSistina (1590)
 
 ### 1 Chronicles 2:6
-- **Apparatus:** `Dara,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Darda** VulgSistina (1590)
+- **Apparatus:** `Dara,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Darda** VulgSistina (1590)
 
 ### 1 Chronicles 2:13
-- **Apparatus:** `Abinadab,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Aminadab,** VulgSistina (1590)
+- **Apparatus:** `Abinadab,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Aminadab,** VulgSistina (1590)
 
 ---
 
@@ -124,7 +115,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii autem Israel: Ruben, Simeon, Levi, Iuda, Issachar, et Zabulon,
   - `VulgConte (2009)`: Filii autem Israel: Ruben, Simeon, Levi, Iuda, Issachar, et Zabulon,
   - `VulgSistina (1590)`: Filii autem Israel: Ruben, Simeon, Levi, Iuda, Issachar, et Zabulon,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dan, Joseph, Benjamin, Nephthali, Gad, et Aser.
@@ -133,7 +124,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dan, Ioseph, Beniamin, Nephthali, Gad et Aser.
   - `VulgConte (2009)`: Dan, Ioseph, Beniamin, Nephthali, Gad et Aser.
   - `VulgSistina (1590)`: Dan, Ioseph, Beniamin, Nephthali, Gad et Aser.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii Juda: Her, Onan, et Sela: hi tres nati sunt ei de filia Sue Chananitide. Fuit autem Her primogenitus Juda malus coram Domino, et occidit eum.
@@ -142,7 +133,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Iuda: Her, Onan, et Sela. hi tres nati sunt ei de filia Sue Chananitide. Fuit autem Her primogenitus Iuda, malus coram Domino, et occidit eum.
   - `VulgConte (2009)`: Filii Iuda: Her, Onan, et Sela. Hi tres nati sunt ei de filia Sue Chananitide. Fuit autem Her primogenitus Iuda, malus coram Domino, et occidit eum.
   - `VulgSistina (1590)`: Filii Iuda: Her, Onan, et Sela. hi tres nati sunt ei de filia Suae Chananitidis. Fuit autem Her primogenitus Iuda, malus coram Domino, et occidit eum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Thamar autem nurus ejus peperit ei Phares et Zara: omnes ergo filii Juda, quinque.
@@ -151,7 +142,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Thamar autem nurus eius peperit ei Phares et Zara. omnes ergo filii Iuda, quinque.
   - `VulgConte (2009)`: Thamar autem nurus eius peperit ei Phares et Zara. Omnes ergo filii Iuda, quinque.
   - `VulgSistina (1590)`: Thamar autem nurus eius peperit ei Phares et Zara. omnes ergo filii Iuda, quinque.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii autem Phares: Hesron et Hamul.
@@ -160,7 +151,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii autem Phares: Hesron et Hamul.
   - `VulgConte (2009)`: Filii autem Phares: Hesron et Hamul.
   - `VulgSistina (1590)`: Filii autem Phares: Hesron et Hamul.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii quoque Zaræ: Zamri, et Ethan, et Eman, Chalchal quoque, et Dara, simul quinque.
@@ -169,7 +160,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii quoque Zaræ: Zamri, et Ethan, et Eman, Chalchal quoque, et Dara, simul quinque.
   - `VulgConte (2009)`: Filii quoque Zaræ: Zamri, et Ethan, et Eman, Chalchal quoque, et Dara, simul quinque.
   - `VulgSistina (1590)`: Filii quoque Zarae: Zamri, et Ethan, et Eman, Chalchal quoque, et Darda, simul quinque.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii Charmi: Achar, qui turbavit Israël, et peccavit in furto anathematis.
@@ -178,7 +169,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Charmi: Achar, qui turbavit Israel, et peccavit in furto anathematis.
   - `VulgConte (2009)`: Filii Charmi: Achar, qui turbavit Israel, et peccavit in furto anathematis.
   - `VulgSistina (1590)`: Filii Charmi: Achar, qui turbavit Israel, et peccavit in furto anathematis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii Ethan: Azarias.
@@ -187,7 +178,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Ethan: Azarias.
   - `VulgConte (2009)`: Filii Ethan: Azarias.
   - `VulgSistina (1590)`: Filii Ethan: Azarias.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii autem Hesron qui nati sunt ei: Jerameel, et Ram, et Calubi.
@@ -196,7 +187,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii autem Hesron qui nati sunt ei: Ierameel, et Ram, et Calubi.
   - `VulgConte (2009)`: Filii autem Hesron qui nati sunt ei: Ierameel, et Ram, et Calubi.
   - `VulgSistina (1590)`: Filii autem Hesron qui nati sunt ei: Ierameel, et Ram, et Calubi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Porro Ram genuit Aminadab. Aminadab autem genuit Nahasson, principem filiorum Juda.
@@ -205,7 +196,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Porro Ram genuit Aminadab. Aminadab autem genuit Nahasson, principem filiorum Iuda.
   - `VulgConte (2009)`: Porro Ram genuit Aminadab. Aminadab autem genuit Nahasson, principem filiorum Iuda.
   - `VulgSistina (1590)`: Porro Ram genuit Aminadab. Aminadab autem genuit Nahasson, principem filiorum Iuda.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nahasson quoque genuit Salma, de quo ortus est Booz.
@@ -214,7 +205,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nahasson quoque genuit Salma, de quo ortus est Booz.
   - `VulgConte (2009)`: Nahasson quoque genuit Salma, de quo ortus est Booz.
   - `VulgSistina (1590)`: Nahasson quoque genuit Salma, de quo ortus est Booz.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Booz vero genuit Obed, qui et ipse genuit Isai.
@@ -223,7 +214,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Booz vero genuit Obed, qui et ipse genuit Isai.
   - `VulgConte (2009)`: Booz vero genuit Obed, qui et ipse genuit Isai.
   - `VulgSistina (1590)`: Booz vero genuit Obed, qui et ipse genuit Isai.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Isai autem genuit primogenitum Eliab, secundum Abinadab, tertium Simmaa,
@@ -232,7 +223,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Isai autem genuit primogenitum Eliab, secundum Abinadab, tertium Simmaa,
   - `VulgConte (2009)`: Isai autem genuit primogenitum Eliab, secundum Abinadab, tertium Simmaa,
   - `VulgSistina (1590)`: Isai autem genuit primogenitum Eliab, secundum Aminadab, tertium Simmaa,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quartum Nathanaël, quintum Raddai,
@@ -241,7 +232,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: quartum Nathanael, quintum Raddai,
   - `VulgConte (2009)`: quartum Nathanael, quintum Raddai,
   - `VulgSistina (1590)`: quartum Nathanael, quintum Raddai,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** sextum Asom, septimum David.
@@ -250,7 +241,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: sextum Asom, septimum David.
   - `VulgConte (2009)`: sextum Asom, septimum David.
   - `VulgSistina (1590)`: sextum Asom, septimum David.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quorum sorores fuerunt Sarvia et Abigail. Filii Sarviæ: Abisai, Joab, et Asaël, tres.
@@ -259,7 +250,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: quorum sorores fuerunt Sarvia, et Abigail. Filii Sarviæ: Abisai, Ioab, et Asael, tres.
   - `VulgConte (2009)`: Quorum sorores fuerunt Sarvia, et Abigail. Filii Sarviæ: Abisai, Ioab, et Asael, tres.
   - `VulgSistina (1590)`: quorum sorores fuerunt Sarvia, et Abigail. Filii Sarviae: Abisai, Ioab, et Asael, tres.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Abigail autem genuit Amasa, cujus pater fuit Jether Ismahelites.
@@ -268,7 +259,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Abigail autem genuit Amasa, cuius pater fuit Iether Ismahelites.
   - `VulgConte (2009)`: Abigail autem genuit Amasa, cuius pater fuit Iether Ismahelites.
   - `VulgSistina (1590)`: Abigail autem genuit Amasa, cuius pater fuit Iether Ismahelites.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Caleb vero filius Hesron accepit uxorem nomine Azuba, de qua genuit Jerioth: fueruntque filii ejus Jaser, et Sobab, et Ardon.
@@ -277,7 +268,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Caleb vero filius Hesron accepit uxorem nomine Azuba, de qua genuit Ierioth: fueruntque filii eius Iaser, et Sobab, et Ardon.
   - `VulgConte (2009)`: Caleb vero filius Hesron accepit uxorem nomine Azuba, de qua genuit Ierioth: fueruntque filii eius Iaser, et Sobab, et Ardon.
   - `VulgSistina (1590)`: Caleb vero filius Hesron accepit uxorem nomine Azuba, de qua genuit Ierioth: fueruntque filii eius Iaser, et Sobab, et Ardon.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque mortua fuisset Azuba, accepit uxorem Caleb Ephratha, quæ peperit ei Hur.
@@ -286,7 +277,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque mortua fuisset Azuba, accepit uxorem Caleb, Ephratha: quæ peperit ei Hur.
   - `VulgConte (2009)`: Cumque mortua fuisset Azuba, accepit uxorem Caleb, Ephratha: quæ peperit ei Hur.
   - `VulgSistina (1590)`: Cumque mortua fuisset Azuba, accepit uxorem Caleb, Ephratha: quae peperit ei Hur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Porro Hur genuit Uri, et Uri genuit Bezeleel.
@@ -295,7 +286,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Porro Hur genuit Uri: et Uri genuit Bezeleel.
   - `VulgConte (2009)`: Porro Hur genuit Uri: et Uri genuit Bezeleel.
   - `VulgSistina (1590)`: Porro Hur genuit Uri: et Uri genuit Bezeleel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Post hæc ingressus est Hesron ad filiam Machir patris Galaad, et accepit eam cum esset annorum sexaginta: quæ peperit ei Segub.
@@ -304,7 +295,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Post hæc ingressus est Hesron ad filiam Machir patris Galaad, et accepit eam cum esset annorum sexaginta: quæ peperit ei Segub.
   - `VulgConte (2009)`: Post hæc ingressus est Hesron ad filiam Machir patris Galaad, et accepit eam cum esset annorum sexaginta: quæ peperit ei Segub.
   - `VulgSistina (1590)`: Post haec ingressus est Hesron ad filiam Machir patris Galaad, et accepit eam cum esset annorum sexaginta: quae peperit ei Segub.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sed et Segub genuit Jair, et possedit viginti tres civitates in terra Galaad.
@@ -313,7 +304,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sed et Segub genuit Iair, et possedit viginti tres civitates in Terra Galaad.
   - `VulgConte (2009)`: Sed et Segub genuit Iair, et possedit viginti tres civitates in Terra Galaad.
   - `VulgSistina (1590)`: Sed et Segub genuit Iair, et possedit viginti tres civitates in Terra Galaad.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cepitque Gessur et Aram oppida Jair, et Canath, et viculos ejus sexaginta civitatum: omnes isti filii Machir patris Galaad.
@@ -322,7 +313,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cepitque Gessur, et Aram oppida Iair, et Canath, et viculos eius sexaginta civitatum. omnes isti, filii Machir patris Galaad.
   - `VulgConte (2009)`: Cepitque Gessur, et Aram oppida Iair, et Canath, et viculos eius sexaginta civitatum. Omnes isti, filii Machir patris Galaad.
   - `VulgSistina (1590)`: Cepitque Gessur, et Aram oppida Iair, et Canath, et viculos eius sexaginta civitatum. omnes isti, filii Machir patris Galaad.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cum autem mortuus esset Hesron, ingressus est Caleb ad Ephratha. Habuit quoque Hesron uxorem Abia, quæ peperit ei Assur patrem Thecuæ.
@@ -331,7 +322,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cum autem mortuus esset Hesron, ingressus est Caleb ad Ephratha. Habuit quoque Hesron uxorem Abia, quæ peperit ei Assur patrem Thecuæ.
   - `VulgConte (2009)`: Cum autem mortuus esset Hesron, ingressus est Caleb ad Ephratha. Habuit quoque Hesron uxorem Abia, quæ peperit ei Assur patrem Thecuæ.
   - `VulgSistina (1590)`: Cum autem mortuus esset Hesron, ingressus est Caleb ad Ephratha. Habuit quoque Hesron uxorem Abia, quae peperit ei Assur patrem Thecuae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nati sunt autem filii Jerameel primogeniti Hesron, Ram primogenitus ejus, et Buna, et Aram, et Asom, et Achia.
@@ -340,7 +331,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nati sunt autem filii Ierameel primogeniti Hesron, Ram primogenitus eius, et Buna, et Aram, et Asom, et Achia.
   - `VulgConte (2009)`: Nati sunt autem filii Ierameel primogeniti Hesron, Ram primogenitus eius, et Buna, et Aram, et Asom, et Achia.
   - `VulgSistina (1590)`: Nati sunt autem filii Ierameel primogeniti Hesron, Ram primogenitus eius, et Buna, et Aram, et Asom, et Achia.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Duxit quoque uxorem alteram Jerameel, nomine Atara, quæ fuit mater Onam.
@@ -349,7 +340,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Duxit quoque uxorem alteram Ierameel, nomine Atara, quæ fuit mater Onam.
   - `VulgConte (2009)`: Duxit quoque uxorem alteram Ierameel, nomine Atara, quæ fuit mater Onam.
   - `VulgSistina (1590)`: Duxit quoque uxorem alteram Ierameel, nomine Atara, quae fuit mater Onam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sed et filii Ram primogeniti Jerameel fuerunt Moos, Jamin, et Achar.
@@ -358,7 +349,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sed et filii Ram primogeniti Ierameel, fuerunt Moos, Iamin, et Achar.
   - `VulgConte (2009)`: Sed et filii Ram primogeniti Ierameel, fuerunt Moos, Iamin, et Achar.
   - `VulgSistina (1590)`: Sed et filii Ram primogeniti Ierameel, fuerunt Moos, Iamin, et Achar.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Onam autem habuit filios Semei et Jada. Filii autem Semei: Nadab et Abisur.
@@ -367,7 +358,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Onam autem habuit filios Semei, et Iada. Filii autem Semei: Nadab, et Abisur.
   - `VulgConte (2009)`: Onam autem habuit filios Semei, et Iada. Filii autem Semei: Nadab, et Abisur.
   - `VulgSistina (1590)`: Onam autem habuit filios Semei, et Iada. Filii autem Semei: Nadab, et Abisur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nomen vero uxoris Abisur, Abihail, quæ peperit ei Ahobban et Molid.
@@ -376,7 +367,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nomen vero uxoris Abisur, Abihail, quæ peperit ei Ahobban, et Molid.
   - `VulgConte (2009)`: Nomen vero uxoris Abisur, Abihail, quæ peperit ei Ahobban, et Molid.
   - `VulgSistina (1590)`: Nomen vero uxoris Abisur, Abihail, quae peperit ei Ahobban, et Molid.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii autem Nadab fuerunt Saled et Apphaim. Mortuus est autem Saled absque liberis.
@@ -385,7 +376,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii autem Nadab fuerunt Saled, et Apphaim. Mortuus est autem Saled absque liberis.
   - `VulgConte (2009)`: Filii autem Nadab fuerunt Saled, et Apphaim. Mortuus est autem Saled absque liberis.
   - `VulgSistina (1590)`: Filii autem Nadab fuerunt Saled, et Apphaim. Mortuus est autem Saled absque liberis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filius vero Apphaim, Jesi: qui Jesi genuit Sesan. Porro Sesan genuit Oholai.
@@ -394,7 +385,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filius vero Apphaim, Iesi: qui Iesi genuit Sesan. Porro Sesan genuit Oholai.
   - `VulgConte (2009)`: Filius vero Apphaim, Iesi: qui Iesi genuit Sesan. Porro Sesan genuit Oholai.
   - `VulgSistina (1590)`: Filius vero Apphaim, Iesi: qui Iesi genuit Sesan. Porro Sesan genuit Oholai.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii autem Jada fratris Semei: Jether, et Jonathan. Sed et Jether mortuus est absque liberis.
@@ -403,7 +394,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii autem Iada fratris Semei: Iether, et Ionathan. Sed et Iether mortuus est absque liberis.
   - `VulgConte (2009)`: Filii autem Iada fratris Semei: Iether, et Ionathan. Sed et Iether mortuus est absque liberis.
   - `VulgSistina (1590)`: Filii autem Iada fratris Semei: Iether, et Ionathan. Sed et Iether mortuus est absque liberis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Porro Jonathan genuit Phaleth, et Ziza. Isti fuerunt filii Jerameel.
@@ -412,7 +403,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Porro Ionathan genuit Phaleth, et Ziza. Isti fuerunt filii Ierameel.
   - `VulgConte (2009)`: Porro Ionathan genuit Phaleth, et Ziza. Isti fuerunt filii Ierameel.
   - `VulgSistina (1590)`: Porro Ionathan genuit Phaleth, et Ziza. Isti fuerunt filii Ierameel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 34 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sesan autem non habuit filios, sed filias: et servum ægyptium nomine Jeraa.
@@ -421,7 +412,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sesan autem non habuit filios, sed filias: et servum Ægyptium nomine Ieraa.
   - `VulgConte (2009)`: Sesan autem non habuit filios, sed filias: et servum Ægyptium nomine Ieraa.
   - `VulgSistina (1590)`: Sesan autem non habuit filios, sed filias: et servum Aegyptium nomine Ieraa.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 35 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Deditque ei filiam suam uxorem: quæ peperit ei Ethei.
@@ -430,7 +421,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Deditque ei filiam suam uxorem: quæ peperit ei Ethei.
   - `VulgConte (2009)`: Deditque ei filiam suam uxorem: quæ peperit ei Ethei.
   - `VulgSistina (1590)`: Deditque ei filiam suam uxorem: quae peperit ei Ethei.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 36 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ethei autem genuit Nathan, et Nathan genuit Zabad.
@@ -439,7 +430,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ethei autem genuit Nathan, et Nathan genuit Zabad.
   - `VulgConte (2009)`: Ethei autem genuit Nathan, et Nathan genuit Zabad.
   - `VulgSistina (1590)`: Ethei autem genuit Nathan, et Nathan genuit Zabad.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 37 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Zabad quoque genuit Ophlal, et Ophlal genuit Obed.
@@ -448,7 +439,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Zabad quoque genuit Ophlal, et Ophlal genuit Obed,
   - `VulgConte (2009)`: Zabad quoque genuit Ophlal, et Ophlal genuit Obed.
   - `VulgSistina (1590)`: Zabad quoque genuit Ophlal, et Ophlal genuit Obed,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 38 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Obed genuit Jehu, Jehu genuit Azariam,
@@ -457,7 +448,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Obed genuit Iehu, Iehu genuit Azariam,
   - `VulgConte (2009)`: Obed genuit Iehu, Iehu genuit Azariam.
   - `VulgSistina (1590)`: Obed genuit Iehu, Iehu genuit Azariam,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 39 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Azarias genuit Helles, et Helles genuit Elasa.
@@ -466,7 +457,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Azarias genuit Helles, et Helles genuit Elasa.
   - `VulgConte (2009)`: Azarias genuit Helles, et Helles genuit Elasa.
   - `VulgSistina (1590)`: Azarias genuit Helles, et Helles genuit Elasa.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 40 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Elasa genuit Sisamoi, Sisamoi genuit Sellum,
@@ -475,7 +466,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Elasa genuit Sisamoi, Sisamoi genuit Sellum,
   - `VulgConte (2009)`: Elasa genuit Sisamoi, Sisamoi genuit Sellum.
   - `VulgSistina (1590)`: Elasa genuit Sisamoi, Sisamoi genuit Sellum,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 41 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sellum genuit Icamiam, Icamia autem genuit Elisama.
@@ -484,7 +475,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sellum genuit Icamiam, Icamia autem genuit Elisama.
   - `VulgConte (2009)`: Sellum genuit Icamiam, Icamia autem genuit Elisama.
   - `VulgSistina (1590)`: Sellum genuit Icamiam, Icamia autem genuit Elisama.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 42 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii autem Caleb fratris Jerameel: Mesa primogenitus ejus; ipse est pater Ziph: et filii Maresa patris Hebron.
@@ -493,7 +484,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii autem Caleb fratris Ierameel: Mesa primogenitus eius, ipse est pater Ziph: et filii Maresa patris Hebron.
   - `VulgConte (2009)`: Filii autem Caleb fratris Ierameel: Mesa primogenitus eius, ipse est pater Ziph: et filii Maresa patris Hebron.
   - `VulgSistina (1590)`: Filii autem Caleb fratris Ierameel: Mesa primogenitus eius, ipse est pater Ziph: et filii Maresa patris Hebron.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 43 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Porro filii Hebron, Core, et Taphua, et Recem, et Samma.
@@ -502,7 +493,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Porro filii Hebron, Core, et Taphua, et Recem, et Samma.
   - `VulgConte (2009)`: Porro filii Hebron, Core, et Taphua, et Recem, et Samma.
   - `VulgSistina (1590)`: Porro filii Hebron, Core, et Taphua, et Recem, et Samma.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 44 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Samma autem genuit Raham, patrem Jercaam, et Recem genuit Sammai.
@@ -511,7 +502,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Samma autem genuit Raham, patrem Iercaam, et Recem genuit Sammai.
   - `VulgConte (2009)`: Samma autem genuit Raham, patrem Iercaam, et Recem genuit Sammai.
   - `VulgSistina (1590)`: Samma autem genuit Raham, patrem Iercaam, et Recem genuit Sammai.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 45 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filius Sammai, Maon: et Maon pater Bethsur.
@@ -520,7 +511,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filius Sammai, Maon: et Maon pater Bethsur.
   - `VulgConte (2009)`: Filius Sammai, Maon: et Maon pater Bethsur.
   - `VulgSistina (1590)`: Filius Sammai, Maon: et Maon pater Bethsur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 46 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Epha autem concubina Caleb peperit Haran, et Mosa, et Gezez. Porro Haran genuit Gezez.
@@ -529,7 +520,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Epha autem concubina Caleb peperit Haran, et Mosa, et Gezez. Porro Haran genuit Gezez.
   - `VulgConte (2009)`: Epha autem concubina Caleb peperit Haran, et Mosa, et Gezez. Porro Haran genuit Gezez.
   - `VulgSistina (1590)`: Epha autem concubina Caleb peperit Haran, et Mosa, et Gezez. Porro Haran genuit Gezez.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 47 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii autem Jahaddai, Regom, et Joathan, et Gesan, et Phalet, et Epha, et Saaph.
@@ -538,7 +529,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii autem Iahaddai, Regom, et Ioathan, et Gesan, et Phalet, et Epha, et Saaph.
   - `VulgConte (2009)`: Filii autem Iahaddai, Regom, et Ioathan, et Gesan, et Phalet, et Epha, et Saaph.
   - `VulgSistina (1590)`: Filii autem Iahaddai, Regom, et Ioathan, et Gesan, et Phalet, et Epha, et Saaph.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 48 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Concubina Caleb Maacha, peperit Saber, et Tharana.
@@ -547,7 +538,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Concubina Caleb Maacha, peperit Saber, et Tharana.
   - `VulgConte (2009)`: Concubina Caleb Maacha, peperit Saber, et Tharana.
   - `VulgSistina (1590)`: Concubina Caleb Maacha, peperit Saber, et Tharana.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 49 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Genuit autem Saaph pater Madmena Sue, patrem Machbena et patrem Gabaa. Filia vero Caleb fuit Achsa.
@@ -556,7 +547,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Genuit autem Saaph pater Madmena, Sue patrem Machbena, et patrem Gabaa. Filia vero Caleb, fuit Achsa.
   - `VulgConte (2009)`: Genuit autem Saaph pater Madmena, Sue patrem Machbena, et patrem Gabaa. Filia vero Caleb, fuit Achsa.
   - `VulgSistina (1590)`: Genuit autem Saaph pater Madmena, Sue patrem Machbena, et patrem Gabaa. Filia vero Caleb, fuit Achsa.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 50 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hi erant filii Caleb, filii Hur primogeniti Ephratha, Sobal pater Cariathiarim.
@@ -565,7 +556,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hi erant filii Caleb, filii Hur primogeniti Ephratha, Sobal pater Cariathiarim.
   - `VulgConte (2009)`: Hi erant filii Caleb, filii Hur primogeniti Ephratha, Sobal pater Cariathiarim.
   - `VulgSistina (1590)`: Hi erant filii Caleb, filii Hur primogeniti Ephratha, Sobal pater Cariathiarim.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 51 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Salma pater Bethlehem, Hariph pater Bethgader.
@@ -574,7 +565,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Salma pater Bethlehem, Hariph pater Bethgader.
   - `VulgConte (2009)`: Salma pater Bethlehem, Hariph pater Bethgader.
   - `VulgSistina (1590)`: Salma pater Bethlehem, Hariph pater Bethgader.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 52 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Fuerunt autem filii Sobal patris Cariathiarim, qui videbat dimidium requietionum.
@@ -583,7 +574,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Fuerunt autem filii Sobal patris Cariathiarim, Qui videbat dimidium requietionum.
   - `VulgConte (2009)`: Fuerunt autem filii Sobal patris Cariathiarim, qui videbat dimidium requietionum.
   - `VulgSistina (1590)`: Fuerunt autem filii Sobal patris Cariathiarim, Qui videbat dimidium requietionum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 53 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et de cognatione Cariathiarim, Jethrei, et Aphuthei, et Semathei, et Maserei. Ex his egressi sunt Saraitæ, et Esthaolitæ.
@@ -592,7 +583,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et de cognatione Cariathiarim, Iethrei, et Aphuthei, et Semathei, et Maserei. Ex his egressi sunt Saraitæ, et Esthaolitæ.
   - `VulgConte (2009)`: Et de cognatione Cariathiarim, Iethrei, et Aphuthei, et Semathei, et Maserei. Ex his egressi sunt Saraitæ, et Esthaolitæ.
   - `VulgSistina (1590)`: Et de cognatione Cariathiarim, Iethrei, et Aphuthei, et Semathei, et Maserei. Ex his egressi sunt Saraitae, et Esthaolitae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 54 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii Salma, Bethlehem, et Netophathi, coronæ domus Joab, et dimidium requietionis Sarai:
@@ -601,7 +592,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Salma, Bethlehem, et Netophathi, Coronæ domus Ioab, et Dimidium requietionis Sarai.
   - `VulgConte (2009)`: Filii Salma, Bethlehem, et Netophathi, Coronæ domus Ioab, et dimidium requietionis Sarai,
   - `VulgSistina (1590)`: Filii Salma, Bethlehem, et Netophathi, Coronae domus Ioab, et Dimidium requietionis Sarai.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 55 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** cognationes quoque scribarum habitantium in Jabes, canentes atque resonantes, et in tabernaculis commorantes. Hi sunt Cinæi, qui venerunt de Calore patris domus Rechab.
@@ -610,4 +601,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cognationes quoque scribarum habitantium in Iabes, canentes atque Resonantes, et in tabernaculis commorantes. Hi sunt Cinæi, qui venerunt de Calore patris domus Rechab.
   - `VulgConte (2009)`: cognationes quoque scribarum habitantium in Iabes, canentes atque resonantes, et in tabernaculis commorantes. Hi sunt Cinæi, qui venerunt de Calore patris domus Rechab.
   - `VulgSistina (1590)`: Cognationes quoque scribarum habitantium in Iabes, canentes atque Resonantes, et in tabernaculis commorantes. Hi sunt Cinaei, qui venerunt de Calore patris domus Rechab.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

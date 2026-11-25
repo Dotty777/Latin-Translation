@@ -1,6 +1,6 @@
 # Galatians 2 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes)  
+> **Status:** `draft: true` (21 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Galatians`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -54,3 +54,4 @@
 - **2:14** — Commentators differ on whether Paul's spoken address to Cephas ends at verse 14 or continues through verse 21.
 - **2:16** — Latin fidem Jesu Christi and fide Christi literally read "faith of [Jesus] Christ" (traditionally taken as objective genitive, "faith in Christ," though also debated as subjective, "faithfulness of Christ"); the Vulgate also uses present-tense credimus ("we believe") rather than the Greek aorist ("we believed").
 - **2:19** — In the Clementine Vulgate verse division, Christo confixus sum cruci ("I have been nailed to the cross with Christ") concludes verse 19 rather than beginning verse 20.
+- **2:20** — The Latin genitive 'in fide ... Filii Dei' literally reads 'by the faith of the Son of God' and can be understood either objectively ('faith in the Son of God') or subjectively ('the faithfulness of the Son of God').

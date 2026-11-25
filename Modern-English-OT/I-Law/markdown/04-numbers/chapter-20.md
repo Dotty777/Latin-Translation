@@ -1,6 +1,6 @@
 # Numbers 20 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (30 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,7 +59,11 @@
 
 **20:27** Moses did as the Lord had commanded, and they went up onto Mount Hor before the whole multitude.
 
-**20:28** And when he had stripped Aaron of his garments, he clothed Eleazar his son with them. When Aaron died on the brow of the mountain, Moses came down with Eleazar. Now the whole multitude, seeing that Aaron had died, wept over him for thirty days throughout all its families.
+**20:28** And when he had stripped Aaron of his garments, he clothed Eleazar his son with them.
+
+**20:29** When Aaron died on the brow of the mountain, Moses came down with Eleazar.
+
+**20:30** Now the whole multitude, seeing that Aaron had died, wept over him for thirty days throughout all its families.
 
 ## Translator Notes
 
@@ -67,4 +71,5 @@
 - **20:13** — Latin aqua contradictionis ("water of contradiction," and plural aquas contradictionis in v. 24) translates the Hebrew place-name Meribah ("contention/strife") rather than transliterating it.
 - **20:17** — Latin via publica ("the public road") renders Hebrew "the king's highway" in Roman idiom; likewise in v. 19 the Vulgate renders Hebrew's brief idiom ("only let me pass on foot") as "there will be no difficulty over the price; only let us pass through quickly."
 - **20:24** — Latin eo quod incredulus fuerit ori meo ("because he was unbelieving toward My mouth," preserving the Hebraism "mouth" for spoken command) uses third-person singular for Aaron where Hebrew has second-person plural ("because you rebelled against My word"), echoing rebelles et increduli ("rebels and unbelievers") in v. 10.
-- **20:28** — The Clementine Vulgate combines the material of Hebrew verses 28 and 29 into a single verse 28, ending with per cunctas familias suas ("throughout all its families") where the Hebrew has "all the house of Israel."
+- **20:28** — Native Vulgate Numbers 20 divides Aaron's death and mourning across 20:28-30 (mapping to Saints.Bible 20:28-29), ending with per cunctas familias suas ("throughout all its families") where the Hebrew has "all the house of Israel."
+- **20:30** — Native Clementine Vulgate divides Aaron's death across 20:28-30 (mapped to Saints.Bible 20:28-29), ending with per cunctas familias suas ("throughout all its families") where the Hebrew has "all the house of Israel."

@@ -77,24 +77,24 @@
 
 **21:36** From the tribe of Reuben beyond the Jordan opposite Jericho, cities of refuge: Bezer in the wilderness, Misor, and Jaser, and Jethson, and Mephaath, four cities with their outlying lands.
 
-**21:38** From the tribe of Gad, cities of refuge: Ramoth in Gilead, and Mahanaim, and Heshbon, and Jazer, four cities with their outlying lands.
+**21:37** From the tribe of Gad, cities of refuge: Ramoth in Gilead, and Mahanaim, and Heshbon, and Jazer, four cities with their outlying lands.
 
-**21:40** All the cities of the sons of Merari by their families and clans: twelve.
+**21:38** All the cities of the sons of Merari by their families and clans: twelve.
 
-**21:41** Thus all the cities of the Levites in the midst of the possession of the sons of Israel were forty-eight,
+**21:39** Thus all the cities of the Levites in the midst of the possession of the sons of Israel were forty-eight,
 
-**21:42** with their outlying lands, each one distributed by families.
+**21:40** with their outlying lands, each one distributed by families.
 
-**21:43** And the Lord God gave to Israel all the land that He had sworn He would deliver to their fathers, and they took possession of it and lived in it.
+**21:41** And the Lord God gave to Israel all the land that He had sworn He would deliver to their fathers, and they took possession of it and lived in it.
 
-**21:44** And peace was given by Him toward all the nations all around; and none of the enemies dared to resist them, but all were brought under their dominion.
+**21:42** And peace was given by Him toward all the nations all around; and none of the enemies dared to resist them, but all were brought under their dominion.
 
-**21:45** Not even one word that He had promised He would perform for them proved void, but all things were fulfilled in deeds.
+**21:43** Not even one word that He had promised He would perform for them proved void, but all things were fulfilled in deeds.
 
 ## Translator Notes
 
 - **21:9** — Unlike the Hebrew Masoretic Text, which uses an unspecified plural ("they gave"), the Vulgate names Joshua as the singular subject ("Joshua gave") and maintains singular verbs in vv. 12, 13, and 27.
-- **21:21** — While v. 13 uses the singular for Hebron, the Vulgate renders "cities of refuge" in the plural here and in vv. 27, 32, 36, and 38, omitting the Hebrew qualifier "for the manslayer" that singles out only the first-named city.
+- **21:21** — While v. 13 uses the singular for Hebron, the Vulgate renders "cities of refuge" in the plural here and in vv. 27, 32, 36, and 37, omitting the Hebrew qualifier "for the manslayer" that singles out only the first-named city.
 - **21:26** — Here and in v. 34, the Vulgate renders the remaining non-priestly Levites as those "of the lower rank" (inferioris gradus), distinguishing them from the priestly sons of Aaron (cf. v. 5, "that is, the Levites who remained").
 - **21:27** — The Vulgate reads Bosram ("Bosra," matching the Septuagint Bosoran) where the Hebrew Masoretic Text has Be-eshterah.
-- **21:36** — In the Clementine Vulgate, v. 36 encompasses modern vv. 36-37 (and v. 38 encompasses vv. 38-39), includes "beyond the Jordan opposite Jericho," and lists Misor (from Hebrew mishor, "tableland/plain"), Jaser, and Jethson alongside Bezer and Mephaath where the Hebrew tradition lists Bezer, Jahaz, Kedemoth, and Mephaath.
+- **21:36** — In the Clementine Vulgate, native v. 36 encompasses Saints.Bible/Hebrew vv. 36-37 (and native v. 37 encompasses Saints.Bible/Hebrew vv. 38-39), includes "beyond the Jordan opposite Jericho," and lists Misor (from Hebrew mishor, "tableland/plain"), Jaser, and Jethson alongside Bezer and Mephaath where the Hebrew tradition lists Bezer, Jahaz, Kedemoth, and Mephaath.

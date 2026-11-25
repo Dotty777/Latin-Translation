@@ -1,6 +1,6 @@
 # Joshua 24 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (33 verses, 5 translator notes)  
+> **Status:** `draft: true` (33 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -61,11 +61,11 @@
 
 **24:28** And he sent the people away, each to his own possession.
 
-**24:29** And Israel served the Lord all the days of Joshua and of the elders who lived a long time after Joshua, and who knew all the works of the Lord that He had done in Israel.
+**24:29** And after these things Joshua son of Nun, the servant of the Lord, died, being one hundred and ten years old;
 
-**24:30** And after these things Joshua son of Nun, the servant of the Lord, died, being one hundred and ten years old;
+**24:30** and they buried him within the borders of his possession in Timnath-serah, which is situated in Mount Ephraim, on the northern side of Mount Gaash.
 
-**24:31** and they buried him within the borders of his possession in Timnath-serah, which is situated in Mount Ephraim, on the northern side of Mount Gaash.
+**24:31** And Israel served the Lord all the days of Joshua and of the elders who lived a long time after Joshua, and who knew all the works of the Lord that He had done in Israel.
 
 **24:32** Also, the bones of Joseph, which the sons of Israel had brought from Egypt, they buried in Shechem, in the portion of the field that Jacob had bought from the sons of Hamor, the father of Shechem, for one hundred young sheep; and it became the possession of the sons of Joseph.
 
@@ -76,5 +76,6 @@
 - **24:3** — The Vulgate explicitly names Mesopotamia (de Mesopotamiae finibus here, and in Mesopotamia in vv. 14-15), whereas the Hebrew Masoretic Text reads "beyond the River" (the Euphrates).
 - **24:5** — The Vulgate reads "with many signs and wonders" (multis signis atque portentis), whereas the Hebrew reads "according to what I did in its midst, and afterward I brought you out."
 - **24:15** — The Vulgate adds "the choice is given to you" (optio vobis datur) and expands the Hebrew "choose for yourselves today whom you will serve" to "choose today what pleases you, whom above all you ought to serve."
-- **24:29** — Following the Septuagint order, the Clementine Vulgate places Israel's continued service to the Lord in v. 29 and Joshua's death and burial in vv. 30-31, whereas the Hebrew Masoretic Text places Joshua's death and burial in vv. 29-30 and Israel's service in v. 31.
+- **24:29** — Native Vulgate Joshua 24:29-31 place Joshua's death and burial in 24:29-30 and Israel's continued service in 24:31, matching the Hebrew order (mapping to Saints.Bible Septuagint-aligned order 24:30-31 and 24:29).
+- **24:31** — In native Clementine Vulgate order, Joshua's death and burial stand at 24:29-30 (Saints.Bible 24:30-31) and Israel's continued service stands at 24:31 (Saints.Bible 24:29).
 - **24:32** — Following the Septuagint, the Vulgate renders the purchase price as "one hundred young sheep" (centum novellis ovibus), where the Hebrew has "one hundred qesitahs" (an ancient unit of weight or money); in v. 33 the Vulgate similarly treats Gabaath (Gibeah) as a proper place name rather than the common noun "hill."

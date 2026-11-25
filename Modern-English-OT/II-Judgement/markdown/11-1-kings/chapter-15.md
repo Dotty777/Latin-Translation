@@ -1,6 +1,6 @@
 # 1 Kings 15 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes, 2 additional)  
+> **Status:** `draft: true` (34 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -14,6 +14,8 @@
 **15:4** But for David's sake the Lord his God gave him a lamp in Jerusalem, so that He might raise up his son after him and establish Jerusalem,
 
 **15:5** because David had done what was right in the eyes of the Lord, and had not turned aside from all that He had commanded him all the days of his life, except in the matter of Uriah the Hittite.
+
+**15:6** However, there was war between Rehoboam and Jeroboam throughout the whole time of his life.
 
 **15:7** Now the rest of the matters of Abijam, and all that he did, are these not written in the book of the words of the days of the kings of Judah? And there was battle between Abijam and Jeroboam.
 
@@ -65,20 +67,16 @@
 
 **15:31** Now the rest of the matters of Nadab, and all that he performed, are these not written in the book of the words of the days of the kings of Israel?
 
+**15:32** And there was war between Asa and Baasha, king of Israel, throughout all their days.
+
 **15:33** In the third year of Asa king of Judah, Baasha son of Ahijah reigned over all Israel in Tirzah for twenty-four years.
 
 **15:34** And he did evil before the Lord, and walked in the way of Jeroboam, and in his sins by which he caused Israel to sin.
 
-## Additional Verses (Not in Saints Numbering)
-
-**15:6** *(after `15:5`)* However, there was war between Rehoboam and Jeroboam throughout the whole time of his life.
-
-**15:32** *(after `15:31`)* And there was war between Asa and Baasha, king of Israel, throughout all their days.
-
 ## Translator Notes
 
-- **15:7** — Latin verse 6 (on war between Rehoboam and Jeroboam) is given among this book's additional verses; the battle notice between Abijam and Jeroboam stands at the end of verse 7. The Vulgate's 'book of the words of the days' (in libro verborum dierum) literally reflects the Hebrew title for the royal annals or chronicles.
+- **15:7** — Native Clementine Vulgate 15:6 (on war between Rehoboam and Jeroboam) stands in its native slot (absent from Saints.Bible); the Vulgate's 'book of the words of the days' (in libro verborum dierum) literally reflects the Hebrew title for the royal annals or chronicles.
 - **15:12** — The Vulgate renders the Hebrew term for male cult prostitutes (qedeshim) as 'effeminate men' (effeminatos), a rendering repeated in 16:28.
 - **15:13** — Distinctly Vulgate reading: Jerome interpreted the Hebrew 'horrid image for Asherah' in terms of the Greco-Roman fertility god Priapus ('in the sacred rites of Priapus', in sacris Priapi), rendering Asherah as 'grove' (luco) and adding 'his cavern' (specum ejus) and 'the most shameful image' (simulacrum turpissimum).
 - **15:20** — The Vulgate half-translates the place name Abel-beth-maacah as Abeldomum Maacha ('Abel-house of Maacah') and inserts 'namely' (scilicet) to equate all Chinneroth with all the land of Naphtali.
-- **15:31** — Latin verse 32, which repeats the war notice between Asa and Baasha from verse 16, is given among this book's additional verses.
+- **15:32** — Native Clementine Vulgate 15:32 (repeating the war notice between Asa and Baasha from 15:16) stands in its native slot (absent from Saints.Bible).

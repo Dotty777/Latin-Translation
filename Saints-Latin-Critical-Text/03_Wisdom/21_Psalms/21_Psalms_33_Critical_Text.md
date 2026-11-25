@@ -1,8 +1,8 @@
 # Psalms 33 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:46Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:08Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
@@ -29,16 +29,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Psalt-Pianum (1945): 33:10 not collated (no verse of the reference matches its wording)
@@ -77,99 +68,98 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Psalms 33:1
-- **Apparatus:** `Davidi,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Psalmus David,** VulgSistina (1590)
-- *Disregarded Surface Variant:* kept `Davidi,` over `Davidi` (Clem-Saints) — *Punctuation / spacing difference only*
+- **Apparatus:** `Davidi,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Psalmus David,** VulgSistina (1590)
 
 ### Psalms 33:2
-- **Apparatus:** `Dominum in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Dómino** Psalt-Pianum (1945)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **In Dómino gloriétur ánima mea: áudiant húmiles, et læténtur.** Psalt-Pianum (1945)
+- **Apparatus:** `Dominum in` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Dómino** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **In Dómino gloriétur ánima mea: áudiant húmiles, et læténtur.** Psalt-Pianum (1945)
 
 ### Psalms 33:4
-- **Apparatus:** `exaltemus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **extollámus** Psalt-Pianum (1945)
-- **Apparatus:** `in idipsum.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **simul.** Psalt-Pianum (1945)
-- **Apparatus:** `idipsum.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `exaltemus` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **extollámus** Psalt-Pianum (1945)
+- **Apparatus:** `in idipsum.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **simul.** Psalt-Pianum (1945)
+- **Apparatus:** `idipsum.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
 
 ### Psalms 33:5
-- **Apparatus:** `Exquisivi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Quæsívi** Psalt-Pianum (1945)
-- **Apparatus:** `tribulationibus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **timóribus** Psalt-Pianum (1945)
+- **Apparatus:** `Exquisivi` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Quæsívi** Psalt-Pianum (1945)
+- **Apparatus:** `tribulationibus` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **timóribus** Psalt-Pianum (1945)
 
 ### Psalms 33:6
-- **Apparatus:** `Accedite` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Aspícite** Psalt-Pianum (1945)
-- **Apparatus:** `et illuminamini;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ut exhilarémini,** Psalt-Pianum (1945)
-- **Apparatus:** `non confundentur.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ne erubéscant.** Psalt-Pianum (1945)
+- **Apparatus:** `Accedite` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Aspícite** Psalt-Pianum (1945)
+- **Apparatus:** `et illuminamini;` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ut exhilarémini,** Psalt-Pianum (1945)
+- **Apparatus:** `non confundentur.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ne erubéscant.** Psalt-Pianum (1945)
 
 ### Psalms 33:7
-- **Apparatus:** `Iste pauper` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Ecce, miser** Psalt-Pianum (1945)
-- **Apparatus:** `exaudivit eum,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **audívit,** Psalt-Pianum (1945)
-- **Apparatus:** `de` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ex** Psalt-Pianum (1945)
-- **Apparatus:** `tribulationibus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **angústiis** Psalt-Pianum (1945)
+- **Apparatus:** `Iste pauper` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Ecce, miser** Psalt-Pianum (1945)
+- **Apparatus:** `exaudivit eum,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **audívit,** Psalt-Pianum (1945)
+- **Apparatus:** `de` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ex** Psalt-Pianum (1945)
+- **Apparatus:** `tribulationibus` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **angústiis** Psalt-Pianum (1945)
 
 ### Psalms 33:8
-- **Apparatus:** `Immittet` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Castra ponit** Psalt-Pianum (1945)
-- **Apparatus:** `in circuitu timentium` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **circa timéntes** Psalt-Pianum (1945)
-- **Apparatus:** `eripiet` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **éripit** Psalt-Pianum (1945)
+- **Apparatus:** `Immittet` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Castra ponit** Psalt-Pianum (1945)
+- **Apparatus:** `in circuitu timentium` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **circa timéntes** Psalt-Pianum (1945)
+- **Apparatus:** `eripiet` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **éripit** Psalt-Pianum (1945)
 
 ### Psalms 33:9
-- **Apparatus:** `quoniam suavis est` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quam bonus sit** Psalt-Pianum (1945)
-- **Apparatus:** `sperat in eo.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cónfugit ad eum.** Psalt-Pianum (1945)
+- **Apparatus:** `quoniam suavis est` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quam bonus sit** Psalt-Pianum (1945)
+- **Apparatus:** `sperat in eo.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cónfugit ad eum.** Psalt-Pianum (1945)
 
 ### Psalms 33:10
-- **Apparatus:** `omnes` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
-- **Apparatus:** `quoniam` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quia** Psalt-Pianum (1945)
+- **Apparatus:** `omnes` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `quoniam` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quia** Psalt-Pianum (1945)
 
 ### Psalms 33:13
-- **Apparatus:** `vult` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **díligit** Psalt-Pianum (1945)
-- **Apparatus:** `diligit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **desíderat** Psalt-Pianum (1945)
-- **Apparatus:** `videre bonos?` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ut bonis fruátur?** Psalt-Pianum (1945)
+- **Apparatus:** `vult` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **díligit** Psalt-Pianum (1945)
+- **Apparatus:** `diligit` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **desíderat** Psalt-Pianum (1945)
+- **Apparatus:** `videre bonos?` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ut bonis fruátur?** Psalt-Pianum (1945)
 
 ### Psalms 33:14
-- **Apparatus:** `Prohibe` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Cóhibe** Psalt-Pianum (1945)
-- **Apparatus:** `ne loquantur dolum.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **a verbis dolósis.** Psalt-Pianum (1945)
+- **Apparatus:** `Prohibe` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Cóhibe** Psalt-Pianum (1945)
+- **Apparatus:** `ne loquantur dolum.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **a verbis dolósis.** Psalt-Pianum (1945)
 
 ### Psalms 33:15
-- **Apparatus:** `Diverte` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Recéde** Psalt-Pianum (1945)
-- **Apparatus:** `inquire` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quære** Psalt-Pianum (1945)
-- **Apparatus:** `persequere` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sectáre** Psalt-Pianum (1945)
+- **Apparatus:** `Diverte` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Recéde** Psalt-Pianum (1945)
+- **Apparatus:** `inquire` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quære** Psalt-Pianum (1945)
+- **Apparatus:** `persequere` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sectáre** Psalt-Pianum (1945)
 
 ### Psalms 33:16
-- **Apparatus:** `super` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **respíciunt** Psalt-Pianum (1945)
-- **Apparatus:** `in preces` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **clamórem** Psalt-Pianum (1945)
-- **Apparatus:** `preces` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `super` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **respíciunt** Psalt-Pianum (1945)
+- **Apparatus:** `in preces` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **clamórem** Psalt-Pianum (1945)
+- **Apparatus:** `preces` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
 
 ### Psalms 33:17
-- **Apparatus:** `Vultus autem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Vultus** Psalt-Pianum (1945)
-- **Apparatus:** `autem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
-- **Apparatus:** `super` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **aversátur** Psalt-Pianum (1945)
-- **Apparatus:** `perdat` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **déleat** Psalt-Pianum (1945)
+- **Apparatus:** `Vultus autem` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Vultus** Psalt-Pianum (1945)
+- **Apparatus:** `autem` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `super` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **aversátur** Psalt-Pianum (1945)
+- **Apparatus:** `perdat` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **déleat** Psalt-Pianum (1945)
 
 ### Psalms 33:18
-- **Apparatus:** `tribulationibus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **angústiis** Psalt-Pianum (1945)
-- **Apparatus:** `liberavit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **erípuit** Psalt-Pianum (1945)
+- **Apparatus:** `tribulationibus` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **angústiis** Psalt-Pianum (1945)
+- **Apparatus:** `liberavit` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **erípuit** Psalt-Pianum (1945)
 
 ### Psalms 33:19
-- **Apparatus:** `Juxta` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Prope** Psalt-Pianum (1945)
-- **Apparatus:** `iis qui tribulato sunt` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **contrítis** Psalt-Pianum (1945)
-- **Apparatus:** `humiles` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **confráctos** Psalt-Pianum (1945)
-- **Apparatus:** `salvabit.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **salvat.** Psalt-Pianum (1945)
+- **Apparatus:** `Juxta` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Prope** Psalt-Pianum (1945)
+- **Apparatus:** `iis qui tribulato sunt` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **contrítis** Psalt-Pianum (1945)
+- **Apparatus:** `humiles` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **confráctos** Psalt-Pianum (1945)
+- **Apparatus:** `salvabit.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **salvat.** Psalt-Pianum (1945)
 
 ### Psalms 33:20
-- **Apparatus:** `Multæ tribulationes justorum; et de` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Multa sunt mala justi; sed ex** Psalt-Pianum (1945)
-- **Apparatus:** `his liberabit eos` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **éripit eum** Psalt-Pianum (1945)
-- **Apparatus:** `eos` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `Multæ tribulationes justorum; et de` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Multa sunt mala justi; sed ex** Psalt-Pianum (1945)
+- **Apparatus:** `his liberabit eos` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **éripit eum** Psalt-Pianum (1945)
+- **Apparatus:** `eos` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
 
 ### Psalms 33:21
-- **Apparatus:** `Dominus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
-- **Apparatus:** `eorum:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ejus: non confringétur ne** Psalt-Pianum (1945)
-- **Apparatus:** `ex his non conteretur.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quidem.** Psalt-Pianum (1945)
+- **Apparatus:** `Dominus` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `eorum:` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ejus: non confringétur ne** Psalt-Pianum (1945)
+- **Apparatus:** `ex his non conteretur.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **quidem.** Psalt-Pianum (1945)
 
 ### Psalms 33:22
-- **Apparatus:** `Mors peccatorum pessima;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **In mortem agit ímpium malítia,** Psalt-Pianum (1945)
-- **Apparatus:** `delinquent.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **puniéntur.** Psalt-Pianum (1945)
+- **Apparatus:** `Mors peccatorum pessima;` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **In mortem agit ímpium malítia,** Psalt-Pianum (1945)
+- **Apparatus:** `delinquent.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **puniéntur.** Psalt-Pianum (1945)
 
 ### Psalms 33:23
-- **Apparatus:** `Redimet` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **líberat** Psalt-Pianum (1945)
-- **Apparatus:** `et non delinquent omnes qui sperant in eo.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **neque puniétur, quicúmque confúgerit ad eum.** Psalt-Pianum (1945)
+- **Apparatus:** `Redimet` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **líberat** Psalt-Pianum (1945)
+- **Apparatus:** `et non delinquent omnes qui sperant in eo.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **neque puniétur, quicúmque confúgerit ad eum.** Psalt-Pianum (1945)
 
 ---
 
@@ -182,7 +172,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Davidi, cum immutavit vultum suum coram Achimelech, et dimisit eum et abiit.
   - `VulgConte (2009)`: Davidi, cum immutavit vultum suum coram Achimelech, et dimisit eum et abiit.
   - `VulgSistina (1590)`: Psalmus David, cum immutavit vultum suum coram Achimelech, et dimisit eum et abiit.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Punctuation / spacing difference only).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Benedicam Dominum in omni tempore; semper laus ejus in ore meo.
@@ -192,7 +182,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Benedícam Dómino omni témpore; semper laus ejus in ore meo. In Dómino gloriétur ánima mea: áudiant húmiles, et læténtur.
   - `VulgConte (2009)`: Benedicam Dominum in omni tempore: semper laus eius in ore meo.
   - `VulgSistina (1590)`: Benedicam Dominum in omni tempore: semper laus eius in ore meo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In Domino laudabitur anima mea: audiant mansueti, et lætentur.
@@ -201,7 +191,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In Domino laudabitur anima mea: audiant mansueti, et lætentur.
   - `VulgConte (2009)`: In Domino laudabitur anima mea: audiant mansueti, et lætentur.
   - `VulgSistina (1590)`: In Domino laudabitur anima mea: audiant mansueti, et laetentur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Magnificate Dominum mecum, et exaltemus nomen ejus in idipsum.
@@ -211,7 +201,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)` *(numbered 33:3 in this witness)*: Magnificáte Dóminum mecum; et extollámus nomen ejus simul.
   - `VulgConte (2009)`: Magnificate Dominum mecum: et exaltemus nomen eius in idipsum.
   - `VulgSistina (1590)`: Magnificate Dominum mecum: et exaltemus nomen eius in idipsum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Exquisivi Dominum, et exaudivit me; et ex omnibus tribulationibus meis eripuit me.
@@ -221,7 +211,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)` *(numbered 33:4 in this witness)*: Quæsívi Dóminum, et exaudívit me; et ex ómnibus timóribus meis erípuit me.
   - `VulgConte (2009)`: Exquisivi Dominum, et exaudivit me: et ex omnibus tribulationibus meis eripuit me.
   - `VulgSistina (1590)`: Exquisivi Dominum, et exaudivit me: et ex omnibus tribulationibus meis eripuit me.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Accedite ad eum, et illuminamini; et facies vestræ non confundentur.
@@ -231,7 +221,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)` *(numbered 33:5 in this witness)*: Aspícite ad eum, ut exhilarémini, et fácies vestræ ne erubéscant.
   - `VulgConte (2009)`: Accedite ad eum, et illuminamini: et facies vestræ non confundentur.
   - `VulgSistina (1590)`: Accedite ad eum, et illuminamini: et facies vestrae non confundentur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Iste pauper clamavit, et Dominus exaudivit eum, et de omnibus tribulationibus ejus salvavit eum.
@@ -241,7 +231,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)` *(numbered 33:6 in this witness)*: Ecce, miser clamávit, et Dóminus audívit, et ex ómnibus angústiis ejus salvávit eum.
   - `VulgConte (2009)`: Iste pauper clamavit, et Dominus exaudivit eum: et de omnibus tribulationibus eius salvavit eum.
   - `VulgSistina (1590)`: Iste pauper clamavit, et Dominus exaudivit eum: et de omnibus tribulationibus eius salvavit eum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Immittet angelus Domini in circuitu timentium eum, et eripiet eos.
@@ -251,7 +241,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)` *(numbered 33:7 in this witness)*: Castra ponit ángelus Dómini circa timéntes eum, et éripit eos.
   - `VulgConte (2009)`: Immittet angelus Domini in circuitu timentium eum: et eripiet eos.
   - `VulgSistina (1590)`: Immittet angelus Domini in circuitu timentium eum: et eripiet eos.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Gustate et videte quoniam suavis est Dominus; beatus vir qui sperat in eo.
@@ -261,7 +251,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)` *(numbered 33:8 in this witness)*: Gustáte, et vidéte, quam bonus sit Dóminus; beátus vir qui cónfugit ad eum.
   - `VulgConte (2009)`: Gustate, et videte quoniam suavis est Dominus: beatus vir, qui sperat in eo.
   - `VulgSistina (1590)`: Gustate, et videte quoniam suavis est Dominus: beatus vir, qui sperat in eo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Timete Dominum, omnes sancti ejus, quoniam non est inopia timentibus eum.
@@ -271,7 +261,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)` *(numbered 33:9 in this witness)*: Timéte Dóminum, sancti ejus, quia non est inópia timéntibus eum.
   - `VulgConte (2009)`: Timete Dominum omnes sancti eius: quoniam non est inopia timentibus eum.
   - `VulgSistina (1590)`: Timete Dominum omnes sancti eius: quoniam non est inopia timentibus eum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Divites eguerunt, et esurierunt; inquirentes autem Dominum non minuentur omni bono.
@@ -280,7 +270,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Divites eguerunt et esurierunt: inquirentes autem Dominum non minuentur omni bono.
   - `VulgConte (2009)`: Divites eguerunt et esurierunt: inquirentes autem Dominum non minuentur omni bono.
   - `VulgSistina (1590)`: Divites eguerunt et esurierunt: inquirentes autem Dominum non minuentur omni bono.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Venite, filii; audite me: timorem Domini docebo vos.
@@ -290,7 +280,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Veníte, fílii, audíte me; timórem Dómini docébo vos.
   - `VulgConte (2009)`: Venite filii, audite me: timorem Domini docebo vos.
   - `VulgSistina (1590)`: Venite filii, audite me: timorem Domini docebo vos.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quis est homo qui vult vitam; diligit dies videre bonos?
@@ -300,7 +290,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Quis est homo qui díligit vitam, desíderat dies, ut bonis fruátur?
   - `VulgConte (2009)`: Quis est homo qui vult vitam: diligit dies videre bonos?
   - `VulgSistina (1590)`: Quis est homo qui vult vitam: diligit dies videre bonos?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Prohibe linguam tuam a malo, et labia tua ne loquantur dolum.
@@ -310,7 +300,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Cóhibe linguam tuam a malo, et lábia tua a verbis dolósis.
   - `VulgConte (2009)`: Prohibe linguam tuam a malo: et labia tua ne loquantur dolum.
   - `VulgSistina (1590)`: Prohibe linguam tuam a malo: et labia tua ne loquantur dolum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Diverte a malo, et fac bonum; inquire pacem, et persequere eam.
@@ -320,7 +310,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Recéde a malo, et fac bonum; quære pacem, et sectáre eam.
   - `VulgConte (2009)`: Diverte a malo, et fac bonum: inquire pacem, et persequere eam.
   - `VulgSistina (1590)`: Diverte a malo, et fac bonum: inquire pacem, et persequere eam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Oculi Domini super justos, et aures ejus in preces eorum.
@@ -330,7 +320,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Oculi Dómini respíciunt justos, et aures ejus clamórem eórum.
   - `VulgConte (2009)`: Oculi Domini super iustos: et aures eius in preces eorum.
   - `VulgSistina (1590)`: Oculi Domini super iustos: et aures eius in preces eorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vultus autem Domini super facientes mala, ut perdat de terra memoriam eorum.
@@ -340,7 +330,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Vultus Dómini aversátur faciéntes mala, ut déleat de terra memóriam eórum.
   - `VulgConte (2009)`: Vultus autem Domini super facientes mala: ut perdat de terra memoriam eorum.
   - `VulgSistina (1590)`: Vultus autem Domini super facientes mala: ut perdat de terra memoriam eorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Clamaverunt justi, et Dominus exaudivit eos; et ex omnibus tribulationibus eorum liberavit eos.
@@ -350,7 +340,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Clamavérunt justi, et Dóminus exaudívit eos; et ex ómnibus angústiis eórum erípuit eos.
   - `VulgConte (2009)`: Clamaverunt iusti, et Dominus exaudivit eos: et ex omnibus tribulationibus eorum liberavit eos.
   - `VulgSistina (1590)`: Clamaverunt iusti, et Dominus exaudivit eos: et ex omnibus tribulationibus eorum liberavit eos.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Juxta est Dominus iis qui tribulato sunt corde, et humiles spiritu salvabit.
@@ -360,7 +350,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Prope est Dóminus contrítis corde, et confráctos spíritu salvat.
   - `VulgConte (2009)`: Iuxta est Dominus iis, qui tribulato sunt corde: et humiles spiritu salvabit.
   - `VulgSistina (1590)`: Iuxta est Dominus iis, qui tribulato sunt corde: et humiles spiritu salvabit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Multæ tribulationes justorum; et de omnibus his liberabit eos Dominus.
@@ -370,7 +360,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Multa sunt mala justi; sed ex ómnibus éripit eum Dóminus.
   - `VulgConte (2009)`: Multæ tribulationes iustorum: et de omnibus his liberabit eos Dominus.
   - `VulgSistina (1590)`: Multae tribulationes iustorum: et de omnibus his liberabit eos Dominus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Custodit Dominus omnia ossa eorum: unum ex his non conteretur.
@@ -380,7 +370,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Custódit ómnia ossa ejus: non confringétur ne unum quidem.
   - `VulgConte (2009)`: Custodit Dominus omnia ossa eorum: unum ex his non conteretur.
   - `VulgSistina (1590)`: Custodit Dominus omnia ossa eorum: unum ex his non conteretur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Mors peccatorum pessima; et qui oderunt justum delinquent.
@@ -390,7 +380,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: In mortem agit ímpium malítia, et qui odérunt justum, puniéntur.
   - `VulgConte (2009)`: Mors peccatorum pessima: et qui oderunt iustum delinquent.
   - `VulgSistina (1590)`: Mors peccatorum pessima: et qui oderunt iustum delinquent.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Redimet Dominus animas servorum suorum, et non delinquent omnes qui sperant in eo.
@@ -400,4 +390,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Dóminus líberat ánimas servórum suórum, neque puniétur, quicúmque confúgerit ad eum.
   - `VulgConte (2009)`: Redimet Dominus animas servorum suorum: et non delinquent omnes qui sperant in eo.
   - `VulgSistina (1590)`: Redimet Dominus animas servorum suorum: et non delinquent omnes qui sperant in eo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

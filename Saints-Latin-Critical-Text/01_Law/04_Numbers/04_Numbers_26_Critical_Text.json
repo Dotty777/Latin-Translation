@@ -7,15 +7,12 @@
   "usfm_code": "NUM",
   "chapter": 26,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-22T08:01:44Z",
-  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
-  "versification_anchor": "Clem-Saints",
+  "updated_at": "2026-11-25T00:08:06Z",
+  "versification": "Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py.",
+  "versification_anchor": "Clem1598-USFX",
   "orthographic_base": "Clem1598-USFX",
   "versification_notes": [
-    "Clem1598-USFX: 33 verse(s) re-aligned by content (15←26:19, 16←26:20, 17←26:21, 18←26:22, 19←26:23, 20←26:24…)",
-    "VulgHetzenauer (1906): 33 verse(s) re-aligned by content (15←26:19, 16←26:20, 17←26:21, 18←26:22, 19←26:23, 20←26:24…)",
-    "VulgConte (2009): 33 verse(s) re-aligned by content (15←26:19, 16←26:20, 17←26:21, 18←26:22, 19←26:23, 20←26:24…)",
-    "VulgSistina (1590): 33 verse(s) re-aligned by content (15←26:19, 16←26:20, 17←26:21, 18←26:22, 19←26:23, 20←26:24…)"
+    "Clem-Saints: 33 verse(s) re-aligned by content (15←26:24, 16←26:25, 17←26:26, 18←26:27, 19←26:15, 20←26:16…)"
   ],
   "admitted_witnesses": [
     {
@@ -24,16 +21,16 @@
       "tier": 1,
       "weight": 0.88,
       "license": "Public Domain"
-    },
+    }
+  ],
+  "apparatus_witnesses": [
     {
       "siglum": "Clem-Saints",
       "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
       "tier": 1,
-      "weight": 0.86,
-      "license": "Public Domain"
-    }
-  ],
-  "apparatus_witnesses": [
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
     {
       "siglum": "VulgHetzenauer (1906)",
       "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
@@ -73,14 +70,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -101,14 +98,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -129,14 +126,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -157,14 +154,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -185,14 +182,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -213,14 +210,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -241,14 +238,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -269,14 +266,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -297,14 +294,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -325,14 +322,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -353,14 +350,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -381,7 +378,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -391,8 +388,8 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
           ],
@@ -417,7 +414,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -438,14 +435,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -466,14 +463,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -481,6 +478,126 @@
     {
       "id": 65936,
       "verse": 15,
+      "critical_text": "Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:",
+        "Clem-Saints": "Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:",
+        "VulgHetzenauer (1906)": "Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:",
+        "VulgConte (2009)": "Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:",
+        "VulgSistina (1590)": "Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "26:24"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65937,
+      "verse": 16,
+      "critical_text": "Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:",
+        "Clem-Saints": "Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:",
+        "VulgHetzenauer (1906)": "Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:",
+        "VulgConte (2009)": "Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:",
+        "VulgSistina (1590)": "Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "26:25"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65938,
+      "verse": 17,
+      "critical_text": "Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.",
+        "Clem-Saints": "Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.",
+        "VulgHetzenauer (1906)": "Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.",
+        "VulgConte (2009)": "Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.",
+        "VulgSistina (1590)": "Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "26:26"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65939,
+      "verse": 18,
+      "critical_text": "Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.",
+        "Clem-Saints": "Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.",
+        "VulgHetzenauer (1906)": "istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.",
+        "VulgConte (2009)": "Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.",
+        "VulgSistina (1590)": "istae sunt familiae Gad, quarum omnis numerus fuit quadraginta millia quingenti."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "26:27"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65940,
+      "verse": 19,
       "critical_text": "Filii Juda, Her et Onan, qui ambo mortui sunt in terra Chanaan.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -493,27 +610,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:19",
-        "VulgHetzenauer (1906)": "26:19",
-        "VulgConte (2009)": "26:19",
-        "VulgSistina (1590)": "26:19"
+        "Clem-Saints": "26:15"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:19 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65937,
-      "verse": 16,
+      "id": 65941,
+      "verse": 20,
       "critical_text": "Fueruntque filii Juda per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -526,27 +640,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:20",
-        "VulgHetzenauer (1906)": "26:20",
-        "VulgConte (2009)": "26:20",
-        "VulgSistina (1590)": "26:20"
+        "Clem-Saints": "26:16"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:20 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65938,
-      "verse": 17,
+      "id": 65942,
+      "verse": 21,
       "critical_text": "Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -559,27 +670,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:21",
-        "VulgHetzenauer (1906)": "26:21",
-        "VulgConte (2009)": "26:21",
-        "VulgSistina (1590)": "26:21"
+        "Clem-Saints": "26:17"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:21 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65939,
-      "verse": 18,
+      "id": 65943,
+      "verse": 22,
       "critical_text": "Istæ sunt familiæ Juda, quarum omnis numerus fuit septuaginta sex millia quingenti.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -592,27 +700,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:22",
-        "VulgHetzenauer (1906)": "26:22",
-        "VulgConte (2009)": "26:22",
-        "VulgSistina (1590)": "26:22"
+        "Clem-Saints": "26:18"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:22 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65940,
-      "verse": 19,
+      "id": 65944,
+      "verse": 23,
       "critical_text": "Filii Issachar per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -625,27 +730,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:23",
-        "VulgHetzenauer (1906)": "26:23",
-        "VulgConte (2009)": "26:23",
-        "VulgSistina (1590)": "26:23"
+        "Clem-Saints": "26:19"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:23 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65941,
-      "verse": 20,
+      "id": 65945,
+      "verse": 24,
       "critical_text": "Jasub, a quo familia Jasubitarum: Semran, a quo familia Semranitarum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -658,27 +760,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:24",
-        "VulgHetzenauer (1906)": "26:24",
-        "VulgConte (2009)": "26:24",
-        "VulgSistina (1590)": "26:24"
+        "Clem-Saints": "26:20"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:24 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65942,
-      "verse": 21,
+      "id": 65946,
+      "verse": 25,
       "critical_text": "Hæ sunt cognationes Issachar, quarum numerus fuit sexaginta quatuor millia trecenti.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -691,13 +790,10 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:25",
-        "VulgHetzenauer (1906)": "26:25",
-        "VulgConte (2009)": "26:25",
-        "VulgSistina (1590)": "26:25"
+        "Clem-Saints": "26:21"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -721,14 +817,14 @@
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:25 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65943,
-      "verse": 22,
+      "id": 65947,
+      "verse": 26,
       "critical_text": "Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Jalel, a quo familia Jalelitarum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -741,27 +837,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:26",
-        "VulgHetzenauer (1906)": "26:26",
-        "VulgConte (2009)": "26:26",
-        "VulgSistina (1590)": "26:26"
+        "Clem-Saints": "26:22"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:26 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65944,
-      "verse": 23,
+      "id": 65948,
+      "verse": 27,
       "critical_text": "Hæ sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -774,152 +867,17 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:27",
-        "VulgHetzenauer (1906)": "26:27",
-        "VulgConte (2009)": "26:27",
-        "VulgSistina (1590)": "26:27"
+        "Clem-Saints": "26:23"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:27 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65945,
-      "verse": 24,
-      "critical_text": "Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:",
-        "Clem-Saints": "Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:",
-        "VulgHetzenauer (1906)": "Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:",
-        "VulgConte (2009)": "Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:",
-        "VulgSistina (1590)": "Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:"
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "26:15",
-        "VulgHetzenauer (1906)": "26:15",
-        "VulgConte (2009)": "26:15",
-        "VulgSistina (1590)": "26:15"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:15 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65946,
-      "verse": 25,
-      "critical_text": "Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:",
-        "Clem-Saints": "Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:",
-        "VulgHetzenauer (1906)": "Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:",
-        "VulgConte (2009)": "Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:",
-        "VulgSistina (1590)": "Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:"
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "26:16",
-        "VulgHetzenauer (1906)": "26:16",
-        "VulgConte (2009)": "26:16",
-        "VulgSistina (1590)": "26:16"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:16 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65947,
-      "verse": 26,
-      "critical_text": "Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.",
-        "Clem-Saints": "Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.",
-        "VulgHetzenauer (1906)": "Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.",
-        "VulgConte (2009)": "Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.",
-        "VulgSistina (1590)": "Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "26:17",
-        "VulgHetzenauer (1906)": "26:17",
-        "VulgConte (2009)": "26:17",
-        "VulgSistina (1590)": "26:17"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:17 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65948,
-      "verse": 27,
-      "critical_text": "Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.",
-        "Clem-Saints": "Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.",
-        "VulgHetzenauer (1906)": "istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.",
-        "VulgConte (2009)": "Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.",
-        "VulgSistina (1590)": "istae sunt familiae Gad, quarum omnis numerus fuit quadraginta millia quingenti."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "26:18",
-        "VulgHetzenauer (1906)": "26:18",
-        "VulgConte (2009)": "26:18",
-        "VulgSistina (1590)": "26:18"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:18 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -927,138 +885,6 @@
     {
       "id": 65949,
       "verse": 28,
-      "critical_text": "Filii Aser per cognationes suas: Jemna, a quo familia Jemnaitarum: Jessui, a quo familia Jessuitarum: Brie, a quo familia Brieitarum.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Filii Aser per cognationes suas: Jemna, a quo familia Jemnaitarum: Jessui, a quo familia Jessuitarum: Brie, a quo familia Brieitarum.",
-        "Clem-Saints": "Filii Aser per cognationes suas: Jemna, a quo familia Jemnaitarum: Jessui, a quo familia Jessuitarum: Brie, a quo familia Brieitarum.",
-        "VulgHetzenauer (1906)": "Filii Aser per cognationes suas: Iemna, a quo familia Iemnaitarum: Iessui, a quo familia Iessuitarum: Brie, a quo familia Brieitarum.",
-        "VulgConte (2009)": "Filii Aser per cognationes suas: Iemna, a quo familia Iemnaitarum: Iessui, a quo familia Iessuitarum: Brie, a quo familia Brieitarum.",
-        "VulgSistina (1590)": "Filii Aser per cognationes suas: Iemna, a quo familia Iemnaitarum: Iessui, a quo familia Iessuitarum: Brie, a quo familia Brieitarum."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "26:44",
-        "VulgHetzenauer (1906)": "26:44",
-        "VulgConte (2009)": "26:44",
-        "VulgSistina (1590)": "26:44"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:44 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65950,
-      "verse": 29,
-      "critical_text": "Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.",
-        "Clem-Saints": "Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.",
-        "VulgHetzenauer (1906)": "Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.",
-        "VulgConte (2009)": "Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.",
-        "VulgSistina (1590)": "Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "26:45",
-        "VulgHetzenauer (1906)": "26:45",
-        "VulgConte (2009)": "26:45",
-        "VulgSistina (1590)": "26:45"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:45 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65951,
-      "verse": 30,
-      "critical_text": "Nomen autem filiæ Aser fuit Sara.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Nomen autem filiæ Aser fuit Sara.",
-        "Clem-Saints": "Nomen autem filiæ Aser fuit Sara.",
-        "VulgHetzenauer (1906)": "Nomen autem filiæ Aser, fuit Sara.",
-        "VulgConte (2009)": "Nomen autem filiæ Aser, fuit Sara.",
-        "VulgSistina (1590)": "Nomen autem filiae Aser, fuit Sara."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "26:46",
-        "VulgHetzenauer (1906)": "26:46",
-        "VulgConte (2009)": "26:46",
-        "VulgSistina (1590)": "26:46"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:46 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65952,
-      "verse": 31,
-      "critical_text": "Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.",
-        "Clem-Saints": "Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.",
-        "VulgHetzenauer (1906)": "hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.",
-        "VulgConte (2009)": "Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.",
-        "VulgSistina (1590)": "hae cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "26:47",
-        "VulgHetzenauer (1906)": "26:47",
-        "VulgConte (2009)": "26:47",
-        "VulgSistina (1590)": "26:47"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:47 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65953,
-      "verse": 32,
       "critical_text": "Filii Joseph per cognationes suas, Manasse et Ephraim.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1071,27 +897,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:28",
-        "VulgHetzenauer (1906)": "26:28",
-        "VulgConte (2009)": "26:28",
-        "VulgSistina (1590)": "26:28"
+        "Clem-Saints": "26:32"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:28 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65954,
-      "verse": 33,
+      "id": 65950,
+      "verse": 29,
       "critical_text": "De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1104,27 +927,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:29",
-        "VulgHetzenauer (1906)": "26:29",
-        "VulgConte (2009)": "26:29",
-        "VulgSistina (1590)": "26:29"
+        "Clem-Saints": "26:33"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:29 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65955,
-      "verse": 34,
+      "id": 65951,
+      "verse": 30,
       "critical_text": "Galaad habuit filios: Jezer, a quo familia Jezeritarum: et Helec, a quo familia Helecitarum:",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1137,27 +957,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:30",
-        "VulgHetzenauer (1906)": "26:30",
-        "VulgConte (2009)": "26:30",
-        "VulgSistina (1590)": "26:30"
+        "Clem-Saints": "26:34"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:30 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65956,
-      "verse": 35,
+      "id": 65952,
+      "verse": 31,
       "critical_text": "et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1170,27 +987,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:31",
-        "VulgHetzenauer (1906)": "26:31",
-        "VulgConte (2009)": "26:31",
-        "VulgSistina (1590)": "26:31"
+        "Clem-Saints": "26:35"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:31 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65957,
-      "verse": 36,
+      "id": 65953,
+      "verse": 32,
       "critical_text": "et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1203,27 +1017,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:32",
-        "VulgHetzenauer (1906)": "26:32",
-        "VulgConte (2009)": "26:32",
-        "VulgSistina (1590)": "26:32"
+        "Clem-Saints": "26:36"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:32 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65958,
-      "verse": 37,
+      "id": 65954,
+      "verse": 33,
       "critical_text": "Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias: quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1236,27 +1047,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:33",
-        "VulgHetzenauer (1906)": "26:33",
-        "VulgConte (2009)": "26:33",
-        "VulgSistina (1590)": "26:33"
+        "Clem-Saints": "26:37"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:33 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65959,
-      "verse": 38,
+      "id": 65955,
+      "verse": 34,
       "critical_text": "Hæ sunt familiæ Manasse, et numerus earum quinquaginta duo millia septingenti.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1269,27 +1077,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:34",
-        "VulgHetzenauer (1906)": "26:34",
-        "VulgConte (2009)": "26:34",
-        "VulgSistina (1590)": "26:34"
+        "Clem-Saints": "26:38"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:34 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65960,
-      "verse": 39,
+      "id": 65956,
+      "verse": 35,
       "critical_text": "Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1302,27 +1107,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:35",
-        "VulgHetzenauer (1906)": "26:35",
-        "VulgConte (2009)": "26:35",
-        "VulgSistina (1590)": "26:35"
+        "Clem-Saints": "26:39"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:35 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65961,
-      "verse": 40,
+      "id": 65957,
+      "verse": 36,
       "critical_text": "Porro filius Suthala fuit Heran, a quo familia Heranitarum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1335,27 +1137,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:36",
-        "VulgHetzenauer (1906)": "26:36",
-        "VulgConte (2009)": "26:36",
-        "VulgSistina (1590)": "26:36"
+        "Clem-Saints": "26:40"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:36 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65962,
-      "verse": 41,
+      "id": 65958,
+      "verse": 37,
       "critical_text": "Hæ sunt cognationes filiorum Ephraim: quarum numerus fuit triginta duo millia quingenti.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1368,27 +1167,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:37",
-        "VulgHetzenauer (1906)": "26:37",
-        "VulgConte (2009)": "26:37",
-        "VulgSistina (1590)": "26:37"
+        "Clem-Saints": "26:41"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:37 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65963,
-      "verse": 42,
+      "id": 65959,
+      "verse": 38,
       "critical_text": "Isti sunt filii Joseph per familias suas. Filii Benjamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1401,27 +1197,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:38",
-        "VulgHetzenauer (1906)": "26:38",
-        "VulgConte (2009)": "26:38",
-        "VulgSistina (1590)": "26:38"
+        "Clem-Saints": "26:42"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:38 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65964,
-      "verse": 43,
+      "id": 65960,
+      "verse": 39,
       "critical_text": "Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1434,27 +1227,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:39",
-        "VulgHetzenauer (1906)": "26:39",
-        "VulgConte (2009)": "26:39",
-        "VulgSistina (1590)": "26:39"
+        "Clem-Saints": "26:43"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:39 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65965,
-      "verse": 44,
+      "id": 65961,
+      "verse": 40,
       "critical_text": "Filii Bela: Hered, et Noëman. De Hered, familia Hereditarum: de Noëman, familia Noëmanitarum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1467,27 +1257,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:40",
-        "VulgHetzenauer (1906)": "26:40",
-        "VulgConte (2009)": "26:40",
-        "VulgSistina (1590)": "26:40"
+        "Clem-Saints": "26:44"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:40 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65966,
-      "verse": 45,
+      "id": 65962,
+      "verse": 41,
       "critical_text": "Hi sunt filii Benjamin per cognationes suas: quorum numerus fuit quadraginta quinque millia sexcenti.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1500,13 +1287,10 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:41",
-        "VulgHetzenauer (1906)": "26:41",
-        "VulgConte (2009)": "26:41",
-        "VulgSistina (1590)": "26:41"
+        "Clem-Saints": "26:45"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1527,14 +1311,14 @@
           "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
         }
       ],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:41 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65967,
-      "verse": 46,
+      "id": 65963,
+      "verse": 42,
       "critical_text": "Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. Hæ sunt cognationes Dan per familias suas.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1547,27 +1331,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:42",
-        "VulgHetzenauer (1906)": "26:42",
-        "VulgConte (2009)": "26:42",
-        "VulgSistina (1590)": "26:42"
+        "Clem-Saints": "26:46"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:42 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65968,
-      "verse": 47,
+      "id": 65964,
+      "verse": 43,
       "critical_text": "Omnes fuere Suhamitæ, quorum numerus erat sexaginta quatuor millia quadringenti.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1580,13 +1361,10 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "26:43",
-        "VulgHetzenauer (1906)": "26:43",
-        "VulgConte (2009)": "26:43",
-        "VulgSistina (1590)": "26:43"
+        "Clem-Saints": "26:47"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1609,7 +1387,127 @@
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:43 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65965,
+      "verse": 44,
+      "critical_text": "Filii Aser per cognationes suas: Jemna, a quo familia Jemnaitarum: Jessui, a quo familia Jessuitarum: Brie, a quo familia Brieitarum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Aser per cognationes suas: Jemna, a quo familia Jemnaitarum: Jessui, a quo familia Jessuitarum: Brie, a quo familia Brieitarum.",
+        "Clem-Saints": "Filii Aser per cognationes suas: Jemna, a quo familia Jemnaitarum: Jessui, a quo familia Jessuitarum: Brie, a quo familia Brieitarum.",
+        "VulgHetzenauer (1906)": "Filii Aser per cognationes suas: Iemna, a quo familia Iemnaitarum: Iessui, a quo familia Iessuitarum: Brie, a quo familia Brieitarum.",
+        "VulgConte (2009)": "Filii Aser per cognationes suas: Iemna, a quo familia Iemnaitarum: Iessui, a quo familia Iessuitarum: Brie, a quo familia Brieitarum.",
+        "VulgSistina (1590)": "Filii Aser per cognationes suas: Iemna, a quo familia Iemnaitarum: Iessui, a quo familia Iessuitarum: Brie, a quo familia Brieitarum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "26:28"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65966,
+      "verse": 45,
+      "critical_text": "Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.",
+        "Clem-Saints": "Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.",
+        "VulgHetzenauer (1906)": "Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.",
+        "VulgConte (2009)": "Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.",
+        "VulgSistina (1590)": "Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "26:29"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65967,
+      "verse": 46,
+      "critical_text": "Nomen autem filiæ Aser fuit Sara.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Nomen autem filiæ Aser fuit Sara.",
+        "Clem-Saints": "Nomen autem filiæ Aser fuit Sara.",
+        "VulgHetzenauer (1906)": "Nomen autem filiæ Aser, fuit Sara.",
+        "VulgConte (2009)": "Nomen autem filiæ Aser, fuit Sara.",
+        "VulgSistina (1590)": "Nomen autem filiae Aser, fuit Sara."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "26:30"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 65968,
+      "verse": 47,
+      "critical_text": "Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.",
+        "Clem-Saints": "Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.",
+        "VulgHetzenauer (1906)": "hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.",
+        "VulgConte (2009)": "Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.",
+        "VulgSistina (1590)": "hae cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "26:31"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1630,14 +1528,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1658,14 +1556,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1686,14 +1584,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1714,14 +1612,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1742,14 +1640,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1770,14 +1668,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1798,14 +1696,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1826,14 +1724,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1854,14 +1752,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1882,7 +1780,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1892,8 +1790,8 @@
           "slot_index": -1,
           "lemma": "familia",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgSistina (1590)"
           ],
           "variants": [
@@ -1918,7 +1816,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1939,14 +1837,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1967,14 +1865,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -1995,14 +1893,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2023,14 +1921,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2051,7 +1949,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -2061,8 +1959,8 @@
           "slot_index": -1,
           "lemma": "quia",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
           ],
@@ -2087,7 +1985,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2108,14 +2006,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2136,14 +2034,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -2164,14 +2062,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false

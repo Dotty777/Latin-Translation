@@ -51,7 +51,7 @@
 
 **7:23** And He wiped out every substance that was on the earth, from man to livestock, both the crawling creature and the birds of the sky; and they were wiped out from the earth. But Noah alone remained, and those who were with him in the ark.
 
-**7:24** And the waters prevailed over the lands for one hundred fifty days.
+**7:24** And the waters prevailed over the earth for one hundred fifty days.
 
 ## Translator Notes
 

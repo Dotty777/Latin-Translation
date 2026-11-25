@@ -1,6 +1,6 @@
 # Acts 28 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (31 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -61,13 +61,11 @@
 
 **28:28** Let it be known to you, therefore, that this salvation of God has been sent to the Gentiles, and they themselves will listen."
 
+**28:29** And when he had said these things, the Jews departed from him, having much debate among themselves.
+
 **28:30** Now he stayed for two full years in his own rented quarters, and he welcomed all who came in to him,
 
 **28:31** proclaiming the kingdom of God and teaching the things concerning the Lord Jesus Christ with all boldness, without restriction.
-
-## Additional Verses (Not in Saints Numbering)
-
-**28:29** *(after `28:28`)* And when he had said these things, the Jews departed from him, having much debate among themselves.
 
 ## Translator Notes
 
@@ -75,4 +73,4 @@
 - **28:4** — Latin ultio ('vengeance' or 'retribution') corresponds to Greek Dike ('Justice'), reflecting a pagan notion of personified divine retribution, and the Vulgate uses the present tense non sinit ('does not allow').
 - **28:11** — Latin Castorum (literally 'of the Castors') is the idiomatic Latin plural for the twin deities Castor and Pollux, patron gods of sailors (corresponding to Greek Dioskouroi).
 - **28:25** — The Vulgate reads patres nostros ('our fathers'), whereas many critical Greek editions read 'your fathers.'
-- **28:28** — Verse 29 (reporting that the Jews departed debating among themselves) is absent from this Latin text, following the earliest Vulgate manuscripts.
+- **28:29** — Native Clementine Vulgate includes Acts 28:29 (absent from Saints.Bible Greek numbering and some early Vulgate manuscripts).

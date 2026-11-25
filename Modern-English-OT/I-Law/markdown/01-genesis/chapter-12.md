@@ -5,7 +5,7 @@
 
 ## Text
 
-**12:1** Now the Lord said to Abram, "Go out from your land, and from your relatives, and from your father's house, into the land that I will show you.
+**12:1** Now the Lord said to Abram, "Go out from your land, and from your relatives, and from your father's house, and come into the land that I will show you.
 
 **12:2** And I will make you into a great nation, and I will bless you, and I will magnify your name, and you will be blessed.
 
@@ -39,7 +39,7 @@
 
 **12:17** But the Lord scourged Pharaoh and his house with very great plagues because of Sarai, Abram's wife.
 
-**12:18** And Pharaoh called Abram and said to him, "What is it that you have done to me? Why did you not disclose that she was your wife?
+**12:18** And Pharaoh called Abram and said to him, "What is this that you have done to me? Why did you not disclose that she was your wife?
 
 **12:19** For what reason did you say she was your sister, so that I might take her for myself as a wife? Now therefore, here is your wife; take her and go."
 

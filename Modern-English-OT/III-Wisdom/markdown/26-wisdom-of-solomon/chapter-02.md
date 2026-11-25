@@ -1,6 +1,6 @@
 # Wisdom of Solomon 2 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (24 verses, 5 translator notes)  
+> **Status:** `draft: true` (25 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Wisdom of Solomon`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -51,7 +51,9 @@
 
 **2:23** For God created man indestructible, and made him in the image of His own likeness.
 
-**2:24** But through the envy of the devil death entered the world, and those who are on his side imitate him.
+**2:24** But through the envy of the devil death entered the world,
+
+**2:25** and those who are on his side imitate him.
 
 ## Translator Notes
 
@@ -59,4 +61,5 @@
 - **2:3** — The Latin places "and our life will pass away like the trace of a cloud ... weighed down by its heat" in verse 3, whereas the Greek has it in verse 4, after the statement about our name.
 - **2:13** — Vulgate filium Dei ("son of God") differs from the Greek paida kyriou ("servant/child of the Lord"), a distinctive Latin wording repeated with verus filius Dei in 2:18.
 - **2:23** — Vulgate ad imaginem similitudinis suae ("in the image of His own likeness") preserves an Old Latin reading reflecting the Greek variant idiotetos ("own nature") rather than the standard Septuagint aidiotetos ("eternity").
-- **2:24** — Vulgate imitantur autem illum ("imitate him [the devil]") is a well-known Vulgate-distinct reading contrasting with the Greek peirazousin de auton ("experience it [death]"); this verse also combines traditional 2:24-25 in the Clementine Vulgate.
+- **2:24** — Native Vulgate separates 2:24 from 2:25 (both map to Saints/Greek 2:24).
+- **2:25** — Native Vulgate 2:25 corresponds to the second half of Saints/Greek 2:24. Vulgate imitantur autem illum ("imitate him [the devil]") is a well-known Vulgate-distinct reading contrasting with the Greek peirazousin de auton ("experience it [death]").

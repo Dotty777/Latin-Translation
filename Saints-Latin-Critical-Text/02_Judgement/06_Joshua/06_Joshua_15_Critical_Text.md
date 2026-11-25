@@ -1,8 +1,8 @@
 # Joshua 15 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:39Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -112,7 +103,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Joshua 15:1
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **usque ad** VulgSistina (1590)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **usque ad** VulgSistina (1590)
 
 ### Joshua 15:5
 - *Disregarded Surface Variant:* kept `(adopted text)` over `eumdem / eundem`, `eumdem / eundem` (VulgConte (2009), VulgHetzenauer (1906)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -140,7 +131,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Igitur sors filiorum Iudæ per cognationes suas ista fuit: A termino Edom, desertum Sin contra Meridiem, et usque ad extremam partem australis plagæ.
   - `VulgConte (2009)`: Igitur sors filiorum Iudæ per cognationes suas ista fuit: A termino Edom, desertum Sin contra Meridiem, et usque ad extremam partem australis plagæ.
   - `VulgSistina (1590)`: Igitur sors filiorum Iudae per cognationes suas ista fuit: A termino Edom, usque ad desertum Sin contra Meridiem, et usque ad extremam partem australis plagae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Initium ejus a summitate maris salsissimi, et a lingua ejus, quæ respicit meridiem.
@@ -149,7 +140,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: initium eius a summitate maris salsissimi, et a lingua eius, quæ respicit Meridiem.
   - `VulgConte (2009)`: Initium eius a summitate maris salsissimi, et a lingua eius, quæ respicit Meridiem.
   - `VulgSistina (1590)`: initium eius a summitate maris salsissimi, et a lingua eius, quae respicit Meridiem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Egrediturque contra ascensum Scorpionis, et pertransit in Sina: ascenditque in Cadesbarne, et pervenit in Esron, ascendens ad Addar, et circuiens Carcaa,
@@ -158,7 +149,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Egrediturque contra Ascensum Scorpionis, et pertransit in Sina: ascenditque in Cadesbarne, et pervenit in Esron, ascendens ad Addar, et circuiens Carcaa,
   - `VulgConte (2009)`: Egrediturque contra Ascensum Scorpionis, et pertransit in Sina: ascenditque in Cadesbarne, et pervenit in Esron, ascendens ad Addar, et circuiens Carcaa,
   - `VulgSistina (1590)`: Egrediturque contra Ascensum Scorpionis, et pertransit in Sina: ascenditque in Cadesbarne, et pervenit in Esron, ascendens ad Addar, et circuiens Carcaa,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** atque inde pertransiens in Asemona, et perveniens ad torrentem Ægypti: eruntque termini ejus mare magnum. Hic erit finis meridianæ plagæ.
@@ -167,7 +158,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: atque inde pertransiens in Asemona, et perveniens ad Torrentem Ægypti: eruntque termini eius mare magnum. hic erit finis meridianæ plagæ.
   - `VulgConte (2009)`: atque inde pertransiens in Asemona, et perveniens ad Torrentem Ægypti: eruntque termini eius mare magnum. Hic erit finis meridianæ plagæ.
   - `VulgSistina (1590)`: atque inde pertransiens in Asemona, et perveniens ad Torrentem Aegypti: eruntque termini eius mare magnum. hic erit finis meridianae plagae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ab oriente vero erit initium, mare salsissimum usque ad extrema Jordanis: et ea quæ respiciunt ad aquilonem, a lingua maris usque ad eumdem Jordanis fluvium.
@@ -176,7 +167,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ab Oriente vero erit initium, mare salsissimum usque ad extrema Iordanis: et ea quæ respiciunt ad Aquilonem a lingua maris usque ad eundem Iordanis fluvium.
   - `VulgConte (2009)`: Ab Oriente vero erit initium, mare salsissimum usque ad extrema Iordanis: et ea quæ respiciunt ad Aquilonem a lingua maris usque ad eundem Iordanis fluvium.
   - `VulgSistina (1590)`: Ab Oriente vero erit initium, mare salsissimum usque ad extrema Iordanis: et ea quae respiciunt ad Aquilonem a lingua maris usque ad eumdem Iordanis fluvium.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ascenditque terminus in Beth Hagla, et transit ab aquilone in Beth Araba, ascendens ad lapidem Boën filii Ruben:
@@ -185,7 +176,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ascenditque terminus in Beth hagla, et transit ab Aquilone in Beth Araba: ascendens ad lapidem Boen filii Ruben.
   - `VulgConte (2009)`: Ascenditque terminus in Beth-hagla, et transit ab Aquilone in Beth Araba: ascendens ad lapidem Boen filii Ruben.
   - `VulgSistina (1590)`: ascenditque terminus in Beth hagla, et transit ab Aquilone in Beth Araba: ascendens ad lapidem Boen filii Ruben.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et tendens usque ad terminos Debera de valle Achor, contra aquilonem respiciens Galgala, quæ est ex adverso ascensionis Adommim, ab australi parte torrentis: transitque aquas, quæ vocantur fons solis: et erunt exitus ejus ad fontem Rogel.
@@ -194,7 +185,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et tendens usque ad terminos Debera de Valle Achor, contra Aquilonem respiciens Galgala, quæ est ex adverso Ascensionis Adommim, ab australi parte torrentis: transitque aquas, quæ vocantur Fons solis: et erunt exitus eius ad Fontem rogel.
   - `VulgConte (2009)`: Et tendens usque ad terminos Debera de Valle Achor, contra Aquilonem respiciens Galgala, quæ est ex adverso Ascensionis Adommim, ab australi parte torrentis: transitque aquas, quæ vocantur Fons Solis: et erunt exitus eius ad Fontem Rogel.
   - `VulgSistina (1590)`: et tendens usque ad terminos Debera de Valle Achor, contra Aquilonem respiciens Galgala, quae est ex adverso Ascensionis Adommim, ab australi parte torrentis: transitque aquas, quae vocantur Fons solis: et erunt exitus eius ad Fontem rogel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ascenditque per convallem filii Ennom ex latere Jebusæi ad meridiem, hæc est Jerusalem: et inde se erigens ad verticem montis, qui est contra Geennom ad occidentem in summitate vallis Raphaim contra aquilonem:
@@ -203,7 +194,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ascenditque per convallem filii Ennom ex latere Iebusæi ad Meridiem, hæc est Ierusalem: et inde se erigens ad verticem montis, qui est contra Geennom ad Occidentem in summitate Vallis Raphaim contra Aquilonem.
   - `VulgConte (2009)`: Ascenditque per convallem filii Ennom ex latere Iebusæi ad Meridiem, hæc est Ierusalem: et inde se erigens ad verticem montis, qui est contra Geennom ad Occidentem in summitate Vallis Raphaim contra Aquilonem.
   - `VulgSistina (1590)`: ascenditque per convallem filii Ennom ex latere Iebusaei ad Meridiem, haec est Ierusalem: et inde se erigens ad verticem montis, qui est contra Geennom ad Occidentem in summitate Vallis Raphaim contra Aquilonem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** pertransitque a vertice montis usque ad fontem aquæ Nephtoa: et pervenit usque ad vicos montis Ephron: inclinaturque in Baala, quæ est Cariathiarim, id est, urbs silvarum.
@@ -212,7 +203,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: pertransitque a vertice montis usque ad fontem aquæ Nephtoa: et pervenit usque ad vicos montis Ephron: inclinaturque in Baala, quæ est Cariathiarim, id est, urbs silvarum.
   - `VulgConte (2009)`: Pertransitque a vertice montis usque ad fontem aquæ Nephtoa: et pervenit usque ad vicos montis Ephron: inclinaturque in Baala, quæ est Cariathiarim, id est, urbs silvarum.
   - `VulgSistina (1590)`: pertransitque a vertice montis usque ad fontem aquae Nephtoa: et pervenit usque ad vicos montis Ephron: inclinaturque in Baala, quae est Cariathiarim, id est, urbs silvarum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et circuit de Baala contra occidentem, usque ad montem Seir: transitque juxta latus montis Jarim ad aquilonem in Cheslon: et descendit in Bethsames, transitque in Thamna.
@@ -221,7 +212,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et circuit de Baala contra Occidentem, usque ad montem Seir: transitque iuxta latus montis Iarim ad Aquilonem in Cheslon: et descendit in Bethsames, transitque in Thamna.
   - `VulgConte (2009)`: Et circuit de Baala contra Occidentem, usque ad montem Seir: transitque iuxta latus montis Iarim ad Aquilonem in Cheslon: et descendit in Bethsames, transitque in Thamna.
   - `VulgSistina (1590)`: et circuit de Baala contra Occidentem, usque ad montem Seir: transitque iuxta latus montis Iarim ad Aquilonem in Cheslon: et descendit in Bethsames, transitque in Thamna.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et pervenit contra aquilonem partis Accaron ex latere: inclinaturque Sechrona, et transit montem Baala: pervenitque in Jebneel, et magni maris contra occidentem fine concluditur.
@@ -230,7 +221,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et pervenit contra Aquilonem partis Accaron ex latere: inclinaturque Sechrona, et transit montem Baala: pervenitque in Iebneel, et magni maris contra occidentem fine concluditur.
   - `VulgConte (2009)`: Et pervenit contra Aquilonem partis Accaron ex latere: inclinaturque Sechrona, et transit montem Baala: pervenitque in Iebneel, et magni maris contra Occidentem fine concluditur.
   - `VulgSistina (1590)`: et pervenit contra Aquilonem partis Accaron ex latere: inclinaturque Sechrona, et transit montem Baala: pervenitque in Iebneel, et magni maris contra occidentem fine concluditur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hi sunt termini filiorum Juda per circuitum in cognationibus suis.
@@ -239,7 +230,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: hi sunt termini filiorum Iuda per circuitum in cognationibus suis.
   - `VulgConte (2009)`: Hi sunt termini filiorum Iuda per circuitum in cognationibus suis.
   - `VulgSistina (1590)`: hi sunt termini filiorum Iuda per circuitum in cognationibus suis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Caleb vero filio Jephone dedit partem in medio filiorum Juda, sicut præceperat ei Dominus: Cariath Arbe patris Enac, ipsa est Hebron.
@@ -248,7 +239,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Caleb vero filio Iephone dedit partem in medio filiorum Iuda, sicut præceperat ei Dominus: Cariath Arbe patris Enac, ipsa est Hebron.
   - `VulgConte (2009)`: Caleb vero filio Iephone dedit partem in medio filiorum Iuda, sicut præceperat ei Dominus: Cariath Arbe patris Enac, ipsa est Hebron.
   - `VulgSistina (1590)`: Caleb vero filio Iephone dedit partem in medio filiorum Iuda, sicut praeceperat ei Dominus: Cariath Arbe patris Enac, ipsa est Hebron.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Delevitque ex ea Caleb tres filios Enac, Sesai et Ahiman et Tholmai de stirpe Enac.
@@ -257,7 +248,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Delevitque ex ea Caleb tres filios Enac, Sesai et Ahiman et Tholmai de stirpe Enac.
   - `VulgConte (2009)`: Delevitque ex ea Caleb tres filios Enac, Sesai et Ahiman et Tholmai de stirpe Enac.
   - `VulgSistina (1590)`: Delevitque ex ea Caleb tres filios Enac, Sesai et Ahiman et Tholmai de stirpe Enac.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Atque inde conscendens venit ad habitatores Dabir, quæ prius vocabatur Cariath Sepher, id est, civitas litterarum.
@@ -266,7 +257,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Atque inde conscendens venit ad habitatores Dabir, quæ prius vocabatur Cariath Sepher, id est, civitas litterarum.
   - `VulgConte (2009)`: Atque inde conscendens venit ad habitatores Dabir, quæ prius vocabatur Cariath Sepher, id est, civitas litterarum.
   - `VulgSistina (1590)`: Atque inde conscendens venit ad habitatores Dabir, quae prius vocabatur Cariath Sepher, id est, civitas litterarum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixitque Caleb: Qui percusserit Cariath Sepher, et ceperit eam, dabo ei Axam filiam meam uxorem.
@@ -275,7 +266,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixitque Caleb: Qui percusserit Cariath Sepher, et ceperit eam, dabo ei Axam filiam meam uxorem.
   - `VulgConte (2009)`: Dixitque Caleb: Qui percusserit Cariath Sepher, et ceperit eam, dabo ei Axam filiam meam uxorem.
   - `VulgSistina (1590)`: Dixitque Caleb: Qui percusserit Cariath Sepher, et ceperit eam, dabo ei Axam filiam meam uxorem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cepitque eam Othoniel filius Cenez frater Caleb junior: deditque ei Axam filiam suam uxorem.
@@ -284,7 +275,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cepitque eam Othoniel filius Cenez frater Caleb iunior: deditque ei Axam filiam suam uxorem.
   - `VulgConte (2009)`: Cepitque eam Othoniel filius Cenez frater Caleb iunior: deditque ei Axam filiam suam uxorem.
   - `VulgSistina (1590)`: Cepitque eam Othoniel filius Cenez frater Caleb iunior: deditque ei Axam filiam suam uxorem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quæ, cum pergerent simul, suasa est a viro suo ut peteret a patre suo agrum. Suspiravitque ut sedebat in asino: cui Caleb: Quid habes? inquit.
@@ -293,7 +284,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quæ, cum pergerent simul, suasa est a viro suo ut peteret a patre suo agrum, suspiravitque ut sedebat in asino. Cui Caleb: Quid habes, inquit?
   - `VulgConte (2009)`: Quæ, cum pergerent simul, suasa est a viro suo ut peteret a patre suo agrum, suspiravitque ut sedebat in asino. Cui Caleb: Quid habes, inquit?
   - `VulgSistina (1590)`: Quae, cum pergerent simul, suasa est a viro suo ut peteret a patre suo agrum, suspiravitque ut sedebat in asino. Cui Caleb: Quid habes, inquit?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** At illa respondit: Da mihi benedictionem: terram australem et arentem dedisti mihi; junge et irriguam. Dedit itaque ei Caleb irriguum superius et inferius.
@@ -302,7 +293,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: At illa respondit: Da mihi benedictionem: Terram australem et arentem dedisti mihi, iunge et irriguam. Dedit itaque ei Caleb irriguum superius et inferius.
   - `VulgConte (2009)`: At illa respondit: Da mihi benedictionem: Terram australem et arentem dedisti mihi, iunge et irriguam. Dedit itaque ei Caleb irriguum superius et inferius.
   - `VulgSistina (1590)`: At illa respondit: Da mihi benedictionem: Terram australem et arentem dedisti mihi, iunge et irriguam. Dedit itaque ei Caleb irriguum superius et inferius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæc est possessio tribus filiorum Juda per cognationes suas.
@@ -311,7 +302,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hæc est possessio tribus filiorum Iuda per cognationes suas.
   - `VulgConte (2009)`: Hæc est possessio tribus filiorum Iuda per cognationes suas.
   - `VulgSistina (1590)`: Haec est possessio tribus filiorum Iuda per cognationes suas.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Erantque civitates ab extremis partibus filiorum Juda juxta terminos Edom a meridie: Cabseel et Eder et Jagur,
@@ -320,7 +311,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Erantque civitates ab extremis partibus filiorum Iuda iuxta terminos Edom a Meridie: Cabseel et Eder et Iagur,
   - `VulgConte (2009)`: Erantque civitates ab extremis partibus filiorum Iuda iuxta terminos Edom a Meridie: Cabseel et Eder et Iagur,
   - `VulgSistina (1590)`: Erantque civitates ab extremis partibus filiorum Iuda iuxta terminos Edom a Meridie: Cabseel et Eder et Iagur,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Cyna et Dimona et Adada,
@@ -329,7 +320,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Cyna et Dimona et Adada,
   - `VulgConte (2009)`: et Cyna et Dimona et Adada,
   - `VulgSistina (1590)`: et Cyna et Dimona et Adada,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Cades et Asor et Jethnam,
@@ -338,7 +329,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Cades, et Asor, et Iethnam,
   - `VulgConte (2009)`: et Cades, et Asor, et Iethnam,
   - `VulgSistina (1590)`: et Cades, et Asor, et Iethnam,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ziph et Telem et Baloth,
@@ -347,7 +338,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ziph et Telem et Baloth,
   - `VulgConte (2009)`: Ziph et Telem et Baloth,
   - `VulgSistina (1590)`: Ziph et Telem et Baloth,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Asor nova et Carioth, Hesron, hæc est Asor;
@@ -356,7 +347,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Asor nova et Carioth, Hesron, hæc est Asor.
   - `VulgConte (2009)`: Asor nova et Carioth Hesron, hæc est Asor,
   - `VulgSistina (1590)`: Asor nova et Carioth, Hesron, haec est Asor.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Amam, Sama, et Molada,
@@ -365,7 +356,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Amam, Sama, et Molada,
   - `VulgConte (2009)`: Amam, Sama, et Molada,
   - `VulgSistina (1590)`: Amam, Sama, et Molada,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Asergadda et Hassemon et Bethphelet,
@@ -374,7 +365,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Asergadda et Hassemon et Bethphelet,
   - `VulgConte (2009)`: et Asergadda et Hassemon et Bethphelet,
   - `VulgSistina (1590)`: et Asergadda et Hassemon et Bethphelet,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Hasersual et Bersabee et Baziothia,
@@ -383,7 +374,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Hasersual et Bersabee et Baziothia,
   - `VulgConte (2009)`: et Hasersual et Bersabee et Baziothia,
   - `VulgSistina (1590)`: et Hasersual et Bersabee et Baziothia,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Baala et Jim et Esem,
@@ -392,7 +383,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Baala et Iim et Esem,
   - `VulgConte (2009)`: et Baala et Iim et Esem,
   - `VulgSistina (1590)`: et Baala et Im et Esem,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Eltholad et Cesil et Harma,
@@ -401,7 +392,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Eltholad et Cesil et Harma,
   - `VulgConte (2009)`: et Eltholad et Cesil et Harma,
   - `VulgSistina (1590)`: et Eltholad et Cesil et Harma,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Siceleg et Medemena et Sensenna,
@@ -410,7 +401,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Siceleg et Medemena et Sensenna,
   - `VulgConte (2009)`: et Siceleg et Medemena et Sensenna,
   - `VulgSistina (1590)`: et Siceleg et Medemena et Sensenna,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Lebaoth et Selim et Aën et Remon. Omnes civitates viginti novem, et villæ earum.
@@ -419,7 +410,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Lebaoth et Selim et Aen et Remon. omnes civitates vigintinovem, et villæ earum.
   - `VulgConte (2009)`: Lebaoth et Selim et Aen et Remon. Omnes civitates vigintinovem, et villæ earum.
   - `VulgSistina (1590)`: Lebaoth et Selim et Aen et Remon. omnes civitates vigintinovem, et villae earum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In campestribus vero: Estaol et Sarea et Asena,
@@ -428,7 +419,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In campestribus vero: Estaol et Sarea et Asena,
   - `VulgConte (2009)`: In campestribus vero: Estaol et Sarea et Asena,
   - `VulgSistina (1590)`: In campestribus vero: Estaol et Sarea et Asena,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 34 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Zanoë et Ængannim et Taphua et Enaim,
@@ -437,7 +428,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Zanoe et Ængannim et Taphua et Enaim,
   - `VulgConte (2009)`: et Zanoe et Ængannim et Taphua et Enaim,
   - `VulgSistina (1590)`: et Zanoe et Aengannim et Taphua et Enaim,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 35 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Jerimoth et Adullam, Socho et Azeca,
@@ -446,7 +437,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Ierimoth et Adullam, Socho et Azeca,
   - `VulgConte (2009)`: et Ierimoth et Adullam, Socho et Azeca,
   - `VulgSistina (1590)`: et Ierimoth et Adullam, Socho et Azeca,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 36 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Saraim et Adithaim et Gedera et Gederothaim: urbes quatuordecim, et villæ earum.
@@ -455,7 +446,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Saraim et Adithaim et Gedera et Gederothaim: urbes quattuordecim, et villæ earum.
   - `VulgConte (2009)`: et Saraim et Adithaim et Gedera et Gederothaim: urbes quattuordecim, et villæ earum.
   - `VulgSistina (1590)`: et Saraim et Adithaim et Gedera et Gederothaim: urbes quattuordecim, et villae earum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 37 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sanan et Hadassa et Magdalgad,
@@ -464,7 +455,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sanan et Hadassa et Magdalgad,
   - `VulgConte (2009)`: Sanan et Hadassa et Magdalgad,
   - `VulgSistina (1590)`: Sanan et Hadassa et Magdalgad,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 38 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Delean et Masepha et Jecthel,
@@ -473,7 +464,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Delean et Masepha et Iecthel,
   - `VulgConte (2009)`: Delean et Masepha et Iecthel,
   - `VulgSistina (1590)`: Delean et Masepha et Iecthel,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 39 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Lachis et Bascath et Eglon,
@@ -482,7 +473,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Lachis et Bascath et Eglon,
   - `VulgConte (2009)`: Lachis et Bascath et Eglon,
   - `VulgSistina (1590)`: Lachis et Bascath et Eglon,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 40 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Chebbon et Leheman et Cethlis,
@@ -491,7 +482,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Chebbon et Leheman et Cethlis
   - `VulgConte (2009)`: Chebbon et Leheman et Cethlis,
   - `VulgSistina (1590)`: Chebbon et Leheman et Cethlis
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 41 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Gideroth et Bethdagon et Naama et Maceda: civitates sedecim, et villæ earum.
@@ -500,7 +491,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Gideroth et Bethdagon et Naama et Maceda: civitates sedecim, et villæ earum.
   - `VulgConte (2009)`: et Gideroth et Bethdagon et Naama et Maceda: civitates sedecim, et villæ earum.
   - `VulgSistina (1590)`: et Gideroth et Bethdagon et Naama et Maceda: civitates sedecim, et villae earum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 42 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Labana et Ether et Asan,
@@ -509,7 +500,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Labana et Ether et Asan,
   - `VulgConte (2009)`: Labana et Ether et Asan,
   - `VulgSistina (1590)`: Labana et Ether et Asan,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 43 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Jephtha et Esna et Nesib,
@@ -518,7 +509,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iephtha et Esna et Nesib,
   - `VulgConte (2009)`: Iephtha et Esna et Nesib,
   - `VulgSistina (1590)`: Iephtha et Esna et Nesib,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 44 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Ceila et Achzib et Maresa: civitates novem, et villæ earum.
@@ -527,7 +518,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Ceila et Achzib et Maresa: civitates novem, et villæ earum.
   - `VulgConte (2009)`: et Ceila et Achzib et Maresa: civitates novem, et villæ earum.
   - `VulgSistina (1590)`: et Ceila et Achzib et Maresa: civitates novem, et villae earum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 45 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Accaron cum vicis et villulis suis.
@@ -536,7 +527,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Accaron cum vicis et villulis suis.
   - `VulgConte (2009)`: Accaron cum vicis et villulis suis.
   - `VulgSistina (1590)`: Accaron cum vicis et villulis suis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 46 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ab Accaron usque ad mare: omnia quæ vergunt ad Azotum et viculos ejus.
@@ -545,7 +536,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ab Accaron usque ad mare: omnia quæ vergunt ad Azotum et viculos eius.
   - `VulgConte (2009)`: Ab Accaron usque ad mare: omnia quæ vergunt ad Azotum et viculos eius.
   - `VulgSistina (1590)`: Ab Accaron usque ad mare: omnia quae vergunt ad Azotum et viculos eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 47 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Azotus cum vicis et villulis suis. Gaza cum vicis et villulis suis, usque ad torrentem Ægypti, et mare magnum terminus ejus.
@@ -554,7 +545,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Azotus cum vicis et villulis suis. Gaza cum vicis et villulis suis, usque ad torrentem Ægypti, et mare magnum terminus eius.
   - `VulgConte (2009)`: Azotus cum vicis et villulis suis. Gaza cum vicis et villulis suis, usque ad torrentem Ægypti, et mare magnum terminus eius.
   - `VulgSistina (1590)`: Azotus cum vicis et villulis suis. Gaza cum vicis et villulis suis, usque ad torrentem Aegypti, et mare magnum terminus eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 48 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et in monte: Samir et Jether et Socoth
@@ -563,7 +554,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et in monte: Samir et Iether et Socoth
   - `VulgConte (2009)`: Et in monte: Samir et Iether et Socoth,
   - `VulgSistina (1590)`: Et in monte: Samir et Iether et Socoth
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 49 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Danna et Cariathsenna, hæc est Dabir:
@@ -572,7 +563,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Danna et Cariathsenna, hæc est Dabir:
   - `VulgConte (2009)`: et Danna et Cariathsenna, hæc est Dabir:
   - `VulgSistina (1590)`: et Danna et Cariathsenna, haec est Dabir:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 50 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Anab et Istemo et Anim,
@@ -581,7 +572,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Anab et Istemo et Anim,
   - `VulgConte (2009)`: Anab et Istemo et Anim,
   - `VulgSistina (1590)`: Anab et Istemo et Anim,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 51 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Gosen et Olon et Gilo: civitates undecim et villæ earum.
@@ -590,7 +581,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Gosen et Olon et Gilo: civitates undecim et villæ earum.
   - `VulgConte (2009)`: Gosen et Olon et Gilo: civitates undecim et villæ earum.
   - `VulgSistina (1590)`: Gosen et Olon et Gilo: civitates undecim et villae earum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 52 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Arab et Ruma et Esaan,
@@ -599,7 +590,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Arab et Ruma et Esaan,
   - `VulgConte (2009)`: Arab et Ruma et Esaan,
   - `VulgSistina (1590)`: Arab et Ruma et Esaan,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 53 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Janum et Beththaphua et Apheca,
@@ -608,7 +599,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Ianum et Beththaphua et Apheca,
   - `VulgConte (2009)`: et Ianum et Beththaphua et Apheca,
   - `VulgSistina (1590)`: et Ianum et Beththaphua et Apheca,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 54 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Athmatha, et Cariath Arbe, hæc est Hebron, et Sior: civitates novem, et villæ earum.
@@ -617,7 +608,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Athmatha et Cariath Arbe, hæc est Hebron, et Sior: civitates novem, et villæ earum.
   - `VulgConte (2009)`: Athmatha et Cariath Arbe, hæc est Hebron, et Sior: civitates novem, et villæ earum.
   - `VulgSistina (1590)`: Athmatha et Cariath Arbe, haec est Hebron, et Sior: civitates novem, et villae earum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 55 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Maon et Carmel et Ziph et Jota,
@@ -626,7 +617,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Maon et Carmel et Ziph et Iota,
   - `VulgConte (2009)`: Maon et Carmel et Ziph et Iota,
   - `VulgSistina (1590)`: Maon et Carmel et Ziph et Iota,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 56 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Jezraël et Jucadam et Zanoë,
@@ -635,7 +626,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iezrael et Iucadam et Zanoe,
   - `VulgConte (2009)`: Iezrael et Iucadam et Zanoe,
   - `VulgSistina (1590)`: Iezrael et Iucadam et Zanoe,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 57 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Accain, Gabaa et Thamna: civitates decem et villæ earum.
@@ -644,7 +635,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Accain Gabaa et Thamna: civitates decem, et villæ earum.
   - `VulgConte (2009)`: Accain, Gabaa et Thamna: civitates decem, et villæ earum.
   - `VulgSistina (1590)`: Accain Gabaa et Thamna: civitates decem, et villae earum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 58 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Halhul, et Besur, et Gedor,
@@ -653,7 +644,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Halhul, et Besur, et Gedor,
   - `VulgConte (2009)`: Halhul, et Besur, et Gedor,
   - `VulgSistina (1590)`: Halhul, et Besur, et Gedor,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 59 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Mareth, et Bethanoth, et Eltecon: civitates sex et villæ earum.
@@ -662,7 +653,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Mareth, et Bethanoth, et Eltecon: civitates sex et villæ earum.
   - `VulgConte (2009)`: Mareth, et Bethanoth, et Eltecon: civitates sex et villæ earum.
   - `VulgSistina (1590)`: Mareth, et Bethanoth, et Eltecon: civitates sex et villae earum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 60 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cariathbaal, hæc est Cariathiarim urbs silvarum, et Arebba: civitates duæ, et villæ earum.
@@ -671,7 +662,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cariathbaal, hæc est Cariathiarim urbs silvarum, et Arebba: civitates duæ, et villæ earum.
   - `VulgConte (2009)`: Cariathbaal, hæc est Cariathiarim urbs silvarum, et Arebba: civitates duæ, et villæ earum.
   - `VulgSistina (1590)`: Cariathbaal, haec est Cariathiarim urbs silvarum, et Arebba: civitates duae, et villae earum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 61 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In deserto Betharaba, Meddin, et Sachacha,
@@ -680,7 +671,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In deserto Betharaba, Meddin, et Sachacha
   - `VulgConte (2009)`: In deserto Betharaba, Meddin, et Sachacha,
   - `VulgSistina (1590)`: In deserto Betharaba, Meddin, et Sachacha
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 62 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Nebsan, et civitas salis, et Engaddi: civitates sex, et villæ earum.
@@ -689,7 +680,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Nebsan, et civitas salis, et Engaddi: civitates sex, et villæ earum.
   - `VulgConte (2009)`: et Nebsan, et civitas salis, et Engaddi: civitates sex, et villæ earum.
   - `VulgSistina (1590)`: et Nebsan, et civitas salis, et Engaddi: civitates sex, et villae earum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 63 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Jebusæum autem habitatorem Jerusalem non potuerunt filii Juda delere: habitavitque Jebusæus cum filiis Juda in Jerusalem usque in præsentem diem.
@@ -698,4 +689,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iebusæum autem habitatorem Ierusalem non potuerunt filii Iuda delere: habitavitque Iebusæus cum filiis Iuda in Ierusalem usque in præsentem diem.
   - `VulgConte (2009)`: Iebusæum autem habitatorem Ierusalem non potuerunt filii Iuda delere: habitavitque Iebusæus cum filiis Iuda in Ierusalem usque in præsentem diem.
   - `VulgSistina (1590)`: Iebusaeum autem habitatorem Ierusalem non potuerunt filii Iuda delere: habitavitque Iebusaeus cum filiis Iuda in Ierusalem usque in praesentem diem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

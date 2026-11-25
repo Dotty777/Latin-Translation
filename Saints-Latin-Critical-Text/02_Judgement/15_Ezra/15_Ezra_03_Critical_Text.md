@@ -1,8 +1,8 @@
 # Ezra 03 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:32Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -62,7 +53,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Ezra 3:2
-- **Apparatus:** `holocautomata,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **holocaustomata** VulgSistina (1590)
+- **Apparatus:** `holocautomata,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **holocaustomata** VulgSistina (1590)
 
 ### Ezra 3:4
 - *Disregarded Surface Variant:* kept `(adopted text)` over `solemnitatem / sollemnitatem`, `solemnitatem / sollemnitatem`, `solemnitatem / sollemnitatem`, `solemnitatem / sollemnitatem` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -71,10 +62,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `solemnitatibus / sollemnitatibus`, `solemnitatibus / sollemnitatibus`, `solemnitatibus / sollemnitatibus`, `solemnitatibus / sollemnitatibus` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Ezra 3:7
-- **Apparatus:** `Joppe,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Ioppes** VulgSistina (1590)
+- **Apparatus:** `Joppe,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Ioppes** VulgSistina (1590)
 
 ### Ezra 3:13
-- **Apparatus:** `commistim` Clem-Saints Clem1598-USFX **]** **commixtim** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590)
+- **Apparatus:** `commistim` Clem1598-USFX Clem-Saints **]** **commixtim** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590)
 
 ---
 
@@ -87,7 +78,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iamque venerat mensis septimus, et erant filii Israel in civitatibus suis: congregatus est ergo populus quasi vir unus in Ierusalem.
   - `VulgConte (2009)`: Iamque venerat mensis septimus, et erant filii Israel in civitatibus suis: congregatus est ergo populus quasi vir unus in Ierusalem.
   - `VulgSistina (1590)`: Iamque venerat mensis septimus, et erant filii Israel in civitatibus suis: congregatus est ergo populus quasi vir unus in Ierusalem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et surrexit Josue filius Josedec, et fratres ejus sacerdotes, et Zorobabel filius Salathiel, et fratres ejus, et ædificaverunt altare Dei Israël ut offerrent in eo holocautomata, sicut scriptum est in lege Moysi viri Dei.
@@ -96,7 +87,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et surrexit Iosue filius Iosedec, et fratres eius sacerdotes, et Zorobabel filius Salathiel, et fratres eius, et ædificaverunt altare Dei Israel ut offerrent in eo holocautomata, sicut scriptum est in lege Moysi viri Dei:
   - `VulgConte (2009)`: Et surrexit Iosue filius Iosedec, et fratres eius sacerdotes, et Zorobabel filius Salathiel, et fratres eius, et ædificaverunt altare Dei Israel ut offerrent in eo holocautomata, sicut scriptum est in lege Moysi viri Dei:
   - `VulgSistina (1590)`: Et surrexit Iosue filius Iosedec, et fratres eius sacerdotes, et Zorobabel filius Salathiel, et fratres eius, et aedificaverunt altare Dei Israel ut offerrent in eo holocaustomata, sicut scriptum est in lege Moysi viri Dei:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Collocaverunt autem altare Dei super bases suas, deterrentibus eos per circuitum populis terrarum: et obtulerunt super illud holocaustum Domino mane et vespere.
@@ -105,7 +96,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Collocaverunt autem altare Dei super bases suas deterrentibus eos per circuitum populis terrarum, et obtulerunt super illud holocaustum Domino mane et vespere:
   - `VulgConte (2009)`: Collocaverunt autem altare Dei super bases suas deterrentibus eos per circuitum populis terrarum, et obtulerunt super illud holocaustum Domino mane et vespere:
   - `VulgSistina (1590)`: Collocaverunt autem altare Dei super bases suas deterrentibus eos per circuitum populis terrarum, et obtulerunt super illud holocaustum Domino mane et vespere:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Feceruntque solemnitatem tabernaculorum, sicut scriptum est, et holocaustum diebus singulis per ordinem secundum præceptum opus diei in die suo.
@@ -114,7 +105,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Feceruntque sollemnitatem tabernaculorum, sicut scriptum est, et holocaustum diebus singulis per ordinem secundum præceptum opus diei in die suo.
   - `VulgConte (2009)`: Feceruntque sollemnitatem tabernaculorum, sicut scriptum est, et holocaustum diebus singulis per ordinem secundum præceptum opus diei in die suo.
   - `VulgSistina (1590)`: Feceruntque sollemnitatem tabernaculorum, sicut scriptum est, et holocaustum diebus singulis per ordinem secundum praeceptum opus diei in die suo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et post hæc holocaustum juge, tam in calendis quam in universis solemnitatibus Domini quæ erant consecratæ, et in omnibus in quibus ultro offerebatur munus Domino.
@@ -123,7 +114,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et post hæc holocaustum iuge, tam in Calendis quam in universis sollemnitatibus Domini, quæ erant consecratæ, et in omnibus in quibus ultro offerebatur munus Domino.
   - `VulgConte (2009)`: Et post hæc holocaustum iuge, tam in Calendis quam in universis sollemnitatibus Domini, quæ erant consecratæ, et in omnibus in quibus ultro offerebatur munus Domino.
   - `VulgSistina (1590)`: Et post haec holocaustum iuge, tam in Calendis quam in universis sollemnitatibus Domini, quae erant consecratae, et in omnibus in quibus ultro offerebatur munus Domino.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** A primo die mensis septimi cœperunt offerre holocaustum Domino: porro templum Dei nondum fundatum erat.
@@ -132,7 +123,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: A primo die mensis septimi cœperunt offerre holocaustum Domino: porro templum Dei nondum fundatum erat.
   - `VulgConte (2009)`: A primo die mensis septimi cœperunt offerre holocaustum Domino: porro templum Dei nondum fundatum erat.
   - `VulgSistina (1590)`: A primo die mensis septimi coeperunt offerre holocaustum Domino: porro templum Dei nondum fundatum erat.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dederunt autem pecunias latomis et cæmentariis: cibum quoque, et potum, et oleum Sidoniis Tyriisque, ut deferrent ligna cedrina de Libano ad mare Joppe, juxta quod præceperat Cyrus rex Persarum eis.
@@ -141,7 +132,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dederunt autem pecunias latomis et cæmentariis: cibum quoque, et potum, et oleum Sidoniis, Tyriisque ut deferrent ligna cedrina de Libano ad mare Ioppe, iuxta quod præceperat Cyrus rex Persarum eis.
   - `VulgConte (2009)`: Dederunt autem pecunias latomis et cæmentariis: cibum quoque, et potum, et oleum Sidoniis, Tyriisque ut deferrent ligna cedrina de Libano ad mare Ioppe, iuxta quod præceperat Cyrus rex Persarum eis.
   - `VulgSistina (1590)`: Dederunt autem pecunias latomis et caementariis: cibum quoque, et potum, et oleum Sidoniis, Tyriisque ut deferrent ligna cedrina de Libano ad mare Ioppes, iuxta quod praeceperat Cyrus rex Persarum eis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Anno autem secundo adventus eorum ad templum Dei in Jerusalem, mense secundo, cœperunt Zorobabel filius Salathiel, et Josue filius Josedec, et reliqui de fratribus eorum sacerdotes, et Levitæ, et omnes qui venerant de captivitate in Jerusalem, et constituerunt Levitas a viginti annis et supra, ut urgerent opus Domini.
@@ -150,7 +141,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Anno autem secundo adventus eorum ad templum Dei in Ierusalem mense secundo, cœperunt Zorobabel filius Salathiel, et Iosue filius Iosedec, et reliqui de fratribus eorum Sacerdotes, et Levitæ, et omnes qui venerant de captivitate in Ierusalem, et constituerunt Levitas a viginti annis et supra, ut urgerent opus Domini.
   - `VulgConte (2009)`: Anno autem secundo adventus eorum ad templum Dei in Ierusalem mense secundo, cœperunt Zorobabel filius Salathiel, et Iosue filius Iosedec, et reliqui de fratribus eorum Sacerdotes, et Levitæ, et omnes qui venerant de captivitate in Ierusalem, et constituerunt Levitas a viginti annis et supra, ut urgerent opus Domini.
   - `VulgSistina (1590)`: Anno autem secundo adventus eorum ad templum Dei in Ierusalem mense secundo, coeperunt Zorobabel filius Salathiel, et Iosue filius Iosedec, et reliqui de fratribus eorum Sacerdotes, et Levitae, et omnes qui venerant de captivitate in Ierusalem, et constituerunt Levitas a viginti annis et supra, ut urgerent opus Domini.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Stetitque Josue et filii ejus et fratres ejus, Cedmihel et filii ejus, et filii Juda, quasi vir unus, ut instarent super eos qui faciebant opus in templo Dei: filii Henadad, et filii eorum, et fratres eorum Levitæ.
@@ -159,7 +150,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Stetitque Iosue et filii eius, et fratres eius, Cedmihel, et filii eius, et filii Iuda, quasi vir unus, ut instarent super eos qui faciebant opus in templo Dei: filii Henadad, et filii eorum, et fratres eorum Levitæ.
   - `VulgConte (2009)`: Stetitque Iosue et filii eius, et fratres eius, Cedmihel, et filii eius, et filii Iuda, quasi vir unus, ut instarent super eos qui faciebant opus in templo Dei: filii Henadad, et filii eorum, et fratres eorum Levitæ.
   - `VulgSistina (1590)`: Stetitque Iosue et filii eius, et fratres eius, Cedmihel, et filii eius, et filii Iuda, quasi vir unus, ut instarent super eos qui faciebant opus in templo Dei: filii Henadad, et filii eorum, et fratres eorum Levitae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Fundato igitur a cæmentariis templo Domini, steterunt sacerdotes in ornatu suo cum tubis, et Levitæ filii Asaph in cymbalis, ut laudarent Deum per manus David regis Israël.
@@ -168,7 +159,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Fundato igitur a cæmentariis templo Domini, steterunt sacerdotes in ornatu suo cum tubis: et Levitæ filii Asaph in cymbalis, ut laudarent Deum per manus David regis Israel.
   - `VulgConte (2009)`: Fundato igitur a cæmentariis templo Domini, steterunt sacerdotes in ornatu suo cum tubis: et Levitæ filii Asaph in cymbalis, ut laudarent Deum per manus David regis Israel.
   - `VulgSistina (1590)`: Fundato igitur a caementariis templo Domini, steterunt sacerdotes in ornatu suo cum tubis: et Levitae filii Asaph in cymbalis, ut laudarent Deum per manus David regis Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et concinebant in hymnis, et confessione Domino: Quoniam bonus, quoniam in æternum misericordia ejus super Israël. Omnis quoque populus vociferabatur clamore magno in laudando Dominum, eo quod fundatum esset templum Domini.
@@ -177,7 +168,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et concinebant in hymnis, et confessione Domino: Quoniam bonus, quoniam in æternum misericordia eius super Israel. Omnis quoque populus vociferabatur clamore magno in laudando Dominum, eo quod fundatum esset templum Domini.
   - `VulgConte (2009)`: Et concinebant in hymnis, et confessione Domino: Quoniam bonus, quoniam in æternum misericordia eius super Israel. Omnis quoque populus vociferabatur clamore magno in laudando Dominum, eo quod fundatum esset templum Domini.
   - `VulgSistina (1590)`: Et concinebant in hymnis, et confessione Domino: Quoniam bonus, quoniam in aeternum misericordia eius super Israel. Omnis quoque populus vociferabatur clamore magno in laudando Dominum, eo quod fundatum esset templum Domini.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Plurimi etiam de sacerdotibus et Levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum, in oculis eorum, flebant voce magna: et multi vociferantes in lætitia, elevabant vocem.
@@ -186,7 +177,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: plurimi etiam de Sacerdotibus et Levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum in oculis eorum, flebant voce magna: et multi vociferantes in lætitia, elevabant vocem.
   - `VulgConte (2009)`: Plurimi etiam de sacerdotibus et Levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum in oculis eorum, flebant voce magna: et multi vociferantes in lætitia, elevabant vocem.
   - `VulgSistina (1590)`: plurimi etiam de Sacerdotibus et Levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum in oculis eorum, flebant voce magna: et multi vociferantes in laetitia, elevabant vocem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nec poterat quisquam agnoscere vocem clamoris lætantium, et vocem fletus populi: commistim enim populus vociferabatur clamore magno, et vox audiebatur procul.
@@ -195,4 +186,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nec poterat quisquam agnoscere vocem clamoris lætantium, et vocem fletus populi: commixtim enim populus vociferabatur clamore magno, et vox audiebatur procul.
   - `VulgConte (2009)`: Nec poterat quisquam agnoscere vocem clamoris lætantium, et vocem fletus populi: commixtim enim populus vociferabatur clamore magno, et vox audiebatur procul.
   - `VulgSistina (1590)`: Nec poterat quisquam agnoscere vocem clamoris laetantium, et vocem fletus populi: commixtim enim populus vociferabatur clamore magno, et vox audiebatur procul.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

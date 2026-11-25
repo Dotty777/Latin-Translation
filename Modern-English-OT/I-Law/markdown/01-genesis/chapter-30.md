@@ -1,6 +1,6 @@
 # Genesis 30 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (43 verses, 6 translator notes)  
+> **Status:** `draft: true` (43 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -35,7 +35,7 @@
 
 **30:15** She answered, "Does it seem too little to you that you have taken my husband away from me, unless you also take my son's mandrakes?" Rachel said, "Let him sleep with you tonight for your son's mandrakes."
 
-**30:16** And as Jacob was returning from the field toward evening, Leah went out to meet him and said, "You will come in to me, because I have hired you for wages in exchange for my son's mandrake." He slept with her that night.
+**30:16** And as Jacob was returning from the field toward evening, Leah went out to meet him and said, "You will come in to me, because I have hired you for wages in exchange for my son's mandrakes." And he slept with her that night.
 
 **30:17** And God heard her prayers, and she conceived and bore a fifth son,
 
@@ -43,7 +43,7 @@
 
 **30:19** Leah, conceiving again, bore a sixth son,
 
-**30:20** and said, "God has enriched me with a good dowry; this time also my husband will be with me, because I have borne him six sons." And therefore she called his name Zebulun.
+**30:20** and said, "God has endowed me with a good dowry; this time also my husband will be with me, because I have borne him six sons." And therefore she called his name Zebulun.
 
 **30:21** After him she bore a daughter, named Dinah.
 
@@ -55,7 +55,7 @@
 
 **30:25** Now when Joseph had been born, Jacob said to his father-in-law, "Let me go, so that I may return to my homeland and to my land.
 
-**30:26** Give me my wives and children, for whom I have served you, so that I may have them; you know the service with which I have served you."
+**30:26** Give me my wives and children, for whom I have served you, so that I may depart; you know the service with which I have served you."
 
 **30:27** Laban said to him, "May I find favor in your sight; I have learned by experience that God has blessed me on account of you;
 
@@ -63,13 +63,13 @@
 
 **30:29** But he answered, "You know how I have served you, and how great your property has been in my hands.
 
-**30:30** You had little before I came, and now you have become rich; and the Lord has blessed you at my entrance. It is right, therefore, that at last I should also provide for my own household."
+**30:30** You had little before I came to you, and now you have become rich; and the Lord has blessed you at my entrance. It is right, therefore, that at last I should also provide for my own household."
 
 **30:31** And Laban said, "What shall I give you?" But he said, "I want nothing; but if you do what I ask, I will again pasture and guard your livestock.
 
-**30:32** Go around all your flocks and separate all the sheep that are variegated and of flecked fleece; and whatever is tawny, and spotted, and variegated, both among the sheep and among the goats, will be my wages.
+**30:32** Go around all your flocks and separate all the sheep that are variegated and of flecked fleece; and whatever is dark, and spotted, and variegated, both among the sheep and among the goats, will be my wages.
 
-**30:33** And my righteousness will answer for me tomorrow, when the time of the agreement comes before you; and all that are not variegated, and spotted, and tawny, both among the sheep and among the goats, will convict me of theft."
+**30:33** And my righteousness will answer for me tomorrow, when the time of the agreement comes before you; and all that are not variegated, and spotted, and dark, both among the sheep and among the goats, will convict me of theft."
 
 **30:34** Laban said, "I am pleased with what you ask."
 
@@ -83,7 +83,7 @@
 
 **30:39** And it happened that in the very heat of mating, the sheep gazed upon the rods and bore young that were spotted, and variegated, and speckled with diverse color.
 
-**30:40** And Jacob divided the flock and placed the rods before the eyes of the rams; now all the white and the black ones belonged to Laban, while the rest belonged to Jacob, with the flocks separated from one another.
+**30:40** And Jacob divided the flock and placed the rods in the troughs before the eyes of the rams; now all the white and the black ones belonged to Laban, while the rest belonged to Jacob, with the flocks separated from one another.
 
 **30:41** Therefore, whenever the ewes were mounted at the first season, Jacob would place the rods in the water troughs before the eyes of the rams and ewes, so that they would conceive while gazing at them;
 
@@ -94,8 +94,6 @@
 ## Translator Notes
 
 - **30:8** — Vulgate "Comparavit me Deus cum sorore mea" ("God has matched/compared me with my sister") reflects Jerome's rendering of the Naphtali wordplay as a competitive comparison, whereas the Hebrew reads "with mighty wrestlings I have wrestled with my sister."
-- **30:26** — The Saints Latin Critical Text reads ut habeam ("so that I may have them"), whereas the Hebrew text and other Vulgate editions read ut abeam ("so that I may depart").
 - **30:27** — Vulgate "experimento didici" ("I have learned by experience") renders a Hebrew verb meaning "learned by divination" in terms of practical observation. Here the Vulgate also reads "Deus" ("God") where the Hebrew has the divine name (compare 30:6 and 30:22, where the Vulgate reads "Dominus" for Hebrew Elohim).
-- **30:33** — The Latin text here reads "furtim" ("by stealth") where other Vulgate editions read the genitive "furti" ("of theft"); "convict me of theft" gives the evident sense of "furtim me arguent."
 - **30:35** — The Vulgate distinctively reports that Laban delivered the entire single-colored flock ("of white and black fleece") into his sons' hands (matching 30:40, where all white and black animals belong to Laban and Jacob sets rods before the rams), whereas the Hebrew has Laban entrusting the striped, speckled, spotted, and dark animals to his sons.
 - **30:41** — In verses 41-42 the Vulgate renders the contrast seasonally as "primo tempore" ("at the first season") versus "serotina admissura ... et conceptus extremus" ("late mating and final conception"), reflecting an ancient interpretive tradition that identified early-season lambs with stronger stock and late-season lambs with weaker stock.

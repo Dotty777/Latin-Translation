@@ -1,8 +1,8 @@
 # 2 Samuel (2 Kingdoms) 14 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:27Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - VulgHetzenauer (1906): verse 13:38 runs into its neighbour across the anchor's division between 13:38 and 13:39; re-divided there
@@ -95,7 +86,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `hæreditate / hereditate`, `hæreditate / hereditate`, `hæreditate / hereditate` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### 2 Samuel (2 Kingdoms) 14:22
-- **Apparatus:** `servus` Clem-Saints Clem1598-USFX VulgSistina (1590) **]** **sevus** VulgConte (2009) VulgHetzenauer (1906)
+- **Apparatus:** `servus` Clem1598-USFX Clem-Saints VulgSistina (1590) **]** **sevus** VulgConte (2009) VulgHetzenauer (1906)
 
 ### 2 Samuel (2 Kingdoms) 14:33
 - *Disregarded Surface Variant:* kept `(adopted text)` over `nuntiavit / nunciavit`, `nuntiavit / nunciavit`, `nuntiavit / nunciavit` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -111,7 +102,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Intelligens autem Ioab filius Sarviæ, quod cor regis versum esset ad Absalom,
   - `VulgConte (2009)`: Intelligens autem Ioab filius Sarviæ, quod cor regis versum esset ad Absalom,
   - `VulgSistina (1590)`: Intelligens autem Ioab filius Sarviae, quod cor regis versum esset ad Absalom,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** misit Thecuam, et tulit inde mulierem sapientem: dixitque ad eam: Lugere te simula, et induere veste lugubri, et ne ungaris oleo, ut sis quasi mulier jam plurimo tempore lugens mortuum:
@@ -120,7 +111,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: misit Thecuam, et tulit inde mulierem sapientem: dixitque ad eam: Lugere te simula, et induere veste lugubri, et ne ungaris oleo, ut sis quasi mulier iam plurimo tempore lugens mortuum:
   - `VulgConte (2009)`: misit Thecuam, et tulit inde mulierem sapientem: dixitque ad eam: Lugere te simula, et induere veste lugubri, et ne ungaris oleo, ut sis quasi mulier iam plurimo tempore lugens mortuum:
   - `VulgSistina (1590)`: misit Thecuam, et tulit inde mulierem sapientem: dixitque ad eam: Lugere te simula, et induere veste lugubri, et ne ungaris oleo, ut sis quasi mulier iam plurimo tempore lugens mortuum:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et ingredieris ad regem, et loqueris ad eum sermones hujuscemodi. Posuit autem Joab verba in ore ejus.
@@ -129,7 +120,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et ingredieris ad regem, et loqueris ad eum sermones huiuscemodi. Posuit autem Ioab verba in ore eius.
   - `VulgConte (2009)`: et ingredieris ad regem, et loqueris ad eum sermones huiuscemodi. Posuit autem Ioab verba in ore eius.
   - `VulgSistina (1590)`: et ingredieris ad regem, et loqueris ad eum sermones huiuscemodi. Posuit autem Ioab verba in ore eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Itaque cum ingressa fuisset mulier Thecuitis ad regem, cecidit coram eo super terram, et adoravit, et dixit: Serva me, rex.
@@ -138,7 +129,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Itaque cum ingressa fuisset mulier Thecuitis ad regem, cecidit coram eo super terram, et adoravit, et dixit: Serva me rex.
   - `VulgConte (2009)`: Itaque cum ingressa fuisset mulier Thecuitis ad regem, cecidit coram eo super terram, et adoravit, et dixit: Serva me rex.
   - `VulgSistina (1590)`: Itaque cum ingressa fuisset mulier Thecuitis ad regem, cecidit coram eo super terram, et adoravit, et dixit: Serva me rex.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ait ad eam rex: Quid causæ habes? Quæ respondit: Heu, mulier vidua ego sum: mortuus est enim vir meus.
@@ -147,7 +138,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ait ad eam rex: Quid causæ habes? Quæ respondit: Heu, mulier vidua ego sum: mortuus est enim vir meus.
   - `VulgConte (2009)`: Et ait ad eam rex: Quid causæ habes? Quæ respondit: Heu, mulier vidua ego sum: mortuus est enim vir meus.
   - `VulgSistina (1590)`: Et ait ad eam rex: Quid causae habes? Quae respondit: Heu, mulier vidua ego sum: mortuus est enim vir meus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ancillæ tuæ erant duo filii: qui rixati sunt adversum se in agro, nullusque erat qui eos prohibere posset: et percussit alter alterum, et interfecit eum.
@@ -156,7 +147,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ancillæ tuæ erant duo filii: qui rixati sunt adversum se in agro, nullusque erat, qui eos prohibere posset: et percussit alter alterum, et interfecit eum.
   - `VulgConte (2009)`: Et ancillæ tuæ erant duo filii: qui rixati sunt adversum se in agro, nullusque erat, qui eos prohibere posset: et percussit alter alterum, et interfecit eum.
   - `VulgSistina (1590)`: Et ancillae tuae erant duo filii: qui rixati sunt adversum se in agro, nullusque erat, qui eos prohibere posset: et percussit alter alterum, et interfecit eum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ecce consurgens universa cognatio adversum ancillam tuam, dicit: Trade eum qui percussit fratrem suum, ut occidamus eum pro anima fratris sui quem interfecit, et deleamus hæredem: et quærunt extinguere scintillam meam quæ relicta est, ut non supersit viro meo nomen, et reliquiæ super terram.
@@ -165,7 +156,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ecce consurgens universa cognatio adversum ancillam tuam, dicit: Trade eum, qui percussit fratrem suum, ut occidamus eum pro anima fratris sui, quem interfecit, et deleamus heredem: et quærunt extinguere scintillam meam, quæ relicta est, ut non supersit viro meo nomen, et reliquiæ super terram.
   - `VulgConte (2009)`: Et ecce consurgens universa cognatio adversum ancillam tuam, dicit: Trade eum, qui percussit fratrem suum, ut occidamus eum pro anima fratris sui, quem interfecit, et deleamus heredem: et quærunt extinguere scintillam meam, quæ relicta est, ut non supersit viro meo nomen, et reliquiæ super terram.
   - `VulgSistina (1590)`: Et ecce consurgens universa cognatio adversum ancillam tuam, dicit: Trade eum, qui percussit fratrem suum, ut occidamus eum pro anima fratris sui, quem interfecit, et deleamus heredem: et quaerunt extinguere scintillam meam, quae relicta est, ut non supersit viro meo nomen, et reliquiae super terram.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ait rex ad mulierem: Vade in domum tuam, et ego jubebo pro te.
@@ -174,7 +165,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ait rex ad mulierem: Vade in domum tuam, et ego iubebo pro te.
   - `VulgConte (2009)`: Et ait rex ad mulierem: Vade in domum tuam, et ego iubebo pro te.
   - `VulgSistina (1590)`: Et ait rex ad mulierem: Vade in domum tuam, et ego iubebo pro te.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixitque mulier Thecuitis ad regem: In me, domine mi rex, sit iniquitas, et in domum patris mei: rex autem et thronus ejus sit innocens.
@@ -183,7 +174,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixitque mulier Thecuitis ad regem: In me, domine mi rex, sit iniquitas, et in domum patris mei: rex autem et thronus eius sit innocens.
   - `VulgConte (2009)`: Dixitque mulier Thecuitis ad regem: In me, domine mi rex, sit iniquitas, et in domum patris mei: rex autem et thronus eius sit innocens.
   - `VulgSistina (1590)`: Dixitque mulier Thecuitis ad regem: In me, domine mi rex, sit iniquitas, et in domum patris mei: rex autem et thronus eius sit innocens.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ait rex: Qui contradixerit tibi, adduc eum ad me, et ultra non addet ut tangat te.
@@ -192,7 +183,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ait rex: Qui contradixerit tibi, adduc eum ad me, et ultra non addet ut tangat te.
   - `VulgConte (2009)`: Et ait rex: Qui contradixerit tibi, adduc eum ad me, et ultra non addet ut tangat te.
   - `VulgSistina (1590)`: Et ait rex: Qui contradixerit tibi, adduc eum ad me, et ultra non addet ut tangat te.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quæ ait: Recordetur rex Domini Dei sui, ut non multiplicentur proximi sanguinis ad ulciscendum, et nequaquam interficiant filium meum. Qui ait: Vivit Dominus, quia non cadet de capillis filii tui super terram.
@@ -201,7 +192,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quæ ait: Recordetur rex Domini Dei sui, ut non multiplicentur proximi sanguinis ad ulciscendum, et nequaquam interficiant filium meum. Qui ait: Vivit Dominus, quia non cadet de capillis filii tui super terram.
   - `VulgConte (2009)`: Quæ ait: Recordetur rex Domini Dei sui, ut non multiplicentur proximi sanguinis ad ulciscendum, et nequaquam interficiant filium meum. Qui ait: Vivit Dominus, quia non cadet de capillis filii tui super terram.
   - `VulgSistina (1590)`: Quae ait: Recordetur rex Domini Dei sui, ut non multiplicentur proximi sanguinis ad ulciscendum, et nequaquam interficiant filium meum. Qui ait: Vivit Dominus, quia non cadet de capillis filii tui super terram.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixit ergo mulier: Loquatur ancilla tua ad dominum meum regem verbum. Et ait: Loquere.
@@ -210,7 +201,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixit ergo mulier: Loquatur ancilla tua ad dominum meum regem verbum. Et ait: Loquere.
   - `VulgConte (2009)`: Dixit ergo mulier: Loquatur ancilla tua ad dominum meum regem verbum. Et ait: Loquere.
   - `VulgSistina (1590)`: Dixit ergo mulier: Loquatur ancilla tua ad dominum meum regem verbum. Et ait: Loquere.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixitque mulier: Quare cogitasti hujuscemodi rem contra populum Dei, et locutus est rex verbum istud, ut peccet, et non reducat ejectum suum?
@@ -219,7 +210,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixitque mulier: Quare cogitasti huiuscemodi rem contra populum Dei, et locutus est rex verbum istud, ut peccet, et non reducat eiectum suum?
   - `VulgConte (2009)`: Dixitque mulier: Quare cogitasti huiuscemodi rem contra populum Dei, et locutus est rex verbum istud, ut peccet, et non reducat eiectum suum?
   - `VulgSistina (1590)`: Dixitque mulier: Quare cogitasti huiuscemodi rem contra populum Dei, et locutus est rex verbum istud, ut peccet, et non reducat eiectum suum?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnes morimur, et quasi aquæ dilabimur in terram, quæ non revertuntur: nec vult Deus perire animam, sed retractat cogitans ne penitus pereat qui abjectus est.
@@ -228,7 +219,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnes morimur, et quasi aquæ dilabimur in terram, quæ non revertuntur: nec vult Deus perire animam, sed retractat cogitans ne penitus pereat qui abiectus est.
   - `VulgConte (2009)`: Omnes morimur, et quasi aquæ dilabimur in terram, quæ non revertuntur: nec vult Deus perire animam, sed retractat cogitans ne penitus pereat qui abiectus est.
   - `VulgSistina (1590)`: Omnes morimur, et quasi aquae dilabimur in terram, quae non revertuntur: nec vult Deus perire animam, sed retractat cogitans ne penitus pereat qui abiectus est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nunc igitur veni, ut loquar ad dominum meum regem verbum hoc, præsente populo. Et dixit ancilla tua: Loquar ad regem, si quomodo faciat rex verbum ancillæ suæ.
@@ -237,7 +228,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nunc igitur veni, ut loquar ad dominum meum regem verbum hoc, præsente populo. Et dixit ancilla tua: Loquar ad regem, si quo modo faciat rex verbum ancillæ suæ.
   - `VulgConte (2009)`: Nunc igitur veni, ut loquar ad dominum meum regem verbum hoc, præsente populo. Et dixit ancilla tua: Loquar ad regem, si quo modo faciat rex verbum ancillæ suæ.
   - `VulgSistina (1590)`: Nunc igitur veni, ut loquar ad dominum meum regem verbum hoc, praesente populo. Et dixit ancilla tua: Loquar ad regem, si quo modo faciat rex verbum ancillae suae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et audivit rex, ut liberaret ancillam suam de manu omnium qui volebant de hæreditate Dei delere me, et filium meum simul.
@@ -246,7 +237,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et audivit rex, ut liberaret ancillam suam de manu omnium, qui volebant de hereditate Dei delere me, et filium meum simul.
   - `VulgConte (2009)`: Et audivit rex, ut liberaret ancillam suam de manu omnium, qui volebant de hereditate Dei delere me, et filium meum simul.
   - `VulgSistina (1590)`: Et audivit rex, ut liberaret ancillam suam de manu omnium, qui volebant de hereditate Dei delere me, et filium meum simul.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dicat ergo ancilla tua, ut fiat verbum domini mei regis sicut sacrificium. Sicut enim angelus Dei, sic est dominus meus rex, ut nec benedictione, nec maledictione moveatur: unde et Dominus Deus tuus est tecum.
@@ -255,7 +246,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dicat ergo ancilla tua, ut fiat verbum domini mei regis sicut sacrificium. Sicut enim Angelus Dei, sic est Dominus meus rex, ut nec benedictione, nec maledictione moveatur: unde et Dominus Deus tuus est tecum.
   - `VulgConte (2009)`: Dicat ergo ancilla tua, ut fiat verbum domini mei regis sicut sacrificium. Sicut enim Angelus Dei, sic est dominus meus rex, ut nec benedictione, nec maledictione moveatur: unde et Dominus Deus tuus est tecum.
   - `VulgSistina (1590)`: Dicat ergo ancilla tua, ut fiat verbum domini mei regis sicut sacrificium. Sicut enim Angelus Dei, sic est Dominus meus rex, ut nec benedictione, nec maledictione moveatur: unde et Dominus Deus tuus est tecum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et respondens rex, dixit ad mulierem: Ne abscondas a me verbum quod te interrogo. Dixitque ei mulier: Loquere, domine mi rex.
@@ -264,7 +255,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et respondens rex, dixit ad mulierem: Ne abscondas a me verbum, quod te interrogo. Dixitque ei mulier: Loquere domine mi rex.
   - `VulgConte (2009)`: Et respondens rex, dixit ad mulierem: Ne abscondas a me verbum, quod te interrogo. Dixitque ei mulier: Loquere domine mi rex.
   - `VulgSistina (1590)`: Et respondens rex, dixit ad mulierem: Ne abscondas a me verbum, quod te interrogo. Dixitque ei mulier: Loquere domine mi rex.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ait rex: Numquid manus Joab tecum est in omnibus istis? Respondit mulier, et ait: Per salutem animæ tuæ, domine mi rex, nec ad sinistram, nec ad dexteram est ex omnibus his quæ locutus est dominus meus rex: servus enim tuus Joab, ipse præcepit mihi, et ipse posuit in os ancillæ tuæ omnia verba hæc.
@@ -273,7 +264,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ait rex: Numquid manus Ioab tecum est in omnibus istis? Respondit mulier, et ait: Per salutem animæ tuæ, domine mi rex, nec ad sinistram, nec ad dexteram est ex omnibus his, quæ locutus est dominus meus rex: servus enim tuus Ioab, ipse præcepit mihi, et ipse posuit in os ancillæ tuæ omnia verba hæc.
   - `VulgConte (2009)`: Et ait rex: Numquid manus Ioab tecum est in omnibus istis? Respondit mulier, et ait: Per salutem animæ tuæ, domine mi rex, nec ad sinistram, nec ad dexteram est ex omnibus his, quæ locutus est dominus meus rex: servus enim tuus Ioab, ipse præcepit mihi, et ipse posuit in os ancillæ tuæ omnia verba hæc,
   - `VulgSistina (1590)`: Et ait rex: Numquid manus Ioab tecum est in omnibus istis? Respondit mulier, et ait: Per salutem animae tuae, domine mi rex, nec ad sinistram, nec ad dexteram est ex omnibus his, quae locutus est dominus meus rex: servus enim tuus Ioab, ipse praecepit mihi, et ipse posuit in os ancillae tuae omnia verba haec.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ut verterem figuram sermonis hujus, servus tuus Joab præcepit istud: tu autem, domine mi rex, sapiens es, sicut habet sapientiam angelus Dei, ut intelligas omnia super terram.
@@ -282,7 +273,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ut verterem figuram sermonis huius, servus tuus Ioab præcepit istud: tu autem domine mi rex, sapiens es, sicut habet sapientiam Angelus Dei, ut intelligas omnia super terram.
   - `VulgConte (2009)`: ut verterem figuram sermonis huius, servus tuus Ioab præcepit istud: tu autem domine mi rex, sapiens es, sicut habet sapientiam Angelus Dei, ut intelligas omnia super terram.
   - `VulgSistina (1590)`: Ut verterem figuram sermonis huius, servus tuus Ioab praecepit istud: tu autem domine mi rex, sapiens es, sicut habet sapientiam Angelus Dei, ut intelligas omnia super terram.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ait rex ad Joab: Ecce placatus feci verbum tuum: vade ergo, et revoca puerum Absalom.
@@ -291,7 +282,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ait rex ad Ioab: Ecce placatus feci verbum tuum: vade ergo, et revoca puerum Absalom.
   - `VulgConte (2009)`: Et ait rex ad Ioab: Ecce placatus feci verbum tuum: vade ergo, et revoca puerum Absalom.
   - `VulgSistina (1590)`: Et ait rex ad Ioab: Ecce placatus feci verbum tuum: vade ergo, et revoca puerum Absalom.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cadensque Joab super faciem suam in terram, adoravit, et benedixit regi: et dixit Joab: Hodie intellexit servus tuus quia inveni gratiam in oculis tuis, domine mi rex: fecisti enim sermonem servi tui.
@@ -300,7 +291,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cadensque Ioab super faciem suam in terram, adoravit, et benedixit regi: et dixit Ioab: Hodie intellexit sevus tuus, quia inveni gratiam in oculis tuis, domine mi rex: fecisti enim sermonem servi tui.
   - `VulgConte (2009)`: Cadensque Ioab super faciem suam in terram, adoravit, et benedixit regi: et dixit Ioab: Hodie intellexit sevus tuus, quia inveni gratiam in oculis tuis, domine mi rex: fecisti enim sermonem servi tui.
   - `VulgSistina (1590)`: Cadensque Ioab super faciem suam in terram, adoravit, et benedixit regi: et dixit Ioab: Hodie intellexit servus tuus, quia inveni gratiam in oculis tuis, domine mi rex: fecisti enim sermonem servi tui.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Surrexit ergo Joab et abiit in Gessur, et adduxit Absalom in Jerusalem.
@@ -309,7 +300,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Surrexit ergo Ioab et abiit in Gessur, et adduxit Absalom in Ierusalem.
   - `VulgConte (2009)`: Surrexit ergo Ioab et abiit in Gessur, et adduxit Absalom in Ierusalem.
   - `VulgSistina (1590)`: Surrexit ergo Ioab et abiit in Gessur, et adduxit Absalom in Ierusalem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixit autem rex: Revertatur in domum suam, et faciem meam non videat. Reversus est itaque Absalom in domum suam, et faciem regis non vidit.
@@ -318,7 +309,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixit autem rex: Revertatur in domum suam, et faciem meam non videat. Reversus est itaque Absalom in domum suam, et faciem regis non vidit.
   - `VulgConte (2009)`: Dixit autem rex: Revertatur in domum suam, et faciem meam non videat. Reversus est itaque Absalom in domum suam, et faciem regis non vidit.
   - `VulgSistina (1590)`: Dixit autem rex: Revertatur in domum suam, et faciem meam non videat. Reversus est itaque Absalom in domum suam, et faciem regis non vidit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Porro sicut Absalom, vir non erat pulcher in omni Israël, et decorus nimis: a vestigio pedis usque ad verticem non erat in eo ulla macula.
@@ -327,7 +318,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Porro sicut Absalom, vir non erat pulcher in omni Israel, et decorus nimis: a vestigio pedis usque ad verticem non erat in eo ulla macula.
   - `VulgConte (2009)`: Porro sicut Absalom, vir non erat pulcher in omni Israel, et decorus nimis: a vestigio pedis usque ad verticem non erat in eo ulla macula.
   - `VulgSistina (1590)`: Porro sicut Absalom, vir non erat pulcher in omni Israel, et decorus nimis: a vestigio pedis usque ad verticem non erat in eo ulla macula.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et quando tondebat capillum (semel autem in anno tondebatur, quia gravabat eum cæsaries), ponderabat capillos capitis sui ducentis siclis, pondere publico.
@@ -336,7 +327,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et quando tondebat capillum (semel autem in anno tondebatur, quia gravabat eum cæsaries) ponderabat capillos capitis sui ducentis siclis, pondere publico.
   - `VulgConte (2009)`: Et quando tondebat capillum (semel autem in anno tondebatur, quia gravabat eum cæsaries) ponderabat capillos capitis sui ducentis siclis, pondere publico.
   - `VulgSistina (1590)`: Et quando tondebat capillum (semel autem in anno tondebatur, quia gravabat eum caesaries) ponderabat capillos capitis sui ducentis siclis, pondere publico.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nati sunt autem Absalom filii tres, et filia una nomine Thamar, elegantis formæ.
@@ -345,7 +336,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nati sunt autem Absalom filii tres: et filia una nomine Thamar, elegantis formæ.
   - `VulgConte (2009)`: Nati sunt autem Absalom filii tres: et filia una nomine Thamar, elegantis formæ.
   - `VulgSistina (1590)`: Nati sunt autem Absalom filii tres: et filia una nomine Thamar, elegantis formae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Mansitque Absalom in Jerusalem duobus annis, et faciem regis non vidit.
@@ -354,7 +345,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Mansitque Absalom in Ierusalem duobus annis, et faciem regis non vidit.
   - `VulgConte (2009)`: Mansitque Absalom in Ierusalem duobus annis, et faciem regis non vidit.
   - `VulgSistina (1590)`: Mansitque Absalom in Ierusalem duobus annis, et faciem regis non vidit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Misit itaque ad Joab, ut mitteret eum ad regem: qui noluit venire ad eum. Cumque secundo misisset, et ille noluisset venire ad eum,
@@ -363,7 +354,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Misit itaque ad Ioab, ut mitteret eum ad regem: qui noluit venire ad eum. Cumque secundo misisset, et ille noluisset venire ad eum,
   - `VulgConte (2009)`: Misit itaque ad Ioab, ut mitteret eum ad regem: qui noluit venire ad eum. Cumque secundo misisset, et ille noluisset venire ad eum,
   - `VulgSistina (1590)`: Misit itaque ad Ioab, ut mitteret eum ad regem: qui noluit venire ad eum. Cumque secundo misisset, et ille noluisset venire ad eum,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** dixit servis suis: Scitis agrum Joab juxta agrum meum, habentem messem hordei: ite igitur, et succendite eum igni. Succenderunt ergo servi Absalom segetem igni. Et venientes servi Joab, scissis vestibus suis, dixerunt: Succenderunt servi Absalom partem agri igni.
@@ -372,7 +363,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: dixit servis suis: Scitis agrum Ioab iuxta agrum meum, habentem messem hordei: ite igitur, et succendite eum igni. Succenderunt ergo servi Absalom segetem igni. Et venientes servi Ioab, scissis vestibus suis, dixerunt: Succenderunt servi Absalom partem agri igni.
   - `VulgConte (2009)`: dixit servis suis: Scitis agrum Ioab iuxta agrum meum, habentem messem hordei: ite igitur, et succendite eum igni. Succenderunt ergo servi Absalom segetem igni. Et venientes servi Ioab, scissis vestibus suis, dixerunt: Succenderunt servi Absalom partem agri igni.
   - `VulgSistina (1590)`: dixit servis suis: Scitis agrum Ioab iuxta agrum meum, habentem messem hordei: ite igitur, et succendite eum igni. Succenderunt ergo servi Absalom segetem igni. Et venientes servi Ioab, scissis vestibus suis, dixerunt: Succenderunt servi Absalom partem agri igni.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Surrexitque Joab, et venit ad Absalom in domum ejus, et dixit: Quare succenderunt servi tui segetem meam igni?
@@ -381,7 +372,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Surrexitque Ioab, et venit ad Absalom in domum eius, et dixit: Quare succenderunt servi tui segetem meam igni?
   - `VulgConte (2009)`: Surrexitque Ioab, et venit ad Absalom in domum eius, et dixit: Quare succenderunt servi tui segetem meam igni?
   - `VulgSistina (1590)`: Surrexitque Ioab, et venit ad Absalom in domum eius, et dixit: Quare succenderunt servi tui segetem meam igni?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et respondit Absalom ad Joab: Misi ad te obsecrans ut venires ad me, et mitterem te ad regem, et diceres ei: Quare veni de Gessur? melius mihi erat ibi esse: obsecro ergo ut videam faciem regis: quod si memor est iniquitatis meæ, interficiat me.
@@ -390,7 +381,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et respondit Absalom ad Ioab: Misi ad te obsecrans ut venires ad me, et mitterem te ad regem, et diceres ei: Quare veni de Gessur? melius mihi erat ibi esse: obsecro ergo ut videam faciem regis: quod si memor est iniquitatis meæ, interficiat me.
   - `VulgConte (2009)`: Et respondit Absalom ad Ioab: Misi ad te obsecrans ut venires ad me, et mitterem te ad regem, et diceres ei: Quare veni de Gessur? Melius mihi erat ibi esse: obsecro ergo ut videam faciem regis: quod si memor est iniquitatis meæ, interficiat me.
   - `VulgSistina (1590)`: Et respondit Absalom ad Ioab: Misi ad te obsecrans ut venires ad me, et mitterem te ad regem, et diceres ei: Quare veni de Gessur? melius mihi erat ibi esse: obsecro ergo ut videam faciem regis: quod si memor est iniquitatis meae, interficiat me.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ingressus itaque Joab ad regem, nuntiavit ei omnia: vocatusque est Absalom, et intravit ad regem, et adoravit super faciem terræ coram eo: osculatusque est rex Absalom.
@@ -399,4 +390,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ingressus itaque Ioab ad regem, nunciavit ei omnia: vocatusque est Absalom, et intravit ad regem, et adoravit super faciem terræ coram eo: osculatusque est rex Absalom.
   - `VulgConte (2009)`: Ingressus itaque Ioab ad regem, nunciavit ei omnia: vocatusque est Absalom, et intravit ad regem, et adoravit super faciem terræ coram eo: osculatusque est rex Absalom.
   - `VulgSistina (1590)`: Ingressus itaque Ioab ad regem, nunciavit ei omnia: vocatusque est Absalom, et intravit ad regem, et adoravit super faciem terrae coram eo: osculatusque est rex Absalom.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

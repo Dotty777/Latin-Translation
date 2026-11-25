@@ -1,6 +1,6 @@
 # 2 Chronicles 13 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes)  
+> **Status:** `draft: true` (22 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`2 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -48,8 +48,6 @@
 **13:21** Therefore Abijah, with his rule strengthened, took fourteen wives, and he fathered twenty-two sons and sixteen daughters.
 
 **13:22** Now the rest of the words of Abijah, and of his ways and his deeds, are written most carefully in the book of Iddo the prophet.
-
-**13:23** And Abijah slept with his fathers, and they buried him in the city of David; and Asa his son reigned in his place, in whose days the land had rest for ten years.
 
 ## Translator Notes
 

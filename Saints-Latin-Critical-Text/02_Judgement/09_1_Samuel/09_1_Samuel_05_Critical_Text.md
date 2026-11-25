@@ -1,8 +1,8 @@
 # 1 Samuel (1 Kingdoms) 05 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:24Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -74,7 +65,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Philisthiim autem tulerunt arcam Dei, et asportaverunt eam a Lapide adiutorii in Azotum.
   - `VulgConte (2009)`: Philisthiim autem tulerunt arcam Dei, et asportaverunt eam a Lapide adiutorii in Azotum.
   - `VulgSistina (1590)`: Philisthiim autem tulerunt arcam Dei, et asportaverunt eam a Lapide adiutorii in Azotum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tuleruntque Philisthiim arcam Dei, et intulerunt eam in templum Dagon, et statuerunt eam juxta Dagon.
@@ -83,7 +74,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tuleruntque Philisthiim arcam Dei, et intulerunt eam in templum Dagon, et statuerunt eam iuxta Dagon.
   - `VulgConte (2009)`: Tuleruntque Philisthiim arcam Dei, et intulerunt eam in templum Dagon, et statuerunt eam iuxta Dagon.
   - `VulgSistina (1590)`: Tuleruntque Philisthiim arcam Dei, et intulerunt eam in templum Dagon, et statuerunt eam iuxta Dagon.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque surrexissent diluculo Azotii altera die, ecce Dagon jacebat pronus in terra ante arcam Domini: et tulerunt Dagon, et restituerunt eum in locum suum.
@@ -92,7 +83,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque surrexissent diluculo Azotii altera die, ecce Dagon iacebat pronus in terra ante arcam Domini: et tulerunt Dagon, et restituerunt eum in locum suum.
   - `VulgConte (2009)`: Cumque surrexissent diluculo Azotii altera die, ecce Dagon iacebat pronus in terra ante arcam Domini: et tulerunt Dagon, et restituerunt eum in locum suum.
   - `VulgSistina (1590)`: Cumque surrexissent diluculo Azotii altera die, ecce Dagon iacebat pronus in terra ante arcam Domini: et tulerunt Dagon, et restituerunt eum in locum suum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Rursumque mane die altera consurgentes, invenerunt Dagon jacentem super faciem suam in terra coram arca Domini: caput autem Dagon, et duæ palmæ manuum ejus abscissæ erant super limen:
@@ -101,7 +92,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Rursumque mane die altera consurgentes, invenerunt Dagon iacentem super faciem suam in terra coram arca Domini: caput autem Dagon, et duæ palmæ manuum eius abscissæ erant super limen:
   - `VulgConte (2009)`: Rursumque mane die altera consurgentes, invenerunt Dagon iacentem super faciem suam in terra coram arca Domini: caput autem Dagon, et duæ palmæ manuum eius abscissæ erant super limen:
   - `VulgSistina (1590)`: Rursumque mane die altera consurgentes, invenerunt Dagon iacentem super faciem suam in terra coram arca Domini: caput autem Dagon, et duae palmae manuum eius abscissae erant super limen:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** porro Dagon solus truncus remanserat in loco suo. Propter hanc causam non calcant sacerdotes Dagon, et omnes qui ingrediuntur templum ejus, super limen Dagon in Azoto, usque in hodiernum diem.
@@ -110,7 +101,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: porro Dagon solus truncus remanserat in loco suo. Propter hanc causam non calcant sacerdotes Dagon, et omnes qui ingrediuntur templum eius, super limen Dagon in Azoto, usque in hodiernum diem.
   - `VulgConte (2009)`: porro Dagon solus truncus remanserat in loco suo. Propter hanc causam non calcant sacerdotes Dagon, et omnes qui ingrediuntur templum eius, super limen Dagon in Azoto, usque in hodiernum diem.
   - `VulgSistina (1590)`: porro Dagon solus truncus remanserat in loco suo. Propter hanc causam non calcant sacerdotes Dagon, et omnes qui ingrediuntur templum eius, super limen Dagon in Azoto, usque in hodiernum diem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Aggravata est autem manus Domini super Azotios, et demolitus est eos: et percussit in secretiori parte natium Azotum, et fines ejus. Et ebullierunt villæ et agri in medio regionis illius, et nati sunt mures et facta est confusio mortis magnæ in civitate.
@@ -119,7 +110,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Aggravata est autem manus Domini super Azotios, et demolitus est eos: et percussit in secretiori parte natium Azotum, et fines eius. Et ebullierunt villæ et agri in medio regionis illius, et nati sunt mures, et facta est confusio mortis magnæ in civitate.
   - `VulgConte (2009)`: Aggravata est autem manus Domini super Azotios, et demolitus est eos: et percussit in secretiori parte natium Azotum, et fines eius. Et ebullierunt villæ et agri in medio regionis illius, et nati sunt mures, et facta est confusio mortis magnæ in civitate.
   - `VulgSistina (1590)`: Aggravata est autem manus Domini super Azotios, et demolitus est eos: et percussit in secretiori parte natium Azotum, et fines eius. Et ebullierunt villae et agri in medio regionis illius, et nati sunt mures, et facta est confusio mortis magnae in civitate.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Videntes autem viri Azotii hujuscemodi plagam, dixerunt: Non maneat arca Dei Israël apud nos: quoniam dura est manus ejus super nos, et super Dagon deum nostrum.
@@ -128,7 +119,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Videntes autem viri Azotii huiuscemodi plagam, dixerunt: Non maneat arca Dei Israel apud nos: quoniam dura est manus eius super nos, et super Dagon deum nostrum.
   - `VulgConte (2009)`: Videntes autem viri Azotii huiuscemodi plagam, dixerunt: Non maneat arca Dei Israel apud nos: quoniam dura est manus eius super nos, et super Dagon deum nostrum.
   - `VulgSistina (1590)`: Videntes autem viri Azotii huiuscemodi plagam, dixerunt: Non maneat arca Dei Israel apud nos: quoniam dura est manus eius super nos, et super Dagon deum nostrum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et mittentes congregaverunt omnes satrapas Philisthinorum ad se, et dixerunt: Quid faciemus de arca Dei Israël? Responderuntque Gethæi: Circumducatur arca Dei Israël. Et circumduxerunt arcam Dei Israël.
@@ -137,7 +128,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et mittentes congregaverunt omnes satrapas Philisthinorum ad se, et dixerunt: Quid faciemus de arca Dei Israel? Responderuntque Gethæi: Circumducatur arca Dei Israel. Et circumduxerunt arcam Dei Israel.
   - `VulgConte (2009)`: Et mittentes congregaverunt omnes satrapas Philisthinorum ad se, et dixerunt: Quid faciemus de arca Dei Israel? Responderuntque Gethæi: Circumducatur arca Dei Israel. Et circumduxerunt arcam Dei Israel.
   - `VulgSistina (1590)`: Et mittentes congregaverunt omnes satrapas Philisthinorum ad se, et dixerunt: Quid faciemus de arca Dei Israel? Responderuntque Gethaei: Circumducatur arca Dei Israel. Et circumduxerunt arcam Dei Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Illis autem circumducentibus eam, fiebat manus Domini per singulas civitates interfectionis magnæ nimis: et percutiebat viros uniuscujusque urbis, a parvo usque ad majorem, et computrescebant prominentes extales eorum. Inieruntque Gethæi consilium, et fecerunt sibi sedes pelliceas.
@@ -146,7 +137,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Illis autem circumducentibus eam, fiebat manus Domini per singulas civitates interfectionis magnæ nimis: et percutiebat viros uniuscuiusque urbis, a parvo usque ad maiorem, et computrescebant prominentes extales eorum. Inieruntque Gethæi consilium, et fecerunt sibi sedes pelliceas.
   - `VulgConte (2009)`: Illis autem circumducentibus eam, fiebat manus Domini per singulas civitates interfectionis magnæ nimis: et percutiebat viros uniuscuiusque urbis, a parvo usque ad maiorem, et computrescebant prominentes ex tales eorum. Inieruntque Gethæi consilium, et fecerunt sibi sedes pelliceas.
   - `VulgSistina (1590)`: Illis autem circumducentibus eam, fiebat manus Domini per singulas civitates interfectionis magnae nimis: et percutiebat viros uniuscuiusque urbis, a parvo usque ad maiorem, et computrescebant prominentes extales eorum. Inieruntque Gethaei consilium, et fecerunt sibi sedes pelliceas.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Miserunt ergo arcam Dei in Accaron. Cumque venisset arca Dei in Accaron, exclamaverunt Accaronitæ, dicentes: Adduxerunt ad nos arcam Dei Israël ut interficiat nos et populum nostrum.
@@ -155,7 +146,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Miserunt ergo arcam Dei in Accaron. Cumque venisset arca Dei in Accaron, exclamaverunt Accaronitæ, dicentes: Adduxerunt ad nos arcam Dei Israel, ut interficiat nos et populum nostrum.
   - `VulgConte (2009)`: Miserunt ergo arcam Dei in Accaron. Cumque venisset arca Dei in Accaron, exclamaverunt Accaronitæ, dicentes: Adduxerunt ad nos arcam Dei Israel, ut interficiat nos et populum nostrum.
   - `VulgSistina (1590)`: Miserunt ergo arcam Dei in Accaron. Cumque venisset arca Dei in Accaron, exclamaverunt Accaronitae, dicentes: Adduxerunt ad nos arcam Dei Israel, ut interficiat nos et populum nostrum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Miserunt itaque et congregaverunt omnes satrapas Philisthinorum: qui dixerunt: Dimittite arcam Dei Israël, et revertatur in locum suum, et non interficiat nos cum populo nostro.
@@ -164,7 +155,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Miserunt itaque et congregaverunt omnes satrapas Philisthinorum: qui dixerunt: Dimittite arcam Dei Israel, et revertatur in locum suum, et non interficiat nos cum populo nostro.
   - `VulgConte (2009)`: Miserunt itaque et congregaverunt omnes satrapas Philisthinorum: qui dixerunt: Dimittite arcam Dei Israel, et revertatur in locum suum, et non interficiat nos cum populo nostro.
   - `VulgSistina (1590)`: Miserunt itaque et congregaverunt omnes satrapas Philisthinorum: qui dixerunt: Dimittite arcam Dei Israel, et revertatur in locum suum, et non interficiat nos cum populo nostro.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Fiebat enim pavor mortis in singulis urbibus, et gravissima valde manus Dei. Viri quoque qui mortui non fuerant, percutiebantur in secretiori parte natium: et ascendebat ululatus uniuscujusque civitatis in cælum.
@@ -173,4 +164,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Fiebat enim pavor mortis in singulis urbibus, et gravissima valde manus Dei. viri quoque, qui mortui non fuerant, percutiebantur in secretiori parte natium: et ascendebat ululatus uniuscuiusque civitatis in cælum.
   - `VulgConte (2009)`: Fiebat enim pavor mortis in singulis urbibus, et gravissima valde manus Dei: viri quoque, qui mortui non fuerant, percutiebantur in secretiori parte natium: et ascendebat ululatus uniuscuiusque civitatis in cælum.
   - `VulgSistina (1590)`: Fiebat enim pavor mortis in singulis urbibus, et gravissima valde manus Dei. viri quoque, qui mortui non fuerant, percutiebantur in secretiori parte natium: et ascendebat ululatus uniuscuiusque civitatis in caelum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

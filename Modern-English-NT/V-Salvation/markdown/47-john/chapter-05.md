@@ -1,6 +1,6 @@
 # John 5 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (46 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (47 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`John`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -10,6 +10,8 @@
 **5:2** Now there is in Jerusalem a sheep pool, which in Hebrew is called Bethsaida, having five porticoes.
 
 **5:3** In these lay a great multitude of the sick, the blind, the lame, and the withered, waiting for the movement of the water.
+
+**5:4** Now an angel of the Lord went down into the pool at certain times, and the water was moved. And whoever went down first into the pool after the movement of the water was made well from whatever infirmity held him.
 
 **5:5** Now a certain man was there who had been in his infirmity for thirty-eight years.
 
@@ -96,10 +98,6 @@
 **5:46** For if you believed Moses, you would perhaps believe Me as well; for he wrote about Me.
 
 **5:47** If, however, you do not believe his writings, how will you believe My words?"
-
-## Additional Verses (Not in Saints Numbering)
-
-**5:4** *(after `5:3`)* Now an angel of the Lord went down into the pool at certain times, and the water was moved. And whoever went down first into the pool after the movement of the water was made well from whatever infirmity held him.
 
 ## Translator Notes
 

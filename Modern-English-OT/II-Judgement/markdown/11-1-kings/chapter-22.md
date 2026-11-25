@@ -1,6 +1,6 @@
 # 1 Kings 22 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (50 verses, 5 translator notes)  
+> **Status:** `draft: true` (54 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -97,6 +97,14 @@
 
 **22:46** Now the rest of the matters of Jehoshaphat, and his works that he performed, and the battles, are these not written in the book of the words of the days of the kings of Judah?
 
+**22:47** Moreover, he also removed from the land the remnant of the effeminate men who had remained in the days of Asa his father.
+
+**22:48** And there was no king appointed in Edom at that time.
+
+**22:49** Now King Jehoshaphat had made fleets on the sea to sail to Ophir for gold, yet they could not go, because they were shattered at Ezion-geber.
+
+**22:50** Then Ahaziah son of Ahab said to Jehoshaphat, "Let my servants go with your servants in the ships." And Jehoshaphat was unwilling.
+
 **22:51** And Jehoshaphat slept with his fathers, and was buried with them in the city of David his father; and Jehoram his son reigned in his place.
 
 **22:52** Now Ahaziah, son of Ahab, had begun to reign over Israel in Samaria in the seventeenth year of Jehoshaphat, king of Judah, and he reigned over Israel for two years.
@@ -112,3 +120,4 @@
 - **22:30** — The Vulgate has Ahab instruct Jehoshaphat in the second person ("Take up arms, and enter the battle"), whereas the Hebrew text has Ahab announce that he himself will disguise himself and enter the battle.
 - **22:34** — The Vulgate translates the target of the arrow anatomically as "between the lung and the stomach" (inter pulmonem et stomachum) and adds "by chance" (casu), whereas the Hebrew refers to the gap between parts of the king's armor.
 - **22:38** — The Vulgate renders this clause "and they washed the reins" (et habenas laverunt), taking the underlying Hebrew term as chariot harness or gear, whereas the Masoretic Hebrew reads "and the prostitutes washed themselves."
+- **22:47** — Native Clementine Vulgate 22:47-50 map to Saints.Bible 16:28 (3 Kingdoms placement).

@@ -1,13 +1,13 @@
 # 2 Chronicles — Saints Modern English OT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Division: **II. Judgement (Historical Books & Job)**  
-> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; Saints.Bible versification).  
+> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; native Sixto-Clementine Vulgate versification).  
 > **Structured JSON:** [`14-2-chronicles.json`](../../json/14-2-chronicles.json) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Chapters
 
-- [Chapter 1](chapter-01.md) — 18 verses, 5 notes
-- [Chapter 2](chapter-02.md) — 17 verses, 5 notes
+- [Chapter 1](chapter-01.md) — 17 verses, 4 notes
+- [Chapter 2](chapter-02.md) — 18 verses, 6 notes
 - [Chapter 3](chapter-03.md) — 17 verses, 5 notes
 - [Chapter 4](chapter-04.md) — 22 verses, 5 notes
 - [Chapter 5](chapter-05.md) — 14 verses, 5 notes
@@ -18,8 +18,8 @@
 - [Chapter 10](chapter-10.md) — 19 verses, 4 notes
 - [Chapter 11](chapter-11.md) — 23 verses, 4 notes
 - [Chapter 12](chapter-12.md) — 16 verses, 5 notes
-- [Chapter 13](chapter-13.md) — 23 verses, 5 notes
-- [Chapter 14](chapter-14.md) — 14 verses, 3 notes
+- [Chapter 13](chapter-13.md) — 22 verses, 5 notes
+- [Chapter 14](chapter-14.md) — 15 verses, 3 notes
 - [Chapter 15](chapter-15.md) — 19 verses, 5 notes
 - [Chapter 16](chapter-16.md) — 14 verses, 4 notes
 - [Chapter 17](chapter-17.md) — 19 verses, 4 notes
@@ -32,7 +32,7 @@
 - [Chapter 24](chapter-24.md) — 27 verses, 5 notes
 - [Chapter 25](chapter-25.md) — 28 verses, 4 notes
 - [Chapter 26](chapter-26.md) — 23 verses, 5 notes
-- [Chapter 27](chapter-27.md) — 8 verses, 1 notes, +1 additional
+- [Chapter 27](chapter-27.md) — 9 verses, 1 notes
 - [Chapter 28](chapter-28.md) — 27 verses, 5 notes
 - [Chapter 29](chapter-29.md) — 36 verses, 5 notes
 - [Chapter 30](chapter-30.md) — 27 verses, 4 notes

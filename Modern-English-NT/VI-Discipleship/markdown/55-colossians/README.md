@@ -1,7 +1,7 @@
 # Colossians — Saints Modern English NT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Division: **VI. Discipleship (Acts, Letters & General Epistles)**  
-> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; Saints.Bible versification).  
+> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; native Sixto-Clementine Vulgate versification).  
 > **Structured JSON:** [`55-colossians.json`](../../json/55-colossians.json) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Chapters

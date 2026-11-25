@@ -1,6 +1,6 @@
 # 2 Maccabees 2 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (33 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`2 Maccabees`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -41,38 +41,41 @@
 
 **2:18** just as He promised in the law, we hope that He will soon have mercy on us, and He has gathered us from under heaven into the holy place.
 
-**2:19** Now concerning Judas Maccabeus and his brothers, and concerning the purification of the great temple, and concerning the dedication of the altar,
+**2:19** For He has rescued us from great dangers, and has cleansed the place.
 
-**2:20** and also concerning the battles that pertain to Antiochus the Noble and his son Eupator,
+**2:20** Now concerning Judas Maccabeus and his brothers, and concerning the purification of the great temple, and concerning the dedication of the altar,
 
-**2:21** and concerning the illuminations that took place from heaven for those who acted bravely for the Jews, so that, though they were few, they reclaimed the entire region and put the barbarian multitude to flight,
+**2:21** and also concerning the battles that pertain to Antiochus the Noble and his son Eupator,
 
-**2:22** and recovered the most famous temple in the whole world, and delivered the city, and the laws that had been abolished were restored, the Lord having become gracious to them with all tranquility.
+**2:22** and concerning the illuminations that took place from heaven for those who acted bravely for the Jews, so that, though they were few, they reclaimed the entire region and put the barbarian multitude to flight,
 
-**2:23** And likewise, what was contained in five books by Jason of Cyrene we have attempted to abridge into one volume.
+**2:23** and recovered the most famous temple in the whole world, and delivered the city, and the laws that had been abolished were restored, the Lord having become gracious to them with all tranquility.
 
-**2:24** For considering the multitude of books, and the difficulty for those wishing to undertake the narratives of the histories because of the multitude of matters,
+**2:24** And likewise, what was contained in five books by Jason of Cyrene we have attempted to abridge into one volume.
 
-**2:25** we have taken care that for those wishing to read there might be delight of mind, for the studious that they may more easily commit it to memory, and that for all readers benefit may be conferred.
+**2:25** For considering the multitude of books, and the difficulty for those wishing to undertake the narratives of the histories because of the multitude of matters,
 
-**2:26** And for ourselves indeed, who have undertaken this work for the sake of abridging, we have taken on no easy labor, but rather a task full of vigils and sweat.
+**2:26** we have taken care that for those wishing to read there might be delight of mind, for the studious that they may more easily commit it to memory, and that for all readers benefit may be conferred.
 
-**2:27** Just like those who prepare a banquet and seek to comply with the wish of others, for the sake of the gratitude of many we gladly endure the labor,
+**2:27** And for ourselves indeed, who have undertaken this work for the sake of abridging, we have taken on no easy labor, but rather a task full of vigils and sweat.
 
-**2:28** conceding indeed the truth concerning each detail to the authors, while we ourselves strive for brevity according to the given form.
+**2:28** Just like those who prepare a banquet and seek to comply with the wish of others, for the sake of the gratitude of many we gladly endure the labor,
 
-**2:29** For just as the architect of a new house must take care of the entire structure, while he who attends to painting must seek out the things that are fitting for adornment, so also must it be judged in our case.
+**2:29** conceding indeed the truth concerning each detail to the authors, while we ourselves strive for brevity according to the given form.
 
-**2:30** For indeed to gather the understanding, and to arrange the discourse, and to investigate each individual part more carefully, befits the author of a history;
+**2:30** For just as the architect of a new house must take care of the entire structure, while he who attends to painting must seek out the things that are fitting for adornment, so also must it be judged in our case.
 
-**2:31** but to pursue brevity of expression and to avoid detailed treatments of matters must be conceded to the one who abridges.
+**2:31** For indeed to gather the understanding, and to arrange the discourse, and to investigate each individual part more carefully, befits the author of a history;
 
-**2:32** From here, therefore, we will begin the narrative; let it be enough to have said this much concerning the preface. For indeed it is foolish to overflow before the history, yet to be cut short in the history itself.
+**2:32** but to pursue brevity of expression and to avoid detailed treatments of matters must be conceded to the one who abridges.
+
+**2:33** From here, therefore, we will begin the narrative; let it be enough to have said this much concerning the preface. For indeed it is foolish to overflow before the history, yet to be cut short in the history itself.
 
 ## Translator Notes
 
 - **2:8** — The Vulgate reads 'magno Deo' ("to the great God") and adds 'manifestabat haec' ("He manifested these things"), whereas the Greek Septuagint has the adverb "greatly" without the final clause.
 - **2:9** — The Vulgate reads 'Magnifice etenim sapientiam tractabat' ("For indeed he practiced wisdom magnificently"), whereas the Greek Septuagint states, "It was also explained that, having wisdom..."
 - **2:13** — The Vulgate reads 'de regionibus' ("from the regions") where the Greek Septuagint refers to books "about the kings."
-- **2:18** — The Clementine Vulgate reads the perfect 'congregavit' ("has gathered," likely an early b/v spelling variant for future 'congregabit', "will gather," as in the Greek) and omits the Greek final clause ("for he has rescued us from great evils and purified the place").
-- **2:20** — The Vulgate translates the royal epithet 'Epiphanes' as 'Nobilem' ("the Noble"), and in v. 21 renders Greek 'epiphaneias' ("manifestations") as 'illuminationibus' ("illuminations").
+- **2:18** — The Clementine Vulgate reads the perfect 'congregavit' ("has gathered," likely an early b/v spelling variant for future 'congregabit', "will gather," as in the Greek); the continuation ('For He has rescued us...') follows in native 2:19.
+- **2:19** — Native Vulgate 2 Maccabees 2:19 maps to Saints.Bible 2:18b (shifting native 2:20-33 to Saints.Bible 2:19-32).
+- **2:21** — The Vulgate translates the royal epithet 'Epiphanes' as 'Nobilem' ("the Noble"), and in v. 22 renders Greek 'epiphaneias' ("manifestations") as 'illuminationibus' ("illuminations").

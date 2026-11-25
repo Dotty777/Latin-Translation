@@ -1,6 +1,6 @@
 # Isaiah 1 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 5 translator notes)  
+> **Status:** `draft: true` (31 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Isaiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -72,5 +72,6 @@
 - **1:5** — Vulgate "percutiam" ("should I strike", first-person singular active) presents God speaking directly, whereas the Hebrew Masoretic Text has a passive ("will you still be struck?"). Latin "super quo" can mean either "where [on the body]" or "on what account."
 - **1:9** — Vulgate "semen" ("seed", matching the Septuagint and Romans 9:29) differs from the Hebrew Masoretic Text's "survivors" or "remnant."
 - **1:18** — Vulgate "arguite me" ("reprove Me" or "accuse Me", an active imperative with God as object) is a distinctive Latin reading compared to the Hebrew reciprocal "let us reason together."
+- **1:19** — All Clementine witnesses unanimously read present-form comeditis (an orthographic/morphological variant for future comedetis); rendered 'you will eat' in keeping with the future-perfect conditional protasis.
 - **1:26** — Vulgate "civitas justi" uses the singular substantive ("city of the righteous one" or "of what is right") rather than the abstract noun "city of righteousness" in the Hebrew Masoretic Text.
 - **1:27** — Vulgate "et reducent eam in justitia" ("and they will bring her back in righteousness") reads a finite verb with Zion as object, contrasting with the Hebrew Masoretic Text's "and her repentant ones with righteousness."

@@ -25,7 +25,7 @@
 
 **33:10** Jacob said, "Do not do so, I beg you, but if I have found favor in your eyes, accept a small gift from my hands. For I have seen your face as though I had seen the countenance of God; be favorable to me,
 
-**33:11** and receive the blessing that I have brought to you and that God has granted to me, bestowing all these things." Receiving it only with difficulty as his brother urged him,
+**33:11** and receive the blessing that I have brought to you and that God has granted to me, bestowing all things." Receiving it only with difficulty as his brother urged him,
 
 **33:12** he said, "Let us walk together, and I will be a companion of your journey."
 
@@ -33,7 +33,7 @@
 
 **33:14** Let my lord go ahead before his servant, and I will follow his footsteps little by little, as I see that my little ones are able, until I come to my lord in Seir."
 
-**33:15** Esau answered, "I ask you that, from the people who are with me, companions at least may remain for your way." He said, "It is not necessary; I need this one thing, that I may find favor in the sight of my lord."
+**33:15** Esau answered, "I ask you that, from the people who are with me, companions at least may remain for your way." He said, "It is not necessary; I need this one thing only, that I may find favor in your sight, my lord."
 
 **33:16** So Esau returned on that day to Seir by the way he had come.
 
@@ -41,14 +41,14 @@
 
 **33:18** And he crossed over to Salem, the city of the Shechemites, which is in the land of Canaan, after he returned from Mesopotamia of Syria, and he lived beside the town.
 
-**33:19** And he bought the portion of the field in which he had pitched his tent from the sons of Hamor, the father of Shechem, for a hundred lambs.
+**33:19** And he bought the portion of the field in which he had pitched his tents from the sons of Hamor, the father of Shechem, for a hundred lambs.
 
 **33:20** And after erecting an altar there, he called upon the most mighty God of Israel over it.
 
 ## Translator Notes
 
 - **33:4** — The Vulgate uses the singular verb flevit ("he wept"), referring specifically to Esau, whereas the Hebrew has the plural ("they wept").
-- **33:11** — The Vulgate links the final clause back to "the blessing" through a participle describing God ("and that God has granted to me, bestowing all these things"), whereas the Hebrew has Jacob state that God has dealt graciously with him and that he has everything.
+- **33:11** — The Vulgate links the final clause back to "the blessing" through a participle describing God ("and that God has granted to me, bestowing all things"), whereas the Hebrew has Jacob state that God has dealt graciously with him and that he has everything.
 - **33:18** — Following the Septuagint, the Vulgate treats Salem as a proper place name ("Salem, the city of the Shechemites"), where the Hebrew word can also be read as the adverb "safely," and renders Hebrew Paddan-aram as "Mesopotamia of Syria."
 - **33:19** — Following the Septuagint, the Vulgate renders the rare Hebrew unit qesitah as "lambs" (centum agnis).
 - **33:20** — Rather than having Jacob name the altar "El-Elohe-Israel" as in the Hebrew, the Vulgate has him call upon "the most mighty God of Israel" over the altar.

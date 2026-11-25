@@ -1,9 +1,11 @@
 # Jeremiah 2 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (36 verses, 5 translator notes)  
+> **Status:** `draft: true` (37 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
+
+**2:1** And the word of the Lord came to me, saying:
 
 **2:2** "Go, and cry out in the ears of Jerusalem, saying, 'This is what the Lord says: I have remembered you, showing compassion on your youth and the love of your betrothal, when you followed Me in the desert, in a land that is not sown.
 

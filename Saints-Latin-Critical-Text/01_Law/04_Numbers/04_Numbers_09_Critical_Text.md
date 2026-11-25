@@ -1,8 +1,8 @@
 # Numbers 09 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:43Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -88,7 +79,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Locutus est Dominus ad Moysen in deserto Sinai anno secundo, postquam egressi sunt de Terra Ægypti, mense primo dicens:
   - `VulgConte (2009)`: Locutus est Dominus ad Moysen in deserto Sinai anno secundo, postquam egressi sunt de Terra Ægypti, mense primo dicens:
   - `VulgSistina (1590)`: Locutus est Dominus ad Moysen in deserto Sinai anno secundo, postquam egressi sunt de Terra Aegypti, mense primo dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Faciant filii Israël Phase in tempore suo,
@@ -97,7 +88,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Faciant filii Israel Phase in tempore suo,
   - `VulgConte (2009)`: Faciant filii Israel Phase in tempore suo,
   - `VulgSistina (1590)`: Faciant filii Israel Phase in tempore suo,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quartadecima die mensis hujus ad vesperam, juxta omnes cæremonias et justificationes ejus.
@@ -106,7 +97,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: quartadecima die mensis huius ad vesperam, iuxta omnes ceremonias et iustificationes eius.
   - `VulgConte (2009)`: quartadecima die mensis huius ad vesperam, iuxta omnes ceremonias et iustificationes eius.
   - `VulgSistina (1590)`: quartadecima die mensis huius ad vesperam, iuxta omnes ceremonias et iustificationes eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Præcepitque Moyses filiis Israël ut facerent Phase.
@@ -115,7 +106,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Præcepitque Moyses filiis Israel ut facerent Phase.
   - `VulgConte (2009)`: Præcepitque Moyses filiis Israel ut facerent Phase.
   - `VulgSistina (1590)`: Praecepitque Moyses filiis Israel ut facerent Phase.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui fecerunt tempore suo, quartadecima die mensis ad vesperam, in monte Sinai. Juxta omnia quæ mandaverat Dominus Moysi, fecerunt filii Israël.
@@ -124,7 +115,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Qui fecerunt tempore suo: quartadecima die mensis ad vesperam in monte Sinai. Iuxta omnia quæ mandaverat Dominus Moysi, fecerunt filii Israel.
   - `VulgConte (2009)`: Qui fecerunt tempore suo: quartadecima die mensis ad vesperam in monte Sinai. Iuxta omnia quæ mandaverat Dominus Moysi, fecerunt filii Israel.
   - `VulgSistina (1590)`: Qui fecerunt tempore suo: quartadecima die mensis ad vesperam in monte Sinai. Iuxta omnia quae mandaverat Dominus Moysi, fecerunt filii Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ecce autem quidam immundi super anima hominis, qui non poterant facere Phase in die illo, accedentes ad Moysen et Aaron,
@@ -133,7 +124,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ecce autem quidam immundi super anima hominis, qui non poterant facere Phase in die illo, accedentes ad Moysen et Aaron,
   - `VulgConte (2009)`: Ecce autem quidam immundi super anima hominis, qui non poterant facere Phase in die illo, accedentes ad Moysen et Aaron,
   - `VulgSistina (1590)`: Ecce autem quidam immundi super anima hominis, qui non poterant facere Phase in die illo, accedentes ad Moysen et Aaron,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** dixerunt eis: Immundi sumus super anima hominis: quare fraudamur ut non valeamus oblationem offerre Domino in tempore suo inter filios Israël?
@@ -142,7 +133,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: dixerunt eis: Immundi sumus super anima hominis. quare fraudamur ut non valeamus oblationem offerre Domino in tempore suo inter filios Israel?
   - `VulgConte (2009)`: dixerunt eis: Immundi sumus super anima hominis. Quare fraudamur ut non valeamus oblationem offerre Domino in tempore suo inter filios Israel?
   - `VulgSistina (1590)`: dixerunt eis: Immundi sumus super anima hominis. quare fraudamur ut non valeamus oblationem offerre Domino in tempore suo inter filios Israel?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quibus respondit Moyses: State ut consulam quid præcipiat Dominus de vobis.
@@ -151,7 +142,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quibus respondit Moyses: State ut consulam quid præcipiat Dominus de vobis.
   - `VulgConte (2009)`: Quibus respondit Moyses: State ut consulam quid præcipiat Dominus de vobis.
   - `VulgSistina (1590)`: Quibus respondit Moyses: State ut consulam quid praecipiat Dominus de vobis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Locutusque est Dominus ad Moysen, dicens:
@@ -160,7 +151,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Locutusque est Dominus ad Moysen, dicens:
   - `VulgConte (2009)`: Locutusque est Dominus ad Moysen, dicens:
   - `VulgSistina (1590)`: Locutusque est Dominus ad Moysen, dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Loquere filiis Israël: Homo, qui fuerit immundus super anima, sive in via procul in gente vestra, faciat Phase Domino
@@ -169,7 +160,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Loquere filiis Israel: Homo qui fuerit immundus super anima, sive in via procul in gente vestra, faciat Phase Domino
   - `VulgConte (2009)`: Loquere filiis Israel: Homo qui fuerit immundus super anima, sive in via procul in gente vestra, faciat Phase Domino
   - `VulgSistina (1590)`: Loquere filiis Israel: Homo qui fuerit immundus super anima, sive in via procul in gente vestra, faciat Phase Domino
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** in mense secundo, quartadecima die mensis ad vesperam. Cum azymis et lactucis agrestibus comedent illud:
@@ -178,7 +169,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: in mense secundo, quartadecima die mensis ad vesperam: cum azymis et lactucis agrestibus comedent illud:
   - `VulgConte (2009)`: in mense secundo, quartadecima die mensis ad vesperam: cum azymis et lactucis agrestibus comedent illud:
   - `VulgSistina (1590)`: in mense secundo, quartadecima die mensis ad vesperam: cum azymis et lactucis agrestibus comedent illud:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** non relinquent ex eo quippiam usque mane, et os ejus non confringent: omnem ritum Phase observabunt.
@@ -187,7 +178,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: non relinquent ex eo quippiam usque mane, et os eius non confringent, omnem ritum Phase observabunt.
   - `VulgConte (2009)`: non relinquent ex eo quippiam usque mane, et os eius non confringent, omnem ritum Phase observabunt.
   - `VulgSistina (1590)`: non relinquent ex eo quippiam usque mane, et os eius non confringent, omnem ritum Phase observabunt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Si quis autem et mundus est, et in itinere non fuit, et tamen non fecit Phase, exterminabitur anima illa de populis suis, quia sacrificium Domino non obtulit tempore suo: peccatum suum ipse portabit.
@@ -196,7 +187,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Si quis autem et mundus est, et in itinere non fuit, et tamen non fecit Phase, exterminabitur anima illa de populis suis, quia sacrificium Domino non obtulit tempore suo: peccatum suum ipse portabit.
   - `VulgConte (2009)`: Si quis autem et mundus est, et in itinere non fuit, et tamen non fecit Phase, exterminabitur anima illa de populis suis, quia sacrificium Domino non obtulit tempore suo: peccatum suum ipse portabit.
   - `VulgSistina (1590)`: Si quis autem et mundus est, et in itinere non fuit, et tamen non fecit Phase, exterminabitur anima illa de populis suis, quia sacrificium Domino non obtulit tempore suo: peccatum suum ipse portabit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Peregrinus quoque et advena si fuerint apud vos, facient Phase Domino juxta cæremonias et justificationes ejus. Præceptum idem erit apud vos tam advenæ quam indigenæ.
@@ -205,7 +196,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Peregrinus quoque et advena si fuerint apud vos, facient Phase Domino iuxta ceremonias et iustificationes eius. Præceptum idem erit apud vos tam advenæ quam indigenæ.
   - `VulgConte (2009)`: Peregrinus quoque et advena si fuerint apud vos, facient Phase Domino iuxta ceremonias et iustificationes eius. Præceptum idem erit apud vos tam advenæ quam indigenæ.
   - `VulgSistina (1590)`: Peregrinus quoque et advena si fuerint apud vos, facient Phase Domino iuxta ceremonias et iustificationes eius. Praeceptum idem erit apud vos tam advenae quam indigenae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Igitur die qua erectum est tabernaculum, operuit illud nubes. A vespere autem super tentorium erat quasi species ignis usque mane.
@@ -214,7 +205,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Igitur die qua erectum est tabernaculum, operuit illud nubes. A vespere autem super tentorium erat quasi species ignis usque mane.
   - `VulgConte (2009)`: Igitur die qua erectum est tabernaculum, operuit illud nubes. A vespere autem super tentorium erat quasi species ignis usque mane.
   - `VulgSistina (1590)`: Igitur die qua erectum est tabernaculum, operuit illud nubes. A vespere autem super tentorium erat quasi species ignis usque mane.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sic fiebat jugiter: per diem operiebat illud nubes, et per noctem quasi species ignis.
@@ -223,7 +214,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: sic fiebat iugiter: per diem operiebat illud nubes, et per noctem quasi species ignis.
   - `VulgConte (2009)`: Sic fiebat iugiter: per diem operiebat illud nubes, et per noctem quasi species ignis.
   - `VulgSistina (1590)`: sic fiebat iugiter: per diem operiebat illud nubes, et per noctem quasi species ignis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque ablata fuisset nubes, quæ tabernaculum protegebat, tunc proficiscebantur filii Israël: et in loco ubi stetisset nubes, ibi castrametabantur.
@@ -232,7 +223,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque ablata fuisset nubes, quæ tabernaculum protegebat, tunc proficiscebantur filii Israel: et in loco ubi stetisset nubes, ibi castrametabantur.
   - `VulgConte (2009)`: Cumque ablata fuisset nubes, quæ tabernaculum protegebat, tunc proficiscebantur filii Israel: et in loco ubi stetisset nubes, ibi castrametabantur.
   - `VulgSistina (1590)`: Cumque ablata fuisset nubes, quae tabernaculum protegebat, tunc proficiscebantur filii Israel: et in loco ubi stetisset nubes, ibi castrametabantur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ad imperium Domini proficiscebantur, et ad imperium illius figebant tabernaculum. Cunctis diebus quibus stabat nubes super tabernaculum, manebant in eodem loco:
@@ -241,7 +232,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ad imperium Domini proficiscebantur, et ad imperium illius figebant tabernaculum. Cunctis diebus quibus stabat nubes super tabernaculum, manebant in eodem loco:
   - `VulgConte (2009)`: Ad imperium Domini proficiscebantur, et ad imperium illius figebant tabernaculum. Cunctis diebus quibus stabat nubes super tabernaculum, manebant in eodem loco:
   - `VulgSistina (1590)`: Ad imperium Domini proficiscebantur, et ad imperium illius figebant tabernaculum. Cunctis diebus quibus stabat nubes super tabernaculum, manebant in eodem loco:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et si evenisset ut multo tempore maneret super illud, erant filii Israël in excubiis Domini, et non proficiscebantur
@@ -250,7 +241,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et si evenisset ut multo tempore maneret super illud, erant filii Israel in excubiis Domini, et non proficiscebantur
   - `VulgConte (2009)`: et si evenisset ut multo tempore maneret super illud, erant filii Israel in excubiis Domini, et non proficiscebantur
   - `VulgSistina (1590)`: et si evenisset ut multo tempore maneret super illud, erant filii Israel in excubiis Domini, et non proficiscebantur
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quot diebus fuisset nubes super tabernaculum. Ad imperium Domini erigebant tentoria, et ad imperium illius deponebant.
@@ -259,7 +250,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: quot diebus fuisset nubes super tabernaculum. Ad imperium Domini erigebant tentoria, et ad imperium illius deponebant.
   - `VulgConte (2009)`: quot diebus fuisset nubes super tabernaculum. Ad imperium Domini erigebant tentoria, et ad imperium illius deponebant.
   - `VulgSistina (1590)`: quot diebus fuisset nubes super tabernaculum. Ad imperium Domini erigebant tentoria, et ad imperium illius deponebant.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Si fuisset nubes a vespere usque mane, et statim diluculo tabernaculum reliquisset, proficiscebantur: et si post diem et noctem recessisset, dissipabant tentoria.
@@ -268,7 +259,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Si fuisset nubes a vespere usque mane, et statim diluculo tabernaculum reliquisset, proficiscebantur: et, si post diem et noctem recessisset, dissipabant tentoria.
   - `VulgConte (2009)`: Si fuisset nubes a vespere usque mane, et statim diluculo tabernaculum reliquisset, proficiscebantur: et, si post diem et noctem recessisset, dissipabant tentoria.
   - `VulgSistina (1590)`: Si fuisset nubes a vespere usque mane, et statim diluculo tabernaculum reliquisset, proficiscebantur: et, si post diem et noctem recessisset, dissipabant tentoria.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Si vero biduo aut uno mense vel longiori tempore fuisset super tabernaculum, manebant filii Israël in eodem loco, et non proficiscebantur: statim autem ut recessisset, movebant castra.
@@ -277,7 +268,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Si vero biduo aut uno mense vel longiori tempore fuisset super tabernaculum, manebant filii Israel in eodem loco, et non proficiscebantur: statim autem ut recessisset, movebant castra.
   - `VulgConte (2009)`: Si vero biduo aut uno mense vel longiori tempore fuisset super tabernaculum, manebant filii Israel in eodem loco, et non proficiscebantur: statim autem ut recessisset, movebant castra.
   - `VulgSistina (1590)`: Si vero biduo aut uno mense vel longiori tempore fuisset super tabernaculum, manebant filii Israel in eodem loco, et non proficiscebantur: statim autem ut recessisset, movebant castra.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Per verbum Domini figebant tentoria, et per verbum illius proficiscebantur: erantque in excubiis Domini juxta imperium ejus per manum Moysi.
@@ -286,4 +277,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Per verbum Domini figebant tentoria, et per verbum illius proficiscebantur: erantque in excubiis Domini iuxta imperium eius per manum Moysi.
   - `VulgConte (2009)`: Per verbum Domini figebant tentoria, et per verbum illius proficiscebantur: erantque in excubiis Domini iuxta imperium eius per manum Moysi.
   - `VulgSistina (1590)`: Per verbum Domini figebant tentoria, et per verbum illius proficiscebantur: erantque in excubiis Domini iuxta imperium eius per manum Moysi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

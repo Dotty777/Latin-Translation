@@ -1,6 +1,6 @@
 # Psalms 72 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -67,4 +67,5 @@
 - **72:10** — Latin dies pleni ('full days') follows the Septuagint where the Hebrew reads 'waters of fullness'; similarly in v. 7 Latin iniquitas eorum ('their iniquity') differs from the Hebrew 'their eyes.'
 - **72:18** — Latin propter dolos posuisti eis ('because of deceits You have set it for them') follows the Septuagint's elliptical phrasing where the Hebrew has 'in slippery places You set them.'
 - **72:20** — Latin in civitate tua ('in Your city') follows the Septuagint reading of a Hebrew form that otherwise means 'on awakening.'
+- **72:22** — Native Vulgate verse divisions in Psalm 72:22-24 place "I became like a beast before You" at the opening of 72:23 and "You have held my right hand" at the opening of 72:24 (about half a verse behind Hebrew/Saints boundaries).
 - **72:28** — The closing phrase in portis filiae Sion ('in the gates of the daughter of Zion') follows the Septuagint and is absent from the Hebrew Masoretic Text.

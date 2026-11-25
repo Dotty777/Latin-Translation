@@ -1,6 +1,6 @@
 # Jeremiah 23 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (40 verses, 5 translator notes)  
+> **Status:** `draft: true` (40 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -87,7 +87,8 @@
 
 ## Translator Notes
 
-- **23:6** — The Vulgate has the adjective justus ("The Lord Our Righteous One") where the Hebrew Masoretic Text has the noun "righteousness," and uses the active plural vocabunt ("they will call").
+- **23:5** — Latin germen justum ('a righteous shoot') and rex ('a king') are lowercase; capitalization of 'He' reflects traditional messianic interpretation (cf. 33:15-16) and is subject to edition-wide policy.
+- **23:6** — The Vulgate has the adjective justus ("The Lord Our Righteous One") where the Hebrew Masoretic Text has the noun "righteousness," and uses the active plural vocabunt ("they will call"). Capitalization of 'Him' reflects traditional messianic interpretation (cf. 33:16) and is subject to edition-wide policy.
 - **23:14** — Vulgate similitudinem adulterantium ("the likeness of adulterers") is a distinctly Latin reading where the Hebrew Masoretic Text reads "a horrible thing: committing adultery."
 - **23:22** — The Vulgate has the first-person singular avertissem ("I would certainly have turned them back"), whereas the Hebrew Masoretic Text has the third-person plural ("they would have turned them back").
 - **23:32** — Vulgate in miraculis suis ("by their miracles") differs from the Hebrew Masoretic Text, which speaks of the false prophets' "recklessness" or "boasting."

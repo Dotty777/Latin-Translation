@@ -1,6 +1,6 @@
 # Joshua 8 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 3 translator notes, 8 additional)  
+> **Status:** `draft: true` (35 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -29,6 +29,8 @@
 
 **8:12** Now he had chosen five thousand men and placed them in ambush between Bethel and Ai on the western side of that same city;
 
+**8:13** but all the rest of the army drew up its battle line to the north, so that the rearmost of that multitude reached the western side of the city. Therefore Joshua went away that night and stood in the middle of the valley.
+
 **8:14** When the king of Ai saw this, he hurried in the morning and went out with the entire army of the city, and drew up his battle line facing the desert, not knowing that an ambush lay hidden behind his back.
 
 **8:15** Then Joshua and all Israel gave ground, feigning fear and fleeing along the way of the wilderness.
@@ -53,35 +55,31 @@
 
 **8:25** Now those who had fallen on that same day, from man to woman, were twelve thousand people, all of the city of Ai.
 
+**8:26** Joshua, however, did not withdraw his hand, which he had extended upward while holding the shield, until all the inhabitants of Ai were killed.
+
 **8:27** However, the sons of Israel divided the livestock and the plunder of the city among themselves, just as the Lord had commanded Joshua.
 
 **8:28** And he set fire to the city and made it an everlasting mound.
 
 **8:29** He also hanged its king on a gibbet until evening and the setting of the sun. And Joshua gave the command, and they took his corpse down from the cross and threw it down at the very entrance of the city, piling over him a great heap of stones, which remains until the present day.
 
-## Additional Verses (Not in Saints Numbering)
+**8:30** Then Joshua built an altar to the Lord God of Israel on Mount Ebal,
 
-**8:13** *(after `8:12`)* but all the rest of the army drew up its battle line to the north, so that the rearmost of that multitude reached the western side of the city. Therefore Joshua went away that night and stood in the middle of the valley.
+**8:31** just as Moses the servant of the Lord had commanded the sons of Israel, and as is written in the scroll of the law of Moses: an altar of unpolished stones, which iron had not touched; and he offered burnt offerings on it to the Lord, and sacrificed peace offerings.
 
-**8:26** *(after `8:25`)* Joshua, however, did not withdraw his hand, which he had extended upward while holding the shield, until all the inhabitants of Ai were killed.
+**8:32** And he wrote on the stones the Deuteronomy of the law of Moses, which he had set down before the sons of Israel.
 
-**8:30** *(after `8:29`)* Then Joshua built an altar to the Lord God of Israel on Mount Ebal,
+**8:33** And all the people, and the elders, and the leaders and judges, were standing on both sides of the ark, in the sight of the priests who carried the ark of the covenant of the Lord, the foreigner as well as the native. Half of them were near Mount Gerizim, and half near Mount Ebal, just as Moses the servant of the Lord had commanded. And first indeed he blessed the people of Israel.
 
-**8:31** *(after `8:29`)* just as Moses the servant of the Lord had commanded the sons of Israel, and as is written in the scroll of the law of Moses: an altar of unpolished stones, which iron had not touched; and he offered burnt offerings on it to the Lord, and sacrificed peace offerings.
+**8:34** After these things he read all the words of blessing and cursing, and all things that had been written in the scroll of the law.
 
-**8:32** *(after `8:29`)* And he wrote on the stones the Deuteronomy of the law of Moses, which he had set down before the sons of Israel.
-
-**8:33** *(after `8:29`)* And all the people, and the elders, and the leaders and judges, were standing on both sides of the ark, in the sight of the priests who carried the ark of the covenant of the Lord, the foreigner as well as the native. Half of them were near Mount Gerizim, and half near Mount Ebal, just as Moses the servant of the Lord had commanded. And first indeed he blessed the people of Israel.
-
-**8:34** *(after `8:29`)* After these things he read all the words of blessing and cursing, and all things that had been written in the scroll of the law.
-
-**8:35** *(after `8:29`)* He left nothing untouched of those things that Moses had commanded, but repeated everything before the entire multitude of Israel, the women and little children, and the foreigners who stayed among them.
+**8:35** He left nothing untouched of those things that Moses had commanded, but repeated everything before the entire multitude of Israel, the women and little children, and the foreigners who stayed among them.
 
 ## Translator Notes
 
 - **8:10** — The Vulgate describes Joshua as vallatus auxilio pugnatorum ("surrounded by the support of fighting men"), using Roman military phrasing that incorporates the fighting force mentioned at the start of verse 11 in the Hebrew.
+- **8:13** — Joshua is said to have "stood" (stetit) in the middle of the valley rather than "spent the night."
 - **8:18** — The Vulgate reads clypeum ("shield") here and in 8:19, whereas the Hebrew has kidon ("javelin" or "short spear").
+- **8:26** — The Clementine Vulgate reads clypeum ("shield") here.
 - **8:29** — The Vulgate employs Roman execution terms, referring to the wooden structure first as patibulo ("gibbet") and then as cruce ("cross"), where the Hebrew uses the general word for "tree" or "wood" in both places.
-- **8:13 *(additional)*** — Joshua is said to have "stood" (stetit) in the middle of the valley rather than "spent the night."
-- **8:26 *(additional)*** — The Clementine Vulgate reads clypeum ("shield") here.
-- **8:32 *(additional)*** — Latin "Deuteronomium" (borrowed from Greek) refers to a duplicate copy of the law of Moses.
+- **8:32** — Latin "Deuteronomium" (borrowed from Greek) refers to a duplicate copy of the law of Moses.

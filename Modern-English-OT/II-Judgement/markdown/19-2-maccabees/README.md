@@ -1,13 +1,13 @@
 # 2 Maccabees — Saints Modern English OT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Division: **II. Judgement (Historical Books & Job)**  
-> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; Saints.Bible versification).  
+> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; native Sixto-Clementine Vulgate versification).  
 > **Structured JSON:** [`19-2-maccabees.json`](../../json/19-2-maccabees.json) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Chapters
 
 - [Chapter 1](chapter-01.md) — 36 verses, 5 notes
-- [Chapter 2](chapter-02.md) — 32 verses, 5 notes
+- [Chapter 2](chapter-02.md) — 33 verses, 6 notes
 - [Chapter 3](chapter-03.md) — 40 verses, 5 notes
 - [Chapter 4](chapter-04.md) — 50 verses, 5 notes
 - [Chapter 5](chapter-05.md) — 27 verses, 5 notes
@@ -17,7 +17,7 @@
 - [Chapter 9](chapter-09.md) — 29 verses, 3 notes
 - [Chapter 10](chapter-10.md) — 38 verses, 5 notes
 - [Chapter 11](chapter-11.md) — 38 verses, 5 notes
-- [Chapter 12](chapter-12.md) — 45 verses, 5 notes
+- [Chapter 12](chapter-12.md) — 46 verses, 6 notes
 - [Chapter 13](chapter-13.md) — 26 verses, 5 notes
 - [Chapter 14](chapter-14.md) — 46 verses, 5 notes
-- [Chapter 15](chapter-15.md) — 39 verses, 5 notes
+- [Chapter 15](chapter-15.md) — 40 verses, 6 notes

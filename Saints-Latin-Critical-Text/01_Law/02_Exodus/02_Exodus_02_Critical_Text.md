@@ -1,8 +1,8 @@
 # Exodus 02 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:30Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -74,18 +65,18 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Exodus 2:14
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **constituit** VulgSistina (1590)
-- **Apparatus:** `constituit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **constituit** VulgSistina (1590)
+- **Apparatus:** `constituit` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
 
 ### Exodus 2:16
-- **Apparatus:** `venerunt` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **venerant** VulgSistina (1590)
+- **Apparatus:** `venerunt` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **venerant** VulgSistina (1590)
 
 ### Exodus 2:22
-- **Apparatus:** `Alterum vero peperit, quem vocavit Eliezer, dicens: Deus enim patris mei adjutor meus eripuit me de manu Pharaonis.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Alterum vero peperit, quem vocavit Eliezer, dicens: Deus enim patris mei adiutor meus et eripuit me de manu Pharaonis.** VulgSistina (1590)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **et** VulgSistina (1590)
+- **Apparatus:** `Alterum vero peperit, quem vocavit Eliezer, dicens: Deus enim patris mei adjutor meus eripuit me de manu Pharaonis.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Alterum vero peperit, quem vocavit Eliezer, dicens: Deus enim patris mei adiutor meus et eripuit me de manu Pharaonis.** VulgSistina (1590)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **et** VulgSistina (1590)
 
 ### Exodus 2:25
-- **Apparatus:** `cognovit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **liberavit** VulgSistina (1590)
+- **Apparatus:** `cognovit` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **liberavit** VulgSistina (1590)
 
 ---
 
@@ -98,7 +89,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Egressus est post hæc vir de domo Levi: et accepit uxorem stirpis suæ.
   - `VulgConte (2009)`: Egressus est post hæc vir de domo Levi: et accepit uxorem stirpis suæ.
   - `VulgSistina (1590)`: Egressus est post haec vir de domo Levi: et accepit uxorem stirpis suae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quæ concepit, et peperit filium: et videns eum elegantem, abscondit tribus mensibus.
@@ -107,7 +98,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: quæ concepit, et peperit filium: et videns eum elegantem, abscondit tribus mensibus.
   - `VulgConte (2009)`: Quæ concepit, et peperit filium: et videns eum elegantem, abscondit tribus mensibus.
   - `VulgSistina (1590)`: quae concepit, et peperit filium: et videns eum elegantem, abscondit tribus mensibus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque jam celare non posset, sumpsit fiscellam scirpeam, et linivit eam bitumine ac pice: posuitque intus infantulum, et exposuit eum in carecto ripæ fluminis,
@@ -116,7 +107,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque iam celare non posset, sumpsit fiscellam scirpeam, et linivit eam bitumine ac pice: posuitque intus infantulum, et exposuit eum in carecto ripæ fluminis,
   - `VulgConte (2009)`: Cumque iam celare non posset, sumpsit fiscellam scirpeam, et linivit eam bitumine ac pice: posuitque intus infantulum, et exposuit eum in carecto ripæ fluminis,
   - `VulgSistina (1590)`: Cumque iam celare non posset, sumpsit fiscellam scirpeam, et linivit eam bitumine ac pice: posuitque intus infantulum, et exposuit eum in carecto ripae fluminis,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** stante procul sorore ejus, et considerante eventum rei.
@@ -125,7 +116,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: stante procul sorore eius, et considerante eventum rei.
   - `VulgConte (2009)`: stante procul sorore eius, et considerante eventum rei.
   - `VulgSistina (1590)`: stante procul sorore eius, et considerante eventum rei.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ecce autem descendebat filia Pharaonis ut lavaretur in flumine: et puellæ ejus gradiebantur per crepidinem alvei. Quæ cum vidisset fiscellam in papyrione, misit unam e famulabus suis: et allatam
@@ -134,7 +125,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ecce autem descendebat filia Pharaonis ut lavaretur in flumine: et puellæ eius gradiebantur per crepidinem alvei. Quæ cum vidisset fiscellam in papyrione, misit unam e famulabus suis: et allatam
   - `VulgConte (2009)`: Ecce autem descendebat filia Pharaonis ut lavaretur in flumine: et puellæ eius gradiebantur per crepidinem alvei. Quæ cum vidisset fiscellam in papyrione, misit unam e famulabus suis: et allatam
   - `VulgSistina (1590)`: Ecce autem descendebat filia Pharaonis ut lavaretur in flumine: et puellae eius gradiebantur per crepidinem alvei. Quae cum vidisset fiscellam in papyrione, misit unam e famulabus suis: et allatam
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** aperiens, cernensque in ea parvulum vagientem, miserta ejus, ait: De infantibus Hebræorum est hic.
@@ -143,7 +134,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: aperiens, cernensque in ea parvulum vagientem, miserta eius, ait: De infantibus Hebræorum est hic.
   - `VulgConte (2009)`: aperiens, cernensque in ea parvulum vagientem, miserta eius, ait: De infantibus Hebræorum est hic.
   - `VulgSistina (1590)`: aperiens, cernensque in ea parvulum vagientem, miserta eius, ait: De infantibus Hebraeorum est hic.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cui soror pueri: Vis, inquit, ut vadam, et vocem tibi mulierem hebræam, quæ nutrire possit infantulum?
@@ -152,7 +143,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cui soror pueri: Vis, inquit, ut vadam, et vocem tibi mulierem Hebræam, quæ nutrire possit infantulum?
   - `VulgConte (2009)`: Cui soror pueri: Vis, inquit, ut vadam, et vocem tibi mulierem Hebræam, quæ nutrire possit infantulum?
   - `VulgSistina (1590)`: Cui soror pueri: Vis, inquit, ut vadam, et vocem tibi mulierem Hebraeam, quae nutrire possit infantulum?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Respondit: Vade. Perrexit puella et vocavit matrem suam.
@@ -161,7 +152,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Respondit: Vade. Perrexit puella et vocavit matrem suam.
   - `VulgConte (2009)`: Respondit: Vade. Perrexit puella et vocavit matrem suam.
   - `VulgSistina (1590)`: Respondit: Vade. Perrexit puella et vocavit matrem suam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ad quam locuta filia Pharaonis: Accipe, ait, puerum istum, et nutri mihi: ego dabo tibi mercedem tuam. Suscepit mulier, et nutrivit puerum: adultumque tradidit filiæ Pharaonis.
@@ -170,7 +161,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ad quam locuta filia Pharaonis: Accipe, ait, puerum istum, et nutri mihi: ego dabo tibi mercedem tuam. Suscepit mulier, et nutrivit puerum: adultumque tradidit filiæ Pharaonis.
   - `VulgConte (2009)`: Ad quam locuta filia Pharaonis: Accipe, ait, puerum istum, et nutri mihi: ego dabo tibi mercedem tuam. Suscepit mulier, et nutrivit puerum: adultumque tradidit filiæ Pharaonis.
   - `VulgSistina (1590)`: Ad quam locuta filia Pharaonis: Accipe, ait, puerum istum, et nutri mihi: ego dabo tibi mercedem tuam. Suscepit mulier, et nutrivit puerum: adultumque tradidit filiae Pharaonis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quem illa adoptavit in locum filii, vocavitque nomen ejus Moyses, dicens: Quia de aqua tuli eum.
@@ -179,7 +170,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quem illa adoptavit in locum filii, vocavitque nomen eius Moyses, dicens: Quia de aqua tuli eum.
   - `VulgConte (2009)`: Quem illa adoptavit in locum filii, vocavitque nomen eius Moyses, dicens: Quia de aqua tuli eum.
   - `VulgSistina (1590)`: Quem illa adoptavit in locum filii, vocavitque nomen eius Moyses, dicens: Quia de aqua tuli eum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In diebus illis postquam creverat Moyses, egressus est ad fratres suos: viditque afflictionem eorum, et virum ægyptium percutientem quemdam de Hebræis fratribus suis.
@@ -188,7 +179,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In diebus illis postquam creverat Moyses, egressus est ad fratres suos: viditque afflictionem eorum, et virum Ægyptium percutientem quemdam de Hebræis fratribus suis.
   - `VulgConte (2009)`: In diebus illis postquam creverat Moyses, egressus est ad fratres suos: viditque afflictionem eorum, et virum Ægyptium percutientem quemdam de Hebræis fratribus suis.
   - `VulgSistina (1590)`: In diebus illis postquam creverat Moyses, egressus est ad fratres suos: viditque afflictionem eorum, et virum Aegyptium percutientem quemdam de Hebraeis fratribus suis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque circumspexisset huc atque illuc, et nullum adesse vidisset, percussum Ægyptium abscondit sabulo.
@@ -197,7 +188,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque circumspexisset huc atque illuc, et nullum adesse vidisset, percussum Ægyptium abscondit sabulo.
   - `VulgConte (2009)`: Cumque circumspexisset huc atque illuc, et nullum adesse vidisset, percussum Ægyptium abscondit sabulo.
   - `VulgSistina (1590)`: Cumque circumspexisset huc atque illuc, et nullum adesse vidisset, percussum Aegyptium abscondit sabulo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et egressus die altero conspexit duos Hebræos rixantes: dixitque ei qui faciebat injuriam: Quare percutis proximum tuum?
@@ -206,7 +197,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et egressus die altero conspexit duos Hebræos rixantes: dixitque ei qui faciebat iniuriam: Quare percutis proximum tuum?
   - `VulgConte (2009)`: Et egressus die altero conspexit duos Hebræos rixantes: dixitque ei qui faciebat iniuriam: Quare percutis proximum tuum?
   - `VulgSistina (1590)`: Et egressus die altero conspexit duos Hebraeos rixantes: dixitque ei qui faciebat iniuriam: Quare percutis proximum tuum?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui respondit: Quis te constituit principem et judicem super nos? num occidere me tu vis, sicut heri occidisti Ægyptium? Timuit Moyses, et ait: Quomodo palam factum est verbum istud?
@@ -215,7 +206,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Qui respondit: Quis te constituit principem et iudicem super nos? num occidere me tu vis, sicut heri occidisti Ægyptium? Timuit Moyses, et ait: Quomodo palam factum est verbum istud?
   - `VulgConte (2009)`: Qui respondit: Quis te constituit principem et iudicem super nos? num occidere me tu vis, sicut heri occidisti Ægyptium? Timuit Moyses, et ait: Quomodo palam factum est verbum istud?
   - `VulgSistina (1590)`: Qui respondit: Quis constituit te principem et iudicem super nos? num occidere me tu vis, sicut heri occidisti Aegyptium? Timuit Moyses, et ait: Quomodo palam factum est verbum istud?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Audivitque Pharao sermonem hunc, et quærebat occidere Moysen: qui fugiens de conspectu ejus, moratus est in terra Madian, et sedit juxta puteum.
@@ -224,7 +215,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Audivitque Pharao sermonem hunc, et quærebat occidere Moysen: qui fugiens de conspectu eius, moratus est in Terra Madian, et sedit iuxta puteum.
   - `VulgConte (2009)`: Audivitque Pharao sermonem hunc, et quærebat occidere Moysen: qui fugiens de conspectu eius, moratus est in Terra Madian, et sedit iuxta puteum.
   - `VulgSistina (1590)`: Audivitque Pharao sermonem hunc, et quaerebat occidere Moysen: qui fugiens de conspectu eius, moratus est in Terra Madian, et sedit iuxta puteum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Erant autem sacerdoti Madian septem filiæ, quæ venerunt ad hauriendam aquam: et impletis canalibus adaquare cupiebant greges patris sui.
@@ -233,7 +224,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Erant autem sacerdoti Madian septem filiæ, quæ venerunt ad hauriendam aquam: et impletis canalibus adaquare cupiebant greges patris sui.
   - `VulgConte (2009)`: Erant autem sacerdoti Madian septem filiæ, quæ venerunt ad hauriendam aquam: et impletis canalibus adaquare cupiebant greges patris sui.
   - `VulgSistina (1590)`: Erant autem sacerdoti Madian septem filiae, quae venerant ad hauriendam aquam: et impletis canalibus adaquare cupiebant greges patris sui.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Supervenere pastores, et ejecerunt eas: surrexitque Moyses, et defensis puellis, adaquavit oves earum.
@@ -242,7 +233,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Supervenere pastores, et eiecerunt eas: surrexitque Moyses, et defensis puellis, adaquavit oves earum.
   - `VulgConte (2009)`: Supervenere pastores, et eiecerunt eas: surrexitque Moyses, et defensis puellis, adaquavit oves earum.
   - `VulgSistina (1590)`: Supervenere pastores, et eiecerunt eas: surrexitque Moyses, et defensis puellis, adaquavit oves earum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quæ cum revertissent ad Raguel patrem suum, dixit ad eas: Cur velocius venistis solito?
@@ -251,7 +242,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quæ cum revertissent ad Raguel patrem suum, dixit ad eas: Cur velocius venistis solito?
   - `VulgConte (2009)`: Quæ cum revertissent ad Raguel patrem suum, dixit ad eas: Cur velocius venistis solito?
   - `VulgSistina (1590)`: Quae cum revertissent ad Raguel patrem suum, dixit ad eas: Cur velocius venistis solito?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Responderunt: Vir ægyptius liberavit nos de manu pastorum: insuper et hausit aquam nobiscum, potumque dedit ovibus.
@@ -260,7 +251,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Responderunt: Vir Ægyptius liberavit nos de manu pastorum: insuper et hausit aquam nobiscum, potumque dedit ovibus.
   - `VulgConte (2009)`: Responderunt: Vir Ægyptius liberavit nos de manu pastorum: insuper et hausit aquam nobiscum, potumque dedit ovibus.
   - `VulgSistina (1590)`: Responderunt: Vir Aegyptius liberavit nos de manu pastorum: insuper et hausit aquam nobiscum, potumque dedit ovibus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** At ille: Ubi est? inquit: quare dimisistis hominem? vocate eum ut comedat panem.
@@ -269,7 +260,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: At ille: Ubi est? inquit, Quare dimisistis hominem? vocate eum ut comedat panem.
   - `VulgConte (2009)`: At ille: Ubi est? inquit, Quare dimisistis hominem? Vocate eum ut comedat panem.
   - `VulgSistina (1590)`: At ille: Ubi est? inquit, Quare dimisistis hominem? vocate eum ut comedat panem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Juravit ergo Moyses quod habitaret cum eo. Accepitque Sephoram filiam ejus uxorem:
@@ -278,7 +269,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iuravit ergo Moyses quod habitaret cum eo. Accepitque Sephoram filiam eius uxorem:
   - `VulgConte (2009)`: Iuravit ergo Moyses quod habitaret cum eo. Accepitque Sephoram filiam eius uxorem:
   - `VulgSistina (1590)`: Iuravit ergo Moyses quod habitaret cum eo. Accepitque Sephoram filiam eius uxorem:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quæ peperit ei filium, quem vocavit Gersam, dicens: Advena fui in terra aliena. Alterum vero peperit, quem vocavit Eliezer, dicens: Deus enim patris mei adjutor meus eripuit me de manu Pharaonis.
@@ -287,7 +278,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: quæ peperit ei filium, quem vocavit Gersam, dicens: Advena fui in terra aliena. Alterum vero peperit, quem vocavit Eliezer, dicens: Deus enim patris mei adiutor meus eripuit me de manu Pharaonis.
   - `VulgConte (2009)`: quæ peperit ei filium, quem vocavit Gersam, dicens: Advena fui in terra aliena. Alterum vero peperit, quem vocavit Eliezer, dicens: Deus enim patris mei adiutor meus eripuit me de manu Pharaonis.
   - `VulgSistina (1590)`: quae peperit ei filium, quem vocavit Gersam, dicens: Advena fui in terra aliena. Alterum vero peperit, quem vocavit Eliezer, dicens: Deus enim patris mei adiutor meus et eripuit me de manu Pharaonis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Post multum vero tempore mortuus est rex Ægypti: et ingemiscentes filii Israël, propter opera vociferati sunt: ascenditque clamor eorum ad Deum ab operibus.
@@ -296,7 +287,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Post multum vero tempore mortuus est rex Ægypti: et ingemiscentes filii Israel, propter opera vociferati sunt: ascenditque clamor eorum ad Deum ab operibus.
   - `VulgConte (2009)`: Post multum vero tempore mortuus est rex Ægypti: et ingemiscentes filii Israel, propter opera vociferati sunt: ascenditque clamor eorum ad Deum ab operibus.
   - `VulgSistina (1590)`: Post multum vero tempore mortuus est rex Aegypti: et ingemiscentes filii Israel, propter opera vociferati sunt: ascenditque clamor eorum ad Deum ab operibus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et audivit gemitum eorum, ac recordatus est fœderis quod pepigit cum Abraham, Isaac et Jacob.
@@ -305,7 +296,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et audivit gemitum eorum, ac recordatus est fœderis quod pepigit cum Abraham, Isaac, et Iacob.
   - `VulgConte (2009)`: Et audivit gemitum eorum, ac recordatus est fœderis quod pepigit cum Abraham, Isaac, et Iacob.
   - `VulgSistina (1590)`: Et audivit gemitum eorum, ac recordatus est foederis quod pepigit cum Abraham, Isaac, et Iacob.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et respexit Dominus filios Israël et cognovit eos.
@@ -314,4 +305,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et respexit Dominus filios Israel et cognovit eos.
   - `VulgConte (2009)`: Et respexit Dominus filios Israel et cognovit eos.
   - `VulgSistina (1590)`: Et respexit Dominus filios Israel et liberavit eos.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

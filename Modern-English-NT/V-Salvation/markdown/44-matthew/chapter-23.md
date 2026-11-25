@@ -1,6 +1,6 @@
 # Matthew 23 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (38 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (39 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Matthew`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -30,6 +30,8 @@
 **23:12** Now the one who exalts himself will be humbled, and the one who humbles himself will be exalted.
 
 **23:13** But woe to you, scribes and Pharisees, hypocrites, because you shut the kingdom of heaven before men! For you yourselves do not enter, nor do you permit those who are entering to enter.
+
+**23:14** Woe to you, scribes and Pharisees, hypocrites, because you devour the houses of widows while praying long prayers! For this reason you will receive a greater judgment.
 
 **23:15** Woe to you, scribes and Pharisees, hypocrites, because you go around sea and dry land so that you may make one proselyte, and when he has become one, you make him a son of Gehenna twice as much as yourselves.
 
@@ -81,15 +83,11 @@
 
 **23:39** For I tell you, you will not see Me from now on until you say, 'Blessed is He who comes in the name of the Lord.'"
 
-## Additional Verses (Not in Saints Numbering)
-
-**23:14** *(after `23:13`)* Woe to you, scribes and Pharisees, hypocrites, because you devour the houses of widows while praying long prayers! For this reason you will receive a greater judgment.
-
 ## Translator Notes
 
 - **23:10** — The Clementine Vulgate uses the same Latin noun magister ("teacher" or "master") in both verses 8 and 10, whereas the Greek distinguishes didaskalos (v. 8) and kathegetes (v. 10).
+- **23:14** — The Clementine Vulgate reads "orationes longas orantes" ("praying long prayers") without any phrase equivalent to "for a pretense."
 - **23:16** — Latin debet (also in v. 18) literally means "owes" or "is indebted," here signifying being bound to fulfill the oath.
 - **23:25** — Unlike Greek manuscripts that read third-person plural ("they are full," referring to the cup and dish) with "self-indulgence," the Vulgate reads second-person plural pleni estis ("you are full") and immunditia ("uncleanness"), directly contrasting with mundatis ("you clean") and mundum ("clean," v. 26).
 - **23:37** — The Vulgate maintains second-person singular address throughout (occidis, lapidas, ad te, noluisti) and punctuates the verse as a rhetorical question, whereas the Greek shifts to third-person "to her" and ends with second-person plural.
 - **23:38** — The Vulgate uses the future passive relinquetur ("will be left") and includes deserta ("desolate"), whereas many Greek manuscripts use the present passive ("is left").
-- **23:14 *(additional)*** — The Clementine Vulgate reads "orationes longas orantes" ("praying long prayers") without any phrase equivalent to "for a pretense."

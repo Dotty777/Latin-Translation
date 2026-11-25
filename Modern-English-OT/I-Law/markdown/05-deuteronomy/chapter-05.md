@@ -37,9 +37,9 @@
 
 **5:16** Honor your father and mother, just as the Lord your God commanded you, so that you may live for a long time and it may go well with you in the land that the Lord your God is about to give to you.
 
-**5:17** And you shall not commit adultery.
+**5:17** You shall not kill,
 
-**5:18** You shall not kill,
+**5:18** and you shall not commit adultery,
 
 **5:19** and you shall not commit theft;
 
@@ -77,4 +77,4 @@
 - **5:4** — The Vulgate reads 'nobis' ("to us"), whereas the Hebrew Masoretic Text reads "to you" (plural).
 - **5:5** — Latin 'sequester et medius' ("mediator and intermediary") expands the Hebrew "standing [between]" into a double mediatorial expression.
 - **5:14** — The Vulgate inserts the explanatory gloss 'id est, requies' ("that is, the rest") to explain the loanword 'sabbati' for Latin readers.
-- **5:17** — In this Latin source text, 'neque moechaberis' ("And you shall not commit adultery") stands at v. 17 and 'Non occides' ("You shall not kill") at v. 18, reversing the order of the Hebrew text and standard Vulgate editions (note the connective 'neque' in v. 17 and capitalized 'Non' in v. 18).
+- **5:17** — Native Vulgate Deuteronomy 5:17-18 follow the standard Hebrew/Vulgate order: killing (5:17, Non occides) followed by adultery (5:18, neque mœchaberis), mapping to Saints.Bible Septuagint-aligned order (5:18 and 5:17).

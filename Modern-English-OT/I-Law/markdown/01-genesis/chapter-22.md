@@ -5,7 +5,7 @@
 
 ## Text
 
-**22:1** After these things had taken place, God tested Abraham and said to him, "Abraham." He answered, "Here I am."
+**22:1** After these things had taken place, God tested Abraham and said to him, "Abraham, Abraham." He answered, "Here I am."
 
 **22:2** He said to him, "Take your only-begotten son, whom you love, Isaac, and go into the land of vision, and offer him there as a burnt offering on one of the mountains that I will show you."
 
@@ -27,7 +27,7 @@
 
 **22:11** And look, the angel of the Lord called out from heaven, saying, "Abraham, Abraham!" And he answered, "Here I am."
 
-**22:12** And he said to him, "Do not stretch out your hand against the boy, nor do anything to him; now I know that you fear the Lord and have not spared your only-begotten son because of Me."
+**22:12** And he said to him, "Do not stretch out your hand against the boy, nor do anything to him; now I know that you fear God and have not spared your only-begotten son because of Me."
 
 **22:13** Abraham lifted up his eyes and saw behind his back a ram caught by its horns among the briers; and taking it, he offered it as a burnt offering in place of his son.
 
@@ -35,7 +35,7 @@
 
 **22:15** Now the angel of the Lord called to Abraham a second time from heaven, saying,
 
-**22:16** "By Myself I have sworn, says the Lord: because you have done this thing and have not spared your only-begotten son,
+**22:16** "By Myself I have sworn, says the Lord: because you have done this thing and have not spared your only-begotten son because of Me,
 
 **22:17** I will bless you and multiply your seed like the stars of heaven and like the sand that is on the seashore; your seed will possess the gates of their enemies,
 

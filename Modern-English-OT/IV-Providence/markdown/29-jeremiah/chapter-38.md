@@ -1,94 +1,71 @@
 # Jeremiah 38 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (40 verses, 5 translator notes)  
+> **Status:** `draft: true` (28 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**38:1** "At that time," says the Lord, "I will be God to all the families of Israel, and they will be a people to Me."
+**38:1** Now Shephatiah the son of Mattan, and Gedaliah the son of Pashhur, and Jehucal the son of Shelemiah, and Pashhur the son of Malchijah heard the words that Jeremiah was speaking to all the people, saying,
 
-**38:2** This is what the Lord says: "The people who had remained from the sword found favor in the desert; Israel will go to his rest."
+**38:2** "This is what the Lord says: 'Whoever remains in this city will die by the sword, by famine, and by pestilence; but whoever flees to the Chaldeans will live, and his soul will be safe and alive.'
 
-**38:3** From far away the Lord appeared to me. "And with a perpetual love I have loved you; therefore I have drawn you, showing mercy.
+**38:3** This is what the Lord says: 'This city will surely be handed over into the hand of the army of the king of Babylon, and he will capture it.'"
 
-**38:4** And again I will build you, and you will be built, virgin Israel; once more you will be adorned with your tambourines, and you will go out in the dance of those celebrating.
+**38:4** And the officials said to the king, "We ask that this man be put to death, for he deliberately weakens the hands of the fighting men who have remained in this city, and the hands of all the people, by speaking to them according to these words; for indeed this man does not seek peace for this people, but harm."
 
-**38:5** Once more you will plant vineyards on the mountains of Samaria; the planters will plant, and until the time comes, they will not gather the vintage.
+**38:5** And King Zedekiah said, "Look, he is in your hands, for it is not right for the king to deny you anything."
 
-**38:6** For there will be a day on which the watchmen on Mount Ephraim will cry out, 'Rise up, and let us go up to Zion, to the Lord our God.'"
+**38:6** So they took Jeremiah and threw him into the cistern of Malchijah the son of Amelech, which was in the courtyard of the prison; and they lowered Jeremiah by ropes into the cistern, in which there was no water, but mud; and so Jeremiah sank down into the mire.
 
-**38:7** For this is what the Lord says: "Exult with gladness, Jacob, and neigh against the head of the nations; sound aloud, and sing, and say, 'Save Your people, Lord, the remnant of Israel.'
+**38:7** Now Ebed-melech the Ethiopian, a eunuch who was in the king's house, heard that they had put Jeremiah into the cistern. Meanwhile, the king was sitting at the Gate of Benjamin.
 
-**38:8** Look, I will bring them from the land of the north, and I will gather them from the ends of the earth; among whom will be the blind and the lame, the pregnant woman and the one giving birth together, a great assembly of those returning here.
+**38:8** And Ebed-melech went out from the king's house and spoke to the king, saying,
 
-**38:9** With weeping they will come, and in mercy I will lead them back; and I will bring them along streams of water on a straight path, and they will not stumble on it, because I have become a father to Israel, and Ephraim is My firstborn."
+**38:9** "My lord the king, these men have done wrong in everything they have committed against Jeremiah the prophet, putting him into the cistern so that he may die there of hunger; for there is no longer any bread in the city."
 
-**38:10** Hear the word of the Lord, nations, and proclaim in the islands that are far away, and say: "He who scattered Israel will gather him and will guard him as a shepherd guards his flock."
+**38:10** Then the king commanded Ebed-melech the Ethiopian, saying, "Take thirty men with you from here, and lift Jeremiah the prophet up out of the cistern before he dies."
 
-**38:11** For the Lord has redeemed Jacob and has delivered him from the hand of one stronger.
+**38:11** So Ebed-melech, taking the men with him, entered the king's house, which was under the storeroom, and took from there old rags and worn-out things that had rotted, and lowered them to Jeremiah into the cistern by cords.
 
-**38:12** And they will come and give praise on Mount Zion, and they will stream together to the good things of the Lord, over the grain, and wine, and oil, and the offspring of flocks and herds; and their soul will be like a watered garden, and they will no longer hunger.
+**38:12** And Ebed-melech the Ethiopian said to Jeremiah, "Put the old rags and these torn and rotted things under the elbow of your hands and over the ropes." So Jeremiah did this,
 
-**38:13** Then the virgin will rejoice in the dance, young men and old men together; and I will turn their mourning into joy, and I will comfort them and make them glad after their sorrow.
+**38:13** and they pulled Jeremiah up with the ropes and brought him out of the cistern. And Jeremiah remained in the courtyard of the prison.
 
-**38:14** And I will saturate the soul of the priests with richness, and My people will be filled with My good things, says the Lord.
+**38:14** And King Zedekiah sent and brought Jeremiah the prophet to himself at the third entrance that was in the house of the Lord. And the king said to Jeremiah, "I am asking you a question; do not hide anything from me."
 
-**38:15** This is what the Lord says: "A voice of lamentation has been heard on high, mourning and weeping of Rachel, wailing for her children and unwilling to be comforted over them, because they are no more."
+**38:15** And Jeremiah said to Zedekiah, "If I tell you, will you not kill me? And if I give you counsel, you will not listen to me."
 
-**38:16** This is what the Lord says: "Let your voice cease from wailing, and your eyes from tears, for there is a reward for your work," says the Lord, "and they will return from the land of the enemy;
+**38:16** So King Zedekiah swore to Jeremiah secretly, saying, "As the Lord lives, who made this soul for us, I will not put you to death, nor will I hand you over into the hands of these men who seek your life."
 
-**38:17** and there is hope for your final days," says the Lord, "and the children will return to their own borders."
+**38:17** Then Jeremiah said to Zedekiah, "This is what the Lord of hosts, the God of Israel, says: 'If you indeed go out to the officials of the king of Babylon, your soul will live, and this city will not be burned with fire; and you and your house will be safe.
 
-**38:18** Hearing, I have heard Ephraim going into exile: "You have disciplined me, and I have been instructed, like an untamed young bull; turn me back, and I will be turned back, for You are the Lord my God.
+**38:18** But if you do not go out to the officials of the king of Babylon, this city will be handed over into the hands of the Chaldeans, and they will burn it with fire; and you will not escape from their hand.'"
 
-**38:19** For after You turned me back, I repented; and after You showed me, I struck my thigh. I was put to shame and blushed, because I bore the reproach of my youth."
+**38:19** And King Zedekiah said to Jeremiah, "I am anxious because of the Judeans who have defected to the Chaldeans, for fear that I might be handed over into their hands and they might mock me."
 
-**38:20** Is Ephraim an honorable son to Me? Is he a cherished child? For from the time I spoke about him, I will still remember him. Therefore My inward parts have been stirred over him; showing mercy, I will have mercy on him, says the Lord.
+**38:20** But Jeremiah answered, "They will not hand you over. Please listen to the voice of the Lord, which I am speaking to you, and it will go well with you, and your soul will live.
 
-**38:21** Set up a watchtower for yourself; place bitternesses for yourself; direct your heart to the straight path on which you walked; return, virgin Israel, return to these cities of yours.
+**38:21** But if you refuse to go out, this is the word that the Lord has shown me:
 
-**38:22** How long will you be dissolved in luxuries, wandering daughter? For the Lord has created a new thing on the earth: a woman will surround a man.
+**38:22** Look, all the women who have remained in the house of the king of Judah will be brought out to the officials of the king of Babylon, and they themselves will say, 'Your men of peace have misled you and prevailed against you; they have sunk your feet into the mire and into a slippery place, and have withdrawn from you.'
 
-**38:23** This is what the Lord of hosts, the God of Israel, says: "Once more they will speak this word in the land of Judah and in its cities, when I turn back their captivity: 'May the Lord bless you, beauty of righteousness, holy mountain.'
+**38:23** And all your wives and your sons will be brought out to the Chaldeans, and you will not escape their hands, but you will be captured by the hand of the king of Babylon, and he will burn this city with fire."
 
-**38:24** And Judah and all its cities together will dwell in it, farmers and those driving flocks.
+**38:24** Then Zedekiah said to Jeremiah, "Let no one know these words, and you will not die.
 
-**38:25** For I have saturated the weary soul, and I have satisfied every hungry soul."
+**38:25** But if the officials hear that I have spoken with you, and they come to you and say to you, 'Tell us what you spoke with the king; do not hide it from us, and we will not kill you; and what did the king speak with you?'
 
-**38:26** Therefore I was awakened as if from sleep, and I looked, and my sleep was sweet to me.
+**38:26** then you will say to them, 'I laid down my pleas before the king, that he would not order me to be brought back into the house of Jonathan to die there.'"
 
-**38:27** "Look, days are coming," says the Lord, "and I will sow the house of Israel and the house of Judah with the seed of humans and the seed of livestock.
+**38:27** So all the officials came to Jeremiah and questioned him, and he spoke to them according to all the words that the king had commanded him. And they left him alone, for nothing had been heard.
 
-**38:28** And just as I watched over them to uproot and tear down, to scatter, destroy, and afflict, so I will watch over them to build and to plant," says the Lord.
-
-**38:29** In those days they will no longer say, "The fathers ate a sour grape, and the teeth of the children have grown numb."
-
-**38:30** Rather, each one will die in his own iniquity; every person who eats a sour grape, his teeth will grow numb.
-
-**38:31** "Look, days will come," says the Lord, "and I will make a new covenant with the house of Israel and with the house of Judah,
-
-**38:32** not according to the covenant that I established with their fathers on the day I grasped their hand to lead them out of the land of Egypt, a covenant that they made void, and I ruled over them," says the Lord.
-
-**38:33** "Rather, this will be the covenant that I will make with the house of Israel after those days," says the Lord: "I will put My law in their inward parts, and I will write it on their heart, and I will be God to them, and they will be a people to Me;
-
-**38:34** and a man will no longer teach his neighbor, nor a man his brother, saying, 'Know the Lord,' for they will all know Me, from the least of them to the greatest," says the Lord, "because I will be merciful toward their iniquity, and I will remember their sin no longer."
-
-**38:35** This is what the Lord says: "If the heavens above can be measured, and the foundations of the earth below can be searched out, then I too will cast off all the seed of Israel because of all that they have done," says the Lord.
-
-**38:36** This is what the Lord says, who gives the sun for the light of day, the order of the moon and the stars for the light of night; who stirs up the sea, and its waves roar; the Lord of hosts is His name:
-
-**38:37** "If these laws fail before Me," says the Lord, "then the seed of Israel will also fail, so that it will not be a nation before Me for all days."
-
-**38:38** "Look, days are coming," says the Lord, "and the city will be built for the Lord, from the tower of Hananel to the Corner Gate.
-
-**38:39** And the measuring line will go out further in front of it over the hill of Gareb, and will go around Goah,
-
-**38:40** and the whole valley of dead bodies and of ashes, and the entire region of death as far as the brook Kidron, and as far as the corner of the eastern Horse Gate, a holy place of the Lord; it will not be uprooted and will not be destroyed again forever."
+**38:28** And Jeremiah remained in the courtyard of the prison until the day on which Jerusalem was captured; and it came about that Jerusalem was captured.
 
 ## Translator Notes
 
-- **38:5** — The Vulgate reads "et donec tempus veniat, non vindemiabunt" ("and until the time comes, they will not gather the vintage"), reflecting the Levitical waiting period before harvesting new vineyards, whereas the Hebrew Masoretic Text reads "and they shall enjoy the fruit."
-- **38:7** — The Vulgate renders the Hebrew verb for shouting joyfully literally as "hinnite" ("neigh") and translates "contra caput gentium" as "against the head of the nations."
-- **38:15** — The Vulgate translates the Hebrew place name Ramah etymologically as "in excelso" ("on high").
-- **38:21** — The Vulgate renders the Hebrew terms for road markers and guideposts as "speculam" ("watchtower") and "amaritudines" ("bitternesses"), connecting the latter to the Hebrew root meaning "bitter."
-- **38:40** — The Vulgate reads "universam regionem mortis" ("the entire region of death"), interpreting the Hebrew word for fields or terraces ("shdemot") as a compound referring to death. In this text, Jeremiah 38 corresponds to Jeremiah 31 in the Masoretic numbering, with vv. 35-37 arranged in the Septuagint order.
+- **38:2** — The Vulgate reads 'safe and alive' (sospes et vivens), whereas the Hebrew Masoretic Text reads 'as a prize of war, and he will live.'
+- **38:5** — The Vulgate reads 'it is not right for the king to deny you anything' (nec enim fas est regem vobis quidquam negare), whereas the Hebrew text reads 'the king can do nothing against you.'
+- **38:6** — The Vulgate treats the Hebrew title hammelekh ('the king') as the proper name Amelech ('son of Amelech'), and translates 'court of the guard' as 'courtyard of the prison' (vestibulum carceris) here and throughout this narrative.
+- **38:12** — The Vulgate renders 'armpits' literally as 'under the elbow of your hands' (sub cubito manuum tuarum) and reads 'over the ropes' (super funes) where the Hebrew text reads 'under the ropes.'
+- **38:16** — "I will not put you to death, nor will I hand you over" renders the literal Latin conditional oath si occidero ... et si tradidero ("if I put you to death ... and if I hand you over [may God punish me]"), mirroring the Hebrew oath idiom (cf. Isa 14:24, Jer 15:11, Amos 8:7).
+- **38:22** — The Vulgate uses an active transitive verb ('they have sunk your feet', demerserunt) and expands 'in the mire' into a double phrase ('into the mire and into a slippery place', in coeno et in lubrico).

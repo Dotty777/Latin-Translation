@@ -1,8 +1,8 @@
 # 2 Samuel (2 Kingdoms) 17 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:27Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -93,7 +84,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `abiissent, / abissent`, `nuntiaverunt / nunciaverunt`, `nuntiaverunt / nunciaverunt`, `nuntiaverunt / nunciaverunt` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### 2 Samuel (2 Kingdoms) 17:25
-- **Apparatus:** `Jezraëli,` Clem-Saints Clem1598-USFX **]** **Hiesreli** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590)
+- **Apparatus:** `Jezraëli,` Clem1598-USFX Clem-Saints **]** **Hiesreli** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590)
 
 ---
 
@@ -106,7 +97,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixit ergo Achitophel ad Absalom: Eligam mihi duodecim millia virorum, et consurgens persequar David hac nocte.
   - `VulgConte (2009)`: Dixit ergo Achitophel ad Absalom: Eligam mihi duodecim millia virorum, et consurgens persequar David hac nocte.
   - `VulgSistina (1590)`: Dixit ergo Achitophel ad Absalom: Eligam mihi duodecim millia virorum, et consurgens persequar David hac nocte.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et irruens super eum (quippe qui lassus est, et solutis manibus), percutiam eum: cumque fugerit omnis populus qui cum eo est, percutiam regem desolatum.
@@ -115,7 +106,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et irruens super eum (quippe qui lassus est, et solutis manibus) percutiam eum: cumque fugerit omnis populus, qui cum eo est, percutiam regem desolatum.
   - `VulgConte (2009)`: Et irruens super eum (quippe qui lassus est, et solutis manibus) percutiam eum: cumque fugerit omnis populus, qui cum eo est, percutiam regem desolatum.
   - `VulgSistina (1590)`: Et irruens super eum (quippe qui lassus est, et solutis manibus) percutiam eum: cumque fugerit omnis populus, qui cum eo est, percutiam regem desolatum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et reducam universum populum, quomodo unus homo reverti solet: unum enim virum tu quæris: et omnis populus erit in pace.
@@ -124,7 +115,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et reducam universum populum, quomodo unus homo reverti solet: unum enim virum tu quæris: et omnis populus erit in pace.
   - `VulgConte (2009)`: Et reducam universum populum, quomodo unus homo reverti solet: unum enim virum tu quæris: et omnis populus erit in pace.
   - `VulgSistina (1590)`: Et reducam universum populum, quomodo unus homo reverti solet: unum enim virum tu quaeris: et omnis populus erit in pace.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Placuitque sermo ejus Absalom, et cunctis majoribus natu Israël.
@@ -133,7 +124,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Placuitque sermo eius Absalom, et cunctis maioribus natu Israel.
   - `VulgConte (2009)`: Placuitque sermo eius Absalom, et cunctis maioribus natu Israel.
   - `VulgSistina (1590)`: Placuitque sermo eius Absalom, et cunctis maioribus natu Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ait autem Absalom: Vocate Chusai Arachiten, et audiamus quid etiam ipse dicat.
@@ -142,7 +133,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ait autem Absalom: Vocate Chusai Arachiten, et audiamus quid etiam ipse dicat.
   - `VulgConte (2009)`: Ait autem Absalom: Vocate Chusai Arachiten, et audiamus quid etiam ipse dicat.
   - `VulgSistina (1590)`: Ait autem Absalom: Vocate Chusai Arachiten, et audiamus quid etiam ipse dicat.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque venisset Chusai ad Absalom, ait Absalom ad eum: Hujuscemodi sermonem locutus est Achitophel: facere debemus an non? quod das consilium?
@@ -151,7 +142,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque venisset Chusai ad Absalom, ait Absalom ad eum: Huiuscemodi sermonem locutus est Achitophel: facere debemus an non? quod das consilium?
   - `VulgConte (2009)`: Cumque venisset Chusai ad Absalom, ait Absalom ad eum: Huiuscemodi sermonem locutus est Achitophel: facere debemus an non? Quod das consilium?
   - `VulgSistina (1590)`: Cumque venisset Chusai ad Absalom, ait Absalom ad eum: Huiuscemodi sermonem locutus est Achitophel: facere debemus an non? quod das consilium?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et dixit Chusai ad Absalom: Non est bonum consilium quod dedit Achitophel hac vice.
@@ -160,7 +151,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et dixit Chusai ad Absalom: Non est bonum consilium, quod dedit Achitophel hac vice.
   - `VulgConte (2009)`: Et dixit Chusai ad Absalom: Non est bonum consilium, quod dedit Achitophel hac vice.
   - `VulgSistina (1590)`: Et dixit Chusai ad Absalom: Non est bonum consilium, quod dedit Achitophel hac vice.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et rursum intulit Chusai: Tu nosti patrem tuum, et viros qui cum eo sunt, esse fortissimos et amaro animo, veluti si ursa raptis catulis in saltu sæviat: sed et pater tuus vir bellator est, nec morabitur cum populo.
@@ -169,7 +160,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et rursum intulit Chusai: Tu nosti patrem tuum, et viros, qui cum eo sunt, esse fortissimos et amaro animo, veluti si ursa raptis catulis in saltu sæviat: sed et pater tuus vir bellator est, nec morabitur cum populo.
   - `VulgConte (2009)`: Et rursum intulit Chusai: Tu nosti patrem tuum, et viros, qui cum eo sunt, esse fortissimos et amaro animo, veluti si ursa raptis catulis in saltu sæviat: sed et pater tuus vir bellator est, nec morabitur cum populo.
   - `VulgSistina (1590)`: Et rursum intulit Chusai: Tu nosti patrem tuum, et viros, qui cum eo sunt, esse fortissimos et amaro animo, veluti si ursa raptis catulis in saltu saeviat: sed et pater tuus vir bellator est, nec morabitur cum populo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Forsitan nunc latitat in foveis, aut in uno, quo voluerit, loco: et cum ceciderit unus quilibet in principio, audiet quicumque audierit, et dicet: Facta est plaga in populo qui sequebatur Absalom.
@@ -178,7 +169,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Forsitan nunc latitat in foveis, aut in uno, quo voluerit, loco: et cum ceciderit unus quilibet in principio, audiet quicumque audierit, et dicet: Facta est plaga in populo qui sequebatur Absalom.
   - `VulgConte (2009)`: Forsitan nunc latitat in foveis, aut in uno, quo voluerit, loco: et cum ceciderit unus qui libet in principio, audiet quicumque audierit, et dicet: Facta est plaga in populo qui sequebatur Absalom.
   - `VulgSistina (1590)`: Forsitan nunc latitat in foveis, aut in uno, quo voluerit, loco: et cum ceciderit unus quilibet in principio, audiet quicumque audierit, et dicet: Facta est plaga in populo qui sequebatur Absalom.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et fortissimus quisque, cujus cor est quasi leonis, pavore solvetur: scit enim omnis populus Israël fortem esse patrem tuum, et robustos omnes qui cum eo sunt.
@@ -187,7 +178,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et fortissimus quisque, cuius cor est quasi leonis, pavore solvetur: scit enim omnis populus Israel fortem esse patrem tuum, et robustos omnes qui cum eo sunt.
   - `VulgConte (2009)`: Et fortissimus quisque, cuius cor est quasi leonis, pavore solvetur: scit enim omnis populus Israel fortem esse patrem tuum, et robustos omnes qui cum eo sunt.
   - `VulgSistina (1590)`: Et fortissimus quisque, cuius cor est quasi leonis, pavore solvetur: scit enim omnis populus Israel fortem esse patrem tuum, et robustos omnes qui cum eo sunt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sed hoc mihi videtur rectum esse consilium. Congregetur ad te universus Israël, a Dan usque Bersabee, quasi arena maris innumerabilis: et tu eris in medio eorum.
@@ -196,7 +187,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sed hoc mihi videtur rectum esse consilium: Congregetur ad te universus Israel, a Dan usque Bersabee, quasi arena maris innumerabilis: et tu eris in medio eorum.
   - `VulgConte (2009)`: Sed hoc mihi videtur rectum esse consilium: Congregetur ad te universus Israel, a Dan usque Bersabee, quasi arena maris innumerabilis: et tu eris in medio eorum.
   - `VulgSistina (1590)`: Sed hoc mihi videtur rectum esse consilium: Congregetur ad te universus Israel, a Dan usque Bersabee, quasi arena maris innumerabilis: et tu eris in medio eorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et irruemus super eum in quocumque loco inventus fuerit, et operiemus eum, sicut cadere solet ros super terram: et non relinquemus de viris qui cum eo sunt, ne unum quidem.
@@ -205,7 +196,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et irruemus super eum in quocumque loco inventus fuerit: et operiemus eum, sicut cadere solet ros super terram: et non relinquemus de viris, qui cum eo sunt, ne unum quidem.
   - `VulgConte (2009)`: Et irruemus super eum in quocumque loco inventus fuerit: et operiemus eum, sicut cadere solet ros super terram: et non relinquemus de viris, qui cum eo sunt, ne unum quidem.
   - `VulgSistina (1590)`: Et irruemus super eum in quocumque loco inventus fuerit: et operiemus eum, sicut cadere solet ros super terram: et non relinquemus de viris, qui cum eo sunt, ne unum quidem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quod si urbem aliquam fuerit ingressus, circumdabit omnis Israël civitati illi funes, et trahemus eam in torrentem, ut non reperiatur ne calculus quidem ex ea.
@@ -214,7 +205,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quod si urbem aliquam fuerit ingressus, circumdavit omnis Israel civitati illi funes, et trahemus eam in torrentem, ut non reperiatur ne calculus quidem ex ea.
   - `VulgConte (2009)`: Quod si urbem aliquam fuerit ingressus, circumdavit omnis Israel civitati illi funes, et trahemus eam in torrentem, ut non reperiatur ne calculus quidem ex ea.
   - `VulgSistina (1590)`: Quod si urbem aliquam fuerit ingressus, circumdabit omnis Israel civitati illi funes, et trahemus eam in torrentem, ut non reperiatur ne calculus quidem ex ea.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixitque Absalom, et omnes viri Israël: Melius est consilium Chusai Arachitæ, consilio Achitophel: Domini autem nutu dissipatum est consilium Achitophel utile, ut induceret Dominus super Absalom malum.
@@ -223,7 +214,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixitque Absalom, et omnes viri Israel: Melius est consilium Chusai Arachitæ, consilio Achitophel: Domini autem nutu dissipatum est consilium Achitophel utile, ut induceret Dominus super Absalom malum.
   - `VulgConte (2009)`: Dixitque Absalom, et omnes viri Israel: Melius est consilium Chusai Arachitæ, consilio Achitophel: Domini autem nutu dissipatum est consilium Achitophel utile, ut induceret Dominus super Absalom malum.
   - `VulgSistina (1590)`: Dixitque Absalom, et omnes viri Israel: Melius est consilium Chusai Arachitae, consilio Achitophel: Domini autem nutu dissipatum est consilium Achitophel utile, ut induceret Dominus super Absalom malum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ait Chusai Sadoc et Abiathar sacerdotibus: Hoc et hoc modo consilium dedit Achitophel Absalom et senioribus Israël: et ego tale et tale dedi consilium.
@@ -232,7 +223,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ait Chusai Sadoc, et Abiathar sacerdotibus: Hoc et hoc modo consilium dedit Achitophel Absalom, et senioribus Israel: et ego tale et tale dedi consilium.
   - `VulgConte (2009)`: Et ait Chusai Sadoc, et Abiathar sacerdotibus: Hoc et hoc modo consilium dedit Achitophel Absalom, et senioribus Israel: et ego tale et tale dedi consilium.
   - `VulgSistina (1590)`: Et ait Chusai Sadoc, et Abiathar sacerdotibus: Hoc et hoc modo consilium dedit Achitophel Absalom, et senioribus Israel: et ego tale et tale dedi consilium.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nunc ergo mittite cito, et nuntiate David, dicentes: Ne moreris nocte hac in campestribus deserti, sed absque dilatione transgredere: ne forte absorbeatur rex, et omnis populus qui cum eo est.
@@ -241,7 +232,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nunc ergo mittite cito, et nunciate David, dicentes: Ne moreris nocte hac in campestribus deserti, sed absque dilatione transgredere: ne forte absorbeatur rex, et omnis populus qui cum eo est.
   - `VulgConte (2009)`: Nunc ergo mittite cito, et nunciate David, dicentes: Ne moreris nocte hac in campestribus deserti, sed absque dilatione transgredere: ne forte absorbeatur rex, et omnis populus qui cum eo est.
   - `VulgSistina (1590)`: Nunc ergo mittite cito, et nunciate David, dicentes: Ne moreris nocte hac in campestribus deserti, sed absque dilatione transgredere: ne forte absorbeatur rex, et omnis populus qui cum eo est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Jonathas autem et Achimaas stabant juxta fontem Rogel: abiit ancilla et nuntiavit eis. Et illi profecti sunt, ut referrent ad regem David nuntium: non enim poterant videri, aut introire civitatem.
@@ -250,7 +241,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ionathas autem et Achimaas stabant iuxta Fontem rogel: abiit ancilla et nunciavit eis: et illi profecti sunt, ut referrent ad regem David nuncium: non enim poterant videri, aut introire civitatem.
   - `VulgConte (2009)`: Ionathas autem et Achimaas stabant iuxta Fontem Rogel: abiit ancilla et nunciavit eis: et illi profecti sunt, ut referrent ad regem David nuncium: non enim poterant videri, aut introire civitatem.
   - `VulgSistina (1590)`: Ionathas autem et Achimaas stabant iuxta Fontem rogel: abiit ancilla et nunciavit eis: et illi profecti sunt, ut referrent ad regem David nuncium: non enim poterant videri, aut introire civitatem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vidit autem eos quidam puer, et indicavit Absalom: illi vero concito gradu ingressi sunt domum cujusdam viri in Bahurim, qui habebat puteum in vestibulo suo: et descenderunt in eum.
@@ -259,7 +250,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vidit autem eos quidam puer, et indicavit Absalom: illi vero concito gradu ingressi sunt domum cuiusdam viri in Bahurim, qui habebat puteum in vestibulo suo, et descenderunt in eum.
   - `VulgConte (2009)`: Vidit autem eos quidam puer, et indicavit Absalom: illi vero concito gradu ingressi sunt domum cuiusdam viri in Bahurim, qui habebat puteum in vestibulo suo, et descenderunt in eum.
   - `VulgSistina (1590)`: Vidit autem eos quidam puer, et indicavit Absalom: illi vero concito gradu ingressi sunt domum cuiusdam viri in Bahurim, qui habebat puteum in vestibulo suo, et descenderunt in eum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tulit autem mulier, et expandit velamen super os putei, quasi siccans ptisanas: et sic latuit res.
@@ -268,7 +259,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tulit autem mulier, et expandit velamen super os putei, quasi siccans ptisanas: et sic latuit res.
   - `VulgConte (2009)`: Tulit autem mulier, et expandit velamen super os putei, quasi siccans ptisanas: et sic latuit res.
   - `VulgSistina (1590)`: Tulit autem mulier, et expandit velamen super os putei, quasi siccans ptisanas: et sic latuit res.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque venissent servi Absalom in domum, ad mulierem dixerunt: Ubi est Achimaas et Jonathas? Et respondit eis mulier: Transierunt festinanter, gustata paululum aqua. At hi qui quærebant, cum non reperissent, reversi sunt in Jerusalem.
@@ -277,7 +268,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque venissent servi Absalom in domum, ad mulierem dixerunt: Ubi est Achimaas et Ionathas? Et respondit eis mulier: Transierunt festinanter, gustata paululum aqua. At hi qui quærebant, cum non reperissent, reversi sunt in Ierusalem.
   - `VulgConte (2009)`: Cumque venissent servi Absalom in domum, ad mulierem dixerunt: Ubi est Achimaas et Ionathas? Et respondit eis mulier: Transierunt festinanter, gustata paululum aqua. At hi qui quærebant, cum non reperissent, reversi sunt in Ierusalem.
   - `VulgSistina (1590)`: Cumque venissent servi Absalom in domum, ad mulierem dixerunt: Ubi est Achimaas et Ionathas? Et respondit eis mulier: Transierunt festinanter, gustata paululum aqua. At hi qui quaerebant, cum non reperissent, reversi sunt in Ierusalem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque abiissent, ascenderunt illi de puteo, et pergentes nuntiaverunt regi David, et dixerunt: Surgite, et transite cito fluvium: quoniam hujuscemodi dedit consilium contra vos Achitophel.
@@ -286,7 +277,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque abiissent, ascenderunt illi de puteo, et pergentes nunciaverunt regi David, et dixerunt: Surgite, et transite cito fluvium: quoniam huiuscemodi dedit consilium contra vos Achitophel.
   - `VulgConte (2009)`: Cumque abiissent, ascenderunt illi de puteo, et pergentes nunciaverunt regi David, et dixerunt: Surgite, et transite cito fluvium: quoniam huiuscemodi dedit consilium contra vos Achitophel.
   - `VulgSistina (1590)`: Cumque abiissent, ascenderunt illi de puteo, et pergentes nunciaverunt regi David, et dixerunt: Surgite, et transite cito fluvium: quoniam huiuscemodi dedit consilium contra vos Achitophel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Surrexit ergo David, et omnis populus qui cum eo erat, et transierunt Jordanem, donec dilucesceret: et ne unus quidem residuus fuit, qui non transisset fluvium.
@@ -295,7 +286,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Surrexit ergo David, et omnis populus qui cum eo erat, et transierunt Iordanem, donec dilucesceret: et ne unus quidem residuus fuit, qui non transisset fluvium.
   - `VulgConte (2009)`: Surrexit ergo David, et omnis populus qui cum eo erat, et transierunt Iordanem, donec dilucesceret: et ne unus quidem residuus fuit, qui non transisset fluvium.
   - `VulgSistina (1590)`: Surrexit ergo David, et omnis populus qui cum eo erat, et transierunt Iordanem, donec dilucesceret: et ne unus quidem residuus fuit, qui non transisset fluvium.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Porro Achitophel videns quod non fuisset factum consilium suum, stravit asinum suum, surrexitque, et abiit in domum suam et in civitatem suam: et disposita domo sua, suspendio interiit, et sepultus est in sepulchro patris sui.
@@ -304,7 +295,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Porro Achitophel videns quod non fuisset factum consilium suum, stravit asinum suum, surrexitque et abiit in domum suam et in civitatem suam: et disposita domo sua, suspendio interiit, et sepultus est in sepulchro patris sui.
   - `VulgConte (2009)`: Porro Achitophel videns quod non fuisset factum consilium suum, stravit asinum suum, surrexitque et abiit in domum suam et in civitatem suam: et disposita domo sua, suspendio interiit, et sepultus est in sepulchro patris sui.
   - `VulgSistina (1590)`: Porro Achitophel videns quod non fuisset factum consilium suum, stravit asinum suum, surrexitque et abiit in domum suam et in civitatem suam: et disposita domo sua, suspendio interiit, et sepultus est in sepulchro patris sui.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** David autem venit in castra, et Absalom transivit Jordanem, ipse et omnes viri Israël cum eo.
@@ -313,7 +304,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: David autem venit in Castra, et Absalom transivit Iordanem, ipse et omnes viri Israel cum eo.
   - `VulgConte (2009)`: David autem venit in castra, et Absalom transivit Iordanem, ipse et omnes viri Israel cum eo.
   - `VulgSistina (1590)`: David autem venit in Castra, et Absalom transivit Iordanem, ipse et omnes viri Israel cum eo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Amasam vero constituit Absalom pro Joab super exercitum: Amasa autem erat filius viri qui vocabatur Jetra de Jezraëli, qui ingressus est ad Abigail filiam Naas, sororem Sarviæ, quæ fuit mater Joab.
@@ -322,7 +313,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Amasam vero constituit Absalom pro Ioab super exercitum: Amasa autem erat filius viri, qui vocabatur Ietra de Iesraeli, qui ingressus est ad Abigail filiam Naas, sororem Sarviæ, quæ fuit mater Ioab.
   - `VulgConte (2009)`: Amasam vero constituit Absalom pro Ioab super exercitum: Amasa autem erat filius viri, qui vocabatur Ietra de Iesraeli, qui ingressus est ad Abigail filiam Naas, sororem Sarviæ, quæ fuit mater Ioab.
   - `VulgSistina (1590)`: Amasam vero constituit Absalom pro Ioab super exercitum: Amasa autem erat filius viri, qui vocabatur Ietra de Iesraeli, qui ingressus est ad Abigail filiam Naas, sororem Sarviae, quae fuit mater Ioab.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et castrametatus est Israël cum Absalom in terra Galaad.
@@ -331,7 +322,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et castrametatus est Israel cum Absalom in Terra Galaad.
   - `VulgConte (2009)`: Et castrametatus est Israel cum Absalom in Terra Galaad.
   - `VulgSistina (1590)`: Et castrametatus est Israel cum Absalom in Terra Galaad.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque venisset David in castra, Sobi filius Naas de Rabbath filiorum Ammon, et Machir filius Ammihel de Lodabar, et Berzellai Galaadites de Rogelim,
@@ -340,7 +331,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque venisset David in Castra, Sobi filius Naas de Rabbath filiorum Ammon, et Machir filius Ammihel de Lodabar, et Berzellai Galaadites de Rogelim,
   - `VulgConte (2009)`: Cumque venisset David in castra, Sobi filius Naas de Rabbath filiorum Ammon, et Machir filius Ammihel de Lodabar, et Berzellai Galaadites de Rogelim,
   - `VulgSistina (1590)`: Cumque venisset David in Castra, Sobi filius Naas de Rabbath filiorum Ammon, et Machir filius Ammihel de Lodabar, et Berzellai Galaadites de Rogelim,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** obtulerunt ei stratoria, et tapetia, et vasa fictilia, frumentum, et hordeum, et farinam, et polentam, et fabam, et lentem, et frixum cicer,
@@ -349,7 +340,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: obtulerunt ei stratoria, et tapetia, et vasa fictilia, frumentum, et hordeum, et farinam, et polentam, et fabam, et lentem, et frixum cicer,
   - `VulgConte (2009)`: obtulerunt ei stratoria, et tapetia, et vasa fictilia, frumentum, et hordeum, et farinam, et polentam, et fabam, et lentem, et frixum cicer,
   - `VulgSistina (1590)`: obtulerunt ei stratoria, et tapetia, et vasa fictilia, frumentum, et hordeum, et farinam, et polentam, et fabam, et lentem, et frixum cicer,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et mel, et butyrum, oves, et pingues vitulos: dederuntque David, et populo qui cum eo erat, ad vescendum: suspicati enim sunt populum fame et siti fatigari in deserto.
@@ -358,4 +349,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et mel, et butyrum, oves, et pingues vitulos. dederuntque David, et populo, qui cum eo erat, ad vescendum: suspicati enim sunt, populum fame, et siti fatigari in deserto.
   - `VulgConte (2009)`: et mel, et butyrum, oves, et pingues vitulos. Dederuntque David, et populo, qui cum eo erat, ad vescendum: suspicati enim sunt, populum fame, et siti fatigari in deserto.
   - `VulgSistina (1590)`: et mel, et butyrum, oves, et pingues vitulos. dederuntque David, et populo, qui cum eo erat, ad vescendum: suspicati enim sunt, populum fame, et siti fatigari in deserto.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

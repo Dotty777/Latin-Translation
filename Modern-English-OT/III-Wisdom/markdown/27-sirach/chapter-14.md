@@ -1,6 +1,6 @@
 # Sirach 14 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -37,21 +37,23 @@
 
 **14:16** Give and receive, and justify your soul.
 
-**14:17** All flesh will grow old like grass, and like a flourishing leaf on a green tree.
+**14:17** Before your death practice righteousness, because in the underworld there is no finding of food.
 
-**14:18** Some are brought forth, and others are cast down; so is the generation of flesh and blood: one comes to an end, and another is born.
+**14:18** All flesh will grow old like grass, and like a flourishing leaf on a green tree.
 
-**14:19** Every corruptible work will fail in the end, and whoever works it will go with it.
+**14:19** Some are brought forth, and others are cast down; so is the generation of flesh and blood: one comes to an end, and another is born.
 
-**14:20** Blessed is the man who will dwell in wisdom, and who will meditate in his righteousness, and in understanding will ponder the watchfulness of God;
+**14:20** Every corruptible work will fail in the end, and whoever works it will go with it.
 
-**14:21** who reflects on her ways in his heart and has understanding in his own secrets, going after her like a tracker and taking his stand in her ways;
+**14:21** And every chosen work will be justified, and whoever works it will be honored in it.
 
-**14:23** who looks through her windows and listens at her doors.
+**14:22** Blessed is the man who will dwell in wisdom, and who will meditate in his righteousness, and in understanding will ponder the watchfulness of God;
 
-**14:24** He who rests near her house and drives a peg into her walls
+**14:23** who reflects on her ways in his heart and has understanding in his own secrets, going after her like a tracker and taking his stand in her ways;
 
-**14:25** will set up his hut close by her hands, and good things will rest in his hut forever.
+**14:24** who looks through her windows and listens at her doors.
+
+**14:25** He who rests near her house and drives a peg into her walls will set up his hut close by her hands, and good things will rest in his hut forever.
 
 **14:26** He will place his children under her shelter, and under her branches he will dwell.
 
@@ -63,4 +65,6 @@
 - **14:9** — Vulgate attaches 'iniquitatis' to 'in parte' ("in a portion of iniquity") and links 'consumat arefaciens' directly to 'animam suam' ("his own soul"), differing syntactically from the Greek.
 - **14:12** — Vulgate omits the negative found in the Greek ("the decree of Hades has not been shown to you") and places the clause 'testamentum enim hujus mundi morte morietur' ("for the covenant of this world will surely die") here rather than in v. 17; 'testamentum' renders Greek 'diatheke' ("covenant" or "decree").
 - **14:16** — Vulgate 'justifica animam tuam' ("justify your soul") differs from the Greek ("indulge/delight your soul").
-- **14:20** — Vulgate 'in justitia sua' ("in his righteousness") and 'circumspectionem Dei' ("the watchfulness of God") are distinctly Vulgate readings; in vv. 21-27 the feminine pronouns ('illam', 'illius', 'ejus') refer to personified Wisdom ('sapientia').
+- **14:17** — Restored native Clementine Vulgate verse 14:17 (parallel to Saints/Greek 14:16b).
+- **14:21** — Restored native Clementine Vulgate verse 14:21 (shifted_and_changed item; Vulgate/LXX-II contrast to 14:20 = Saints 14:19).
+- **14:22** — Vulgate 'in justitia sua' ("in his righteousness") and 'circumspectionem Dei' ("the watchfulness of God") are distinctly Vulgate readings; in native 14:23-27 (Saints 14:21-27) the feminine pronouns ('illam', 'illius', 'ejus') refer to personified Wisdom ('sapientia').

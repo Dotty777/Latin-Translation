@@ -1,0 +1,669 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "esther",
+  "book_title": "Esther",
+  "usfm_code": "EST",
+  "chapter": 13,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-25T00:08:07Z",
+  "versification": "Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py.",
+  "versification_anchor": "Clem1598-USFX",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "VulgConte (2009): 13:2 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:3 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:4 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:5 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:6 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:7 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:8 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:9 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:10 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:11 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:12 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:13 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:14 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:15 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:16 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:17 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 13:18 not collated (wording does not match the reference verse)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 486009,
+      "verse": 1,
+      "critical_text": "Rex maximus Artaxerxes ab India usque Æthiopiam, centum viginti septem provinciarum principibus et ducibus qui ejus imperio subjecti sunt, salutem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Rex maximus Artaxerxes ab India usque Æthiopiam, centum viginti septem provinciarum principibus et ducibus qui ejus imperio subjecti sunt, salutem.",
+        "VulgHetzenauer (1906)": "Rex maximus Artaxerxes ab India usque Æthiopiam centum vigintiseptem provinciarum principibus, et ducibus, qui eius imperio subiecti sunt, salutem.",
+        "VulgConte (2009)": "Rex magnus Artaxerxes ab India usque Æthiopiam centum vigintiseptem provinciarum ducibus ac principibus, qui nostræ iussioni obediunt, salutem dicit.",
+        "VulgSistina (1590)": "Rex maximus Artaxerxes ab India usque Aethiopiam centum vigintiseptem provinciarum principibus, et ducibus, qui eius imperio subiecti sunt, salutem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "maximus",
+          "lemma_witnesses": [
+            "Clem1598-USFX",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "magnus",
+              "witnesses": [
+                "VulgConte (2009)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 1,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "maximus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem1598-USFX",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "ducibus ac",
+              "witnesses": [
+                "VulgConte (2009)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 11,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "et ducibus",
+          "lemma_witnesses": [
+            "Clem1598-USFX",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "om.",
+              "witnesses": [
+                "VulgConte (2009)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 12,
+          "word_count": 2,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "et ducibus",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "ejus imperio subjecti sunt,",
+          "lemma_witnesses": [
+            "Clem1598-USFX",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "nostræ iussioni obediunt,",
+              "witnesses": [
+                "VulgConte (2009)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 15,
+          "word_count": 4,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "eius imperio subiecti sunt",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        },
+        {
+          "slot_index": -1,
+          "lemma": "om.",
+          "lemma_witnesses": [
+            "Clem1598-USFX",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "dicit.",
+              "witnesses": [
+                "VulgConte (2009)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 20,
+          "word_count": 0,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "om.",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "viginti septem / vigintiseptem",
+            "viginti septem / vigintiseptem",
+            "viginti septem / vigintiseptem",
+            "viginti septem / vigintiseptem"
+          ],
+          "witnesses": [
+            "VulgConte (2009)",
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486010,
+      "verse": 2,
+      "critical_text": "Cum plurimis gentibus imperarem, et universum orbem meæ ditioni subjugassem, volui nequaquam abuti potentiæ magnitudine, sed clementia et lenitate gubernare subjectos, ut absque ullo terrore vitam silentio transigentes, optata cunctis mortalibus pace fruerentur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cum plurimis gentibus imperarem, et universum orbem meæ ditioni subjugassem, volui nequaquam abuti potentiæ magnitudine, sed clementia et lenitate gubernare subjectos, ut absque ullo terrore vitam silentio transigentes, optata cunctis mortalibus pace fruerentur.",
+        "VulgHetzenauer (1906)": "Cum plurimis gentibus imperarem, et universum orbem meæ ditioni subiugassem, volui nequaquam abuti potentiæ magnitudine, sed clementia et lenitate gubernare subiectos, ut absque ullo terrore vitam silentio transigentes, optata cunctis mortalibus pace fruerentur.",
+        "VulgSistina (1590)": "Cum plurimis gentibus imperarem, et universum orbem meae ditioni subiugassem, volui nequaquam abuti potentiae magnitudine, sed clementia et lenitate gubernare subiectos, ut absque ullo terrore vitam silentio transigentes, optata cunctis mortalibus pace fruerentur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486011,
+      "verse": 3,
+      "critical_text": "Quærente autem me a consiliariis meis quomodo posset hoc impleri, unus qui sapientia et fide ceteros præcellebat, et erat post regem secundus, Aman nomine,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quærente autem me a consiliariis meis quomodo posset hoc impleri, unus qui sapientia et fide ceteros præcellebat, et erat post regem secundus, Aman nomine,",
+        "VulgHetzenauer (1906)": "Quærente autem me a consiliariis meis quomodo posset hoc impleri, unus qui sapientia et fide ceteros præcellebat, et erat post regem secundus, Aman nomine,",
+        "VulgSistina (1590)": "Quaerente autem me a consiliariis meis quomodo posset hoc impleri, unus qui sapientia et fide ceteros praecellebat, et erat post regem secundus, Aman nomine,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486012,
+      "verse": 4,
+      "critical_text": "indicavit mihi in toto orbe terrarum populum esse dispersum, qui novis uteretur legibus, et, contra omnium gentium consuetudinem faciens, regum jussa contemneret, et universarum concordiam nationum sua dissensione violaret.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "indicavit mihi in toto orbe terrarum populum esse dispersum, qui novis uteretur legibus, et, contra omnium gentium consuetudinem faciens, regum jussa contemneret, et universarum concordiam nationum sua dissensione violaret.",
+        "VulgHetzenauer (1906)": "indicavit mihi in toto orbe terrarum populum esse dispersum, qui novis uteretur legibus, et contra omnium Gentium consuetudinem faciens, Regum iussa contemneret, et universarum concordiam nationum sua dissensione violaret.",
+        "VulgSistina (1590)": "indicavit mihi in toto orbe terrarum populum esse dispersum, qui novis uteretur legibus, et contra omnium Gentium consuetudinem faciens, Regum iussa contemneret, et universarum concordiam nationum sua dissensione violaret."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486013,
+      "verse": 5,
+      "critical_text": "Quod cum didicissemus, videntes unam gentem rebellem adversus omne hominum genus perversis uti legibus, nostrisque jussionibus contraire, et turbare subjectarum nobis provinciarum pacem atque concordiam,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Quod cum didicissemus, videntes unam gentem rebellem adversus omne hominum genus perversis uti legibus, nostrisque jussionibus contraire, et turbare subjectarum nobis provinciarum pacem atque concordiam,",
+        "VulgHetzenauer (1906)": "Quod cum didicissemus, videntes unam gentem rebellem adversus omne hominum genus perversis, uti legibus, nostrisque iussionibus contraire, et turbare subiectarum nobis provinciarum pacem atque concordiam,",
+        "VulgSistina (1590)": "Quod cum didicissemus, videntes unam gentem rebellem adversus omne hominum genus perversis, uti legibus, nostrisque iussionibus contraire, et turbare subiectarum nobis provinciarum pacem atque concordiam,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486014,
+      "verse": 6,
+      "critical_text": "jussimus ut quoscumque Aman, qui omnibus provinciis præpositus est et secundus a rege, et quem patris loco colimus, monstraverit, cum conjugibus ac liberis deleantur ab inimicis suis, nullusque eorum misereatur, quartadecima die duodecimi mensis Adar anni præsentis:",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "jussimus ut quoscumque Aman, qui omnibus provinciis præpositus est et secundus a rege, et quem patris loco colimus, monstraverit, cum conjugibus ac liberis deleantur ab inimicis suis, nullusque eorum misereatur, quartadecima die duodecimi mensis Adar anni præsentis:",
+        "VulgHetzenauer (1906)": "iussimus ut quoscumque Aman, qui omnibus provinciis præpositus est, et secundus a rege, et quem patris loco colimus, monstraverit, cum coniugibus ac liberis deleantur ab inimicis suis, nullusque eorum misereatur, quartadecima die duodecimi mensis Adar anni præsentis:",
+        "VulgSistina (1590)": "iussimus ut quoscumque Aman, qui omnibus provinciis praepositus est, et secundus a rege, et quem patris loco colimus, monstraverit, cum coniugibus ac liberis deleantur ab inimicis suis, nullusque eorum misereatur, quartadecima die duodecimi mensis Adar anni praesentis:"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486015,
+      "verse": 7,
+      "critical_text": "ut nefarii homines uno die ad inferos descendentes, reddant imperio nostro pacem, quam turbaverant. Pergensque Mardochæus, fecit omnia quæ ei mandaverat Esther.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "ut nefarii homines uno die ad inferos descendentes, reddant imperio nostro pacem, quam turbaverant. Pergensque Mardochæus, fecit omnia quæ ei mandaverat Esther.",
+        "VulgHetzenauer (1906)": "ut nefarii homines uno die ad inferos descendentes, reddant imperio nostro pacem, quam turbaverant. Pergensque Mardochæus, fecit omnia, quæ ei mandaverat Esther.",
+        "VulgSistina (1590)": "ut nefarii homines uno die ad inferos descendentes, reddant imperio nostro pacem, quam turbaverant. Pergensque Mardochaeus, fecit omnia, quae ei mandaverat Esther."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486016,
+      "verse": 8,
+      "critical_text": "Mardochæus autem deprecatus est Dominum, memor omnium operum ejus,",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Mardochæus autem deprecatus est Dominum, memor omnium operum ejus,",
+        "VulgHetzenauer (1906)": "Mardochæus autem deprecatus est Dominum, memor omnium operum eius,",
+        "VulgSistina (1590)": "Mardochaeus autem deprecatus est Dominum, memor omnium operum eius,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486017,
+      "verse": 9,
+      "critical_text": "et dixit: Domine, Domine rex omnipotens, in ditione enim tua cuncta sunt posita, et non est qui possit tuæ resistere voluntati, si decreveris salvare Israël.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "et dixit: Domine, Domine rex omnipotens, in ditione enim tua cuncta sunt posita, et non est qui possit tuæ resistere voluntati, si decreveris salvare Israël.",
+        "VulgHetzenauer (1906)": "et dixit: Domine Domine rex omnipotens, in ditione enim tua cuncta sunt posita, et non est qui possit tuæ resistere voluntati, si decreveris salvare Israel.",
+        "VulgSistina (1590)": "et dixit: Domine Domine rex omnipotens, in ditione enim tua cuncta sunt posita, et non est qui possit tuae resistere voluntati, si decreveris salvare Israel."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486018,
+      "verse": 10,
+      "critical_text": "Tu fecisti cælum et terram, et quidquid cæli ambitu continetur.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Tu fecisti cælum et terram, et quidquid cæli ambitu continetur.",
+        "VulgHetzenauer (1906)": "Tu fecisti cælum et terram, et quidquid cæli ambitu continetur.",
+        "VulgSistina (1590)": "Tu fecisti caelum et terram, et quidquid caeli ambitu continetur."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486019,
+      "verse": 11,
+      "critical_text": "Dominus omnium es, nec est qui resistat majestati tuæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dominus omnium es, nec est qui resistat majestati tuæ.",
+        "VulgHetzenauer (1906)": "Dominus omnium es, nec est qui resistat maiestati tuæ.",
+        "VulgSistina (1590)": "Dominus omnium es, nec est qui resistat maiestati tuae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486020,
+      "verse": 12,
+      "critical_text": "Cuncta nosti, et scis quia non pro superbia et contumelia, et aliqua gloriæ cupiditate, fecerim hoc, ut non adorarem Aman superbissimum",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cuncta nosti, et scis quia non pro superbia et contumelia, et aliqua gloriæ cupiditate, fecerim hoc, ut non adorarem Aman superbissimum",
+        "VulgHetzenauer (1906)": "Cuncta nosti, et scis quia non pro superbia et contumelia, et aliqua gloriæ cupiditate fecerim hoc, ut non adorarem Aman superbissimum,",
+        "VulgSistina (1590)": "Cuncta nosti, et scis quia non pro superbia et contumelia, et aliqua gloriae cupiditate fecerim hoc, ut non adorarem Aman superbissimum,"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486021,
+      "verse": 13,
+      "critical_text": "(libenter enim pro salute Israël etiam vestigia pedum ejus deosculari paratus essem),",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "(libenter enim pro salute Israël etiam vestigia pedum ejus deosculari paratus essem),",
+        "VulgHetzenauer (1906)": "(Libenter enim pro salute Israel etiam vestigia pedum eius deosculari paratus essem,)",
+        "VulgSistina (1590)": "(Libenter enim pro salute Israel etiam vestigia pedum eius deosculari paratus essem,)"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486022,
+      "verse": 14,
+      "critical_text": "sed timui ne honorem Dei mei transferrem ad hominem, et ne quemquam adorarem, excepto Deo meo.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "sed timui ne honorem Dei mei transferrem ad hominem, et ne quemquam adorarem, excepto Deo meo.",
+        "VulgHetzenauer (1906)": "sed timui ne honorem Dei mei transferrem ad hominem, et ne quemquam adorarem, excepto Deo meo.",
+        "VulgSistina (1590)": "sed timui ne honorem Dei mei transferrem ad hominem, et ne quemquam adorarem, excepto Deo meo."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486023,
+      "verse": 15,
+      "critical_text": "Et nunc, Domine rex, Deus Abraham, miserere populi tui, quia volunt nos inimici nostri perdere, et hæreditatem tuam delere.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et nunc, Domine rex, Deus Abraham, miserere populi tui, quia volunt nos inimici nostri perdere, et hæreditatem tuam delere.",
+        "VulgHetzenauer (1906)": "Et nunc Domine rex Deus Abraham miserere populi tui, quia volunt nos inimici nostri perdere, et hereditatem tuam delere.",
+        "VulgSistina (1590)": "Et nunc Domine rex Deus Abraham miserere populi tui, quia volunt nos inimici nostri perdere, et hereditatem tuam delere."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "hæreditatem / hereditatem",
+            "hæreditatem / hereditatem",
+            "hæreditatem / hereditatem"
+          ],
+          "witnesses": [
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486024,
+      "verse": 16,
+      "critical_text": "Ne despicias partem tuam, quam redemisti tibi de Ægypto.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ne despicias partem tuam, quam redemisti tibi de Ægypto.",
+        "VulgHetzenauer (1906)": "Ne despicias partem tuam, quam redemisti tibi de Ægypto.",
+        "VulgSistina (1590)": "Ne despicias partem tuam, quam redemisti tibi de Aegypto."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486025,
+      "verse": 17,
+      "critical_text": "Exaudi deprecationem meam, et propitius esto sorti et funiculo tuo, et converte luctum nostrum in gaudium, ut viventes laudemus nomen tuum, Domine: et ne claudas ora te canentium.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Exaudi deprecationem meam, et propitius esto sorti et funiculo tuo, et converte luctum nostrum in gaudium, ut viventes laudemus nomen tuum, Domine: et ne claudas ora te canentium.",
+        "VulgHetzenauer (1906)": "Exaudi deprecationem meam, et propitius esto sorti et funiculo tuo, et converte luctum nostrum in gaudium, ut viventes laudemus nomen tuum Domine, et ne claudas ora te canentium.",
+        "VulgSistina (1590)": "Exaudi deprecationem meam, et propitius esto sorti et funiculo tuo, et converte luctum nostrum in gaudium, ut viventes laudemus nomen tuum Domine, et ne claudas ora te canentium."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486026,
+      "verse": 18,
+      "critical_text": "Omnis quoque Israël pari mente et obsecratione clamavit ad Dominum, eo quod eis certa mors impenderet.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Omnis quoque Israël pari mente et obsecratione clamavit ad Dominum, eo quod eis certa mors impenderet.",
+        "VulgHetzenauer (1906)": "Omnis quoque Israel pari mente et obsecratione clamavit ad Dominum, eo quod eis certa mors impenderet.",
+        "VulgSistina (1590)": "Omnis quoque Israel pari mente et obsecratione clamavit ad Dominum, eo quod eis certa mors impenderet."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

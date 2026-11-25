@@ -1,6 +1,6 @@
 # Daniel 8 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -63,6 +63,7 @@
 
 - **8:2** — The Vulgate reads super portam Ulai ("by/over the gate of Ulai") here and ante portam ("before the gate") in 8:6, as well as ante paludem ("before the marsh") in 8:3, where the Hebrew has "canal/stream" (uval).
 - **8:9** — The Vulgate translates Hebrew "the glorious [land]" here and "the host" in 8:10-13 consistently with fortitudo ("strength"); in 8:12 it renders "host" with robur ("power").
+- **8:11** — Latin principem fortitudinis ('prince of the strength/host') may refer to God Himself or to an angelic prince; capitalization reflects the divine-referent reading.
 - **8:13** — Latin alteri nescio cui ("to another, I do not know whom") is Jerome's idiomatic rendering of the rare Hebrew term palmoni ("a certain one").
 - **8:16** — The Clementine Vulgate reads feminine istam visionem ("this vision") without an explicit personal object, whereas the Hebrew reads "make this man understand the vision."
-- **8:25** — Latin in copia rerum omnium ("in the abundance of all things") is a distinctly Vulgate rendering of the Hebrew phrase meaning "without warning" or "in security."
+- **8:25** — Latin in copia rerum omnium ("in the abundance of all things") is a distinctly Vulgate rendering of the Hebrew phrase meaning "without warning" or "in security." Capitalization of 'Prince of princes' (principem principum) reflects the divine-referent reading.

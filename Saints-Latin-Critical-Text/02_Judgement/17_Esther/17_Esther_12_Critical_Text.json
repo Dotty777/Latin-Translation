@@ -1,0 +1,208 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "02_Judgement",
+  "book_slug": "esther",
+  "book_title": "Esther",
+  "usfm_code": "EST",
+  "chapter": 12,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-25T00:08:07Z",
+  "versification": "Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py.",
+  "versification_anchor": "Clem1598-USFX",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "VulgConte (2009): 12:1 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 12:2 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 12:3 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 12:4 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 12:5 not collated (wording does not match the reference verse)",
+    "VulgConte (2009): 12:6 not collated (wording does not match the reference verse)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 486003,
+      "verse": 1,
+      "critical_text": "Morabatur autem eo tempore in aula regis cum Bagatha et Thara eunuchis regis, qui janitores erant palatii.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Morabatur autem eo tempore in aula regis cum Bagatha et Thara eunuchis regis, qui janitores erant palatii.",
+        "VulgHetzenauer (1906)": "Morabatur autem eo tempore in aula regis cum Bagatha et Thara eunuchis regis, qui ianitores erant palatii.",
+        "VulgSistina (1590)": "Morabatur autem eo tempore in aula regis cum Bagatha et Thara eunuchis regis, qui ianitores erant palatii."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486004,
+      "verse": 2,
+      "critical_text": "Cumque intellexisset cogitationes eorum, et curas diligentius pervidisset, didicit quod conarentur in regem Artaxerxem manus mittere, et nuntiavit super eo regi.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Cumque intellexisset cogitationes eorum, et curas diligentius pervidisset, didicit quod conarentur in regem Artaxerxem manus mittere, et nuntiavit super eo regi.",
+        "VulgHetzenauer (1906)": "Cumque intellexisset cogitationes eorum, et curas diligentius pervidisset, didicit quod conarentur in regem Artaxerxem manus mittere, et nunciavit super eo regi.",
+        "VulgSistina (1590)": "Cumque intellexisset cogitationes eorum, et curas diligentius pervidisset, didicit quod conarentur in regem Artaxerxem manus mittere, et nunciavit super eo regi."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [
+        {
+          "slot_index": -1,
+          "kept_form": "(adopted text)",
+          "disregarded_forms": [
+            "nuntiavit / nunciavit",
+            "nuntiavit / nunciavit",
+            "nuntiavit / nunciavit"
+          ],
+          "witnesses": [
+            "VulgHetzenauer (1906)",
+            "VulgSistina (1590)"
+          ],
+          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
+        }
+      ],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486005,
+      "verse": 3,
+      "critical_text": "Qui de utroque, habita quæstione, confessos jussit duci ad mortem.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui de utroque, habita quæstione, confessos jussit duci ad mortem.",
+        "VulgHetzenauer (1906)": "Qui de utroque, habita quæstione, confessos iussit duci ad mortem.",
+        "VulgSistina (1590)": "Qui de utroque, habita quaestione, confessos iussit duci ad mortem."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486006,
+      "verse": 4,
+      "critical_text": "Rex autem quod gestum erat, scripsit in commentariis: sed et Mardochæus rei memoriam litteris tradidit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Rex autem quod gestum erat, scripsit in commentariis: sed et Mardochæus rei memoriam litteris tradidit.",
+        "VulgHetzenauer (1906)": "Rex autem quod gestum erat, scripsit in commentariis: sed et Mardochæus rei memoriam litteris tradidit.",
+        "VulgSistina (1590)": "Rex autem quod gestum erat, scripsit in commentariis: sed et Mardochaeus rei memoriam litteris tradidit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486007,
+      "verse": 5,
+      "critical_text": "Præcepitque ei rex, ut in aula palatii moraretur, datis ei pro delatione muneribus.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Præcepitque ei rex, ut in aula palatii moraretur, datis ei pro delatione muneribus.",
+        "VulgHetzenauer (1906)": "Præcepitque ei rex, ut in aula palatii moraretur, datis ei pro delatione muneribus.",
+        "VulgSistina (1590)": "Praecepitque ei rex, ut in aula palatii moraretur, datis ei pro delatione muneribus."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 486008,
+      "verse": 6,
+      "critical_text": "Aman vero filius Amadathi Bugæus erat gloriosissimus coram rege, et voluit nocere Mardochæo et populo ejus pro duobus eunuchis regis qui fuerant interfecti. Et diripuerunt bona, vel substantias eorum. Epistolæ autem hoc exemplar fuit.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Aman vero filius Amadathi Bugæus erat gloriosissimus coram rege, et voluit nocere Mardochæo et populo ejus pro duobus eunuchis regis qui fuerant interfecti. Et diripuerunt bona, vel substantias eorum. Epistolæ autem hoc exemplar fuit.",
+        "VulgHetzenauer (1906)": "Aman vero filius Amadathi bugæus erat gloriosissimus coram rege, et voluit nocere Mardochæo, et populo eius pro duobus eunuchis regis, qui fuerant interfecti. Et diripuerunt bona, vel substantias eorum. Epistolæ autem hoc exemplar fuit.",
+        "VulgSistina (1590)": "Aman vero filius Amadathi bugaeus erat gloriosissimus coram rege, et voluit nocere Mardochaeo, et populo eius pro duobus eunuchis regis, qui fuerant interfecti. Et diripuerunt bona, vel substantias eorum. Epistolae autem hoc exemplar fuit."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

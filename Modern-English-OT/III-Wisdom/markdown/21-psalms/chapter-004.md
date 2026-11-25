@@ -1,6 +1,6 @@
 # Psalms 4 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (9 verses, 6 translator notes, 1 additional)  
+> **Status:** `draft: true` (10 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -23,9 +23,7 @@
 
 **4:9** In peace, at once, I will sleep and rest;
 
-## Additional Verses (Not in Saints Numbering)
-
-**4:10** *(after `4:9`)* for You, Lord, have uniquely established me in hope.
+**4:10** for You, Lord, have uniquely established me in hope.
 
 ## Translator Notes
 
@@ -35,4 +33,4 @@
 - **4:7** — Latin Signatum est ("has been sealed") follows the Septuagint, whereas the Hebrew reads an imperative, "Lift up."
 - **4:8** — Following the Septuagint, the Vulgate forms an independent sentence here and includes "oil," whereas the Hebrew compares the psalmist's gladness to the abundance of their grain and new wine.
 - **4:9** — Latin in idipsum (literally "in the very same") renders Greek epi to auto ("together / at once").
-- **4:10 *(additional)*** — Latin singulariter in spe ("uniquely in hope") follows the Septuagint, where the Hebrew reads "make me dwell alone in safety."
+- **4:10** — Latin singulariter in spe ("uniquely in hope") follows the Septuagint, where the Hebrew reads "make me dwell alone in safety."

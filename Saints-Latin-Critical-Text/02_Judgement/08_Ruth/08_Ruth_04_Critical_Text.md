@@ -1,8 +1,8 @@
 # Ruth 04 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:50Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -74,15 +65,15 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `hæreditate / hereditate`, `hæreditate / hereditate`, `hæreditate / hereditate`, `hæreditate / hereditate` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Ruth 4:7
-- **Apparatus:** `testimonium` Clem-Saints Clem1598-USFX VulgSistina (1590) **]** **testmonium** VulgConte (2009) VulgHetzenauer (1906)
+- **Apparatus:** `testimonium` Clem1598-USFX Clem-Saints VulgSistina (1590) **]** **testmonium** VulgConte (2009) VulgHetzenauer (1906)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `siquando / si quando`, `siquando / si quando`, `siquando / si quando` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Ruth 4:10
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Mahalon, / Maalon`, `hæreditate / hereditate`, `hæreditate / hereditate`, `hæreditate / hereditate`, `hæreditate / hereditate` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Ruth 4:15
-- **Apparatus:** `quæ` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **qui** VulgSistina (1590)
-- **Apparatus:** `diligit,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **diliget:** VulgSistina (1590)
+- **Apparatus:** `quæ` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **qui** VulgSistina (1590)
+- **Apparatus:** `diligit,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **diliget:** VulgSistina (1590)
 
 ---
 
@@ -95,7 +86,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ascendit ergo Booz ad portam, et sedit ibi. Cumque vidisset propinquum præterire, de quo prius sermo habitus est, dixit ad eum: Declina paulisper, et sede hic: vocans eum nomine suo. Qui divertit, et sedit.
   - `VulgConte (2009)`: Ascendit ergo Booz ad portam, et sedit ibi. Cumque vidisset propinquum præterire, de quo prius sermo habitus est, dixit ad eum: Declina paulisper, et sede hic: vocans eum nomine suo. Qui divertit, et sedit.
   - `VulgSistina (1590)`: Ascendit ergo Booz ad portam, et sedit ibi. Cumque vidisset propinquum praeterire, de quo prius sermo habitus est, dixit ad eum: Declina paulisper, et sede hic: vocans eum nomine suo. Qui divertit, et sedit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tollens autem Booz decem viros de senioribus civitatis, dixit ad eos: Sedete hic.
@@ -104,7 +95,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tollens autem Booz decem viros de senioribus civitatis, dixit ad eos: Sedete hic.
   - `VulgConte (2009)`: Tollens autem Booz decem viros de senioribus civitatis, dixit ad eos: Sedete hic.
   - `VulgSistina (1590)`: Tollens autem Booz decem viros de senioribus civitatis, dixit ad eos: Sedete hic.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quibus sedentibus, locutus est ad propinquum: Partem agri fratris nostri Elimelech vendet Noëmi, quæ reversa est de regione Moabitide:
@@ -113,7 +104,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quibus sedentibus, locutus est ad propinquum: Partem agri fratris nostri Elimelech vendet Noemi, quæ reversa est de regione Moabitide:
   - `VulgConte (2009)`: Quibus sedentibus, locutus est ad propinquum: Partem agri fratris nostri Elimelech vendet Noemi, quæ reversa est de regione Moabitide:
   - `VulgSistina (1590)`: Quibus sedentibus, locutus est ad propinquum: Partem agri fratris nostri Elimelech vendet Noemi, quae reversa est de regione Moabitide:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quod audire te volui, et tibi dicere coram cunctis sedentibus, et majoribus natu de populo meo. Si vis possidere jure propinquitatis, eme, et posside: sin autem displicet tibi, hoc ipsum indica mihi, ut sciam quid facere debeam: nullus enim est propinquus, excepto te, qui prior es, et me, qui secundus sum. At ille respondit: Ego agrum emam.
@@ -122,7 +113,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: quod audire te volui, et tibi dicere coram cunctis sedentibus, et maioribus natu de populo meo. Si vis possidere iure propinquitatis: eme, et posside. Sin autem displicet tibi, hoc ipsum indica mihi, ut sciam quid facere debeam. nullus enim est propinquus, excepto te, qui prior es: et me, qui secundus sum. At ille respondit: Ego agrum emam.
   - `VulgConte (2009)`: quod audire te volui, et tibi dicere coram cunctis sedentibus, et maioribus natu de populo meo. Si vis possidere iure propinquitatis: eme, et posside. Sin autem displicet tibi, hoc ipsum indica mihi, ut sciam quid facere debeam. Nullus enim est propinquus, excepto te, qui prior es: et me, qui secundus sum. At ille respondit: Ego agrum emam.
   - `VulgSistina (1590)`: quod audire te volui, et tibi dicere coram cunctis sedentibus, et maioribus natu de populo meo. Si vis possidere iure propinquitatis: eme, et posside. Sin autem displicet tibi, hoc ipsum indica mihi, ut sciam quid facere debeam. nullus enim est propinquus, excepto te, qui prior es: et me, qui secundus sum. At ille respondit: Ego agrum emam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cui dixit Booz: Quando emeris agrum de manu mulieris, Ruth quoque Moabitidem, quæ uxor defuncti fuit, debes accipere: ut suscites nomen propinqui tui in hæreditate sua.
@@ -131,7 +122,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cui dixit Booz: Quando emeris agrum de manu mulieris, Ruth quoque Moabitidem, quæ uxor defuncti fuit, debes accipere: ut suscites nomen propinqui tui in hereditate sua.
   - `VulgConte (2009)`: Cui dixit Booz: Quando emeris agrum de manu mulieris, Ruth quoque Moabitidem, quæ uxor defuncti fuit, debes accipere: ut suscites nomen propinqui tui in hereditate sua.
   - `VulgSistina (1590)`: Cui dixit Booz: Quando emeris agrum de manu mulieris, Ruth quoque Moabitidem, quae uxor defuncti fuit, debes accipere: ut suscites nomen propinqui tui in hereditate sua.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui respondit: Cedo juri propinquitatis: neque enim posteritatem familiæ meæ delere debeo: tu meo utere privilegio, quo me libenter carere profiteor.
@@ -140,7 +131,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Qui respondit: Cedo iuri propinquitatis: neque enim posteritatem familiæ meæ delere debeo. tu meo utere privilegio, quo me libenter carere profiteor.
   - `VulgConte (2009)`: Qui respondit: Cedo iuri propinquitatis: neque enim posteritatem familiæ meæ delere debeo. Tu meo utere privilegio, quo me libenter carere profiteor.
   - `VulgSistina (1590)`: Qui respondit: Cedo iuri propinquitatis: neque enim posteritatem familiae meae delere debeo. tu meo utere privilegio, quo me libenter carere profiteor.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hic autem erat mos antiquitus in Israël inter propinquos, ut siquando alter alteri suo juri cedebat, ut esset firma concessio, solvebat homo calceamentum suum, et dabat proximo suo: hoc erat testimonium cessionis in Israël.
@@ -149,7 +140,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hic autem erat mos antiquitus in Israel inter propinquos, ut si quando alter alteri suo iuri cedebat: ut esset firma concessio, solvebat homo calceamentum suum, et dabat proximo suo. hoc erat testmonium cessionis in Israel.
   - `VulgConte (2009)`: Hic autem erat mos antiquitus in Israel inter propinquos, ut si quando alter alteri suo iuri cedebat: ut esset firma concessio, solvebat homo calceamentum suum, et dabat proximo suo. Hoc erat testmonium cessionis in Israel.
   - `VulgSistina (1590)`: Hic autem erat mos antiquitus in Israel inter propinquos, ut si quando alter alteri suo iuri cedebat: ut esset firma concessio, solvebat homo calceamentum suum, et dabat proximo suo. hoc erat testimonium cessionis in Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixit ergo propinquo suo Booz: Tolle calceamentum tuum. Quod statim solvit de pede suo.
@@ -158,7 +149,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixit ergo propinquo suo Booz: Tolle calceamentum tuum. Quod statim solvit de pede suo.
   - `VulgConte (2009)`: Dixit ergo propinquo suo Booz: Tolle calceamentum tuum. Quod statim solvit de pede suo.
   - `VulgSistina (1590)`: Dixit ergo propinquo suo Booz: Tolle calceamentum tuum. Quod statim solvit de pede suo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** At ille majoribus natu, et universo populo: Testes vos, inquit, estis hodie, quod possederim omnis quæ fuerunt Elimelech, et Chelion, et Mahalon, tradente Noëmi;
@@ -167,7 +158,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: At ille maioribus natu, et universo populo, Testes vos, inquit, estis hodie, quod possederim omnis quæ fuerunt Elimelech; et Chelion, et Mahalon, tradente Noemi:
   - `VulgConte (2009)`: At ille maioribus natu, et universo populo, Testes vos, inquit, estis hodie, quod possederim omnis quæ fuerunt Elimelech; et Chelion, et Mahalon, tradente Noemi:
   - `VulgSistina (1590)`: At ille maioribus natu, et universo populo, Testes vos, inquit, estis hodie, quod possederim omnis quae fuerunt Elimelech; et Chelion, et Mahalon, tradente Noemi:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Ruth Moabitidem, uxorem Mahalon, in conjugium sumpserim, ut suscitem nomen defuncti in hæreditate sua, ne vocabulum ejus de familia sua ac fratribus et populo deleatur. Vos, inquam, hujus rei testes estis.
@@ -176,7 +167,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Ruth Moabitidem, uxorem Mahalon, in coniugium sumpserim, ut suscitem nomen defuncti in hereditate sua, ne vocabulum eius de familia sua ac fratribus et populo deleatur. Vos, inquam, huius rei testes estis.
   - `VulgConte (2009)`: et Ruth Moabitidem, uxorem Mahalon, in coniugium sumpserim, ut suscitem nomen defuncti in hereditate sua, ne vocabulum eius de familia sua ac fratribus et populo deleatur. Vos, inquam, huius rei testes estis.
   - `VulgSistina (1590)`: et Ruth Moabitidem, uxorem Mahalon, in coniugium sumpserim, ut suscitem nomen defuncti in hereditate sua, ne vocabulum eius de familia sua ac fratribus et populo deleatur. Vos, inquam, huius rei testes estis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Respondit omnis populus, qui erat in porta, et majores natu: Nos testes sumus: faciat Dominus hanc mulierem, quæ ingreditur domum tuam, sicut Rachel et Liam, quæ ædificaverunt domum Israël: ut sit exemplum virtutis in Ephratha, et habeat celebre nomen in Bethlehem:
@@ -185,7 +176,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Respondit omnis populus, qui erat in porta, et maiores natu: Nos testes sumus: faciat Dominus hanc mulierem, quæ ingreditur domum tuam, sicut Rachel, et Liam, quæ ædificaverunt domum Israel: ut sit exemplum virtutis in Ephratha, et habeat celebre nomen in Bethlehem:
   - `VulgConte (2009)`: Respondit omnis populus, qui erat in porta, et maiores natu: Nos testes sumus: faciat Dominus hanc mulierem, quæ ingreditur domum tuam, sicut Rachel, et Liam, quæ ædificaverunt domum Israel: ut sit exemplum virtutis in Ephratha, et habeat celebre nomen in Bethlehem:
   - `VulgSistina (1590)`: Respondit omnis populus, qui erat in porta, et maiores natu: Nos testes sumus: faciat Dominus hanc mulierem, quae ingreditur domum tuam, sicut Rachel, et Liam, quae aedificaverunt domum Israel: ut sit exemplum virtutis in Ephratha, et habeat celebre nomen in Bethlehem:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** fiatque domus tua sicut domus Phares, quem Thamar peperit Judæ, de semine quod tibi dederit Dominus ex hac puella.
@@ -194,7 +185,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: fiatque domus tua, sicut domus Phares, quem Thamar peperit Iudæ, de semine quod tibi dederit Dominus ex hac puella.
   - `VulgConte (2009)`: fiatque domus tua, sicut domus Phares, quem Thamar peperit Iudæ, de semine quod tibi dederit Dominus ex hac puella.
   - `VulgSistina (1590)`: fiatque domus tua, sicut domus Phares, quem Thamar peperit Iudae, de semine quod tibi dederit Dominus ex hac puella.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tulit itaque Booz Ruth, et accepit uxorem: ingressusque est ad eam, et dedit illi Dominus ut conciperet, et pareret filium.
@@ -203,7 +194,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tulit itaque Booz Ruth, et accepit uxorem: ingressusque est ad eam, et dedit illi Dominus ut conciperet, et pareret filium.
   - `VulgConte (2009)`: Tulit itaque Booz Ruth, et accepit uxorem: ingressusque est ad eam, et dedit illi Dominus ut conciperet, et pareret filium.
   - `VulgSistina (1590)`: Tulit itaque Booz Ruth, et accepit uxorem: ingressusque est ad eam, et dedit illi Dominus ut conciperet, et pareret filium.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixeruntque mulieres ad Noëmi: Benedictus Dominus, qui non est passus ut deficeret successor familiæ tuæ, et vocaretur nomen ejus in Israël:
@@ -212,7 +203,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixeruntque mulieres ad Noemi: Benedictus Dominus, qui non est passus ut deficeret successor familiæ tuæ, et vocaretur nomen eius in Israel.
   - `VulgConte (2009)`: Dixeruntque mulieres ad Noemi: Benedictus Dominus, qui non est passus ut deficeret successor familiæ tuæ, et vocaretur nomen eius in Israel.
   - `VulgSistina (1590)`: Dixeruntque mulieres ad Noemi: Benedictus Dominus, qui non est passus ut deficeret successor familiae tuae, et vocaretur nomen eius in Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et habeas qui consoletur animam tuam, et enutriat senectutem: de nuru enim tua natus est, quæ te diligit, et multo tibi melior est, quam si septem haberes filios.
@@ -221,7 +212,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et habeas qui consoletur animam tuam, et enutriat senectutem. de nuru enim tua natus est, quæ te diligit: et multo tibi melior est, quam si septem haberes filios.
   - `VulgConte (2009)`: Et habeas qui consoletur animam tuam, et enutriat senectutem. De nuru enim tua natus est, quæ te diligit: et multo tibi melior est, quam si septem haberes filios.
   - `VulgSistina (1590)`: Et habeas qui consoletur animam tuam, et enutriat senectutem. de nuru enim tua natus est, qui te diliget: et multo tibi melior est, quam si septem haberes filios.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Susceptumque Noëmi puerum posuit in sinu suo, et nutricis ac gerulæ fungebatur officio.
@@ -230,7 +221,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Susceptumque Noemi puerum posuit in sinu suo, et nutricis ac gerulæ fungebatur officio.
   - `VulgConte (2009)`: Susceptumque Noemi puerum posuit in sinu suo, et nutricis ac gerulæ fungebatur officio.
   - `VulgSistina (1590)`: Susceptumque Noemi puerum posuit in sinu suo, et nutricis ac gerulae fungebatur officio.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vicinæ autem mulieris congratulantes ei, et dicentes: Natus est filius Noëmi: vocaverunt nomen ejus Obed: hic est pater Isai, patris David.
@@ -239,7 +230,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vicinæ autem mulieris congratulantes ei, et dicentes: Natus est filius Noemi: vocaverunt nomen eius Obed: hic est pater Isai, patris David.
   - `VulgConte (2009)`: Vicinæ autem mulieris congratulantes ei, et dicentes: Natus est filius Noemi: vocaverunt nomen eius Obed: hic est pater Isai, patris David.
   - `VulgSistina (1590)`: Vicinae autem mulieris congratulantes ei, et dicentes: Natus est filius Noemi: vocaverunt nomen eius Obed: hic est pater Isai, patris David.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæ sunt generationes Phares: Phares genuit Esron,
@@ -248,7 +239,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hæ sunt generationes Phares: Phares genuit Esron,
   - `VulgConte (2009)`: Hæ sunt generationes Phares: Phares genuit Esron,
   - `VulgSistina (1590)`: Hae sunt generationes Phares: Phares genuit Esron,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Esron genuit Aram, Aram genuit Aminadab,
@@ -257,7 +248,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Esron genuit Aram, Aram genuit Aminadab,
   - `VulgConte (2009)`: Esron genuit Aram, Aram genuit Aminadab,
   - `VulgSistina (1590)`: Esron genuit Aram, Aram genuit Aminadab,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Aminadab genuit Nahasson, Nahasson genuit Salmon,
@@ -266,7 +257,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Aminadab genuit Nahasson, Nahasson genuit Salmon,
   - `VulgConte (2009)`: Aminadab genuit Nahasson, Nahasson genuit Salmon,
   - `VulgSistina (1590)`: Aminadab genuit Nahasson, Nahasson genuit Salmon,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Salmon genuit Booz, Booz genuit Obed,
@@ -275,7 +266,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Salmon genuit Booz, Booz genuit Obed,
   - `VulgConte (2009)`: Salmon genuit Booz, Booz genuit Obed,
   - `VulgSistina (1590)`: Salmon genuit Booz, Booz genuit Obed,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Obed genuit Isai, Isai genuit David.
@@ -284,4 +275,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Obed genuit Isai, Isai genuit David.
   - `VulgConte (2009)`: Obed genuit Isai, Isai genuit David.
   - `VulgSistina (1590)`: Obed genuit Isai, Isai genuit David.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

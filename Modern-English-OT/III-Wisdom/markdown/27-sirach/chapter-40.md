@@ -1,6 +1,6 @@
 # Sirach 40 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (32 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -57,22 +57,23 @@
 
 **40:26** Riches and powers exalt the heart, and above these, the fear of the Lord.
 
-**40:27** The fear of the Lord is like a paradise of blessing, and above all glory they have covered it.
+**40:27** In the fear of the Lord there is no diminishing, and in it there is no need to seek out help.
 
-**40:28** Son, in the time of your life do not be in want, for it is better to die than to be in want.
+**40:28** The fear of the Lord is like a paradise of blessing, and above all glory they have covered it.
 
-**40:29** A man looking at another's table: his life is not in the thought of sustenance, for he nourishes his soul with another's foods.
+**40:29** Son, in the time of your life do not be in want, for it is better to die than to be in want.
 
-**40:30** In the mouth of an imprudent man want will be made sweet, and in his belly a fire will burn.
+**40:30** A man looking at another's table: his life is not in the thought of sustenance, for he nourishes his soul with another's foods.
 
-## Additional Verses (Not in Saints Numbering)
+**40:31** But a disciplined and educated man will guard himself.
 
-**40:31** *(after `40:29`)* But a disciplined and educated man will guard himself.
+**40:32** In the mouth of an imprudent man want will be made sweet, and in his belly a fire will burn.
 
 ## Translator Notes
 
 - **40:6** — The Latin syntax is compressed and verbless; in die respectus ("in a day of watch/inspection") reflects the Greek image of being on lookout or guard duty.
 - **40:15** — Latin sonant ("sound") is a Vulgate-distinct verb with no equivalent in the Greek, evoking dry roots rattling upon bare rock.
 - **40:18** — The Vulgate merges sibi sufficientis operarii ("a self-sufficient laborer") into a single phrase and ends with et in ea invenies thesaurum ("and in it you will find a treasure"), whereas the Greek contrasts both with the one who finds a treasure.
-- **40:27** — Latin operuerunt illum ("they have covered it") uses a Vulgate-distinct plural verb where the Greek has a singular verb; illum may refer either to the fear of the Lord ("it") or to the one who fears Him ("him").
-- **40:29** — Latin alit ("nourishes") is a Vulgate-distinct reading where the Greek has "pollutes/defiles"; similarly, in 40:28-30 the Vulgate speaks broadly of want (indigere, inopia) rather than begging.
+- **40:27** — Restored native Clementine Vulgate verse 40:27 (parallel to Saints/Greek 40:26b); Latin 'non est in eo inquirere adjutorium' literally reads "it is not in it to seek out help" (reflecting the Greek infinitive idiom "there is no need to seek").
+- **40:28** — Latin operuerunt illum ("they have covered it") uses a Vulgate-distinct plural verb where the Greek has a singular verb; illum may refer either to the fear of the Lord ("it") or to the one who fears Him ("him").
+- **40:30** — Latin alit ("nourishes") is a Vulgate-distinct reading where the Greek has "pollutes/defiles"; similarly, in native 40:29-32 (Saints 40:28-30) the Vulgate speaks broadly of want (indigere in 40:29, inopia in 40:32) rather than begging.

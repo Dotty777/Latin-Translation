@@ -1,8 +1,8 @@
 # Joshua 05 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:39Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,26 +28,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
-- Clem1598-USFX: 5:15 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 1 verse(s) re-aligned by content (15←5:16)
-- VulgHetzenauer (1906): 5:15 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 1 verse(s) re-aligned by content (15←5:16)
-- VulgConte (2009): 5:15 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 1 verse(s) re-aligned by content (15←5:16)
-- VulgSistina (1590): 5:15 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 1 verse(s) re-aligned by content (15←5:16)
+- Clem-Saints: 1 verse(s) re-aligned by content (16←5:15)
 
 ---
 
@@ -67,7 +51,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **12** Defecitque manna postquam comederunt de frugibus terræ, nec usi sunt ultra cibo illo filii Israël, sed comederunt de frugibus præsentis anni terræ Chanaan.
 **13** Cum autem esset Josue in agro urbis Jericho, levavit oculos, et vidit virum stantem contra se, evaginatum tenentem gladium: perrexitque ad eum, et ait: Noster es, an adversariorum?
 **14** Qui respondit: Nequaquam: sed sum princeps exercitus Domini, et nunc venio.
-**15** Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Josue ut sibi fuerat imperatum.
+**15** Cecidit Josue pronus in terram, et adorans ait: Quid dominus meus loquitur ad servum suum?
+**16** Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Josue ut sibi fuerat imperatum.
 
 ---
 
@@ -86,7 +71,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Postquam ergo audierunt omnes reges Amorrhæorum, qui habitabant trans Iordanem ad Occidentalem plagam, et cuncti reges Chanaan, qui propinqua possidebant magni maris loca, quod siccasset Dominus fluenta Iordanis coram filiis Israel donec transirent, dissolutum est cor eorum, et non remansit in eis spiritus, timentium introitum filiorum Israel.
   - `VulgConte (2009)`: Postquam ergo audierunt omnes reges Amorrhæorum, qui habitabant trans Iordanem ad Occidentalem plagam, et cuncti reges Chanaan, qui propinqua possidebant magni maris loca, quod siccasset Dominus fluenta Iordanis coram filiis Israel donec transirent, dissolutum est cor eorum, et non remansit in eis spiritus, timentium introitum filiorum Israel.
   - `VulgSistina (1590)`: Postquam ergo audierunt omnes reges Amorrhaeorum, qui habitabant trans Iordanem ad Occidentalem plagam, et cuncti reges Chanaan, qui propinqua possidebant magni maris loca, quod siccasset Dominus fluenta Iordanis coram filiis Israel donec transirent, dissolutum est cor eorum, et non remansit in eis spiritus, timentium introitum filiorum Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Eo tempore ait Dominus ad Josue: Fac tibi cultros lapideos, et circumcide secundo filios Israël.
@@ -95,7 +80,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Eo tempore ait Dominus ad Iosue: Fac tibi cultros lapideos, et circumcide secundo filios Israel.
   - `VulgConte (2009)`: Eo tempore ait Dominus ad Iosue: Fac tibi cultros lapideos, et circumcide secundo filios Israel.
   - `VulgSistina (1590)`: Eo tempore ait Dominus ad Iosue: Fac tibi cultros lapideos, et circumcide secundo filios Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Fecit quod jusserat Dominus, et circumcidit filios Israël in colle præputiorum.
@@ -104,7 +89,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Fecit quod iusserat Dominus, et circumcidit filios Israel in colle præputiorum.
   - `VulgConte (2009)`: Fecit quod iusserat Dominus, et circumcidit filios Israel in colle præputiorum.
   - `VulgSistina (1590)`: Fecit quod iusserat Dominus, et circumcidit filios Israel in colle praeputiorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæc autem causa est secundæ circumcisionis: omnis populus, qui egressus est de Ægypto generis masculini, universi bellatores viri, mortui sunt in deserto per longissimos viæ circuitus,
@@ -113,7 +98,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hæc autem causa est secundæ circumcisionis: Omnis populus, qui egressus est de Ægypto generis masculini, universi bellatores viri, mortui sunt in deserto per longissimos viæ circuitus,
   - `VulgConte (2009)`: Hæc autem causa est secundæ circumcisionis: Omnis populus, qui egressus est de Ægypto generis masculini, universi bellatores viri, mortui sunt in deserto per longissimos viæ circuitus,
   - `VulgSistina (1590)`: Haec autem causa est secundae circumcisionis: Omnis populus, qui egressus est de Aegypto generis masculini, universi bellatores viri, mortui sunt in deserto per longissimos viae circuitus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** qui omnes circumcisi erant. Populus autem qui natus est in deserto,
@@ -122,7 +107,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: qui omnes circumcisi erant. Populus autem qui natus est in deserto,
   - `VulgConte (2009)`: qui omnes circumcisi erant. Populus autem qui natus est in deserto,
   - `VulgSistina (1590)`: qui omnes circumcisi erant. Populus autem qui natus est in deserto,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** per quadraginta annos itineris latissimæ solitudinis incircumcisus fuit: donec consumerentur qui non audierant vocem Domini, et quibus ante juraverat ut non ostenderet eis terram lacte et melle manantem.
@@ -131,7 +116,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: per quadraginta annos itineris latissimæ solitudinis incircumcisus fuit: donec consumerentur qui non audierant vocem Domini, et quibus ante iuraverat ut non ostenderet eis terram lacte et melle manantem.
   - `VulgConte (2009)`: per quadraginta annos itineris latissimæ solitudinis incircumcisus fuit: donec consumerentur qui non audierant vocem Domini, et quibus ante iuraverat ut non ostenderet eis terram lacte et melle manantem.
   - `VulgSistina (1590)`: per quadraginta annos itineris latissimae solitudinis incircumcisus fuit: donec consumerentur qui non audierant vocem Domini, et quibus ante iuraverat ut non ostenderet eis terram lacte et melle manantem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Horum filii in locum successerunt patrum, et circumcisi sunt a Josue: quia sicut nati fuerant, in præputio erant, nec eos in via aliquis circumciderat.
@@ -140,7 +125,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Horum filii in locum successerunt patrum, et circumcisi sunt a Iosue: quia sicut nati fuerant, in præputio erant, nec eos in via aliquis circumciderat.
   - `VulgConte (2009)`: Horum filii in locum successerunt patrum, et circumcisi sunt a Iosue: quia sicut nati fuerant, in præputio erant, nec eos in via aliquis circumciderat.
   - `VulgSistina (1590)`: Horum filii in locum successerunt patrum, et circumcisi sunt a Iosue: quia sicut nati fuerant, in praeputio erant, nec eos in via aliquis circumciderat.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Postquam autem omnes circumcisi sunt, manserunt in eodem castrorum loco, donec sanarentur.
@@ -149,7 +134,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Postquam autem omnes circumcisi sunt, manserunt in eodem castrorum loco, donec sanarentur.
   - `VulgConte (2009)`: Postquam autem omnes circumcisi sunt, manserunt in eodem castrorum loco, donec sanarentur.
   - `VulgSistina (1590)`: Postquam autem omnes circumcisi sunt, manserunt in eodem castrorum loco, donec sanarentur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixitque Dominus ad Josue: Hodie abstuli opprobrium Ægypti a vobis. Vocatumque est nomen loci illius Galgala, usque in præsentem diem.
@@ -158,7 +143,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixitque Dominus ad Iosue: Hodie abstuli opprobrium Ægypti a vobis. Vocatumque est nomen loci illius Galgala, usque in præsentem diem.
   - `VulgConte (2009)`: Dixitque Dominus ad Iosue: Hodie abstuli opprobrium Ægypti a vobis. Vocatumque est nomen loci illius Galgala, usque in præsentem diem.
   - `VulgSistina (1590)`: Dixitque Dominus ad Iosue: Hodie abstuli opprobrium Aegypti a vobis. Vocatumque est nomen loci illius Galgala, usque in praesentem diem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Manseruntque filii Israël in Galgalis, et fecerunt Phase quartadecima die mensis ad vesperum in campestribus Jericho:
@@ -167,7 +152,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Manseruntque filii Israel in Galgalis, et fecerunt Phase, quartadecima die mensis ad vesperum in campestribus Iericho:
   - `VulgConte (2009)`: Manseruntque filii Israel in Galgalis, et fecerunt Phase, quartadecima die mensis ad vesperum in campestribus Iericho:
   - `VulgSistina (1590)`: Manseruntque filii Israel in Galgalis, et fecerunt Phase, quartadecima die mensis ad vesperum in campestribus Iericho:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et comederunt de frugibus terræ die altero, azymos panes, et polentam ejusdem anni.
@@ -176,7 +161,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et comederunt de frugibus Terræ die altero, azymos panes, et polentam eiusdem anni.
   - `VulgConte (2009)`: et comederunt de frugibus Terræ die altero, azymos panes, et polentam eiusdem anni.
   - `VulgSistina (1590)`: et comederunt de frugibus Terrae die altero, azymos panes, et polentam eiusdem anni.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Defecitque manna postquam comederunt de frugibus terræ, nec usi sunt ultra cibo illo filii Israël, sed comederunt de frugibus præsentis anni terræ Chanaan.
@@ -185,7 +170,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Defecitque manna postquam comederunt de frugibus Terræ, nec usi sunt ultra cibo illo filii Israel, sed comederunt de frugibus præsentis anni Terræ Chanaan.
   - `VulgConte (2009)`: Defecitque manna postquam comederunt de frugibus Terræ, nec usi sunt ultra cibo illo filii Israel, sed comederunt de frugibus præsentis anni Terræ Chanaan.
   - `VulgSistina (1590)`: Defecitque manna postquam comederunt de frugibus Terrae, nec usi sunt ultra cibo illo filii Israel, sed comederunt de frugibus praesentis anni Terrae Chanaan.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cum autem esset Josue in agro urbis Jericho, levavit oculos, et vidit virum stantem contra se, evaginatum tenentem gladium: perrexitque ad eum, et ait: Noster es, an adversariorum?
@@ -194,7 +179,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cum autem esset Iosue in agro urbis Iericho, levavit oculos, et vidit virum stantem contra se, evaginatum tenentem gladium, perrexitque ad eum, et ait: Noster es, an adversariorum?
   - `VulgConte (2009)`: Cum autem esset Iosue in agro urbis Iericho, levavit oculos, et vidit virum stantem contra se, evaginatum tenentem gladium, perrexitque ad eum, et ait: Noster es, an adversariorum?
   - `VulgSistina (1590)`: Cum autem esset Iosue in agro urbis Iericho, levavit oculos, et vidit virum stantem contra se, evaginatum tenentem gladium, perrexitque ad eum, et ait: Noster es, an adversariorum?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui respondit: Nequaquam: sed sum princeps exercitus Domini, et nunc venio.
@@ -203,13 +188,21 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Qui respondit: Nequaquam: sed sum princeps exercitus Domini, et nunc venio.
   - `VulgConte (2009)`: Qui respondit: Nequaquam: sed sum princeps exercitus Domini, et nunc venio.
   - `VulgSistina (1590)`: Qui respondit: Nequaquam: sed sum princeps exercitus Domini, et nunc venio.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Cecidit Josue pronus in terram, et adorans ait: Quid dominus meus loquitur ad servum suum?
+  - `Clem1598-USFX`: Cecidit Josue pronus in terram, et adorans ait: Quid dominus meus loquitur ad servum suum?
+  - `VulgHetzenauer (1906)`: Cecidit Iosue pronus in terram. Et adorans ait: Quid dominus meus loquitur ad servum suum?
+  - `VulgConte (2009)`: Cecidit Iosue pronus in terram. Et adorans ait: Quid dominus meus loquitur ad servum suum?
+  - `VulgSistina (1590)`: Cecidit Iosue pronus in terram. Et adorans ait: Quid dominus meus loquitur ad servum suum?
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
+
+### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Josue ut sibi fuerat imperatum.
-  - `Clem1598-USFX` *(numbered 5:16 in this witness)*: Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Josue ut sibi fuerat imperatum.
-  - `Clem-Saints`: Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Josue ut sibi fuerat imperatum.
-  - `VulgHetzenauer (1906)` *(numbered 5:16 in this witness)*: Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Iosue ut sibi fuerat imperatum.
-  - `VulgConte (2009)` *(numbered 5:16 in this witness)*: Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Iosue ut sibi fuerat imperatum.
-  - `VulgSistina (1590)` *(numbered 5:16 in this witness)*: Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Iosue ut sibi fuerat imperatum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 5:16 (re-aligned by content).
+  - `Clem1598-USFX`: Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Josue ut sibi fuerat imperatum.
+  - `Clem-Saints` *(numbered 5:15 in this witness)*: Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Josue ut sibi fuerat imperatum.
+  - `VulgHetzenauer (1906)`: Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Iosue ut sibi fuerat imperatum.
+  - `VulgConte (2009)`: Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Iosue ut sibi fuerat imperatum.
+  - `VulgSistina (1590)`: Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Iosue ut sibi fuerat imperatum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

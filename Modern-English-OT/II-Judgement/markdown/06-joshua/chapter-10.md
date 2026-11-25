@@ -1,6 +1,6 @@
 # Joshua 10 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (41 verses, 5 translator notes, 2 additional)  
+> **Status:** `draft: true` (43 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -32,6 +32,8 @@
 **10:13** And the sun and the moon stood still until the nation avenged itself on its enemies. Is this not written in the book of the just? Therefore the sun stood still in the middle of heaven, and did not hasten to set for the space of one day.
 
 **10:14** There was not before nor afterward so long a day, with the Lord obeying the voice of a man and fighting for Israel.
+
+**10:15** And Joshua returned with all Israel to the camp at Gilgal.
 
 **10:16** For the five kings had fled and had hidden themselves in the cave of the city of Makkedah.
 
@@ -87,11 +89,7 @@
 
 **10:42** and all the kings and their regions he captured and laid waste in one assault, for the Lord God of Israel fought for him.
 
-## Additional Verses (Not in Saints Numbering)
-
-**10:15** *(after `10:14`)* And Joshua returned with all Israel to the camp at Gilgal.
-
-**10:43** *(after `10:42`)* And he returned with all Israel to the site of the camp in Gilgal.
+**10:43** And he returned with all Israel to the site of the camp in Gilgal.
 
 ## Translator Notes
 

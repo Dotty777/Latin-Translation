@@ -1,6 +1,6 @@
 # 2 Corinthians 1 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (24 verses, 5 translator notes)  
+> **Status:** `draft: true` (23 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`2 Corinthians`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -49,9 +49,7 @@
 
 **1:22** who also sealed us and gave the pledge of the Spirit in our hearts.
 
-**1:23** Now I call God as witness upon my soul that, sparing you, I did not come again to Corinth;
-
-**1:24** not that we exercise dominion over your faith, but we are helpers of your joy, for by faith you stand.
+**1:23** Now I call God as witness upon my soul that, sparing you, I did not come again to Corinth; not that we exercise dominion over your faith, but we are helpers of your joy, for by faith you stand.
 
 ## Translator Notes
 
@@ -59,4 +57,4 @@
 - **1:10** — The Vulgate reads de tantis periculis ("from such great perils") where most Greek witnesses read "from so great a death"; et eruit ("and delivers") corresponds to a second Greek verb that many witnesses give in the future ("and will rescue").
 - **1:12** — The Vulgate adds cordis ("of heart") to simplicitate ("simplicity") and uses gloria ("glory") here and in 1:14 where the Greek has kauchesis ("boast").
 - **1:20** — The Clementine Vulgate reads ad gloriam nostram ("for our glory"), whereas the Greek reads "for glory through us." Earlier in 1:17, Latin Est et Non (literally "It is and No," the Vulgate idiom for "Yes and No") appears singly rather than the doubled Greek "Yes, yes and No, no."
-- **1:24** — In the Latin text this verse is included in verse 23.
+- **1:23** — Native Vulgate 2 Corinthians 1:23 combines Saints.Bible 1:23 and 1:24. Stage 1 verified typo fix: adopted Clem1598-USFX reads 'vestræ' (correcting 'vestæ' in earlier printings).

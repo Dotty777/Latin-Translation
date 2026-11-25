@@ -1,6 +1,6 @@
 # Sirach 11 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes, 2 additional)  
+> **Status:** `draft: true` (36 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -33,52 +33,56 @@
 
 **11:14** Good and evil, life and death, poverty and wealth are from God.
 
+**11:15** Wisdom, discipline, and knowledge of the law are with God; love and the ways of the good are with Him.
+
+**11:16** Error and darkness were created together with sinners, and those who exult in evil things grow old in evil.
+
 **11:17** The gift of God abides with the righteous, and its progress will have success forever.
 
 **11:18** There is one who grows rich by acting sparingly, and this is the portion of his reward,
 
 **11:19** in that he says, "I have found rest for myself, and now I will eat from my goods alone."
 
-**11:20** Stand in your covenant, and converse in it, and grow old in the work of your commandments.
+**11:20** And he does not know that time will pass by, and death draws near, and he leaves everything to others, and he will die.
 
-**11:21** Do not remain in the works of sinners, but trust in God and remain in your place.
+**11:21** Stand in your covenant, and converse in it, and grow old in the work of your commandments.
 
-**11:22** The blessing of God hastens to the reward of the righteous, and in a swift hour its progress bears fruit.
+**11:22** Do not remain in the works of sinners, but trust in God and remain in your place.
 
-**11:23** Do not say, "What need do I have? And what good things will be mine from this?"
+**11:23** For it is easy in the eyes of God suddenly to enrich a poor man.
 
-**11:24** Do not say, "I am sufficient for myself, and how will I be harmed from this?"
+**11:24** The blessing of God hastens to the reward of the righteous, and in a swift hour its progress bears fruit.
 
-**11:25** In the day of good things do not be unmindful of evil things, and in the day of evil things do not be unmindful of good things,
+**11:25** Do not say, "What need do I have? And what good things will be mine from this?"
 
-**11:26** for it is easy before God in the day of death to repay each one according to his ways.
+**11:26** Do not say, "I am sufficient for myself, and how will I be harmed from this?"
 
-**11:27** The affliction of an hour brings forgetfulness of great luxury, and at a man's end is the uncovering of his works.
+**11:27** In the day of good things do not be unmindful of evil things, and in the day of evil things do not be unmindful of good things,
 
-**11:28** Before death do not praise any man, for in his children a man is recognized.
+**11:28** for it is easy before God in the day of death to repay each one according to his ways.
 
-**11:29** Do not bring every man into your house, for many are the ambushes of the deceitful man.
+**11:29** The affliction of an hour brings forgetfulness of great luxury, and at a man's end is the uncovering of his works.
 
-**11:30** For just as the inward parts of stinking things belch forth, and as a partridge is brought into a cage, and as a roe deer into a snare, so also is the heart of the proud, and like a spy seeing the fall of his neighbor.
+**11:30** Before death do not praise any man, for in his children a man is recognized.
 
-**11:31** For turning good things into evil things, he lies in ambush, and upon the chosen he will place a blemish.
+**11:31** Do not bring every man into your house, for many are the ambushes of the deceitful man.
 
-**11:32** From one spark a fire is increased, and from one deceitful man blood is increased; and a sinful man lies in ambush for blood.
+**11:32** For just as the inward parts of stinking things belch forth, and as a partridge is brought into a cage, and as a roe deer into a snare, so also is the heart of the proud, and like a spy seeing the fall of his neighbor.
 
-**11:33** Guard yourself against a pestilent man, for he devises evil things, or else he may bring mockery upon you forever.
+**11:33** For turning good things into evil things, he lies in ambush, and upon the chosen he will place a blemish.
 
-**11:34** Admit a stranger to yourself, and he will overthrow you in a whirlwind, and he will estrange you from your own.
+**11:34** From one spark a fire is increased, and from one deceitful man blood is increased; and a sinful man lies in ambush for blood.
 
-## Additional Verses (Not in Saints Numbering)
+**11:35** Guard yourself against a pestilent man, for he devises evil things, or else he may bring mockery upon you forever.
 
-**11:15** *(after `11:14`)* Wisdom, discipline, and knowledge of the law are with God; love and the ways of the good are with Him.
-
-**11:16** *(after `11:14`)* Error and darkness were created together with sinners, and those who exult in evil things grow old in evil.
+**11:36** Admit a stranger to yourself, and he will overthrow you in a whirlwind, and he will estrange you from your own.
 
 ## Translator Notes
 
 - **11:5** — The Vulgate reads "on the throne" (in throno), contrasting with the Greek Septuagint reading "on the ground" (epi edaphous).
 - **11:10** — The Vulgate reads "if you become rich" (si dives fueris) and "if you run ahead" (si praecucurreris), whereas the Greek has "if you multiply them" and "if you flee."
 - **11:14** — Latin honestas literally denotes honor or dignity, here used in the Late Latin sense of material wealth or prosperity opposite paupertas ("poverty").
-- **11:21** — The Vulgate reads "Do not remain" (Ne manseris), whereas the Greek Septuagint reads "Do not marvel" (me thaumaze).
-- **11:30** — The Vulgate includes distinctive images not found in the Greek Septuagint, adding "the inward parts of stinking things belch forth" and "as a roe deer into a snare."
+- **11:20** — Restored native Clementine Vulgate verse 11:20 (continuing 11:19 = Saints 11:19).
+- **11:22** — The Vulgate reads "Do not remain" (Ne manseris), whereas the Greek Septuagint reads "Do not marvel" (me thaumaze).
+- **11:23** — Restored native Clementine Vulgate verse 11:23 (parallel to Saints/Greek 11:21b); Late Latin 'honestare' means "to enrich" or "to endow with prosperity/honor" (matching 'honestas' in 11:14).
+- **11:32** — The Vulgate includes distinctive images not found in the Greek Septuagint, adding "the inward parts of stinking things belch forth" and "as a roe deer into a snare."

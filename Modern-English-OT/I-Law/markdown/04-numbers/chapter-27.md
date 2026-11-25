@@ -1,6 +1,6 @@
 # Numbers 27 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (18 verses, 5 translator notes)  
+> **Status:** `draft: true` (23 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -9,7 +9,17 @@
 
 **27:2** And they stood before Moses and Eleazar the priest and all the leaders of the people at the entrance of the tabernacle of the covenant, and said:
 
-**27:3** "Our father died in the wilderness, and he was not in the rebellion that was stirred up against the Lord under Korah, but he died in his own sin; he had no male children. Why is his name taken away from his family because he had no son? Give us a possession among the relatives of our father." And Moses brought their case to the judgment of the Lord. He said to him, "The daughters of Zelophehad ask for what is just: give them a possession among the relatives of their father, and let them succeed him in the inheritance. And to the sons of Israel you shall speak these words: 'When a man dies without a son, the inheritance shall pass to his daughter.
+**27:3** "Our father died in the wilderness, and he was not in the rebellion that was stirred up against the Lord under Korah, but he died in his own sin; he had no male children. Why is his name taken away from his family because he had no son? Give us a possession among the relatives of our father."
+
+**27:4** And Moses brought their case to the judgment of the Lord.
+
+**27:5** He said to him,
+
+**27:6** "The daughters of Zelophehad ask for what is just: give them a possession among the relatives of their father, and let them succeed him in the inheritance.
+
+**27:7** And to the sons of Israel you shall speak these words:
+
+**27:8** 'When a man dies without a son, the inheritance shall pass to his daughter.
 
 **27:9** If he has no daughter, he shall have his brothers as successors.
 
@@ -44,7 +54,7 @@
 ## Translator Notes
 
 - **27:2** — Latin "tabernaculi foederis" ("tabernacle of the covenant") is the Vulgate's characteristic rendering of the Hebrew "tent of meeting."
-- **27:3** — In this Clementine Vulgate versification, verse 3 combines the text commonly divided across verses 3-8. Notice also the Vulgate's distinctive renderings "in the rebellion that was stirred up... under Korah," "the relatives of our father," and "to the judgment of the Lord."
+- **27:3** — Native Clementine Vulgate divides Zelophehad's daughters' petition and the Lord's ruling across 27:3-8 (native 27:3 maps to Saints.Bible 27:3-4, 27:4-6 to 27:5-7, and 27:7-8 to 27:8); distinctive Vulgate readings include "in the rebellion that was stirred up... under Korah," "the relatives of our father," and "to the judgment of the Lord" (v. 4).
 - **27:14** — Latin "Sin" renders Hebrew Zin (just as "Sion" renders Zion), and "aquae contradictionis" ("waters of Contention," literally "contradiction") translates the Hebrew place name Meribah.
 - **27:21** — The Vulgate states simply that Eleazar will consult the Lord "if anything is to be done," omitting the Hebrew reference to the judgment of the Urim.
 - **27:23** — Latin "capiti ejus" ("on his head") specifies where Moses laid his hands, and "replicavit" ("repeated") differs from the Hebrew "commissioned him."

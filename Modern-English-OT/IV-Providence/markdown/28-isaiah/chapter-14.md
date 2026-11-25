@@ -1,6 +1,6 @@
 # Isaiah 14 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Isaiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -75,4 +75,5 @@
 - **14:9** — Latin Infernus (and inferos in 14:11, infernum in 14:15) literally denotes the lower realm or underworld (translating Hebrew Sheol); Vulgate gigantes ("giants," following the Septuagint) corresponds to Hebrew repha'im ("shades/departed spirits").
 - **14:11** — Vulgate reads concidit cadaver tuum ("your corpse has fallen") and tinea ("moth"), diverging from the Hebrew "the sound of your harps" and "maggots."
 - **14:12** — Latin Lucifer literally means "light-bearer" (the morning star), corresponding to Hebrew helel ("shining one"), with qui mane oriebaris ("who rose in the morning") corresponding to "son of the dawn." In 14:13, Vulgate monte testamenti ("mountain of the covenant") corresponds to Hebrew "mount of assembly."
+- **14:24** — "Surely" renders the literal Latin conditional oath Si non ("If not [may it not be]"), mirroring the Hebrew oath idiom (cf. Jer 15:11, Amos 8:7).
 - **14:29** — Vulgate regulus denotes the basilisk (a venomous serpent), and absorbens volucrem ("will swallow up the bird") is a distinctly Vulgate reading diverging from the Hebrew "flying fiery serpent."

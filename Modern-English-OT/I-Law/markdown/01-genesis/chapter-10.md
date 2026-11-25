@@ -13,7 +13,7 @@
 
 **10:4** Now the sons of Javan: Elishah, Tarshish, Kittim, and Dodanim.
 
-**10:5** From these the islands of the nations were divided in their regions, each one according to language and families in their nations.
+**10:5** From these the islands of the nations were divided in their regions, each one according to his own language and his families in their nations.
 
 **10:6** And the sons of Ham: Cush, Mizraim, Put, and Canaan.
 
@@ -21,7 +21,7 @@
 
 **10:8** Now Cush fathered Nimrod; he himself began to be powerful on the earth,
 
-**10:9** and he was a mighty hunter before the Lord. From this came the proverb, "Like Nimrod, a mighty hunter before the Lord."
+**10:9** and he was a mighty hunter before the Lord. Because of this came the proverb, "Like Nimrod, a mighty hunter before the Lord."
 
 **10:10** Now the beginning of his kingdom was Babylon, Erech, Accad, and Calneh, in the land of Shinar.
 
@@ -71,7 +71,7 @@
 
 ## Translator Notes
 
-- **10:9** — Where the Hebrew says 'therefore it is said,' the Vulgate explicitly calls the saying a proverb ('Ab hoc exivit proverbium').
+- **10:9** — Where the Hebrew says 'therefore it is said,' the Vulgate explicitly calls the saying a proverb ('Ob hoc exivit proverbium').
 - **10:11** — The Vulgate makes Asshur the subject who went out from Shinar (rather than Nimrod going into Assyria) and translates the Hebrew city name Rehoboth-Ir as a common noun phrase, 'the streets of the city' ('plateas civitatis').
 - **10:15** — Where the Hebrew has the personal name Heth, the Vulgate uses the gentilic 'Hethaeum' ('the Hittite'), matching the tribal names that follow.
 - **10:21** — The Vulgate's ablative phrasing ('fratre Japheth majore') resolves the ambiguity of the Hebrew syntax by identifying Shem, rather than Japheth, as the older brother.

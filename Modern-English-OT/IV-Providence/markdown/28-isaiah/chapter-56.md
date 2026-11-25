@@ -1,6 +1,6 @@
 # Isaiah 56 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (11 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (12 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Isaiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -27,9 +27,7 @@
 
 **56:11** And the most imprudent dogs have not known satisfaction; the shepherds themselves have been ignorant of understanding: all of them have turned aside to their own way, each one to his own greed, from the highest to the last.
 
-## Additional Verses (Not in Saints Numbering)
-
-**56:12** *(after `56:11`)* "Come, let us get wine, and let us be filled with drunkenness; and just as it is today, so it will also be tomorrow, and much more."
+**56:12** "Come, let us get wine, and let us be filled with drunkenness; and just as it is today, so it will also be tomorrow, and much more."
 
 ## Translator Notes
 
@@ -37,4 +35,4 @@
 - **56:8** — Vulgate congregabo ad eum congregatos ejus ('I will gather to him his gathered ones') takes 'his gathered ones' as the direct object, whereas the Hebrew reads 'besides those already gathered to him.'
 - **56:10** — Vulgate videntes vana ('seeing empty things') and amantes somnia ('loving dreams') differ from the Hebrew terms meaning 'dreaming' (or 'babbling') and 'loving to slumber.'
 - **56:11** — The critical text's imprudentissimi ('most imprudent') is a variant of impudentissimi ('most shameless'), where the Hebrew reads 'strong of appetite' (greedy); a summo usque ad novissimum ('from the highest to the last') expands the Hebrew phrase meaning 'without exception.'
-- **56:12 *(additional)*** — The Latin presents the shepherds' boast directly without an introductory verb and reads plural sumamus ("let us get") with ebrietate ("drunkenness").
+- **56:12** — The Latin presents the shepherds' boast directly without an introductory verb and reads plural sumamus ("let us get") with ebrietate ("drunkenness").

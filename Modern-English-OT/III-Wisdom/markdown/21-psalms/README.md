@@ -1,26 +1,26 @@
 # Psalms — Saints Modern English OT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Division: **III. Wisdom (Wisdom & Poetry)**  
-> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; Saints.Bible versification).  
+> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; native Sixto-Clementine Vulgate versification).  
 > **Structured JSON:** [`21-psalms.json`](../../json/21-psalms.json) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Chapters
 
 - [Chapter 1](chapter-001.md) — 6 verses, 4 notes
-- [Chapter 2](chapter-002.md) — 12 verses, 5 notes, +1 additional
+- [Chapter 2](chapter-002.md) — 13 verses, 7 notes
 - [Chapter 3](chapter-003.md) — 9 verses, 5 notes
-- [Chapter 4](chapter-004.md) — 9 verses, 6 notes, +1 additional
+- [Chapter 4](chapter-004.md) — 10 verses, 7 notes
 - [Chapter 5](chapter-005.md) — 13 verses, 5 notes
 - [Chapter 6](chapter-006.md) — 11 verses, 4 notes
 - [Chapter 7](chapter-007.md) — 18 verses, 5 notes
 - [Chapter 8](chapter-008.md) — 10 verses, 4 notes
 - [Chapter 9](chapter-009.md) — 39 verses, 5 notes
-- [Chapter 10](chapter-010.md) — 7 verses, 5 notes
+- [Chapter 10](chapter-010.md) — 8 verses, 7 notes
 - [Chapter 11](chapter-011.md) — 9 verses, 5 notes
 - [Chapter 12](chapter-012.md) — 6 verses, 4 notes
 - [Chapter 13](chapter-013.md) — 7 verses, 4 notes
 - [Chapter 14](chapter-014.md) — 5 verses, 2 notes
-- [Chapter 15](chapter-015.md) — 11 verses, 6 notes
+- [Chapter 15](chapter-015.md) — 10 verses, 5 notes
 - [Chapter 16](chapter-016.md) — 15 verses, 5 notes
 - [Chapter 17](chapter-017.md) — 51 verses, 5 notes
 - [Chapter 18](chapter-018.md) — 15 verses, 6 notes
@@ -36,7 +36,7 @@
 - [Chapter 28](chapter-028.md) — 11 verses, 4 notes
 - [Chapter 29](chapter-029.md) — 13 verses, 5 notes
 - [Chapter 30](chapter-030.md) — 25 verses, 5 notes
-- [Chapter 31](chapter-031.md) — 11 verses, 4 notes
+- [Chapter 31](chapter-031.md) — 11 verses, 5 notes
 - [Chapter 32](chapter-032.md) — 22 verses, 5 notes
 - [Chapter 33](chapter-033.md) — 23 verses, 5 notes
 - [Chapter 34](chapter-034.md) — 28 verses, 5 notes
@@ -48,7 +48,7 @@
 - [Chapter 40](chapter-040.md) — 14 verses, 4 notes
 - [Chapter 41](chapter-041.md) — 12 verses, 5 notes
 - [Chapter 42](chapter-042.md) — 5 verses, 3 notes
-- [Chapter 43](chapter-043.md) — 27 verses, 6 notes
+- [Chapter 43](chapter-043.md) — 26 verses, 6 notes
 - [Chapter 44](chapter-044.md) — 18 verses, 5 notes
 - [Chapter 45](chapter-045.md) — 12 verses, 5 notes
 - [Chapter 46](chapter-046.md) — 10 verses, 4 notes
@@ -60,7 +60,7 @@
 - [Chapter 52](chapter-052.md) — 7 verses, 4 notes
 - [Chapter 53](chapter-053.md) — 9 verses, 3 notes
 - [Chapter 54](chapter-054.md) — 24 verses, 5 notes
-- [Chapter 55](chapter-055.md) — 13 verses, 5 notes
+- [Chapter 55](chapter-055.md) — 13 verses, 6 notes
 - [Chapter 56](chapter-056.md) — 12 verses, 3 notes
 - [Chapter 57](chapter-057.md) — 12 verses, 5 notes
 - [Chapter 58](chapter-058.md) — 18 verses, 5 notes
@@ -77,7 +77,7 @@
 - [Chapter 69](chapter-069.md) — 6 verses, 3 notes
 - [Chapter 70](chapter-070.md) — 24 verses, 4 notes
 - [Chapter 71](chapter-071.md) — 20 verses, 5 notes
-- [Chapter 72](chapter-072.md) — 28 verses, 5 notes
+- [Chapter 72](chapter-072.md) — 28 verses, 6 notes
 - [Chapter 73](chapter-073.md) — 23 verses, 5 notes
 - [Chapter 74](chapter-074.md) — 11 verses, 4 notes
 - [Chapter 75](chapter-075.md) — 13 verses, 5 notes
@@ -113,14 +113,14 @@
 - [Chapter 105](chapter-105.md) — 48 verses, 5 notes
 - [Chapter 106](chapter-106.md) — 43 verses, 4 notes
 - [Chapter 107](chapter-107.md) — 14 verses, 5 notes
-- [Chapter 108](chapter-108.md) — 31 verses, 6 notes
-- [Chapter 109](chapter-109.md) — 7 verses, 3 notes
+- [Chapter 108](chapter-108.md) — 31 verses, 8 notes
+- [Chapter 109](chapter-109.md) — 7 verses, 4 notes
 - [Chapter 110](chapter-110.md) — 10 verses, 4 notes
 - [Chapter 111](chapter-111.md) — 10 verses, 5 notes
 - [Chapter 112](chapter-112.md) — 9 verses, 3 notes
 - [Chapter 113](chapter-113.md) — 26 verses, 5 notes
 - [Chapter 114](chapter-114.md) — 9 verses, 5 notes
-- [Chapter 115](chapter-115.md) — 9 verses, 5 notes, +1 additional
+- [Chapter 115](chapter-115.md) — 10 verses, 5 notes
 - [Chapter 116](chapter-116.md) — 2 verses, 2 notes
 - [Chapter 117](chapter-117.md) — 29 verses, 5 notes
 - [Chapter 118](chapter-118.md) — 176 verses, 20 notes

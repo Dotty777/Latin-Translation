@@ -45,7 +45,7 @@
 
 **40:20** After that, the third day was Pharaoh's birthday; and making a great banquet for his servants, he remembered the master of the cupbearers and the chief of the bakers during the feast.
 
-**40:21** And he restored the one to his place, so that he might hand the cup to the king;
+**40:21** And he restored the one to his place, so that he might hand the cup to him;
 
 **40:22** the other he hanged on a gallows, so that the truth of the dream interpreter might be proved.
 
@@ -53,8 +53,8 @@
 
 ## Translator Notes
 
-- **40:13** — The Vulgate interprets the Hebrew idiom "lift up your head" as "remember your office" (recordabitur ... magisterii tui).
+- **40:13** — The Vulgate interprets the Hebrew idiom "lift up your head" as "remember your office/service" (recordabitur ... ministerii tui).
 - **40:16** — The Vulgate reads "baskets of flour" (canistra farinæ) for the rare Hebrew term hori ("white bread" or "wickerwork"), and states that Joseph "wisely solved" (prudenter ... dissolvisset) the dream.
-- **40:19** — The Vulgate distinctively renders the place of execution as "a cross" (in crucem; cf. "a gallows," in patibulo, in 40:22) and uses "tear" (lacerabunt) rather than "eat" for the birds.
+- **40:19** — The Vulgate distinctively renders the place of execution as "a cross" (in cruce; cf. "a gallows," in patibulo, in 40:22) and uses "tear" (lacerabunt) rather than "eat" for the birds.
 - **40:22** — The Vulgate concludes with "so that the truth of the dream interpreter might be proved" (ut conjectoris veritas probaretur), where the Hebrew reads "as Joseph had interpreted to them."
 - **40:23** — The Vulgate adds "with prosperity following" (succedentibus prosperis) and refers to Joseph as "his interpreter" (interpretis sui) rather than by name.

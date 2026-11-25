@@ -1,6 +1,6 @@
 # 1 Samuel 20 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (42 verses, 5 translator notes)  
+> **Status:** `draft: true` (43 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -89,6 +89,8 @@
 
 **20:42** Therefore Jonathan said to David, "Go in peace: whatever we both have sworn in the name of the Lord, saying, 'May the Lord be between me and you, and between my seed and your seed forever.'"
 
+**20:43** And David rose and departed, and Jonathan also entered the city.
+
 ## Translator Notes
 
 - **20:3** — In the Clementine Vulgate, Davidi is dative ("And he swore again to David"), making Jonathan the subject of the oath and shifting to David with Et ille ("And the other"), whereas the Hebrew Masoretic Text has David swearing again.
@@ -96,3 +98,4 @@
 - **20:15** — The Vulgate subjunctive clause auferat Jonathan de domo sua, et requirat Dominus ("may He remove Jonathan from his house, and may the Lord require it") treats Jonathan as the direct object of the Lord's action, diverging in syntax and verse division from the Hebrew Masoretic Text.
 - **20:19** — The Vulgate renders the workday reference explicitly as in die qua operari licet ("on the day when it is lawful to work").
 - **20:30** — The Vulgate renders Saul's insult as Fili mulieris virum ultro rapientis ("Son of a woman who of her own accord seizes a man") and ignominiosae matris tuae ("of your disgraceful mother"), differing from the Hebrew Masoretic Text ("son of a perverse, rebellious woman ... shame of your mother's nakedness").
+- **20:43** — Native Clementine Vulgate numbers this verse 20:43 (mapped to Saints.Bible 21:1), and native 21:1-15 correspond to Saints.Bible 21:2-16 (one verse lower in Vulgate chapter 21).

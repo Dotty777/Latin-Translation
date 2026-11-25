@@ -1,23 +1,25 @@
 # 1 Kings 11 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (39 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (43 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**11:1** Now King Solomon deeply loved many foreign women, the daughter of Pharaoh as well, and Moabite, Ammonite, Edomite, Sidonian, and Hittite women. And he had seven hundred wives as queens and three hundred concubines, and the women turned his heart away.
+**11:1** Now King Solomon deeply loved many foreign women, the daughter of Pharaoh as well, and Moabite, Ammonite, Edomite, Sidonian, and Hittite women.
 
 **11:2** From the nations concerning which the Lord said to the sons of Israel, "You shall not go in to them, nor shall any of them go in to your women, for most certainly they will turn your hearts away so that you follow their gods"—to these, therefore, Solomon was joined with the most ardent love.
 
+**11:3** And he had seven hundred wives as queens and three hundred concubines, and the women turned his heart away.
+
 **11:4** And when he was already old, his heart was corrupted by the women, so that he followed foreign gods; nor was his heart perfect with the Lord his God, like the heart of David his father.
 
-**11:5** Then Solomon built a shrine for Chemosh, the idol of Moab, on the mountain that is opposite Jerusalem, and for Molech, the idol of the sons of Ammon.
+**11:5** But Solomon worshiped Ashtoreth, the goddess of the Sidonians, and Molech, the idol of the Ammonites.
 
-**11:6** But Solomon worshiped Ashtoreth, the goddess of the Sidonians, and Molech, the idol of the Ammonites.
+**11:6** And Solomon did what had not been pleasing before the Lord, and he did not fully follow the Lord like David his father.
 
-**11:7** And in this way he did for all his foreign wives, who burned incense and offered sacrifices to their gods.
+**11:7** Then Solomon built a shrine for Chemosh, the idol of Moab, on the mountain that is opposite Jerusalem, and for Molech, the idol of the sons of Ammon.
 
-**11:8** And Solomon did what had not been pleasing before the Lord, and he did not fully follow the Lord like David his father.
+**11:8** And in this way he did for all his foreign wives, who burned incense and offered sacrifices to their gods.
 
 **11:9** Therefore the Lord was angry with Solomon, because his mind had been turned away from the Lord God of Israel, who had appeared to him a second time,
 
@@ -29,7 +31,7 @@
 
 **11:13** nor will I take away the whole kingdom, but I will give one tribe to your son for the sake of David My servant, and for Jerusalem, which I have chosen."
 
-**11:14** Now the Lord raised up an adversary against Solomon, Hadad the Edomite, of the royal seed, who was in Edom. God also raised up against him an adversary, Rezon the son of Eliada, who had fled from Hadadezer king of Zobah, his master; and he gathered men against him, and became a leader of bandits when David was killing them. And they went away to Damascus and lived there, and they appointed him king in Damascus.
+**11:14** Now the Lord raised up an adversary against Solomon, Hadad the Edomite, of the royal seed, who was in Edom.
 
 **11:15** For when David was in Edom, and Joab the commander of the army had gone up to bury those who had been killed, and had put to death every male in Edom
 
@@ -46,6 +48,10 @@
 **11:21** And when Hadad had heard in Egypt that David had slept with his fathers, and that Joab the commander of the army was dead, he said to Pharaoh, "Send me away, so that I may go to my land."
 
 **11:22** And Pharaoh said to him, "What then do you lack with me, that you seek to go to your land?" And he answered, "Nothing; yet I beg you to send me away."
+
+**11:23** God also raised up against him an adversary, Rezon the son of Eliada, who had fled from Hadadezer king of Zobah, his master;
+
+**11:24** and he gathered men against him, and became a leader of bandits when David was killing them. And they went away to Damascus and lived there, and they appointed him king in Damascus.
 
 **11:25** And he was an adversary to Israel all the days of Solomon; and this is the evil of Hadad, and the hatred against Israel; and he reigned in Syria.
 
@@ -73,7 +79,9 @@
 
 **11:37** You, however, I will take, and you will reign over everything that your soul desires, and you will be king over Israel.
 
-**11:38** If, therefore, you listen to all that I command you, and walk in My ways, and do what is right before Me, keeping My commandments and My precepts, just as David My servant did, I will be with you, and I will build for you a faithful house, just as I built a house for David, and I will deliver Israel to you.'"
+**11:38** If, therefore, you listen to all that I command you, and walk in My ways, and do what is right before Me, keeping My commandments and My precepts, just as David My servant did, I will be with you, and I will build for you a faithful house, just as I built a house for David, and I will deliver Israel to you;
+
+**11:39** and I will afflict the seed of David because of this, yet not for all days.'"
 
 **11:40** Solomon therefore wanted to kill Jeroboam; and he rose and fled into Egypt to Shishak king of Egypt, and was in Egypt until the death of Solomon.
 
@@ -81,16 +89,13 @@
 
 **11:42** And the days that Solomon reigned in Jerusalem over all Israel are forty years.
 
-**11:43** And Solomon slept with his fathers, and was buried in the city of David his father; and Rehoboam his son reigned in his place. Meanwhile, Jeroboam the son of Nebat, while he was still in Egypt as a fugitive from the face of King Solomon, upon hearing of his death, returned from Egypt.
-
-## Additional Verses (Not in Saints Numbering)
-
-**11:39** *(after `11:38`)* and I will afflict the seed of David because of this, yet not for all days.
+**11:43** And Solomon slept with his fathers, and was buried in the city of David his father; and Rehoboam his son reigned in his place.
 
 ## Translator Notes
 
-- **11:1** — Following the 3 Kingdoms sequence, the count of Solomon's wives and concubines (traditionally v. 3) is included here before v. 2. The Vulgate also reads "also the daughter of Pharaoh" (filiam quoque Pharaonis) and "wives as queens" (uxores quasi reginæ).
-- **11:5** — Following the 3 Kingdoms order, the building of the shrines precedes the summary of Solomon's worship in v. 6. The Vulgate reads "Molech" (Moloch) here and in vv. 6 and 33, where the Hebrew Masoretic Text reads Milcom in vv. 5 and 33.
-- **11:14** — The account of Rezon (traditionally vv. 23-24) is placed directly after Hadad's introduction, matching the 3 Kingdoms arrangement. The Vulgate also reads "gathered men against him" (congregavit contra eum viros) rather than "to himself."
-- **11:25** — Because vv. 23-24 appear in v. 14, this verse directly follows Hadad's departure. The Vulgate distinctively reads "and this is the evil of Hadad, and the hatred against Israel; and he reigned in Syria."
-- **11:43** — Jeroboam's return from Egypt upon hearing of Solomon's death (Vulgate 12:2, so numbered in the Saints Latin Critical Text) is placed at the end of ch. 11 in accordance with the 3 Kingdoms sequence.
+- **11:1** — The Vulgate reads "also the daughter of Pharaoh" (filiam quoque Pharaonis). Native Vulgate keeps 11:1 and 11:3 separate (combined in Saints.Bible 11:1).
+- **11:3** — The Vulgate reads "wives as queens" (uxores quasi reginæ).
+- **11:7** — In native Clementine Vulgate order, Solomon's worship (11:5-6) precedes the building of the shrines (11:7-8; mapped to Saints.Bible 11:5, 7). The Vulgate reads "Molech" (Moloch) here and in vv. 5 and 33, where the Hebrew Masoretic Text reads Milcom in vv. 5 and 33.
+- **11:23** — Native Clementine Vulgate places the Rezon account at 11:23-24 (grouped at Saints.Bible 11:14 following 3 Kingdoms).
+- **11:24** — The Vulgate reads "gathered men against him" (congregavit contra eum viros) rather than "to himself."
+- **11:25** — The Vulgate distinctively reads "and this is the evil of Hadad, and the hatred against Israel; and he reigned in Syria."

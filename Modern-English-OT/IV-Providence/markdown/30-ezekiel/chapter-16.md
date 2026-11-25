@@ -49,7 +49,7 @@
 
 **16:22** And after all your abominations and fornications, you did not remember the days of your youth, when you were unclothed and full of shame, trampled in your blood.
 
-**16:23** And it happened after all your wickedness (woe, woe to you! says the Lord God),
+**16:23** And it happened after all your wickedness ("Woe, woe to you!" says the Lord God),
 
 **16:24** and you built for yourself a house of harlotry, and you made for yourself a booth of harlotry in all the public squares.
 

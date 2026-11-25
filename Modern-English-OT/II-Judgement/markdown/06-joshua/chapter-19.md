@@ -97,9 +97,9 @@
 
 **19:46** and Me-jarkon, and Rakkon, with the border that faces Joppa.
 
-**19:47** This is the possession of the tribe of the sons of Dan by their clans, the cities and their hamlets.
+**19:47** And it is bounded by that very border. And the sons of Dan went up and fought against Leshem, and captured it, and struck it with the edge of the sword, and took possession and lived in it, calling its name Leshem Dan, after the name of Dan their father.
 
-**19:48** And it is bounded by that very border. And the sons of Dan went up and fought against Leshem, and captured it, and struck it with the edge of the sword, and took possession and lived in it, calling its name Leshem Dan, after the name of Dan their father.
+**19:48** This is the possession of the tribe of the sons of Dan by their clans, the cities and their hamlets.
 
 **19:49** And when he had finished dividing the land by lot to each one by their tribes, the sons of Israel gave a possession to Joshua the son of Nun in their midst,
 
@@ -113,5 +113,5 @@
 - **19:13** — Vulgate treats the Hebrew participle "ha-meto'ar" ("which bends/turns") as a distinct place name, "Amthar."
 - **19:15** — Vulgate reads "Jerala" (reflecting an r/d consonant difference), whereas the Hebrew has "Idalah."
 - **19:29** — Vulgate reads "Hormah" ("Horma") where the Hebrew has "Ramah," and renders Hebrew "chebel" ("region/cord") literally as "measuring line" ("funiculus," as also in v. 9).
-- **19:48** — In the Clementine Vulgate, verses 47 and 48 are transposed relative to the Hebrew, so "And it is bounded by that very border" continues v. 46 (differing from Hebrew "the territory of the sons of Dan went out beyond them"). Vulgate also forms the compound name "Leshem Dan" where the Hebrew says they called Leshem "Dan."
+- **19:47** — In the Clementine Vulgate, verses 47 and 48 are transposed relative to the Hebrew, so "And it is bounded by that very border" continues v. 46 (differing from Hebrew "the territory of the sons of Dan went out beyond them"). Vulgate also forms the compound name "Leshem Dan" where the Hebrew says they called Leshem "Dan."
 - **19:51** — Vulgate renders Hebrew "tent of meeting" as "tabernacle of the testimony" ("tabernaculi testimonii"), and omits "finished" before "apportioned the land."

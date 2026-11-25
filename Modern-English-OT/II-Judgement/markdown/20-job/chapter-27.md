@@ -54,7 +54,7 @@
 ## Translator Notes
 
 - **27:8** — Vulgate-distinct reading: Latin translates Hebrew chaneph ("godless") as hypocritae ("hypocrite") and frames the clause around greedily seizing (si avare rapiat) while God does not deliver his soul.
-- **27:13** — The source text prints ob Omnipotente, an apparent typographical variant for the standard Clementine Vulgate ab Omnipotente ("from the Almighty"), confirmed by the ablative case of Omnipotente.
+- **27:13** — The Sixto-Clementine Vulgate witnesses unanimously print 'ob Omnipotente' (a historic orthographic/prepositional variant for classical 'ab Omnipotente', "from the Almighty", confirmed by the ablative case of 'Omnipotente').
 - **27:19** — Vulgate-distinct reading: Latin interprets the rich man's lying down as death leaving him empty-handed (cum dormierit, nihil secum auferet, "when he sleeps, will carry nothing away with him") and reads nihil inveniet ("will find nothing").
 - **27:20** — Vulgate-distinct lexical choice: Latin reads inopia ("poverty") where the Hebrew reads "terrors."
 - **27:22** — The third-person singular subject of vv. 22-23 is unexpressed in Latin, grammatically continuing the personified scorching wind/whirlwind of v. 21 (though interpreters have also understood God in v. 22 or a mocking bystander in v. 23); fugiens fugiet ("fleeing, he will flee") preserves the emphatic Latin Hebraism, and in v. 23 intuens locum ejus ("gazing upon his place") is a Vulgate-distinct reading.

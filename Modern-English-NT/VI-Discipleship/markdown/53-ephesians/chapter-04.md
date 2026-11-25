@@ -1,6 +1,6 @@
 # Ephesians 4 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ephesians`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -75,4 +75,5 @@
 - **4:14** — The Vulgate renders the Greek term for "trickery" or "dice-playing" more broadly as "wickedness" (nequitia).
 - **4:15** — Where the Greek reads "speaking/maintaining the truth" (aletheuontes), the Vulgate literally has "doing the truth" (veritatem facientes).
 - **4:19** — The Vulgate renders Greek "having become callous" as "despairing" (desperantes, reflecting a reading meaning "having lost hope"); similarly, in 4:18 it translates Greek "hardness" as "blindness" (caecitatem).
+- **4:23** — Latin bare ablative 'spiritu mentis vestræ' ("in the spirit of your mind") has no preposition and can be understood either locatively of the renewed human inner spirit ("in the spirit of your mind") or instrumentally of the divine Spirit ("by the Spirit of your mind").
 - **4:29** — The Vulgate reads "for the building up of faith" (ad aedificationem fidei), following an ancient textual variant where the critical Greek text reads "of the need" (as fits the occasion).

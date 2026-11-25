@@ -1,8 +1,8 @@
 # 2 Samuel (2 Kingdoms) 18 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:27Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,19 +28,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
-- Clem1598-USFX: verse 33 left out as a versification/conversion duplicate (Clem-Saints prints these words at 19:1)
+- Clem-Saints: verse 19:1 moved to 18:33 across chapter break before re-division
 
 ---
 
@@ -78,6 +69,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **30** Ad quem rex: Transi, ait, et sta hic. Cumque ille transisset, et staret,
 **31** apparuit Chusi: et veniens ait: Bonum apporto nuntium, domine mi rex: judicavit enim pro te Dominus hodie de manu omnium qui surrexerunt contra te.
 **32** Dixit autem rex ad Chusi: Estne pax puero Absalom? Cui respondens Chusi: Fiant, inquit, sicut puer, inimici domini mei regis, et universi qui consurgunt adversus eum in malum.
+**33** Contristatus itaque rex, ascendit cœnaculum portæ, et flevit. Et sic loquebatur, vadens: Fili mi Absalom, Absalom fili mi: quis mihi tribuat ut ego moriar pro te, Absalom fili mi, fili mi Absalom?
 
 ---
 
@@ -102,7 +94,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `nuntia / nuncia`, `nuntia / nuncia`, `nuntia / nuncia` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### 2 Samuel (2 Kingdoms) 18:22
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Veni huc!** VulgSistina (1590)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Veni huc!** VulgSistina (1590)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `impedit / inpedit`, `nuntii / nuncii`, `nuntii / nuncii`, `nuntii / nuncii` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### 2 Samuel (2 Kingdoms) 18:25
@@ -134,7 +126,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Igitur considerato David populo suo constituit super eos tribunos et centuriones,
   - `VulgConte (2009)`: Igitur considerato David populo suo constituit super eos tribunos et centuriones,
   - `VulgSistina (1590)`: Igitur considerato David populo suo constituit super eos tribunos et centuriones,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et dedit populi tertiam partem sub manu Joab, et tertiam partem sub manu Abisai filii Sarviæ fratris Joab, et tertiam partem sub manu Ethai, qui erat de Geth. Dixitque rex ad populum: Egrediar et ego vobiscum.
@@ -143,7 +135,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et dedit populi tertiam partem sub manu Ioab, et tertiam partem sub manu Abisai filii Sarviæ fratris Ioab, et tertiam partem sub manu Ethai, qui erat de Geth, dixitque rex ad populum: Egrediar et ego vobiscum.
   - `VulgConte (2009)`: et dedit populi tertiam partem sub manu Ioab, et tertiam partem sub manu Abisai filii Sarviæ fratris Ioab, et tertiam partem sub manu Ethai, qui erat de Geth. Dixitque rex ad populum: Egrediar et ego vobiscum.
   - `VulgSistina (1590)`: et dedit populi tertiam partem sub manu Ioab, et tertiam partem sub manu Abisai filii Sarviae fratris Ioab, et tertiam partem sub manu Ethai, qui erat de Geth, dixitque rex ad populum: Egrediar et ego vobiscum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et respondit populus: Non exibis: sive enim fugerimus, non magnopere ad eos de nobis pertinebit: sive media pars ceciderit e nobis, non satis curabunt, quia tu unus pro decem millibus computaris: melius est igitur ut sis nobis in urbe præsidio.
@@ -152,7 +144,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et respondit populus: Non exibis: sive enim fugerimus, non magnopere ad eos de nobis pertinebit: sive media pars ceciderit e nobis, non satis curabunt: quia tu unus pro decem millibus computaris: melius est igitur ut sis nobis in urbe præsidio.
   - `VulgConte (2009)`: Et respondit populus: Non exibis: sive enim fugerimus, non magnopere ad eos de nobis pertinebit: sive media pars ceciderit e nobis, non satis curabunt: quia tu unus pro decem millibus computaris: melius est igitur ut sis nobis in urbe præsidio.
   - `VulgSistina (1590)`: Et respondit populus: Non exibis: sive enim fugerimus, non magnopere ad eos de nobis pertinebit: sive media pars ceciderit e nobis, non satis curabunt: quia tu unus pro decem millibus computaris: melius est igitur ut sis nobis in urbe praesidio.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ad quos rex ait: Quod vobis videtur rectum, hoc faciam. Stetit ergo rex juxta portam: egrediebaturque populus per turmas suas centeni et milleni.
@@ -161,7 +153,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ad quos rex ait: Quod vobis videtur rectum, hoc faciam. Stetit ergo rex iuxta portam: egrediebaturque populus per turmas suas centeni, et milleni.
   - `VulgConte (2009)`: Ad quos rex ait: Quod vobis videtur rectum, hoc faciam. Stetit ergo rex iuxta portam: egrediebaturque populus per turmas suas centeni, et milleni.
   - `VulgSistina (1590)`: Ad quos rex ait: Quod vobis videtur rectum, hoc faciam. Stetit ergo rex iuxta portam: egrediebaturque populus per turmas suas centeni, et milleni.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et præcepit rex Joab, et Abisai, et Ethai, dicens: Servate mihi puerum Absalom. Et omnis populus audiebat præcipientem regem cunctis principibus pro Absalom.
@@ -170,7 +162,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et præcepit rex Ioab, et Abisai, et Ethai, dicens: Servate mihi puerum Absalom. Et omnis populus audiebat præcipientem regem cunctis principibus pro Absalom.
   - `VulgConte (2009)`: Et præcepit rex Ioab, et Abisai, et Ethai, dicens: Servate mihi puerum Absalom. Et omnis populus audiebat præcipientem regem cunctis principibus pro Absalom.
   - `VulgSistina (1590)`: Et praecepit rex Ioab, et Abisai, et Ethai, dicens: Servate mihi puerum Absalom. Et omnis populus audiebat praecipientem regem cunctis principibus pro Absalom.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Itaque egressus est populus in campum contra Israël, et factum est prælium in saltu Ephraim.
@@ -179,7 +171,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Itaque egressus est populus in campum contra Israel, et factum est prælium in saltu Ephraim.
   - `VulgConte (2009)`: Itaque egressus est populus in campum contra Israel, et factum est prælium in saltu Ephraim.
   - `VulgSistina (1590)`: Itaque egressus est populus in campum contra Israel, et factum est praelium in saltu Ephraim.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cæsus est ibi populus Israël ab exercitu David, factaque est plaga magna in die illa, viginti millium.
@@ -188,7 +180,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et cæsus est ibi populus Israel ab exercitu David, factaque est plaga magna in die illa, viginti millium.
   - `VulgConte (2009)`: Et cæsus est ibi populus Israel ab exercitu David, factaque est plaga magna in die illa, viginti millium.
   - `VulgSistina (1590)`: Et caesus est ibi populus Israel ab exercitu David, factaque est plaga magna in die illa, viginti millium.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Fuit autem ibi prælium dispersum super faciem omnis terræ, et multo plures erant quos saltus consumpserat de populo, quam hi quos voraverat gladius in die illa.
@@ -197,7 +189,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Fuit autem ibi prælium dispersum super faciem omnis terræ, et multo plures erant, quos saltus consumpserat de populo, quam hi, quos voraverat gladius in die illa.
   - `VulgConte (2009)`: Fuit autem ibi prælium dispersum super faciem omnis terræ, et multo plures erant, quos saltus consumpserat de populo, quam hi, quos voraverat gladius in die illa.
   - `VulgSistina (1590)`: Fuit autem ibi praelium dispersum super faciem omnis terrae, et multo plures erant, quos saltus consumpserat de populo, quam hi, quos voraverat gladius in die illa.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Accidit autem ut occurreret Absalom servis David, sedens mulo: cumque ingressus fuisset mulus subter condensam quercum et magnam, adhæsit caput ejus quercui: et illo suspenso inter cælum et terram, mulus cui insederat, pertransivit.
@@ -206,7 +198,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Accidit autem ut occurreret Absalom servis David, sedens mulo: cumque ingressus fuisset mulus subter condensam quercum et magnam, adhæsit caput eius quercui: et illo suspenso inter cælum et terram, mulus, cui insederat, pertransivit.
   - `VulgConte (2009)`: Accidit autem ut occurreret Absalom servis David, sedens mulo: cumque ingressus fuisset mulus subter condensam quercum et magnam, adhæsit caput eius quercui: et illo suspenso inter cælum et terram, mulus, cui insederat, pertransivit.
   - `VulgSistina (1590)`: Accidit autem ut occurreret Absalom servis David, sedens mulo: cumque ingressus fuisset mulus subter condensam quercum et magnam, adhaesit caput eius quercui: et illo suspenso inter caelum et terram, mulus, cui insederat, pertransivit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vidit autem hoc quispiam, et nuntiavit Joab, dicens: Vidi Absalom pendere de quercu.
@@ -215,7 +207,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vidit autem hoc quispiam, et nunciavit Ioab, dicens: Vidi Absalom pendere de quercu.
   - `VulgConte (2009)`: Vidit autem hoc quispiam, et nunciavit Ioab, dicens: Vidi Absalom pendere de quercu.
   - `VulgSistina (1590)`: Vidit autem hoc quispiam, et nunciavit Ioab, dicens: Vidi Absalom pendere de quercu.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ait Joab viro qui nuntiaverat ei: Si vidisti, quare non confodisti eum cum terra, et ego dedissem tibi decem argenti siclos, et unum balteum?
@@ -224,7 +216,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ait Ioab viro, qui nunciaverat ei: Si vidisti, quare non confodisti eum cum terra, et ego dedissem tibi decem argenti siclos, et unum balteum?
   - `VulgConte (2009)`: Et ait Ioab viro, qui nunciaverat ei: Si vidisti, quare non confodisti eum cum terra, et ego dedissem tibi decem argenti siclos, et unum balteum?
   - `VulgSistina (1590)`: Et ait Ioab viro, qui nunciaverat ei: Si vidisti, quare non confodisti eum cum terra, et ego dedissem tibi decem argenti siclos, et unum balteum?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui dixit ad Joab: Si appenderes in manibus meis mille argenteos, nequaquam mitterem manum meam in filium regis: audientibus enim nobis præcepit rex tibi, et Abisai, et Ethai, dicens: Custodite mihi puerum Absalom.
@@ -233,7 +225,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Qui dixit ad Ioab: Si appenderes in manibus meis mille argenteos, nequaquam mitterem manum meam in filium regis: audientibus enim nobis præcepit rex tibi, et Abisai, et Ethai, dicens: Custodite mihi puerum Absalom.
   - `VulgConte (2009)`: Qui dixit ad Ioab: Si appenderes in manibus meis mille argenteos, nequaquam mitterem manum meam in filium regis: audientibus enim nobis præcepit rex tibi, et Abisai, et Ethai, dicens: Custodite mihi puerum Absalom.
   - `VulgSistina (1590)`: Qui dixit ad Ioab: Si appenderes in manibus meis mille argenteos, nequaquam mitterem manum meam in filium regis: audientibus enim nobis praecepit rex tibi, et Abisai, et Ethai, dicens: Custodite mihi puerum Absalom.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sed etsi fecissem contra animam meam audacter, nequaquam hoc regem latere potuisset, et tu stares ex adverso?
@@ -242,7 +234,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sed et si fecissem contra animam meam audacter, nequaquam hoc regem latere potuisset, et tu stares ex adverso?
   - `VulgConte (2009)`: Sed et si fecissem contra animam meam audacter, nequaquam hoc regem latere potuisset, et tu stares ex adverso?
   - `VulgSistina (1590)`: Sed et si fecissem contra animam meam audacter, nequaquam hoc regem latere potuisset, et tu stares ex adverso?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ait Joab: Non sicut tu vis, sed aggrediar eum coram te. Tulit ergo tres lanceas in manu sua, et infixit eas in corde Absalom: cumque adhuc palpitaret hærens in quercu,
@@ -251,7 +243,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ait Ioab: Non sicut tu vis, sed aggrediar eum coram te. Tulit ergo tres lanceas in manu sua, et infixit eas in corde Absalom: cumque adhuc palpitaret hærens in quercu,
   - `VulgConte (2009)`: Et ait Ioab: Non sicut tu vis, sed aggrediar eum coram te. Tulit ergo tres lanceas in manu sua, et infixit eas in corde Absalom: cumque adhuc palpitaret hærens in quercu,
   - `VulgSistina (1590)`: Et ait Ioab: Non sicut tu vis, sed aggrediar eum coram te. Tulit ergo tres lanceas in manu sua, et infixit eas in corde Absalom: cumque adhuc palpitaret haerens in quercu,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** cucurrerunt decem juvenes armigeri Joab, et percutientes interfecerunt eum.
@@ -260,7 +252,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: cucurrerunt decem iuvenes armigeri Ioab, et percutientes interfecerunt eum.
   - `VulgConte (2009)`: cucurrerunt decem iuvenes armigeri Ioab, et percutientes interfecerunt eum.
   - `VulgSistina (1590)`: cucurrerunt decem iuvenes armigeri Ioab, et percutientes interfecerunt eum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cecinit autem Joab buccina, et retinuit populum, ne persequeretur fugientem Israël, volens parcere multitudini.
@@ -269,7 +261,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cecinit autem Ioab buccina, et retinuit populum, ne persequeretur fugientem Israel, volens parcere multitudini.
   - `VulgConte (2009)`: Cecinit autem Ioab buccina, et retinuit populum, ne persequeretur fugientem Israel, volens parcere multitudini.
   - `VulgSistina (1590)`: Cecinit autem Ioab buccina, et retinuit populum, ne persequeretur fugientem Israel, volens parcere multitudini.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et tulerunt Absalom, et projecerunt eum in saltu, in foveam grandem, et comportaverunt super eum acervum lapidum magnum nimis: omnis autem Israël fugit in tabernacula sua.
@@ -278,7 +270,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et tulerunt Absalom, et proiecerunt eum in saltu, in foveam grandem, et comportaverunt super eum acervum lapidum magnum nimis: omnis autem Israel fugit in tabernacula sua.
   - `VulgConte (2009)`: Et tulerunt Absalom, et proiecerunt eum in saltu, in foveam grandem, et comportaverunt super eum acervum lapidum magnum nimis: omnis autem Israel fugit in tabernacula sua.
   - `VulgSistina (1590)`: Et tulerunt Absalom, et proiecerunt eum in saltu, in foveam grandem, et comportaverunt super eum acervum lapidum magnum nimis: omnis autem Israel fugit in tabernacula sua.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Porro Absalom erexerat sibi, cum adhuc viveret, titulum qui est in Valle regis: dixerat enim: Non habeo filium, et hoc erit monimentum nominis mei. Vocavitque titulum nomine suo, et appellatur Manus Absalom, usque ad hanc diem.
@@ -287,7 +279,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Porro Absalom erexerat sibi, cum adhuc viveret, titulum qui est in Valle regis: dixerat enim: Non habeo filium, et hoc erit monimentum nominis mei. Vocavitque titulum nomine suo, et appellatur Manus Absalom, usque ad hanc diem.
   - `VulgConte (2009)`: Porro Absalom erexerat sibi, cum adhuc viveret, titulum qui est in Valle regis: dixerat enim: Non habeo filium, et hoc erit monimentum nominis mei. Vocavitque titulum nomine suo, et appellatur Manus Absalom, usque ad hanc diem.
   - `VulgSistina (1590)`: Porro Absalom erexerat sibi, cum adhuc viveret, titulum qui est in Valle regis: dixerat enim: Non habeo filium, et hoc erit monimentum nominis mei. Vocavitque titulum nomine suo, et appellatur Manus Absalom, usque ad hanc diem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Achimaas autem filius Sadoc, ait: Curram, et nuntiabo regi quia judicium fecerit ei Dominus de manu inimicorum ejus.
@@ -296,7 +288,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Achimaas autem filius Sadoc, ait: Curram, et nunciabo regi, quia iudicium fecerit ei Dominus de manu inimicorum eius.
   - `VulgConte (2009)`: Achimaas autem filius Sadoc, ait: Curram, et nunciabo regi, quia iudicium fecerit ei Dominus de manu inimicorum eius.
   - `VulgSistina (1590)`: Achimaas autem filius Sadoc, ait: Curram, et nunciabo regi, quia iudicium fecerit ei Dominus de manu inimicorum eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ad quem Joab dixit: Non eris nuntius in hac die, sed nuntiabis in alia: hodie nolo te nuntiare: filius enim regis est mortuus.
@@ -305,7 +297,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ad quem Ioab dixit: Non eris nuncius in hac die, sed nunciabis in alia: hodie nolo te nunciare, filius enim regis est mortuus.
   - `VulgConte (2009)`: Ad quem Ioab dixit: Non eris nuncius in hac die, sed nunciabis in alia: hodie nolo te nunciare, filius enim regis est mortuus.
   - `VulgSistina (1590)`: Ad quem Ioab dixit: Non eris nuncius in hac die, sed nunciabis in alia: hodie nolo te nunciare, filius enim regis est mortuus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ait Joab Chusi: Vade, et nuntia regi quæ vidisti. Adoravit Chusi Joab, et cucurrit.
@@ -314,7 +306,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ait Ioab Chusi: Vade, et nuncia regi quæ vidisti. Adoravit Chusi Ioab, et cucurrit.
   - `VulgConte (2009)`: Et ait Ioab Chusi: Vade, et nuncia regi quæ vidisti. Adoravit Chusi Ioab, et cucurrit.
   - `VulgSistina (1590)`: Et ait Ioab Chusi: Vade, et nuncia regi quae vidisti. Adoravit Chusi Ioab, et cucurrit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Rursus autem Achimaas filius Sadoc dixit ad Joab: Quid impedit si etiam ego curram post Chusi? Dixitque ei Joab: Quid vis currere, fili mi? non eris boni nuntii bajulus.
@@ -323,7 +315,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Rursus autem Achimaas filius Sadoc dixit ad Ioab: Quid impedit si etiam ego curram post Chusi? Dixitque ei Ioab: Quid vis currere fili mi? non eris boni nuncii baiulus.
   - `VulgConte (2009)`: Rursus autem Achimaas filius Sadoc dixit ad Ioab: Quid impedit si etiam ego curram post Chusi? Dixitque ei Ioab: Quid vis currere fili mi? Non eris boni nuncii baiulus.
   - `VulgSistina (1590)`: Rursus autem Achimaas filius Sadoc dixit ad Ioab: Quid impedit si etiam ego curram post Chusi? Dixitque ei Ioab: Quid vis currere fili mi? Veni huc! non eris boni nuncii baiulus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui respondit: Quid enim si cucurrero? Et ait ei: Curre. Currens ergo Achimaas per viam compendii, transivit Chusi.
@@ -332,7 +324,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Qui respondit: Quid enim si cucurrero? Et ait ei: Curre. Currens ergo Achimaas per viam compendii, transivit Chusi.
   - `VulgConte (2009)`: Qui respondit: Quid enim si cucurrero? Et ait ei: Curre. Currens ergo Achimaas per viam compendii, transivit Chusi.
   - `VulgSistina (1590)`: Qui respondit: Quid enim si cucurrero? Et ait ei: Curre. Currens ergo Achimaas per viam compendii, transivit Chusi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** David autem sedebat inter duas portas: speculator vero, qui erat in fastigio portæ super murum, elevans oculos, vidit hominem currentem solum.
@@ -341,7 +333,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: David autem sedebat inter duas portas: speculator vero, qui erat in fastigio portæ super murum, elevans oculos, vidit hominem currentem solum.
   - `VulgConte (2009)`: David autem sedebat inter duas portas: speculator vero, qui erat in fastigio portæ super murum, elevans oculos, vidit hominem currentem solum.
   - `VulgSistina (1590)`: David autem sedebat inter duas portas: speculator vero, qui erat in fastigio portae super murum, elevans oculos, vidit hominem currentem solum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et exclamans indicavit regi: dixitque rex: Si solus est, bonus est nuntius in ore ejus. Properante autem illo, et accedente propius,
@@ -350,7 +342,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et exclamans indicavit regi: dixitque rex: Si solus est, bonus est nuncius in ore eius. Properante autem illo, et accedente propius,
   - `VulgConte (2009)`: Et exclamans indicavit regi: dixitque rex: Si solus est, bonus est nuncius in ore eius. Properante autem illo, et accedente propius,
   - `VulgSistina (1590)`: Et exclamans indicavit regi: dixitque rex: Si solus est, bonus est nuncius in ore eius. Properante autem illo, et accedente propius,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** vidit speculator hominem alterum currentem, et vociferans in culmine, ait: Apparet mihi alter homo currens solus. Dixitque rex: Et iste bonus est nuntius.
@@ -359,7 +351,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: vidit speculator hominem alterum currentem, et vociferans in culmine, ait: Apparet mihi alter homo currens solus. Dixitque rex: Et iste bonus est nuncius.
   - `VulgConte (2009)`: vidit speculator hominem alterum currentem, et vociferans in culmine, ait: Apparet mihi alter homo currens solus. Dixitque rex: Et iste bonus est nuncius.
   - `VulgSistina (1590)`: vidit speculator hominem alterum currentem, et vociferans in culmine, ait: Apparet mihi alter homo currens solus. Dixitque rex: Et iste bonus est nuncius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Speculator autem: Contemplor, ait, cursum prioris, quasi cursum Achimaas filii Sadoc. Et ait rex: Vir bonus est, et nuntium portans bonum venit.
@@ -368,7 +360,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Speculator autem: Contemplor, ait, cursum prioris, quasi cursum Achimaas filii Sadoc. Et ait rex: Vir bonus est: et nuncium portans bonum, venit.
   - `VulgConte (2009)`: Speculator autem: Contemplor, ait, cursum prioris, quasi cursum Achimaas filii Sadoc. Et ait rex: Vir bonus est: et nuncium portans bonum, venit.
   - `VulgSistina (1590)`: Speculator autem: Contemplor, ait, cursum prioris, quasi cursum Achimaas filii Sadoc. Et ait rex: Vir bonus est: et nuncium portans bonum, venit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Clamans autem Achimaas, dixit ad regem: Salve rex. Et adorans regem coram eo pronus in terram, ait: Benedictus Dominus Deus tuus, qui conclusit homines qui levaverunt manus suas contra dominum meum regem.
@@ -377,7 +369,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Clamans autem Achimaas, dixit ad regem: Salve rex. Et adorans regem coram eo pronus in terram, ait: Benedictus Dominus Deus tuus, qui conclusit homines qui levaverunt manus suas contra dominum meum regem.
   - `VulgConte (2009)`: Clamans autem Achimaas, dixit ad regem: Salve rex. Et adorans regem coram eo pronus in terram, ait: Benedictus Dominus Deus tuus, qui conclusit homines qui levaverunt manus suas contra dominum meum regem.
   - `VulgSistina (1590)`: Clamans autem Achimaas, dixit ad regem: Salve rex. Et adorans regem coram eo pronus in terram, ait: Benedictus Dominus Deus tuus, qui conclusit homines qui levaverunt manus suas contra dominum meum regem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ait rex: Estne pax puero Absalom? Dixitque Achimaas: Vidi tumultum magnum cum mitteret Joab servus tuus, o rex, me servum tuum: nescio aliud.
@@ -386,7 +378,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ait rex: Estne pax puero Absalom? Dixitque Achimaas: Vidi tumultum magnum, cum mitteret Ioab servus tuus, o rex, me servum tuum: nescio aliud.
   - `VulgConte (2009)`: Et ait rex: Est ne pax puero Absalom? Dixitque Achimaas: Vidi tumultum magnum, cum mitteret Ioab servus tuus, o rex, me servum tuum: nescio aliud.
   - `VulgSistina (1590)`: Et ait rex: Estne pax puero Absalom? Dixitque Achimaas: Vidi tumultum magnum, cum mitteret Ioab servus tuus, o rex, me servum tuum: nescio aliud.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ad quem rex: Transi, ait, et sta hic. Cumque ille transisset, et staret,
@@ -395,7 +387,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ad quem rex: Transi, ait, et sta hic. Cumque ille transisset, et staret,
   - `VulgConte (2009)`: Ad quem rex: Transi, ait, et sta hic. Cumque ille transisset, et staret,
   - `VulgSistina (1590)`: Ad quem rex: Transi, ait, et sta hic. Cumque ille transisset, et staret,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** apparuit Chusi: et veniens ait: Bonum apporto nuntium, domine mi rex: judicavit enim pro te Dominus hodie de manu omnium qui surrexerunt contra te.
@@ -404,7 +396,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: apparuit Chusi: et veniens ait: Bonum apporto nuncium, domine mi rex: iudicavit enim pro te Dominus hodie de manu omnium qui surrexerunt contra te.
   - `VulgConte (2009)`: apparuit Chusi: et veniens ait: Bonum apporto nuncium, domine mi rex: iudicavit enim pro te Dominus hodie de manu omnium qui surrexerunt contra te.
   - `VulgSistina (1590)`: apparuit Chusi: et veniens ait: Bonum apporto nuncium, domine mi rex: iudicavit enim pro te Dominus hodie de manu omnium qui surrexerunt contra te.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixit autem rex ad Chusi: Estne pax puero Absalom? Cui respondens Chusi: Fiant, inquit, sicut puer, inimici domini mei regis, et universi qui consurgunt adversus eum in malum.
@@ -413,4 +405,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixit autem rex ad Chusi: Estne pax puero Absalom? Cui respondens Chusi, Fiant, inquit, sicut puer, inimici domini mei regis, et universi qui consurgunt adversus eum in malum.
   - `VulgConte (2009)`: Dixit autem rex ad Chusi: Est ne pax puero Absalom? Cui respondens Chusi, Fiant, inquit, sicut puer, inimici domini mei regis, et universi qui consurgunt adversus eum in malum.
   - `VulgSistina (1590)`: Dixit autem rex ad Chusi: Estne pax puero Absalom? Cui respondens Chusi, Fiant, inquit, sicut puer, inimici domini mei regis, et universi qui consurgunt adversus eum in malum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
+
+### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Contristatus itaque rex, ascendit cœnaculum portæ, et flevit. Et sic loquebatur, vadens: Fili mi Absalom, Absalom fili mi: quis mihi tribuat ut ego moriar pro te, Absalom fili mi, fili mi Absalom?
+  - `Clem1598-USFX`: Contristatus itaque rex, ascendit cœnaculum portæ, et flevit. Et sic loquebatur, vadens: Fili mi Absalom, Absalom fili mi: quis mihi tribuat ut ego moriar pro te, Absalom fili mi, fili mi Absalom?
+  - `Clem-Saints`: Contristatus itaque rex, ascendit cœnaculum portæ, et flevit. Et sic loquebatur, vadens: Fili mi Absalom, Absalom fili mi: quis mihi tribuat ut ego moriar pro te, Absalom fili mi, fili mi Absalom?
+  - `VulgHetzenauer (1906)`: Contristatus itaque rex, ascendit cœnaculum portæ, et flevit. Et sic loquebatur, vadens: Fili mi Absalom, Absalom fili mi: quis mihi tribuat ut ego moriar pro te, Absalom fili mi, fili mi Absalom?
+  - `VulgConte (2009)`: Contristatus itaque rex, ascendit cœnaculum portæ, et flevit. Et sic loquebatur, vadens: Fili mi Absalom, Absalom fili mi: quis mihi tribuat ut ego moriar pro te, Absalom fili mi, fili mi Absalom?
+  - `VulgSistina (1590)`: Contristatus itaque rex, ascendit coenaculum portae, et flevit. Et sic loquebatur, vadens: Fili mi Absalom, Absalom fili mi: quis mihi tribuat ut ego moriar pro te, Absalom fili mi, fili mi Absalom?
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

@@ -1,6 +1,6 @@
 # Acts 24 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (27 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -16,6 +16,8 @@
 **24:5** We have found this man to be pestilent, stirring up seditions among all the Jews throughout the whole world, and an instigator of the sedition of the sect of the Nazarenes,
 
 **24:6** who even tried to violate the temple; and having seized him, we wanted to judge him according to our law,
+
+**24:7** but the tribune Lysias came upon the scene and with great force snatched him from our hands,
 
 **24:8** ordering his accusers to come to you; from whom you yourself, in judging, will be able to learn about all these things of which we accuse him."
 
@@ -57,14 +59,10 @@
 
 **24:27** Now when two years were completed, Felix received Porcius Festus as his successor. And wanting to grant a favor to the Jews, Felix left Paul a prisoner.
 
-## Additional Verses (Not in Saints Numbering)
-
-**24:7** *(after `24:6`)* but the tribune Lysias came upon the scene and with great force snatched him from our hands,
-
 ## Translator Notes
 
 - **24:5** — The Clementine Vulgate distinctively adds "of the sedition" (auctorem seditionis) before "of the sect of the Nazarenes," intensifying Tertullus's accusation of insurrection.
-- **24:8** — Verse 7 (which in the longer tradition recounts the tribune Lysias taking Paul away by force) is absent from the main Latin text here, leaving the participle "ordering" (jubens) at the start of verse 8 syntactically attached to verse 6.
+- **24:8** — Native Clementine Vulgate includes Acts 24:7 (and the opening clause of 24:8, "ordering his accusers to come to you"), which are omitted from most modern critical Greek editions.
 - **24:14** — Where the Greek reads "according to the Way which they call a sect" and "the ancestral God," the Clementine Vulgate distinctively reads "according to the sect that they call a heresy" (secundum sectam quam dicunt hæresim) and "the Father and my God" (Patri et Deo meo).
 - **24:17** — The Clementine Vulgate adds "and vows" (et vota) alongside alms and offerings, a phrase absent from standard Greek texts.
 - **24:25** — The Vulgate renders the Greek term for self-control specifically as castitate ("chastity").

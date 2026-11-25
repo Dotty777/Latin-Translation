@@ -1,8 +1,8 @@
 # Leviticus 13 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:40Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -111,7 +102,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `si quidem / siquidem`, `si quidem / siquidem`, `si quidem / siquidem` (VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Leviticus 13:12
-- **Apparatus:** `cutem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **carnem** VulgSistina (1590)
+- **Apparatus:** `cutem` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **carnem** VulgSistina (1590)
 
 ### Leviticus 13:19
 - *Disregarded Surface Variant:* kept `(adopted text)` over `ulceris / hulceris` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -123,7 +114,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `ulceris / hulceris` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Leviticus 13:36
-- **Apparatus:** `immutatus,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **commutatus** VulgSistina (1590)
+- **Apparatus:** `immutatus,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **commutatus** VulgSistina (1590)
 
 ### Leviticus 13:37
 - *Disregarded Surface Variant:* kept `(adopted text)` over `pronuntiet / pronunciet`, `pronuntiet / pronunciet`, `pronuntiet / pronunciet` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -139,7 +130,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Locutusque est Dominus ad Moysen, et Aaron, dicens:
   - `VulgConte (2009)`: Locutusque est Dominus ad Moysen, et Aaron, dicens:
   - `VulgSistina (1590)`: Locutusque est Dominus ad Moysen, et Aaron, dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Homo, in cujus cute et carne ortus fuerit diversus color, sive pustula, aut quasi lucens quippiam, id est, plaga lepræ, adducetur ad Aaron sacerdotem, vel ad unum quemlibet filiorum ejus.
@@ -148,7 +139,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Homo, in cuius cute et carne ortus fuerit diversus color sive pustula, aut quasi lucens quippiam, id est plaga lepræ, adducetur ad Aaron sacerdotem, vel ad unum quemlibet filiorum eius.
   - `VulgConte (2009)`: Homo, in cuius cute et carne ortus fuerit diversus color sive pustula, aut quasi lucens quippiam, id est plaga lepræ, adducetur ad Aaron sacerdotem, vel ad unum quemlibet filiorum eius.
   - `VulgSistina (1590)`: Homo, in cuius cute et carne ortus fuerit diversus color sive pustula, aut quasi lucens quippiam, id est plaga leprae, adducetur ad Aaron sacerdotem, vel ad unum quemlibet filiorum eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui cum viderit lepram in cute, et pilos in album mutatos colorem, ipsamque speciem lepræ humiliorem cute et carne reliqua: plaga lepræ est, et ad arbitrium ejus separabitur.
@@ -157,7 +148,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Qui cum viderit lepram in cute, et pilos in album mutatos colorem. ipsamque speciem lepræ humiliorem cute et carne reliqua; plaga lepræ est, et ad arbitrium eius separabitur.
   - `VulgConte (2009)`: Qui cum viderit lepram in cute, et pilos in album mutatos colorem, ipsamque speciem lepræ humiliorem cute et carne reliqua; plaga lepræ est, et ad arbitrium eius separabitur.
   - `VulgSistina (1590)`: Qui cum viderit lepram in cute, et pilos in album mutatos colorem. ipsamque speciem leprae humiliorem cute et carne reliqua; plaga leprae est, et ad arbitrium eius separabitur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sin autem lucens candor fuerit in cute, nec humilior carne reliqua, et pili coloris pristini, recludet eum sacerdos septem diebus:
@@ -166,7 +157,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sin autem lucens candor fuerit in cute, nec humilior carne reliqua, et pili coloris pristini, recludet eum sacerdos septem diebus,
   - `VulgConte (2009)`: Sin autem lucens candor fuerit in cute, nec humilior carne reliqua, et pili coloris pristini, recludet eum sacerdos septem diebus,
   - `VulgSistina (1590)`: Sin autem lucens candor fuerit in cute, nec humilior carne reliqua, et pili coloris pristini, recludet eum sacerdos septem diebus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et considerabit die septimo: et si quidem lepra ultra non creverit, nec transierit in cute priores terminos, rursum recludet eum septem diebus aliis.
@@ -175,7 +166,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et considerabit die septimo: et siquidem lepra ultra non creverit, nec transierit in cute priores terminos, rursum recludet eum septem diebus aliis.
   - `VulgConte (2009)`: et considerabit die septimo: et si quidem lepra ultra non creverit, nec transierit in cute priores terminos, rursum recludet eum septem diebus aliis.
   - `VulgSistina (1590)`: et considerabit die septimo: et siquidem lepra ultra non creverit, nec transierit in cute priores terminos, rursum recludet eum septem diebus aliis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et die septimo contemplabitur: si obscurior fuerit lepra, et non creverit in cute, mundabit eum, quia scabies est: lavabitque homo vestimenta sua, et mundus erit.
@@ -184,7 +175,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et die septimo contemplabitur: si obscurior fuerit lepra, et non creverit in cute, mundabit eum, quia scabies est: lavabitque homo vestimenta sua, et mundus erit.
   - `VulgConte (2009)`: Et die septimo contemplabitur: si obscurior fuerit lepra, et non creverit in cute, mundabit eum, quia scabies est: lavabitque homo vestimenta sua, et mundus erit.
   - `VulgSistina (1590)`: Et die septimo contemplabitur: si obscurior fuerit lepra, et non creverit in cute, mundabit eum, quia scabies est: lavabitque homo vestimenta sua, et mundus erit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quod si postquam a sacerdote visus est, et redditus munditiæ, iterum lepra creverit: adducetur ad eum,
@@ -193,7 +184,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quod si postquam a sacerdote visus est, et redditus munditiæ, iterum lepra creverit; adducetur ad eum,
   - `VulgConte (2009)`: Quod si postquam a sacerdote visus est, et redditus munditiæ, iterum lepra creverit; adducetur ad eum,
   - `VulgSistina (1590)`: Quod si postquam a sacerdote visus est, et redditus munditiae, iterum lepra creverit; adducetur ad eum,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et immunditiæ condemnabitur.
@@ -202,7 +193,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et immunditiæ condemnabitur.
   - `VulgConte (2009)`: et immunditiæ condemnabitur.
   - `VulgSistina (1590)`: et immunditiae condemnabitur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Plaga lepræ si fuerit in homine, adducetur ad sacerdotem,
@@ -211,7 +202,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Plaga lepræ si fuerit in homine, adducetur ad sacerdotem,
   - `VulgConte (2009)`: Plaga lepræ si fuerit in homine, adducetur ad sacerdotem,
   - `VulgSistina (1590)`: Plaga leprae si fuerit in homine, adducetur ad sacerdotem,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et videbit eum. Cumque color albus in cute fuerit, et capillorum mutaverit aspectum, ipsa quoque caro viva apparuerit:
@@ -220,7 +211,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et videbit eum. Cumque color albus in cute fuerit, et capillorum mutaverit aspectum, ipsa quoque caro viva apparuerit:
   - `VulgConte (2009)`: et videbit eum. Cumque color albus in cute fuerit, et capillorum mutaverit aspectum, ipsa quoque caro viva apparuerit:
   - `VulgSistina (1590)`: et videbit eum. Cumque color albus in cute fuerit, et capillorum mutaverit aspectum, ipsa quoque caro viva apparuerit:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** lepra vetustissima judicabitur, atque inolita cuti. Contaminabit itaque eum sacerdos, et non recludet, quia perspicuæ immunditiæ est.
@@ -229,7 +220,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: lepra vetustissima iudicabitur, atque inolita cuti. Contaminabit itaque eum sacerdos, et non recludet, quia perspicuæ immunditiæ est.
   - `VulgConte (2009)`: lepra vetustissima iudicabitur, atque inolita cuti. Contaminabit itaque eum sacerdos, et non recludet, quia perspicuæ immunditiæ est.
   - `VulgSistina (1590)`: lepra vetustissima iudicabitur, atque inolita cuti. Contaminabit itaque eum sacerdos, et non recludet, quia perspicuae immunditiae est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sin autem effloruerit discurrens lepra in cute, et operuerit omnem cutem a capite usque ad pedes, quidquid sub aspectum oculorum cadit,
@@ -238,7 +229,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sin autem effloruerit discurrens lepra in cute, et operuerit omnem cutem a capite usque ad pedes, quidquid sub aspectum oculorum cadit,
   - `VulgConte (2009)`: Sin autem effloruerit discurrens lepra in cute, et operuerit omnem cutem a capite usque ad pedes, quidquid sub aspectum oculorum cadit,
   - `VulgSistina (1590)`: Sin autem effloruerit discurrens lepra in cute, et operuerit omnem carnem a capite usque ad pedes, quidquid sub aspectum oculorum cadit,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** considerabit eum sacerdos, et teneri lepra mundissima judicabit: eo quod omnis in candorem versa sit, et idcirco homo mundus erit.
@@ -247,7 +238,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: considerabit eum sacerdos, et teneri lepra mundissima iudicabit: eo quod omnis in candorem versa sit, et idcirco homo mundus erit.
   - `VulgConte (2009)`: considerabit eum sacerdos, et teneri lepra mundissima iudicabit: eo quod omnis in candorem versa sit, et idcirco homo mundus erit.
   - `VulgSistina (1590)`: considerabit eum sacerdos, et teneri lepra mundissima iudicabit: eo quod omnis in candorem versa sit, et idcirco homo mundus erit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quando vero caro vivens in eo apparuerit,
@@ -256,7 +247,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quando vero caro vivens in eo apparuerit,
   - `VulgConte (2009)`: Quando vero caro vivens in eo apparuerit,
   - `VulgSistina (1590)`: Quando vero caro vivens in eo apparuerit,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** tunc sacerdotis judicio polluetur, et inter immundos reputabitur: caro enim viva, si lepra aspergitur, immunda est.
@@ -265,7 +256,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: tunc sacerdotis iudicio polluetur, et inter immundos reputabitur. caro enim viva si lepra aspergitur, immunda est.
   - `VulgConte (2009)`: tunc sacerdotis iudicio polluetur, et inter immundos reputabitur. Caro enim viva si lepra aspergitur, immunda est.
   - `VulgSistina (1590)`: tunc sacerdotis iudicio polluetur, et inter immundos reputabitur. caro enim viva si lepra aspergitur, immunda est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quod si rursum versa fuerit in alborem, et totum hominem operuerit,
@@ -274,7 +265,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quod si rursum versa fuerit in alborem, et totum hominem operuerit,
   - `VulgConte (2009)`: Quod si rursum versa fuerit in alborem, et totum hominem operuerit,
   - `VulgSistina (1590)`: Quod si rursum versa fuerit in alborem, et totum hominem operuerit,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** considerabit eum sacerdos, et mundum esse decernet.
@@ -283,7 +274,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: considerabit eum sacerdos, et mundum esse decernet.
   - `VulgConte (2009)`: considerabit eum sacerdos, et mundum esse decernet.
   - `VulgSistina (1590)`: considerabit eum sacerdos, et mundum esse decernet.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Caro autem et cutis in qua ulcus natum est, et sanatum,
@@ -292,7 +283,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Caro autem et cutis in qua ulcus natum est et sanatum,
   - `VulgConte (2009)`: Caro autem et cutis in qua ulcus natum est et sanatum,
   - `VulgSistina (1590)`: Caro autem et cutis in qua ulcus natum est et sanatum,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et in loco ulceris cicatrix alba apparuerit, sive subrufa, adducetur homo ad sacerdotem.
@@ -301,7 +292,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et in loco ulceris cicatrix alba apparuerit, sive subrufa, adducetur homo ad sacerdotem:
   - `VulgConte (2009)`: et in loco ulceris cicatrix alba apparuerit, sive subrufa, adducetur homo ad sacerdotem:
   - `VulgSistina (1590)`: et in loco hulceris cicatrix alba apparuerit, sive subrufa, adducetur homo ad sacerdotem:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui cum viderit locum lepræ humiliorem carne reliqua, et pilos versos in candorem, contaminabit eum: plaga enim lepræ orta est in ulcere.
@@ -310,7 +301,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: qui cum viderit locum lepræ humiliorem carne reliqua, et pilos versos in candorem, contaminabit eum: plaga enim lepræ orta est in ulcere.
   - `VulgConte (2009)`: qui cum viderit locum lepræ humiliorem carne reliqua, et pilos versos in candorem, contaminabit eum: plaga enim lepræ orta est in ulcere.
   - `VulgSistina (1590)`: qui cum viderit locum leprae humiliorem carne reliqua, et pilos versos in candorem, contaminabit eum: plaga enim leprae orta est in hulcere.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quod si pilus coloris est pristini, et cicatrix subobscura, et vicina carne non est humilior, recludet eum septem diebus:
@@ -319,7 +310,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quod si pilus coloris est pristini, et cicatrix subobscura, et vicina carne non est humilior, recludet eum septem diebus.
   - `VulgConte (2009)`: Quod si pilus coloris est pristini, et cicatrix subobscura, et vicina carne non est humilior, recludet eum septem diebus.
   - `VulgSistina (1590)`: Quod si pilus coloris est pristini, et cicatrix subobscura, et vicina carne non est humilior, recludet eum septem diebus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et si quidem creverit, adjudicabit eum lepræ;
@@ -328,7 +319,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et si quidem creverit, adiudicabit eum lepræ.
   - `VulgConte (2009)`: Et si quidem creverit, adiudicabit eum lepræ.
   - `VulgSistina (1590)`: et si quidem creverit, adiudicabit eum leprae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** sin autem steterit in loco suo, ulceris est cicatrix, et homo mundus erit.
@@ -337,7 +328,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: sin autem steterit in loco suo, ulceris est cicatrix, et homo mundus erit.
   - `VulgConte (2009)`: Sin autem steterit in loco suo, ulceris est cicatrix, et homo mundus erit.
   - `VulgSistina (1590)`: sin autem steterit in loco suo, hulceris est cicatrix, et homo mundus erit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Caro autem et cutis, quam ignis exusserit, et sanata albam sive rufam habuerit cicatricem,
@@ -346,7 +337,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Caro autem et cutis, quam ignis exusserit, et sanata albam sive rufam habuerit cicatricem,
   - `VulgConte (2009)`: Caro autem et cutis, quam ignis exusserit, et sanata albam sive rufam habuerit cicatricem,
   - `VulgSistina (1590)`: Caro autem et cutis, quam ignis exusserit, et sanata albam sive rufam habuerit cicatricem,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** considerabit eam sacerdos: et ecce versa est in alborem, et locus ejus reliqua cute est humilior, contaminabit eum, quia plaga lepræ in cicatrice orta est.
@@ -355,7 +346,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: considerabit eam sacerdos, et ecce versa est in alborem, et locus eius reliqua cute est humilior: contaminabit eum, quia plaga lepræ in cicatrice orta est.
   - `VulgConte (2009)`: considerabit eam sacerdos, et ecce versa est in alborem, et locus eius reliqua cute est humilior: contaminabit eum, quia plaga lepræ in cicatrice orta est.
   - `VulgSistina (1590)`: considerabit eam sacerdos, et ecce versa est in alborem, et locus eius reliqua cute est humilior: contaminabit eum, quia plaga leprae in cicatrice orta est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quod si pilorum color non fuerit immutatus, nec humilior plaga carne reliqua, et ipsa lepræ species fuerit subobscura, recludet eum septem diebus,
@@ -364,7 +355,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quod si pilorum color non fuerit immutatus, nec humilior plaga carne reliqua, et ipsa lepræ species fuerit subobscura, recludet eum septem diebus,
   - `VulgConte (2009)`: Quod si pilorum color non fuerit immutatus, nec humilior plaga carne reliqua, et ipsa lepræ species fuerit subobscura, recludet eum septem diebus,
   - `VulgSistina (1590)`: Quod si pilorum color non fuerit immutatus, nec humilior plaga carne reliqua, et ipsa leprae species fuerit subobscura, recludet eum septem diebus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et die septimo contemplabitur: si creverit in cute lepra, contaminabit eum.
@@ -373,7 +364,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et die septimo contemplabitur: si creverit in cute lepra, contaminabit eum.
   - `VulgConte (2009)`: et die septimo contemplabitur: si creverit in cute lepra, contaminabit eum.
   - `VulgSistina (1590)`: et die septimo contemplabitur: si creverit in cute lepra, contaminabit eum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sin autem in loco suo candor steterit non satis clarus, plaga combustionis est, et idcirco mundabitur, quia cicatrix est combusturæ.
@@ -382,7 +373,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: sin autem in loco suo candor steterit non satis clarus, plaga combustionis est, et idcirco mundabitur, quia cicatrix est combusturæ.
   - `VulgConte (2009)`: Sin autem in loco suo candor steterit non satis clarus, plaga combustionis est, et idcirco mundabitur, quia cicatrix est combusturæ.
   - `VulgSistina (1590)`: sin autem in loco suo candor steterit non satis clarus, plaga combustionis est, et idcirco mundabitur, quia cicatrix est combusturae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vir, sive mulier, in cujus capite vel barba germinaverit lepra, videbit eos sacerdos.
@@ -391,7 +382,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vir, sive mulier, in cuius capite vel barba germinaverit lepra, videbit eos sacerdos.
   - `VulgConte (2009)`: Vir, sive mulier, in cuius capite vel barba germinaverit lepra, videbit eos sacerdos,
   - `VulgSistina (1590)`: Vir, sive mulier, in cuius capite vel barba germinaverit lepra, videbit eos sacerdos.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et si quidem humilior fuerit locus carne reliqua, et capillus flavus, solitoque subtilior, contaminabit eos, quia lepra capitis ac barbæ est.
@@ -400,7 +391,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et si quidem humilior fuerit locus carne reliqua, et capillus flavus, solitoque subtilior; contaminabit eos, quia lepra capitis ac barbæ est.
   - `VulgConte (2009)`: et si quidem humilior fuerit locus carne reliqua, et capillus flavus, solitoque subtilior; contaminabit eos, quia lepra capitis ac barbæ est.
   - `VulgSistina (1590)`: et si quidem humilior fuerit locus carne reliqua, et capillus flavus, solitoque subtilior; contaminabit eos, quia lepra capitis ac barbae est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sin autem viderit locum maculæ æqualem vicinæ carni, et capillum nigrum: recludet eum septem diebus,
@@ -409,7 +400,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sin autem viderit locum maculæ æqualem vicinæ carni, et capillum nigrum: recludet eum septem diebus,
   - `VulgConte (2009)`: Sin autem viderit locum maculæ æqualem vicinæ carni, et capillum nigrum: recludet eum septem diebus,
   - `VulgSistina (1590)`: Sin autem viderit locum maculae aequalem vicinae carni, et capillum nigrum: recludet eum septem diebus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et die septimo intuebitur. Si non creverit macula, et capillus sui coloris est, et locus plagæ carni reliquæ æqualis:
@@ -418,7 +409,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et die septimo intuebitur. Si non creverit macula, et capillus sui coloris est, et locus plagæ carni reliquæ æqualis:
   - `VulgConte (2009)`: et die septimo intuebitur. Si non creverit macula, et capillus sui coloris est, et locus plagæ carni reliquæ æqualis:
   - `VulgSistina (1590)`: et die septimo intuebitur. Si non creverit macula, et capillus sui coloris est, et locus plagae carni reliquae aequalis:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** radetur homo absque loco maculæ, et includetur septem diebus aliis.
@@ -427,7 +418,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: radetur homo absque loco maculæ, et includetur septem diebus aliis.
   - `VulgConte (2009)`: radetur homo absque loco maculæ, et includetur septem diebus aliis.
   - `VulgSistina (1590)`: radetur homo absque loco maculae, et includetur septem diebus aliis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 34 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Si die septimo visa fuerit stetisse plaga in loco suo, nec humilior carne reliqua, mundabit eum: lotisque vestibus suis, mundus erit.
@@ -436,7 +427,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Si die septimo visa fuerit stetisse plaga in loco suo, nec humilior carne reliqua, mundabit eum, lotisque vestibus suis mundus erit.
   - `VulgConte (2009)`: Si die septimo visa fuerit stetisse plaga in loco suo, nec humilior carne reliqua, mundabit eum, lotisque vestibus suis mundus erit.
   - `VulgSistina (1590)`: Si die septimo visa fuerit stetisse plaga in loco suo, nec humilior carne reliqua, mundabit eum, lotisque vestibus suis mundus erit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 35 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sin autem post emundationem rursus creverit macula in cute,
@@ -445,7 +436,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sin autem post emundationem rursus creverit macula in cute,
   - `VulgConte (2009)`: Sin autem post emundationem rursus creverit macula in cute,
   - `VulgSistina (1590)`: Sin autem post emundationem rursus creverit macula in cute,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 36 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** non quæret amplius utrum capillus in flavum colorem sit immutatus, quia aperte immundus est.
@@ -454,7 +445,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: non quæret amplius utrum capillus in flavum colorem sit immutatus, quia aperte immundus est.
   - `VulgConte (2009)`: non quæret amplius utrum capillus in flavum colorem sit immutatus, quia aperte immundus est.
   - `VulgSistina (1590)`: non quaeret amplius utrum capillus in flavum colorem sit commutatus, quia aperte immundus est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 37 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Porro si steterit macula, et capilli nigri fuerint, noverit hominem sanatum esse, et confidenter eum pronuntiet mundum.
@@ -463,7 +454,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Porro si steterit macula, et capilli nigri fuerint, noverit hominem sanatum esse, et confidenter eum pronunciet mundum.
   - `VulgConte (2009)`: Porro si steterit macula, et capilli nigri fuerint, noverit hominem sanatum esse, et confidenter eum pronunciet mundum.
   - `VulgSistina (1590)`: Porro si steterit macula, et capilli nigri fuerint, noverit hominem sanatum esse, et confidenter eum pronunciet mundum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 38 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vir, sive mulier, in cujus cute candor apparuerit,
@@ -472,7 +463,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vir, sive mulier, in cuius cute candor apparuerit,
   - `VulgConte (2009)`: Vir, sive mulier, in cuius cute candor apparuerit,
   - `VulgSistina (1590)`: Vir, sive mulier, in cuius cute candor apparuerit,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 39 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** intuebitur eos sacerdos. Si deprehenderit subobscurum alborem lucere in cute, sciat non esse lepram, sed maculam coloris candidi, et hominem mundum.
@@ -481,7 +472,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: intuebitur eos sacerdos. si deprehenderit subobscurum alborem lucere in cute, sciat non esse lepram, sed maculam coloris candidi, et hominem mundum.
   - `VulgConte (2009)`: intuebitur eos sacerdos. Si deprehenderit subobscurum alborem lucere in cute, sciat non esse lepram, sed maculam coloris candidi, et hominem mundum.
   - `VulgSistina (1590)`: intuebitur eos sacerdos. si deprehenderit subobscurum alborem lucere in cute, sciat non esse lepram, sed maculam coloris candidi, et hominem mundum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 40 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vir, de cujus capite capilli fluunt, calvus et mundus est:
@@ -490,7 +481,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vir, de cuius capite capilli fluunt, calvus et mundus est:
   - `VulgConte (2009)`: Vir, de cuius capite capilli fluunt, calvus et mundus est:
   - `VulgSistina (1590)`: Vir, de cuius capite capilli fluunt, calvus et mundus est:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 41 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et si a fronte ceciderint pili, recalvaster et mundus est.
@@ -499,7 +490,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et si a fronte ceciderint pili, recalvaster et mundus est.
   - `VulgConte (2009)`: et si a fronte ceciderint pili, recalvaster et mundus est.
   - `VulgSistina (1590)`: et si a fronte ceciderint pili, recalvaster et mundus est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 42 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sin autem in calvitio sive in recalvatione albus vel rufus color fuerit exortus,
@@ -508,7 +499,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sin autem in calvitio sive in recalvatione albus vel rufus color fuerit exortus,
   - `VulgConte (2009)`: Sin autem in calvitio sive in recalvatione albus vel rufus color fuerit exortus,
   - `VulgSistina (1590)`: Sin autem in calvitio sive in recalvatione albus vel rufus color fuerit exortus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 43 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et hoc sacerdos viderit, condemnabit eum haud dubiæ lepræ, quæ orta est in calvitio.
@@ -517,7 +508,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et hoc sacerdos viderit, condemnabit eum haud dubiæ lepræ, quæ orta est in calvitio.
   - `VulgConte (2009)`: et hoc sacerdos viderit, condemnabit eum haud dubiæ lepræ, quæ orta est in calvitio.
   - `VulgSistina (1590)`: et hoc sacerdos viderit, condemnabit eum haud dubiae leprae, quae orta est in calvitio.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 44 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quicumque ergo maculatus fuerit lepra, et separatus est ad arbitrium sacerdotis,
@@ -526,7 +517,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quicumque ergo maculatus fuerit lepra, et separatus est ad arbitrium sacerdotis,
   - `VulgConte (2009)`: Quicumque ergo maculatus fuerit lepra, et separatus est ad arbitrium sacerdotis,
   - `VulgSistina (1590)`: Quicumque ergo maculatus fuerit lepra, et separatus est ad arbitrium sacerdotis,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 45 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** habebit vestimenta dissuta, caput nudum, os veste contectum, contaminatum ac sordidum se clamabit.
@@ -535,7 +526,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: habebit vestimenta dissuta, caput nudum, os veste contectum, contaminatum ac sordidum se clamabit.
   - `VulgConte (2009)`: habebit vestimenta dissuta, caput nudum, os veste contectum, contaminatum ac sordidum se clamabit.
   - `VulgSistina (1590)`: habebit vestimenta dissuta, caput nudum, os veste contectum, contaminatum ac sordidum se clamabit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 46 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omni tempore quo leprosus est et immundus, solus habitabit extra castra.
@@ -544,7 +535,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omni tempore quo leprosus est, et immundus, solus habitabit extra castra.
   - `VulgConte (2009)`: Omni tempore quo leprosus est, et immundus, solus habitabit extra castra.
   - `VulgSistina (1590)`: Omni tempore quo leprosus est, et immundus, solus habitabit extra castra.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 47 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vestis lanea sive linea, quæ lepram habuerit,
@@ -553,7 +544,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vestis lanea sive linea, quæ lepram habuerit
   - `VulgConte (2009)`: Vestis lanea sive linea, quæ lepram habuerit
   - `VulgSistina (1590)`: Vestis lanea sive linea, quae lepram habuerit
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 48 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** in stamine atque subtegmine, aut certe pellis, vel quidquid ex pelle confectum est,
@@ -562,7 +553,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: in stamine atque subtegmine, aut certe pellis, vel quidquid ex pelle confectum est,
   - `VulgConte (2009)`: in stamine atque subtegmine, aut certe pellis, vel quidquid ex pelle confectum est,
   - `VulgSistina (1590)`: in stamine atque subtegmine, aut certe pellis, vel quidquid ex pelle confectum est,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 49 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** si alba vel rufa macula fuerit infecta, lepra reputabitur, ostendeturque sacerdoti:
@@ -571,7 +562,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: si alba vel rufa macula fuerit infecta, lepra reputabitur, ostendeturque sacerdoti.
   - `VulgConte (2009)`: si alba vel rufa macula fuerit infecta, lepra reputabitur, ostendeturque sacerdoti.
   - `VulgSistina (1590)`: si alba vel rufa macula fuerit infecta, lepra reputabitur, ostendeturque sacerdoti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 50 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** qui consideratam recludet septem diebus:
@@ -580,7 +571,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: qui consideratam recludet septem diebus:
   - `VulgConte (2009)`: Qui consideratam recludet septem diebus:
   - `VulgSistina (1590)`: qui consideratam recludet septem diebus:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 51 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et die septimo rursus aspiciens, si deprehenderit crevisse, lepra perseverans est: pollutum judicabit vestimentum, et omne in quo fuerit inventa:
@@ -589,7 +580,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et die septimo rursus aspiciens si deprehenderit crevisse, lepra perseverans est: pollutum iudicabit vestimentum, et omne in quo fuerit inventa:
   - `VulgConte (2009)`: et die septimo rursus aspiciens, si deprehenderit crevisse, lepra perseverans est: pollutum iudicabit vestimentum, et omne in quo fuerit inventa:
   - `VulgSistina (1590)`: et die septimo rursus aspiciens si deprehenderit crevisse, lepra perseverans est: pollutum iudicabit vestimentum, et omne in quo fuerit inventa:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 52 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et idcirco comburetur flammis.
@@ -598,7 +589,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et idcirco comburetur flammis.
   - `VulgConte (2009)`: et idcirco comburetur flammis.
   - `VulgSistina (1590)`: et idcirco comburetur flammis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 53 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quod si eam viderit non crevisse,
@@ -607,7 +598,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quod si eam viderit non crevisse,
   - `VulgConte (2009)`: Quod si eam viderit non crevisse,
   - `VulgSistina (1590)`: Quod si eam viderit non crevisse,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 54 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** præcipiet, et lavabunt id in quo lepra est, recludetque illud septem diebus aliis.
@@ -616,7 +607,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: præcipiet, et lavabunt id, in quo lepra est, recludetque illud septem diebus aliis.
   - `VulgConte (2009)`: præcipiet, et lavabunt id, in quo lepra est, recludetque illud septem diebus aliis.
   - `VulgSistina (1590)`: praecipiet, et lavabunt id, in quo lepra est, recludetque illud septem diebus aliis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 55 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cum viderit faciem quidem pristinam non reversam, nec tamen crevisse lepram, immundum judicabit, et igne comburet, eo quod infusa sit in superficie vestimenti, vel per totum, lepra.
@@ -625,7 +616,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et cum viderit faciem quidem pristinam non reversam, nec tamen crevisse lepram, immundum iudicabit, et igne comburet, eo quod infusa sit in superficie vestimenti vel per totum, lepra.
   - `VulgConte (2009)`: Et cum viderit faciem quidem pristinam non reversam, nec tamen crevisse lepram, immundum iudicabit, et igne comburet, eo quod infusa sit in superficie vestimenti vel per totum, lepra.
   - `VulgSistina (1590)`: Et cum viderit faciem quidem pristinam non reversam, nec tamen crevisse lepram, immundum iudicabit, et igne comburet, eo quod infusa sit in superficie vestimenti vel per totum, lepra.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 56 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sin autem obscurior fuerit locus lepræ, postquam vestis est lota, abrumpet eum, et a solido dividet.
@@ -634,7 +625,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sin autem obscurior fuerit locus lepræ, postquam vestis est lota, abrumpet eum, et a solido dividet.
   - `VulgConte (2009)`: Sin autem obscurior fuerit locus lepræ, postquam vestis est lota, abrumpet eum, et a solido dividet.
   - `VulgSistina (1590)`: Sin autem obscurior fuerit locus leprae, postquam vestis est lota, abrumpet eum, et a solido dividet.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 57 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quod si ultra apparuerit in his locis, quæ prius immaculata erant, lepra volatilis et vaga, debet igne comburi.
@@ -643,7 +634,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quod si ultra apparuerit in his locis, quæ prius immaculata erant, lepra volatilis et vaga: debet igne comburi.
   - `VulgConte (2009)`: Quod si ultra apparuerit in his locis, quæ prius immaculata erant, lepra volatilis et vaga: debet igne comburi.
   - `VulgSistina (1590)`: Quod si ultra apparuerit in his locis, quae prius immaculata erant, lepra volatilis et vaga: debet igne comburi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 58 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Si cessaverit, lavabit aqua ea, quæ pura sunt, secundo, et munda erunt.
@@ -652,7 +643,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: si cessaverit, lavabit aqua ea, quæ pura sunt, secundo, et munda erunt.
   - `VulgConte (2009)`: Si cessaverit, lavabit aqua ea, quæ pura sunt, secundo, et munda erunt.
   - `VulgSistina (1590)`: si cessaverit, lavabit aqua ea, quae pura sunt, secundo, et munda erunt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 59 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ista est lex lepræ vestimenti lanei et linei, staminis, atque subtegminis, omnisque supellectilis pelliceæ, quomodo mundari debeat, vel contaminari.
@@ -661,4 +652,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ista est lex lepræ vestimenti lanei et linei, staminis, atque subtegminis, omnisque supellectilis pelliceæ, quomodo mundari debeat, vel contaminari.
   - `VulgConte (2009)`: Ista est lex lepræ vestimenti lanei et linei, staminis, atque subtegminis, omnisque supellectilis pelliceæ, quomodo mundari debeat, vel contaminari.
   - `VulgSistina (1590)`: Ista est lex leprae vestimenti lanei et linei, staminis, atque subtegminis, omnisque supellectilis pelliceae, quomodo mundari debeat, vel contaminari.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

@@ -1,6 +1,6 @@
 # Acts 15 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (40 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (41 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -71,6 +71,8 @@
 
 **15:33** And when some time had passed there, they were sent off with peace by the brothers to those who had sent them.
 
+**15:34** However, it seemed good to Silas to remain there, while Judas alone went away to Jerusalem.
+
 **15:35** But Paul and Barnabas stayed in Antioch, teaching and proclaiming as good news, with many others, the word of the Lord.
 
 **15:36** Now after some days, Paul said to Barnabas, "Let us return and visit the brothers throughout all the cities in which we preached the word of the Lord, to see how they are doing."
@@ -85,14 +87,10 @@
 
 **15:41** And he traveled through Syria and Cilicia, strengthening the churches, commanding them to keep the precepts of the apostles and the elders.
 
-## Additional Verses (Not in Saints Numbering)
-
-**15:34** *(after `15:33`)* However, it seemed good to Silas to remain there, while Judas alone went away to Jerusalem.
-
 ## Translator Notes
 
 - **15:2** — The Clementine Vulgate reads quidam alii ex aliis ("certain others from among the others" or "from the other side") rather than ex illis ("from among them"), and has only seditione ("dissension") without a second noun for "debate".
 - **15:14** — The Vulgate uses the standard form Simon where the Greek text uses the Semitic form Symeon.
 - **15:18** — The Vulgate reads this as a complete sentence with singular opus suum ("His work"), differing from both the shorter critical Greek text attached to verse 17 and the Byzantine plural ("all His works").
-- **15:33** — Verse 34 (Silas's decision to remain in Antioch) is present in this Latin text and is shown as an additional verse after 15:33, since the Saints numbering has no slot for it.
+- **15:34** — Native Clementine Vulgate includes Acts 15:34 (absent from Saints.Bible Greek numbering and most modern critical Greek editions).
 - **15:41** — The closing clause præcipiens custodire præcepta Apostolorum et seniorum ("commanding them to keep the precepts of the apostles and the elders") is a distinctive Western/Vulgate expansion absent from standard Greek editions; in verse 40 the Vulgate also reads gratiæ Dei ("grace of God") rather than "grace of the Lord".

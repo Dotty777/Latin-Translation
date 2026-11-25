@@ -1,6 +1,6 @@
 # Sirach 15 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (20 verses, 5 translator notes)  
+> **Status:** `draft: true` (22 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -33,17 +33,21 @@
 
 **15:14** From the beginning God established man, and left him in the hand of his own deliberation.
 
-**15:15** If you wish to keep the commandments and to practice pleasing faithfulness forever, they will preserve you.
+**15:15** He added His commandments and precepts.
 
-**15:16** He has placed water and fire before you; stretch out your hand to whichever you wish.
+**15:16** If you wish to keep the commandments and to practice pleasing faithfulness forever, they will preserve you.
 
-**15:17** Before man are life and death, good and evil; whatever pleases him will be given to him,
+**15:17** He has placed water and fire before you; stretch out your hand to whichever you wish.
 
-**15:18** for the wisdom of God is great, and He is strong in power, seeing everyone without ceasing.
+**15:18** Before man are life and death, good and evil; whatever pleases him will be given to him,
 
-**15:19** The eyes of the Lord are toward those who fear Him, and He Himself recognizes every work of man.
+**15:19** for the wisdom of God is great, and He is strong in power, seeing everyone without ceasing.
 
-**15:20** He has commanded no one to act impiously, and He has given no one room to sin.
+**15:20** The eyes of the Lord are toward those who fear Him, and He Himself recognizes every work of man.
+
+**15:21** He has commanded no one to act impiously, and He has given no one room to sin.
+
+**15:22** For He does not desire a multitude of unfaithful and useless sons.
 
 ## Translator Notes
 
@@ -51,4 +55,6 @@
 - **15:3** — In the Vulgate, Wisdom is the subject of firmabitur in illo ("she will be made firm in him") and continebit illum in v. 4 ("she will hold him fast"), whereas the Greek has the God-fearing person leaning and relying upon her; non flectetur ("will not be bent") may take either the man or Wisdom as subject.
 - **15:8** — The clause from "and truthful men" through "the inspection of God" is a Vulgate-distinct expansion absent from the main Greek text; inspectio Dei refers to God's final scrutiny or visitation.
 - **15:11** — Vulgate Per Deum abest ("Through God she is absent," or "it is absent") differs from the Greek "Because of the Lord I fell away," echoing Wisdom's absence in v. 7.
-- **15:15** — In the Latin word order, conservabunt te ("they will preserve you") stands between the two coordinated infinitives (mandata servare and in perpetuum fidem placitam facere); the Vulgate also reads "they will preserve you" where the Greek has "you will keep them."
+- **15:15** — Restored native Clementine Vulgate verse 15:15 (continuing 15:14 = Saints 15:14; Vulgate/LXX-II expansion).
+- **15:16** — In the Latin word order, conservabunt te ("they will preserve you") stands between the two coordinated infinitives (mandata servare and in perpetuum fidem placitam facere); the Vulgate also reads "they will preserve you" where the Greek has "you will keep them."
+- **15:22** — In native Clementine Vulgate numbering this verse closes chapter 15 (15:22 = Saints 16:1), where non enim concupiscit ("For He does not desire") continues the sentence from 15:21 with God as subject and adds infidelium ("unfaithful"), whereas the Greek opens ch. 16 with an imperative.

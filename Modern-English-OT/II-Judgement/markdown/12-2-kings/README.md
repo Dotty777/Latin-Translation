@@ -1,7 +1,7 @@
 # 2 Kings — Saints Modern English OT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Division: **II. Judgement (Historical Books & Job)**  
-> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; Saints.Bible versification).  
+> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; native Sixto-Clementine Vulgate versification).  
 > **Structured JSON:** [`12-2-kings.json`](../../json/12-2-kings.json) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Chapters
@@ -16,8 +16,8 @@
 - [Chapter 8](chapter-08.md) — 29 verses, 5 notes
 - [Chapter 9](chapter-09.md) — 37 verses, 5 notes
 - [Chapter 10](chapter-10.md) — 36 verses, 5 notes
-- [Chapter 11](chapter-11.md) — 20 verses, 5 notes
-- [Chapter 12](chapter-12.md) — 22 verses, 5 notes
+- [Chapter 11](chapter-11.md) — 21 verses, 6 notes
+- [Chapter 12](chapter-12.md) — 21 verses, 5 notes
 - [Chapter 13](chapter-13.md) — 25 verses, 5 notes
 - [Chapter 14](chapter-14.md) — 29 verses, 6 notes
 - [Chapter 15](chapter-15.md) — 38 verses, 4 notes
@@ -30,4 +30,4 @@
 - [Chapter 22](chapter-22.md) — 20 verses, 5 notes
 - [Chapter 23](chapter-23.md) — 37 verses, 5 notes
 - [Chapter 24](chapter-24.md) — 20 verses, 3 notes
-- [Chapter 25](chapter-25.md) — 29 verses, 5 notes, +1 additional
+- [Chapter 25](chapter-25.md) — 30 verses, 5 notes

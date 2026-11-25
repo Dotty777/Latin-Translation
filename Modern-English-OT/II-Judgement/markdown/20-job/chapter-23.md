@@ -1,6 +1,6 @@
 # Job 23 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (16 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (17 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Job`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -31,15 +31,13 @@
 
 **23:13** For He Himself is alone, and no one can turn aside His thought; and whatever His soul has willed, that He has done.
 
+**23:14** When He has accomplished His will in me, many other similar things also stand ready for Him.
+
 **23:15** And for that reason I am troubled before His face, and as I consider Him, I am disquieted with fear.
 
 **23:16** God has made my heart weak, and the Almighty has thrown me into turmoil.
 
 **23:17** For I have not perished because of the looming darkness, nor has thick darkness covered my face.
-
-## Additional Verses (Not in Saints Numbering)
-
-**23:14** *(after `23:13`)* When He has accomplished His will in me, many other similar things also stand ready for Him.
 
 ## Translator Notes
 

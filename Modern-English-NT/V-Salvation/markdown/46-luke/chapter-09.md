@@ -1,6 +1,6 @@
 # Luke 9 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (61 verses, 6 translator notes)  
+> **Status:** `draft: true` (62 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Luke`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -87,9 +87,11 @@
 
 **9:41** And answering, Jesus said, "O unbelieving and perverse generation, how long will I be with you and endure you? Bring your son here."
 
-**9:42** And as he was approaching, the demon dashed him down and convulsed him. And Jesus rebuked the unclean spirit, and healed the boy, and returned him to his father.
+**9:42** And as he was approaching, the demon dashed him down and convulsed him.
 
-**9:43** Now all were astonished at the greatness of God; and while everyone was marveling at all the things He was doing, He said to His disciples, "You, place these words in your hearts; for the Son of Man is about to be handed over into the hands of men."
+**9:43** And Jesus rebuked the unclean spirit, and healed the boy, and returned him to his father.
+
+**9:44** Now all were astonished at the greatness of God; and while everyone was marveling at all the things He was doing, He said to His disciples, "You, place these words in your hearts; for the Son of Man is about to be handed over into the hands of men."
 
 **9:45** Yet they did not comprehend this saying, and it was veiled before them so that they would not perceive it; and they were afraid to question Him about this saying.
 
@@ -133,5 +135,6 @@
 - **9:10** — The Clementine Vulgate reads "in locum desertum, qui est Bethsaidæ" ("into a deserted place that belongs to Bethsaida"), whereas critical Greek editions read "to a city called Bethsaida."
 - **9:26** — Here and in 9:31 the Vulgate renders Greek "doxa" ("glory") as "majestas" ("majesty").
 - **9:35** — The Vulgate reads "Filius meus dilectus" ("My beloved Son"), whereas critical Greek editions read "My Chosen One."
-- **9:43** — In the Clementine Vulgate this verse combines what modern numbering divides into verses 43 and 44; it also reads "in cordibus vestris" ("in your hearts"), whereas the Greek text reads "into your ears."
+- **9:42** — Native Clementine Vulgate Luke 9 divides the exorcism across 9:42-43 (mapped to Saints.Bible 9:42), shifting native 9:44 to Saints.Bible 9:43-44.
+- **9:44** — Native Vulgate Luke 9 divides the exorcism across 9:42-43 and places the crowd's astonishment and Jesus's prediction together in 9:44 (mapping to Saints.Bible 9:43-44); it also reads "in cordibus vestris" ("in your hearts"), whereas the Greek text reads "into your ears."
 - **9:55** — Here and in 9:56 the Clementine Vulgate includes Jesus's words ("You do not know what spirit you are of. The Son of Man did not come to destroy lives, but to save them."), which are omitted in critical Greek editions.

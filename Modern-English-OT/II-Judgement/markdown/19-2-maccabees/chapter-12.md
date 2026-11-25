@@ -1,6 +1,6 @@
 # 2 Maccabees 12 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (45 verses, 5 translator notes)  
+> **Status:** `draft: true` (46 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`2 Maccabees`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -93,7 +93,9 @@
 
 **12:44** (for if he were not hoping that those who had fallen would rise again, it would seem superfluous and vain to pray for the dead),
 
-**12:45** and because he considered that those who had fallen asleep with godliness had the finest grace stored up. Therefore it is a holy and salutary thought to pray earnestly for the deceased, so that they may be released from sins.
+**12:45** and because he considered that those who had fallen asleep with godliness had the finest grace stored up.
+
+**12:46** Therefore it is a holy and salutary thought to pray earnestly for the deceased, so that they may be released from sins.
 
 ## Translator Notes
 
@@ -102,3 +104,4 @@
 - **12:26** — The Vulgate reads simply 'to Carnion' without mentioning the temple of Atargatis (Atargateion) found in the Greek text.
 - **12:41** — The Vulgate reads justum judicium Domini ('the righteous judgment of the Lord'), whereas the Greek reads 'the Lord, the righteous judge.'
 - **12:43** — The Vulgate specifies duodecim millia ('twelve thousand') drachmas of silver and explicitly adds pro peccatis mortuorum ('for the sins of the dead'), whereas the Greek has 'two thousand' drachmas for a sin offering.
+- **12:45** — Native Clementine Vulgate divides Saints.Bible 12:45 across 12:45 and 12:46.

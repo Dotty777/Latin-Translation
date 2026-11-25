@@ -17,7 +17,7 @@
 
 **3:6** Therefore the woman saw that the tree was good for eating, and beautiful to the eyes, and delightful in appearance; and she took from its fruit and ate, and she gave to her husband, who ate.
 
-**3:7** And their eyes were opened; and when they realized that they were naked, they sewed fig leaves together and made loincloths for themselves.
+**3:7** And the eyes of both of them were opened; and when they realized that they were naked, they sewed fig leaves together and made loincloths for themselves.
 
 **3:8** And when they heard the voice of the Lord God walking about in paradise at the afternoon breeze, Adam and his wife hid themselves from the face of the Lord God in the midst of the trees of paradise.
 
