@@ -1,8 +1,8 @@
 # Deuteronomy 16 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:29Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -71,7 +62,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Deuteronomy 16:4
-- **Apparatus:** `fermentum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **fermentatum** VulgSistina (1590)
+- **Apparatus:** `fermentum` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **fermentatum** VulgSistina (1590)
 
 ### Deuteronomy 16:13
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Solemnitatem / sollemnitatem`, `Solemnitatem / Sollemnitatem`, `Solemnitatem / Sollemnitatem`, `Solemnitatem / Sollemnitatem` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -80,8 +71,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `solemnitate / sollemnitate`, `solemnitate / sollemnitate`, `solemnitate / sollemnitate`, `solemnitate / sollemnitate`, `solemnitate / sollemnitate`, `solemnitate / sollemnitate`, `solemnitate / sollemnitate`, `solemnitate / sollemnitate`, `solemnitate / sollemnitate`, `solemnitate / sollemnitate` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Deuteronomy 16:22
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **statuam:** VulgSistina (1590)
-- **Apparatus:** `constitues statuam:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **constituas** VulgSistina (1590)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **statuam:** VulgSistina (1590)
+- **Apparatus:** `constitues statuam:` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **constituas** VulgSistina (1590)
 
 ---
 
@@ -94,7 +85,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Observa mensem novarum frugum, et verni primum temporis, ut facias Phase Domino Deo tuo: quoniam in isto mense eduxit te Dominus Deus tuus de Ægypto nocte.
   - `VulgConte (2009)`: Observa mensem novarum frugum, et verni primum temporis, ut facias Phase Domino Deo tuo: quoniam in isto mense eduxit te Dominus Deus tuus de Ægypto nocte.
   - `VulgSistina (1590)`: Observa mensem novarum frugum, et verni primum temporis, ut facias Phase Domino Deo tuo: quoniam in isto mense eduxit te Dominus Deus tuus de Aegypto nocte.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Immolabisque Phase Domino Deo tuo de ovibus, et de bobus, in loco quem elegerit Dominus Deus tuus, ut habitet nomen ejus ibi.
@@ -103,7 +94,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Immolabisque Phase Domino Deo tuo de ovibus, et de bobus in loco, quem elegerit Dominus Deus tuus, ut habitet nomen eius ibi.
   - `VulgConte (2009)`: Immolabisque Phase Domino Deo tuo de ovibus, et de bobus in loco, quem elegerit Dominus Deus tuus, ut habitet nomen eius ibi.
   - `VulgSistina (1590)`: Immolabisque Phase Domino Deo tuo de ovibus, et de bobus in loco, quem elegerit Dominus Deus tuus, ut habitet nomen eius ibi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Non comedes in eo panem fermentatum: septem diebus comedes absque fermento afflictionis panem, quoniam in pavore egressus es de Ægypto: ut memineris diei egressionis tuæ de Ægypto, omnibus diebus vitæ tuæ.
@@ -112,7 +103,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Non comedes in eo panem fermentatum: Septem diebus comedes absque fermento, afflictionis panem, quoniam in pavore egressus es de Ægypto: ut memineris diei egressionis tuæ de Ægypto, omnibus diebus vitæ tuæ.
   - `VulgConte (2009)`: Non comedes in eo panem fermentatum: Septem diebus comedes absque fermento, afflictionis panem, quoniam in pavore egressus es de Ægypto: ut memineris diei egressionis tuæ de Ægypto, omnibus diebus vitæ tuæ.
   - `VulgSistina (1590)`: Non comedes in eo panem fermentatum: Septem diebus comedes absque fermento, afflictionis panem, quoniam in pavore egressus es de Aegypto: ut memineris diei egressionis tuae de Aegypto, omnibus diebus vitae tuae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Non apparebit fermentum in omnibus terminis tuis septem diebus, et non remanebit de carnibus ejus, quod immolatum est vespere in die primo, usque mane.
@@ -121,7 +112,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Non apparebit fermentum in omnibus terminis tuis septem diebus, et non remanebit de carnibus eius quod immolatum est vespere in die primo usque mane.
   - `VulgConte (2009)`: Non apparebit fermentum in omnibus terminis tuis septem diebus, et non remanebit de carnibus eius quod immolatum est vespere in die primo usque mane.
   - `VulgSistina (1590)`: Non apparebit fermentatum in omnibus terminis tuis septem diebus, et non remanebit de carnibus eius quod immolatum est vespere in die primo usque mane.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Non poteris immolare Phase in qualibet urbium tuarum, quas Dominus Deus tuus daturus est tibi,
@@ -130,7 +121,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Non poteris immolare Phase in qualibet urbium tuarum, quas Dominus Deus tuus daturus est tibi;
   - `VulgConte (2009)`: Non poteris immolare Phase in qualibet urbium tuarum, quas Dominus Deus tuus daturus est tibi;
   - `VulgSistina (1590)`: Non poteris immolare Phase in qualibet urbium tuarum, quas Dominus Deus tuus daturus est tibi;
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** sed in loco quem elegerit Dominus Deus tuus, ut habitet nomen ejus ibi: immolabis Phase vespere ad solis occasum, quando egressus es de Ægypto.
@@ -139,7 +130,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: sed in loco, quem elegerit Dominus Deus tuus, ut habitet nomen eius ibi: immolabis Phase vespere ad solis occasum, quando egressus es de Ægypto.
   - `VulgConte (2009)`: sed in loco, quem elegerit Dominus Deus tuus, ut habitet nomen eius ibi: immolabis Phase vespere ad solis occasum, quando egressus es de Ægypto.
   - `VulgSistina (1590)`: sed in loco, quem elegerit Dominus Deus tuus, ut habitet nomen eius ibi: immolabis Phase vespere ad solis occasum, quando egressus es de Aegypto.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et coques, et comedes in loco quem elegerit Dominus Deus tuus, maneque consurgens vades in tabernacula tua.
@@ -148,7 +139,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et coques, et comedes in loco, quem elegerit Dominus Deus tuus, maneque consurgens vades in tabernacula tua.
   - `VulgConte (2009)`: Et coques, et comedes in loco, quem elegerit Dominus Deus tuus, maneque consurgens vades in tabernacula tua.
   - `VulgSistina (1590)`: Et coques, et comedes in loco, quem elegerit Dominus Deus tuus, maneque consurgens vades in tabernacula tua.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sex diebus comedes azyma: et in die septima, quia collecta est Domini Dei tui, non facies opus.
@@ -157,7 +148,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sex diebus comedes azyma: et in die septima, quia collecta est Domini Dei tui, non facies opus.
   - `VulgConte (2009)`: Sex diebus comedes azyma: et in die septima, quia collecta est Domini Dei tui, non facies opus.
   - `VulgSistina (1590)`: Sex diebus comedes azyma: et in die septima, quia collecta est Domini Dei tui, non facies opus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Septem hebdomadas numerabis tibi ab ea die qua falcem in segetem miseris.
@@ -166,7 +157,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Septem hebdomadas numerabis tibi ab ea die qua falcem in segetem miseris.
   - `VulgConte (2009)`: Septem hebdomadas numerabis tibi ab ea die qua falcem in segetem miseris.
   - `VulgSistina (1590)`: Septem hebdomadas numerabis tibi ab ea die qua falcem in segetem miseris.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et celebraris diem festum hebdomadarum Domino Deo tuo, oblationem spontaneam manus tuæ, quam offeres juxta benedictionem Domini Dei tui:
@@ -175,7 +166,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et celebraris diem festum hebdomadarum Domino Deo tuo, oblationem spontaneam manus tuæ, quam offeres iuxta benedictionem Domini Dei tui:
   - `VulgConte (2009)`: Et celebraris diem festum hebdomadarum Domino Deo tuo, oblationem spontaneam manus tuæ, quam offeres iuxta benedictionem Domini Dei tui:
   - `VulgSistina (1590)`: et celebraris diem festum hebdomadarum Domino Deo tuo, oblationem spontaneam manus tuae, quam offeres iuxta benedictionem Domini Dei tui:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et epulaberis coram Domino Deo tuo, tu, filius tuus et filia tua, servus tuus et ancilla tua, et Levites qui est intra portas tuas, advena ac pupillus et vidua, qui morantur vobiscum: in loco quem elegerit Dominus Deus tuus, ut habitet nomen ejus ibi.
@@ -184,7 +175,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et epulaberis coram Domino Deo tuo, tu, filius tuus, et filia tua, servus tuus, et ancilla tua, et Levites qui est intra portas tuas, advena ac pupillus et vidua, qui morantur vobiscum: in loco quem elegerit Dominus Deus tuus, ut habitet nomen eius ibi:
   - `VulgConte (2009)`: et epulaberis coram Domino Deo tuo, tu, filius tuus, et filia tua, servus tuus, et ancilla tua, et Levites qui est intra portas tuas, advena ac pupillus et vidua, qui morantur vobiscum: in loco quem elegerit Dominus Deus tuus, ut habitet nomen eius ibi:
   - `VulgSistina (1590)`: et epulaberis coram Domino Deo tuo, tu, filius tuus, et filia tua, servus tuus, et ancilla tua, et Levites qui est intra portas tuas, advena ac pupillus et vidua, qui morantur vobiscum: in loco quem elegerit Dominus Deus tuus, ut habitet nomen eius ibi:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et recordaberis quoniam servus fueris in Ægypto: custodiesque ac facies quæ præcepta sunt.
@@ -193,7 +184,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et recordaberis quoniam servus fueris in Ægypto: custodiesque ac facies quæ præcepta sunt.
   - `VulgConte (2009)`: et recordaberis quoniam servus fueris in Ægypto: custodiesque ac facies quæ præcepta sunt.
   - `VulgSistina (1590)`: et recordaberis quoniam servus fueris in Aegypto: custodiesque ac facies quae praecepta sunt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Solemnitatem quoque tabernaculorum celebrabis per septem dies, quando collegeris de area et torculari fruges tuas:
@@ -202,7 +193,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sollemnitatem quoque tabernaculorum celebrabis per septem dies, quando collegeris de area et torculari fruges tuas:
   - `VulgConte (2009)`: Sollemnitatem quoque tabernaculorum celebrabis per septem dies, quando collegeris de area et torculari fruges tuas:
   - `VulgSistina (1590)`: Sollemnitatem quoque tabernaculorum celebrabis per septem dies, quando collegeris de area et torculari fruges tuas:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et epulaberis in festivitate tua, tu, filius tuus et filia, servus tuus et ancilla, Levites quoque et advena, pupillus et vidua qui intra portas tuas sunt.
@@ -211,7 +202,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et epulaberis in festivitate tua, tu, filius tuus, et filia, servus tuus et ancilla, Levites quoque et advena, pupillus et vidua qui intra portas tuas sunt.
   - `VulgConte (2009)`: et epulaberis in festivitate tua, tu, filius tuus, et filia, servus tuus et ancilla, Levites quoque et advena, pupillus et vidua qui intra portas tuas sunt.
   - `VulgSistina (1590)`: et epulaberis in festivitate tua, tu, filius tuus, et filia, servus tuus et ancilla, Levites quoque et advena, pupillus et vidua qui intra portas tuas sunt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Septem diebus Domino Deo tuo festa celebrabis in loco quem elegerit Dominus: benedicetque tibi Dominus Deus tuus in cunctis frugibus tuis, et in omni opere manuum tuarum, erisque in lætitia.
@@ -220,7 +211,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Septem diebus Domino Deo tuo festa celebrabis in loco quem elegerit Dominus: benedicetque tibi Dominus Deus tuus in cunctis frugibus tuis, et in omni opere manuum tuarum, erisque in lætitia.
   - `VulgConte (2009)`: Septem diebus Domino Deo tuo festa celebrabis in loco quem elegerit Dominus: benedicetque tibi Dominus Deus tuus in cunctis frugibus tuis, et in omni opere manuum tuarum, erisque in lætitia.
   - `VulgSistina (1590)`: Septem diebus Domino Deo tuo festa celebrabis in loco quem elegerit Dominus: benedicetque tibi Dominus Deus tuus in cunctis frugibus tuis, et in omni opere manuum tuarum, erisque in laetitia.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tribus vicibus per annum apparebit omne masculinum tuum in conspectu Domini Dei tui in loco quem elegerit: in solemnitate azymorum, in solemnitate hebdomadarum, et in solemnitate tabernaculorum. Non apparebit ante Dominum vacuus:
@@ -229,7 +220,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tribus vicibus per annum apparebit omne masculinum tuum in conspectu Domini Dei tui in loco quem elegerit: in sollemnitate azymorum, in sollemnitate hebdomadarum, et in sollemnitate tabernaculorum. Non apparebit ante Dominum vacuus:
   - `VulgConte (2009)`: Tribus vicibus per annum apparebit omne masculinum tuum in conspectu Domini Dei tui in loco quem elegerit: in sollemnitate azymorum, in sollemnitate hebdomadarum, et in sollemnitate tabernaculorum. Non apparebit ante Dominum vacuus:
   - `VulgSistina (1590)`: Tribus vicibus per annum apparebit omne masculinum tuum in conspectu Domini Dei tui in loco quem elegerit: in sollemnitate azymorum, in sollemnitate hebdomadarum, et in sollemnitate tabernaculorum. Non apparebit ante Dominum vacuus:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** sed offeret unusquisque secundum quod habuerit juxta benedictionem Domini Dei sui, quam dederit ei.
@@ -238,7 +229,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: sed offeret unusquisque secundum quod habuerit iuxta benedictionem Domini Dei sui, quam dederit ei.
   - `VulgConte (2009)`: sed offeret unusquisque secundum quod habuerit iuxta benedictionem Domini Dei sui, quam dederit ei.
   - `VulgSistina (1590)`: sed offeret unusquisque secundum quod habuerit iuxta benedictionem Domini Dei sui, quam dederit ei.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Judices et magistros constitues in omnibus portis tuis, quas Dominus Deus tuus dederit tibi, per singulas tribus tuas: ut judicent populum justo judicio,
@@ -247,7 +238,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iudices et magistros constitues in omnibus portis tuis, quas Dominus Deus tuus dederit tibi, per singulas tribus tuas: ut iudicent populum iusto iudicio,
   - `VulgConte (2009)`: Iudices et magistros constitues in omnibus portis tuis, quas Dominus Deus tuus dederit tibi, per singulas tribus tuas: ut iudicent populum iusto iudicio,
   - `VulgSistina (1590)`: Iudices et magistros constitues in omnibus portis tuis, quas Dominus Deus tuus dederit tibi, per singulas tribus tuas: ut iudicent populum iusto iudicio,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** nec in alteram partem declinent. Non accipies personam, nec munera: quia munera excæcant oculos sapientum, et mutant verba justorum.
@@ -256,7 +247,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: nec in alteram partem declinent. Non accipies personam, nec munera: quia munera excæcant oculos sapientum, et mutant verba iustorum.
   - `VulgConte (2009)`: nec in alteram partem declinent. Non accipies personam, nec munera: quia munera excæcant oculos sapientum, et mutant verba iustorum.
   - `VulgSistina (1590)`: nec in alteram partem declinent. Non accipies personam, nec munera: quia munera excaecant oculos sapientum, et mutant verba iustorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Juste quod justum est persequeris: ut vivas, et possideas terram, quam Dominus Deus tuus dederit tibi.
@@ -265,7 +256,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iuste quod iustum est persequeris: ut vivas et possideas Terram, quam Dominus Deus tuus dederit tibi.
   - `VulgConte (2009)`: Iuste quod iustum est persequeris: ut vivas et possideas Terram, quam Dominus Deus tuus dederit tibi.
   - `VulgSistina (1590)`: Iuste quod iustum est persequeris: ut vivas et possideas Terram, quam Dominus Deus tuus dederit tibi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Non plantabis lucum, et omnem arborem juxta altare Domini Dei tui.
@@ -274,7 +265,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Non plantabis lucum, et omnem arborem iuxta altare Domini Dei tui.
   - `VulgConte (2009)`: Non plantabis lucum, et omnem arborem iuxta altare Domini Dei tui.
   - `VulgSistina (1590)`: Non plantabis lucum, et omnem arborem iuxta altare Domini Dei tui.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nec facies tibi, neque constitues statuam: quæ odit Dominus Deus tuus.
@@ -283,4 +274,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nec facies tibi, neque constitues statuam: quæ odit Dominus Deus tuus.
   - `VulgConte (2009)`: Nec facies tibi, neque constitues statuam: quæ odit Dominus Deus tuus.
   - `VulgSistina (1590)`: Nec facies tibi statuam: neque constituas quae odit Dominus Deus tuus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

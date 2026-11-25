@@ -1,8 +1,8 @@
 # Numbers 05 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:43Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,34 +28,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
-- Clem1598-USFX: 5:26 folded into verse 23 (the reference prints these words there)
-- Clem1598-USFX: 5:24 folded into verse 23 (the reference prints these words there)
-- Clem1598-USFX: 5:23 folded into verse 23 (the reference prints these words there)
-- Clem1598-USFX: 1 verse(s) re-aligned by content (23←5:25)
-- VulgHetzenauer (1906): 5:26 folded into verse 23 (the reference prints these words there)
-- VulgHetzenauer (1906): 5:24 folded into verse 23 (the reference prints these words there)
-- VulgHetzenauer (1906): 5:23 folded into verse 23 (the reference prints these words there)
-- VulgHetzenauer (1906): 1 verse(s) re-aligned by content (23←5:25)
-- VulgConte (2009): 5:26 folded into verse 23 (the reference prints these words there)
-- VulgConte (2009): 5:24 folded into verse 23 (the reference prints these words there)
-- VulgConte (2009): 5:23 folded into verse 23 (the reference prints these words there)
-- VulgConte (2009): 1 verse(s) re-aligned by content (23←5:25)
-- VulgSistina (1590): 5:26 folded into verse 23 (the reference prints these words there)
-- VulgSistina (1590): 5:24 folded into verse 23 (the reference prints these words there)
-- VulgSistina (1590): 5:23 folded into verse 23 (the reference prints these words there)
-- VulgSistina (1590): 1 verse(s) re-aligned by content (23←5:25)
+- Clem-Saints: 1 verse(s) re-aligned by content (25←5:23)
 
 ---
 
@@ -83,7 +59,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **20** Sin autem declinasti a viro tuo, atque polluta es, et concubuisti cum altero viro:
 **21** his maledictionibus subjacebis: det te Dominus in maledictionem, exemplumque cunctorum in populo suo: putrescere faciat femur tuum, et tumens uterus tuus disrumpatur.
 **22** Ingrediantur aquæ maledictæ in ventrem tuum, et utero tumescente putrescat femur. Et respondebit mulier: Amen, amen.
-**23** Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit, et dabit ei bibere. Quas cum exhauserit, tollet sacerdos de manu ejus sacrificium zelotypiæ, et elevabit illud coram Domino, imponetque illud super altare, ita dumtaxat ut prius: pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.
+**23** Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit,
+**24** et dabit ei bibere. Quas cum exhauserit,
+**25** tollet sacerdos de manu ejus sacrificium zelotypiæ, et elevabit illud coram Domino, imponetque illud super altare, ita dumtaxat ut prius:
+**26** pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.
 **27** Quas cum biberit, si polluta est, et contempto viro adulterii rea, pertransibunt eam aquæ maledictionis, et inflato ventre, computrescet femur: eritque mulier in maledictionem, et in exemplum omni populo.
 **28** Quod si polluta non fuerit, erit innoxia, et faciet liberos.
 **29** Ista est lex zelotypiæ. Si declinaverit mulier a viro suo, et si polluta fuerit,
@@ -94,7 +73,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
-*No substantive or orthographic variants detected across admitted witnesses in this chapter.*
+### Numbers 5:25
+- **Apparatus:** `om.` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit, et dabit ei bibere. Quas cum exhauserit,** Clem-Saints
+- **Apparatus:** `om.` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.** Clem-Saints
 
 ---
 
@@ -107,7 +88,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Locutusque est Dominus ad Moysen, dicens:
   - `VulgConte (2009)`: Locutusque est Dominus ad Moysen, dicens:
   - `VulgSistina (1590)`: Locutusque est Dominus ad Moysen, dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Præcipe filiis Israël, ut ejiciant de castris omnem leprosum, et qui semine fluit, pollutusque est super mortuo:
@@ -116,7 +97,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Præcipe filiis Israel, ut eiiciant de castris omnem leprosum, et qui semine fluit, pollutusque est super mortuo:
   - `VulgConte (2009)`: Præcipe filiis Israel, ut eiiciant de castris omnem leprosum, et qui semine fluit, pollutusque est super mortuo:
   - `VulgSistina (1590)`: Praecipe filiis Israel, ut eiiciant de castris omnem leprosum, et qui semine fluit, pollutusque est super mortuo:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** tam masculum quam feminam ejicite de castris, ne contaminent ea cum habitaverint vobiscum.
@@ -125,7 +106,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: tam masculum quam feminam eiicite de castris, ne contaminent ea cum habitaverint vobiscum.
   - `VulgConte (2009)`: tam masculum quam feminam eiicite de castris, ne contaminent ea cum habitaverint vobiscum.
   - `VulgSistina (1590)`: tam masculum quam feminam eiicite de castris, ne contaminent ea cum habitaverint vobiscum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Feceruntque ita filii Israël, et ejecerunt eos extra castra, sicut locutus erat Dominus Moysi.
@@ -134,7 +115,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Feceruntque ita filii Israel, et eiecerunt eos extra castra, sicut locutus erat Dominus Moysi.
   - `VulgConte (2009)`: Feceruntque ita filii Israel, et eiecerunt eos extra castra, sicut locutus erat Dominus Moysi.
   - `VulgSistina (1590)`: Feceruntque ita filii Israel, et eiecerunt eos extra castra, sicut locutus erat Dominus Moysi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Locutusque est Dominus ad Moysen, dicens:
@@ -143,7 +124,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Locutusque est Dominus ad Moysen, dicens:
   - `VulgConte (2009)`: Locutusque est Dominus ad Moysen, dicens:
   - `VulgSistina (1590)`: Locutusque est Dominus ad Moysen, dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Loquere ad filios Israël: Vir, sive mulier, cum fecerint ex omnibus peccatis, quæ solent hominibus accidere, et per negligentiam transgressi fuerint mandatum Domini, atque deliquerint,
@@ -152,7 +133,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Loquere ad filios Israel: Vir, sive mulier, cum fecerint ex omnibus peccatis, quæ solent hominibus accidere, et per negligentiam transgressi fuerint mandatum Domini, atque deliquerint,
   - `VulgConte (2009)`: Loquere ad filios Israel: Vir, sive mulier, cum fecerint ex omnibus peccatis, quæ solent hominibus accidere, et per negligentiam transgressi fuerint mandatum Domini, atque deliquerint,
   - `VulgSistina (1590)`: Loquere ad filios Israel: Vir, sive mulier, cum fecerint ex omnibus peccatis, quae solent hominibus accidere, et per negligentiam transgressi fuerint mandatum Domini, atque deliquerint,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** confitebuntur peccatum suum, et reddent ipsum caput, quintamque partem desuper, ei in quem peccaverint.
@@ -161,7 +142,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: confitebuntur peccatum suum, et reddent ipsum caput, quintamque partem desuper ei, in quem peccaverint.
   - `VulgConte (2009)`: confitebuntur peccatum suum, et reddent ipsum caput, quintamque partem desuper ei, in quem peccaverint.
   - `VulgSistina (1590)`: confitebuntur peccatum suum, et reddent ipsum caput, quintamque partem desuper ei, in quem peccaverint.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sin autem non fuerit qui recipiat, dabunt Domino, et erit sacerdotis, excepto ariete, qui offertur pro expiatione, ut sit placabilis hostia.
@@ -170,7 +151,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sin autem non fuerit qui recipiat, dabunt Domino, et erit sacerdotis, excepto ariete, qui offertur pro expiatione, ut sit placabilis hostia.
   - `VulgConte (2009)`: Sin autem non fuerit qui recipiat, dabunt Domino, et erit sacerdotis, excepto ariete, qui offertur pro expiatione, ut sit placabilis hostia.
   - `VulgSistina (1590)`: Sin autem non fuerit qui recipiat, dabunt Domino, et erit sacerdotis, excepto ariete, qui offertur pro expiatione, ut sit placabilis hostia.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnes quoque primitiæ, quas offerunt filii Israël, ad sacerdotem pertinent:
@@ -179,7 +160,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnes quoque primitiæ, quas offerunt filii Israel, ad sacerdotem pertinent:
   - `VulgConte (2009)`: Omnes quoque primitiæ, quas offerunt filii Israel, ad sacerdotem pertinent:
   - `VulgSistina (1590)`: Omnes quoque primitiae, quas offerunt filii Israel, ad sacerdotem pertinent:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et quidquid in sanctuarium offertur a singulis, et traditur manibus sacerdotis, ipsius erit.
@@ -188,7 +169,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et quidquid in Sanctuarium offertur a singulis, et traditur manibus sacerdotis, ipsius erit.
   - `VulgConte (2009)`: et quidquid in Sanctuarium offertur a singulis, et traditur manibus sacerdotis, ipsius erit.
   - `VulgSistina (1590)`: et quidquid in Sanctuarium offertur a singulis, et traditur manibus sacerdotis, ipsius erit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Locutusque est Dominus ad Moysen, dicens:
@@ -197,7 +178,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Locutusque est Dominus ad Moysen, dicens:
   - `VulgConte (2009)`: Locutusque est Dominus ad Moysen, dicens:
   - `VulgSistina (1590)`: Locutusque est Dominus ad Moysen, dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Loquere ad filios Israël, et dices ad eos: Vir cujus uxor erraverit, maritumque contemnens
@@ -206,7 +187,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Loquere ad filios Israel, et dices ad eos: Vir, cuius uxor erraverit, maritumque contemnens
   - `VulgConte (2009)`: Loquere ad filios Israel, et dices ad eos: Vir, cuius uxor erraverit, maritumque contemnens
   - `VulgSistina (1590)`: Loquere ad filios Israel, et dices ad eos: Vir, cuius uxor erraverit, maritumque contemnens
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** dormierit cum altero viro, et hoc maritus deprehendere non quiverit, sed latet adulterium, et testibus argui non potest, quia non est inventa in stupro:
@@ -215,7 +196,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: dormierit cum altero viro, et hoc maritus deprehendere non quiverit, sed latet adulterium, et testibus argui non potest, quia non est inventa in stupro:
   - `VulgConte (2009)`: dormierit cum altero viro, et hoc maritus deprehendere non quiverit, sed latet adulterium, et testibus argui non potest, quia non est inventa in stupro:
   - `VulgSistina (1590)`: dormierit cum altero viro, et hoc maritus deprehendere non quiverit, sed latet adulterium, et testibus argui non potest, quia non est inventa in stupro:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** si spiritus zelotypiæ concitaverit virum contra uxorem suam, quæ vel polluta est, vel falsa suspicione appetitur:
@@ -224,7 +205,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: si spiritus zelotypiæ concitaverit virum contra uxorem suam, quæ vel polluta est, vel falsa suspicione appetitur,
   - `VulgConte (2009)`: si spiritus zelotypiæ concitaverit virum contra uxorem suam, quæ vel polluta est, vel falsa suspicione appetitur,
   - `VulgSistina (1590)`: si spiritus zelotypiae concitaverit virum contra uxorem suam, quae vel polluta est, vel falsa suspicione appetitur,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** adducet eam ad sacerdotem, et offeret oblationem pro illa, decimam partem sati farinæ hordeaceæ: non fundet super eam oleum, nec imponet thus: quia sacrificium zelotypiæ est, et oblatio investigans adulterium.
@@ -233,7 +214,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: adducet eam ad sacerdotem, et offeret oblationem pro illa decimam partem sati farinæ hordeaceæ: non fundet super eam oleum, nec imponet thus: quia sacrificium zelotypiæ est, et oblatio investigans adulterium.
   - `VulgConte (2009)`: adducet eam ad sacerdotem, et offeret oblationem pro illa decimam partem sati farinæ hordeaceæ: non fundet super eam oleum, nec imponet thus: quia sacrificium zelotypiæ est, et oblatio investigans adulterium.
   - `VulgSistina (1590)`: adducet eam ad sacerdotem, et offeret oblationem pro illa decimam partem sati farinae hordeaceae: non fundet super eam oleum, nec imponet thus: quia sacrificium zelotypiae est, et oblatio investigans adulterium.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Offeret igitur eam sacerdos, et statuet coram Domino,
@@ -242,7 +223,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Offeret igitur eam sacerdos, et statuet coram Domino.
   - `VulgConte (2009)`: Offeret igitur eam sacerdos, et statuet coram Domino.
   - `VulgSistina (1590)`: Offeret igitur eam sacerdos, et statuet coram Domino.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** assumetque aquam sanctam in vase fictili, et pauxillum terræ de pavimento tabernaculi mittet in eam.
@@ -251,7 +232,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: assumetque aquam sanctam in vase fictili, et pauxillum terræ de pavimento tabernaculi mittet in eam.
   - `VulgConte (2009)`: Assumetque aquam sanctam in vase fictili, et pauxillum terræ de pavimento tabernaculi mittet in eam.
   - `VulgSistina (1590)`: assumetque aquam sanctam in vase fictili, et pauxillum terrae de pavimento tabernaculi mittet in eam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque steterit mulier in conspectu Domini, discooperiet caput ejus, et ponet super manus illius sacrificium recordationis, et oblationem zelotypiæ: ipse autem tenebit aquas amarissimas, in quibus cum execratione maledicta congessit.
@@ -260,7 +241,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque steterit mulier in conspectu Domini, discooperiet caput eius, et ponet super manus illius sacrificium recordationis, et oblationem zelotypiæ: ipse autem tenebit aquas amarissimas, in quibus cum execratione maledicta congessit.
   - `VulgConte (2009)`: Cumque steterit mulier in conspectu Domini, discooperiet caput eius, et ponet super manus illius sacrificium recordationis, et oblationem zelotypiæ: ipse autem tenebit aquas amarissimas, in quibus cum execratione maledicta congessit.
   - `VulgSistina (1590)`: Cumque steterit mulier in conspectu Domini, discooperiet caput eius, et ponet super manus illius sacrificium recordationis, et oblationem zelotypiae: ipse autem tenebit aquas amarissimas, in quibus cum execratione maledicta congessit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Adjurabitque eam, et dicet: Si non dormivit vir alienus tecum, et si non polluta es deserto mariti thoro, non te nocebunt aquæ istæ amarissimæ, in quas maledicta congessi.
@@ -269,7 +250,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: adiurabitque eam, et dicet: Si non dormivit vir alienus tecum, et si non polluta es deserto mariti thoro, non te nocebunt aquæ istæ amarissimæ, in quas maledicta congessi.
   - `VulgConte (2009)`: Adiurabitque eam, et dicet: Si non dormivit vir alienus tecum, et si non polluta es deserto mariti thoro, non te nocebunt aquæ istæ amarissimæ, in quas maledicta congessi.
   - `VulgSistina (1590)`: adiurabitque eam, et dicet: Si non dormivit vir alienus tecum, et si non polluta es deserto mariti thoro, non te nocebunt aquae istae amarissimae, in quas maledicta congessi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sin autem declinasti a viro tuo, atque polluta es, et concubuisti cum altero viro:
@@ -278,7 +259,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sin autem declinasti a viro tuo, atque polluta es, et concubuisti cum altero viro:
   - `VulgConte (2009)`: Sin autem declinasti a viro tuo, atque polluta es, et concubuisti cum altero viro:
   - `VulgSistina (1590)`: Sin autem declinasti a viro tuo, atque polluta es, et concubuisti cum altero viro:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** his maledictionibus subjacebis: det te Dominus in maledictionem, exemplumque cunctorum in populo suo: putrescere faciat femur tuum, et tumens uterus tuus disrumpatur.
@@ -287,7 +268,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: his maledictionibus subiacebis: Det te Dominus in maledictionem, exemplumque cunctorum in populo suo: putrescere faciat femur tuum, et tumens uterus tuus disrumpatur.
   - `VulgConte (2009)`: his maledictionibus subiacebis: Det te Dominus in maledictionem, exemplumque cunctorum in populo suo: putrescere faciat femur tuum, et tumens uterus tuus disrumpatur.
   - `VulgSistina (1590)`: his maledictionibus subiacebis: Det te Dominus in maledictionem, exemplumque cunctorum in populo suo: putrescere faciat femur tuum, et tumens uterus tuus disrumpatur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ingrediantur aquæ maledictæ in ventrem tuum, et utero tumescente putrescat femur. Et respondebit mulier: Amen, amen.
@@ -296,16 +277,40 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ingrediantur aquæ maledictæ in ventrem tuum, et utero tumescente putrescat femur. Et respondebit mulier, Amen, amen.
   - `VulgConte (2009)`: Ingrediantur aquæ maledictæ in ventrem tuum, et utero tumescente putrescat femur. Et respondebit mulier: Amen, amen.
   - `VulgSistina (1590)`: ingrediantur aquae maledictae in ventrem tuum, et utero tumescente putrescat femur. Et respondebit mulier, Amen, amen.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit, et dabit ei bibere. Quas cum exhauserit, tollet sacerdos de manu ejus sacrificium zelotypiæ, et elevabit illud coram Domino, imponetque illud super altare, ita dumtaxat ut prius: pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.
-  - `Clem1598-USFX` *(numbered 5:25 in this witness)*: Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit, et dabit ei bibere. Quas cum exhauserit, tollet sacerdos de manu ejus sacrificium zelotypiæ, et elevabit illud coram Domino, imponetque illud super altare, ita dumtaxat ut prius: pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.
-  - `Clem-Saints`: Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit, et dabit ei bibere. Quas cum exhauserit, tollet sacerdos de manu ejus sacrificium zelotypiæ, et elevabit illud coram Domino, imponetque illud super altare, ita dumtaxat ut prius: pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.
-  - `VulgHetzenauer (1906)` *(numbered 5:25 in this witness)*: Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit, et dabit ei bibere. Quas cum exhauserit, tollet sacerdos de manu eius sacrificium zelotypiæ, et elevabit illud coram Domino, imponetque illud super altare: ita dumtaxat ut prius, pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.
-  - `VulgConte (2009)` *(numbered 5:25 in this witness)*: Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit, et dabit ei bibere. Quas cum exhauserit, tollet sacerdos de manu eius sacrificium zelotypiæ, et elevabit illud coram Domino, imponetque illud super altare: ita dumtaxat ut prius, pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.
-  - `VulgSistina (1590)` *(numbered 5:25 in this witness)*: Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit, et dabit ei bibere. Quas cum exhauserit, tollet sacerdos de manu eius sacrificium zelotypiae, et elevabit illud coram Domino, imponetque illud super altare: ita dumtaxat ut prius, pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 5:25 (re-aligned by content).
+- **Critical Text:** Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit,
+  - `Clem1598-USFX`: Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit,
+  - `VulgHetzenauer (1906)`: Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit,
+  - `VulgConte (2009)`: Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit,
+  - `VulgSistina (1590)`: Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
+
+### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** et dabit ei bibere. Quas cum exhauserit,
+  - `Clem1598-USFX`: et dabit ei bibere. Quas cum exhauserit,
+  - `VulgHetzenauer (1906)`: et dabit ei bibere. Quas cum exhauserit,
+  - `VulgConte (2009)`: et dabit ei bibere. Quas cum exhauserit,
+  - `VulgSistina (1590)`: et dabit ei bibere. Quas cum exhauserit,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
+
+### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** tollet sacerdos de manu ejus sacrificium zelotypiæ, et elevabit illud coram Domino, imponetque illud super altare, ita dumtaxat ut prius:
+  - `Clem1598-USFX`: tollet sacerdos de manu ejus sacrificium zelotypiæ, et elevabit illud coram Domino, imponetque illud super altare, ita dumtaxat ut prius:
+  - `Clem-Saints` *(numbered 5:23 in this witness)*: Scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit, et dabit ei bibere. Quas cum exhauserit, tollet sacerdos de manu ejus sacrificium zelotypiæ, et elevabit illud coram Domino, imponetque illud super altare, ita dumtaxat ut prius: pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.
+  - `VulgHetzenauer (1906)`: tollet sacerdos de manu eius sacrificium zelotypiæ, et elevabit illud coram Domino, imponetque illud super altare: ita dumtaxat ut prius,
+  - `VulgConte (2009)`: tollet sacerdos de manu eius sacrificium zelotypiæ, et elevabit illud coram Domino, imponetque illud super altare: ita dumtaxat ut prius,
+  - `VulgSistina (1590)`: tollet sacerdos de manu eius sacrificium zelotypiae, et elevabit illud coram Domino, imponetque illud super altare: ita dumtaxat ut prius,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
+
+### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.
+  - `Clem1598-USFX`: pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.
+  - `VulgHetzenauer (1906)`: pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.
+  - `VulgConte (2009)`: pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.
+  - `VulgSistina (1590)`: pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quas cum biberit, si polluta est, et contempto viro adulterii rea, pertransibunt eam aquæ maledictionis, et inflato ventre, computrescet femur: eritque mulier in maledictionem, et in exemplum omni populo.
@@ -314,7 +319,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quas cum biberit, si polluta est, et contempto viro adulterii rea, pertransibunt eam aquæ maledictionis, et inflato ventre computrescet femur: eritque mulier in maledictionem, et in exemplum omni populo.
   - `VulgConte (2009)`: Quas cum biberit, si polluta est, et contempto viro adulterii rea, pertransibunt eam aquæ maledictionis, et inflato ventre computrescet femur: eritque mulier in maledictionem, et in exemplum omni populo.
   - `VulgSistina (1590)`: Quas cum biberit, si polluta est, et contempto viro adulterii rea, pertransibunt eam aquae maledictionis, et inflato ventre computrescet femur: eritque mulier in maledictionem, et in exemplum omni populo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quod si polluta non fuerit, erit innoxia, et faciet liberos.
@@ -323,7 +328,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quod si polluta non fuerit, erit innoxia, et faciet liberos.
   - `VulgConte (2009)`: Quod si polluta non fuerit, erit innoxia, et faciet liberos.
   - `VulgSistina (1590)`: Quod si polluta non fuerit, erit innoxia, et faciet liberos.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ista est lex zelotypiæ. Si declinaverit mulier a viro suo, et si polluta fuerit,
@@ -332,7 +337,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ista est lex zelotypiæ. Si declinaverit mulier a viro suo, et si polluta fuerit,
   - `VulgConte (2009)`: Ista est lex zelotypiæ. Si declinaverit mulier a viro suo, et si polluta fuerit,
   - `VulgSistina (1590)`: Ista est lex zelotypiae. Si declinaverit mulier a viro suo, et si polluta fuerit,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** maritusque zelotypiæ spiritu concitatus adduxerit eam in conspectu Domini, et fecerit ei sacerdos juxta omnia quæ scripta sunt:
@@ -341,7 +346,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: maritusque zelotypiæ spiritu concitatus adduxerit eam in conspectu Domini, et fecerit ei sacerdos iuxta omnia quæ scripta sunt:
   - `VulgConte (2009)`: maritusque zelotypiæ spiritu concitatus adduxerit eam in conspectu Domini, et fecerit ei sacerdos iuxta omnia quæ scripta sunt:
   - `VulgSistina (1590)`: maritusque zelotypiae spiritu concitatus adduxerit eam in conspectu Domini, et fecerit ei sacerdos iuxta omnia quae scripta sunt:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** maritus absque culpa erit, et illa recipiet iniquitatem suam.
@@ -350,4 +355,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: maritus absque culpa erit, et illa recipiet iniquitatem suam.
   - `VulgConte (2009)`: maritus absque culpa erit, et illa recipiet iniquitatem suam.
   - `VulgSistina (1590)`: maritus absque culpa erit, et illa recipiet iniquitatem suam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

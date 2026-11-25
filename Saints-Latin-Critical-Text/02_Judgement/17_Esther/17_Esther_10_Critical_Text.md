@@ -1,8 +1,8 @@
 # Esther 10 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:30Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,35 +14,35 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - VulgConte (2009): 10:1 not collated (wording does not match the reference verse)
 - VulgConte (2009): 10:2 not collated (wording does not match the reference verse)
 - VulgConte (2009): 10:3 not collated (wording does not match the reference verse)
+- VulgConte (2009): 10:4 not collated (wording does not match the reference verse)
+- VulgConte (2009): 10:5 not collated (wording does not match the reference verse)
+- VulgConte (2009): 10:6 not collated (wording does not match the reference verse)
+- VulgConte (2009): 10:7 not collated (wording does not match the reference verse)
+- VulgConte (2009): 10:8 not collated (wording does not match the reference verse)
+- VulgConte (2009): 10:9 not collated (wording does not match the reference verse)
+- VulgConte (2009): 10:10 not collated (wording does not match the reference verse)
+- VulgConte (2009): 10:11 not collated (wording does not match the reference verse)
+- VulgConte (2009): 10:12 not collated (wording does not match the reference verse)
+- VulgConte (2009): 10:13 not collated (wording does not match the reference verse)
 
 ---
 
@@ -67,47 +67,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Esther 10:4
-- **Apparatus:** `Dixitque Mardochæus: A Deo facta sunt ista.` Clem1598-USFX VulgSistina (1590) **]** **Statimque rex, Quis est, inquit, in atrio? Aman quippe interius atrium domus regiæ intraverat, ut suggereret regi, et iuberet Mardochæum affigi patibulo, quod ei fuerat præparatum.** VulgConte (2009) ; **Dixitque Merdochæus: A Deo facta sunt ista.** VulgHetzenauer (1906)
-- **Apparatus:** `Mardochæus:` Clem1598-USFX VulgSistina (1590) **]** **Merdochæus:** VulgHetzenauer (1906) ; **rex,** VulgConte (2009)
-
-### Esther 10:5
-- **Apparatus:** `Recordatus sum somnii quod videram, hæc eadem significantis: nec eorum quidquam irritum fuit.` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **Responderunt pueri: Aman stat in atrio. Dixitque rex: Ingrediatur.** VulgConte (2009)
-
-### Esther 10:6
-- **Apparatus:** `Parvus fons, qui crevit` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **Cumque esset ingressus, ait illi: Quid debet fieri viro, quem rex honorare desiderat? Cogitans autem** VulgConte (2009)
-- **Apparatus:** `fluvium,` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **corde suo Aman,** VulgConte (2009)
-- **Apparatus:** `in lucem solemque conversus est, et in aquas plurimas redundavit: Esther est quam` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **reputans quod nullum alium** VulgConte (2009)
-- **Apparatus:** `accepit uxorem, et voluit esse reginam.` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **nisi se, vellet honorare,** VulgConte (2009)
-
-### Esther 10:7
-- **Apparatus:** `Duo autem dracones: ego sum, et Aman.` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **respondit: Homo, quem rex honorare cupit,** VulgConte (2009)
-
-### Esther 10:8
-- **Apparatus:** `Gentes, quæ convenerant: hi sunt,` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **debet indui vestibus regiis, et imponi super equum,** VulgConte (2009)
-- **Apparatus:** `conati sunt delere nomen Judæorum.` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **de sella regis est, et accipere regium diadema super caput suum,** VulgConte (2009)
-
-### Esther 10:9
-- **Apparatus:** `Gens autem mea Israël est, quæ clamavit ad Dominum,` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VulgConte (2009)
-- **Apparatus:** `salvum fecit Dominus populum suum: liberavitque nos ab omnibus malis,` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **primus de regiis principibus, ac tyrannis teneat equum eius,** VulgConte (2009)
-- **Apparatus:** `fecit signa magna atque portenta inter gentes:` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **per plateam civitatis incedens clamet, et dicat: Sic honorabitur, quemcumque voluerit rex honorare.** VulgConte (2009)
-
-### Esther 10:10
-- **Apparatus:** `om.` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **Dixitque ei rex: Festina,** VulgConte (2009)
-- **Apparatus:** `duas sortes esse præcepit, unam populi Dei,` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **sumpta stola** VulgConte (2009)
-- **Apparatus:** `alteram cunctarum gentium.` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **equo, fac, ut locutus es, Mardochæo Iudæo, qui sedet ante fores palatii. Cave ne quidquam de his, quæ locutus es, prætermittas.** VulgConte (2009)
-
-### Esther 10:11
-- **Apparatus:** `Venitque utraque sors` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **Tulit itaque Aman stolam et equum, indutumque Mardochæum** VulgConte (2009)
-- **Apparatus:** `statutum ex illo jam tempore diem coram Deo universis gentibus:` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **platea civitatis, et impositum equo præcedebat, atque clamabat: Hoc honore condignus est, quemcumque rex voluerit honorare.** VulgConte (2009)
+- **Apparatus:** `Mardochæus:` Clem1598-USFX VulgSistina (1590) **]** **Merdochæus:** VulgHetzenauer (1906)
 
 ### Esther 10:12
-- **Apparatus:** `om.` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **Reversusque est Mardochæus ad ianuam palatii:** VulgConte (2009)
-- **Apparatus:** `recordatus est Dominus populi sui, ac misertus est hæreditatis suæ.` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **Aman festinavit ire in domum suam, lugens et operto capite:** VulgConte (2009)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `hæreditatis / hereditatis`, `hæreditatis / hereditatis`, `hæreditatis / hereditatis` (VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
-
-### Esther 10:13
-- **Apparatus:** `om.` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **Adhuc illis loquentibus, venerunt eunuchi regis,** VulgConte (2009)
-- **Apparatus:** `observabuntur dies isti in mense Adar quartadecima et quintadecima die ejusdem mensis, cum omni studio et gaudio, in unum cœtum populi congregati, in cunctas deinceps generationes populi Israël.` Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **cito eum ad convivium, quod regina paraverat, pergere compulerunt.** VulgConte (2009)
 
 ---
 
@@ -119,7 +82,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: Rex vero Assuerus omnem terram et cunctas maris insulas fecit tributarias:
   - `VulgHetzenauer (1906)`: Rex vero Assuerus omnem terram, et cunctas maris insulas fecit tributarias:
   - `VulgSistina (1590)`: Rex vero Assuerus omnem terram, et cunctas maris insulas fecit tributarias:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** cujus fortitudo et imperium, et dignitas atque sublimitas, qua exaltavit Mardochæum, scripta sunt in libris Medorum, atque Persarum:
@@ -127,7 +90,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: cujus fortitudo et imperium, et dignitas atque sublimitas, qua exaltavit Mardochæum, scripta sunt in libris Medorum, atque Persarum:
   - `VulgHetzenauer (1906)`: cuius fortitudo et imperium, et dignitas atque sublimitas, qua exaltavit Mardochæum, scripta sunt in libris Medorum, atque Persarum:
   - `VulgSistina (1590)`: cuius fortitudo et imperium, et dignitas atque sublimitas, qua exaltavit Mardochaeum, scripta sunt in libris Medorum, atque Persarum:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et quomodo Mardochæus judaici generis secundus a rege Assuero fuerit, et magnus apud Judæos, et acceptabilis plebi fratrum suorum, quærens bona populo suo, et loquens ea quæ ad pacem seminis sui pertinerent.
@@ -135,13 +98,12 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: et quomodo Mardochæus judaici generis secundus a rege Assuero fuerit, et magnus apud Judæos, et acceptabilis plebi fratrum suorum, quærens bona populo suo, et loquens ea quæ ad pacem seminis sui pertinerent.
   - `VulgHetzenauer (1906)`: et quomodo Mardochæus Iudaici generis secundus a rege Assuero fuerit: et magnus apud Iudæos et acceptabilis plebi fratrum suorum, quærens bona populo suo, et loquens ea, quæ ad pacem seminis sui pertinerent.
   - `VulgSistina (1590)`: et quomodo Mardochaeus Iudaici generis secundus a rege Assuero fuerit: et magnus apud Iudaeos et acceptabilis plebi fratrum suorum, quaerens bona populo suo, et loquens ea, quae ad pacem seminis sui pertinerent.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixitque Mardochæus: A Deo facta sunt ista.
   - `Clem1598-USFX`: Dixitque Mardochæus: A Deo facta sunt ista.
   - `VulgHetzenauer (1906)`: Dixitque Merdochæus: A Deo facta sunt ista.
-  - `VulgConte (2009)`: Statimque rex, Quis est, inquit, in atrio? Aman quippe interius atrium domus regiæ intraverat, ut suggereret regi, et iuberet Mardochæum affigi patibulo, quod ei fuerat præparatum.
   - `VulgSistina (1590)`: Dixitque Mardochaeus: A Deo facta sunt ista.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
@@ -149,7 +111,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** Recordatus sum somnii quod videram, hæc eadem significantis: nec eorum quidquam irritum fuit.
   - `Clem1598-USFX`: Recordatus sum somnii quod videram, hæc eadem significantis: nec eorum quidquam irritum fuit.
   - `VulgHetzenauer (1906)`: Recordatus sum somnii, quod videram, hæc eadem significantis: nec eorum quidquam irritum fuit.
-  - `VulgConte (2009)`: Responderunt pueri: Aman stat in atrio. Dixitque rex: Ingrediatur.
   - `VulgSistina (1590)`: Recordatus sum somnii, quod videram, haec eadem significantis: nec eorum quidquam irritum fuit.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
@@ -157,7 +118,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** Parvus fons, qui crevit in fluvium, et in lucem solemque conversus est, et in aquas plurimas redundavit: Esther est quam rex accepit uxorem, et voluit esse reginam.
   - `Clem1598-USFX`: Parvus fons, qui crevit in fluvium, et in lucem solemque conversus est, et in aquas plurimas redundavit: Esther est quam rex accepit uxorem, et voluit esse reginam.
   - `VulgHetzenauer (1906)`: Parvus fons, qui crevit in fluvium, et in lucem, solemque conversus est, et in aquas plurimas redundavit: Esther est, quam rex accepit uxorem, et voluit esse reginam.
-  - `VulgConte (2009)`: Cumque esset ingressus, ait illi: Quid debet fieri viro, quem rex honorare desiderat? Cogitans autem in corde suo Aman, et reputans quod nullum alium rex, nisi se, vellet honorare,
   - `VulgSistina (1590)`: Parvus fons, qui crevit in fluvium, et in lucem, solemque conversus est, et in aquas plurimas redundavit: Esther est, quam rex accepit uxorem, et voluit esse reginam.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
@@ -165,7 +125,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** Duo autem dracones: ego sum, et Aman.
   - `Clem1598-USFX`: Duo autem dracones: ego sum, et Aman.
   - `VulgHetzenauer (1906)`: Duo autem dracones: ego sum, et Aman.
-  - `VulgConte (2009)`: respondit: Homo, quem rex honorare cupit,
   - `VulgSistina (1590)`: Duo autem dracones: ego sum, et Aman.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
@@ -173,7 +132,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** Gentes, quæ convenerant: hi sunt, qui conati sunt delere nomen Judæorum.
   - `Clem1598-USFX`: Gentes, quæ convenerant: hi sunt, qui conati sunt delere nomen Judæorum.
   - `VulgHetzenauer (1906)`: Gentes, quæ convenerant: hi sunt, qui conati sunt delere nomen Iudæorum.
-  - `VulgConte (2009)`: debet indui vestibus regiis, et imponi super equum, qui de sella regis est, et accipere regium diadema super caput suum,
   - `VulgSistina (1590)`: Gentes, quae convenerant: hi sunt, qui conati sunt delere nomen Iudaeorum.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
@@ -181,7 +139,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** Gens autem mea Israël est, quæ clamavit ad Dominum, et salvum fecit Dominus populum suum: liberavitque nos ab omnibus malis, et fecit signa magna atque portenta inter gentes:
   - `Clem1598-USFX`: Gens autem mea Israël est, quæ clamavit ad Dominum, et salvum fecit Dominus populum suum: liberavitque nos ab omnibus malis, et fecit signa magna atque portenta inter gentes:
   - `VulgHetzenauer (1906)`: Gens autem mea: Israel est, quæ clamavit ad Dominum, et salvum fecit Dominus populum suum: liberavitque nos ab omnibus malis, et fecit signa magna atque portenta inter Gentes:
-  - `VulgConte (2009)`: et primus de regiis principibus, ac tyrannis teneat equum eius, et per plateam civitatis incedens clamet, et dicat: Sic honorabitur, quemcumque voluerit rex honorare.
   - `VulgSistina (1590)`: Gens autem mea: Israel est, quae clamavit ad Dominum, et salvum fecit Dominus populum suum: liberavitque nos ab omnibus malis, et fecit signa magna atque portenta inter Gentes:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
@@ -189,7 +146,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** et duas sortes esse præcepit, unam populi Dei, et alteram cunctarum gentium.
   - `Clem1598-USFX`: et duas sortes esse præcepit, unam populi Dei, et alteram cunctarum gentium.
   - `VulgHetzenauer (1906)`: et duas sortes esse præcepit, unam Populi Dei, et alteram cunctarum Gentium.
-  - `VulgConte (2009)`: Dixitque ei rex: Festina, et sumpta stola et equo, fac, ut locutus es, Mardochæo Iudæo, qui sedet ante fores palatii. Cave ne quidquam de his, quæ locutus es, prætermittas.
   - `VulgSistina (1590)`: et duas sortes esse praecepit, unam Populi Dei, et alteram cunctarum Gentium.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
@@ -197,7 +153,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** Venitque utraque sors in statutum ex illo jam tempore diem coram Deo universis gentibus:
   - `Clem1598-USFX`: Venitque utraque sors in statutum ex illo jam tempore diem coram Deo universis gentibus:
   - `VulgHetzenauer (1906)`: Venitque utraque sors in statutum ex illo iam tempore diem coram Deo universis gentibus:
-  - `VulgConte (2009)`: Tulit itaque Aman stolam et equum, indutumque Mardochæum in platea civitatis, et impositum equo præcedebat, atque clamabat: Hoc honore condignus est, quemcumque rex voluerit honorare.
   - `VulgSistina (1590)`: Venitque utraque sors in statutum ex illo iam tempore diem coram Deo universis gentibus:
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
@@ -205,7 +160,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** et recordatus est Dominus populi sui, ac misertus est hæreditatis suæ.
   - `Clem1598-USFX`: et recordatus est Dominus populi sui, ac misertus est hæreditatis suæ.
   - `VulgHetzenauer (1906)`: et recordatus est Dominus populi sui, ac misertus est hereditatis suæ.
-  - `VulgConte (2009)`: Reversusque est Mardochæus ad ianuam palatii: et Aman festinavit ire in domum suam, lugens et operto capite:
   - `VulgSistina (1590)`: et recordatus est Dominus populi sui, ac misertus est hereditatis suae.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
@@ -213,6 +167,5 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - **Critical Text:** Et observabuntur dies isti in mense Adar quartadecima et quintadecima die ejusdem mensis, cum omni studio et gaudio, in unum cœtum populi congregati, in cunctas deinceps generationes populi Israël.
   - `Clem1598-USFX`: Et observabuntur dies isti in mense Adar quartadecima et quintadecima die ejusdem mensis, cum omni studio et gaudio, in unum cœtum populi congregati, in cunctas deinceps generationes populi Israël.
   - `VulgHetzenauer (1906)`: Et observabuntur dies isti in mense Adar quartadecima, et quintadecima die eiusdem mensis, cum omni studio, et gaudio in unum cœtum populi congregati, in cunctas deinceps generationes populi Israel.
-  - `VulgConte (2009)`: Adhuc illis loquentibus, venerunt eunuchi regis, et cito eum ad convivium, quod regina paraverat, pergere compulerunt.
   - `VulgSistina (1590)`: Et observabuntur dies isti in mense Adar quartadecima, et quintadecima die eiusdem mensis, cum omni studio, et gaudio in unum coetum populi congregati, in cunctas deinceps generationes populi Israel.
 - **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

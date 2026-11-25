@@ -1,8 +1,8 @@
 # Acts 27 — Saints Latin Critical Text
 
-**Division:** `06_Discipleship` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:28Z`
+**Division:** `06_Discipleship` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:10Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Full 27-Book NT) | Tier 2 | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
@@ -29,16 +29,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -94,40 +85,40 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Acts 27:1
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **eum** Amiatinus (A)
-- **Apparatus:** `eum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **eum** Amiatinus (A)
+- **Apparatus:** `eum` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
 
 ### Acts 27:2
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **autem** Amiatinus (A)
-- **Apparatus:** `Adrumetinam, incipientes` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **hadrumetinam incipientem** Amiatinus (A)
-- **Apparatus:** `sustulimus,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **egressi sumus** Amiatinus (A)
-- **Apparatus:** `Thessalonicensi.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **thessalonicense** Amiatinus (A)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **autem** Amiatinus (A)
+- **Apparatus:** `Adrumetinam, incipientes` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **hadrumetinam incipientem** Amiatinus (A)
+- **Apparatus:** `sustulimus,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **egressi sumus** Amiatinus (A)
+- **Apparatus:** `Thessalonicensi.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **thessalonicense** Amiatinus (A)
 
 ### Acts 27:4
-- **Apparatus:** `Cyprum,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cypro** Amiatinus (A)
+- **Apparatus:** `Cyprum,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cypro** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `propterea / propter ea` (VulgConte (2009)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Acts 27:5
-- **Apparatus:** `Lyciæ:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ciliciae** Amiatinus (A)
+- **Apparatus:** `Lyciæ:` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ciliciae** Amiatinus (A)
 
 ### Acts 27:7
-- **Apparatus:** `juxta` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **secundum** Amiatinus (A)
+- **Apparatus:** `juxta` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **secundum** Amiatinus (A)
 
 ### Acts 27:8
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quemdam / quendam`, `quemdam / quendam`, `quemdam / quendam,`, `quemdam / quendam,`, `quemdam / quendam,` (Amiatinus (A), VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Boniportus, / boni portus`, `Boniportus, / Boni portus`, `Boniportus, / Boni Portus,` (Amiatinus (A), VulgConte (2009)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Acts 27:9
-- **Apparatus:** `et` Clem-Saints Clem1598-USFX Amiatinus (A) VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
-- **Apparatus:** `eos` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `et` Clem1598-USFX Amiatinus (A) Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
+- **Apparatus:** `eos` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `præteriisset, / praeterisset`, `præteriisset, / praeterisset`, `præteriisset, / praeterisset,` (Amiatinus (A), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Acts 27:11
-- **Apparatus:** `nauclero` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **nauclerio** Amiatinus (A)
+- **Apparatus:** `nauclero` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **nauclerio** Amiatinus (A)
 
 ### Acts 27:12
-- **Apparatus:** `Phœnicen` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **phoenicem** Amiatinus (A)
-- **Apparatus:** `respicientem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **respicienteem** Amiatinus (A)
+- **Apparatus:** `Phœnicen` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **phoenicem** Amiatinus (A)
+- **Apparatus:** `respicientem` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **respicienteem** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quomodo / quo modo`, `quomodo / quo modo` (Amiatinus (A)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Corum. / chorum`, `Corum. / chorum` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
@@ -135,24 +126,24 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Aspirante / adspirante`, `Aspirante / adspirante` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Acts 27:16
-- **Apparatus:** `In` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
-- **Apparatus:** `obtinere` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **optinere** Amiatinus (A)
+- **Apparatus:** `In` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `obtinere` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **optinere** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quamdam / quandam`, `quamdam / quandam`, `quamdam / quandam`, `quamdam / quandam`, `quamdam / quandam` (Amiatinus (A), VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Acts 27:17
-- **Apparatus:** `Syrtim` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **syrtem** Amiatinus (A)
+- **Apparatus:** `Syrtim` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **syrtem** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `summisso / submisso`, `summisso / submisso` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Acts 27:18
-- **Apparatus:** `Valida` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ualide** Amiatinus (A)
+- **Apparatus:** `Valida` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ualide** Amiatinus (A)
 
 ### Acts 27:20
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sole** Amiatinus (A)
-- **Apparatus:** `sole,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sole** Amiatinus (A)
+- **Apparatus:** `sole,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `imminente, / inminente`, `imminente, / inminente` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Acts 27:21
-- **Apparatus:** `tollere` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **egredi** Amiatinus (A)
+- **Apparatus:** `tollere` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **egredi** Amiatinus (A)
 
 ### Acts 27:23
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Astitit / adstitit`, `Astitit / adstitit` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -164,30 +155,30 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quamdam / quandam`, `quamdam / quandam`, `quamdam / quandam`, `quamdam / quandam`, `quamdam / quandam` (Amiatinus (A), VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Acts 27:27
-- **Apparatus:** `Adria` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **hadria** Amiatinus (A)
+- **Apparatus:** `Adria` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **hadria** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `posteaquam / postea quam` (VulgConte (2009)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Acts 27:28
-- **Apparatus:** `et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
-- **Apparatus:** `et summittentes bolidem,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **submittentes** Amiatinus (A)
-- **Apparatus:** `bolidem,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `et` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `et summittentes bolidem,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **submittentes** Amiatinus (A)
+- **Apparatus:** `bolidem,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quindecim. / ·xv·` (Amiatinus (A)) — *Apparatus witness, not a variant: Roman-numeral abbreviation matched to an attested spelled-out Latin number of the same value*
 
 ### Acts 27:29
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quatuor, / quattuor`, `quatuor, / quattuor`, `quatuor, / quattuor,`, `quatuor, / quattuor,`, `quatuor, / quattuor,` (Amiatinus (A), VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Acts 27:30
-- **Apparatus:** `obtentu` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **optentu** Amiatinus (A)
-- **Apparatus:** `inciperent` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **inciperent** Amiatinus (A)
+- **Apparatus:** `obtentu` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **optentu** Amiatinus (A)
+- **Apparatus:** `inciperent` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **inciperent** Amiatinus (A)
 
 ### Acts 27:33
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **hodie** Amiatinus (A)
-- **Apparatus:** `hodie exspectantes` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **expectantes** Amiatinus (A)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **hodie** Amiatinus (A)
+- **Apparatus:** `hodie exspectantes` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **expectantes** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `exspectantes / expectantes`, `exspectantes / expectantes`, `exspectantes / expectantes` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Acts 27:36
-- **Apparatus:** `sumpserunt` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **adsumpserunt** Amiatinus (A)
+- **Apparatus:** `sumpserunt` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **adsumpserunt** Amiatinus (A)
 
 ### Acts 27:38
 - *Disregarded Surface Variant:* kept `(adopted text)` over `alleviabant / adleuiabant`, `alleviabant / adleviabant` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -196,24 +187,24 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quemdam / quendam`, `littus, / litus`, `ejicere / eicere`, `quemdam / quendam`, `littus, / litus`, `ejicere / eicere`, `quemdam / quendam`, `quemdam / quendam`, `quemdam / quendam` (Amiatinus (A), VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Acts 27:40
-- **Apparatus:** `sustulissent,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **abstulissent** Amiatinus (A)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **flatum** Amiatinus (A)
-- **Apparatus:** `flatum,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `sustulissent,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **abstulissent** Amiatinus (A)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **flatum** Amiatinus (A)
+- **Apparatus:** `flatum,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `littus. / litus`, `littus. / litus` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Acts 27:41
-- **Apparatus:** `dithalassum, impegerunt` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **bithalassum inpegerunt** Amiatinus (A)
+- **Apparatus:** `dithalassum, impegerunt` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **bithalassum inpegerunt** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `immobilis, / inmobilis`, `immobilis, / inmobilis` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Acts 27:42
 - *Disregarded Surface Variant:* kept `(adopted text)` over `ne quis / nequis`, `ne quis / nequis` (VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Acts 27:43
-- **Apparatus:** `emittere` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **mittere** Amiatinus (A)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **in mare** Amiatinus (A) VulgSistina (1590)
+- **Apparatus:** `emittere` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **mittere** Amiatinus (A)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **in mare** Amiatinus (A) VulgSistina (1590)
 
 ### Acts 27:44
-- **Apparatus:** `erant.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **essent** Amiatinus (A)
+- **Apparatus:** `erant.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **essent** Amiatinus (A)
 
 ---
 
@@ -227,7 +218,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Vt autem iudicatum est eum nauigare in italiam et tradi paulum cum reliquis custodiis centurioni nomine iulio cohortis augustae
   - `VulgConte (2009)`: Ut autem iudicatum est navigare eum in Italiam, et tradi Paulum cum reliquis custodiis centurioni nomine Iulio cohortis Augustæ,
   - `VulgSistina (1590)`: Ut autem iudicatum est navigare eum in Italiam, et tradi Paulum cum reliquis custodiis centurioni nomine Iulio cohortis Augustae,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ascendentes navem Adrumetinam, incipientes navigare circa Asiæ loca, sustulimus, perseverante nobiscum Aristarcho Macedone Thessalonicensi.
@@ -237,7 +228,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: ascendentes autem nauem hadrumetinam incipientem nauigare circa asiae loca egressi sumus perseuerante nobiscum aristarcho macedone thessalonicense
   - `VulgConte (2009)`: ascendentes navem Adrumetinam, incipientes navigare circa Asiæ loca, sustulimus, perseverante nobiscum Aristarcho Macedone Thessalonicensi.
   - `VulgSistina (1590)`: ascendentes navem Adrumetinam, incipientes navigare circa Asiae loca, sustulimus, perseverante nobiscum Aristarcho Macedone Thessalonicensi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sequenti autem die devenimus Sidonem. Humane autem tractans Julius Paulum, permisit ad amicos ire, et curam sui agere.
@@ -247,7 +238,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: sequenti autem die deuenimus sidonem humane autem tractans iulius paulum permisit ad amicos ire et curam sui agere
   - `VulgConte (2009)`: Sequenti autem die devenimus Sidonem. Humane autem tractans Iulius Paulum, permisit ad amicos ire, et curam sui agere.
   - `VulgSistina (1590)`: Sequenti autem die devenimus Sidonem. Humane autem tractans Iulius Paulum, permisit ad amicos ire, et curam sui agere.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et inde cum sustulissemus, subnavigavimus Cyprum, propterea quod essent venti contrarii.
@@ -257,7 +248,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et inde cum sustulissemus subnauigauimus cypro propterea quod essent uenti contrarii
   - `VulgConte (2009)`: Et inde cum sustulissemus, subnavigavimus Cyprum, propter ea quod essent venti contrarii.
   - `VulgSistina (1590)`: Et inde cum sustulissemus, subnavigavimus Cyprum, propterea quod essent venti contrarii.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et pelagus Ciliciæ et Pamphyliæ navigantes, venimus Lystram, quæ est Lyciæ:
@@ -267,7 +258,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et pelagus ciliciae et pamphyliae nauigantes uenimus lystram quae est ciliciae
   - `VulgConte (2009)`: Et pelagus Ciliciæ, et Pamphyliæ navigantes, venimus Lystram, quæ est Lyciæ:
   - `VulgSistina (1590)`: Et pelagus Ciliciae, et Pamphyliae navigantes, venimus Lystram, quae est Lyciae:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et ibi inveniens centurio navem Alexandrinam navigantem in Italiam, transposuit nos in eam.
@@ -277,7 +268,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et ibi inueniens centurio nauem alexandrinam nauigantem in italiam transposuit nos in eam
   - `VulgConte (2009)`: et ibi inveniens centurio navem Alexandrinam navigantem in Italiam, transposuit nos in eam.
   - `VulgSistina (1590)`: et ibi inveniens centurio navem Alexandrinam navigantem in Italiam, transposuit nos in eam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cum multis diebus tarde navigaremus, et vix devenissemus contra Gnidum, prohibente nos vento, adnavigavimus Cretæ juxta Salmonem:
@@ -287,7 +278,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et cum multis diebus tarde nauigaremus et uix deuenissemus contra […] prohibente nos uento adnauigauimus cretae secundum salmonem
   - `VulgConte (2009)`: Et cum multis diebus tarde navigaremus, et vix devenissemus contra Gnidum, prohibente nos vento, adnavigavimus Cretæ iuxta Salmonem:
   - `VulgSistina (1590)`: Et cum multis diebus tarde navigaremus, et vix devenissemus contra Gnidum, prohibente nos vento, adnavigavimus Cretae iuxta Salmonem:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et vix juxta navigantes, venimus in locum quemdam qui vocatur Boniportus, cui juxta erat civitas Thalassa.
@@ -297,7 +288,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et uix iuxta nauigantes uenimus in locum quendam qui uocatur boni portus cui iuxta erat ciuitas thalassa
   - `VulgConte (2009)`: et vix iuxta navigantes, venimus in locum quendam, qui vocatur Boni Portus, cui iuxta erat civitas Thalassa.
   - `VulgSistina (1590)`: et vix iuxta navigantes, venimus in locum quendam, qui vocatur Boniportus, cui iuxta erat civitas Thalassa.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Multo autem tempore peracto, et cum jam non esset tuta navigatio eo quod et jejunium jam præteriisset, consolabatur eos Paulus,
@@ -307,7 +298,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: multo autem tempore peracto et cum iam non esset tuta nauigatio eo quod et ieiunium iam praeterisset consolabatur paulus
   - `VulgConte (2009)`: Multo autem tempore peracto, et cum iam non esset tuta navigatio, eo quod et ieiunium iam præteriisset, consolabatur eos Paulus,
   - `VulgSistina (1590)`: Multo autem tempore peracto, et cum iam non esset tuta navigatio, eo quod ieiunium iam praeterisset, consolabatur eos Paulus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** dicens eis: Viri, video quoniam cum injuria et multo damno non solum oneris, et navis, sed etiam animarum nostrarum incipit esse navigatio.
@@ -317,7 +308,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: dicens eis uiri uideo quoniam cum iniuria et multo damno non solum oneris et nauis sed etiam animarum nostrarum incipit esse nauigatio
   - `VulgConte (2009)`: dicens eis: Viri, video quoniam cum iniuria, et multo damno non solum oneris, et navis, sed etiam animarum nostrarum incipit esse navigatio.
   - `VulgSistina (1590)`: dicens eis: Viri, video quoniam cum iniuria, et multo damno non solum oneris, et navis, sed etiam animarum nostrarum incipit esse navigatio.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Centurio autem gubernatori et nauclero magis credebat, quam his quæ a Paulo dicebantur.
@@ -327,7 +318,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: centurio autem gubernatori et nauclerio magis credebat quam his quae a paulo dicebantur
   - `VulgConte (2009)`: Centurio autem gubernatori et nauclero magis credebat, quam his, quæ a Paulo dicebantur.
   - `VulgSistina (1590)`: Centurio autem gubernatori et nauclero magis credebat, quam his, quae a Paulo dicebantur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cum aptus portus non esset ad hiemandum, plurimi statuerunt consilium navigare inde, si quomodo possent, devenientes Phœnicen hiemare, portum Cretæ respicientem ad Africum et ad Corum.
@@ -337,7 +328,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et cum aptus portus non esset ad hiemandum plurimi statuerunt consilium nauigare inde si quo modo possent deuenientes phoenicem hiemare portum cretae respicienteem ad africum et ad chorum
   - `VulgConte (2009)`: Et cum aptus portus non esset ad hiemandum, plurimi statuerunt consilium navigare inde, si quomodo possent, devenientes Phœnicen, hiemare, portum Cretæ respicientem ad Africum, et ad Corum.
   - `VulgSistina (1590)`: Et cum aptus portus non esset ad hiemandum, plurimi statuerunt consilium navigare inde, si quomodo possent, devenientes Phoenicen, hiemare, portum Cretae respicientem ad Africum, et ad Corum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Aspirante autem austro, æstimantes propositum se tenere, cum sustulissent de Asson, legebant Cretam.
@@ -347,7 +338,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: adspirante autem austro aestimantes propositum se tenere cum sustulissent de […] legebant cretam
   - `VulgConte (2009)`: Aspirante autem Austro, æstimantes propositum se tenere, cum sustulissent de Asson, legebant Cretam.
   - `VulgSistina (1590)`: Aspirante autem Austro, aestimantes propositum se tenere, cum sustulissent de Asson, legebant Cretam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Non post multum autem misit se contra ipsam ventus typhonicus, qui vocatur Euroaquilo.
@@ -357,7 +348,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: non post multum autem misit se contra ipsam uentus typhonicus qui uocatur euroaquilo
   - `VulgConte (2009)`: Non post multum autem misit se contra ipsam ventus Typhonicus, qui vocatur Euroaquilo.
   - `VulgSistina (1590)`: Non post multum autem misit se contra ipsam ventus Typhonicus, qui vocatur Euroaquilo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque arrepta esset navis, et non posset conari in ventum, data nave flatibus, ferebamur.
@@ -367,7 +358,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: cumque arrepta esset nauis et non posset conari in uentum data naue flatibus ferebamur
   - `VulgConte (2009)`: Cumque arrepta esset navis, et non posset conari in ventum, data nave flatibus, ferebamur.
   - `VulgSistina (1590)`: Cumque arrepta esset navis, et non posset conari in ventum, data nave flatibus, ferebamur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In insulam autem quamdam decurrentes, quæ vocatur Cauda, potuimus vix obtinere scapham.
@@ -377,7 +368,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Insulam autem quandam decurrentes quae uocatur cauda potuimus uix optinere scapham
   - `VulgConte (2009)`: In insulam autem quandam decurrentes, quæ vocatur Cauda, potuimus vix obtinere scapham.
   - `VulgSistina (1590)`: In insulam autem quandam decurrentes, quae vocatur Cauda, potuimus vix obtinere scapham.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qua sublata, adjutoriis utebantur, accingentes navem, timentes ne in Syrtim inciderent, summisso vase sic ferebantur.
@@ -387,7 +378,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: qua sublata adiutoriis utebantur accingentes nauem timentes ne in syrtem inciderent submisso uase sic ferebantur
   - `VulgConte (2009)`: Qua sublata, adiutoriis utebantur, accingentes navem, timentes ne in Syrtim inciderent, summisso vase sic ferebantur.
   - `VulgSistina (1590)`: Qua sublata, adiutoriis utebantur, accingentes navem, timentes ne in Syrtim inciderent, summisso vase sic ferebantur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Valida autem nobis tempestate jactatis, sequenti die jactum fecerunt:
@@ -397,7 +388,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: ualide autem nobis tempestate iactatis sequenti die iactum fecerunt
   - `VulgConte (2009)`: Valida autem nobis tempestate iactatis, sequenti die iactum fecerunt:
   - `VulgSistina (1590)`: Valida autem nobis tempestate iactatis, sequenti die iactum fecerunt:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et tertia die suis manibus armamenta navis projecerunt.
@@ -407,7 +398,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et tertia die suis manibus armamenta nauis proiecerunt
   - `VulgConte (2009)`: et tertia die suis manibus armamenta navis proiecerunt.
   - `VulgSistina (1590)`: et tertia die suis manibus armamenta navis proiecerunt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Neque autem sole, neque sideribus apparentibus per plures dies, et tempestate non exigua imminente, jam ablata erat spes omnis salutis nostræ.
@@ -417,7 +408,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: neque sole autem neque sideribus apparentibus per plures dies et tempestate non exigua inminente iam ablata erat spes omnis salutis nostrae
   - `VulgConte (2009)`: Neque autem sole, neque sideribus apparentibus per plures dies, et tempestate non exigua imminente, iam ablata erat spes omnis salutis nostræ.
   - `VulgSistina (1590)`: Neque autem sole, neque sideribus apparentibus per plures dies, et tempestate non exigua imminente, iam ablata erat spes omnis salutis nostrae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cum multa jejunatio fuisset, tunc stans Paulus in medio eorum, dixit: Oportebat quidem, o viri, audito me, non tollere a Creta, lucrique facere injuriam hanc et jacturam.
@@ -427,7 +418,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et cum multa ieiunatio fuisset tunc stans paulus in medio eorum dixit Oportebat quidem o uiri audito me non egredi a creta lucrique facere iniuriam hanc et iacturam
   - `VulgConte (2009)`: Et cum multa ieiunatio fuisset, tunc stans Paulus in medio eorum, dixit: Oportebat quidem, o viri, audito me, non tollere a Creta, lucrique facere iniuriam hanc, et iacturam.
   - `VulgSistina (1590)`: Et cum multa ieiunatio fuisset, tunc stans Paulus in medio eorum, dixit: Oportebat quidem, o viri, audito me, non tollere a Creta, lucrique facere iniuriam hanc, et iacturam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et nunc suadeo vobis bono animo esse: amissio enim nullius animæ erit ex vobis, præterquam navis.
@@ -437,7 +428,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et nunc suadeo uobis bono animo esse amissio enim nullius animae erit ex uobis praeterquam nauis
   - `VulgConte (2009)`: Et nunc suadeo vobis bono animo esse. Amissio enim nullius animæ erit ex vobis, præterquam navis.
   - `VulgSistina (1590)`: Et nunc suadeo vobis bono animo esse. amissio enim nullius animae erit ex vobis, praeterquam navis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Astitit enim mihi hac nocte angelus Dei, cujus sum ego, et cui deservio,
@@ -447,7 +438,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: adstitit enim mihi hac nocte angelus dei cuius sum ego et cui deseruio
   - `VulgConte (2009)`: Astitit enim mihi hac nocte Angelus Dei, cuius sum ego, et cui deservio,
   - `VulgSistina (1590)`: Astitit enim mihi hac nocte Angelus Dei, cuius sum ego, et cui deservio,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** dicens: Ne timeas, Paule: Cæsari te oportet assistere: et ecce donavit tibi Deus omnes qui navigant tecum.
@@ -457,7 +448,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: dicens ne timeas paule caesari te oportet adsistere et ecce donauit tibi deus omnes qui nauigant tecum
   - `VulgConte (2009)`: dicens: Ne timeas Paule, Cæsari te oportet assistere: et ecce donavit tibi Deus omnes, qui navigant tecum.
   - `VulgSistina (1590)`: dicens: Ne timeas Paule, Caesari te oportet assistere: et ecce donavit tibi Deus omnes, qui navigant tecum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Propter quod bono animo estote, viri: credo enim Deo quia sic erit, quemadmodum dictum est mihi.
@@ -467,7 +458,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: propter quod bono animo estote uiri credo enim deo quia sic erit quemadmodum dictum est mihi
   - `VulgConte (2009)`: Propter quod bono animo estote viri: credo enim Deo, quia sic erit, quemadmodum dictum est mihi.
   - `VulgSistina (1590)`: Propter quod bono animo estote viri: credo enim Deo, quia sic erit, quemadmodum dictum est mihi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In insulam autem quamdam oportet nos devenire.
@@ -477,7 +468,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: in insulam autem quandam oportet nos deuenire
   - `VulgConte (2009)`: In insulam autem quandam oportet nos devenire.
   - `VulgSistina (1590)`: In insulam autem quandam oportet nos devenire.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sed posteaquam quartadecima nox supervenit, navigantibus nobis in Adria circa mediam noctem, suspicabantur nautæ apparere sibi aliquam regionem.
@@ -487,7 +478,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Sed posteaquam quartadecima nox superuenit nauigantibus nobis in hadria circa mediam noctem suspicabantur nautae apparere sibi aliquam regionem
   - `VulgConte (2009)`: Sed postea quam quartadecima nox supervenit, navigantibus nobis in Adria circa mediam noctem, suspicabantur nautæ apparere sibi aliquam regionem.
   - `VulgSistina (1590)`: Sed posteaquam quartadecima nox supervenit, navigantibus nobis in Adria circa mediam noctem, suspicabantur nautae apparere sibi aliquam regionem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui et summittentes bolidem, invenerunt passus viginti: et pusillum inde separati, invenerunt passus quindecim.
@@ -497,7 +488,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: qui summittentes inuenerunt passus uiginti et pusillum inde separati inuenerunt passus ·xv·
   - `VulgConte (2009)`: Qui et summittentes bolidem, invenerunt passus viginti: et pusillum inde separati, invenerunt passus quindecim.
   - `VulgSistina (1590)`: Qui et summittentes bolidem, invenerunt passus viginti: et pusillum inde separati, invenerunt passus quindecim.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Timentes autem ne in aspera loca incideremus, de puppi mittentes anchoras quatuor, optabant diem fieri.
@@ -507,7 +498,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Timentes autem ne in aspera loca incideremus de puppi mittentes anchoras quattuor optabant diem fieri
   - `VulgConte (2009)`: Timentes autem ne in aspera loca incideremus, de puppi mittentes anchoras quattuor, optabant diem fieri.
   - `VulgSistina (1590)`: Timentes autem ne in aspera loca incideremus, de puppi mittentes anchoras quattuor, optabant diem fieri.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nautis vero quærentibus fugere de navi, cum misissent scapham in mare, sub obtentu quasi inciperent a prora anchoras extendere,
@@ -517,7 +508,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: nautis uero quaerentibus fugere de naui cum misissent scapham in mare sub optentu quasi a prora inciperent anchoras extendere
   - `VulgConte (2009)`: Nautis vero quærentibus fugere de navi, cum misissent scapham in mare, sub obtentu quasi inciperent a prora anchoras extendere,
   - `VulgSistina (1590)`: Nautis vero quaerentibus fugere de navi, cum misissent scapham in mare, sub obtentu quasi inciperent a prora anchoras extendere,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** dixit Paulus centurioni et militibus: Nisi hi in navi manserint, vos salvi fieri non potestis.
@@ -527,7 +518,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: dixit paulus centurioni et militibus nisi hi in naui manserint uos salui fieri non potestis
   - `VulgConte (2009)`: dixit Paulus Centurioni, et militibus: Nisi hi in navi manserint, vos salvi fieri non potestis.
   - `VulgSistina (1590)`: dixit Paulus Centurioni, et militibus: Nisi hi in navi manserint, vos salvi fieri non potestis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tunc absciderunt milites funes scaphæ, et passi sunt eam excidere.
@@ -537,7 +528,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: tunc absciderunt milites funes scaphae et passi sunt eam excidere
   - `VulgConte (2009)`: Tunc absciderunt milites funes scaphæ, et passi sunt eam excidere.
   - `VulgSistina (1590)`: Tunc absciderunt milites funes scaphae, et passi sunt eam excidere.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cum lux inciperet fieri, rogabat Paulus omnes sumere cibum, dicens: Quartadecima die hodie exspectantes jejuni permanetis, nihil accipientes.
@@ -547,7 +538,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Et cum lux inciperet fieri rogabat paulus omnes sumere cibum dicens quartadecima hodie die expectantes ieiuni permanetis nihil accipientes
   - `VulgConte (2009)`: Et cum lux inciperet fieri, rogabat Paulus omnes sumere cibum, dicens: Quartadecima die hodie expectantes ieiuni permanetis, nihil accipientes.
   - `VulgSistina (1590)`: Et cum lux inciperet fieri, rogabat Paulus omnes sumere cibum, dicens: Quartadecima die hodie expectantes ieiuni permanetis, nihil accipientes.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 34 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Propter quod rogo vos accipere cibum pro salute vestra: quia nullius vestrum capillus de capite peribit.
@@ -557,7 +548,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: propter quod rogo uos accipere cibum pro salute uestra quia nullius uestrum capillus de capite peribit
   - `VulgConte (2009)`: Propter quod rogo vos accipere cibum pro salute vestra: quia nullius vestrum capillus de capite peribit.
   - `VulgSistina (1590)`: Propter quod rogo vos accipere cibum pro salute vestra: quia nullius vestrum capillus de capite peribit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 35 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cum hæc dixisset, sumens panem, gratias egit Deo in conspectu omnium: et cum fregisset, cœpit manducare.
@@ -567,7 +558,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et cum haec dixisset sumens panem gratias egit deo in conspectu omnium et cum fregisset coepit manducare
   - `VulgConte (2009)`: Et cum hæc dixisset, sumens panem, gratias egit Deo in conspectu omnium: et cum fregisset, cœpit manducare.
   - `VulgSistina (1590)`: Et cum haec dixisset, sumens panem, gratias egit Deo in conspectu omnium: et cum fregisset, coepit manducare.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 36 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Animæquiores autem facti omnes, et ipsi sumpserunt cibum.
@@ -577,7 +568,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: animaequiores autem facti omnes et ipsi adsumpserunt cibum
   - `VulgConte (2009)`: Animæquiores autem facti omnes, et ipsi sumpserunt cibum.
   - `VulgSistina (1590)`: Animaequiores autem facti omnes, et ipsi sumpserunt cibum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 37 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Eramus vero universæ animæ in navi ducentæ septuaginta sex.
@@ -587,7 +578,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: eramus uero uniuersae animae in naui ducentae septuaginta sex
   - `VulgConte (2009)`: Eramus vero universæ animæ in navi ducentæ septuaginta sex.
   - `VulgSistina (1590)`: Eramus vero universae animae in navi ducentae septuaginta sex.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 38 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et satiati cibo alleviabant navem, jactantes triticum in mare.
@@ -597,7 +588,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et satiati cibo adleuiabant nauem iactantes triticum in mare
   - `VulgConte (2009)`: Et satiati cibo alleviabant navem, iactantes triticum in mare.
   - `VulgSistina (1590)`: Et satiati cibo alleviabant navem, iactantes triticum in mare.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 39 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cum autem dies factus esset, terram non agnoscebant: sinum vero quemdam considerabant habentem littus, in quem cogitabant si possent ejicere navem.
@@ -607,7 +598,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Cum autem dies factus esset terram non agnoscebant sinum uero quendam considerabant habentem litus in quem cogitabant si possent eicere nauem
   - `VulgConte (2009)`: Cum autem dies factus esset, terram non agnoscebant: sinum vero quendam considerabant habentem littus, in quem cogitabant, si possent, eiicere navem.
   - `VulgSistina (1590)`: Cum autem dies factus esset, terram non agnoscebant: sinum vero quendam considerabant habentem littus, in quem cogitabant, si possent, eiicere navem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 40 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cum anchoras sustulissent, committebant se mari, simul laxantes juncturas gubernaculorum: et levato artemone secundum auræ flatum, tendebant ad littus.
@@ -617,7 +608,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et cum anchoras abstulissent committebant se mari simul laxantes iuncturas gubernaculorum et leuato artemone secundum flatum aurae tendebant ad litus
   - `VulgConte (2009)`: Et cum anchoras sustulissent, committebant se mari, simul laxantes iuncturas gubernaculorum: et levato artemone secundum auræ flatum tendebant ad littus.
   - `VulgSistina (1590)`: Et cum anchoras sustulissent, committebant se mari, simul laxantes iuncturas gubernaculorum: et levato artemone secundum aurae flatum tendebant ad littus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 41 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cum incidissemus in locum dithalassum, impegerunt navem: et prora quidem fixa manebat immobilis, puppis vero solvebatur a vi maris.
@@ -627,7 +618,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et cum incidissemus in locum bithalassum inpegerunt nauem et prora quidem fixa manebat inmobilis puppis uero soluebatur a ui maris
   - `VulgConte (2009)`: Et cum incidissemus in locum dithalassum, impegerunt navem: et prora quidem fixa manebat immobilis, puppis vero solvebatur a vi maris.
   - `VulgSistina (1590)`: Et cum incidissemus in locum dithalassum, impegerunt navem: et prora quidem fixa manebat immobilis, puppis vero solvebatur a vi maris.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 42 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Militum autem consilium fuit ut custodias occiderent, ne quis cum enatasset, effugeret.
@@ -637,7 +628,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: militum autem consilium fuit ut custodias occiderent ne quis cum enatasset effugeret
   - `VulgConte (2009)`: Militum autem consilium fuit ut custodias occiderent: ne quis cum enatasset, effugeret.
   - `VulgSistina (1590)`: Militum autem consilium fuit ut custodias occiderent: nequis cum enatasset, effugeret.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 43 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Centurio autem volens servare Paulum, prohibuit fieri: jussitque eos qui possent natare, emittere se primos, et evadere, et ad terram exire:
@@ -647,7 +638,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: centurio autem uolens seruare paulum prohibuit fieri iussitque eos qui possent natare mittere se in mare primos et euadere et ad terram exire
   - `VulgConte (2009)`: Centurio autem volens servare Paulum, prohibuit fieri: iussitque eos, qui possent natare, emittere se primos, et evadere, et ad terram exire:
   - `VulgSistina (1590)`: Centurio autem volens servare Paulum, prohibuit fieri: iussitque eos, qui possent natare, emittere se in mare primos, et evadere, et ad terram exire:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 44 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et ceteros, alios in tabulis ferebant, quosdam super ea quæ de navi erant. Et sic factum est, ut omnes animæ evaderent ad terram.
@@ -657,4 +648,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et ceteros alios in tabulis ferebant quosdam super ea quae de naui essent et sic factum est ut omnes animae euaderent ad terram
   - `VulgConte (2009)`: et ceteros alios in tabulis ferebant: quosdam super ea, quæ de navi erant. Et sic factum est, ut omnes animæ evaderent ad terram.
   - `VulgSistina (1590)`: et ceteros alios in tabulis ferebant: quosdam super ea, quae de navi erant. Et sic factum est, ut omnes animae evaderent ad terram.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

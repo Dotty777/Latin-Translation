@@ -1,8 +1,8 @@
 # Leviticus 04 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:40Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -84,23 +75,23 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Leviticus 4:2
-- **Apparatus:** `quæ` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **cum** VulgSistina (1590)
+- **Apparatus:** `quæ` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **cum** VulgSistina (1590)
 
 ### Leviticus 4:6
-- **Apparatus:** `sanguine,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **sanguinem** VulgSistina (1590)
-- **Apparatus:** `eo` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **eum** VulgSistina (1590)
+- **Apparatus:** `sanguine,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **sanguinem** VulgSistina (1590)
+- **Apparatus:** `eo` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **eum** VulgSistina (1590)
 
 ### Leviticus 4:8
-- **Apparatus:** `auferet` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **offeret** VulgSistina (1590)
+- **Apparatus:** `auferet` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **offeret** VulgSistina (1590)
 
 ### Leviticus 4:10
-- **Apparatus:** `aufertur` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **offertur** VulgSistina (1590)
+- **Apparatus:** `aufertur` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **offertur** VulgSistina (1590)
 
 ### Leviticus 4:20
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quomodo / quo modo`, `quomodo / quo modo`, `quomodo / quo modo` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Leviticus 4:29
-- **Apparatus:** `manum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **manus** VulgSistina (1590)
+- **Apparatus:** `manum` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **manus** VulgSistina (1590)
 
 ---
 
@@ -113,7 +104,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Locutusque est Dominus ad Moysen, dicens:
   - `VulgConte (2009)`: Locutusque est Dominus ad Moysen, dicens:
   - `VulgSistina (1590)`: Locutusque est Dominus ad Moysen, dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Loquere filiis Israël: Anima, quæ peccaverit per ignorantiam, et de universis mandatis Domini, quæ præcepit ut non fierent, quippiam fecerit:
@@ -122,7 +113,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Loquere filiis Israel: Anima, quæ peccaverit per ignorantiam, et de universis mandatis Domini, quæ præcepit ut non fierent, quippiam fecerit:
   - `VulgConte (2009)`: Loquere filiis Israel: Anima, quæ peccaverit per ignorantiam, et de universis mandatis Domini, quæ præcepit ut non fierent, quippiam fecerit:
   - `VulgSistina (1590)`: Loquere filiis Israel: Anima cum peccaverit per ignorantiam, et de universis mandatis Domini, quae praecepit ut non fierent, quippiam fecerit:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** si sacerdos, qui unctus est, peccaverit, delinquere faciens populum, offeret pro peccato suo vitulum immaculatum Domino:
@@ -131,7 +122,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: si sacerdos, qui unctus est, peccaverit, delinquere faciens populum, offeret pro peccato suo vitulum immaculatum Domino:
   - `VulgConte (2009)`: si sacerdos, qui unctus est, peccaverit, delinquere faciens populum, offeret pro peccato suo vitulum immaculatum Domino:
   - `VulgSistina (1590)`: si sacerdos, qui unctus est, peccaverit, delinquere faciens populum, offeret pro peccato suo vitulum immaculatum Domino:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et adducet illum ad ostium tabernaculi testimonii coram Domino, ponetque manum super caput ejus, et immolabit eum Domino.
@@ -140,7 +131,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et adducet illum ad ostium tabernaculi testimonii coram Domino, ponetque manum super caput eius, et immolabit eum Domino.
   - `VulgConte (2009)`: et adducet illum ad ostium tabernaculi testimonii coram Domino, ponetque manum super caput eius, et immolabit eum Domino.
   - `VulgSistina (1590)`: et adducet illum ad ostium tabernaculi testimonii coram Domino, ponetque manum super caput eius, et immolabit eum Domino.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hauriet quoque de sanguine vituli, inferens illum in tabernaculum testimonii.
@@ -149,7 +140,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hauriet quoque de sanguine vituli, inferens illum in tabernaculum testimonii.
   - `VulgConte (2009)`: Hauriet quoque de sanguine vituli, inferens illum in tabernaculum testimonii,
   - `VulgSistina (1590)`: Hauriet quoque de sanguine vituli, inferens illum in tabernaculum testimonii.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque intinxerit digitum in sanguine, asperget eo septies coram Domino contra velum sanctuarii.
@@ -158,7 +149,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque intinxerit digitum in sanguine, asperget eo septies coram Domino contra velum Sanctuarii.
   - `VulgConte (2009)`: cumque intinxerit digitum in sanguine, asperget eo septies coram Domino contra velum Sanctuarii.
   - `VulgSistina (1590)`: Cumque intinxerit digitum in sanguinem, asperget eum septies coram Domino contra velum Sanctuarii.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ponetque de eodem sanguine super cornua altaris thymiamatis gratissimi Domino, quod est in tabernaculo testimonii: omnem autem reliquum sanguinem fundet in basim altaris holocausti in introitu tabernaculi.
@@ -167,7 +158,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ponetque de eodem sanguine super cornua altaris thymiamatis gratissimi Domino, quod est in tabernaculo testimonii. omnem autem reliquum sanguinem fundet in basim altaris holocausti in introitu tabernaculi.
   - `VulgConte (2009)`: Ponetque de eodem sanguine super cornua altaris thymiamatis gratissimi Domino, quod est in tabernaculo testimonii. Omnem autem reliquum sanguinem fundet in basim altaris holocausti in introitu tabernaculi.
   - `VulgSistina (1590)`: ponetque de eodem sanguine super cornua altaris thymiamatis gratissimi Domino, quod est in tabernaculo testimonii. omnem autem reliquum sanguinem fundet in basim altaris holocausti in introitu tabernaculi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et adipem vituli auferet pro peccato, tam eum qui vitalia operit quam omnia quæ intrinsecus sunt:
@@ -176,7 +167,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et adipem vituli auferet pro peccato, tam eum qui vitalia operit quam omnia quæ intrinsecus sunt:
   - `VulgConte (2009)`: Et adipem vituli auferet pro peccato, tam eum qui vitalia operit quam omnia quæ intrinsecus sunt:
   - `VulgSistina (1590)`: Et adipem vituli offeret pro peccato, tam eum qui vitalia operit quam omnia quae intrinsecus sunt:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** duos renunculos et reticulum quod est super eos juxta ilia, et adipem jecoris cum renunculis,
@@ -185,7 +176,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: duos renunculos et reticulum quod est super eos iuxta ilia, et adipem iecoris cum renunculis,
   - `VulgConte (2009)`: duos renunculos et reticulum quod est super eos iuxta ilia, et adipem iecoris cum renunculis,
   - `VulgSistina (1590)`: duos renunculos et reticulum quod est super eos iuxta ilia, et adipem iecoris cum renunculis,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** sicut aufertur de vitulo hostiæ pacificorum: et adolebit ea super altare holocausti.
@@ -194,7 +185,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: sicut aufertur de vitulo hostiæ pacificorum: et adolebit ea super altare holocausti.
   - `VulgConte (2009)`: sicut aufertur de vitulo hostiæ pacificorum: et adolebit ea super altare holocausti.
   - `VulgSistina (1590)`: sicut offertur de vitulo hostiae pacificorum: et adolebit ea super altare holocausti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Pellem vero et omnes carnes, cum capite et pedibus et intestinis et fimo,
@@ -203,7 +194,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Pellem vero et omnes carnes cum capite et pedibus et intestinis et fimo,
   - `VulgConte (2009)`: Pellem vero et omnes carnes cum capite et pedibus et intestinis et fimo,
   - `VulgSistina (1590)`: Pellem vero et omnes carnes cum capite et pedibus et intestinis et fimo,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et reliquo corpore, efferet extra castra in locum mundum, ubi cineres effundi solent: incendetque ea super lignorum struem, quæ in loco effusorum cinerum cremabuntur.
@@ -212,7 +203,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et reliquo corpore efferet extra castra in locum mundum, ubi cineres effundi solent: incendetque ea super lignorum struem, quæ in loco effusorum cinerum cremabuntur.
   - `VulgConte (2009)`: et reliquo corpore, efferet extra castra in locum mundum, ubi cineres effundi solent: incendetque ea super lignorum struem, quæ in loco effusorum cinerum cremabuntur.
   - `VulgSistina (1590)`: et reliquo corpore efferet extra castra in locum mundum, ubi cineres effundi solent: incendetque ea super lignorum struem, quae in loco effusorum cinerum cremabuntur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quod si omnis turba Israël ignoraverit, et per imperitiam fecerit quod contra mandatum Domini est,
@@ -221,7 +212,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quod si omnis turba Israel ignoraverit, et per imperitiam fecerit quod contra mandatum Domini est,
   - `VulgConte (2009)`: Quod si omnis turba Israel ignoraverit, et per imperitiam fecerit quod contra mandatum Domini est,
   - `VulgSistina (1590)`: Quod si omnis turba Israel ignoraverit, et per imperitiam fecerit quod contra mandatum Domini est,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et postea intellexerit peccatum suum, offeret pro peccato suo vitulum, adducetque eum ad ostium tabernaculi.
@@ -230,7 +221,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et postea intellexerit peccatum suum, offeret pro peccato suo vitulum, adducetque eum ad ostium tabernaculi.
   - `VulgConte (2009)`: et postea intellexerit peccatum suum, offeret pro peccato suo vitulum, adducetque eum ad ostium tabernaculi.
   - `VulgSistina (1590)`: et postea intellexerit peccatum suum, offeret pro peccato suo vitulum, adducetque eum ad ostium tabernaculi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ponent seniores populi manus super caput ejus coram Domino. Immolatoque vitulo in conspectu Domini,
@@ -239,7 +230,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ponent seniores populi manus super caput eius coram Domino. Immolatoque vitulo in conspectu Domini,
   - `VulgConte (2009)`: Et ponent seniores populi manus super caput eius coram Domino. Immolatoque vitulo in conspectu Domini,
   - `VulgSistina (1590)`: Et ponent seniores populi manus super caput eius coram Domino. Immolatoque vitulo in conspectu Domini,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** inferet sacerdos, qui unctus est, de sanguine ejus in tabernaculum testimonii,
@@ -248,7 +239,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: inferet sacerdos, qui unctus est, de sanguine eius in tabernaculum testimonii,
   - `VulgConte (2009)`: inferet sacerdos, qui unctus est, de sanguine eius in tabernaculum testimonii,
   - `VulgSistina (1590)`: inferet sacerdos, qui unctus est, de sanguine eius in tabernaculum testimonii,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** tincto digito aspergens septies contra velum.
@@ -257,7 +248,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: tincto digito aspergens septies contra velum.
   - `VulgConte (2009)`: tincto digito aspergens septies contra velum.
   - `VulgSistina (1590)`: tincto digito aspergens septies contra velum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ponetque de eodem sanguine in cornibus altaris, quod est coram Domino in tabernaculo testimonii: reliquum autem sanguinem fundet juxta basim altaris holocaustorum, quod est in ostio tabernaculi testimonii.
@@ -266,7 +257,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ponetque de eodem sanguine in cornibus altaris, quod est coram Domino in tabernaculo testimonii: reliquum autem sanguinem fundet iuxta basim altaris holocaustorum, quod est in ostio tabernaculi testimonii.
   - `VulgConte (2009)`: Ponetque de eodem sanguine in cornibus altaris, quod est coram Domino in tabernaculo testimonii: reliquum autem sanguinem fundet iuxta basim altaris holocaustorum, quod est in ostio tabernaculi testimonii.
   - `VulgSistina (1590)`: ponetque de eodem sanguine in cornibus altaris, quod est coram Domino in tabernaculo testimonii: reliquum autem sanguinem fundet iuxta basim altaris holocaustorum, quod est in ostio tabernaculi testimonii.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnemque ejus adipem tollet, et adolebit super altare:
@@ -275,7 +266,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnemque eius adipem tollet, et adolebit super altare:
   - `VulgConte (2009)`: Omnemque eius adipem tollet, et adolebit super altare:
   - `VulgSistina (1590)`: Omnemque eius adipem tollet, et adolebit super altare:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** sic faciens et de hoc vitulo quomodo fecit et prius: et rogante pro eis sacerdote, propitius erit eis Dominus.
@@ -284,7 +275,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: sic faciens et de hoc vitulo quo modo fecit et prius: et rogante pro eis sacerdote, propitius erit eis Dominus.
   - `VulgConte (2009)`: sic faciens et de hoc vitulo quo modo fecit et prius: et rogante pro eis sacerdote, propitius erit eis Dominus.
   - `VulgSistina (1590)`: sic faciens et de hoc vitulo quo modo fecit et prius: et rogante pro eis sacerdote, propitius erit eis Dominus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ipsum autem vitulum efferet extra castra, atque comburet sicut et priorem vitulum: quia est pro peccato multitudinis.
@@ -293,7 +284,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ipsum autem vitulum efferet extra castra, atque comburet sicut et priorem vitulum: quia est pro peccato multitudinis.
   - `VulgConte (2009)`: Ipsum autem vitulum efferet extra castra, atque comburet sicut et priorem vitulum: quia est pro peccato multitudinis.
   - `VulgSistina (1590)`: Ipsum autem vitulum efferet extra castra, atque comburet sicut et priorem vitulum: quia est pro peccato multitudinis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Si peccaverit princeps, et fecerit unum e pluribus per ignorantiam, quod Domini lege prohibetur:
@@ -302,7 +293,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Si peccaverit princeps, et fecerit unum e pluribus per ignorantiam, quod Domini lege prohibetur:
   - `VulgConte (2009)`: Si peccaverit princeps, et fecerit unum e pluribus per ignorantiam, quod Domini lege prohibetur:
   - `VulgSistina (1590)`: Si peccaverit princeps, et fecerit unum e pluribus per ignorantiam, quod Domini lege prohibetur:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et postea intellexerit peccatum suum, offeret hostiam Domino, hircum de capris immaculatum.
@@ -311,7 +302,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et postea intellexerit peccatum suum, offeret hostiam Domino, hircum de capris immaculatum.
   - `VulgConte (2009)`: et postea intellexerit peccatum suum, offeret hostiam Domino, hircum de capris immaculatum.
   - `VulgSistina (1590)`: et postea intellexerit peccatum suum, offeret hostiam Domino, hircum de capris immaculatum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ponetque manum suam super caput ejus: cumque immolaverit eum loco ubi solet mactari holocaustum coram Domino, quia pro peccato est,
@@ -320,7 +311,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ponetque manum suam super caput eius: cumque immolaverit eum loco ubi solet mactari holocaustum coram Domino, quia pro peccato est,
   - `VulgConte (2009)`: Ponetque manum suam super caput eius: cumque immolaverit eum loco ubi solet mactari holocaustum coram Domino, quia pro peccato est,
   - `VulgSistina (1590)`: Ponetque manum suam super caput eius: cumque immolaverit eum loco ubi solet mactari holocaustum coram Domino, quia pro peccato est,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** tinget sacerdos digitum in sanguine hostiæ pro peccato, tangens cornua altaris holocausti, et reliquum fundens ad basim ejus.
@@ -329,7 +320,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: tinget sacerdos digitum in sanguine hostiæ pro peccato, tangens cornua altaris holocausti, et reliquum fundens ad basim eius.
   - `VulgConte (2009)`: tinget sacerdos digitum in sanguine hostiæ pro peccato, tangens cornua altaris holocausti, et reliquum fundens ad basim eius.
   - `VulgSistina (1590)`: tinget sacerdos digitum in sanguine hostiae pro peccato, tangens cornua altaris holocausti, et reliquum fundens ad basim eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Adipem vero adolebit supra, sicut in victimis pacificorum fieri solet: rogabitque pro eo sacerdos, et pro peccato ejus, et dimittetur ei.
@@ -338,7 +329,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Adipem vero adolebit supra, sicut in victimis pacificorum fieri solet: rogabitque pro eo sacerdos, et pro peccato eius, et dimittetur ei.
   - `VulgConte (2009)`: Adipem vero adolebit supra, sicut in victimis pacificorum fieri solet: rogabitque pro eo sacerdos, et pro peccato eius, et dimittetur ei.
   - `VulgSistina (1590)`: Adipem vero adolebit supra, sicut in victimis pacificorum fieri solet: rogabitque pro eo sacerdos, et pro peccato eius, et dimittetur ei.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quod si peccaverit anima per ignorantiam, de populo terræ, ut faciat quidquam de his, quæ Domini lege prohibentur, atque delinquat,
@@ -347,7 +338,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quod si peccaverit anima per ignorantiam, de populo terræ, ut faciat quidquam de his, quæ Domini lege prohibentur, atque delinquat,
   - `VulgConte (2009)`: Quod si peccaverit anima per ignorantiam, de populo terræ, ut faciat quidquam de his, quæ Domini lege prohibentur, atque delinquat,
   - `VulgSistina (1590)`: Quod si peccaverit anima per ignorantiam, de populo terrae, ut faciat quidquam de his, quae Domini lege prohibentur, atque delinquat,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et cognoverit peccatum suum, offeret capram immaculatam.
@@ -356,7 +347,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et cognoverit peccatum suum, offeret capram immaculatam.
   - `VulgConte (2009)`: et cognoverit peccatum suum, offeret capram immaculatam.
   - `VulgSistina (1590)`: et cognoverit peccatum suum, offeret capram immaculatam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ponetque manum super caput hostiæ quæ pro peccato est, et immolabit eam in loco holocausti.
@@ -365,7 +356,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ponetque manum super caput hostiæ quæ pro peccato est, et immolabit eam in loco holocausti.
   - `VulgConte (2009)`: Ponetque manum super caput hostiæ quæ pro peccato est, et immolabit eam in loco holocausti.
   - `VulgSistina (1590)`: Ponetque manus super caput hostiae quae pro peccato est, et immolabit eam in loco holocausti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tolletque sacerdos de sanguine in digito suo: et tangens cornua altaris holocausti, reliquum fundet ad basim ejus.
@@ -374,7 +365,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tolletque sacerdos de sanguine in digito suo: et tangens cornua altaris holocausti, reliquum fundet ad basim eius.
   - `VulgConte (2009)`: Tolletque sacerdos de sanguine in digito suo: et tangens cornua altaris holocausti, reliquum fundet ad basim eius.
   - `VulgSistina (1590)`: Tolletque sacerdos de sanguine in digito suo: et tangens cornua altaris holocausti, reliquum fundet ad basim eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnem autem adipem auferens, sicut auferri solet de victimis pacificorum, adolebit super altare in odorem suavitatis Domino: rogabitque pro eo, et dimittetur ei.
@@ -383,7 +374,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnem autem adipem auferens, sicut auferri solet de victimis pacificorum, adolebit super altare in odorem suavitatis Domino: rogabitque pro eo, et dimittetur ei.
   - `VulgConte (2009)`: Omnem autem adipem auferens, sicut auferri solet de victimis pacificorum, adolebit super altare in odorem suavitatis Domino: rogabitque pro eo, et dimittetur ei.
   - `VulgSistina (1590)`: Omnem autem adipem auferens, sicut auferri solet de victimis pacificorum, adolebit super altare in odorem suavitatis Domino: rogabitque pro eo, et dimittetur ei.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sin autem de pecoribus obtulerit victimam pro peccato, ovem scilicet immaculatam:
@@ -392,7 +383,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sin autem de pecoribus obtulerit victimam pro peccato, ovem scilicet immaculatam;
   - `VulgConte (2009)`: Sin autem de pecoribus obtulerit victimam pro peccato, ovem scilicet immaculatam;
   - `VulgSistina (1590)`: Sin autem de pecoribus obtulerit victimam pro peccato, ovem scilicet immaculatam;
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ponet manum super caput ejus, et immolabit eam in loco ubi solent cædi holocaustorum hostiæ.
@@ -401,7 +392,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ponet manum super caput eius, et immolabit eam in loco ubi solent cædi holocaustorum hostiæ.
   - `VulgConte (2009)`: ponet manum super caput eius, et immolabit eam in loco ubi solent cædi holocaustorum hostiæ.
   - `VulgSistina (1590)`: ponet manum super caput eius, et immolabit eam in loco ubi solent caedi holocaustorum hostiae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 34 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sumetque sacerdos de sanguine ejus digito suo, et tangens cornua altaris holocausti, reliquum fundet ad basim ejus.
@@ -410,7 +401,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sumetque sacerdos de sanguine eius digito suo, et tangens cornua altaris holocausti, reliquum fundet ad basim eius.
   - `VulgConte (2009)`: Sumetque sacerdos de sanguine eius digito suo, et tangens cornua altaris holocausti, reliquum fundet ad basim eius.
   - `VulgSistina (1590)`: Sumetque sacerdos de sanguine eius digito suo, et tangens cornua altaris holocausti, reliquum fundet ad basim eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 35 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnem quoque adipem auferens, sicut auferri solet adeps arietis, qui immolatur pro pacificis, cremabit super altare in incensum Domini: rogabitque pro eo, et pro peccato ejus, et dimittetur ei.
@@ -419,4 +410,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnem quoque adipem auferens, sicut auferri solet adeps arietis, qui immolatur pro pacificis: cremabit super altare in incensum Domini: rogabitque pro eo, et pro peccato eius, et dimittetur ei.
   - `VulgConte (2009)`: Omnem quoque adipem auferens, sicut auferri solet adeps arietis, qui immolatur pro pacificis: cremabit super altare in incensum Domini: rogabitque pro eo, et pro peccato eius, et dimittetur ei.
   - `VulgSistina (1590)`: Omnem quoque adipem auferens, sicut auferri solet adeps arietis, qui immolatur pro pacificis: cremabit super altare in incensum Domini: rogabitque pro eo, et pro peccato eius, et dimittetur ei.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

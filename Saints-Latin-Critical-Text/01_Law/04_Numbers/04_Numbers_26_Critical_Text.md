@@ -1,8 +1,8 @@
 # Numbers 26 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:44Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,22 +28,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
-- Clem1598-USFX: 33 verse(s) re-aligned by content (15←26:19, 16←26:20, 17←26:21, 18←26:22, 19←26:23, 20←26:24…)
-- VulgHetzenauer (1906): 33 verse(s) re-aligned by content (15←26:19, 16←26:20, 17←26:21, 18←26:22, 19←26:23, 20←26:24…)
-- VulgConte (2009): 33 verse(s) re-aligned by content (15←26:19, 16←26:20, 17←26:21, 18←26:22, 19←26:23, 20←26:24…)
-- VulgSistina (1590): 33 verse(s) re-aligned by content (15←26:19, 16←26:20, 17←26:21, 18←26:22, 19←26:23, 20←26:24…)
+- Clem-Saints: 33 verse(s) re-aligned by content (15←26:24, 16←26:25, 17←26:26, 18←26:27, 19←26:15, 20←26:16…)
 
 ---
 
@@ -63,39 +51,39 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **12** Filii Simeon per cognationes suas: Namuel, ab hoc familia Namuelitarum: Jamin, ab hoc familia Jaminitarum: Jachin, ab hoc familia Jachinitarum:
 **13** Zare, ab hoc familia Zareitarum: Saul, ab hoc familia Saulitarum.
 **14** Hæ sunt familiæ de stirpe Simeon, quarum omnis numerus fuit viginti duo millia ducenti.
-**15** Filii Juda, Her et Onan, qui ambo mortui sunt in terra Chanaan.
-**16** Fueruntque filii Juda per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.
-**17** Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
-**18** Istæ sunt familiæ Juda, quarum omnis numerus fuit septuaginta sex millia quingenti.
-**19** Filii Issachar per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
-**20** Jasub, a quo familia Jasubitarum: Semran, a quo familia Semranitarum.
-**21** Hæ sunt cognationes Issachar, quarum numerus fuit sexaginta quatuor millia trecenti.
-**22** Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Jalel, a quo familia Jalelitarum.
-**23** Hæ sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
-**24** Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
-**25** Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:
-**26** Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
-**27** Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.
-**28** Filii Aser per cognationes suas: Jemna, a quo familia Jemnaitarum: Jessui, a quo familia Jessuitarum: Brie, a quo familia Brieitarum.
-**29** Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
-**30** Nomen autem filiæ Aser fuit Sara.
-**31** Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
-**32** Filii Joseph per cognationes suas, Manasse et Ephraim.
-**33** De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.
-**34** Galaad habuit filios: Jezer, a quo familia Jezeritarum: et Helec, a quo familia Helecitarum:
-**35** et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:
-**36** et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.
-**37** Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias: quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
-**38** Hæ sunt familiæ Manasse, et numerus earum quinquaginta duo millia septingenti.
-**39** Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
-**40** Porro filius Suthala fuit Heran, a quo familia Heranitarum.
-**41** Hæ sunt cognationes filiorum Ephraim: quarum numerus fuit triginta duo millia quingenti.
-**42** Isti sunt filii Joseph per familias suas. Filii Benjamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
-**43** Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.
-**44** Filii Bela: Hered, et Noëman. De Hered, familia Hereditarum: de Noëman, familia Noëmanitarum.
-**45** Hi sunt filii Benjamin per cognationes suas: quorum numerus fuit quadraginta quinque millia sexcenti.
-**46** Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. Hæ sunt cognationes Dan per familias suas.
-**47** Omnes fuere Suhamitæ, quorum numerus erat sexaginta quatuor millia quadringenti.
+**15** Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
+**16** Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:
+**17** Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
+**18** Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.
+**19** Filii Juda, Her et Onan, qui ambo mortui sunt in terra Chanaan.
+**20** Fueruntque filii Juda per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.
+**21** Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
+**22** Istæ sunt familiæ Juda, quarum omnis numerus fuit septuaginta sex millia quingenti.
+**23** Filii Issachar per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
+**24** Jasub, a quo familia Jasubitarum: Semran, a quo familia Semranitarum.
+**25** Hæ sunt cognationes Issachar, quarum numerus fuit sexaginta quatuor millia trecenti.
+**26** Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Jalel, a quo familia Jalelitarum.
+**27** Hæ sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
+**28** Filii Joseph per cognationes suas, Manasse et Ephraim.
+**29** De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.
+**30** Galaad habuit filios: Jezer, a quo familia Jezeritarum: et Helec, a quo familia Helecitarum:
+**31** et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:
+**32** et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.
+**33** Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias: quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
+**34** Hæ sunt familiæ Manasse, et numerus earum quinquaginta duo millia septingenti.
+**35** Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
+**36** Porro filius Suthala fuit Heran, a quo familia Heranitarum.
+**37** Hæ sunt cognationes filiorum Ephraim: quarum numerus fuit triginta duo millia quingenti.
+**38** Isti sunt filii Joseph per familias suas. Filii Benjamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
+**39** Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.
+**40** Filii Bela: Hered, et Noëman. De Hered, familia Hereditarum: de Noëman, familia Noëmanitarum.
+**41** Hi sunt filii Benjamin per cognationes suas: quorum numerus fuit quadraginta quinque millia sexcenti.
+**42** Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. Hæ sunt cognationes Dan per familias suas.
+**43** Omnes fuere Suhamitæ, quorum numerus erat sexaginta quatuor millia quadringenti.
+**44** Filii Aser per cognationes suas: Jemna, a quo familia Jemnaitarum: Jessui, a quo familia Jessuitarum: Brie, a quo familia Brieitarum.
+**45** Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
+**46** Nomen autem filiæ Aser fuit Sara.
+**47** Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
 **48** Filii Nephthali per cognationes suas: Jesiel, a quo familia Jesielitarum: Guni, a quo familia Gunitarum:
 **49** Jeser, a quo familia Jeseritarum: Sellem, a quo familia Sellemitarum.
 **50** Hæ sunt cognationes filiorum Nephthali per familias suas: quorum numerus quadraginta quinque millia quadringenti.
@@ -120,22 +108,22 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Numbers 26:12
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **et** VulgSistina (1590)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **et** VulgSistina (1590)
 
-### Numbers 26:21
+### Numbers 26:25
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Issachar, / Isachar`, `quatuor / quattuor`, `quatuor / quattuor`, `quatuor / quattuor` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
-### Numbers 26:45
+### Numbers 26:41
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quadraginta quinque / quadragintaquinque`, `quadraginta quinque / quadragintaquinque` (VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
-### Numbers 26:47
+### Numbers 26:43
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quatuor / quattuor`, `quatuor / quattuor`, `quatuor / quattuor` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Numbers 26:57
-- **Apparatus:** `familia` Clem-Saints Clem1598-USFX VulgSistina (1590) **]** **famiia** VulgConte (2009) VulgHetzenauer (1906)
+- **Apparatus:** `familia` Clem1598-USFX Clem-Saints VulgSistina (1590) **]** **famiia** VulgConte (2009) VulgHetzenauer (1906)
 
 ### Numbers 26:62
-- **Apparatus:** `quia` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **qui** VulgSistina (1590)
+- **Apparatus:** `quia` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **qui** VulgSistina (1590)
 
 ---
 
@@ -148,7 +136,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Postquam noxiorum sanguis effusus est, dixit Dominus ad Moysen et Eleazarum filium Aaron sacerdotem:
   - `VulgConte (2009)`: Postquam noxiorum sanguis effusus est, dixit Dominus ad Moysen et Eleazarum filium Aaron sacerdotem:
   - `VulgSistina (1590)`: Postquam noxiorum sanguis effusus est, dixit Dominus ad Moysen et Eleazarum filium Aaron sacerdotem:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Numerate omnem summam filiorum Israël a viginti annis et supra, per domos et cognationes suas, cunctos qui possunt ad bella procedere.
@@ -157,7 +145,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Numerate omnem summam filiorum Israel a viginti annis et supra, per domos et cognationes suas, cunctos, qui possunt ad bella procedere.
   - `VulgConte (2009)`: Numerate omnem summam filiorum Israel a viginti annis et supra, per domos et cognationes suas, cunctos, qui possunt ad bella procedere.
   - `VulgSistina (1590)`: Numerate omnem summam filiorum Israel a viginti annis et supra, per domos et cognationes suas, cunctos, qui possunt ad bella procedere.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Locuti sunt itaque Moyses et Eleazar sacerdos, in campestribus Moab super Jordanem contra Jericho, ad eos qui erant
@@ -166,7 +154,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Locuti sunt itaque Moyses et Eleazar sacerdos, in campestribus Moab super Iordanem contra Iericho, ad eos, qui erant
   - `VulgConte (2009)`: Locuti sunt itaque Moyses et Eleazar sacerdos, in campestribus Moab super Iordanem contra Iericho, ad eos, qui erant
   - `VulgSistina (1590)`: Locuti sunt itaque Moyses et Eleazar sacerdos, in campestribus Moab super Iordanem contra Iericho, ad eos, qui erant
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** a viginti annis et supra, sicut Dominus imperaverat, quorum iste est numerus.
@@ -175,7 +163,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: a viginti annis et supra, sicut Dominus imperaverat, quorum iste est numerus:
   - `VulgConte (2009)`: a viginti annis et supra, sicut Dominus imperaverat, quorum iste est numerus:
   - `VulgSistina (1590)`: a viginti annis et supra, sicut Dominus imperaverat, quorum iste est numerus:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ruben primogenitus Israël: hujus filius, Henoch, a quo familia Henochitarum: et Phallu, a quo familia Phalluitarum:
@@ -184,7 +172,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ruben primogenitus Israel. huius filius, Henoch, a quo familia Henochitarum: et Phallu, a quo familia Phalluitarum:
   - `VulgConte (2009)`: Ruben primogenitus Israel. Huius filius, Henoch, a quo familia Henochitarum: et Phallu, a quo familia Phalluitarum:
   - `VulgSistina (1590)`: Ruben primogenitus Israel. huius filius, Henoch, a quo familia Henochitarum: et Phallu, a quo familia Phalluitarum:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et Hesron, a quo familia Hesronitarum: et Charmi, a quo familia Charmitarum.
@@ -193,7 +181,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Hesron, a quo familia Hesronitarum: et Charmi, a quo familia Charmitarum.
   - `VulgConte (2009)`: et Hesron, a quo familia Hesronitarum: et Charmi, a quo familia Charmitarum.
   - `VulgSistina (1590)`: et Hesron, a quo familia Hesronitarum: et Charmi, a quo familia Charmitarum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæ sunt familiæ de stirpe Ruben: quarum numerus inventus est quadraginta tria millia, et septingenti triginta.
@@ -202,7 +190,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: hæ sunt familiæ de stirpe Ruben: quarum numerus inventus est quadraginta tria millia, et septingenti triginta.
   - `VulgConte (2009)`: Hæ sunt familiæ de stirpe Ruben: quarum numerus inventus est quadraginta tria millia, et septingenti triginta.
   - `VulgSistina (1590)`: hae sunt familiae de stirpe Ruben: quarum numerus inventus est quadraginta tria millia, et septingenti triginta.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filius Phallu, Eliab:
@@ -211,7 +199,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filius Phallu, Eliab.
   - `VulgConte (2009)`: Filius Phallu, Eliab.
   - `VulgSistina (1590)`: Filius Phallu, Eliab.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** hujus filii, Namuel et Dathan et Abiron: isti sunt Dathan et Abiron principes populi, qui surrexerunt contra Moysen et Aaron in seditione Core, quando adversus Dominum rebellaverunt:
@@ -220,7 +208,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: huius filii, Namuel et Dathan et Abiron. isti sunt Dathan et Abiron principes populi, qui surrexerunt contra Moysen et Aaron in seditione Core, quando adversus Dominum rebellaverunt:
   - `VulgConte (2009)`: Huius filii, Namuel et Dathan et Abiron. Isti sunt Dathan et Abiron principes populi, qui surrexerunt contra Moysen et Aaron in seditione Core, quando adversus Dominum rebellaverunt:
   - `VulgSistina (1590)`: huius filii, Namuel et Dathan et Abiron. isti sunt Dathan et Abiron principes populi, qui surrexerunt contra Moysen et Aaron in seditione Core, quando adversus Dominum rebellaverunt:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et aperiens terra os suum devoravit Core, morientibus plurimis, quando combussit ignis ducentos quinquaginta viros. Et factum est grande miraculum,
@@ -229,7 +217,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et aperiens terra os suum devoravit Core, morientibus plurimis, quando combussit ignis ducentos quinquaginta viros. Et factum est grande miraculum,
   - `VulgConte (2009)`: et aperiens terra os suum devoravit Core, morientibus plurimis, quando combussit ignis ducentos quinquaginta viros. Et factum est grande miraculum,
   - `VulgSistina (1590)`: et aperiens terra os suum devoravit Core, morientibus plurimis, quando combussit ignis ducentos quinquaginta viros. Et factum est grande miraculum,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ut, Core pereunte, filii illius non perirent.
@@ -238,7 +226,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ut, Core pereunte, filii illius non perirent.
   - `VulgConte (2009)`: ut, Core pereunte, filii illius non perirent.
   - `VulgSistina (1590)`: ut, Core pereunte, filii illius non perirent.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii Simeon per cognationes suas: Namuel, ab hoc familia Namuelitarum: Jamin, ab hoc familia Jaminitarum: Jachin, ab hoc familia Jachinitarum:
@@ -247,7 +235,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Simeon per cognationes suas: Namuel, ab hoc familia Namuelitarum: Iamin, ab hoc familia Iaminitarum: Iachin, ab hoc familia Iachinitarum:
   - `VulgConte (2009)`: Filii Simeon per cognationes suas: Namuel, ab hoc familia Namuelitarum: Iamin, ab hoc familia Iaminitarum: Iachin, ab hoc familia Iachinitarum:
   - `VulgSistina (1590)`: Filii Simeon per cognationes suas: Namuel, ab hoc familia Namuelitarum: et Iamin, ab hoc familia Iaminitarum: Iachin, ab hoc familia Iachinitarum:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Zare, ab hoc familia Zareitarum: Saul, ab hoc familia Saulitarum.
@@ -256,7 +244,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Zare, ab hoc familia Zareitarum: Saul, ab hoc familia Saulitarum.
   - `VulgConte (2009)`: Zare, ab hoc familia Zareitarum: Saul, ab hoc familia Saulitarum.
   - `VulgSistina (1590)`: Zare, ab hoc familia Zareitarum: Saul, ab hoc familia Saulitarum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæ sunt familiæ de stirpe Simeon, quarum omnis numerus fuit viginti duo millia ducenti.
@@ -265,304 +253,304 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: hæ sunt familiæ de stirpe Simeon, quarum omnis numerus fuit viginti duo millia ducenti.
   - `VulgConte (2009)`: Hæ sunt familiæ de stirpe Simeon, quarum omnis numerus fuit viginti duo millia ducenti.
   - `VulgSistina (1590)`: hae sunt familiae de stirpe Simeon, quarum omnis numerus fuit viginti duo millia ducenti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Filii Juda, Her et Onan, qui ambo mortui sunt in terra Chanaan.
-  - `Clem1598-USFX` *(numbered 26:19 in this witness)*: Filii Juda, Her et Onan, qui ambo mortui sunt in terra Chanaan.
-  - `Clem-Saints`: Filii Juda, Her et Onan, qui ambo mortui sunt in terra Chanaan.
-  - `VulgHetzenauer (1906)` *(numbered 26:19 in this witness)*: Filii Iuda, Her et Onan, qui ambo mortui sunt in Terra Chanaan.
-  - `VulgConte (2009)` *(numbered 26:19 in this witness)*: Filii Iuda, Her et Onan, qui ambo mortui sunt in Terra Chanaan.
-  - `VulgSistina (1590)` *(numbered 26:19 in this witness)*: Filii Iuda, Her et Onan, qui ambo mortui sunt in Terra Chanaan.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:19 (re-aligned by content).
+- **Critical Text:** Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
+  - `Clem1598-USFX`: Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
+  - `Clem-Saints` *(numbered 26:24 in this witness)*: Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
+  - `VulgHetzenauer (1906)`: Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
+  - `VulgConte (2009)`: Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
+  - `VulgSistina (1590)`: Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Fueruntque filii Juda per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.
-  - `Clem1598-USFX` *(numbered 26:20 in this witness)*: Fueruntque filii Juda per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.
-  - `Clem-Saints`: Fueruntque filii Juda per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.
-  - `VulgHetzenauer (1906)` *(numbered 26:20 in this witness)*: Fueruntque filii Iuda, per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.
-  - `VulgConte (2009)` *(numbered 26:20 in this witness)*: Fueruntque filii Iuda, per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.
-  - `VulgSistina (1590)` *(numbered 26:20 in this witness)*: Fueruntque filii Iuda, per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:20 (re-aligned by content).
+- **Critical Text:** Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:
+  - `Clem1598-USFX`: Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:
+  - `Clem-Saints` *(numbered 26:25 in this witness)*: Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:
+  - `VulgHetzenauer (1906)`: Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:
+  - `VulgConte (2009)`: Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:
+  - `VulgSistina (1590)`: Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
-  - `Clem1598-USFX` *(numbered 26:21 in this witness)*: Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
-  - `Clem-Saints`: Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
-  - `VulgHetzenauer (1906)` *(numbered 26:21 in this witness)*: Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
-  - `VulgConte (2009)` *(numbered 26:21 in this witness)*: Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
-  - `VulgSistina (1590)` *(numbered 26:21 in this witness)*: Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:21 (re-aligned by content).
+- **Critical Text:** Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
+  - `Clem1598-USFX`: Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
+  - `Clem-Saints` *(numbered 26:26 in this witness)*: Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
+  - `VulgHetzenauer (1906)`: Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
+  - `VulgConte (2009)`: Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
+  - `VulgSistina (1590)`: Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Istæ sunt familiæ Juda, quarum omnis numerus fuit septuaginta sex millia quingenti.
-  - `Clem1598-USFX` *(numbered 26:22 in this witness)*: Istæ sunt familiæ Juda, quarum omnis numerus fuit septuaginta sex millia quingenti.
-  - `Clem-Saints`: Istæ sunt familiæ Juda, quarum omnis numerus fuit septuaginta sex millia quingenti.
-  - `VulgHetzenauer (1906)` *(numbered 26:22 in this witness)*: Istæ sunt familiæ Iuda, quarum omnis numerus fuit septuaginta sex millia quingenti.
-  - `VulgConte (2009)` *(numbered 26:22 in this witness)*: Istæ sunt familiæ Iuda, quarum omnis numerus fuit septuaginta sex millia quingenti.
-  - `VulgSistina (1590)` *(numbered 26:22 in this witness)*: Istae sunt familiae Iuda, quarum omnis numerus fuit septuaginta sex millia quingenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:22 (re-aligned by content).
+- **Critical Text:** Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.
+  - `Clem1598-USFX`: Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.
+  - `Clem-Saints` *(numbered 26:27 in this witness)*: Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.
+  - `VulgHetzenauer (1906)`: istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.
+  - `VulgConte (2009)`: Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.
+  - `VulgSistina (1590)`: istae sunt familiae Gad, quarum omnis numerus fuit quadraginta millia quingenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Filii Issachar per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
-  - `Clem1598-USFX` *(numbered 26:23 in this witness)*: Filii Issachar per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
-  - `Clem-Saints`: Filii Issachar per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
-  - `VulgHetzenauer (1906)` *(numbered 26:23 in this witness)*: Filii Issachar, per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
-  - `VulgConte (2009)` *(numbered 26:23 in this witness)*: Filii Issachar, per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
-  - `VulgSistina (1590)` *(numbered 26:23 in this witness)*: Filii Issachar, per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:23 (re-aligned by content).
+- **Critical Text:** Filii Juda, Her et Onan, qui ambo mortui sunt in terra Chanaan.
+  - `Clem1598-USFX`: Filii Juda, Her et Onan, qui ambo mortui sunt in terra Chanaan.
+  - `Clem-Saints` *(numbered 26:15 in this witness)*: Filii Juda, Her et Onan, qui ambo mortui sunt in terra Chanaan.
+  - `VulgHetzenauer (1906)`: Filii Iuda, Her et Onan, qui ambo mortui sunt in Terra Chanaan.
+  - `VulgConte (2009)`: Filii Iuda, Her et Onan, qui ambo mortui sunt in Terra Chanaan.
+  - `VulgSistina (1590)`: Filii Iuda, Her et Onan, qui ambo mortui sunt in Terra Chanaan.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Jasub, a quo familia Jasubitarum: Semran, a quo familia Semranitarum.
-  - `Clem1598-USFX` *(numbered 26:24 in this witness)*: Jasub, a quo familia Jasubitarum: Semran, a quo familia Semranitarum.
-  - `Clem-Saints`: Jasub, a quo familia Jasubitarum: Semran, a quo familia Semranitarum.
-  - `VulgHetzenauer (1906)` *(numbered 26:24 in this witness)*: Iasub, a quo familia Iasubitarum: Semran, a quo familia Semranitarum.
-  - `VulgConte (2009)` *(numbered 26:24 in this witness)*: Iasub, a quo familia Iasubitarum: Semran, a quo familia Semranitarum.
-  - `VulgSistina (1590)` *(numbered 26:24 in this witness)*: Iasub, a quo familia Iasubitarum: Semran, a quo familia Semranitarum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:24 (re-aligned by content).
+- **Critical Text:** Fueruntque filii Juda per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.
+  - `Clem1598-USFX`: Fueruntque filii Juda per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.
+  - `Clem-Saints` *(numbered 26:16 in this witness)*: Fueruntque filii Juda per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.
+  - `VulgHetzenauer (1906)`: Fueruntque filii Iuda, per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.
+  - `VulgConte (2009)`: Fueruntque filii Iuda, per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.
+  - `VulgSistina (1590)`: Fueruntque filii Iuda, per cognationes suas: Sela, a quo familia Selaitarum: Phares, a quo familia Pharesitarum: Zare, a quo familia Zareitarum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Hæ sunt cognationes Issachar, quarum numerus fuit sexaginta quatuor millia trecenti.
-  - `Clem1598-USFX` *(numbered 26:25 in this witness)*: Hæ sunt cognationes Issachar, quarum numerus fuit sexaginta quatuor millia trecenti.
-  - `Clem-Saints`: Hæ sunt cognationes Issachar, quarum numerus fuit sexaginta quatuor millia trecenti.
-  - `VulgHetzenauer (1906)` *(numbered 26:25 in this witness)*: hæ sunt cognationes Issachar, quarum numerus fuit sexaginta quattuor millia trecenti.
-  - `VulgConte (2009)` *(numbered 26:25 in this witness)*: Hæ sunt cognationes Issachar, quarum numerus fuit sexaginta quattuor millia trecenti.
-  - `VulgSistina (1590)` *(numbered 26:25 in this witness)*: hae sunt cognationes Issachar, quarum numerus fuit sexaginta quattuor millia trecenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:25 (re-aligned by content).
+- **Critical Text:** Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
+  - `Clem1598-USFX`: Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
+  - `Clem-Saints` *(numbered 26:17 in this witness)*: Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
+  - `VulgHetzenauer (1906)`: Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
+  - `VulgConte (2009)`: Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
+  - `VulgSistina (1590)`: Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Jalel, a quo familia Jalelitarum.
-  - `Clem1598-USFX` *(numbered 26:26 in this witness)*: Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Jalel, a quo familia Jalelitarum.
-  - `Clem-Saints`: Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Jalel, a quo familia Jalelitarum.
-  - `VulgHetzenauer (1906)` *(numbered 26:26 in this witness)*: Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Ialel, a quo familia Ialelitarum.
-  - `VulgConte (2009)` *(numbered 26:26 in this witness)*: Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Ialel, a quo familia Ialelitarum.
-  - `VulgSistina (1590)` *(numbered 26:26 in this witness)*: Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Ialel, a quo familia Ialelitarum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:26 (re-aligned by content).
+- **Critical Text:** Istæ sunt familiæ Juda, quarum omnis numerus fuit septuaginta sex millia quingenti.
+  - `Clem1598-USFX`: Istæ sunt familiæ Juda, quarum omnis numerus fuit septuaginta sex millia quingenti.
+  - `Clem-Saints` *(numbered 26:18 in this witness)*: Istæ sunt familiæ Juda, quarum omnis numerus fuit septuaginta sex millia quingenti.
+  - `VulgHetzenauer (1906)`: Istæ sunt familiæ Iuda, quarum omnis numerus fuit septuaginta sex millia quingenti.
+  - `VulgConte (2009)`: Istæ sunt familiæ Iuda, quarum omnis numerus fuit septuaginta sex millia quingenti.
+  - `VulgSistina (1590)`: Istae sunt familiae Iuda, quarum omnis numerus fuit septuaginta sex millia quingenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Hæ sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
-  - `Clem1598-USFX` *(numbered 26:27 in this witness)*: Hæ sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
-  - `Clem-Saints`: Hæ sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
-  - `VulgHetzenauer (1906)` *(numbered 26:27 in this witness)*: hæ sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
-  - `VulgConte (2009)` *(numbered 26:27 in this witness)*: Hæ sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
-  - `VulgSistina (1590)` *(numbered 26:27 in this witness)*: hae sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:27 (re-aligned by content).
+- **Critical Text:** Filii Issachar per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
+  - `Clem1598-USFX`: Filii Issachar per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
+  - `Clem-Saints` *(numbered 26:19 in this witness)*: Filii Issachar per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
+  - `VulgHetzenauer (1906)`: Filii Issachar, per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
+  - `VulgConte (2009)`: Filii Issachar, per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
+  - `VulgSistina (1590)`: Filii Issachar, per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
-  - `Clem1598-USFX` *(numbered 26:15 in this witness)*: Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
-  - `Clem-Saints`: Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
-  - `VulgHetzenauer (1906)` *(numbered 26:15 in this witness)*: Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
-  - `VulgConte (2009)` *(numbered 26:15 in this witness)*: Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
-  - `VulgSistina (1590)` *(numbered 26:15 in this witness)*: Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:15 (re-aligned by content).
+- **Critical Text:** Jasub, a quo familia Jasubitarum: Semran, a quo familia Semranitarum.
+  - `Clem1598-USFX`: Jasub, a quo familia Jasubitarum: Semran, a quo familia Semranitarum.
+  - `Clem-Saints` *(numbered 26:20 in this witness)*: Jasub, a quo familia Jasubitarum: Semran, a quo familia Semranitarum.
+  - `VulgHetzenauer (1906)`: Iasub, a quo familia Iasubitarum: Semran, a quo familia Semranitarum.
+  - `VulgConte (2009)`: Iasub, a quo familia Iasubitarum: Semran, a quo familia Semranitarum.
+  - `VulgSistina (1590)`: Iasub, a quo familia Iasubitarum: Semran, a quo familia Semranitarum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:
-  - `Clem1598-USFX` *(numbered 26:16 in this witness)*: Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:
-  - `Clem-Saints`: Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:
-  - `VulgHetzenauer (1906)` *(numbered 26:16 in this witness)*: Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:
-  - `VulgConte (2009)` *(numbered 26:16 in this witness)*: Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:
-  - `VulgSistina (1590)` *(numbered 26:16 in this witness)*: Ozni, ab hoc familia Oznitarum: Her, ab hoc familia Heritarum:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:16 (re-aligned by content).
+- **Critical Text:** Hæ sunt cognationes Issachar, quarum numerus fuit sexaginta quatuor millia trecenti.
+  - `Clem1598-USFX`: Hæ sunt cognationes Issachar, quarum numerus fuit sexaginta quatuor millia trecenti.
+  - `Clem-Saints` *(numbered 26:21 in this witness)*: Hæ sunt cognationes Issachar, quarum numerus fuit sexaginta quatuor millia trecenti.
+  - `VulgHetzenauer (1906)`: hæ sunt cognationes Issachar, quarum numerus fuit sexaginta quattuor millia trecenti.
+  - `VulgConte (2009)`: Hæ sunt cognationes Issachar, quarum numerus fuit sexaginta quattuor millia trecenti.
+  - `VulgSistina (1590)`: hae sunt cognationes Issachar, quarum numerus fuit sexaginta quattuor millia trecenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
-  - `Clem1598-USFX` *(numbered 26:17 in this witness)*: Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
-  - `Clem-Saints`: Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
-  - `VulgHetzenauer (1906)` *(numbered 26:17 in this witness)*: Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
-  - `VulgConte (2009)` *(numbered 26:17 in this witness)*: Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
-  - `VulgSistina (1590)` *(numbered 26:17 in this witness)*: Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:17 (re-aligned by content).
+- **Critical Text:** Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Jalel, a quo familia Jalelitarum.
+  - `Clem1598-USFX`: Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Jalel, a quo familia Jalelitarum.
+  - `Clem-Saints` *(numbered 26:22 in this witness)*: Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Jalel, a quo familia Jalelitarum.
+  - `VulgHetzenauer (1906)`: Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Ialel, a quo familia Ialelitarum.
+  - `VulgConte (2009)`: Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Ialel, a quo familia Ialelitarum.
+  - `VulgSistina (1590)`: Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Ialel, a quo familia Ialelitarum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.
-  - `Clem1598-USFX` *(numbered 26:18 in this witness)*: Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.
-  - `Clem-Saints`: Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.
-  - `VulgHetzenauer (1906)` *(numbered 26:18 in this witness)*: istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.
-  - `VulgConte (2009)` *(numbered 26:18 in this witness)*: Istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.
-  - `VulgSistina (1590)` *(numbered 26:18 in this witness)*: istae sunt familiae Gad, quarum omnis numerus fuit quadraginta millia quingenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:18 (re-aligned by content).
+- **Critical Text:** Hæ sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
+  - `Clem1598-USFX`: Hæ sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
+  - `Clem-Saints` *(numbered 26:23 in this witness)*: Hæ sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
+  - `VulgHetzenauer (1906)`: hæ sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
+  - `VulgConte (2009)`: Hæ sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
+  - `VulgSistina (1590)`: hae sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Filii Aser per cognationes suas: Jemna, a quo familia Jemnaitarum: Jessui, a quo familia Jessuitarum: Brie, a quo familia Brieitarum.
-  - `Clem1598-USFX` *(numbered 26:44 in this witness)*: Filii Aser per cognationes suas: Jemna, a quo familia Jemnaitarum: Jessui, a quo familia Jessuitarum: Brie, a quo familia Brieitarum.
-  - `Clem-Saints`: Filii Aser per cognationes suas: Jemna, a quo familia Jemnaitarum: Jessui, a quo familia Jessuitarum: Brie, a quo familia Brieitarum.
-  - `VulgHetzenauer (1906)` *(numbered 26:44 in this witness)*: Filii Aser per cognationes suas: Iemna, a quo familia Iemnaitarum: Iessui, a quo familia Iessuitarum: Brie, a quo familia Brieitarum.
-  - `VulgConte (2009)` *(numbered 26:44 in this witness)*: Filii Aser per cognationes suas: Iemna, a quo familia Iemnaitarum: Iessui, a quo familia Iessuitarum: Brie, a quo familia Brieitarum.
-  - `VulgSistina (1590)` *(numbered 26:44 in this witness)*: Filii Aser per cognationes suas: Iemna, a quo familia Iemnaitarum: Iessui, a quo familia Iessuitarum: Brie, a quo familia Brieitarum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:44 (re-aligned by content).
+- **Critical Text:** Filii Joseph per cognationes suas, Manasse et Ephraim.
+  - `Clem1598-USFX`: Filii Joseph per cognationes suas, Manasse et Ephraim.
+  - `Clem-Saints` *(numbered 26:32 in this witness)*: Filii Joseph per cognationes suas, Manasse et Ephraim.
+  - `VulgHetzenauer (1906)`: Filii Ioseph per cognationes suas, Manasse et Ephraim.
+  - `VulgConte (2009)`: Filii Ioseph per cognationes suas, Manasse et Ephraim.
+  - `VulgSistina (1590)`: Filii Ioseph per cognationes suas, Manasse et Ephraim.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
-  - `Clem1598-USFX` *(numbered 26:45 in this witness)*: Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
-  - `Clem-Saints`: Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
-  - `VulgHetzenauer (1906)` *(numbered 26:45 in this witness)*: Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
-  - `VulgConte (2009)` *(numbered 26:45 in this witness)*: Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
-  - `VulgSistina (1590)` *(numbered 26:45 in this witness)*: Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:45 (re-aligned by content).
+- **Critical Text:** De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.
+  - `Clem1598-USFX`: De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.
+  - `Clem-Saints` *(numbered 26:33 in this witness)*: De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.
+  - `VulgHetzenauer (1906)`: De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.
+  - `VulgConte (2009)`: De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.
+  - `VulgSistina (1590)`: De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Nomen autem filiæ Aser fuit Sara.
-  - `Clem1598-USFX` *(numbered 26:46 in this witness)*: Nomen autem filiæ Aser fuit Sara.
-  - `Clem-Saints`: Nomen autem filiæ Aser fuit Sara.
-  - `VulgHetzenauer (1906)` *(numbered 26:46 in this witness)*: Nomen autem filiæ Aser, fuit Sara.
-  - `VulgConte (2009)` *(numbered 26:46 in this witness)*: Nomen autem filiæ Aser, fuit Sara.
-  - `VulgSistina (1590)` *(numbered 26:46 in this witness)*: Nomen autem filiae Aser, fuit Sara.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:46 (re-aligned by content).
+- **Critical Text:** Galaad habuit filios: Jezer, a quo familia Jezeritarum: et Helec, a quo familia Helecitarum:
+  - `Clem1598-USFX`: Galaad habuit filios: Jezer, a quo familia Jezeritarum: et Helec, a quo familia Helecitarum:
+  - `Clem-Saints` *(numbered 26:34 in this witness)*: Galaad habuit filios: Jezer, a quo familia Jezeritarum: et Helec, a quo familia Helecitarum:
+  - `VulgHetzenauer (1906)`: Galaad habuit filios: Iezer, a quo familia Iezeritarum: et Helec, a quo familia Helecitarum:
+  - `VulgConte (2009)`: Galaad habuit filios: Iezer, a quo familia Iezeritarum: et Helec, a quo familia Helecitarum:
+  - `VulgSistina (1590)`: Galaad habuit filios: Iezer, a quo familia Iezeritarum: et Helec, a quo familia Helecitarum:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
-  - `Clem1598-USFX` *(numbered 26:47 in this witness)*: Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
-  - `Clem-Saints`: Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
-  - `VulgHetzenauer (1906)` *(numbered 26:47 in this witness)*: hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
-  - `VulgConte (2009)` *(numbered 26:47 in this witness)*: Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
-  - `VulgSistina (1590)` *(numbered 26:47 in this witness)*: hae cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:47 (re-aligned by content).
+- **Critical Text:** et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:
+  - `Clem1598-USFX`: et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:
+  - `Clem-Saints` *(numbered 26:35 in this witness)*: et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:
+  - `VulgHetzenauer (1906)`: et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:
+  - `VulgConte (2009)`: et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:
+  - `VulgSistina (1590)`: et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Filii Joseph per cognationes suas, Manasse et Ephraim.
-  - `Clem1598-USFX` *(numbered 26:28 in this witness)*: Filii Joseph per cognationes suas, Manasse et Ephraim.
-  - `Clem-Saints`: Filii Joseph per cognationes suas, Manasse et Ephraim.
-  - `VulgHetzenauer (1906)` *(numbered 26:28 in this witness)*: Filii Ioseph per cognationes suas, Manasse et Ephraim.
-  - `VulgConte (2009)` *(numbered 26:28 in this witness)*: Filii Ioseph per cognationes suas, Manasse et Ephraim.
-  - `VulgSistina (1590)` *(numbered 26:28 in this witness)*: Filii Ioseph per cognationes suas, Manasse et Ephraim.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:28 (re-aligned by content).
+- **Critical Text:** et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.
+  - `Clem1598-USFX`: et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.
+  - `Clem-Saints` *(numbered 26:36 in this witness)*: et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.
+  - `VulgHetzenauer (1906)`: et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.
+  - `VulgConte (2009)`: et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.
+  - `VulgSistina (1590)`: et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.
-  - `Clem1598-USFX` *(numbered 26:29 in this witness)*: De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.
-  - `Clem-Saints`: De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.
-  - `VulgHetzenauer (1906)` *(numbered 26:29 in this witness)*: De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.
-  - `VulgConte (2009)` *(numbered 26:29 in this witness)*: De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.
-  - `VulgSistina (1590)` *(numbered 26:29 in this witness)*: De Manasse ortus est Machir, a quo familia Machiritarum. Machir genuit Galaad, a quo familia Galaaditarum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:29 (re-aligned by content).
+- **Critical Text:** Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias: quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
+  - `Clem1598-USFX`: Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias: quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
+  - `Clem-Saints` *(numbered 26:37 in this witness)*: Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias: quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
+  - `VulgHetzenauer (1906)`: Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias, quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
+  - `VulgConte (2009)`: Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias, quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
+  - `VulgSistina (1590)`: Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias, quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 34 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Galaad habuit filios: Jezer, a quo familia Jezeritarum: et Helec, a quo familia Helecitarum:
-  - `Clem1598-USFX` *(numbered 26:30 in this witness)*: Galaad habuit filios: Jezer, a quo familia Jezeritarum: et Helec, a quo familia Helecitarum:
-  - `Clem-Saints`: Galaad habuit filios: Jezer, a quo familia Jezeritarum: et Helec, a quo familia Helecitarum:
-  - `VulgHetzenauer (1906)` *(numbered 26:30 in this witness)*: Galaad habuit filios: Iezer, a quo familia Iezeritarum: et Helec, a quo familia Helecitarum:
-  - `VulgConte (2009)` *(numbered 26:30 in this witness)*: Galaad habuit filios: Iezer, a quo familia Iezeritarum: et Helec, a quo familia Helecitarum:
-  - `VulgSistina (1590)` *(numbered 26:30 in this witness)*: Galaad habuit filios: Iezer, a quo familia Iezeritarum: et Helec, a quo familia Helecitarum:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:30 (re-aligned by content).
+- **Critical Text:** Hæ sunt familiæ Manasse, et numerus earum quinquaginta duo millia septingenti.
+  - `Clem1598-USFX`: Hæ sunt familiæ Manasse, et numerus earum quinquaginta duo millia septingenti.
+  - `Clem-Saints` *(numbered 26:38 in this witness)*: Hæ sunt familiæ Manasse, et numerus earum quinquaginta duo millia septingenti.
+  - `VulgHetzenauer (1906)`: hæ sunt familiæ Manasse, et numerus earum, quinquaginta duo millia septingenti.
+  - `VulgConte (2009)`: Hæ sunt familiæ Manasse, et numerus earum, quinquaginta duo millia septingenti.
+  - `VulgSistina (1590)`: hae sunt familiae Manasse, et numerus earum, quinquaginta duo millia septingenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 35 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:
-  - `Clem1598-USFX` *(numbered 26:31 in this witness)*: et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:
-  - `Clem-Saints`: et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:
-  - `VulgHetzenauer (1906)` *(numbered 26:31 in this witness)*: et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:
-  - `VulgConte (2009)` *(numbered 26:31 in this witness)*: et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:
-  - `VulgSistina (1590)` *(numbered 26:31 in this witness)*: et Asriel, a quo familia Asrielitarum: et Sechem, a quo familia Sechemitarum:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:31 (re-aligned by content).
+- **Critical Text:** Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
+  - `Clem1598-USFX`: Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
+  - `Clem-Saints` *(numbered 26:39 in this witness)*: Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
+  - `VulgHetzenauer (1906)`: Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
+  - `VulgConte (2009)`: Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
+  - `VulgSistina (1590)`: Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 36 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.
-  - `Clem1598-USFX` *(numbered 26:32 in this witness)*: et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.
-  - `Clem-Saints`: et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.
-  - `VulgHetzenauer (1906)` *(numbered 26:32 in this witness)*: et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.
-  - `VulgConte (2009)` *(numbered 26:32 in this witness)*: et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.
-  - `VulgSistina (1590)` *(numbered 26:32 in this witness)*: et Semida, a quo familia Semidaitarum: et Hepher, a quo familia Hepheritarum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:32 (re-aligned by content).
+- **Critical Text:** Porro filius Suthala fuit Heran, a quo familia Heranitarum.
+  - `Clem1598-USFX`: Porro filius Suthala fuit Heran, a quo familia Heranitarum.
+  - `Clem-Saints` *(numbered 26:40 in this witness)*: Porro filius Suthala fuit Heran, a quo familia Heranitarum.
+  - `VulgHetzenauer (1906)`: porro filius Suthala fuit Heran, a quo familia Heranitarum.
+  - `VulgConte (2009)`: Porro filius Suthala fuit Heran, a quo familia Heranitarum.
+  - `VulgSistina (1590)`: porro filius Suthala fuit Heran, a quo familia Heranitarum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 37 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias: quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
-  - `Clem1598-USFX` *(numbered 26:33 in this witness)*: Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias: quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
-  - `Clem-Saints`: Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias: quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
-  - `VulgHetzenauer (1906)` *(numbered 26:33 in this witness)*: Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias, quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
-  - `VulgConte (2009)` *(numbered 26:33 in this witness)*: Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias, quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
-  - `VulgSistina (1590)` *(numbered 26:33 in this witness)*: Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias, quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:33 (re-aligned by content).
+- **Critical Text:** Hæ sunt cognationes filiorum Ephraim: quarum numerus fuit triginta duo millia quingenti.
+  - `Clem1598-USFX`: Hæ sunt cognationes filiorum Ephraim: quarum numerus fuit triginta duo millia quingenti.
+  - `Clem-Saints` *(numbered 26:41 in this witness)*: Hæ sunt cognationes filiorum Ephraim: quarum numerus fuit triginta duo millia quingenti.
+  - `VulgHetzenauer (1906)`: hæ sunt cognationes filiorum Ephraim, quarum numerus fuit triginta duo millia quingenti.
+  - `VulgConte (2009)`: Hæ sunt cognationes filiorum Ephraim, quarum numerus fuit triginta duo millia quingenti.
+  - `VulgSistina (1590)`: hae sunt cognationes filiorum Ephraim, quarum numerus fuit triginta duo millia quingenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 38 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Hæ sunt familiæ Manasse, et numerus earum quinquaginta duo millia septingenti.
-  - `Clem1598-USFX` *(numbered 26:34 in this witness)*: Hæ sunt familiæ Manasse, et numerus earum quinquaginta duo millia septingenti.
-  - `Clem-Saints`: Hæ sunt familiæ Manasse, et numerus earum quinquaginta duo millia septingenti.
-  - `VulgHetzenauer (1906)` *(numbered 26:34 in this witness)*: hæ sunt familiæ Manasse, et numerus earum, quinquaginta duo millia septingenti.
-  - `VulgConte (2009)` *(numbered 26:34 in this witness)*: Hæ sunt familiæ Manasse, et numerus earum, quinquaginta duo millia septingenti.
-  - `VulgSistina (1590)` *(numbered 26:34 in this witness)*: hae sunt familiae Manasse, et numerus earum, quinquaginta duo millia septingenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:34 (re-aligned by content).
+- **Critical Text:** Isti sunt filii Joseph per familias suas. Filii Benjamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
+  - `Clem1598-USFX`: Isti sunt filii Joseph per familias suas. Filii Benjamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
+  - `Clem-Saints` *(numbered 26:42 in this witness)*: Isti sunt filii Joseph per familias suas. Filii Benjamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
+  - `VulgHetzenauer (1906)`: Isti sunt filii Ioseph per familias suas. Filii Beniamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
+  - `VulgConte (2009)`: Isti sunt filii Ioseph per familias suas. Filii Beniamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
+  - `VulgSistina (1590)`: Isti sunt filii Ioseph per familias suas. Filii Beniamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 39 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
-  - `Clem1598-USFX` *(numbered 26:35 in this witness)*: Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
-  - `Clem-Saints`: Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
-  - `VulgHetzenauer (1906)` *(numbered 26:35 in this witness)*: Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
-  - `VulgConte (2009)` *(numbered 26:35 in this witness)*: Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
-  - `VulgSistina (1590)` *(numbered 26:35 in this witness)*: Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:35 (re-aligned by content).
+- **Critical Text:** Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.
+  - `Clem1598-USFX`: Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.
+  - `Clem-Saints` *(numbered 26:43 in this witness)*: Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.
+  - `VulgHetzenauer (1906)`: Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.
+  - `VulgConte (2009)`: Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.
+  - `VulgSistina (1590)`: Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 40 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Porro filius Suthala fuit Heran, a quo familia Heranitarum.
-  - `Clem1598-USFX` *(numbered 26:36 in this witness)*: Porro filius Suthala fuit Heran, a quo familia Heranitarum.
-  - `Clem-Saints`: Porro filius Suthala fuit Heran, a quo familia Heranitarum.
-  - `VulgHetzenauer (1906)` *(numbered 26:36 in this witness)*: porro filius Suthala fuit Heran, a quo familia Heranitarum.
-  - `VulgConte (2009)` *(numbered 26:36 in this witness)*: Porro filius Suthala fuit Heran, a quo familia Heranitarum.
-  - `VulgSistina (1590)` *(numbered 26:36 in this witness)*: porro filius Suthala fuit Heran, a quo familia Heranitarum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:36 (re-aligned by content).
+- **Critical Text:** Filii Bela: Hered, et Noëman. De Hered, familia Hereditarum: de Noëman, familia Noëmanitarum.
+  - `Clem1598-USFX`: Filii Bela: Hered, et Noëman. De Hered, familia Hereditarum: de Noëman, familia Noëmanitarum.
+  - `Clem-Saints` *(numbered 26:44 in this witness)*: Filii Bela: Hered, et Noëman. De Hered, familia Hereditarum: de Noëman, familia Noëmanitarum.
+  - `VulgHetzenauer (1906)`: Filii Bela: Hered, et Noeman. De Hered, familia Hereditarum: de Noeman, familia Noemanitarum.
+  - `VulgConte (2009)`: Filii Bela: Hered, et Noeman. De Hered, familia Hereditarum: de Noeman, familia Noemanitarum.
+  - `VulgSistina (1590)`: Filii Bela: Hered, et Noeman. De Hered, familia Hereditarum: de Noeman, familia Noemanitarum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 41 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Hæ sunt cognationes filiorum Ephraim: quarum numerus fuit triginta duo millia quingenti.
-  - `Clem1598-USFX` *(numbered 26:37 in this witness)*: Hæ sunt cognationes filiorum Ephraim: quarum numerus fuit triginta duo millia quingenti.
-  - `Clem-Saints`: Hæ sunt cognationes filiorum Ephraim: quarum numerus fuit triginta duo millia quingenti.
-  - `VulgHetzenauer (1906)` *(numbered 26:37 in this witness)*: hæ sunt cognationes filiorum Ephraim, quarum numerus fuit triginta duo millia quingenti.
-  - `VulgConte (2009)` *(numbered 26:37 in this witness)*: Hæ sunt cognationes filiorum Ephraim, quarum numerus fuit triginta duo millia quingenti.
-  - `VulgSistina (1590)` *(numbered 26:37 in this witness)*: hae sunt cognationes filiorum Ephraim, quarum numerus fuit triginta duo millia quingenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:37 (re-aligned by content).
+- **Critical Text:** Hi sunt filii Benjamin per cognationes suas: quorum numerus fuit quadraginta quinque millia sexcenti.
+  - `Clem1598-USFX`: Hi sunt filii Benjamin per cognationes suas: quorum numerus fuit quadraginta quinque millia sexcenti.
+  - `Clem-Saints` *(numbered 26:45 in this witness)*: Hi sunt filii Benjamin per cognationes suas: quorum numerus fuit quadraginta quinque millia sexcenti.
+  - `VulgHetzenauer (1906)`: hi sunt filii Beniamin per cognationes suas, quorum numerus fuit quadragintaquinque millia sexcenti.
+  - `VulgConte (2009)`: Hi sunt filii Beniamin per cognationes suas, quorum numerus fuit quadraginta quinque millia sexcenti.
+  - `VulgSistina (1590)`: hi sunt filii Beniamin per cognationes suas, quorum numerus fuit quadragintaquinque millia sexcenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 42 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Isti sunt filii Joseph per familias suas. Filii Benjamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
-  - `Clem1598-USFX` *(numbered 26:38 in this witness)*: Isti sunt filii Joseph per familias suas. Filii Benjamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
-  - `Clem-Saints`: Isti sunt filii Joseph per familias suas. Filii Benjamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
-  - `VulgHetzenauer (1906)` *(numbered 26:38 in this witness)*: Isti sunt filii Ioseph per familias suas. Filii Beniamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
-  - `VulgConte (2009)` *(numbered 26:38 in this witness)*: Isti sunt filii Ioseph per familias suas. Filii Beniamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
-  - `VulgSistina (1590)` *(numbered 26:38 in this witness)*: Isti sunt filii Ioseph per familias suas. Filii Beniamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:38 (re-aligned by content).
+- **Critical Text:** Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. Hæ sunt cognationes Dan per familias suas.
+  - `Clem1598-USFX`: Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. Hæ sunt cognationes Dan per familias suas.
+  - `Clem-Saints` *(numbered 26:46 in this witness)*: Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. Hæ sunt cognationes Dan per familias suas.
+  - `VulgHetzenauer (1906)`: Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. hæ sunt cognationes Dan per familias suas.
+  - `VulgConte (2009)`: Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. Hæ sunt cognationes Dan per familias suas.
+  - `VulgSistina (1590)`: Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. hae sunt cognationes Dan per familias suas.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 43 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.
-  - `Clem1598-USFX` *(numbered 26:39 in this witness)*: Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.
-  - `Clem-Saints`: Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.
-  - `VulgHetzenauer (1906)` *(numbered 26:39 in this witness)*: Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.
-  - `VulgConte (2009)` *(numbered 26:39 in this witness)*: Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.
-  - `VulgSistina (1590)` *(numbered 26:39 in this witness)*: Supham, a quo familia Suphamitarum: Hupham, a quo familia Huphamitarum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:39 (re-aligned by content).
+- **Critical Text:** Omnes fuere Suhamitæ, quorum numerus erat sexaginta quatuor millia quadringenti.
+  - `Clem1598-USFX`: Omnes fuere Suhamitæ, quorum numerus erat sexaginta quatuor millia quadringenti.
+  - `Clem-Saints` *(numbered 26:47 in this witness)*: Omnes fuere Suhamitæ, quorum numerus erat sexaginta quatuor millia quadringenti.
+  - `VulgHetzenauer (1906)`: omnes fuere Suhamitæ, quorum numerus erat sexaginta quattuor millia quadringenti.
+  - `VulgConte (2009)`: Omnes fuere Suhamitæ, quorum numerus erat sexaginta quattuor millia quadringenti.
+  - `VulgSistina (1590)`: omnes fuere Suhamitae, quorum numerus erat sexaginta quattuor millia quadringenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 44 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Filii Bela: Hered, et Noëman. De Hered, familia Hereditarum: de Noëman, familia Noëmanitarum.
-  - `Clem1598-USFX` *(numbered 26:40 in this witness)*: Filii Bela: Hered, et Noëman. De Hered, familia Hereditarum: de Noëman, familia Noëmanitarum.
-  - `Clem-Saints`: Filii Bela: Hered, et Noëman. De Hered, familia Hereditarum: de Noëman, familia Noëmanitarum.
-  - `VulgHetzenauer (1906)` *(numbered 26:40 in this witness)*: Filii Bela: Hered, et Noeman. De Hered, familia Hereditarum: de Noeman, familia Noemanitarum.
-  - `VulgConte (2009)` *(numbered 26:40 in this witness)*: Filii Bela: Hered, et Noeman. De Hered, familia Hereditarum: de Noeman, familia Noemanitarum.
-  - `VulgSistina (1590)` *(numbered 26:40 in this witness)*: Filii Bela: Hered, et Noeman. De Hered, familia Hereditarum: de Noeman, familia Noemanitarum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:40 (re-aligned by content).
+- **Critical Text:** Filii Aser per cognationes suas: Jemna, a quo familia Jemnaitarum: Jessui, a quo familia Jessuitarum: Brie, a quo familia Brieitarum.
+  - `Clem1598-USFX`: Filii Aser per cognationes suas: Jemna, a quo familia Jemnaitarum: Jessui, a quo familia Jessuitarum: Brie, a quo familia Brieitarum.
+  - `Clem-Saints` *(numbered 26:28 in this witness)*: Filii Aser per cognationes suas: Jemna, a quo familia Jemnaitarum: Jessui, a quo familia Jessuitarum: Brie, a quo familia Brieitarum.
+  - `VulgHetzenauer (1906)`: Filii Aser per cognationes suas: Iemna, a quo familia Iemnaitarum: Iessui, a quo familia Iessuitarum: Brie, a quo familia Brieitarum.
+  - `VulgConte (2009)`: Filii Aser per cognationes suas: Iemna, a quo familia Iemnaitarum: Iessui, a quo familia Iessuitarum: Brie, a quo familia Brieitarum.
+  - `VulgSistina (1590)`: Filii Aser per cognationes suas: Iemna, a quo familia Iemnaitarum: Iessui, a quo familia Iessuitarum: Brie, a quo familia Brieitarum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 45 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Hi sunt filii Benjamin per cognationes suas: quorum numerus fuit quadraginta quinque millia sexcenti.
-  - `Clem1598-USFX` *(numbered 26:41 in this witness)*: Hi sunt filii Benjamin per cognationes suas: quorum numerus fuit quadraginta quinque millia sexcenti.
-  - `Clem-Saints`: Hi sunt filii Benjamin per cognationes suas: quorum numerus fuit quadraginta quinque millia sexcenti.
-  - `VulgHetzenauer (1906)` *(numbered 26:41 in this witness)*: hi sunt filii Beniamin per cognationes suas, quorum numerus fuit quadragintaquinque millia sexcenti.
-  - `VulgConte (2009)` *(numbered 26:41 in this witness)*: Hi sunt filii Beniamin per cognationes suas, quorum numerus fuit quadraginta quinque millia sexcenti.
-  - `VulgSistina (1590)` *(numbered 26:41 in this witness)*: hi sunt filii Beniamin per cognationes suas, quorum numerus fuit quadragintaquinque millia sexcenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:41 (re-aligned by content).
+- **Critical Text:** Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
+  - `Clem1598-USFX`: Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
+  - `Clem-Saints` *(numbered 26:29 in this witness)*: Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
+  - `VulgHetzenauer (1906)`: Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
+  - `VulgConte (2009)`: Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
+  - `VulgSistina (1590)`: Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 46 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. Hæ sunt cognationes Dan per familias suas.
-  - `Clem1598-USFX` *(numbered 26:42 in this witness)*: Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. Hæ sunt cognationes Dan per familias suas.
-  - `Clem-Saints`: Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. Hæ sunt cognationes Dan per familias suas.
-  - `VulgHetzenauer (1906)` *(numbered 26:42 in this witness)*: Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. hæ sunt cognationes Dan per familias suas.
-  - `VulgConte (2009)` *(numbered 26:42 in this witness)*: Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. Hæ sunt cognationes Dan per familias suas.
-  - `VulgSistina (1590)` *(numbered 26:42 in this witness)*: Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. hae sunt cognationes Dan per familias suas.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:42 (re-aligned by content).
+- **Critical Text:** Nomen autem filiæ Aser fuit Sara.
+  - `Clem1598-USFX`: Nomen autem filiæ Aser fuit Sara.
+  - `Clem-Saints` *(numbered 26:30 in this witness)*: Nomen autem filiæ Aser fuit Sara.
+  - `VulgHetzenauer (1906)`: Nomen autem filiæ Aser, fuit Sara.
+  - `VulgConte (2009)`: Nomen autem filiæ Aser, fuit Sara.
+  - `VulgSistina (1590)`: Nomen autem filiae Aser, fuit Sara.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 47 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Omnes fuere Suhamitæ, quorum numerus erat sexaginta quatuor millia quadringenti.
-  - `Clem1598-USFX` *(numbered 26:43 in this witness)*: Omnes fuere Suhamitæ, quorum numerus erat sexaginta quatuor millia quadringenti.
-  - `Clem-Saints`: Omnes fuere Suhamitæ, quorum numerus erat sexaginta quatuor millia quadringenti.
-  - `VulgHetzenauer (1906)` *(numbered 26:43 in this witness)*: omnes fuere Suhamitæ, quorum numerus erat sexaginta quattuor millia quadringenti.
-  - `VulgConte (2009)` *(numbered 26:43 in this witness)*: Omnes fuere Suhamitæ, quorum numerus erat sexaginta quattuor millia quadringenti.
-  - `VulgSistina (1590)` *(numbered 26:43 in this witness)*: omnes fuere Suhamitae, quorum numerus erat sexaginta quattuor millia quadringenti.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 26:43 (re-aligned by content).
+- **Critical Text:** Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
+  - `Clem1598-USFX`: Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
+  - `Clem-Saints` *(numbered 26:31 in this witness)*: Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
+  - `VulgHetzenauer (1906)`: hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
+  - `VulgConte (2009)`: Hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
+  - `VulgSistina (1590)`: hae cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 48 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Filii Nephthali per cognationes suas: Jesiel, a quo familia Jesielitarum: Guni, a quo familia Gunitarum:
@@ -571,7 +559,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Filii Nephthali per cognationes suas: Iesiel, a quo familia Iesielitarum: Guni, a quo familia Gunitarum:
   - `VulgConte (2009)`: Filii Nephthali per cognationes suas: Iesiel, a quo familia Iesielitarum: Guni, a quo familia Gunitarum:
   - `VulgSistina (1590)`: Filii Nephthali per cognationes suas: Iesiel, a quo familia Iesielitarum: Guni, a quo familia Gunitarum:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 49 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Jeser, a quo familia Jeseritarum: Sellem, a quo familia Sellemitarum.
@@ -580,7 +568,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ieser, a quo familia Ieseritarum: Sellem, a quo familia Sellemitarum.
   - `VulgConte (2009)`: Ieser, a quo familia Ieseritarum: Sellem, a quo familia Sellemitarum.
   - `VulgSistina (1590)`: Ieser, a quo familia Ieseritarum: Sellem, a quo familia Sellemitarum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 50 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæ sunt cognationes filiorum Nephthali per familias suas: quorum numerus quadraginta quinque millia quadringenti.
@@ -589,7 +577,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: hæ sunt cognationes filiorum Nephthali per familias suas: quorum numerus quadraginta quinque millia quadringenti.
   - `VulgConte (2009)`: Hæ sunt cognationes filiorum Nephthali per familias suas: quorum numerus quadraginta quinque millia quadringenti.
   - `VulgSistina (1590)`: hae sunt cognationes filiorum Nephthali per familias suas: quorum numerus quadraginta quinque millia quadringenti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 51 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ista est summa filiorum Israël, qui recensiti sunt, sexcenta millia, et mille septingenti triginta.
@@ -598,7 +586,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ista est summa filiorum Israel, qui recensiti sunt, sexcenta millia, et mille septingenti triginta.
   - `VulgConte (2009)`: Ista est summa filiorum Israel, qui recensiti sunt, sexcenta millia, et mille septingenti triginta.
   - `VulgSistina (1590)`: Ista est summa filiorum Israel, qui recensiti sunt, sexcenta millia, et mille septingenti triginta.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 52 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Locutusque est Dominus ad Moysen, dicens:
@@ -607,7 +595,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Locutusque est Dominus ad Moysen, dicens:
   - `VulgConte (2009)`: Locutusque est Dominus ad Moysen, dicens:
   - `VulgSistina (1590)`: Locutusque est Dominus ad Moysen, dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 53 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Istis dividetur terra juxta numerum vocabulorum in possessiones suas.
@@ -616,7 +604,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Istis dividetur terra iuxta numerum vocabulorum in possessiones suas.
   - `VulgConte (2009)`: Istis dividetur terra iuxta numerum vocabulorum in possessiones suas.
   - `VulgSistina (1590)`: Istis dividetur terra iuxta numerum vocabulorum in possessiones suas.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 54 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Pluribus majorem partem dabis, et paucioribus minorem: singulis, sicut nunc recensiti sunt, tradetur possessio:
@@ -625,7 +613,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Pluribus maiorem partem dabis, et paucioribus minorem: singulis, sicut nunc recensiti sunt, tradetur possessio:
   - `VulgConte (2009)`: Pluribus maiorem partem dabis, et paucioribus minorem: singulis, sicut nunc recensiti sunt, tradetur possessio:
   - `VulgSistina (1590)`: Pluribus maiorem partem dabis, et paucioribus minorem: singulis, sicut nunc recensiti sunt, tradetur possessio:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 55 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ita dumtaxat ut sors terram tribubus dividat et familiis.
@@ -634,7 +622,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ita dumtaxat ut sors Terram tribubus dividat et familiis.
   - `VulgConte (2009)`: ita dumtaxat ut sors Terram tribubus dividat et familiis.
   - `VulgSistina (1590)`: ita dumtaxat ut sors Terram tribubus dividat et familiis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 56 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quidquid sorte contigerit, hoc vel plures accipiant, vel pauciores.
@@ -643,7 +631,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quidquid sorte contigerit, hoc vel plures accipiant, vel pauciores.
   - `VulgConte (2009)`: Quidquid sorte contigerit, hoc vel plures accipiant, vel pauciores.
   - `VulgSistina (1590)`: Quidquid sorte contigerit, hoc vel plures accipiant, vel pauciores.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 57 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hic quoque est numerus filiorum Levi per familias suas: Gerson, a quo familia Gersonitarum: Caath, a quo familia Caathitarum: Merari, a quo familia Meraritarum.
@@ -652,7 +640,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hic quoque est numerus filiorum Levi per familias suas: Gerson, a quo familia Gersonitarum: Caath, a quo famiia Caathitarum: Merari, a quo familia Meraritarum.
   - `VulgConte (2009)`: Hic quoque est numerus filiorum Levi per familias suas: Gerson, a quo familia Gersonitarum: Caath, a quo famiia Caathitarum: Merari, a quo familia Meraritarum.
   - `VulgSistina (1590)`: Hic quoque est numerus filiorum Levi per familias suas: Gerson, a quo familia Gersonitarum: Caath, a quo familia Caathitarum: Merari, a quo familia Meraritarum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 58 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæ sunt familiæ Levi: familia Lobni, familia Hebroni, familia Moholi, familia Musi, familia Core. At vero Caath genuit Amram:
@@ -661,7 +649,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: hæ sunt familiæ Levi: Familia Lobni, familia Hebroni, familia Moholi, familia Musi, familia Core. At vero Caath genuit Amram:
   - `VulgConte (2009)`: Hæ sunt familiæ Levi: Familia Lobni, familia Hebroni, familia Moholi, familia Musi, familia Core. At vero Caath genuit Amram:
   - `VulgSistina (1590)`: hae sunt familiae Levi: Familia Lobni, familia Hebroni, familia Moholi, familia Musi, familia Core. At vero Caath genuit Amram:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 59 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** qui habuit uxorem Jochabed filiam Levi, quæ nata est ei in Ægypto. Hæc genuit Amram viro suo filios, Aaron, et Moysen, et Mariam sororem eorum.
@@ -670,7 +658,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: qui habuit uxorem Iochabed filiam Levi, quæ nata est ei in Ægypto. hæc genuit Amram viro suo filios, Aaron et Moysen, et Mariam sororem eorum:
   - `VulgConte (2009)`: qui habuit uxorem Iochabed filiam Levi, quæ nata est ei in Ægypto. Hæc genuit Amram viro suo filios, Aaron et Moysen, et Mariam sororem eorum:
   - `VulgSistina (1590)`: qui habuit uxorem Iochabed filiam Levi, quae nata est ei in Aegypto. haec genuit Amram viro suo filios, Aaron et Moysen, et Mariam sororem eorum:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 60 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** De Aaron orti sunt Nadab et Abiu, et Eleazar et Ithamar:
@@ -679,7 +667,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: De Aaron orti sunt Nadab et Abiu, et Eleazar et Ithamar:
   - `VulgConte (2009)`: De Aaron orti sunt Nadab et Abiu, et Eleazar et Ithamar:
   - `VulgSistina (1590)`: De Aaron orti sunt Nadab et Abiu, et Eleazar et Ithamar:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 61 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quorum Nadab et Abiu mortui sunt, cum obtulissent ignem alienum coram Domino.
@@ -688,7 +676,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: quorum Nadab et Abiu mortui sunt, cum obtulissent ignem alienum coram Domino.
   - `VulgConte (2009)`: quorum Nadab et Abiu mortui sunt, cum obtulissent ignem alienum coram Domino.
   - `VulgSistina (1590)`: quorum Nadab et Abiu mortui sunt, cum obtulissent ignem alienum coram Domino.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 62 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Fueruntque omnes qui numerati sunt, viginti tria millia generis masculini ab uno mense et supra: quia non sunt recensiti inter filios Israël, nec eis cum ceteris data possessio est.
@@ -697,7 +685,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Fueruntque omnes, qui numerati sunt, viginti tria millia generis masculini ab uno mense et supra: quia non sunt recensiti inter filios Israel, nec eis cum ceteris data possessio est.
   - `VulgConte (2009)`: Fueruntque omnes, qui numerati sunt, viginti tria millia generis masculini ab uno mense et supra: quia non sunt recensiti inter filios Israel, nec eis cum ceteris data possessio est.
   - `VulgSistina (1590)`: Fueruntque omnes, qui numerati sunt, viginti tria millia generis masculini ab uno mense et supra: qui non sunt recensiti inter filios Israel, nec eis cum ceteris data possessio est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 63 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hic est numerus filiorum Israël, qui descripti sunt a Moyse et Eleazaro sacerdote, in campestribus Moab supra Jordanem contra Jericho:
@@ -706,7 +694,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hic est numerus filiorum Israel, qui descripti sunt a Moyse et Eleazaro sacerdote, in campestribus Moab supra Iordanem contra Iericho.
   - `VulgConte (2009)`: Hic est numerus filiorum Israel, qui descripti sunt a Moyse et Eleazaro sacerdote, in campestribus Moab supra Iordanem contra Iericho.
   - `VulgSistina (1590)`: Hic est numerus filiorum Israel, qui descripti sunt a Moyse et Eleazaro sacerdote, in campestribus Moab supra Iordanem contra Iericho.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 64 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** inter quos, nullus fuit eorum qui ante numerati sunt a Moyse et Aaron in deserto Sinai:
@@ -715,7 +703,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: inter quos nullus fuit eorum, qui ante numerati sunt a Moyse et Aaron in deserto Sinai:
   - `VulgConte (2009)`: Inter quos nullus fuit eorum, qui ante numerati sunt a Moyse et Aaron in deserto Sinai:
   - `VulgSistina (1590)`: inter quos nullus fuit eorum, qui ante numerati sunt a Moyse et Aaron in deserto Sinai:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 65 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** prædixerat enim Dominus quod omnes morerentur in solitudine. Nullusque remansit ex eis, nisi Caleb filius Jephone, et Josue filius Nun.
@@ -724,4 +712,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Prædixerat enim Dominus quod omnes morerentur in solitudine. Nullusque remansit ex eis, nisi Caleb filius Iephone, et Iosue filius Nun.
   - `VulgConte (2009)`: Prædixerat enim Dominus quod omnes morerentur in solitudine. Nullusque remansit ex eis, nisi Caleb filius Iephone, et Iosue filius Nun.
   - `VulgSistina (1590)`: Praedixerat enim Dominus quod omnes morerentur in solitudine. Nullusque remansit ex eis, nisi Caleb filius Iephone, et Iosue filius Nun.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

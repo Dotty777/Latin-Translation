@@ -1,8 +1,8 @@
 # Numbers 02 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:43Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
+
+### Versification & Alignment Notes
+- Clem-Saints: verse 3:9 runs into its neighbour across the anchor's division between 3:9 and 3:10; re-divided there
+- VulgConte (2009): verse 3:9 runs into its neighbour across the anchor's division between 3:9 and 3:10; re-divided there
 
 ---
 
@@ -83,8 +78,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Numbers 2:2
-- **Apparatus:** `filii Israël,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **filiorum Israhel** VulgSistina (1590)
-- **Apparatus:** `filii` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **filiorum** VulgSistina (1590)
+- **Apparatus:** `filii Israël,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **filiorum Israhel** VulgSistina (1590)
+- **Apparatus:** `filii` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **filiorum** VulgSistina (1590)
 
 ### Numbers 2:4
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quatuor / quattuor`, `quatuor / quattuor`, `quatuor / quattuor` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -93,10 +88,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quatuor millia / quattuor milia`, `quatuor / quattuor`, `quatuor / quattuor`, `quatuor / quattuor` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Numbers 2:8
-- **Apparatus:** `Omnis` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Omnisque** VulgSistina (1590)
+- **Apparatus:** `Omnis` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Omnisque** VulgSistina (1590)
 
 ### Numbers 2:9
-- **Apparatus:** `enumerati` Clem-Saints Clem1598-USFX **]** **adnumerati** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590)
+- **Apparatus:** `enumerati` Clem1598-USFX Clem-Saints **]** **adnumerati** VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590)
 
 ---
 
@@ -109,7 +104,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Locutusque est Dominus ad Moysen et Aaron dicens:
   - `VulgConte (2009)`: Locutusque est Dominus ad Moysen et Aaron, dicens:
   - `VulgSistina (1590)`: Locutusque est Dominus ad Moysen et Aaron dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Singuli per turmas, signa, atque vexilla, et domos cognationum suarum, castrametabuntur filii Israël, per gyrum tabernaculi fœderis.
@@ -118,7 +113,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Singuli per turmas, signa, atque vexilla, et domos cognationum suarum castrametabuntur filii Israel, per gyrum tabernaculi fœderis.
   - `VulgConte (2009)`: Singuli per turmas, signa, atque vexilla, et domos cognationum suarum castrametabuntur filii Israel, per gyrum tabernaculi fœderis.
   - `VulgSistina (1590)`: Singuli per turmas, signa, atque vexilla, et domos cognationum suarum castrametabuntur filiorum Israel, per gyrum tabernaculi foederis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ad orientem Judas figet tentoria per turmas exercitus sui: eritque princeps filiorum ejus Nahasson filius Aminadab.
@@ -127,7 +122,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ad Orientem Iudas figet tentoria per turmas exercitus sui: eritque princeps filiorum eius Nahasson filius Aminadab.
   - `VulgConte (2009)`: Ad Orientem Iudas figet tentoria per turmas exercitus sui: eritque princeps filiorum eius Nahasson filius Aminadab.
   - `VulgSistina (1590)`: Ad Orientem Iudas figet tentoria per turmas exercitus sui: eritque princeps filiorum eius Nahasson filius Aminadab.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et omnis de stirpe ejus summa pugnantium, septuaginta quatuor millia sexcenti.
@@ -136,7 +131,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et omnis de stirpe eius summa pugnantium, septuaginta quattuor millia sexcenti.
   - `VulgConte (2009)`: Et omnis de stirpe eius summa pugnantium, septuaginta quattuor millia sexcenti.
   - `VulgSistina (1590)`: et omnis de stirpe eius summa pugnantium, septuaginta quattuor millia sexcenti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Juxta eum castrametati sunt de tribu Issachar, quorum princeps fuit Nathanaël filius Suar.
@@ -145,7 +140,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iuxta eum castrametati sunt de tribu Issachar, quorum princeps fuit Nathanael filius Suar.
   - `VulgConte (2009)`: Iuxta eum castrametati sunt de tribu Issachar, quorum princeps fuit Nathanael filius Suar.
   - `VulgSistina (1590)`: Iuxta eum castrametati sunt de tribu Issachar, quorum princeps fuit Nathanael filius Suar.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et omnis numerus pugnatorum ejus quinquaginta quatuor millia quadringenti.
@@ -154,7 +149,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et omnis numerus pugnatorum eius quinquaginta quattuor millia quadringenti.
   - `VulgConte (2009)`: Et omnis numerus pugnatorum eius quinquaginta quattuor millia quadringenti.
   - `VulgSistina (1590)`: et omnis numerus pugnatorum eius quinquaginta quattuor millia quadringenti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In tribu Zabulon princeps fuit Eliab filius Helon.
@@ -163,7 +158,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In tribu Zabulon princeps fuit Eliab filius Helon.
   - `VulgConte (2009)`: In tribu Zabulon princeps fuit Eliab filius Helon.
   - `VulgSistina (1590)`: In tribu Zabulon princeps fuit Eliab filius Helon.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnis de stirpe ejus exercitus pugnatorum, quinquaginta septem millia quadringenti.
@@ -172,7 +167,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnis de stirpe eius exercitus pugnatorum, quinquaginta septem millia quadringenti.
   - `VulgConte (2009)`: Omnis de stirpe eius exercitus pugnatorum, quinquaginta septem millia quadringenti.
   - `VulgSistina (1590)`: Omnisque de stirpe eius exercitus pugnatorum, quinquaginta septem millia quadringenti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Universi qui in castris Judæ enumerati sunt, fuerunt centum octoginta sex millia quadringenti: et per turmas suas primi egredientur.
@@ -181,7 +176,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Universi qui in castris Iudæ annumerati sunt, fuerunt centum octoginta sex millia quadringenti: et per turmas suas primi egredientur.
   - `VulgConte (2009)`: Universi qui in castris Iudæ annumerati sunt, fuerunt centum octoginta sex millia quadringenti: et per turmas suas primi egredientur.
   - `VulgSistina (1590)`: Universi qui in castris Iudae annumerati sunt, fuerunt centum octoginta sex millia quadringenti: et per turmas suas primi egredientur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In castris filiorum Ruben ad meridianam plagam erit princeps Elisur filius Sedeur.
@@ -190,7 +185,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In castris filiorum Ruben ad meridianam plagam erit princeps Elisur filius Sedeur:
   - `VulgConte (2009)`: In castris filiorum Ruben ad meridianam plagam erit princeps Elisur filius Sedeur:
   - `VulgSistina (1590)`: In castris filiorum Ruben ad meridianam plagam erit princeps Elisur filius Sedeur:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cunctus exercitus pugnatorum ejus qui numerati sunt, quadraginta sex millia quingenti.
@@ -199,7 +194,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et cunctus exercitus pugnatorum eius qui numerati sunt, quadraginta sex millia quingenti.
   - `VulgConte (2009)`: et cunctus exercitus pugnatorum eius qui numerati sunt, quadraginta sex millia quingenti.
   - `VulgSistina (1590)`: et cunctus exercitus pugnatorum eius qui numerati sunt, quadraginta sex millia quingenti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Juxta eum castrametati sunt de tribu Simeon: quorum princeps fuit Salamiel filius Surisaddai.
@@ -208,7 +203,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iuxta eum castrametati sunt de tribu Simeon: quorum princeps fuit Salamiel filius Surisaddai.
   - `VulgConte (2009)`: Iuxta eum castrametati sunt de tribu Simeon: quorum princeps fuit Salamiel filius Surisaddai.
   - `VulgSistina (1590)`: Iuxta eum castrametati sunt de tribu Simeon: quorum princeps fuit Salamiel filius Surisaddai.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cunctus exercitus pugnatorum ejus qui numerati sunt, quinquaginta novem millia trecenti.
@@ -217,7 +212,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et cunctus exercitus pugnatorum eius, qui numerati sunt, quinquaginta novem millia trecenti.
   - `VulgConte (2009)`: Et cunctus exercitus pugnatorum eius, qui numerati sunt, quinquaginta novem millia trecenti.
   - `VulgSistina (1590)`: et cunctus exercitus pugnatorum eius, qui numerati sunt, quinquaginta novem millia trecenti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In tribu Gad princeps fuit Eliasaph filius Duel.
@@ -226,7 +221,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In tribu Gad princeps fuit Eliasaph filius Duel.
   - `VulgConte (2009)`: In tribu Gad princeps fuit Eliasaph filius Duel.
   - `VulgSistina (1590)`: In tribu Gad princeps fuit Eliasaph filius Duel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cunctus exercitus pugnatorum ejus, qui numerati sunt, quadraginta quinque millia sexcenti quinquaginta.
@@ -235,7 +230,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et cunctus exercitus pugnatorum eius, qui numerati sunt, quadraginta quinque millia sexcenti quinquaginta.
   - `VulgConte (2009)`: Et cunctus exercitus pugnatorum eius, qui numerati sunt, quadraginta quinque millia sexcenti quinquaginta.
   - `VulgSistina (1590)`: et cunctus exercitus pugnatorum eius, qui numerati sunt, quadraginta quinque millia sexcenti quinquaginta.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnes qui recensiti sunt in castris Ruben, centum quinquaginta millia et mille quadringenti quinquaginta per turmas suas: in secundo loco proficiscentur.
@@ -244,7 +239,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnes qui recensiti sunt in castris Ruben, centum quinquaginta millia et mille quadringenti quinquaginta per turmas suas: in secundo loco proficiscentur.
   - `VulgConte (2009)`: Omnes qui recensiti sunt in castris Ruben, centum quinquaginta millia et mille quadringenti quinquaginta per turmas suas: in secundo loco proficiscentur.
   - `VulgSistina (1590)`: Omnes qui recensiti sunt in castris Ruben, centum quinquaginta millia et mille quadringenti quinquaginta per turmas suas: in secundo loco proficiscentur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Levabitur autem tabernaculum testimonii per officia Levitarum, et turmas eorum: quomodo erigetur, ita et deponetur. Singuli per loca et ordines suos proficiscentur.
@@ -253,7 +248,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Levabitur autem tabernaculum testimonii per officia Levitarum et turmas eorum. quomodo erigetur, ita et deponetur. Singuli per loca et ordines suos proficiscentur.
   - `VulgConte (2009)`: Levabitur autem tabernaculum testimonii per officia Levitarum et turmas eorum. Quomodo erigetur, ita et deponetur. Singuli per loca et ordines suos proficiscentur.
   - `VulgSistina (1590)`: Levabitur autem tabernaculum testimonii per officia Levitarum et turmas eorum. quomodo erigetur, ita et deponetur. Singuli per loca et ordines suos proficiscentur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ad occidentalem plagam erunt castra filiorum Ephraim, quorum princeps fuit Elisama filius Ammiud.
@@ -262,7 +257,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ad occidentalem plagam erunt castra filiorum Ephraim, quorum princeps fuit Elisama filius Ammiud.
   - `VulgConte (2009)`: Ad occidentalem plagam erunt castra filiorum Ephraim, quorum princeps fuit Elisama filius Ammiud.
   - `VulgSistina (1590)`: Ad occidentalem plagam erunt castra filiorum Ephraim, quorum princeps fuit Elisama filius Ammiud.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cunctus exercitus pugnatorum ejus, qui numerati sunt, quadraginta millia quingenti.
@@ -271,7 +266,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: cunctus exercitus pugnatorum eius, qui numerati sunt, quadraginta millia quingenti.
   - `VulgConte (2009)`: Cunctus exercitus pugnatorum eius, qui numerati sunt, quadraginta millia quingenti.
   - `VulgSistina (1590)`: cunctus exercitus pugnatorum eius, qui numerati sunt, quadraginta millia quingenti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cum eis tribus filiorum Manasse, quorum princeps fuit Gamaliel filius Phadassur.
@@ -280,7 +275,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et cum eis tribus filiorum Manasse, quorum princeps fuit Gamaliel filius Phadassur.
   - `VulgConte (2009)`: Et cum eis tribus filiorum Manasse, quorum princeps fuit Gamaliel filius Phadassur.
   - `VulgSistina (1590)`: Et cum eis tribus filiorum Manasse, quorum princeps fuit Gamaliel filius Phadassur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cunctusque exercitus pugnatorum ejus, qui numerati sunt, triginta duo millia ducenti.
@@ -289,7 +284,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: cunctusque exercitus pugnatorum eius, qui numerati sunt, triginta duo millia ducenti.
   - `VulgConte (2009)`: Cunctusque exercitus pugnatorum eius, qui numerati sunt, triginta duo millia ducenti.
   - `VulgSistina (1590)`: cunctusque exercitus pugnatorum eius, qui numerati sunt, triginta duo millia ducenti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In tribu filiorum Benjamin princeps fuit Abidan filius Gedeonis.
@@ -298,7 +293,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In tribu filiorum Beniamin princeps fuit Abidan filius Gedeonis.
   - `VulgConte (2009)`: In tribu filiorum Beniamin princeps fuit Abidan filius Gedeonis.
   - `VulgSistina (1590)`: In tribu filiorum Beniamin princeps fuit Abidan filius Gedeonis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et cunctus exercitus pugnatorum ejus, qui recensiti sunt, triginta quinque millia quadringenti.
@@ -307,7 +302,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et cunctus exercitus pugnatorum eius, qui recensiti sunt, triginta quinque millia quadringenti.
   - `VulgConte (2009)`: Et cunctus exercitus pugnatorum eius, qui recensiti sunt, triginta quinque millia quadringenti.
   - `VulgSistina (1590)`: et cunctus exercitus pugnatorum eius, qui recensiti sunt, triginta quinque millia quadringenti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnes qui numerati sunt in castris Ephraim, centum octo millia centum per turmas suas: tertii proficiscentur.
@@ -316,7 +311,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnes qui numerati sunt in castris Ephraim, centum octo millia centum per turmas suas: tertii proficiscentur.
   - `VulgConte (2009)`: Omnes qui numerati sunt in castris Ephraim, centum octo millia centum per turmas suas: tertii proficiscentur.
   - `VulgSistina (1590)`: Omnes qui numerati sunt in castris Ephraim, centum octo millia centum per turmas suas: tertii proficiscentur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ad aquilonis partem castrametati sunt filii Dan: quorum princeps fuit Ahiezer filius Ammisaddai.
@@ -325,7 +320,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ad Aquilonis partem castrametati sunt filii Dan: quorum princeps fuit Ahiezer filius Ammisaddai.
   - `VulgConte (2009)`: Ad Aquilonis partem castrametati sunt filii Dan: quorum princeps fuit Ahiezer filius Ammisaddai.
   - `VulgSistina (1590)`: Ad Aquilonis partem castrametati sunt filii Dan: quorum princeps fuit Ahiezer filius Ammisaddai.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cunctus exercitus pugnatorum ejus, qui numerati sunt, sexaginta duo millia septingenti.
@@ -334,7 +329,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: cunctus exercitus pugnatorum eius, qui numerati sunt, sexaginta duo millia septingenti.
   - `VulgConte (2009)`: Cunctus exercitus pugnatorum eius, qui numerati sunt, sexaginta duo millia septingenti.
   - `VulgSistina (1590)`: cunctus exercitus pugnatorum eius, qui numerati sunt, sexaginta duo millia septingenti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Juxta eum fixere tentoria de tribu Aser: quorum princeps fuit Phegiel filius Ochran.
@@ -343,7 +338,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iuxta eum fixere tentoria de tribu Aser: quorum princeps fuit Phegiel filius Ochran.
   - `VulgConte (2009)`: Iuxta eum fixere tentoria de tribu Aser: quorum princeps fuit Phegiel filius Ochran.
   - `VulgSistina (1590)`: Iuxta eum fixere tentoria de tribu Aser: quorum princeps fuit Phegiel filius Ochran.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cunctus exercitus pugnatorum ejus, qui numerati sunt, quadraginta millia et mille quingenti.
@@ -352,7 +347,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: cunctus exercitus pugnatorum eius, qui numerati sunt, quadraginta millia et mille quingenti.
   - `VulgConte (2009)`: Cunctus exercitus pugnatorum eius, qui numerati sunt, quadraginta millia et mille quingenti.
   - `VulgSistina (1590)`: cunctus exercitus pugnatorum eius, qui numerati sunt, quadraginta millia et mille quingenti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** De tribu filiorum Nephthali princeps fuit Ahira filius Enan.
@@ -361,7 +356,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: De tribu filiorum Nephthali princeps fuit Ahira filius Enan.
   - `VulgConte (2009)`: De tribu filiorum Nephthali princeps fuit Ahira filius Enan.
   - `VulgSistina (1590)`: De tribu filiorum Nephthali princeps fuit Ahira filius Enan.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cunctus exercitus pugnatorum ejus, quinquaginta tria millia quadringenti.
@@ -370,7 +365,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: cunctus exercitus pugnatorum eius, quinquaginta tria millia quadringenti.
   - `VulgConte (2009)`: Cunctus exercitus pugnatorum eius, quinquaginta tria millia quadringenti.
   - `VulgSistina (1590)`: cunctus exercitus pugnatorum eius, quinquaginta tria millia quadringenti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnes qui numerati sunt in castris Dan, fuerunt centum quinquaginta septem millia sexcenti: et novissimi proficiscentur.
@@ -379,7 +374,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnes, qui numerati sunt in castris Dan, fuerunt centum quinquaginta septem millia sexcenti: et novissimi proficiscentur.
   - `VulgConte (2009)`: Omnes, qui numerati sunt in castris Dan, fuerunt centum quinquaginta septem millia sexcenti: et novissimi proficiscentur.
   - `VulgSistina (1590)`: Omnes, qui numerati sunt in castris Dan, fuerunt centum quinquaginta septem millia sexcenti: et novissimi proficiscentur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hic numerus filiorum Israël, per domos cognationum suarum et turmas divisi exercitus, sexcenta tria millia quingenti quinquaginta.
@@ -388,7 +383,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hic numerus filiorum Israel, per domos cognationum suarum et turmas divisi exercitus, sexcenta tria millia quingenti quinquaginta.
   - `VulgConte (2009)`: Hic numerus filiorum Israel, per domos cognationum suarum et turmas divisi exercitus, sexcenta tria millia quingenti quinquaginta.
   - `VulgSistina (1590)`: Hic numerus filiorum Israel, per domos cognationum suarum et turmas divisi exercitus, sexcenta tria millia quingenti quinquaginta.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Levitæ autem non sunt numerati inter filios Israël: sic enim præceperat Dominus Moysi.
@@ -397,7 +392,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Levitæ autem non sunt numerati inter filios Israel: sic enim præceperat Dominus Moysi.
   - `VulgConte (2009)`: Levitæ autem non sunt numerati inter filios Israel: sic enim præceperat Dominus Moysi.
   - `VulgSistina (1590)`: Levitae autem non sunt numerati inter filios Israel: sic enim praeceperat Dominus Moysi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 34 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Feceruntque filii Israël juxta omnia quæ mandaverat Dominus. Castrametati sunt per turmas suas, et profecti per familias ac domos patrum suorum.
@@ -406,4 +401,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Feceruntque filii Israel iuxta omnia quæ mandaverat Dominus. Castrametati sunt per turmas suas, et profecti per familias ac domos patrum suorum.
   - `VulgConte (2009)`: Feceruntque filii Israel iuxta omnia quæ mandaverat Dominus. Castrametati sunt per turmas suas, et profecti per familias ac domos patrum suorum.
   - `VulgSistina (1590)`: Feceruntque filii Israel iuxta omnia quae mandaverat Dominus. Castrametati sunt per turmas suas, et profecti per familias ac domos patrum suorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

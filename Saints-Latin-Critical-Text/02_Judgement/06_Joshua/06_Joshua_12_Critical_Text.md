@@ -1,8 +1,8 @@
 # Joshua 12 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:39Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -73,13 +64,13 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Joshua 12:2
-- **Apparatus:** `Jaboc,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Ieboc,** VulgSistina (1590)
+- **Apparatus:** `Jaboc,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Ieboc,** VulgSistina (1590)
 
 ### Joshua 12:8
-- **Apparatus:** `Asedoth,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Aseroth** VulgSistina (1590)
+- **Apparatus:** `Asedoth,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Aseroth** VulgSistina (1590)
 
 ### Joshua 12:15
-- **Apparatus:** `Odullam` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Adullam** VulgSistina (1590)
+- **Apparatus:** `Odullam` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Adullam** VulgSistina (1590)
 
 ---
 
@@ -92,7 +83,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hi sunt reges, quos percusserunt filii Israel, et possederunt Terram eorum trans Iordanem ad solis ortum, a torrente Arnon usque ad montem Hermon, et omnem Orientalem plagam, quæ respicit solitudinem.
   - `VulgConte (2009)`: Hi sunt reges, quos percusserunt filii Israel, et possederunt Terram eorum trans Iordanem ad solis ortum, a torrente Arnon usque ad montem Hermon, et omnem Orientalem plagam, quæ respicit solitudinem.
   - `VulgSistina (1590)`: Hi sunt reges, quos percusserunt filii Israel, et possederunt Terram eorum trans Iordanem ad solis ortum, a torrente Arnon usque ad montem Hermon, et omnem Orientalem plagam, quae respicit solitudinem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sehon rex Amorrhæorum, qui habitavit in Hesebon, dominatus est ab Aroër, quæ sita est super ripam torrentis Arnon, et mediæ partis in valle, dimidiæque Galaad, usque ad torrentem Jaboc, qui est terminus filiorum Ammon.
@@ -101,7 +92,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sehon rex Amorrhæorum, qui habitavit in Hesebon, dominatus est ab Aroer, quæ sita est super ripam torrentis Arnon, et mediæ partis in valle, dimidiæque Galaad, usque ad torrentem Iaboc, qui est terminus filiorum Ammon.
   - `VulgConte (2009)`: Sehon rex Amorrhæorum, qui habitavit in Hesebon, dominatus est ab Aroer, quæ sita est super ripam torrentis Arnon, et mediæ partis in valle, dimidiæque Galaad, usque ad torrentem Iaboc, qui est terminus filiorum Ammon.
   - `VulgSistina (1590)`: Sehon rex Amorrhaeorum, qui habitavit in Hesebon, dominatus est ab Aroer, quae sita est super ripam torrentis Arnon, et mediae partis in valle, dimidiaeque Galaad, usque ad torrentem Ieboc, qui est terminus filiorum Ammon.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et a solitudine usque ad mare Ceneroth contra orientem, et usque ad mare deserti, quod est mare salsissimum, ad orientalem plagam per viam quæ ducit Bethsimoth: et ab australi parte, quæ subjacet Asedoth, Phasga.
@@ -110,7 +101,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et a solitudine usque ad Mare Ceneroth contra Orientem, et usque ad Mare deserti, quod est mare salsissimum, ad Orientalem plagam per viam quæ ducit Bethsimoth: et ab australi parte, quæ subiacet Asedoth, Phasga.
   - `VulgConte (2009)`: Et a solitudine usque ad Mare Ceneroth contra Orientem, et usque ad Mare deserti, quod est mare salsissimum, ad Orientalem plagam per viam quæ ducit Bethsimoth: et ab australi parte, quæ subiacet Asedoth, Phasga.
   - `VulgSistina (1590)`: et a solitudine usque ad Mare Ceneroth contra Orientem, et usque ad Mare deserti, quod est mare salsissimum, ad Orientalem plagam per viam quae ducit Bethsimoth: et ab australi parte, quae subiacet Asedoth, Phasga.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Terminus Og regis Basan, de reliquiis Raphaim, qui habitavit in Astaroth, et in Edrai, et dominatus est in monte Hermon, et in Salecha, atque in universa Basan, usque ad terminos
@@ -119,7 +110,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Terminus Og regis Basan, de reliquiis Raphaim, qui habitavit in Astaroth, et in Edrai, et dominatus est in monte Hermon, et in Salecha, atque in universa Basan, usque ad terminos
   - `VulgConte (2009)`: Terminus Og regis Basan, de reliquiis Raphaim, qui habitavit in Astaroth, et in Edrai, et dominatus est in monte Hermon, et in Salecha, atque in universa Basan, usque ad terminos
   - `VulgSistina (1590)`: Terminus Og regis Basan, de reliquiis Raphaim, qui habitavit in Astaroth, et in Edrai, et dominatus est in monte Hermon, et in Salecha, atque in universa Basan, usque ad terminos
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Gessuri, et Machati, et dimidiæ partis Galaad: terminos Sehon regis Hesebon.
@@ -128,7 +119,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Gessuri, et Machati, et dimidiæ partis Galaad: terminos Sehon regis Hesebon.
   - `VulgConte (2009)`: Gessuri, et Machati, et dimidiæ partis Galaad: terminos Sehon regis Hesebon.
   - `VulgSistina (1590)`: Gessuri, et Machati, et dimidiae partis Galaad: terminos Sehon regis Hesebon.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Moyses famulus Domini et filii Israël percusserunt eos, tradiditque terram eorum Moyses in possessionem Rubenitis, et Gaditis, et dimidiæ tribui Manasse.
@@ -137,7 +128,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Moyses famulus Domini, et filii Israel percusserunt eos, tradiditque Terram eorum Moyses in possessionem Rubenitis, et Gaditis, et dimidiæ tribui Manasse.
   - `VulgConte (2009)`: Moyses famulus Domini, et filii Israel percusserunt eos, tradiditque Terram eorum Moyses in possessionem Rubenitis, et Gaditis, et dimidiæ tribui Manasse.
   - `VulgSistina (1590)`: Moyses famulus Domini, et filii Israel percusserunt eos, tradiditque Terram eorum Moyses in possessionem Rubenitis, et Gaditis, et dimidiae tribui Manasse.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hi sunt reges terræ, quos percussit Josue et filii Israël trans Jordanem ad occidentalem plagam, a Baalgad in campo Libani, usque ad montem cujus pars ascendit in Seir: tradiditque eam Josue in possessionem tribubus Israël, singulis partes suas,
@@ -146,7 +137,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hi sunt reges Terræ, quos percussit Iosue et filii Israel trans Iordanem ad Occidentalem plagam, a Baalgad in campo Libani, usque ad montem, cuius pars ascendit in Seir: tradiditque eam Iosue in possessionem tribubus Israel, singulis partes suas,
   - `VulgConte (2009)`: Hi sunt reges Terræ, quos percussit Iosue et filii Israel trans Iordanem ad Occidentalem plagam, a Baalgad in campo Libani, usque ad montem, cuius pars ascendit in Seir: tradiditque eam Iosue in possessionem tribubus Israel, singulis partes suas,
   - `VulgSistina (1590)`: Hi sunt reges Terrae, quos percussit Iosue et filii Israel trans Iordanem ad Occidentalem plagam, a Baalgad in campo Libani, usque ad montem, cuius pars ascendit in Seir: tradiditque eam Iosue in possessionem tribubus Israel, singulis partes suas,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** tam in montanis quam in planis atque campestribus. In Asedoth, et in solitudine, ac in meridie, Hethæus fuit et Amorrhæus, Chananæus, et Pherezæus, Hevæus et Jebusæus.
@@ -155,7 +146,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: tam in montanis quam in planis atque campestribus. In Asedoth, et in solitudine, ac in meridie Hethæus fuit et Amorrhæus, Chananæus et Pherezæus, Hevæus et Iebusæus.
   - `VulgConte (2009)`: tam in montanis quam in planis atque campestribus. In Asedoth, et in solitudine, ac in meridie Hethæus fuit et Amorrhæus, Chananæus et Pherezæus, Hevæus et Iebusæus.
   - `VulgSistina (1590)`: tam in montanis quam in planis atque campestribus. In Aseroth, et in solitudine, ac in meridie Hethaeus fuit et Amorrhaeus, Chananaeus et Pherezaeus, Hevaeus et Iebusaeus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Rex Jericho unus: rex Hai, quæ est ex latere Bethel, unus:
@@ -164,7 +155,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Rex Iericho unus: rex Hai, quæ est ex latere Bethel, unus:
   - `VulgConte (2009)`: Rex Iericho unus: rex Hai, quæ est ex latere Bethel, unus:
   - `VulgSistina (1590)`: Rex Iericho unus: rex Hai, quae est ex latere Bethel, unus:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Jerusalem unus, rex Hebron unus,
@@ -173,7 +164,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Ierusalem unus, rex Hebron unus,
   - `VulgConte (2009)`: rex Ierusalem unus, rex Hebron unus,
   - `VulgSistina (1590)`: rex Ierusalem unus, rex Hebron unus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Jerimoth unus, rex Lachis unus,
@@ -182,7 +173,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Ierimoth unus, rex Lachis unus,
   - `VulgConte (2009)`: rex Ierimoth unus, rex Lachis unus,
   - `VulgSistina (1590)`: rex Ierimoth unus, rex Lachis unus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Eglon unus, rex Gazer unus,
@@ -191,7 +182,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Eglon unus, rex Gazer unus,
   - `VulgConte (2009)`: rex Eglon unus, rex Gazer unus,
   - `VulgSistina (1590)`: rex Eglon unus, rex Gazer unus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Dabir unus, rex Gader unus,
@@ -200,7 +191,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Dabir unus, rex Gader unus,
   - `VulgConte (2009)`: rex Dabir unus, rex Gader unus,
   - `VulgSistina (1590)`: rex Dabir unus, rex Gader unus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Herma unus, rex Hered unus,
@@ -209,7 +200,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Herma unus, rex Hered unus,
   - `VulgConte (2009)`: rex Herma unus, rex Hered unus,
   - `VulgSistina (1590)`: rex Herma unus, rex Hered unus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Lebna unus, rex Odullam unus,
@@ -218,7 +209,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Lebna unus, rex Odullam unus,
   - `VulgConte (2009)`: rex Lebna unus, rex Odullam unus,
   - `VulgSistina (1590)`: rex Lebna unus, rex Adullam unus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Maceda unus, rex Bethel unus,
@@ -227,7 +218,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Maceda unus, rex Bethel unus,
   - `VulgConte (2009)`: rex Maceda unus, rex Bethel unus,
   - `VulgSistina (1590)`: rex Maceda unus, rex Bethel unus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Taphua unus, rex Opher unus,
@@ -236,7 +227,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Taphua unus, rex Opher unus,
   - `VulgConte (2009)`: rex Taphua unus, rex Opher unus,
   - `VulgSistina (1590)`: rex Taphua unus, rex Opher unus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Aphec unus, rex Saron unus,
@@ -245,7 +236,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Aphec unus, rex Saron unus,
   - `VulgConte (2009)`: rex Aphec unus, rex Saron unus,
   - `VulgSistina (1590)`: rex Aphec unus, rex Saron unus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Madon unus, rex Asor unus,
@@ -254,7 +245,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Madon unus, rex Asor unus,
   - `VulgConte (2009)`: rex Madon unus, rex Asor unus,
   - `VulgSistina (1590)`: rex Madon unus, rex Asor unus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Semeron unus, rex Achsaph unus,
@@ -263,7 +254,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Semeron unus, rex Achsaph unus,
   - `VulgConte (2009)`: rex Semeron unus, rex Achsaph unus,
   - `VulgSistina (1590)`: rex Semeron unus, rex Achsaph unus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Thenac unus, rex Mageddo unus,
@@ -272,7 +263,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Thenac unus, rex Mageddo unus,
   - `VulgConte (2009)`: rex Thenac unus, rex Mageddo unus,
   - `VulgSistina (1590)`: rex Thenac unus, rex Mageddo unus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Cades unus, rex Jachanan Carmeli unus,
@@ -281,7 +272,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Cades unus, rex Iachanan Carmeli unus,
   - `VulgConte (2009)`: rex Cades unus, rex Iachanan Carmeli unus,
   - `VulgSistina (1590)`: rex Cades unus, rex Iachanan Carmeli unus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Dor et provinciæ Dor unus, rex gentium Galgal unus,
@@ -290,7 +281,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Dor, et provinciæ Dor unus, rex Gentium Galgal unus,
   - `VulgConte (2009)`: rex Dor, et provinciæ Dor unus, rex gentium Galgal unus,
   - `VulgSistina (1590)`: rex Dor, et provinciae Dor unus, rex Gentium Galgal unus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** rex Thersa unus: omnes reges triginta unus.
@@ -299,4 +290,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: rex Thersa unus: omnes reges triginta unus.
   - `VulgConte (2009)`: rex Thersa unus: omnes reges triginta unus.
   - `VulgSistina (1590)`: rex Thersa unus: omnes reges triginta unus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

@@ -1,8 +1,8 @@
 # Esther 06 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:30Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,29 +14,20 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
 
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - VulgConte (2009): 6:1 not collated (wording does not match the reference verse)
@@ -86,7 +77,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: Noctem illam duxit rex insomnem, jussitque sibi afferri historias et annales priorum temporum. Quæ cum illo præsente legerentur,
   - `VulgHetzenauer (1906)`: Noctem illam duxit rex insomnem, iussitque sibi afferri historias et annales priorum temporum. Quæ cum illo præsente legerentur,
   - `VulgSistina (1590)`: Noctem illam duxit rex insomnem, iussitque sibi afferri historias et annales priorum temporum. Quae cum illo praesente legerentur,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ventum est ad illum locum ubi scriptum erat quomodo nuntiasset Mardochæus insidias Bagathan et Thares eunuchorum, regem Assuerum jugulare cupientium.
@@ -94,7 +85,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: ventum est ad illum locum ubi scriptum erat quomodo nuntiasset Mardochæus insidias Bagathan et Thares eunuchorum, regem Assuerum jugulare cupientium.
   - `VulgHetzenauer (1906)`: ventum est ad illum locum ubi scriptum erat quo modo nunciasset Mardochæus insidias Bagathan, et Thares eunuchorum, regem Assuerum iugulare cupientium.
   - `VulgSistina (1590)`: ventum est ad illum locum ubi scriptum erat quomodo nunciasset Mardochaeus insidias Bagathan, et Thares eunuchorum, regem Assuerum iugulare cupientium.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quod cum audisset rex, ait: Quid pro hac fide honoris ac præmii Mardochæus consecutus est? Dixerunt ei servi illius ac ministri: Nihil omnino mercedis accepit.
@@ -102,7 +93,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: Quod cum audisset rex, ait: Quid pro hac fide honoris ac præmii Mardochæus consecutus est? Dixerunt ei servi illius ac ministri: Nihil omnino mercedis accepit.
   - `VulgHetzenauer (1906)`: Quod cum audisset rex, ait: Quid pro hac fide honoris ac præmii Mardochæus consecutus est? Dixerunt ei servi illius ac ministri: Nihil omnino mercedis accepit.
   - `VulgSistina (1590)`: Quod cum audisset rex, ait: Quid pro hac fide honoris ac praemii Mardochaeus consecutus est? Dixerunt ei servi illius ac ministri: Nihil omnino mercedis accepit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Statimque rex: Quis est, inquit, in atrio? Aman quippe interius atrium domus regiæ intraverat, ut suggereret regi, et juberet Mardochæum affigi patibulo, quod ei fuerat præparatum.
@@ -110,7 +101,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: Statimque rex: Quis est, inquit, in atrio? Aman quippe interius atrium domus regiæ intraverat, ut suggereret regi, et juberet Mardochæum affigi patibulo, quod ei fuerat præparatum.
   - `VulgHetzenauer (1906)`: Statimque rex, Quis est, inquit, in atrio? Aman quippe interius atrium domus regiæ intraverat, ut suggereret regi, et iuberet Mardochæum affigi patibulo, quod ei fuerat præparatum.
   - `VulgSistina (1590)`: Statimque rex, Quis est, inquit, in atrio? Aman quippe interius atrium domus regiae intraverat, ut suggereret regi, et iuberet Mardochaeum affigi patibulo, quod ei fuerat praeparatum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Responderunt pueri: Aman stat in atrio. Dixitque rex: Ingrediatur.
@@ -118,7 +109,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: Responderunt pueri: Aman stat in atrio. Dixitque rex: Ingrediatur.
   - `VulgHetzenauer (1906)`: Responderunt pueri: Aman stat in atrio. Dixitque rex: Ingrediatur.
   - `VulgSistina (1590)`: Responderunt pueri: Aman stat in atrio. Dixitque rex: Ingrediatur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque esset ingressus, ait illi: Quid debet fieri viro, quem rex honorare desiderat? Cogitans autem in corde suo Aman, et reputans quod nullum alium rex, nisi se, vellet honorare,
@@ -126,7 +117,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: Cumque esset ingressus, ait illi: Quid debet fieri viro, quem rex honorare desiderat? Cogitans autem in corde suo Aman, et reputans quod nullum alium rex, nisi se, vellet honorare,
   - `VulgHetzenauer (1906)`: Cumque esset ingressus, ait illi: Quid debet fieri viro, quem rex honorare desiderat? Cogitans autem in corde suo Aman, et reputans quod nullum alium rex, nisi se, vellet honorare,
   - `VulgSistina (1590)`: Cumque esset ingressus, ait illi: Quid debet fieri viro, quem rex honorare desiderat? Cogitans autem in corde suo Aman, et reputans quod nullum alium rex, nisi se, vellet honorare,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** respondit: Homo, quem rex honorare cupit,
@@ -134,7 +125,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: respondit: Homo, quem rex honorare cupit,
   - `VulgHetzenauer (1906)`: respondit: Homo, quem rex honorare cupit,
   - `VulgSistina (1590)`: respondit: Homo, quem rex honorare cupit,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** debet indui vestibus regiis, et imponi super equum, qui de sella regis est, et accipere regium diadema super caput suum:
@@ -142,7 +133,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: debet indui vestibus regiis, et imponi super equum, qui de sella regis est, et accipere regium diadema super caput suum:
   - `VulgHetzenauer (1906)`: debet indui vestibus regiis, et imponi super equum, qui de sella regis est, et accipere regium diadema super caput suum,
   - `VulgSistina (1590)`: debet indui vestibus regiis, et imponi super equum, qui de sella regis est, et accipere regium diadema super caput suum,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et primus de regiis principibus ac tyrannis teneat equum ejus, et per plateam civitatis incedens clamet, et dicat: Sic honorabitur, quemcumque voluerit rex honorare.
@@ -150,7 +141,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: et primus de regiis principibus ac tyrannis teneat equum ejus, et per plateam civitatis incedens clamet, et dicat: Sic honorabitur, quemcumque voluerit rex honorare.
   - `VulgHetzenauer (1906)`: et primus de regiis principibus, ac tyrannis teneat equum eius, et per plateam civitatis incedens clamet, et dicat: Sic honorabitur, quemcumque voluerit rex honorare.
   - `VulgSistina (1590)`: et primus de regiis principibus, ac tyrannis teneat equum eius, et per plateam civitatis incedens clamet, et dicat: Sic honorabitur, quemcumque voluerit rex honorare.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixitque ei rex: Festina, et sumpta stola et equo, fac, ut locutus es, Mardochæo Judæo, qui sedet ante fores palatii. Cave ne quidquam de his, quæ locutus es, prætermittas.
@@ -158,7 +149,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: Dixitque ei rex: Festina, et sumpta stola et equo, fac, ut locutus es, Mardochæo Judæo, qui sedet ante fores palatii. Cave ne quidquam de his, quæ locutus es, prætermittas.
   - `VulgHetzenauer (1906)`: Dixitque ei rex: Festina, et sumpta stola et equo, fac, ut locutus es, Mardochæo Iudæo, qui sedet ante fores palatii. Cave ne quidquam de his, quæ locutus es, prætermittas.
   - `VulgSistina (1590)`: Dixitque ei rex: Festina, et sumpta stola et equo, fac, ut locutus es, Mardochaeo Iudaeo, qui sedet ante fores palatii. Cave ne quidquam de his, quae locutus es, praetermittas.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tulit itaque Aman stolam et equum, indutumque Mardochæum in platea civitatis, et impositum equo præcedebat, atque clamabat: Hoc honore condignus est, quemcumque rex voluerit honorare.
@@ -166,7 +157,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: Tulit itaque Aman stolam et equum, indutumque Mardochæum in platea civitatis, et impositum equo præcedebat, atque clamabat: Hoc honore condignus est, quemcumque rex voluerit honorare.
   - `VulgHetzenauer (1906)`: Tulit itaque Aman stolam et equum, indutumque Mardochæum in platea civitatis, et impositum equo præcedebat, atque clamabat: Hoc honore condignus est, quemcumque rex voluerit honorare.
   - `VulgSistina (1590)`: Tulit itaque Aman stolam et equum, indutumque Mardochaeum in platea civitatis, et impositum equo praecedebat, atque clamabat: Hoc honore condignus est, quemcumque rex voluerit honorare.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Reversusque est Mardochæus ad januam palatii: et Aman festinavit ire in domum suam, lugens et operto capite:
@@ -174,7 +165,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: Reversusque est Mardochæus ad januam palatii: et Aman festinavit ire in domum suam, lugens et operto capite:
   - `VulgHetzenauer (1906)`: Reversusque est Mardochæus ad ianuam palatii: et Aman festinavit ire in domum suam, lugens et operto capite:
   - `VulgSistina (1590)`: Reversusque est Mardochaeus ad ianuam palatii: et Aman festinavit ire in domum suam, lugens et operto capite:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** narravitque Zares uxori suæ, et amicis, omnia quæ evenissent sibi. Cui responderunt sapientes quos habebat in consilio, et uxor ejus: Si de semine Judæorum est Mardochæus, ante quem cadere cœpisti, non poteris ei resistere, sed cades in conspectu ejus.
@@ -182,7 +173,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: narravitque Zares uxori suæ, et amicis, omnia quæ evenissent sibi. Cui responderunt sapientes quos habebat in consilio, et uxor ejus: Si de semine Judæorum est Mardochæus, ante quem cadere cœpisti, non poteris ei resistere, sed cades in conspectu ejus.
   - `VulgHetzenauer (1906)`: narravitque Zares uxori suæ, et amicis omnia quæ evenissent sibi. Cui responderunt sapientes, quos habebat in consilio, et uxor eius: Si de semine Iudæorum est Mardochæus, ante quem cadere cœpisti, non poteris ei resistere, sed cades in conspectu eius.
   - `VulgSistina (1590)`: narravitque Zares uxori suae, et amicis omnia quae evenissent sibi. Cui responderunt sapientes, quos habebat in consilio, et uxor eius: Si de semine Iudaeorum est Mardochaeus, ante quem cadere coepisti, non poteris ei resistere, sed cades in conspectu eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Adhuc illis loquentibus, venerunt eunuchi regis, et cito eum ad convivium, quod regina paraverat, pergere compulerunt.
@@ -190,4 +181,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Clem-Saints`: Adhuc illis loquentibus, venerunt eunuchi regis, et cito eum ad convivium, quod regina paraverat, pergere compulerunt.
   - `VulgHetzenauer (1906)`: Adhuc illis loquentibus, venerunt eunuchi regis, et cito eum ad convivium, quod regina paraverat, pergere compulerunt.
   - `VulgSistina (1590)`: Adhuc illis loquentibus, venerunt eunuchi regis, et cito eum ad convivium, quod regina paraverat, pergere compulerunt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

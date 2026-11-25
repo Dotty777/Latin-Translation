@@ -1,8 +1,8 @@
 # Leviticus 17 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:40Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -65,8 +56,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Leviticus 17:10
-- **Apparatus:** `peregrinantur` Clem-Saints Clem1598-USFX VulgSistina (1590) **]** **pereginantur** VulgConte (2009) VulgHetzenauer (1906)
-- **Apparatus:** `eos,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **vos,** VulgSistina (1590)
+- **Apparatus:** `peregrinantur` Clem1598-USFX Clem-Saints VulgSistina (1590) **]** **pereginantur** VulgConte (2009) VulgHetzenauer (1906)
+- **Apparatus:** `eos,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **vos,** VulgSistina (1590)
 
 ---
 
@@ -79,7 +70,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et locutus est Dominus ad Moysen, dicens:
   - `VulgConte (2009)`: Et locutus est Dominus ad Moysen, dicens:
   - `VulgSistina (1590)`: Et locutus est Dominus ad Moysen, dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Loquere Aaron et filiis ejus, et cunctis filiis Israël, dicens ad eos: Iste est sermo quem mandavit Dominus, dicens:
@@ -88,7 +79,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Loquere Aaron et filiis eius, et cunctis filiis Israel, dicens ad eos: Iste est sermo quem mandavit Dominus, dicens:
   - `VulgConte (2009)`: Loquere Aaron et filiis eius, et cunctis filiis Israel, dicens ad eos: Iste est sermo quem mandavit Dominus, dicens:
   - `VulgSistina (1590)`: Loquere Aaron et filiis eius, et cunctis filiis Israel, dicens ad eos: Iste est sermo quem mandavit Dominus, dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Homo quilibet de domo Israël, si occiderit bovem aut ovem, sive capram, in castris vel extra castra,
@@ -97,7 +88,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Homo quilibet de domo Israel, si occiderit bovem aut ovem, sive capram in castris vel extra castra,
   - `VulgConte (2009)`: Homo quilibet de domo Israel, si occiderit bovem aut ovem, sive capram in castris vel extra castra,
   - `VulgSistina (1590)`: Homo quilibet de domo Israel, si occiderit bovem aut ovem, sive capram in castris vel extra castra,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et non obtulerit ad ostium tabernaculi oblationem Domino, sanguinis reus erit: quasi si sanguinem fuderit, sic peribit de medio populi sui.
@@ -106,7 +97,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et non obtulerit ad ostium tabernaculi oblationem Domino, sanguinis reus erit: quasi si sanguinem fuderit, sic peribit de medio populi sui.
   - `VulgConte (2009)`: et non obtulerit ad ostium tabernaculi oblationem Domino, sanguinis reus erit: quasi si sanguinem fuderit, sic peribit de medio populi sui.
   - `VulgSistina (1590)`: et non obtulerit ad ostium tabernaculi oblationem Domino, sanguinis reus erit: quasi si sanguinem fuderit, sic peribit de medio populi sui.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ideo sacerdoti offerre debent filii Israël hostias suas, quas occident in agro, ut sanctificentur Domino ante ostium tabernaculi testimonii, et immolent eas hostias pacificas Domino.
@@ -115,7 +106,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ideo sacerdoti offerre debent filii Israel hostias suas, quas occident in agro, ut sanctificentur Domino ante ostium tabernaculi testimonii, et immolent eas hostias pacificas Domino.
   - `VulgConte (2009)`: Ideo sacerdoti offerre debent filii Israel hostias suas, quas occident in agro, ut sanctificentur Domino ante ostium tabernaculi testimonii, et immolent eas hostias pacificas Domino.
   - `VulgSistina (1590)`: Ideo sacerdoti offerre debent filii Israel hostias suas, quas occident in agro, ut sanctificentur Domino ante ostium tabernaculi testimonii, et immolent eas hostias pacificas Domino.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Fundetque sacerdos sanguinem super altare Domini ad ostium tabernaculi testimonii, et adolebit adipem in odorem suavitatis Domino:
@@ -124,7 +115,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Fundetque sacerdos sanguinem super altare Domini ad ostium tabernaculi testimonii, et adolebit adipem in odorem suavitatis Domino:
   - `VulgConte (2009)`: Fundetque sacerdos sanguinem super altare Domini ad ostium tabernaculi testimonii, et adolebit adipem in odorem suavitatis Domino:
   - `VulgSistina (1590)`: Fundetque sacerdos sanguinem super altare Domini ad ostium tabernaculi testimonii, et adolebit adipem in odorem suavitatis Domino:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et nequaquam ultra immolabunt hostias suas dæmonibus, cum quibus fornicati sunt. Legitimum sempiternum erit illis et posteris eorum.
@@ -133,7 +124,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et nequaquam ultra immolabunt hostias suas dæmonibus, cum quibus fornicati sunt. Legitimum sempiternum erit illis et posteris eorum.
   - `VulgConte (2009)`: et nequaquam ultra immolabunt hostias suas dæmonibus, cum quibus fornicati sunt. Legitimum sempiternum erit illis et posteris eorum.
   - `VulgSistina (1590)`: et nequaquam ultra immolabunt hostias suas daemonibus, cum quibus fornicati sunt. Legitimum sempiternum erit illis et posteris eorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ad ipsos dices: Homo de domo Israël, et de advenis qui peregrinantur apud vos, qui obtulerit holocaustum sive victimam,
@@ -142,7 +133,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ad ipsos dices: Homo de domo Israel, et de advenis, qui peregrinantur apud vos, qui obtulerit holocaustum sive victimam,
   - `VulgConte (2009)`: Et ad ipsos dices: Homo de domo Israel, et de advenis, qui peregrinantur apud vos, qui obtulerit holocaustum sive victimam,
   - `VulgSistina (1590)`: Et ad ipsos dices: Homo de domo Israel, et de advenis, qui peregrinantur apud vos, qui obtulerit holocaustum sive victimam,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et ad ostium tabernaculi testimonii non adduxerit eam, ut offeratur Domino, interibit de populo suo.
@@ -151,7 +142,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et ad ostium tabernaculi testimonii non adduxerit eam, ut offeratur Domino, interibit de populo suo.
   - `VulgConte (2009)`: et ad ostium tabernaculi testimonii non adduxerit eam, ut offeratur Domino, interibit de populo suo.
   - `VulgSistina (1590)`: et ad ostium tabernaculi testimonii non adduxerit eam, ut offeratur Domino, interibit de populo suo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Homo quilibet de domo Israël et de advenis qui peregrinantur inter eos, si comederit sanguinem, obfirmabo faciem meam contra animam illius, et disperdam eam de populo suo,
@@ -160,7 +151,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Homo quilibet de domo Israel, et de advenis qui pereginantur inter eos, si comederit sanguinem, obfirmabo faciem meam contra animam illius, et disperdam eam de populo suo,
   - `VulgConte (2009)`: Homo quilibet de domo Israel, et de advenis qui pereginantur inter eos, si comederit sanguinem, obfirmabo faciem meam contra animam illius, et disperdam eam de populo suo,
   - `VulgSistina (1590)`: Homo quilibet de domo Israel, et de advenis qui peregrinantur inter vos, si comederit sanguinem, obfirmabo faciem meam contra animam illius, et disperdam eam de populo suo,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quia anima carnis in sanguine est: et ego dedi illum vobis, ut super altare in eo expietis pro animabus vestris, et sanguis pro animæ piaculo sit.
@@ -169,7 +160,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: quia anima carnis in sanguine est: et ego dedi illum vobis, ut super altare in eo expietis pro animabus vestris, et sanguis pro animæ piaculo sit.
   - `VulgConte (2009)`: quia anima carnis in sanguine est: et ego dedi illum vobis, ut super altare in eo expietis pro animabus vestris, et sanguis pro animæ piaculo sit.
   - `VulgSistina (1590)`: quia anima carnis in sanguine est: et ego dedi illum vobis, ut super altare in eo expietis pro animabus vestris, et sanguis pro animae piaculo sit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Idcirco dixi filiis Israël: Omnis anima ex vobis non comedet sanguinem, nec ex advenis qui peregrinantur apud vos.
@@ -178,7 +169,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Idcirco dixi filiis Israel: Omnis anima ex vobis non comedet sanguinem, nec ex advenis, qui peregrinantur apud vos.
   - `VulgConte (2009)`: Idcirco dixi filiis Israel: Omnis anima ex vobis non comedet sanguinem, nec ex advenis, qui peregrinantur apud vos.
   - `VulgSistina (1590)`: Idcirco dixi filiis Israel: Omnis anima ex vobis non comedet sanguinem, nec ex advenis, qui peregrinantur apud vos.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Homo quicumque de filiis Israël, et de advenis qui peregrinantur apud vos, si venatione atque aucupio ceperit feram, vel avem, quibus vesci licitum est, fundat sanguinem ejus, et operiat illum terra.
@@ -187,7 +178,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Homo quicumque de filiis Israel, et de advenis, qui peregrinantur apud vos, si venatione, atque aucupio ceperit feram vel avem, quibus vesci licitum est, fundat sanguinem eius, et operiat illum terra.
   - `VulgConte (2009)`: Homo quicumque de filiis Israel, et de advenis, qui peregrinantur apud vos, si venatione, atque aucupio ceperit feram vel avem, quibus vesci licitum est, fundat sanguinem eius, et operiat illum terra.
   - `VulgSistina (1590)`: Homo quicumque de filiis Israel, et de advenis, qui peregrinantur apud vos, si venatione, atque aucupio ceperit feram vel avem, quibus vesci licitum est, fundat sanguinem eius, et operiat illum terra.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Anima enim omnis carnis in sanguine est: unde dixi filiis Israël: Sanguinem universæ carnis non comedetis, quia anima carnis in sanguine est: et quicumque comederit illum, interibit.
@@ -196,7 +187,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Anima enim omnis carnis in sanguine est: unde dixi filiis Israel: Sanguinem universæ carnis non comedetis, quia anima carnis in sanguine est: et quicumque comederit illum, interibit.
   - `VulgConte (2009)`: Anima enim omnis carnis in sanguine est: unde dixi filiis Israel: Sanguinem universæ carnis non comedetis, quia anima carnis in sanguine est: et quicumque comederit illum, interibit.
   - `VulgSistina (1590)`: Anima enim omnis carnis in sanguine est: unde dixi filiis Israel: Sanguinem universae carnis non comedetis, quia anima carnis in sanguine est: et quicumque comederit illum, interibit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Anima, quæ comederit morticinum, vel captum a bestia, tam de indigenis, quam de advenis, lavabit vestimenta sua et semetipsum aqua, et contaminatus erit usque ad vesperum: et hoc ordine mundus fiet.
@@ -205,7 +196,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Anima, quæ comederit morticinum, vel captum a bestia, tam de indigenis, quam de advenis, lavabit vestimenta sua et semetipsum aqua, et contaminatus erit usque ad vesperum: et hoc ordine mundus fiet.
   - `VulgConte (2009)`: Anima, quæ comederit morticinum, vel captum a bestia, tam de indigenis, quam de advenis, lavabit vestimenta sua et semetipsum aqua, et contaminatus erit usque ad vesperum: et hoc ordine mundus fiet.
   - `VulgSistina (1590)`: Anima, quae comederit morticinum, vel captum a bestia, tam de indigenis, quam de advenis, lavabit vestimenta sua et semetipsum aqua, et contaminatus erit usque ad vesperum: et hoc ordine mundus fiet.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quod si non laverit vestimenta sua et corpus, portabit iniquitatem suam.
@@ -214,4 +205,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quod si non laverit vestimenta sua et corpus, portabit iniquitatem suam.
   - `VulgConte (2009)`: Quod si non laverit vestimenta sua et corpus, portabit iniquitatem suam.
   - `VulgSistina (1590)`: Quod si non laverit vestimenta sua et corpus, portabit iniquitatem suam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

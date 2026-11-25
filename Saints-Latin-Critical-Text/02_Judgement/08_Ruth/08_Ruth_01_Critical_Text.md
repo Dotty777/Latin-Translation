@@ -1,8 +1,8 @@
 # Ruth 01 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:50Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -71,19 +62,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Ruth 1:11
-- **Apparatus:** `meæ,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **mi** VulgSistina (1590)
-- **Apparatus:** `habeo` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **habebo** VulgSistina (1590)
+- **Apparatus:** `meæ,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **mi** VulgSistina (1590)
+- **Apparatus:** `habeo` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **habebo** VulgSistina (1590)
 
 ### Ruth 1:12
-- **Apparatus:** `meæ, et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **mi, et** VulgSistina (1590)
-- **Apparatus:** `meæ,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **mi,** VulgSistina (1590)
+- **Apparatus:** `meæ, et` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **mi, et** VulgSistina (1590)
+- **Apparatus:** `meæ,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **mi,** VulgSistina (1590)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `etiamsi / etiam si`, `etiamsi / Etiam si`, `etiamsi / etiam si`, `etiamsi / etiam si` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ### Ruth 1:13
-- **Apparatus:** `meæ:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **mi** VulgSistina (1590)
+- **Apparatus:** `meæ:` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **mi** VulgSistina (1590)
 
 ### Ruth 1:17
-- **Apparatus:** `Dominus,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Deus** VulgSistina (1590)
+- **Apparatus:** `Dominus,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Deus** VulgSistina (1590)
 
 ---
 
@@ -96,7 +87,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In diebus unius iudicis, quando iudices præerant, facta est fames in Terra. Abiitque homo de Bethlehem Iuda, ut peregrinaretur in regione Moabitide cum uxore sua, ac duobus liberis.
   - `VulgConte (2009)`: In diebus unius iudicis, quando iudices præerant, facta est fames in Terra. Abiitque homo de Bethlehem Iuda, ut peregrinaretur in regione Moabitide cum uxore sua, ac duobus liberis.
   - `VulgSistina (1590)`: In diebus unius iudicis, quando iudices praeerant, facta est fames in Terra. Abiitque homo de Bethlehem Iuda, ut peregrinaretur in regione Moabitide cum uxore sua, ac duobus liberis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ipse vocabatur Elimelech, et uxor ejus Noëmi: et duo filii, alter Mahalon, et alter Chelion, Ephrathæi de Bethlehem Juda. Ingressique regionem Moabitidem, morabantur ibi.
@@ -105,7 +96,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ipse vocabatur Elimelech, et uxor eius Noemi: et duo filii, alter Mahalon, et alter Chelion, Ephrathæi de Bethlehem Iuda. Ingressique regionem Moabitidem, morabantur ibi.
   - `VulgConte (2009)`: Ipse vocabatur Elimelech, et uxor eius Noemi: et duo filii, alter Mahalon, et alter Chelion, Ephrathæi de Bethlehem Iuda. Ingressique regionem Moabitidem, morabantur ibi.
   - `VulgSistina (1590)`: ipse vocabatur Elimelech, et uxor eius Noemi: et duo filii, alter Mahalon, et alter Chelion, Ephrathaei de Bethlehem Iuda. Ingressique regionem Moabitidem, morabantur ibi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et mortuus est Elimelech maritus Noëmi: remansitque ipsa cum filiis.
@@ -114,7 +105,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et mortuus est Elimelech maritus Noemi: remansitque ipsa cum filiis.
   - `VulgConte (2009)`: Et mortuus est Elimelech maritus Noemi: remansitque ipsa cum filiis.
   - `VulgSistina (1590)`: Et mortuus est Elimelech maritus Noemi: remansitque ipsa cum filiis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui acceperunt uxores Moabitidas, quarum una vocabatur Orpha, altera vero Ruth. Manseruntque ibi decem annis,
@@ -123,7 +114,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Qui acceperunt uxores Moabitidas, quarum una vocabatur Orpha, altera vero Ruth. Manseruntque ibi decem annis,
   - `VulgConte (2009)`: Qui acceperunt uxores Moabitidas, quarum una vocabatur Orpha, altera vero Ruth. Manseruntque ibi decem annis,
   - `VulgSistina (1590)`: Qui acceperunt uxores Moabitidas, quarum una vocabatur Orpha, altera vero Ruth. Manseruntque ibi decem annis,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et ambo mortui sunt, Mahalon videlicet et Chelion: remansitque mulier orbata duobus liberis ac marito.
@@ -132,7 +123,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et ambo mortui sunt, Mahalon videlicet et Chelion: remansitque mulier orbata duobus liberis ac marito.
   - `VulgConte (2009)`: et ambo mortui sunt, Mahalon videlicet et Chelion: remansitque mulier orbata duobus liberis ac marito.
   - `VulgSistina (1590)`: et ambo mortui sunt, Mahalon videlicet et Chelion: remansitque mulier orbata duobus liberis ac marito.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et surrexit ut in patriam pergeret cum utraque nuru sua de regione Moabitide: audierat enim quod respexisset Dominus populum suum, et dedisset eis escas.
@@ -141,7 +132,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et surrexit ut in patriam pergeret cum utraque nuru sua de regione Moabitide: audierat enim quod respexisset Dominus populum suum, et dedisset eis escas.
   - `VulgConte (2009)`: Et surrexit ut in patriam pergeret cum utraque nuru sua de regione Moabitide: audierat enim quod respexisset Dominus populum suum, et dedisset eis escas.
   - `VulgSistina (1590)`: Et surrexit ut in patriam pergeret cum utraque nuru sua de regione Moabitide: audierat enim quod respexisset Dominus populum suum, et dedisset eis escas.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Egressa est itaque de loco peregrinationis suæ, cum utraque nuru: et jam in via revertendi posita in terram Juda,
@@ -150,7 +141,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Egressa est itaque de loco peregrinationis suæ, cum utraque nuru: et iam in via revertendi posita in Terram Iuda,
   - `VulgConte (2009)`: Egressa est itaque de loco peregrinationis suæ, cum utraque nuru: et iam in via revertendi posita in Terram Iuda,
   - `VulgSistina (1590)`: Egressa est itaque de loco peregrinationis suae, cum utraque nuru: et iam in via revertendi posita in Terram Iuda,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** dixit ad eas: Ite in domum matris vestræ: faciat vobiscum Dominus misericordiam, sicut fecistis cum mortuis, et mecum.
@@ -159,7 +150,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: dixit ad eas: Ite in domum matris vestræ, faciat vobiscum Dominus misericordiam, sicut fecistis cum mortuis et mecum.
   - `VulgConte (2009)`: dixit ad eas: Ite in domum matris vestræ, faciat vobiscum Dominus misericordiam, sicut fecistis cum mortuis et mecum.
   - `VulgSistina (1590)`: dixit ad eas: Ite in domum matris vestrae, faciat vobiscum Dominus misericordiam, sicut fecistis cum mortuis et mecum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Det vobis invenire requiem in domibus virorum quos sortituræ estis. Et osculata est eas. Quæ elevata voce flere cœperunt,
@@ -168,7 +159,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Det vobis invenire requiem in domibus virorum, quos sortituræ estis. Et osculata est eas. Quæ elevata voce flere cœperunt,
   - `VulgConte (2009)`: Det vobis invenire requiem in domibus virorum, quos sortituræ estis. Et osculata est eas. Quæ elevata voce flere cœperunt,
   - `VulgSistina (1590)`: Det vobis invenire requiem in domibus virorum, quos sortiturae estis. Et osculata est eas. Quae elevata voce flere coeperunt,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et dicere: Tecum pergemus ad populum tuum.
@@ -177,7 +168,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et dicere: Tecum pergemus ad populum tuum.
   - `VulgConte (2009)`: et dicere: Tecum pergemus ad populum tuum.
   - `VulgSistina (1590)`: et dicere: Tecum pergemus ad populum tuum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quibus illa respondit: Revertimini, filiæ meæ, cur venitis mecum? num ultra habeo filios in utero meo, ut viros ex me sperare possitis?
@@ -186,7 +177,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quibus illa respondit: Revertimini filiæ meæ, cur venitis mecum? num ultra habeo filios in utero meo, ut viros ex me sperare possitis?
   - `VulgConte (2009)`: Quibus illa respondit: Revertimini filiæ meæ, cur venitis mecum? num ultra habeo filios in utero meo, ut viros ex me sperare possitis?
   - `VulgSistina (1590)`: Quibus illa respondit: Revertimini filiae mi, cur venitis mecum? num ultra habebo filios in utero meo, ut viros ex me sperare possitis?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Revertimini, filiæ meæ, et abite: jam enim senectute confecta sum, nec apta vinculo conjugali: etiamsi possem hac nocte concipere, et parere filios,
@@ -195,7 +186,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Revertimini filiæ meæ, et abite: iam enim senectute confecta sum, nec apta vinculo coniugali. etiam si possem hac nocte concipere, et parere filios,
   - `VulgConte (2009)`: Revertimini filiæ meæ, et abite: iam enim senectute confecta sum, nec apta vinculo coniugali. Etiam si possem hac nocte concipere, et parere filios,
   - `VulgSistina (1590)`: Revertimini filiae mi, et abite: iam enim senectute confecta sum, nec apta vinculo coniugali. etiam si possem hac nocte concipere, et parere filios,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** si eos expectare velitis donec crescant, et annos pubertatis impleant, ante eritis vetulæ quam nubatis. Nolite, quæso, filiæ meæ: quia vestra angustia magis me premit, et egressa est manus Domini contra me.
@@ -204,7 +195,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: si eos expectare velitis donec crescant, et annos pubertatis impleant, ante eritis vetulæ quam nubatis. Nolite, quæso, filiæ meæ: quia vestra angustia magis me premit, et egressa est manus Domini contra me.
   - `VulgConte (2009)`: si eos expectare velitis donec crescant, et annos pubertatis impleant, ante eritis vetulæ quam nubatis. Nolite, quæso, filiæ meæ: quia vestra angustia magis me premit, et egressa est manus Domini contra me.
   - `VulgSistina (1590)`: si eos expectare velitis donec crescant, et annos pubertatis impleant, ante eritis vetulae quam nubatis. Nolite, quaeso, filiae mi: quia vestra angustia magis me premit, et egressa est manus Domini contra me.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Elevata igitur voce, rursum flere cœperunt: Orpha osculata est socrum, ac reversa est; Ruth adhæsit socrui suæ:
@@ -213,7 +204,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Elevata igitur voce, rursum flere cœperunt, Orpha osculata est socrum, ac reversa est: Ruth adhæsit socrui suæ.
   - `VulgConte (2009)`: Elevata igitur voce, rursum flere cœperunt, Orpha osculata est socrum, ac reversa est: Ruth adhæsit socrui suæ.
   - `VulgSistina (1590)`: Elevata igitur voce, rursum flere coeperunt, Orpha osculata est socrum, ac reversa est: Ruth adhaesit socrui suae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** cui dixit Noëmi: En reversa est cognata tua ad populum suum, et ad deos suos, vade cum ea.
@@ -222,7 +213,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: cui dixit Noemi: En reversa est cognata tua ad populum suum, et ad deos suos, vade cum ea.
   - `VulgConte (2009)`: Cui dixit Noemi: En reversa est cognata tua ad populum suum, et ad deos suos, vade cum ea.
   - `VulgSistina (1590)`: cui dixit Noemi: En reversa est cognata tua ad populum suum, et ad deos suos, vade cum ea.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quæ respondit: Ne adverseris mihi ut relinquam te et abeam: quocumque enim perrexeris, pergam, et ubi morata fueris, et ego pariter morabor. Populus tuus populus meus, et Deus tuus Deus meus.
@@ -231,7 +222,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quæ respondit: Ne adverseris mihi ut relinquam te et abeam: quocumque enim perrexeris, pergam: et ubi morata fueris, et ego pariter morabor. Populus tuus populus meus, et Deus tuus Deus meus.
   - `VulgConte (2009)`: Quæ respondit: Ne adverseris mihi ut relinquam te et abeam: quocumque enim perrexeris, pergam: et ubi morata fueris, et ego pariter morabor. Populus tuus populus meus, et Deus tuus Deus meus.
   - `VulgSistina (1590)`: Quae respondit: Ne adverseris mihi ut relinquam te et abeam: quocumque enim perrexeris, pergam: et ubi morata fueris, et ego pariter morabor. Populus tuus populus meus, et Deus tuus Deus meus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quæ te terra morientem susceperit, in ea moriar: ibique locum accipiam sepulturæ. Hæc mihi faciat Dominus, et hæc addat, si non sola mors me et te separaverit.
@@ -240,7 +231,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quæ te terra morientem susceperit, in ea moriar: ibique locum accipiam sepulturæ. Hæc mihi faciat Dominus, et hæc addat, si non sola mors me et te separaverit.
   - `VulgConte (2009)`: Quæ te terra morientem susceperit, in ea moriar: ibique locum accipiam sepulturæ. Hæc mihi faciat Dominus, et hæc addat, si non sola mors me et te separaverit.
   - `VulgSistina (1590)`: Quae te terra morientem susceperit, in ea moriar: ibique locum accipiam sepulturae. Haec mihi faciat Deus, et haec addat, si non sola mors me et te separaverit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Videns ergo Noëmi quod obstinato animo Ruth decrevisset secum pergere, adversari noluit, nec ad suos ultra reditum persuadere:
@@ -249,7 +240,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Videns ergo Noemi, quod obstinato animo Ruth decrevisset secum pergere, adversari noluit, nec ad suos ultra reditum persuadere:
   - `VulgConte (2009)`: Videns ergo Noemi, quod obstinato animo Ruth decrevisset secum pergere, adversari noluit, nec ad suos ultra reditum persuadere:
   - `VulgSistina (1590)`: Videns ergo Noemi, quod obstinato animo Ruth decrevisset secum pergere, adversari noluit, nec ad suos ultra reditum persuadere:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** profectæque sunt simul, et venerunt in Bethlehem. Quibus urbem ingressis, velox apud cunctos fama percrebruit: dicebantque mulieres: Hæc est illa Noëmi.
@@ -258,7 +249,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: profectæque sunt simul, et venerunt in Bethlehem. Quibus urbem ingressis, velox apud cunctos fama percrebruit: dicebantque mulieres: Hæc est illa Noemi.
   - `VulgConte (2009)`: profectæque sunt simul, et venerunt in Bethlehem. Quibus urbem ingressis, velox apud cunctos fama percrebruit: dicebantque mulieres: Hæc est illa Noemi.
   - `VulgSistina (1590)`: profectaeque sunt simul, et venerunt in Bethlehem. Quibus urbem ingressis, velox apud cunctos fama percrebruit: dicebantque mulieres: Haec est illa Noemi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quibus ait: Ne vocetis me Noëmi (id est, pulchram), sed vocate me Mara (id est, amaram), quia amaritudine valde replevit me Omnipotens.
@@ -267,7 +258,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quibus ait: Ne vocetis me Noemi (id est, pulchram) sed vocate me Mara (id est, amaram) quia amaritudine valde replevit me Omnipotens.
   - `VulgConte (2009)`: Quibus ait: Ne vocetis me Noemi (id est, pulchram) sed vocate me Mara (id est, amaram) quia amaritudine valde replevit me Omnipotens.
   - `VulgSistina (1590)`: Quibus ait: Ne vocetis me Noemi (id est, pulchram) sed vocate me Mara (id est, amaram) quia amaritudine valde replevit me Omnipotens.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Egressa sum plena, et vacuam reduxit me Dominus. Cur ergo vocatis me Noëmi, quam Dominus humiliavit, et afflixit Omnipotens?
@@ -276,7 +267,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Egressa sum plena, et vacuam reduxit me Dominus. Cur ergo vocatis me Noemi, quam Dominus humiliavit, et afflixit Omnipotens?
   - `VulgConte (2009)`: Egressa sum plena, et vacuam reduxit me Dominus. Cur ergo vocatis me Noemi, quam Dominus humiliavit, et afflixit Omnipotens?
   - `VulgSistina (1590)`: Egressa sum plena, et vacuam reduxit me Dominus. Cur ergo vocatis me Noemi, quam Dominus humiliavit, et afflixit Omnipotens?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Venit ergo Noëmi cum Ruth Moabitide nuru sua, de terra peregrinationis suæ: ac reversa est in Bethlehem, quando primum hordea metebantur.
@@ -285,4 +276,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Venit ergo Noemi cum Ruth Moabitide nuru sua, de terra peregrinationis suæ: ac reversa est in Bethlehem, quando primum hordea metebantur.
   - `VulgConte (2009)`: Venit ergo Noemi cum Ruth Moabitide nuru sua, de terra peregrinationis suæ: ac reversa est in Bethlehem, quando primum hordea metebantur.
   - `VulgSistina (1590)`: Venit ergo Noemi cum Ruth Moabitide nuru sua, de terra peregrinationis suae: ac reversa est in Bethlehem, quando primum hordea metebantur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

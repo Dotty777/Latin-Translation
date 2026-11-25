@@ -1,8 +1,8 @@
 # Hebrews 10 — Saints Latin Critical Text
 
-**Division:** `06_Discipleship` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:34Z`
+**Division:** `06_Discipleship` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:11Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Full 27-Book NT) | Tier 2 | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
@@ -29,16 +29,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - Amiatinus (A): verse 9:10 runs into its neighbour across the anchor's division between 9:9 and 9:10; re-divided there
@@ -92,66 +83,66 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Hebrews 10:1
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **bonorum** Amiatinus (A)
-- **Apparatus:** `bonorum,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
-- **Apparatus:** `eisdem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **hisdem** Amiatinus (A)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **bonorum** Amiatinus (A)
+- **Apparatus:** `bonorum,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `eisdem` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **hisdem** Amiatinus (A)
 
 ### Hebrews 10:2
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **non** Amiatinus (A)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **non** Amiatinus (A)
 
 ### Hebrews 10:4
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Impossibile / inpossibile`, `Impossibile / inpossibile` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Hebrews 10:6
-- **Apparatus:** `holocautomata` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **holocaustomata et** Amiatinus (A) ; **holocaustomata** VulgSistina (1590)
-- **Apparatus:** `placuerunt.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **placuit** Amiatinus (A)
+- **Apparatus:** `holocautomata` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **holocaustomata et** Amiatinus (A) ; **holocaustomata** VulgSistina (1590)
+- **Apparatus:** `placuerunt.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **placuit** Amiatinus (A)
 
 ### Hebrews 10:8
-- **Apparatus:** `holocautomata` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **holocaustomata et** Amiatinus (A) ; **holocaustomata** VulgSistina (1590)
+- **Apparatus:** `holocautomata` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **holocaustomata et** Amiatinus (A) ; **holocaustomata** VulgSistina (1590)
 
 ### Hebrews 10:9
-- **Apparatus:** `dixi:` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **dixit** Amiatinus (A)
+- **Apparatus:** `dixi:` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **dixit** Amiatinus (A)
 
 ### Hebrews 10:10
-- **Apparatus:** `Christi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **christi in** Amiatinus (A)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **in** Amiatinus (A)
+- **Apparatus:** `Christi` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **christi in** Amiatinus (A)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **in** Amiatinus (A)
 
 ### Hebrews 10:11
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quotidie / cotidie`, `quotidie / cotidie` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Hebrews 10:12
-- **Apparatus:** `sedet` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sedit** Amiatinus (A)
+- **Apparatus:** `sedet` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sedit** Amiatinus (A)
 
 ### Hebrews 10:13
-- **Apparatus:** `scabellum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scabillum** Amiatinus (A)
+- **Apparatus:** `scabellum` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scabillum** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `exspectans / expectans`, `exspectans / expectans`, `exspectans / expectans`, `exspectans / expectans`, `exspectans / expectans` (Amiatinus (A), VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Hebrews 10:16
-- **Apparatus:** `dando` Clem-Saints Clem1598-USFX Amiatinus (A) VulgConte (2009) VulgHetzenauer (1906) **]** **Dabo** VulgSistina (1590)
-- **Apparatus:** `mentibus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **mente** Amiatinus (A)
+- **Apparatus:** `dando` Clem1598-USFX Amiatinus (A) Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Dabo** VulgSistina (1590)
+- **Apparatus:** `mentibus` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **mente** Amiatinus (A)
 
 ### Hebrews 10:18
-- **Apparatus:** `est` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `est` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
 
 ### Hebrews 10:24
 - *Disregarded Surface Variant:* kept `(adopted text)` over `caritatis, / charitatis,`, `caritatis, / charitatis,`, `caritatis, / charitatis,` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Hebrews 10:25
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **est** Amiatinus (A)
-- **Apparatus:** `est` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **est** Amiatinus (A)
+- **Apparatus:** `est` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `appropinquantem / adpropinquantem`, `appropinquantem / adpropinquantem` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Hebrews 10:27
 - *Disregarded Surface Variant:* kept `(adopted text)` over `exspectatio / expectatio`, `exspectatio / expectatio`, `exspectatio / expectatio`, `exspectatio / expectatio`, `exspectatio / expectatio` (Amiatinus (A), VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Hebrews 10:28
-- **Apparatus:** `Moysi,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **mosi** Amiatinus (A)
+- **Apparatus:** `Moysi,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **mosi** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Irritam / Inritam` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Hebrews 10:30
-- **Apparatus:** `vindicta, et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **uindictam** Amiatinus (A) ; **vindictam, et** VulgSistina (1590)
-- **Apparatus:** `vindicta,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **vindictam,** VulgSistina (1590) Amiatinus (A)
-- **Apparatus:** `retribuam.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **reddam** Amiatinus (A)
+- **Apparatus:** `vindicta, et` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **uindictam** Amiatinus (A) ; **vindictam, et** VulgSistina (1590)
+- **Apparatus:** `vindicta,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **vindictam,** VulgSistina (1590) Amiatinus (A)
+- **Apparatus:** `retribuam.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **reddam** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `judicabit / iudicauit` (Amiatinus (A)) — *Apparatus witness, not a variant: b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)*
 
 ### Hebrews 10:32
@@ -164,11 +155,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `compassi / conpassi`, `compassi / conpassi` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Hebrews 10:37
-- **Apparatus:** `aliquantulum,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **quantulum** Amiatinus (A) ; **aliquantulumque,** VulgSistina (1590)
+- **Apparatus:** `aliquantulum,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **quantulum** Amiatinus (A) ; **aliquantulumque,** VulgSistina (1590)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `tardabit. / tardauit` (Amiatinus (A)) — *Apparatus witness, not a variant: b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)*
 
 ### Hebrews 10:39
-- **Apparatus:** `filii` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `filii` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `acquisitionem / adquisitionem`, `acquisitionem / adquisitionem` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ---
@@ -183,7 +174,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Vmbram enim habens lex bonorum futurorum non ipsam imaginem rerum per singulos annos hisdem ipsis hostiis quas offerunt indesinenter numquam potest accedentes perfectos facere
   - `VulgConte (2009)`: Umbram enim habens lex futurorum bonorum, non ipsam imaginem rerum: per singulos annos eisdem ipsis hostiis, quas offerunt indesinenter, numquam potest accedentes perfectos facere:
   - `VulgSistina (1590)`: Umbram enim habens lex futurorum bonorum, non ipsam imaginem rerum: per singulos annos eisdem ipsis hostiis, quas offerunt indesinenter, numquam potest accedentes perfectos facere:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** alioquin cessassent offerri: ideo quod nullam haberent ultra conscientiam peccati, cultores semel mundati:
@@ -193,7 +184,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: alioquin non cessassent offerri ideo quod nullam haberent ultra conscientiam peccati cultores semel mundati
   - `VulgConte (2009)`: alioquin cessassent offerri: ideo quod nullam haberent ultra conscientiam peccati, cultores semel mundati:
   - `VulgSistina (1590)`: alioquin cessassent offerri: ideo quod nullam haberent ultra conscientiam peccati, cultores semel mundati:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** sed in ipsis commemoratio peccatorum per singulos annos fit.
@@ -203,7 +194,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: sed in ipsis commemoratio peccatorum per singulos annos fit
   - `VulgConte (2009)`: sed in ipsis commemoratio peccatorum per singulos annos fit.
   - `VulgSistina (1590)`: sed in ipsis commemoratio peccatorum per singulos annos fit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Impossibile enim est sanguine taurorum et hircorum auferri peccata.
@@ -213,7 +204,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: inpossibile enim est sanguine taurorum et hircorum auferri peccata
   - `VulgConte (2009)`: Impossibile enim est sanguine taurorum et hircorum auferri peccata.
   - `VulgSistina (1590)`: impossibile enim est sanguine taurorum et hircorum auferri peccata.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ideo ingrediens mundum dicit: Hostiam et oblationem noluisti: corpus autem aptasti mihi:
@@ -223,7 +214,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: ideo ingrediens mundum dicit hostiam et oblationem noluisti corpus autem aptasti mihi
   - `VulgConte (2009)`: Ideo ingrediens mundum dicit: Hostiam, et oblationem noluisti: corpus autem aptasti mihi:
   - `VulgSistina (1590)`: Ideo ingrediens mundum dicit: Hostiam, et oblationem noluisti: corpus autem aptasti mihi:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** holocautomata pro peccato non tibi placuerunt.
@@ -233,7 +224,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: holocaustomata et pro peccato non tibi placuit
   - `VulgConte (2009)`: holocautomata pro peccato non tibi placuerunt.
   - `VulgSistina (1590)`: holocaustomata pro peccato non tibi placuerunt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tunc dixi: Ecce venio: in capite libri scriptum est de me: Ut faciam, Deus, voluntatem tuam.
@@ -243,7 +234,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: tunc dixi ecce uenio in capite libri scriptum est de me ut faciam deus uoluntatem tuam
   - `VulgConte (2009)`: Tunc dixi: Ecce venio: in capite libri scriptum est de me: Ut faciam, Deus, voluntatem tuam.
   - `VulgSistina (1590)`: Tunc dixi: Ecce venio: in capite libri scriptum est de me: Ut faciam, Deus, voluntatem tuam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Superius dicens: Quia hostias, et oblationes, et holocautomata pro peccato noluisti, nec placita sunt tibi, quæ secundum legem offeruntur,
@@ -253,7 +244,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: superius dicens quia hostias et oblationes et holocaustomata et pro peccato noluisti nec placita sunt tibi quae secundum legem offeruntur
   - `VulgConte (2009)`: Superius dicens: Quia hostias, et oblationes, et holocautomata pro peccato noluisti, nec placita sunt tibi, quæ secundum legem offeruntur,
   - `VulgSistina (1590)`: Superius dicens: Quia hostias, et oblationes, et holocaustomata pro peccato noluisti, nec placita sunt tibi, quae secundum legem offeruntur,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** tunc dixi: Ecce venio, ut faciam, Deus, voluntatem tuam: aufert primum, ut sequens statuat.
@@ -263,7 +254,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: tunc dixit ecce uenio ut faciam deus uoluntatem tuam aufert primum ut sequens statuat
   - `VulgConte (2009)`: tunc dixi: Ecce venio, ut faciam, Deus, voluntatem tuam: aufert primum, ut sequens statuat.
   - `VulgSistina (1590)`: tunc dixi: Ecce venio, ut faciam, Deus, voluntatem tuam: aufert primum, ut sequens statuat.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In qua voluntate sanctificati sumus per oblationem corporis Jesu Christi semel.
@@ -273,7 +264,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: in qua uoluntate sanctificati sumus per oblationem corporis iesu christi in semel
   - `VulgConte (2009)`: In qua voluntate sanctificati sumus per oblationem corporis Iesu Christi semel.
   - `VulgSistina (1590)`: In qua voluntate sanctificati sumus per oblationem corporis Iesu Christi semel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et omnis quidem sacerdos præsto est quotidie ministrans, et easdem sæpe offerens hostias, quæ numquam possunt auferre peccata:
@@ -283,7 +274,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Et omnis quidem sacerdos praesto est cotidie ministrans et easdem saepe offerens hostias quae numquam possunt auferre peccata
   - `VulgConte (2009)`: Et omnis quidem sacerdos præsto est quotidie ministrans, et easdem sæpe offerens hostias, quæ numquam possunt auferre peccata:
   - `VulgSistina (1590)`: Et omnis quidem sacerdos praesto est quotidie ministrans, et easdem saepe offerens hostias, quae numquam possunt auferre peccata:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** hic autem unam pro peccatis offerens hostiam, in sempiternum sedet in dextera Dei,
@@ -293,7 +284,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Hic autem unam pro peccatis offerens hostiam in sempiternum sedit in dextera dei
   - `VulgConte (2009)`: hic autem unam pro peccatis offerens hostiam, in sempiternum sedet in dextera Dei,
   - `VulgSistina (1590)`: hic autem unam pro peccatis offerens hostiam, in sempiternum sedet in dextera Dei,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** de cetero exspectans donec ponantur inimici ejus scabellum pedum ejus.
@@ -303,7 +294,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: de cetero expectans donec ponantur inimici eius scabillum pedum eius
   - `VulgConte (2009)`: de cetero expectans donec ponantur inimici eius scabellum pedum eius.
   - `VulgSistina (1590)`: de cetero expectans donec ponantur inimici eius scabellum pedum eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Una enim oblatione, consummavit in sempiternum sanctificatos.
@@ -313,7 +304,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: una enim oblatione consummauit in sempiternum sanctificatos
   - `VulgConte (2009)`: Una enim oblatione, consummavit in sempiternum sanctificatos.
   - `VulgSistina (1590)`: Una enim oblatione, consummavit in sempiternum sanctificatos.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Contestatur autem nos et Spiritus Sanctus. Postquam enim dixit:
@@ -323,7 +314,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: contestatur autem nos et spiritus sanctus postquam enim dixit
   - `VulgConte (2009)`: Contestatur autem nos et Spiritus Sanctus. Postquam enim dixit:
   - `VulgSistina (1590)`: Contestatur autem nos et Spiritus sanctus. Postquam enim dixit:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hoc autem testamentum, quod testabor ad illos post dies illos, dicit Dominus, dando leges meas in cordibus eorum, et in mentibus eorum superscribam eas:
@@ -333,7 +324,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: hoc autem testamentum quod testabor ad illos post dies illos dicit dominus dando leges meas in cordibus eorum et in mente eorum superscribam eas
   - `VulgConte (2009)`: Hoc autem testamentum, quod testabor ad illos post dies illos, dicit Dominus. Dando leges meas in cordibus eorum, et in mentibus eorum superscribam eas:
   - `VulgSistina (1590)`: Hoc autem testamentum, quod testabor ad illos post dies illos, dicit Dominus: Dabo leges meas in cordibus eorum, et in mentibus eorum superscribam eas:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et peccatorum, et iniquitatum eorum jam non recordabor amplius.
@@ -343,7 +334,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et peccatorum et iniquitatum eorum iam non recordabor amplius
   - `VulgConte (2009)`: et peccatorum, et iniquitatum eorum iam non recordabor amplius.
   - `VulgSistina (1590)`: et peccatorum, et iniquitatum eorum iam non recordabor amplius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ubi autem horum remissio: jam non est oblatio pro peccato.
@@ -353,7 +344,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: ubi autem horum remissio iam non oblatio pro peccato
   - `VulgConte (2009)`: Ubi autem horum remissio: iam non est oblatio pro peccato.
   - `VulgSistina (1590)`: Ubi autem horum remissio: iam non est oblatio pro peccato.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Habentes itaque, fratres, fiduciam in introitu sanctorum in sanguine Christi,
@@ -363,7 +354,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Habentes itaque fratres fiduciam in introitu sanctorum in sanguine christi
   - `VulgConte (2009)`: Habentes itaque fratres fiduciam in introitu sanctorum in sanguine Christi,
   - `VulgSistina (1590)`: Habentes itaque fratres fiduciam in introitu sanctorum in sanguine Christi,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quam initiavit nobis viam novam, et viventem per velamen, id est, carnem suam,
@@ -373,7 +364,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: quam initiauit nobis uiam nouam et uiuentem per uelamen id est carnem suam
   - `VulgConte (2009)`: quam initiavit nobis viam novam, et viventem per velamen, id est, carnem suam,
   - `VulgSistina (1590)`: quam initiavit nobis viam novam, et viventem per velamen, id est, carnem suam,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et sacerdotem magnum super domum Dei:
@@ -383,7 +374,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et sacerdotem magnum super domum dei
   - `VulgConte (2009)`: et sacerdotem magnum super domum Dei:
   - `VulgSistina (1590)`: et sacerdotem magnum super domum Dei:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** accedamus cum vero corde in plenitudine fidei, aspersi corda a conscientia mala, et abluti corpus aqua munda,
@@ -393,7 +384,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: accedamus cum uero corde in plenitudine fidei aspersi corda a conscientia mala et abluti corpus aqua munda
   - `VulgConte (2009)`: accedamus cum vero corde in plenitudine fidei, aspersi corda a conscientia mala, et abluti corpus aqua munda,
   - `VulgSistina (1590)`: accedamus cum vero corde in plenitudine fidei, aspersi corda a conscientia mala, et abluti corpus aqua munda,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** teneamus spei nostræ confessionem indeclinabilem (fidelis enim est qui repromisit),
@@ -403,7 +394,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: teneamus spei nostrae confessionem indeclinabilem fidelis enim est qui repromisit
   - `VulgConte (2009)`: teneamus spei nostræ confessionem indeclinabilem, (fidelis enim est qui repromisit),
   - `VulgSistina (1590)`: teneamus spei nostrae confessionem indeclinabilem, (fidelis enim est qui repromisit),
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et consideremus invicem in provocationem caritatis, et bonorum operum:
@@ -413,7 +404,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et consideremus inuicem in prouocationem caritatis et bonorum operum
   - `VulgConte (2009)`: et consideremus invicem in provocationem charitatis, et bonorum operum:
   - `VulgSistina (1590)`: et consideremus invicem in provocationem charitatis, et bonorum operum:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** non deserentes collectionem nostram, sicut consuetudinis est quibusdam, sed consolantes, et tanto magis quanto videritis appropinquantem diem.
@@ -423,7 +414,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: non deserentes collectionem nostram sicut est consuetudinis quibusdam sed consolantes et tanto magis quanto uideritis adpropinquantem diem
   - `VulgConte (2009)`: non deserentes collectionem nostram, sicut consuetudinis est quibusdam, sed consolantes, et tanto magis quanto videritis appropinquantem diem.
   - `VulgSistina (1590)`: non deserentes collectionem nostram, sicut consuetudinis est quibusdam, sed consolantes, et tanto magis quanto videritis appropinquantem diem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Voluntarie enim peccantibus nobis post acceptam notitiam veritatis, jam non relinquitur pro peccatis hostia,
@@ -433,7 +424,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: uoluntarie enim peccantibus nobis post acceptam notitiam ueritatis iam non relinquitur pro peccatis hostia
   - `VulgConte (2009)`: Voluntarie enim peccantibus nobis post acceptam notitiam veritatis, iam non relinquitur pro peccatis hostia,
   - `VulgSistina (1590)`: Voluntarie enim peccantibus nobis post acceptam notitiam veritatis, iam non relinquitur pro peccatis hostia,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** terribilis autem quædam exspectatio judicii, et ignis æmulatio, quæ consumptura est adversarios.
@@ -443,7 +434,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: terribilis autem quaedam expectatio iudicii et ignis aemulatio quae consumptura est aduersarios
   - `VulgConte (2009)`: terribilis autem quædam expectatio iudicii, et ignis æmulatio, quæ consumptura est adversarios.
   - `VulgSistina (1590)`: terribilis autem quaedam expectatio iudicii, et ignis aemulatio, quae consumptura est adversarios.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Irritam quis faciens legem Moysi, sine ulla miseratione duobus vel tribus testibus moritur:
@@ -453,7 +444,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Inritam quis faciens legem mosi sine ulla miseratione duobus uel tribus […] moritur
   - `VulgConte (2009)`: Irritam quis faciens legem Moysi, sine ulla miseratione duobus vel tribus testibus moritur:
   - `VulgSistina (1590)`: Irritam quis faciens legem Moysi, sine ulla miseratione duobus vel tribus testibus moritur:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quanto magis putatis deteriora mereri supplicia qui Filium Dei conculcaverit, et sanguinem testamenti pollutum duxerit, in quo sanctificatus est, et spiritui gratiæ contumeliam fecerit?
@@ -463,7 +454,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: quanto magis putatis deteriora mereri supplicia qui filium dei conculcauerit et sanguinem testamenti pollutum duxerit in quo sanctificatus est et spiritui gratiae contumeliam fecerit
   - `VulgConte (2009)`: quanto magis putatis deteriora mereri supplicia qui Filium Dei conculcaverit, et sanguinem testamenti pollutum duxerit, in quo sanctificatus est, et Spiritui gratiæ contumeliam fecerit?
   - `VulgSistina (1590)`: quanto magis putatis deteriora mereri supplicia qui filium Dei conculcaverit, et sanguinem testamenti pollutum duxerit, in quo sanctificatus est, et spiritui gratiae contumeliam fecerit?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Scimus enim qui dixit: Mihi vindicta, et ego retribuam. Et iterum: Quia judicabit Dominus populum suum.
@@ -473,7 +464,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: scimus enim qui dixit mihi uindictam ego reddam et iterum quia iudicauit dominus populum suum
   - `VulgConte (2009)`: Scimus enim qui dixit: Mihi vindicta, et ego retribuam. Et iterum: Quia iudicabit Dominus populum suum.
   - `VulgSistina (1590)`: Scimus enim qui dixit: Mihi vindictam, et ego retribuam. Et iterum: Quia iudicabit Dominus populum suum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Horrendum est incidere in manus Dei viventis.
@@ -483,7 +474,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Horrendum est incidere in manus dei uiuentis
   - `VulgConte (2009)`: Horrendum est incidere in manus Dei viventis.
   - `VulgSistina (1590)`: Horrendum est incidere in manus Dei viventis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Rememoramini autem pristinos dies, in quibus illuminati, magnum certamen sustinuistis passionum:
@@ -493,7 +484,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: rememoramini autem pristinos dies in quibus inluminati magnum certamen sustinuistis passionum
   - `VulgConte (2009)`: Rememoramini autem pristinos dies, in quibus illuminati, magnum certamen sustinuistis passionum:
   - `VulgSistina (1590)`: Rememoramini autem pristinos dies, in quibus illuminati, magnum certamen sustinuistis passionum:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et in altero quidem opprobriis et tribulationibus spectaculum facti: in altero autem socii taliter conversantium effecti.
@@ -503,7 +494,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et in altero quidem obprobriis et tribulationibus spectaculum facti in altero autem socii taliter conuersantium effecti
   - `VulgConte (2009)`: et in altero quidem opprobriis, et tribulationibus spectaculum facti: in altero autem socii taliter conversantium effecti.
   - `VulgSistina (1590)`: et in altero quidem opprobriis, et tribulationibus spectaculum facti: in altero autem socii taliter conversantium effecti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 34 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nam et vinctis compassi estis, et rapinam bonorum vestrorum cum gaudio suscepistis, cognoscentes vos habere meliorem et manentem substantiam.
@@ -513,7 +504,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: nam et uinctis conpassi estis et rapinam bonorum uestrorum cum gaudio suscepistis cognoscentes uos habere meliorem et manentem substantiam
   - `VulgConte (2009)`: Nam et vinctis compassi estis, et rapinam bonorum vestrorum cum gaudio suscepistis, cognoscentes vos habere meliorem, et manentem substantiam.
   - `VulgSistina (1590)`: Nam et vinctis compassi estis, et rapinam bonorum vestrorum cum gaudio suscepistis, cognoscentes vos habere meliorem, et manentem substantiam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 35 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nolite itaque amittere confidentiam vestram, quæ magnam habet remunerationem.
@@ -523,7 +514,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Nolite itaque amittere confidentiam uestram quae magnam habet remunerationem
   - `VulgConte (2009)`: Nolite itaque amittere confidentiam vestram, quæ magnam habet remunerationem.
   - `VulgSistina (1590)`: Nolite itaque amittere confidentiam vestram, quae magnam habet remunerationem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 36 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Patientia enim vobis necessaria est: ut voluntatem Dei facientes, reportetis promissionem.
@@ -533,7 +524,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: patientia enim uobis necessaria est ut uoluntatem dei facientes reportetis promissionem
   - `VulgConte (2009)`: Patientia enim vobis necessaria est: ut voluntatem Dei facientes, reportetis promissionem.
   - `VulgSistina (1590)`: Patientia enim vobis necessaria est: ut voluntatem Dei facientes, reportetis promissionem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 37 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Adhuc enim modicum aliquantulum, qui venturus est, veniet, et non tardabit.
@@ -543,7 +534,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: adhuc enim modicum quantulum qui uenturus est ueniet et non tardauit
   - `VulgConte (2009)`: Adhuc enim modicum aliquantulum, qui venturus est, veniet, et non tardabit.
   - `VulgSistina (1590)`: Adhuc enim modicum aliquantulumque, qui venturus est, veniet, et non tardabit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 38 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Justus autem meus ex fide vivit: quod si subtraxerit se, non placebit animæ meæ.
@@ -553,7 +544,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: iustus autem meus ex fide uiuit quod si subtraxerit se non placebit animae meae
   - `VulgConte (2009)`: Iustus autem meus ex fide vivit. Quod si subtraxerit se, non placebit animæ meæ.
   - `VulgSistina (1590)`: iustus autem meus ex fide vivit. quod si subtraxerit se, non placebit animae meae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 39 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nos autem non sumus subtractionis filii in perditionem, sed fidei in acquisitionem animæ.
@@ -563,4 +554,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Nos autem non sumus subtractionis in perditionem sed fidei in adquisitionem animae
   - `VulgConte (2009)`: Nos autem non sumus subtractionis filii in perditionem, sed fidei in acquisitionem animæ.
   - `VulgSistina (1590)`: Nos autem non sumus subtractionis filii in perditionem, sed fidei in acquisitionem animae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

@@ -1,8 +1,8 @@
 # Psalms 110 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:47Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:08Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Psalt-Pianum (1945)** | Psalterium Pianum — Pontifical Biblical Institute Hebrew-Based Psalter (1945) | Tier 3 | Public Domain (DivinumOfficium Latin-Bea) | Modern Hebrew-Based Latin Psalter (Psalms 1–150, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
@@ -29,16 +29,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -60,31 +51,30 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Psalms 110:1
-- **Apparatus:** `Alleluja. Confitebor tibi, Domine, in` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Celebrábo Dóminum** Psalt-Pianum (1945)
-- **Apparatus:** `meo,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
-- **Apparatus:** `consilio` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cœtu** Psalt-Pianum (1945)
-- *Disregarded Surface Variant:* kept `Alleluja.` over `Alleluja` (Clem-Saints) — *Punctuation / spacing difference only*
+- **Apparatus:** `Alleluja. Confitebor tibi, Domine, in` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Celebrábo Dóminum** Psalt-Pianum (1945)
+- **Apparatus:** `meo,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Psalt-Pianum (1945)
+- **Apparatus:** `consilio` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cœtu** Psalt-Pianum (1945)
 
 ### Psalms 110:2
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sunt** Psalt-Pianum (1945)
-- **Apparatus:** `exquisita in omnes voluntates ejus.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scrutánda ómnibus qui díligunt ea.** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sunt** Psalt-Pianum (1945)
+- **Apparatus:** `exquisita in omnes voluntates ejus.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **scrutánda ómnibus qui díligunt ea.** Psalt-Pianum (1945)
 
 ### Psalms 110:3
-- **Apparatus:** `Confessio` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Majéstas** Psalt-Pianum (1945)
-- **Apparatus:** `sæculum sæculi.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ætérnum.** Psalt-Pianum (1945)
+- **Apparatus:** `Confessio` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Majéstas** Psalt-Pianum (1945)
+- **Apparatus:** `sæculum sæculi.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ætérnum.** Psalt-Pianum (1945)
 
 ### Psalms 110:4
-- **Apparatus:** `Memoriam` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Memoránda** Psalt-Pianum (1945)
-- **Apparatus:** `mirabilium suorum,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **mirabília sua;** Psalt-Pianum (1945)
-- **Apparatus:** `miserator` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **clemens est** Psalt-Pianum (1945)
+- **Apparatus:** `Memoriam` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Memoránda** Psalt-Pianum (1945)
+- **Apparatus:** `mirabilium suorum,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **mirabília sua;** Psalt-Pianum (1945)
+- **Apparatus:** `miserator` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **clemens est** Psalt-Pianum (1945)
 
 ### Psalms 110:5
-- **Apparatus:** `sæculum testamenti` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ætérnum fœ́deris** Psalt-Pianum (1945)
+- **Apparatus:** `sæculum testamenti` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ætérnum fœ́deris** Psalt-Pianum (1945)
 
 ### Psalms 110:6
-- **Apparatus:** `Virtutem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Poténtiam** Psalt-Pianum (1945)
-- **Apparatus:** `annuntiabit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **manifestávit** Psalt-Pianum (1945)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ut daret eis possessiónem géntium.** Psalt-Pianum (1945)
+- **Apparatus:** `Virtutem` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Poténtiam** Psalt-Pianum (1945)
+- **Apparatus:** `annuntiabit` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **manifestávit** Psalt-Pianum (1945)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ut daret eis possessiónem géntium.** Psalt-Pianum (1945)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `annuntiabit / adnuntiabit`, `annuntiabit / annunciabit`, `annuntiabit / annunciabit`, `annuntiabit / annunciabit` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Psalms 110:7
@@ -94,19 +84,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `hæreditatem / hereditatem`, `hæreditatem / hereditatem`, `hæreditatem / hereditatem`, `hæreditatem / hereditatem` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Psalms 110:8
-- **Apparatus:** `Fidelia omnia mandata ejus, confirmata` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Stabilíta** Psalt-Pianum (1945)
-- **Apparatus:** `sæculum sæculi,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sǽcula, in ætérnum,** Psalt-Pianum (1945)
-- **Apparatus:** `in veritate` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cum firmitáte** Psalt-Pianum (1945)
+- **Apparatus:** `Fidelia omnia mandata ejus, confirmata` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Stabilíta** Psalt-Pianum (1945)
+- **Apparatus:** `sæculum sæculi,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **sǽcula, in ætérnum,** Psalt-Pianum (1945)
+- **Apparatus:** `in veritate` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **cum firmitáte** Psalt-Pianum (1945)
 
 ### Psalms 110:9
-- **Apparatus:** `mandavit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **státuit** Psalt-Pianum (1945)
-- **Apparatus:** `testamentum` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **fœdus** Psalt-Pianum (1945)
-- **Apparatus:** `terribile` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **venerábile est** Psalt-Pianum (1945)
+- **Apparatus:** `mandavit` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **státuit** Psalt-Pianum (1945)
+- **Apparatus:** `testamentum` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **fœdus** Psalt-Pianum (1945)
+- **Apparatus:** `terribile` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **venerábile est** Psalt-Pianum (1945)
 
 ### Psalms 110:10
-- **Apparatus:** `intellectus bonus omnibus facientibus` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **prudénter agunt omnes, qui colunt** Psalt-Pianum (1945)
-- **Apparatus:** `laudatio` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **laus** Psalt-Pianum (1945)
-- **Apparatus:** `sæculum sæculi.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ætérnum.** Psalt-Pianum (1945)
+- **Apparatus:** `intellectus bonus omnibus facientibus` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **prudénter agunt omnes, qui colunt** Psalt-Pianum (1945)
+- **Apparatus:** `laudatio` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **laus** Psalt-Pianum (1945)
+- **Apparatus:** `sæculum sæculi.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ætérnum.** Psalt-Pianum (1945)
 
 ---
 
@@ -120,7 +110,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Celebrábo Dóminum toto corde, in cœtu justórum et congregatióne.
   - `VulgConte (2009)`: Alleluia. Confitebor tibi Domine in toto corde meo: in consilio iustorum, et congregatione.
   - `VulgSistina (1590)`: Alleluia. Confitebor tibi Domine in toto corde meo: in consilio iustorum, et congregatione.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Punctuation / spacing difference only).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Magna opera Domini: exquisita in omnes voluntates ejus.
@@ -130,7 +120,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Magna sunt ópera Dómini, scrutánda ómnibus qui díligunt ea.
   - `VulgConte (2009)`: Magna opera Domini: exquisita in omnes voluntates eius.
   - `VulgSistina (1590)`: Magna opera Domini: exquisita in omnes voluntates eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Confessio et magnificentia opus ejus, et justitia ejus manet in sæculum sæculi.
@@ -140,7 +130,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Majéstas et magnificéntia opus ejus; et justítia ejus manet in ætérnum.
   - `VulgConte (2009)`: Confessio et magnificentia opus eius: et iustitia eius manet in sæculum sæculi.
   - `VulgSistina (1590)`: Confessio et magnificentia opus eius: et iustitia eius manet in saeculum saeculi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Memoriam fecit mirabilium suorum, misericors et miserator Dominus.
@@ -150,7 +140,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Memoránda fecit mirabília sua; miséricors et clemens est Dóminus.
   - `VulgConte (2009)`: Memoriam fecit mirabilium suorum, misericors et miserator Dominus:
   - `VulgSistina (1590)`: Memoriam fecit mirabilium suorum, misericors et miserator Dominus:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Escam dedit timentibus se; memor erit in sæculum testamenti sui.
@@ -160,7 +150,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Escam dedit timéntibus se; memor erit in ætérnum fœ́deris sui.
   - `VulgConte (2009)`: escam dedit timentibus se. Memor erit in sæculum testamenti sui:
   - `VulgSistina (1590)`: escam dedit timentibus se. Memor erit in saeculum testamenti sui:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Virtutem operum suorum annuntiabit populo suo,
@@ -170,7 +160,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Poténtiam óperum suórum manifestávit pópulo suo, ut daret eis possessiónem géntium.
   - `VulgConte (2009)`: virtutem operum suorum annunciabit populo suo:
   - `VulgSistina (1590)`: virtutem operum suorum annunciabit populo suo:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ut det illis hæreditatem gentium. Opera manuum ejus veritas et judicium.
@@ -189,7 +179,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Stabilíta in sǽcula, in ætérnum, facta cum firmitáte et æquitáte.
   - `VulgConte (2009)`: Fidelia omnia mandata eius: confirmata in sæculum sæculi, facta in veritate et æquitate.
   - `VulgSistina (1590)`: Fidelia omnia mandata eius: confirmata in saeculum saeculi, facta in veritate et aequitate.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Redemptionem misit populo suo; mandavit in æternum testamentum suum. Sanctum et terribile nomen ejus.
@@ -199,7 +189,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Redemptiónem misit pópulo suo, státuit in ætérnum fœdus suum; sanctum et venerábile est nomen ejus.
   - `VulgConte (2009)`: Redemptionem misit populo suo: mandavit in æternum testamentum suum. Sanctum, et terribile nomen eius:
   - `VulgSistina (1590)`: Redemptionem misit populo suo: mandavit in aeternum testamentum suum. Sanctum, et terribile nomen eius:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Initium sapientiæ timor Domini; intellectus bonus omnibus facientibus eum: laudatio ejus manet in sæculum sæculi.
@@ -209,4 +199,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Psalt-Pianum (1945)`: Inítium sapiéntiæ timor Dómini: prudénter agunt omnes, qui colunt eum; laus ejus manet in ætérnum.
   - `VulgConte (2009)`: initium sapientiæ timor Domini. Intellectus bonus omnibus facientibus eum: laudatio eius manet in sæculum sæculi.
   - `VulgSistina (1590)`: initium sapientiae timor Domini. Intellectus bonus omnibus facientibus eum: laudatio eius manet in saeculum saeculi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

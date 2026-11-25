@@ -1,8 +1,8 @@
 # Lamentations 04 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:40Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:08Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -71,71 +62,72 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Lamentations 4:1
-- *Disregarded Surface Variant:* kept `Aleph` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Aleph` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:2
-- *Disregarded Surface Variant:* kept `Beth` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Beth` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:3
-- *Disregarded Surface Variant:* kept `Ghimel` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Ghimel` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:4
-- *Disregarded Surface Variant:* kept `Daleth` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Daleth` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
+- **Apparatus:** `Daleth Adhæsit` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **Adhæsit** Clem-Saints
 
 ### Lamentations 4:5
-- *Disregarded Surface Variant:* kept `He` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `He` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:6
-- *Disregarded Surface Variant:* kept `Vau` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Vau` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:7
-- *Disregarded Surface Variant:* kept `Zain` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Zain` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:8
-- *Disregarded Surface Variant:* kept `Heth` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Heth` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:9
-- *Disregarded Surface Variant:* kept `Teth` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Teth` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:10
-- *Disregarded Surface Variant:* kept `Jod` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Jod` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:11
-- *Disregarded Surface Variant:* kept `Caph` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Caph` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:12
-- *Disregarded Surface Variant:* kept `Lamed` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Lamed` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:13
-- *Disregarded Surface Variant:* kept `Mem` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Mem` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:14
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **intrare,** VulgSistina (1590)
-- *Disregarded Surface Variant:* kept `Nun` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Nun` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **intrare,** VulgSistina (1590)
 
 ### Lamentations 4:15
-- *Disregarded Surface Variant:* kept `Samech` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Samech` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:16
-- *Disregarded Surface Variant:* kept `Phe` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Phe` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:17
-- *Disregarded Surface Variant:* kept `Ain` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Ain` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:18
-- *Disregarded Surface Variant:* kept `Sade` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Sade` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:19
-- *Disregarded Surface Variant:* kept `Coph` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Coph` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:20
-- *Disregarded Surface Variant:* kept `Res` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Res` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:21
-- *Disregarded Surface Variant:* kept `Sin` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Sin` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ### Lamentations 4:22
-- *Disregarded Surface Variant:* kept `Thau` over `om.` (Clem-Saints) — *Encoding difference between digital copies of the same printed edition (not a textual variant)*
+- **Apparatus:** `Thau` Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Clem-Saints
 
 ---
 
@@ -148,7 +140,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Aleph Quomodo obscuratum est aurum, mutatus est color optimus, dispersi sunt lapides sanctuarii in capite omnium platearum?
   - `VulgConte (2009)`: Aleph Quomodo obscuratum est aurum, mutatus est color optimus, dispersi sunt lapides sanctuarii in capite omnium platearum.
   - `VulgSistina (1590)`: Aleph Quomodo obscuratum est aurum, mutatus est color optimus, dispersi sunt lapides sanctuarii in capite omnium platearum?
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Beth Filii Sion inclyti, et amicti auro primo: quomodo reputati sunt in vasa testea, opus manuum figuli!
@@ -157,7 +149,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Beth Filii Sion inclyti, et amicti auro primo: quomodo reputati sunt in vasa testea, opus manuum figuli?
   - `VulgConte (2009)`: Beth Filii Sion inclyti, et amicti auro primo: quomodo reputati sunt in vasa testea, opus manuum figuli?
   - `VulgSistina (1590)`: Beth Filii Sion inclyti, et amicti auro primo: quomodo reputati sunt in vasa testea, opus manuum figuli?
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ghimel Sed et lamiæ nudaverunt mammam, lactaverunt catulos suos: filia populi mei crudelis quasi struthio in deserto.
@@ -166,7 +158,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ghimel Sed et lamiæ nudaverunt mammam, lactaverunt catulos suos: filia populi mei crudelis, quasi struthio in deserto.
   - `VulgConte (2009)`: Ghimel Sed et lamiæ nudaverunt mammam, lactaverunt catulos suos: filia populi mei crudelis, quasi struthio in deserto.
   - `VulgSistina (1590)`: Ghimel Sed et lamiae nudaverunt mammam, lactaverunt catulos suos: filia populi mei crudelis, quasi struthio in deserto.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Daleth Adhæsit lingua lactentis ad palatum ejus in siti; parvuli petierunt panem, et non erat qui frangeret eis.
@@ -175,7 +167,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Daleth Adhæsit lingua lactentis ad palatum eius in siti: parvuli petierunt panem, et non erat qui frangeret eis.
   - `VulgConte (2009)`: Daleth Adhæsit lingua lactentis ad palatum eius in siti: parvuli petierunt panem, et non erat qui frangeret eis.
   - `VulgSistina (1590)`: Daleth Adhaesit lingua lactentis ad palatum eius in siti: parvuli petierunt panem, et non erat qui frangeret eis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** He Qui vescebantur voluptuose, interierunt in viis; qui nutriebantur in croceis, amplexati sunt stercora.
@@ -184,7 +176,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: He Qui vescebantur voluptuose, interierunt in viis: qui nutriebantur in croceis, amplexati sunt stercora.
   - `VulgConte (2009)`: He Qui vescebantur voluptuose, interierunt in viis: qui nutriebantur in croceis, amplexati sunt stercora.
   - `VulgSistina (1590)`: He Qui vescebantur voluptuose, interierunt in viis: qui nutriebantur in croceis, amplexati sunt stercora.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vau Et major effecta est iniquitas filiæ populi mei peccato Sodomorum, quæ subversa est in momento, et non ceperunt in ea manus.
@@ -193,7 +185,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vau Et maior effecta est iniquitas filiæ populi mei peccato Sodomorum, quæ subversa est in momento, et non ceperunt in ea manus.
   - `VulgConte (2009)`: Vau Et maior effecta est iniquitas filiæ populi mei peccato Sodomorum, quæ subversa est in momento, et non ceperunt in ea manus.
   - `VulgSistina (1590)`: Vau Et maior effecta est iniquitas filiae populi mei peccato Sodomorum, quae subversa est in momento, et non ceperunt in ea manus.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Zain Candidiores Nazaræi ejus nive, nitidiores lacte, rubicundiores ebore antiquo, sapphiro pulchriores.
@@ -202,7 +194,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Zain Candidiores Nazaræi eius nive, nitidiores lacte, rubicundiores ebore antiquo, sapphiro pulchriores.
   - `VulgConte (2009)`: Zain Candidiores Nazaræi eius nive, nitidiores lacte, rubicundiores ebore antiquo, sapphiro pulchriores.
   - `VulgSistina (1590)`: Zain Candidiores Nazaraei eius nive, nitidiores lacte, rubicundiores ebore antiquo, sapphiro pulchriores.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Heth Denigrata est super carbones facies eorum et non sunt cogniti in plateis; adhæsit cutis eorum ossibus: aruit, et facta est quasi lignum.
@@ -211,7 +203,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Heth Denigrata est super carbones facies eorum, et non sunt cogniti in plateis: adhæsit cutis eorum ossibus: aruit, et facta est quasi lignum.
   - `VulgConte (2009)`: Heth Denigrata est super carbones facies eorum, et non sunt cogniti in plateis: adhæsit cutis eorum ossibus: aruit, et facta est quasi lignum.
   - `VulgSistina (1590)`: Heth Denigrata est super carbones facies eorum, et non sunt cogniti in plateis: adhaesit cutis eorum ossibus: aruit, et facta est quasi lignum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Teth Melius fuit occisis gladio quam interfectis fame, quoniam isti extabuerunt consumpti a sterilitate terræ.
@@ -220,7 +212,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Teth Melius fuit occisis gladio, quam interfectis fame: quoniam isti extabuerunt consumpti a sterilitate terræ.
   - `VulgConte (2009)`: Teth Melius fuit occisis gladio, quam interfectis fame: quoniam isti extabuerunt consumpti a sterilitate terræ.
   - `VulgSistina (1590)`: Teth Melius fuit occisis gladio, quam interfectis fame: quoniam isti extabuerunt consumpti a sterilitate terrae.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Jod Manus mulierum misericordium coxerunt filios suos; facti sunt cibus earum in contritione filiæ populi mei.
@@ -229,7 +221,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iod Manus mulierum misericordium coxerunt filios suos: facti sunt cibus earum in contritione filiæ populi mei.
   - `VulgConte (2009)`: Iod Manus mulierum misericordium coxerunt filios suos: facti sunt cibus earum in contritione filiæ populi mei.
   - `VulgSistina (1590)`: Iod Manus mulierum misericordium coxerunt filios suos: facti sunt cibus earum in contritione filiae populi mei.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Caph Complevit Dominus furorem suum, effudit iram indignationis suæ: et succendit ignem in Sion, et devoravit fundamenta ejus.
@@ -238,7 +230,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Caph Complevit Dominus furorem suum, effudit iram indignationis suæ: et succendit ignem in Sion, et devoravit fundamenta eius.
   - `VulgConte (2009)`: Caph Complevit Dominus furorem suum, effudit iram indignationis suæ: et succendit ignem in Sion, et devoravit fundamenta eius.
   - `VulgSistina (1590)`: Caph Complevit Dominus furorem suum, effudit iram indignationis suae: et succendit ignem in Sion, et devoravit fundamenta eius.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Lamed Non crediderunt reges terræ, et universi habitatores orbis, quoniam ingrederetur hostis et inimicus per portas Jerusalem.
@@ -247,7 +239,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Lamed Non crediderunt reges terræ, et universi habitatores orbis, quoniam ingrederetur hostis et inimicus per portas Ierusalem:
   - `VulgConte (2009)`: Lamed Non crediderunt reges terræ, et universi habitatores orbis, quoniam ingrederetur hostis et inimicus per portas Ierusalem:
   - `VulgSistina (1590)`: Lamed Non crediderunt reges terrae, et universi habitatores orbis, quoniam ingrederetur hostis et inimicus per portas Ierusalem:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Mem Propter peccata prophetarum ejus, et iniquitates sacerdotum ejus, qui effuderunt in medio ejus sanguinem justorum.
@@ -256,7 +248,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Mem Propter peccata prophetarum eius, et iniquitates sacerdotum eius, qui effuderunt in medio eius sanguinem iustorum.
   - `VulgConte (2009)`: Mem Propter peccata prophetarum eius, et iniquitates sacerdotum eius, qui effuderunt in medio eius sanguinem iustorum.
   - `VulgSistina (1590)`: Mem Propter peccata prophetarum eius, et iniquitates sacerdotum eius, qui effuderunt in medio eius sanguinem iustorum.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nun Erraverunt cæci in plateis, polluti sunt in sanguine; cumque non possent, tenuerunt lacinias suas.
@@ -265,7 +257,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nun Erraverunt cæci in plateis, polluti sunt in sanguine: cumque non possent, tenuerunt lacinias suas.
   - `VulgConte (2009)`: Nun Erraverunt cæci in plateis, polluti sunt in sanguine: cumque non possent, tenuerunt lacinias suas.
   - `VulgSistina (1590)`: Nun Erraverunt caeci in plateis, polluti sunt in sanguine: cumque non possent intrare, tenuerunt lacinias suas.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Samech Recedite polluti, clamaverunt eis; recedite, abite, nolite tangere: jurgati quippe sunt, et commoti dixerunt inter gentes: Non addet ultra ut habitet in eis.
@@ -274,7 +266,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Samech Recedite polluti, clamaverunt eis: recedite, abite, nolite tangere: iurgati quippe sunt, et commoti dixerunt inter Gentes: Non addet ultra ut habitet in eis.
   - `VulgConte (2009)`: Samech Recedite polluti, clamaverunt eis: recedite, abite, nolite tangere: iurgati quippe sunt, et commoti dixerunt inter Gentes: Non addet ultra ut habitet in eis.
   - `VulgSistina (1590)`: Samech Recedite polluti, clamaverunt eis: recedite, abite, nolite tangere: iurgati quippe sunt, et commoti dixerunt inter Gentes: Non addet ultra ut habitet in eis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Phe Facies Domini divisit eos, non addet ut respiciat eos; facies sacerdotum non erubuerunt, neque senum miserti sunt.
@@ -283,7 +275,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Phe Facies Domini divisit eos, non addet ut respiciat eos: facies sacerdotum non erubuerunt, neque senum miserti sunt.
   - `VulgConte (2009)`: Phe Facies Domini divisit eos, non addet ut respiciat eos: facies sacerdotum non erubuerunt, neque senum miserti sunt.
   - `VulgSistina (1590)`: Phe Facies Domini divisit eos, non addet ut respiciat eos: facies sacerdotum non erubuerunt, neque senum miserti sunt.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ain Cum adhuc subsisteremus, defecerunt oculi nostri ad auxilium nostrum vanum; cum respiceremus attenti ad gentem quæ salvare non poterat.
@@ -292,7 +284,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ain Cum adhuc subsisteremus, defecerunt oculi nostri ad auxilium nostrum vanum, cum respiceremus attenti ad gentem, quæ salvare non poterat.
   - `VulgConte (2009)`: Ain Cum adhuc subsisteremus, defecerunt oculi nostri ad auxilium nostrum vanum, cum respiceremus attenti ad gentem, quæ salvare non poterat.
   - `VulgSistina (1590)`: Ain Cum adhuc subsisteremus, defecerunt oculi nostri ad auxilium nostrum vanum, cum respiceremus attenti ad gentem, quae salvare non poterat.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sade Lubricaverunt vestigia nostra in itinere platearum nostrarum; appropinquavit finis noster, completi sunt dies nostri, quia venit finis noster.
@@ -301,7 +293,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sade Lubricaverunt vestigia nostra in itinere platearum nostrarum, appropinquavit finis noster: completi sunt dies nostri, quia venit finis noster.
   - `VulgConte (2009)`: Sade Lubricaverunt vestigia nostra in itinere platearum nostrarum, appropinquavit finis noster: completi sunt dies nostri, quia venit finis noster.
   - `VulgSistina (1590)`: Sade Lubricaverunt vestigia nostra in itinere platearum nostrarum, appropinquavit finis noster: completi sunt dies nostri, quia venit finis noster.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Coph Velociores fuerunt persecutores nostri aquilis cæli; super montes persecuti sunt nos, in deserto insidiati sunt nobis.
@@ -310,7 +302,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Coph Velociores fuerunt persecutores nostri aquilis cæli: super montes persecuti sunt nos, in deserto insidiati sunt nobis.
   - `VulgConte (2009)`: Coph Velociores fuerunt persecutores nostri aquilis cæli: super montes persecuti sunt nos, in deserto insidiati sunt nobis.
   - `VulgSistina (1590)`: Coph Velociores fuerunt persecutores nostri aquilis caeli: super montes persecuti sunt nos, in deserto insidiati sunt nobis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Res Spiritus oris nostri, christus Dominus, captus est in peccatis nostris, cui diximus: In umbra tua vivemus in gentibus.
@@ -319,7 +311,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Res Spiritus oris nostri Christus Dominus captus est in peccatis nostris: cui diximus: In umbra tua vivemus in Gentibus.
   - `VulgConte (2009)`: Res Spiritus oris nostri Christus Dominus captus est in peccatis nostris: cui diximus: In umbra tua vivemus in Gentibus.
   - `VulgSistina (1590)`: Res Spiritus oris nostri Christus Dominus captus est in peccatis nostris: cui diximus: In umbra tua vivemus in Gentibus.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sin Gaude et lætare, filia Edom, quæ habitas in terra Hus! ad te quoque perveniet calix: inebriaberis, atque nudaberis.
@@ -328,7 +320,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sin Gaude, et lætare filia Edom, quæ habitas in Terra Hus: ad te quoque perveniet calix, inebriaberis, atque nudaberis.
   - `VulgConte (2009)`: Sin Gaude, et lætare filia Edom, quæ habitas in Terra Hus: ad te quoque perveniet calix, inebriaberis, atque nudaberis.
   - `VulgSistina (1590)`: Sin Gaude, et laetare filia Edom, quae habitas in Terra Hus: ad te quoque perveniet calix, inebriaberis, atque nudaberis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Thau Completa est iniquitas tua, filia Sion: non addet ultra ut transmigret te. Visitavit iniquitatem tuam, filia Edom; discooperuit peccata tua.
@@ -337,4 +329,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Thau Completa est iniquitas tua filia Sion, non addet ultra ut transmigret te: visitavit iniquitatem tuam filia Edom, discooperuit peccata tua.
   - `VulgConte (2009)`: Thau Completa est iniquitas tua filia Sion, non addet ultra ut transmigret te: visitavit iniquitatem tuam filia Edom, discooperuit peccata tua.
   - `VulgSistina (1590)`: Thau Completa est iniquitas tua filia Sion, non addet ultra ut transmigret te: visitavit iniquitatem tuam filia Edom, discooperuit peccata tua.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Normalised 1 surface variation(s) (Encoding difference between digital copies of the same printed edition (not a textual variant)).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

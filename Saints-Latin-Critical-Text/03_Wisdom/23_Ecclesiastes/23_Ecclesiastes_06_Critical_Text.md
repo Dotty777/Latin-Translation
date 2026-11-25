@@ -1,8 +1,8 @@
 # Ecclesiastes 06 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:29Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:08Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,22 +28,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
-- Clem1598-USFX: verse 7:1 moved to 6:12 across chapter break before re-division
-- VulgHetzenauer (1906): verse 7:1 moved to 6:12 across chapter break before re-division
-- VulgConte (2009): verse 7:1 moved to 6:12 across chapter break before re-division
-- VulgSistina (1590): verse 7:1 moved to 6:12 across chapter break before re-division
+- Clem-Saints: has verse(s) 12 that no voting edition prints here (an apparatus witness: not printed)
 
 ---
 
@@ -60,7 +48,6 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **9** Melius est videre quod cupias, quam desiderare quod nescias. Sed et hoc vanitas est, et præsumptio spiritus.
 **10** Qui futurus est, jam vocatum est nomen ejus; et scitur quod homo sit, et non possit contra fortiorem se in judicio contendere.
 **11** Verba sunt plurima, multamque in disputando habentia vanitatem.
-**12** Quid necesse est homini majora se quærere, cum ignoret quid conducat sibi in vita sua, numero dierum peregrinationis suæ, et tempore quod velut umbra præterit? aut quis ei poterit indicare quod post eum futurum sub sole sit?
 
 ---
 
@@ -80,7 +67,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Est et aliud malum, quod vidi sub sole, et quidem frequens apud homines:
   - `VulgConte (2009)`: Est et aliud malum, quod vidi sub sole, et quidem frequens apud homines:
   - `VulgSistina (1590)`: Est et aliud malum, quod vidi sub sole, et quidem frequens apud homines:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** vir cui dedit Deus divitias, et substantiam, et honorem, et nihil deest animæ suæ ex omnibus quæ desiderat; nec tribuit ei potestatem Deus ut comedat ex eo, sed homo extraneus vorabit illud: hoc vanitas et miseria magna est.
@@ -89,7 +76,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vir, cui dedit Deus divitias, et substantiam, et honorem, et nihil deest animæ suæ ex omnibus, quæ desiderat: nec tribuit ei potestatem Deus ut comedat ex eo, sed homo extraneus vorabit illud. hoc vanitas, et miseria magna est.
   - `VulgConte (2009)`: Vir, cui dedit Deus divitias, et substantiam, et honorem, et nihil deest animæ suæ ex omnibus, quæ desiderat: nec tribuit ei potestatem Deus ut comedat ex eo, sed homo extraneus vorabit illud. Hoc vanitas, et miseria magna est.
   - `VulgSistina (1590)`: Vir, cui dedit Deus divitias, et substantiam, et honorem, et nihil deest animae suae ex omnibus, quae desiderat: nec tribuit ei potestatem Deus ut comedat ex eo, sed homo extraneus vorabit illud. hoc vanitas, et miseria magna est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Si genuerit quispiam centum liberos, et vixerit multos annos, et plures dies ætatis habuerit, et anima illius non utatur bonis substantiæ suæ, sepulturaque careat: de hoc ergo pronuntio quod melior illo sit abortivus.
@@ -98,7 +85,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Si genuerit quispiam centum liberos, et vixerit multos annos, et plures dies ætatis habuerit, et anima illius non utatur bonis substantiæ suæ, sepulturaque careat: de hoc ergo pronuncio quod melior illo sit abortivus.
   - `VulgConte (2009)`: Si genuerit quispiam centum liberos, et vixerit multos annos, et plures dies ætatis habuerit, et anima illius non utatur bonis substantiæ suæ, sepulturaque careat: de hoc ergo pronuncio quod melior illo sit abortivus.
   - `VulgSistina (1590)`: Si genuerit quispiam centum liberos, et vixerit multos annos, et plures dies aetatis habuerit, et anima illius non utatur bonis substantiae suae, sepulturaque careat: de hoc ergo pronuncio quod melior illo sit abortivus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Frustra enim venit, et pergit ad tenebras, et oblivione delebitur nomen ejus.
@@ -107,7 +94,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Frustra enim venit, et pergit ad tenebras, et oblivione delebitur nomen eius.
   - `VulgConte (2009)`: Frustra enim venit, et pergit ad tenebras, et oblivione delebitur nomen eius.
   - `VulgSistina (1590)`: Frustra enim venit, et pergit ad tenebras, et oblivione delebitur nomen eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Non vidit solem, neque cognovit distantiam boni et mali.
@@ -116,7 +103,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Non vidit solem, neque cognovit distantiam boni et mali:
   - `VulgConte (2009)`: Non vidit solem, neque cognovit distantiam boni et mali:
   - `VulgSistina (1590)`: Non vidit solem, neque cognovit distantiam boni et mali:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Etiam si duobus millibus annis vixerit, et non fuerit perfruitus bonis, nonne ad unum locum properant omnia?
@@ -125,7 +112,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: etiam si duobus millibus annis vixerit, et non fuerit perfruitus bonis: nonne ad unum locum properant omnia?
   - `VulgConte (2009)`: etiam si duobus millibus annis vixerit, et non fuerit perfruitus bonis: nonne ad unum locum properant omnia?
   - `VulgSistina (1590)`: etiam si duobus millibus annis vixerit, et non fuerit perfruitus bonis: nonne ad unum locum properant omnia?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnis labor hominis in ore ejus; sed anima ejus non implebitur.
@@ -134,7 +121,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnis labor hominis in ore eius: sed anima eius non implebitur.
   - `VulgConte (2009)`: Omnis labor hominis in ore eius: sed anima eius non implebitur.
   - `VulgSistina (1590)`: Omnis labor hominis in ore eius: sed anima eius non implebitur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quid habet amplius sapiens a stulto? et quid pauper, nisi ut pergat illuc ubi est vita?
@@ -143,7 +130,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quid habet amplius sapiens a stulto? et quid pauper nisi ut pergat illuc, ubi est vita?
   - `VulgConte (2009)`: Quid habet amplius sapiens a stulto? Et quid pauper nisi ut pergat illuc, ubi est vita?
   - `VulgSistina (1590)`: Quid habet amplius sapiens a stulto? et quid pauper nisi ut pergat illuc, ubi est vita?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Melius est videre quod cupias, quam desiderare quod nescias. Sed et hoc vanitas est, et præsumptio spiritus.
@@ -152,7 +139,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Melius est videre quod cupias, quam desiderare quod nescias. sed et hoc vanitas est, et præsumptio spiritus.
   - `VulgConte (2009)`: Melius est videre quod cupias, quam desiderare quod nescias. Sed et hoc vanitas est, et præsumptio spiritus.
   - `VulgSistina (1590)`: Melius est videre quod cupias, quam desiderare quod nescias. sed et hoc vanitas est, et praesumptio spiritus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui futurus est, jam vocatum est nomen ejus; et scitur quod homo sit, et non possit contra fortiorem se in judicio contendere.
@@ -161,7 +148,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Qui futurus est, iam vocatum est nomen eius: et scitur quod homo sit, et non possit contra fortiorem se in iudicio contendere.
   - `VulgConte (2009)`: Qui futurus est, iam vocatum est nomen eius: et scitur quod homo sit, et non possit contra fortiorem se in iudicio contendere.
   - `VulgSistina (1590)`: Qui futurus est, iam vocatum est nomen eius: et scitur quod homo sit, et non possit contra fortiorem se in iudicio contendere.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Verba sunt plurima, multamque in disputando habentia vanitatem.
@@ -170,13 +157,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Verba sunt plurima, multamque in disputando habentia vanitatem.
   - `VulgConte (2009)`: Verba sunt plurima, multamque in disputando habentia vanitatem.
   - `VulgSistina (1590)`: Verba sunt plurima, multamque in disputando habentia vanitatem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
-
-### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Quid necesse est homini majora se quærere, cum ignoret quid conducat sibi in vita sua, numero dierum peregrinationis suæ, et tempore quod velut umbra præterit? aut quis ei poterit indicare quod post eum futurum sub sole sit?
-  - `Clem1598-USFX`: Quid necesse est homini majora se quærere, cum ignoret quid conducat sibi in vita sua, numero dierum peregrinationis suæ, et tempore quod velut umbra præterit? aut quis ei poterit indicare quod post eum futurum sub sole sit?
-  - `Clem-Saints`: Quid necesse est homini majora se quærere, cum ignoret quid conducat sibi in vita sua, numero dierum peregrinationis suæ, et tempore quod velut umbra præterit? aut quis ei poterit indicare quod post eum futurum sub sole sit?
-  - `VulgHetzenauer (1906)`: Quid necesse est homini maiora se quærere, cum ignoret quid conducat sibi in vita sua numero dierum peregrinationis suæ, et tempore, quod velut umbra præterit? Aut quis ei poterit indicare quod post eum futurum sub sole sit?
-  - `VulgConte (2009)`: Quid necesse est homini maiora se quærere, cum ignoret quid conducat sibi in vita sua numero dierum peregrinationis suæ, et tempore, quod velut umbra præterit? Aut quis ei poterit indicare quod post eum futurum sub sole sit?
-  - `VulgSistina (1590)`: Quid necesse est homini maiora se quaerere, cum ignoret quid conducat sibi in vita sua numero dierum peregrinationis suae, et tempore, quod velut umbra praeterit? Aut quis ei poterit indicare quod post eum futurum sub sole sit?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

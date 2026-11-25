@@ -1,8 +1,8 @@
 # Ezekiel 28 — Saints Latin Critical Text
 
-**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:31Z`
+**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:09Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -75,7 +66,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Ezekiel 28:16
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **sancto** VulgSistina (1590)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **sancto** VulgSistina (1590)
 
 ---
 
@@ -88,7 +79,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et factus est sermo Domini ad me, dicens:
   - `VulgConte (2009)`: Et factus est sermo Domini ad me, dicens:
   - `VulgSistina (1590)`: Et factus est sermo Domini ad me, dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Fili hominis, dic principi Tyri: Hæc dicit Dominus Deus: Eo quod elevatum est cor tuum, et dixisti: Deus ego sum, et in cathedra Dei sedi in corde maris, cum sis homo, et non deus: et dedisti cor tuum quasi cor Dei:
@@ -97,7 +88,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Fili hominis, dic principi Tyri: Hæc dicit Dominus Deus: Eo quod elevatum est cor tuum, et dixisti: Deus ego sum, et in cathedra Dei sedi in corde maris: cum sis homo, et non Deus, et dedisti cor tuum quasi cor Dei.
   - `VulgConte (2009)`: Fili hominis, dic principi Tyri: Hæc dicit Dominus Deus: Eo quod elevatum est cor tuum, et dixisti: Deus ego sum, et in cathedra Dei sedi in corde maris: cum sis homo, et non Deus, et dedisti cor tuum quasi cor Dei.
   - `VulgSistina (1590)`: Fili hominis, dic principi Tyri: Haec dicit Dominus Deus: Eo quod elevatum est cor tuum, et dixisti: Deus ego sum, et in cathedra Dei sedi in corde maris: cum sis homo, et non Deus, et dedisti cor tuum quasi cor Dei.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ecce sapientior es tu Daniele: omne secretum non est absconditum a te:
@@ -106,7 +97,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ecce sapientior es tu Daniele: omne secretum non est absconditum a te.
   - `VulgConte (2009)`: Ecce sapientior es tu Daniele: omne secretum non est absconditum a te.
   - `VulgSistina (1590)`: Ecce sapientior es tu Daniele: omne secretum non est absconditum a te.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** in sapientia et prudentia tua fecisti tibi fortitudinem, et acquisisti aurum et argentum in thesauris tuis:
@@ -115,7 +106,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In sapientia et prudentia tua fecisti tibi fortitudinem: et acquisisti aurum, et argentum in thesauris tuis.
   - `VulgConte (2009)`: In sapientia et prudentia tua fecisti tibi fortitudinem: et acquisisti aurum, et argentum in thesauris tuis.
   - `VulgSistina (1590)`: In sapientia et prudentia tua fecisti tibi fortitudinem: et acquisisti aurum, et argentum in thesauris tuis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** in multitudine sapientiæ tuæ, et in negotiatione tua multiplicasti tibi fortitudinem, et elevatum est cor tuum in robore tuo:
@@ -124,7 +115,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In multitudine sapientiæ tuæ, et in negotiatione tua multiplicasti tibi fortitudinem: et elevatum est cor tuum in robore tuo.
   - `VulgConte (2009)`: In multitudine sapientiæ tuæ, et in negotiatione tua multiplicasti tibi fortitudinem: et elevatum est cor tuum in robore tuo.
   - `VulgSistina (1590)`: In multitudine sapientiae tuae, et in negotiatione tua multiplicasti tibi fortitudinem: et elevatum est cor tuum in robore tuo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** propterea hæc dicit Dominus Deus: Eo quod elevatum est cor tuum quasi cor dei,
@@ -133,7 +124,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Propterea hæc dicit Dominus Deus: Eo quod elevatum est cor tuum quasi cor Dei:
   - `VulgConte (2009)`: Propterea hæc dicit Dominus Deus: Eo quod elevatum est cor tuum quasi cor Dei:
   - `VulgSistina (1590)`: Propterea haec dicit Dominus Deus: Eo quod elevatum est cor tuum quasi cor Dei:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** idcirco ecce ego adducam super te alienos, robustissimos gentium: et nudabunt gladios suos super pulchritudinem sapientiæ tuæ, et polluent decorem tuum.
@@ -142,7 +133,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: idcirco ecce ego adducam super te alienos robustissimos Gentium: et nudabunt gladios suos super pulchritudinem sapientiæ tuæ, et polluent decorem tuum.
   - `VulgConte (2009)`: idcirco ecce ego adducam super te alienos robustissimos Gentium: et nudabunt gladios suos super pulchritudinem sapientiæ tuæ, et polluent decorem tuum.
   - `VulgSistina (1590)`: idcirco ecce ego adducam super te alienos robustissimos Gentium: et nudabunt gladios suos super pulchritudinem sapientiae tuae, et polluent decorem tuum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Interficient, et detrahent te: et morieris in interitu occisorum in corde maris.
@@ -151,7 +142,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Interficient, et detrahent te: et morieris in interitu occisorum in corde maris.
   - `VulgConte (2009)`: Interficient, et detrahent te: et morieris in interitu occisorum in corde maris.
   - `VulgSistina (1590)`: Interficient, et detrahent te: et morieris in interitu occisorum in corde maris.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Numquid dicens loqueris: Deus ego sum, coram interficientibus te, cum sis homo, et non deus, in manu occidentium te?
@@ -160,7 +151,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Numquid dicens loqueris: Deus ego sum, coram interficientibus te: cum sis homo, et non Deus, in manu occidentium te?
   - `VulgConte (2009)`: Numquid dicens loqueris: Deus ego sum, coram interficientibus te: cum sis homo, et non Deus, in manu occidentium te?
   - `VulgSistina (1590)`: Numquid dicens loqueris: Deus ego sum, coram interficientibus te: cum sis homo, et non Deus, in manu occidentium te?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Morte incircumcisorum morieris in manu alienorum, quia ego locutus sum, ait Dominus Deus.
@@ -169,7 +160,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Morte incircumcisorum morieris in manu alienorum: quia ego locutus sum, ait Dominus Deus.
   - `VulgConte (2009)`: Morte incircumcisorum morieris in manu alienorum: quia ego locutus sum, ait Dominus Deus.
   - `VulgSistina (1590)`: Morte incircumcisorum morieris in manu alienorum: quia ego locutus sum, ait Dominus Deus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et factus est sermo Domini ad me, dicens: Fili hominis, leva planctum super regem Tyri,
@@ -178,7 +169,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et factus est sermo Domini ad me, dicens: Fili hominis leva planctum super regem Tyri:
   - `VulgConte (2009)`: Et factus est sermo Domini ad me, dicens: Fili hominis leva planctum super regem Tyri:
   - `VulgSistina (1590)`: Et factus est sermo Domini ad me, dicens: Fili hominis leva planctum super regem Tyri:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et dices ei: Hæc dicit Dominus Deus: Tu signaculum similitudinis, plenus sapientia, et perfectus decore.
@@ -187,7 +178,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et dices ei: Hæc dicit Dominus Deus: Tu signaculum similitudinis, plenus sapientia, et perfectus decore,
   - `VulgConte (2009)`: et dices ei: Hæc dicit Dominus Deus: Tu signaculum similitudinis, plenus sapientia, et perfectus decore,
   - `VulgSistina (1590)`: et dices ei: Haec dicit Dominus Deus: Tu signaculum similitudinis, plenus sapientia, et perfectus decore,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In deliciis paradisi Dei fuisti: omnis lapis pretiosus operimentum tuum, sardius, topazius, et jaspis, chrysolithus, et onyx, et beryllus, sapphirus, et carbunculus, et smaragdus: aurum, opus decoris tui: et foramina tua, in die qua conditus es, præparata sunt.
@@ -196,7 +187,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: in deliciis paradisi Dei fuisti: omnis lapis pretiosus operimentum tuum: sardius, topazius, et iaspis, chrysolithus, et onyx, et beryllus, sapphirus, et carbunculus, et smaragdus: aurum opus decoris tui: et foramina tua in die, qua conditus es, præparata sunt.
   - `VulgConte (2009)`: in deliciis Paradisi Dei fuisti: omnis lapis pretiosus operimentum tuum: sardius, topazius, et iaspis, chrysolithus, et onyx, et beryllus, sapphirus, et carbunculus, et smaragdus: aurum opus decoris tui: et foramina tua in die, qua conditus es, præparata sunt.
   - `VulgSistina (1590)`: in deliciis paradisi Dei fuisti: omnis lapis pretiosus operimentum tuum: sardius, topazius, et iaspis, chrysolithus, et onyx, et beryllus, sapphirus, et carbunculus, et smaragdus: aurum opus decoris tui: et foramina tua in die, qua conditus es, praeparata sunt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tu cherub extentus, et protegens, et posui te in monte sancto Dei: in medio lapidum ignitorum ambulasti,
@@ -205,7 +196,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tu cherub extentus, et protegens, et posui te in monte sancto Dei, in medio lapidum ignitorum ambulasti.
   - `VulgConte (2009)`: Tu cherub extentus, et protegens, et posui te in monte sancto Dei, in medio lapidum ignitorum ambulasti.
   - `VulgSistina (1590)`: Tu cherub extentus, et protegens, et posui te in monte sancto Dei, in medio lapidum ignitorum ambulasti.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** perfectus in viis tuis a die conditionis tuæ, donec inventa est iniquitas in te.
@@ -214,7 +205,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Perfectus in viis tuis a die conditionis tuæ, donec inventa est iniquitas in te.
   - `VulgConte (2009)`: Perfectus in viis tuis a die conditionis tuæ, donec inventa est iniquitas in te.
   - `VulgSistina (1590)`: Perfectus in viis tuis a die conditionis tuae, donec inventa est iniquitas in te.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In multitudine negotiationis tuæ repleta sunt interiora tua iniquitate, et peccasti: et ejeci te de monte Dei, et perdidi te, o cherub protegens, de medio lapidum ignitorum.
@@ -223,7 +214,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In multitudine negotiationis tuæ repleta sunt interiora tua iniquitate, et peccasti: et eieci te de monte Dei, et perdidi te, o cherub protegens, de medio lapidum ignitorum.
   - `VulgConte (2009)`: In multitudine negotiationis tuæ repleta sunt interiora tua iniquitate, et peccasti: et eieci te de monte Dei, et perdidi te, o cherub protegens, de medio lapidum ignitorum.
   - `VulgSistina (1590)`: In multitudine negotiationis tuae repleta sunt interiora tua iniquitate, et peccasti: et eieci te de monte sancto Dei, et perdidi te, o cherub protegens, de medio lapidum ignitorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et elevatum est cor tuum in decore tuo; perdidisti sapientiam tuam in decore tuo: in terram projeci te; ante faciem regum dedi te ut cernerent te.
@@ -232,7 +223,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et elevatum est cor tuum in decore tuo: perdidisti sapientiam tuam in decore tuo, in terram proieci te: ante faciem regum dedi te ut cernerent te.
   - `VulgConte (2009)`: Et elevatum est cor tuum in decore tuo: perdidisti sapientiam tuam in decore tuo, in terram proieci te: ante faciem regum dedi te ut cernerent te.
   - `VulgSistina (1590)`: Et elevatum est cor tuum in decore tuo: perdidisti sapientiam tuam in decore tuo, in terram proieci te: ante faciem regum dedi te ut cernerent te.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In multitudine iniquitatum tuarum, et iniquitate negotiationis tuæ, polluisti sanctificationem tuam: producam ergo ignem de medio tui, qui comedat te, et dabo te in cinerem super terram, in conspectu omnium videntium te.
@@ -241,7 +232,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In multitudine iniquitatum tuarum, et iniquitate negotiationis tuæ polluisti sanctificationem tuam: producam ergo ignem de medio tui, qui comedat te, et dabo te in cinerem super terram in conspectu omnium videntium te.
   - `VulgConte (2009)`: In multitudine iniquitatum tuarum, et iniquitate negotiationis tuæ polluisti sanctificationem tuam: producam ergo ignem de medio tui, qui comedat te, et dabo te in cinerem super terram in conspectu omnium videntium te.
   - `VulgSistina (1590)`: In multitudine iniquitatum tuarum, et iniquitate negotiationis tuae polluisti sanctificationem tuam: producam ergo ignem de medio tui, qui comedat te, et dabo te in cinerem super terram in conspectu omnium videntium te.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnes qui viderint te in gentibus, obstupescent super te: nihili factus es, et non eris in perpetuum.
@@ -250,7 +241,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnes, qui viderint te in Gentibus, obstupescent super te: nihili factus es, et non eris in perpetuum.
   - `VulgConte (2009)`: Omnes, qui viderint te in Gentibus, obstupescent super te: nihili factus es, et non eris in perpetuum.
   - `VulgSistina (1590)`: Omnes, qui viderint te in Gentibus, obstupescent super te: nihili factus es, et non eris in perpetuum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et factus est sermo Domini ad me, dicens:
@@ -259,7 +250,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et factus est sermo Domini ad me, dicens:
   - `VulgConte (2009)`: Et factus est sermo Domini ad me, dicens:
   - `VulgSistina (1590)`: Et factus est sermo Domini ad me, dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Fili hominis, pone faciem tuam contra Sidonem, et prophetabis de ea:
@@ -268,7 +259,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Fili hominis pone faciem tuam contra Sidonem: et prophetabis de ea,
   - `VulgConte (2009)`: Fili hominis pone faciem tuam contra Sidonem: et prophetabis de ea,
   - `VulgSistina (1590)`: Fili hominis pone faciem tuam contra Sidonem: et prophetabis de ea,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et dices: Hæc dicit Dominus Deus: Ecce ego ad te, Sidon, et glorificabor in medio tui: et scient quia ego Dominus, cum fecero in ea judicia, et sanctificatus fuero in ea.
@@ -277,7 +268,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et dices: Hæc dicit Dominus Deus: Ecce ego ad te Sidon, et glorificabor in medio tui: et scient quia ego Dominus, cum fecero in ea iudicia, et sanctificatus fuero in ea.
   - `VulgConte (2009)`: et dices: Hæc dicit Dominus Deus: Ecce ego ad te Sidon, et glorificabor in medio tui: et scient quia ego Dominus, cum fecero in ea iudicia, et sanctificatus fuero in ea.
   - `VulgSistina (1590)`: et dices: Haec dicit Dominus Deus: Ecce ego ad te Sidon, et glorificabor in medio tui: et scient quia ego Dominus, cum fecero in ea iudicia, et sanctificatus fuero in ea.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et immittam ei pestilentiam, et sanguinem in plateis ejus: et corruent interfecti in medio ejus gladio per circuitum, et scient quia ego Dominus.
@@ -286,7 +277,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et immittam ei pestilentiam, et sanguinem in plateis eius: et corruent interfecti in medio eius gladio per circuitum: et scient quia ego Dominus.
   - `VulgConte (2009)`: Et immittam ei pestilentiam, et sanguinem in plateis eius: et corruent interfecti in medio eius gladio per circuitum: et scient quia ego Dominus.
   - `VulgSistina (1590)`: Et immittam ei pestilentiam, et sanguinem in plateis eius: et corruent interfecti in medio eius gladio per circuitum: et scient quia ego Dominus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et non erit ultra domui Israël offendiculum amaritudinis, et spina dolorem inferens undique per circuitum eorum qui adversantur eis: et scient quia ego Dominus Deus.
@@ -295,7 +286,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et non erit ultra domui Israel offendiculum amaritudinis, et spina dolorem inferens undique per circuitum eorum, qui adversantur eis: et scient quia ego Dominus Deus.
   - `VulgConte (2009)`: Et non erit ultra domui Israel offendiculum amaritudinis, et spina dolorem inferens undique per circuitum eorum, qui adversantur eis: et scient quia ego Dominus Deus.
   - `VulgSistina (1590)`: Et non erit ultra domui Israel offendiculum amaritudinis, et spina dolorem inferens undique per circuitum eorum, qui adversantur eis: et scient quia ego Dominus Deus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæc dicit Dominus Deus: Quando congregavero domum Israël de populis in quibus dispersi sunt, sanctificabor in eis coram gentibus: et habitabunt in terra sua, quam dedi servo meo Jacob:
@@ -304,7 +295,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hæc dicit Dominus Deus: Quando congregavero domum Israel de populis, in quibus dispersi sunt, sanctificabor in eis coram Gentibus: et habitabunt in terra sua, quam dedi servo meo Iacob.
   - `VulgConte (2009)`: Hæc dicit Dominus Deus: Quando congregavero domum Israel de populis, in quibus dispersi sunt, sanctificabor in eis coram Gentibus: et habitabunt in terra sua, quam dedi servo meo Iacob.
   - `VulgSistina (1590)`: Haec dicit Dominus Deus: Quando congregavero domum Israel de populis, in quibus dispersi sunt, sanctificabor in eis coram Gentibus: et habitabunt in terra sua, quam dedi servo meo Iacob.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et habitabunt in ea securi, et ædificabunt domos, et plantabunt vineas, et habitabunt confidenter, cum fecero judicia in omnibus qui adversantur eis per circuitum: et scient quia ego Dominus Deus eorum.
@@ -313,4 +304,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et habitabunt in ea securi: et ædificabunt domos, et plantabunt vineas, et habitabunt confidenter, cum fecero iudicia in omnibus, qui adversantur eis per circuitum: et scient quia ego Dominus Deus eorum.
   - `VulgConte (2009)`: Et habitabunt in ea securi: et ædificabunt domos, et plantabunt vineas, et habitabunt confidenter, cum fecero iudicia in omnibus, qui adversantur eis per circuitum: et scient quia ego Dominus Deus eorum.
   - `VulgSistina (1590)`: Et habitabunt in ea securi: et aedificabunt domos, et plantabunt vineas, et habitabunt confidenter, cum fecero iudicia in omnibus, qui adversantur eis per circuitum: et scient quia ego Dominus Deus eorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

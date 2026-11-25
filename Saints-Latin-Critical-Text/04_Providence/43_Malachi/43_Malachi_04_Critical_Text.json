@@ -1,0 +1,267 @@
+{
+  "edition": "Saints Latin Critical Text",
+  "language": "latin",
+  "division": "04_Providence",
+  "book_slug": "malachi",
+  "book_title": "Malachi",
+  "usfm_code": "MAL",
+  "chapter": 4,
+  "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+  "updated_at": "2026-11-25T00:08:09Z",
+  "versification": "Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py.",
+  "versification_anchor": "Clem1598-USFX",
+  "orthographic_base": "Clem1598-USFX",
+  "versification_notes": [
+    "Clem-Saints: 6 verse(s) re-aligned by content (1←3:19, 2←3:20, 3←3:21, 4←3:24, 5←3:22, 6←3:23)"
+  ],
+  "admitted_witnesses": [
+    {
+      "siglum": "Clem1598-USFX",
+      "title": "Sixto-Clementine Vulgate (1598 Official Edition, USFX)",
+      "tier": 1,
+      "weight": 0.88,
+      "license": "Public Domain"
+    }
+  ],
+  "apparatus_witnesses": [
+    {
+      "siglum": "Clem-Saints",
+      "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgHetzenauer (1906)",
+      "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
+      "tier": 1,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgConte (2009)",
+      "title": "Vulgata Clementina — Conte SacredBible Edition (2009)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
+    {
+      "siglum": "VulgSistina (1590)",
+      "title": "Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590)",
+      "tier": 3,
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    }
+  ],
+  "verses": [
+    {
+      "id": 500114,
+      "verse": 1,
+      "critical_text": "Ecce enim dies veniet succensa quasi caminus: et erunt omnes superbi et omnes facientes impietatem stipula: et inflammabit eos dies veniens, dicit Dominus exercituum, quæ non derelinquet eis radicem et germen.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ecce enim dies veniet succensa quasi caminus: et erunt omnes superbi et omnes facientes impietatem stipula: et inflammabit eos dies veniens, dicit Dominus exercituum, quæ non derelinquet eis radicem et germen.",
+        "Clem-Saints": "Ecce enim dies veniet succensa quasi caminus: et erunt omnes superbi et omnes facientes impietatem stipula: et inflammabit eos dies veniens, dicit Dominus exercituum, quæ non derelinquet eis radicem et germen.",
+        "VulgHetzenauer (1906)": "Ecce enim dies veniet succensa quasi caminus: et erunt omnes superbi, et omnes facientes impietatem stipula: et inflammabit eos dies veniens, dicit Dominus exercituum, quæ non derelinquet eis radicem, et germen.",
+        "VulgConte (2009)": "Ecce enim dies veniet succensa quasi caminus: et erunt omnes superbi, et omnes facientes impietatem stipula: et inflammabit eos dies veniens, dicit Dominus exercituum, quæ non derelinquet eis radicem, et germen.",
+        "VulgSistina (1590)": "Ecce enim dies veniet succensa quasi caminus: et erunt omnes superbi, et omnes facientes impietatem stipula: et inflammabit eos dies veniens, dicit Dominus exercituum, quae non derelinquet eis radicem, et germen."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "3:19"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 500115,
+      "verse": 2,
+      "critical_text": "Et orietur vobis timentibus nomen meum sol justitiæ, et sanitas in pennis ejus: et egrediemini, et salietis sicut vituli de armento.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et orietur vobis timentibus nomen meum sol justitiæ, et sanitas in pennis ejus: et egrediemini, et salietis sicut vituli de armento.",
+        "Clem-Saints": "Et orietur vobis timentibus nomen meum sol justitiæ, et sanitas in pennis ejus: et egrediemini, et salietis sicut vituli de armento.",
+        "VulgHetzenauer (1906)": "Et orietur vobis timentibus nomen meum Sol iustitiæ, et sanitas in pennis eius: et egrediemini, et salietis sicut vituli de armento.",
+        "VulgConte (2009)": "Et orietur vobis timentibus nomen meum Sol iustitiæ, et sanitas in pennis eius: et egrediemini, et salietis sicut vituli de armento.",
+        "VulgSistina (1590)": "Et orietur vobis timentibus nomen meum Sol iustitiae, et sanitas in pennis eius: et egrediemini, et salietis sicut vituli de armento."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "3:20"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 500116,
+      "verse": 3,
+      "critical_text": "Et calcabitis impios, cum fuerint cinis sub planta pedum vestrorum, in die qua ego facio, dicit Dominus exercituum.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et calcabitis impios, cum fuerint cinis sub planta pedum vestrorum, in die qua ego facio, dicit Dominus exercituum.",
+        "Clem-Saints": "Et calcabitis impios, cum fuerint cinis sub planta pedum vestrorum, in die qua ego facio, dicit Dominus exercituum.",
+        "VulgHetzenauer (1906)": "Et calcabitis impios, cum fuerint cinis sub planta pedum vestrorum in die, qua ego facio, dicit Dominus exercituum.",
+        "VulgConte (2009)": "Et calcabitis impios, cum fuerint cinis sub planta pedum vestrorum in die, qua ego facio, dicit Dominus exercituum.",
+        "VulgSistina (1590)": "Et calcabitis impios, cum fuerint cinis sub planta pedum vestrorum in die, qua ego facio, dicit Dominus exercituum."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "3:21"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 500117,
+      "verse": 4,
+      "critical_text": "Mementote legis Moysi servi mei, quam mandavi ei in Horeb ad omnem Israël, præcepta et judicia.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Mementote legis Moysi servi mei, quam mandavi ei in Horeb ad omnem Israël, præcepta et judicia.",
+        "Clem-Saints": "Mementote legis Moysi servi mei, quam mandavi ei in Horeb ad omnem Israël, præcepta et judicia.",
+        "VulgHetzenauer (1906)": "Mementote legis Moysi servi mei, quam mandavi ei in Horeb ad omnem Israel præcepta, et iudicica.",
+        "VulgConte (2009)": "Mementote legis Moysi servi mei, quam mandavi ei in Horeb ad omnem Israel præcepta, et iudicica.",
+        "VulgSistina (1590)": "Mementote legis Moysi servi mei, quam mandavi ei in Horeb ad omnem Israel praecepta, et iudicia."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "3:24"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [
+        {
+          "slot_index": -1,
+          "lemma": "judicia.",
+          "lemma_witnesses": [
+            "Clem1598-USFX",
+            "Clem-Saints",
+            "VulgSistina (1590)"
+          ],
+          "variants": [
+            {
+              "reading": "iudicica.",
+              "witnesses": [
+                "VulgConte (2009)",
+                "VulgHetzenauer (1906)"
+              ],
+              "weight_sum": 0.0
+            }
+          ],
+          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
+          "word_index": 15,
+          "word_count": 1,
+          "kind": "word",
+          "variant_type": "",
+          "analysis": [],
+          "lemma_key": "iudicia",
+          "confidence": 0.99,
+          "credited_witnesses": []
+        }
+      ],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 500118,
+      "verse": 5,
+      "critical_text": "Ecce ego mittam vobis Eliam prophetam, antequam veniat dies Domini magnus et horribilis.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ecce ego mittam vobis Eliam prophetam, antequam veniat dies Domini magnus et horribilis.",
+        "Clem-Saints": "Ecce ego mittam vobis Eliam prophetam, antequam veniat dies Domini magnus et horribilis.",
+        "VulgHetzenauer (1906)": "Ecce ego mittam vobis Eliam prophetam, antequam veniat dies Domini magnus, et horribilis.",
+        "VulgConte (2009)": "Ecce ego mittam vobis Eliam prophetam, antequam veniat dies Domini magnus, et horribilis.",
+        "VulgSistina (1590)": "Ecce ego mittam vobis Eliam prophetam, antequam veniat dies Domini magnus, et horribilis."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "3:22"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 500119,
+      "verse": 6,
+      "critical_text": "Et convertet cor patrum ad filios, et cor filiorum ad patres eorum: ne forte veniam, et percutiam terram anathemate.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Et convertet cor patrum ad filios, et cor filiorum ad patres eorum: ne forte veniam, et percutiam terram anathemate.",
+        "Clem-Saints": "Et convertet cor patrum ad filios, et cor filiorum ad patres eorum: ne forte veniam, et percutiam terram anathemate.",
+        "VulgHetzenauer (1906)": "Et convertet cor patrum ad filios, et cor filiorum ad patres eorum: ne forte veniam, et percutiam terram anathemate.",
+        "VulgConte (2009)": "Et convertet cor patrum ad filios, et cor filiorum ad patres eorum: ne forte veniam, et percutiam terram anathemate.",
+        "VulgSistina (1590)": "Et convertet cor patrum ad filios, et cor filiorum ad patres eorum: ne forte veniam, et percutiam terram anathemate."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "3:23"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    }
+  ]
+}

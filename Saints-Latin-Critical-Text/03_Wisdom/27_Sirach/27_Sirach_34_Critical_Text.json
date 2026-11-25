@@ -7,34 +7,15 @@
   "usfm_code": "SIR",
   "chapter": 34,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-22T08:01:50Z",
-  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
-  "versification_anchor": "Clem-Saints",
+  "updated_at": "2026-11-25T00:08:08Z",
+  "versification": "Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py.",
+  "versification_anchor": "Clem1598-USFX",
   "orthographic_base": "Clem1598-USFX",
   "versification_notes": [
-    "Clem1598-USFX: 34:11 not collated (no verse of the reference matches its wording)",
-    "Clem1598-USFX: 34:15 not collated (no verse of the reference matches its wording)",
-    "Clem1598-USFX: 34:18 not collated (no verse of the reference matches its wording)",
-    "Clem1598-USFX: 34:22 not collated (no verse of the reference matches its wording)",
-    "Clem1598-USFX: 16 verse(s) re-aligned by content (11←34:12, 12←34:13, 13←34:14, 14←34:16, 15←34:17, 16←34:19…)",
+    "Clem-Saints: 16 verse(s) re-aligned by content (12←34:11, 13←34:12, 14←34:13, 16←34:14, 17←34:15, 19←34:16…)",
     "VulgHetzenauer (1906): verse 33:2 runs into its neighbour across the anchor's division between 33:1 and 33:2; re-divided there",
-    "VulgHetzenauer (1906): 34:11 not collated (no verse of the reference matches its wording)",
-    "VulgHetzenauer (1906): 34:15 not collated (no verse of the reference matches its wording)",
-    "VulgHetzenauer (1906): 34:18 not collated (no verse of the reference matches its wording)",
-    "VulgHetzenauer (1906): 34:22 not collated (no verse of the reference matches its wording)",
-    "VulgHetzenauer (1906): 16 verse(s) re-aligned by content (11←34:12, 12←34:13, 13←34:14, 14←34:16, 15←34:17, 16←34:19…)",
     "VulgConte (2009): verse 33:2 runs into its neighbour across the anchor's division between 33:1 and 33:2; re-divided there",
-    "VulgConte (2009): 34:11 not collated (no verse of the reference matches its wording)",
-    "VulgConte (2009): 34:15 not collated (no verse of the reference matches its wording)",
-    "VulgConte (2009): 34:18 not collated (no verse of the reference matches its wording)",
-    "VulgConte (2009): 34:22 not collated (no verse of the reference matches its wording)",
-    "VulgConte (2009): 16 verse(s) re-aligned by content (11←34:12, 12←34:13, 13←34:14, 14←34:16, 15←34:17, 16←34:19…)",
-    "VulgSistina (1590): verse 33:2 runs into its neighbour across the anchor's division between 33:1 and 33:2; re-divided there",
-    "VulgSistina (1590): 34:11 not collated (no verse of the reference matches its wording)",
-    "VulgSistina (1590): 34:15 not collated (no verse of the reference matches its wording)",
-    "VulgSistina (1590): 34:18 not collated (no verse of the reference matches its wording)",
-    "VulgSistina (1590): 34:22 not collated (no verse of the reference matches its wording)",
-    "VulgSistina (1590): 16 verse(s) re-aligned by content (11←34:12, 12←34:13, 13←34:14, 14←34:16, 15←34:17, 16←34:19…)"
+    "VulgSistina (1590): verse 33:2 runs into its neighbour across the anchor's division between 33:1 and 33:2; re-divided there"
   ],
   "admitted_witnesses": [
     {
@@ -43,16 +24,16 @@
       "tier": 1,
       "weight": 0.88,
       "license": "Public Domain"
-    },
+    }
+  ],
+  "apparatus_witnesses": [
     {
       "siglum": "Clem-Saints",
       "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
       "tier": 1,
-      "weight": 0.86,
-      "license": "Public Domain"
-    }
-  ],
-  "apparatus_witnesses": [
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
     {
       "siglum": "VulgHetzenauer (1906)",
       "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
@@ -92,14 +73,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -120,14 +101,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -148,7 +129,7 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -158,8 +139,8 @@
           "slot_index": -1,
           "lemma": "om.",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
           ],
@@ -184,7 +165,7 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -205,14 +186,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -233,14 +214,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -261,14 +242,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -289,14 +270,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -317,14 +298,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -345,14 +326,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -373,14 +354,14 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -388,6 +369,32 @@
     {
       "id": 82115,
       "verse": 11,
+      "critical_text": "Qui tentatus non est qualia scit? qui implanatus est abundabit nequitia.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui tentatus non est qualia scit? qui implanatus est abundabit nequitia.",
+        "VulgHetzenauer (1906)": "Qui tentatus non est, qualia scit? qui implanatus est, abundabit nequitia.",
+        "VulgConte (2009)": "Qui tentatus non est, qualia scit? Qui implanatus est, abundabit nequitia.",
+        "VulgSistina (1590)": "Qui tentatus non est, qualia scit? qui implanatus est, abundabit nequitia."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82116,
+      "verse": 12,
       "critical_text": "Multa vidi errando, et plurimas verborum consuetudines.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -400,27 +407,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "34:12",
-        "VulgHetzenauer (1906)": "34:12",
-        "VulgConte (2009)": "34:12",
-        "VulgSistina (1590)": "34:12"
+        "Clem-Saints": "34:11"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:12 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 82116,
-      "verse": 12,
+      "id": 82117,
+      "verse": 13,
       "critical_text": "Aliquoties usque ad mortem periclitatus sum horum causa, et liberatus sum gratia Dei.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -433,27 +437,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "34:13",
-        "VulgHetzenauer (1906)": "34:13",
-        "VulgConte (2009)": "34:13",
-        "VulgSistina (1590)": "34:13"
+        "Clem-Saints": "34:12"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:13 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 82117,
-      "verse": 13,
+      "id": 82118,
+      "verse": 14,
       "critical_text": "Spiritus timentium Deum quæritur, et in respectu illius benedicetur.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -466,27 +467,50 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "34:14",
-        "VulgHetzenauer (1906)": "34:14",
-        "VulgConte (2009)": "34:14",
-        "VulgSistina (1590)": "34:14"
+        "Clem-Saints": "34:13"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:14 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 82118,
-      "verse": 14,
+      "id": 82119,
+      "verse": 15,
+      "critical_text": "Spes enim illorum in salvantem illos, et oculi Dei in diligentes se.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Spes enim illorum in salvantem illos, et oculi Dei in diligentes se.",
+        "VulgHetzenauer (1906)": "Spes enim illorum in salvantem illos, et oculi Dei in diligentes se.",
+        "VulgConte (2009)": "Spes enim illorum in salvantem illos, et oculi Dei in diligentes se.",
+        "VulgSistina (1590)": "Spes enim illorum in salvantem illos, et oculi Dei in diligentes se."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82120,
+      "verse": 16,
       "critical_text": "Qui timet Dominum nihil trepidabit: et non pavebit, quoniam ipse est spes ejus.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -499,27 +523,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "34:16",
-        "VulgHetzenauer (1906)": "34:16",
-        "VulgConte (2009)": "34:16",
-        "VulgSistina (1590)": "34:16"
+        "Clem-Saints": "34:14"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:16 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 82119,
-      "verse": 15,
+      "id": 82121,
+      "verse": 17,
       "critical_text": "Timentis Dominum, beata est anima ejus.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -532,27 +553,50 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "34:17",
-        "VulgHetzenauer (1906)": "34:17",
-        "VulgConte (2009)": "34:17",
-        "VulgSistina (1590)": "34:17"
+        "Clem-Saints": "34:15"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:17 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 82120,
-      "verse": 16,
+      "id": 82122,
+      "verse": 18,
+      "critical_text": "Ad quem respicit, et quis est fortitudo ejus?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Ad quem respicit, et quis est fortitudo ejus?",
+        "VulgHetzenauer (1906)": "Ad quem respicit, et quis est fortitudo eius?",
+        "VulgConte (2009)": "Ad quem respicit, et quis est fortitudo eius?",
+        "VulgSistina (1590)": "Ad quem respicit, et quis est fortitudo eius?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82123,
+      "verse": 19,
       "critical_text": "Oculi Domini super timentes eum: protector potentiæ, firmamentum virtutis, tegimen ardoris, et umbraculum meridiani:",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -565,27 +609,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "34:19",
-        "VulgHetzenauer (1906)": "34:19",
-        "VulgConte (2009)": "34:19",
-        "VulgSistina (1590)": "34:19"
+        "Clem-Saints": "34:16"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:19 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 82121,
-      "verse": 17,
+      "id": 82124,
+      "verse": 20,
       "critical_text": "deprecatio offensionis, et adjutorium casus: exaltans animam, et illuminans oculos, dans sanitatem, et vitam, et benedictionem.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -598,27 +639,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "34:20",
-        "VulgHetzenauer (1906)": "34:20",
-        "VulgConte (2009)": "34:20",
-        "VulgSistina (1590)": "34:20"
+        "Clem-Saints": "34:17"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:20 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 82122,
-      "verse": 18,
+      "id": 82125,
+      "verse": 21,
       "critical_text": "Immolantis ex iniquo oblatio est maculata, et non sunt beneplacitæ subsannationes injustorum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -631,27 +669,50 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "34:21",
-        "VulgHetzenauer (1906)": "34:21",
-        "VulgConte (2009)": "34:21",
-        "VulgSistina (1590)": "34:21"
+        "Clem-Saints": "34:18"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:21 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 82123,
-      "verse": 19,
+      "id": 82126,
+      "verse": 22,
+      "critical_text": "Dominus solus sustinentibus se in via veritatis et justitiæ.",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Dominus solus sustinentibus se in via veritatis et justitiæ.",
+        "VulgHetzenauer (1906)": "Dominus solus sustinentibus se in via veritatis et iustitiæ.",
+        "VulgConte (2009)": "Dominus solus sustinentibus se in via veritatis et iustitiæ.",
+        "VulgSistina (1590)": "Dominus solus sustinentibus se in via veritatis et iustitiae."
+      },
+      "absent_witnesses": [],
+      "witness_refs": {},
+      "apparatus_witnesses": [
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 82127,
+      "verse": 23,
       "critical_text": "Dona iniquorum non probat Altissimus, nec respicit in oblationes iniquorum, nec in multitudine sacrificiorum eorum propitiabitur peccatis.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -664,27 +725,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "34:23",
-        "VulgHetzenauer (1906)": "34:23",
-        "VulgConte (2009)": "34:23",
-        "VulgSistina (1590)": "34:23"
+        "Clem-Saints": "34:19"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:23 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 82124,
-      "verse": 20,
+      "id": 82128,
+      "verse": 24,
       "critical_text": "Qui offert sacrificium ex substantia pauperum, quasi qui victimat filium in conspectu patris sui.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -697,27 +755,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "34:24",
-        "VulgHetzenauer (1906)": "34:24",
-        "VulgConte (2009)": "34:24",
-        "VulgSistina (1590)": "34:24"
+        "Clem-Saints": "34:20"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:24 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 82125,
-      "verse": 21,
+      "id": 82129,
+      "verse": 25,
       "critical_text": "Panis egentium vita pauperum est: qui defraudat illum homo sanguinis est.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -730,27 +785,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "34:25",
-        "VulgHetzenauer (1906)": "34:25",
-        "VulgConte (2009)": "34:25",
-        "VulgSistina (1590)": "34:25"
+        "Clem-Saints": "34:21"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:25 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 82126,
-      "verse": 22,
+      "id": 82130,
+      "verse": 26,
       "critical_text": "Qui aufert in sudore panem, quasi qui occidit proximum suum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -763,152 +815,17 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "34:26",
-        "VulgHetzenauer (1906)": "34:26",
-        "VulgConte (2009)": "34:26",
-        "VulgSistina (1590)": "34:26"
+        "Clem-Saints": "34:22"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:26 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 82127,
-      "verse": 23,
-      "critical_text": "Unus ædificans, et unus destruens: quid prodest illis, nisi labor?",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Unus ædificans, et unus destruens: quid prodest illis, nisi labor?",
-        "Clem-Saints": "Unus ædificans, et unus destruens: quid prodest illis, nisi labor?",
-        "VulgHetzenauer (1906)": "Unus ædificans, et unus destruens: quid prodest illis nisi labor?",
-        "VulgConte (2009)": "Unus ædificans, et unus destruens: quid prodest illis nisi labor?",
-        "VulgSistina (1590)": "Unus aedificans, et unus destruens: quid prodest illis nisi labor?"
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "34:28",
-        "VulgHetzenauer (1906)": "34:28",
-        "VulgConte (2009)": "34:28",
-        "VulgSistina (1590)": "34:28"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:28 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 82128,
-      "verse": 24,
-      "critical_text": "Unus orans, et unus maledicens: cujus vocem exaudiet Deus?",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Unus orans, et unus maledicens: cujus vocem exaudiet Deus?",
-        "Clem-Saints": "Unus orans, et unus maledicens: cujus vocem exaudiet Deus?",
-        "VulgHetzenauer (1906)": "Unus orans, et unus maledicens: cuius vocem exaudiet Deus?",
-        "VulgConte (2009)": "Unus orans, et unus maledicens: cuius vocem exaudiet Deus?",
-        "VulgSistina (1590)": "Unus orans, et unus maledicens: cuius vocem exaudiet Deus?"
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "34:29",
-        "VulgHetzenauer (1906)": "34:29",
-        "VulgConte (2009)": "34:29",
-        "VulgSistina (1590)": "34:29"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:29 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 82129,
-      "verse": 25,
-      "critical_text": "Qui baptizatur a mortuo, et iterum tangit eum, quid proficit lavatio illius?",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Qui baptizatur a mortuo, et iterum tangit eum, quid proficit lavatio illius?",
-        "Clem-Saints": "Qui baptizatur a mortuo, et iterum tangit eum, quid proficit lavatio illius?",
-        "VulgHetzenauer (1906)": "Qui baptizatur a mortuo, et iterum tangit eum, quid proficit lavatio illius?",
-        "VulgConte (2009)": "Qui baptizatur a mortuo, et iterum tangit eum, quid proficit lavatio illius?",
-        "VulgSistina (1590)": "Qui baptizatur a mortuo, et iterum tangit eum, quid proficit lavatio illius?"
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "34:30",
-        "VulgHetzenauer (1906)": "34:30",
-        "VulgConte (2009)": "34:30",
-        "VulgSistina (1590)": "34:30"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:30 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 82130,
-      "verse": 26,
-      "critical_text": "Sic homo qui jejunat in peccatis suis, et iterum eadem faciens: quid proficit humiliando se? orationem illius quis exaudiet?",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Sic homo qui jejunat in peccatis suis, et iterum eadem faciens: quid proficit humiliando se? orationem illius quis exaudiet?",
-        "Clem-Saints": "Sic homo qui jejunat in peccatis suis, et iterum eadem faciens: quid proficit humiliando se? orationem illius quis exaudiet?",
-        "VulgHetzenauer (1906)": "sic homo qui ieiunat in peccatis suis: et iterum eadem faciens, quid proficit humiliando se? orationem illius quis exaudiet?",
-        "VulgConte (2009)": "Sic homo qui ieiunat in peccatis suis: et iterum eadem faciens, quid proficit humiliando se? Orationem illius quis exaudiet?",
-        "VulgSistina (1590)": "sic homo qui ieiunat in peccatis suis: et iterum eadem faciens, quid proficit humiliando se? orationem illius quis exaudiet?"
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "34:31",
-        "VulgHetzenauer (1906)": "34:31",
-        "VulgConte (2009)": "34:31",
-        "VulgSistina (1590)": "34:31"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 34:31 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
@@ -928,7 +845,126 @@
       "absent_witnesses": [],
       "witness_refs": {},
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 494088,
+      "verse": 28,
+      "critical_text": "Unus ædificans, et unus destruens: quid prodest illis, nisi labor?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Unus ædificans, et unus destruens: quid prodest illis, nisi labor?",
+        "Clem-Saints": "Unus ædificans, et unus destruens: quid prodest illis, nisi labor?",
+        "VulgHetzenauer (1906)": "Unus ædificans, et unus destruens: quid prodest illis nisi labor?",
+        "VulgConte (2009)": "Unus ædificans, et unus destruens: quid prodest illis nisi labor?",
+        "VulgSistina (1590)": "Unus aedificans, et unus destruens: quid prodest illis nisi labor?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "34:23"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 494089,
+      "verse": 29,
+      "critical_text": "Unus orans, et unus maledicens: cujus vocem exaudiet Deus?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Unus orans, et unus maledicens: cujus vocem exaudiet Deus?",
+        "Clem-Saints": "Unus orans, et unus maledicens: cujus vocem exaudiet Deus?",
+        "VulgHetzenauer (1906)": "Unus orans, et unus maledicens: cuius vocem exaudiet Deus?",
+        "VulgConte (2009)": "Unus orans, et unus maledicens: cuius vocem exaudiet Deus?",
+        "VulgSistina (1590)": "Unus orans, et unus maledicens: cuius vocem exaudiet Deus?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "34:24"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 494090,
+      "verse": 30,
+      "critical_text": "Qui baptizatur a mortuo, et iterum tangit eum, quid proficit lavatio illius?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Qui baptizatur a mortuo, et iterum tangit eum, quid proficit lavatio illius?",
+        "Clem-Saints": "Qui baptizatur a mortuo, et iterum tangit eum, quid proficit lavatio illius?",
+        "VulgHetzenauer (1906)": "Qui baptizatur a mortuo, et iterum tangit eum, quid proficit lavatio illius?",
+        "VulgConte (2009)": "Qui baptizatur a mortuo, et iterum tangit eum, quid proficit lavatio illius?",
+        "VulgSistina (1590)": "Qui baptizatur a mortuo, et iterum tangit eum, quid proficit lavatio illius?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "34:25"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
+        "VulgConte (2009)",
+        "VulgHetzenauer (1906)",
+        "VulgSistina (1590)"
+      ],
+      "apparatus": [],
+      "disregarded": [],
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
+      "human_locked": false,
+      "analysis": [],
+      "needs_review": false
+    },
+    {
+      "id": 494091,
+      "verse": 31,
+      "critical_text": "Sic homo qui jejunat in peccatis suis, et iterum eadem faciens: quid proficit humiliando se? orationem illius quis exaudiet?",
+      "confidence": 0.99,
+      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
+      "witness_readings": {
+        "Clem1598-USFX": "Sic homo qui jejunat in peccatis suis, et iterum eadem faciens: quid proficit humiliando se? orationem illius quis exaudiet?",
+        "Clem-Saints": "Sic homo qui jejunat in peccatis suis, et iterum eadem faciens: quid proficit humiliando se? orationem illius quis exaudiet?",
+        "VulgHetzenauer (1906)": "sic homo qui ieiunat in peccatis suis: et iterum eadem faciens, quid proficit humiliando se? orationem illius quis exaudiet?",
+        "VulgConte (2009)": "Sic homo qui ieiunat in peccatis suis: et iterum eadem faciens, quid proficit humiliando se? Orationem illius quis exaudiet?",
+        "VulgSistina (1590)": "sic homo qui ieiunat in peccatis suis: et iterum eadem faciens, quid proficit humiliando se? orationem illius quis exaudiet?"
+      },
+      "absent_witnesses": [],
+      "witness_refs": {
+        "Clem-Saints": "34:26"
+      },
+      "apparatus_witnesses": [
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"

@@ -1,8 +1,8 @@
 # Wisdom of Solomon 19 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:51Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:08Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,22 +28,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
-- Clem1598-USFX: 7 verse(s) re-aligned by content (15←19:14, 16←19:15, 17←19:16, 18←19:17, 19←19:18, 20←19:19…)
-- VulgHetzenauer (1906): 7 verse(s) re-aligned by content (15←19:14, 16←19:15, 17←19:16, 18←19:17, 19←19:18, 20←19:19…)
-- VulgConte (2009): 7 verse(s) re-aligned by content (15←19:14, 16←19:15, 17←19:16, 18←19:17, 19←19:18, 20←19:19…)
-- VulgSistina (1590): 7 verse(s) re-aligned by content (15←19:14, 16←19:15, 17←19:16, 18←19:17, 19←19:18, 20←19:19…)
+- Clem-Saints: 7 verse(s) re-aligned by content (14←19:15, 15←19:16, 16←19:17, 17←19:18, 18←19:19, 19←19:20…)
 
 ---
 
@@ -62,29 +50,29 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **11** Novissime autem viderunt novam creaturam avium, cum, adducti concupiscentia, postulaverunt escas epulationis.
 **12** In allocutione enim desiderii ascendit illis de mari ortygometra: et vexationes peccatoribus supervenerunt, non sine illis quæ ante facta erant argumentis per vim fulminum: juste enim patiebantur secundum suas nequitias.
 **13** Etenim detestabiliorem inhospitalitatem instituerunt: alii quidem ignotos non recipiebant advenas; alii autem bonos hospites in servitutem redigebant.
-**15** Et non solum hæc, sed et alius quidam respectus illorum erat, quoniam inviti recipiebant extraneos.
-**16** Qui autem cum lætitia receperunt hos qui eisdem usi erant justitiis, sævissimis afflixerunt doloribus.
-**17** Percussi sunt autem cæcitate: sicut illi in foribus justi, cum subitaneis cooperti essent tenebris, unusquisque transitum ostii sui quærebat.
-**18** In se enim elementa dum convertuntur, sicut in organo qualitatis sonus immutatur, et omnia suum sonum custodiunt: unde æstimari ex ipso visu certo potest.
-**19** Agrestia enim in aquatica convertebantur, et quæcumque erant natantia, in terram transibant.
-**20** Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturæ obliviscebatur.
-**21** Flammæ e contrario corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quæ facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum, Domine, et honorasti, et non despexisti, in omni tempore et in omni loco assistens eis.
+**14** Et non solum hæc, sed et alius quidam respectus illorum erat, quoniam inviti recipiebant extraneos.
+**15** Qui autem cum lætitia receperunt hos qui eisdem usi erant justitiis, sævissimis afflixerunt doloribus.
+**16** Percussi sunt autem cæcitate: sicut illi in foribus justi, cum subitaneis cooperti essent tenebris, unusquisque transitum ostii sui quærebat.
+**17** In se enim elementa dum convertuntur, sicut in organo qualitatis sonus immutatur, et omnia suum sonum custodiunt: unde æstimari ex ipso visu certo potest.
+**18** Agrestia enim in aquatica convertebantur, et quæcumque erant natantia, in terram transibant.
+**19** Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturæ obliviscebatur.
+**20** Flammæ e contrario corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quæ facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum, Domine, et honorasti, et non despexisti, in omni tempore et in omni loco assistens eis.
 
 ---
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Wisdom of Solomon 19:2
-- **Apparatus:** `pœnitentia acti.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **poenitentiae actus.** VulgSistina (1590)
+- **Apparatus:** `pœnitentia acti.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **poenitentiae actus.** VulgSistina (1590)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `pœnitentia / paenitentia`, `sollicitudine / solicitudine`, `sollicitudine / solicitudine`, `sollicitudine / solicitudine` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Wisdom of Solomon 19:9
 - *Disregarded Surface Variant:* kept `(adopted text)` over `exsultaverunt, / exultaverunt`, `exsultaverunt, / exultaverunt,`, `exsultaverunt, / exultaverunt,`, `exsultaverunt, / exultaverunt,` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
-### Wisdom of Solomon 19:15
-- **Apparatus:** `quidam` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **quidem** VulgSistina (1590)
+### Wisdom of Solomon 19:14
+- **Apparatus:** `quidam` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **quidem** VulgSistina (1590)
 
-### Wisdom of Solomon 19:21
+### Wisdom of Solomon 19:20
 - *Disregarded Surface Variant:* kept `(adopted text)` over `e contrario / econtrario,`, `e contrario / econtrario,`, `e contrario / econtrario,` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Word division differs (same letters written as one word or two)*
 
 ---
@@ -98,7 +86,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Impiis autem usque in novissimum sine misericordia ira supervenit. Præsciebat enim et futura illorum:
   - `VulgConte (2009)`: Impiis autem usque in novissimum sine misericordia ira supervenit. Præsciebat enim et futura illorum:
   - `VulgSistina (1590)`: Impiis autem usque in novissimum sine misericordia ira supervenit. Praesciebat enim et futura illorum:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quoniam cum ipsi permisissent ut se educerent, et cum magna sollicitudine præmisissent illos, consequebantur illos, pœnitentia acti.
@@ -107,7 +95,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: quoniam cum ipsi permisissent ut se educerent, et cum magna solicitudine præmisissent illos, consequebantur illos pœnitentia acti.
   - `VulgConte (2009)`: quoniam cum ipsi permisissent ut se educerent, et cum magna solicitudine præmisissent illos, consequebantur illos pœnitentia acti.
   - `VulgSistina (1590)`: quoniam cum ipsi permisissent ut se educerent, et cum magna solicitudine praemisissent illos, consequebantur illos poenitentiae actus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Adhuc enim inter manus habentes luctum, et deplorantes ad monumenta mortuorum, aliam sibi assumpserunt cogitationem inscientiæ, et quos rogantes projecerant, hos tamquam fugitivos persequebantur.
@@ -116,7 +104,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Adhuc enim inter manus habentes luctum, et deplorantes ad monumenta mortuorum, aliam sibi assumpserunt cogitationem inscientiæ: et quos rogantes proiecerant, hos tamquam fugitivos persequebantur:
   - `VulgConte (2009)`: Adhuc enim inter manus habentes luctum, et deplorantes ad monumenta mortuorum, aliam sibi assumpserunt cogitationem inscientiæ: et quos rogantes proiecerant, hos tamquam fugitivos persequebantur:
   - `VulgSistina (1590)`: Adhuc enim inter manus habentes luctum, et deplorantes ad monumenta mortuorum, aliam sibi assumpserunt cogitationem inscientiae: et quos rogantes proiecerant, hos tamquam fugitivos persequebantur:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ducebat enim illos ad hunc finem digna necessitas; et horum quæ acciderant commemorationem amittebant, ut quæ deerant tormentis repleret punitio:
@@ -125,7 +113,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ducebat enim illos ad hunc finem digna necessitas: et horum, quæ acciderant, commemorationem amittebant, ut quæ deerant tormentis, repleret punitio:
   - `VulgConte (2009)`: ducebat enim illos ad hunc finem digna necessitas: et horum, quæ acciderant, commemorationem amittebant, ut quæ deerant tormentis, repleret punitio:
   - `VulgSistina (1590)`: ducebat enim illos ad hunc finem digna necessitas: et horum, quae acciderant, commemorationem amittebant, ut quae deerant tormentis, repleret punitio:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et populus quidem tuus mirabiliter transiret, illi autem novam mortem invenirent.
@@ -134,7 +122,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et populus quidem tuus mirabiliter transiret, illi autem novam mortem invenirent.
   - `VulgConte (2009)`: et populus quidem tuus mirabiliter transiret, illi autem novam mortem invenirent.
   - `VulgSistina (1590)`: et populus quidem tuus mirabiliter transiret, illi autem novam mortem invenirent.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnis enim creatura ad suum genus ab initio refigurabatur, deserviens tuis præceptis, ut pueri tui custodirentur illæsi.
@@ -143,7 +131,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Omnis enim creatura ad suum genus ab initio refigurabatur, deserviens tuis præceptis, ut pueri tui custodirentur illæsi.
   - `VulgConte (2009)`: Omnis enim creatura ad suum genus ab initio refigurabatur, deserviens tuis præceptis, ut pueri tui custodirentur illæsi.
   - `VulgSistina (1590)`: Omnis enim creatura ad suum genus ab initio refigurabatur, deserviens tuis praeceptis, ut pueri tui custodirentur illaesi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nam nubes castra eorum obumbrabat, et ex aqua quæ ante erat, terra arida apparuit, et in mari Rubro via sine impedimento, et campus germinans de profundo nimio:
@@ -152,7 +140,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nam nubes castra eorum obumbrabat, et ex aqua, quæ ante erat, terra arida apparuit, et in mari rubro via sine impedimento, et campus germinans de profundo nimio:
   - `VulgConte (2009)`: Nam nubes castra eorum obumbrabat, et ex aqua, quæ ante erat, terra arida apparuit, et in mari rubro via sine impedimento, et campus germinans de profundo nimio:
   - `VulgSistina (1590)`: Nam nubes castra eorum obumbrabat, et ex aqua, quae ante erat, terra arida apparuit, et in mari rubro via sine impedimento, et campus germinans de profundo nimio:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** per quem omnis natio transivit quæ tegebatur tua manu, videntes tua mirabilia et monstra.
@@ -161,7 +149,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: per quem omnis natio transivit, quæ tegebatur tua manu, videntes tua mirabilia et monstra.
   - `VulgConte (2009)`: per quem omnis natio transivit, quæ tegebatur tua manu, videntes tua mirabilia et monstra.
   - `VulgSistina (1590)`: per quem omnis natio transivit, quae tegebatur tua manu, videntes tua mirabilia et monstra.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tamquam enim equi depaverunt escam, et tamquam agni exsultaverunt, magnificantes te, Domine, qui liberasti illos.
@@ -170,7 +158,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tamquam enim equi depaverunt escam, et tamquam agni exultaverunt, magnificantes te Domine, qui liberasti illos.
   - `VulgConte (2009)`: Tamquam enim equi depaverunt escam, et tamquam agni exultaverunt, magnificantes te Domine, qui liberasti illos.
   - `VulgSistina (1590)`: Tamquam enim equi depaverunt escam, et tamquam agni exultaverunt, magnificantes te Domine, qui liberasti illos.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Memores enim erant adhuc eorum quæ in incolatu illorum facta fuerant: quemadmodum pro natione animalium eduxit terra muscas, et pro piscibus eructavit fluvius multitudinem ranarum.
@@ -179,7 +167,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Memores enim erant adhuc eorum, quæ in incolatu illorum facta fuerant, quemadmodum pro natione animalium eduxit terra muscas, et pro piscibus eructavit fluvius multitudinem ranarum.
   - `VulgConte (2009)`: Memores enim erant adhuc eorum, quæ in incolatu illorum facta fuerant, quemadmodum pro natione animalium eduxit terra muscas, et pro piscibus eructavit fluvius multitudinem ranarum.
   - `VulgSistina (1590)`: Memores enim erant adhuc eorum, quae in incolatu illorum facta fuerant, quemadmodum pro natione animalium eduxit terra muscas, et pro piscibus eructavit fluvius multitudinem ranarum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Novissime autem viderunt novam creaturam avium, cum, adducti concupiscentia, postulaverunt escas epulationis.
@@ -188,7 +176,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Novissime autem viderunt novam creaturam avium, cum adducti concupiscentia postulaverunt escas epulationis.
   - `VulgConte (2009)`: Novissime autem viderunt novam creaturam avium, cum adducti concupiscentia postulaverunt escas epulationis.
   - `VulgSistina (1590)`: Novissime autem viderunt novam creaturam avium, cum adducti concupiscentia postulaverunt escas epulationis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In allocutione enim desiderii ascendit illis de mari ortygometra: et vexationes peccatoribus supervenerunt, non sine illis quæ ante facta erant argumentis per vim fulminum: juste enim patiebantur secundum suas nequitias.
@@ -197,7 +185,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In allocutione enim desiderii, ascendit illis de mari ortygometra: et vexationes peccatoribus supervenerunt, non sine illis, quæ ante facta erant, argumentis per vim fulminum: iuste enim patiebantur secundum suas nequitias.
   - `VulgConte (2009)`: In allocutione enim desiderii, ascendit illis de mari ortygometra: et vexationes peccatoribus supervenerunt, non sine illis, quæ ante facta erant, argumentis per vim fulminum: iuste enim patiebantur secundum suas nequitias.
   - `VulgSistina (1590)`: In allocutione enim desiderii, ascendit illis de mari ortygometra: et vexationes peccatoribus supervenerunt, non sine illis, quae ante facta erant, argumentis per vim fulminum: iuste enim patiebantur secundum suas nequitias.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Etenim detestabiliorem inhospitalitatem instituerunt: alii quidem ignotos non recipiebant advenas; alii autem bonos hospites in servitutem redigebant.
@@ -206,67 +194,67 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Etenim detestabiliorem inhospitalitatem instituerunt: alii quidem ignotos non recipiebant advenas, alii autem bonos hospites in servitutem redigebant.
   - `VulgConte (2009)`: Etenim detestabiliorem inhospitalitatem instituerunt: alii quidem ignotos non recipiebant advenas, alii autem bonos hospites in servitutem redigebant,
   - `VulgSistina (1590)`: Etenim detestabiliorem inhospitalitatem instituerunt: alii quidem ignotos non recipiebant advenas, alii autem bonos hospites in servitutem redigebant.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
+
+### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Et non solum hæc, sed et alius quidam respectus illorum erat, quoniam inviti recipiebant extraneos.
+  - `Clem1598-USFX`: Et non solum hæc, sed et alius quidam respectus illorum erat, quoniam inviti recipiebant extraneos.
+  - `Clem-Saints` *(numbered 19:15 in this witness)*: Et non solum hæc, sed et alius quidam respectus illorum erat, quoniam inviti recipiebant extraneos.
+  - `VulgHetzenauer (1906)`: Et non solum hæc, sed et alius quidam respectus illorum erat: quoniam inviti recipiebant extraneos.
+  - `VulgConte (2009)`: et non solum hæc, sed et alius quidam respectus illorum erat: quoniam inviti recipiebant extraneos.
+  - `VulgSistina (1590)`: Et non solum haec, sed et alius quidem respectus illorum erat: quoniam inviti recipiebant extraneos.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et non solum hæc, sed et alius quidam respectus illorum erat, quoniam inviti recipiebant extraneos.
-  - `Clem1598-USFX` *(numbered 19:14 in this witness)*: Et non solum hæc, sed et alius quidam respectus illorum erat, quoniam inviti recipiebant extraneos.
-  - `Clem-Saints`: Et non solum hæc, sed et alius quidam respectus illorum erat, quoniam inviti recipiebant extraneos.
-  - `VulgHetzenauer (1906)` *(numbered 19:14 in this witness)*: Et non solum hæc, sed et alius quidam respectus illorum erat: quoniam inviti recipiebant extraneos.
-  - `VulgConte (2009)` *(numbered 19:14 in this witness)*: et non solum hæc, sed et alius quidam respectus illorum erat: quoniam inviti recipiebant extraneos.
-  - `VulgSistina (1590)` *(numbered 19:14 in this witness)*: Et non solum haec, sed et alius quidem respectus illorum erat: quoniam inviti recipiebant extraneos.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 19:14 (re-aligned by content).
+- **Critical Text:** Qui autem cum lætitia receperunt hos qui eisdem usi erant justitiis, sævissimis afflixerunt doloribus.
+  - `Clem1598-USFX`: Qui autem cum lætitia receperunt hos qui eisdem usi erant justitiis, sævissimis afflixerunt doloribus.
+  - `Clem-Saints` *(numbered 19:16 in this witness)*: Qui autem cum lætitia receperunt hos qui eisdem usi erant justitiis, sævissimis afflixerunt doloribus.
+  - `VulgHetzenauer (1906)`: Qui autem cum lætitia receperunt hos, qui eisdem usi erant iustitiis, sævissimis afflixerunt doloribus.
+  - `VulgConte (2009)`: Qui autem cum lætitia receperunt hos, qui eisdem usi erant iustitiis, sævissimis afflixerunt doloribus.
+  - `VulgSistina (1590)`: Qui autem cum laetitia receperunt hos, qui eisdem usi erant iustitiis, saevissimis afflixerunt doloribus.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Qui autem cum lætitia receperunt hos qui eisdem usi erant justitiis, sævissimis afflixerunt doloribus.
-  - `Clem1598-USFX` *(numbered 19:15 in this witness)*: Qui autem cum lætitia receperunt hos qui eisdem usi erant justitiis, sævissimis afflixerunt doloribus.
-  - `Clem-Saints`: Qui autem cum lætitia receperunt hos qui eisdem usi erant justitiis, sævissimis afflixerunt doloribus.
-  - `VulgHetzenauer (1906)` *(numbered 19:15 in this witness)*: Qui autem cum lætitia receperunt hos, qui eisdem usi erant iustitiis, sævissimis afflixerunt doloribus.
-  - `VulgConte (2009)` *(numbered 19:15 in this witness)*: Qui autem cum lætitia receperunt hos, qui eisdem usi erant iustitiis, sævissimis afflixerunt doloribus.
-  - `VulgSistina (1590)` *(numbered 19:15 in this witness)*: Qui autem cum laetitia receperunt hos, qui eisdem usi erant iustitiis, saevissimis afflixerunt doloribus.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 19:15 (re-aligned by content).
+- **Critical Text:** Percussi sunt autem cæcitate: sicut illi in foribus justi, cum subitaneis cooperti essent tenebris, unusquisque transitum ostii sui quærebat.
+  - `Clem1598-USFX`: Percussi sunt autem cæcitate: sicut illi in foribus justi, cum subitaneis cooperti essent tenebris, unusquisque transitum ostii sui quærebat.
+  - `Clem-Saints` *(numbered 19:17 in this witness)*: Percussi sunt autem cæcitate: sicut illi in foribus justi, cum subitaneis cooperti essent tenebris, unusquisque transitum ostii sui quærebat.
+  - `VulgHetzenauer (1906)`: Percussi sunt autem cæcitate: sicut illi in foribus iusti, cum subitaneis cooperti essent tenebris, unusquisque transitum ostii sui quærebat.
+  - `VulgConte (2009)`: Percussi sunt autem cæcitate: sicut illi in foribus iusti, cum subitaneis cooperti essent tenebris, unusquisque transitum ostii sui quærebat.
+  - `VulgSistina (1590)`: Percussi sunt autem caecitate: sicut illi in foribus iusti, cum subitaneis cooperti essent tenebris, unusquisque transitum ostii sui quaerebat.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Percussi sunt autem cæcitate: sicut illi in foribus justi, cum subitaneis cooperti essent tenebris, unusquisque transitum ostii sui quærebat.
-  - `Clem1598-USFX` *(numbered 19:16 in this witness)*: Percussi sunt autem cæcitate: sicut illi in foribus justi, cum subitaneis cooperti essent tenebris, unusquisque transitum ostii sui quærebat.
-  - `Clem-Saints`: Percussi sunt autem cæcitate: sicut illi in foribus justi, cum subitaneis cooperti essent tenebris, unusquisque transitum ostii sui quærebat.
-  - `VulgHetzenauer (1906)` *(numbered 19:16 in this witness)*: Percussi sunt autem cæcitate: sicut illi in foribus iusti, cum subitaneis cooperti essent tenebris, unusquisque transitum ostii sui quærebat.
-  - `VulgConte (2009)` *(numbered 19:16 in this witness)*: Percussi sunt autem cæcitate: sicut illi in foribus iusti, cum subitaneis cooperti essent tenebris, unusquisque transitum ostii sui quærebat.
-  - `VulgSistina (1590)` *(numbered 19:16 in this witness)*: Percussi sunt autem caecitate: sicut illi in foribus iusti, cum subitaneis cooperti essent tenebris, unusquisque transitum ostii sui quaerebat.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 19:16 (re-aligned by content).
+- **Critical Text:** In se enim elementa dum convertuntur, sicut in organo qualitatis sonus immutatur, et omnia suum sonum custodiunt: unde æstimari ex ipso visu certo potest.
+  - `Clem1598-USFX`: In se enim elementa dum convertuntur, sicut in organo qualitatis sonus immutatur, et omnia suum sonum custodiunt: unde æstimari ex ipso visu certo potest.
+  - `Clem-Saints` *(numbered 19:18 in this witness)*: In se enim elementa dum convertuntur, sicut in organo qualitatis sonus immutatur, et omnia suum sonum custodiunt: unde æstimari ex ipso visu certo potest.
+  - `VulgHetzenauer (1906)`: In se enim elementa dum convertuntur, sicut in organo qualitatis sonus immutatur, et omnia suum sonum custodiunt: unde æstimari ex ipso visu certo potest.
+  - `VulgConte (2009)`: In se enim elementa dum convertuntur, sicut in organo qualitatis sonus immutatur, et omnia suum sonum custodiunt: unde æstimari ex ipso visu certo potest.
+  - `VulgSistina (1590)`: In se enim elementa dum convertuntur, sicut in organo qualitatis sonus immutatur, et omnia suum sonum custodiunt: unde aestimari ex ipso visu certo potest.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** In se enim elementa dum convertuntur, sicut in organo qualitatis sonus immutatur, et omnia suum sonum custodiunt: unde æstimari ex ipso visu certo potest.
-  - `Clem1598-USFX` *(numbered 19:17 in this witness)*: In se enim elementa dum convertuntur, sicut in organo qualitatis sonus immutatur, et omnia suum sonum custodiunt: unde æstimari ex ipso visu certo potest.
-  - `Clem-Saints`: In se enim elementa dum convertuntur, sicut in organo qualitatis sonus immutatur, et omnia suum sonum custodiunt: unde æstimari ex ipso visu certo potest.
-  - `VulgHetzenauer (1906)` *(numbered 19:17 in this witness)*: In se enim elementa dum convertuntur, sicut in organo qualitatis sonus immutatur, et omnia suum sonum custodiunt: unde æstimari ex ipso visu certo potest.
-  - `VulgConte (2009)` *(numbered 19:17 in this witness)*: In se enim elementa dum convertuntur, sicut in organo qualitatis sonus immutatur, et omnia suum sonum custodiunt: unde æstimari ex ipso visu certo potest.
-  - `VulgSistina (1590)` *(numbered 19:17 in this witness)*: In se enim elementa dum convertuntur, sicut in organo qualitatis sonus immutatur, et omnia suum sonum custodiunt: unde aestimari ex ipso visu certo potest.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 19:17 (re-aligned by content).
+- **Critical Text:** Agrestia enim in aquatica convertebantur, et quæcumque erant natantia, in terram transibant.
+  - `Clem1598-USFX`: Agrestia enim in aquatica convertebantur, et quæcumque erant natantia, in terram transibant.
+  - `Clem-Saints` *(numbered 19:19 in this witness)*: Agrestia enim in aquatica convertebantur, et quæcumque erant natantia, in terram transibant.
+  - `VulgHetzenauer (1906)`: Agrestia enim in aquatica convertebantur: et quæcumque erant natantia, in terram transibant.
+  - `VulgConte (2009)`: Agrestia enim in aquatica convertebantur: et quæcumque erant natantia, in terram transibant.
+  - `VulgSistina (1590)`: Agrestia enim in aquatica convertebantur: et quaecumque erant natantia, in terram transibant.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Agrestia enim in aquatica convertebantur, et quæcumque erant natantia, in terram transibant.
-  - `Clem1598-USFX` *(numbered 19:18 in this witness)*: Agrestia enim in aquatica convertebantur, et quæcumque erant natantia, in terram transibant.
-  - `Clem-Saints`: Agrestia enim in aquatica convertebantur, et quæcumque erant natantia, in terram transibant.
-  - `VulgHetzenauer (1906)` *(numbered 19:18 in this witness)*: Agrestia enim in aquatica convertebantur: et quæcumque erant natantia, in terram transibant.
-  - `VulgConte (2009)` *(numbered 19:18 in this witness)*: Agrestia enim in aquatica convertebantur: et quæcumque erant natantia, in terram transibant.
-  - `VulgSistina (1590)` *(numbered 19:18 in this witness)*: Agrestia enim in aquatica convertebantur: et quaecumque erant natantia, in terram transibant.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 19:18 (re-aligned by content).
+- **Critical Text:** Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturæ obliviscebatur.
+  - `Clem1598-USFX`: Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturæ obliviscebatur.
+  - `Clem-Saints` *(numbered 19:20 in this witness)*: Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturæ obliviscebatur.
+  - `VulgHetzenauer (1906)`: Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturæ obliviscebatur.
+  - `VulgConte (2009)`: Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturæ obliviscebatur.
+  - `VulgSistina (1590)`: Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturae obliviscebatur.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturæ obliviscebatur.
-  - `Clem1598-USFX` *(numbered 19:19 in this witness)*: Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturæ obliviscebatur.
-  - `Clem-Saints`: Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturæ obliviscebatur.
-  - `VulgHetzenauer (1906)` *(numbered 19:19 in this witness)*: Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturæ obliviscebatur.
-  - `VulgConte (2009)` *(numbered 19:19 in this witness)*: Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturæ obliviscebatur.
-  - `VulgSistina (1590)` *(numbered 19:19 in this witness)*: Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturae obliviscebatur.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 19:19 (re-aligned by content).
-
-### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Flammæ e contrario corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quæ facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum, Domine, et honorasti, et non despexisti, in omni tempore et in omni loco assistens eis.
-  - `Clem1598-USFX` *(numbered 19:20 in this witness)*: Flammæ e contrario corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quæ facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum, Domine, et honorasti, et non despexisti, in omni tempore et in omni loco assistens eis.
-  - `Clem-Saints`: Flammæ e contrario corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quæ facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum, Domine, et honorasti, et non despexisti, in omni tempore et in omni loco assistens eis.
-  - `VulgHetzenauer (1906)` *(numbered 19:20 in this witness)*: Flammæ econtrario, corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quæ facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum Domine, et honorasti, et non despexisti, in omni tempore, et in omni loco assistens eis.
-  - `VulgConte (2009)` *(numbered 19:20 in this witness)*: Flammæ econtrario, corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quæ facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum Domine, et honorasti, et non despexisti, in omni tempore, et in omni loco assistens eis.
-  - `VulgSistina (1590)` *(numbered 19:20 in this witness)*: Flammae econtrario, corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quae facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum Domine, et honorasti, et non despexisti, in omni tempore, et in omni loco assistens eis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 19:20 (re-aligned by content).
+  - `Clem1598-USFX`: Flammæ e contrario corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quæ facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum, Domine, et honorasti, et non despexisti, in omni tempore et in omni loco assistens eis.
+  - `Clem-Saints` *(numbered 19:21 in this witness)*: Flammæ e contrario corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quæ facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum, Domine, et honorasti, et non despexisti, in omni tempore et in omni loco assistens eis.
+  - `VulgHetzenauer (1906)`: Flammæ econtrario, corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quæ facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum Domine, et honorasti, et non despexisti, in omni tempore, et in omni loco assistens eis.
+  - `VulgConte (2009)`: Flammæ econtrario, corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quæ facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum Domine, et honorasti, et non despexisti, in omni tempore, et in omni loco assistens eis.
+  - `VulgSistina (1590)`: Flammae econtrario, corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quae facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum Domine, et honorasti, et non despexisti, in omni tempore, et in omni loco assistens eis.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

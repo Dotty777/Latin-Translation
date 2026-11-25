@@ -7,15 +7,13 @@
   "usfm_code": "DAN",
   "chapter": 6,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-22T08:01:29Z",
-  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
-  "versification_anchor": "Clem-Saints",
+  "updated_at": "2026-11-25T00:08:09Z",
+  "versification": "Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py.",
+  "versification_anchor": "Clem1598-USFX",
   "orthographic_base": "Clem1598-USFX",
   "versification_notes": [
-    "Clem1598-USFX: 29 verse(s) re-aligned by content (1←5:31, 2←6:1, 3←6:2, 4←6:3, 5←6:4, 6←6:5…)",
-    "VulgHetzenauer (1906): 29 verse(s) re-aligned by content (1←5:31, 2←6:1, 3←6:2, 4←6:3, 5←6:4, 6←6:5…)",
-    "VulgConte (2009): 29 verse(s) re-aligned by content (1←5:31, 2←6:1, 3←6:2, 4←6:3, 5←6:4, 6←6:5…)",
-    "VulgSistina (1590): 29 verse(s) re-aligned by content (1←5:31, 2←6:1, 3←6:2, 4←6:3, 5←6:4, 6←6:5…)"
+    "Clem-Saints: verse 6:1 moved to 5:31 across chapter break before re-division",
+    "Clem-Saints: 28 verse(s) re-aligned by content (1←6:2, 2←6:3, 3←6:4, 4←6:5, 5←6:6, 6←6:7…)"
   ],
   "admitted_witnesses": [
     {
@@ -24,16 +22,16 @@
       "tier": 1,
       "weight": 0.88,
       "license": "Public Domain"
-    },
+    }
+  ],
+  "apparatus_witnesses": [
     {
       "siglum": "Clem-Saints",
       "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
       "tier": 1,
-      "weight": 0.86,
-      "license": "Public Domain"
-    }
-  ],
-  "apparatus_witnesses": [
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
     {
       "siglum": "VulgHetzenauer (1906)",
       "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
@@ -60,56 +58,6 @@
     {
       "id": 86751,
       "verse": 1,
-      "critical_text": "Et Darius Medus successit in regnum, annos natus sexaginta duos.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Et Darius Medus successit in regnum, annos natus sexaginta duos.",
-        "Clem-Saints": "Et Darius Medus successit in regnum, annos natus sexaginta duos.",
-        "VulgHetzenauer (1906)": "Et Darius Medus successit in regnum annos natus sexagintaduos.",
-        "VulgConte (2009)": "Et Darius Medus successit in regnum annos natus sexagintaduos.",
-        "VulgSistina (1590)": "Et Darius Medus successit in regnum annos natus sexagintaduos."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "5:31",
-        "VulgHetzenauer (1906)": "5:31",
-        "VulgConte (2009)": "5:31",
-        "VulgSistina (1590)": "5:31"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "sexaginta duos. / sexagintaduos",
-            "sexaginta duos. / sexagintaduos.",
-            "sexaginta duos. / sexagintaduos.",
-            "sexaginta duos. / sexagintaduos."
-          ],
-          "witnesses": [
-            "VulgConte (2009)",
-            "VulgHetzenauer (1906)",
-            "VulgSistina (1590)"
-          ],
-          "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
-        }
-      ],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 5:31 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 86752,
-      "verse": 2,
       "critical_text": "Placuit Dario, et constituit super regnum satrapas centum viginti ut essent in toto regno suo.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -122,27 +70,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:1",
-        "VulgHetzenauer (1906)": "6:1",
-        "VulgConte (2009)": "6:1",
-        "VulgSistina (1590)": "6:1"
+        "Clem-Saints": "6:2"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:1 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86753,
-      "verse": 3,
+      "id": 86752,
+      "verse": 2,
       "critical_text": "Et super eos principes tres, ex quibus Daniel unus erat: ut satrapæ illis redderent rationem, et rex non sustineret molestiam.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -155,27 +100,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:2",
-        "VulgHetzenauer (1906)": "6:2",
-        "VulgConte (2009)": "6:2",
-        "VulgSistina (1590)": "6:2"
+        "Clem-Saints": "6:3"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:2 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86754,
-      "verse": 4,
+      "id": 86753,
+      "verse": 3,
       "critical_text": "Igitur Daniel superabat omnes principes et satrapas, quia spiritus Dei amplior erat in illo.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -188,27 +130,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:3",
-        "VulgHetzenauer (1906)": "6:3",
-        "VulgConte (2009)": "6:3",
-        "VulgSistina (1590)": "6:3"
+        "Clem-Saints": "6:4"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:3 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86755,
-      "verse": 5,
+      "id": 86754,
+      "verse": 4,
       "critical_text": "Porro rex cogitabat constituere eum super omne regnum: unde principes, et satrapæ quærebant occasionem ut invenirent Danieli ex latere regis: nullamque causam, et suspicionem reperire potuerunt, eo quod fidelis esset, et omnis culpa, et suspicio non inveniretur in eo.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -221,27 +160,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:4",
-        "VulgHetzenauer (1906)": "6:4",
-        "VulgConte (2009)": "6:4",
-        "VulgSistina (1590)": "6:4"
+        "Clem-Saints": "6:5"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:4 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86756,
-      "verse": 6,
+      "id": 86755,
+      "verse": 5,
       "critical_text": "Dixerunt ergo viri illi: Non inveniemus Danieli huic aliquam occasionem, nisi forte in lege Dei sui.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -254,13 +190,10 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:5",
-        "VulgHetzenauer (1906)": "6:5",
-        "VulgConte (2009)": "6:5",
-        "VulgSistina (1590)": "6:5"
+        "Clem-Saints": "6:6"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -270,8 +203,8 @@
           "slot_index": -1,
           "lemma": "inveniemus",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
           ],
@@ -296,14 +229,14 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:5 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86757,
-      "verse": 7,
+      "id": 86756,
+      "verse": 6,
       "critical_text": "Tunc principes et satrapæ surripuerunt regi, et sic locuti sunt ei: Dari rex, in æternum vive!",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -316,27 +249,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:6",
-        "VulgHetzenauer (1906)": "6:6",
-        "VulgConte (2009)": "6:6",
-        "VulgSistina (1590)": "6:6"
+        "Clem-Saints": "6:7"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:6 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86758,
-      "verse": 8,
+      "id": 86757,
+      "verse": 7,
       "critical_text": "consilium inierunt omnes principes regni tui, magistratus, et satrapæ, senatores, et judices, ut decretum imperatorium exeat, et edictum: ut omnis, qui petierit aliquam petitionem a quocumque deo et homine usque ad triginta dies, nisi a te, rex, mittatur in lacum leonum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -349,27 +279,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:7",
-        "VulgHetzenauer (1906)": "6:7",
-        "VulgConte (2009)": "6:7",
-        "VulgSistina (1590)": "6:7"
+        "Clem-Saints": "6:8"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:7 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86759,
-      "verse": 9,
+      "id": 86758,
+      "verse": 8,
       "critical_text": "Nunc itaque rex, confirma sententiam, et scribe decretum: ut non immutetur quod statutum est a Medis et Persis, nec prævaricari cuiquam liceat.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -382,27 +309,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:8",
-        "VulgHetzenauer (1906)": "6:8",
-        "VulgConte (2009)": "6:8",
-        "VulgSistina (1590)": "6:8"
+        "Clem-Saints": "6:9"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:8 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86760,
-      "verse": 10,
+      "id": 86759,
+      "verse": 9,
       "critical_text": "Porro rex Darius proposuit edictum, et statuit.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -415,27 +339,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:9",
-        "VulgHetzenauer (1906)": "6:9",
-        "VulgConte (2009)": "6:9",
-        "VulgSistina (1590)": "6:9"
+        "Clem-Saints": "6:10"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:9 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86761,
-      "verse": 11,
+      "id": 86760,
+      "verse": 10,
       "critical_text": "Quod cum Daniel comperisset, id est, constitutam legem, ingressus est domum suam: et fenestris apertis in cœnaculo suo contra Jerusalem tribus temporibus in die flectebat genua sua, et adorabat, confitebaturque coram Deo suo sicut et ante facere consueverat.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -448,27 +369,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:10",
-        "VulgHetzenauer (1906)": "6:10",
-        "VulgConte (2009)": "6:10",
-        "VulgSistina (1590)": "6:10"
+        "Clem-Saints": "6:11"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:10 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86762,
-      "verse": 12,
+      "id": 86761,
+      "verse": 11,
       "critical_text": "Viri ergo illi curiosius inquirentes invenerunt Danielem orantem, et obsecrantem Deum suum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -481,27 +399,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:11",
-        "VulgHetzenauer (1906)": "6:11",
-        "VulgConte (2009)": "6:11",
-        "VulgSistina (1590)": "6:11"
+        "Clem-Saints": "6:12"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:11 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86763,
-      "verse": 13,
+      "id": 86762,
+      "verse": 12,
       "critical_text": "Et accedentes locuti sunt regi super edicto: Rex, numquid non constituisti ut omnis homo qui rogaret quemquam de diis et hominibus usque ad dies triginta, nisi te, rex, mitteretur in lacum leonum? Ad quos respondens rex, ait: Verus est sermo juxta decretum Medorum atque Persarum, quod prævaricari non licet.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -514,27 +429,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:12",
-        "VulgHetzenauer (1906)": "6:12",
-        "VulgConte (2009)": "6:12",
-        "VulgSistina (1590)": "6:12"
+        "Clem-Saints": "6:13"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:12 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86764,
-      "verse": 14,
+      "id": 86763,
+      "verse": 13,
       "critical_text": "Tunc respondentes dixerunt coram rege: Daniel de filiis captivitatis Juda, non curavit de lege tua, et de edicto quod constituisti: sed tribus temporibus per diem orat obsecratione sua.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -547,27 +459,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:13",
-        "VulgHetzenauer (1906)": "6:13",
-        "VulgConte (2009)": "6:13",
-        "VulgSistina (1590)": "6:13"
+        "Clem-Saints": "6:14"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:13 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86765,
-      "verse": 15,
+      "id": 86764,
+      "verse": 14,
       "critical_text": "Quod verbum cum audisset rex, satis contristatus est: et pro Daniele posuit cor ut liberaret eum, et usque ad occasum solis laborabat ut erueret illum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -580,27 +489,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:14",
-        "VulgHetzenauer (1906)": "6:14",
-        "VulgConte (2009)": "6:14",
-        "VulgSistina (1590)": "6:14"
+        "Clem-Saints": "6:15"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:14 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86766,
-      "verse": 16,
+      "id": 86765,
+      "verse": 15,
       "critical_text": "Viri autem illi, intelligentes regem, dixerunt ei: Scito, rex, quia lex Medorum atque Persarum est ut omne decretum, quod constituerit rex, non liceat immutari.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -613,27 +519,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:15",
-        "VulgHetzenauer (1906)": "6:15",
-        "VulgConte (2009)": "6:15",
-        "VulgSistina (1590)": "6:15"
+        "Clem-Saints": "6:16"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:15 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86767,
-      "verse": 17,
+      "id": 86766,
+      "verse": 16,
       "critical_text": "Tunc rex præcepit, et adduxerunt Danielem, et miserunt eum in lacum leonum. Dixitque rex Danieli: Deus tuus, quem colis semper, ipse liberabit te.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -646,27 +549,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:16",
-        "VulgHetzenauer (1906)": "6:16",
-        "VulgConte (2009)": "6:16",
-        "VulgSistina (1590)": "6:16"
+        "Clem-Saints": "6:17"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:16 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86768,
-      "verse": 18,
+      "id": 86767,
+      "verse": 17,
       "critical_text": "Allatusque est lapis unus, et positus est super os laci: quem obsignavit rex annulo suo, et annulo optimatum suorum, ne quid fieret contra Danielem.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -679,13 +579,10 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:17",
-        "VulgHetzenauer (1906)": "6:17",
-        "VulgConte (2009)": "6:17",
-        "VulgSistina (1590)": "6:17"
+        "Clem-Saints": "6:18"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -709,14 +606,14 @@
           "reason": "Apparatus witness, not a variant: Word division differs (same letters written as one word or two)"
         }
       ],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:17 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86769,
-      "verse": 19,
+      "id": 86768,
+      "verse": 18,
       "critical_text": "Et abiit rex in domum suam, et dormivit incœnatus, cibique non sunt allati coram eo, insuper et somnus recessit ab eo.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -729,27 +626,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:18",
-        "VulgHetzenauer (1906)": "6:18",
-        "VulgConte (2009)": "6:18",
-        "VulgSistina (1590)": "6:18"
+        "Clem-Saints": "6:19"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:18 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86770,
-      "verse": 20,
+      "id": 86769,
+      "verse": 19,
       "critical_text": "Tunc rex primo diluculo consurgens, festinus ad lacum leonum perrexit:",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -762,27 +656,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:19",
-        "VulgHetzenauer (1906)": "6:19",
-        "VulgConte (2009)": "6:19",
-        "VulgSistina (1590)": "6:19"
+        "Clem-Saints": "6:20"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:19 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86771,
-      "verse": 21,
+      "id": 86770,
+      "verse": 20,
       "critical_text": "appropinquansque lacui, Danielem voce lacrimabili inclamavit, et affatus est eum: Daniel serve Dei viventis, Deus tuus, cui tu servis semper, putasne valuit te liberare a leonibus?",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -795,13 +686,10 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:20",
-        "VulgHetzenauer (1906)": "6:20",
-        "VulgConte (2009)": "6:20",
-        "VulgSistina (1590)": "6:20"
+        "Clem-Saints": "6:21"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -825,14 +713,14 @@
           "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
         }
       ],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:20 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86772,
-      "verse": 22,
+      "id": 86771,
+      "verse": 21,
       "critical_text": "Et Daniel regi respondens ait: Rex, in æternum vive!",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -845,27 +733,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:21",
-        "VulgHetzenauer (1906)": "6:21",
-        "VulgConte (2009)": "6:21",
-        "VulgSistina (1590)": "6:21"
+        "Clem-Saints": "6:22"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:21 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86773,
-      "verse": 23,
+      "id": 86772,
+      "verse": 22,
       "critical_text": "Deus meus misit angelum suum, et conclusit ora leonum, et non nocuerunt mihi: quia coram eo justitia inventa est in me: sed et coram te, rex, delictum non feci.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -878,27 +763,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:22",
-        "VulgHetzenauer (1906)": "6:22",
-        "VulgConte (2009)": "6:22",
-        "VulgSistina (1590)": "6:22"
+        "Clem-Saints": "6:23"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:22 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86774,
-      "verse": 24,
+      "id": 86773,
+      "verse": 23,
       "critical_text": "Tunc vehementer rex gavisus est super eo, et Danielem præcepit educi de lacu: eductusque est Daniel de lacu, et nulla læsio inventa est in eo, quia credidit Deo suo.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -911,27 +793,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:23",
-        "VulgHetzenauer (1906)": "6:23",
-        "VulgConte (2009)": "6:23",
-        "VulgSistina (1590)": "6:23"
+        "Clem-Saints": "6:24"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:23 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86775,
-      "verse": 25,
+      "id": 86774,
+      "verse": 24,
       "critical_text": "Jubente autem rege, adducti sunt viri illi, qui accusaverant Danielem: et in lacum leonum missi sunt, ipsi, et filii, et uxores eorum: et non pervenerunt usque ad pavimentum laci, donec arriperent eos leones, et omnia ossa eorum comminuerunt.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -944,13 +823,10 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:24",
-        "VulgHetzenauer (1906)": "6:24",
-        "VulgConte (2009)": "6:24",
-        "VulgSistina (1590)": "6:24"
+        "Clem-Saints": "6:25"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -960,8 +836,8 @@
           "slot_index": -1,
           "lemma": "accusaverant",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
           ],
@@ -986,14 +862,14 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:24 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86776,
-      "verse": 26,
+      "id": 86775,
+      "verse": 25,
       "critical_text": "Tunc Darius rex scripsit universis populis, tribubus, et linguis habitantibus in universa terra: Pax vobis multiplicetur.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1006,27 +882,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:25",
-        "VulgHetzenauer (1906)": "6:25",
-        "VulgConte (2009)": "6:25",
-        "VulgSistina (1590)": "6:25"
+        "Clem-Saints": "6:26"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:25 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86777,
-      "verse": 27,
+      "id": 86776,
+      "verse": 26,
       "critical_text": "A me constitutum est decretum, ut in universo imperio et regno meo, tremiscant et paveant Deum Danielis: ipse est enim Deus vivens, et æternus in sæcula, et regnum ejus non dissipabitur, et potestas ejus usque in æternum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1039,27 +912,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:26",
-        "VulgHetzenauer (1906)": "6:26",
-        "VulgConte (2009)": "6:26",
-        "VulgSistina (1590)": "6:26"
+        "Clem-Saints": "6:27"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:26 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86778,
-      "verse": 28,
+      "id": 86777,
+      "verse": 27,
       "critical_text": "Ipse liberator atque salvator, faciens signa et mirabilia in cælo et in terra: qui liberavit Danielem de lacu leonum.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1072,27 +942,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:27",
-        "VulgHetzenauer (1906)": "6:27",
-        "VulgConte (2009)": "6:27",
-        "VulgSistina (1590)": "6:27"
+        "Clem-Saints": "6:28"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:27 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 86779,
-      "verse": 29,
+      "id": 86778,
+      "verse": 28,
       "critical_text": "Porro Daniel perseveravit usque ad regnum Darii, regnumque Cyri Persæ.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1105,20 +972,17 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "6:28",
-        "VulgHetzenauer (1906)": "6:28",
-        "VulgConte (2009)": "6:28",
-        "VulgSistina (1590)": "6:28"
+        "Clem-Saints": "6:29"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 6:28 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false

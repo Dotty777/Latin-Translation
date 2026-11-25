@@ -1,8 +1,8 @@
 # Ezekiel 42 — Saints Latin Critical Text
 
-**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:32Z`
+**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:09Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -82,7 +73,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et eduxit me in atrium exterius per viam ducentem ad Aquilonem, et introduxit me in gazophylacium, quod erat contra separatum ædificium, et contra ædem vergentem ad Aquilonem.
   - `VulgConte (2009)`: Et eduxit me in atrium exterius per viam ducentem ad Aquilonem, et introduxit me in gazophylacium, quod erat contra separatum ædificium, et contra ædem vergentem ad Aquilonem.
   - `VulgSistina (1590)`: Et eduxit me in atrium exterius per viam ducentem ad Aquilonem, et introduxit me in gazophylacium, quod erat contra separatum aedificium, et contra aedem vergentem ad Aquilonem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In facie longitudinis, centum cubitos ostii aquilonis, et latitudinis quinquaginta cubitos,
@@ -91,7 +82,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In facie longitudinis, centum cubitos ostii Aquilonis: et latitudinis quinquaginta cubitos,
   - `VulgConte (2009)`: In facie longitudinis, centum cubitos ostii Aquilonis: et latitudinis quinquaginta cubitos,
   - `VulgSistina (1590)`: In facie longitudinis, centum cubitos ostii Aquilonis: et latitudinis quinquaginta cubitos,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** contra viginti cubitos atrii interioris, et contra pavimentum stratum lapide atrii exterioris, ubi erat porticus juncta porticui triplici.
@@ -100,7 +91,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: contra viginti cubitos atrii interioris, et contra pavimentum stratum lapide atrii exterioris, ubi erat porticus iuncta porticui triplici.
   - `VulgConte (2009)`: contra viginti cubitos atrii interioris, et contra pavimentum stratum lapide atrii exterioris, ubi erat porticus iuncta porticui triplici.
   - `VulgSistina (1590)`: contra viginti cubitos atrii interioris, et contra pavimentum stratum lapide atrii exterioris, ubi erat porticus iuncta porticui triplici.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ante gazophylacia deambulatio decem cubitorum latitudinis, ad interiora respiciens viæ cubiti unius. Et ostia eorum ad aquilonem:
@@ -109,7 +100,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ante gazophylacia deambulatio decem cubitorum latitudinis, ad interiora respiciens viæ cubiti unius. Et ostia eorum ad Aquilonem:
   - `VulgConte (2009)`: Et ante gazophylacia deambulatio decem cubitorum latitudinis, ad interiora respiciens viæ cubiti unius. Et ostia eorum ad Aquilonem:
   - `VulgSistina (1590)`: Et ante gazophylacia deambulatio decem cubitorum latitudinis, ad interiora respiciens viae cubiti unius. Et ostia eorum ad Aquilonem:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ubi erant gazophylacia in superioribus humiliora, quia supportabant porticus quæ ex illis eminebant de inferioribus, et de mediis ædificii.
@@ -118,7 +109,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ubi erant gazophylacia in superioribus humiliora: quia supportabant porticus, quæ ex illis eminebant de inferioribus, et de mediis ædificii.
   - `VulgConte (2009)`: Ubi erant gazophylacia in superioribus humiliora: quia supportabant porticus, quæ ex illis eminebant de inferioribus, et de mediis ædificii.
   - `VulgSistina (1590)`: Ubi erant gazophylacia in superioribus humiliora: quia supportabant porticus, quae ex illis eminebant de inferioribus, et de mediis aedificii.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tristega enim erant, et non habebant columnas, sicut erant columnæ atriorum: propterea eminebant de inferioribus, et de mediis a terra cubitis quinquaginta.
@@ -127,7 +118,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tristega enim erant, et non habebant columnas, sicut erant columnæ atriorum: propterea eminebant de inferioribus, et de mediis a terra cubitis quinquaginta.
   - `VulgConte (2009)`: Tristega enim erant, et non habebant columnas, sicut erant columnæ atriorum: propterea eminebant de inferioribus, et de mediis a terra cubitis quinquaginta.
   - `VulgSistina (1590)`: Tristega enim erant, et non habebant columnas, sicut erant columnae atriorum: propterea eminebant de inferioribus, et de mediis a terra cubitis quinquaginta.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et peribolus exterior secundum gazophylacia, quæ erant in via atrii exterioris ante gazophylacia: longitudo ejus quinquaginta cubitorum:
@@ -136,7 +127,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et peribolus exterior secundum gazophylacia, quæ erant in via atrii exterioris ante gazophylacia: longitudo eius quinquaginta cubitorum.
   - `VulgConte (2009)`: Et peribolus exterior secundum gazophylacia, quæ erant in via atrii exterioris ante gazophylacia: longitudo eius quinquaginta cubitorum.
   - `VulgSistina (1590)`: Et peribolus exterior secundum gazophylacia, quae erant in via atrii exterioris ante gazophylacia: longitudo eius quinquaginta cubitorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** quia longitudo erat gazophylaciorum atrii exterioris quinquaginta cubitorum, et longitudo ante faciem templi, centum cubitorum.
@@ -145,7 +136,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quia longitudo erat gazophylaciorum atrii exterioris quinquaginta cubitorum: et longitudo ante faciem templi, centum cubitorum.
   - `VulgConte (2009)`: Quia longitudo erat gazophylaciorum atrii exterioris quinquaginta cubitorum: et longitudo ante faciem templi, centum cubitorum.
   - `VulgSistina (1590)`: Quia longitudo erat gazophylaciorum atrii exterioris quinquaginta cubitorum: et longitudo ante faciem templi, centum cubitorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et erat subter gazophylacia hæc introitus ab oriente, ingredientium in ea de atrio exteriori.
@@ -154,7 +145,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et erat subter gazophylacia hæc introitus ab Oriente ingredientium in ea de atrio exteriori.
   - `VulgConte (2009)`: Et erat subter gazophylacia hæc introitus ab Oriente ingredientium in ea de atrio exteriori.
   - `VulgSistina (1590)`: Et erat subter gazophylacia haec introitus ab Oriente ingredientium in ea de atrio exteriori.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** In latitudine periboli atrii quod erat contra viam orientalem, in faciem ædificii separati, et erant ante ædificium gazophylacia.
@@ -163,7 +154,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In latitudine periboli atrii, quod erat contra viam Orientalem, in faciem ædificii separati, et erant ante ædificium gazophylacia.
   - `VulgConte (2009)`: In latitudine periboli atrii, quod erat contra viam Orientalem, in faciem ædificii separati, et erant ante ædificium gazophylacia.
   - `VulgSistina (1590)`: In latitudine periboli atrii, quod erat contra viam Orientalem, in faciem aedificii separati, et erant ante aedificium gazophylacia.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et via ante faciem eorum, juxta similitudinem gazophylaciorum quæ erant in via aquilonis: secundum longitudinem eorum, sic et latitudo eorum, et omnis introitus eorum, et similitudines, et ostia eorum.
@@ -172,7 +163,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et via ante faciem eorum iuxta similitudinem gazophylaciorum, quæ erant in via Aquilonis: secundum longitudinem eorum, sic et latitudo eorum: et omnis introitus eorum, et similitudines, et ostia eorum.
   - `VulgConte (2009)`: Et via ante faciem eorum iuxta similitudinem gazophylaciorum, quæ erant in via Aquilonis: secundum longitudinem eorum, sic et latitudo eorum: et omnis introitus eorum, et similitudines, et ostia eorum
   - `VulgSistina (1590)`: Et via ante faciem eorum iuxta similitudinem gazophylaciorum, quae erant in via Aquilonis: secundum longitudinem eorum, sic et latitudo eorum: et omnis introitus eorum, et similitudines, et ostia eorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Secundum ostia gazophylaciorum, quæ erant in via respiciente ad notum: ostium in capite viæ, quæ via erat ante vestibulum separatum per viam orientalem ingredientibus.
@@ -181,7 +172,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: secundum ostia gazophylaciorum, quæ erant in via respiciente ad Notum: ostium in capite viæ: quæ via erat ante vestibulum separatum per viam Orientalem ingredientibus.
   - `VulgConte (2009)`: secundum ostia gazophylaciorum, quæ erant in via respiciente ad Notum: ostium in capite viæ: quæ via erat ante vestibulum separatum per viam Orientalem ingredientibus.
   - `VulgSistina (1590)`: secundum ostia gazophylaciorum, quae erant in via respiciente ad Notum: ostium in capite viae: quae via erat ante vestibulum separatum per viam Orientalem ingredientibus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et dixit ad me: Gazophylacia aquilonis, et gazophylacia austri, quæ sunt ante ædificium separatum, hæc sunt gazophylacia sancta, in quibus vescuntur sacerdotes qui appropinquant ad Dominum in Sancta sanctorum: ibi ponent Sancta sanctorum et oblationem pro peccato et pro delicto: locus enim sanctus est.
@@ -190,7 +181,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et dixit ad me: Gazophylacia Aquilonis, et gazophylacia Austri, quæ sunt ante ædificium separatum: hæc sunt gazophylacia sancta: in quibus vescuntur sacerdotes, qui appropinquant ad Dominum in sancta sanctorum: ibi ponent sancta sanctorum, et oblationem pro peccato, et pro delicto: locus enim sanctus est.
   - `VulgConte (2009)`: Et dixit ad me: Gazophylacia Aquilonis, et gazophylacia Austri, quæ sunt ante ædificium separatum: hæc sunt gazophylacia sancta: in quibus vescuntur sacerdotes, qui appropinquant ad Dominum in Sancta Sanctorum: ibi ponent Sancta Sanctorum, et oblationem pro peccato, et pro delicto: locus enim sanctus est.
   - `VulgSistina (1590)`: Et dixit ad me: Gazophylacia Aquilonis, et gazophylacia Austri, quae sunt ante aedificium separatum: haec sunt gazophylacia sancta: in quibus vescuntur sacerdotes, qui appropinquant ad Dominum in sancta sanctorum: ibi ponent sancta sanctorum, et oblationem pro peccato, et pro delicto: locus enim sanctus est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cum autem ingressi fuerint sacerdotes, non egredientur de sanctis in atrium exterius: et ibi reponent vestimenta sua in quibus ministrant, quia sancta sunt, vestienturque vestimentis aliis: et sic procedent ad populum.
@@ -199,7 +190,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cum autem ingressi fuerint sacerdotes, non egredientur de sanctis in atrium exterius: et ibi reponent vestimenta sua, in quibus ministrant, quia sancta sunt: vestienturque vestimentis aliis, et sic procedent ad populum.
   - `VulgConte (2009)`: Cum autem ingressi fuerint sacerdotes, non egredientur de sanctis in atrium exterius: et ibi reponent vestimenta sua, in quibus ministrant, quia sancta sunt: vestienturque vestimentis aliis, et sic procedent ad populum.
   - `VulgSistina (1590)`: Cum autem ingressi fuerint sacerdotes, non egredientur de sanctis in atrium exterius: et ibi reponent vestimenta sua, in quibus ministrant, quia sancta sunt: vestienturque vestimentis aliis, et sic procedent ad populum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque complesset mensuras domus interioris, eduxit me per viam portæ quæ respiciebat ad viam orientalem: et mensus est eam undique per circuitum.
@@ -208,7 +199,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque complesset mensuras domus interioris, eduxit me per viam portæ, quæ respiciebat ad viam Orientalem: et mensus est eam undique per circuitum.
   - `VulgConte (2009)`: Cumque complesset mensuras domus interioris, eduxit me per viam portæ, quæ respiciebat ad viam Orientalem: et mensus est eam undique per circuitum.
   - `VulgSistina (1590)`: Cumque complesset mensuras domus interioris, eduxit me per viam portae, quae respiciebat ad viam Orientalem: et mensus est eam undique per circuitum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Mensus est autem contra ventum orientalem calamo mensuræ, quingentos calamos in calamo mensuræ per circuitum.
@@ -217,7 +208,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Mensus est autem contra ventum Orientalem calamo mensuræ, quingentos calamos in calamo mensuræ per circuitum.
   - `VulgConte (2009)`: Mensus est autem contra ventum Orientalem calamo mensuræ, quingentos calamos in calamo mensuræ per circuitum.
   - `VulgSistina (1590)`: Mensus est autem contra ventum Orientalem calamo mensurae, quingentos calamos in calamo mensurae per circuitum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et mensus est contra ventum aquilonis quingentos calamos in calamo mensuræ per gyrum.
@@ -226,7 +217,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et mensus est contra ventum Aquilonis quingentos calamos in calamo mensuræ per gyrum.
   - `VulgConte (2009)`: Et mensus est contra ventum Aquilonis quingentos calamos in calamo mensuræ per gyrum.
   - `VulgSistina (1590)`: Et mensus est contra ventum Aquilonis quingentos calamos in calamo mensurae per gyrum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ad ventum australem mensus est quingentos calamos in calamo mensuræ per circuitum.
@@ -235,7 +226,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ad ventum Australem mensus est quingentos calamos in calamo mensuræ per circuitum.
   - `VulgConte (2009)`: Et ad ventum Australem mensus est quingentos calamos in calamo mensuræ per circuitum.
   - `VulgSistina (1590)`: Et ad ventum Australem mensus est quingentos calamos in calamo mensurae per circuitum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ad ventum occidentalem mensus est quingentos calamos in calamo mensuræ.
@@ -244,7 +235,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ad ventum Occidentalem mensus est quingentos calamos in calamo mensuræ.
   - `VulgConte (2009)`: Et ad ventum Occidentalem mensus est quingentos calamos in calamo mensuræ.
   - `VulgSistina (1590)`: Et ad ventum Occidentalem mensus est quingentos calamos in calamo mensurae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Per quatuor ventos mensus est murum ejus undique per circuitum, longitudinem quingentorum cubitorum, et latitudinem quingentorum cubitorum, dividentem inter sanctuarium et vulgi locum.
@@ -253,4 +244,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Per quattuor ventos mensus est murum eius undique per circuitum, longitudinem quingentorum cubitorum, et latitudinem quingentorum cubitorum dividentem inter sanctuarium et vulgi locum.
   - `VulgConte (2009)`: Per quattuor ventos mensus est murum eius undique per circuitum, longitudinem quingentorum cubitorum, et latitudinem quingentorum cubitorum dividentem inter sanctuarium et vulgi locum.
   - `VulgSistina (1590)`: Per quattuor ventos mensus est murum eius undique per circuitum, longitudinem quingentorum cubitorum, et latitudinem quingentorum cubitorum dividentem inter sanctuarium et vulgi locum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

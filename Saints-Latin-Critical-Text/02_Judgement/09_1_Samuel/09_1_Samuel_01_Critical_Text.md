@@ -1,8 +1,8 @@
 # 1 Samuel (1 Kingdoms) 01 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:24Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -77,10 +68,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### 1 Samuel (1 Kingdoms) 1:9
-- **Apparatus:** `templi` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **domus** VulgSistina (1590)
+- **Apparatus:** `templi` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **domus** VulgSistina (1590)
 
 ### 1 Samuel (1 Kingdoms) 1:19
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **in** VulgSistina (1590)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **in** VulgSistina (1590)
 
 ### 1 Samuel (1 Kingdoms) 1:21
 - *Disregarded Surface Variant:* kept `(adopted text)` over `solemnem, / sollemnem`, `solemnem, / sollemnem,`, `solemnem, / sollemnem,`, `solemnem, / sollemnem,` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -96,7 +87,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Fuit vir unus de Ramathaimsophim, de monte Ephraim, et nomen eius Elcana, filius Ieroham, filii Eliu, filii Thohu, filii Suph, Ephrathæus:
   - `VulgConte (2009)`: Fuit vir unus de Ramathaimsophim, de monte Ephraim, et nomen eius Elcana, filius Ieroham, filii Eliu, filii Thohu, filii Suph, Ephrathæus:
   - `VulgSistina (1590)`: Fuit vir unus de Ramathaimsophim, de monte Ephraim, et nomen eius Elcana, filius Ieroham, filii Eliu, filii Thohu, filii Suph, Ephrathaeus:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et habuit duas uxores, nomen uni Anna, et nomen secundæ Phenenna. Fueruntque Phenennæ filii: Annæ autem non erant liberi.
@@ -105,7 +96,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et habuit duas uxores, nomen uni Anna, et nomen secundæ Phenenna. Fueruntque Phenennæ filii: Annæ autem non erant liberi.
   - `VulgConte (2009)`: et habuit duas uxores, nomen uni Anna, et nomen secundæ Phenenna. Fueruntque Phenennæ filii: Annæ autem non erant liberi.
   - `VulgSistina (1590)`: et habuit duas uxores, nomen uni Anna, et nomen secundae Phenenna. Fueruntque Phenennae filii: Annae autem non erant liberi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ascendebat vir ille de civitate sua statutis diebus, ut adoraret et sacrificaret Domino exercituum in Silo. Erant autem ibi duo filii Heli, Ophni et Phinees, sacerdotes Domini.
@@ -114,7 +105,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ascendebat vir ille de civitate sua statutis diebus, ut adoraret et sacrificaret Domino exercituum in Silo. Erant autem ibi duo filii Heli, Ophni et Phinees, sacerdotes Domini.
   - `VulgConte (2009)`: Et ascendebat vir ille de civitate sua statutis diebus, ut adoraret et sacrificaret Domino exercituum in Silo. Erant autem ibi duo filii Heli, Ophni et Phinees, sacerdotes Domini.
   - `VulgSistina (1590)`: Et ascendebat vir ille de civitate sua statutis diebus, ut adoraret et sacrificaret Domino exercituum in Silo. Erant autem ibi duo filii Heli, Ophni et Phinees, sacerdotes Domini.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Venit ergo dies, et immolavit Elcana, deditque Phenennæ uxori suæ, et cunctis filiis ejus et filiabus, partes:
@@ -123,7 +114,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Venit ergo dies, et immolavit Elcana, deditque Phenennæ uxori suæ, et cunctis filiis eius, et filiabus partes:
   - `VulgConte (2009)`: Venit ergo dies, et immolavit Elcana, deditque Phenennæ uxori suæ, et cunctis filiis eius, et filiabus partes:
   - `VulgSistina (1590)`: Venit ergo dies, et immolavit Elcana, deditque Phenennae uxori suae, et cunctis filiis eius, et filiabus partes:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Annæ autem dedit partem unam tristis, quia Annam diligebat. Dominus autem concluserat vulvam ejus.
@@ -132,7 +123,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Annæ autem dedit partem unam tristis, quia Annam diligebat. Dominus autem concluserat vulvam eius.
   - `VulgConte (2009)`: Annæ autem dedit partem unam tristis, quia Annam diligebat. Dominus autem concluserat vulvam eius.
   - `VulgSistina (1590)`: Annae autem dedit partem unam tristis, quia Annam diligebat. Dominus autem concluserat vulvam eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Affligebat quoque eam æmula ejus, et vehementer angebat, in tantum ut exprobraret quod Dominus conclusisset vulvam ejus:
@@ -141,7 +132,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Affligebat quoque eam æmula eius, et vehementer angebat, in tantum, ut exprobraret quod Dominus conclusisset vulvam eius:
   - `VulgConte (2009)`: Affligebat quoque eam æmula eius, et vehementer angebat, in tantum, ut exprobraret quod Dominus conclusisset vulvam eius:
   - `VulgSistina (1590)`: Affligebat quoque eam aemula eius, et vehementer angebat, in tantum, ut exprobraret quod Dominus conclusisset vulvam eius:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** sicque faciebat per singulos annos: cum redeunte tempore ascenderent ad templum Domini, et sic provocabat eam: porro illa flebat, et non capiebat cibum.
@@ -150,7 +141,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: sicque faciebat per singulos annos, cum redeunte tempore ascenderent ad templum Domini: et sic provocabat eam. porro illa flebat, et non capiebat cibum.
   - `VulgConte (2009)`: sicque faciebat per singulos annos, cum redeunte tempore ascenderent ad templum Domini: et sic provocabat eam. Porro illa flebat, et non capiebat cibum.
   - `VulgSistina (1590)`: sicque faciebat per singulos annos, cum redeunte tempore ascenderent ad templum Domini: et sic provocabat eam. porro illa flebat, et non capiebat cibum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixit ergo ei Elcana vir suus: Anna, cur fles? et quare non comedis? et quam ob rem affligitur cor tuum? numquid non ego melior tibi sum, quam decem filii?
@@ -159,7 +150,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixit ergo ei Elcana vir suus: Anna, cur fles? et quare non comedis? et quam ob rem affligitur cor tuum? numquid non ego melior tibi sum, quam decem filii?
   - `VulgConte (2009)`: Dixit ergo ei Elcana vir suus: Anna, cur fles? Et quare non comedis? Et quam ob rem affligitur cor tuum? Numquid non ego melior tibi sum, quam decem filii?
   - `VulgSistina (1590)`: Dixit ergo ei Elcana vir suus: Anna, cur fles? et quare non comedis? et quam ob rem affligitur cor tuum? numquid non ego melior tibi sum, quam decem filii?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Surrexit autem Anna postquam comederat et biberat in Silo. Et Heli sacerdote sedente super sellam ante postes templi Domini,
@@ -168,7 +159,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Surrexit autem Anna postquam comederat, et biberat in Silo. Et Heli sacerdote sedente super Sellam ante postes templi Domini,
   - `VulgConte (2009)`: Surrexit autem Anna postquam comederat, et biberat in Silo. Et Heli sacerdote sedente super sellam ante postes templi Domini,
   - `VulgSistina (1590)`: Surrexit autem Anna postquam comederat, et biberat in Silo. Et Heli sacerdote sedente super Sellam ante postes domus Domini,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** cum esset Anna amaro animo, oravit ad Dominum, flens largiter,
@@ -177,7 +168,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: cum esset Anna amaro animo, oravit ad Dominum, flens largiter,
   - `VulgConte (2009)`: cum esset Anna amaro animo, oravit ad Dominum, flens largiter,
   - `VulgSistina (1590)`: cum esset Anna amaro animo, oravit ad Dominum, flens largiter,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et votum vovit, dicens: Domine exercituum, si respiciens videris afflictionem famulæ tuæ, et recordatus mei fueris, nec oblitus ancillæ tuæ, dederisque servæ tuæ sexum virilem: dabo eum Domino omnibus diebus vitæ ejus, et novacula non ascendet super caput ejus.
@@ -186,7 +177,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et votum vovit, dicens: Domine exercituum, si respiciens videris afflictionem famulæ tuæ, et recordatus mei fueris, nec oblitus ancillæ tuæ, dederisque servæ tuæ sexum virilem: dabo eum Domino omnibus diebus vitæ eius, et novacula non ascendet super caput eius.
   - `VulgConte (2009)`: et votum vovit, dicens: Domine exercituum, si respiciens videris afflictionem famulæ tuæ, et recordatus mei fueris, nec oblitus ancillæ tuæ, dederisque servæ tuæ sexum virilem: dabo eum Domino omnibus diebus vitæ eius, et novacula non ascendet super caput eius.
   - `VulgSistina (1590)`: et votum vovit, dicens: Domine exercituum, si respiciens videris afflictionem famulae tuae, et recordatus mei fueris, nec oblitus ancillae tuae, dederisque servae tuae sexum virilem: dabo eum Domino omnibus diebus vitae eius, et novacula non ascendet super caput eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Factum est autem, cum illa multiplicaret preces coram Domino, ut Heli observaret os ejus.
@@ -195,7 +186,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Factum est autem, cum illa multiplicaret preces coram Domino, ut Heli observaret os eius.
   - `VulgConte (2009)`: Factum est autem, cum illa multiplicaret preces coram Domino, ut Heli observaret os eius.
   - `VulgSistina (1590)`: Factum est autem, cum illa multiplicaret preces coram Domino, ut Heli observaret os eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Porro Anna loquebatur in corde suo, tantumque labia illius movebantur, et vox penitus non audiebatur. Æstimavit ergo eam Heli temulentam,
@@ -204,7 +195,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Porro Anna loquebatur in corde suo, tantumque labia illius movebantur, et vox penitus non audiebatur. Æstimavit ergo eam Heli temulentam,
   - `VulgConte (2009)`: Porro Anna loquebatur in corde suo, tantumque labia illius movebantur, et vox penitus non audiebatur. Æstimavit ergo eam Heli temulentam,
   - `VulgSistina (1590)`: Porro Anna loquebatur in corde suo, tantumque labia illius movebantur, et vox penitus non audiebatur. Aestimavit ergo eam Heli temulentam,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** dixitque ei: Usquequo ebria eris? digere paulisper vinum, quo mades.
@@ -213,7 +204,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: dixitque ei: Usquequo ebria eris? digere paulisper vinum, quo mades.
   - `VulgConte (2009)`: dixitque ei: Usquequo ebria eris? Digere paulisper vinum, quo mades.
   - `VulgSistina (1590)`: dixitque ei: Usquequo ebria eris? digere paulisper vinum, quo mades.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Respondens Anna: Nequaquam, inquit, domine mi: nam mulier infelix nimis ego sum: vinumque et omne quod inebriare potest, non bibi, sed effudi animam meam in conspectu Domini.
@@ -222,7 +213,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Respondens Anna, Nequaquam, inquit, domine mi: nam mulier infelix nimis ego sum, vinumque et omne quod inebriare potest, non bibi, sed effudi animam meam in conspectu Domini.
   - `VulgConte (2009)`: Respondens Anna: Nequaquam, inquit, domine mi: nam mulier infelix nimis ego sum, vinumque et omne quod inebriare potest, non bibi, sed effudi animam meam in conspectu Domini.
   - `VulgSistina (1590)`: Respondens Anna, Nequaquam, inquit, domine mi: nam mulier infelix nimis ego sum, vinumque et omne quod inebriare potest, non bibi, sed effudi animam meam in conspectu Domini.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ne reputes ancillam tuam quasi unam de filiabus Belial: quia ex multitudine doloris et mœroris mei locuta sum usque in præsens.
@@ -231,7 +222,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ne reputes ancillam tuam quasi unam de filiabus Belial: quia ex multitudine doloris, et mœroris mei locuta sum usque in præsens.
   - `VulgConte (2009)`: Ne reputes ancillam tuam quasi unam de filiabus Belial: quia ex multitudine doloris, et mœroris mei locuta sum usque in præsens.
   - `VulgSistina (1590)`: Ne reputes ancillam tuam quasi unam de filiabus Belial: quia ex multitudine doloris, et moeroris mei locuta sum usque in praesens.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tunc Heli ait ei: Vade in pace: et Deus Israël det tibi petitionem tuam quam rogasti eum.
@@ -240,7 +231,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tunc Heli ait ei: Vade in pace: et Deus Israel det tibi petitionem tuam, quam rogasti eum.
   - `VulgConte (2009)`: Tunc Heli ait ei: Vade in pace: et Deus Israel det tibi petitionem tuam, quam rogasti eum.
   - `VulgSistina (1590)`: Tunc Heli ait ei: Vade in pace: et Deus Israel det tibi petitionem tuam, quam rogasti eum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et illa dixit: Utinam inveniat ancilla tua gratiam in oculis tuis. Et abiit mulier in viam suam, et comedit, vultusque illius non sunt amplius in diversa mutati.
@@ -249,7 +240,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et illa dixit: Utinam inveniat ancilla tua gratiam in oculis tuis. Et abiit mulier in viam suam, et comedit, vultusque illius non sunt amplius in diversa mutati.
   - `VulgConte (2009)`: Et illa dixit: Utinam inveniat ancilla tua gratiam in oculis tuis. Et abiit mulier in viam suam, et comedit, vultusque illius non sunt amplius in diversa mutati.
   - `VulgSistina (1590)`: Et illa dixit: Utinam inveniat ancilla tua gratiam in oculis tuis. Et abiit mulier in viam suam, et comedit, vultusque illius non sunt amplius in diversa mutati.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et surrexerunt mane, et adoraverunt coram Domino: reversique sunt, et venerunt in domum suam Ramatha. Cognovit autem Elcana Annam uxorem suam: et recordatus est ejus Dominus.
@@ -258,7 +249,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et surrexerunt mane, et adoraverunt coram Domino: reversique sunt, et venerunt in domum suam Ramatha. Cognovit autem Elcana Annam uxorem suam: et recordatus est eius Dominus.
   - `VulgConte (2009)`: Et surrexerunt mane, et adoraverunt coram Domino: reversique sunt, et venerunt in domum suam Ramatha. Cognovit autem Elcana Annam uxorem suam: et recordatus est eius Dominus.
   - `VulgSistina (1590)`: Et surrexerunt mane, et adoraverunt coram Domino: reversique sunt, et venerunt in domum suam in Ramatha. Cognovit autem Elcana Annam uxorem suam: et recordatus est eius Dominus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et factum est post circulum dierum, concepit Anna, et peperit filium: vocavitque nomen ejus Samuel, eo quod a Domino postulasset eum.
@@ -267,7 +258,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et factum est post circulum dierum, concepit Anna, et peperit filium, vocavitque nomen eius Samuel: eo quod a Domino postulasset eum.
   - `VulgConte (2009)`: Et factum est post circulum dierum, concepit Anna, et peperit filium, vocavitque nomen eius Samuel: eo quod a Domino postulasset eum.
   - `VulgSistina (1590)`: Et factum est post circulum dierum, concepit Anna, et peperit filium, vocavitque nomen eius Samuel: eo quod a Domino postulasset eum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ascendit autem vir ejus Elcana, et omnis domus ejus, ut immolaret Domino hostiam solemnem, et votum suum.
@@ -276,7 +267,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ascendit autem vir eius Elcana, et omnis domus eius, ut immolaret Domino hostiam sollemnem, et votum suum,
   - `VulgConte (2009)`: Ascendit autem vir eius Elcana, et omnis domus eius, ut immolaret Domino hostiam sollemnem, et votum suum,
   - `VulgSistina (1590)`: Ascendit autem vir eius Elcana, et omnis domus eius, ut immolaret Domino hostiam sollemnem, et votum suum,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et Anna non ascendit: dixit enim viro suo: Non vadam donec ablactetur infans, et ducam eum, ut appareat ante conspectum Domini, et maneat ibi jugiter.
@@ -285,7 +276,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et Anna non ascendit: dixit enim viro suo: Non vadam, donec ablactetur infans, et ducam eum, ut appareat ante conspectum Domini, et maneat ibi iugiter.
   - `VulgConte (2009)`: et Anna non ascendit: dixit enim viro suo: Non vadam, donec ablactetur infans, et ducam eum, ut appareat ante conspectum Domini, et maneat ibi iugiter.
   - `VulgSistina (1590)`: et Anna non ascendit: dixit enim viro suo: Non vadam, donec ablactetur infans, et ducam eum, ut appareat ante conspectum Domini, et maneat ibi iugiter.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ait ei Elcana vir suus: Fac quod bonum tibi videtur, et mane donec ablactes eum: precorque ut impleat Dominus verbum suum. Mansit ergo mulier, et lactavit filium suum, donec amoveret eum a lacte.
@@ -294,7 +285,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ait ei Elcana vir suus: Fac quod bonum tibi videtur, et mane donec ablactes eum: precorque ut impleat Dominus verbum suum. Mansit ergo mulier, et lactavit filium suum, donec amoveret eum a lacte.
   - `VulgConte (2009)`: Et ait ei Elcana vir suus: Fac quod bonum tibi videtur, et mane donec ablactes eum: precorque ut impleat Dominus verbum suum. Mansit ergo mulier, et lactavit filium suum, donec amoveret eum a lacte.
   - `VulgSistina (1590)`: Et ait ei Elcana vir suus: Fac quod bonum tibi videtur, et mane donec ablactes eum: precorque ut impleat Dominus verbum suum. Mansit ergo mulier, et lactavit filium suum, donec amoveret eum a lacte.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et adduxit eum secum, postquam ablactaverat, in vitulis tribus, et tribus modiis farinæ, et amphora vini, et adduxit eum ad domum Domini in Silo. Puer autem erat adhuc infantulus:
@@ -303,7 +294,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et adduxit eum secum, postquam ablactaverat, in vitulis tribus, et tribus modiis farinæ, et amphora vini, et adduxit eum ad domum Domini in Silo. Puer autem erat adhuc infantulus:
   - `VulgConte (2009)`: Et adduxit eum secum, postquam ablactaverat, in vitulis tribus, et tribus modiis farinæ, et amphora vini, et adduxit eum ad domum Domini in Silo. Puer autem erat adhuc infantulus:
   - `VulgSistina (1590)`: Et adduxit eum secum, postquam ablactaverat, in vitulis tribus, et tribus modiis farinae, et amphora vini, et adduxit eum ad domum Domini in Silo. Puer autem erat adhuc infantulus:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et immolaverunt vitulum, et obtulerunt puerum Heli.
@@ -312,7 +303,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et immolaverunt vitulum, et obtulerunt puerum Heli.
   - `VulgConte (2009)`: et immolaverunt vitulum, et obtulerunt puerum Heli.
   - `VulgSistina (1590)`: et immolaverunt vitulum, et obtulerunt puerum Heli.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ait Anna: Obsecro mi domine, vivit anima tua, domine: ego sum illa mulier, quæ steti coram te hic orans Dominum.
@@ -321,7 +312,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ait Anna: Obsecro mi domine, vivit anima tua domine: ego sum illa mulier, quæ steti coram te hic orans Dominum.
   - `VulgConte (2009)`: Et ait Anna: Obsecro mi domine, vivit anima tua domine: ego sum illa mulier, quæ steti coram te hic orans Dominum.
   - `VulgSistina (1590)`: Et ait Anna: Obsecro mi domine, vivit anima tua domine: ego sum illa mulier, quae steti coram te hic orans Dominum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Pro puero isto oravi, et dedit mihi Dominus petitionem meam quam postulavi eum.
@@ -330,7 +321,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Pro puero isto oravi, et dedit mihi Dominus petitionem meam, quam postulavi eum.
   - `VulgConte (2009)`: Pro puero isto oravi, et dedit mihi Dominus petitionem meam, quam postulavi eum.
   - `VulgSistina (1590)`: Pro puero isto oravi, et dedit mihi Dominus petitionem meam, quam postulavi eum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Idcirco et ego commodavi eum Domino cunctis diebus quibus fuerit commodatus Domino. Et adoraverunt ibi Dominum. Et oravit Anna, et ait:
@@ -339,4 +330,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Idcirco et ego commodavi eum Domino cunctis diebus, quibus fuerit commodatus Domino. Et adoraverunt ibi Dominum. Et oravit Anna, et ait:
   - `VulgConte (2009)`: Idcirco et ego commodavi eum Domino cunctis diebus, quibus fuerit commodatus Domino. Et adoraverunt ibi Dominum. Et oravit Anna, et ait:
   - `VulgSistina (1590)`: Idcirco et ego commodavi eum Domino cunctis diebus, quibus fuerit commodatus Domino. Et adoraverunt ibi Dominum. Et oravit Anna, et ait:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

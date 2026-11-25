@@ -1,8 +1,8 @@
 # Jeremiah 31 — Saints Latin Critical Text
 
-**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:36Z`
+**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:09Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,667 +28,493 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
-- Clem1598-USFX: 31:1 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:2 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:3 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:4 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:5 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:6 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:7 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:8 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:9 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:10 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:11 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:12 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:13 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:14 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:15 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:16 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:17 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:18 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:19 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:20 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:21 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:22 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:23 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:24 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:25 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:26 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:27 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:28 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:29 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:30 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:31 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:32 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:33 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:34 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:35 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:36 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:37 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:38 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:39 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 31:40 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 44 verse(s) re-aligned by content (1←48:1, 2←48:2, 3←48:3, 4←48:4, 5←48:5, 6←48:6…)
-- VulgHetzenauer (1906): 31:1 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:2 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:3 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:4 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:5 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:6 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:7 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:8 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:9 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:10 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:11 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:12 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:13 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:14 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:15 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:16 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:17 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:18 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:19 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:20 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:21 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:22 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:23 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:24 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:25 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:26 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:27 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:28 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:29 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:30 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:31 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:32 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:33 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:34 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:35 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:36 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:37 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:38 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:39 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 31:40 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 44 verse(s) re-aligned by content (1←48:1, 2←48:2, 3←48:3, 4←48:4, 5←48:5, 6←48:6…)
-- VulgConte (2009): 31:1 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:2 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:3 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:4 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:5 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:6 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:7 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:8 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:9 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:10 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:11 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:12 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:13 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:14 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:15 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:16 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:17 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:18 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:19 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:20 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:21 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:22 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:23 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:24 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:25 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:26 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:27 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:28 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:29 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:30 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:31 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:32 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:33 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:34 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:35 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:36 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:37 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:38 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:39 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 31:40 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 44 verse(s) re-aligned by content (1←48:1, 2←48:2, 3←48:3, 4←48:4, 5←48:5, 6←48:6…)
-- VulgSistina (1590): 31:1 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:2 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:3 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:4 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:5 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:6 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:7 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:8 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:9 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:10 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:11 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:12 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:13 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:14 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:15 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:16 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:17 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:18 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:19 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:20 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:21 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:22 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:23 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:24 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:25 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:26 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:27 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:28 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:29 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:30 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:31 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:32 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:33 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:34 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:35 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:36 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:37 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:38 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:39 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 31:40 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 44 verse(s) re-aligned by content (1←48:1, 2←48:2, 3←48:3, 4←48:4, 5←48:5, 6←48:6…)
+- Clem-Saints: 31:1 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:2 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:3 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:4 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:5 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:6 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:7 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:8 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:9 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:10 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:11 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:12 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:13 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:14 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:15 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:16 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:17 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:18 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:19 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:20 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:21 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:22 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:23 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:24 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:25 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:26 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:27 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:28 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:29 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:30 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:31 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:32 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:33 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:34 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:35 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:36 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:37 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:38 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:39 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 31:40 not collated (no verse of the reference matches its wording)
+- Clem-Saints: 40 verse(s) re-aligned by content (1←38:1, 2←38:2, 3←38:3, 4←38:4, 5←38:5, 6←38:6…)
+- Clem-Saints: has verse(s) 41, 42, 43, 44 that no voting edition prints here (an apparatus witness: not printed)
 
 ---
 
 ## Section II — Continuous Latin Critical Text
 
-**1** Ad Moab. Hæc dicit Dominus exercituum, Deus Israël: Væ super Nabo, quoniam vastata est, et confusa! capta est Cariathaim, confusa est fortis, et tremuit.
-**2** Non est ultra exsultatio in Moab contra Hesebon: cogitaverunt malum: Venite, et disperdamus eam de gente. Ergo silens conticesces, sequeturque te gladius.
-**3** Vox clamoris de Oronaim, vastitas et contritio magna.
-**4** Contrita est Moab: annuntiate clamorem parvulis ejus.
-**5** Per ascensum enim Luith plorans ascendet in fletu, quoniam in descensu Oronaim hostes ululatum contritionis audierunt.
-**6** Fugite, salvate animas vestras, et eritis quasi myricæ in deserto:
-**7** pro eo enim quod habuisti fiduciam in munitionibus tuis et in thesauris tuis, tu quoque capieris: et ibit Chamos in transmigrationem, sacerdotes ejus et principes ejus simul.
-**8** Et veniet prædo ad omnem urbem, et urbs nulla salvabitur: et peribunt valles, et dissipabuntur campestria, quoniam dixit Dominus:
-**9** Date florem Moab, quia florens egredietur: et civitates ejus desertæ erunt, et inhabitabiles.
-**10** Maledictus qui facit opus Domini fraudulenter, et maledictus qui prohibet gladium suum a sanguine.
-**11** Fertilis fuit Moab ab adolescentia sua, et requievit in fæcibus suis: nec transfusus est de vase in vas, et in transmigrationem non abiit: idcirco permansit gustus ejus in eo, et odor ejus non est immutatus.
-**12** Propterea ecce dies veniunt, dicit Dominus, et mittam ei ordinatores et stratores laguncularum: et sternent eum, et vasa ejus exhaurient, et lagunculas eorum collident.
-**13** Et confundetur Moab a Chamos sicut confusa est domus Israël a Bethel, in qua habebat fiduciam.
-**14** Quomodo dicitis: Fortes sumus, et viri robusti ad præliandum?
-**15** Vastata est Moab, et civitates illius succiderunt, et electi juvenes ejus descenderunt in occisionem, ait Rex: Dominus exercituum nomen ejus.
-**16** Prope est interitus Moab ut veniat, et malum ejus velociter accurret nimis.
-**17** Consolamini eum, omnes qui estis in circuitu ejus: et universi qui scitis nomen ejus, dicite: Quomodo confracta est virga fortis, baculus gloriosus?
-**18** Descende de gloria, et sede in siti, habitatio filiæ Dibon, quoniam vastator Moab ascendit ad te: dissipavit munitiones tuas.
-**19** In via sta, et prospice, habitatio Aroër: interroga fugientem, et ei qui evasit dic: Quid accidit?
-**20** Confusus est Moab, quoniam victus est. Ululate, et clamate: annuntiate in Arnon, quoniam vastata est Moab,
-**21** et judicium venit ad terram campestrem, super Helon, et super Jasa, et super Mephaath,
-**22** et super Dibon, et super Nabo, et super domum Deblathaim,
-**23** et super Cariathaim, et super Bethgamul, et super Bethmaon,
-**24** et super Carioth, et super Bosra, et super omnes civitates terræ Moab, quæ longe et quæ prope sunt.
-**25** Abscissum est cornu Moab, et brachium ejus contritum est, ait Dominus.
-**26** Inebriate eum, quoniam contra Dominum erectus est: et allidet manum Moab in vomitu suo, et erit in derisum etiam ipse.
-**27** Fuit enim in derisum tibi Israël: quasi inter fures reperisses eum: propter verba ergo tua quæ adversum illum locutus es, captivus duceris.
-**28** Relinquite civitates, et habitate in petra, habitatores Moab: et estote quasi columba nidificans in summo ore foraminis.
-**29** Audivimus superbiam Moab: superbus est valde: sublimitatem ejus, et arrogantiam, et superbiam, et altitudinem cordis ejus.
-**30** Ego scio, ait Dominus, jactantiam ejus, et quod non sit juxta eam virtus ejus, nec juxta quod poterat conata sit facere.
-**31** Ideo super Moab ejulabo, et ad Moab universam clamabo, ad viros muri fictilis lamentantes:
-**32** de planctu Jazer plorabo tibi, vinea Sabama. Propagines tuæ transierunt mare; usque ad mare Jazer pervenerunt: super messem tuam et vindemiam tuam prædo irruit.
-**33** Ablata est lætitia et exsultatio de Carmelo et de terra Moab, et vinum de torcularibus sustuli: nequaquam calcator uvæ solitum celeuma cantabit.
-**34** De clamore Hesebon usque Eleale et Jasa, dederunt vocem suam; a Segor usque ad Oronaim, vitula conternante: aquæ quoque Nemrim pessimæ erunt.
-**35** Et auferam de Moab, ait Dominus, offerentem in excelsis, et sacrificantem diis ejus.
-**36** Propterea cor meum ad Moab quasi tibiæ resonabit, et cor meum ad viros muri fictilis dabit sonitum tibiarum: quia plus fecit quam potuit, idcirco perierunt.
-**37** Omne enim caput calvitium, et omnis barba rasa erit: in cunctis manibus colligatio, et super omne dorsum cilicium:
-**38** super omnia tecta Moab, et in plateis ejus, omnis planctus: quoniam contrivi Moab sicut vas inutile, ait Dominus.
-**39** Quomodo victa est, et ululaverunt? quomodo dejecit cervicem Moab, et confusus est? eritque Moab in derisum, et in exemplum omnibus in circuitu suo.
-**40** Hæc dicit Dominus: Ecce quasi aquila volabit, et extendet alas suas ad Moab.
-**41** Capta est Carioth, et munitiones comprehensæ sunt: et erit cor fortium Moab in die illa sicut cor mulieris parturientis,
-**42** et cessabit Moab esse populus, quoniam contra Dominum gloriatus est.
-**43** Pavor, et fovea, et laqueus super te, o habitator Moab, dicit Dominus.
-**44** Qui fugerit a facie pavoris cadet in foveam, et qui conscenderit de fovea capietur laqueo: adducam enim super Moab annum visitationis eorum, ait Dominus.
+**1** In tempore illo, dicit Dominus, ero Deus universis cognationibus Israël, et ipsi erunt mihi in populum.
+**2** Hæc dicit Dominus: Invenit gratiam in deserto populus qui remanserat a gladio: vadet ad requiem suam Israël.
+**3** Longe Dominus apparuit mihi. Et in caritate perpetua dilexi te: ideo attraxi te, miserans.
+**4** Rursumque ædificabo te, et ædificaberis, virgo Israël: adhuc ornaberis tympanis tuis, et egredieris in choro ludentium.
+**5** Adhuc plantabis vineas in montibus Samariæ: plantabunt plantantes, et donec tempus veniat, non vindemiabunt.
+**6** Quia erit dies in qua clamabunt custodes in monte Ephraim: Surgite, et ascendamus in Sion ad Dominum Deum nostrum.
+**7** Quia hæc dicit Dominus: Exsultate in lætitia, Jacob, et hinnite contra caput gentium: personate, et canite, et dicite: Salva, Domine, populum tuum, reliquias Israël.
+**8** Ecce ego adducam eos de terra aquilonis, et congregabo eos ab extremis terræ: inter quos erunt cæcus et claudus, prægnans et pariens simul, cœtus magnus revertentium huc.
+**9** In fletu venient, et in misericordia reducam eos: et adducam eos per torrentes aquarum in via recta, et non impingent in ea, quia factus sum Israëli pater, et Ephraim primogenitus meus est.
+**10** Audite verbum Domini, gentes, et annuntiate in insulis quæ procul sunt, et dicite: Qui dispersit Israël congregabit eum, et custodiet eum sicut pastor gregem suum.
+**11** Redemit enim Dominus Jacob, et liberavit eum de manu potentioris.
+**12** Et venient, et laudabunt in monte Sion: et confluent ad bona Domini, super frumento, et vino, et oleo, et fœtu pecorum et armentorum: eritque anima eorum quasi hortus irriguus, et ultra non esurient.
+**13** Tunc lætabitur virgo in choro, juvenes et senes simul: et convertam luctum eorum in gaudium, et consolabor eos, et lætificabo a dolore suo.
+**14** Et inebriabo animam sacerdotum pinguedine, et populus meus bonis meis adimplebitur, ait Dominus.
+**15** Hæc dicit Dominus: Vox in excelso audita est lamentationis: luctus, et fletus Rachel plorantis filios suos, et nolentis consolari super eis, quia non sunt.
+**16** Hæc dicit Dominus: Quiescat vox tua a ploratu, et oculi tui a lacrimis, quia est merces operi tuo, ait Dominus, et revertentur de terra inimici:
+**17** et est spes novissimis tuis, ait Dominus, et revertentur filii ad terminos suos.
+**18** Audiens audivi Ephraim transmigrantem: Castigasti me, et eruditus sum, quasi juvenculus indomitus: converte me, et convertar, quia tu Dominus Deus meus.
+**19** Postquam enim convertisti me, egi pœnitentiam: et postquam ostendisti mihi, percussi femur meum. Confusus sum, et erubui, quoniam sustinui opprobrium adolescentiæ meæ.
+**20** Si filius honorabilis mihi Ephraim, si puer delicatus! quia ex quo locutus sum de eo, adhuc recordabor ejus. Idcirco conturbata sunt viscera mea super eum: miserans miserebor ejus, ait Dominus.
+**21** Statue tibi speculam; pone tibi amaritudines; dirige cor tuum in viam rectam in qua ambulasti: revertere, virgo Israël, revertere ad civitates tuas istas.
+**22** Usquequo deliciis dissolveris, filia vaga? quia creavit Dominus novum super terram: femina circumdabit virum.
+**23** Hæc dicit Dominus exercituum, Deus Israël: Adhuc dicent verbum istud in terra Juda et in urbibus ejus, cum convertero captivitatem eorum: Benedicat tibi Dominus, pulchritudo justitiæ, mons sanctus:
+**24** et habitabunt in eo Judas et omnes civitates ejus simul, agricolæ et minantes greges.
+**25** Quia inebriavi animam lassam, et omnem animam esurientem saturavi.
+**26** Ideo quasi de somno suscitatus sum: et vidi, et somnus meus dulcis mihi.
+**27** Ecce dies veniunt, dicit Dominus, et seminabo domum Israël et domum Juda semine hominum et semine jumentorum.
+**28** Et sicut vigilavi super eos ut evellerem, et demolirer, et dissiparem, et disperderem, et affligerem, sic vigilabo super eos ut ædificem et plantem, ait Dominus.
+**29** In diebus illis non dicent ultra: Patres comederunt uvam acerbam, et dentes filiorum obstupuerunt.
+**30** Sed unusquisque in iniquitate sua morietur: omnis homo qui comederit uvam acerbam, obstupescent dentes ejus.
+**31** Ecce dies venient, dicit Dominus, et feriam domui Israël et domui Juda fœdus novum,
+**32** non secundum pactum quod pepigi cum patribus eorum in die qua apprehendi manum eorum ut educerem eos de terra Ægypti, pactum quod irritum fecerunt: et ego dominatus sum eorum, dicit Dominus.
+**33** Sed hoc erit pactum quod feriam cum domo Israël post dies illos, dicit Dominus: dabo legem meam in visceribus eorum, et in corde eorum scribam eam, et ero eis in Deum, et ipsi erunt mihi in populum:
+**34** et non docebit ultra vir proximum suum et vir fratrem suum, dicens: Cognosce Dominum: omnes enim cognoscent me, a minimo eorum usque ad maximum, ait Dominus: quia propitiabor iniquitati eorum, et peccati eorum non memorabor amplius.
+**35** Hæc dicit Dominus qui dat solem in lumine diei, ordinem lunæ et stellarum in lumine noctis: qui turbat mare, et sonant fluctus ejus: Dominus exercituum nomen illi:
+**36** Si defecerint leges istæ coram me, dicit Dominus, tunc et semen Israël deficiet, ut non sit gens coram me cunctis diebus.
+**37** Hæc dicit Dominus: Si mensurari potuerint cæli sursum, et investigari fundamenta terræ deorsum, et ego abjiciam universum semen Israël, propter omnia quæ fecerunt, dicit Dominus.
+**38** Ecce dies veniunt, dicit Dominus, et ædificabitur civitas Domino, a turre Hananeel usque ad portam anguli.
+**39** Et exibit ultra norma mensuræ in conspectu ejus super collem Gareb, et circuibit Goatha,
+**40** et omnem vallem cadaverum, et cineris, et universam regionem mortis usque ad torrentem Cedron, et usque ad angulum portæ equorum orientalis, Sanctum Domini: non evelletur, et non destruetur ultra in perpetuum.
 
 ---
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
-### Jeremiah 31:2
-- *Disregarded Surface Variant:* kept `(adopted text)` over `exsultatio / exultatio`, `Hesebon: / Esebon`, `exsultatio / exultatio`, `exsultatio / exultatio`, `exsultatio / exultatio` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+### Jeremiah 31:3
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **tui.** VulgSistina (1590)
+- *Disregarded Surface Variant:* kept `(adopted text)` over `attraxi / adtraxi`, `caritate / charitate`, `caritate / charitate`, `caritate / charitate` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
-### Jeremiah 31:4
-- *Disregarded Surface Variant:* kept `(adopted text)` over `annuntiate / adnuntiate`, `annuntiate / annunciate`, `annuntiate / annunciate`, `annuntiate / annunciate` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+### Jeremiah 31:6
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **in monte Samariae et** VulgSistina (1590)
+
+### Jeremiah 31:7
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Exsultate / exultate`, `Israël. / Israhel`, `Exsultate / Exultate`, `Exsultate / Exultate`, `Exsultate / Exultate` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Jeremiah 31:10
+- *Disregarded Surface Variant:* kept `(adopted text)` over `Israël / Israhel`, `annuntiate / annunciate`, `annuntiate / annunciate`, `annuntiate / annunciate` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Jeremiah 31:11
-- *Disregarded Surface Variant:* kept `(adopted text)` over `adolescentia / adulescentia`, `fæcibus / fecibus`, `immutatus. / inmutatus`, `fæcibus / fœcibus`, `fæcibus / fœcibus`, `fæcibus / foecibus` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+- *Disregarded Surface Variant:* kept `(adopted text)` over `liberavit / liberabit` (VulgSistina (1590)) — *Apparatus witness, not a variant: b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)*
 
-### Jeremiah 31:15
-- **Apparatus:** `succiderunt,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **succenderunt:** VulgSistina (1590)
+### Jeremiah 31:16
+- *Disregarded Surface Variant:* kept `(adopted text)` over `lacrimis, / lacrymis:`, `lacrimis, / lacrymis:`, `lacrimis, / lacrymis:` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+
+### Jeremiah 31:17
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **tui** VulgSistina (1590)
 
 ### Jeremiah 31:18
-- **Apparatus:** `ascendit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **ascendet** VulgSistina (1590)
-- *Disregarded Surface Variant:* kept `(adopted text)` over `dissipavit / dissipabit`, `dissipavit / dissipabit` (VulgSistina (1590)) — *Apparatus witness, not a variant: b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)*
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Domine,** VulgSistina (1590)
 
-### Jeremiah 31:20
-- *Disregarded Surface Variant:* kept `(adopted text)` over `annuntiate / adnuntiate`, `annuntiate / annunciate`, `annuntiate / annunciate`, `annuntiate / annunciate` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
+### Jeremiah 31:24
+- **Apparatus:** `Judas` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Iuda,** VulgSistina (1590)
 
-### Jeremiah 31:23
-- **Apparatus:** `Bethgamul,` Clem-Saints Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **domum Gamul,** VulgConte (2009)
-- **Apparatus:** `Bethmaon,` Clem-Saints Clem1598-USFX VulgHetzenauer (1906) VulgSistina (1590) **]** **domum Maon,** VulgConte (2009)
-
-### Jeremiah 31:30
-- **Apparatus:** `et` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **eo** VulgSistina (1590)
-
-### Jeremiah 31:33
-- *Disregarded Surface Variant:* kept `(adopted text)` over `exsultatio / exultatio`, `exsultatio / exultatio`, `exsultatio / exultatio`, `exsultatio / exultatio` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
-
-### Jeremiah 31:34
-- **Apparatus:** `vitula` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **vitulam** VulgSistina (1590)
-
-### Jeremiah 31:36
-- **Apparatus:** `tibiæ` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **tibia aeris** VulgSistina (1590)
+### Jeremiah 31:40
+- **Apparatus:** `torrentem Cedron, et usque ad` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **et usque ad torrentem Cedron,** VulgSistina (1590)
 
 ---
 
 ## Section IV — Verse-by-Verse Text-Critical Rationale & Witness Matrix
 
 ### Verse 1 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Ad Moab. Hæc dicit Dominus exercituum, Deus Israël: Væ super Nabo, quoniam vastata est, et confusa! capta est Cariathaim, confusa est fortis, et tremuit.
-  - `Clem1598-USFX` *(numbered 48:1 in this witness)*: Ad Moab. Hæc dicit Dominus exercituum, Deus Israël: Væ super Nabo, quoniam vastata est, et confusa! capta est Cariathaim, confusa est fortis, et tremuit.
-  - `Clem-Saints`: Ad Moab. Hæc dicit Dominus exercituum, Deus Israël: Væ super Nabo, quoniam vastata est, et confusa! capta est Cariathaim, confusa est fortis, et tremuit.
-  - `VulgHetzenauer (1906)` *(numbered 48:1 in this witness)*: Ad Moab hæc dicit Dominus exercituum Deus Israel: Væ super Nabo, quoniam vastata est, et confusa: capta est Cariathaim: confusa est fortis, et tremuit.
-  - `VulgConte (2009)` *(numbered 48:1 in this witness)*: Ad Moab hæc dicit Dominus exercituum Deus Israel: Væ super Nabo, quoniam vastata est, et confusa: capta est Cariathaim: confusa est fortis, et tremuit.
-  - `VulgSistina (1590)` *(numbered 48:1 in this witness)*: Ad Moab haec dicit Dominus exercituum Deus Israel: Vae super Nabo, quoniam vastata est, et confusa: capta est Cariathaim: confusa est fortis, et tremuit.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:1 (re-aligned by content).
+- **Critical Text:** In tempore illo, dicit Dominus, ero Deus universis cognationibus Israël, et ipsi erunt mihi in populum.
+  - `Clem1598-USFX`: In tempore illo, dicit Dominus, ero Deus universis cognationibus Israël, et ipsi erunt mihi in populum.
+  - `Clem-Saints` *(numbered 38:1 in this witness)*: In tempore illo, dicit Dominus, ero Deus universis cognationibus Israël, et ipsi erunt mihi in populum.
+  - `VulgHetzenauer (1906)`: In tempore illo, dicit Dominus: Ero Deus universis cognationibus Israel, et ipsi erunt mihi in populum.
+  - `VulgConte (2009)`: In tempore illo, dicit Dominus: Ero Deus universis cognationibus Israel, et ipsi erunt mihi in populum.
+  - `VulgSistina (1590)`: In tempore illo, dicit Dominus: Ero Deus universis cognationibus Israel, et ipsi erunt mihi in populum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Non est ultra exsultatio in Moab contra Hesebon: cogitaverunt malum: Venite, et disperdamus eam de gente. Ergo silens conticesces, sequeturque te gladius.
-  - `Clem1598-USFX` *(numbered 48:2 in this witness)*: Non est ultra exsultatio in Moab contra Hesebon: cogitaverunt malum: Venite, et disperdamus eam de gente. Ergo silens conticesces, sequeturque te gladius.
-  - `Clem-Saints`: Non est ultra exsultatio in Moab contra Hesebon: cogitaverunt malum: Venite, et disperdamus eam de gente. Ergo silens conticesces, sequeturque te gladius.
-  - `VulgHetzenauer (1906)` *(numbered 48:2 in this witness)*: Non est ultra exultatio in Moab contra Hesebon: cogitaverunt malum. Venite, et disperdamus eam de gente. ergo silens conticesces, sequeturque te gladius.
-  - `VulgConte (2009)` *(numbered 48:2 in this witness)*: Non est ultra exultatio in Moab contra Hesebon: cogitaverunt malum. Venite, et disperdamus eam de gente. Ergo silens conticesces, sequeturque te gladius.
-  - `VulgSistina (1590)` *(numbered 48:2 in this witness)*: Non est ultra exultatio in Moab contra Hesebon: cogitaverunt malum. Venite, et disperdamus eam de gente. ergo silens conticesces, sequeturque te gladius.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:2 (re-aligned by content).
+- **Critical Text:** Hæc dicit Dominus: Invenit gratiam in deserto populus qui remanserat a gladio: vadet ad requiem suam Israël.
+  - `Clem1598-USFX`: Hæc dicit Dominus: Invenit gratiam in deserto populus qui remanserat a gladio: vadet ad requiem suam Israël.
+  - `Clem-Saints` *(numbered 38:2 in this witness)*: Hæc dicit Dominus: Invenit gratiam in deserto populus qui remanserat a gladio: vadet ad requiem suam Israël.
+  - `VulgHetzenauer (1906)`: Hæc dicit Dominus: Invenit gratiam in deserto populus, qui remanserat a gladio: vadet ad requiem suam Israel.
+  - `VulgConte (2009)`: Hæc dicit Dominus: Invenit gratiam in deserto populus, qui remanserat a gladio: vadet ad requiem suam Israel.
+  - `VulgSistina (1590)`: Haec dicit Dominus: Invenit gratiam in deserto populus, qui remanserat a gladio: vadet ad requiem suam Israel.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Vox clamoris de Oronaim, vastitas et contritio magna.
-  - `Clem1598-USFX` *(numbered 48:3 in this witness)*: Vox clamoris de Oronaim, vastitas et contritio magna.
-  - `Clem-Saints`: Vox clamoris de Oronaim, vastitas et contritio magna.
-  - `VulgHetzenauer (1906)` *(numbered 48:3 in this witness)*: Vox clamoris de Oronaim: vastitas, et contritio magna.
-  - `VulgConte (2009)` *(numbered 48:3 in this witness)*: Vox clamoris de Oronaim: vastitas, et contritio magna.
-  - `VulgSistina (1590)` *(numbered 48:3 in this witness)*: Vox clamoris de Oronaim: vastitas, et contritio magna.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:3 (re-aligned by content).
+- **Critical Text:** Longe Dominus apparuit mihi. Et in caritate perpetua dilexi te: ideo attraxi te, miserans.
+  - `Clem1598-USFX`: Longe Dominus apparuit mihi. Et in caritate perpetua dilexi te: ideo attraxi te, miserans.
+  - `Clem-Saints` *(numbered 38:3 in this witness)*: Longe Dominus apparuit mihi. Et in caritate perpetua dilexi te: ideo attraxi te, miserans.
+  - `VulgHetzenauer (1906)`: Longe Dominus apparuit mihi. Et in charitate perpetua dilexi te, ideo attraxi te, miserans.
+  - `VulgConte (2009)`: Longe Dominus apparuit mihi. Et in charitate perpetua dilexi te, ideo attraxi te, miserans.
+  - `VulgSistina (1590)`: Longe Dominus apparuit mihi. Et in charitate perpetua dilexi te, ideo attraxi te, miserans tui.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Contrita est Moab: annuntiate clamorem parvulis ejus.
-  - `Clem1598-USFX` *(numbered 48:4 in this witness)*: Contrita est Moab: annuntiate clamorem parvulis ejus.
-  - `Clem-Saints`: Contrita est Moab: annuntiate clamorem parvulis ejus.
-  - `VulgHetzenauer (1906)` *(numbered 48:4 in this witness)*: Contrita est Moab: annunciate clamorem parvulis eius.
-  - `VulgConte (2009)` *(numbered 48:4 in this witness)*: Contrita est Moab: annunciate clamorem parvulis eius.
-  - `VulgSistina (1590)` *(numbered 48:4 in this witness)*: Contrita est Moab: annunciate clamorem parvulis eius.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:4 (re-aligned by content).
+- **Critical Text:** Rursumque ædificabo te, et ædificaberis, virgo Israël: adhuc ornaberis tympanis tuis, et egredieris in choro ludentium.
+  - `Clem1598-USFX`: Rursumque ædificabo te, et ædificaberis, virgo Israël: adhuc ornaberis tympanis tuis, et egredieris in choro ludentium.
+  - `Clem-Saints` *(numbered 38:4 in this witness)*: Rursumque ædificabo te, et ædificaberis, virgo Israël: adhuc ornaberis tympanis tuis, et egredieris in choro ludentium.
+  - `VulgHetzenauer (1906)`: Rursumque ædificabo te, et ædificaberis virgo Israel: adhuc ornaberis tympanis tuis, et egredieris in choro ludentium.
+  - `VulgConte (2009)`: Rursumque ædificabo te, et ædificaberis virgo Israel: adhuc ornaberis tympanis tuis, et egredieris in choro ludentium.
+  - `VulgSistina (1590)`: Rursumque aedificabo te, et aedificaberis virgo Israel: adhuc ornaberis tympanis tuis, et egredieris in choro ludentium.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Per ascensum enim Luith plorans ascendet in fletu, quoniam in descensu Oronaim hostes ululatum contritionis audierunt.
-  - `Clem1598-USFX` *(numbered 48:5 in this witness)*: Per ascensum enim Luith plorans ascendet in fletu, quoniam in descensu Oronaim hostes ululatum contritionis audierunt.
-  - `Clem-Saints`: Per ascensum enim Luith plorans ascendet in fletu, quoniam in descensu Oronaim hostes ululatum contritionis audierunt.
-  - `VulgHetzenauer (1906)` *(numbered 48:5 in this witness)*: Per ascensum enim Luith plorans ascendet in fletu: quoniam in descensu Oronaim hostes ululatum contritionis audierunt:
-  - `VulgConte (2009)` *(numbered 48:5 in this witness)*: Per ascensum enim Luith plorans ascendet in fletu: quoniam in descensu Oronaim hostes ululatum contritionis audierunt:
-  - `VulgSistina (1590)` *(numbered 48:5 in this witness)*: Per ascensum enim Luith plorans ascendet in fletu: quoniam in descensu Oronaim hostes ululatum contritionis audierunt:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:5 (re-aligned by content).
+- **Critical Text:** Adhuc plantabis vineas in montibus Samariæ: plantabunt plantantes, et donec tempus veniat, non vindemiabunt.
+  - `Clem1598-USFX`: Adhuc plantabis vineas in montibus Samariæ: plantabunt plantantes, et donec tempus veniat, non vindemiabunt.
+  - `Clem-Saints` *(numbered 38:5 in this witness)*: Adhuc plantabis vineas in montibus Samariæ: plantabunt plantantes, et donec tempus veniat, non vindemiabunt.
+  - `VulgHetzenauer (1906)`: Adhuc plantabis vineas in montibus Samariæ: plantabunt plantantes, et donec tempus veniat, non vindemiabunt:
+  - `VulgConte (2009)`: Adhuc plantabis vineas in montibus Samariæ: plantabunt plantantes, et donec tempus veniat, non vindemiabunt:
+  - `VulgSistina (1590)`: Adhuc plantabis vineas in montibus Samariae: plantabunt plantantes, et donec tempus veniat, non vindemiabunt:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Fugite, salvate animas vestras, et eritis quasi myricæ in deserto:
-  - `Clem1598-USFX` *(numbered 48:6 in this witness)*: Fugite, salvate animas vestras, et eritis quasi myricæ in deserto:
-  - `Clem-Saints`: Fugite, salvate animas vestras, et eritis quasi myricæ in deserto:
-  - `VulgHetzenauer (1906)` *(numbered 48:6 in this witness)*: Fugite, salvate animas vestras: et eritis quasi myricæ in deserto.
-  - `VulgConte (2009)` *(numbered 48:6 in this witness)*: Fugite, salvate animas vestras: et eritis quasi myricæ in deserto.
-  - `VulgSistina (1590)` *(numbered 48:6 in this witness)*: Fugite, salvate animas vestras: et eritis quasi myricae in deserto.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:6 (re-aligned by content).
+- **Critical Text:** Quia erit dies in qua clamabunt custodes in monte Ephraim: Surgite, et ascendamus in Sion ad Dominum Deum nostrum.
+  - `Clem1598-USFX`: Quia erit dies in qua clamabunt custodes in monte Ephraim: Surgite, et ascendamus in Sion ad Dominum Deum nostrum.
+  - `Clem-Saints` *(numbered 38:6 in this witness)*: Quia erit dies in qua clamabunt custodes in monte Ephraim: Surgite, et ascendamus in Sion ad Dominum Deum nostrum.
+  - `VulgHetzenauer (1906)`: quia erit dies, in qua clamabunt custodes in monte Ephraim: Surgite, et ascendamus in Sion ad Dominum Deum nostrum.
+  - `VulgConte (2009)`: quia erit dies, in qua clamabunt custodes in monte Ephraim: Surgite, et ascendamus in Sion ad Dominum Deum nostrum.
+  - `VulgSistina (1590)`: quia erit dies, in qua clamabunt custodes in monte Samariae et in monte Ephraim: Surgite, et ascendamus in Sion ad Dominum Deum nostrum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** pro eo enim quod habuisti fiduciam in munitionibus tuis et in thesauris tuis, tu quoque capieris: et ibit Chamos in transmigrationem, sacerdotes ejus et principes ejus simul.
-  - `Clem1598-USFX` *(numbered 48:7 in this witness)*: pro eo enim quod habuisti fiduciam in munitionibus tuis et in thesauris tuis, tu quoque capieris: et ibit Chamos in transmigrationem, sacerdotes ejus et principes ejus simul.
-  - `Clem-Saints`: pro eo enim quod habuisti fiduciam in munitionibus tuis et in thesauris tuis, tu quoque capieris: et ibit Chamos in transmigrationem, sacerdotes ejus et principes ejus simul.
-  - `VulgHetzenauer (1906)` *(numbered 48:7 in this witness)*: Pro eo enim quod habuisti fiduciam in munitionibus tuis, et in thesauris tuis, tu quoque capieris: et ibit Chamos in transmigrationem, sacerdotes eius, et principes eius simul.
-  - `VulgConte (2009)` *(numbered 48:7 in this witness)*: Pro eo enim quod habuisti fiduciam in munitionibus tuis, et in thesauris tuis, tu quoque capieris: et ibit Chamos in transmigrationem, sacerdotes eius, et principes eius simul.
-  - `VulgSistina (1590)` *(numbered 48:7 in this witness)*: Pro eo enim quod habuisti fiduciam in munitionibus tuis, et in thesauris tuis, tu quoque capieris: et ibit Chamos in transmigrationem, sacerdotes eius, et principes eius simul.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:7 (re-aligned by content).
+- **Critical Text:** Quia hæc dicit Dominus: Exsultate in lætitia, Jacob, et hinnite contra caput gentium: personate, et canite, et dicite: Salva, Domine, populum tuum, reliquias Israël.
+  - `Clem1598-USFX`: Quia hæc dicit Dominus: Exsultate in lætitia, Jacob, et hinnite contra caput gentium: personate, et canite, et dicite: Salva, Domine, populum tuum, reliquias Israël.
+  - `Clem-Saints` *(numbered 38:7 in this witness)*: Quia hæc dicit Dominus: Exsultate in lætitia, Jacob, et hinnite contra caput gentium: personate, et canite, et dicite: Salva, Domine, populum tuum, reliquias Israël.
+  - `VulgHetzenauer (1906)`: Quia hæc dicit Dominus: Exultate in lætitia Iacob, et hinnite contra caput Gentium: personate, et canite, et dicite: Salva Domine populum tuum reliquias Israel.
+  - `VulgConte (2009)`: Quia hæc dicit Dominus: Exultate in lætitia Iacob, et hinnite contra caput Gentium: personate, et canite, et dicite: Salva Domine populum tuum reliquias Israel.
+  - `VulgSistina (1590)`: Quia haec dicit Dominus: Exultate in laetitia Iacob, et hinnite contra caput Gentium: personate, et canite, et dicite: Salva Domine populum tuum reliquias Israel.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et veniet prædo ad omnem urbem, et urbs nulla salvabitur: et peribunt valles, et dissipabuntur campestria, quoniam dixit Dominus:
-  - `Clem1598-USFX` *(numbered 48:8 in this witness)*: Et veniet prædo ad omnem urbem, et urbs nulla salvabitur: et peribunt valles, et dissipabuntur campestria, quoniam dixit Dominus:
-  - `Clem-Saints`: Et veniet prædo ad omnem urbem, et urbs nulla salvabitur: et peribunt valles, et dissipabuntur campestria, quoniam dixit Dominus:
-  - `VulgHetzenauer (1906)` *(numbered 48:8 in this witness)*: Et veniet prædo ad omnem urbem, et urbs nulla salvabitur: et peribunt valles, et dissipabuntur campestria: quoniam dixit Dominus:
-  - `VulgConte (2009)` *(numbered 48:8 in this witness)*: Et veniet prædo ad omnem urbem, et urbs nulla salvabitur: et peribunt valles, et dissipabuntur campestria: quoniam dixit Dominus:
-  - `VulgSistina (1590)` *(numbered 48:8 in this witness)*: Et veniet praedo ad omnem urbem, et urbs nulla salvabitur: et peribunt valles, et dissipabuntur campestria: quoniam dixit Dominus:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:8 (re-aligned by content).
+- **Critical Text:** Ecce ego adducam eos de terra aquilonis, et congregabo eos ab extremis terræ: inter quos erunt cæcus et claudus, prægnans et pariens simul, cœtus magnus revertentium huc.
+  - `Clem1598-USFX`: Ecce ego adducam eos de terra aquilonis, et congregabo eos ab extremis terræ: inter quos erunt cæcus et claudus, prægnans et pariens simul, cœtus magnus revertentium huc.
+  - `Clem-Saints` *(numbered 38:8 in this witness)*: Ecce ego adducam eos de terra aquilonis, et congregabo eos ab extremis terræ: inter quos erunt cæcus et claudus, prægnans et pariens simul, cœtus magnus revertentium huc.
+  - `VulgHetzenauer (1906)`: Ecce ego adducam eos de terra Aquilonis, et congregabo eos ab extremis terræ: inter quos erunt cæcus et claudus, prægnans et pariens simul, cœtus magnus revertentium huc.
+  - `VulgConte (2009)`: Ecce ego adducam eos de terra Aquilonis, et congregabo eos ab extremis terræ: inter quos erunt cæcus et claudus, prægnans et pariens simul, cœtus magnus revertentium huc.
+  - `VulgSistina (1590)`: Ecce ego adducam eos de terra Aquilonis, et congregabo eos ab extremis terrae: inter quos erunt caecus et claudus, praegnans et pariens simul, coetus magnus revertentium huc.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Date florem Moab, quia florens egredietur: et civitates ejus desertæ erunt, et inhabitabiles.
-  - `Clem1598-USFX` *(numbered 48:9 in this witness)*: Date florem Moab, quia florens egredietur: et civitates ejus desertæ erunt, et inhabitabiles.
-  - `Clem-Saints`: Date florem Moab, quia florens egredietur: et civitates ejus desertæ erunt, et inhabitabiles.
-  - `VulgHetzenauer (1906)` *(numbered 48:9 in this witness)*: Date florem Moab, quia florens egredietur: et civitates eius desertæ erunt, et inhabitabiles.
-  - `VulgConte (2009)` *(numbered 48:9 in this witness)*: Date florem Moab, quia florens egredietur: et civitates eius desertæ erunt, et inhabitabiles.
-  - `VulgSistina (1590)` *(numbered 48:9 in this witness)*: Date florem Moab, quia florens egredietur: et civitates eius desertae erunt, et inhabitabiles.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:9 (re-aligned by content).
+- **Critical Text:** In fletu venient, et in misericordia reducam eos: et adducam eos per torrentes aquarum in via recta, et non impingent in ea, quia factus sum Israëli pater, et Ephraim primogenitus meus est.
+  - `Clem1598-USFX`: In fletu venient, et in misericordia reducam eos: et adducam eos per torrentes aquarum in via recta, et non impingent in ea, quia factus sum Israëli pater, et Ephraim primogenitus meus est.
+  - `Clem-Saints` *(numbered 38:9 in this witness)*: In fletu venient, et in misericordia reducam eos: et adducam eos per torrentes aquarum in via recta, et non impingent in ea, quia factus sum Israëli pater, et Ephraim primogenitus meus est.
+  - `VulgHetzenauer (1906)`: In fletu venient: et in misericordia reducam eos: et adducam eos per torrentes aquarum in via recta, et non impingent in ea: quia factus sum Israeli pater, et Ephraim primogenitus meus est.
+  - `VulgConte (2009)`: In fletu venient: et in misericordia reducam eos: et adducam eos per torrentes aquarum in via recta, et non impingent in ea: quia factus sum Israeli Pater, et Ephraim primogenitus meus est.
+  - `VulgSistina (1590)`: In fletu venient: et in misericordia reducam eos: et adducam eos per torrentes aquarum in via recta, et non impingent in ea: quia factus sum Israeli pater, et Ephraim primogenitus meus est.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Maledictus qui facit opus Domini fraudulenter, et maledictus qui prohibet gladium suum a sanguine.
-  - `Clem1598-USFX` *(numbered 48:10 in this witness)*: Maledictus qui facit opus Domini fraudulenter, et maledictus qui prohibet gladium suum a sanguine.
-  - `Clem-Saints`: Maledictus qui facit opus Domini fraudulenter, et maledictus qui prohibet gladium suum a sanguine.
-  - `VulgHetzenauer (1906)` *(numbered 48:10 in this witness)*: Maledictus, qui facit opus Domini fraudulenter: et maledictus, qui prohibet gladium suum a sanguine.
-  - `VulgConte (2009)` *(numbered 48:10 in this witness)*: Maledictus, qui facit opus Domini fraudulenter: et maledictus, qui prohibet gladium suum a sanguine.
-  - `VulgSistina (1590)` *(numbered 48:10 in this witness)*: Maledictus, qui facit opus Domini fraudulenter: et maledictus, qui prohibet gladium suum a sanguine.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:10 (re-aligned by content).
+- **Critical Text:** Audite verbum Domini, gentes, et annuntiate in insulis quæ procul sunt, et dicite: Qui dispersit Israël congregabit eum, et custodiet eum sicut pastor gregem suum.
+  - `Clem1598-USFX`: Audite verbum Domini, gentes, et annuntiate in insulis quæ procul sunt, et dicite: Qui dispersit Israël congregabit eum, et custodiet eum sicut pastor gregem suum.
+  - `Clem-Saints` *(numbered 38:10 in this witness)*: Audite verbum Domini, gentes, et annuntiate in insulis quæ procul sunt, et dicite: Qui dispersit Israël congregabit eum, et custodiet eum sicut pastor gregem suum.
+  - `VulgHetzenauer (1906)`: Audite verbum Domini Gentes, et annunciate in insulis, quæ procul sunt, et dicite. Qui dispersit Israel, congregabit eum: et custodiet eum sicut pastor gregem suum.
+  - `VulgConte (2009)`: Audite verbum Domini Gentes, et annunciate in insulis, quæ procul sunt, et dicite: Qui dispersit Israel, congregabit eum: et custodiet eum sicut pastor gregem suum.
+  - `VulgSistina (1590)`: Audite verbum Domini Gentes, et annunciate in insulis, quae procul sunt, et dicite. Qui dispersit Israel, congregabit eum: et custodiet eum sicut pastor gregem suum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Fertilis fuit Moab ab adolescentia sua, et requievit in fæcibus suis: nec transfusus est de vase in vas, et in transmigrationem non abiit: idcirco permansit gustus ejus in eo, et odor ejus non est immutatus.
-  - `Clem1598-USFX` *(numbered 48:11 in this witness)*: Fertilis fuit Moab ab adolescentia sua, et requievit in fæcibus suis: nec transfusus est de vase in vas, et in transmigrationem non abiit: idcirco permansit gustus ejus in eo, et odor ejus non est immutatus.
-  - `Clem-Saints`: Fertilis fuit Moab ab adolescentia sua, et requievit in fæcibus suis: nec transfusus est de vase in vas, et in transmigrationem non abiit: idcirco permansit gustus ejus in eo, et odor ejus non est immutatus.
-  - `VulgHetzenauer (1906)` *(numbered 48:11 in this witness)*: Fertilis fuit Moab ab adolescentia sua, et requievit in fœcibus suis: nec transfusus est de vase in vas, et in transmigrationem non abiit: idcirco permansit gustus eius in eo, et odor eius non est immutatus.
-  - `VulgConte (2009)` *(numbered 48:11 in this witness)*: Fertilis fuit Moab ab adolescentia sua, et requievit in fœcibus suis: nec transfusus est de vase in vas, et in transmigrationem non abiit: idcirco permansit gustus eius in eo, et odor eius non est immutatus.
-  - `VulgSistina (1590)` *(numbered 48:11 in this witness)*: Fertilis fuit Moab ab adolescentia sua, et requievit in foecibus suis: nec transfusus est de vase in vas, et in transmigrationem non abiit: idcirco permansit gustus eius in eo, et odor eius non est immutatus.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:11 (re-aligned by content).
+- **Critical Text:** Redemit enim Dominus Jacob, et liberavit eum de manu potentioris.
+  - `Clem1598-USFX`: Redemit enim Dominus Jacob, et liberavit eum de manu potentioris.
+  - `Clem-Saints` *(numbered 38:11 in this witness)*: Redemit enim Dominus Jacob, et liberavit eum de manu potentioris.
+  - `VulgHetzenauer (1906)`: Redemit enim Dominus Iacob, et liberavit eum de manu potentioris.
+  - `VulgConte (2009)`: Redemit enim Dominus Iacob, et liberavit eum de manu potentioris.
+  - `VulgSistina (1590)`: Redemit enim Dominus Iacob, et liberabit eum de manu potentioris.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Propterea ecce dies veniunt, dicit Dominus, et mittam ei ordinatores et stratores laguncularum: et sternent eum, et vasa ejus exhaurient, et lagunculas eorum collident.
-  - `Clem1598-USFX` *(numbered 48:12 in this witness)*: Propterea ecce dies veniunt, dicit Dominus, et mittam ei ordinatores et stratores laguncularum: et sternent eum, et vasa ejus exhaurient, et lagunculas eorum collident.
-  - `Clem-Saints`: Propterea ecce dies veniunt, dicit Dominus, et mittam ei ordinatores et stratores laguncularum: et sternent eum, et vasa ejus exhaurient, et lagunculas eorum collident.
-  - `VulgHetzenauer (1906)` *(numbered 48:12 in this witness)*: Propterea ecce dies veniunt, dicit Dominus: et mittam ei ordinatores, et stratores laguncularum, et sternent eum, et vasa eius exhaurient, et lagunculas eorum collident.
-  - `VulgConte (2009)` *(numbered 48:12 in this witness)*: Propterea ecce dies veniunt, dicit Dominus: et mittam ei ordinatores, et stratores laguncularum, et sternent eum, et vasa eius exhaurient, et lagunculas eorum collident.
-  - `VulgSistina (1590)` *(numbered 48:12 in this witness)*: Propterea ecce dies veniunt, dicit Dominus: et mittam ei ordinatores, et stratores laguncularum, et sternent eum, et vasa eius exhaurient, et lagunculas eorum collident.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:12 (re-aligned by content).
+- **Critical Text:** Et venient, et laudabunt in monte Sion: et confluent ad bona Domini, super frumento, et vino, et oleo, et fœtu pecorum et armentorum: eritque anima eorum quasi hortus irriguus, et ultra non esurient.
+  - `Clem1598-USFX`: Et venient, et laudabunt in monte Sion: et confluent ad bona Domini, super frumento, et vino, et oleo, et fœtu pecorum et armentorum: eritque anima eorum quasi hortus irriguus, et ultra non esurient.
+  - `Clem-Saints` *(numbered 38:12 in this witness)*: Et venient, et laudabunt in monte Sion: et confluent ad bona Domini, super frumento, et vino, et oleo, et fœtu pecorum et armentorum: eritque anima eorum quasi hortus irriguus, et ultra non esurient.
+  - `VulgHetzenauer (1906)`: Et venient, et laudabunt in monte Sion: et confluent ad bona Domini super frumento, et vino, et oleo, et fœtu pecorum et armentorum: eritque anima eorum quasi hortus irriguus, et ultra non esurient.
+  - `VulgConte (2009)`: Et venient, et laudabunt in monte Sion: et confluent ad bona Domini super frumento, et vino, et oleo, et fœtu pecorum et armentorum: eritque anima eorum quasi hortus irriguus, et ultra non esurient.
+  - `VulgSistina (1590)`: Et venient, et laudabunt in monte Sion: et confluent ad bona Domini super frumento, et vino, et oleo, et foetu pecorum et armentorum: eritque anima eorum quasi hortus irriguus, et ultra non esurient.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et confundetur Moab a Chamos sicut confusa est domus Israël a Bethel, in qua habebat fiduciam.
-  - `Clem1598-USFX` *(numbered 48:13 in this witness)*: Et confundetur Moab a Chamos sicut confusa est domus Israël a Bethel, in qua habebat fiduciam.
-  - `Clem-Saints`: Et confundetur Moab a Chamos sicut confusa est domus Israël a Bethel, in qua habebat fiduciam.
-  - `VulgHetzenauer (1906)` *(numbered 48:13 in this witness)*: Et confundetur Moab a Chamos, sicut confusa est domus Israel a Bethel, in qua habebat fiduciam.
-  - `VulgConte (2009)` *(numbered 48:13 in this witness)*: Et confundetur Moab a Chamos, sicut confusa est domus Israel a Bethel, in qua habebat fiduciam.
-  - `VulgSistina (1590)` *(numbered 48:13 in this witness)*: Et confundetur Moab a Chamos, sicut confusa est domus Israel a Bethel, in qua habebat fiduciam.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:13 (re-aligned by content).
+- **Critical Text:** Tunc lætabitur virgo in choro, juvenes et senes simul: et convertam luctum eorum in gaudium, et consolabor eos, et lætificabo a dolore suo.
+  - `Clem1598-USFX`: Tunc lætabitur virgo in choro, juvenes et senes simul: et convertam luctum eorum in gaudium, et consolabor eos, et lætificabo a dolore suo.
+  - `Clem-Saints` *(numbered 38:13 in this witness)*: Tunc lætabitur virgo in choro, juvenes et senes simul: et convertam luctum eorum in gaudium, et consolabor eos, et lætificabo a dolore suo.
+  - `VulgHetzenauer (1906)`: Tunc lætabitur virgo in choro, iuvenes et senes simul: et convertam luctum eorum in gaudium, et consolabor eos, et lætificabo a dolore suo.
+  - `VulgConte (2009)`: Tunc lætabitur virgo in choro, iuvenes et senes simul: et convertam luctum eorum in gaudium, et consolabor eos, et lætificabo a dolore suo.
+  - `VulgSistina (1590)`: Tunc laetabitur virgo in choro, iuvenes et senes simul: et convertam luctum eorum in gaudium, et consolabor eos, et laetificabo a dolore suo.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Quomodo dicitis: Fortes sumus, et viri robusti ad præliandum?
-  - `Clem1598-USFX` *(numbered 48:14 in this witness)*: Quomodo dicitis: Fortes sumus, et viri robusti ad præliandum?
-  - `Clem-Saints`: Quomodo dicitis: Fortes sumus, et viri robusti ad præliandum?
-  - `VulgHetzenauer (1906)` *(numbered 48:14 in this witness)*: Quomodo dicitis: Fortes sumus, et viri robusti ad præliandum?
-  - `VulgConte (2009)` *(numbered 48:14 in this witness)*: Quomodo dicitis: Fortes sumus, et viri robusti ad præliandum?
-  - `VulgSistina (1590)` *(numbered 48:14 in this witness)*: Quomodo dicitis: Fortes sumus, et viri robusti ad praeliandum?
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:14 (re-aligned by content).
+- **Critical Text:** Et inebriabo animam sacerdotum pinguedine, et populus meus bonis meis adimplebitur, ait Dominus.
+  - `Clem1598-USFX`: Et inebriabo animam sacerdotum pinguedine, et populus meus bonis meis adimplebitur, ait Dominus.
+  - `Clem-Saints` *(numbered 38:14 in this witness)*: Et inebriabo animam sacerdotum pinguedine, et populus meus bonis meis adimplebitur, ait Dominus.
+  - `VulgHetzenauer (1906)`: Et inebriabo animam sacerdotum pinguedine: et populus meus bonis meis adimplebitur, ait Dominus.
+  - `VulgConte (2009)`: Et inebriabo animam sacerdotum pinguedine: et populus meus bonis meis adimplebitur, ait Dominus.
+  - `VulgSistina (1590)`: Et inebriabo animam sacerdotum pinguedine: et populus meus bonis meis adimplebitur, ait Dominus.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Vastata est Moab, et civitates illius succiderunt, et electi juvenes ejus descenderunt in occisionem, ait Rex: Dominus exercituum nomen ejus.
-  - `Clem1598-USFX` *(numbered 48:15 in this witness)*: Vastata est Moab, et civitates illius succiderunt, et electi juvenes ejus descenderunt in occisionem, ait Rex: Dominus exercituum nomen ejus.
-  - `Clem-Saints`: Vastata est Moab, et civitates illius succiderunt, et electi juvenes ejus descenderunt in occisionem, ait Rex: Dominus exercituum nomen ejus.
-  - `VulgHetzenauer (1906)` *(numbered 48:15 in this witness)*: Vastata est Moab, et civitates illius succiderunt: et electi iuvenes eius descenderunt in occisionem: ait rex, Dominus exercituum nomen eius.
-  - `VulgConte (2009)` *(numbered 48:15 in this witness)*: Vastata est Moab, et civitates illius succiderunt: et electi iuvenes eius descenderunt in occisionem: ait Rex, Dominus exercituum nomen eius.
-  - `VulgSistina (1590)` *(numbered 48:15 in this witness)*: Vastata est Moab, et civitates illius succenderunt: et electi iuvenes eius descenderunt in occisionem: ait rex, Dominus exercituum nomen eius.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:15 (re-aligned by content).
+- **Critical Text:** Hæc dicit Dominus: Vox in excelso audita est lamentationis: luctus, et fletus Rachel plorantis filios suos, et nolentis consolari super eis, quia non sunt.
+  - `Clem1598-USFX`: Hæc dicit Dominus: Vox in excelso audita est lamentationis: luctus, et fletus Rachel plorantis filios suos, et nolentis consolari super eis, quia non sunt.
+  - `Clem-Saints` *(numbered 38:15 in this witness)*: Hæc dicit Dominus: Vox in excelso audita est lamentationis: luctus, et fletus Rachel plorantis filios suos, et nolentis consolari super eis, quia non sunt.
+  - `VulgHetzenauer (1906)`: Hæc dicit Dominus: Vox in excelso audita est lamentationis, luctus, et fletus Rachel plorantis filios suos, et nolentis consolari super eis, quia non sunt.
+  - `VulgConte (2009)`: Hæc dicit Dominus: Vox in excelso audita est lamentationis, luctus, et fletus Rachel plorantis filios suos, et nolentis consolari super eis, quia non sunt.
+  - `VulgSistina (1590)`: Haec dicit Dominus: Vox in excelso audita est lamentationis, luctus, et fletus Rachel plorantis filios suos, et nolentis consolari super eis, quia non sunt.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Prope est interitus Moab ut veniat, et malum ejus velociter accurret nimis.
-  - `Clem1598-USFX` *(numbered 48:16 in this witness)*: Prope est interitus Moab ut veniat, et malum ejus velociter accurret nimis.
-  - `Clem-Saints`: Prope est interitus Moab ut veniat, et malum ejus velociter accurret nimis.
-  - `VulgHetzenauer (1906)` *(numbered 48:16 in this witness)*: Prope est interitus Moab ut veniat: et malum eius velociter accurret nimis.
-  - `VulgConte (2009)` *(numbered 48:16 in this witness)*: Prope est interitus Moab ut veniat: et malum eius velociter accurret nimis.
-  - `VulgSistina (1590)` *(numbered 48:16 in this witness)*: Prope est interitus Moab ut veniat: et malum eius velociter accurret nimis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:16 (re-aligned by content).
+- **Critical Text:** Hæc dicit Dominus: Quiescat vox tua a ploratu, et oculi tui a lacrimis, quia est merces operi tuo, ait Dominus, et revertentur de terra inimici:
+  - `Clem1598-USFX`: Hæc dicit Dominus: Quiescat vox tua a ploratu, et oculi tui a lacrimis, quia est merces operi tuo, ait Dominus, et revertentur de terra inimici:
+  - `Clem-Saints` *(numbered 38:16 in this witness)*: Hæc dicit Dominus: Quiescat vox tua a ploratu, et oculi tui a lacrimis, quia est merces operi tuo, ait Dominus, et revertentur de terra inimici:
+  - `VulgHetzenauer (1906)`: Hæc dicit Dominus: Quiescat vox tua a ploratu, et oculi tui a lacrymis: quia est merces operi tuo, ait Dominus: et revertentur de terra inimici.
+  - `VulgConte (2009)`: Hæc dicit Dominus: Quiescat vox tua a ploratu, et oculi tui a lacrymis: quia est merces operi tuo, ait Dominus: et revertentur de terra inimici.
+  - `VulgSistina (1590)`: Haec dicit Dominus: Quiescat vox tua a ploratu, et oculi tui a lacrymis: quia est merces operi tuo, ait Dominus: et revertentur de terra inimici.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Consolamini eum, omnes qui estis in circuitu ejus: et universi qui scitis nomen ejus, dicite: Quomodo confracta est virga fortis, baculus gloriosus?
-  - `Clem1598-USFX` *(numbered 48:17 in this witness)*: Consolamini eum, omnes qui estis in circuitu ejus: et universi qui scitis nomen ejus, dicite: Quomodo confracta est virga fortis, baculus gloriosus?
-  - `Clem-Saints`: Consolamini eum, omnes qui estis in circuitu ejus: et universi qui scitis nomen ejus, dicite: Quomodo confracta est virga fortis, baculus gloriosus?
-  - `VulgHetzenauer (1906)` *(numbered 48:17 in this witness)*: Consolamini eum omnes, qui estis in circuitu eius, et universi, qui scitis nomen eius, dicite: Quomodo confracta est virga fortis, baculus gloriosus?
-  - `VulgConte (2009)` *(numbered 48:17 in this witness)*: Consolamini eum omnes, qui estis in circuitu eius, et universi, qui scitis nomen eius, dicite: Quomodo confracta est virga fortis, baculus gloriosus?
-  - `VulgSistina (1590)` *(numbered 48:17 in this witness)*: Consolamini eum omnes, qui estis in circuitu eius, et universi, qui scitis nomen eius, dicite: Quomodo confracta est virga fortis, baculus gloriosus?
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:17 (re-aligned by content).
+- **Critical Text:** et est spes novissimis tuis, ait Dominus, et revertentur filii ad terminos suos.
+  - `Clem1598-USFX`: et est spes novissimis tuis, ait Dominus, et revertentur filii ad terminos suos.
+  - `Clem-Saints` *(numbered 38:17 in this witness)*: et est spes novissimis tuis, ait Dominus, et revertentur filii ad terminos suos.
+  - `VulgHetzenauer (1906)`: Et est spes novissimis tuis, ait Dominus: et revertentur filii ad terminos suos.
+  - `VulgConte (2009)`: Et est spes novissimis tuis, ait Dominus: et revertentur filii ad terminos suos.
+  - `VulgSistina (1590)`: Et est spes novissimis tuis, ait Dominus: et revertentur filii tui ad terminos suos.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Descende de gloria, et sede in siti, habitatio filiæ Dibon, quoniam vastator Moab ascendit ad te: dissipavit munitiones tuas.
-  - `Clem1598-USFX` *(numbered 48:18 in this witness)*: Descende de gloria, et sede in siti, habitatio filiæ Dibon, quoniam vastator Moab ascendit ad te: dissipavit munitiones tuas.
-  - `Clem-Saints`: Descende de gloria, et sede in siti, habitatio filiæ Dibon, quoniam vastator Moab ascendit ad te: dissipavit munitiones tuas.
-  - `VulgHetzenauer (1906)` *(numbered 48:18 in this witness)*: Descende de gloria, et sede in siti habitatio filiæ Dibon: quoniam vastator Moab ascendit ad te, dissipavit munitiones tuas.
-  - `VulgConte (2009)` *(numbered 48:18 in this witness)*: Descende de gloria, et sede in siti habitatio filiæ Dibon: quoniam vastator Moab ascendit ad te, dissipavit munitiones tuas.
-  - `VulgSistina (1590)` *(numbered 48:18 in this witness)*: Descende de gloria, et sede in siti habitatio filiae Dibon: quoniam vastator Moab ascendet ad te, dissipabit munitiones tuas.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:18 (re-aligned by content).
+- **Critical Text:** Audiens audivi Ephraim transmigrantem: Castigasti me, et eruditus sum, quasi juvenculus indomitus: converte me, et convertar, quia tu Dominus Deus meus.
+  - `Clem1598-USFX`: Audiens audivi Ephraim transmigrantem: Castigasti me, et eruditus sum, quasi juvenculus indomitus: converte me, et convertar, quia tu Dominus Deus meus.
+  - `Clem-Saints` *(numbered 38:18 in this witness)*: Audiens audivi Ephraim transmigrantem: Castigasti me, et eruditus sum, quasi juvenculus indomitus: converte me, et convertar, quia tu Dominus Deus meus.
+  - `VulgHetzenauer (1906)`: Audiens audivi Ephraim transmigrantem: Castigasti me, et eruditus sum, quasi iuvenculus indomitus: converte me, et convertar: quia tu Dominus Deus meus.
+  - `VulgConte (2009)`: Audiens audivi Ephraim transmigrantem: Castigasti me, et eruditus sum, quasi iuvenculus indomitus: converte me, et convertar: quia tu Dominus Deus meus.
+  - `VulgSistina (1590)`: Audiens audivi Ephraim transmigrantem: Castigasti me Domine, et eruditus sum, quasi iuvenculus indomitus: converte me, et convertar: quia tu Dominus Deus meus.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** In via sta, et prospice, habitatio Aroër: interroga fugientem, et ei qui evasit dic: Quid accidit?
-  - `Clem1598-USFX` *(numbered 48:19 in this witness)*: In via sta, et prospice, habitatio Aroër: interroga fugientem, et ei qui evasit dic: Quid accidit?
-  - `Clem-Saints`: In via sta, et prospice, habitatio Aroër: interroga fugientem, et ei qui evasit dic: Quid accidit?
-  - `VulgHetzenauer (1906)` *(numbered 48:19 in this witness)*: In via sta, et prospice habitatio Aroer: interroga fugientem: et ei, qui evasit, dic: Quid accidit?
-  - `VulgConte (2009)` *(numbered 48:19 in this witness)*: In via sta, et prospice habitatio Aroer: interroga fugientem: et ei, qui evasit, dic: Quid accidit?
-  - `VulgSistina (1590)` *(numbered 48:19 in this witness)*: In via sta, et prospice habitatio Aroer: interroga fugientem: et ei, qui evasit, dic: Quid accidit?
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:19 (re-aligned by content).
+- **Critical Text:** Postquam enim convertisti me, egi pœnitentiam: et postquam ostendisti mihi, percussi femur meum. Confusus sum, et erubui, quoniam sustinui opprobrium adolescentiæ meæ.
+  - `Clem1598-USFX`: Postquam enim convertisti me, egi pœnitentiam: et postquam ostendisti mihi, percussi femur meum. Confusus sum, et erubui, quoniam sustinui opprobrium adolescentiæ meæ.
+  - `Clem-Saints` *(numbered 38:19 in this witness)*: Postquam enim convertisti me, egi pœnitentiam: et postquam ostendisti mihi, percussi femur meum. Confusus sum, et erubui, quoniam sustinui opprobrium adolescentiæ meæ.
+  - `VulgHetzenauer (1906)`: Postquam enim convertisti me, egi pœnitentiam: et postquam ostendisti mihi, percussi femur meum. Confusus sum, et erubui, quoniam sustinui opprobrium adolescentiæ meæ.
+  - `VulgConte (2009)`: Postquam enim convertisti me, egi pœnitentiam: et postquam ostendisti mihi, percussi femur meum. Confusus sum, et erubui, quoniam sustinui opprobrium adolescentiæ meæ.
+  - `VulgSistina (1590)`: Postquam enim convertisti me, egi poenitentiam: et postquam ostendisti mihi, percussi femur meum. Confusus sum, et erubui, quoniam sustinui opprobrium adolescentiae meae.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Confusus est Moab, quoniam victus est. Ululate, et clamate: annuntiate in Arnon, quoniam vastata est Moab,
-  - `Clem1598-USFX` *(numbered 48:20 in this witness)*: Confusus est Moab, quoniam victus est. Ululate, et clamate: annuntiate in Arnon, quoniam vastata est Moab,
-  - `Clem-Saints`: Confusus est Moab, quoniam victus est. Ululate, et clamate: annuntiate in Arnon, quoniam vastata est Moab,
-  - `VulgHetzenauer (1906)` *(numbered 48:20 in this witness)*: Confusus est Moab, quoniam victus est: ululate, et clamate, annunciate in Arnon, quoniam vastata est Moab.
-  - `VulgConte (2009)` *(numbered 48:20 in this witness)*: Confusus est Moab, quoniam victus est: ululate, et clamate, annunciate in Arnon, quoniam vastata est Moab.
-  - `VulgSistina (1590)` *(numbered 48:20 in this witness)*: Confusus est Moab, quoniam victus est: ululate, et clamate, annunciate in Arnon, quoniam vastata est Moab.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:20 (re-aligned by content).
+- **Critical Text:** Si filius honorabilis mihi Ephraim, si puer delicatus! quia ex quo locutus sum de eo, adhuc recordabor ejus. Idcirco conturbata sunt viscera mea super eum: miserans miserebor ejus, ait Dominus.
+  - `Clem1598-USFX`: Si filius honorabilis mihi Ephraim, si puer delicatus! quia ex quo locutus sum de eo, adhuc recordabor ejus. Idcirco conturbata sunt viscera mea super eum: miserans miserebor ejus, ait Dominus.
+  - `Clem-Saints` *(numbered 38:20 in this witness)*: Si filius honorabilis mihi Ephraim, si puer delicatus! quia ex quo locutus sum de eo, adhuc recordabor ejus. Idcirco conturbata sunt viscera mea super eum: miserans miserebor ejus, ait Dominus.
+  - `VulgHetzenauer (1906)`: Si filius honorabilis mihi Ephraim, si puer delicatus: quia ex quo locutus sum de eo, adhuc recordabor eius. Idcirco conturbata sunt viscera mea super eum: miserans miserebor eius, ait Dominus.
+  - `VulgConte (2009)`: Si filius honorabilis mihi Ephraim, si puer delicatus: quia ex quo locutus sum de eo, adhuc recordabor eius. Idcirco conturbata sunt viscera mea super eum: miserans miserebor eius, ait Dominus.
+  - `VulgSistina (1590)`: Si filius honorabilis mihi Ephraim, si puer delicatus: quia ex quo locutus sum de eo, adhuc recordabor eius. Idcirco conturbata sunt viscera mea super eum: miserans miserebor eius, ait Dominus.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** et judicium venit ad terram campestrem, super Helon, et super Jasa, et super Mephaath,
-  - `Clem1598-USFX` *(numbered 48:21 in this witness)*: et judicium venit ad terram campestrem, super Helon, et super Jasa, et super Mephaath,
-  - `Clem-Saints`: et judicium venit ad terram campestrem, super Helon, et super Jasa, et super Mephaath,
-  - `VulgHetzenauer (1906)` *(numbered 48:21 in this witness)*: Et iudicium venit ad terram campestrem: super Helon, et super Iasa, et super Mephaath,
-  - `VulgConte (2009)` *(numbered 48:21 in this witness)*: Et iudicium venit ad terram campestrem: super Helon, et super Iasa, et super Mephaath,
-  - `VulgSistina (1590)` *(numbered 48:21 in this witness)*: Et iudicium venit ad terram campestrem: super Helon, et super Iasa, et super Mephaath,
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:21 (re-aligned by content).
+- **Critical Text:** Statue tibi speculam; pone tibi amaritudines; dirige cor tuum in viam rectam in qua ambulasti: revertere, virgo Israël, revertere ad civitates tuas istas.
+  - `Clem1598-USFX`: Statue tibi speculam; pone tibi amaritudines; dirige cor tuum in viam rectam in qua ambulasti: revertere, virgo Israël, revertere ad civitates tuas istas.
+  - `Clem-Saints` *(numbered 38:21 in this witness)*: Statue tibi speculam; pone tibi amaritudines; dirige cor tuum in viam rectam in qua ambulasti: revertere, virgo Israël, revertere ad civitates tuas istas.
+  - `VulgHetzenauer (1906)`: Statue tibi speculam, pone tibi amaritudines: dirige cor tuum in viam rectam, in qua ambulasti: revertere virgo Israel, revertere ad civitates tuas istas.
+  - `VulgConte (2009)`: Statue tibi speculam, pone tibi amaritudines: dirige cor tuum in viam rectam, in qua ambulasti: revertere virgo Israel, revertere ad civitates tuas istas.
+  - `VulgSistina (1590)`: Statue tibi speculam, pone tibi amaritudines: dirige cor tuum in viam rectam, in qua ambulasti: revertere virgo Israel, revertere ad civitates tuas istas.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** et super Dibon, et super Nabo, et super domum Deblathaim,
-  - `Clem1598-USFX` *(numbered 48:22 in this witness)*: et super Dibon, et super Nabo, et super domum Deblathaim,
-  - `Clem-Saints`: et super Dibon, et super Nabo, et super domum Deblathaim,
-  - `VulgHetzenauer (1906)` *(numbered 48:22 in this witness)*: et super Dibon, et super Nabo, et super domum Deblathaim,
-  - `VulgConte (2009)` *(numbered 48:22 in this witness)*: et super Dibon, et super Nabo, et super domum Deblathaim,
-  - `VulgSistina (1590)` *(numbered 48:22 in this witness)*: et super Dibon, et super Nabo, et super domum Deblathaim,
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:22 (re-aligned by content).
+- **Critical Text:** Usquequo deliciis dissolveris, filia vaga? quia creavit Dominus novum super terram: femina circumdabit virum.
+  - `Clem1598-USFX`: Usquequo deliciis dissolveris, filia vaga? quia creavit Dominus novum super terram: femina circumdabit virum.
+  - `Clem-Saints` *(numbered 38:22 in this witness)*: Usquequo deliciis dissolveris, filia vaga? quia creavit Dominus novum super terram: femina circumdabit virum.
+  - `VulgHetzenauer (1906)`: Usquequo deliciis dissolveris filia vaga? quia creavit Dominus novum super terram: FEMINA CIRCUMDABIT VIRUM.
+  - `VulgConte (2009)`: Usquequo deliciis dissolveris filia vaga? Quia creavit Dominus novum super terram: femina circumdabit virum.
+  - `VulgSistina (1590)`: Usquequo deliciis dissolveris filia vaga? quia creavit Dominus novum super terram: FEMINA CIRCUMDABIT VIRUM.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** et super Cariathaim, et super Bethgamul, et super Bethmaon,
-  - `Clem1598-USFX` *(numbered 48:23 in this witness)*: et super Cariathaim, et super Bethgamul, et super Bethmaon,
-  - `Clem-Saints`: et super Cariathaim, et super Bethgamul, et super Bethmaon,
-  - `VulgHetzenauer (1906)` *(numbered 48:23 in this witness)*: et super Cariathaim, et super Bethgamul, et super Bethmaon,
-  - `VulgConte (2009)` *(numbered 48:23 in this witness)*: et super Cariathaim, et super domum Gamul, et super domum Maon,
-  - `VulgSistina (1590)` *(numbered 48:23 in this witness)*: et super Cariathaim, et super Bethgamul, et super Bethmaon,
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:23 (re-aligned by content).
+- **Critical Text:** Hæc dicit Dominus exercituum, Deus Israël: Adhuc dicent verbum istud in terra Juda et in urbibus ejus, cum convertero captivitatem eorum: Benedicat tibi Dominus, pulchritudo justitiæ, mons sanctus:
+  - `Clem1598-USFX`: Hæc dicit Dominus exercituum, Deus Israël: Adhuc dicent verbum istud in terra Juda et in urbibus ejus, cum convertero captivitatem eorum: Benedicat tibi Dominus, pulchritudo justitiæ, mons sanctus:
+  - `Clem-Saints` *(numbered 38:23 in this witness)*: Hæc dicit Dominus exercituum, Deus Israël: Adhuc dicent verbum istud in terra Juda et in urbibus ejus, cum convertero captivitatem eorum: Benedicat tibi Dominus, pulchritudo justitiæ, mons sanctus:
+  - `VulgHetzenauer (1906)`: Hæc dicit Dominus exercituum Deus Israel: Adhuc dicent verbum istud in terra Iuda, et in urbibus eius, cum convertero captivitatem eorum: Benedicat tibi Dominus pulchritudo iustitiæ, mons sanctus:
+  - `VulgConte (2009)`: Hæc dicit Dominus exercituum Deus Israel: Adhuc dicent verbum istud in terra Iuda, et in urbibus eius, cum convertero captivitatem eorum: Benedicat tibi Dominus pulchritudo iustitiæ, mons sanctus:
+  - `VulgSistina (1590)`: Haec dicit Dominus exercituum Deus Israel: Adhuc dicent verbum istud in terra Iuda, et in urbibus eius, cum convertero captivitatem eorum: Benedicat tibi Dominus pulchritudo iustitiae, mons sanctus:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** et super Carioth, et super Bosra, et super omnes civitates terræ Moab, quæ longe et quæ prope sunt.
-  - `Clem1598-USFX` *(numbered 48:24 in this witness)*: et super Carioth, et super Bosra, et super omnes civitates terræ Moab, quæ longe et quæ prope sunt.
-  - `Clem-Saints`: et super Carioth, et super Bosra, et super omnes civitates terræ Moab, quæ longe et quæ prope sunt.
-  - `VulgHetzenauer (1906)` *(numbered 48:24 in this witness)*: et super Carioth, et super Bosra: et super omnes civitates terræ Moab, quæ longe, et quæ prope sunt.
-  - `VulgConte (2009)` *(numbered 48:24 in this witness)*: et super Carioth, et super Bosra: et super omnes civitates terræ Moab, quæ longe, et quæ prope sunt.
-  - `VulgSistina (1590)` *(numbered 48:24 in this witness)*: et super Carioth, et super Bosra: et super omnes civitates terrae Moab, quae longe, et quae prope sunt.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:24 (re-aligned by content).
+- **Critical Text:** et habitabunt in eo Judas et omnes civitates ejus simul, agricolæ et minantes greges.
+  - `Clem1598-USFX`: et habitabunt in eo Judas et omnes civitates ejus simul, agricolæ et minantes greges.
+  - `Clem-Saints` *(numbered 38:24 in this witness)*: et habitabunt in eo Judas et omnes civitates ejus simul, agricolæ et minantes greges.
+  - `VulgHetzenauer (1906)`: et habitabunt in eo Iudas, et omnes civitates eius simul: agricolæ et minantes greges.
+  - `VulgConte (2009)`: et habitabunt in eo Iudas, et omnes civitates eius simul: agricolæ et minantes greges.
+  - `VulgSistina (1590)`: et habitabunt in eo Iuda, et omnes civitates eius simul: agricolae et minantes greges.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Abscissum est cornu Moab, et brachium ejus contritum est, ait Dominus.
-  - `Clem1598-USFX` *(numbered 48:25 in this witness)*: Abscissum est cornu Moab, et brachium ejus contritum est, ait Dominus.
-  - `Clem-Saints`: Abscissum est cornu Moab, et brachium ejus contritum est, ait Dominus.
-  - `VulgHetzenauer (1906)` *(numbered 48:25 in this witness)*: Abscissum est cornu Moab, et brachium eius contritum est, ait Dominus.
-  - `VulgConte (2009)` *(numbered 48:25 in this witness)*: Abscissum est cornu Moab, et brachium eius contritum est, ait Dominus.
-  - `VulgSistina (1590)` *(numbered 48:25 in this witness)*: Abscissum est cornu Moab, et brachium eius contritum est, ait Dominus.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:25 (re-aligned by content).
+- **Critical Text:** Quia inebriavi animam lassam, et omnem animam esurientem saturavi.
+  - `Clem1598-USFX`: Quia inebriavi animam lassam, et omnem animam esurientem saturavi.
+  - `Clem-Saints` *(numbered 38:25 in this witness)*: Quia inebriavi animam lassam, et omnem animam esurientem saturavi.
+  - `VulgHetzenauer (1906)`: Quia inebriavi animam lassam, et omnem animam esurientem saturavi.
+  - `VulgConte (2009)`: Quia inebriavi animam lassam, et omnem animam esurientem saturavi.
+  - `VulgSistina (1590)`: Quia inebriavi animam lassam, et omnem animam esurientem saturavi.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Inebriate eum, quoniam contra Dominum erectus est: et allidet manum Moab in vomitu suo, et erit in derisum etiam ipse.
-  - `Clem1598-USFX` *(numbered 48:26 in this witness)*: Inebriate eum, quoniam contra Dominum erectus est: et allidet manum Moab in vomitu suo, et erit in derisum etiam ipse.
-  - `Clem-Saints`: Inebriate eum, quoniam contra Dominum erectus est: et allidet manum Moab in vomitu suo, et erit in derisum etiam ipse.
-  - `VulgHetzenauer (1906)` *(numbered 48:26 in this witness)*: Inebriate eum, quoniam contra Dominum erectus est: et allidet manum Moab in vomitu suo, et erit in derisum etiam ipse:
-  - `VulgConte (2009)` *(numbered 48:26 in this witness)*: Inebriate eum, quoniam contra Dominum erectus est: et allidet manum Moab in vomitu suo, et erit in derisum etiam ipse:
-  - `VulgSistina (1590)` *(numbered 48:26 in this witness)*: Inebriate eum, quoniam contra Dominum erectus est: et allidet manum Moab in vomitu suo, et erit in derisum etiam ipse:
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:26 (re-aligned by content).
+- **Critical Text:** Ideo quasi de somno suscitatus sum: et vidi, et somnus meus dulcis mihi.
+  - `Clem1598-USFX`: Ideo quasi de somno suscitatus sum: et vidi, et somnus meus dulcis mihi.
+  - `Clem-Saints` *(numbered 38:26 in this witness)*: Ideo quasi de somno suscitatus sum: et vidi, et somnus meus dulcis mihi.
+  - `VulgHetzenauer (1906)`: Ideo quasi de somno suscitatus sum: et vidi, et somnus meus dulcis mihi.
+  - `VulgConte (2009)`: Ideo quasi de somno suscitatus sum: et vidi, et somnus meus dulcis mihi.
+  - `VulgSistina (1590)`: Ideo quasi de somno suscitatus sum: et vidi, et somnus meus dulcis mihi.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Fuit enim in derisum tibi Israël: quasi inter fures reperisses eum: propter verba ergo tua quæ adversum illum locutus es, captivus duceris.
-  - `Clem1598-USFX` *(numbered 48:27 in this witness)*: Fuit enim in derisum tibi Israël: quasi inter fures reperisses eum: propter verba ergo tua quæ adversum illum locutus es, captivus duceris.
-  - `Clem-Saints`: Fuit enim in derisum tibi Israël: quasi inter fures reperisses eum: propter verba ergo tua quæ adversum illum locutus es, captivus duceris.
-  - `VulgHetzenauer (1906)` *(numbered 48:27 in this witness)*: fuit enim in derisum tibi Israel: quasi inter fures reperisses eum: propter verba ergo tua, quæ adversum illum locutus es, captivus duceris.
-  - `VulgConte (2009)` *(numbered 48:27 in this witness)*: fuit enim in derisum tibi Israel: quasi inter fures reperisses eum: propter verba ergo tua, quæ adversum illum locutus es, captivus duceris.
-  - `VulgSistina (1590)` *(numbered 48:27 in this witness)*: fuit enim in derisum tibi Israel: quasi inter fures reperisses eum: propter verba ergo tua, quae adversum illum locutus es, captivus duceris.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:27 (re-aligned by content).
+- **Critical Text:** Ecce dies veniunt, dicit Dominus, et seminabo domum Israël et domum Juda semine hominum et semine jumentorum.
+  - `Clem1598-USFX`: Ecce dies veniunt, dicit Dominus, et seminabo domum Israël et domum Juda semine hominum et semine jumentorum.
+  - `Clem-Saints` *(numbered 38:27 in this witness)*: Ecce dies veniunt, dicit Dominus, et seminabo domum Israël et domum Juda semine hominum et semine jumentorum.
+  - `VulgHetzenauer (1906)`: Ecce dies veniunt, dicit Dominus: et seminabo domum Israel et domum Iuda semine hominum, et semine iumentorum.
+  - `VulgConte (2009)`: Ecce dies veniunt, dicit Dominus: et seminabo domum Israel et domum Iuda semine hominum, et semine iumentorum.
+  - `VulgSistina (1590)`: Ecce dies veniunt, dicit Dominus: et seminabo domum Israel et domum Iuda semine hominum, et semine iumentorum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Relinquite civitates, et habitate in petra, habitatores Moab: et estote quasi columba nidificans in summo ore foraminis.
-  - `Clem1598-USFX` *(numbered 48:28 in this witness)*: Relinquite civitates, et habitate in petra, habitatores Moab: et estote quasi columba nidificans in summo ore foraminis.
-  - `Clem-Saints`: Relinquite civitates, et habitate in petra, habitatores Moab: et estote quasi columba nidificans in summo ore foraminis.
-  - `VulgHetzenauer (1906)` *(numbered 48:28 in this witness)*: Relinquite civitates, et habitate in petra habitatores Moab: et estote quasi columba nidificans in summo ore foraminis.
-  - `VulgConte (2009)` *(numbered 48:28 in this witness)*: Relinquite civitates, et habitate in petra habitatores Moab: et estote quasi columba nidificans in summo ore foraminis.
-  - `VulgSistina (1590)` *(numbered 48:28 in this witness)*: Relinquite civitates, et habitate in petra habitatores Moab: et estote quasi columba nidificans in summo ore foraminis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:28 (re-aligned by content).
+- **Critical Text:** Et sicut vigilavi super eos ut evellerem, et demolirer, et dissiparem, et disperderem, et affligerem, sic vigilabo super eos ut ædificem et plantem, ait Dominus.
+  - `Clem1598-USFX`: Et sicut vigilavi super eos ut evellerem, et demolirer, et dissiparem, et disperderem, et affligerem, sic vigilabo super eos ut ædificem et plantem, ait Dominus.
+  - `Clem-Saints` *(numbered 38:28 in this witness)*: Et sicut vigilavi super eos ut evellerem, et demolirer, et dissiparem, et disperderem, et affligerem, sic vigilabo super eos ut ædificem et plantem, ait Dominus.
+  - `VulgHetzenauer (1906)`: Et sicut vigilavi super eos ut evellerem, et demolirer, et dissiparem, et disperderem, et affligerem: sic vigilabo super eos ut ædificem, et plantem, ait Dominus.
+  - `VulgConte (2009)`: Et sicut vigilavi super eos ut evellerem, et demolirer, et dissiparem, et disperderem, et affligerem: sic vigilabo super eos ut ædificem, et plantem, ait Dominus.
+  - `VulgSistina (1590)`: Et sicut vigilavi super eos ut evellerem, et demolirer, et dissiparem, et disperderem, et affligerem: sic vigilabo super eos ut aedificem, et plantem, ait Dominus.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Audivimus superbiam Moab: superbus est valde: sublimitatem ejus, et arrogantiam, et superbiam, et altitudinem cordis ejus.
-  - `Clem1598-USFX` *(numbered 48:29 in this witness)*: Audivimus superbiam Moab: superbus est valde: sublimitatem ejus, et arrogantiam, et superbiam, et altitudinem cordis ejus.
-  - `Clem-Saints`: Audivimus superbiam Moab: superbus est valde: sublimitatem ejus, et arrogantiam, et superbiam, et altitudinem cordis ejus.
-  - `VulgHetzenauer (1906)` *(numbered 48:29 in this witness)*: Audivimus superbiam Moab, superbus est valde: sublimitatem eius, et arrogantiam, et superbiam, et altitudinem cordis eius.
-  - `VulgConte (2009)` *(numbered 48:29 in this witness)*: Audivimus superbiam Moab, superbus est valde: sublimitatem eius, et arrogantiam, et superbiam, et altitudinem cordis eius.
-  - `VulgSistina (1590)` *(numbered 48:29 in this witness)*: Audivimus superbiam Moab, superbus est valde: sublimitatem eius, et arrogantiam, et superbiam, et altitudinem cordis eius.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:29 (re-aligned by content).
+- **Critical Text:** In diebus illis non dicent ultra: Patres comederunt uvam acerbam, et dentes filiorum obstupuerunt.
+  - `Clem1598-USFX`: In diebus illis non dicent ultra: Patres comederunt uvam acerbam, et dentes filiorum obstupuerunt.
+  - `Clem-Saints` *(numbered 38:29 in this witness)*: In diebus illis non dicent ultra: Patres comederunt uvam acerbam, et dentes filiorum obstupuerunt.
+  - `VulgHetzenauer (1906)`: In diebus illis non dicent ultra: Patres comederunt uvam acerbam, et dentes filiorum obstupuerunt.
+  - `VulgConte (2009)`: In diebus illis non dicent ultra: Patres comederunt uvam acerbam, et dentes filiorum obstupuerunt.
+  - `VulgSistina (1590)`: In diebus illis non dicent ultra: Patres comederunt uvam acerbam, et dentes filiorum obstupuerunt.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Ego scio, ait Dominus, jactantiam ejus, et quod non sit juxta eam virtus ejus, nec juxta quod poterat conata sit facere.
-  - `Clem1598-USFX` *(numbered 48:30 in this witness)*: Ego scio, ait Dominus, jactantiam ejus, et quod non sit juxta eam virtus ejus, nec juxta quod poterat conata sit facere.
-  - `Clem-Saints`: Ego scio, ait Dominus, jactantiam ejus, et quod non sit juxta eam virtus ejus, nec juxta quod poterat conata sit facere.
-  - `VulgHetzenauer (1906)` *(numbered 48:30 in this witness)*: Ego scio, ait Dominus, iactantiam eius: et quod non sit iuxta eam virtus eius, nec iuxta quod poterat conata sit facere.
-  - `VulgConte (2009)` *(numbered 48:30 in this witness)*: Ego scio, ait Dominus, iactantiam eius: et quod non sit iuxta eam virtus eius, nec iuxta quod poterat conata sit facere.
-  - `VulgSistina (1590)` *(numbered 48:30 in this witness)*: Ego scio, ait Dominus, iactantiam eius: eo quod non sit iuxta eam virtus eius, nec iuxta quod poterat conata sit facere.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:30 (re-aligned by content).
+- **Critical Text:** Sed unusquisque in iniquitate sua morietur: omnis homo qui comederit uvam acerbam, obstupescent dentes ejus.
+  - `Clem1598-USFX`: Sed unusquisque in iniquitate sua morietur: omnis homo qui comederit uvam acerbam, obstupescent dentes ejus.
+  - `Clem-Saints` *(numbered 38:30 in this witness)*: Sed unusquisque in iniquitate sua morietur: omnis homo qui comederit uvam acerbam, obstupescent dentes ejus.
+  - `VulgHetzenauer (1906)`: Sed unusquisque in iniquitate sua morietur: omnis homo, qui comederit uvam acerbam, obstupescent dentes eius.
+  - `VulgConte (2009)`: Sed unusquisque in iniquitate sua morietur: omnis homo, qui comederit uvam acerbam, obstupescent dentes eius.
+  - `VulgSistina (1590)`: Sed unusquisque in iniquitate sua morietur: omnis homo, qui comederit uvam acerbam, obstupescent dentes eius.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Ideo super Moab ejulabo, et ad Moab universam clamabo, ad viros muri fictilis lamentantes:
-  - `Clem1598-USFX` *(numbered 48:31 in this witness)*: Ideo super Moab ejulabo, et ad Moab universam clamabo, ad viros muri fictilis lamentantes:
-  - `Clem-Saints`: Ideo super Moab ejulabo, et ad Moab universam clamabo, ad viros muri fictilis lamentantes:
-  - `VulgHetzenauer (1906)` *(numbered 48:31 in this witness)*: Ideo super Moab eiulabo, et ad Moab universam clamabo, ad viros muri fictilis lamentantes.
-  - `VulgConte (2009)` *(numbered 48:31 in this witness)*: Ideo super Moab eiulabo, et ad Moab universam clamabo, ad viros muri fictilis lamentantes.
-  - `VulgSistina (1590)` *(numbered 48:31 in this witness)*: Ideo super Moab eiulabo, et ad Moab universam clamabo, ad viros muri fictilis lamentantes.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:31 (re-aligned by content).
+- **Critical Text:** Ecce dies venient, dicit Dominus, et feriam domui Israël et domui Juda fœdus novum,
+  - `Clem1598-USFX`: Ecce dies venient, dicit Dominus, et feriam domui Israël et domui Juda fœdus novum,
+  - `Clem-Saints` *(numbered 38:31 in this witness)*: Ecce dies venient, dicit Dominus, et feriam domui Israël et domui Juda fœdus novum,
+  - `VulgHetzenauer (1906)`: Ecce dies venient, dicit Dominus: et feriam domui Israel et domui Iuda fœdus novum:
+  - `VulgConte (2009)`: Ecce dies venient, dicit Dominus: et feriam domui Israel et domui Iuda fœdus novum:
+  - `VulgSistina (1590)`: Ecce dies venient, dicit Dominus: et feriam domui Israel et domui Iuda foedus novum:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** de planctu Jazer plorabo tibi, vinea Sabama. Propagines tuæ transierunt mare; usque ad mare Jazer pervenerunt: super messem tuam et vindemiam tuam prædo irruit.
-  - `Clem1598-USFX` *(numbered 48:32 in this witness)*: de planctu Jazer plorabo tibi, vinea Sabama. Propagines tuæ transierunt mare; usque ad mare Jazer pervenerunt: super messem tuam et vindemiam tuam prædo irruit.
-  - `Clem-Saints`: de planctu Jazer plorabo tibi, vinea Sabama. Propagines tuæ transierunt mare; usque ad mare Jazer pervenerunt: super messem tuam et vindemiam tuam prædo irruit.
-  - `VulgHetzenauer (1906)` *(numbered 48:32 in this witness)*: De planctu Iazer plorabo tibi vinea Sabama: propagines tuæ transierunt mare, usque ad mare Iazer pervenerunt: super messem tuam, et vindemiam tuam prædo irruit.
-  - `VulgConte (2009)` *(numbered 48:32 in this witness)*: De planctu Iazer plorabo tibi vinea Sabama: propagines tuæ transierunt mare, usque ad mare Iazer pervenerunt: super messem tuam, et vindemiam tuam prædo irruit.
-  - `VulgSistina (1590)` *(numbered 48:32 in this witness)*: De planctu Iazer plorabo tibi vinea Sabama: propagines tuae transierunt mare, usque ad mare Iazer pervenerunt: super messem tuam, et vindemiam tuam praedo irruit.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:32 (re-aligned by content).
+- **Critical Text:** non secundum pactum quod pepigi cum patribus eorum in die qua apprehendi manum eorum ut educerem eos de terra Ægypti, pactum quod irritum fecerunt: et ego dominatus sum eorum, dicit Dominus.
+  - `Clem1598-USFX`: non secundum pactum quod pepigi cum patribus eorum in die qua apprehendi manum eorum ut educerem eos de terra Ægypti, pactum quod irritum fecerunt: et ego dominatus sum eorum, dicit Dominus.
+  - `Clem-Saints` *(numbered 38:32 in this witness)*: non secundum pactum quod pepigi cum patribus eorum in die qua apprehendi manum eorum ut educerem eos de terra Ægypti, pactum quod irritum fecerunt: et ego dominatus sum eorum, dicit Dominus.
+  - `VulgHetzenauer (1906)`: non secundum pactum, quod pepigi cum patribus eorum in die, qua apprehendi manum eorum, ut educerem eos de Terra Ægypti: pactum, quod irritum fecerunt, et ego dominatus sum eorum, dicit Dominus.
+  - `VulgConte (2009)`: non secundum pactum, quod pepigi cum patribus eorum in die, qua apprehendi manum eorum, ut educerem eos de Terra Ægypti: pactum, quod irritum fecerunt, et ego dominatus sum eorum, dicit Dominus.
+  - `VulgSistina (1590)`: non secundum pactum, quod pepigi cum patribus eorum in die, qua apprehendi manum eorum, ut educerem eos de Terra Aegypti: pactum, quod irritum fecerunt, et ego dominatus sum eorum, dicit Dominus.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Ablata est lætitia et exsultatio de Carmelo et de terra Moab, et vinum de torcularibus sustuli: nequaquam calcator uvæ solitum celeuma cantabit.
-  - `Clem1598-USFX` *(numbered 48:33 in this witness)*: Ablata est lætitia et exsultatio de Carmelo et de terra Moab, et vinum de torcularibus sustuli: nequaquam calcator uvæ solitum celeuma cantabit.
-  - `Clem-Saints`: Ablata est lætitia et exsultatio de Carmelo et de terra Moab, et vinum de torcularibus sustuli: nequaquam calcator uvæ solitum celeuma cantabit.
-  - `VulgHetzenauer (1906)` *(numbered 48:33 in this witness)*: Ablata est lætitia et exultatio de Carmelo, et de Terra Moab, et vinum de torcularibus sustuli: nequaquam calcator uvæ solitum celeuma cantabit.
-  - `VulgConte (2009)` *(numbered 48:33 in this witness)*: Ablata est lætitia et exultatio de Carmelo, et de Terra Moab, et vinum de torcularibus sustuli: nequaquam calcator uvæ solitum celeuma cantabit.
-  - `VulgSistina (1590)` *(numbered 48:33 in this witness)*: Ablata est laetitia et exultatio de Carmelo, et de Terra Moab, et vinum de torcularibus sustuli: nequaquam calcator uvae solitum celeuma cantabit.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:33 (re-aligned by content).
+- **Critical Text:** Sed hoc erit pactum quod feriam cum domo Israël post dies illos, dicit Dominus: dabo legem meam in visceribus eorum, et in corde eorum scribam eam, et ero eis in Deum, et ipsi erunt mihi in populum:
+  - `Clem1598-USFX`: Sed hoc erit pactum quod feriam cum domo Israël post dies illos, dicit Dominus: dabo legem meam in visceribus eorum, et in corde eorum scribam eam, et ero eis in Deum, et ipsi erunt mihi in populum:
+  - `Clem-Saints` *(numbered 38:33 in this witness)*: Sed hoc erit pactum quod feriam cum domo Israël post dies illos, dicit Dominus: dabo legem meam in visceribus eorum, et in corde eorum scribam eam, et ero eis in Deum, et ipsi erunt mihi in populum:
+  - `VulgHetzenauer (1906)`: Sed hoc erit pactum, quod feriam cum domo Israel: post dies illos dicit Dominus: Dabo legem meam in visceribus eorum, et in corde eorum scribam eam: et ero eis in Deum, et ipsi erunt mihi in populum.
+  - `VulgConte (2009)`: Sed hoc erit pactum, quod feriam cum domo Israel: post dies illos dicit Dominus: Dabo legem meam in visceribus eorum, et in corde eorum scribam eam: et ero eis in Deum, et ipsi erunt mihi in populum.
+  - `VulgSistina (1590)`: Sed hoc erit pactum, quod feriam cum domo Israel: post dies illos dicit Dominus: Dabo legem meam in visceribus eorum, et in corde eorum scribam eam: et ero eis in Deum, et ipsi erunt mihi in populum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 34 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** De clamore Hesebon usque Eleale et Jasa, dederunt vocem suam; a Segor usque ad Oronaim, vitula conternante: aquæ quoque Nemrim pessimæ erunt.
-  - `Clem1598-USFX` *(numbered 48:34 in this witness)*: De clamore Hesebon usque Eleale et Jasa, dederunt vocem suam; a Segor usque ad Oronaim, vitula conternante: aquæ quoque Nemrim pessimæ erunt.
-  - `Clem-Saints`: De clamore Hesebon usque Eleale et Jasa, dederunt vocem suam; a Segor usque ad Oronaim, vitula conternante: aquæ quoque Nemrim pessimæ erunt.
-  - `VulgHetzenauer (1906)` *(numbered 48:34 in this witness)*: De clamore Hesebon usque Eleale, et Iasa, dederunt vocem suam: a Segor usque ad Oronaim vitula conternante: aquæ quoque Nemrim pessimæ erunt.
-  - `VulgConte (2009)` *(numbered 48:34 in this witness)*: De clamore Hesebon usque Eleale, et Iasa, dederunt vocem suam: a Segor usque ad Oronaim vitula conternante: aquæ quoque Nemrim pessimæ erunt.
-  - `VulgSistina (1590)` *(numbered 48:34 in this witness)*: De clamore Hesebon usque Eleale, et Iasa, dederunt vocem suam: a Segor usque ad Oronaim vitulam conternante: aquae quoque Nemrim pessimae erunt.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:34 (re-aligned by content).
+- **Critical Text:** et non docebit ultra vir proximum suum et vir fratrem suum, dicens: Cognosce Dominum: omnes enim cognoscent me, a minimo eorum usque ad maximum, ait Dominus: quia propitiabor iniquitati eorum, et peccati eorum non memorabor amplius.
+  - `Clem1598-USFX`: et non docebit ultra vir proximum suum et vir fratrem suum, dicens: Cognosce Dominum: omnes enim cognoscent me, a minimo eorum usque ad maximum, ait Dominus: quia propitiabor iniquitati eorum, et peccati eorum non memorabor amplius.
+  - `Clem-Saints` *(numbered 38:34 in this witness)*: et non docebit ultra vir proximum suum et vir fratrem suum, dicens: Cognosce Dominum: omnes enim cognoscent me, a minimo eorum usque ad maximum, ait Dominus: quia propitiabor iniquitati eorum, et peccati eorum non memorabor amplius.
+  - `VulgHetzenauer (1906)`: Et non docebit ultra vir proximum suum, et vir fratrem suum, dicens: Cognosce Dominum: omnes enim cognoscent me a minimo eorum usque ad maximum, ait Dominus: quia propitiabor iniquitati eorum, et peccati eorum non memorabor amplius.
+  - `VulgConte (2009)`: Et non docebit ultra vir proximum suum, et vir fratrem suum, dicens: Cognosce Dominum: omnes enim cognoscent me a minimo eorum usque ad maximum, ait Dominus: quia propitiabor iniquitati eorum, et peccati eorum non memorabor amplius.
+  - `VulgSistina (1590)`: Et non docebit ultra vir proximum suum, et vir fratrem suum, dicens: Cognosce Dominum: omnes enim cognoscent me a minimo eorum usque ad maximum, ait Dominus: quia propitiabor iniquitati eorum, et peccati eorum non memorabor amplius.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 35 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Et auferam de Moab, ait Dominus, offerentem in excelsis, et sacrificantem diis ejus.
-  - `Clem1598-USFX` *(numbered 48:35 in this witness)*: Et auferam de Moab, ait Dominus, offerentem in excelsis, et sacrificantem diis ejus.
-  - `Clem-Saints`: Et auferam de Moab, ait Dominus, offerentem in excelsis, et sacrificantem diis ejus.
-  - `VulgHetzenauer (1906)` *(numbered 48:35 in this witness)*: Et auferam de Moab, ait Dominus, offerentem in excelsis, et sacrificantem diis eius.
-  - `VulgConte (2009)` *(numbered 48:35 in this witness)*: Et auferam de Moab, ait Dominus, offerentem in excelsis, et sacrificantem diis eius.
-  - `VulgSistina (1590)` *(numbered 48:35 in this witness)*: Et auferam de Moab, ait Dominus, offerentem in excelsis, et sacrificantem diis eius.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:35 (re-aligned by content).
+- **Critical Text:** Hæc dicit Dominus qui dat solem in lumine diei, ordinem lunæ et stellarum in lumine noctis: qui turbat mare, et sonant fluctus ejus: Dominus exercituum nomen illi:
+  - `Clem1598-USFX`: Hæc dicit Dominus qui dat solem in lumine diei, ordinem lunæ et stellarum in lumine noctis: qui turbat mare, et sonant fluctus ejus: Dominus exercituum nomen illi:
+  - `Clem-Saints` *(numbered 38:36 in this witness)*: Hæc dicit Dominus qui dat solem in lumine diei, ordinem lunæ et stellarum in lumine noctis: qui turbat mare, et sonant fluctus ejus: Dominus exercituum nomen illi:
+  - `VulgHetzenauer (1906)`: Hæc dicit Dominus, qui dat solem in lumine diei, ordinem lunæ et stellarum in lumine noctis: qui turbat mare, et sonant fluctus eius, Dominus exercituum nomen illi.
+  - `VulgConte (2009)`: Hæc dicit Dominus, qui dat solem in lumine diei, ordinem lunæ et stellarum in lumine noctis: qui turbat mare, et sonant fluctus eius, Dominus exercituum nomen illi.
+  - `VulgSistina (1590)`: Haec dicit Dominus, qui dat solem in lumine diei, ordinem lunae et stellarum in lumine noctis: qui turbat mare, et sonant fluctus eius, Dominus exercituum nomen illi.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 36 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Propterea cor meum ad Moab quasi tibiæ resonabit, et cor meum ad viros muri fictilis dabit sonitum tibiarum: quia plus fecit quam potuit, idcirco perierunt.
-  - `Clem1598-USFX` *(numbered 48:36 in this witness)*: Propterea cor meum ad Moab quasi tibiæ resonabit, et cor meum ad viros muri fictilis dabit sonitum tibiarum: quia plus fecit quam potuit, idcirco perierunt.
-  - `Clem-Saints`: Propterea cor meum ad Moab quasi tibiæ resonabit, et cor meum ad viros muri fictilis dabit sonitum tibiarum: quia plus fecit quam potuit, idcirco perierunt.
-  - `VulgHetzenauer (1906)` *(numbered 48:36 in this witness)*: Propterea cor meum ad Moab quasi tibiæ resonabit: et cor meum ad viros muri fictilis dabit sonitum tibiarum: quia plus fecit quam potuit, idcirco perierunt.
-  - `VulgConte (2009)` *(numbered 48:36 in this witness)*: Propterea cor meum ad Moab quasi tibiæ resonabit: et cor meum ad viros muri fictilis dabit sonitum tibiarum: quia plus fecit quam potuit, idcirco perierunt.
-  - `VulgSistina (1590)` *(numbered 48:36 in this witness)*: Propterea cor meum ad Moab quasi tibia aeris resonabit: et cor meum ad viros muri fictilis dabit sonitum tibiarum: quia plus fecit quam potuit, idcirco perierunt.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:36 (re-aligned by content).
+- **Critical Text:** Si defecerint leges istæ coram me, dicit Dominus, tunc et semen Israël deficiet, ut non sit gens coram me cunctis diebus.
+  - `Clem1598-USFX`: Si defecerint leges istæ coram me, dicit Dominus, tunc et semen Israël deficiet, ut non sit gens coram me cunctis diebus.
+  - `Clem-Saints` *(numbered 38:37 in this witness)*: Si defecerint leges istæ coram me, dicit Dominus, tunc et semen Israël deficiet, ut non sit gens coram me cunctis diebus.
+  - `VulgHetzenauer (1906)`: Si defecerint leges istæ coram me, dicit Dominus: tunc et semen Israel deficiet, ut non sit gens coram me cunctis diebus.
+  - `VulgConte (2009)`: Si defecerint leges istæ coram me, dicit Dominus: tunc et semen Israel deficiet, ut non sit gens coram me cunctis diebus.
+  - `VulgSistina (1590)`: Si defecerint leges istae coram me, dicit Dominus: tunc et semen Israel deficiet, ut non sit gens coram me cunctis diebus.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 37 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Omne enim caput calvitium, et omnis barba rasa erit: in cunctis manibus colligatio, et super omne dorsum cilicium:
-  - `Clem1598-USFX` *(numbered 48:37 in this witness)*: Omne enim caput calvitium, et omnis barba rasa erit: in cunctis manibus colligatio, et super omne dorsum cilicium:
-  - `Clem-Saints`: Omne enim caput calvitium, et omnis barba rasa erit: in cunctis manibus colligatio, et super omne dorsum cilicium:
-  - `VulgHetzenauer (1906)` *(numbered 48:37 in this witness)*: Omne enim caput calvitium, et omnis barba rasa erit: in cunctis manibus colligatio, et super omne dorsum cilicium.
-  - `VulgConte (2009)` *(numbered 48:37 in this witness)*: Omne enim caput calvitium, et omnis barba rasa erit: in cunctis manibus colligatio, et super omne dorsum cilicium.
-  - `VulgSistina (1590)` *(numbered 48:37 in this witness)*: Omne enim caput calvitium, et omnis barba rasa erit: in cunctis manibus colligatio, et super omne dorsum cilicium.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:37 (re-aligned by content).
+- **Critical Text:** Hæc dicit Dominus: Si mensurari potuerint cæli sursum, et investigari fundamenta terræ deorsum, et ego abjiciam universum semen Israël, propter omnia quæ fecerunt, dicit Dominus.
+  - `Clem1598-USFX`: Hæc dicit Dominus: Si mensurari potuerint cæli sursum, et investigari fundamenta terræ deorsum, et ego abjiciam universum semen Israël, propter omnia quæ fecerunt, dicit Dominus.
+  - `Clem-Saints` *(numbered 38:35 in this witness)*: Hæc dicit Dominus: Si mensurari potuerint cæli sursum, et investigari fundamenta terræ deorsum, et ego abjiciam universum semen Israël, propter omnia quæ fecerunt, dicit Dominus.
+  - `VulgHetzenauer (1906)`: Hæc dicit Dominus: Si mensurari potuerint cæli sursum, et investigari fundamenta terræ deorsum: et ego abiiciam universum semen Israel propter omnia, quæ fecerunt, dicit Dominus.
+  - `VulgConte (2009)`: Hæc dicit Dominus: Si mensurari potuerint cæli sursum, et investigari fundamenta terræ deorsum: et ego abiiciam universum semen Israel propter omnia, quæ fecerunt, dicit Dominus.
+  - `VulgSistina (1590)`: Haec dicit Dominus: Si mensurari potuerint caeli sursum, et investigari fundamenta terrae deorsum: et ego abiiciam universum semen Israel propter omnia, quae fecerunt, dicit Dominus.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 38 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** super omnia tecta Moab, et in plateis ejus, omnis planctus: quoniam contrivi Moab sicut vas inutile, ait Dominus.
-  - `Clem1598-USFX` *(numbered 48:38 in this witness)*: super omnia tecta Moab, et in plateis ejus, omnis planctus: quoniam contrivi Moab sicut vas inutile, ait Dominus.
-  - `Clem-Saints`: super omnia tecta Moab, et in plateis ejus, omnis planctus: quoniam contrivi Moab sicut vas inutile, ait Dominus.
-  - `VulgHetzenauer (1906)` *(numbered 48:38 in this witness)*: Super omnia tecta Moab, et in plateis eius omnis planctus: quoniam contrivi Moab sicut vas inutile, ait Dominus.
-  - `VulgConte (2009)` *(numbered 48:38 in this witness)*: Super omnia tecta Moab, et in plateis eius omnis planctus: quoniam contrivi Moab sicut vas inutile, ait Dominus.
-  - `VulgSistina (1590)` *(numbered 48:38 in this witness)*: Super omnia tecta Moab, et in plateis eius omnis planctus: quoniam contrivi Moab sicut vas inutile, ait Dominus.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:38 (re-aligned by content).
+- **Critical Text:** Ecce dies veniunt, dicit Dominus, et ædificabitur civitas Domino, a turre Hananeel usque ad portam anguli.
+  - `Clem1598-USFX`: Ecce dies veniunt, dicit Dominus, et ædificabitur civitas Domino, a turre Hananeel usque ad portam anguli.
+  - `Clem-Saints` *(numbered 38:38 in this witness)*: Ecce dies veniunt, dicit Dominus, et ædificabitur civitas Domino, a turre Hananeel usque ad portam anguli.
+  - `VulgHetzenauer (1906)`: Ecce dies veniunt, dicit Dominus: et ædificabitur civitas Domino a turre Hananeel usque ad portam anguli.
+  - `VulgConte (2009)`: Ecce dies veniunt, dicit Dominus: et ædificabitur civitas Domino a turre Hananeel usque ad portam anguli.
+  - `VulgSistina (1590)`: Ecce dies veniunt, dicit Dominus: et aedificabitur civitas Domino a turre Hananeel usque ad portam anguli.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 39 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Quomodo victa est, et ululaverunt? quomodo dejecit cervicem Moab, et confusus est? eritque Moab in derisum, et in exemplum omnibus in circuitu suo.
-  - `Clem1598-USFX` *(numbered 48:39 in this witness)*: Quomodo victa est, et ululaverunt? quomodo dejecit cervicem Moab, et confusus est? eritque Moab in derisum, et in exemplum omnibus in circuitu suo.
-  - `Clem-Saints`: Quomodo victa est, et ululaverunt? quomodo dejecit cervicem Moab, et confusus est? eritque Moab in derisum, et in exemplum omnibus in circuitu suo.
-  - `VulgHetzenauer (1906)` *(numbered 48:39 in this witness)*: Quomodo victa est, et ululaverunt? quomodo deiecit cervicem Moab, et confusus est? eritque Moab in derisum, et in exemplum omnibus in circuitu suo.
-  - `VulgConte (2009)` *(numbered 48:39 in this witness)*: Quomodo victa est, et ululaverunt? Quomodo deiecit cervicem Moab, et confusus est? Eritque Moab in derisum, et in exemplum omnibus in circuitu suo.
-  - `VulgSistina (1590)` *(numbered 48:39 in this witness)*: Quomodo victa est, et ululaverunt? quomodo deiecit cervicem Moab, et confusus est? eritque Moab in derisum, et in exemplum omnibus in circuitu suo.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:39 (re-aligned by content).
+- **Critical Text:** Et exibit ultra norma mensuræ in conspectu ejus super collem Gareb, et circuibit Goatha,
+  - `Clem1598-USFX`: Et exibit ultra norma mensuræ in conspectu ejus super collem Gareb, et circuibit Goatha,
+  - `Clem-Saints` *(numbered 38:39 in this witness)*: Et exibit ultra norma mensuræ in conspectu ejus super collem Gareb, et circuibit Goatha,
+  - `VulgHetzenauer (1906)`: Et exibit ultra norma mensuræ in conspectu eius super collem Gareb: et circuibit Goatha,
+  - `VulgConte (2009)`: Et exibit ultra norma mensuræ in conspectu eius super collem Gareb: et circuibit Goatha,
+  - `VulgSistina (1590)`: Et exibit ultra norma mensurae in conspectu eius super collem Gareb: et circuibit Goatha,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 40 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Hæc dicit Dominus: Ecce quasi aquila volabit, et extendet alas suas ad Moab.
-  - `Clem1598-USFX` *(numbered 48:40 in this witness)*: Hæc dicit Dominus: Ecce quasi aquila volabit, et extendet alas suas ad Moab.
-  - `Clem-Saints`: Hæc dicit Dominus: Ecce quasi aquila volabit, et extendet alas suas ad Moab.
-  - `VulgHetzenauer (1906)` *(numbered 48:40 in this witness)*: Hæc dicit Dominus: Ecce quasi aquila volabit, et extendet alas suas ad Moab.
-  - `VulgConte (2009)` *(numbered 48:40 in this witness)*: Hæc dicit Dominus: Ecce quasi aquila volabit, et extendet alas suas ad Moab.
-  - `VulgSistina (1590)` *(numbered 48:40 in this witness)*: Haec dicit Dominus: Ecce quasi aquila volabit, et extendet alas suas ad Moab.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:40 (re-aligned by content).
-
-### Verse 41 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Capta est Carioth, et munitiones comprehensæ sunt: et erit cor fortium Moab in die illa sicut cor mulieris parturientis,
-  - `Clem1598-USFX` *(numbered 48:41 in this witness)*: Capta est Carioth, et munitiones comprehensæ sunt: et erit cor fortium Moab in die illa sicut cor mulieris parturientis,
-  - `Clem-Saints`: Capta est Carioth, et munitiones comprehensæ sunt: et erit cor fortium Moab in die illa sicut cor mulieris parturientis,
-  - `VulgHetzenauer (1906)` *(numbered 48:41 in this witness)*: Capta est Carioth, et munitiones comprehensæ sunt: et erit cor fortium Moab in die illa, sicut cor mulieris parturientis.
-  - `VulgConte (2009)` *(numbered 48:41 in this witness)*: Capta est Carioth, et munitiones comprehensæ sunt: et erit cor fortium Moab in die illa, sicut cor mulieris parturientis.
-  - `VulgSistina (1590)` *(numbered 48:41 in this witness)*: Capta est Carioth, et munitiones comprehensae sunt: et erit cor fortium Moab in die illa, sicut cor mulieris parturientis.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:41 (re-aligned by content).
-
-### Verse 42 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** et cessabit Moab esse populus, quoniam contra Dominum gloriatus est.
-  - `Clem1598-USFX` *(numbered 48:42 in this witness)*: et cessabit Moab esse populus, quoniam contra Dominum gloriatus est.
-  - `Clem-Saints`: et cessabit Moab esse populus, quoniam contra Dominum gloriatus est.
-  - `VulgHetzenauer (1906)` *(numbered 48:42 in this witness)*: Et cessabit Moab esse populus: quoniam contra Dominum gloriatus est.
-  - `VulgConte (2009)` *(numbered 48:42 in this witness)*: Et cessabit Moab esse populus: quoniam contra Dominum gloriatus est.
-  - `VulgSistina (1590)` *(numbered 48:42 in this witness)*: Et cessabit Moab esse populus: quoniam contra Dominum gloriatus est.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:42 (re-aligned by content).
-
-### Verse 43 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Pavor, et fovea, et laqueus super te, o habitator Moab, dicit Dominus.
-  - `Clem1598-USFX` *(numbered 48:43 in this witness)*: Pavor, et fovea, et laqueus super te, o habitator Moab, dicit Dominus.
-  - `Clem-Saints`: Pavor, et fovea, et laqueus super te, o habitator Moab, dicit Dominus.
-  - `VulgHetzenauer (1906)` *(numbered 48:43 in this witness)*: Pavor, et fovea, et laqueus super te o habitator Moab, dicit Dominus.
-  - `VulgConte (2009)` *(numbered 48:43 in this witness)*: Pavor, et fovea, et laqueus super te, o habitator Moab, dicit Dominus.
-  - `VulgSistina (1590)` *(numbered 48:43 in this witness)*: Pavor, et fovea, et laqueus super te o habitator Moab, dicit Dominus.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:43 (re-aligned by content).
-
-### Verse 44 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Qui fugerit a facie pavoris cadet in foveam, et qui conscenderit de fovea capietur laqueo: adducam enim super Moab annum visitationis eorum, ait Dominus.
-  - `Clem1598-USFX` *(numbered 48:44 in this witness)*: Qui fugerit a facie pavoris cadet in foveam, et qui conscenderit de fovea capietur laqueo: adducam enim super Moab annum visitationis eorum, ait Dominus.
-  - `Clem-Saints`: Qui fugerit a facie pavoris cadet in foveam, et qui conscenderit de fovea capietur laqueo: adducam enim super Moab annum visitationis eorum, ait Dominus.
-  - `VulgHetzenauer (1906)` *(numbered 48:44 in this witness)*: Qui fugerit a facie pavoris, cadet in foveam: et qui conscenderit de fovea, capietur laqueo: adducam enim super Moab annum visitationis eorum, ait Dominus.
-  - `VulgConte (2009)` *(numbered 48:44 in this witness)*: Qui fugerit a facie pavoris, cadet in foveam: et qui conscenderit de fovea, capietur laqueo: adducam enim super Moab annum visitationis eorum, ait Dominus.
-  - `VulgSistina (1590)` *(numbered 48:44 in this witness)*: Qui fugerit a facie pavoris, cadet in foveam: et qui conscenderit de fovea, capietur laqueo: adducam enim super Moab annum visitationis eorum, ait Dominus.
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 48:44 (re-aligned by content).
+- **Critical Text:** et omnem vallem cadaverum, et cineris, et universam regionem mortis usque ad torrentem Cedron, et usque ad angulum portæ equorum orientalis, Sanctum Domini: non evelletur, et non destruetur ultra in perpetuum.
+  - `Clem1598-USFX`: et omnem vallem cadaverum, et cineris, et universam regionem mortis usque ad torrentem Cedron, et usque ad angulum portæ equorum orientalis, Sanctum Domini: non evelletur, et non destruetur ultra in perpetuum.
+  - `Clem-Saints` *(numbered 38:40 in this witness)*: et omnem vallem cadaverum, et cineris, et universam regionem mortis usque ad torrentem Cedron, et usque ad angulum portæ equorum orientalis, Sanctum Domini: non evelletur, et non destruetur ultra in perpetuum.
+  - `VulgHetzenauer (1906)`: et omnem vallem cadaverum, et cineris, et universam regionem mortis, usque ad torrentem Cedron, et usque ad angulum portæ equorum Orientalis, Sanctum Domini: non evelletur, et non destruetur ultra in perpetuum.
+  - `VulgConte (2009)`: et omnem vallem cadaverum, et cineris, et universam regionem mortis, usque ad torrentem Cedron, et usque ad angulum portæ equorum Orientalis, Sanctum Domini: non evelletur, et non destruetur ultra in perpetuum.
+  - `VulgSistina (1590)`: et omnem vallem cadaverum, et cineris, et universam regionem mortis, usque ad angulum portae equorum Orientalis, et usque ad torrentem Cedron, Sanctum Domini: non evelletur, et non destruetur ultra in perpetuum.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

@@ -1,8 +1,8 @@
 # Isaiah 39 — Saints Latin Critical Text
 
-**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:35Z`
+**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:09Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -69,7 +60,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In tempore illo misit Merodach Baladan filius Baladan rex Babylonis, libros et munera ad Ezechiam: audierat enim quod ægrotasset, et convaluisset.
   - `VulgConte (2009)`: In tempore illo misit Merodach Baladan filius Baladan rex Babylonis, libros et munera ad Ezechiam: audierat enim quod ægrotasset, et convaluisset.
   - `VulgSistina (1590)`: In tempore illo misit Merodach Baladan filius Baladan rex Babylonis, libros et munera ad Ezechiam: audierat enim quod aegrotasset, et convaluisset.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Lætatus est autem super eis Ezechias, et ostendit eis cellam aromatum, et argenti, et auri, et odoramentorum, et unguenti optimi, et omnes apothecas supellectilis suæ, et universa quæ inventa sunt in thesauris ejus. Non fuit verbum quod non ostenderet eis Ezechias in domo sua, et in omni potestate sua.
@@ -78,7 +69,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Lætatus est autem super eis Ezechias, et ostendit eis cellam aromatum, et argenti, et auri, et odoramentorum, et unguenti optimi, et omnes apothecas supellectilis suæ, et universa quæ inventa sunt in thesauris eius. Non fuit verbum, quod non ostenderet eis Ezechias in domo sua, et in omni potestate sua.
   - `VulgConte (2009)`: Lætatus est autem super eis Ezechias, et ostendit eis cellam aromatum, et argenti, et auri, et odoramentorum, et unguenti optimi, et omnes apothecas supellectilis suæ, et universa quæ inventa sunt in thesauris eius. Non fuit verbum, quod non ostenderet eis Ezechias in domo sua, et in omni potestate sua.
   - `VulgSistina (1590)`: Laetatus est autem super eis Ezechias, et ostendit eis cellam aromatum, et argenti, et auri, et odoramentorum, et unguenti optimi, et omnes apothecas supellectilis suae, et universa quae inventa sunt in thesauris eius. Non fuit verbum, quod non ostenderet eis Ezechias in domo sua, et in omni potestate sua.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Introivit autem Isaias propheta ad Ezechiam regem, et dixit ei: Quid dixerunt viri isti, et unde venerunt ad te? Et dixit Ezechias: De terra longinqua venerunt ad me, de Babylone.
@@ -87,7 +78,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Introivit autem Isaias propheta ad Ezechiam regem, et dixit ei: Quid dixerunt viri isti, et unde venerunt ad te? Et dixit Ezechias: De terra longinqua venerunt ad me, de Babylone.
   - `VulgConte (2009)`: Introivit autem Isaias propheta ad Ezechiam regem, et dixit ei: Quid dixerunt viri isti, et unde venerunt ad te? Et dixit Ezechias: De terra longinqua venerunt ad me, de Babylone.
   - `VulgSistina (1590)`: Introivit autem Isaias propheta ad Ezechiam regem, et dixit ei: Quid dixerunt viri isti, et unde venerunt ad te? Et dixit Ezechias: De terra longinqua venerunt ad me, de Babylone.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et dixit: Quid viderunt in domo tua? Et dixit Ezechias: Omnia quæ in domo mea sunt viderunt; non fuit res quam non ostenderim eis in thesauris meis.
@@ -96,7 +87,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et dixit: Quid viderunt in domo tua? Et dixit Ezechias: Omnia, quæ in domo mea sunt, viderunt: non fuit res, quam non ostenderim eis in thesauris meis.
   - `VulgConte (2009)`: Et dixit: Quid viderunt in domo tua? Et dixit Ezechias: Omnia, quæ in domo mea sunt, viderunt: non fuit res, quam non ostenderim eis in thesauris meis.
   - `VulgSistina (1590)`: Et dixit: Quid viderunt in domo tua? Et dixit Ezechias: Omnia, quae in domo mea sunt, viderunt: non fuit res, quam non ostenderim eis in thesauris meis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et dixit Isaias ad Ezechiam: Audi verbum Domini exercituum.
@@ -105,7 +96,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et dixit Isaias ad Ezechiam: Audi verbum Domini exercituum.
   - `VulgConte (2009)`: Et dixit Isaias ad Ezechiam: Audi verbum Domini exercituum.
   - `VulgSistina (1590)`: Et dixit Isaias ad Ezechiam: Audi verbum Domini exercituum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ecce dies venient, et auferentur omnia quæ in domo tua sunt, et quæ thesaurizaverunt patres tui usque ad diem hanc, in Babylonem; non relinquetur quidquam, dicit Dominus.
@@ -114,7 +105,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ecce dies venient, et auferentur omnia, quæ in domo tua sunt, et quæ thesaurizaverunt patres tui usque ad diem hanc, in Babylonem: non relinquetur quidquam, dicit Dominus.
   - `VulgConte (2009)`: Ecce dies venient, et auferentur omnia, quæ in domo tua sunt, et quæ thesaurizaverunt patres tui usque ad diem hanc, in Babylonem: non relinquetur quidquam, dicit Dominus.
   - `VulgSistina (1590)`: Ecce dies venient, et auferentur omnia, quae in domo tua sunt, et quae thesaurizaverunt patres tui usque ad diem hanc, in Babylonem: non relinquetur quidquam, dicit Dominus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et de filiis tuis, qui exibunt de te, quos genueris, tollent, et erunt eunuchi in palatio regis Babylonis.
@@ -123,7 +114,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et de filiis tuis, qui exibunt de te, quos genueris, tollent, et erunt eunuchi in palatio regis Babylonis.
   - `VulgConte (2009)`: Et de filiis tuis, qui exibunt de te, quos genueris, tollent, et erunt eunuchi in palatio regis Babylonis.
   - `VulgSistina (1590)`: Et de filiis tuis, qui exibunt de te, quos genueris, tollent, et erunt eunuchi in palatio regis Babylonis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et dixit Ezechias ad Isaiam: Bonum verbum Domini, quod locutus est. Et dixit: Fiat tantum pax et veritas in diebus meis!
@@ -132,4 +123,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et dixit Ezechias ad Isaiam: Bonum verbum Domini quod locutus est. Et dixit: Fiat tantum pax, et veritas in diebus meis.
   - `VulgConte (2009)`: Et dixit Ezechias ad Isaiam: Bonum verbum Domini quod locutus est. Et dixit: Fiat tantum pax, et veritas in diebus meis.
   - `VulgSistina (1590)`: Et dixit Ezechias ad Isaiam: Bonum verbum Domini quod locutus est. Et dixit: Fiat tantum pax, et veritas in diebus meis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

@@ -1,8 +1,8 @@
 # 1 Chronicles 20 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:22Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -69,7 +60,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Factum est autem post anni circulum, eo tempore, quo solent reges ad bella procedere, congregavit Ioab exercitum, et robur militiæ, et vastavit terram filiorum Ammon; perrexitque et obsedit Rabba: porro David manebat in Ierusalem quando Ioab percussit Rabba, et destruxit eam.
   - `VulgConte (2009)`: Factum est autem post anni circulum, eo tempore, quo solent reges ad bella procedere, congregavit Ioab exercitum, et robur militiæ, et vastavit terram filiorum Ammon; perrexitque et obsedit Rabba: porro David manebat in Ierusalem quando Ioab percussit Rabba, et destruxit eam.
   - `VulgSistina (1590)`: Factum est autem post anni circulum, eo tempore, quo solent reges ad bella procedere, congregavit Ioab exercitum, et robur militiae, et vastavit terram filiorum Ammon; perrexitque et obsedit Rabba: porro David manebat in Ierusalem quando Ioab percussit Rabba, et destruxit eam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tulit autem David coronam Melchom de capite ejus, et invenit in ea auri pondo talentum, et pretiosissimas gemmas, fecitque sibi inde diadema: manubias quoque urbis plurimas tulit;
@@ -78,7 +69,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tulit autem David coronam Melchom de capite eius, et invenit in ea auri pondo talentum, et pretiosissimas gemmas, fecitque sibi inde diadema: manubias quoque urbis plurimas tulit:
   - `VulgConte (2009)`: Tulit autem David coronam Melchom de capite eius, et invenit in ea auri pondo talentum, et pretiosissimas gemmas, fecitque sibi inde diadema: manubias quoque urbis plurimas tulit:
   - `VulgSistina (1590)`: Tulit autem David coronam Melchom de capite eius, et invenit in ea auri pondo talentum, et pretiosissimas gemmas, fecitque sibi inde diadema: manubias quoque urbis plurimas tulit:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** populum autem, qui erat in ea, eduxit, et fecit super eos tribulas, et trahas, et ferrata carpenta transire, ita ut dissecarentur et contererentur. Sic fecit David cunctis urbibus filiorum Ammon: et reversus est cum omni populo suo in Jerusalem.
@@ -87,7 +78,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: populum autem, qui erat in ea, eduxit: et fecit super eos tribulas, et trahas, et ferrata carpenta transire, ita ut dissecarentur, et contererentur: sic fecit David cunctis urbibus filiorum Ammon: et reversus est cum omni populo suo in Ierusalem.
   - `VulgConte (2009)`: populum autem, qui erat in ea, eduxit: et fecit super eos tribulas, et trahas, et ferrata carpenta transire, ita ut dissecarentur, et contererentur: sic fecit David cunctis urbibus filiorum Ammon: et reversus est cum omni populo suo in Ierusalem.
   - `VulgSistina (1590)`: populum autem, qui erat in ea, eduxit: et fecit super eos tribulas, et trahas, et ferrata carpenta transire, ita ut dissecarentur, et contererentur: sic fecit David cunctis urbibus filiorum Ammon: et reversus est cum omni populo suo in Ierusalem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Post hæc initum est bellum in Gazer adversum Philisthæos, in quo percussit Sobochai Husathites, Saphai de genere Raphaim, et humiliavit eos.
@@ -96,7 +87,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Post hæc initum est bellum in Gazer adversum Philisthæos: in quo percussit Sobochai Husathites, Saphai de genere Raphaim, et humiliavit eos.
   - `VulgConte (2009)`: Post hæc initum est bellum in Gazer adversum Philisthæos: in quo percussit Sobochai Husathites, Saphai de genere Raphaim, et humiliavit eos.
   - `VulgSistina (1590)`: Post haec initum est bellum in Gazer adversum Philisthaeos: in quo percussit Sobochai Husathites, Saphai de genere Raphaim, et humiliavit eos.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Aliud quoque bellum gestum est adversus Philisthæos, in quo percussit Adeodatus filius Saltus Bethlehemites fratrem Goliath Gethæi, cujus hastæ lignum erat quasi liciatorium texentium.
@@ -105,7 +96,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Aliud quoque bellum gestum est adversus Philisthæos, in quo percussit Adeodatus filius Saltus Bethlehemites fratrem Goliath Gethæi, cuius hastæ lignum erat quasi liciatorium texentium.
   - `VulgConte (2009)`: Aliud quoque bellum gestum est adversus Philisthæos, in quo percussit Adeodatus filius Saltus Bethlehemites fratrem Goliath Gethæi, cuius hastæ lignum erat quasi liciatorium texentium.
   - `VulgSistina (1590)`: Aliud quoque bellum gestum est adversus Philisthaeos, in quo percussit Adeodatus filius Saltus Bethlehemites fratrem Goliath Gethaei, cuius hastae lignum erat quasi liciatorium texentium.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sed et aliud bellum accidit in Geth, in quo fuit homo longissimus, senos habens digitos, id est, simul viginti quatuor: qui et ipse de Rapha fuerat stirpe generatus.
@@ -114,7 +105,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sed et aliud bellum accidit in Geth, in quo fuit homo longissimus, senos habens digitos, id est, simul viginti quattuor: qui et ipse de Rapha fuerat stirpe generatus.
   - `VulgConte (2009)`: Sed et aliud bellum accidit in Geth, in quo fuit homo longissimus, senos habens digitos, id est, simul viginti quattuor: qui et ipse de Rapha fuerat stirpe generatus.
   - `VulgSistina (1590)`: Sed et aliud bellum accidit in Geth, in quo fuit homo longissimus, senos habens digitos, id est, simul viginti quattuor: qui et ipse de Rapha fuerat stirpe generatus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hic blasphemavit Israël: et percussit eum Jonathan filius Samaa fratris David. Hi sunt filii Rapha in Geth, qui ceciderunt in manu David et servorum ejus.
@@ -123,4 +114,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hic blasphemavit Israel: et percussit eum Ionathan filius Samaa fratris David. Hi sunt filii Rapha in Geth, qui ceciderunt in manu David et servorum eius.
   - `VulgConte (2009)`: Hic blasphemavit Israel: et percussit eum Ionathan filius Samaa fratris David. Hi sunt filii Rapha in Geth, qui ceciderunt in manu David et servorum eius.
   - `VulgSistina (1590)`: Hic blasphemavit Israel: et percussit eum Ionathan filius Samaa fratris David. Hi sunt filii Rapha in Geth, qui ceciderunt in manu David et servorum eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

@@ -1,8 +1,8 @@
 # Deuteronomy 34 — Saints Latin Critical Text
 
-**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:29Z`
+**Division:** `01_Law` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:06Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -61,7 +52,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Deuteronomy 34:2
-- **Apparatus:** `Juda` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
+- **Apparatus:** `Juda` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
 
 ---
 
@@ -74,7 +65,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ascendit ergo Moyses de campestribus Moab super montem Nebo, in verticem Phasga contra Iericho: ostenditque ei Dominus omnem Terram Galaad usque Dan,
   - `VulgConte (2009)`: Ascendit ergo Moyses de campestribus Moab super montem Nebo, in verticem Phasga contra Iericho: ostenditque ei Dominus omnem Terram Galaad usque Dan,
   - `VulgSistina (1590)`: Ascendit ergo Moyses de campestribus Moab super montem Nebo, in verticem Phasga contra Iericho: ostenditque ei Dominus omnem Terram Galaad usque Dan,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et universum Nephthali, terramque Ephraim et Manasse, et omnem terram Juda usque ad mare novissimum,
@@ -83,7 +74,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et universum Nephthali, terramque Ephraim et Manasse, et omnem terram Iuda usque ad mare novissimum,
   - `VulgConte (2009)`: et universum Nephthali, terramque Ephraim et Manasse, et omnem terram Iuda usque ad mare novissimum,
   - `VulgSistina (1590)`: et universum Nephthali, terramque Ephraim et Manasse, et omnem terram usque ad mare novissimum,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et australem partem, et latitudinem campi Jericho civitatis palmarum usque Segor.
@@ -92,7 +83,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et australem partem, et latitudinem campi Iericho civitatis palmarum usque Segor.
   - `VulgConte (2009)`: et australem partem, et latitudinem campi Iericho civitatis palmarum usque Segor.
   - `VulgSistina (1590)`: et australem partem, et latitudinem campi Iericho civitatis palmarum usque Segor.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixitque Dominus ad eum: Hæc est terra, pro qua juravi Abraham, Isaac, et Jacob, dicens: Semini tuo dabo eam. Vidisti eam oculis tuis, et non transibis ad illam.
@@ -101,7 +92,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixitque Dominus ad eum: Hæc est terra, pro qua iuravi Abraham, Isaac, et Iacob, dicens: Semini tuo dabo eam. Vidisti eam oculis tuis, et non transibis ad illam.
   - `VulgConte (2009)`: Dixitque Dominus ad eum: Hæc est terra, pro qua iuravi Abraham, Isaac, et Iacob, dicens: Semini tuo dabo eam. Vidisti eam oculis tuis, et non transibis ad illam.
   - `VulgSistina (1590)`: Dixitque Dominus ad eum: Haec est terra, pro qua iuravi Abraham, Isaac, et Iacob, dicens: Semini tuo dabo eam. Vidisti eam oculis tuis, et non transibis ad illam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Mortuusque est ibi Moyses servus Domini, in terra Moab, jubente Domino:
@@ -110,7 +101,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Mortuusque est ibi Moyses servus Domini, in terra Moab, iubente Domino:
   - `VulgConte (2009)`: Mortuusque est ibi Moyses servus Domini, in terra Moab, iubente Domino:
   - `VulgSistina (1590)`: Mortuusque est ibi Moyses servus Domini, in terra Moab, iubente Domino:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et sepelivit eum in valle terræ Moab contra Phogor: et non cognovit homo sepulchrum ejus usque in præsentem diem.
@@ -119,7 +110,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et sepelivit eum in valle Terræ Moab contra Phogor: et non cognovit homo sepulchrum eius usque in præsentem diem.
   - `VulgConte (2009)`: et sepelivit eum in valle Terræ Moab contra Phogor: et non cognovit homo sepulchrum eius usque in præsentem diem.
   - `VulgSistina (1590)`: et sepelivit eum in valle Terrae Moab contra Phogor: et non cognovit homo sepulchrum eius usque in praesentem diem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Moyses centum et viginti annorum erat quando mortuus est: non caligavit oculus ejus, nec dentes illius moti sunt.
@@ -128,7 +119,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Moyses centum et viginti annorum erat quando mortuus est: non caligavit oculus eius, nec dentes illius moti sunt.
   - `VulgConte (2009)`: Moyses centum et viginti annorum erat quando mortuus est: non caligavit oculus eius, nec dentes illius moti sunt.
   - `VulgSistina (1590)`: Moyses centum et viginti annorum erat quando mortuus est: non caligavit oculus eius, nec dentes illius moti sunt.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Fleveruntque eum filii Israël in campestribus Moab triginta diebus: et completi sunt dies planctus lugentium Moysen.
@@ -137,7 +128,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Fleveruntque eum filii Israel in campestribus Moab triginta diebus: et completi sunt dies planctus lugentium Moysen.
   - `VulgConte (2009)`: Fleveruntque eum filii Israel in campestribus Moab triginta diebus: et completi sunt dies planctus lugentium Moysen.
   - `VulgSistina (1590)`: Fleveruntque eum filii Israel in campestribus Moab triginta diebus: et completi sunt dies planctus lugentium Moysen.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Josue vero filius Nun repletus est spiritu sapientiæ, quia Moyses posuit super eum manus suas. Et obedierunt ei filii Israël, feceruntque sicut præcepit Dominus Moysi.
@@ -146,7 +137,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iosue vero filius Nun repletus est Spiritu sapientiæ, quia Moyses posuit super eum manus suas. Et obedierunt ei filii Israel, feceruntque sicut præcepit Dominus Moysi.
   - `VulgConte (2009)`: Iosue vero filius Nun repletus est Spiritu sapientiæ, quia Moyses posuit super eum manus suas. Et obedierunt ei filii Israel, feceruntque sicut præcepit Dominus Moysi.
   - `VulgSistina (1590)`: Iosue vero filius Nun repletus est Spiritu sapientiae, quia Moyses posuit super eum manus suas. Et obedierunt ei filii Israel, feceruntque sicut praecepit Dominus Moysi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et non surrexit ultra propheta in Israël sicut Moyses, quem nosset Dominus facie ad faciem,
@@ -155,7 +146,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et non surrexit ultra propheta in Israel sicut Moyses, quem nosset Dominus facie ad faciem,
   - `VulgConte (2009)`: Et non surrexit ultra propheta in Israel sicut Moyses, quem nosset Dominus facie ad faciem,
   - `VulgSistina (1590)`: Et non surrexit ultra propheta in Israel sicut Moyses, quem nosset Dominus facie ad faciem,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** in omnibus signis atque portentis, quæ misit per eum, ut faceret in terra Ægypti Pharaoni, et omnibus servis ejus, universæque terræ illius,
@@ -164,7 +155,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: in omnibus signis atque portentis, quæ misit per eum, ut faceret in Terra Ægypti Pharaoni, et omnibus servis eius, universæque terræ illius,
   - `VulgConte (2009)`: in omnibus signis atque portentis, quæ misit per eum, ut faceret in Terra Ægypti Pharaoni, et omnibus servis eius, universæque terræ illius,
   - `VulgSistina (1590)`: in omnibus signis atque portentis, quae misit per eum, ut faceret in Terra Aegypti Pharaoni, et omnibus servis eius, universaeque terrae illius,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et cunctam manum robustam, magnaque mirabilia, quæ fecit Moyses coram universo Israël.
@@ -173,4 +164,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et cunctam manum robustam, magnaque mirabilia, quæ fecit Moyses coram universo Israel.
   - `VulgConte (2009)`: et cunctam manum robustam, magnaque mirabilia, quæ fecit Moyses coram universo Israel.
   - `VulgSistina (1590)`: et cunctam manum robustam, magnaque mirabilia, quae fecit Moyses coram universo Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

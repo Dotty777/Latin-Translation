@@ -1,8 +1,8 @@
 # Haggai 01 — Saints Latin Critical Text
 
-**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:34Z`
+**Division:** `04_Providence` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:09Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,22 +28,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
-- Clem1598-USFX: verse 2:1 moved to 1:15 across chapter break before re-division
-- VulgHetzenauer (1906): verse 2:1 moved to 1:15 across chapter break before re-division
-- VulgConte (2009): verse 2:1 moved to 1:15 across chapter break before re-division
-- VulgSistina (1590): verse 2:1 moved to 1:15 across chapter break before re-division
+- Clem-Saints: has verse(s) 15 that no voting edition prints here (an apparatus witness: not printed)
 
 ---
 
@@ -63,20 +51,19 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **12** Et audivit Zorobabel, filius Salathiel, et Jesus, filius Josedec, sacerdos magnus, et omnes reliquiæ populi, vocem Domini Dei sui, et verba Aggæi prophetæ, sicut misit eum Dominus Deus eorum ad eos, et timuit populus a facie Domini.
 **13** Et dixit Aggæus, nuntius Domini de nuntiis Domini, populo dicens: Ego vobiscum sum, dicit Dominus.
 **14** Et suscitavit Dominus spiritum Zorobabel, filii Salathiel, ducis Juda, et spiritum Jesu, filii Josedec, sacerdotis magni, et spiritum reliquorum de omni populo: et ingressi sunt, et faciebant opus in domo Domini exercituum, Dei sui.
-**15** In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.
 
 ---
 
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Haggai 1:1
-- **Apparatus:** `Josedec,` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **Iosadec,** VulgSistina (1590)
+- **Apparatus:** `Josedec,` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **Iosadec,** VulgSistina (1590)
 
 ### Haggai 1:9
 - *Disregarded Surface Variant:* kept `(adopted text)` over `exsufflavi / exsuflavi`, `exsufflavi / exufflavi`, `exsufflavi / exufflavi`, `exsufflavi / exufflavi` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Haggai 1:12
-- **Apparatus:** `Domini` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
+- **Apparatus:** `Domini` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **om.** VulgSistina (1590)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Salathiel, / Salathihel`, `Josedec, / Iosedech`, `Aggæi / Aggei`, `Josedec, / Iosedech` (VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Haggai 1:13
@@ -93,7 +80,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: In anno secundo Darii regis, in mense sexto, in die una mensis, factum est verbum Domini in manu Aggæi prophetæ ad Zorobabel filium Salathiel, ducem Iuda, et ad Iesum, filium Iosedec, sacerdotem magnum, dicens:
   - `VulgConte (2009)`: In anno secundo Darii regis, in mense sexto, in die una mensis, factum est verbum Domini in manu Aggæi prophetæ ad Zorobabel filium Salathiel, ducem Iuda, et ad Iesum, filium Iosedec, sacerdotem magnum, dicens:
   - `VulgSistina (1590)`: In anno secundo Darii regis, in mense sexto, in die una mensis, factum est verbum Domini in manu Aggaei prophetae ad Zorobabel filium Salathiel, ducem Iuda, et ad Iesum, filium Iosadec, sacerdotem magnum, dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæc ait Dominus exercituum, dicens: Populus iste dicit: Nondum venit tempus domus Domini ædificandæ.
@@ -102,7 +89,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hæc ait Dominus exercituum, dicens: Populus iste dicit: Nondum venit tempus domus Domini ædificandæ.
   - `VulgConte (2009)`: Hæc ait Dominus exercituum, dicens: Populus iste dicit: Nondum venit tempus domus Domini ædificandæ.
   - `VulgSistina (1590)`: Haec ait Dominus exercituum, dicens: Populus iste dicit: Nondum venit tempus domus Domini aedificandae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et factum est verbum Domini in manu Aggæi prophetæ, dicens:
@@ -111,7 +98,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et factum est verbum Domini in manu Aggæi prophetæ, dicens:
   - `VulgConte (2009)`: Et factum est verbum Domini in manu Aggæi prophetæ, dicens:
   - `VulgSistina (1590)`: Et factum est verbum Domini in manu Aggaei prophetae, dicens:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Numquid tempus vobis est ut habitetis in domibus laqueatis, et domus ista deserta?
@@ -120,7 +107,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Numquid tempus vobis est ut habitetis in domibus laqueatis, et domus ista deserta?
   - `VulgConte (2009)`: Numquid tempus vobis est ut habitetis in domibus laqueatis, et domus ista deserta?
   - `VulgSistina (1590)`: Numquid tempus vobis est ut habitetis in domibus laqueatis, et domus ista deserta?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et nunc hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras.
@@ -129,7 +116,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et nunc hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras.
   - `VulgConte (2009)`: Et nunc hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras.
   - `VulgSistina (1590)`: Et nunc haec dicit Dominus exercituum: Ponite corda vestra super vias vestras.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Seminastis multum, et intulistis parum; comedistis, et non estis satiati; bibistis, et non estis inebriati; operuistis vos, et non estis calefacti; et qui mercedes congregavit, misit eas in sacculum pertusum.
@@ -138,7 +125,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Seminastis multum, et intulistis parum: comedistis, et non estis satiati: bibistis, et non estis inebriati: operuistis vos, et non estis calefacti: et qui mercedes congregavit, misit eas in sacculum pertusum.
   - `VulgConte (2009)`: Seminastis multum, et intulistis parum: comedistis, et non estis satiati: bibistis, et non estis inebriati: operuistis vos, et non estis calefacti: et qui mercedes congregavit, misit eas in sacculum pertusum.
   - `VulgSistina (1590)`: Seminastis multum, et intulistis parum: comedistis, et non estis satiati: bibistis, et non estis inebriati: operuistis vos, et non estis calefacti: et qui mercedes congregavit, misit eas in sacculum pertusum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras;
@@ -147,7 +134,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras:
   - `VulgConte (2009)`: Hæc dicit Dominus exercituum: Ponite corda vestra super vias vestras:
   - `VulgSistina (1590)`: Haec dicit Dominus exercituum: Ponite corda vestra super vias vestras:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ascendite in montem, portate ligna, et ædificate domum: et acceptabilis mihi erit, et glorificabor, dicit Dominus.
@@ -156,7 +143,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ascendite in montem, portate ligna, et ædificate domum: et acceptabilis mihi erit, et glorificabor, dicit Dominus.
   - `VulgConte (2009)`: ascendite in montem, portate ligna, et ædificate domum: et acceptabilis mihi erit, et glorificabor, dicit Dominus.
   - `VulgSistina (1590)`: ascendite in montem, portate ligna, et aedificate domum: et acceptabilis mihi erit, et glorificabor, dicit Dominus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Respexistis ad amplius, et ecce factum est minus; et intulistis in domum, et exsufflavi illud: quam ob causam? dicit Dominus exercituum: quia domus mea deserta est, et vos festinatis unusquisque in domum suam.
@@ -165,7 +152,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Respexistis ad amplius, et ecce factum est minus: et intulistis in domum, et exufflavi illud: quam ob causam, dicit Dominus exercituum? quia domus mea deserta est, et vos festinatis unusquisque in domum suam.
   - `VulgConte (2009)`: Respexistis ad amplius, et ecce factum est minus: et intulistis in domum, et exufflavi illud: quam ob causam, dicit Dominus exercituum? quia domus mea deserta est, et vos festinatis unusquisque in domum suam.
   - `VulgSistina (1590)`: Respexistis ad amplius, et ecce factum est minus: et intulistis in domum, et exufflavi illud: quam ob causam, dicit Dominus exercituum? quia domus mea deserta est, et vos festinatis unusquisque in domum suam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Propter hoc super vos prohibiti sunt cæli ne darent rorem, et terra prohibita est ne daret germen suum:
@@ -174,7 +161,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Propter hoc super vos prohibiti sunt cæli ne darent rorem, et terra prohibita est ne daret germen suum:
   - `VulgConte (2009)`: Propter hoc super vos prohibiti sunt cæli ne darent rorem, et terra prohibita est ne daret germen suum:
   - `VulgSistina (1590)`: Propter hoc super vos prohibiti sunt caeli ne darent rorem, et terra prohibita est ne daret germen suum:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et vocavi siccitatem super terram, et super montes, et super triticum, et super vinum, et super oleum, et quæcumque profert humus, et super homines, et super jumenta, et super omnem laborem manuum.
@@ -183,7 +170,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et vocavi siccitatem super terram, et super montes, et super triticum, et super vinum, et super oleum, et quæcumque profert humus, et super homines, et super iumenta, et super omnem laborem manuum.
   - `VulgConte (2009)`: et vocavi siccitatem super terram, et super montes, et super triticum, et super vinum, et super oleum, et quæcumque profert humus, et super homines, et super iumenta, et super omnem laborem manuum.
   - `VulgSistina (1590)`: et vocavi siccitatem super terram, et super montes, et super triticum, et super vinum, et super oleum, et quaecumque profert humus, et super homines, et super iumenta, et super omnem laborem manuum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et audivit Zorobabel, filius Salathiel, et Jesus, filius Josedec, sacerdos magnus, et omnes reliquiæ populi, vocem Domini Dei sui, et verba Aggæi prophetæ, sicut misit eum Dominus Deus eorum ad eos, et timuit populus a facie Domini.
@@ -192,7 +179,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et audivit Zorobabel filius Salathiel, et Iesus filius Iosedec sacerdos magnus, et omnes reliquiæ populi vocem Domini Dei sui, et verba Aggæi prophetæ, sicut misit eum Dominus Deus eorum ad eos: et timuit populus a facie Domini.
   - `VulgConte (2009)`: Et audivit Zorobabel filius Salathiel, et Iesus filius Iosedec sacerdos magnus, et omnes reliquiæ populi vocem Domini Dei sui, et verba Aggæi prophetæ, sicut misit eum Dominus Deus eorum ad eos: et timuit populus a facie Domini.
   - `VulgSistina (1590)`: Et audivit Zorobabel filius Salathiel, et Iesus filius Iosedech sacerdos magnus, et omnes reliquiae populi vocem Dei sui, et verba Aggaei prophetae, sicut misit eum Dominus Deus eorum ad eos: et timuit populus a facie Domini.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et dixit Aggæus, nuntius Domini de nuntiis Domini, populo dicens: Ego vobiscum sum, dicit Dominus.
@@ -201,7 +188,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et dixit Aggæus nuncius Domini de nuntiis Domini, populo dicens: Ego vobiscum sum, dicit Dominus.
   - `VulgConte (2009)`: Et dixit Aggæus nuncius Domini de nuntiis Domini, populo dicens: Ego vobiscum sum, dicit Dominus.
   - `VulgSistina (1590)`: Et dixit Aggaeus nuncius Domini de nunciis Domini, populo dicens: Ego vobiscum sum, dicit Dominus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et suscitavit Dominus spiritum Zorobabel, filii Salathiel, ducis Juda, et spiritum Jesu, filii Josedec, sacerdotis magni, et spiritum reliquorum de omni populo: et ingressi sunt, et faciebant opus in domo Domini exercituum, Dei sui.
@@ -210,13 +197,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et suscitavit Dominus spiritum Zorobabel filii Salathiel, ducis Iuda, et spiritum Iesu filii Iosedec sacerdotis magni, et spiritum reliquorum de omni populo: et ingressi sunt, et faciebant opus in domo Domini exercituum Dei sui.
   - `VulgConte (2009)`: Et suscitavit Dominus spiritum Zorobabel filii Salathiel, ducis Iuda, et spiritum Iesu filii Iosedec sacerdotis magni, et spiritum reliquorum de omni populo: et ingressi sunt, et faciebant opus in domo Domini exercituum Dei sui:
   - `VulgSistina (1590)`: Et suscitavit Dominus spiritum Zorobabel filii Salathiel, ducis Iuda, et spiritum Iesu filii Iosedec sacerdotis magni, et spiritum reliquorum de omni populo: et ingressi sunt, et faciebant opus in domo Domini exercituum Dei sui.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
-
-### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.
-  - `Clem1598-USFX`: In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.
-  - `Clem-Saints`: In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.
-  - `VulgHetzenauer (1906)`: In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.
-  - `VulgConte (2009)`: in die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.
-  - `VulgSistina (1590)`: In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

@@ -1,8 +1,8 @@
 # 2 Chronicles 05 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:25Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -66,10 +57,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Israël / Israhel`, `solemni / sollemni`, `solemni / sollemni`, `solemni / sollemni`, `solemni / sollemni` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### 2 Chronicles 5:13
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **ita** VulgSistina (1590)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **ita** VulgSistina (1590)
 
 ### 2 Chronicles 5:14
-- **Apparatus:** `nec` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **ne** VulgSistina (1590)
+- **Apparatus:** `nec` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **ne** VulgSistina (1590)
 
 ---
 
@@ -82,7 +73,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Intulit igitur Salomon omnia, quæ voverat David pater suus, argentum, et aurum, et universa vasa posuit in thesauris domus Dei.
   - `VulgConte (2009)`: Intulit igitur Salomon omnia, quæ voverat David pater suus, argentum, et aurum, et universa vasa posuit in thesauris domus Dei.
   - `VulgSistina (1590)`: Intulit igitur Salomon omnia, quae voverat David pater suus, argentum, et aurum, et universa vasa posuit in thesauris domus Dei.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Post quæ congregavit majores natu Israël, et cunctos principes tribuum, et capita familiarum de filiis Israël in Jerusalem, ut adducerent arcam fœderis Domini de civitate David, quæ est Sion.
@@ -91,7 +82,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Post quæ congregavit maiores natu Israel, et cunctos principes tribuum, et capita familiarum de filiis Israel in Ierusalem, ut adducerent arcam fœderis Domini de Civitate David, quæ est Sion.
   - `VulgConte (2009)`: Post quæ congregavit maiores natu Israel, et cunctos principes tribuum, et capita familiarum de filiis Israel in Ierusalem, ut adducerent arcam fœderis Domini de Civitate David, quæ est Sion.
   - `VulgSistina (1590)`: Post quae congregavit maiores natu Israel, et cunctos principes tribuum, et capita familiarum de filiis Israel in Ierusalem, ut adducerent arcam foederis Domini de Civitate David, quae est Sion.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Venerunt itaque ad regem omnes viri Israël in die solemni mensis septimi.
@@ -100,7 +91,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Venerunt itaque ad regem omnes viri Israel in die sollemni mensis septimi.
   - `VulgConte (2009)`: Venerunt itaque ad regem omnes viri Israel in die sollemni mensis septimi.
   - `VulgSistina (1590)`: Venerunt itaque ad regem omnes viri Israel in die sollemni mensis septimi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cumque venissent cuncti seniorum Israël, portaverunt Levitæ arcam,
@@ -109,7 +100,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cumque venissent cuncti seniorum Israel, portaverunt Levitæ arcam,
   - `VulgConte (2009)`: Cumque venissent cuncti seniorum Israel, portaverunt Levitæ arcam,
   - `VulgSistina (1590)`: Cumque venissent cuncti seniorum Israel, portaverunt Levitae arcam,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et intulerunt eam, et omnem paraturam tabernaculi. Porro vasa sanctuarii, quæ erant in tabernaculo, portaverunt sacerdotes cum Levitis.
@@ -118,7 +109,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et intulerunt eam, et omnem paraturam tabernaculi. Porro vasa sanctuarii, quæ erant in tabernaculo, portaverunt Sacerdotes cum Levitis.
   - `VulgConte (2009)`: et intulerunt eam, et omnem paraturam tabernaculi. Porro vasa sanctuarii, quæ erant in tabernaculo, portaverunt Sacerdotes cum Levitis.
   - `VulgSistina (1590)`: et intulerunt eam, et omnem paraturam tabernaculi. Porro vasa sanctuarii, quae erant in tabernaculo, portaverunt Sacerdotes cum Levitis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Rex autem Salomon, et universus cœtus Israël, et omnes qui fuerunt congregati ante arcam, immolabant arietes et boves absque ullo numero: tanta enim erat multitudo victimarum.
@@ -127,7 +118,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Rex autem Salomon, et universus cœtus Israel, et omnes, qui fuerunt congregati ante arcam, immolabant arietes, et boves absque ullo numero: tanta enim erat multitudo victimarum.
   - `VulgConte (2009)`: Rex autem Salomon, et universus cœtus Israel, et omnes, qui fuerunt congregati ante arcam, immolabant arietes, et boves absque ullo numero: tanta enim erat multitudo victimarum.
   - `VulgSistina (1590)`: Rex autem Salomon, et universus coetus Israel, et omnes, qui fuerunt congregati ante arcam, immolabant arietes, et boves absque ullo numero: tanta enim erat multitudo victimarum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et intulerunt sacerdotes arcam fœderis Domini in locum suum, id est, ad oraculum templi, in Sancta sanctorum subter alas cherubim:
@@ -136,7 +127,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et intulerunt Sacerdotes arcam fœderis Domini in locum suum, id est, ad oraculum templi, in Sancta sanctorum subter alas cherubim:
   - `VulgConte (2009)`: Et intulerunt Sacerdotes arcam fœderis Domini in locum suum, id est, ad oraculum templi, in Sancta sanctorum subter alas cherubim:
   - `VulgSistina (1590)`: Et intulerunt Sacerdotes arcam foederis Domini in locum suum, id est, ad oraculum templi, in Sancta sanctorum subter alas cherubim:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** ita ut cherubim expanderent alas suas super locum in quo posita erat arca, et ipsam arcam tegerent cum vectibus suis.
@@ -145,7 +136,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: ita ut cherubim expanderent alas suas super locum, in quo posita erat arca, et ipsam arcam tegerent cum vectibus suis.
   - `VulgConte (2009)`: ita ut cherubim expanderent alas suas super locum, in quo posita erat arca, et ipsam arcam tegerent cum vectibus suis.
   - `VulgSistina (1590)`: ita ut cherubim expanderent alas suas super locum, in quo posita erat arca, et ipsam arcam tegerent cum vectibus suis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vectium autem quibus portabatur arca, quia paululum longiores erant, capita parebant ante oraculum: si vero quis paululum fuisset extrinsecus, eos videre non poterat. Fuit itaque arca ibi usque in præsentem diem.
@@ -154,7 +145,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vectium autem, quibus portabatur arca, quia paululum longiores erant, capita parebant ante oraculum: si vero quis paululum fuisset extrinsecus, eos videre non poterat. Fuit itaque arca ibi usque in præsentem diem.
   - `VulgConte (2009)`: Vectium autem, quibus portabatur arca, quia paululum longiores erant, capita parebant ante oraculum: si vero quis paululum fuisset extrinsecus, eos videre non poterat. Fuit itaque arca ibi usque in præsentem diem.
   - `VulgSistina (1590)`: Vectium autem, quibus portabatur arca, quia paululum longiores erant, capita parebant ante oraculum: si vero quis paululum fuisset extrinsecus, eos videre non poterat. Fuit itaque arca ibi usque in praesentem diem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nihilque erat aliud in arca, nisi duæ tabulæ quas posuerat Moyses in Horeb, quando legem dedit Dominus filiis Israël egredientibus ex Ægypto.
@@ -163,7 +154,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nihilque erat aliud in arca, nisi duæ tabulæ, quas posuerat Moyses in Horeb, quando legem dedit Dominus filiis Israel egredientibus ex Ægypto.
   - `VulgConte (2009)`: Nihilque erat aliud in arca, nisi duæ tabulæ, quas posuerat Moyses in Horeb, quando legem dedit Dominus filiis Israel egredientibus ex Ægypto.
   - `VulgSistina (1590)`: Nihilque erat aliud in arca, nisi duae tabulae, quas posuerat Moyses in Horeb, quando legem dedit Dominus filiis Israel egredientibus ex Aegypto.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Egressis autem sacerdotibus de sanctuario (omnes enim sacerdotes qui ibi potuerant inveniri, sanctificati sunt: nec adhuc in illo tempore vices et ministeriorum ordo inter eos divisus erat),
@@ -172,7 +163,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Egressis autem Sacerdotibus de sanctuario (omnes enim Sacerdotes, qui ibi potuerant inveniri, sanctificati sunt: nec adhuc in illo tempore vices, et ministeriorum ordo inter eos divisus erat)
   - `VulgConte (2009)`: Egressis autem sacerdotibus de Sanctuario (omnes enim Sacerdotes, qui ibi potuerant inveniri, sanctificati sunt: nec adhuc in illo tempore vices, et ministeriorum ordo inter eos divisus erat)
   - `VulgSistina (1590)`: Egressis autem Sacerdotibus de sanctuario (omnes enim Sacerdotes, qui ibi potuerant inveniri, sanctificati sunt: nec adhuc in illo tempore vices, et ministeriorum ordo inter eos divisus erat)
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** tam Levitæ quam cantores, id est, et qui sub Asaph erant, et qui sub Eman, et qui sub Idithun, filii et fratres eorum vestiti byssinis, cymbalis, et psalteriis, et citharis concrepabant, stantes ad orientalem plagam altaris: et cum eis sacerdotes centum viginti canentes tubis.
@@ -181,7 +172,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: tam Levitæ quam cantores, id est, et qui sub Asaph erant, et qui sub Eman, et qui sub Idithun, filii, et fratres eorum vestiti byssinis, cymbalis, et psalteriis, et citharis concrepabant, stantes ad Orientalem plagam altaris, et cum eis Sacerdotes centum viginti canentes tubis.
   - `VulgConte (2009)`: tam Levitæ quam cantores, id est, et qui sub Asaph erant, et qui sub Eman, et qui sub Idithun, filii, et fratres eorum vestiti byssinis, cymbalis, et psalteriis, et citharis concrepabant, stantes ad Orientalem plagam altaris, et cum eis sacerdotes centum viginti canentes tubis.
   - `VulgSistina (1590)`: tam Levitae quam cantores, id est, et qui sub Asaph erant, et qui sub Eman, et qui sub Idithun, filii, et fratres eorum vestiti byssinis, cymbalis, et psalteriis, et citharis concrepabant, stantes ad Orientalem plagam altaris, et cum eis Sacerdotes centum viginti canentes tubis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Igitur cunctis pariter, et tubis, et voce, et cymbalis, et organis, et diversi generis musicorum concinentibus, et vocem in sublime tollentibus, longe sonitus audiebatur, ita ut cum Dominum laudare cœpissent et dicere: Confitemini Domino quoniam bonus, quoniam in æternum misericordia ejus: impleretur domus Dei nube,
@@ -190,7 +181,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Igitur cunctis pariter, et tubis, et voce, et cymbalis, et organis, et diversi generis musicorum concinentibus, et vocem in sublime tollentibus; longe sonitus audiebatur, ita ut cum Dominum laudare cœpissent et dicere: Confitemini Domino quoniam bonus, quoniam in æternum misericordia eius; impleretur domus Dei nube,
   - `VulgConte (2009)`: Igitur cunctis pariter, et tubis, et voce, et cymbalis, et organis, et diversi generis musicorum concinentibus, et vocem in sublime tollentibus; longe sonitus audiebatur, ita ut cum Dominum laudare cœpissent et dicere: Confitemini Domino quoniam bonus, quoniam in æternum misericordia eius; impleretur domus Dei nube,
   - `VulgSistina (1590)`: Igitur cunctis pariter, et tubis, et voce, et cymbalis, et organis, et diversi generis musicorum concinentibus, et vocem in sublime tollentibus; longe sonitus audiebatur, ita ut cum Dominum laudare coepissent et dicere: Confitemini Domino quoniam bonus, quoniam in aeternum misericordia eius; impleretur ita domus Dei nube,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** nec possent sacerdotes stare et ministrare propter caliginem. Compleverat enim gloria Domini domum Dei.
@@ -199,4 +190,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: nec possent Sacerdotes stare et ministrare propter caliginem. Compleverat enim gloria Domini domum Dei.
   - `VulgConte (2009)`: nec possent Sacerdotes stare et ministrare propter caliginem. Compleverat enim gloria Domini domum Dei.
   - `VulgSistina (1590)`: ne possent Sacerdotes stare et ministrare propter caliginem. Compleverat enim gloria Domini domum Dei.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

@@ -7,19 +7,25 @@
   "usfm_code": "NUM",
   "chapter": 17,
   "model_used": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-  "updated_at": "2026-11-22T08:01:44Z",
-  "versification": "Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content.",
-  "versification_anchor": "Clem-Saints",
+  "updated_at": "2026-11-25T00:08:06Z",
+  "versification": "Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py.",
+  "versification_anchor": "Clem1598-USFX",
   "orthographic_base": "Clem1598-USFX",
   "versification_notes": [
-    "Clem1598-USFX: 16:42 folded into verse 7 (the reference prints these words there)",
-    "Clem1598-USFX: 27 verse(s) re-aligned by content (1←16:36, 2←16:37, 3←16:38, 4←16:39, 5←16:40, 6←16:41…)",
-    "VulgHetzenauer (1906): 16:42 folded into verse 7 (the reference prints these words there)",
-    "VulgHetzenauer (1906): 27 verse(s) re-aligned by content (1←16:36, 2←16:37, 3←16:38, 4←16:39, 5←16:40, 6←16:41…)",
-    "VulgConte (2009): 16:42 folded into verse 7 (the reference prints these words there)",
-    "VulgConte (2009): 27 verse(s) re-aligned by content (1←16:36, 2←16:37, 3←16:38, 4←16:39, 5←16:40, 6←16:41…)",
-    "VulgSistina (1590): 16:42 folded into verse 7 (the reference prints these words there)",
-    "VulgSistina (1590): 27 verse(s) re-aligned by content (1←16:36, 2←16:37, 3←16:38, 4←16:39, 5←16:40, 6←16:41…)"
+    "Clem-Saints: 17:1 not collated (no verse of the reference matches its wording)",
+    "Clem-Saints: 17:2 not collated (no verse of the reference matches its wording)",
+    "Clem-Saints: 17:3 not collated (no verse of the reference matches its wording)",
+    "Clem-Saints: 17:4 not collated (no verse of the reference matches its wording)",
+    "Clem-Saints: 17:5 not collated (no verse of the reference matches its wording)",
+    "Clem-Saints: 17:6 not collated (no verse of the reference matches its wording)",
+    "Clem-Saints: 17:7 not collated (no verse of the reference matches its wording)",
+    "Clem-Saints: 17:9 not collated (no verse of the reference matches its wording)",
+    "Clem-Saints: 17:10 not collated (no verse of the reference matches its wording)",
+    "Clem-Saints: 17:11 not collated (no verse of the reference matches its wording)",
+    "Clem-Saints: 17:12 not collated (no verse of the reference matches its wording)",
+    "Clem-Saints: 17:13 not collated (no verse of the reference matches its wording)",
+    "Clem-Saints: 13 verse(s) re-aligned by content (1←17:16, 2←17:17, 3←17:18, 4←17:19, 5←17:20, 6←17:21…)",
+    "Clem-Saints: has verse(s) 14, 15 that no voting edition prints here (an apparatus witness: not printed)"
   ],
   "admitted_witnesses": [
     {
@@ -28,16 +34,16 @@
       "tier": 1,
       "weight": 0.88,
       "license": "Public Domain"
-    },
+    }
+  ],
+  "apparatus_witnesses": [
     {
       "siglum": "Clem-Saints",
       "title": "Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering)",
       "tier": 1,
-      "weight": 0.86,
-      "license": "Public Domain"
-    }
-  ],
-  "apparatus_witnesses": [
+      "license": "Public Domain",
+      "role": "apparatus only (recorded, not voting)"
+    },
     {
       "siglum": "VulgHetzenauer (1906)",
       "title": "Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906)",
@@ -64,514 +70,6 @@
     {
       "id": 65664,
       "verse": 1,
-      "critical_text": "Locutusque est Dominus ad Moysen, dicens:",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Locutusque est Dominus ad Moysen, dicens:",
-        "Clem-Saints": "Locutusque est Dominus ad Moysen, dicens:",
-        "VulgHetzenauer (1906)": "Locutusque est Dominus ad Moysen, dicens:",
-        "VulgConte (2009)": "Locutusque est Dominus ad Moysen, dicens:",
-        "VulgSistina (1590)": "Locutusque est Dominus ad Moysen, dicens:"
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "16:36",
-        "VulgHetzenauer (1906)": "16:36",
-        "VulgConte (2009)": "16:36",
-        "VulgSistina (1590)": "16:36"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 16:36 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65665,
-      "verse": 2,
-      "critical_text": "Præcipe Eleazaro filio Aaron sacerdoti ut tollat thuribula quæ jacent in incendio, et ignem huc illucque dispergat: quoniam sanctificata sunt",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Præcipe Eleazaro filio Aaron sacerdoti ut tollat thuribula quæ jacent in incendio, et ignem huc illucque dispergat: quoniam sanctificata sunt",
-        "Clem-Saints": "Præcipe Eleazaro filio Aaron sacerdoti ut tollat thuribula quæ jacent in incendio, et ignem huc illucque dispergat: quoniam sanctificata sunt",
-        "VulgHetzenauer (1906)": "Præcipe Eleazaro filio Aaron sacerdoti ut tollat thuribula quæ iacent in incendio, et ignem huc illucque dispergat: quoniam sanctificata sunt",
-        "VulgConte (2009)": "Præcipe Eleazaro filio Aaron sacerdoti ut tollat thuribula quæ iacent in incendio, et ignem huc illucque dispergat: quoniam sanctificata sunt",
-        "VulgSistina (1590)": "Praecipe Eleazaro filio Aaron sacerdotis ut tollat thuribula quae iacent in incendio, et ignem huc illucque dispergat: quoniam sanctificata sunt"
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "16:37",
-        "VulgHetzenauer (1906)": "16:37",
-        "VulgConte (2009)": "16:37",
-        "VulgSistina (1590)": "16:37"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [
-        {
-          "slot_index": -1,
-          "lemma": "sacerdoti",
-          "lemma_witnesses": [
-            "Clem-Saints",
-            "Clem1598-USFX",
-            "VulgConte (2009)",
-            "VulgHetzenauer (1906)"
-          ],
-          "variants": [
-            {
-              "reading": "sacerdotis",
-              "witnesses": [
-                "VulgSistina (1590)"
-              ],
-              "weight_sum": 0.0
-            }
-          ],
-          "note": "Reading of an apparatus witness (recorded in the apparatus; it does not vote on the text).",
-          "word_index": 4,
-          "word_count": 1,
-          "kind": "word",
-          "variant_type": "",
-          "analysis": [],
-          "lemma_key": "sacerdoti",
-          "confidence": 0.99,
-          "credited_witnesses": []
-        }
-      ],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 16:37 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65666,
-      "verse": 3,
-      "critical_text": "in mortibus peccatorum: producatque ea in laminas, et affigat altari, eo quod oblatum sit in eis incensum Domino, et sanctificata sint, ut cernant ea pro signo et monimento filii Israël.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "in mortibus peccatorum: producatque ea in laminas, et affigat altari, eo quod oblatum sit in eis incensum Domino, et sanctificata sint, ut cernant ea pro signo et monimento filii Israël.",
-        "Clem-Saints": "in mortibus peccatorum: producatque ea in laminas, et affigat altari, eo quod oblatum sit in eis incensum Domino, et sanctificata sint, ut cernant ea pro signo et monimento filii Israël.",
-        "VulgHetzenauer (1906)": "in mortibus peccatorum: producatque ea in laminas, et affigat altari, eo quod oblatum sit in eis incensum Domino, et sanctificata sint, ut cernant ea pro signo et monimento filii Israel.",
-        "VulgConte (2009)": "in mortibus peccatorum: producatque ea in laminas, et affigat altari, eo quod oblatum sit in eis incensum Domino, et sanctificata sint, ut cernant ea pro signo et monimento filii Israel.",
-        "VulgSistina (1590)": "in mortibus peccatorum: producatque ea in laminas, et affigat altari, eo quod oblatum sit in eis incensum Domino, et sanctificata sint, ut cernant ea pro signo et monimento filii Israel."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "16:38",
-        "VulgHetzenauer (1906)": "16:38",
-        "VulgConte (2009)": "16:38",
-        "VulgSistina (1590)": "16:38"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 16:38 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65667,
-      "verse": 4,
-      "critical_text": "Tulit ergo Eleazar sacerdos thuribula ænea, in quibus obtulerant hi quos incendium devoravit, et produxit ea in laminas, affigens altari:",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Tulit ergo Eleazar sacerdos thuribula ænea, in quibus obtulerant hi quos incendium devoravit, et produxit ea in laminas, affigens altari:",
-        "Clem-Saints": "Tulit ergo Eleazar sacerdos thuribula ænea, in quibus obtulerant hi quos incendium devoravit, et produxit ea in laminas, affigens altari:",
-        "VulgHetzenauer (1906)": "Tulit ergo Eleazar sacerdos thuribula ænea, in quibus obtulerant hi quos incendium devoravit, et produxit ea in laminas, affigens altari:",
-        "VulgConte (2009)": "Tulit ergo Eleazar sacerdos thuribula ænea, in quibus obtulerant hi quos incendium devoravit, et produxit ea in laminas, affigens altari:",
-        "VulgSistina (1590)": "Tulit ergo Eleazar sacerdos thuribula aenea, in quibus obtulerant hi quos incendium devoravit, et produxit ea in laminas, affigens altari:"
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "16:39",
-        "VulgHetzenauer (1906)": "16:39",
-        "VulgConte (2009)": "16:39",
-        "VulgSistina (1590)": "16:39"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 16:39 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65668,
-      "verse": 5,
-      "critical_text": "ut haberent postea filii Israël, quibus commonerentur ne quis accedat alienigena, et qui non est de semine Aaron ad offerendum incensum Domino, ne patiatur sicut passus est Core, et omnis congregatio ejus, loquente Domino ad Moysen.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "ut haberent postea filii Israël, quibus commonerentur ne quis accedat alienigena, et qui non est de semine Aaron ad offerendum incensum Domino, ne patiatur sicut passus est Core, et omnis congregatio ejus, loquente Domino ad Moysen.",
-        "Clem-Saints": "ut haberent postea filii Israël, quibus commonerentur ne quis accedat alienigena, et qui non est de semine Aaron ad offerendum incensum Domino, ne patiatur sicut passus est Core, et omnis congregatio ejus, loquente Domino ad Moysen.",
-        "VulgHetzenauer (1906)": "ut haberent postea filii Israel, quibus commonerentur ne quis accedat alienigena, et qui non est de semine Aaron ad offerendum incensum Domino, ne patiatur sicut passus est Core, et omnis congregatio eius, loquente Domino ad Moysen.",
-        "VulgConte (2009)": "ut haberent postea filii Israel, quibus commonerentur ne quis accedat alienigena, et qui non est de semine Aaron ad offerendum incensum Domino, ne patiatur sicut passus est Core, et omnis congregatio eius, loquente Domino ad Moysen.",
-        "VulgSistina (1590)": "ut haberent postea filii Israel, quibus commonerentur ne quis accedat alienigena, et qui non est de semine Aaron ad offerendum incensum Domino, ne patiatur sicut passus est Core, et omnis congregatio eius, loquente Domino ad Moysen."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "16:40",
-        "VulgHetzenauer (1906)": "16:40",
-        "VulgConte (2009)": "16:40",
-        "VulgSistina (1590)": "16:40"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 16:40 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65669,
-      "verse": 6,
-      "critical_text": "Murmuravit autem omnis multitudo filiorum Israël sequenti die contra Moysen et Aaron, dicens: Vos interfecistis populum Domini.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Murmuravit autem omnis multitudo filiorum Israël sequenti die contra Moysen et Aaron, dicens: Vos interfecistis populum Domini.",
-        "Clem-Saints": "Murmuravit autem omnis multitudo filiorum Israël sequenti die contra Moysen et Aaron, dicens: Vos interfecistis populum Domini.",
-        "VulgHetzenauer (1906)": "Murmuravit autem omnis multitudo filiorum Israel sequenti die contra Moysen et Aaron, dicens: Vos interfecistis populum Domini.",
-        "VulgConte (2009)": "Murmuravit autem omnis multitudo filiorum Israel sequenti die contra Moysen et Aaron, dicens: Vos interfecistis populum Domini.",
-        "VulgSistina (1590)": "Murmuravit autem omnis multitudo filiorum Israel sequenti die contra Moysen et Aaron, dicens: Vos interfecistis populum Domini."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "16:41",
-        "VulgHetzenauer (1906)": "16:41",
-        "VulgConte (2009)": "16:41",
-        "VulgSistina (1590)": "16:41"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 16:41 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65670,
-      "verse": 7,
-      "critical_text": "Cumque oriretur seditio, et tumultus incresceret, Moyses et Aaron fugerunt ad tabernaculum fœderis. Quod, postquam ingressi sunt, operuit nubes, et apparuit gloria Domini.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Cumque oriretur seditio, et tumultus incresceret, Moyses et Aaron fugerunt ad tabernaculum fœderis. Quod, postquam ingressi sunt, operuit nubes, et apparuit gloria Domini.",
-        "Clem-Saints": "Cumque oriretur seditio, et tumultus incresceret, Moyses et Aaron fugerunt ad tabernaculum fœderis. Quod, postquam ingressi sunt, operuit nubes, et apparuit gloria Domini.",
-        "VulgHetzenauer (1906)": "Cumque oriretur seditio, et tumultus incresceret, Moyses et Aaron fugerunt ad tabernaculum fœderis. Quod, postquam ingressi sunt, operuit nubes, et apparuit gloria Domini.",
-        "VulgConte (2009)": "Cumque oriretur seditio, et tumultus incresceret, Moyses et Aaron fugerunt ad tabernaculum fœderis. Quod, postquam ingressi sunt, operuit nubes, et apparuit gloria Domini.",
-        "VulgSistina (1590)": "Cumque oriretur seditio, et tumultus incresceret, Moyses et Aaron fugerunt ad tabernaculum foederis. Quod, postquam ingressi sunt, operuit nubes, et apparuit gloria Domini."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "16:43",
-        "VulgHetzenauer (1906)": "16:43",
-        "VulgConte (2009)": "16:43",
-        "VulgSistina (1590)": "16:43"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 16:43 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65671,
-      "verse": 9,
-      "critical_text": "Dixitque Dominus ad Moysen:",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Dixitque Dominus ad Moysen:",
-        "Clem-Saints": "Dixitque Dominus ad Moysen:",
-        "VulgHetzenauer (1906)": "Dixitque Dominus ad Moysen:",
-        "VulgConte (2009)": "Dixitque Dominus ad Moysen:",
-        "VulgSistina (1590)": "Dixitque Dominus ad Moysen:"
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "16:44",
-        "VulgHetzenauer (1906)": "16:44",
-        "VulgConte (2009)": "16:44",
-        "VulgSistina (1590)": "16:44"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 16:44 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65672,
-      "verse": 10,
-      "critical_text": "Recedite de medio hujus multitudinis, etiam nunc delebo eos. Cumque jacerent in terra,",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Recedite de medio hujus multitudinis, etiam nunc delebo eos. Cumque jacerent in terra,",
-        "Clem-Saints": "Recedite de medio hujus multitudinis, etiam nunc delebo eos. Cumque jacerent in terra,",
-        "VulgHetzenauer (1906)": "Recedite de medio huius multitudinis, etiam nunc delebo eos. Cumque iacerent in terra,",
-        "VulgConte (2009)": "Recedite de medio huius multitudinis, etiam nunc delebo eos. Cumque iacerent in terra,",
-        "VulgSistina (1590)": "Recedite de medio huius multitudinis, etiam nunc delebo eos. Cumque iacerent in terra,"
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "16:45",
-        "VulgHetzenauer (1906)": "16:45",
-        "VulgConte (2009)": "16:45",
-        "VulgSistina (1590)": "16:45"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 16:45 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65673,
-      "verse": 11,
-      "critical_text": "dixit Moyses ad Aaron: Tolle thuribulum, et hausto igne de altari, mitte incensum desuper, pergens cito ad populum, ut roges pro eis: jam enim egressa est ira a Domino, et plaga desævit.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "dixit Moyses ad Aaron: Tolle thuribulum, et hausto igne de altari, mitte incensum desuper, pergens cito ad populum, ut roges pro eis: jam enim egressa est ira a Domino, et plaga desævit.",
-        "Clem-Saints": "dixit Moyses ad Aaron: Tolle thuribulum, et hausto igne de altari, mitte incensum desuper, pergens cito ad populum, ut roges pro eis: jam enim egressa est ira a Domino, et plaga desævit.",
-        "VulgHetzenauer (1906)": "dixit Moyses ad Aaron: Tolle thuribulum, et hausto igne de altari, mitte incensum desuper, pergens cito ad populum ut roges pro eis: iam enim egressa est ira a Domino, et plaga desævit.",
-        "VulgConte (2009)": "dixit Moyses ad Aaron: Tolle thuribulum, et hausto igne de altari, mitte incensum desuper, pergens cito ad populum ut roges pro eis: iam enim egressa est ira a Domino, et plaga desævit.",
-        "VulgSistina (1590)": "dixit Moyses ad Aaron: Tolle thuribulum, et hausto igne de altari, mitte incensum desuper, pergens cito ad populum ut roges pro eis: iam enim egressa est ira a Domino, et plaga desaevit."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "16:46",
-        "VulgHetzenauer (1906)": "16:46",
-        "VulgConte (2009)": "16:46",
-        "VulgSistina (1590)": "16:46"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 16:46 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65674,
-      "verse": 12,
-      "critical_text": "Quod cum fecisset Aaron, et cucurrisset ad mediam multitudinem, quam jam vastabat incendium, obtulit thymiama:",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Quod cum fecisset Aaron, et cucurrisset ad mediam multitudinem, quam jam vastabat incendium, obtulit thymiama:",
-        "Clem-Saints": "Quod cum fecisset Aaron, et cucurrisset ad mediam multitudinem, quam jam vastabat incendium, obtulit thymiama:",
-        "VulgHetzenauer (1906)": "Quod cum fecisset Aaron, et cucurrisset ad mediam multitudinem, quam iam vastabat incendium, obtulit thymiama:",
-        "VulgConte (2009)": "Quod cum fecisset Aaron, et cucurrisset ad mediam multitudinem, quam iam vastabat incendium, obtulit thymiama:",
-        "VulgSistina (1590)": "Quod cum fecisset Aaron, et cucurrisset ad mediam multitudinem, quam iam vastabat incendium, obtulit thymiama:"
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "16:47",
-        "VulgHetzenauer (1906)": "16:47",
-        "VulgConte (2009)": "16:47",
-        "VulgSistina (1590)": "16:47"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 16:47 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65675,
-      "verse": 13,
-      "critical_text": "et stans inter mortuos ac viventes, pro populo deprecatus est, et plaga cessavit.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "et stans inter mortuos ac viventes, pro populo deprecatus est, et plaga cessavit.",
-        "Clem-Saints": "et stans inter mortuos ac viventes, pro populo deprecatus est, et plaga cessavit.",
-        "VulgHetzenauer (1906)": "et stans inter mortuos ac viventes, pro populo deprecatus est, et plaga cessavit.",
-        "VulgConte (2009)": "et stans inter mortuos ac viventes, pro populo deprecatus est, et plaga cessavit.",
-        "VulgSistina (1590)": "et stans inter mortuos ac viventes, pro populo deprecatus est, et plaga cessavit."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "16:48",
-        "VulgHetzenauer (1906)": "16:48",
-        "VulgConte (2009)": "16:48",
-        "VulgSistina (1590)": "16:48"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 16:48 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65676,
-      "verse": 14,
-      "critical_text": "Fuerunt autem qui percussi sunt, quatuordecim millia hominum, et septingenti, absque his qui perierant in seditione Core.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Fuerunt autem qui percussi sunt, quatuordecim millia hominum, et septingenti, absque his qui perierant in seditione Core.",
-        "Clem-Saints": "Fuerunt autem qui percussi sunt, quatuordecim millia hominum, et septingenti, absque his qui perierant in seditione Core.",
-        "VulgHetzenauer (1906)": "Fuerunt autem qui percussi sunt, quattuordecim millia hominum, et septingenti, absque his qui perierant in seditione Core.",
-        "VulgConte (2009)": "Fuerunt autem qui percussi sunt, quattuordecim millia hominum, et septingenti, absque his qui perierant in seditione Core.",
-        "VulgSistina (1590)": "Fuerunt autem qui percussi sunt, quattuordecim millia hominum, et septingenti, absque his qui perierant in seditione Core."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "16:49",
-        "VulgHetzenauer (1906)": "16:49",
-        "VulgConte (2009)": "16:49",
-        "VulgSistina (1590)": "16:49"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [
-        {
-          "slot_index": -1,
-          "kept_form": "(adopted text)",
-          "disregarded_forms": [
-            "quatuordecim millia / quattuordecim milia",
-            "quatuordecim / quattuordecim",
-            "quatuordecim / quattuordecim",
-            "quatuordecim / quattuordecim"
-          ],
-          "witnesses": [
-            "VulgConte (2009)",
-            "VulgHetzenauer (1906)",
-            "VulgSistina (1590)"
-          ],
-          "reason": "Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)"
-        }
-      ],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 16:49 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65677,
-      "verse": 15,
-      "critical_text": "Reversusque est Aaron ad Moysen ad ostium tabernaculi fœderis postquam quievit interitus.",
-      "confidence": 0.99,
-      "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
-      "witness_readings": {
-        "Clem1598-USFX": "Reversusque est Aaron ad Moysen ad ostium tabernaculi fœderis postquam quievit interitus.",
-        "Clem-Saints": "Reversusque est Aaron ad Moysen ad ostium tabernaculi fœderis postquam quievit interitus.",
-        "VulgHetzenauer (1906)": "Reversusque est Aaron ad Moysen ad ostium tabernaculi fœderis postquam quievit interitus.",
-        "VulgConte (2009)": "Reversusque est Aaron ad Moysen ad ostium tabernaculi fœderis postquam quievit interitus.",
-        "VulgSistina (1590)": "Reversusque est Aaron ad Moysen ad ostium tabernaculi foederis postquam quievit interitus."
-      },
-      "absent_witnesses": [],
-      "witness_refs": {
-        "Clem1598-USFX": "16:50",
-        "VulgHetzenauer (1906)": "16:50",
-        "VulgConte (2009)": "16:50",
-        "VulgSistina (1590)": "16:50"
-      },
-      "apparatus_witnesses": [
-        "Stuttgart-BSV",
-        "VulgConte (2009)",
-        "VulgHetzenauer (1906)",
-        "VulgSistina (1590)"
-      ],
-      "apparatus": [],
-      "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 16:50 (re-aligned by content).",
-      "human_locked": false,
-      "analysis": [],
-      "needs_review": false
-    },
-    {
-      "id": 65678,
-      "verse": 16,
       "critical_text": "Et locutus est Dominus ad Moysen, dicens:",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -584,27 +82,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "17:1",
-        "VulgHetzenauer (1906)": "17:1",
-        "VulgConte (2009)": "17:1",
-        "VulgSistina (1590)": "17:1"
+        "Clem-Saints": "17:16"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 17:1 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65679,
-      "verse": 17,
+      "id": 65665,
+      "verse": 2,
       "critical_text": "Loquere ad filios Israël, et accipe ab eis virgas singulas per cognationes suas, a cunctis principibus tribuum, virgas duodecim, et uniuscujusque nomen superscribes virgæ suæ.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -617,27 +112,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "17:2",
-        "VulgHetzenauer (1906)": "17:2",
-        "VulgConte (2009)": "17:2",
-        "VulgSistina (1590)": "17:2"
+        "Clem-Saints": "17:17"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 17:2 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65680,
-      "verse": 18,
+      "id": 65666,
+      "verse": 3,
       "critical_text": "Nomen autem Aaron erit in tribu Levi, et una virga cunctas seorsum familias continebit:",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -650,13 +142,10 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "17:3",
-        "VulgHetzenauer (1906)": "17:3",
-        "VulgConte (2009)": "17:3",
-        "VulgSistina (1590)": "17:3"
+        "Clem-Saints": "17:18"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -666,8 +155,8 @@
           "slot_index": -1,
           "lemma": "seorsum",
           "lemma_witnesses": [
-            "Clem-Saints",
             "Clem1598-USFX",
+            "Clem-Saints",
             "VulgConte (2009)",
             "VulgHetzenauer (1906)"
           ],
@@ -692,14 +181,14 @@
         }
       ],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 17:3 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65681,
-      "verse": 19,
+      "id": 65667,
+      "verse": 4,
       "critical_text": "ponesque eas in tabernaculo fœderis coram testimonio, ubi loquar ad te.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -712,27 +201,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "17:4",
-        "VulgHetzenauer (1906)": "17:4",
-        "VulgConte (2009)": "17:4",
-        "VulgSistina (1590)": "17:4"
+        "Clem-Saints": "17:19"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 17:4 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65682,
-      "verse": 20,
+      "id": 65668,
+      "verse": 5,
       "critical_text": "Quem ex his elegero, germinabit virga ejus: et cohibebo a me querimonias filiorum Israël, quibus contra vos murmurant.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -745,27 +231,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "17:5",
-        "VulgHetzenauer (1906)": "17:5",
-        "VulgConte (2009)": "17:5",
-        "VulgSistina (1590)": "17:5"
+        "Clem-Saints": "17:20"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 17:5 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65683,
-      "verse": 21,
+      "id": 65669,
+      "verse": 6,
       "critical_text": "Locutusque est Moyses ad filios Israël: et dederunt ei omnes principes virgas per singulas tribus: fueruntque virgæ duodecim absque virga Aaron.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -778,27 +261,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "17:6",
-        "VulgHetzenauer (1906)": "17:6",
-        "VulgConte (2009)": "17:6",
-        "VulgSistina (1590)": "17:6"
+        "Clem-Saints": "17:21"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 17:6 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65684,
-      "verse": 22,
+      "id": 65670,
+      "verse": 7,
       "critical_text": "Quas cum posuisset Moyses coram Domino in tabernaculo testimonii,",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -811,27 +291,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "17:7",
-        "VulgHetzenauer (1906)": "17:7",
-        "VulgConte (2009)": "17:7",
-        "VulgSistina (1590)": "17:7"
+        "Clem-Saints": "17:22"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 17:7 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65685,
-      "verse": 23,
+      "id": 477364,
+      "verse": 8,
       "critical_text": "sequenti die regressus invenit germinasse virgam Aaron in domo Levi: et turgentibus gemmis eruperant flores, qui, foliis dilatatis, in amygdalas deformati sunt.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -844,27 +321,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "17:8",
-        "VulgHetzenauer (1906)": "17:8",
-        "VulgConte (2009)": "17:8",
-        "VulgSistina (1590)": "17:8"
+        "Clem-Saints": "17:23"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 17:8 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65686,
-      "verse": 24,
+      "id": 65671,
+      "verse": 9,
       "critical_text": "Protulit ergo Moyses omnes virgas de conspectu Domini ad cunctos filios Israël: videruntque, et receperunt singuli virgas suas.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -877,27 +351,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "17:9",
-        "VulgHetzenauer (1906)": "17:9",
-        "VulgConte (2009)": "17:9",
-        "VulgSistina (1590)": "17:9"
+        "Clem-Saints": "17:24"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 17:9 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65687,
-      "verse": 25,
+      "id": 65672,
+      "verse": 10,
       "critical_text": "Dixitque Dominus ad Moysen: Refer virgam Aaron in tabernaculum testimonii, ut servetur ibi in signum rebellium filiorum Israël, et quiescant querelæ eorum a me, ne moriantur.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -910,27 +381,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "17:10",
-        "VulgHetzenauer (1906)": "17:10",
-        "VulgConte (2009)": "17:10",
-        "VulgSistina (1590)": "17:10"
+        "Clem-Saints": "17:25"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 17:10 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65688,
-      "verse": 26,
+      "id": 65673,
+      "verse": 11,
       "critical_text": "Fecitque Moyses sicut præceperat Dominus.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -943,27 +411,24 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "17:11",
-        "VulgHetzenauer (1906)": "17:11",
-        "VulgConte (2009)": "17:11",
-        "VulgSistina (1590)": "17:11"
+        "Clem-Saints": "17:26"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 17:11 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65689,
-      "verse": 27,
+      "id": 65674,
+      "verse": 12,
       "critical_text": "Dixerunt autem filii Israël ad Moysen: Ecce consumpti sumus, omnes perivimus.",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -976,13 +441,10 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "17:12",
-        "VulgHetzenauer (1906)": "17:12",
-        "VulgConte (2009)": "17:12",
-        "VulgSistina (1590)": "17:12"
+        "Clem-Saints": "17:27"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
@@ -1001,14 +463,14 @@
           "reason": "Apparatus witness, not a variant: b/u interchange (betacism); the Clementine spelling is printed — check the tense where it differs (delebit / delevit)"
         }
       ],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 17:12 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false
     },
     {
-      "id": 65690,
-      "verse": 28,
+      "id": 65675,
+      "verse": 13,
       "critical_text": "Quicumque accedit ad tabernaculum Domini, moritur. Num usque ad internecionem cuncti delendi sumus?",
       "confidence": 0.99,
       "decision_source": "Textual Analysis Brain (Claude-designed · internal evidence · offline)",
@@ -1021,20 +483,17 @@
       },
       "absent_witnesses": [],
       "witness_refs": {
-        "Clem1598-USFX": "17:13",
-        "VulgHetzenauer (1906)": "17:13",
-        "VulgConte (2009)": "17:13",
-        "VulgSistina (1590)": "17:13"
+        "Clem-Saints": "17:28"
       },
       "apparatus_witnesses": [
-        "Stuttgart-BSV",
+        "Clem-Saints",
         "VulgConte (2009)",
         "VulgHetzenauer (1906)",
         "VulgSistina (1590)"
       ],
       "apparatus": [],
       "disregarded": [],
-      "rationale": "Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 17:13 (re-aligned by content).",
+      "rationale": "Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).",
       "human_locked": false,
       "analysis": [],
       "needs_review": false

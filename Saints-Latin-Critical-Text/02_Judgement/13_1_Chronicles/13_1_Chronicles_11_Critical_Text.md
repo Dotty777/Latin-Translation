@@ -1,8 +1,8 @@
 # 1 Chronicles 11 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:21Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,26 +28,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
-- Clem1598-USFX: 11:35 not collated (no verse of the reference matches its wording)
-- Clem1598-USFX: 2 verse(s) re-aligned by content (34←11:33, 35←11:34)
-- VulgHetzenauer (1906): 11:35 not collated (no verse of the reference matches its wording)
-- VulgHetzenauer (1906): 2 verse(s) re-aligned by content (34←11:33, 35←11:34)
-- VulgConte (2009): 11:35 not collated (no verse of the reference matches its wording)
-- VulgConte (2009): 2 verse(s) re-aligned by content (34←11:33, 35←11:34)
-- VulgSistina (1590): 11:35 not collated (no verse of the reference matches its wording)
-- VulgSistina (1590): 2 verse(s) re-aligned by content (34←11:33, 35←11:34)
+- Clem-Saints: 2 verse(s) re-aligned by content (33←11:34, 34←11:35)
 
 ---
 
@@ -85,8 +69,9 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **30** Maharai Netophathites, Heled filius Baana Netophathites,
 **31** Ethai filius Ribai de Gabaath filiorum Benjamin, Banaia Pharatonites,
 **32** Hurai de torrente Gaas, Abiel Arbathites, Azmoth Bauramites, Eliaba Salabonites.
-**34** Filii Assem Gezonites, Jonathan filius Sage Ararites,
-**35** Ahiam filius Sachar Ararites,
+**33** Filii Assem Gezonites, Jonathan filius Sage Ararites,
+**34** Ahiam filius Sachar Ararites,
+**35** Eliphal filius Ur,
 **36** Hepher Mecherathites, Ahia Phelonites,
 **37** Hesro Carmelites, Naarai filius Asbai,
 **38** Joël frater Nathan, Mibahar filius Agarai,
@@ -107,7 +92,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `exstruxit. / extruxit`, `exstruxit. / extruxit.`, `exstruxit. / extruxit.`, `exstruxit. / extruxit.` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### 1 Chronicles 11:21
-- **Apparatus:** `secundos` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **secundus** VulgSistina (1590)
+- **Apparatus:** `secundos` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **secundus** VulgSistina (1590)
 
 ---
 
@@ -120,7 +105,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Congregatus est igitur omnis Israel ad David in Hebron, dicens: Os tuum sumus, et caro tua.
   - `VulgConte (2009)`: Congregatus est igitur omnis Israel ad David in Hebron, dicens: Os tuum sumus, et caro tua.
   - `VulgSistina (1590)`: Congregatus est igitur omnis Israel ad David in Hebron, dicens: Os tuum sumus, et caro tua.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Heri quoque et nudiustertius cum adhuc regnaret Saul, tu eras qui educebas et introducebas Israël: tibi enim dixit Dominus Deus tuus: Tu pasces populum meum Israël, et tu eris princeps super eum.
@@ -129,7 +114,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Heri quoque, et nudiustertius cum adhuc regnaret Saul, tu eras qui educebas, et introducebas Israel: tibi enim dixit Dominus Deus tuus: Tu pasces populum meum Israel, et tu eris princeps super eum.
   - `VulgConte (2009)`: Heri quoque, et nudiustertius cum adhuc regnaret Saul, tu eras qui educebas, et introducebas Israel: tibi enim dixit Dominus Deus tuus: Tu pasces populum meum Israel, et tu eris princeps super eum.
   - `VulgSistina (1590)`: Heri quoque, et nudiustertius cum adhuc regnaret Saul, tu eras qui educebas, et introducebas Israel: tibi enim dixit Dominus Deus tuus: Tu pasces populum meum Israel, et tu eris princeps super eum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Venerunt ergo omnes majores natu Israël ad regem in Hebron, et iniit David cum eis fœdus coram Domino: unxeruntque eum regem super Israël, juxta sermonem Domini quem locutus est in manu Samuel.
@@ -138,7 +123,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Venerunt ergo omnes maiores natu Israel ad regem in Hebron, et iniit David cum eis fœdus coram Domino: unxeruntque eum regem super Israel, iuxta sermonem Domini, quem locutus est in manu Samuel.
   - `VulgConte (2009)`: Venerunt ergo omnes maiores natu Israel ad regem in Hebron, et iniit David cum eis fœdus coram Domino: unxeruntque eum regem super Israel, iuxta sermonem Domini, quem locutus est in manu Samuel.
   - `VulgSistina (1590)`: Venerunt ergo omnes maiores natu Israel ad regem in Hebron, et iniit David cum eis foedus coram Domino: unxeruntque eum regem super Israel, iuxta sermonem Domini, quem locutus est in manu Samuel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Abiit quoque David et omnis Israël in Jerusalem: hæc est Jebus, ubi erant Jebusæi habitatores terræ.
@@ -147,7 +132,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Abiit quoque David, et omnis Israel in Ierusalem. hæc est Iebus, ubi erant Iebusæi habitatores terræ.
   - `VulgConte (2009)`: Abiit quoque David, et omnis Israel in Ierusalem. Hæc est Iebus, ubi erant Iebusæi habitatores terræ.
   - `VulgSistina (1590)`: Abiit quoque David, et omnis Israel in Ierusalem. haec est Iebus, ubi erant Iebusaei habitatores terrae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixeruntque qui habitabant in Jebus ad David: Non ingredieris huc. Porro David cepit arcem Sion, quæ est civitas David,
@@ -156,7 +141,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixeruntque qui habitabant in Iebus ad David: Non ingredieris huc. Porro David cepit arcem Sion, quæ est Civitas David,
   - `VulgConte (2009)`: Dixeruntque qui habitabant in Iebus ad David: Non ingredieris huc. Porro David cepit arcem Sion, quæ est Civitas David,
   - `VulgSistina (1590)`: Dixeruntque qui habitabant in Iebus ad David: Non ingredieris huc. Porro David cepit arcem Sion, quae est Civitas David,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** dixitque: Omnis qui percusserit Jebusæum in primis, erit princeps et dux. Ascendit igitur primus Joab filius Sarviæ, et factus est princeps.
@@ -165,7 +150,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: dixitque: Omnis qui percusserit Iebusæum in primis, erit princeps et dux. Ascendit igitur primus Ioab filius Sarviæ, et factus est princeps.
   - `VulgConte (2009)`: dixitque: Omnis qui percusserit Iebusæum in primis, erit princeps et dux. Ascendit igitur primus Ioab filius Sarviæ, et factus est princeps.
   - `VulgSistina (1590)`: dixitque: Omnis qui percusserit Iebusaeum in primis, erit princeps et dux. Ascendit igitur primus Ioab filius Sarviae, et factus est princeps.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Habitavit autem David in arce, et idcirco appellata est civitas David.
@@ -174,7 +159,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Habitavit autem David in arce, et idcirco appellata est Civitas David.
   - `VulgConte (2009)`: Habitavit autem David in arce, et idcirco appellata est Civitas David.
   - `VulgSistina (1590)`: Habitavit autem David in arce, et idcirco appellata est Civitas David.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ædificavitque urbem in circuitu a Mello usque ad gyrum; Joab autem reliqua urbis exstruxit.
@@ -183,7 +168,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ædificavitque urbem in circuitu a Mello usque ad gyrum, Ioab autem reliqua urbis extruxit.
   - `VulgConte (2009)`: Ædificavitque urbem in circuitu a Mello usque ad gyrum: Ioab autem reliqua urbis extruxit.
   - `VulgSistina (1590)`: Aedificavitque urbem in circuitu a Mello usque ad gyrum, Ioab autem reliqua urbis extruxit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Proficiebatque David vadens et crescens, et Dominus exercituum erat cum eo.
@@ -192,7 +177,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Proficiebatque David vadens et crescens, et Dominus exercituum erat cum eo.
   - `VulgConte (2009)`: Proficiebatque David vadens et crescens, et Dominus exercituum erat cum eo.
   - `VulgSistina (1590)`: Proficiebatque David vadens et crescens, et Dominus exercituum erat cum eo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hi principes virorum fortium David, qui adjuverunt eum ut rex fieret super omnem Israël, juxta verbum Domini quod locutus est ad Israël.
@@ -201,7 +186,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hi principes virorum fortium David, qui adiuverunt eum ut rex fieret super omnem Israel iuxta verbum Domini, quod locutus est ad Israel.
   - `VulgConte (2009)`: Hi principes virorum fortium David, qui adiuverunt eum ut rex fieret super omnem Israel iuxta verbum Domini, quod locutus est ad Israel.
   - `VulgSistina (1590)`: Hi principes virorum fortium David, qui adiuverunt eum ut rex fieret super omnem Israel iuxta verbum Domini, quod locutus est ad Israel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et iste numerus robustorum David: Jesbaam filius Hachamoni princeps inter triginta: iste levavit hastam suam super trecentos vulneratos una vice.
@@ -210,7 +195,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et iste numerus robustorum David: Iesbaam filius Hachamoni princeps inter triginta: iste levavit hastam suam super trecentos vulneratos una vice.
   - `VulgConte (2009)`: Et iste numerus robustorum David: Iesbaam filius Hachamoni princeps inter triginta: iste levavit hastam suam super trecentos vulneratos una vice.
   - `VulgSistina (1590)`: Et iste numerus robustorum David: Iesbaam filius Hachamoni princeps inter triginta: iste levavit hastam suam super trecentos vulneratos una vice.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et post eum Eleazar filius patrui ejus Ahohites, qui erat inter tres potentes.
@@ -219,7 +204,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et post eum Eleazar filius patrui eius Ahohites, qui erat inter tres potentes.
   - `VulgConte (2009)`: Et post eum Eleazar filius patrui eius Ahohites, qui erat inter tres potentes.
   - `VulgSistina (1590)`: Et post eum Eleazar filius patrui eius Ahohites, qui erat inter tres potentes.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Iste fuit cum David in Phesdomim, quando Philisthiim congregati sunt ad locum illum in prælium: et erat ager regionis illius plenus hordeo, fugeratque populus a facie Philisthinorum.
@@ -228,7 +213,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iste fuit cum David in Phesdomim, quando Philisthiim congregati sunt ad locum illum in prælium: et erat ager regionis illius plenus hordeo, fugeratque populus a facie Philisthinorum.
   - `VulgConte (2009)`: Iste fuit cum David in Phesdomim, quando Philisthiim congregati sunt ad locum illum in prælium: et erat ager regionis illius plenus hordeo, fugeratque populus a facie Philisthinorum.
   - `VulgSistina (1590)`: Iste fuit cum David in Phesdomim, quando Philisthiim congregati sunt ad locum illum in praelium: et erat ager regionis illius plenus hordeo, fugeratque populus a facie Philisthinorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hi steterunt in medio agri, et defenderunt eum: cumque percussissent Philisthæos, dedit Dominus salutem magnam populo suo.
@@ -237,7 +222,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hi steterunt in medio agri, et defenderunt eum: cumque percussissent Philisthæos, dedit Dominus salutem magnam populo suo.
   - `VulgConte (2009)`: Hi steterunt in medio agri, et defenderunt eum: cumque percussissent Philisthæos, dedit Dominus salutem magnam populo suo.
   - `VulgSistina (1590)`: Hi steterunt in medio agri, et defenderunt eum: cumque percussissent Philisthaeos, dedit Dominus salutem magnam populo suo.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Descenderunt autem tres de triginta principibus ad petram, in qua erat David, ad speluncam Odollam, quando Philisthiim fuerant castrametati in valle Raphaim.
@@ -246,7 +231,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Descenderunt autem tres de triginta principibus ad petram, in qua erat David, ad speluncam Odollam, quando Philisthiim fuerant castrametati in Valle raphaim.
   - `VulgConte (2009)`: Descenderunt autem tres de triginta principibus ad petram, in qua erat David, ad speluncam Odollam, quando Philisthiim fuerant castrametati in Valle Raphaim.
   - `VulgSistina (1590)`: Descenderunt autem tres de triginta principibus ad petram, in qua erat David, ad speluncam Odollam, quando Philisthiim fuerant castrametati in Valle raphaim.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Porro David erat in præsidio, et statio Philisthinorum in Bethlehem.
@@ -255,7 +240,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Porro David erat in præsidio, et statio Philisthinorum in Bethlehem.
   - `VulgConte (2009)`: Porro David erat in præsidio, et statio Philisthinorum in Bethlehem.
   - `VulgSistina (1590)`: Porro David erat in praesidio, et statio Philisthinorum in Bethlehem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Desideravit igitur David, et dixit: O si quis daret mihi aquam de cisterna Bethlehem, quæ est in porta!
@@ -264,7 +249,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Desideravit igitur David, et dixit: O si quis daret mihi aquam de cisterna Bethlehem, quæ est in porta.
   - `VulgConte (2009)`: Desideravit igitur David, et dixit: O si quis daret mihi aquam de cisterna Bethlehem, quæ est in porta!
   - `VulgSistina (1590)`: Desideravit igitur David, et dixit: O si quis daret mihi aquam de cisterna Bethlehem, quae est in porta.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tres ergo isti per media castra Philisthinorum perrexerunt, et hauserunt aquam de cisterna Bethlehem quæ erat in porta, et attulerunt ad David ut biberet. Qui noluit, sed magis libavit illam Domino,
@@ -273,7 +258,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tres ergo isti per media castra Philisthinorum perrexerunt, et hauserunt aquam de cisterna Bethlehem, quæ erat in porta, et attulerunt ad David ut biberet: qui noluit, sed magis libavit illam Domino,
   - `VulgConte (2009)`: Tres ergo isti per media castra Philisthinorum perrexerunt, et hauserunt aquam de cisterna Bethlehem, quæ erat in porta, et attulerunt ad David ut biberet: qui noluit, sed magis libavit illam Domino,
   - `VulgSistina (1590)`: Tres ergo isti per media castra Philisthinorum perrexerunt, et hauserunt aquam de cisterna Bethlehem, quae erat in porta, et attulerunt ad David ut biberet: qui noluit, sed magis libavit illam Domino,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** dicens: Absit ut in conspectu Dei mei hoc faciam, et sanguinem istorum virorum bibam: quia in periculo animarum suarum attulerunt mihi aquam. Et ob hanc causam noluit bibere: hæc fecerunt tres robustissimi.
@@ -282,7 +267,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: dicens: Absit ut in conspectu Dei mei hoc faciam, et sanguinem istorum virorum bibam: quia in periculo animarum suarum attulerunt mihi aquam. Et ob hanc causam noluit bibere. hæc fecerunt tres robustissimi.
   - `VulgConte (2009)`: dicens: Absit ut in conspectu Dei mei hoc faciam, et sanguinem istorum virorum bibam: quia in periculo animarum suarum attulerunt mihi aquam. Et ob hanc causam noluit bibere. Hæc fecerunt tres robustissimi.
   - `VulgSistina (1590)`: dicens: Absit ut in conspectu Dei mei hoc faciam, et sanguinem istorum virorum bibam: quia in periculo animarum suarum attulerunt mihi aquam. Et ob hanc causam noluit bibere. haec fecerunt tres robustissimi.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Abisai quoque frater Joab ipse erat princeps trium, et ipse levavit hastam suam contra trecentos vulneratos, et ipse erat inter tres nominatissimus,
@@ -291,7 +276,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Abisai quoque frater Ioab ipse erat princeps trium, et ipse levavit hastam suam contra trecentos vulneratos, et ipse erat inter tres nominatissimus,
   - `VulgConte (2009)`: Abisai quoque frater Ioab ipse erat princeps trium, et ipse levavit hastam suam contra trecentos vulneratos, et ipse erat inter tres nominatissimus,
   - `VulgSistina (1590)`: Abisai quoque frater Ioab ipse erat princeps trium, et ipse levavit hastam suam contra trecentos vulneratos, et ipse erat inter tres nominatissimus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et inter tres secundos inclytus, et princeps eorum: verumtamen usque ad tres primos non pervenerat.
@@ -300,7 +285,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et inter tres secundos inclytus, et princeps eorum: verumtamen usque ad tres primos non pervenerat.
   - `VulgConte (2009)`: et inter tres secundos inclytus, et princeps eorum: verumtamen usque ad tres primos non pervenerat.
   - `VulgSistina (1590)`: et inter tres secundus inclytus, et princeps eorum: verumtamen usque ad tres primos non pervenerat.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Banaias filius Jojadæ viri robustissimi, qui multa opera perpetrarat, de Cabseel: ipse percussit duos ariel Moab, et ipse descendit et interfecit leonem in media cisterna tempore nivis.
@@ -309,7 +294,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Banaias filius Ioiadæ viri robustissimi, qui multa opera perpetrarat, de Cabseel: ipse percussit duos ariel Moab: et ipse descendit, et interfecit leonem in media cisterna tempore nivis.
   - `VulgConte (2009)`: Banaias filius Ioiadæ viri robustissimi, qui multa opera perpetrarat, de Cabseel: ipse percussit duos ariel Moab: et ipse descendit, et interfecit leonem in media cisterna tempore nivis.
   - `VulgSistina (1590)`: Banaias filius Ioiadae viri robustissimi, qui multa opera perpetrarat, de Cabseel: ipse percussit duos ariel Moab: et ipse descendit, et interfecit leonem in media cisterna tempore nivis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et ipse percussit virum ægyptium, cujus statura erat quinque cubitorum, et habebat lanceam ut liciatorium texentium: descendit igitur ad eum cum virga, et rapuit hastam quam tenebat manu, et interfecit eum hasta sua.
@@ -318,7 +303,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et ipse percussit virum Ægyptium, cuius statura erat quinque cubitorum, et habebat lanceam ut liciatorium texentium: descendit igitur ad eum cum virga, et rapuit hastam, quam tenebat manu. et interfecit eum hasta sua.
   - `VulgConte (2009)`: Et ipse percussit virum Ægyptium, cuius statura erat quinque cubitorum, et habebat lanceam ut liciatorium texentium: descendit igitur ad eum cum virga, et rapuit hastam, quam tenebat manu. Et interfecit eum hasta sua.
   - `VulgSistina (1590)`: Et ipse percussit virum Aegyptium, cuius statura erat quinque cubitorum, et habebat lanceam ut liciatorium texentium: descendit igitur ad eum cum virga, et rapuit hastam, quam tenebat manu. et interfecit eum hasta sua.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæc fecit Banaias filius Jojadæ, qui erat inter tres robustos nominatissimus,
@@ -327,7 +312,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hæc fecit Banaias filius Ioiadæ, qui erat inter tres robustos nominatissimus,
   - `VulgConte (2009)`: Hæc fecit Banaias filius Ioiadæ, qui erat inter tres robustos nominatissimus,
   - `VulgSistina (1590)`: Haec fecit Banaias filius Ioiadae, qui erat inter tres robustos nominatissimus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** inter triginta primus, verumtamen ad tres usque non pervenerat: posuit autem eum David ad auriculam suam.
@@ -336,7 +321,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: inter triginta primus, verumtamen ad tres usque non pervenerat: posuit autem eum David ad auriculam suam.
   - `VulgConte (2009)`: inter triginta primus, verumtamen ad tres usque non pervenerat: posuit autem eum David ad auriculam suam.
   - `VulgSistina (1590)`: inter triginta primus, verumtamen ad tres usque non pervenerat: posuit autem eum David ad auriculam suam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Porro fortissimi viri in exercitu, Asahel frater Joab, et Elchanan filius patrui ejus de Bethlehem,
@@ -345,7 +330,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Porro fortissimi viri in exercitu, Asahel frater Ioab, et Elchanan filius patrui eius de Bethlehem,
   - `VulgConte (2009)`: Porro fortissimi viri in exercitu, Asahel frater Ioab, et Elchanan filius patrui eius de Bethlehem,
   - `VulgSistina (1590)`: Porro fortissimi viri in exercitu, Asahel frater Ioab, et Elchanan filius patrui eius de Bethlehem,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sammoth Arorites, Helles Pharonites,
@@ -354,7 +339,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sammoth Arorites, Helles Pharonites,
   - `VulgConte (2009)`: Sammoth Arorites, Helles Pharonites,
   - `VulgSistina (1590)`: Sammoth Arorites, Helles Pharonites,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ira filius Acces Thecuites, Abiezer Anathothites,
@@ -363,7 +348,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ira filius Acces Thecuites, Abiezer Anathothites,
   - `VulgConte (2009)`: Ira filius Acces Thecuites, Abiezer Anathothites,
   - `VulgSistina (1590)`: Ira filius Acces Thecuites, Abiezer Anathothites,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Sobbochai Husathites, Ilai Ahohites,
@@ -372,7 +357,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sobbochai Husathites, Ilai Ahohites,
   - `VulgConte (2009)`: Sobbochai Husathites, Ilai Ahohites,
   - `VulgSistina (1590)`: Sobbochai Husathites, Ilai Ahohites,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Maharai Netophathites, Heled filius Baana Netophathites,
@@ -381,7 +366,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Maharai Netophathites, Heled filius Baana Netophathites,
   - `VulgConte (2009)`: Maharai Netophathites, Heled filius Baana Netophathites,
   - `VulgSistina (1590)`: Maharai Netophathites, Heled filius Baana Netophathites,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ethai filius Ribai de Gabaath filiorum Benjamin, Banaia Pharatonites,
@@ -390,7 +375,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ethai filius Ribai de Gabaath filiorum Beniamin, Banaia Pharatonites,
   - `VulgConte (2009)`: Ethai filius Ribai de Gabaath filiorum Beniamin, Banaia Pharatonites,
   - `VulgSistina (1590)`: Ethai filius Ribai de Gabaath filiorum Beniamin, Banaia Pharatonites,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 32 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hurai de torrente Gaas, Abiel Arbathites, Azmoth Bauramites, Eliaba Salabonites.
@@ -399,25 +384,33 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hurai de Torrente Gaas, Abiel Arbathites, Azmoth Bauramites, Eliaba Salabonites.
   - `VulgConte (2009)`: Hurai de Torrente Gaas, Abiel Arbathites, Azmoth Bauramites, Eliaba Salabonites.
   - `VulgSistina (1590)`: Hurai de Torrente Gaas, Abiel Arbathites, Azmoth Bauramites, Eliaba Salabonites.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
+
+### Verse 33 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** Filii Assem Gezonites, Jonathan filius Sage Ararites,
+  - `Clem1598-USFX`: Filii Assem Gezonites, Jonathan filius Sage Ararites,
+  - `Clem-Saints` *(numbered 11:34 in this witness)*: Filii Assem Gezonites, Jonathan filius Sage Ararites,
+  - `VulgHetzenauer (1906)`: Filii Assem Gezonites, Ionathan filius Sage Ararites,
+  - `VulgConte (2009)`: Filii Assem Gezonites, Ionathan filius Sage Ararites,
+  - `VulgSistina (1590)`: Filii Assem Gezonites, Ionathan filius Sage Ararites,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 34 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Filii Assem Gezonites, Jonathan filius Sage Ararites,
-  - `Clem1598-USFX` *(numbered 11:33 in this witness)*: Filii Assem Gezonites, Jonathan filius Sage Ararites,
-  - `Clem-Saints`: Filii Assem Gezonites, Jonathan filius Sage Ararites,
-  - `VulgHetzenauer (1906)` *(numbered 11:33 in this witness)*: Filii Assem Gezonites, Ionathan filius Sage Ararites,
-  - `VulgConte (2009)` *(numbered 11:33 in this witness)*: Filii Assem Gezonites, Ionathan filius Sage Ararites,
-  - `VulgSistina (1590)` *(numbered 11:33 in this witness)*: Filii Assem Gezonites, Ionathan filius Sage Ararites,
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 11:33 (re-aligned by content).
+- **Critical Text:** Ahiam filius Sachar Ararites,
+  - `Clem1598-USFX`: Ahiam filius Sachar Ararites,
+  - `Clem-Saints` *(numbered 11:35 in this witness)*: Ahiam filius Sachar Ararites,
+  - `VulgHetzenauer (1906)`: Ahiam filius Sachar Ararites,
+  - `VulgConte (2009)`: Ahiam filius Sachar Ararites,
+  - `VulgSistina (1590)`: Ahiam filius Sachar Ararites,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 35 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Ahiam filius Sachar Ararites,
-  - `Clem1598-USFX` *(numbered 11:34 in this witness)*: Ahiam filius Sachar Ararites,
-  - `Clem-Saints`: Ahiam filius Sachar Ararites,
-  - `VulgHetzenauer (1906)` *(numbered 11:34 in this witness)*: Ahiam filius Sachar Ararites,
-  - `VulgConte (2009)` *(numbered 11:34 in this witness)*: Ahiam filius Sachar Ararites,
-  - `VulgSistina (1590)` *(numbered 11:34 in this witness)*: Ahiam filius Sachar Ararites,
-- **Philological Rationale:** Substantively unanimous across Clem1598-USFX, Clem-Saints. Versification: Clem1598-USFX numbers this verse 11:34 (re-aligned by content).
+- **Critical Text:** Eliphal filius Ur,
+  - `Clem1598-USFX`: Eliphal filius Ur,
+  - `VulgHetzenauer (1906)`: Eliphal filius Ur,
+  - `VulgConte (2009)`: Eliphal filius Ur,
+  - `VulgSistina (1590)`: Eliphal filius Ur,
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 36 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hepher Mecherathites, Ahia Phelonites,
@@ -426,7 +419,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hepher Mecherathites, Ahia Phelonites,
   - `VulgConte (2009)`: Hepher Mecherathites, Ahia Phelonites,
   - `VulgSistina (1590)`: Hepher Mecherathites, Ahia Phelonites,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 37 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hesro Carmelites, Naarai filius Asbai,
@@ -435,7 +428,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hesro Carmelites, Naarai filius Asbai,
   - `VulgConte (2009)`: Hesro Carmelites, Naarai filius Asbai,
   - `VulgSistina (1590)`: Hesro Carmelites, Naarai filius Asbai,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 38 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Joël frater Nathan, Mibahar filius Agarai,
@@ -444,7 +437,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ioel frater Nathan, Mibahar filius Agarai.
   - `VulgConte (2009)`: Ioel frater Nathan, Mibahar filius Agarai.
   - `VulgSistina (1590)`: Ioel frater Nathan, Mibahar filius Agarai.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 39 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Selec Ammonites, Naharai Berothites armiger Joab filii Sarviæ,
@@ -453,7 +446,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Selec Ammonites, Naharai Berothites armiger Ioab filii Sarviæ.
   - `VulgConte (2009)`: Selec Ammonites, Naharai Berothites armiger Ioab filii Sarviæ.
   - `VulgSistina (1590)`: Selec Ammonites, Naharai Berothites armiger Ioab filii Sarviae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 40 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ira Jethræus, Gareb Jethræus,
@@ -462,7 +455,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ira Iethræus, Gareb Iethræus,
   - `VulgConte (2009)`: Ira Iethræus, Gareb Iethræus,
   - `VulgSistina (1590)`: Ira Iethraeus, Gareb Iethraeus,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 41 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Urias Hethæus, Zabad filius Oholi,
@@ -471,7 +464,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Urias Hethæus, Zabad filius Oholi,
   - `VulgConte (2009)`: Urias Hethæus, Zabad filius Oholi,
   - `VulgSistina (1590)`: Urias Hethaeus, Zabad filius Oholi,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 42 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Adina filius Siza Rubenites princeps Rubenitarum, et cum eo triginta:
@@ -480,7 +473,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Adina filius Siza Rubenites princeps Rubenitarum, et cum eo triginta:
   - `VulgConte (2009)`: Adina filius Siza Rubenites princeps Rubenitarum, et cum eo triginta:
   - `VulgSistina (1590)`: Adina filius Siza Rubenites princeps Rubenitarum, et cum eo triginta:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 43 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hanan filius Maacha, et Josaphat Mathanites,
@@ -489,7 +482,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hanan filius Maacha, et Iosaphat Mathanites,
   - `VulgConte (2009)`: Hanan filius Maacha, et Iosaphat Mathanites,
   - `VulgSistina (1590)`: Hanan filius Maacha, et Iosaphat Mathanites,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 44 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ozia Astarothites, Samma, et Jehiel filii Hotham Arorites,
@@ -498,7 +491,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ozia Astarothites, Samma, et Iehiel filii Hotham Arorites,
   - `VulgConte (2009)`: Ozia Astarothites, Samma, et Iehiel filii Hotham Arorites,
   - `VulgSistina (1590)`: Ozia Astarothites, Samma, et Iehiel filii Hotham Arorites,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 45 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Jedihel filius Samri, et Joha frater ejus Thosaites,
@@ -507,7 +500,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iedihel filius Samri, et Ioha frater eius Thosaites,
   - `VulgConte (2009)`: Iedihel filius Samri, et Ioha frater eius Thosaites,
   - `VulgSistina (1590)`: Iedihel filius Samri, et Ioha frater eius Thosaites,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 46 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Eliel Mahumites, et Jeribai, et Josaia filii Elnaëm, et Jethma Moabites, Eliel, et Obed, et Jasiel de Masobia.
@@ -516,4 +509,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Eliel Mahumites, et Ieribai, et Iosaia filii Elnaem, et Iethma Moabites, Eliel, et Obed, et Iasiel de Masobia.
   - `VulgConte (2009)`: Eliel Mahumites, et Ieribai, et Iosaia filii Elnaem, et Iethma Moabites, Eliel, et Obed, et Iasiel de Masobia.
   - `VulgSistina (1590)`: Eliel Mahumites, et Ieribai, et Iosaia filii Elnaem, et Iethma Moabites, Eliel, et Obed, et Iasiel de Masobia.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

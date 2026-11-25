@@ -1,8 +1,8 @@
 # Matthew 01 — Saints Latin Critical Text
 
-**Division:** `05_Salvation` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:42Z`
+**Division:** `05_Salvation` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:09Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **Amiatinus (A)** | Codex Amiatinus — Digital Latin Library TEI transcription (Full 27-Book NT) | Tier 2 | CC BY-SA 4.0 (Digital Latin Library transcription) | Early Hieronymian Vulgate (Pre-Sixto-Clementine, Apparatus Witness) |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
@@ -29,16 +29,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
+| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; excluded from public open-licence exports. |
 
 ---
 
@@ -75,26 +67,26 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ## Section III — Critical Apparatus & Disregarded Surface Noise
 
 ### Matthew 1:3
-- **Apparatus:** `Zaram` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **zarad** Amiatinus (A)
-- **Apparatus:** `Esron. Esron` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **esrom esrom** Amiatinus (A)
+- **Apparatus:** `Zaram` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **zarad** Amiatinus (A)
+- **Apparatus:** `Esron. Esron` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **esrom esrom** Amiatinus (A)
 
 ### Matthew 1:5
-- **Apparatus:** `Rahab.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **racab** Amiatinus (A)
-- **Apparatus:** `autem` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
-- **Apparatus:** `Obed` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **obeth** Amiatinus (A)
-- **Apparatus:** `Jesse autem genuit David regem.` Clem-Saints Clem1598-USFX Amiatinus (A) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VulgConte (2009)
+- **Apparatus:** `Rahab.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **racab** Amiatinus (A)
+- **Apparatus:** `autem` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `Obed` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **obeth** Amiatinus (A)
+- **Apparatus:** `Jesse autem genuit David regem.` Clem1598-USFX Amiatinus (A) Clem-Saints VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** VulgConte (2009)
 
 ### Matthew 1:6
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX Amiatinus (A) VulgHetzenauer (1906) VulgSistina (1590) **]** **Iesse autem genuit David regem.** VulgConte (2009)
+- **Apparatus:** `om.` Clem1598-USFX Amiatinus (A) Clem-Saints VulgHetzenauer (1906) VulgSistina (1590) **]** **Iesse autem genuit David regem.** VulgConte (2009)
 
 ### Matthew 1:7
-- **Apparatus:** `Abias` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **abia** Amiatinus (A)
+- **Apparatus:** `Abias` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **abia** Amiatinus (A)
 
 ### Matthew 1:8
-- **Apparatus:** `Josophat. Josophat` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **iosaphat iosaphat** Amiatinus (A) VulgSistina (1590)
+- **Apparatus:** `Josophat. Josophat` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **iosaphat iosaphat** Amiatinus (A) VulgSistina (1590)
 
 ### Matthew 1:11
-- **Apparatus:** `transmigratione` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **transmigrationem** Amiatinus (A)
+- **Apparatus:** `transmigratione` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **transmigrationem** Amiatinus (A)
 
 ### Matthew 1:12
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Salathiel. Salathiel / salathihel salathihel`, `Salathiel. Salathiel / Salathihel Salathihel` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -106,23 +98,23 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Sadoc. Sadoc / saddoc saddoc`, `Sadoc. Sadoc / Saddoc Saddoc` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Matthew 1:15
-- **Apparatus:** `Mathan. Mathan` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **matthan mattham** Amiatinus (A)
+- **Apparatus:** `Mathan. Mathan` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **matthan mattham** Amiatinus (A)
 
 ### Matthew 1:17
-- **Apparatus:** `itaque` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ergo** Amiatinus (A)
-- **Apparatus:** `Babylonis` Clem-Saints Clem1598-USFX Amiatinus (A) VulgSistina (1590) **]** **Bayblonis** VulgConte (2009) VulgHetzenauer (1906)
+- **Apparatus:** `itaque` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **ergo** Amiatinus (A)
+- **Apparatus:** `Babylonis` Clem1598-USFX Amiatinus (A) Clem-Saints VulgSistina (1590) **]** **Bayblonis** VulgConte (2009) VulgHetzenauer (1906)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `quatuordecim: / quattuordecim`, `quatuordecim: / quattuordecim`, `quatuordecim. / quattuordecim`, `quatuordecim: / quattuordecim`, `quatuordecim: / quattuordecim`, `quatuordecim. / quattuordecim`, `quatuordecim: / quattuordecim:`, `quatuordecim: / quattuordecim:`, `quatuordecim. / quattuordecim.`, `quatuordecim: / quattuordecim:`, `quatuordecim: / quattuordecim:`, `quatuordecim. / quattuordecim.`, `… and 3 more` (Amiatinus (A), VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Matthew 1:20
-- **Apparatus:** `apparuit` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
+- **Apparatus:** `apparuit` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **om.** Amiatinus (A)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `fili / filii` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Matthew 1:22
-- **Apparatus:** `adimpleretur` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **adimpleretur id** Amiatinus (A)
-- **Apparatus:** `om.` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **id** Amiatinus (A)
+- **Apparatus:** `adimpleretur` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **adimpleretur id** Amiatinus (A)
+- **Apparatus:** `om.` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) VulgSistina (1590) **]** **id** Amiatinus (A)
 
 ### Matthew 1:23
-- **Apparatus:** `vocabunt` Clem-Saints Clem1598-USFX Amiatinus (A) VulgConte (2009) VulgHetzenauer (1906) **]** **vocabitur** VulgSistina (1590)
+- **Apparatus:** `vocabunt` Clem1598-USFX Amiatinus (A) Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **vocabitur** VulgSistina (1590)
 - *Disregarded Surface Variant:* kept `(adopted text)` over `Emmanuel, / emmanuhel`, `Emmanuel, / Emmanuhel`, `interpretatum / interpraetatum` (Amiatinus (A)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Matthew 1:24
@@ -140,7 +132,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Liber generationis iesu christi filii dauid filii abraham
   - `VulgConte (2009)`: Liber generationis Iesu Christi filii David, filii Abraham.
   - `VulgSistina (1590)`: Liber generationis Iesu Christi filii David, filii Abraham.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Abraham genuit Isaac. Isaac autem genuit Jacob. Jacob autem genuit Judam, et fratres ejus.
@@ -150,7 +142,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: abraham genuit isaac isaac autem genuit iacob iacob autem genuit iudam et fratres eius
   - `VulgConte (2009)`: Abraham genuit Isaac. Isaac autem genuit Iacob. Iacob autem genuit Iudam, et fratres eius.
   - `VulgSistina (1590)`: Abraham genuit Isaac. Isaac autem genuit Iacob. Iacob autem genuit Iudam, et fratres eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Judas autem genuit Phares, et Zaram de Thamar. Phares autem genuit Esron. Esron autem genuit Aram.
@@ -160,7 +152,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: iudas autem genuit phares et zarad de thamar phares autem genuit esrom esrom autem genuit aram
   - `VulgConte (2009)`: Iudas autem genuit Phares, et Zaram de Thamar. Phares autem genuit Esron. Esron autem genuit Aram.
   - `VulgSistina (1590)`: Iudas autem genuit Phares, et Zaram de Thamar. Phares autem genuit Esron. Esron autem genuit Aram.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Aram autem genuit Aminadab. Aminadab autem genuit Naasson. Naasson autem genuit Salmon.
@@ -170,7 +162,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: aram autem genuit aminadab aminadab autem genuit naasson naasson autem genuit salmon
   - `VulgConte (2009)`: Aram autem genuit Aminadab. Aminadab autem genuit Naasson. Naasson autem genuit Salmon.
   - `VulgSistina (1590)`: Aram autem genuit Aminadab. Aminadab autem genuit Naasson. Naasson autem genuit Salmon.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Salmon autem genuit Booz de Rahab. Booz autem genuit Obed ex Ruth. Obed autem genuit Jesse. Jesse autem genuit David regem.
@@ -180,7 +172,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: salmon autem genuit booz de racab Booz genuit obeth ex ruth obed autem genuit iesse iesse autem genuit dauid regem
   - `VulgConte (2009)`: Salmon autem genuit Booz de Rahab. Booz autem genuit Obed ex Ruth. Obed autem genuit Iesse.
   - `VulgSistina (1590)`: Salmon autem genuit Booz de Rahab. Booz autem genuit Obed ex Ruth. Obed autem genuit Iesse. Iesse autem genuit David regem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** David autem rex genuit Salomonem ex ea quæ fuit Uriæ.
@@ -190,7 +182,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: dauid autem rex genuit salomonem ex ea quae fuit uriae
   - `VulgConte (2009)`: Iesse autem genuit David regem. David autem rex genuit Salomonem ex ea, quæ fuit Uriæ.
   - `VulgSistina (1590)`: David autem rex genuit Salomonem ex ea, quae fuit Uriae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Salomon autem genuit Roboam. Roboam autem genuit Abiam. Abias autem genuit Asa.
@@ -200,7 +192,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: salomon autem genuit roboam roboam autem genuit abiam abia autem genuit asa
   - `VulgConte (2009)`: Salomon autem genuit Roboam. Roboam autem genuit Abiam. Abias autem genuit Asa.
   - `VulgSistina (1590)`: Salomon autem genuit Roboam. Roboam autem genuit Abiam. Abias autem genuit Asa.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Asa autem genuit Josophat. Josophat autem genuit Joram. Joram autem genuit Oziam.
@@ -210,7 +202,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: asa autem genuit iosaphat iosaphat autem genuit ioram ioram autem genuit oziam
   - `VulgConte (2009)`: Asa autem genuit Iosophat. Iosophat autem genuit Ioram. Ioram autem genuit Oziam.
   - `VulgSistina (1590)`: Asa autem genuit Iosaphat. Iosaphat autem genuit Ioram. Ioram autem genuit Oziam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ozias autem genuit Joatham. Joatham autem genuit Achaz. Achaz autem genuit Ezechiam.
@@ -220,7 +212,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: ozias autem genuit ioatham ioatham autem genuit achaz achaz autem genuit ezechiam
   - `VulgConte (2009)`: Ozias autem genuit Ioatham. Ioatham autem genuit Achaz. Achaz autem genuit Ezechiam.
   - `VulgSistina (1590)`: Ozias autem genuit Ioatham. Ioatham autem genuit Achaz. Achaz autem genuit Ezechiam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ezechias autem genuit Manassen. Manasses autem genuit Amon. Amon autem genuit Josiam.
@@ -230,7 +222,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: ezechias autem genuit manassen manasses autem genuit amon amon autem genuit iosiam
   - `VulgConte (2009)`: Ezechias autem genuit Manassen. Manasses autem genuit Amon. Amon autem genuit Iosiam.
   - `VulgSistina (1590)`: Ezechias autem genuit Manassen. Manasses autem genuit Amon. Amon autem genuit Iosiam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Josias autem genuit Jechoniam, et fratres ejus in transmigratione Babylonis.
@@ -240,7 +232,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: iosias autem genuit iechoniam et fratres eius in transmigrationem babylonis
   - `VulgConte (2009)`: Iosias autem genuit Iechoniam, et fratres eius in transmigratione Babylonis.
   - `VulgSistina (1590)`: Iosias autem genuit Iechoniam, et fratres eius in transmigratione Babylonis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et post transmigrationem Babylonis: Jechonias genuit Salathiel. Salathiel autem genuit Zorobabel.
@@ -250,7 +242,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et post transmigrationem babylonis iechonias genuit salathihel salathihel autem genuit zorobabel
   - `VulgConte (2009)`: Et post transmigrationem Babylonis: Iechonias genuit Salathiel. Salathiel autem genuit Zorobabel.
   - `VulgSistina (1590)`: Et post transmigrationem Babylonis: Iechonias genuit Salathiel. Salathiel autem genuit Zorobabel.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Zorobabel autem genuit Abiud. Abiud autem genuit Eliacim. Eliacim autem genuit Azor.
@@ -260,7 +252,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: zorobabel autem genuit abiud abiud autem genuit eliachim eliachim autem genuit azor
   - `VulgConte (2009)`: Zorobabel autem genuit Abiud. Abiud autem genuit Eliacim. Eliacim autem genuit Azor.
   - `VulgSistina (1590)`: Zorobabel autem genuit Abiud. Abiud autem genuit Eliachim. Eliachim autem genuit Azor.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Azor autem genuit Sadoc. Sadoc autem genuit Achim. Achim autem genuit Eliud.
@@ -270,7 +262,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: azor autem genuit saddoc saddoc autem genuit achim achim autem genuit eliud
   - `VulgConte (2009)`: Azor autem genuit Sadoc. Sadoc autem genuit Achim. Achim autem genuit Eliud.
   - `VulgSistina (1590)`: Azor autem genuit Sadoc. Sadoc autem genuit Achim. Achim autem genuit Eliud.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Eliud autem genuit Eleazar. Eleazar autem genuit Mathan. Mathan autem genuit Jacob.
@@ -280,7 +272,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: eliud autem genuit eleazar eleazar autem genuit matthan mattham autem genuit iacob
   - `VulgConte (2009)`: Eliud autem genuit Eleazar. Eleazar autem genuit Mathan. Mathan autem genuit Iacob.
   - `VulgSistina (1590)`: Eliud autem genuit Eleazar. Eleazar autem genuit Mathan. Mathan autem genuit Iacob.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Jacob autem genuit Joseph virum Mariæ, de qua natus est Jesus, qui vocatur Christus.
@@ -290,7 +282,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: iacob autem genuit ioseph uirum mariae de qua natus est iesus qui uocatur christus
   - `VulgConte (2009)`: Iacob autem genuit Ioseph virum Mariæ, de qua natus est Iesus, qui vocatur Christus.
   - `VulgSistina (1590)`: Iacob autem genuit Ioseph virum Mariae, de qua natus est Iesus, qui vocatur Christus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Omnes itaque generationes ab Abraham usque ad David, generationes quatuordecim: et a David usque ad transmigrationem Babylonis, generationes quatuordecim: et a transmigratione Babylonis usque ad Christum, generationes quatuordecim.
@@ -300,7 +292,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Omnes ergo generationes ab abraham usque ad dauid generationes quattuordecim et a dauid usque […] transmigrationem babylonis generationes quattuordecim et a transmigratione babylonis usque ad christum generationes quattuordecim
   - `VulgConte (2009)`: Omnes itaque generationes ab Abraham usque ad David, generationes quattuordecim: et a David usque ad transmigrationem Babylonis, generationes quattuordecim: et a transmigratione Bayblonis usque ad Christum, generationes quattuordecim.
   - `VulgSistina (1590)`: Omnes itaque generationes ab Abraham usque ad David, generationes quattuordecim: et a David usque ad transmigrationem Babylonis, generationes quattuordecim: et a transmigratione Babylonis usque ad Christum, generationes quattuordecim.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Christi autem generatio sic erat: cum esset desponsata mater ejus Maria Joseph, antequam convenirent inventa est in utero habens de Spiritu Sancto.
@@ -310,7 +302,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Christi autem generatio sic erat cum esset desponsata mater eius maria ioseph antequam conuenirent inuenta est in utero habens de spiritu sancto
   - `VulgConte (2009)`: Christi autem generatio sic erat: Cum esset desponsata mater eius Maria Ioseph, antequam convenirent, inventa est in utero habens de Spiritu Sancto.
   - `VulgSistina (1590)`: Christi autem generatio sic erat: Cum esset desponsata mater eius Maria Ioseph, antequam convenirent, inventa est in utero habens de Spiritu sancto.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Joseph autem vir ejus cum esset justus, et nollet eam traducere, voluit occulte dimittere eam.
@@ -320,7 +312,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Ioseph autem uir eius cum esset iustus et nollet eam traducere uoluit occulte dimittere eam
   - `VulgConte (2009)`: Ioseph autem vir eius cum esset iustus, et nollet eam traducere: voluit occulte dimittere eam.
   - `VulgSistina (1590)`: Ioseph autem vir eius cum esset iustus, et nollet eam traducere: voluit occulte dimittere eam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæc autem eo cogitante, ecce angelus Domini apparuit in somnis ei, dicens: Joseph, fili David, noli timere accipere Mariam conjugem tuam: quod enim in ea natum est, de Spiritu Sancto est.
@@ -330,7 +322,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: haec autem eo cogitante ecce angelus domini in somnis […] ei dicens ioseph filii dauid noli timere accipere mariam coniugem tuam quod enim in ea natum est de spiritu sancto est
   - `VulgConte (2009)`: Hæc autem eo cogitante, ecce Angelus Domini apparuit in somnis ei, dicens: Ioseph fili David, noli timere accipere Mariam coniugem tuam: quod enim in ea natum est, de Spiritu Sancto est.
   - `VulgSistina (1590)`: Haec autem eo cogitante, ecce Angelus Domini apparuit in somnis ei, dicens: Ioseph fili David, noli timere accipere Mariam coniugem tuam: quod enim in ea natum est, de Spiritu sancto est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Pariet autem filium: et vocabis nomen ejus Jesum: ipse enim salvum faciet populum suum a peccatis eorum.
@@ -340,7 +332,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: pariet autem filium et uocabis nomen eius iesum ipse enim saluum faciet populum suum a peccatis eorum
   - `VulgConte (2009)`: Pariet autem filium: et vocabis nomen eius IESUM: ipse enim salvum faciet populum suum a peccatis eorum.
   - `VulgSistina (1590)`: pariet autem filium: et vocabis nomen eius IESUM: ipse enim salvum faciet populum suum a peccatis eorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hoc autem totum factum est, ut adimpleretur quod dictum est a Domino per prophetam dicentem:
@@ -350,7 +342,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: hoc autem totum factum est ut adimpleretur id quod dictum est a domino per prophetam dicentem
   - `VulgConte (2009)`: Hoc autem totum factum est, ut adimpleretur quod dictum est a Domino per prophetam dicentem:
   - `VulgSistina (1590)`: Hoc autem totum factum est, ut adimpleretur quod dictum est a Domino per Prophetam dicentem:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ecce virgo in utero habebit, et pariet filium: et vocabunt nomen ejus Emmanuel, quod est interpretatum Nobiscum Deus.
@@ -360,7 +352,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Ecce uirgo in utero habebit et pariet filium et uocabunt nomen eius emmanuhel quod est interpretatum nobiscum deus
   - `VulgConte (2009)`: Ecce virgo in utero habebit, et pariet filium. Et vocabunt nomen eius Emmanuel, quod est interpretatum Nobiscum Deus.
   - `VulgSistina (1590)`: Ecce virgo in utero habebit, et pariet filium: et vocabitur nomen eius Emmanuel, quod est interpretatum Nobiscum Deus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Exsurgens autem Joseph a somno, fecit sicut præcepit ei angelus Domini, et accepit conjugem suam.
@@ -370,7 +362,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: Exsurgens autem ioseph a somno fecit sicut praecepit ei angelus domini et accepit coniugem suam
   - `VulgConte (2009)`: Exurgens autem Ioseph a somno, fecit sicut præcepit ei Angelus Domini, et accepit coniugem suam.
   - `VulgSistina (1590)`: Exurgens autem Ioseph a somno, fecit sicut praecepit ei angelus Domini, et accepit coniugem suam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et non cognoscebat eam donec peperit filium suum primogenitum: et vocavit nomen ejus Jesum.
@@ -380,4 +372,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `Amiatinus (A)`: et non cognoscebat eam donec peperit filium suum primogenitum et uocauit nomen eius iesum
   - `VulgConte (2009)`: Et non cognoscebat eam donec peperit filium suum primogenitum: et vocavit nomen eius Iesum.
   - `VulgSistina (1590)`: Et non cognoscebat eam donec peperit filium suum primogenitum: et vocavit nomen eius Iesum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

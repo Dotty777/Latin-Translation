@@ -1,8 +1,8 @@
 # Wisdom of Solomon 02 — Saints Latin Critical Text
 
-**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:51Z`
+**Division:** `03_Wisdom` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:08Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,23 +28,11 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
-- Clem1598-USFX: 2:25 folded into verse 24 (the reference prints these words there)
-- VulgHetzenauer (1906): 2:25 folded into verse 24 (the reference prints these words there)
+- Clem-Saints: verse 2:24 runs into its neighbour across the anchor's division between 2:24 and 2:25; re-divided there
 - VulgConte (2009): verse 3:12 runs into its neighbour across the anchor's division between 3:12 and 3:13; re-divided there
-- VulgConte (2009): 2:25 folded into verse 24 (the reference prints these words there)
-- VulgSistina (1590): 2:25 folded into verse 24 (the reference prints these words there)
 
 ---
 
@@ -73,7 +61,8 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 **21** Hæc cogitaverunt, et erraverunt: excæcavit enim illos malitia eorum.
 **22** Et nescierunt sacramenta Dei: neque mercedem speraverunt justitiæ, nec judicaverunt honorem animarum sanctarum.
 **23** Quoniam Deus creavit hominem inexterminabilem, et ad imaginem similitudinis suæ fecit illum.
-**24** Invidia autem diaboli mors introivit in orbem terrarum: imitantur autem illum qui sunt ex parte illius.
+**24** Invidia autem diaboli mors introivit in orbem terrarum:
+**25** imitantur autem illum qui sunt ex parte illius.
 
 ---
 
@@ -83,10 +72,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `exsors / exors`, `exsors / exors`, `exsors / exors` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### Wisdom of Solomon 2:10
-- **Apparatus:** `veterani` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **veterano, nec** VulgSistina (1590)
+- **Apparatus:** `veterani` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **veterano, nec** VulgSistina (1590)
 
 ### Wisdom of Solomon 2:11
-- **Apparatus:** `justitiæ;` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **iniustitiae** VulgSistina (1590)
+- **Apparatus:** `justitiæ;` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **iniustitiae** VulgSistina (1590)
 
 ---
 
@@ -99,7 +88,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixerunt enim cogitantes apud se non recte: Exiguum, et cum tædio est tempus vitæ nostræ, et non est refrigerium in fine hominis, et non est qui agnitus sit reversus ab inferis:
   - `VulgConte (2009)`: Dixerunt enim cogitantes apud se non recte: Exiguum, et cum tædio est tempus vitæ nostræ, et non est refrigerium in fine hominis, et non est qui agnitus sit reversus ab inferis:
   - `VulgSistina (1590)`: Dixerunt enim cogitantes apud se non recte: Exiguum, et cum taedio est tempus vitae nostrae, et non est refrigerium in fine hominis, et non est qui agnitus sit reversus ab inferis:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quia ex nihilo nati sumus, et post hoc erimus tamquam non fuerimus. Quoniam fumus flatus est in naribus nostris, et sermo scintilla ad commovendum cor nostrum:
@@ -108,7 +97,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: quia ex nihilo nati sumus, et post hoc erimus tamquam non fuerimus: quoniam fumus flatus est in naribus nostris: et sermo scintilla ad commovendum cor nostrum:
   - `VulgConte (2009)`: quia ex nihilo nati sumus, et post hoc erimus tamquam non fuerimus: quoniam fumus flatus est in naribus nostris: et sermo scintilla ad commovendum cor nostrum:
   - `VulgSistina (1590)`: quia ex nihilo nati sumus, et post hoc erimus tamquam non fuerimus: quoniam fumus flatus est in naribus nostris: et sermo scintilla ad commovendum cor nostrum:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** qua extincta, cinis erit corpus nostrum, et spiritus diffundetur tamquam mollis aër; et transibit vita nostra tamquam vestigium nubis, et sicut nebula dissolvetur quæ fugata est a radiis solis, et a calore illius aggravata.
@@ -117,7 +106,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: qua extincta, cinis erit corpus nostrum, et spiritus diffundetur tamquam mollis aer, et transibit vita nostra tamquam vestigium nubis, et sicut nebula dissolvetur quæ fugata est a radiis solis, et a calore illius aggravata:
   - `VulgConte (2009)`: qua extincta, cinis erit corpus nostrum, et spiritus diffundetur tamquam mollis aer, et transibit vita nostra tamquam vestigium nubis, et sicut nebula dissolvetur quæ fugata est a radiis solis, et a calore illius aggravata:
   - `VulgSistina (1590)`: qua extincta, cinis erit corpus nostrum, et spiritus diffundetur tamquam mollis aer, et transibit vita nostra tamquam vestigium nubis, et sicut nebula dissolvetur quae fugata est a radiis solis, et a calore illius aggravata:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et nomen nostrum oblivionem accipiet per tempus, et nemo memoriam habebit operum nostrorum.
@@ -126,7 +115,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et nomen nostrum oblivionem accipiet per tempus, et nemo memoriam habebit operum nostrorum.
   - `VulgConte (2009)`: et nomen nostrum oblivionem accipiet per tempus, et nemo memoriam habebit operum nostrorum.
   - `VulgSistina (1590)`: et nomen nostrum oblivionem accipiet per tempus, et nemo memoriam habebit operum nostrorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Umbræ enim transitus est tempus nostrum, et non est reversio finis nostri: quoniam consignata est, et nemo revertitur.
@@ -135,7 +124,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Umbræ enim transitus est tempus nostrum, et non est reversio finis nostri: quoniam consignata est, et nemo revertitur.
   - `VulgConte (2009)`: Umbræ enim transitus est tempus nostrum, et non est reversio finis nostri: quoniam consignata est, et nemo revertitur.
   - `VulgSistina (1590)`: Umbrae enim transitus est tempus nostrum, et non est reversio finis nostri: quoniam consignata est, et nemo revertitur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Venite ergo, et fruamur bonis quæ sunt, et utamur creatura tamquam in juventute celeriter.
@@ -144,7 +133,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Venite ergo, et fruamur bonis quæ sunt, et utamur creatura tamquam in iuventute celeriter.
   - `VulgConte (2009)`: Venite ergo, et fruamur bonis quæ sunt, et utamur creatura tamquam in iuventute celeriter.
   - `VulgSistina (1590)`: Venite ergo, et fruamur bonis quae sunt, et utamur creatura tamquam in iuventute celeriter.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Vino pretioso et unguentis nos impleamus, et non prætereat nos flos temporis.
@@ -153,7 +142,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Vino pretioso et unguentis nos impleamus: et non prætereat nos flos temporis.
   - `VulgConte (2009)`: Vino pretioso et unguentis nos impleamus: et non prætereat nos flos temporis.
   - `VulgSistina (1590)`: Vino pretioso et unguentis nos impleamus: et non praetereat nos flos temporis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Coronemus nos rosis antequam marcescant; nullum pratum sit quod non pertranseat luxuria nostra:
@@ -162,7 +151,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Coronemus nos rosis antequam marcescant: nullum pratum sit, quod non pertranseat luxuria nostra.
   - `VulgConte (2009)`: Coronemus nos rosis antequam marcescant: nullum pratum sit, quod non pertranseat luxuria nostra.
   - `VulgSistina (1590)`: Coronemus nos rosis antequam marcescant: nullum pratum sit, quod non pertranseat luxuria nostra.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** nemo nostrum exsors sit luxuriæ nostræ. Ubique relinquamus signa lætitiæ, quoniam hæc est pars nostra, et hæc est sors.
@@ -171,7 +160,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nemo nostrum exors sit luxuriæ nostræ: ubique relinquamus signa lætitiæ: quoniam hæc est pars nostra, et hæc est sors.
   - `VulgConte (2009)`: Nemo nostrum exors sit luxuriæ nostræ: ubique relinquamus signa lætitiæ: quoniam hæc est pars nostra, et hæc est sors.
   - `VulgSistina (1590)`: Nemo nostrum exors sit luxuriae nostrae: ubique relinquamus signa laetitiae: quoniam haec est pars nostra, et haec est sors.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Opprimamus pauperem justum, et non parcamus viduæ, nec veterani revereamur canos multi temporis:
@@ -180,7 +169,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Opprimamus pauperem iustum, et non parcamus viduæ, nec veterani revereamur canos multi temporis.
   - `VulgConte (2009)`: Opprimamus pauperem iustum, et non parcamus viduæ, nec veterani revereamur canos multi temporis.
   - `VulgSistina (1590)`: Opprimamus pauperem iustum, et non parcamus viduae, nec veterano, nec revereamur canos multi temporis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** sit autem fortitudo nostra lex justitiæ; quod enim infirmum est, inutile invenitur.
@@ -189,7 +178,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Sit autem fortitudo nostra lex iustitiæ: quod enim infirmum est, inutile invenitur.
   - `VulgConte (2009)`: Sit autem fortitudo nostra lex iustitiæ: quod enim infirmum est, inutile invenitur.
   - `VulgSistina (1590)`: Sit autem fortitudo nostra lex iniustitiae: quod enim infirmum est, inutile invenitur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Circumveniamus ergo justum, quoniam inutilis est nobis, et contrarius est operibus nostris, et improperat nobis peccata legis, et diffamat in nos peccata disciplinæ nostræ.
@@ -198,7 +187,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Circumveniamus ergo iustum, quoniam inutilis est nobis, et contrarius est operibus nostris, et improperat nobis peccata legis, et diffamat in nos peccata disciplinæ nostræ.
   - `VulgConte (2009)`: Circumveniamus ergo iustum, quoniam inutilis est nobis, et contrarius est operibus nostris, et improperat nobis peccata legis, et diffamat in nos peccata disciplinæ nostræ.
   - `VulgSistina (1590)`: Circumveniamus ergo iustum, quoniam inutilis est nobis, et contrarius est operibus nostris, et improperat nobis peccata legis, et diffamat in nos peccata disciplinae nostrae.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Promittit se scientiam Dei habere, et filium Dei se nominat.
@@ -207,7 +196,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Promittit se scientiam Dei habere, et filium Dei se nominat.
   - `VulgConte (2009)`: Promittit se scientiam Dei habere, et filium Dei se nominat.
   - `VulgSistina (1590)`: Promittit se scientiam Dei habere, et filium Dei se nominat.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Factus est nobis in traductionem cogitationum nostrarum.
@@ -216,7 +205,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Factus est nobis in traductionem cogitationum nostrarum.
   - `VulgConte (2009)`: Factus est nobis in traductionem cogitationum nostrarum.
   - `VulgSistina (1590)`: Factus est nobis in traductionem cogitationum nostrarum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Gravis est nobis etiam ad videndum, quoniam dissimilis est aliis vita illius, et immutatæ sunt viæ ejus.
@@ -225,7 +214,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Gravis est nobis etiam ad videndum, quoniam dissimilis est aliis vita illius, et immutatæ sunt viæ eius.
   - `VulgConte (2009)`: Gravis est nobis etiam ad videndum, quoniam dissimilis est aliis vita illius, et immutatæ sunt viæ eius.
   - `VulgSistina (1590)`: Gravis est nobis etiam ad videndum, quoniam dissimilis est aliis vita illius, et immutatae sunt viae eius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tamquam nugaces æstimati sumus ab illo, et abstinet se a viis nostris tamquam ab immunditiis, et præfert novissima justorum, et gloriatur patrem se habere Deum.
@@ -234,7 +223,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tamquam nugaces æstimati sumus ab illo, et abstinet se a viis nostris tamquam ab immunditiis, et præfert novissima iustorum, et gloriatur patrem se habere Deum.
   - `VulgConte (2009)`: Tamquam nugaces æstimati sumus ab illo, et abstinet se a viis nostris tamquam ab immunditiis, et præfert novissima iustorum, et gloriatur patrem se habere Deum.
   - `VulgSistina (1590)`: Tamquam nugaces aestimati sumus ab illo, et abstinet se a viis nostris tamquam ab immunditiis, et praefert novissima iustorum, et gloriatur patrem se habere Deum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Videamus ergo si sermones illius veri sint, et tentemus quæ ventura sunt illi, et sciemus quæ erunt novissima illius.
@@ -243,7 +232,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Videamus ergo si sermones illius veri sint, et tentemus quæ ventura sunt illi, et sciemus quæ erunt novissima illius.
   - `VulgConte (2009)`: Videamus ergo si sermones illius veri sint, et tentemus quæ ventura sunt illi, et sciemus quæ erunt novissima illius.
   - `VulgSistina (1590)`: Videamus ergo si sermones illius veri sint, et tentemus quae ventura sunt illi, et sciemus quae erunt novissima illius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Si enim est verus filius Dei, suscipiet illum, et liberabit eum de manibus contrariorum.
@@ -252,7 +241,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Si enim est verus filius Dei, suscipiet illum, et liberabit eum de manibus contrariorum.
   - `VulgConte (2009)`: Si enim est verus filius Dei, suscipiet illum, et liberabit eum de manibus contrariorum.
   - `VulgSistina (1590)`: Si enim est verus filius Dei, suscipiet illum, et liberabit eum de manibus contrariorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Contumelia et tormento interrogemus eum, ut sciamus reverentiam ejus, et probemus patientiam illius.
@@ -261,7 +250,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Contumelia et tormento interrogemus eum, ut sciamus reverentiam eius, et probemus patientiam illius.
   - `VulgConte (2009)`: Contumelia et tormento interrogemus eum, ut sciamus reverentiam eius, et probemus patientiam illius.
   - `VulgSistina (1590)`: Contumelia et tormento interrogemus eum, ut sciamus reverentiam eius, et probemus patientiam illius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Morte turpissima condemnemus eum; erit enim ei respectus ex sermonibus illius.
@@ -270,7 +259,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Morte turpissima condemnemus eum: erit enim ei respectus ex sermonibus illius.
   - `VulgConte (2009)`: Morte turpissima condemnemus eum: erit enim ei respectus ex sermonibus illius.
   - `VulgSistina (1590)`: Morte turpissima condemnemus eum: erit enim ei respectus ex sermonibus illius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Hæc cogitaverunt, et erraverunt: excæcavit enim illos malitia eorum.
@@ -279,7 +268,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Hæc cogitaverunt, et erraverunt: excæcavit enim illos malitia eorum.
   - `VulgConte (2009)`: Hæc cogitaverunt, et erraverunt: excæcavit enim illos malitia eorum.
   - `VulgSistina (1590)`: Haec cogitaverunt, et erraverunt: excaecavit enim illos malitia eorum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et nescierunt sacramenta Dei: neque mercedem speraverunt justitiæ, nec judicaverunt honorem animarum sanctarum.
@@ -288,7 +277,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et nescierunt sacramenta Dei, neque mercedem speraverunt iustitiæ, nec iudicaverunt honorem animarum sanctarum.
   - `VulgConte (2009)`: Et nescierunt sacramenta Dei, neque mercedem speraverunt iustitiæ, nec iudicaverunt honorem animarum sanctarum.
   - `VulgSistina (1590)`: Et nescierunt sacramenta Dei, neque mercedem speraverunt iustitiae, nec iudicaverunt honorem animarum sanctarum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quoniam Deus creavit hominem inexterminabilem, et ad imaginem similitudinis suæ fecit illum.
@@ -297,13 +286,22 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quoniam Deus creavit hominem inexterminabilem, et ad imaginem similitudinis suæ fecit illum.
   - `VulgConte (2009)`: Quoniam Deus creavit hominem inexterminabilem, et ad imaginem similitudinis suæ fecit illum.
   - `VulgSistina (1590)`: Quoniam Deus creavit hominem inexterminabilem, et ad imaginem similitudinis suae fecit illum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
-- **Critical Text:** Invidia autem diaboli mors introivit in orbem terrarum: imitantur autem illum qui sunt ex parte illius.
-  - `Clem1598-USFX`: Invidia autem diaboli mors introivit in orbem terrarum: imitantur autem illum qui sunt ex parte illius.
-  - `Clem-Saints`: Invidia autem diaboli mors introivit in orbem terrarum: imitantur autem illum qui sunt ex parte illius.
-  - `VulgHetzenauer (1906)`: Invidia autem diaboli mors introivit in orbem terrarum: imitantur autem illum qui sunt ex parte illius.
-  - `VulgConte (2009)`: Invidia autem diaboli mors introivit in orbem terrarum: imitantur autem illum qui sunt ex parte illius.
-  - `VulgSistina (1590)`: Invidia autem diaboli mors introivit in orbem terrarum: imitantur autem illum qui sunt ex parte illius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Critical Text:** Invidia autem diaboli mors introivit in orbem terrarum:
+  - `Clem1598-USFX`: Invidia autem diaboli mors introivit in orbem terrarum:
+  - `Clem-Saints`: Invidia autem diaboli mors introivit in orbem terrarum:
+  - `VulgHetzenauer (1906)`: Invidia autem diaboli mors introivit in orbem terrarum:
+  - `VulgConte (2009)`: Invidia autem diaboli mors introivit in orbem terrarum:
+  - `VulgSistina (1590)`: Invidia autem diaboli mors introivit in orbem terrarum:
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
+
+### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
+- **Critical Text:** imitantur autem illum qui sunt ex parte illius.
+  - `Clem1598-USFX`: imitantur autem illum qui sunt ex parte illius.
+  - `Clem-Saints`: imitantur autem illum qui sunt ex parte illius.
+  - `VulgHetzenauer (1906)`: imitantur autem illum qui sunt ex parte illius.
+  - `VulgConte (2009)`: imitantur autem illum qui sunt ex parte illius.
+  - `VulgSistina (1590)`: imitantur autem illum qui sunt ex parte illius.
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).

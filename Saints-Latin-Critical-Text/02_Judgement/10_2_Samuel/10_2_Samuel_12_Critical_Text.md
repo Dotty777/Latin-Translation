@@ -1,8 +1,8 @@
 # 2 Samuel (2 Kingdoms) 12 — Saints Latin Critical Text
 
-**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-22T08:01:27Z`
+**Division:** `02_Judgement` · **Language:** `Latin` · **Engine:** `Textual Analysis Brain (Claude-designed · internal evidence · offline)` · **Updated:** `2026-11-25T00:08:07Z`
 
-**Versification:** Saints.Bible numbering (the Latin column's Greek/Hebrew numbering). Where the Clementine Vulgate numbers a verse differently it is re-aligned by content. Numbering anchor for this chapter: `Clem-Saints`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
+**Versification:** Native Sixto-Clementine Vulgate numbering (Esther 1–16, Daniel 1–14, Joel 1–3, Malachi 1–4, Psalms 1–150). Parallel alignment to Saints.Bible numbering is handled in studio/lexica/versification.py. Numbering anchor for this chapter: `Clem1598-USFX`. Spelling and punctuation follow `Clem1598-USFX` where it attests the adopted reading.
 
 **Sigla in the text:** `⟦ ⟧` = verse absent from (or bracketed by) witnesses that outweigh those containing it — printed for reference, probably not original. `(…)` before a Hebrew word = ketiv, followed by the qere.
 
@@ -14,13 +14,13 @@
 | Siglum | Witness Title | Tier | Weight | License | Text-Type |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Clem1598-USFX** | Sixto-Clementine Vulgate (1598 Official Edition, USFX) | Tier 1 | `0.88` | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
-| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | `0.86` | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 
 ### Apparatus Witnesses (Additional Editions & Direct Manuscripts — recorded, not voting)
 Collated against the adopted text and listed in the apparatus wherever they differ in substance; they do not vote on the text.
 
 | Siglum | Witness Title | Tier | License | Text-Type |
 | :--- | :--- | :---: | :--- | :--- |
+| **Clem-Saints** | Saints.Bible Latin column (Clementine Vulgate, Saints.Bible numbering) | Tier 1 | Public Domain | Sixto-Clementine (VulSearch Normalized) |
 | **VulgHetzenauer (1906)** | Vulgata Clementina — Michael Hetzenauer Critical Edition (Innsbruck 1906) | Tier 1 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgConte (2009)** | Vulgata Clementina — Conte SacredBible Edition (2009) | Tier 3 | Public Domain | Sixto-Clementine Ecclesiastical Majority Vulgate |
 | **VulgSistina (1590)** | Vulgata Sistina (Pope Sixtus V Official Edition, Rome 1590) | Tier 3 | Public Domain | Sixtine / Louvain-Tridentine Latin Vulgate Tradition |
@@ -28,16 +28,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 ### Disregarded / Quarantined Sources (Excluded by AI Gatekeeper)
 | Source | Status | Reason Excluded from Open Critical Text |
 | :--- | :---: | :--- |
-| VL 10 (f) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 14 (r¹) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 15 (aur) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 2 (e) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 3 (a) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 4 (b) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 5 (d) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA 3.0 (Cambridge UL / ITSEE — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 6 (c) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| VL 8 (ff²) | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (CC BY-NC-SA (ITSEE Birmingham eData/61 — Owner-Authorized Apparatus)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
-| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; strictly excluded from public CC BY-SA 4.0 edition. |
+| Stuttgart-BSV | `EXCLUDED_TIER5_OPEN_EXPORT` | Tier 5 (Copyrighted Edition (Tier 5 — Owner-Authorized Apparatus Witness)) — held in local Studio only; excluded from public open-licence exports. |
 
 ### Versification & Alignment Notes
 - VulgHetzenauer (1906): verse 13:38 runs into its neighbour across the anchor's division between 13:38 and 13:39; re-divided there
@@ -87,10 +78,10 @@ Collated against the adopted text and listed in the apparatus wherever they diff
 - *Disregarded Surface Variant:* kept `(adopted text)` over `affliget? / adfliget`, `nuntiare / nunciare`, `nuntiare / nunciare`, `nuntiare / nunciare` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
 
 ### 2 Samuel (2 Kingdoms) 12:19
-- **Apparatus:** `vidisset` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **audisset** VulgSistina (1590)
+- **Apparatus:** `vidisset` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **audisset** VulgSistina (1590)
 
 ### 2 Samuel (2 Kingdoms) 12:23
-- **Apparatus:** `jejunem?` Clem-Saints Clem1598-USFX VulgConte (2009) VulgHetzenauer (1906) **]** **ieiuno** VulgSistina (1590)
+- **Apparatus:** `jejunem?` Clem1598-USFX Clem-Saints VulgConte (2009) VulgHetzenauer (1906) **]** **ieiuno** VulgSistina (1590)
 
 ### 2 Samuel (2 Kingdoms) 12:27
 - *Disregarded Surface Variant:* kept `(adopted text)` over `nuntios / nuncios`, `nuntios / nuncios`, `nuntios / nuncios` (VulgConte (2009), VulgHetzenauer (1906), VulgSistina (1590)) — *Apparatus witness, not a variant: Latin spelling variation (assimilation, aspiration, ae/e, -ci-/-ti- type)*
@@ -106,7 +97,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Misit ergo Dominus Nathan ad David: qui cum venisset ad eum, dixit ei: Duo viri erant in civitate una, unus dives, et alter pauper.
   - `VulgConte (2009)`: Misit ergo Dominus Nathan ad David: qui cum venisset ad eum, dixit ei: Duo viri erant in civitate una, unus dives, et alter pauper.
   - `VulgSistina (1590)`: Misit ergo Dominus Nathan ad David: qui cum venisset ad eum, dixit ei: Duo viri erant in civitate una, unus dives, et alter pauper.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 2 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dives habebat oves et boves plurimos valde.
@@ -115,7 +106,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dives habebat oves, et boves plurimos valde.
   - `VulgConte (2009)`: Dives habebat oves, et boves plurimos valde.
   - `VulgSistina (1590)`: Dives habebat oves, et boves plurimos valde.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 3 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Pauper autem nihil habebat omnino, præter ovem unam parvulam quam emerat et nutrierat, et quæ creverat apud eum cum filiis ejus simul, de pane illius comedens, et de calice ejus bibens, et in sinu illius dormiens: eratque illi sicut filia.
@@ -124,7 +115,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Pauper autem nihil habebat omnino, præter ovem unam parvulam, quam emerat et nutrierat, et quæ creverat apud eum cum filiis eius simul, de pane illius comedens, et de calice eius bibens, et in sinu illius dormiens: eratque illi sicut filia.
   - `VulgConte (2009)`: Pauper autem nihil habebat omnino, præter ovem unam parvulam, quam emerat et nutrierat, et quæ creverat apud eum cum filiis eius simul, de pane illius comedens, et de calice eius bibens, et in sinu illius dormiens: eratque illi sicut filia.
   - `VulgSistina (1590)`: Pauper autem nihil habebat omnino, praeter ovem unam parvulam, quam emerat et nutrierat, et quae creverat apud eum cum filiis eius simul, de pane illius comedens, et de calice eius bibens, et in sinu illius dormiens: eratque illi sicut filia.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 4 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cum autem peregrinus quidam venisset ad divitem, parcens ille sumere de ovibus et de bobus suis, ut exhiberet convivium peregrino illi qui venerat ad se, tulit ovem viri pauperis, et præparavit cibos homini qui venerat ad se.
@@ -133,7 +124,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cum autem peregrinus quidam venisset ad divitem, parcens ille sumere de ovibus et de bobus suis, ut exhiberet convivium peregrino illi, qui venerat ad se, tulit ovem viri pauperis, et præparavit cibos homini qui venerat ad se.
   - `VulgConte (2009)`: Cum autem peregrinus quidam venisset ad divitem, parcens ille sumere de ovibus et de bobus suis, ut exhiberet convivium peregrino illi, qui venerat ad se, tulit ovem viri pauperis, et præparavit cibos homini qui venerat ad se.
   - `VulgSistina (1590)`: Cum autem peregrinus quidam venisset ad divitem, parcens ille sumere de ovibus et de bobus suis, ut exhiberet convivium peregrino illi, qui venerat ad se, tulit ovem viri pauperis, et praeparavit cibos homini qui venerat ad se.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 5 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Iratus autem indignatione David adversus hominem illum nimis, dixit ad Nathan: Vivit Dominus, quoniam filius mortis est vir qui fecit hoc.
@@ -142,7 +133,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Iratus autem indignatione David adversus hominem illum nimis, dixit ad Nathan: Vivit Dominus, quoniam filius mortis est vir qui fecit hoc.
   - `VulgConte (2009)`: Iratus autem indignatione David adversus hominem illum nimis, dixit ad Nathan: Vivit Dominus, quoniam filius mortis est vir qui fecit hoc.
   - `VulgSistina (1590)`: Iratus autem indignatione David adversus hominem illum nimis, dixit ad Nathan: Vivit Dominus, quoniam filius mortis est vir qui fecit hoc.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 6 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Ovem reddet in quadruplum, eo quod fecerit verbum istud, et non pepercerit.
@@ -151,7 +142,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Ovem reddet in quadruplum, eo quod fecerit verbum istud, et non pepercerit.
   - `VulgConte (2009)`: Ovem reddet in quadruplum, eo quod fecerit verbum istud, et non pepercerit.
   - `VulgSistina (1590)`: Ovem reddet in quadruplum, eo quod fecerit verbum istud, et non pepercerit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 7 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixit autem Nathan ad David: Tu es ille vir. Hæc dicit Dominus Deus Israël: Ego unxi te in regem super Israël, et ego erui te de manu Saul,
@@ -160,7 +151,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixit autem Nathan ad David: Tu es ille vir. Hæc dicit Dominus Deus Israel: Ego unxi te in regem super Israel, et ego erui te de manu Saul,
   - `VulgConte (2009)`: Dixit autem Nathan ad David: Tu es ille vir. Hæc dicit Dominus Deus Israel: Ego unxi te in regem super Israel, et ego erui te de manu Saul,
   - `VulgSistina (1590)`: Dixit autem Nathan ad David: Tu es ille vir. Haec dicit Dominus Deus Israel: Ego unxi te in regem super Israel, et ego erui te de manu Saul,
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 8 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** et dedi tibi domum domini tui, et uxores domini tui in sinu tuo, dedique tibi domum Israël et Juda: et si parva sunt ista, adjiciam tibi multo majora.
@@ -169,7 +160,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: et dedi tibi domum domini tui, et uxores domini tui in sinu tuo, dedique tibi domum Israel et Iuda: et si parva sunt ista, adiiciam tibi multo maiora.
   - `VulgConte (2009)`: et dedi tibi domum domini tui, et uxores domini tui in sinu tuo, dedique tibi domum Israel et Iuda: et si parva sunt ista, adiiciam tibi multo maiora.
   - `VulgSistina (1590)`: et dedi tibi domum domini tui, et uxores domini tui in sinu tuo, dedique tibi domum Israel et Iuda: et si parva sunt ista, adiiciam tibi multo maiora.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 9 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quare ergo contempsisti verbum Domini, ut faceres malum in conspectu meo? Uriam Hethæum percussisti gladio, et uxorem illius accepisti in uxorem tibi, et interfecisti eum gladio filiorum Ammon.
@@ -178,7 +169,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quare ergo contempsisti verbum Domini ut faceres malum in conspectu meo? Uriam Hethæum percussisti gladio, et uxorem illius accepisti in uxorem tibi, et interfecisti eum gladio filiorum Ammon.
   - `VulgConte (2009)`: Quare ergo contempsisti verbum Domini, ut faceres malum in conspectu meo? Uriam Hethæum percussisti gladio, et uxorem illius accepisti in uxorem tibi, et interfecisti eum gladio filiorum Ammon.
   - `VulgSistina (1590)`: Quare ergo contempsisti verbum Domini ut faceres malum in conspectu meo? Uriam Hethaeum percussisti gladio, et uxorem illius accepisti in uxorem tibi, et interfecisti eum gladio filiorum Ammon.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 10 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Quam ob rem non recedet gladius de domo tua usque in sempiternum, eo quod despexeris me, et tuleris uxorem Uriæ Hethæi ut esset uxor tua.
@@ -187,7 +178,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Quam ob rem non recedet gladius de domo tua usque in sempiternum, eo quod despexeris me, et tuleris uxorem Uriæ Hethæi, ut esset uxor tua.
   - `VulgConte (2009)`: Quam ob rem non recedet gladius de domo tua usque in sempiternum, eo quod despexeris me, et tuleris uxorem Uriæ Hethæi, ut esset uxor tua.
   - `VulgSistina (1590)`: Quam ob rem non recedet gladius de domo tua usque in sempiternum, eo quod despexeris me, et tuleris uxorem Uriae Hethaei, ut esset uxor tua.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 11 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Itaque hæc dicit Dominus: Ecce ego suscitabo super te malum de domo tua, et tollam uxores tuas in oculis tuis, et dabo proximo tuo: et dormiet cum uxoribus tuis in oculis solis hujus.
@@ -196,7 +187,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Itaque hæc dicit Dominus: Ecce, ego suscitabo super te malum de domo tua, et tollam uxores tuas in oculis tuis, et dabo proximo tuo, et dormiet cum uxoribus tuis in oculis Solis huius.
   - `VulgConte (2009)`: Itaque hæc dicit Dominus: Ecce, ego suscitabo super te malum de domo tua, et tollam uxores tuas in oculis tuis, et dabo proximo tuo, et dormiet cum uxoribus tuis in oculis Solis huius.
   - `VulgSistina (1590)`: Itaque haec dicit Dominus: Ecce, ego suscitabo super te malum de domo tua, et tollam uxores tuas in oculis tuis, et dabo proximo tuo, et dormiet cum uxoribus tuis in oculis Solis huius.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 12 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Tu enim fecisti abscondite: ego autem faciam verbum istud in conspectu omnis Israël, et in conspectu solis.
@@ -205,7 +196,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Tu enim fecisti abscondite: ego autem faciam verbum istud in conspectu omnis Israel, et in conspectu Solis.
   - `VulgConte (2009)`: Tu enim fecisti abscondite: ego autem faciam verbum istud in conspectu omnis Israel, et in conspectu Solis.
   - `VulgSistina (1590)`: Tu enim fecisti abscondite: ego autem faciam verbum istud in conspectu omnis Israel, et in conspectu Solis.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 13 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et dixit David ad Nathan: Peccavi Domino. Dixitque Nathan ad David: Dominus quoque transtulit peccatum tuum: non morieris.
@@ -214,7 +205,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et dixit David ad Nathan: Peccavi Domino. Dixitque Nathan ad David: Dominus quoque transtulit peccatum tuum: non morieris.
   - `VulgConte (2009)`: Et dixit David ad Nathan: Peccavi Domino. Dixitque Nathan ad David: Dominus quoque transtulit peccatum tuum: non morieris.
   - `VulgSistina (1590)`: Et dixit David ad Nathan: Peccavi Domino. Dixitque Nathan ad David: Dominus quoque transtulit peccatum tuum: non morieris.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 14 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Verumtamen quoniam blasphemare fecisti inimicos Domini, propter verbum hoc, filius qui natus est tibi, morte morietur.
@@ -223,7 +214,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Verumtamen, quoniam blasphemare fecisti inimicos Domini, propter verbum hoc, filius, qui natus est tibi, morte morietur.
   - `VulgConte (2009)`: Verumtamen, quoniam blasphemare fecisti inimicos Domini, propter verbum hoc, filius, qui natus est tibi, morte morietur.
   - `VulgSistina (1590)`: Verumtamen, quoniam blasphemare fecisti inimicos Domini, propter verbum hoc, filius, qui natus est tibi, morte morietur.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 15 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et reversus est Nathan in domum suam. Percussit quoque Dominus parvulum quem pepererat uxor Uriæ David, et desperatus est.
@@ -232,7 +223,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et reversus est Nathan in domum suam. Percussit quoque Dominus parvulum, quem pepererat uxor Uriæ David, et desperatus est.
   - `VulgConte (2009)`: Et reversus est Nathan in domum suam. Percussit quoque Dominus parvulum, quem pepererat uxor Uriæ David, et desperatus est.
   - `VulgSistina (1590)`: Et reversus est Nathan in domum suam. Percussit quoque Dominus parvulum, quem pepererat uxor Uriae David, et desperatus est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 16 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Deprecatusque est David Dominum pro parvulo: et jejunavit David jejunio, et ingressus seorsum, jacuit super terram.
@@ -241,7 +232,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Deprecatusque est David Dominum pro parvulo: et ieiunavit David ieiunio, et ingressus seorsum, iacuit super terram.
   - `VulgConte (2009)`: Deprecatusque est David Dominum pro parvulo: et ieiunavit David ieiunio, et ingressus seorsum, iacuit super terram.
   - `VulgSistina (1590)`: Deprecatusque est David Dominum pro parvulo: et ieiunavit David ieiunio, et ingressus seorsum, iacuit super terram.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 17 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Venerunt autem seniores domus ejus, cogentes eum ut surgeret de terra: qui noluit, nec comedit cum eis cibum.
@@ -250,7 +241,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Venerunt autem seniores domus eius, cogentes eum ut surgeret de terra: qui noluit, nec comedit cum eis cibum.
   - `VulgConte (2009)`: Venerunt autem seniores domus eius, cogentes eum ut surgeret de terra: qui noluit, nec comedit cum eis cibum.
   - `VulgSistina (1590)`: Venerunt autem seniores domus eius, cogentes eum ut surgeret de terra: qui noluit, nec comedit cum eis cibum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 18 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Accidit autem die septima ut moreretur infans: timueruntque servi David nuntiare ei quod mortuus esset parvulus: dixerunt enim: Ecce cum parvulus adhuc viveret, loquebamur ad eum, et non audiebat vocem nostram: quanto magis si dixerimus: Mortuus est puer, se affliget?
@@ -259,7 +250,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Accidit autem die septima ut moreretur infans: timueruntque servi David nunciare ei quod mortuus esset parvulus. dixerunt enim: Ecce cum parvulus adhuc viveret, loquebamur ad eum, et non audiebat vocem nostram: quanto magis si dixerimus: Mortuus est puer, se affliget?
   - `VulgConte (2009)`: Accidit autem die septima ut moreretur infans: timueruntque servi David nunciare ei quod mortuus esset parvulus. Dixerunt enim: Ecce cum parvulus adhuc viveret, loquebamur ad eum, et non audiebat vocem nostram: quanto magis si dixerimus, mortuus est puer, se affliget?
   - `VulgSistina (1590)`: Accidit autem die septima ut moreretur infans: timueruntque servi David nunciare ei quod mortuus esset parvulus. dixerunt enim: Ecce cum parvulus adhuc viveret, loquebamur ad eum, et non audiebat vocem nostram: quanto magis si dixerimus: Mortuus est puer, se affliget?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 19 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Cum ergo David vidisset servos suos mussitantes, intellexit quod mortuus esset infantulus: dixitque ad servos suos: Num mortuus est puer? Qui responderunt ei: Mortuus est.
@@ -268,7 +259,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Cum ergo David vidisset servos suos mussitantes, intellexit quod mortuus esset infantulus: dixitque ad servos suos: Num mortuus est puer? Qui responderunt ei: Mortuus est.
   - `VulgConte (2009)`: Cum ergo David vidisset servos suos mussitantes, intellexit quod mortuus esset infantulus: dixitque ad servos suos: Num mortuus est puer? Qui responderunt ei: Mortuus est.
   - `VulgSistina (1590)`: Cum ergo David audisset servos suos mussitantes, intellexit quod mortuus esset infantulus: dixitque ad servos suos: Num mortuus est puer? Qui responderunt ei: Mortuus est.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 20 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Surrexit ergo David de terra, et lotus unctusque est: cumque mutasset vestem, ingressus est domum Domini: et adoravit, et venit in domum suam, petivitque ut ponerent ei panem, et comedit.
@@ -277,7 +268,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Surrexit ergo David de terra: et lotus unctusque est: cumque mutasset vestem, ingressus est domum Domini: et adoravit, et venit in domum suam, petivitque ut ponerent ei panem, et comedit.
   - `VulgConte (2009)`: Surrexit ergo David de terra: et lotus unctusque est: cumque mutasset vestem, ingressus est domum Domini: et adoravit, et venit in domum suam, petivitque ut ponerent ei panem, et comedit.
   - `VulgSistina (1590)`: Surrexit ergo David de terra: et lotus unctusque est: cumque mutasset vestem, ingressus est domum Domini: et adoravit, et venit in domum suam, petivitque ut ponerent ei panem, et comedit.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 21 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Dixerunt autem ei servi sui: Quis est sermo quem fecisti? propter infantem, cum adhuc viveret, jejunasti et flebas: mortuo autem puero, surrexisti, et comedisti panem.
@@ -286,7 +277,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Dixerunt autem ei servi sui: Quis est sermo, quem fecisti? propter infantem, cum adhuc viveret, ieiunasti et flebas: mortuo autem puero, surrexisti, et comedisti panem.
   - `VulgConte (2009)`: Dixerunt autem ei servi sui: Quis est sermo, quem fecisti? Propter infantem, cum adhuc viveret, ieiunasti et flebas: mortuo autem puero, surrexisti, et comedisti panem.
   - `VulgSistina (1590)`: Dixerunt autem ei servi sui: Quis est sermo, quem fecisti? propter infantem, cum adhuc viveret, ieiunasti et flebas: mortuo autem puero, surrexisti, et comedisti panem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 22 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Qui ait: Propter infantem, dum adhuc viveret, jejunavi et flevi: dicebam enim: Quis scit si forte donet eum mihi Dominus, et vivat infans?
@@ -295,7 +286,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Qui ait: Propter infantem, dum adhuc viveret, ieiunavi et flevi: dicebam enim: Quis scit si forte donet eum mihi Dominus, et vivat infans?
   - `VulgConte (2009)`: Qui ait: Propter infantem, dum adhuc viveret, ieiunavi et flevi: dicebam enim: Quis scit si forte donet eum mihi Dominus, et vivat infans?
   - `VulgSistina (1590)`: Qui ait: Propter infantem, dum adhuc viveret, ieiunavi et flevi: dicebam enim: Quis scit si forte donet eum mihi Dominus, et vivat infans?
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 23 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nunc autem quia mortuus est, quare jejunem? numquid potero revocare eum amplius? ego vadam magis ad eum: ille vero non revertetur ad me.
@@ -304,7 +295,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nunc autem quia mortuus est, quare ieiunem? Numquid potero revocare eum amplius? ego vadam magis ad eum: ille vero non revertetur ad me.
   - `VulgConte (2009)`: Nunc autem quia mortuus est, quare ieiunem? Numquid potero revocare eum amplius? Ego vadam magis ad eum: ille vero non revertetur ad me.
   - `VulgSistina (1590)`: Nunc autem quia mortuus est, quare ieiuno? Numquid potero revocare eum amplius? ego vadam magis ad eum: ille vero non revertetur ad me.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 24 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et consolatus est David Bethsabee uxorem suam, ingressusque ad eam dormivit cum ea: quæ genuit filium, et vocavit nomen ejus Salomon: et Dominus dilexit eum.
@@ -313,7 +304,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et consolatus est David Bethsabee uxorem suam, ingressusque ad eam, dormivit cum ea: quæ genuit filium, et vocavit nomen eius Salomon, et Dominus dilexit eum.
   - `VulgConte (2009)`: Et consolatus est David Bethsabee uxorem suam, ingressusque ad eam, dormivit cum ea: quæ genuit filium, et vocavit nomen eius Salomon, et Dominus dilexit eum.
   - `VulgSistina (1590)`: Et consolatus est David Bethsabee uxorem suam, ingressusque ad eam, dormivit cum ea: quae genuit filium, et vocavit nomen eius Salomon, et Dominus dilexit eum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 25 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Misitque in manu Nathan prophetæ, et vocavit nomen ejus, Amabilis Domino, eo quod diligeret eum Dominus.
@@ -322,7 +313,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Misitque in manu Nathan prophetæ, et vocavit nomen eius, Amabilis Domino, eo quod diligeret eum Dominus.
   - `VulgConte (2009)`: Misitque in manu Nathan prophetæ, et vocavit nomen eius, Amabilis Domino, eo quod diligeret eum Dominus.
   - `VulgSistina (1590)`: Misitque in manu Nathan prophetae, et vocavit nomen eius, Amabilis Domino, eo quod diligeret eum Dominus.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 26 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Igitur pugnabat Joab contra Rabbath filiorum Ammon, et expugnabat urbem regiam.
@@ -331,7 +322,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Igitur pugnabat Ioab contra Rabbath filiorum Ammon, et expugnabat urbem regiam.
   - `VulgConte (2009)`: Igitur pugnabat Ioab contra Rabbath filiorum Ammon, et expugnabat urbem regiam.
   - `VulgSistina (1590)`: Igitur pugnabat Ioab contra Rabbath filiorum Ammon, et expugnabat urbem regiam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 27 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Misitque Joab nuntios ad David, dicens: Dimicavi adversum Rabbath, et capienda est Urbs aquarum.
@@ -340,7 +331,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Misitque Ioab nuncios ad David, dicens: Dimicavi adversum Rabbath, et capienda est Urbs aquarum.
   - `VulgConte (2009)`: Misitque Ioab nuncios ad David, dicens: Dimicavi adversum Rabbath, et capienda est Urbs Aquarum.
   - `VulgSistina (1590)`: Misitque Ioab nuncios ad David, dicens: Dimicavi adversum Rabbath, et capienda est Urbs aquarum.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 28 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Nunc igitur congrega reliquam partem populi, et obside civitatem, et cape eam: ne cum a me vastata fuerit urbs, nomini meo ascribatur victoria.
@@ -349,7 +340,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Nunc igitur congrega reliquam partem populi, et obside civitatem, et cape eam: ne, cum a me vastata fuerit urbs, nomini meo ascribatur victoria.
   - `VulgConte (2009)`: Nunc igitur congrega reliquam partem populi, et obside civitatem, et cape eam: ne, cum a me vastata fuerit urbs, nomini meo ascribatur victoria.
   - `VulgSistina (1590)`: Nunc igitur congrega reliquam partem populi, et obside civitatem, et cape eam: ne, cum a me vastata fuerit urbs, nomini meo ascribatur victoria.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 29 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Congregavit itaque David omnem populum, et profectus est adversum Rabbath: cumque dimicasset, cepit eam.
@@ -358,7 +349,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Congregavit itaque David omnem populum, et profectus est adversum Rabbath: cumque dimicasset, cepit eam.
   - `VulgConte (2009)`: Congregavit itaque David omnem populum, et profectus est adversum Rabbath: cumque dimicasset, cepit eam.
   - `VulgSistina (1590)`: Congregavit itaque David omnem populum, et profectus est adversum Rabbath: cumque dimicasset, cepit eam.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 30 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** Et tulit diadema regis eorum de capite ejus, pondo auri talentum, habens gemmas pretiosissimas: et impositum est super caput David. Sed et prædam civitatis asportavit multam valde:
@@ -367,7 +358,7 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: Et tulit diadema regis eorum de capite eius, pondo auri talentum, habens gemmas pretiosissimas, et impositum est super caput David. Sed et prædam civitatis asportavit multam valde:
   - `VulgConte (2009)`: Et tulit diadema regis eorum de capite eius, pondo auri talentum, habens gemmas pretiosissimas, et impositum est super caput David. Sed et prædam civitatis asportavit multam valde:
   - `VulgSistina (1590)`: Et tulit diadema regis eorum de capite eius, pondo auri talentum, habens gemmas pretiosissimas, et impositum est super caput David. Sed et praedam civitatis asportavit multam valde:
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
 
 ### Verse 31 (Confidence: `99.0%` · Source: `Textual Analysis Brain (Claude-designed · internal evidence · offline)`)
 - **Critical Text:** populum quoque ejus adducens serravit, et circumegit super eos ferrata carpenta: divisitque cultris, et traduxit in typo laterum: sic fecit universis civitatibus filiorum Ammon. Et reversus est David et omnis exercitus in Jerusalem.
@@ -376,4 +367,4 @@ Collated against the adopted text and listed in the apparatus wherever they diff
   - `VulgHetzenauer (1906)`: populum quoque eius adducens serravit, et circumegit super eos ferrata carpenta: divisitque cultris, et traduxit in typo laterum: sic fecit universis civitatibus filiorum Ammon: et reversus est David, et omnis exercitus in Ierusalem.
   - `VulgConte (2009)`: populum quoque eius adducens serravit, et circumegit super eos ferrata carpenta: divisitque cultris, et traduxit in typo laterum: sic fecit universis civitatibus filiorum Ammon: et reversus est David, et omnis exercitus in Ierusalem.
   - `VulgSistina (1590)`: populum quoque eius adducens serravit, et circumegit super eos ferrata carpenta: divisitque cultris, et traduxit in typo laterum: sic fecit universis civitatibus filiorum Ammon: et reversus est David, et omnis exercitus in Ierusalem.
-- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX, Clem-Saints (2 admitted witnesses; zero substantive divergence).
+- **Philological Rationale:** Unanimous witness agreement across Clem1598-USFX (1 admitted witnesses; zero substantive divergence).
