@@ -1,6 +1,6 @@
 # Luke 23 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (55 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (56 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Luke`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -36,6 +36,8 @@
 **23:15** But neither has Herod; for I sent you to him, and look, nothing deserving of death has been done by Him.
 
 **23:16** Therefore, after punishing Him, I will release Him."
+
+**23:17** Now he was obligated to release one to them on the feast day.
 
 **23:18** But the entire crowd cried out all together, saying, "Take this man away, and release to us Barabbas,"
 
@@ -114,10 +116,6 @@
 **23:55** Now following closely, the women who had come with Him from Galilee saw the tomb and how His body was laid.
 
 **23:56** And returning, they prepared spices and ointments; and on the Sabbath they indeed kept still according to the commandment.
-
-## Additional Verses (Not in Saints Numbering)
-
-**23:17** *(after `23:16`)* Now he was obligated to release one to them on the feast day.
 
 ## Translator Notes
 

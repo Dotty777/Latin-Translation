@@ -1,6 +1,6 @@
 # Numbers 1 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (54 verses, 4 translator notes)  
+> **Status:** `draft: true` (54 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -51,33 +51,33 @@
 
 **1:23** fifty-nine thousand three hundred.
 
-**1:24** From the sons of Judah, by their generations and families and the houses of their clans, by the names of each one from twenty years old and above, all who were able to go out to war,
+**1:24** From the sons of Gad, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who would go out to war:
 
-**1:25** there were registered seventy-four thousand six hundred.
+**1:25** forty-five thousand six hundred fifty.
 
-**1:26** From the sons of Issachar, by their generations and families and the houses of their clans, by the names of each one from twenty years old and above, all who would go out to war,
+**1:26** From the sons of Judah, by their generations and families and the houses of their clans, by the names of each one from twenty years old and above, all who were able to go out to war,
 
-**1:27** there were registered fifty-four thousand four hundred.
+**1:27** there were registered seventy-four thousand six hundred.
 
-**1:28** From the sons of Zebulun, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who were able to go out to war:
+**1:28** From the sons of Issachar, by their generations and families and the houses of their clans, by the names of each one from twenty years old and above, all who would go out to war,
 
-**1:29** fifty-seven thousand four hundred.
+**1:29** there were registered fifty-four thousand four hundred.
 
-**1:30** From the sons of Joseph, of the sons of Ephraim, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who were able to go out to war:
+**1:30** From the sons of Zebulun, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who were able to go out to war:
 
-**1:31** forty thousand five hundred.
+**1:31** fifty-seven thousand four hundred.
 
-**1:32** Now of the sons of Manasseh, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who were able to go out to war:
+**1:32** From the sons of Joseph, of the sons of Ephraim, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who were able to go out to war:
 
-**1:33** thirty-two thousand two hundred.
+**1:33** forty thousand five hundred.
 
-**1:34** From the sons of Benjamin, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who were able to go out to war:
+**1:34** Now of the sons of Manasseh, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who were able to go out to war:
 
-**1:35** thirty-five thousand four hundred.
+**1:35** thirty-two thousand two hundred.
 
-**1:36** From the sons of Gad, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who would go out to war:
+**1:36** From the sons of Benjamin, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who were able to go out to war:
 
-**1:37** forty-five thousand six hundred fifty.
+**1:37** thirty-five thousand four hundred.
 
 **1:38** From the sons of Dan, by their generations and families and the houses of their clans, there were registered by the names of each one from twenty years old and above, all who were able to go out to war:
 
@@ -118,4 +118,5 @@
 - **1:1** — The Vulgate reads tabernaculo foederis ("tabernacle of the covenant"), whereas the Hebrew text has "tent of meeting."
 - **1:3** — The Vulgate reads virorum fortium ("strong men"), where the Hebrew text reads "everyone able to go out to war."
 - **1:11** — The Vulgate reads Gedeonis ("Gideon"), declining the patronymic as a form of Gideon, whereas the Hebrew text has "Gideoni."
+- **1:24** — Native Vulgate Numbers 1:24-37 place Gad first (1:24-25), followed by Judah (1:26-27), Issachar (1:28-29), Zebulun (1:30-31), Ephraim (1:32-33), Manasseh (1:34-35), and Benjamin (1:36-37), mapping to Saints.Bible 1:36-37 and 1:24-35 respectively.
 - **1:50** — The Vulgate specifies quidquid ad caeremonias pertinet ("whatever pertains to the ceremonies"), whereas the Hebrew text reads more generally "all that belongs to it."

@@ -1,6 +1,6 @@
 # Matthew 27 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (66 verses, 7 translator notes)  
+> **Status:** `draft: true` (66 verses, 8 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Matthew`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -139,6 +139,7 @@
 
 ## Translator Notes
 
+- **27:3** — Latin 'pœnitentia ductus' ('moved by repentance' or 'moved by remorse/regret') uses the edition's standard noun for 'pœnitentia'; because the Latin noun spans both remorse and repentance, 'moved by remorse' is a widely held contextual alternative here (cf. Judges 21:6).
 - **27:4** — The Vulgate reads sanguinem justum ("righteous blood"), whereas critical Greek editions read "innocent blood"; the Vulgate likewise includes justi ("righteous") in v. 24, which modern critical Greek texts omit.
 - **27:8** — The Vulgate distinctively includes Haceldama, hoc est ("Akeldama, that is"), a reading absent from the Greek text of Matthew 27:8 and parallel to Acts 1:19.
 - **27:16** — The Vulgate uses the singular verb habebat ("he had," referring to Pilate the governor), whereas the Greek text has the plural ("they had").

@@ -1,74 +1,77 @@
 # Exodus 38 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (19 verses, 5 translator notes, 9 additional)  
+> **Status:** `draft: true` (31 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**38:1** Now Bezalel also made the ark of acacia wood, having two and a half cubits in length and a cubit and a half in width; the height also was one cubit and a half, and he overlaid it with the purest gold inside and out.
+**38:1** He also made the altar of burnt offering of acacia wood, five cubits square, and three in height:
 
-**38:3** casting four golden rings at its four corners: two rings on one side, and two on the other.
+**38:2** whose horns extended from the corners, and he overlaid it with bronze plates.
 
-**38:4** and which he put into the rings that were on the sides of the ark to carry it.
+**38:3** And for its uses he prepared various vessels of bronze: pots, tongs, forks, hooks, and receptacles for fire.
 
-**38:5** He also made the mercy seat, that is, the oracle, of the purest gold, two and a half cubits in length and a cubit and a half in width.
+**38:4** And he made its bronze grating in the manner of a net, and beneath it in the middle of the altar a hearth,
 
-**38:8** stretching out their wings and covering the mercy seat, looking toward one another and toward it.
+**38:5** having cast four rings at the same number of ends of the network, for inserting the poles to carry it,
 
-**38:9** He also made the table of acacia wood, two cubits in length and one cubit in width, which had a cubit and a half in height.
+**38:6** which he also made of acacia wood and overlaid with bronze plates:
 
-**38:11** He also made the poles of acacia wood, which he overlaid with gold,
+**38:7** and he inserted them into the rings that projected from the sides of the altar. The altar itself, however, was not solid, but hollow, made of boards, and empty inside.
 
-**38:12** and the vessels for the various uses of the table: dishes, bowls, cups, and censers, of pure gold, in which the drink offerings are to be offered.
+**38:8** He also made the bronze basin with its base from the mirrors of the women who kept watch at the doorway of the tabernacle.
 
-**38:13** He also made the hammered lampstand of the purest gold, from whose shaft branches, cups, small spheres, and lilies extended:
+**38:9** He also made the courtyard, on whose southern side there were hangings of twisted fine linen, of one hundred cubits,
 
-**38:15** six on both sides, three branches on one side, and three on the other:
+**38:10** twenty bronze pillars with their bases; the capitals of the pillars and all the engraved work were of silver.
 
-**38:16** Three cups in the shape of a nut were on each branch, and small spheres together with lilies; and three cups like a nut on the other branch, and small spheres together with lilies. The workmanship of the six branches that extended from the stem of the lampstand was uniform.
+**38:11** Likewise on the northern side the hangings, pillars, bases, and capitals of the pillars were of the same measurement, workmanship, and metal.
 
-**38:17** He also made seven lamps with their snuffers, and the vessels where what has been snuffed may be extinguished, of the purest gold.
+**38:12** Now on the side that faces the west, there were hangings of fifty cubits, ten bronze pillars with their bases, and the capitals of the pillars and all the engraved work were of silver.
 
-**38:18** Now he gilded the boards themselves, with their bases cast of silver. And he made their rings of gold, through which the bars could be inserted, and these too he covered with plates of gold.
+**38:13** Furthermore, toward the east he prepared hangings of fifty cubits:
 
-**38:19** Accordingly he also cast fifty golden rings to clasp the loops of the curtains, so that it would become one tabernacle.
+**38:14** of which one side held fifteen cubits belonging to three pillars, with their bases;
 
-**38:22** He also made the altar of burnt offering of acacia wood, five cubits square, and three in height:
+**38:15** and on the other side (because between the two he made the entrance of the tabernacle) there were likewise hangings of fifteen cubits, and three pillars, and the same number of bases.
 
-**38:23** And for its uses he prepared various vessels of bronze: pots, tongs, forks, hooks, and receptacles for fire.
+**38:16** All the hangings of the courtyard had been woven of twisted fine linen.
 
-**38:25** He also compounded the oil for the ointment of sanctification, and the incense of the purest spices by the work of a perfumer.
+**38:17** The bases of the pillars were of bronze, but their capitals, with all their engravings, were of silver; and he even covered the pillars of the courtyard themselves with silver.
 
-**38:26** He also made the bronze basin with its base from the mirrors of the women who kept watch at the doorway of the tabernacle.
+**38:18** And at its entrance he made a hanging with embroidered work of blue, purple, crimson, and twisted fine linen, which had twenty cubits in length, while the height was five cubits, according to the measurement that all the hangings of the courtyard had.
 
-**38:27** And Moses and Aaron and his sons washed their hands and feet when they entered the tent of the covenant and approached the altar, just as the Lord had commanded Moses.
+**38:19** Now the pillars at the entryway were four, with bronze bases, and their capitals and engravings were of silver.
 
-## Additional Verses (Not in Saints Numbering)
+**38:20** He also made the pegs of the tabernacle and of the courtyard all around of bronze.
 
-**37:22** *(after `38:16`)* Therefore both the small spheres and the branches were from it, all of them hammered work of the purest gold.
+**38:21** These are the furnishings of the tabernacle of the testimony, which were counted according to the command of Moses in the ceremonies of the Levites by the hand of Ithamar, the son of Aaron the priest,
 
-**37:24** *(after `38:17`)* The lampstand, along with all its vessels, weighed a talent of gold.
+**38:22** which Bezalel, the son of Uri, the son of Hur, of the tribe of Judah, had completed as the Lord commanded through Moses,
 
-**37:25** *(after `38:17`)* He also made the altar of incense of acacia wood, measuring one cubit square and two in height, from whose corners horns extended.
+**38:23** with Oholiab, the son of Ahisamach, of the tribe of Dan, joined to him as a partner, who was himself also an outstanding craftsman in wood, and a weaver of patterned work and an embroiderer in blue, purple, crimson, and fine linen.
 
-**37:26** *(after `38:17`)* And he covered it with the purest gold, along with the grate, the walls, and the horns.
+**38:24** All the gold that was spent in the work of the sanctuary, and that was offered in gifts, was twenty-nine talents and seven hundred and thirty shekels, according to the measure of the sanctuary.
 
-**37:27** *(after `38:17`)* And he made for it a small gold crown all around, and two gold rings beneath the crown on each side, so that poles could be inserted into them and the altar could be carried.
+**38:25** Now it was offered by those who passed to the numbering, from twenty years old and upward, from six hundred three thousand, five hundred and fifty armed men.
 
-**37:28** *(after `38:17`)* The poles themselves, however, he made of acacia wood and overlaid with gold plates.
+**38:26** Moreover, there were one hundred talents of silver from which were cast the bases of the sanctuary, and of the entrance where the veil hangs.
 
-**38:2** *(after `38:22`)* whose horns extended from the corners, and he overlaid it with bronze plates.
+**38:27** One hundred bases were made from one hundred talents, with one talent reckoned for each base.
 
-**38:6** *(after `38:23`)* which he also made of acacia wood and overlaid with bronze plates:
+**38:28** Now from the one thousand seven hundred and seventy-five, he made the capitals of the pillars, and the pillars themselves he also overlaid with silver.
 
-**38:7** *(after `38:23`)* and he inserted them into the rings that projected from the sides of the altar. The altar itself, however, was not solid, but hollow, made of boards, and empty inside.
+**38:29** Of bronze also there were offered seventy-two thousand talents, and four hundred shekels in addition,
+
+**38:30** from which were cast the bases at the entrance of the tabernacle of the testimony, and the bronze altar with its grating, and all the vessels that belong to its use,
+
+**38:31** and the bases of the courtyard both around it and at its entrance, and the pegs of the tabernacle and of the courtyard all around.
 
 ## Translator Notes
 
-- **38:1** — Latin reads 'de lignis setim' (transliterating Hebrew 'shittim', acacia wood). In this chapter arrangement, the construction of the ark, table, and lampstand (placed in Exodus 37 in the Hebrew and standard Clementine Vulgate) appears in chapter 38.
-- **38:5** — The Vulgate adds the explanatory gloss 'id est, oraculum' ('that is, the oracle'—the place of divine utterance) to 'propitiatorium' ('mercy seat'); this gloss has no counterpart in the Hebrew.
-- **38:16** — The Vulgate describes the lampstand cups simply as shaped 'like a nut' ('in nucis modum' / 'instar nucis') and its ornaments as 'small spheres' ('sphaerulae') and 'lilies' ('lilia'), where the Hebrew specifies almond-shaped cups, calyxes/knobs, and blossoms.
-- **38:26** — Latin 'quae excubabant' literally means 'who kept watch' (as on guard), a distinctive Vulgate rendering where the Hebrew refers to women who assembled or served at the entrance.
-- **38:27** — Latin 'tectum foederis' ('tent of the covenant,' where 'tectum' literally means 'covering' or 'roof') is Jerome's distinctive rendering for what the Hebrew calls the 'tent of meeting.'
-- **37:26 *(additional)*** — The Clementine Vulgate specifically reads "grate" (craticula) for the top surface of the incense altar.
-- **37:27 *(additional)*** — Latin coronam aureolam ("small gold crown") denotes the decorative gold molding around the upper edge of the altar.
+- **38:8** — Latin 'quae excubabant' literally means 'who kept watch' (as on guard), a distinctive Vulgate rendering where the Hebrew refers to women who assembled or served at the entrance.
+- **38:10** — Both here and in v. 10, the Vulgate specifies "bronze pillars" ('columnae aeneae', where the Hebrew attributes bronze only to the bases), and renders the Hebrew hooks and bands as 'caelatura' ("engraved work" or "engravings," cf. vv. 10, 15, 17).
+- **38:17** — The Vulgate states that the courtyard pillars themselves were covered with silver ('ipsas columnas atrii vestivit argento'), whereas the Hebrew refers to overlaying the tops of the pillars and making their bands of silver; similarly, v. 13 calls the courtyard entryway 'introitum tabernaculi' ("the entrance of the tabernacle").
+- **38:21** — Latin 'instrumenta' ("furnishings") and 'in caeremoniis Levitarum' ("in the ceremonies of the Levites") represent what the Hebrew calls the records or inventory of the tabernacle for the service of the Levites (Exod 38:21).
+- **38:25** — The Vulgate explicitly specifies 'armatorum' ('of armed men'), a clarifying detail not present in the Hebrew text.
+- **38:29** — Following the Clementine Vulgate punctuation ('talenta septuaginta duo millia, et quadringenti supra sicli'), the Latin reads seventy-two thousand talents and four hundred shekels, whereas the Hebrew and Septuagint read seventy talents and two thousand four hundred shekels.

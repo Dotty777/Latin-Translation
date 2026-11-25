@@ -1,6 +1,6 @@
 # 2 Chronicles 27 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (8 verses, 1 translator notes, 1 additional)  
+> **Status:** `draft: true` (9 verses, 1 translator note)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`2 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -19,11 +19,9 @@
 
 **27:7** Now the rest of the accounts of Jotham, and all his battles and works, are written in the book of the kings of Israel and Judah.
 
+**27:8** He was twenty-five years old when he began to reign, and he reigned for sixteen years in Jerusalem.
+
 **27:9** And Jotham slept with his fathers, and they buried him in the city of David; and Ahaz his son reigned in his place.
-
-## Additional Verses (Not in Saints Numbering)
-
-**27:8** *(after `27:7`)* He was twenty-five years old when he began to reign, and he reigned for sixteen years in Jerusalem.
 
 ## Translator Notes
 

@@ -1,6 +1,6 @@
 # Genesis 27 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (46 verses, 5 translator notes)  
+> **Status:** `draft: true` (46 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -17,7 +17,7 @@
 
 **27:6** she said to her son Jacob, "I heard your father speaking with your brother Esau and saying to him,
 
-**27:7** 'Bring me your game and make food so that I may eat and bless you before the Lord before I die.'
+**27:7** 'Bring me some of your game and make food so that I may eat and bless you before the Lord before I die.'
 
 **27:8** Now therefore, my son, yield to my counsel:
 
@@ -27,7 +27,7 @@
 
 **27:11** He answered her, "You know that my brother Esau is a hairy man, and I am smooth;
 
-**27:12** if my father touches me and notices, I am afraid that he will think I wanted to mock him, and he will bring a curse upon me instead of a blessing."
+**27:12** if my father touches me and notices, I am afraid that he will think I wanted to mock him, and I will bring a curse upon myself instead of a blessing."
 
 **27:13** To him his mother said, "Let that curse be upon me, my son; only listen to my voice, and go and bring what I said."
 
@@ -57,15 +57,15 @@
 
 **27:26** he said to him, "Come close to me, and give me a kiss, my son."
 
-**27:27** He approached and kissed him. And as soon as he smelled the fragrance of his garments, blessing him, he said, "See, the scent of my son is like the scent of a field that the Lord has blessed.
+**27:27** He approached and kissed him. And as soon as he smelled the fragrance of his garments, blessing him, he said, "See, the scent of my son is like the scent of a full field that the Lord has blessed.
 
-**27:28** May the Lord give you from the dew of heaven and from the richness of the earth an abundance of grain and wine.
+**27:28** May God give you from the dew of heaven and from the richness of the earth an abundance of grain and wine.
 
 **27:29** And may peoples serve you, and may tribes pay homage to you; be lord over your brothers, and may the sons of your mother bow down before you. Whoever curses you, let him be cursed, and whoever blesses you, let him be filled with blessings."
 
 **27:30** Isaac had scarcely finished his speech, and when Jacob had gone outside, Esau came,
 
-**27:31** and brought in to his father food cooked from his game, saying, "Rise, my father, and eat from your son's game, and may your soul bless me."
+**27:31** and brought in to his father food cooked from his game, saying, "Rise, my father, and eat from your son's game, so that your soul may bless me."
 
 **27:32** And Isaac said to him, "Who then are you?" And he answered, "I am your firstborn son, Esau."
 
@@ -85,11 +85,11 @@
 
 **27:40** your blessing will be. You will live by the sword, and you will serve your brother; and a time will come when you will shake off and loosen his yoke from your neck."
 
-**27:41** Therefore Esau always hated Jacob because of the blessing with which his father had blessed him; and he said in his heart, "May the days of mourning for my father come, so that I may kill my brother Jacob."
+**27:41** Therefore Esau always hated Jacob because of the blessing with which his father had blessed him; and he said in his heart, "The days of mourning for my father will come, and I will kill my brother Jacob."
 
 **27:42** These things were reported to Rebekah; and sending and calling her son Jacob, she said to him, "Look, your brother Esau is threatening to kill you.
 
-**27:43** Now therefore, son, listen to my voice, and rising up, flee to my brother Laban in Haran;
+**27:43** Now therefore, my son, listen to my voice, and rising up, flee to my brother Laban in Haran;
 
 **27:44** and you will dwell with him a few days, until your brother's fury subsides,
 
@@ -99,8 +99,6 @@
 
 ## Translator Notes
 
-- **27:20** — Vulgate reads 'It was the will of God that what I wanted should quickly come before me' (Voluntatis Dei fuit...), without specifying 'the Lord your God' as in the Hebrew text.
-- **27:28** — Clementine Vulgate reads Dominus ('the Lord'), whereas the Hebrew text and Septuagint read 'God.'
+- **27:20** — Vulgate reads 'It was the will of God that what I wanted should quickly come before me' (Voluntas Dei fuit...), without specifying 'the Lord your God' as in the Hebrew text.
 - **27:29** — Vulgate renders the final clause as 'let him be filled with blessings' (benedictionibus repleatur), expanding on the simpler Hebrew 'be blessed.'
 - **27:39** — Vulgate adds 'being moved' (motus) and reads positively 'In the richness... and in the dew... your blessing will be' (benedictio tua in v. 40), whereas the Hebrew has 'your dwelling' and is often construed privatively ('away from').
-- **27:41** — Vulgate casts Esau's inward speech as a subjunctive wish ('May the days... come, so that I may kill'), whereas the Hebrew states indicatively that the days of mourning are drawing near.

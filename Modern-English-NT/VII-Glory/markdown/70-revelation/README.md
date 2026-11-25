@@ -1,7 +1,7 @@
 # Revelation — Saints Modern English NT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Division: **VII. Glory (Revelation)**  
-> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; Saints.Bible versification).  
+> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; native Sixto-Clementine Vulgate versification).  
 > **Structured JSON:** [`70-revelation.json`](../../json/70-revelation.json) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Chapters
@@ -19,7 +19,7 @@
 - [Chapter 11](chapter-11.md) — 19 verses, 5 notes
 - [Chapter 12](chapter-12.md) — 18 verses, 4 notes
 - [Chapter 13](chapter-13.md) — 18 verses, 4 notes
-- [Chapter 14](chapter-14.md) — 20 verses, 5 notes
+- [Chapter 14](chapter-14.md) — 20 verses, 6 notes
 - [Chapter 15](chapter-15.md) — 8 verses, 3 notes
 - [Chapter 16](chapter-16.md) — 21 verses, 5 notes
 - [Chapter 17](chapter-17.md) — 18 verses, 5 notes

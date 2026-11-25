@@ -9,7 +9,7 @@
 
 **5:2** Male and female He created them, and blessed them, and called their name Adam on the day that they were created.
 
-**5:3** Now Adam lived one hundred thirty years, and fathered one in his own likeness and image, and called his name Seth.
+**5:3** Now Adam lived one hundred thirty years, and fathered one in his own image and likeness, and called his name Seth.
 
 **5:4** And the days of Adam, after he fathered Seth, came to eight hundred years; and he fathered sons and daughters.
 
@@ -47,7 +47,7 @@
 
 **5:21** Moreover, Enoch lived sixty-five years, and fathered Methuselah.
 
-**5:22** And Enoch walked with God for three hundred years after he fathered Methuselah, and fathered sons and daughters.
+**5:22** And Enoch walked with God; and he lived three hundred years after he fathered Methuselah, and fathered sons and daughters.
 
 **5:23** And all the days of Enoch came to three hundred sixty-five years.
 

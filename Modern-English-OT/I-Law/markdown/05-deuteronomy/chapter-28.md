@@ -1,6 +1,6 @@
 # Deuteronomy 28 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (69 verses, 10 translator notes)  
+> **Status:** `draft: true` (68 verses, 9 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Deuteronomy`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -141,8 +141,6 @@
 
 **28:68** The Lord will bring you back in ships to Egypt by the way of which He told you that you should see it no more. There you will be sold to your enemies as male and female slaves, and there will be no one to buy.
 
-**28:69** These are the words of the covenant which the Lord commanded Moses to make with the sons of Israel in the land of Moab, besides that covenant which He made with them at Horeb.
-
 ## Translator Notes
 
 - **28:5** — The Vulgate reads horrea tua ('your granaries', singular horreum in v. 17) and reliquiæ tuæ ('your remnants'), where the Hebrew has 'your basket' and 'your kneading trough' (taken by both the Septuagint and Vulgate from the related root meaning 'to remain').
@@ -154,4 +152,3 @@
 - **28:54** — The Vulgate mentions only the man's brother and wife, omitting the third phrase found in the Hebrew ('and the rest of his children whom he has left').
 - **28:57** — The Clementine Vulgate has the plural verb Comedent ('they will eat') rather than the Hebrew singular ('she will eat').
 - **28:68** — The Vulgate uses third-person dixit ('He told', referring to the Lord) and passive venderis ('you will be sold'), where the Hebrew has first-person 'I said to you' and reflexive 'you will offer yourselves for sale'.
-- **28:69** — As in the Hebrew text, this summary verse concludes chapter 28 in the Latin (28:69).

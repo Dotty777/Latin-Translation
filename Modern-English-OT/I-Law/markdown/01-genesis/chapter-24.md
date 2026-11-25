@@ -1,6 +1,6 @@
 # Genesis 24 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (67 verses, 6 translator notes)  
+> **Status:** `draft: true` (67 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -67,7 +67,7 @@
 
 **24:31** and said to him, "Enter, blessed of the Lord! Why are you standing outside? I have prepared the house and a place for the camels."
 
-**24:32** And he brought him into the lodging, and unsaddled the camels, and gave straw and hay, and water to wash the feet of the camels and of the men who had come with him.
+**24:32** And he brought him into the lodging, and unsaddled the camels, and gave straw and hay, and water to wash his feet and the feet of the men who had come with him.
 
 **24:33** And bread was set before him. But he said, "I will not eat until I speak my words." He answered him, "Speak."
 
@@ -87,7 +87,7 @@
 
 **24:41** You will be innocent of my curse when you come to my kin and they do not give her to you.'
 
-**24:42** Therefore I came today to the spring and said, 'Lord God of my master Abraham, if You have directed my way on which I now walk,
+**24:42** Therefore I came today to the spring of water and said, 'Lord God of my master Abraham, if You have directed my way on which I now walk,
 
 **24:43** look, I am standing beside the spring of water, and the virgin who will come out to draw water hears from me, "Give me a tiny bit of water to drink from your jar,"
 
@@ -101,13 +101,13 @@
 
 **24:48** And bowing low, I worshiped the Lord, blessing the Lord God of my master Abraham, who had guided me by a straight path so that I might take the daughter of my master's brother for his son.
 
-**24:49** For this reason, if you show mercy and truth to my master, tell me; but if something else pleases you, say this as well, so that I may go to the right or to the left."
+**24:49** For this reason, if you show mercy and truth to my master, tell me; but if something else pleases you, tell me this as well, so that I may go to the right or to the left."
 
 **24:50** Laban and Bethuel answered, "The word has come out from the Lord; we cannot speak anything else with you beyond His good pleasure.
 
 **24:51** Look, Rebekah is before you: take her and set out, and may she be the wife of the son of your master, just as the Lord has spoken."
 
-**24:52** When Abraham's servant had heard this, he worshiped the Lord on the ground.
+**24:52** When Abraham's servant had heard this, falling down, he worshiped the Lord to the ground.
 
 **24:53** And having brought out vessels of silver and of gold, and garments, he gave them to Rebekah as a gift; he also offered gifts to her brothers and to her mother.
 
@@ -143,7 +143,6 @@
 
 - **24:22** — The Vulgate explicitly reads plural golden earrings weighing two shekels ("inaures aureas, appendentes siclos duos"; cf. v. 30), whereas the Hebrew describes a single gold ring weighing half a shekel.
 - **24:27** — The Vulgate specifies that the Lord led the servant "by a straight path" ("recto itinere") into the house of his master's singular "brother" ("fratris"), where the Hebrew reads "in the way" and plural "brothers."
-- **24:32** — The Clementine Vulgate distinctly reads "to wash the feet of the camels and of the men" ("ad lavandos pedes camelorum, et virorum"), whereas the Hebrew and Septuagint read "to wash his feet and the feet of the men."
 - **24:47** — The Vulgate renders this clause as "I hung the earrings to adorn her face" ("Suspendi itaque inaures ad ornandam faciem ejus"), reconciling plural "earrings" with the Hebrew wording "I put the ring on her nose."
 - **24:53** — Here and in v. 55 the Vulgate reads plural "brothers" ("fratribus" / "fratres"), whereas the Hebrew reads singular "her brother."
 - **24:62** — The Vulgate translates the Hebrew place names Beer-lahai-roi ("the well whose name is Of the Living and Seeing One," "Viventis et videntis") and the Negev ("the southern land," "in terra australi") rather than transliterating them.

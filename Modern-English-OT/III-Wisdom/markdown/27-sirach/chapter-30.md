@@ -1,6 +1,6 @@
 # Sirach 30 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (25 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -43,22 +43,28 @@
 
 **30:19** What will a libation profit an idol? For it will neither eat nor smell.
 
-**30:20** Seeing with his eyes and groaning, like a eunuch embracing a virgin and sighing.
+**30:20** So is the one who is driven off by the Lord, bearing the wages of iniquity,
 
-**30:21** Do not give sorrow to your soul, and do not afflict yourself in your own counsel.
+**30:21** seeing with his eyes and groaning, like a eunuch embracing a virgin and sighing.
 
-**30:22** Gladness of heart, this is a man's life, and a treasure of holiness without failing, and the exultation of a man is long life.
+**30:22** Do not give sorrow to your soul, and do not afflict yourself in your own counsel.
 
-**30:23** Have mercy on your soul, pleasing God, and restrain yourself; gather your heart in His holiness, and drive sorrow far away from you.
+**30:23** Gladness of heart, this is a man's life, and a treasure of holiness without failing, and the exultation of a man is long life.
 
-**30:24** Envy and anger shorten days, and anxious thought will bring on old age before its time.
+**30:24** Have mercy on your soul, pleasing God, and restrain yourself; gather your heart in His holiness, and drive sorrow far away from you.
 
-**30:25** A bright and good heart is at banquets, for its banquets are carefully prepared.
+**30:25** For sorrow has killed many, and there is no usefulness in it.
+
+**30:26** Envy and anger shorten days, and anxious thought will bring on old age before its time.
+
+**30:27** A bright and good heart is at banquets, for its banquets are carefully prepared.
 
 ## Translator Notes
 
-- **30:1** — The final clause "and not grope at the doors of his neighbors" (et non palpet proximorum ostia) is a distinctive Vulgate reading absent from the standard Greek text.
+- **30:1** — The final clause "and not grope at the doors of his neighbors" (et non palpet proximorum ostia) is a distinctive Vulgate reading absent from the standard Greek text. In Sirach chapters 30-36, the Latin Vulgate preserves the original section order (contrasting with the transposed manuscript order in standard Septuagint editions where 30:25-33:13a and 33:13b-36:16a are exchanged). Native Clem1598-USFX verse counts are ch. 30 (27 vv), ch. 31 (42 vv), ch. 32 (28 vv), ch. 33 (33 vv), ch. 34 (31 vv), ch. 35 (26 vv), and ch. 36 (28 vv), including 27 newly restored verses across ch. 30-36; keep native Vulgate numbering in the Latin edition and map cleanly to Saints.Bible parallel slots.
 - **30:7** — Vulgate "For the souls of his sons" (Pro animabus filiorum) reflects an Old Latin reading of the Greek participle "peripsychon" ("he who pampers") as "peri psychon" ("for the souls").
 - **30:15** — Vulgate uniquely spiritualizes the opening clause as "Health of the soul in the holiness of righteousness" and adds "and silver," where the Greek speaks of bodily health and soundness better than all gold.
-- **30:20** — In this Latin text, the verse consists solely of the participial comparison without the introductory clause about the afflicted sinner found in the Greek and some Latin editions.
-- **30:23** — Vulgate's "Have mercy on your soul, pleasing God, and restrain yourself; gather your heart in His holiness" is a distinctly spiritualized Latin reading where the Greek has "cheer your soul and comfort your heart."
+- **30:20** — Restored native Clementine Vulgate verse 30:20 (introductory clause of Saints/Greek 30:20, previously claimed missing in the note on old 30:20); Latin 'effugatur' literally means "is put to flight / driven off" (rendering Greek 'ekdiokomenos', "pursued").
+- **30:21** — Native Vulgate 30:21 continues the introductory clause restored at native Vulgate 30:20 ("So is the one who is driven off by the Lord, bearing the wages of iniquity,"); together 30:20-21 correspond to Saints/Greek 30:20.
+- **30:24** — Vulgate's "Have mercy on your soul, pleasing God, and restrain yourself; gather your heart in His holiness" is a distinctly spiritualized Latin reading where the Greek has "cheer your soul and comfort your heart."
+- **30:25** — Restored native Clementine Vulgate verse 30:25 (parallel to Saints/Greek 30:23b).

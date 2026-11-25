@@ -1,6 +1,6 @@
 # Joshua 20 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (6 verses, 3 translator notes, 3 additional)  
+> **Status:** `draft: true` (9 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -11,19 +11,17 @@
 
 **20:3** so that whoever has struck a person unknowingly may flee to them, and may be able to escape the wrath of the kinsman who is the avenger of blood.
 
+**20:4** When he flees to one of these cities, he will stand in front of the city gate and tell the elders of that city the things that prove him innocent; and so they will take him in and give him a place to live.
+
+**20:5** And when the avenger of blood pursues him, they will not surrender him into his hands, because he struck his neighbor unknowingly and is not shown to have been his enemy two or three days earlier.
+
+**20:6** And he will live in that city until he stands before the court, rendering an account of his deed, and until the high priest who is in office at that time dies; then the killer will return and enter his city and his house, from which he had fled.'"
+
 **20:7** And they designated Kedesh in Galilee of the hill country of Naphtali, and Shechem in the hill country of Ephraim, and Kiriath-arba, which is Hebron, in the hill country of Judah.
 
 **20:8** And beyond the Jordan toward the eastern side of Jericho, they appointed Bezer, which is situated in the wilderness plain, from the tribe of Reuben, and Ramoth in Gilead, from the tribe of Gad, and Golan in Bashan, from the tribe of Manasseh.
 
 **20:9** These cities were established for all the sons of Israel, and for the foreigners who lived among them, so that the one who had struck a person unknowingly might flee to them, and might not die by the hand of the kinsman desiring to avenge the shed blood, until he stood before the people to present his case.
-
-## Additional Verses (Not in Saints Numbering)
-
-**20:4** *(after `20:3`)* When he flees to one of these cities, he will stand in front of the city gate and tell the elders of that city the things that prove him innocent; and so they will take him in and give him a place to live.
-
-**20:5** *(after `20:3`)* And when the avenger of blood pursues him, they will not surrender him into his hands, because he struck his neighbor unknowingly and is not shown to have been his enemy two or three days earlier.
-
-**20:6** *(after `20:3`)* And he will live in that city until he stands before the court, rendering an account of his deed, and until the high priest who is in office at that time dies; then the killer will return and enter his city and his house, from which he had fled.'"
 
 ## Translator Notes
 

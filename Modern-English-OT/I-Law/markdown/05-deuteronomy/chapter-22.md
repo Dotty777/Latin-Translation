@@ -1,6 +1,6 @@
 # Deuteronomy 22 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (29 verses, 4 translator notes)  
+> **Status:** `draft: true` (30 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Deuteronomy`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -63,9 +63,12 @@
 
 **22:29** the one who slept with her shall give fifty shekels of silver to the father of the young woman, and he shall have her as his wife, because he humiliated her; he will not be able to send her away all the days of his life.
 
+**22:30** A man shall not take his father's wife, nor shall he uncover his covering.
+
 ## Translator Notes
 
 - **22:9** — Latin sanctificentur ('be sanctified') literally renders the Hebrew idiom for produce forfeited or consecrated to the sanctuary because of unlawful mixing.
 - **22:22** — The Vulgate supplies the explanatory phrase id est, adulter et adultera ('that is, the adulterer and the adulteress'), whereas the Hebrew reads 'the man who lay with the woman and the woman.'
 - **22:26** — Distinctively in the Vulgate, the attacker in the comparison is called a latro ('robber') rising against fratrem suum ('his brother'), where the Hebrew has 'a man' rising against 'his neighbor.'
 - **22:28** — The Vulgate specifies et res ad judicium venerit ('and the matter comes to judgment'), where the Hebrew reads simply 'and they are found.'
+- **22:30** — In the Latin, as in the Hebrew text, chapter 23 begins with this verse. Native Vulgate Deuteronomy 22:30 maps to Saints.Bible 23:1; native 23:1-23 map to Saints.Bible 23:2-24, while native 23:24 (vineyard) and 23:25 (standing grain) map to Saints.Bible 23:26 and 23:25 respectively.

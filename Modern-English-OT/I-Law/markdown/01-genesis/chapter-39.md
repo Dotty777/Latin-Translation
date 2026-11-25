@@ -17,7 +17,7 @@
 
 **39:6** nor did he know anything else except the bread that he ate. Now Joseph was handsome in face and pleasing in appearance.
 
-**39:7** Now after many days, the mistress cast her eyes on Joseph and said, "Sleep with me."
+**39:7** Now after many days, his mistress cast her eyes on Joseph and said, "Sleep with me."
 
 **39:8** He, by no means consenting to the wicked deed, said to her, "Look, my master, with all things handed over to me, does not know what he has in his house,
 
@@ -31,7 +31,7 @@
 
 **39:13** And when the woman saw the garment in her hands and that she had been scorned,
 
-**39:14** she called the men of her house and said to them, "Look, he has brought in a Hebrew man to mock us; he came in to me to lie with me, and when I cried out
+**39:14** she called to herself the men of her house and said to them, "Look, he has brought in a Hebrew man to mock us; he came in to me to lie with me, and when I cried out
 
 **39:15** and he heard my voice, he left the cloak that I was holding and fled outside."
 
@@ -39,7 +39,7 @@
 
 **39:17** and said, "The Hebrew slave whom you brought came in to me to mock me;
 
-**39:18** and when he saw me crying out, he left the cloak and fled outside."
+**39:18** and when he heard me crying out, he left the cloak that I was holding and fled outside."
 
 **39:19** Having heard these things, and being overly credulous of the words of his wife, the master became very angry;
 
@@ -54,6 +54,6 @@
 ## Translator Notes
 
 - **39:1** — The Vulgate renders Potiphar's titles as "eunuch" (eunuchus, matching the Septuagint against Hebrew saris, "official") and "commander of the army" (princeps exercitus, where Hebrew reads "captain of the guard").
-- **39:7** — The Vulgate reads "after many days" (Post multos autem dies), whereas the Hebrew text reads "after these things."
+- **39:7** — The Vulgate reads "after many days" (Post multos itaque dies), whereas the Hebrew text reads "after these things."
 - **39:13** — The Vulgate distinctively specifies that Potiphar's wife saw "that she had been scorned" (et se esse contemptam), where the Hebrew states that she saw Joseph had left his garment and fled outside.
 - **39:19** — The Vulgate adds the explanatory detail "overly credulous of the words of his wife" (nimium credulus verbis conjugis), a distinctly Vulgate expansion absent from the Hebrew and Septuagint.

@@ -1,6 +1,6 @@
 # Nehemiah 9 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (37 verses, 5 translator notes)  
+> **Status:** `draft: true` (38 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Nehemiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -79,6 +79,8 @@
 
 **9:37** And its crops are multiplied for the kings whom You have set over us because of our sins; and they rule over our bodies and over our livestock according to their will; and we are in great distress."
 
+**9:38** Therefore, because of all these things, we ourselves make a covenant and write it down, and our leaders, our Levites, and our priests seal it.
+
 ## Translator Notes
 
 - **9:3** — The Vulgate reads 'quater in die, et quater' ("four times in the day, and four times"), whereas the Hebrew specifies a fourth part of the day for reading and another fourth part for confession and worship.
@@ -86,3 +88,4 @@
 - **9:17** — 'Dederunt caput' (literally "they gave a head") renders the idiom for appointing a leader, and 'quasi per contentionem' ("as if through contention") represents the Vulgate's rendering of the Hebrew "in their rebellion."
 - **9:32** — The Vulgate reads 'ne avertas a facie tua' ("do not turn away from Your face"; Hebrew: "let it not seem little before You") and singular 'regis Assur' ("the king of Assyria"; Hebrew plural: "the kings of Assyria").
 - **9:36** — The Vulgate reads 'panem ejus' ("its bread") where the Hebrew has "its fruit."
+- **9:38** — As in the Hebrew, chapter 10 begins with this verse. Latin foedus renders Hebrew amanah ('binding agreement') with the standard covenant term. Native Vulgate Nehemiah 9:38 maps to Saints.Bible 10:1 (10:1-39 to 10:2-40), and native 12:33 covers Saints 12:33-34 (shifting native 12:34-46 to Saints 12:35-47).

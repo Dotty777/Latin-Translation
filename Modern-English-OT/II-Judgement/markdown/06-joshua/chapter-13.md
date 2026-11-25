@@ -1,6 +1,6 @@
 # Joshua 13 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 6 translator notes, 1 additional)  
+> **Status:** `draft: true` (33 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -69,9 +69,7 @@
 
 **13:32** Moses divided this possession in the plains of Moab across the Jordan, opposite Jericho, toward the eastern region.
 
-## Additional Verses (Not in Saints Numbering)
-
-**13:33** *(after `13:32`)* To the tribe of Levi, however, he did not give a possession, because the Lord God of Israel Himself is its possession, just as He spoke to it.
+**13:33** To the tribe of Levi, however, he did not give a possession, because the Lord God of Israel Himself is its possession, just as He spoke to it.
 
 ## Translator Notes
 

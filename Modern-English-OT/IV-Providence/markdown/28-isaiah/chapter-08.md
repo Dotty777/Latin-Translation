@@ -1,6 +1,6 @@
 # Isaiah 8 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes)  
+> **Status:** `draft: true` (22 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Isaiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -49,12 +49,10 @@
 
 **8:22** and he will gaze at the earth; and look: tribulation and darkness, dissolution and anguish, and pursuing gloom, and he will not be able to fly away from his anguish.
 
-**8:23** At the first time the land of Zebulun and the land of Naphtali was lightened, and at the last the way of the sea beyond the Jordan, of Galilee of the nations, was weighed down.
-
 ## Translator Notes
 
 - **8:1** — Both here (Velociter spolia detrahe, cito praedare) and in 8:3 (Accelera spolia detrahere; Festina praedari), the Vulgate translates the Hebrew symbolic name Maher-shalal-hash-baz directly into Latin rather than transliterating it.
 - **8:6** — The Vulgate reads "has rather adopted" (assumpsit magis) Rezin and the son of Remaliah, where the Hebrew Masoretic Text has "and rejoicing in."
+- **8:8** — Capitalization of 'Your' (Latin tuae, addressing Emmanuel) reflects traditional messianic reading and is subject to edition-wide policy.
 - **8:21** — This Latin text reads suscipiet sursum, an orthographic variant for suspiciet sursum ("will look upward"), parallel to "gaze at the earth" in 8:22.
 - **8:22** — The Vulgate joins the opening clause of Hebrew 8:23 (English 9:1) to the end of 8:22 and derives its verb from the root "to fly," reading "and he will not be able to fly away from his anguish" (et non poterit avolare de angustia sua).
-- **8:23** — Following Hebrew versification (corresponding to English 9:1), the Vulgate renders the Hebrew antithesis literally through passive verbs of weight, "was lightened" (alleviata est) versus "was weighed down" (aggravata est); the Hebrew verbs can also mean "treated with contempt" and "made glorious."

@@ -1,6 +1,6 @@
 # Joel 2 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (32 verses, 8 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Joel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,6 +59,16 @@
 
 **2:27** And you will know that I am in the midst of Israel, and I am the Lord your God, and there is no other; and My people will not be put to shame for eternity.
 
+**2:28** And it will happen after these things: I will pour out My Spirit on all flesh, and your sons and your daughters will prophesy; your old men will dream dreams, and your young men will see visions.
+
+**2:29** And even on My male servants and female servants in those days I will pour out My Spirit.
+
+**2:30** And I will give portents in heaven and on earth: blood, and fire, and vapor of smoke.
+
+**2:31** The sun will be turned into darkness, and the moon into blood, before the day of the Lord comes, great and dreadful.
+
+**2:32** And it will happen: everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be salvation, just as the Lord has said, and among those who remain whom the Lord will call.
+
 ## Translator Notes
 
 - **2:3** — Latin hortus voluptatis ("garden of delight") translates the meaning of Hebrew "garden of Eden," as voluptatis also does in Genesis 2:8 (paradisum voluptatis).
@@ -66,3 +76,6 @@
 - **2:8** — Latin per fenestras cadent, et non demolientur ("fall through the windows, and they will not be destroyed") is a Vulgate-distinct reading; the Hebrew text speaks of plunging through weapons without breaking ranks.
 - **2:13** — Latin praestabilis super malitia is a distinctive Vulgate idiom meaning "ready to relent over calamity," rendering Hebrew "relenting of disaster."
 - **2:23** — Latin doctorem justitiae ("a teacher of righteousness") reads Hebrew moreh as "teacher" rather than "early rain"; imbrem matutinum et serotinum (lit. "morning and evening rain") denotes the early autumn and late spring rains.
+- **2:28** — Native Clementine Vulgate Joel uses the three-chapter division (2:28-32 = Saints.Bible 3:1-5; 3:1-21 = Saints.Bible 4:1-21).
+- **2:29** — Latin servos meos ("My male servants") includes the possessive "My" (agreeing with the Septuagint and Acts 2:18), whereas the Hebrew text reads simply "the male servants." Native Clementine Vulgate Joel 2:28-32 maps to Saints.Bible 3:1-5 and native 3:1-21 maps to Saints.Bible 4:1-21.
+- **2:30** — Latin vaporem fumi ("vapor of smoke") follows the Septuagint rather than Hebrew "columns of smoke."

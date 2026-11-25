@@ -1,9 +1,17 @@
 # Jeremiah 17 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
+
+**17:1** The sin of Judah is written with an iron stylus, with a diamond point, engraved upon the breadth of their heart and on the horns of their altars.
+
+**17:2** When their children remember their altars, and their sacred groves, and the leafy trees on the high mountains,
+
+**17:3** sacrificing in the field: I will give your strength and all your treasures over to plunder; your high places, because of sins throughout all your borders.
+
+**17:4** And you will be left alone, apart from your inheritance that I gave you, and I will make you serve your enemies in a land that you do not know; for you have kindled a fire in My fury: it will burn forever.
 
 **17:5** This is what the Lord says: "Cursed is the man who trusts in man and sets flesh as his arm, and whose heart departs from the Lord.
 
@@ -53,6 +61,7 @@
 
 ## Translator Notes
 
+- **17:1** — The Clementine Vulgate reads "super latitudinem" ("upon the breadth"), in contrast to the Hebrew "tablet."
 - **17:6** — Vulgate 'myricæ' (plural, "tamarisks") renders the Hebrew desert shrub 'arar' as plural tamarisk bushes.
 - **17:8** — Vulgate 'ad humorem' ("toward the moisture") renders Hebrew 'al-yubal' ("by the stream") more generally as moisture.
 - **17:9** — Vulgate 'cor omnium' ("the heart of all") and 'inscrutabile' ("unsearchable," creating a wordplay with 'scrutans', "searching," in 17:10) differ from the Hebrew Masoretic Text ("deceitful above all things and desperately sick").

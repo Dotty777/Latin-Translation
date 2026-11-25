@@ -1,6 +1,6 @@
 # Ezekiel 3 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 4 translator notes)  
+> **Status:** `draft: true` (27 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -62,6 +62,8 @@
 ## Translator Notes
 
 - **3:5** — The Vulgate preserves the elliptical Hebrew syntax with no expressed "but" before 'ad domum Israël' ("to the house of Israel"). In 3:6, Latin 'audire' ("hear") carries the sense "understand."
-- **3:14** — Latin 'erat mecum, confortans me' ("was with me, strengthening me") is a Vulgate-distinct rendering where the Hebrew text reads "was strong upon me."
+- **3:12** — Latin reads bare spiritus (without Dei or Domini), which can be rendered 'a spirit', 'the spirit', or 'wind' (compare lowercase 'spirit' in 1:12, 1:20, and 10:17, versus 'Spirit of the Lord' in 11:5, 37:1); capitalization as 'the Spirit' is subject to edition-wide editorial policy.
+- **3:14** — Latin 'erat mecum, confortans me' ("was with me, strengthening me") is a Vulgate-distinct rendering where the Hebrew text reads "was strong upon me." Latin reads bare spiritus (without Dei or Domini), which can be rendered 'a spirit', 'the spirit', or 'wind' (compare lowercase 'spirit' in 1:12, 1:20, and 10:17, versus 'Spirit of the Lord' in 11:5, 37:1); capitalization as 'the Spirit' is subject to edition-wide editorial policy.
 - **3:15** — Latin 'ad acervum novarum frugum' ("to the heap of new crops") translates the Hebrew place name Tel-abib etymologically, and 'mœrens' ("mourning") reflects a Vulgate-distinct reading for Hebrew "overwhelmed" or "appalled."
 - **3:17** — Latin 'annuntiare' ("declare," repeated through 3:21) renders the watchman's duty of giving formal notice or warning of God's word.
+- **3:24** — Latin reads bare spiritus (without Dei or Domini), which can be rendered 'a spirit', 'the spirit', or 'wind' (compare lowercase 'spirit' in 1:12, 1:20, and 10:17, versus 'Spirit of the Lord' in 11:5, 37:1); capitalization as 'the Spirit' is subject to edition-wide editorial policy.

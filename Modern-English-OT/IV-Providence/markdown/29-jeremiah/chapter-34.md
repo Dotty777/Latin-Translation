@@ -1,47 +1,58 @@
 # Jeremiah 34 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (17 verses, 4 translator notes)  
+> **Status:** `draft: true` (22 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**34:2** This is what the Lord says to me: "Make for yourself bonds and chains, and you will put them on your neck,
+**34:1** The word that came to Jeremiah from the Lord when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth that were under the authority of his hand, and all the peoples, were waging war against Jerusalem and against all its cities, saying:
 
-**34:3** and you will send them to the king of Edom, and to the king of Moab, and to the king of the sons of Ammon, and to the king of Tyre, and to the king of Sidon, by the hand of the messengers who have come to Jerusalem to Zedekiah king of Judah.
+**34:2** "This is what the Lord God of Israel says: Go and speak to Zedekiah king of Judah, and you will say to him, 'This is what the Lord says: Look, I will deliver this city into the hands of the king of Babylon, and he will burn it with fire;
 
-**34:4** And you will command them to speak to their masters, 'This is what the Lord of hosts, the God of Israel, says: This is what you will say to your masters:
+**34:3** and you will not escape from his hand, but you will certainly be captured, and you will be delivered into his hand; and your eyes will see the eyes of the king of Babylon, and his mouth will speak with your mouth, and you will enter Babylon.
 
-**34:5** I made the earth, and the people, and the livestock that are upon the face of the earth, by My great strength and by My outstretched arm, and I have given it to the one who was pleasing in My eyes.
+**34:4** Nevertheless, hear the word of the Lord, Zedekiah, king of Judah: This is what the Lord says to you: You will not die by the sword,
 
-**34:6** And now therefore I have given all these lands into the hand of Nebuchadnezzar king of Babylon, My servant; moreover, I have also given him the beasts of the field, that they may serve him.
+**34:5** but you will die in peace; and according to the burnings of your fathers, the former kings who were before you, so they will burn you, and they will lament for you, "Alas, lord!" for I have spoken the word, says the Lord.'"
 
-**34:8** But as for the nation and kingdom that will not serve Nebuchadnezzar king of Babylon, and whoever will not bend his neck under the yoke of the king of Babylon, I will visit that nation with the sword, and with famine, and with pestilence, says the Lord, until I consume them by his hand.
+**34:6** And Jeremiah the prophet spoke all these words to Zedekiah king of Judah in Jerusalem.
 
-**34:9** You therefore, do not listen to your prophets, and diviners, and dreamers, and augurs, and sorcerers, who say to you, "You will not serve the king of Babylon,"
+**34:7** And the army of the king of Babylon was fighting against Jerusalem and against all the cities of Judah that were left, against Lachish and against Azekah; for these remained of the cities of Judah, fortified cities.
 
-**34:10** for they prophesy a lie to you, so that they may put you far from your land, and drive you out, and you may perish.
+**34:8** The word that came to Jeremiah from the Lord after King Zedekiah made a covenant with all the people in Jerusalem, proclaiming
 
-**34:11** But as for the nation that submits its neck under the yoke of the king of Babylon and serves him, I will leave it in its own land, says the Lord, and it will cultivate it and live in it.'"
+**34:9** that each one should let his male slave and each one his female slave, a Hebrew man and a Hebrew woman, go free, and by no means hold dominion over them, that is, over a Jew and his brother.
 
-**34:12** And to Zedekiah king of Judah I spoke according to all these words, saying, "Submit your necks under the yoke of the king of Babylon, and serve him and his people, and you will live.
+**34:10** Therefore all the princes and all the people who had entered into the covenant listened, that each one should let his male slave and each one his female slave go free, and no longer hold dominion over them; so they listened and let them go.
 
-**34:14** Do not listen to the words of the prophets saying to you, 'You will not serve the king of Babylon,' for they themselves speak a lie to you,
+**34:11** And afterward they turned back, and took back their male slaves and female slaves whom they had let go free, and subjugated them to be male servants and female servants.
 
-**34:15** for I have not sent them, says the Lord, and they themselves prophesy falsely in My name, so that they may drive you out, and you may perish, both you and the prophets who prophesy to you."
+**34:12** And the word of the Lord came to Jeremiah from the Lord, saying:
 
-**34:16** And to the priests and to this people I spoke, saying, "This is what the Lord says: Do not listen to the words of your prophets who prophesy to you, saying, 'Look, the vessels of the Lord will return from Babylon soon now,' for they prophesy a lie to you.
+**34:13** "This is what the Lord God of Israel says: I made a covenant with your fathers on the day when I brought them out of the land of Egypt, out of the house of slavery, saying:
 
-**34:18** And if they are prophets, and the word of the Lord is in them, let them intercede with the Lord of hosts so that the vessels that had been left behind in the house of the Lord, and in the house of the king of Judah, and in Jerusalem, may not come into Babylon.
+**34:14** 'When seven years have been completed, each one must let go his Hebrew brother who was sold to him; and he will serve you six years, and you will let him go free from you.' Yet your fathers did not listen to Me, nor did they incline their ear.
 
-**34:19** For this is what the Lord of hosts says concerning the pillars, and concerning the sea, and concerning the bases, and concerning the rest of the vessels that have remained in this city,
+**34:15** And you yourselves turned today, and did what is right in My eyes, to proclaim liberty, each one to his friend; and you entered into a covenant in My presence, in the house where My name has been invoked over it;
 
-**34:20** which Nebuchadnezzar king of Babylon did not take when he carried away Jeconiah son of Jehoiakim, king of Judah, from Jerusalem into Babylon, and all the nobles of Judah and Jerusalem:
+**34:16** and you turned back, and defiled My name, and brought back, each one his male slave and each one his female slave, whom you had let go so that they might be free and under their own authority, and you subjugated them so that they might be male slaves and female slaves to you.
 
-**34:22** 'They will be carried away into Babylon, and there they will be until the day of their visitation, says the Lord, and I will cause them to be brought and restored in this place.'"
+**34:17** Therefore this is what the Lord says: You have not listened to Me, to proclaim liberty, each one to his brother and each one to his friend; look, I proclaim liberty to you, says the Lord, to the sword, to pestilence, and to famine, and I will make you a commotion to all the kingdoms of the earth.
+
+**34:18** And I will give over the men who transgress My covenant and have not kept the words of the covenant to which they agreed in My presence, the calf that they cut into two parts and passed between its divisions,
+
+**34:19** the princes of Judah and the princes of Jerusalem, the eunuchs and the priests, and all the people of the land who passed between the divisions of the calf,
+
+**34:20** and I will give them into the hands of their enemies and into the hands of those who seek their life, and their carcass will become food for the birds of the sky and the beasts of the earth.
+
+**34:21** And Zedekiah king of Judah and his princes I will give into the hands of their enemies, and into the hands of those who seek their lives, and into the hands of the armies of the king of Babylon, who have withdrawn from you.
+
+**34:22** Look, I command, says the Lord, and I will bring them back to this city, and they will battle against it, and capture it, and burn it with fire; and the cities of Judah I will make a desolation, because there is no inhabitant."
 
 ## Translator Notes
 
-- **34:2** — The Vulgate reads "vincula et catenas" ("bonds and chains"), rather than the Hebrew "thongs and yoke-bars," a rendering maintained in 35:10-13 with "chain" and "wooden/iron chains."
-- **34:9** — The Vulgate renders "somniatores" ("dreamers"), matching the Septuagint, where the Hebrew Masoretic Text reads "your dreams."
-- **34:10** — Both here and in v. 15, the Vulgate reads third-person plural "ejiciant vos" ("they may drive you out," referring to the false prophets), whereas the Hebrew has first-person singular ("I will drive you out").
-- **34:18** — Latin "occurrant" literally means "let them meet" or "come before," used in the Vulgate here for urgent prophetic intercession before the Lord.
+- **34:5** — The Vulgate reads 'sic comburent te' ('so they will burn you'), referring to royal funeral burnings of aromatic spices in honor of deceased kings (cf. 2 Chronicles 16:14), whereas the Hebrew text reads 'they will burn [spices] for you.'
+- **34:9** — The Vulgate explicitly adds the explanatory phrase 'id est' ('that is') and the conjunction 'et' ('in Judaeo et fratre suo,' 'over a Jew and his brother'), expanding the concise Hebrew 'a Jew, his brother.'
+- **34:16** — Latin 'suae potestatis' ('under their own authority,' literally 'of their own power') renders the Hebrew phrase 'according to their desire' with a Roman legal idiom for legally independent, emancipated persons.
+- **34:18** — Following the Hebrew, the Vulgate places 'vitulum' ('the calf') directly in the accusative without a comparative 'like,' indicating either that the covenant-breakers will be treated like the severed calf or identifying the calf with the covenant ratified between its divided parts.
+- **34:22** — The Vulgate translates the Hebrew 'without an inhabitant' as a causal clause, 'eo quod non sit habitator' ('because there is no inhabitant').

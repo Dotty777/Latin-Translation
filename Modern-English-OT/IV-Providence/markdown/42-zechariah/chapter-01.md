@@ -1,6 +1,6 @@
 # Zechariah 1 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (17 verses, 5 translator notes)  
+> **Status:** `draft: true` (21 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Zechariah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -39,6 +39,14 @@
 
 **1:17** Cry out again, saying, 'This is what the Lord of hosts says: My cities will again overflow with good things, and the Lord will again comfort Zion and will again choose Jerusalem.'"
 
+**1:18** And I lifted up my eyes and saw, and look, four horns.
+
+**1:19** And I said to the angel who was speaking in me, "What are these?" And he said to me, "These are the horns that scattered Judah, Israel, and Jerusalem."
+
+**1:20** And the Lord showed me four craftsmen.
+
+**1:21** And I said, "What are these coming to do?" And he spoke, saying, "These are the horns that scattered Judah, man by man, and none of them lifted up his head; and these have come to terrify them, so that they may cast down the horns of the nations that lifted up a horn over the land of Judah to disperse it."
+
 ## Translator Notes
 
 - **1:4** — Latin reads "your most wicked thoughts" (cogitationibus vestris pessimis), where the Hebrew Masoretic Text has "your evil deeds."
@@ -46,3 +54,5 @@
 - **1:9** — Latin qui loquebatur in me ("who was speaking in me") literally renders the Hebrew preposition, suggesting interior prophetic communication (also in 1:13, 1:14, 2:2, and 2:7).
 - **1:12** — Latin iste jam septuagesimus annus est ("This is now the seventieth year") uses a singular ordinal where the Hebrew has "these seventy years."
 - **1:15** — Latin gentes opulentas ("the wealthy nations") reflects a distinctive Vulgate rendering where the Hebrew describes nations "at ease."
+- **1:18** — In native Clementine Vulgate numbering (Clem1598-USFX), the vision of the four horns and four craftsmen closes chapter 1 as 1:18-21 (mapped to Saints.Bible 2:1-4), and the measuring-line vision stands at 2:1-13 (mapped to Saints.Bible 2:5-17).
+- **1:21** — Latin per singulos viros ("man by man") is a literal Vulgate rendering of a Hebrew idiom usually taken as "so that no man lifted his head."

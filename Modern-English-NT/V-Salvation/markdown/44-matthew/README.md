@@ -1,7 +1,7 @@
 # Matthew — Saints Modern English NT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Division: **V. Salvation (Gospels)**  
-> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; Saints.Bible versification).  
+> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; native Sixto-Clementine Vulgate versification).  
 > **Structured JSON:** [`44-matthew.json`](../../json/44-matthew.json) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Chapters
@@ -23,14 +23,14 @@
 - [Chapter 15](chapter-15.md) — 39 verses, 5 notes
 - [Chapter 16](chapter-16.md) — 28 verses, 5 notes
 - [Chapter 17](chapter-17.md) — 26 verses, 6 notes
-- [Chapter 18](chapter-18.md) — 34 verses, 5 notes, +1 additional
+- [Chapter 18](chapter-18.md) — 35 verses, 5 notes
 - [Chapter 19](chapter-19.md) — 30 verses, 5 notes
 - [Chapter 20](chapter-20.md) — 34 verses, 4 notes
 - [Chapter 21](chapter-21.md) — 46 verses, 5 notes
 - [Chapter 22](chapter-22.md) — 46 verses, 5 notes
-- [Chapter 23](chapter-23.md) — 38 verses, 5 notes, +1 additional
+- [Chapter 23](chapter-23.md) — 39 verses, 6 notes
 - [Chapter 24](chapter-24.md) — 51 verses, 5 notes
 - [Chapter 25](chapter-25.md) — 46 verses, 5 notes
 - [Chapter 26](chapter-26.md) — 75 verses, 8 notes
-- [Chapter 27](chapter-27.md) — 66 verses, 7 notes
+- [Chapter 27](chapter-27.md) — 66 verses, 8 notes
 - [Chapter 28](chapter-28.md) — 20 verses, 5 notes

@@ -1,6 +1,6 @@
 # Ezekiel 8 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (18 verses, 4 translator notes)  
+> **Status:** `draft: true` (18 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -44,6 +44,7 @@
 ## Translator Notes
 
 - **8:2** — Latin aspectus ignis ("appearance of fire") follows the Hebrew consonantal reading "fire" rather than "man" (as in the Septuagint); electri ("electrum") denotes a lustrous gold-silver alloy (or amber), rendering Hebrew chashmal.
+- **8:3** — Latin reads bare spiritus (without Dei or Domini), which can be rendered 'a spirit', 'the spirit', or 'wind' (compare lowercase 'spirit' in 1:12, 1:20, and 10:17, versus 'Spirit of the Lord' in 11:5, 37:1); capitalization as 'the Spirit' is subject to edition-wide editorial policy.
 - **8:10** — Latin depicta erant ("were painted," echoed by picturas "paintings" in verse 11) renders a Hebrew participle meaning "carved" or "engraved," and abominatio stands as a singular noun in apposition rather than an adjective modifying "animals."
 - **8:12** — Latin in abscondito cubiculi sui ("in the hidden place of his chamber") differs from the Hebrew Masoretic Text's "in the rooms of his imagery," and here (as in verses 15 and 17) the Vulgate renders the opening clause as an emphatic statement (Certe, "Surely") rather than a question.
 - **8:14** — Latin Adonidem ("Adonis") is a distinctive Vulgate rendering in which Jerome identifies the Mesopotamian fertility deity Tammuz with his classical Greek counterpart Adonis.

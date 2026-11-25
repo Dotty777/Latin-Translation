@@ -1,9 +1,13 @@
 # Proverbs 19 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (29 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
+
+**19:1** A poor man who walks in his sincerity is better than a rich man who twists his lips and is foolish.
+
+**19:2** Where there is no knowledge of the soul, it is not good, and whoever is hasty with his feet will stumble.
 
 **19:3** A person's folly trips up his steps, and he seethes in his spirit against God.
 

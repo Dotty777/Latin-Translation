@@ -1,7 +1,7 @@
 # Habakkuk — Saints Modern English OT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Division: **IV. Providence (Minor Prophets)**  
-> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; Saints.Bible versification).  
+> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; native Sixto-Clementine Vulgate versification).  
 > **Structured JSON:** [`39-habakkuk.json`](../../json/39-habakkuk.json) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Chapters

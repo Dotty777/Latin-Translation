@@ -1,6 +1,6 @@
 # Nahum 1 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (14 verses, 4 translator notes)  
+> **Status:** `draft: true` (15 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Nahum`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -33,9 +33,12 @@
 
 **1:14** And the Lord will give a command concerning you: "No more will be sown from your name; from the house of your god I will destroy the carved image and the cast image; I will make your grave, because you are dishonored."
 
+**1:15** Look, on the mountains are the feet of one proclaiming good news and announcing peace. Celebrate your festivals, Judah, and pay your vows, for Belial will no longer pass through you; he has wholly perished.
+
 ## Translator Notes
 
 - **1:3** — The Vulgate renders the Hebrew emphatic construction literally as 'cleansing, He will not make one innocent' (mundans non faciet innocentem), meaning He will by no means acquit the guilty. The Latin also reads plural 'His ways' (viae ejus) where the Hebrew has singular 'His way'.
 - **1:7** — Where the Hebrew reads 'a stronghold' and 'those who take refuge in Him', the Vulgate renders 'gives strength' (confortans) and 'those who hope in Him' (sperantes in se).
 - **1:12** — Latin pertransibit ('he will pass away') shifts abruptly to the singular after plural attondentur ('they will be shorn'), mirroring the Hebrew syntax.
 - **1:13** — The Vulgate distinctly reads 'his rod from your back' (virgam ejus de dorso tuo), whereas the Hebrew has 'his yoke from upon you'.
+- **1:15** — In native Clementine Vulgate numbering (Clem1598-USFX), this verse concludes chapter 1 as 1:15 (mapped to Saints.Bible 2:1, shifting 2:1-13 one verse relative to Saints 2:2-14). The Vulgate retains Belial as a proper name rather than translating it as 'the wicked one'.

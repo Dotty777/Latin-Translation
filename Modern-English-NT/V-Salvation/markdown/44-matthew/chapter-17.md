@@ -31,37 +31,37 @@
 
 **17:13** Then the disciples understood that He had spoken to them about John the Baptist.
 
-**17:14** And when He had come to the crowd, a man approached Him, falling to his knees before Him,
+**17:14** And when He had come to the crowd, a man approached Him, falling to his knees before Him, saying, "Lord, have mercy on my son, because he is moonstruck and suffers severely; for he often falls into the fire and frequently into the water.
 
-**17:15** saying, "Lord, have mercy on my son, because he is moonstruck and suffers severely; for he often falls into the fire and frequently into the water.
+**17:15** And I brought him to Your disciples, and they were not able to cure him."
 
-**17:16** And I brought him to Your disciples, and they were not able to cure him."
+**17:16** Then Jesus answered and said, "Unbelieving and perverse generation, how long will I be with you? How long will I bear with you? Bring him here to Me."
 
-**17:17** Then Jesus answered and said, "Unbelieving and perverse generation, how long will I be with you? How long will I bear with you? Bring him here to Me."
+**17:17** And Jesus rebuked him, and the demon went out from him, and the boy was cured from that hour.
 
-**17:18** And Jesus rebuked him, and the demon went out from him, and the boy was cured from that hour.
+**17:18** Then the disciples approached Jesus privately and said, "Why were we not able to cast him out?"
 
-**17:19** Then the disciples approached Jesus privately and said, "Why were we not able to cast him out?"
+**17:19** Jesus said to them, "Because of your unbelief. For amen, I tell you, if you have faith like a mustard seed, you will say to this mountain, 'Move from here to there,' and it will move, and nothing will be impossible for you.
 
-**17:20** Jesus said to them, "Because of your unbelief. For amen, I tell you, if you have faith like a mustard seed, you will say to this mountain, 'Move from here to there,' and it will move, and nothing will be impossible for you."
+**17:20** Now this kind is not cast out except through prayer and fasting."
 
-**17:22** While they were staying in Galilee, Jesus said to them, "The Son of Man is to be delivered into the hands of men,
+**17:21** While they were staying in Galilee, Jesus said to them, "The Son of Man is to be delivered into the hands of men,
 
-**17:23** and they will kill Him, and on the third day He will rise." And they were deeply grieved.
+**17:22** and they will kill Him, and on the third day He will rise." And they were deeply grieved.
 
-**17:24** And when they had come to Capernaum, those who collected the two-drachma tax approached Peter and said to him, "Does your Teacher not pay the two-drachma tax?"
+**17:23** And when they had come to Capernaum, those who collected the two-drachma tax approached Peter and said to him, "Does your Teacher not pay the two-drachma tax?"
 
-**17:25** He said, "Yes." And when he had entered the house, Jesus spoke to him first, saying, "What do you think, Simon? From whom do the kings of the earth collect tribute or poll tax? From their own sons, or from strangers?"
+**17:24** He said, "Yes." And when he had entered the house, Jesus spoke to him first, saying, "What do you think, Simon? From whom do the kings of the earth collect tribute or poll tax? From their own sons, or from strangers?"
 
-**17:26** And he said, "From strangers." Jesus said to him, "Then the sons are free.
+**17:25** And he said, "From strangers." Jesus said to him, "Then the sons are free.
 
-**17:27** Yet so that we do not cause them to stumble, go to the sea and cast a hook, and take the fish that comes up first; and opening its mouth, you will find a stater. Taking it, give it to them for Me and you."
+**17:26** Yet so that we do not cause them to stumble, go to the sea and cast a hook, and take the fish that comes up first; and opening its mouth, you will find a stater. Taking it, give it to them for Me and you."
 
 ## Translator Notes
 
 - **17:2** — The Vulgate reads "sicut nix" ("like snow"), whereas most modern critical Greek texts read "as light."
 - **17:4** — The Vulgate uses the first-person plural "faciamus" ("let us make"), matching the Byzantine tradition rather than the singular ("I will make") found in most modern critical Greek texts.
-- **17:14** — The Vulgate reads singular "cum venisset" ("when He had come") rather than plural "when they had come."
-- **17:15** — In the Latin text this verse is included in verse 14. "Moonstruck" literally renders Latin "lunaticus," an ancient term for periodic seizures or epilepsy.
-- **17:20** — The Vulgate reads "incredulitatem" ("unbelief") and includes the emphatic particle "quippe" ("for indeed"), whereas most modern critical Greek editions read "little faith."
-- **17:27** — A "stater" was a silver coin worth four drachmas, exactly covering the "didrachma" (the two-drachma temple tax in 17:24) for both Jesus and Peter.
+- **17:14** — Native Clementine Vulgate Matthew 17:14 combines Saints.Bible 17:14 and 17:15 (shifting native 17:15-19 to Saints 17:16-20). The Vulgate reads singular "cum venisset" ("when He had come") rather than plural "when they had come," and "moonstruck" literally renders Latin "lunaticus," an ancient term for periodic seizures or epilepsy.
+- **17:19** — The Vulgate reads "incredulitatem" ("unbelief") and includes the emphatic particle "quippe" ("for indeed"), whereas most modern critical Greek editions read "little faith." Native Vulgate numbers this verse 17:19, continuing Jesus's speech into native 17:20 (traditional 17:21).
+- **17:20** — Native Vulgate Matthew 17:20 corresponds to traditional Matthew 17:21 (omitted from many modern critical Greek editions and absent from Saints.Bible Greek numbering), because native Vulgate 17:14 combines Saints.Bible 17:14-15 (so native 17:15-19 map to Saints 17:16-20, native 17:20 is this verse, and native 17:21-26 map to Saints 17:22-27).
+- **17:26** — A "stater" was a silver coin worth four drachmas, exactly covering the "didrachma" (the two-drachma temple tax in 17:24) for both Jesus and Peter.

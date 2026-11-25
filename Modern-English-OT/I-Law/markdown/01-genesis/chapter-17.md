@@ -23,7 +23,7 @@
 
 **17:9** God said again to Abraham, "And you therefore shall keep My covenant, and your seed after you throughout their generations.
 
-**17:10** This is the covenant that you shall observe between Me and you, and your seed after you: every male among you shall be circumcised,
+**17:10** This is My covenant that you shall observe between Me and you, and your seed after you: every male among you shall be circumcised,
 
 **17:11** and you shall circumcise the flesh of your foreskin, so that it may be a sign of the covenant between Me and you.
 
@@ -51,7 +51,7 @@
 
 **17:23** Then Abraham took his son Ishmael, and all the homeborn of his household, and all whom he had purchased, all the males among all the men of his household, and circumcised the flesh of their foreskin immediately on that very day, just as God had commanded him.
 
-**17:24** He was ninety-nine years old when he circumcised the flesh of his foreskin.
+**17:24** Abraham was ninety-nine years old when he circumcised the flesh of his foreskin.
 
 **17:25** And his son Ishmael had completed thirteen years at the time of his circumcision.
 

@@ -1,6 +1,6 @@
 # 2 Chronicles 1 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (18 verses, 5 translator notes)  
+> **Status:** `draft: true` (17 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`2 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -39,12 +39,9 @@
 
 **1:17** a four-horse chariot for six hundred pieces of silver, and a horse for one hundred fifty; similarly, purchasing was carried on from all the kingdoms of the Hittites and from the kings of Syria.
 
-**1:18** Now Solomon resolved to build a house for the name of the Lord, and a palace for himself.
-
 ## Translator Notes
 
 - **1:2** — Latin uses Roman military titles (tribunis, et centurionibus, 'tribunes and centurions') for the Hebrew commanders of thousands and hundreds, and reads praecepit ('gave orders') where the Hebrew has 'spoke.'
 - **1:3** — Latin tabernaculum foederis ('tabernacle of the covenant,' also in 1:6, 1:13) is a distinctly Vulgate rendering of Hebrew 'tent of meeting.'
 - **1:13** — Latin reads in Jerusalem coram tabernaculo foederis ('to Jerusalem, before the tabernacle of the covenant'), placing coram ('before') after in Jerusalem rather than 'from before the tent of meeting' as in the Hebrew.
 - **1:17** — Distinctly Vulgate reading: Latin de universis regnis Hethaeorum, et a regibus Syriae emptio celebrabatur describes purchasing horses and four-horse chariots from all the kingdoms of the Hittites and from the kings of Syria, whereas the Hebrew describes exporting them to the kings of the Hittites and Aram.
-- **1:18** — In the Vulgate chapter division, 1:18 corresponds to 2:1 in the Hebrew Masoretic Text (shifting the verse numbers of chapter 2 by one); Latin also renders Hebrew 'house for his kingdom' as palatium ('palace').

@@ -1,6 +1,6 @@
 # Exodus 7 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (25 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -55,18 +55,9 @@
 
 **7:25** And seven days were completed after the Lord struck the river.
 
-**7:26** The Lord also said to Moses, "Go in to Pharaoh, and you will say to him, 'This is what the Lord says: "Let My people go, so that they may sacrifice to Me;
-
-**7:27** but if you refuse to let them go, look, I will strike all your borders with frogs,
-
-**7:28** and the river will swarm with frogs, which will come up and enter your house, and the chamber of your bed, and upon your couch, and into the houses of your servants, and among your people, and into your ovens, and into the remains of your food;
-
-**7:29** and the frogs will come in to you, and to your people, and to all your servants."'"
-
 ## Translator Notes
 
 - **7:1** — Latin Deum Pharaonis (literally "God of Pharaoh," where the Hebrew has "God to Pharaoh") signifies that Moses will stand in God's place with authority over Pharaoh while Aaron speaks as his prophet.
 - **7:10** — The Vulgate reads tulit ("took"), whereas the Hebrew says Aaron cast down his staff.
 - **7:12** — The Vulgate shifts from colubrum ("serpent," vv. 9-10) to dracones/draconem ("dragons"/"dragon," vv. 12, 15), where the Hebrew uses a single term throughout.
 - **7:13** — The Vulgate reads sicut praeceperat Dominus ("just as the Lord had commanded," also in v. 22), whereas the Hebrew has "as the Lord had spoken."
-- **7:28** — The Vulgate translates "into the remains of your food" (in reliquias ciborum tuorum) where the Hebrew has "into your kneading bowls." Following the Hebrew chapter division, vv. 26-29 conclude chapter 7 in this Latin text (8:1-4 in the alternative numbering).

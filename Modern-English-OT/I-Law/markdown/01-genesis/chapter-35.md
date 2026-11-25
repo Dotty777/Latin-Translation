@@ -1,6 +1,6 @@
 # Genesis 35 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (29 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -13,13 +13,13 @@
 
 **35:4** So they gave him all the foreign gods that they had and the earrings that were in their ears; and he buried them beneath the terebinth that is behind the city of Shechem.
 
-**35:5** And when they had set out, the terror of God fell upon everyone all around the city, and they did not dare to pursue them as they departed.
+**35:5** And when they had set out, the terror of God fell upon all the cities all around, and they did not dare to pursue them as they departed.
 
 **35:6** So Jacob came to Luz, which is in the land of Canaan, called by the name Bethel, he himself and all the people with him.
 
-**35:7** And he built an altar there, and called the name of the place House of God, for there God appeared to him when he was fleeing from his brother.
+**35:7** And he built an altar there, and called the name of that place House of God, for there God appeared to him when he was fleeing from his brother.
 
-**35:8** At the same time Deborah, the nurse of Rebekah, died, and she was buried at the foot of Bethel beneath an oak; and the name of the place was called Oak of Weeping.
+**35:8** At the same time Deborah, the nurse of Rebekah, died, and she was buried at the foot of Bethel beneath an oak; and the name of that place was called Oak of Weeping.
 
 **35:9** Now God appeared again to Jacob after he returned from Mesopotamia of Syria, and blessed him,
 
@@ -33,7 +33,7 @@
 
 **35:14** Then he set up a stone pillar in the place where God had spoken to him, offering libations upon it and pouring out oil,
 
-**35:15** and calling the name of the place Bethel.
+**35:15** and calling the name of that place Bethel.
 
 **35:16** Having gone out from there, he came in the springtime to the land that leads to Ephrath, in which, while Rachel was in labor,
 
@@ -44,6 +44,8 @@
 **35:19** So Rachel died and was buried on the road that leads to Ephrath; this is Bethlehem.
 
 **35:20** And Jacob set up a pillar over her tomb; this is the pillar of Rachel's monument to the present day.
+
+**35:21** Having gone out from there, he pitched his tent beyond the Tower of the Flock.
 
 **35:22** And while he was living in that region, Reuben went and slept with Bilhah, his father's concubine; and this was not at all hidden from him. Now the sons of Jacob were twelve.
 
@@ -61,15 +63,10 @@
 
 **35:29** And worn out by age, he died, and was joined to his people, old and full of days; and his sons Esau and Jacob buried him.
 
-## Additional Verses (Not in Saints Numbering)
-
-**35:21** *(after `35:20`)* Having gone out from there, he pitched his tent beyond the Tower of the Flock.
-
 ## Translator Notes
 
-- **35:5** — The Latin text reads the genitive singular 'civitatis' ('everyone all around the city,' referring to Shechem), whereas the Hebrew speaks of plural 'cities' around them.
 - **35:7** — The Vulgate translates the Hebrew place name El-bethel as 'House of God' (Domus Dei), and likewise translates Allon-bacuth in v. 8 as 'Oak of Weeping' (Quercus fletus) and Paddan-aram in vv. 9 and 26 as 'Mesopotamia of Syria' (Mesopotamiam Syriae).
 - **35:16** — Latin 'verno tempore' ('in the springtime') is a distinctive Vulgate rendering of the Hebrew phrase for a short distance of travel.
-- **35:18** — The Vulgate supplies explicit etymological glosses for both names—'that is, Son of my pain' (Filius doloris mei) and 'that is, Son of the right hand' (Filius dexterae)—which do not appear in the Hebrew text.
+- **35:18** — The Vulgate supplies explicit etymological glosses for both names—'that is, Son of my pain' (Filius doloris mei, for Latin Benomi) and 'that is, Son of the right hand' (Filius dextrae)—which do not appear in the Hebrew text.
+- **35:21** — Latin Turrem gregis ('Tower of the Flock') translates the Hebrew place name Migdal-eder.
 - **35:29** — Latin 'Consumptusque aetate' ('worn out by age') and 'appositus' ('joined' or 'placed beside') are distinctive Vulgate renderings of the Hebrew expressions 'breathed his last' and 'was gathered.'
-- **35:21 *(additional)*** — Latin Turrem gregis ('Tower of the Flock') translates the Hebrew place name Migdal-eder.

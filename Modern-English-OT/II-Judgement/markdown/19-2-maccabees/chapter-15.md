@@ -1,6 +1,6 @@
 # 2 Maccabees 15 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (39 verses, 5 translator notes)  
+> **Status:** `draft: true` (40 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`2 Maccabees`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -77,11 +77,13 @@
 
 **15:36** Therefore all of them decreed by common consent in no way to let that day pass without celebration.
 
-**15:37** So, with these matters concerning Nicanor accomplished, and the city having been possessed by the Hebrews from those times, I also will make an end of the account at this point.
+**15:37** Rather, they were to hold a celebration on the thirteenth day of the month of Adar, as it is called in the Syriac tongue, the day before Mordecai's day.
 
-**15:38** And if indeed it is well done, and as befits a history, this is what I myself would wish; but if less worthily, allowance must be made for me.
+**15:38** So, with these matters concerning Nicanor accomplished, and the city having been possessed by the Hebrews from those times, I also will make an end of the account at this point.
 
-**15:39** For just as always drinking wine, or always water, is harmful, while using them in turn is delightful, so for readers, if the account is always exacting, it will not be pleasing. Here, therefore, it will be completed.
+**15:39** And if indeed it is well done, and as befits a history, this is what I myself would wish; but if less worthily, allowance must be made for me.
+
+**15:40** For just as always drinking wine, or always water, is harmful, while using them in turn is delightful, so for readers, if the account is always exacting, it will not be pleasing. Here, therefore, it will be completed.
 
 ## Translator Notes
 
@@ -89,4 +91,5 @@
 - **15:32** — The Latin verse has no main verb of its own: ostenso capite... is an ablative absolute and gloriatus est belongs to the relative clause, so the sentence continues with jussit ("ordered") in verse 33.
 - **15:34** — Omnes igitur cæli can be construed "all the heavens" (as here) or, taking cæli as genitive with Dominum, "all blessed the Lord of heaven"; the Greek has "all [the people], looking toward heaven, blessed the manifest Lord."
 - **15:36** — The Latin text here ends the sentence after "without celebration" and has no equivalent of the Greek specification of the date (the thirteenth day of the twelfth month, Adar, the day before Mordecai's day).
-- **15:39** — The Vulgate epilogue differs markedly from the Greek: it contrasts always drinking wine or water with using them in turn (rather than mixing them), and notes that an account that is "always exacting" (semper exactus) will not please readers.
+- **15:37** — Native Vulgate 2 Maccabees 15:37 maps to Saints.Bible 15:36b (shifting native 15:38-40 to Saints.Bible 15:37-39).
+- **15:40** — The Vulgate epilogue differs markedly from the Greek: it contrasts always drinking wine or water with using them in turn (rather than mixing them), and notes that an account that is "always exacting" (semper exactus) will not please readers.

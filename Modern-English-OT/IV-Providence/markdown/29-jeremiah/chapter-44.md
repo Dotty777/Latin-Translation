@@ -1,54 +1,73 @@
 # Jeremiah 44 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (20 verses, 5 translator notes)  
+> **Status:** `draft: true` (30 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**44:1** And King Zedekiah son of Josiah reigned in place of Jeconiah son of Jehoiakim, whom Nebuchadnezzar king of Babylon appointed king in the land of Judah.
+**44:1** The word that came through Jeremiah to all the Jews who were living in the land of Egypt, living in Migdol, and in Tahpanhes, and in Memphis, and in the land of Pathros, saying:
 
-**44:2** And neither he himself, nor his servants, nor the people of the land obeyed the words of the Lord, which He spoke by the hand of Jeremiah the prophet.
+**44:2** "This is what the Lord of hosts, the God of Israel, says: You have seen all this evil that I have brought upon Jerusalem and upon all the cities of Judah; and look, they are deserted today, and there is no inhabitant in them,
 
-**44:3** And King Zedekiah sent Jehucal son of Shelemiah, and Zephaniah son of Maaseiah the priest, to Jeremiah the prophet, saying, "Pray for us to the Lord our God."
+**44:3** because of the wickedness that they did to provoke Me to anger, going to sacrifice and to worship foreign gods whom they did not know—neither they, nor you, nor your fathers.
 
-**44:4** Now Jeremiah was walking freely in the midst of the people, for they had not put him into the custody of the prison. Then Pharaoh's army came out from Egypt, and the Chaldeans who were besieging Jerusalem, hearing such a report, withdrew from Jerusalem.
+**44:4** And I sent to you all My servants the prophets, rising in the night, sending and saying, 'Do not do an abominable thing of this kind, which I hate.'
 
-**44:6** And the word of the Lord came to Jeremiah the prophet, saying:
+**44:5** And they did not listen, nor did they incline their ear to turn from their evils and not sacrifice to foreign gods.
 
-**44:7** "This is what the Lord God of Israel says: In this way you will say to the king of Judah, who sent you to inquire of Me, 'Look, Pharaoh's army, which came out to your aid, will return to its own land, to Egypt,
+**44:6** And My indignation and My fury flared up and were kindled in the cities of Judah and in the streets of Jerusalem, and they have been turned into a wasteland and a devastation, as on this day.
 
-**44:8** and the Chaldeans will come back and wage war against this city, and capture it, and burn it with fire.'
+**44:7** And now this is what the Lord of hosts, the God of Israel, says: Why are you doing this great evil against your own souls, so that man and woman, little child and nursing infant perish from among you, from the midst of Judah, and nothing remaining is left to you,
 
-**44:9** This is what the Lord says: Do not deceive your souls, saying, 'Going away, the Chaldeans will depart and withdraw from us,' for they will not depart.
+**44:8** provoking Me with the works of your hands, by sacrificing to foreign gods in the land of Egypt, into which you have entered to live there, so that you perish and become a curse and a reproach to all the nations of the earth?
 
-**44:10** But even if you strike down the entire army of the Chaldeans who are fighting against you, and some wounded men are left from among them, each one will rise up from his tent and burn this city with fire."
+**44:9** Have you forgotten the evils of your fathers, and the evils of the kings of Judah, and the evils of his wives, and your own evils, and the evils of your wives, which they did in the land of Judah and in the regions of Jerusalem?
 
-**44:11** Therefore, when the army of the Chaldeans had withdrawn from Jerusalem because of Pharaoh's army,
+**44:10** They have not been cleansed to this day, and they have not feared, and they have not walked in the law of the Lord and in My precepts, which I set before you and before your fathers.
 
-**44:12** Jeremiah went out from Jerusalem to go into the land of Benjamin and to divide a possession there in the presence of the citizens.
+**44:11** Therefore this is what the Lord of hosts, the God of Israel, says: Look, I will set My face against you for evil, and I will destroy all Judah.
 
-**44:13** And when he had arrived at the Gate of Benjamin, a guard of the gate was there by turns, named Irijah son of Shelemiah, son of Hananiah; and he seized Jeremiah the prophet, saying, "You are deserting to the Chaldeans."
+**44:12** And I will take the remnant of Judah who have set their faces to enter the land of Egypt and live there, and they will all be consumed in the land of Egypt; they will fall by the sword and by famine, and they will be consumed from the least to the greatest; by the sword and by famine they will die, and they will become an oath, and a wonder, and a curse, and a reproach.
 
-**44:14** And Jeremiah answered, "It is false; I am not fleeing to the Chaldeans." Yet he did not listen to him, but Irijah arrested Jeremiah and brought him to the officials.
+**44:13** And I will punish the inhabitants of the land of Egypt just as I punished Jerusalem, with sword, and famine, and plague;
 
-**44:15** Because of this, the officials, angry against Jeremiah, beat him and put him into the prison that was in the house of Jonathan the scribe; for he himself had been set over the prison.
+**44:14** and there will be no one who escapes or remains from the remnant of the Jews who go to sojourn in the land of Egypt and to return to the land of Judah, toward which they lift up their souls to return and live there; they will not return, except those who have escaped."
 
-**44:16** So Jeremiah entered into the house of the pit and into the dungeon; and Jeremiah stayed there for many days.
+**44:15** Then all the men who knew that their wives were sacrificing to foreign gods, and all the women, of whom a great multitude was standing there, and all the people living in the land of Egypt in Pathros, answered Jeremiah, saying:
 
-**44:17** Then King Zedekiah sent and brought him, and he questioned him secretly in his house, and said, "Do you think there is a word from the Lord?" And Jeremiah said, "There is." And he said, "You will be delivered into the hands of the king of Babylon."
+**44:16** "As for the word that you have spoken to us in the name of the Lord, we will not listen to it from you;
 
-**44:18** And Jeremiah said to King Zedekiah, "How have I sinned against you, and against your servants, and against your people, that you have put me into the house of the prison?
+**44:17** but we will surely do every word that will go out from our mouth, to sacrifice to the queen of heaven and to pour out libations to her, just as we and our fathers, our kings and our princes did in the cities of Judah and in the streets of Jerusalem; and we were filled with bread, and it went well with us, and we saw no evil.
 
-**44:19** Where are your prophets who prophesied to you and said, 'The king of Babylon will not come upon you and upon this land'?
+**44:18** But from the time when we ceased sacrificing to the queen of heaven and pouring out libations to her, we lack everything, and we have been consumed by sword and by famine.
 
-**44:20** Now therefore listen, I plead with you, my lord the king: may my plea prevail in your presence, and do not send me back into the house of Jonathan the scribe, so that I do not die there."
+**44:19** And if we sacrifice to the queen of heaven and pour out libations to her, did we make cakes for her to worship her and pour out libations to her without our husbands?"
 
-**44:21** Therefore King Zedekiah commanded that Jeremiah be committed to the courtyard of the prison, and that a loaf of bread be given to him daily, besides stew, until all the loaves from the city were consumed; and Jeremiah remained in the courtyard of the prison.
+**44:20** And Jeremiah said to all the people—against the men, and against the women, and against the whole populace—who had answered him a word, saying:
+
+**44:21** "The sacrifice that you sacrificed in the cities of Judah and in the streets of Jerusalem—you and your fathers, your kings and your princes, and the people of the land—did the Lord not remember these things, and did it not come up upon His heart?
+
+**44:22** And the Lord could no longer bear it because of the wickedness of your pursuits and because of the abominations that you committed; and your land has become a desolation, and an astonishment, and a curse, because there is no inhabitant, as it is this day.
+
+**44:23** Because you sacrificed to idols, and sinned against the Lord, and did not listen to the voice of the Lord, and did not walk in His law, and in His precepts, and in His testimonies, therefore these evils have come upon you, as it is this day."
+
+**44:24** Then Jeremiah said to all the people and to all the women, "Hear the word of the Lord, all Judah who are in the land of Egypt.
+
+**44:25** This is what the Lord of hosts, the God of Israel, says: You and your wives have spoken with your mouth, and with your hands you have fulfilled it, saying, 'Let us perform our vows that we have vowed, to sacrifice to the queen of heaven and to pour out libations to her.' You have fulfilled your vows, and in deed you have carried them out.
+
+**44:26** Therefore hear the word of the Lord, all Judah who live in the land of Egypt: Look, I have sworn by My great name, says the Lord, that My name will by no means any longer be called upon from the mouth of any Jewish man saying, 'The Lord God lives,' in all the land of Egypt.
+
+**44:27** Look, I will watch over them for evil and not for good; and all the men of Judah who are in the land of Egypt will be consumed by sword and by famine, until they are completely consumed.
+
+**44:28** And those who escape the sword will return from the land of Egypt to the land of Judah, a few men; and all the remnant of Judah, of those entering the land of Egypt to live there, will know whose word will be fulfilled, Mine or theirs.
+
+**44:29** And this is a sign to you, says the Lord, that I will punish you in this place, so that you may know that My words will truly be fulfilled against you for evil:
+
+**44:30** This is what the Lord says: Look, I will hand over Pharaoh Hophra, king of Egypt, into the hand of his enemies and into the hand of those seeking his life, just as I handed over Zedekiah, king of Judah, into the hand of Nebuchadnezzar, king of Babylon, his enemy and the one seeking his life."
 
 ## Translator Notes
 
-- **44:4** — In this critical text, verse 4 includes the clause concerning Pharaoh's army and the Chaldeans' withdrawal (often numbered separately as verse 5), and Latin libere ambulabat ("was walking freely") renders the Hebrew idiom "coming in and going out."
-- **44:12** — Latin et divideret ibi possessionem in conspectu civium ("and to divide a possession there in the presence of the citizens") resolves a notoriously difficult Hebrew clause as a public division of property.
-- **44:15** — Latin ipse enim praepositus erat super carcerem ("for he himself had been set over the prison") identifies Jonathan as the warden in charge, whereas the Hebrew states that his house had been made into the prison.
-- **44:16** — Latin in domum laci et in ergastulum ("into the house of the pit and into the dungeon") pairs a literal rendering of "house of the cistern/pit" with the singular Roman term ergastulum ("dungeon"), where the Hebrew has plural "vaulted cells."
-- **44:21** — Latin excepto pulmento ("besides stew") is a distinctive Vulgate reading for the Hebrew phrase "from the street of the bakers."
+- **44:1** — The Vulgate reads 'through Jeremiah' (per Jeremiam) rather than Hebrew 'to Jeremiah,' and follows the Septuagint in rendering Hebrew Noph as 'Memphis.' Native Vulgate chapters 44-45 map to Saints.Bible chapter 51 (51:1-30 and 51:31-35).
+- **44:3** — Here and throughout the chapter (vv. 5, 8, 15, 17-19, 21, 23, 25), the Vulgate renders Hebrew 'burn incense' as 'sacrifice' (sacrificare), and in v. 23 explicitly adds 'to idols' (idolis).
+- **44:10** — The Vulgate reads 'They have not been cleansed' (Non sunt mundati) where the Hebrew has 'they have not been contrite/humbled,' and 'in the law of the Lord' (in lege Domini) where the Hebrew has 'in my law.'
+- **44:12** — The Vulgate renders Hebrew 'desolation/horror' as 'a wonder' (miraculum), meaning an astonishing spectacle. Likewise in v. 19 the Vulgate reads 'to worship her' (ad colendum eam) rather than Hebrew 'to portray her,' and in v. 25 uses past indicatives where the Hebrew uses ironic imperatives.

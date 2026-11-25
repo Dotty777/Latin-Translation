@@ -1,6 +1,6 @@
 # Jeremiah 6 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (30 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -64,10 +64,6 @@
 **6:29** The bellows have failed; in the fire the lead has been consumed. In vain has the refiner refined, for their acts of wickedness have not been consumed.
 
 **6:30** Call them rejected silver, because the Lord has rejected them."
-
-## Additional Verses (Not in Saints Numbering)
-
-**7:1** *(after `6:30`)* The word that came to Jeremiah from the Lord, saying:
 
 ## Translator Notes
 

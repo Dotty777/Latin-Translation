@@ -1,6 +1,6 @@
 # Wisdom of Solomon 5 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes)  
+> **Status:** `draft: true` (24 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Wisdom of Solomon`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -29,32 +29,34 @@
 
 **5:12** or like an arrow shot toward a designated place, the divided air immediately closed back into itself, so that its passage is unknown:
 
-**5:13** so we too, once born, immediately ceased to be; and indeed we were able to show no sign of virtue, but in our wickedness we were consumed." Such things those who sinned spoke in the underworld,
+**5:13** so we too, once born, immediately ceased to be; and indeed we were able to show no sign of virtue, but in our wickedness we were consumed."
 
-**5:14** because the hope of the wicked man is like thistledown that is carried off by the wind, and like thin foam that is scattered by a storm, and like smoke that is dispersed by the wind, and like the memory of a guest of one day passing by.
+**5:14** Such things those who sinned spoke in the underworld,
 
-**5:15** But the righteous will live forever, and their reward is with the Lord, and thought for them is with the Most High.
+**5:15** because the hope of the wicked man is like thistledown that is carried off by the wind, and like thin foam that is scattered by a storm, and like smoke that is dispersed by the wind, and like the memory of a guest of one day passing by.
 
-**5:16** Therefore they will receive a kingdom of splendor and a diadem of beauty from the hand of the Lord; because with His right hand He will shelter them, and with His holy arm He will defend them.
+**5:16** But the righteous will live forever, and their reward is with the Lord, and thought for them is with the Most High.
 
-**5:17** His zeal will take up armor and arm creation for vengeance upon enemies.
+**5:17** Therefore they will receive a kingdom of splendor and a diadem of beauty from the hand of the Lord; because with His right hand He will shelter them, and with His holy arm He will defend them.
 
-**5:18** He will put on righteousness as a breastplate, and He will take certain judgment as a helmet;
+**5:18** His zeal will take up armor and arm creation for vengeance upon enemies.
 
-**5:19** He will take up equity as an unconquerable shield.
+**5:19** He will put on righteousness as a breastplate, and He will take certain judgment as a helmet;
 
-**5:20** And He will sharpen harsh wrath into a spear, and the whole world will fight with Him against the senseless.
+**5:20** He will take up equity as an unconquerable shield.
 
-**5:21** Bolts of lightning will go straight, and as from a well-bent bow of the clouds they will be driven forth, and they will leap to a fixed place.
+**5:21** And He will sharpen harsh wrath into a spear, and the whole world will fight with Him against the senseless.
 
-**5:22** And from stony wrath, full hailstones will be sent; the water of the sea will rage against them, and rivers will rush together harshly.
+**5:22** Bolts of lightning will go straight, and as from a well-bent bow of the clouds they will be driven forth, and they will leap to a fixed place.
 
-**5:23** A spirit of might will stand against them, and like a tempest of wind it will divide them; and their iniquity will bring the whole earth to a wasteland, and wickedness will overturn the thrones of the mighty.
+**5:23** And from stony wrath, full hailstones will be sent; the water of the sea will rage against them, and rivers will rush together harshly.
+
+**5:24** A spirit of might will stand against them, and like a tempest of wind it will divide them; and their iniquity will bring the whole earth to a wasteland, and wickedness will overturn the thrones of the mighty.
 
 ## Translator Notes
 
 - **5:6** — Vulgate-distinct reading: Latin adds intelligentiæ ("of understanding") to "the sun," and in 5:7 reads lassati sumus ("we grew weary") where the Greek has "we had our fill."
-- **5:13** — Vulgate-distinct clause: Talia dixerunt in inferno hi qui peccaverunt ("Such things those who sinned spoke in the underworld") is a Vulgate transition not present in the standard Greek text.
-- **5:14** — Vulgate-distinct reading: spuma gracilis ("thin foam") contrasts with the Greek Septuagint ("thin frost").
-- **5:17** — Vulgate-distinct syntax: zelus illius ("His zeal") is the nominative subject of Accipiet ("will take up"), whereas the Greek treats "His zeal" as an accusative in apposition to "full armor."
-- **5:22** — Vulgate-distinct reading: a petrosa ira plenæ ... grandines ("from stony wrath, full hailstones") reflects the Clementine Latin wording, whereas the Greek reads "from a catapult, hailstones full of wrath."
+- **5:14** — Vulgate-distinct verse: Talia dixerunt in inferno hi qui peccaverunt ("Such things those who sinned spoke in the underworld") is a Vulgate transition absent from the standard Greek text (shifting native Vulgate 5:15-24 one verse ahead of Saints 5:14-23).
+- **5:15** — Vulgate-distinct reading: spuma gracilis ("thin foam") contrasts with the Greek Septuagint ("thin frost"). Native Vulgate Wisdom 5:15-24 runs one verse ahead of Saints/Greek 5:14-23 because native 5:14 occupies its own verse slot.
+- **5:18** — Vulgate-distinct syntax: zelus illius ("His zeal") is the nominative subject of Accipiet ("will take up"), whereas the Greek treats "His zeal" as an accusative in apposition to "full armor."
+- **5:23** — Vulgate-distinct reading: a petrosa ira plenæ ... grandines ("from stony wrath, full hailstones") reflects the Clementine Latin wording, whereas the Greek reads "from a catapult, hailstones full of wrath."

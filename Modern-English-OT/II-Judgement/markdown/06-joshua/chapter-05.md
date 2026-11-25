@@ -1,6 +1,6 @@
 # Joshua 5 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (15 verses, 4 translator notes)  
+> **Status:** `draft: true` (16 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -33,11 +33,14 @@
 
 **5:14** He answered, "Not at all, but I am the commander of the army of the Lord, and now I come."
 
-**5:15** "Loosen your sandal from your feet," he said, "for the place on which you are standing is holy." And Joshua did as he had been ordered.
+**5:15** Joshua fell face down to the ground, and bowing in homage, he said, "What does my lord speak to his servant?"
+
+**5:16** "Loosen your sandal from your feet," he said, "for the place on which you are standing is holy." And Joshua did as he had been ordered.
 
 ## Translator Notes
 
 - **5:4** — Latin per longissimos viæ circuitus ("along the very long circuits of the way") expands the Hebrew phrase "on the way" to highlight the prolonged desert wanderings.
 - **5:11** — Latin ejusdem anni ("of the same year")—paralleled by præsentis anni ("of the present year") in 5:12—is a Vulgate-distinct reading where the Hebrew reads "on that very day."
 - **5:13** — Latin in agro urbis Jericho ("in the field of the city of Jericho") specifies the open countryside outside the city, where the Hebrew reads simply "by Jericho."
-- **5:15** — In this Latin text, the verse opens directly with the commander's order (Solve, inquit, "Loosen, he said"), corresponding to verse 16 in traditional Clementine Vulgate numbering without the intervening lines describing Joshua's prostration.
+- **5:15** — Native Vulgate Joshua 5:15 (Joshua's prostration) maps to Saints.Bible 5:14b, and native Vulgate 5:16 ('Solve, inquit...') maps to Saints.Bible 5:15.
+- **5:16** — Native Vulgate numbers the commander's sandal command as 5:16 (mapping to Saints.Bible 5:15), following Joshua's prostration in native 5:15.

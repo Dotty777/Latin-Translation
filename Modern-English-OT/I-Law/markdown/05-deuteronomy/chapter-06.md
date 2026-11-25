@@ -1,6 +1,6 @@
 # Deuteronomy 6 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (23 verses, 5 translator notes)  
+> **Status:** `draft: true` (25 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Deuteronomy`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -25,7 +25,11 @@
 
 **6:10** And when the Lord your God has brought you into the land regarding which He swore to your fathers Abraham, Isaac, and Jacob, and has given you great and most excellent cities that you did not build,
 
-**6:11** houses full of all riches, which you did not construct, cisterns that you did not dig, vineyards and olive groves that you did not plant, and you have eaten and been satisfied, be very careful not to forget the Lord, who led you out from the land of Egypt, from the house of slavery. You shall fear the Lord your God, and Him alone you shall serve, and by His name you shall swear.
+**6:11** houses full of all riches, which you did not construct, cisterns that you did not dig, vineyards and olive groves that you did not plant,
+
+**6:12** and you have eaten and been satisfied,
+
+**6:13** be very careful not to forget the Lord, who led you out from the land of Egypt, from the house of slavery. You shall fear the Lord your God, and Him alone you shall serve, and by His name you shall swear.
 
 **6:14** You shall not go after the foreign gods of all the nations that are around you,
 
@@ -55,6 +59,7 @@
 
 - **6:4** — Latin 'Dominus Deus noster, Dominus unus est' uses a single verb 'est' and can be read either as "the Lord our God is one Lord" (taking 'Dominus unus' as predicate) or "the Lord our God, the Lord is one."
 - **6:8** — Latin 'eruntque et movebuntur' ("and they shall be and move") stands where the Hebrew has a rare noun for bands or frontlets; likewise, v. 9 reads 'in limine, et ostiis' ("on the threshold and the doors") rather than Hebrew "doorposts" and "gates."
-- **6:11** — In this Latin text, the material corresponding to standard verses 11-13 is combined under v. 11; note also the Vulgate-distinct readings 'quas non exstruxisti' ("which you did not construct," vs. Hebrew "fill") and 'illi soli' ("Him alone," matching the Septuagint and Matt 4:10).
+- **6:11** — Native Clementine Vulgate divides 6:11-13 separately (mapped to Saints.Bible 6:11); note the Vulgate-distinct reading 'quas non exstruxisti' ("which you did not construct," vs. Hebrew "fill"). Native Vulgate Deuteronomy 6:11-13 separate these clauses across three verses (6:11-13). Note the Vulgate-distinct readings 'quas non exstruxisti' ("which you did not construct," vs. Hebrew "fill") and 'illi soli' ("Him alone," matching the Septuagint and Matt 4:10).
+- **6:13** — Latin 'illi soli' ("Him alone") matches the Septuagint and Matt 4:10.
 - **6:16** — Latin 'in loco tentationis' ("at the place of testing") translates the Hebrew place name Massah according to its meaning.
 - **6:25** — Latin 'Eritque nostri misericors' ("And He will be merciful to us") aligns with the Septuagint in reading "mercy" where the Hebrew Masoretic Text reads "righteousness" ("it will be righteousness for us").

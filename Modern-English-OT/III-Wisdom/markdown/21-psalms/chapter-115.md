@@ -1,6 +1,6 @@
 # Psalms 115 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (9 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (10 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -13,6 +13,8 @@
 
 **115:4** I will receive the cup of salvation, and I will call upon the name of the Lord.
 
+**115:5** I will fulfill my vows to the Lord before all His people.
+
 **115:6** The death of His holy ones is precious in the sight of the Lord.
 
 **115:7** Lord, for I am Your servant; I am Your servant, and the son of Your maidservant. You have broken my bonds;
@@ -22,10 +24,6 @@
 **115:9** I will fulfill my vows to the Lord in the sight of all His people,
 
 **115:10** in the courts of the house of the Lord, in the midst of you, Jerusalem.
-
-## Additional Verses (Not in Saints Numbering)
-
-**115:5** *(after `115:4`)* I will fulfill my vows to the Lord before all His people.
 
 ## Translator Notes
 

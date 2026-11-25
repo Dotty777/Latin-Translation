@@ -1,6 +1,6 @@
 # 1 Chronicles 11 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (45 verses, 5 translator notes)  
+> **Status:** `draft: true` (46 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -69,9 +69,11 @@
 
 **11:32** Hurai from the brook of Gaash, Abiel the Arbathite, Azmaveth the Baharumite, Eliahba the Shaalbonite.
 
-**11:34** The sons of Hashem the Gizonite, Jonathan the son of Shagee the Hararite,
+**11:33** The sons of Hashem the Gizonite, Jonathan the son of Shagee the Hararite,
 
-**11:35** Ahiam the son of Sacar the Hararite,
+**11:34** Ahiam the son of Sacar the Hararite,
+
+**11:35** Eliphal the son of Ur,
 
 **11:36** Hepher the Mecherathite, Ahijah the Pelonite,
 
@@ -101,4 +103,5 @@
 - **11:21** — The Vulgate resolves a difficult Hebrew phrase by explicitly contrasting "the second three" (tres secundos) with "the first three" (tres primos).
 - **11:22** — The Vulgate leaves the obscure Hebrew term ariel untranslated (duos ariel Moab); it is variously understood as "lion-like warriors" or "sons of Ariel."
 - **11:25** — Literally "at his ear" (ad auriculam suam), rendering Hebrew mishma'to ("bodyguard" or "listening council") to denote David's trusted personal counselor and guard.
-- **11:35** — This Latin text lacks "Eliphal the son of Ur," present here in the Hebrew Masoretic Text; in this warrior roster it also has distinct proper-name readings including Pharonite (11:27), Thosaite (11:45), and Mahumite, Josaia, and Masobia (11:46).
+- **11:34** — In this warrior roster the Vulgate has distinct proper-name readings including Pharonite (11:27), Thosaite (11:45), and Mahumite, Josaia, and Masobia (11:46). Native Vulgate 11:34-35 correspond to Saints.Bible 11:35 (with restored 11:35 'Eliphal the son of Ur').
+- **11:35** — Stage 1 restored native Vulgate 1 Chronicles 11:35 ('Eliphal filius Ur'), shifting native 11:33-34 ('Ahiam filius Sachar Ararites') back into alignment.

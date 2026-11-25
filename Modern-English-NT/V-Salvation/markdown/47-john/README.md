@@ -1,7 +1,7 @@
 # John — Saints Modern English NT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Division: **V. Salvation (Gospels)**  
-> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; Saints.Bible versification).  
+> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; native Sixto-Clementine Vulgate versification).  
 > **Structured JSON:** [`47-john.json`](../../json/47-john.json) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Chapters
@@ -10,8 +10,8 @@
 - [Chapter 2](chapter-02.md) — 25 verses, 4 notes
 - [Chapter 3](chapter-03.md) — 36 verses, 6 notes
 - [Chapter 4](chapter-04.md) — 54 verses, 5 notes
-- [Chapter 5](chapter-05.md) — 46 verses, 5 notes, +1 additional
-- [Chapter 6](chapter-06.md) — 71 verses, 8 notes
+- [Chapter 5](chapter-05.md) — 47 verses, 5 notes
+- [Chapter 6](chapter-06.md) — 72 verses, 9 notes
 - [Chapter 7](chapter-07.md) — 53 verses, 6 notes
 - [Chapter 8](chapter-08.md) — 59 verses, 8 notes
 - [Chapter 9](chapter-09.md) — 41 verses, 5 notes

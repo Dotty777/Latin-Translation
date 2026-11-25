@@ -1,6 +1,6 @@
 # Ezekiel 27 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (36 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -65,6 +65,8 @@
 
 **27:30** And they will wail over you with a loud voice, and cry out bitterly, and cast dust upon their heads, and be sprinkled with ashes.
 
+**27:31** And they will shave themselves bald over you, and wrap themselves in sackcloth; and they will weep for you in bitterness of soul, with the most bitter weeping.
+
 **27:32** And they will take up a mournful song over you, and lament over you: "Who is like Tyre, who has fallen silent in the midst of the sea?
 
 **27:33** You who, at the going forth of your wares from the sea, filled many peoples; with the abundance of your riches and of your peoples, you enriched the kings of the earth.
@@ -74,10 +76,6 @@
 **27:35** All the inhabitants of the islands have been appalled over you, and all their kings, struck by the tempest, have altered their faces.
 
 **27:36** The merchants of the peoples have hissed over you; you have been brought to nothing, and you will not be forever."'"
-
-## Additional Verses (Not in Saints Numbering)
-
-**27:31** *(after `27:30`)* And they will shave themselves bald over you, and wrap themselves in sackcloth; and they will weep for you in bitterness of soul, with the most bitter weeping.
 
 ## Translator Notes
 

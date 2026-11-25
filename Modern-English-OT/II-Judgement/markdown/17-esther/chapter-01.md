@@ -5,7 +5,7 @@
 
 ## Text
 
-**1:1** In the second year, while Artaxerxes the Great was reigning, on the first day of the month of Nisan, Mordecai the son of Jair, the son of Shimei, the son of Kish, of the tribe of Benjamin, saw a dream.
+**1:1** In the days of Ahasuerus, who reigned from India to Ethiopia over one hundred twenty-seven provinces,
 
 **1:2** When he sat on the throne of his kingdom, the city of Susa was the beginning of his kingdom.
 
@@ -51,7 +51,7 @@
 
 ## Translator Notes
 
-- **1:1** — The Latin text here opens with Mordecai's dream under Artaxerxes the Great (corresponding to Addition A / Clementine Vulgate 11:2) rather than the Masoretic opening introducing Ahasuerus over 127 provinces; from 1:9 onward, the Latin names the king Ahasuerus (Assuerus).
+- **1:1** — Stage 1 restored the canonical Clementine Vulgate opening (Esther 1:1) here; Mordecai's dream opening (previously placed at 1:1 to mirror Greek Addition A) belongs at its native Vulgate position in 11:2.
 - **1:2** — Vulgate exordium ('beginning') distinctively renders the Hebrew phrase for 'Susa the citadel' (habbirah), presenting Susa as the starting seat of the king's realm.
 - **1:6** — Vulgate eburneis circulis ('ivory rings') differs from the Hebrew 'silver rings', and smaragdino et pario lapide ('emerald and Parian stone') freely renders the Hebrew list of precious paving stones.
 - **1:10** — Vulgate post nimiam potationem incaluisset mero ('after excessive drinking had grown warm with unmixed wine') expands the Hebrew 'when the heart of the king was merry with wine'.

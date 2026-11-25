@@ -1,6 +1,6 @@
 # Numbers 35 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (33 verses, 5 translator notes)  
+> **Status:** `draft: true` (34 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,7 +47,9 @@
 
 **35:21** or, being an enemy, strikes him with his hand, and that one dies, the striker will be guilty of murder; the kinsman of the one killed, as soon as he finds him, will execute him.
 
-**35:22** But if by chance, and without hatred and hostilities, he has done any of these things,
+**35:22** But if by chance, and without hatred
+
+**35:23** and hostilities, he has done any of these things,
 
 **35:24** and this has been proven in the hearing of the people, and the inquiry has been examined between the striker and the close relative of the blood,
 
@@ -74,7 +76,7 @@
 ## Translator Notes
 
 - **35:4** — The Vulgate gives mille passuum spatio ("a distance of a thousand paces," a Roman mile) where the Hebrew has "a thousand cubits," though the Vulgate retains "two thousand cubits" in v. 5.
-- **35:22** — The Vulgate condenses Hebrew vv. 22-25 into one sentence, without the specific examples of accidental killing given in Hebrew vv. 22-23.
+- **35:22** — The Vulgate condenses vv. 22-25 into one sentence across native 35:22-25, without the specific examples of accidental killing given in Hebrew vv. 22-23. Native Vulgate Numbers 35:22-25 divide the condensed accidental-killing law across four verses (35:22 'But if by chance and without hatred', 35:23 'and hostilities he has done any of these things', 35:24-25), without the specific examples of accidental killing given in Hebrew 35:22-23.
 - **35:24** — Latin propinquum sanguinis ("close relative of the blood") renders Hebrew go'el ha-dam ("avenger of blood," translated ultor sanguinis in v. 27).
 - **35:32** — Unlike the Hebrew, which forbids accepting a ransom to let a fugitive return early, the Vulgate states directly that exiles and fugitives may by no means return before the high priest's death.
 - **35:33** — The Vulgate specifies insontium cruore ("the blood of the innocent") where the Hebrew says simply "blood," and in v. 34 turns the prohibition against defiling the land into the promise emundabitur vestra possessio ("your possession will be cleansed").

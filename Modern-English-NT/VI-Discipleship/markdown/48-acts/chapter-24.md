@@ -1,6 +1,6 @@
 # Acts 24 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (27 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -16,6 +16,8 @@
 **24:5** We have found this man to be pestilent, stirring up seditions among all the Jews throughout the whole world, and an instigator of the sedition of the sect of the Nazarenes,
 
 **24:6** who even tried to violate the temple; and having seized him, we wanted to judge him according to our law,
+
+**24:7** but the tribune Lysias came upon the scene and with great force snatched him from our hands,
 
 **24:8** ordering his accusers to come to you; from whom you yourself, in judging, will be able to learn about all these things of which we accuse him."
 
@@ -56,10 +58,6 @@
 **24:26** At the same time he was also hoping that money would be given to him by Paul; for this reason he also summoned him frequently and spoke with him.
 
 **24:27** Now when two years were completed, Felix received Porcius Festus as his successor. And wanting to grant a favor to the Jews, Felix left Paul a prisoner.
-
-## Additional Verses (Not in Saints Numbering)
-
-**24:7** *(after `24:6`)* but the tribune Lysias came upon the scene and with great force snatched him from our hands,
 
 ## Translator Notes
 

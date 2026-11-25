@@ -1,6 +1,6 @@
 # Malachi 3 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (24 verses, 5 translator notes)  
+> **Status:** `draft: true` (18 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Malachi`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -39,24 +39,10 @@
 
 **3:17** "And they will be Mine," says the Lord of hosts, "on the day when I act, for a special possession; and I will spare them, just as a man spares his son who serves him.
 
-**3:18** And you will turn back, and you will see what is between the righteous and the wicked, and between the one who serves God and the one who does not serve Him.
-
-**3:19** For look, the day will come, burning like a furnace; and all the proud and all who do wickedness will be stubble; and the coming day will set them ablaze," says the Lord of hosts, "which will not leave them root or sprout.
-
-**3:20** And for you who fear My name, the sun of righteousness will rise, and healing in its wings; and you will go out and leap like calves from the herd.
-
-**3:21** And you will trample the wicked, when they become ashes under the sole of your feet, on the day when I act," says the Lord of hosts.
-
-**3:22** "Look, I will send you Elijah the prophet, before the great and fearsome day of the Lord comes.
-
-**3:23** And he will turn the heart of the fathers to the children, and the heart of the children to their fathers, or else I might come and strike the land with a curse.
-
-**3:24** Remember the law of Moses My servant, which I commanded him at Horeb for all Israel, precepts and judgments."
+**3:18** And you will turn back, and you will see what is between the righteous and the wicked, and between the one who serves God and the one who does not serve Him."
 
 ## Translator Notes
 
+- **3:1** — Clem1598-USFX prints capitalized Dominator ('the Sovereign'); capitalization of 'Sovereign', 'His', and 'He' (versus lowercase 'he' for My messenger) is subject to edition-wide policy.
 - **3:2** — Vulgate reads "think of the day of His coming" (cogitare) and "to see Him" (ad videndum eum), where the Hebrew has "endure the day of His coming" and "when He appears"; "herb of fullers" (herba fullonum) refers to an alkali plant used in laundering cloth.
 - **3:8** — Vulgate translates the Hebrew verb for "rob/defraud" with "afflict" (affliget) and "pierce" (configitis, also in 3:9), reads "firstfruits" (primitiis) for Hebrew "contributions," and in 3:9 reads "in scarcity" (in penuria, cf. 2:2) where the Hebrew has "with a curse."
-- **3:19** — This Latin text continues chapter 3 through 3:24 rather than beginning a fourth chapter (3:19-24 are numbered 4:1-6 in some editions).
-- **3:20** — Vulgate reads "from the herd" (de armento), whereas the Hebrew has "from the stall."
-- **3:22** — Following the Septuagint order, this Latin text places the Elijah prophecy in 3:22-23 and closes the book with the charge to remember the law of Moses in 3:24 (reversing the Masoretic order); in 3:23 "curse" translates anathemate, a ban of utter destruction.

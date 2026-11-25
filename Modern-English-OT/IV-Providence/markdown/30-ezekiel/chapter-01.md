@@ -1,6 +1,6 @@
 # Ezekiel 1 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (28 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -31,6 +31,8 @@
 
 **1:13** And as for the likeness of the living creatures, their appearance was like burning coals of fire and like the appearance of torches; this was a vision moving back and forth in the midst of the living creatures, a radiance of fire, and lightning coming forth from the fire.
 
+**1:14** And the living creatures went and returned in the likeness of flashing lightning.
+
 **1:15** And as I gazed at the living creatures, one wheel appeared on the earth beside the living creatures, having four faces.
 
 **1:16** And the appearance of the wheels and their work was like the sight of the sea; and the four of them had one likeness; and their appearance and their works were as if a wheel were in the middle of a wheel.
@@ -58,10 +60,6 @@
 **1:27** And I saw something like the look of electrum, like the appearance of fire inside it all around; from His loins and upward, and from His loins all the way downward, I saw something like the look of radiant fire all around,
 
 **1:28** like the appearance of a bow when it is in a cloud on a day of rain. This was the appearance of the radiance in a circle all around.
-
-## Additional Verses (Not in Saints Numbering)
-
-**1:14** *(after `1:13`)* And the living creatures went and returned in the likeness of flashing lightning.
 
 ## Translator Notes
 

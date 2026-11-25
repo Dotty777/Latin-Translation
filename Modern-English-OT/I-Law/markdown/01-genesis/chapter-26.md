@@ -1,6 +1,6 @@
 # Genesis 26 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes)  
+> **Status:** `draft: true` (35 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -31,13 +31,13 @@
 
 **26:13** And the man became rich, and he kept going forward and growing until he became exceedingly great;
 
-**26:14** he also had a possession of sheep and herds, and a very large household. Because of these things, the Philistines, envying him,
+**26:14** he also had possessions of sheep and herds, and a very large household. Because of this, the Philistines, envying him,
 
 **26:15** at that time stopped up all the wells that the servants of his father Abraham had dug, filling them with earth,
 
 **26:16** to such an extent that Abimelech himself said to Isaac, "Depart from us, because you have become far more powerful than we."
 
-**26:17** And he, going down, came to the torrent-bed of Gerar and lived there;
+**26:17** And departing so that he might come to the torrent-bed of Gerar and live there,
 
 **26:18** he dug again other wells, which the servants of his father Abraham had dug, and which, after his death, the Philistines had formerly stopped up; and he named them with the same names by which his father had called them before.
 
@@ -51,7 +51,7 @@
 
 **26:23** Now he went up from that place to Beersheba,
 
-**26:24** where the Lord appeared to him on that very night, saying, "I am the Lord of Abraham your father; do not be afraid, because I am with you. I will bless you and multiply your seed for the sake of My servant Abraham."
+**26:24** where the Lord appeared to him on that very night, saying, "I am the God of Abraham your father; do not be afraid, because I am with you. I will bless you and multiply your seed for the sake of My servant Abraham."
 
 **26:25** So he built an altar there, and having called upon the name of the Lord, he pitched a tent, and commanded his servants to dig a well.
 
@@ -59,7 +59,7 @@
 
 **26:27** Isaac spoke to them, "Why have you come to me, a man whom you hate and have driven away from you?"
 
-**26:28** They answered, "We have seen that the Lord is with you, and for that reason we have now said, 'Let there be an oath between us, and let us enter into a covenant,
+**26:28** They answered, "We have seen that the Lord is with you, and for that reason we ourselves have said, 'Let there be an oath between us, and let us enter into a covenant,
 
 **26:29** that you will not do us any evil, just as we also have touched nothing of yours, nor have we done anything that would harm you, but we sent you away in peace, enriched by the blessing of the Lord.'"
 
@@ -77,8 +77,7 @@
 
 ## Translator Notes
 
-- **26:1** — The Vulgate refers to the Philistines as "Phalestinorum" and "Palæstini" in vv. 1, 8, and 14, and as "Philisthiim" in v. 18.
+- **26:1** — The Vulgate refers to the Philistines as "Palæstini" (genitive "Palæstinorum") in vv. 1, 8, and 14, and as "Philisthiim" in v. 18.
 - **26:20** — In vv. 20-22 the Vulgate translates the Hebrew well names Esek, Sitnah, and Rehoboth into Latin as "Calumniam" ("False Claim"), "Inimicitias" ("Hostility"), and "Latitudo" ("Spaciousness").
-- **26:24** — The Vulgate reads "Dominus Abraham patris tui" ("the Lord of Abraham your father"), whereas the Hebrew has "the God of Abraham your father."
 - **26:29** — Instead of a separate final exclamation ("You are now the blessed of the Lord"), the Vulgate closes the sentence with a participial phrase: "auctum benedictione Domini" ("enriched by the blessing of the Lord").
 - **26:33** — The Vulgate translates the well's name as "Abundantiam" ("Abundance"), reading the Hebrew consonants as "sava" (plenty/satiety) rather than "Shibah" (oath/seven).

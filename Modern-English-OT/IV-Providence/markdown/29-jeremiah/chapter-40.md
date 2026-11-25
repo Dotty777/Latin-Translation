@@ -1,40 +1,46 @@
 # Jeremiah 40 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (13 verses, 5 translator notes)  
+> **Status:** `draft: true` (16 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**40:1** And the word of the Lord came to Jeremiah a second time, while he was still confined in the court of the prison, saying,
+**40:1** The word that came to Jeremiah from the Lord after he was released from Ramah by Nebuzaradan, the captain of the troops, when he took him bound in chains among all those who were going into exile from Jerusalem and Judah and were being led to Babylon.
 
-**40:2** "This is what the Lord says, who is about to do it, and to form it, and to prepare it; the Lord is His name:
+**40:2** So the commander of the troops took Jeremiah and said to him, "The Lord your God spoke this disaster against this place,
 
-**40:3** Call to Me, and I will hear you, and I will declare to you great and firm things that you do not know.
+**40:3** and the Lord has brought it about and done just as He spoke, because you sinned against the Lord and did not listen to His voice; and this word has come about for you.
 
-**40:4** For this is what the Lord God of Israel says concerning the houses of this city, and concerning the houses of the king of Judah, which have been destroyed, and concerning the ramparts, and concerning the sword
+**40:4** Now therefore, look, I have released you today from the chains that are on your hands. If it pleases you to come with me to Babylon, come, and I will set my eyes upon you; but if it displeases you to come with me to Babylon, stay behind. Look, the whole land is before you; whatever you choose, and wherever it pleases you to go, proceed there,
 
-**40:5** of those who come to fight with the Chaldeans and to fill them with the corpses of the men whom I struck down in My fury and in My indignation, hiding My face from this city because of all their wickedness:
+**40:5** and do not come with me, but live with Gedaliah the son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the cities of Judah; live therefore with him among the people, or wherever it pleases you to go, go." The captain of the troops also gave him provisions and small gifts, and let him go.
 
-**40:6** Look, I will draw over them a scar and health, and I will cure them, and I will reveal to them the prayer of peace and truth.
+**40:6** So Jeremiah came to Gedaliah the son of Ahikam at Mizpah, and lived with him among the people who had been left in the land.
 
-**40:7** And I will reverse the reversal of Judah and the reversal of Jerusalem, and I will build them up as at the beginning.
+**40:7** And when all the commanders of the army who had been scattered throughout the regions, they and their associates, heard that the king of Babylon had put Gedaliah the son of Ahikam in charge of the land, and that he had entrusted to him men, women, and little children, and some of the poor of the land who had not been carried away to Babylon,
 
-**40:8** And I will cleanse them from all their iniquity in which they sinned against Me, and I will be merciful toward all their iniquities in which they abandoned Me and despised Me.
+**40:8** they came to Gedaliah at Mizpah: Ishmael the son of Nethaniah, and Johanan and Jonathan the sons of Kareah, and Seraiah the son of Tanhumeth, and the sons of Ephai, who were from Netophathi, and Jezaniah the son of Maacathi, they and their men.
 
-**40:9** And it will be to Me a name, and joy, and praise, and exultation to all the nations of the earth, which will hear of all the good things that I am about to do for them; and they will fear and be troubled at all the good things and at all the peace that I will make for them."
+**40:9** And Gedaliah the son of Ahikam, the son of Shaphan, swore to them and to their companions, saying, "Do not be afraid to serve the Chaldeans; live in the land and serve the king of Babylon, and it will go well with you.
 
-**40:10** This is what the Lord says: "There will again be heard in this place, which you say is deserted because there is neither man nor beast in the cities of Judah and outside Jerusalem, which are desolate, without man, and without inhabitant, and without livestock,
+**40:10** Look, as for me, I am living in Mizpah so that I may answer the command of the Chaldeans who are sent to us; but as for you, gather the vintage, and the harvest, and the oil, and store them in your vessels, and remain in your cities that you hold."
 
-**40:11** the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride, the voice of those saying, 'Give thanks to the Lord of hosts, for the Lord is good, for His mercy is forever,' and of those bringing votive offerings into the house of the Lord; for I will bring back the return of the land as at the beginning," says the Lord.
+**40:11** Moreover, all the Judeans who were in Moab, and among the sons of Ammon, and in Idumea, and in all the regions, when they heard that the king of Babylon had granted a remnant in Judea and that he had appointed Gedaliah the son of Ahikam, the son of Shaphan, over them,
 
-**40:12** This is what the Lord of hosts says: "There will again be in this deserted place, without man and without beast, and in all its cities, a dwelling place of shepherds of resting flocks.
+**40:12** returned, I say, all the Judeans, from all the places to which they had fled, and came into the land of Judah, to Gedaliah at Mizpah, and gathered wine and a very great harvest.
 
-**40:13** In the cities of the mountains, and in the cities of the plains, and in the cities that are toward the south, and in the land of Benjamin, and around Jerusalem, and in the cities of Judah, flocks will again pass by the hand of the one counting them," says the Lord.
+**40:13** Now Johanan the son of Kareah and all the commanders of the army who had been scattered in the regions came to Gedaliah at Mizpah,
+
+**40:14** and said to him, "Know that Baalis, king of the sons of Ammon, has sent Ishmael the son of Nethaniah to strike down your life." But Gedaliah the son of Ahikam did not believe them.
+
+**40:15** Then Johanan the son of Kareah spoke to Gedaliah privately in Mizpah, saying, "I will go and strike down Ishmael the son of Nethaniah, with no one knowing, so that he does not destroy your life, and all the Judeans who have been gathered to you are not scattered, and the remnant of Judah does not perish."
+
+**40:16** And Gedaliah the son of Ahikam said to Johanan the son of Kareah, "Do not do this thing, for you are speaking a falsehood about Ishmael."
 
 ## Translator Notes
 
-- **40:4** — In verses 4-5, the Vulgate coordinates et ad munitiones, et ad gladium with the preceding ad phrases and attaches venientium as a genitive ("the sword of those who come"), resolving a syntactically difficult Hebrew passage.
-- **40:6** — Latin obducam eis cicatricem is a medical idiom literally meaning "draw a scar over them," that is, heal over their wounds. The Vulgate also reads deprecationem ("prayer/supplication") where the Hebrew means "abundance," connecting the rare Hebrew term to a homonymous root meaning "to pray/entreat."
-- **40:7** — Latin convertam conversionem mirrors the Hebrew cognate idiom (as in 37:3 and 37:18); the Vulgate keeps it distinct from convertam captivitatem ("turn back their captivity") in 39:44.
-- **40:10** — The Vulgate translates Hebrew chutzot ("streets") literally as foris ("outside Jerusalem"), reflecting the root sense of "outside."
-- **40:12** — The Vulgate's triple genitive pastorum accubantium gregum ("of shepherds of resting flocks") uses the intransitive participle accubantium modifying gregum, whereas the Hebrew uses a causative participle ("shepherds causing flocks to lie down").
+- **40:1** — The Vulgate renders the Hebrew title "captain of the guard" with the late Roman military title magister militiae ("captain of the troops"; princeps militiae, "commander of the troops," in verse 2).
+- **40:5** — The Vulgate resolves a difficult Hebrew clause ('while he had not yet turned back...') as a direct continuation of Nebuzaradan's speech: 'and do not come with me' (et mecum noli venire).
+- **40:8** — The Vulgate renders the Hebrew gentilics 'the Netophathite' and 'the Maacathite' as a place name ('from Netophathi', de Netophathi) and a patronymic ('the son of Maacathi', filius Maachathi).
+- **40:10** — The Vulgate reads 'answer the command of the Chaldeans who are sent to us' (respondeam praecepto Chaldaeorum qui mittuntur ad nos) where the Hebrew reads 'stand before the Chaldeans who come to us,' and renders 'summer fruit' as 'harvest' (messem) here and in verse 12.
+- **40:14** — The Vulgate translates with an imperative ('Know that...', Scito) rather than the Hebrew question ('Do you indeed know...?'), and similarly renders the Hebrew question in verse 15 as a negative purpose clause ('so that he does not...', ne).

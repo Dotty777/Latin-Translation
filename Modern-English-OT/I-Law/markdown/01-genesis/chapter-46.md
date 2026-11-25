@@ -1,6 +1,6 @@
 # Genesis 46 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (34 verses, 8 translator notes)  
+> **Status:** `draft: true` (34 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -11,7 +11,7 @@
 
 **46:3** God said to him, "I am the most mighty God of your father; do not be afraid, go down into Egypt, for I will make you into a great nation there.
 
-**46:4** I will go down with you there, and I will bring you from there as you return; Joseph also will place his hand upon your eyes."
+**46:4** I will go down with you there, and I will bring you from there as you return; Joseph also will place his hands upon your eyes."
 
 **46:5** Jacob rose from the Well of the Oath, and his sons carried him with their little ones and their wives in the wagons that Pharaoh had sent to carry the old man,
 
@@ -19,11 +19,11 @@
 
 **46:7** his sons and grandsons, his daughters, and all his descendants together.
 
-**46:8** Now these are the names of the sons of Israel who entered Egypt, they themselves with their children. The firstborn was Reuben.
+**46:8** Now these are the names of the sons of Israel who entered Egypt, he himself with his children. The firstborn was Reuben.
 
 **46:9** The sons of Reuben: Hanoch, Pallu, Hezron, and Carmi.
 
-**46:10** The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Sacher, and Shaul, the son of a Canaanite woman.
+**46:10** The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman.
 
 **46:11** The sons of Levi: Gershon, Kohath, and Merari.
 
@@ -35,9 +35,9 @@
 
 **46:15** These are the sons of Leah, whom she bore in Mesopotamia of Syria, together with her daughter Dinah: all the souls of her sons and daughters were thirty-three.
 
-**46:16** The sons of Gad: Ziphion, Thaggi, Shuni, Ezbon, Eri, Arodi, and Areli.
+**46:16** The sons of Gad: Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.
 
-**46:17** The sons of Asher: Jabne, Ishvah, Ishvi, and Beriah, and also Serah their sister. The sons of Beriah: Heber and Malchiel.
+**46:17** The sons of Asher: Imnah, Ishvah, Ishvi, and Beriah, and also Serah their sister. The sons of Beriah: Heber and Malchiel.
 
 **46:18** These are the sons of Zilpah, whom Laban gave to his daughter Leah; and she bore these to Jacob, sixteen souls.
 
@@ -45,7 +45,7 @@
 
 **46:20** And sons were born to Joseph in the land of Egypt, whom Asenath, the daughter of Potiphera, priest of Heliopolis, bore to him: Manasseh and Ephraim.
 
-**46:21** The sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Tehi, Rosh, Muppim, Huppim, and Ard.
+**46:21** The sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.
 
 **46:22** These are the sons of Rachel, whom she bore to Jacob: all the souls were fourteen.
 
@@ -55,7 +55,7 @@
 
 **46:25** These are the sons of Bilhah, whom Laban gave to his daughter Rachel; and she bore these to Jacob: all the souls were seven.
 
-**46:26** All the souls who entered Egypt with Jacob and came out from his thigh, apart from the wives of the sons, were sixty-six.
+**46:26** All the souls who entered Egypt with Jacob and came out from his thigh, apart from the wives of his sons, were sixty-six.
 
 **46:27** And the sons of Joseph who were born to him in the land of Egypt were two souls. All the souls of the house of Jacob who entered Egypt were seventy.
 
@@ -77,9 +77,6 @@
 
 - **46:1** — Latin Puteum juramenti ("Well of the Oath") translates Hebrew Beersheba literally (also in 46:5).
 - **46:3** — Latin fortissimus Deus ("the most mighty God") translates the Hebrew divine name El as a superlative adjective rather than "God, the God of your father."
-- **46:10** — Latin reads Sacher where the Hebrew Masoretic Text reads Zohar.
-- **46:15** — Latin renders Hebrew Paddan-aram as Mesopotamiam Syriæ ("Mesopotamia of Syria") and omits "to Jacob," so Latin ejus ("her") refers naturally to Leah.
-- **46:16** — Latin reads Thaggi where the Hebrew Masoretic Text reads Haggi.
-- **46:17** — Latin reads Iabne ("Jabne") where the Hebrew Masoretic Text reads Imnah.
+- **46:15** — Latin renders Hebrew Paddan-aram as Mesopotamia Syriæ ("Mesopotamia of Syria") and omits "to Jacob," so Latin ejus ("her") refers naturally to Leah.
 - **46:20** — Latin Heliopoleos ("of Heliopolis") renders Hebrew On by its Greek name meaning "City of the Sun."
-- **46:21** — Latin reads Tehi where the Hebrew Masoretic Text reads Ehi.
+- **46:29** — Clem1598-USFX (with Sixtine 1590 and Hetzenauer 1906) prints 'curro' where fourth-declension ablative 'curru' ('chariot', Codex Amiatinus) is expected.

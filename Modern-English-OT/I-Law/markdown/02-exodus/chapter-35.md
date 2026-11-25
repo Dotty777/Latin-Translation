@@ -1,6 +1,6 @@
 # Exodus 35 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (31 verses, 4 translator notes, 4 additional)  
+> **Status:** `draft: true` (35 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -19,6 +19,8 @@
 
 **35:7** and ram skins dyed red, and violet-colored skins, acacia wood,
 
+**35:8** and oil for preparing the lamps, and for compounding the ointment, and the most fragrant incense,
+
 **35:9** onyx stones, and gems for the adornment of the shoulder-vestment and the breastpiece.
 
 **35:10** Let everyone among you who is wise come and make what the Lord has commanded:
@@ -31,7 +33,13 @@
 
 **35:14** the lampstand for supporting the lights, its utensils and lamps, and the oil for fueling the fires;
 
+**35:15** the altar of incense and the poles, and the anointing oil and the incense of spices; the hanging at the doorway of the tabernacle;
+
 **35:16** the altar of burnt offering, and its bronze grate with its poles and utensils; the basin and its base;
+
+**35:17** the curtains of the courtyard with the pillars and bases, the hanging at the doors of the vestibule;
+
+**35:18** the pegs of the tabernacle and of the courtyard with their cords;
 
 **35:19** the garments whose use is in the ministry of the sanctuary, the vestments of Aaron the high priest and of his sons, so that they may serve in the priesthood for Me.'"
 
@@ -66,16 +74,6 @@
 **35:34** He has put in his heart; Oholiab also, son of Ahisamach, of the tribe of Dan:
 
 **35:35** both of them He has instructed with wisdom, so that they may do the works of a woodworker, a tapestry-weaver, and an embroiderer, in blue and purple, and twice-dyed scarlet, and fine linen, and weave all things, and invent all kinds of new things."
-
-## Additional Verses (Not in Saints Numbering)
-
-**35:8** *(after `35:7`)* and oil for preparing the lamps, and for compounding the ointment, and the most fragrant incense,
-
-**35:15** *(after `35:14`)* the altar of incense and the poles, and the anointing oil and the incense of spices; the hanging at the doorway of the tabernacle;
-
-**35:17** *(after `35:16`)* the curtains of the courtyard with the pillars and bases, the hanging at the doors of the vestibule;
-
-**35:18** *(after `35:16`)* the pegs of the tabernacle and of the courtyard with their cords;
 
 ## Translator Notes
 

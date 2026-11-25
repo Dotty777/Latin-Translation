@@ -1,6 +1,6 @@
 # Ezekiel 11 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (25 verses, 4 translator notes)  
+> **Status:** `draft: true` (25 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -57,7 +57,8 @@
 
 ## Translator Notes
 
+- **11:1** — Latin reads bare spiritus (without Dei or Domini), which can be rendered 'a spirit', 'the spirit', or 'wind' (compare lowercase 'spirit' in 1:12, 1:20, and 10:17, versus 'Spirit of the Lord' in 11:5, 37:1); capitalization as 'the Spirit' is subject to edition-wide editorial policy.
 - **11:3** — Latin "Nonne dudum aedificatae sunt domus?" ("Were not the houses built recently?") frames the leaders' boast as a confident question, whereas the Hebrew reads "The time is not near to build houses."
 - **11:13** — The Vulgate intensifies Ezekiel's cry with a threefold "Heu! heu! heu!" ("Alas, alas, alas"), where the Hebrew has a single exclamation.
 - **11:16** — Latin "in sanctificationem modicam" literally means "a little sanctification" (or "a modest sanctification"), rendering the Hebrew phrase often understood as "a little sanctuary" or "a sanctuary for a little while."
-- **11:24** — Latin "transmigratio" (literally "migration" or "deportation") is used collectively here and in 11:25 for the community of exiles in Chaldea.
+- **11:24** — Latin "transmigratio" (literally "migration" or "deportation") is used collectively here and in 11:25 for the community of exiles in Chaldea. Latin reads bare spiritus (without Dei or Domini), which can be rendered 'a spirit', 'the spirit', or 'wind' (compare lowercase 'spirit' in 1:12, 1:20, and 10:17, versus 'Spirit of the Lord' in 11:5, 37:1); capitalization as 'the Spirit' is subject to edition-wide editorial policy.

@@ -1,6 +1,6 @@
 # Proverbs 23 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (34 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (35 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -49,6 +49,8 @@
 
 **23:22** Listen to your father who fathered you, and do not despise your mother when she has grown old.
 
+**23:23** Buy truth, and do not sell wisdom, teaching, and understanding.
+
 **23:24** The father of a righteous man exults with joy; he who has fathered a wise one will be glad in him.
 
 **23:25** Let your father and your mother rejoice, and let her who gave birth to you exult.
@@ -72,10 +74,6 @@
 **23:34** And you will be like one sleeping in the middle of the sea, and like a helmsman overcome with sleep, with the rudder lost.
 
 **23:35** And you will say, "They beat me, but I felt no pain; they dragged me, and I did not sense it. When will I wake up and find wine again?"
-
-## Additional Verses (Not in Saints Numbering)
-
-**23:23** *(after `23:22`)* Buy truth, and do not sell wisdom, teaching, and understanding.
 
 ## Translator Notes
 

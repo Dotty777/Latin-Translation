@@ -1,6 +1,6 @@
 # Genesis 28 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (22 verses, 5 translator notes)  
+> **Status:** `draft: true` (22 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -21,7 +21,7 @@
 
 **28:8** realizing also that his father did not look gladly upon the daughters of Canaan,
 
-**28:9** went to Ishmael, and took as a wife, besides those whom he previously had, Maelech, the daughter of Ishmael, son of Abraham, the sister of Nebaioth.
+**28:9** went to Ishmael, and took as a wife, besides those whom he previously had, Mahalath, the daughter of Ishmael, son of Abraham, the sister of Nebaioth.
 
 **28:10** Therefore Jacob, departing from Beersheba, was journeying toward Haran.
 
@@ -31,15 +31,15 @@
 
 **28:13** and the Lord leaning upon the ladder, saying to him, "I am the Lord God of your father Abraham, and the God of Isaac. The land on which you sleep, I will give to you and to your seed.
 
-**28:14** And your offspring will be like the dust of the earth; you will spread out to the west and the east, the north and the south; and in you and in your seed all the tribes of the earth will be blessed.
+**28:14** And your seed will be like the dust of the earth; you will spread out to the west and the east, the north and the south; and in you and in your seed all the tribes of the earth will be blessed.
 
 **28:15** And I will be your guardian wherever you go, and I will bring you back to this land; nor will I leave you unless I have fulfilled everything that I have spoken."
 
 **28:16** And when Jacob awoke from sleep, he said, "Truly the Lord is in this place, and I did not know."
 
-**28:17** And trembling with fear, he said, "How fearful is this place! There is nothing else here except the house of God, and the gates of heaven."
+**28:17** And trembling with fear, he said, "How fearful is this place! There is nothing else here except the house of God, and the gate of heaven."
 
-**28:18** Rising in the morning, therefore, he took the stone that he had placed under his head, and set it up as a monument, pouring oil on top of it.
+**28:18** Rising in the morning, therefore, Jacob took the stone that he had placed under his head, and set it up as a monument, pouring oil on top of it.
 
 **28:19** And he called the name of the city Bethel, which was previously called Luz.
 
@@ -53,6 +53,4 @@
 
 - **28:2** — Vulgate renders Hebrew Paddan-aram as 'Mesopotamia of Syria' (here and in vv. 5-6), and correspondingly uses 'the Syrian' and 'Syria' in vv. 5 and 7.
 - **28:4** — Vulgate reads plural 'blessings' and 'which He promised to your grandfather' (quam pollicitus est avo tuo), where the Hebrew has singular 'blessing' and 'which God gave to Abraham.'
-- **28:9** — Clementine Vulgate reads the proper name Maelech, corresponding to Mahalath in the Hebrew text.
 - **28:13** — Vulgate renders 'leaning upon the ladder' (innixum scalae), giving a concrete sense to the Hebrew phrase that can mean 'standing above it' or 'standing beside him.'
-- **28:17** — The Latin text reads plural portae caeli ('the gates of heaven'), whereas the Hebrew text and other Vulgate witnesses read the singular 'gate.'

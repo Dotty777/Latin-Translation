@@ -1,6 +1,6 @@
 # Song of Songs 5 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (16 verses, 5 translator notes)  
+> **Status:** `draft: true` (17 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Song of Songs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -36,6 +36,8 @@
 **5:15** His legs are marble pillars that are founded upon golden bases. His appearance is like that of Lebanon, choice as the cedars.
 
 **5:16** His throat is most sweet, and he is wholly desirable. Such is my beloved, and he is my friend, daughters of Jerusalem.
+
+**5:17** Where has your beloved gone, most beautiful of women? Where has your beloved turned aside? And we will search for him with you.
 
 ## Translator Notes
 

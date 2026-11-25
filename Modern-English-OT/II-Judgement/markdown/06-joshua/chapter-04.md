@@ -1,6 +1,6 @@
 # Joshua 4 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (24 verses, 5 translator notes)  
+> **Status:** `draft: true` (25 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Joshua`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -51,7 +51,9 @@
 
 **4:23** as the Lord your God dried up its waters in your sight until you crossed over,
 
-**4:24** so that all the peoples of the lands may learn the most mighty hand of the Lord, so that you also may fear the Lord your God at all times.'"
+**4:24** just as He had done earlier in the Red Sea, which He dried up until we crossed over,
+
+**4:25** so that all the peoples of the lands may learn the most mighty hand of the Lord, so that you also may fear the Lord your God at all times.'"
 
 ## Translator Notes
 
@@ -59,4 +61,4 @@
 - **4:5** — Latin juxta numerum filiorum Israël ("according to the number of the sons of Israel") lacks the Hebrew's "tribes"; the same Vulgate reading recurs in 4:8.
 - **4:9** — Latin Alios quoque duodecim lapides ("twelve other stones") explicitly distinguishes a second monument set in the riverbed from the twelve stones carried to Gilgal, whereas the Hebrew lacks the word "other."
 - **4:13** — Latin per turmas, et cuneos ("by squadrons and columns") renders the armed vanguard using Roman military terms for cavalry squadrons and wedge formations, where the Hebrew simply describes troops equipped for battle.
-- **4:23** — This Latin text ends with Israel's crossing of the Jordan without the comparative clause about drying up the Red Sea found in the Hebrew and some Vulgate editions.
+- **4:24** — Native Vulgate Joshua 4:24 (the Red Sea comparison clause) maps to the second half of Saints.Bible 4:23, and native Vulgate 4:25 maps to Saints.Bible 4:24.

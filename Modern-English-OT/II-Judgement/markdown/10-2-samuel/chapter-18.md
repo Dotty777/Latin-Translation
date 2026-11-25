@@ -1,6 +1,6 @@
 # 2 Samuel 18 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 5 translator notes)  
+> **Status:** `draft: true` (33 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`2 Samuel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -69,6 +69,8 @@
 
 **18:32** And the king said to Cushi, "Is there peace for the boy Absalom?" Answering him, Cushi said, "May the enemies of my lord the king, and all who rise up against him for evil, become like the boy."
 
+**18:33** So the king, grieved, went up to the upper room of the gate and wept. And as he walked, he kept saying this: "My son Absalom, Absalom my son! Who would grant me that I might die in your place, Absalom my son, my son Absalom?"
+
 ## Translator Notes
 
 - **18:5** — The Vulgate reads "Servate mihi puerum Absalom" ("Preserve the boy Absalom for me"), agreeing with the Septuagint, whereas the Hebrew reads "Deal gently for my sake with the young man Absalom."
@@ -76,3 +78,4 @@
 - **18:18** — The Vulgate renders the name of the monument literally as "Manus Absalom" ("the Hand of Absalom"), reflecting the Hebrew idiom in which "hand" denotes a memorial pillar.
 - **18:21** — Throughout verses 21-32, the Vulgate treats "Chusi" (Cushi) as a personal name rather than the gentilic "the Cushite" found in the Hebrew.
 - **18:22** — The Vulgate reads "non eris boni nuntii bajulus" ("You will not be a bearer of good news"), whereas the Hebrew reads "you will have no reward for the news."
+- **18:33** — Vulgate 19:1 corresponds to 18:33 in the Masoretic Text, shifting all subsequent verse numbers in this chapter ahead by one. Native Vulgate 2 Samuel 18:33 maps to Saints.Bible 19:1, and native 19:1-43 map to Saints.Bible 19:2-44.

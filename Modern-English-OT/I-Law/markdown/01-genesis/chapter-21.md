@@ -17,7 +17,7 @@
 
 **21:6** And Sarah said, "God has made laughter for me; whoever hears will laugh with me."
 
-**21:7** And again she said, "Who would have believed that Abraham would hear that Sarah was nursing a son, whom she bore to him when he was already old?"
+**21:7** And again she said, "Who, upon hearing it, would have believed Abraham that Sarah was nursing a son, whom she bore to him when he was already old?"
 
 **21:8** So the boy grew and was weaned; and Abraham made a great banquet on the day of his weaning.
 
@@ -37,7 +37,7 @@
 
 **21:16** And she went away and sat down opposite, as far off as a bow can shoot; for she said, "I will not watch the boy dying." And sitting opposite, she lifted up her voice and wept.
 
-**21:17** Now God heard the voice of the boy; and the angel of the Lord called to Hagar from heaven, saying, "What are you doing, Hagar? Do not be afraid, for God has heard the voice of the boy from the place where he is.
+**21:17** Now God heard the voice of the boy; and the angel of God called to Hagar from heaven, saying, "What are you doing, Hagar? Do not be afraid, for God has heard the voice of the boy from the place where he is.
 
 **21:18** Rise, take up the boy, and hold his hand, because I will make him into a great nation."
 
@@ -49,7 +49,7 @@
 
 **21:22** At that same time Abimelech and Phicol, the commander of his army, said to Abraham, "God is with you in everything that you do.
 
-**21:23** Swear therefore by the Lord that you will not harm me, my descendants, or my lineage; rather, according to the mercy that I have done for you, you will do for me and for the land in which you have lived as a stranger."
+**21:23** Swear therefore by God that you will not harm me, my descendants, or my lineage; rather, according to the mercy that I have done for you, you will do for me and for the land in which you have lived as a stranger."
 
 **21:24** And Abraham said, "I will swear."
 
@@ -76,6 +76,6 @@
 ## Translator Notes
 
 - **21:2** — Latin in senectute sua ("in her old age") refers reflexively to Sarah, whereas the Hebrew Masoretic Text reads "to Abraham in his old age."
-- **21:7** — The Vulgate reads auditurum crederet Abraham ... filium ("would have believed that Abraham would hear ... a son"), whereas the Hebrew reads "would have said to Abraham ... children."
-- **21:9** — Following the Septuagint, the Vulgate explicitly adds cum Isaac filio eius ("playing with Isaac, her son"), expanding the shorter Hebrew participle meaning "laughing" or "mocking."
+- **21:7** — The Clementine Vulgate reads nominative 'Quis auditurus crederet Abraham' (literally 'Who, about to hear / upon hearing, would believe Abraham...'; Codex Amiatinus reads accusative 'auditurum', 'that Abraham would hear'), whereas the Hebrew reads 'Who would have said to Abraham... children.'
+- **21:9** — Following the Septuagint, the Vulgate explicitly adds cum Isaac filio suo ("playing with Isaac, her son"), expanding the shorter Hebrew participle meaning "laughing" or "mocking."
 - **21:32** — Here the Vulgate translates Beersheba as pro puteo juramenti ("for the well of the oath") and moves Abimelech and Phicol's departure to the start of verse 33; verse 33 also renders the Hebrew tamarisk tree as nemus ("a grove"), and verse 34 uses Palæstinorum as a Latin variant for the Philistines (cf. Philistinorum in verse 33).

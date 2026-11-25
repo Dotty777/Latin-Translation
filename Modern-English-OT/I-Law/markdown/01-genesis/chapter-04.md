@@ -1,11 +1,11 @@
 # Genesis 4 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 6 translator notes)  
+> **Status:** `draft: true` (26 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**4:1** Now Adam knew his wife Eve, who conceived and gave birth to Cain, saying, "I have acquired a man through the Lord."
+**4:1** Now Adam knew his wife Eve, who conceived and gave birth to Cain, saying, "I have acquired a man through God."
 
 **4:2** And again she gave birth to his brother Abel. Now Abel was a shepherd of sheep, and Cain a farmer.
 
@@ -15,7 +15,7 @@
 
 **4:5** For Cain, however, and for his gifts He did not show regard; and Cain grew intensely angry, and his countenance fell.
 
-**4:6** And the Lord said to him, "Why are you sad? And why has your face fallen?
+**4:6** And the Lord said to him, "Why are you angry? And why has your face fallen?
 
 **4:7** If you do well, will you not receive; yet if you do wrong, will sin not immediately be present at the door? But its desire will be under you, and you will rule over it."
 
@@ -59,7 +59,6 @@
 
 ## Translator Notes
 
-- **4:6** — The Latin text reads "mestus" ("sad" or "sorrowful"), following the Greek Septuagint, whereas the Hebrew Masoretic Text reads "angry."
 - **4:7** — The Vulgate renders this difficult verse distinctively: "recipies" ("will you not receive"), "statim ... aderit" ("will immediately be present" rather than "crouches"), and "sub te" ("under you" rather than "toward you").
 - **4:8** — The Vulgate includes Cain's words "Egrediamur foras" ("Let us go outside"), a clause absent from the Hebrew Masoretic Text (and reading "into the field" in the Septuagint).
 - **4:13** — The Vulgate renders the Hebrew clause as "quam ut veniam merear" ("too great for me to deserve pardon"), focusing on Cain's inability to merit forgiveness rather than his inability to bear his punishment.

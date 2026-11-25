@@ -1,6 +1,6 @@
 # 1 Maccabees 12 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (53 verses, 5 translator notes)  
+> **Status:** `draft: true` (54 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Maccabees`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -109,7 +109,9 @@
 
 **12:52** but they all came in peace into the land of Judah. And they lamented Jonathan and those who had been with him greatly, and Israel mourned with great mourning.
 
-**12:53** And all the nations that were around them sought to crush them, for they said, "They have no leader and helper; now therefore let us fight against them and remove their memory from among men."
+**12:53** And all the nations that were around them sought to crush them, for they said,
+
+**12:54** "They have no leader and helper; now therefore let us fight against them and remove their memory from among men."
 
 ## Translator Notes
 
@@ -118,3 +120,4 @@
 - **12:32** — Latin junxit literally means "he yoked up," an elliptical military expression rendering Greek anazeuxas ("having yoked up [the pack animals]," meaning "breaking camp").
 - **12:37** — Caphetetha is the Vulgate-distinct form of the wall name (Greek Chaphenatha); similarly in 12:38 the Vulgate reads Adiada (Greek Adida, Hebrew Hadid).
 - **12:42** — The Vulgate construes ut extenderet in eum manus ("to stretch out his hands against him") as the apparent purpose of Jonathan's advance that frightened Trypho, whereas the Greek reads that Trypho "feared to stretch out his hands against him."
+- **12:53** — Native Clementine Vulgate divides Saints.Bible 12:53 across 12:53 and 12:54.

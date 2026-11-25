@@ -1,15 +1,27 @@
 # Proverbs 16 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes, 2 additional)  
+> **Status:** `draft: true` (33 verses, 8 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
+**16:1** It belongs to a man to prepare the soul, and to the Lord to govern the tongue.
+
 **16:2** All the ways of a man lie open to his eyes; the weigher of spirits is the Lord.
+
+**16:3** Reveal your works to the Lord, and your thoughts will be directed.
+
+**16:4** The Lord has made everything for His own sake, even the wicked for the evil day.
 
 **16:5** An abomination to the Lord is every arrogant person; even if hand joins hand, he is not innocent. The beginning of a good way is doing righteousness, and it is more acceptable with God than offering sacrifices.
 
-**16:9** The Lord has made everything for His own sake, even the wicked for the evil day.
+**16:6** Through mercy and truth iniquity is redeemed, and in the fear of the Lord one turns aside from evil.
+
+**16:7** When the ways of a man please the Lord, He will turn even his enemies to peace.
+
+**16:8** A little with righteousness is better than many fruits with unrighteousness.
+
+**16:9** The heart of a man plans his way, but it belongs to the Lord to direct his steps.
 
 **16:10** Divination is on the lips of a king; in judgment his mouth will not err.
 
@@ -59,16 +71,13 @@
 
 **16:33** Lots are cast into the lap, but they are governed by the Lord.
 
-## Additional Verses (Not in Saints Numbering)
-
-**16:3** *(after `16:2`)* Reveal your works to the Lord, and your thoughts will be directed.
-
-**16:6** *(after `16:5`)* Through mercy and truth iniquity is redeemed, and in the fear of the Lord one turns aside from evil.
-
 ## Translator Notes
 
+- **16:4** — Vulgate reads 'propter semetipsum' ('for His own sake'), whereas the Hebrew Masoretic Text is commonly understood as 'for its own purpose.' Stage 1 restored this verse to its native Vulgate slot 16:4 (previously misfiled at 16:9).
 - **16:5** — Literally 'even if hand is to hand,' an idiom expressing certainty or mutual pledging. The second sentence ('The beginning of a good way... offering sacrifices') is a Vulgate reading from the Septuagint tradition absent from the Hebrew Masoretic Text.
-- **16:9** — Vulgate reads 'propter semetipsum' ('for His own sake'), whereas the Hebrew Masoretic Text is commonly understood as 'for its own purpose.' This verse corresponds to 16:4 in the Hebrew text.
+- **16:7** — Native Clementine Vulgate 16:7 maps to Saints.Bible 15:28b.
+- **16:8** — Native Clementine Vulgate 16:8 maps to Saints.Bible 15:29b.
+- **16:9** — Restored native Clementine Vulgate verse 16:9 (previously absent from the critical text, where 16:9 mistakenly held Vulgate 16:4).
 - **16:10** — Latin 'divinatio' literally means 'divination,' used here for an inspired or oracular pronouncement on a king's lips.
 - **16:28** — Vulgate reads 'verbosus' ('a talkative man') and 'principes' ('princes'), whereas the Hebrew Masoretic Text reads 'a whisperer' and 'close friends.'
 - **16:30** — Vulgate reads 'attonitis oculis' ('with staring/fixed eyes') and 'mordens labia sua' ('biting his own lips'), whereas the Hebrew Masoretic Text reads 'shuts his eyes' and 'compresses his lips.'

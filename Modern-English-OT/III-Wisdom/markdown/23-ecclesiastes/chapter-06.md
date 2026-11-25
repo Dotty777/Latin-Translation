@@ -1,6 +1,6 @@
 # Ecclesiastes 6 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (12 verses, 4 translator notes)  
+> **Status:** `draft: true` (11 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ecclesiastes`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -27,11 +27,8 @@
 
 **6:11** There are very many words, and they have much futility in disputing.
 
-**6:12** Why is it necessary for a person to seek things greater than himself, since he does not know what is beneficial for him in his life, for the number of the days of his sojourn and the time that passes by like a shadow? Or who will be able to show him what will be after him under the sun?
-
 ## Translator Notes
 
 - **6:5** — The Vulgate reads neque cognovit distantiam boni et mali ("nor has it known the difference between good and evil"), whereas the Hebrew text compares the stillborn child's rest with that of the rich person.
 - **6:8** — The Vulgate renders the second clause as nisi ut pergat illuc ubi est vita ("except to go there where life is"), differing from the Hebrew question about a poor person knowing how to walk before the living.
 - **6:9** — The Vulgate reads videre quod cupias, quam desiderare quod nescias ("to see what you desire than to long for what you do not know") and translates the refrain as praesumptio spiritus ("presumption of spirit").
-- **6:12** — The Vulgate opens with Quid necesse est homini majora se quaerere ("Why is it necessary for a person to seek things greater than himself"), expanding on the brief Hebrew question, and renders the days of vanity as peregrinationis suae ("of his sojourn").

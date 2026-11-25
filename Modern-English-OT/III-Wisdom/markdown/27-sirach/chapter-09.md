@@ -1,6 +1,6 @@
 # Sirach 9 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (18 verses, 5 translator notes)  
+> **Status:** `draft: true` (25 verses, 10 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -21,30 +21,49 @@
 
 **9:8** Turn your face away from an adorned woman, and do not gaze around at another's beauty.
 
-**9:9** Do not sit at all with another man's wife, nor recline with her on your elbow.
+**9:9** Because of the beauty of a woman many have perished, and from this lust blazes up like fire.
 
-**9:10** Do not abandon an old friend, for a new one will not be like him.
+**9:10** Every woman who is a prostitute will be trampled down like dung in the road.
 
-**9:11** Do not be jealous of the glory and wealth of a sinner, for you do not know what his overthrow will be.
+**9:11** Many who marveled at the beauty of another man's wife have become reprobate, for her conversation blazes up like fire.
 
-**9:12** Do not let the injustice of the unjust please you, knowing that even down to the underworld the ungodly man will not be pleasing.
+**9:12** Do not sit at all with another man's wife, nor recline with her on your elbow.
 
-**9:13** Stay far away from a man who has the power to kill, and you will not suspect the fear of death. And if you approach him, do not commit any offense, or else he might take away your life. Know the fellowship of death, for you will tread in the midst of snares, and you will walk upon the weapons of those who grieve.
+**9:13** And do not dispute with her over wine, or else your heart might turn aside to her, and with your blood you might slip into destruction.
 
-**9:14** According to your strength, guard yourself against your neighbor, and confer with the wise and the prudent.
+**9:14** Do not abandon an old friend, for a new one will not be like him.
 
-**9:15** And let the thought of God be in your understanding, and all your discourse in the precepts of the Most High.
+**9:15** A new friend is new wine; it will grow old, and with sweetness you will drink it.
 
-**9:16** Let righteous men be your table companions, and let your boasting be in the fear of God.
+**9:16** Do not be jealous of the glory and wealth of a sinner, for you do not know what his overthrow will be.
 
-**9:17** In the hand of craftsmen works will be praised, and a leader of the people in the wisdom of his speech, and in the understanding of older men, the word.
+**9:17** Do not let the injustice of the unjust please you, knowing that even down to the underworld the ungodly man will not be pleasing.
 
-**9:18** A loose-tongued man is terrifying in his city, and one who is rash in his word will be detestable.
+**9:18** Stay far away from a man who has the power to kill, and you will not suspect the fear of death.
+
+**9:19** And if you approach him, do not commit any offense, or else he might take away your life.
+
+**9:20** Know the fellowship of death, for you will tread in the midst of snares, and you will walk upon the weapons of those who grieve.
+
+**9:21** According to your strength, guard yourself against your neighbor, and confer with the wise and the prudent.
+
+**9:22** Let righteous men be your table companions, and let your boasting be in the fear of God.
+
+**9:23** And let the thought of God be in your understanding, and all your discourse in the precepts of the Most High.
+
+**9:24** In the hand of craftsmen works will be praised, and a leader of the people in the wisdom of his speech, and in the understanding of older men, the word.
+
+**9:25** A loose-tongued man is terrifying in his city, and one who is rash in his word will be detestable.
 
 ## Translator Notes
 
 - **9:1** — In the Vulgate, the wife is the subject of 'ostendat' ('so that she does not show against you the malice of a wicked teaching'), whereas the Greek text warns the husband not to teach her an evil lesson against himself.
 - **9:5** — The Vulgate 'in decore illius' ('by her beauty') is a distinct reading where the Greek text refers to incurring her legal penalties.
-- **9:12** — The Vulgate distinctly reads 'the injustice of the unjust' and 'will not be pleasing,' differing from the Greek text's 'delight of the ungodly' and 'will not be justified.'
-- **9:13** — The Vulgate adds 'Know the fellowship of death' and reads 'the weapons of those who grieve' ('dolentium arma'), a striking Vulgate divergence from the Greek text's 'battlements of a city.'
-- **9:17** — The closing phrase 'and in the understanding of older men, the word' ('in sensu vero seniorum verbum') is a Vulgate-distinct third clause added to the proverb.
+- **9:9** — Restored native Clementine Vulgate verse 9:9 (parallel to Saints/Greek 9:8b).
+- **9:10** — Restored native Clementine Vulgate verse 9:10 (Vulgate placement matching the proverb of Greek 9:6b).
+- **9:11** — Restored native Clementine Vulgate verse 9:11 (Vulgate expansion parallel to 9:8-9).
+- **9:13** — Restored native Clementine Vulgate verse 9:13 (continuing 9:12 = Saints 9:9).
+- **9:15** — Restored native Clementine Vulgate verse 9:15 (parallel to Saints/Greek 9:10b).
+- **9:17** — The Vulgate distinctly reads 'the injustice of the unjust' and 'will not be pleasing,' differing from the Greek text's 'delight of the ungodly' and 'will not be justified.'
+- **9:20** — The Vulgate adds 'Know the fellowship of death' and reads 'the weapons of those who grieve' ('dolentium arma'), a striking Vulgate divergence from the Greek text's 'battlements of a city.'
+- **9:24** — The closing phrase 'and in the understanding of older men, the word' ('in sensu vero seniorum verbum') is a Vulgate-distinct third clause added to the proverb.

@@ -1,6 +1,6 @@
 # Isaiah 7 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (25 verses, 5 translator notes)  
+> **Status:** `draft: true` (25 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Isaiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -59,6 +59,7 @@
 
 - **7:1** — The Clementine Vulgate places the break between verses 1 and 2 mid-clause, leaving "and they were not able" at the end of 7:1 and "to conquer it" at the start of 7:2.
 - **7:3** — For the symbolic Hebrew name Shear-jashub ("a remnant shall return"), the Vulgate translates the first element into Latin ("he who is left behind," qui derelictus est) and retains the second as the name Jashub (Jasub).
-- **7:14** — The Vulgate reads "a virgin" (virgo) where the Hebrew has 'almah' and the Septuagint 'parthenos'; its passive "His name will be called" (vocabitur nomen ejus) differs from the Hebrew "she will call" and the Septuagint "you will call."
+- **7:14** — The Vulgate reads "a virgin" (virgo) where the Hebrew has 'almah' and the Septuagint 'parthenos'; its passive "His name will be called" (vocabitur nomen ejus) differs from the Hebrew "she will call" and the Septuagint "you will call." Capitalization of 'His' (for lowercase Latin ejus) reflects traditional messianic reading and is subject to edition-wide policy.
+- **7:15** — Capitalization of 'He' (referring to the child of 7:14) reflects traditional messianic reading and is subject to edition-wide policy.
 - **7:17** — The Vulgate renders the Hebrew particle before "the king of Assyria" as the preposition "with" (cum rege Assyriorum) rather than as a direct-object marker ("namely, the king of Assyria").
 - **7:25** — The Vulgate takes "the terror of thorns and briers" as the subject of a third-person verb ("will not come there," non veniet illuc), whereas the Hebrew is commonly read in the second person ("you will not go there for fear of briers and thorns").

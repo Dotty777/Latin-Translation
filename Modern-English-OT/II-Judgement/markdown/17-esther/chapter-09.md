@@ -1,6 +1,6 @@
 # Esther 9 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 4 translator notes, 2 additional)  
+> **Status:** `draft: true` (32 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Esther`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -12,6 +12,8 @@
 **9:3** For even the judges of the provinces, and the commanders, and the governors, and every dignitary who presided over each place and work, exalted the Jews out of fear of Mordecai,
 
 **9:4** whom they knew to be the prince of the palace and to have very great power; the fame of his name also grew daily and flew through the mouths of all.
+
+**9:5** Therefore, the Jews struck their enemies with a great blow and killed them, repaying them for what they had prepared to do to them:
 
 **9:6** to such an extent that even in Susa they killed five hundred men, besides the ten sons of Haman the Agagite, foe of the Jews, whose names are these:
 
@@ -61,20 +63,16 @@
 
 **9:29** And Queen Esther, daughter of Abihail, and Mordecai the Jew wrote a second letter as well, so that with all diligence this solemn day might be ratified for the future:
 
+**9:30** and they sent it to all the Jews who lived in the one hundred twenty-seven provinces of King Ahasuerus, so that they might have peace and accept the truth,
+
 **9:31** observing the days of lots, and that they should celebrate them in their proper time with joy, just as Mordecai and Esther had appointed; and they accepted to be observed by themselves and by their seed the fasts, and the cries, and the days of lots,
 
 **9:32** and all things that are contained in the history of this book, which is called Esther.
 
-## Additional Verses (Not in Saints Numbering)
-
-**9:5** *(after `9:4`)* Therefore, the Jews struck their enemies with a great blow and killed them, repaying them for what they had prepared to do to them:
-
-**9:30** *(after `9:29`)* and they sent it to all the Jews who lived in the one hundred twenty-seven provinces of King Ahasuerus, so that they might have peace and accept the truth,
-
 ## Translator Notes
 
+- **9:5** — In the Latin, the reflexive pronoun refers back to the Jews, the subject of the main clause.
 - **9:6** — The Vulgate introduces Haman's ten sons here as an addition to the five hundred killed ("besides the ten sons of Haman... whose names are these"), restructuring the sequence of verses 6-10 in the Hebrew.
 - **9:9** — The Vulgate reads "Jezatha," omitting the initial syllable of the Hebrew name "Vaizatha."
 - **9:26** — The Vulgate adds that the lot was cast "into the urn" (in urnam) and explicitly glosses "this letter" with "that is, of this book" (epistolæ, id est, libri hujus volumine).
 - **9:32** — Where the Hebrew closes with Esther's decree confirming Purim and its recording in the book, the Vulgate continues the list from verse 31 and explicitly names "this book, which is called Esther."
-- **9:5 *(additional)*** — In the Latin, the reflexive pronoun refers back to the Jews, the subject of the main clause.

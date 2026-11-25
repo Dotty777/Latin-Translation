@@ -1,6 +1,6 @@
 # Acts 7 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (59 verses, 9 translator notes)  
+> **Status:** `draft: true` (59 verses, 10 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -115,13 +115,13 @@
 
 **7:55** But he, being full of the Holy Spirit, gazing intently into heaven, saw the glory of God, and Jesus standing at the right hand of God. And he said, "Look, I see the heavens opened, and the Son of Man standing at the right hand of God."
 
-**7:57** Then crying out with a loud voice, they covered their ears and rushed upon him with one accord.
+**7:56** Then crying out with a loud voice, they covered their ears and rushed upon him with one accord.
 
-**7:58** And driving him out of the city, they were stoning him; and the witnesses laid down their garments beside the feet of a young man who was called Saul.
+**7:57** And driving him out of the city, they were stoning him; and the witnesses laid down their garments beside the feet of a young man who was called Saul.
 
-**7:59** And they were stoning Stephen as he called out and said, "Lord Jesus, receive my spirit."
+**7:58** And they were stoning Stephen as he called out and said, "Lord Jesus, receive my spirit."
 
-**7:60** Then kneeling down, he cried out with a loud voice, saying, "Lord, do not charge this sin against them." And when he had said this, he fell asleep in the Lord. Now Saul was consenting to his killing.
+**7:59** Then kneeling down, he cried out with a loud voice, saying, "Lord, do not charge this sin against them." And when he had said this, he fell asleep in the Lord. Now Saul was consenting to his killing.
 
 ## Translator Notes
 
@@ -133,4 +133,5 @@
 - **7:43** — The Clementine Vulgate preserves the spelling Rempham for this deity's name, whereas critical Greek editions read Rephan (Rhaiphan).
 - **7:45** — Latin Jesu here (like Greek Iesou) refers to Joshua, son of Nun, and is rendered with the standard English spelling "Joshua."
 - **7:55** — In Clementine Vulgate versification, 7:55 includes Stephen's exclamation ("And he said..."), which modern editions number separately as 7:56.
-- **7:60** — The Clementine Vulgate distinctly adds in Domino ("in the Lord") after obdormivit ("he fell asleep"), and includes the closing sentence about Saul, which modern editions place at 8:1a.
+- **7:56** — The Clementine Vulgate includes the closing clause et ibi evangelizantes erant ("and there they were preaching the gospel") inside verse 6, so there is no separate verse 7.
+- **7:59** — The Clementine Vulgate distinctly adds in Domino ("in the Lord") after obdormivit ("he fell asleep"), and includes the closing sentence about Saul, which modern editions place at 8:1a.

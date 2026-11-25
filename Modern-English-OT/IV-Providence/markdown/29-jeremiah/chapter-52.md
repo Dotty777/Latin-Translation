@@ -1,11 +1,15 @@
 # Jeremiah 52 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (28 verses, 4 translator notes, 6 additional)  
+> **Status:** `draft: true` (34 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
 **52:1** Zedekiah was twenty-one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
+
+**52:2** And he did evil in the eyes of the Lord, according to everything that Jehoiakim had done,
+
+**52:3** for the fury of the Lord was against Jerusalem and against Judah, until He cast them away from His presence. And Zedekiah broke away from the king of Babylon.
 
 **52:4** Now it happened in the ninth year of his reign, in the tenth month, on the tenth of the month, that Nebuchadnezzar, king of Babylon, came, he and all his army, against Jerusalem; and they besieged it, and built fortifications against it all around.
 
@@ -28,6 +32,8 @@
 **52:13** and he set fire to the house of the Lord, and the king's house, and all the houses of Jerusalem; and every great house he burned with fire;
 
 **52:14** and the whole army of the Chaldeans that was with the captain of the troops tore down the entire wall of Jerusalem all around.
+
+**52:15** Now Nebuzaradan the commander of the troops carried away some of the poor of the people, and of the rest of the populace that had remained in the city, and of the deserters who had defected to the king of Babylon, and the remainder of the multitude.
 
 **52:16** But of the poor of the land, Nebuzaradan, commander of the troops, left vinedressers and farmers.
 
@@ -53,6 +59,12 @@
 
 **52:27** and the king of Babylon struck them down and put them to death in Riblah, in the land of Hamath. And Judah was carried away from its own land.
 
+**52:28** These are the people whom Nebuchadnezzar carried away: in the seventh year, three thousand twenty-three Jews;
+
+**52:29** in the eighteenth year of Nebuchadnezzar, eight hundred thirty-two persons from Jerusalem;
+
+**52:30** in the twenty-third year of Nebuchadnezzar, Nebuzaradan the captain of the troops carried away seven hundred forty-five Jewish persons. All the persons, therefore, were four thousand six hundred.
+
 **52:31** And it happened in the thirty-seventh year of the exile of Jehoiachin, king of Judah, in the twelfth month, on the twenty-fifth of the month, that Evil-merodach, king of Babylon, in the very year of his reign, lifted up the head of Jehoiachin, king of Judah, and brought him out of the prison house.
 
 **52:32** And he spoke good things with him, and set his throne above the thrones of the kings who were after him in Babylon.
@@ -61,24 +73,10 @@
 
 **52:34** And his food allowance, a continual food allowance, was given to him by the king of Babylon, appointed for each day, until the day of his death, all the days of his life.
 
-## Additional Verses (Not in Saints Numbering)
-
-**52:2** *(after `52:1`)* And he did evil in the eyes of the Lord, according to everything that Jehoiakim had done,
-
-**52:3** *(after `52:1`)* for the fury of the Lord was against Jerusalem and against Judah, until He cast them away from His presence. And Zedekiah broke away from the king of Babylon.
-
-**52:15** *(after `52:14`)* Now Nebuzaradan the commander of the troops carried away some of the poor of the people, and of the rest of the populace that had remained in the city, and of the deserters who had defected to the king of Babylon, and the remainder of the multitude.
-
-**52:28** *(after `52:27`)* These are the people whom Nebuchadnezzar carried away: in the seventh year, three thousand twenty-three Jews;
-
-**52:29** *(after `52:27`)* in the eighteenth year of Nebuchadnezzar, eight hundred thirty-two persons from Jerusalem;
-
-**52:30** *(after `52:27`)* in the twenty-third year of Nebuchadnezzar, Nebuzaradan the captain of the troops carried away seven hundred forty-five Jewish persons. All the persons, therefore, were four thousand six hundred.
-
 ## Translator Notes
 
+- **52:15** — The Clementine Vulgate reads "of the multitude" (de multitudine) here, where the Hebrew word may mean "artisans."
 - **52:18** — The Vulgate translates several Temple implements distinctively here and in v. 19, notably 'meat-hooks' (creagras, Heb. 'shovels'), 'psalteries' (psalteria, connecting Heb. mezammerot ['snuffers'] to musical instruments), and 'small mortars' (mortariola, Heb. 'spoons/dishes').
 - **52:23** — The Vulgate renders Hebrew 'toward the wind / on the sides' as 'hanging down' (dependentia), and reads that all one hundred pomegranates 'were surrounded by networks' (retiaculis circumdabantur).
 - **52:25** — Jerome translates the Hebrew phrase 'who mustered the people of the land' using the late Roman military expression 'who examined the recruits' (qui probabat tyrones).
-- **52:32** — The Vulgate reads 'who were after him' (qui erant post se, i.e., subordinate to him) where the Hebrew reads 'who were with him.' Verses 2-3, 15, and 28-30 are absent in this Septuagint-aligned chapter arrangement.
-- **52:15 *(additional)*** — The Clementine Vulgate reads "of the multitude" (de multitudine) here, where the Hebrew word may mean "artisans."
+- **52:32** — The Vulgate reads 'who were after him' (qui erant post se, i.e., subordinate to him) where the Hebrew reads 'who were with him.' Native Vulgate chapter 52 includes verses 2-3, 15, and 28-30 (absent in Saints.Bible parallel numbering).

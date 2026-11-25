@@ -23,7 +23,7 @@
 
 **45:9** Hurry and go up to my father, and say to him, 'Your son Joseph sends this message: God has made me lord of all the land of Egypt; come down to me, do not delay,
 
-**45:10** and dwell in the land of Goshen; and you will be near me, you and your sons and the sons of your sons, your sheep and herds, and everything that you possess;
+**45:10** and you will dwell in the land of Goshen; and you will be near me, you and your sons and the sons of your sons, your sheep and herds, and everything that you possess;
 
 **45:11** and there I will feed you (for five years of famine still remain), so that you may not perish, you and your house and everything that you possess.'
 
@@ -49,13 +49,13 @@
 
 **45:22** And for each one he ordered two robes to be brought out; but to Benjamin he gave three hundred pieces of silver with five of the finest robes,
 
-**45:23** sending the same amount of money and clothing to his father, adding to them ten donkeys to carry some of all the riches of Egypt, and just as many donkeys carrying wheat and bread for the journey.
+**45:23** sending the same amount of money and clothing to his father, adding also ten donkeys to carry some of all the riches of Egypt, and just as many female donkeys carrying wheat and bread for the journey.
 
 **45:24** Therefore he sent his brothers away, and as they set out he said, "Do not be angry on the way."
 
 **45:25** Going up from Egypt, they came into the land of Canaan to their father Jacob.
 
-**45:26** And they reported to him, saying, "Joseph is alive, and he himself rules in all the land of Egypt." Having heard this, as if waking from a heavy sleep, he still did not believe them.
+**45:26** And they reported to him, saying, "Joseph your son is alive, and he himself rules in all the land of Egypt." Having heard this, Jacob, as if waking from a heavy sleep, still did not believe them.
 
 **45:27** They in reply recounted the whole sequence of the matter. And when he had seen the wagons and everything that he had sent, his spirit revived,
 
@@ -65,6 +65,6 @@
 
 - **45:1** — The Vulgate renders the Hebrew "when Joseph made himself known to his brothers" with the distinctive Latin expression "at their mutual recognition" (agnitioni mutuæ).
 - **45:18** — "The marrow of the land" (medullam terræ) literally renders the Vulgate idiom for the finest produce of Egypt, corresponding to Hebrew "the fat of the land."
-- **45:20** — The Vulgate commands "Do not leave behind anything of your household goods" (Ne dimittatis quidquam de supellectile vestra), inverting the sense of the Hebrew ("Do not be concerned about your goods," i.e., do not mind leaving them).
-- **45:23** — The Vulgate uniquely adds that Joseph sent Jacob "the same amount of money and clothing" (tantumdem pecuniæ et vestimentum) given to Benjamin, and uses masculine "donkeys" (asinos) for both groups of ten rather than specifying female donkeys for the second group as in the Hebrew.
+- **45:20** — The Vulgate commands "Do not leave behind anything of your household goods" (Nec dimittatis quidquam de supellectili vestra), inverting the sense of the Hebrew ("Do not be concerned about your goods," i.e., do not mind leaving them).
+- **45:23** — The Vulgate uniquely adds that Joseph sent Jacob "the same amount of money and clothing" (tantumdem pecuniæ et vestium) given to Benjamin.
 - **45:26** — The Vulgate vividly describes Jacob's stunned reaction as "as if waking from a heavy sleep" (quasi de gravi somno evigilans), whereas the Hebrew reads "his heart grew numb."

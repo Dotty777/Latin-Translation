@@ -1,6 +1,6 @@
 # Exodus 28 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (37 verses, 5 translator notes, 6 additional)  
+> **Status:** `draft: true` (43 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -49,6 +49,18 @@
 
 **28:22** You will make on the breastpiece chains linked to one another of the purest gold,
 
+**28:23** and two gold rings, which you will place at both ends of the breastpiece:
+
+**28:24** and you will join the gold chains to the rings that are on its edges,
+
+**28:25** and you will fasten the ends of the chains themselves to two hooks on each side of the shoulder vestment that faces the breastpiece.
+
+**28:26** You will also make two gold rings, which you will place at the ends of the breastpiece, on the edges that are opposite the shoulder vestment and face its back side.
+
+**28:27** And also two other gold rings, which are to be placed below on each side of the shoulder vestment that faces the front of the lower joining, so that it may be fitted together with the shoulder vestment,
+
+**28:28** and the breastpiece may be bound tightly by its rings to the rings of the shoulder vestment with a blue cord, so that the finely crafted joining remains intact, and the breastpiece and the shoulder vestment cannot be separated from one another.
+
 **28:29** And Aaron will bear the names of the sons of Israel in the breastpiece of judgment over his chest, when he enters the sanctuary, as a memorial before the Lord forever.
 
 **28:30** Moreover, you will place in the breastpiece of judgment Doctrine and Truth, which will be on Aaron's chest when he enters before the Lord; and he will carry the judgment of the sons of Israel on his chest, in the sight of the Lord always.
@@ -78,20 +90,6 @@
 **28:42** You will also make linen undergarments, so that they may cover the flesh of their shame, from the loins to the thighs:
 
 **28:43** and Aaron and his sons will use them when they enter the tabernacle of the testimony, or when they approach the altar to minister in the sanctuary, so that they may not die guilty of iniquity. It will be an everlasting statute for Aaron, and for his seed after him.
-
-## Additional Verses (Not in Saints Numbering)
-
-**28:23** *(after `28:22`)* and two gold rings, which you will place at both ends of the breastpiece:
-
-**28:24** *(after `28:22`)* and you will join the gold chains to the rings that are on its edges,
-
-**28:25** *(after `28:22`)* and you will fasten the ends of the chains themselves to two hooks on each side of the shoulder vestment that faces the breastpiece.
-
-**28:26** *(after `28:22`)* You will also make two gold rings, which you will place at the ends of the breastpiece, on the edges that are opposite the shoulder vestment and face its back side.
-
-**28:27** *(after `28:22`)* And also two other gold rings, which are to be placed below on each side of the shoulder vestment that faces the front of the lower joining, so that it may be fitted together with the shoulder vestment,
-
-**28:28** *(after `28:22`)* and the breastpiece may be bound tightly by its rings to the rings of the shoulder vestment with a blue cord, so that the finely crafted joining remains intact, and the breastpiece and the shoulder vestment cannot be separated from one another.
 
 ## Translator Notes
 

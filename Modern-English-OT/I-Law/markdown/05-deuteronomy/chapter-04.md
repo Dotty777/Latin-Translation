@@ -109,4 +109,4 @@
 - **4:19** — The Vulgate reads quæ creavit ... in ministerium ("what the Lord your God created for the service"), whereas the Hebrew reads "which the Lord your God allotted" to all the peoples.
 - **4:29** — The Vulgate reads tota tribulatione animæ tuæ ("with all the affliction of your soul") where the Hebrew has simply "with all your soul."
 - **4:46** — The Vulgate renders Beth-peor as fanum Phogor ("the shrine of Peor") and ends the sentence after Moyses., making "The sons of Israel also, having come out of Egypt" the subject of "took possession" in verse 47 rather than pairing them with Moses in striking down Sihon.
-- **4:48** — Mount Sion (Latin montem Sion, Hebrew Si'on) is an alternative name for Mount Hermon in the north and is distinct from Mount Zion in Jerusalem.
+- **4:48** — Latin 'montem Sion' renders Mount Sion, an alternative name for Mount Hermon in Transjordan (cf. Deut 3:9) — distinct from Mount Zion in Jerusalem.

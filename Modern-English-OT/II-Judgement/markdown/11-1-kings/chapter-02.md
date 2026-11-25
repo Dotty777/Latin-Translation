@@ -73,7 +73,7 @@
 
 **2:34** So Benaiah the son of Jehoiada went up, and attacking him, put him to death; and he was buried in his house in the wilderness.
 
-**2:35** And the king appointed Benaiah the son of Jehoiada in his place over the army, and he set Zadok the priest in place of Abiathar. Now the chief officers set over all the works of Solomon were five hundred and fifty, who had the people subject to them and directed the appointed works. Solomon also offered, three times each year, burnt offerings and peace offerings on the altar that he had built for the Lord, and burned incense before the Lord; and the temple was completed.
+**2:35** And the king appointed Benaiah the son of Jehoiada in his place over the army, and he set Zadok the priest in place of Abiathar.
 
 **2:36** The king also sent and summoned Shimei, and said to him, "Build a house for yourself in Jerusalem, and live there; and you will not go out from there this way or that.
 
@@ -95,12 +95,12 @@
 
 **2:45** and King Solomon is blessed, and the throne of David will be steadfast before the Lord forever."
 
-**2:46** So the king ordered Benaiah the son of Jehoiada, who went out and struck him, and he died. Judah and Israel were innumerable, like the sand of the sea in multitude, eating, and drinking, and rejoicing. Now Solomon was in his dominion, having all the kingdoms from the river of the land of the Philistines to the border of Egypt, who were offering him gifts and serving him all the days of his life. And Judah and Israel lived without any fear, each one under his vine and under his fig tree, from Dan to Beersheba, all the days of Solomon.
+**2:46** So the king ordered Benaiah the son of Jehoiada, who went out and struck him, and he died.
 
 ## Translator Notes
 
 - **2:3** — The Vulgate renders the Hebrew verb for prospering or acting wisely as ut intelligas ("so that you may understand") and translates Hebrew "statutes" as caeremonias ("ceremonies").
 - **2:6** — Latin ad inferos ("to the underworld," here and in 2:9) denotes the lower world or abode of the dead, corresponding to Hebrew Sheol.
 - **2:8** — The Vulgate renders Hebrew ben-hayemini ("the Benjaminite") literally as a patronymic, "the son of Jemini," and translates the place name Mahanaim by its literal meaning, "the camp" (ad castra).
-- **2:35** — The Clementine Vulgate does not have this material at 2:35; following this edition's Greek-based verse arrangement, the English here joins Vulgate 2:35 with 9:23 and 9:25 (the five hundred and fifty chief officers, the thrice-yearly sacrifices, and the completion of the temple). The Septuagint has similar material in its additions after 2:35.
-- **2:46** — The Clementine Vulgate does not have this material at 2:46; following this edition's Greek-based verse arrangement, the English here joins Vulgate 2:46 with 4:20, 5:1 and 5:5 (the Septuagint has a similar summary in its additions after 2:46). The Latin reads a flumine terrae Philisthiim ("from the river of the land of the Philistines"), where the Hebrew reads "from the River to the land of the Philistines."
+- **2:35** — Native Clementine Vulgate keeps 2:35 concise; the notices of the 550 chief officers and thrice-yearly sacrifices (placed in Saints.Bible 2:35 following 3 Kingdoms) stand at native 9:23 and 9:25.
+- **2:46** — Native Clementine Vulgate keeps 2:46 concise; the summaries of Solomon's dominion (placed in Saints.Bible 2:46 following 3 Kingdoms) stand at native 4:20, 4:21, and 4:25.

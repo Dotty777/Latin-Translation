@@ -1,6 +1,6 @@
 # Proverbs 11 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (31 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -10,6 +10,8 @@
 **11:2** Where pride is, there disgrace will also be; but where humility is, wisdom is there as well.
 
 **11:3** The sincerity of the righteous will direct them, and the treachery of the perverse will devastate them.
+
+**11:4** Wealth will be of no benefit on the day of vengeance, yet righteousness will deliver from death.
 
 **11:5** The righteousness of the sincere person will direct his way, and the wicked person will fall in his own wickedness.
 
@@ -64,10 +66,6 @@
 **11:30** The fruit of the righteous person is a tree of life, and whoever receives souls is wise.
 
 **11:31** If the righteous person receives repayment on earth, how much more the wicked person and the sinner!
-
-## Additional Verses (Not in Saints Numbering)
-
-**11:4** *(after `11:3`)* Wealth will be of no benefit on the day of vengeance, yet righteousness will deliver from death.
 
 ## Translator Notes
 

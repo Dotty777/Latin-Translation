@@ -1,6 +1,6 @@
 # Genesis 41 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (57 verses, 4 translator notes)  
+> **Status:** `draft: true` (57 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -17,13 +17,13 @@
 
 **41:6** Just as many other heads of grain also, thin and struck by blight, were springing up,
 
-**41:7** devouring all the beauty of the former ones. Waking up after rest,
+**41:7** devouring the beauty of all the former ones. When Pharaoh woke up after rest,
 
-**41:8** and when morning came, terrified with dread, he sent for the diviners of Egypt and all the wise men; and when they had been summoned, he told them the dream, and there was no one who could interpret it.
+**41:8** and when morning came, terrified with dread, he sent for all the diviners of Egypt and all the wise men; and when they had been summoned, he told them the dream, and there was no one who could interpret it.
 
 **41:9** Then at last, remembering, the master of the cupbearers said, "I confess my sin:
 
-**41:10** when the king was angry with his servants, you ordered me and the master of the bakers to be thrust into the prison of the commander of the soldiers,
+**41:10** when the king was angry with his servants, he ordered me and the master of the bakers to be thrust into the prison of the commander of the soldiers,
 
 **41:11** where on one night each of us saw a dream foretelling things to come.
 
@@ -37,11 +37,11 @@
 
 **41:16** Joseph answered, "Apart from me, God will give a favorable answer to Pharaoh."
 
-**41:17** Therefore he recounted what he had seen: "I thought I was standing on the bank of the river,
+**41:17** Therefore Pharaoh recounted what he had seen: "I thought I was standing on the bank of the river,
 
 **41:18** and seven cows were coming up out of the river, exceedingly beautiful and fat in flesh, which were cropping the greenery in the pasture of the marsh.
 
-**41:19** And look, seven other cows were following these, so deformed and emaciated that I have never seen such ones in the entire land of Egypt;
+**41:19** And look, seven other cows were following these, so deformed and emaciated that I have never seen such ones in the land of Egypt;
 
 **41:20** which, after devouring and consuming the former ones,
 
@@ -71,7 +71,7 @@
 
 **41:33** Now therefore, let the king look out for a wise and industrious man and set him over the land of Egypt,
 
-**41:34** who shall appoint overseers throughout each region, and a fifth part of the produce during the seven years of fertility
+**41:34** who shall appoint overseers throughout all the regions, and a fifth part of the produce during the seven years of fertility
 
 **41:35** that are now about to come, let him gather into granaries; and let all the grain be stored under Pharaoh's authority and kept in the cities.
 
@@ -81,11 +81,11 @@
 
 **41:38** and he spoke to them, "Will we be able to find such a man, who is full of the spirit of God?"
 
-**41:39** Therefore he said to Joseph, "Since God has shown you all that you have spoken, will we be able to find anyone wiser and like you?
+**41:39** Therefore he said to Joseph, "Since God has shown you all that you have spoken, will I be able to find anyone wiser and like you?
 
 **41:40** You will be over my house, and all the people will obey at the command of your mouth; by the throne of the kingdom alone will I precede you."
 
-**41:41** Pharaoh also, saying again to Joseph, "Look, I have appointed you over the entire land of Egypt,"
+**41:41** And Pharaoh said again to Joseph, "Look, I have appointed you over the entire land of Egypt," and
 
 **41:42** took the ring from his hand and put it on his hand; and he clothed him with a robe of fine linen and placed a gold chain around his neck.
 
@@ -111,11 +111,11 @@
 
 **41:53** Therefore, when the seven years of plenty that had been in Egypt had passed,
 
-**41:54** the seven years of scarcity that Joseph had foretold began to come; and in the entire world the famine prevailed, and in the whole land of Egypt there was no bread.
+**41:54** the seven years of scarcity that Joseph had foretold began to come; and in the entire world the famine prevailed, and in the whole land of Egypt there was bread.
 
 **41:55** When that land grew hungry, the people cried out to Pharaoh, asking for food. He answered them, "Go to Joseph, and do whatever he tells you."
 
-**41:56** Now the famine was growing daily in all the land of Egypt, and Joseph opened all the granaries and kept selling to the Egyptians, for the famine had oppressed them as well.
+**41:56** Now the famine was growing daily in all the land, and Joseph opened all the granaries and kept selling to the Egyptians, for the famine had oppressed them as well.
 
 **41:57** And all the provinces were coming into Egypt to buy provisions and relieve the evil of scarcity.
 
@@ -124,4 +124,3 @@
 - **41:13** — The Vulgate renders the execution phrase as "in cruce" ("on a cross"), whereas the Hebrew Masoretic Text reads "on a tree."
 - **41:43** — The Vulgate interprets the obscure Egyptian acclamation transliterated as "abrech" in the Hebrew text as a command "that all should bend the knee before him" ("ut omnes coram eo genu flecterent").
 - **41:45** — Instead of transliterating Joseph's Egyptian name (Hebrew "Zaphenath-paneah"), the Vulgate translates it into Latin as "Salvatorem mundi" ("Savior of the world"). Like the Septuagint, the Vulgate also uses the Greek name "Heliopolis" rather than Hebrew "On" (also in 41:50).
-- **41:54** — The Latin text here reads "non erat panis" ("there was no bread") in Egypt, whereas the Hebrew Masoretic Text and the Septuagint read that "there was bread."

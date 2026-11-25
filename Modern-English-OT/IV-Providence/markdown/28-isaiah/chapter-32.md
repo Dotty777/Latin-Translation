@@ -49,5 +49,5 @@
 
 - **32:8** — Vulgate super duces ("over leaders") takes Hebrew nedivot ("noble things") as a personal plural denoting nobles or rulers.
 - **32:14** — Vulgate tenebrae et palpatio ("darkness and groping") interprets Hebrew ophel wa-bachan ("hill/citadel and watchtower") through roots meaning "darkness" and "testing/feeling."
-- **32:15** — The Vulgate retains the Hebrew word carmel untranslated here and in verse 16; besides referring to Mount Carmel, the term means a fertile orchard or garden land.
+- **32:15** — The Vulgate retains the Hebrew word carmel untranslated here and in verse 16; besides referring to Mount Carmel, the term means a fertile orchard or garden land. Latin has bare spiritus (without Dei or Domini), which can be rendered 'the Spirit' or 'a spirit' (or 'wind'); capitalization is subject to edition-wide editorial policy.
 - **32:18** — Vulgate in pulchritudine pacis ("in the beauty of peace") derives Hebrew naweh ("dwelling/abode") from the root meaning "to be beautiful."

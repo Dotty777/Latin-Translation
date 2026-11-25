@@ -1,6 +1,6 @@
 # 1 Kings 10 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (29 verses, 6 translator notes)  
+> **Status:** `draft: true` (29 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -47,7 +47,7 @@
 
 **10:21** Moreover, all the vessels from which King Solomon drank were of gold, and all the furnishings of the house of the forest of Lebanon were of purest gold; there was no silver, nor was it considered of any value in the days of Solomon.
 
-**10:22** This is the sum of the expenses that King Solomon provided for building the house of the Lord and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer. So Solomon built Gezer, and lower Beth-horon, and Baalath, and Palmyra in the land of the wilderness. And he fortified all the villages that belonged to him and were without a wall, and the cities of chariots and the cities of horsemen, and whatever pleased him to build in Jerusalem, and in Lebanon, and in all the land of his dominion. All the people who had remained from the Amorites, and the Hittites, and the Perizzites, and the Hivites, and the Jebusites, who are not of the sons of Israel: their sons who had remained in the land, namely those whom the sons of Israel had not been able to wipe out, Solomon made subject to tribute up to this day. But of the sons of Israel Solomon did not appoint anyone to serve; rather, they were fighting men, and his ministers, and princes, and commanders, and officers of chariots and horses. For the king's fleet went by sea with Hiram's fleet once every three years to Tarshish, bringing from there gold, and silver, and elephant tusks, and apes, and peacocks.
+**10:22** For the king's fleet went by sea with Hiram's fleet once every three years to Tarshish, bringing from there gold, and silver, and elephant tusks, and apes, and peacocks.
 
 **10:23** So King Solomon was magnified above all the kings of the earth in riches and wisdom.
 
@@ -55,7 +55,7 @@
 
 **10:25** And each one brought him gifts: vessels of silver and gold, garments and weapons of war, spices also, and horses and mules, every year.
 
-**10:26** And Solomon had forty thousand stalls for chariot horses and twelve thousand riding horses. And Solomon gathered chariots and horsemen, and he had one thousand four hundred chariots and twelve thousand horsemen; and he stationed them throughout the fortified cities, and with the king in Jerusalem.
+**10:26** And Solomon gathered chariots and horsemen, and he had one thousand four hundred chariots and twelve thousand horsemen; and he stationed them throughout the fortified cities, and with the king in Jerusalem.
 
 **10:27** And he caused there to be as great an abundance of silver in Jerusalem as of stones; and he supplied a multitude of cedars like the sycamores that grow in the plains.
 
@@ -68,6 +68,5 @@
 - **10:5** — The Vulgate renders Hebrew "seating" as "dwellings" (habitacula) and reads "burnt offerings" (holocausta) rather than "ascent" or "stairway," reflecting a well-known ambiguity in the Hebrew consonantal text.
 - **10:11** — Latin "ligna thyina" ("thyine wood," an aromatic North African conifer timber) is the Vulgate rendering of Hebrew "almug wood."
 - **10:17** — The Vulgate reads "three hundred minas" (trecentæ minæ), matching the number three hundred in 2 Chronicles 9:16 and several Septuagint witnesses, whereas the Hebrew Masoretic Text of 1 Kings reads "three minas."
-- **10:22** — Following the Septuagint 3 Kingdoms order, this verse incorporates the account of Solomon's building projects and tribute labor (placed at 9:15, 17-22 in the Masoretic Text) before the "For the king's fleet" (quia) clause continuing 10:21. Distinctively Vulgate readings include "sum of the expenses" (summa expensarum) for Hebrew "forced labor," "villages... without a wall" for "storage cities," and "Palmyra" (Palmiram) for Hebrew Tamar/Tadmor.
-- **10:26** — The opening sentence on Solomon's forty thousand stalls for chariot horses and twelve thousand riding horses (numbered 5:6 in the Saints Latin Critical Text) stands here following the Septuagint 3 Kingdoms placement, and the Vulgate reads "fortified cities" (civitates munitas) where the Hebrew has "chariot cities."
+- **10:26** — The Vulgate reads "fortified cities" (civitates munitas) where the Hebrew has "chariot cities." Native 4:26 (Solomon's stalls) stands in chapter 4 rather than here.
 - **10:29** — The Vulgate states that the kings of the Hittites and of Syria "sold horses" (equos venundabant), whereas the Hebrew Masoretic Text describes Solomon's merchants exporting horses and chariots to those kings.

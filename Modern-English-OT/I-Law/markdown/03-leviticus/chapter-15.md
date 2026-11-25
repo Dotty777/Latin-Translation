@@ -1,6 +1,6 @@
 # Leviticus 15 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (32 verses, 4 translator notes)  
+> **Status:** `draft: true` (33 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Leviticus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -41,13 +41,15 @@
 
 **15:18** The woman with whom he has intercourse will wash herself with water, and she will be unclean until evening.
 
-**15:19** A woman who suffers a flow of blood at the return of the month will be separated for seven days. Everyone who touches her will be unclean until evening,
+**15:19** A woman who suffers a flow of blood at the return of the month will be separated for seven days.
 
-**15:20** and whatever she sleeps or sits on during the days of her separation will be defiled.
+**15:20** Everyone who touches her will be unclean until evening,
 
-**15:21** The one who touches her bed will wash his garments, and having washed himself with water, he will be unclean until evening.
+**15:21** and whatever she sleeps or sits on during the days of her separation will be defiled.
 
-**15:22** Whoever touches any article on which she sits will wash his garments, and having washed himself with water, he will be defiled until evening.
+**15:22** The one who touches her bed will wash his garments, and having washed himself with water, he will be unclean until evening.
+
+**15:23** Whoever touches any article on which she sits will wash his garments, and having washed himself with water, he will be defiled until evening.
 
 **15:24** If a man has intercourse with her at the time of menstrual blood, he will be unclean for seven days, and all bedding on which he sleeps will be defiled.
 
@@ -74,4 +76,5 @@
 - **15:2** — Vulgate "fluxum seminis" ("a flow of seed") specifies a seminal discharge, whereas the Hebrew Masoretic Text reads more generally "a discharge from his flesh."
 - **15:3** — Vulgate "when moment by moment a foul fluid clings to his flesh and congeals" is a distinctly clinical Latin rendering of the Hebrew clause describing a discharge that either runs or is stopped up.
 - **15:10** — Vulgate omits the verb "touches" found in the Hebrew and Greek texts here, stating directly that whatever has been beneath the man is defiled until evening.
-- **15:22** — Latin "vas" (literally "vessel" or "utensil") is used broadly in the Vulgate for any household article or furnishing. The Vulgate divides Hebrew 15:19 into two verses, so its 15:21-23 correspond to Hebrew 15:20-22; it has no counterpart to Hebrew 15:23.
+- **15:19** — Native Clementine Vulgate Leviticus 15:19-20 map to Saints.Bible 15:19, shifting native 15:21-23 relative to Saints 15:20-22. Native Vulgate Leviticus 15:19-20 correspond to Saints.Bible 15:19, and 15:21-23 correspond to Saints.Bible 15:20-22; Saints.Bible 15:23 has no counterpart in the Clementine Vulgate. Latin "vas" denotes any household article or furnishing.
+- **15:23** — Latin "vas" (literally "vessel" or "utensil") is used broadly in the Vulgate for any household article or furnishing. The Vulgate divides Hebrew 15:19 into two verses, so its 15:21-23 correspond to Hebrew 15:20-22; it has no counterpart to Hebrew 15:23.

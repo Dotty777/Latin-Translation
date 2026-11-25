@@ -1,6 +1,6 @@
 # Exodus 36 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (35 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (38 verses, 3 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -19,70 +19,70 @@
 
 **36:7** because the things offered were sufficient and more than abundant.
 
-**36:8** Now of blue and purple, crimson and fine linen, he made the garments in which Aaron was to be clothed when he ministered in the holy places, just as the Lord commanded Moses.
+**36:8** And all who were wise in heart to complete the work of the tabernacle made ten curtains of twisted fine linen, and violet-blue, and purple, and twice-dyed scarlet, with variegated work and embroidered craft,
 
-**36:9** Therefore he made the shoulder vestment of gold, blue, and purple, and twice-dyed scarlet, and twisted fine linen,
+**36:9** of which one had twenty-eight cubits in length and four in width; there was one measurement for all the curtains.
 
-**36:10** with patterned weaving; and he cut thin gold sheets and drew them out into threads, so that they could be twisted with the weft of the preceding colors,
+**36:10** And he joined five curtains, one to another, and the other five he linked together to one another.
 
-**36:11** and two borders joined to one another on both sides of the upper edges,
+**36:11** He also made violet-blue loops on the border of the one curtain on each side, and on the border of the other curtain likewise,
 
-**36:12** and a belt of the same colors, just as the Lord had commanded Moses.
+**36:12** so that the loops would come opposite one another and be joined together.
 
-**36:13** He also prepared two onyx stones, fastened and enclosed in gold, and engraved by the craft of a gem-engraver with the names of the sons of Israel;
+**36:13** Accordingly he also cast fifty golden rings to clasp the loops of the curtains, so that it would become one tabernacle.
 
-**36:14** and he placed them on the sides of the shoulder vestment as a memorial of the sons of Israel, just as the Lord had commanded Moses.
+**36:14** He also made eleven cloths of goats' hair to cover the roof of the tabernacle;
 
-**36:15** He also made the breastpiece with patterned weaving, like the work of the shoulder vestment, of gold, blue, purple, twice-dyed scarlet, and twisted fine linen,
+**36:15** one cloth had thirty cubits in length and four cubits in width; all the cloths were of one measurement;
 
-**36:16** four-cornered, doubled, of a palm's measure.
+**36:16** of these he joined five by themselves, and the other six separately.
 
-**36:17** And he set in it four rows of gems. In the first row were a sardius, a topaz, and an emerald.
+**36:17** And he made fifty loops on the border of the one cloth, and fifty on the border of the other cloth, so that they might be joined to one another,
 
-**36:18** In the second, a carbuncle, a sapphire, and a jasper.
+**36:18** and fifty bronze clasps by which the roof might be fastened, so that one covering would be made out of all the cloths.
 
-**36:19** In the third, a ligure, an agate, and an amethyst.
+**36:19** He also made a covering for the tabernacle of rams' skins dyed red, and another covering over it of violet-colored skins.
 
-**36:20** In the fourth, a chrysolite, an onyx, and a beryl, surrounded and enclosed in gold in their rows.
+**36:20** He also made the upright boards of the tabernacle from acacia wood.
 
-**36:21** And those twelve stones were engraved with the names of the twelve tribes of Israel, each one according to each individual name.
+**36:21** Ten cubits was the length of one board, and the width measured one and a half cubits.
 
-**36:22** They also made on the breastpiece small chains linked to one another, of purest gold,
+**36:22** There were two mortise joints on each board, so that one might be joined to another. Thus he did on all the boards of the tabernacle.
 
-**36:23** and two hooks, and the same number of gold rings. Moreover, they placed the rings on both sides of the breastpiece,
+**36:23** Of these, twenty were on the southern quarter toward the south,
 
-**36:24** from which two gold chains were to hang, which they inserted into the hooks that projected at the corners of the shoulder vestment.
+**36:24** with forty silver bases. Two bases were placed under one board on both sides of the corners, where the mortise joints of the sides terminate at the corners.
 
-**36:25** These fit together with one another both in front and behind in such a way that the shoulder vestment and the breastpiece were bound to each other,
+**36:25** Also on the quarter of the tabernacle that faces toward the north, he made twenty boards,
 
-**36:28** drawn tight to the belt and more firmly joined by the rings, which a blue cord connected, so that they would not hang loosely and shift away from one another, just as the Lord commanded Moses.
+**36:26** with forty silver bases, two bases for each board.
 
-**36:30** and an opening for the head in the upper part at the middle, and a woven border all around the opening;
+**36:27** Toward the west, however, that is, on that part of the tabernacle which faces the sea, he made six boards,
 
-**36:31** and below, at the feet, pomegranates of blue, purple, crimson, and twisted fine linen;
+**36:28** and two others at each of the corners of the tabernacle at the back,
 
-**36:32** and bells of purest gold, which they placed between the pomegranates at the bottom edge of the tunic all around:
+**36:29** which were joined from the bottom all the way to the top, and were brought together alike into one fastening. So he did on both sides at the corners,
 
-**36:33** a gold bell and a pomegranate, with which the high priest walked adorned when he performed his ministry, just as the Lord had commanded Moses.
+**36:30** so that there were eight boards together, and they had sixteen silver bases, namely, two bases under each board.
 
-**36:34** They also made tunics of fine linen with woven work for Aaron and his sons;
+**36:31** He also made bars of acacia wood: five to hold together the boards of one side of the tabernacle,
 
-**36:35** and turbans with their little crowns, of fine linen; also linen undergarments, of fine linen;
+**36:32** and five others to fit together the boards of the other side; and besides these, five other bars for the western quarter of the tabernacle toward the sea.
 
-**36:36** and a sash of twisted fine linen, blue, purple, and twice-dyed crimson, with the craft of embroidery, just as the Lord had commanded Moses.
+**36:33** He also made another bar that passed through the middle of the boards from corner to corner.
 
-**36:37** They also made the plate of sacred veneration of purest gold, and they wrote on it with the work of a gem-engraver, "Holiness of the Lord,"
+**36:34** Now he gilded the boards themselves, with their bases cast of silver. And he made their rings of gold, through which the bars could be inserted, and these too he covered with plates of gold.
 
-**36:38** and they bound it to the turban with a blue cord, just as the Lord had commanded Moses.
+**36:35** He also made the veil of blue and purple, crimson and twisted fine linen, with patterned weaving, variegated and adorned:
 
-## Additional Verses (Not in Saints Numbering)
+**36:36** and four pillars of acacia wood, which he overlaid with gold along with their capitals, having cast their bases of silver.
 
-**36:27** *(after `36:28`)* Toward the west, however, that is, on that part of the tabernacle which faces the sea, he made six boards,
+**36:37** He also made a hanging at the entrance of the tabernacle of blue, purple, crimson, and twisted fine linen, with the work of an embroiderer,
+
+**36:38** and five pillars with their capitals, which he overlaid with gold, and he cast their bases of bronze.
 
 ## Translator Notes
 
-- **36:8** — This section follows the Septuagint-aligned verse ordering mapped to Vulgate text (corresponding to MT/standard Vulgate Exodus 39:1-31), moving directly from the offerings to the priestly garments. The Latin uses singular 'fecit' ("he made") through v. 17 before shifting to plural 'fecerunt' ("they made") in v. 22.
-- **36:9** — Latin 'superhumerale' (literally "over-shoulder garment") renders the Hebrew 'ephod', and 'cocco bis tincto' ("twice-dyed scarlet," cf. v. 36) reflects an ancient reading of Hebrew 'shani' as "double."
-- **36:15** — Latin 'rationale' (reflecting Greek 'logeion', "oracle-piece" or "piece of reason") denotes the high priest's breastpiece. In vv. 17-20, the Vulgate's names for the gems follow the Greek tradition rather than the Hebrew (for example, 'jaspis' in row two and 'beryllus' in row four, where the Hebrew has jasper last).
-- **36:33** — The clause "with which the high priest walked adorned when he performed his ministry" ('quibus ornatus incedebat pontifex quando ministerio fungebatur') is a distinctive Vulgate expansion of the briefer Hebrew phrase ("for ministering").
-- **36:37** — Latin 'laminam sacrae venerationis' ("the plate of sacred veneration") and the genitive inscription 'Sanctum Domini' ("Holiness of the Lord," matching Septuagint 'hagiasma Kyriou') differ slightly from the Hebrew ("plate of the holy diadem" inscribed "Holy to the Lord," cf. Vulgate Exod 28:36 'Sanctum Domino').
+- **36:8** — Native Vulgate Exodus 36:8-39:43 follow the Hebrew/Vulgate Tabernacle construction sequence (curtains, boards, ark, table, lampstand, altars, courtyard, priestly garments), differing from Saints.Bible Septuagint-aligned numbering in ch. 36-39. Stage 1 restored 37 native Vulgate verses previously dropped under the Greek-slotted anchor.
+- **36:19** — Latin 'pellibus janthinis' ('violet-colored skins') renders Hebrew 'tachash' consistently with 25:5 and 35:7.
+- **36:35** — Latin 'varium atque distinctum' (literally "variegated and distinct/adorned") describes the patterned weave of the veil without the reference to cherubim found in the Hebrew (Exod 36:35).

@@ -1,6 +1,6 @@
 # Daniel 3 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (93 verses, 9 translator notes, 4 additional)  
+> **Status:** `draft: true` (100 verses, 12 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -137,6 +137,14 @@
 
 **3:66** Bless the Lord, fire and heat; praise and supremely exalt Him forever.
 
+**3:67** Bless the Lord, cold and heat; praise and supremely exalt Him forever.
+
+**3:68** Bless the Lord, dews and hoarfrost; praise and supremely exalt Him forever.
+
+**3:69** Bless the Lord, frost and cold; praise and supremely exalt Him forever.
+
+**3:70** Bless the Lord, ice and snows; praise and supremely exalt Him forever.
+
 **3:71** Bless the Lord, nights and days; praise and supremely exalt Him forever.
 
 **3:72** Bless the Lord, light and darkness; praise and supremely exalt Him forever.
@@ -191,15 +199,11 @@
 
 **3:97** Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon.
 
-## Additional Verses (Not in Saints Numbering)
+**3:98** King Nebuchadnezzar, to all peoples, nations, and languages who live in the entire earth: may peace be multiplied to you.
 
-**3:67** *(after `3:66`)* Bless the Lord, cold and heat; praise and supremely exalt Him forever.
+**3:99** The Most High God has worked signs and wonders with me. Therefore it has pleased me to proclaim
 
-**3:68** *(after `3:66`)* Bless the Lord, dews and hoarfrost; praise and supremely exalt Him forever.
-
-**3:69** *(after `3:66`)* Bless the Lord, frost and cold; praise and supremely exalt Him forever.
-
-**3:70** *(after `3:66`)* Bless the Lord, ice and snows; praise and supremely exalt Him forever.
+**3:100** His signs, because they are great, and His wonders, because they are mighty; and His kingdom is an everlasting kingdom, and His dominion is from generation to generation.
 
 ## Translator Notes
 
@@ -212,3 +216,6 @@
 - **3:88** — Latin 'infernus' translates Greek 'Hades', denoting the underworld or realm of the dead, as reflected in the parallel phrase 'from the hand of death.'
 - **3:92** — Latin 'filio Dei' has the singular 'Dei' ('a son of God'), as does the Greek Theodotion text, whereas the Aramaic Masoretic Text has the plural 'bar elahin' ('a son of the gods').
 - **3:94** — Latin 'sarabala' transliterates the Aramaic/Greek loanword for wide Persian trousers (translated 'braccis' in 3:21). In 3:95, 'verbum regis immutaverunt' ('altered the king's word') literally preserves the idiom for disobeying or overturning a royal command.
+- **3:98** — In native Clementine Vulgate numbering, Nebuchadnezzar's opening epistolary greeting is 3:98-100 (corresponding to Saints.Bible 4:1-3), previously appended to English 4:37.
+- **3:99** — This verse renders the Latin 3:98-100 (Nebuchadnezzar's proclamation and praise, English 4:1-3) followed by the Latin 4:37 (the king's final praise).
+- **3:100** — This verse renders the Latin 3:98-100 (Nebuchadnezzar's proclamation and praise, English 4:1-3) followed by the Latin 4:37 (the king's final praise).

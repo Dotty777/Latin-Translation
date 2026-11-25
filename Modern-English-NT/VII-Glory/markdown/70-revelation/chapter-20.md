@@ -17,13 +17,13 @@
 
 **20:6** Blessed and holy is the one who has a part in the first resurrection. Over these the second death has no power, but they will be priests of God and of Christ, and they will reign with Him for a thousand years.
 
-**20:7** And when the thousand years have been completed, Satan will be released from his prison,
+**20:7** And when the thousand years have been completed, Satan will be released from his prison, and he will go out and lead astray the nations that are on the four corners of the earth, Gog and Magog, and gather them together for battle; their number is like the sand of the sea.
 
-**20:8** and he will go out and lead astray the nations that are on the four corners of the earth, Gog and Magog, and gather them together for battle; their number is like the sand of the sea.
+**20:8** And they went up over the breadth of the earth and surrounded the camp of the saints and the beloved city.
 
-**20:9** And they went up over the breadth of the earth and surrounded the camp of the saints and the beloved city. And fire came down from God out of heaven and devoured them.
+**20:9** And fire came down from God out of heaven and devoured them; and the devil who was leading them astray was thrown into the lake of fire and sulfur, where both the beast
 
-**20:10** And the devil who was leading them astray was thrown into the lake of fire and sulfur, where both the beast and the false prophet will be tormented day and night forever and ever.
+**20:10** and the false prophet will be tormented day and night forever and ever.
 
 **20:11** And I saw a great, bright white throne and Him who sat on it, from whose presence earth and heaven fled, and no place was found for them.
 
@@ -38,7 +38,7 @@
 ## Translator Notes
 
 - **20:4** — Latin "sedes" ("seats") is distinct from "thronus" ("throne," e.g., 20:11), forming a cognate pairing with "sederunt" ("sat").
-- **20:8** — The Latin verse division differs in 20:7-10: Latin verse 7 also includes this verse, verse 8 begins "And they went up," verse 9 begins "And fire came down," and verse 10 begins "and the false prophet."
+- **20:7** — Native Clementine Vulgate 20:7-10 divide the clauses differently from Saints.Bible: native 20:7 combines Saints 20:7-8, native 20:8 holds the opening sentence of Saints 20:9, native 20:9 holds the close of Saints 20:9 plus the opening of Saints 20:10, and native 20:10 closes Saints 20:10. Native Clementine Vulgate 20:7-10 divide the clauses differently from Saints.Bible: native 20:7 combines Saints 20:7-8, native 20:8 holds the opening sentence of Saints 20:9, native 20:9 holds the close of Saints 20:9 plus the opening of Saints 20:10, and native 20:10 closes Saints 20:10 ("and the false prophet will be tormented...").
 - **20:9** — The Vulgate includes "a Deo" ("from God").
 - **20:10** — The Vulgate makes the beast and the false prophet the subjects of "cruciabuntur" ("will be tormented").
 - **20:14** — Latin "infernus" denotes the underworld or realm of the dead (Greek "Hades"); the Vulgate reverses the order to "the underworld and death" and ends with "This is the second death" without adding "the lake of fire."

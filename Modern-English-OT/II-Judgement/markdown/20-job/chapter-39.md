@@ -1,6 +1,6 @@
 # Job 39 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes)  
+> **Status:** `draft: true` (35 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Job`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -65,6 +65,16 @@
 
 **39:30** Its young will lap up blood; and wherever a carcass is, immediately it is there."
 
+**39:31** And the Lord continued and spoke to Job:
+
+**39:32** "Does he who contends with God grow quiet so easily? Surely he who reproves God ought to answer Him."
+
+**39:33** Now Job, answering the Lord, said:
+
+**39:34** "I who have spoken lightly, what can I answer? I will place my hand over my mouth.
+
+**39:35** I have spoken one thing that I wish I had not said, and a second, to which I will add nothing further."
+
 ## Translator Notes
 
 - **39:9** — The Vulgate renders the Hebrew wild ox (re'em) as "the rhinoceros" (rhinoceros), a distinctive Latin reading that continues in 39:10.
@@ -72,3 +82,4 @@
 - **39:14** — The Vulgate shifts to the second person singular ("will you perhaps warm them," tu forsitan ... calefacies ea), directly addressing Job rather than describing the ostrich warming her eggs.
 - **39:19** — The Vulgate renders the rare Hebrew word ra'mah (often understood as "mane" or "thunder") as "neighing" (hinnitum).
 - **39:26** — Connecting the Hebrew verb with the noun for feather or pinion, the Vulgate translates it as "grows feathers" (plumescit) rather than "soars."
+- **39:31** — Native Vulgate places Saints 40:1-5 at 39:31-35, Saints 40:6-32 + 41:1 at 40:1-28, and Saints 41:2-26 at 41:1-25; keep native Vulgate numbering in the Latin edition and map cleanly to Saints.Bible parallel slots.

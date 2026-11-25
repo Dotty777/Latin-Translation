@@ -1,6 +1,6 @@
 # Proverbs 20 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes, 6 additional)  
+> **Status:** `draft: true` (30 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Proverbs`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -21,7 +21,7 @@
 
 **20:8** A king who sits on the throne of judgment scatters all evil with his gaze.
 
-**20:9** Who is able to say, "My heart is clean; I am pure from sin"? The one who curses his father and mother, his lamp will be extinguished in the midst of darkness; an inheritance toward which one hurries at the beginning will lack a blessing in the end. Do not say, "I will pay back evil." Wait for the Lord, and He will rescue you.
+**20:9** Who is able to say, "My heart is clean; I am pure from sin"?
 
 **20:10** A weight and a weight, a measure and a measure: both are abominable before God.
 
@@ -30,6 +30,24 @@
 **20:12** An ear that hears and an eye that sees: the Lord made both.
 
 **20:13** Do not love sleep, so that poverty may not overwhelm you; open your eyes, and be satisfied with bread.
+
+**20:14** "It is bad, it is bad," says every buyer; and when he has departed, then he will boast.
+
+**20:15** There is gold and a multitude of gems, and the lips of knowledge are a precious vessel.
+
+**20:16** Take the garment of the one who has become guarantor for a stranger, and for foreigners take a pledge from him.
+
+**20:17** Bread of falsehood is sweet to a man, and afterward his mouth will be filled with gravel.
+
+**20:18** Plans are strengthened by counsels, and wars are to be conducted with guidance.
+
+**20:19** Do not associate with the one who reveals secrets, walks deceitfully, and opens his lips wide.
+
+**20:20** The one who curses his father and mother, his lamp will be extinguished in the midst of darkness;
+
+**20:21** an inheritance toward which one hurries at the beginning will lack a blessing in the end.
+
+**20:22** Do not say, "I will pay back evil." Wait for the Lord, and He will rescue you.
 
 **20:23** A weight and a weight is an abomination before the Lord; a deceitful scale is not good.
 
@@ -47,25 +65,12 @@
 
 **20:30** The bruise of a wound will wipe away evils, and blows in the deeper recesses of the belly.
 
-## Additional Verses (Not in Saints Numbering)
-
-**20:14** *(after `20:13`)* "It is bad, it is bad," says every buyer; and when he has departed, then he will boast.
-
-**20:15** *(after `20:13`)* There is gold and a multitude of gems, and the lips of knowledge are a precious vessel.
-
-**20:16** *(after `20:13`)* Take the garment of the one who has become guarantor for a stranger, and for foreigners take a pledge from him.
-
-**20:17** *(after `20:13`)* Bread of falsehood is sweet to a man, and afterward his mouth will be filled with gravel.
-
-**20:18** *(after `20:13`)* Plans are strengthened by counsels, and wars are to be conducted with guidance.
-
-**20:19** *(after `20:13`)* Do not associate with the one who reveals secrets, walks deceitfully, and opens his lips wide.
-
 ## Translator Notes
 
 - **20:1** — The Vulgate describes wine as "a wanton thing" (luxuriosa res) and drunkenness (ebrietas) as tumultuous, warning whoever "delights in these" (his delectatur), whereas the Hebrew Masoretic Text calls wine a mocker and strong drink a brawler, warning against being led astray by it.
-- **20:9** — The second, third, and fourth sentences are numbered 20:20-22 in the Latin text (as in the Hebrew); they stand here following the Septuagint arrangement.
+- **20:9** — Native Clementine Vulgate places 20:20-22 in their native positions (grouped at Saints.Bible 20:9 following the Septuagint).
 - **20:10** — The literal idiom "a weight and a weight, a measure and a measure" (pondus et pondus, mensura et mensura, echoed in 20:23) denotes dishonest, differing standards; the Vulgate here reads "before God" (apud Deum) where the Hebrew has the divine name.
+- **20:18** — Latin gubernaculis literally means "rudders" or "helms," used figuratively for strategic guidance.
+- **20:20** — Native Clementine Vulgate 20:20-22 map to Saints.Bible 20:9b.
 - **20:25** — The Vulgate literally reads "to devour holy ones" (devorare sanctos), a distinctly Vulgate reading where the Hebrew Masoretic Text speaks of rashly declaring something holy.
 - **20:26** — The Vulgate literally reads "bends an arch over them" (incurvat super eos fornicem), a distinctive Latin rendering of the Hebrew image of driving a threshing wheel over the wicked.
-- **20:18 *(additional)*** — Latin gubernaculis literally means "rudders" or "helms," used figuratively for strategic guidance.

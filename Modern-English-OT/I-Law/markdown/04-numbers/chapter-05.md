@@ -51,11 +51,11 @@
 
 **5:23** And the priest shall write these curses on a scroll, and shall blot them out with the most bitter waters into which he has gathered curses,
 
-**5:24** and shall give them to her to drink.
+**5:24** and shall give them to her to drink. When she has drained them,
 
-**5:25** When she has drained them, the priest shall take from her hand the sacrifice of jealousy, and shall lift it up before the Lord, and shall place it upon the altar,
+**5:25** the priest shall take from her hand the sacrifice of jealousy, and shall lift it up before the Lord, and shall place it upon the altar, provided, however, that first
 
-**5:26** provided, however, that first he take a handful of the sacrifice from what is offered and burn it upon the altar, and thus give the woman the most bitter waters to drink.
+**5:26** he take a handful of the sacrifice from what is offered and burn it upon the altar, and thus give the woman the most bitter waters to drink.
 
 **5:27** When she has drunk them, if she has been defiled and, having despised her husband, is guilty of adultery, the waters of the curse will pass through her, and with her belly swollen, her thigh will rot away; and the woman will become a curse and an example to all the people.
 
@@ -72,4 +72,4 @@
 - **5:3** — The Vulgate reads cum habitaverint vobiscum ("while they dwell with you"), referring to those expelled, whereas the Hebrew text reads "in the midst of which I dwell."
 - **5:15** — The Vulgate specifies decimam partem sati ("a tenth part of a seah," a dry measure equal to one-third of an ephah), whereas the Hebrew text specifies a tenth of an ephah.
 - **5:21** — The Vulgate reads in populo suo ("among His people") and vividly renders the curse as the thigh rotting and the swelling womb bursting apart, differing from the Hebrew ("among your people"; thigh wasting away and belly swelling).
-- **5:26** — The Vulgate qualifying clause ita dumtaxat ut prius ("provided, however, that first") clarifies that the handful of the sacrifice is burned before the woman drinks the bitter waters.
+- **5:26** — The Vulgate qualifying clause ita dumtaxat ut prius ("provided, however, that first," closing 5:25) clarifies that the handful of the sacrifice is burned before the woman drinks the bitter waters.

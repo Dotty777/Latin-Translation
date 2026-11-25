@@ -1,6 +1,6 @@
 # Nehemiah 7 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (72 verses, 8 translator notes, 1 additional)  
+> **Status:** `draft: true` (73 verses, 9 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Nehemiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -89,17 +89,17 @@
 
 **7:42** The sons of Harim, one thousand seventeen. The Levites:
 
-**7:43** the sons of Joshua and Kadmiel, of the sons of Hodaviah, seventy-four. The singers:
+**7:43** the sons of Joshua and Kadmiel, of the sons
 
-**7:44** the sons of Asaph, one hundred forty-eight.
+**7:44** of Hodaviah, seventy-four. The singers:
 
-**7:45** The gatekeepers: the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, one hundred thirty-eight.
+**7:45** the sons of Asaph, one hundred forty-eight.
 
-**7:46** The Nethinim: the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth,
+**7:46** The gatekeepers: the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, one hundred thirty-eight.
 
-**7:47** the sons of Keros, the sons of Sia, the sons of Padon,
+**7:47** The Nethinim: the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth,
 
-**7:48** the sons of Lebana, the sons of Hagaba, the sons of Shalmai,
+**7:48** the sons of Keros, the sons of Sia, the sons of Padon, the sons of Lebana, the sons of Hagaba, the sons of Shalmai,
 
 **7:49** the sons of Hanan, the sons of Giddel, the sons of Gahar,
 
@@ -139,6 +139,8 @@
 
 **7:67** besides their male servants and female servants, who were seven thousand three hundred thirty-seven, and among them male singers and female singers, two hundred forty-five.
 
+**7:68** Their horses, seven hundred thirty-six; their mules, two hundred forty-five;
+
 **7:69** their camels, four hundred thirty-five; donkeys, six thousand seven hundred twenty.
 
 **7:70** Now some of the leaders of the families gave for the work. The Tirshatha gave to the treasury one thousand drachmas of gold, fifty bowls, and five hundred thirty priestly tunics.
@@ -149,17 +151,14 @@
 
 **7:73** Now the priests, the Levites, the gatekeepers, the singers, the rest of the common people, the Nethinim, and all Israel lived in their cities.
 
-## Additional Verses (Not in Saints Numbering)
-
-**7:68** *(after `7:67`)* Their horses, seven hundred thirty-six; their mules, two hundred forty-five;
-
 ## Translator Notes
 
 - **7:1** — The Vulgate uses the active first-person verb recensui ("I had enrolled"), portraying Nehemiah as taking a roll of the temple personnel, whereas the Hebrew Masoretic Text reads a passive ("were appointed").
 - **7:2** — The Vulgate renders Hebrew "commander of the citadel over Jerusalem" literally as principi domus de Jerusalem ("the commander of the house, concerning Jerusalem," though de Jerusalem can also be read with domus as "of Jerusalem"), and adds videbatur ("seemed") alongside quasi ("like").
 - **7:3** — Unlike the Hebrew, which continues Nehemiah's direct commands throughout the verse, the Vulgate ends the speech after "until the heat of the sun" and shifts to narrative past ("the gates were shut and barred; and I stationed").
 - **7:21** — Latin filii Hezeciae (corresponding to Hebrew "of Hezekiah") is grammatically ambiguous and can be construed either as nominative plural ("the sons of Hezekiah") or as genitive singular in apposition to Ater ("son of Hezekiah").
-- **7:46** — Latin Nathinaei ("the Nethinim") transliterates the Hebrew title for the hereditary guild of temple servants.
+- **7:47** — Latin Nathinaei ("the Nethinim") transliterates the Hebrew title for the hereditary guild of temple servants.
+- **7:48** — Native Clementine Vulgate 7:48 combines Saints.Bible 7:47 and 7:48.
 - **7:59** — The Vulgate construes Hebrew "the sons of Pochereth-hazzebaim, the sons of Amon" as a single lineage ("the sons of Pochereth, who was descended from Zebaim, the son of Amon") rather than two separate clans.
 - **7:65** — Latin Athersatha ("the Tirshatha") transliterates the Persian title for the governor, and the Vulgate distinctively renders Hebrew "for Urim and Thummim" as doctus et eruditus ("learned and instructed").
 - **7:70** — Here and in verses 71-72, the Vulgate renders the Hebrew currency and weight terms as drachmas (drachmas) and minas (mnas).

@@ -1,33 +1,71 @@
 # Jeremiah 46 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (8 verses, 4 translator notes, 1 additional)  
+> **Status:** `draft: true` (28 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**46:1** In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon and all his army came to Jerusalem and besieged it.
+**46:1** The word of the Lord that came to Jeremiah the prophet against the nations.
 
-**46:2** And in the eleventh year of Zedekiah, in the fourth month, on the fifth day of the month, the city was broken open,
+**46:2** Concerning Egypt, against the army of Pharaoh Necho king of Egypt, which was by the river Euphrates at Carchemish, which Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim son of Josiah, king of Judah.
 
-**46:3** and all the officials of the king of Babylon entered and sat in the Middle Gate: Nergal, Sharezer, Samgar-nebo, Sarsechim, Rab-saris, Nergal, Sharezer, Rab-mag, and all the rest of the officials of the king of Babylon.
+**46:3** "Prepare shield and buckler, and advance to war.
 
-**46:14** They sent and took Jeremiah from the courtyard of the prison, and handed him over to Gedaliah the son of Ahikam, the son of Shaphan, so that he might go into the house and live among the people.
+**46:4** Harness the horses, and mount, horsemen; stand in helmets, polish the spears, clothe yourselves in coats of mail.
 
-**46:15** Now the word of the Lord had come to Jeremiah while he was confined in the courtyard of the prison, saying,
+**46:5** What then? I saw them terrified and turning their backs, their mighty men cut down; they fled in haste and did not look back. Terror on every side," says the Lord.
 
-**46:16** "Go and speak to Ebed-melech the Ethiopian, saying, 'This is what the Lord of hosts, the God of Israel, says: Look, I will bring My words upon this city for harm and not for good, and they will be before your sight on that day.
+**46:6** Let the swift not flee, nor let the mighty one think himself saved; in the north, by the river Euphrates, they have been conquered and have fallen.
 
-**46:17** And I will deliver you on that day, says the Lord, and you will not be handed over into the hands of the men whom you dread;
+**46:7** Who is this who rises like a river, and whose surging waters swell like those of rivers?
 
-**46:18** but rescuing you, I will deliver you, and you will not fall by the sword; rather, your soul will be yours for safety, because you have had confidence in Me, says the Lord.'"
+**46:8** Egypt rises like a river, and like rivers her waves will be tossed; and she will say, "Rising, I will cover the earth; I will destroy the city and its inhabitants."
 
-## Additional Verses (Not in Saints Numbering)
+**46:9** Mount the horses, and exult in chariots, and let the mighty men advance: Ethiopia and the Libyans holding the shield, and the Lydians seizing and shooting arrows.
 
-**46:26** *(after `46:18`)* and I will give them into the hand of those who seek their life, and into the hand of Nebuchadnezzar king of Babylon, and into the hand of his servants; and after these things it will be inhabited as in former days, says the Lord.
+**46:10** But that day of the Lord God of hosts is a day of vengeance, so that He may exact retribution from His enemies; the sword will devour and be satisfied, and it will be made drunk with their blood; for there is a sacrifice of the Lord God of hosts in the land of the north, by the river Euphrates.
+
+**46:11** Go up to Gilead and take resin, virgin daughter of Egypt; in vain you multiply remedies; there will be no healing for you.
+
+**46:12** The nations have heard of your disgrace, and your wailing has filled the earth; for mighty man has struck against mighty man, and both have fallen together.
+
+**46:13** The word which the Lord spoke to Jeremiah the prophet, concerning the fact that Nebuchadnezzar king of Babylon was about to come and strike the land of Egypt:
+
+**46:14** "Declare to Egypt, and make it heard in Migdol, and let it resound in Memphis and in Tahpanhes; say, 'Stand and prepare yourself, for the sword will devour the things that are around you.'
+
+**46:15** Why has your mighty one rotted away? He did not stand, because the Lord has overthrown him.
+
+**46:16** He has multiplied those who fall, and a man has fallen against his neighbor, and they will say, 'Arise, and let us return to our people and to the land of our birth, from the face of the sword of the dove.'
+
+**46:17** Call the name of Pharaoh king of Egypt, 'Time has brought tumult.'
+
+**46:18** As I live," says the King (the Lord of hosts is His name), "surely like Tabor among the mountains, and like Carmel by the sea, he will come.
+
+**46:19** Make for yourself baggage for exile, inhabitant, daughter of Egypt; for Memphis will become a desolation, and will be deserted, and will be uninhabitable.
+
+**46:20** Egypt is a graceful and beautiful heifer; a goader from the north will come to her.
+
+**46:21** Her mercenaries also, who lived in her midst like fattened calves, have turned and fled together, and could not stand; for the day of their slaughter has come upon them, the time of their visitation.
+
+**46:22** Her voice will sound like bronze, for they will hasten with an army, and with axes they will come against her like those cutting wood.
+
+**46:23** They have cut down her forest," says the Lord, "which cannot be counted; they have multiplied beyond locusts, and there is no number to them.
+
+**46:24** The daughter of Egypt has been put to shame, and handed over into the hand of the people of the north."
+
+**46:25** The Lord of hosts, the God of Israel, has said: "Look, I will visit upon the tumult of Alexandria, and upon Pharaoh, and upon Egypt, and upon her gods, and upon her kings, and upon Pharaoh, and upon those who trust in him.
+
+**46:26** and I will give them into the hand of those who seek their life, and into the hand of Nebuchadnezzar king of Babylon, and into the hand of his servants; and after these things it will be inhabited as in former days, says the Lord.
+
+**46:27** And you, do not fear, My servant Jacob, and do not be dismayed, Israel; for look, I will save you from afar, and your seed from the land of your captivity; and Jacob will return, and will rest, and will prosper, and there will be no one to terrify him.
+
+**46:28** And you, do not fear, My servant Jacob," says the Lord, "for I am with you; for I will consume all the nations to which I have driven you out, yet I will not consume you; but I will discipline you in justice, and I will not spare you as if innocent."
 
 ## Translator Notes
 
-- **46:2** — The Clementine Vulgate reads 'on the fifth day of the month' (quinta mensis), whereas the Hebrew Masoretic Text and Greek Septuagint read 'on the ninth day of the month.'
-- **46:3** — The Clementine Vulgate divides the Babylonian name Nergal-sharezer into two separate names (Neregel, Sereser) in both occurrences and leaves the official titles Rab-saris and Rab-mag untranslated as proper names.
-- **46:14** — In this Septuagint-aligned chapter arrangement, verses 4-13 (corresponding to MT 39:4-13) are absent, so 'They sent' directly resumes the Babylonian officials named in verse 3.
-- **46:18** — The Vulgate reads 'for safety' (in salutem), whereas the Hebrew Masoretic Text reads 'as a prize of war.'
+- **46:1** — In native Clementine Vulgate order, chapters 46-51 contain the Oracles against the Nations (46 Egypt = Saints 26; 47 Philistines = Saints 29; 48 Moab = Saints 31; 49:1-6 Ammon = Saints 30:17-21 [49:6 absent]; 49:7-22 Edom = Saints 30:1-16; 49:23-27 Damascus = Saints 30:29-33; 49:28-33 Kedar/Hazor = Saints 30:23-28; 49:34-39 Elam = Saints 25:14-19; 50 Babylon = Saints 27; 51 Babylon = Saints 28).
+- **46:15** — The Vulgate reads computruit ("has rotted away") where the Hebrew verb means "has been swept away," and uses the singular fortis tuus ("your mighty one") where the Hebrew has the plural "your mighty ones."
+- **46:16** — Latin gladii columbæ ("the sword of the dove") is a distinctive Vulgate rendering of Hebrew ha-yonah, which can also be derived from a homonymous root meaning "oppressing"; the same Vulgate phrase recurs in 27:16.
+- **46:17** — The Vulgate renders Pharaoh's mocking title as tumultum adduxit tempus ("Time has brought tumult"), differing from the Hebrew reading "Crash [or Noise], he has let the appointed time pass."
+- **46:22** — Latin quasi æris ("like bronze") is a distinctive Vulgate reading reflecting the Hebrew consonants for "bronze," whereas the Masoretic Hebrew reads "like a serpent."
+- **46:25** — The Vulgate translates Hebrew "Amon of No" (the deity Amon of Thebes) as tumultum Alexandriæ ("the tumult of Alexandria"), reading Amon as "tumult" and identifying the Egyptian city of No with Alexandria.

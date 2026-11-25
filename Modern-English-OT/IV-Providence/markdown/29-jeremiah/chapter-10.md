@@ -1,6 +1,6 @@
 # Jeremiah 10 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (21 verses, 5 translator notes, 4 additional)  
+> **Status:** `draft: true` (25 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Jeremiah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -15,7 +15,15 @@
 
 **10:5** they are fashioned in the likeness of a palm tree, and they will not speak; carried, they will be borne, because they are not able to walk. Do not fear them therefore, because they can do neither evil nor good.
 
+**10:6** There is no one like You, Lord; You are great, and Your name is great in strength.
+
+**10:7** Who will not fear You, King of the nations? For honor belongs to You; among all the wise of the nations, and in all their kingdoms, there is no one like You.
+
+**10:8** Together they will be proven senseless and foolish; the instruction of their futility is wood.
+
 **10:9** Rolled silver is brought from Tarshish, and gold from Uphaz, the work of a craftsman and of the hand of a coppersmith. Blue and purple are their clothing; all of these are the work of craftsmen.
+
+**10:10** But the Lord is the true God; He is the living God and the eternal King. At His indignation the earth will tremble, and the nations will not endure His threat.
 
 **10:11** This, therefore, is what you will say to them, 'May the gods who did not make the heavens and the earth perish from the earth and from these things that are under heaven!'"
 
@@ -46,16 +54,6 @@
 **10:24** Correct me, Lord, yet in judgment, and not in Your fury, so that You do not reduce me to nothing.
 
 **10:25** Pour out Your indignation upon the nations that have not known You, and upon the provinces that have not called upon Your name; because they have eaten Jacob, and devoured him, and consumed him, and laid waste his splendor.
-
-## Additional Verses (Not in Saints Numbering)
-
-**10:6** *(after `10:5`)* There is no one like You, Lord; You are great, and Your name is great in strength.
-
-**10:7** *(after `10:5`)* Who will not fear You, King of the nations? For honor belongs to You; among all the wise of the nations, and in all their kingdoms, there is no one like You.
-
-**10:8** *(after `10:5`)* Together they will be proven senseless and foolish; the instruction of their futility is wood.
-
-**10:10** *(after `10:9`)* But the Lord is the true God; He is the living God and the eternal King. At His indignation the earth will tremble, and the nations will not endure His threat.
 
 ## Translator Notes
 

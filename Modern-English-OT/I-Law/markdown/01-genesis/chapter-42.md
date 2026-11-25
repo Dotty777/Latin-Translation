@@ -15,13 +15,13 @@
 
 **42:5** entered the land of Egypt with others who were going to buy. Now there was famine in the land of Canaan.
 
-**42:6** And Joseph was ruler of Egypt, and at his command grain was sold to the peoples. And when his brothers had paid homage to him,
+**42:6** And Joseph was ruler in the land of Egypt, and at his command grain was sold to the peoples. And when his brothers had paid homage to him,
 
 **42:7** and he had recognized them, he spoke rather harshly, as if to strangers, questioning them, "Where have you come from?" And they answered, "From the land of Canaan, so that we may buy necessities for sustenance."
 
 **42:8** And yet, recognizing his brothers himself, he was not recognized by them.
 
-**42:9** And remembering the dreams that he had once seen, he said, "You are spies. You have come to see the weaker parts of the land."
+**42:9** And remembering the dreams that he had once seen, he said to them, "You are spies. You have come to see the weaker parts of the land."
 
 **42:10** They said, "It is not so, my lord, but your servants have come to buy food.
 
@@ -35,7 +35,7 @@
 
 **42:15** Right now I will put you to the test: by the health of Pharaoh, you will not depart from here until your youngest brother comes.
 
-**42:16** Send one of you and bring him, while you will be in bonds until the things you have said are tested, whether they are false or true; otherwise, by the health of Pharaoh, you are spies."
+**42:16** Send one of you, and let him bring him, while you will be in bonds until the things you have said are tested, whether they are true or false; otherwise, by the health of Pharaoh, you are spies."
 
 **42:17** Therefore he handed them over to custody for three days.
 
@@ -43,7 +43,7 @@
 
 **42:19** If you are peaceful men, let one brother of yours be bound in prison, while you go away and carry the grain that you have bought to your houses,
 
-**42:20** and bring your youngest brother to me, so that we may be able to test your words, and you will not die." They did as he had said,
+**42:20** and bring your youngest brother to me, so that I may be able to test your words, and you may not die." They did as he had said,
 
 **42:21** and they spoke to one another, "Deservedly we suffer these things, because we sinned against our brother, seeing the distress of his soul when he pleaded with us, and we did not listen. For that reason this tribulation has come upon us."
 
@@ -55,7 +55,7 @@
 
 **42:25** Taking Simeon and binding him in their presence, he commanded his attendants to fill their sacks with wheat and to put back each one's money in their bags, with provisions given in addition for the journey; and they did so.
 
-**42:26** Then they, carrying the grain on donkeys, set out.
+**42:26** Then they, carrying the grain on their donkeys, set out.
 
 **42:27** And when one of them had opened his sack to give fodder to his pack animal at the lodging place, observing the money in the mouth of the bag,
 
@@ -75,15 +75,15 @@
 
 **42:35** When these things had been said, as they were pouring out the grain, each one found money tied up in the mouth of the sacks; and with all of them terrified together,
 
-**42:36** their father Jacob said, "You have made me to be without children: Joseph is no more, Simeon is held in bonds, and you are taking Benjamin away; all these evils have fallen upon me."
+**42:36** their father Jacob said, "You have made me to be without children: Joseph is no more, Simeon is held in bonds, and you will take Benjamin away; all these evils have fallen upon me."
 
-**42:37** To whom Reuben answered, "Kill my two sons if I do not bring him back to you. Hand him over into my hand, and I myself will restore him."
+**42:37** To whom Reuben answered, "Kill my two sons if I do not bring him back to you. Hand him over into my hand, and I myself will restore him to you."
 
-**42:38** But he said, "My son is not going down with you. His brother is dead, and he alone has remained. If anything adverse happens to him in the land to which you are going, you will bring down my gray hairs with sorrow to the underworld."
+**42:38** But he said, "My son will not go down with you. His brother is dead, and he alone has remained. If anything adverse happens to him in the land to which you are going, you will bring down my gray hairs with sorrow to the underworld."
 
 ## Translator Notes
 
-- **42:1** — Vulgate "quare neglegitis" ("Why are you negligent?") renders the Hebrew "why do you look at one another?" as a reproach for inaction.
+- **42:1** — Vulgate "quare negligitis" ("Why are you negligent?") renders the Hebrew "why do you look at one another?" as a reproach for inaction.
 - **42:11** — Vulgate "pacifici" ("peaceful men," also in 42:19, 31, 33) translates the Hebrew term for "honest" or "truthful men," contrasting the brothers' intentions with those of hostile spies.
-- **42:20** — The Latin text here reads first-person plural "ut possimus vestros probare sermones" ("so that we may be able to test your words"), rather than a passive clause ("so that your words may be verified") as in the Hebrew text.
+- **42:20** — The Vulgate reads first-person singular "ut possim vestros probare sermones" ("so that I may be able to test your words"), rather than a passive clause ("so that your words may be verified") as in the Hebrew text.
 - **42:38** — Vulgate "in terra ad quam pergitis" ("in the land to which you are going") differs from the Hebrew "on the way on which you go," and "ad inferos" ("to the underworld") renders Hebrew Sheol.

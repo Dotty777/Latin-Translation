@@ -1,6 +1,6 @@
 # Revelation 14 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (20 verses, 5 translator notes)  
+> **Status:** `draft: true` (20 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Revelation`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -51,4 +51,5 @@
 - **14:5** — The Vulgate includes ante thronum Dei ('before the throne of God'), a phrase omitted in most modern critical Greek editions.
 - **14:7** — The Vulgate distinctively reads Dominum ('the Lord') and honorem ('honor'), where the Greek text has 'God' and 'glory.'
 - **14:10** — The Latin phrase mistum est mero (literally 'mixed with pure/undiluted wine') preserves the Greek oxymoron for wine poured out at full strength without water.
+- **14:12** — Latin 'fidem Jesu' literally reads 'the faith of Jesus,' which can be understood either objectively ('faith in Jesus') or subjectively ('the faithfulness of Jesus').
 - **14:13** — The Clementine Vulgate places Amodo ('from now on') at the opening of the Spirit's response (Amodo jam dicit Spiritus, omitting 'Yes') rather than at the end of the beatitude as in most Greek editions.

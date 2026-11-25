@@ -1,6 +1,6 @@
 # Exodus 21 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (37 verses, 5 translator notes)  
+> **Status:** `draft: true` (36 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Exodus`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -35,9 +35,9 @@
 
 **21:15** Whoever strikes his father or mother must surely die.
 
-**21:16** Whoever curses his father or mother must surely die.
+**21:16** Whoever steals a person and sells him, having been convicted of the offense, must surely die.
 
-**21:17** Whoever steals a person and sells him, having been convicted of the offense, must surely die.
+**21:17** Whoever curses his father or mother must surely die.
 
 **21:18** If men quarrel, and one strikes his neighbor with a stone or with a fist, and that one does not die but lies in bed,
 
@@ -75,14 +75,13 @@
 
 **21:35** If one person's ox wounds another's ox, and it dies, they will sell the live ox and divide the price, while they will apportion the carcass of the dead one between themselves.
 
-**21:36** But if its owner knew that the ox was prone to goring from yesterday and the day before, and he did not guard it, he will pay ox for ox, and he will receive the whole carcass.
-
-**21:37** If anyone steals an ox or a sheep, and kills or sells it, he will restore five oxen for one ox and four sheep for one sheep."
+**21:36** But if its owner knew that the ox was prone to goring from yesterday and the day before, and he did not guard it, he will pay ox for ox, and he will receive the whole carcass."
 
 ## Translator Notes
 
 - **21:3** — The Vulgate reads "with whatever clothing" (cum quali veste, and "with his clothing" in v. 4), whereas the Hebrew text reads "by himself" (literally "with his body/back").
 - **21:6** — Latin diis literally means "to the gods," rendering plural Hebrew ha'elohim, which ancient interpreters often understood as "God" or as "the judges" acting in God's name.
 - **21:7** — The Vulgate specifies "female slaves" (ancillae), whereas the Hebrew text reads "male slaves." In v. 10, the Vulgate likewise reads "marriage" (nuptias) and "price of chastity" (pretium pudicitiae) where the Hebrew lists sustenance and conjugal rights.
-- **21:16** — Following the Septuagint, the Vulgate places cursing parents in v. 16 and kidnapping in v. 17, reversing the Hebrew Masoretic Text order. In v. 17, the Vulgate also reads "convicted of the offense" (convictus noxae) where the Hebrew reads "found in his possession."
+- **21:16** — Native Vulgate Exodus 21:16-17 place kidnapping in 21:16 and cursing parents in 21:17 (reverse of Saints.Bible Septuagint-aligned order 21:17 and 21:16). The Vulgate also reads "convicted of the offense" (convictus noxae) where the Hebrew reads "found in his possession."
+- **21:17** — Following the Septuagint, the Vulgate places cursing parents in v. 16 and kidnapping in v. 17, reversing the Hebrew Masoretic Text order. In v. 17, the Vulgate also reads "convicted of the offense" (convictus noxae) where the Hebrew reads "found in his possession."
 - **21:22** — The Vulgate explicitly reads "suffers a miscarriage, yet she herself lives" (and "if her death follows" in v. 23), whereas the Hebrew reads "her children come out, yet there is no harm."

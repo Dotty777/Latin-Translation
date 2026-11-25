@@ -1,72 +1,101 @@
 # 1 Kings 20 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes)  
+> **Status:** `draft: true` (43 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**20:1** Now after these things, at that time, there was a vineyard belonging to Naboth the Jezreelite, which was in Jezreel, beside the palace of Ahab king of Samaria.
+**20:1** Now Ben-hadad, king of Syria, gathered his entire army, and thirty-two kings with him, and horses and chariots; and going up, he was fighting against Samaria and besieging it.
 
-**20:2** So Ahab spoke to Naboth, saying, "Give me your vineyard, so that I may make for myself a vegetable garden, because it is nearby and close to my house; and I will give you a better vineyard for it, or if you consider it more convenient for you, the price in silver, as much as it is worth."
+**20:2** And sending messengers to Ahab, king of Israel, into the city,
 
-**20:3** And Naboth answered him, "May the Lord be merciful to me, so that I do not give the inheritance of my fathers to you."
+**20:3** he said, "This is what Ben-hadad says: Your silver and your gold are mine, and your wives and your best sons are mine."
 
-**20:4** So Ahab came into his house indignant and gnashing his teeth over the word that Naboth the Jezreelite had spoken to him, saying, "I will not give you the inheritance of my fathers." And throwing himself onto his bed, he turned his face toward the wall and did not eat bread.
+**20:4** And the king of Israel answered, "According to your word, my lord the king, I am yours, and all that is mine."
 
-**20:5** Now Jezebel his wife came in to him and said to him, "What is this, from which your soul is saddened? And why are you not eating bread?"
+**20:5** And returning, the messengers said, "This is what Ben-hadad, who sent us to you, says: Your silver and your gold, and your wives and your sons, you will give to me.
 
-**20:6** And he answered her, "I spoke to Naboth the Jezreelite and said to him, 'Give me your vineyard on receiving money, or, if it pleases you, I will give you a better vineyard for it.' And he said, 'I will not give you my vineyard.'"
+**20:6** Therefore tomorrow at this same hour I will send my servants to you, and they will search your house and the house of your servants; and everything that pleases them they will put in their hands and carry away."
 
-**20:7** Then Jezebel his wife said to him, "You are of great authority, and you rule the kingdom of Israel well. Rise and eat bread, and be of a calm mind; I myself will give you the vineyard of Naboth the Jezreelite."
+**20:7** Now the king of Israel called all the elders of the land and said, "Take notice and see that he is plotting against us; for he sent to me for my wives and sons, and for silver and gold, and I did not refuse."
 
-**20:8** Accordingly, she wrote letters in the name of Ahab, and sealed them with his ring, and sent them to the elders and nobles who were in his city and lived with Naboth.
+**20:8** And all the elders and the entire people said to him, "Do not listen, nor consent to him."
 
-**20:9** Now this was the message of the letters: "Proclaim a fast, and have Naboth sit among the foremost of the people,
+**20:9** Therefore he answered the messengers of Ben-hadad, "Say to my lord the king, 'Everything for which you sent to me, your servant, at the beginning, I will do; but this thing I cannot do.'"
 
-**20:10** and set two men, sons of Belial, against him, and let them speak false testimony, 'He has blessed God and the king,' and lead him out and stone him, and so let him die."
+**20:10** And the messengers returned and reported to him. And he sent back and said, "May the gods do these things to me, and add these things as well, if the dust of Samaria suffices for handfuls for all the people who follow me."
 
-**20:11** So his fellow citizens, the elders and nobles who lived with him in the city, did just as Jezebel had commanded them, and just as it was written in the letters that she had sent to them.
+**20:11** And answering, the king of Israel said, "Tell him, 'Do not let the one who has fastened his belt boast equally with the one who has unfastened it.'"
 
-**20:12** They proclaimed a fast, and had Naboth sit among the foremost of the people.
+**20:12** Now it happened, when Ben-hadad had heard this word, that he himself and the kings were drinking in the pavilions, and he said to his servants, "Surround the city." And they surrounded it.
 
-**20:13** And having brought in two men, sons of the devil, they had them sit opposite him; and they, indeed as diabolical men, spoke testimony against him before the multitude: "Naboth has blessed God and the king." For this reason they led him outside the city and put him to death with stones.
+**20:13** And look, a certain prophet, approaching Ahab, king of Israel, said to him, "This is what the Lord says: Surely you have seen all this vast multitude? Look, I will deliver it into your hand today, so that you may know that I am the Lord."
 
-**20:14** And they sent word to Jezebel, saying, "Naboth has been stoned and is dead."
+**20:14** And Ahab said, "By whom?" And he said to him, "This is what the Lord says: By the attendants of the governors of the provinces." And he said, "Who will begin to do battle?" And he said, "You."
 
-**20:15** Now it happened, when Jezebel heard that Naboth had been stoned and was dead, that she spoke to Ahab, "Rise and take possession of the vineyard of Naboth the Jezreelite, who refused to agree with you and give it on receiving money; for Naboth is not alive, but is dead."
+**20:15** Therefore he mustered the young men of the governors of the provinces, and found the number to be two hundred thirty-two; and after them he mustered the people, all the sons of Israel, seven thousand.
 
-**20:16** And when Ahab heard this, namely, that Naboth was dead, he rose and was going down to the vineyard of Naboth the Jezreelite to take possession of it.
+**20:16** And they went out at noon. Now Ben-hadad was drinking, drunk, in his pavilion, and the thirty-two kings with him, who had come to his aid.
 
-**20:17** Therefore the word of the Lord came to Elijah the Tishbite, saying:
+**20:17** Now the young men of the governors of the provinces went out in the front line. Therefore Ben-hadad sent out, and they reported to him, saying, "Men have come out from Samaria."
 
-**20:18** "Rise and go down to meet Ahab king of Israel, who is in Samaria; look, he is going down to the vineyard of Naboth to take possession of it.
+**20:18** And he said, "Whether they are coming for peace, seize them alive; or whether to do battle, capture them alive."
 
-**20:19** And you will speak to him, saying, 'This is what the Lord says: You have killed, and moreover you have taken possession.' And after these things you will add, 'This is what the Lord says: In this place in which dogs licked the blood of Naboth, they will also lick your blood.'"
+**20:19** Therefore the young men of the governors of the provinces went out, and the rest of the army was following;
 
-**20:20** And Ahab said to Elijah, "Have you found me an enemy to you?" And he said, "I have found you, because you have been sold to do evil in the sight of the Lord.
+**20:20** and each one struck down the man who was coming against him; and the Syrians fled, and Israel pursued them. Ben-hadad, king of Syria, also fled on a horse with his horsemen.
 
-**20:21** Look, I will bring evil upon you, and I will cut down your posterity, and I will put to death from Ahab anyone who urinates against the wall, both the confined and the last in Israel.
+**20:21** Moreover, the king of Israel went out and struck the horses and chariots, and he struck Syria with a great blow.
 
-**20:22** And I will make your house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, because you have acted to provoke Me to anger and have made Israel sin.
+**20:22** Now the prophet, approaching the king of Israel, said to him, "Go and strengthen yourself, and know and see what you should do; for in the following year the king of Syria will go up against you."
 
-**20:23** And concerning Jezebel also the Lord has spoken, saying, 'Dogs will eat Jezebel in the field of Jezreel.
+**20:23** But the servants of the king of Syria said to him, "Gods of the mountains are their gods; therefore they overpowered us; yet it is better that we fight against them on the plains, and we will prevail over them.
 
-**20:24** If Ahab dies in the city, dogs will eat him; but if he dies in the field, the birds of the sky will eat him.'"
+**20:24** You therefore do this thing: remove each of the kings from your army, and place governors in their place,
 
-**20:25** Therefore there was no one else like Ahab, who was sold to do evil in the sight of the Lord, for Jezebel his wife incited him.
+**20:25** and restore the number of soldiers who fell from yours, and horses like the former horses, and chariots like the chariots that you had before; and we will fight against them on the plains, and you will see that we will prevail over them." He believed their counsel and did so.
 
-**20:26** And he became abominable, to such an extent that he followed the idols that the Amorites had made, whom the Lord consumed from before the face of the sons of Israel.
+**20:26** Therefore, after a year had passed, Ben-hadad mustered the Syrians and went up to Aphek to fight against Israel.
 
-**20:27** And so, when Ahab heard these words, he tore his garments and covered his flesh with haircloth, and fasted and slept in sackcloth, and walked with his head bowed.
+**20:27** Now the sons of Israel were mustered, and having received provisions, they set out opposite them and pitched camp against them like two small flocks of goats; but the Syrians filled the land.
 
-**20:28** And the word of the Lord came to Elijah the Tishbite, saying:
+**20:28** (And approaching, a certain man of God said to the king of Israel, "This is what the Lord says: Because the Syrians have said, 'The Lord is a God of the mountains, and is not a God of the valleys,' I will give all this great multitude into your hand, and you will know that I am the Lord.")
 
-**20:29** "Have you not seen Ahab humbled before Me? Therefore, because he has humbled himself on My account, I will not bring evil in his days, but in the days of his son I will bring evil upon his house."
+**20:29** And for seven days both sides were drawing up battle lines opposite each other, but on the seventh day battle was joined; and the sons of Israel struck down one hundred thousand foot soldiers of the Syrians in one day.
+
+**20:30** Now those who had remained fled into Aphek, into the city; and the wall fell upon twenty-seven thousand men who had remained. Meanwhile Ben-hadad, fleeing, entered the city, into a chamber that was inside a chamber.
+
+**20:31** And his servants said to him, "Look, we have heard that the kings of the house of Israel are merciful. Therefore let us put sackcloth around our waists and ropes on our heads, and let us go out to the king of Israel; perhaps he will save our lives."
+
+**20:32** They bound sackcloth around their waists and put ropes on their heads, and came to the king of Israel and said to him, "Your servant Ben-hadad says, 'Let my soul live, I beg you.'" And he said, "If he is still alive, he is my brother."
+
+**20:33** And the men took this as an omen; and hurrying, they snatched the word from his mouth and said, "Your brother Ben-hadad." And he said to them, "Go and bring him to me." Therefore Ben-hadad came out to him, and he lifted him up into his chariot.
+
+**20:34** And he said to him, "The cities that my father took from your father I will return, and make streets for yourself in Damascus, just as my father did in Samaria; and I, bound by a covenant, will depart from you." Therefore he made a covenant and let him go.
+
+**20:35** Then a certain man of the sons of the prophets said to his companion by the word of the Lord, "Strike me." But he refused to strike.
+
+**20:36** And he said to him, "Because you refused to listen to the voice of the Lord, look, you will depart from me, and a lion will strike you." And when he had departed a little way from him, a lion found him and struck him.
+
+**20:37** And finding another man as well, he said to him, "Strike me." And he struck him and wounded him.
+
+**20:38** Therefore the prophet went off and met the king on the road, and he altered his face and his eyes by a sprinkling of dust.
+
+**20:39** And when the king had passed by, he cried out to the king and said, "Your servant went out to do battle at close quarters; and when one man had fled, someone brought him to me and said, 'Guard this man; if he slips away, your life will be for his life, or you will weigh out a talent of silver.'
+
+**20:40** Now while I, distracted, was turning this way and that, suddenly he disappeared." And the king of Israel said to him, "This is your judgment, which you yourself have decreed."
+
+**20:41** But he immediately wiped the dust from his face, and the king of Israel recognized him, that he was one of the prophets.
+
+**20:42** And he said to him, "This is what the Lord says: Because you have let a man worthy of death go from your hand, your life will be for his life, and your people for his people."
+
+**20:43** Therefore the king of Israel returned to his house, scorning to listen, and came into Samaria furious.
 
 ## Translator Notes
 
-- **20:1** — Following the chapter order of the Septuagint (3 Kingdoms), the Saints Latin Critical Text places the narrative of Naboth's vineyard in chapter 20, where the Hebrew Masoretic Text and the standard Sixto-Clementine numbering have chapter 21.
-- **20:3** — Latin Propitius sit mihi Dominus ("May the Lord be merciful to me") literally follows the Septuagint rendering of the Hebrew oath formula of refusal ("Far be it from me from the Lord").
-- **20:10** — Latin Benedixit ("has blessed," also in 20:13) preserves literally the Hebrew pious euphemism for "cursed." The Vulgate transliterates filios Belial ("sons of Belial") here, but translates the same phrase in 20:13 as filiis diaboli ("sons of the devil") and viri diabolici ("diabolical men").
-- **20:21** — Latin demetam posteriora tua ("I will cut down your posterity") uses a harvest metaphor for the Hebrew "sweep away after you," and clausum et ultimum ("the confined and the last") renders the Hebrew merism "bond and free."
-- **20:24** — The Vulgate reads Si mortuus fuerit Achab ("If Ahab dies"), referring to Ahab himself rather than "anyone belonging to Ahab who dies" as in the Hebrew Masoretic Text; similarly, in 20:23 in agro Jezrahel ("in the field of Jezreel") contrasts with the Masoretic "rampart of Jezreel."
+- **20:1** — Native Vulgate 1 Kings places Ben-hadad's siege of Samaria in chapter 20 (20:1-43) and Naboth's vineyard in chapter 21 (21:1-29), matching the Hebrew chapter order (reversed relative to Saints.Bible Septuagint 3 Kingdoms order, where Naboth is ch. 20 and Ben-hadad is ch. 21).
+- **20:6** — Latin omne quod eis placuerit ("everything that pleases them," i.e., Ben-hadad's servants) aligns with the Septuagint and differs from the Hebrew Masoretic Text, which reads "whatever is desirable in your eyes."
+- **20:11** — Latin accinctus ("girded/fastened") and discinctus ("ungirded/unfastened") are military terms referring to putting on and taking off a war-belt or armor before and after battle.
+- **20:34** — In the Vulgate (et ego foederatus recedam a te), Ben-hadad continues speaking ("and I, bound by a covenant, will depart from you"), whereas in the Hebrew Masoretic Text Ahab speaks this clause ("and I will let you go with this covenant").
+- **20:38** — Vulgate aspersione pulveris ("by a sprinkling of dust," continued in 21:41 abstersit pulverem, "wiped the dust") reflects reading the rare Hebrew word afer ("headband/bandage") as epher ("ashes/dust").
+- **20:43** — Vulgate audire contemnens ("scorning to listen") renders the Hebrew adjective sar ("sullen" or "resentful") as stubborn refusal to heed the prophet's rebuke.

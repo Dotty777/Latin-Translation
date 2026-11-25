@@ -1,6 +1,6 @@
 # Zechariah 9 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (17 verses, 5 translator notes)  
+> **Status:** `draft: true` (17 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Zechariah`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -43,6 +43,7 @@
 
 - **9:6** — The Vulgate translates the rare Hebrew term mamzer ("mixed people" or "illegitimate one") as separator ("a separator"), reflecting an etymological interpretation of the word as one who separates or estranges.
 - **9:8** — Rather than camping "because of an army, because of those passing back and forth," the Vulgate renders circumdabo domum meam ex his qui militant mihi euntes et revertentes ("I will surround My house with those who serve as soldiers for Me, going and returning"), portraying protective forces patrolling God's house.
-- **9:9** — The Vulgate reads salvator ("a savior," active, matching the Septuagint) rather than the passive Hebrew "saved/victorious," translates "afflicted/humble" as pauper ("poor"), and reads the feminine asinam ("a female donkey") where the Hebrew has the masculine "donkey."
-- **9:11** — Whereas the Hebrew has the first person ("I have set your prisoners free"), the Vulgate uses the second-person verb emisisti ("you have released"); the Latin does not name the one addressed.
+- **9:9** — The Vulgate reads salvator ("a savior," active, matching the Septuagint) rather than the passive Hebrew "saved/victorious," translates "afflicted/humble" as pauper ("poor"), and reads the feminine asinam ("a female donkey") where the Hebrew has the masculine "donkey." Capitalization of 'He Himself' (for lowercase Latin ipse, referring to 'your king') is subject to edition-wide policy.
+- **9:10** — Capitalization of 'He'/'His' (referring to the king of 9:9) is subject to edition-wide policy.
+- **9:11** — Whereas the Hebrew has the first person ("I have set your prisoners free"), the Vulgate uses the second-person verb emisisti ("you have released"); the Latin does not name the one addressed. Capitalization of 'You'/'Your' takes the unnamed addressee of 9:11 as the king/Messiah rather than daughter Zion (feminine addressee in 9:9); subject to edition-wide policy.
 - **9:17** — The Vulgate frames the verse as a single rhetorical question with nisi ("except") and renders Hebrew "grain [for] young men" as frumentum electorum ("the grain of the elect") alongside vinum germinans virgines ("wine bringing forth virgins").

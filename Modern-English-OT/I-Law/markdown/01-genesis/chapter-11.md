@@ -17,7 +17,7 @@
 
 **11:6** And He said, "Look, there is one people, and one language for all; and they have begun to do this, nor will they desist from their plans until they complete them in deed.
 
-**11:7** Come therefore, let Us go down, and let Us confuse their tongues there, so that no one may hear the voice of his neighbor."
+**11:7** Come therefore, let Us go down, and let Us confuse their language there, so that no one may hear the voice of his neighbor."
 
 **11:8** And so the Lord divided them from that place across all lands, and they stopped building the city.
 

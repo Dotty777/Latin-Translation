@@ -1,6 +1,6 @@
 # Mark 7 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (36 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (37 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Mark`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -34,6 +34,8 @@
 **7:14** And calling the crowd again, He was saying to them, "Listen to Me, all of you, and understand.
 
 **7:15** There is nothing outside a man, entering into him, that can pollute him; but the things that proceed from a man, those are what defile a man."
+
+**7:16** If anyone has ears for hearing, let him hear.
 
 **7:17** And when He had entered the house away from the crowd, His disciples were asking Him about the parable.
 
@@ -76,10 +78,6 @@
 **7:36** And He commanded them not to tell anyone; yet the more He kept commanding them, so much the more abundantly they kept proclaiming it,
 
 **7:37** and even more they marveled, saying, "He has done everything well; He has made both the deaf hear and the mute speak."
-
-## Additional Verses (Not in Saints Numbering)
-
-**7:16** *(after `7:15`)* If anyone has ears for hearing, let him hear.
 
 ## Translator Notes
 

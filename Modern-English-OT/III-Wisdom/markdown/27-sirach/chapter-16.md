@@ -1,39 +1,43 @@
 # Sirach 16 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (28 verses, 5 translator notes)  
+> **Status:** `draft: true` (31 verses, 9 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
 
-**16:1** For He does not desire a multitude of unfaithful and useless sons.
+**16:1** Do not rejoice in ungodly sons if they are multiplied, nor take delight over them if the fear of God is not in them.
 
-**16:2** Do not rejoice in ungodly sons if they are multiplied, nor take delight over them if the fear of God is not in them.
+**16:2** Do not trust in their life, and do not look upon their labors.
 
-**16:3** Do not trust in their life, and do not look upon their labors.
+**16:3** For one who fears God is better than a thousand ungodly sons,
 
-**16:4** By one sensible man a homeland will be inhabited; the tribe of the ungodly will be deserted.
+**16:4** and it is better to die without children than to leave behind ungodly children.
 
-**16:5** My eye has seen many such things, and my ear has heard mightier things than these.
+**16:5** By one sensible man a homeland will be inhabited; the tribe of the ungodly will be deserted.
 
-**16:6** In the congregation of sinners a fire will blaze up, and in an unbelieving nation wrath will flare up.
+**16:6** My eye has seen many such things, and my ear has heard mightier things than these.
 
-**16:7** The ancient giants, who were destroyed trusting in their own strength, did not gain pardon for their sins.
+**16:7** In the congregation of sinners a fire will blaze up, and in an unbelieving nation wrath will flare up.
 
-**16:8** And He did not spare the sojourning of Lot, and He detested them because of the pride of their word.
+**16:8** The ancient giants, who were destroyed trusting in their own strength, did not gain pardon for their sins.
 
-**16:9** He did not have mercy on them, destroying the whole nation, even as it exalted itself in its sins.
+**16:9** And He did not spare the sojourning of Lot, and He detested them because of the pride of their word.
 
-**16:10** And just as with the six hundred thousand foot soldiers, who were gathered together in the hardness of their heart; and if one had been stiff-necked, it would be a marvel if he had gone unpunished.
+**16:10** He did not have mercy on them, destroying the whole nation, even as it exalted itself in its sins.
 
-**16:11** For mercy and wrath are with Him; supplication is mighty, and He pours out wrath.
+**16:11** And just as with the six hundred thousand foot soldiers, who were gathered together in the hardness of their heart; and if one had been stiff-necked, it would be a marvel if he had gone unpunished.
 
-**16:12** According to His mercy, so His reproof judges people according to their works.
+**16:12** For mercy and wrath are with Him; supplication is mighty, and He pours out wrath.
 
-**16:13** The sinner will not escape with plunder, and the endurance of the one who practices mercy will not be delayed.
+**16:13** According to His mercy, so His reproof judges people according to their works.
 
-**16:14** All mercy will make room for each one according to the merit of his works, and according to the understanding of his sojourning.
+**16:14** The sinner will not escape with plunder, and the endurance of the one who practices mercy will not be delayed.
 
-**16:17** Do not say, "I will be hidden from God, and from on high, who will remember me?"
+**16:15** All mercy will make room for each one according to the merit of his works, and according to the understanding of his sojourning.
+
+**16:16** Do not say, "I will be hidden from God, and from on high, who will remember me?
+
+**16:17** In a great people I will not be recognized; for what is my soul in so immense a creation?"
 
 **16:18** Look, heaven and the heavens of heavens, the abyss, and the entire earth, and the things that are in them will be shaken in His sight.
 
@@ -57,14 +61,20 @@
 
 **16:28** Not one of them will crowd its neighbor forever.
 
-**16:29** After these things God looked upon the earth and filled it with His good things.
+**16:29** Do not be disbelieving of His word.
 
-**16:30** Every living soul has made proclamation before its face, and into it again is their return.
+**16:30** After these things God looked upon the earth and filled it with His good things.
+
+**16:31** Every living soul has made proclamation before its face, and into it again is their return.
 
 ## Translator Notes
 
-- **16:1** — In the Clementine Vulgate, non enim concupiscit ("For He does not desire") continues the sentence from 15:20 with God as subject and adds infidelium ("unfaithful"), whereas the Greek opens ch. 16 with an imperative ("Do not desire a multitude of useless children").
-- **16:11** — Clementine Vulgate potens exoratio uses the nominative noun exoratio ("supplication is mighty," or "appeasement is mighty"), corresponding to the Greek phrase "mighty in forgiveness/propitiation."
-- **16:14** — Vulgate "according to the merit of his works, and according to the understanding of his sojourning" contains expansions absent from the main Greek text; verses 16:15-16 of the Greek numbering are omitted in the Clementine Vulgate.
+- **16:3** — Restored native Clementine Vulgate verse 16:3 (parallel to Saints/Greek 16:3a).
+- **16:4** — Restored native Clementine Vulgate verse 16:4 (parallel to Saints/Greek 16:3b); Latin 'utile est' literally means "it is advantageous/beneficial" (here comparative with 'quam', "better").
+- **16:12** — Clementine Vulgate potens exoratio uses the nominative noun exoratio ("supplication is mighty," or "appeasement is mighty"), corresponding to the Greek phrase "mighty in forgiveness/propitiation."
+- **16:15** — Vulgate "according to the merit of his works, and according to the understanding of his sojourning" contains expansions absent from the main Greek text; verses 16:15-16 of the Greek numbering are absent from the Clementine Vulgate (native 16:16 begins "Non dicas: A Deo abscondar...").
+- **16:16** — Direct speech continues directly into restored native Vulgate 16:17, where the closing quotation mark now stands.
+- **16:17** — Restored native Clementine Vulgate verse 16:17 (completing the direct speech opened in 16:16 = Saints 16:17a).
 - **16:25** — The Vulgate preserves a doubled expansion compared to the shorter Greek verse, repeating "pay attention to my words in your heart" from v. 24 and expanding on the powers God placed in His works from the beginning.
-- **16:30** — Vulgate anima omnis vitalis denuntiavit ante faciem ipsius ("Every living soul has made proclamation before its face") is a distinctly Latin reading where the Greek has "He covered its face with the life of every living creature"; ipsius ("its") and ipsam ("it") both refer back to the earth in v. 29.
+- **16:29** — Restored native Clementine Vulgate verse 16:29 (Vulgate/LXX-II closing clause following 16:28 = Saints 16:28).
+- **16:31** — Vulgate anima omnis vitalis denuntiavit ante faciem ipsius ("Every living soul has made proclamation before its face") is a distinctly Latin reading where the Greek has "He covered its face with the life of every living creature"; ipsius ("its") and ipsam ("it") both refer back to the earth in native 16:30 (Saints 16:29).

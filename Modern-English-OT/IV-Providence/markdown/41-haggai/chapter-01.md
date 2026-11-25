@@ -1,6 +1,6 @@
 # Haggai 1 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (15 verses, 4 translator notes)  
+> **Status:** `draft: true` (14 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Haggai`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -32,8 +32,6 @@
 **1:13** And Haggai, a messenger of the Lord from among the messengers of the Lord, spoke to the people, saying, "I am with you," says the Lord.
 
 **1:14** And the Lord roused the spirit of Zerubbabel, son of Shealtiel, governor of Judah, and the spirit of Joshua, son of Jehozadak, the high priest, and the spirit of the remnant from all the people; and they entered and were doing work in the house of the Lord of hosts, their God.
-
-**1:15** On the twenty-fourth day of the month, in the sixth month, in the second year of King Darius.
 
 ## Translator Notes
 

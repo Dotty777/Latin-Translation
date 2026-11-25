@@ -1,6 +1,6 @@
 # 1 Chronicles 1 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (42 verses, 5 translator notes, 12 additional)  
+> **Status:** `draft: true` (54 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`1 Chronicles`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -25,7 +25,31 @@
 
 **1:10** And Cush fathered Nimrod; he began to be mighty on the earth.
 
+**1:11** And Mizraim fathered Ludim, Anamim, Lehabim, and Naphtuhim,
+
+**1:12** as well as Pathrusim and Casluhim, from whom came the Philistines and the Caphtorim.
+
+**1:13** And Canaan fathered Sidon his firstborn, along with the Hittites,
+
+**1:14** the Jebusites, the Amorites, the Girgashites,
+
+**1:15** the Hivites, the Arkites, the Sinites,
+
+**1:16** the Arvadites, the Zemarites, and the Hamathites.
+
 **1:17** The sons of Shem: Elam, Asshur, Arpachshad, Lud, Aram, Uz, Hul, Gether, and Meshech.
+
+**1:18** And Arpachshad fathered Shelah, who himself fathered Eber.
+
+**1:19** Now two sons were born to Eber: the name of one was Peleg, because in his days the earth was divided; and the name of his brother was Joktan.
+
+**1:20** And Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,
+
+**1:21** Hadoram, Uzal, Diklah,
+
+**1:22** Ebal, Abimael, and Sheba,
+
+**1:23** as well as Ophir, Havilah, and Jobab; all of these were the sons of Joktan.
 
 **1:24** Shem, Arpachshad, Shelah,
 
@@ -89,38 +113,12 @@
 
 **1:54** Chief Magdiel, and Chief Iram. These were the chiefs of Edom.
 
-## Additional Verses (Not in Saints Numbering)
-
-**1:11** *(after `1:10`)* And Mizraim fathered Ludim, Anamim, Lehabim, and Naphtuhim,
-
-**1:12** *(after `1:10`)* as well as Pathrusim and Casluhim, from whom came the Philistines and the Caphtorim.
-
-**1:13** *(after `1:10`)* And Canaan fathered Sidon his firstborn, along with the Hittites,
-
-**1:14** *(after `1:10`)* the Jebusites, the Amorites, the Girgashites,
-
-**1:15** *(after `1:10`)* the Hivites, the Arkites, the Sinites,
-
-**1:16** *(after `1:10`)* the Arvadites, the Zemarites, and the Hamathites.
-
-**1:18** *(after `1:17`)* And Arpachshad fathered Shelah, who himself fathered Eber.
-
-**1:19** *(after `1:17`)* Now two sons were born to Eber: the name of one was Peleg, because in his days the earth was divided; and the name of his brother was Joktan.
-
-**1:20** *(after `1:17`)* And Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,
-
-**1:21** *(after `1:17`)* Hadoram, Uzal, Diklah,
-
-**1:22** *(after `1:17`)* Ebal, Abimael, and Sheba,
-
-**1:23** *(after `1:17`)* as well as Ophir, Havilah, and Jobab; all of these were the sons of Joktan.
-
 ## Translator Notes
 
 - **1:6** — The Vulgate reads Riphath (agreeing with Gen 10:3, the Septuagint, and several Hebrew manuscripts), whereas the standard Masoretic Text of 1 Chronicles 1:6 reads Diphath.
 - **1:7** — The Vulgate reads Dodanim (agreeing with Gen 10:4 and several Hebrew manuscripts), whereas the standard Masoretic Text of 1 Chronicles 1:7 reads Rodanim.
+- **1:12** — The Clementine Vulgate treats both the Philistines and the Caphtorim as coming from Pathrusim and Casluhim.
+- **1:13** — The Clementine Vulgate reads the gentilic "Hethaeum" (the Hittites) rather than the personal name Heth.
 - **1:32** — The closing sentence listing the sons of Dedan (Asshurim, Letushim, and Leummim) appears in the Clementine Vulgate (parallel to Gen 25:3 and some Septuagint witnesses) but is absent from the Masoretic Text of 1 Chronicles 1:32.
 - **1:50** — The Vulgate reads Phau (Pau, agreeing with Gen 36:39 and the Septuagint), whereas the Masoretic Text of 1 Chronicles 1:50 reads Pai.
 - **1:51** — The Vulgate explicitly states that chiefs "began to be in place of kings" (duces pro regibus ... esse coeperunt), clarifying the shift in Edomite governance where the Masoretic Text simply notes Hadad's death before listing the chiefs.
-- **1:12 *(additional)*** — The Clementine Vulgate treats both the Philistines and the Caphtorim as coming from Pathrusim and Casluhim.
-- **1:13 *(additional)*** — The Clementine Vulgate reads the gentilic "Hethaeum" (the Hittites) rather than the personal name Heth.

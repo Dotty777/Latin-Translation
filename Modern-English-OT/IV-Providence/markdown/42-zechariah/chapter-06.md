@@ -39,6 +39,6 @@
 
 - **6:5** — The Vulgate translates Hebrew "ruchot" specifically as "winds" ("venti", rather than "spirits") and reads "to stand" ("ut stent") where the Hebrew says "after presenting themselves".
 - **6:11** — The Vulgate reverses the Hebrew order to "gold and silver" ("aurum et argentum") and uses the Latin/Greek name form "Jesus" ("Jesu") for the high priest Joshua.
-- **6:12** — The Vulgate renders Hebrew "Branch" ("Tsemach") and its cognate verb as "Rising" ("Oriens") and "will rise" ("orietur"), following the Septuagint "Anatole" (cf. Luke 1:78).
-- **6:13** — Latin "et erit sacerdos super solio suo" may be read either as "He will be a priest upon His throne" (one figure holding both offices) or "a priest will be upon his throne" (pointing to the two figures in "between those two").
+- **6:12** — The Vulgate renders Hebrew "Branch" ("Tsemach") and its cognate verb as "Rising" ("Oriens") and "will rise" ("orietur"), following the Septuagint "Anatole" (cf. Luke 1:78). Capitalization of 'His'/'He' for 'a man, Rising is his/His name' is subject to edition-wide policy.
+- **6:13** — Latin "et erit sacerdos super solio suo" may be read either as "He will be a priest upon His throne" (one figure holding both offices) or "a priest will be upon his throne" (pointing to the two figures in "between those two"). Capitalization of 'He'/'Himself'/'His' reflects messianic interpretation and is subject to edition-wide policy.
 - **6:14** — The Vulgate reads the name "Hem" where the Hebrew Masoretic Text has "Hen" (meaning "favor" or "grace").

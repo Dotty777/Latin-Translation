@@ -1,6 +1,6 @@
 # 2 Kings 25 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (29 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (30 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`2 Kings`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -22,6 +22,8 @@
 **25:8** In the fifth month, on the seventh day of the month, which is the nineteenth year of the king of Babylon, Nebuzaradan, commander of the army, servant of the king of Babylon, came to Jerusalem.
 
 **25:9** And he set fire to the house of the Lord and the house of the king; and he burned up the houses of Jerusalem and every house with fire.
+
+**25:10** And the entire army of the Chaldeans that was with the commander of the soldiers tore down the walls of Jerusalem all around.
 
 **25:11** Now Nebuzaradan, commander of the forces, carried away the remaining part of the people that had stayed in the city, and the deserters who had defected to the king of Babylon, and the rest of the common people.
 
@@ -62,10 +64,6 @@
 **25:29** And he changed his garments, which he had worn in prison, and he ate bread continually in his presence all the days of his life.
 
 **25:30** He also appointed an allowance for him without interruption, which was indeed given to him by the king day by day, all the days of his life.
-
-## Additional Verses (Not in Saints Numbering)
-
-**25:10** *(after `25:9`)* And the entire army of the Chaldeans that was with the commander of the soldiers tore down the walls of Jerusalem all around.
 
 ## Translator Notes
 

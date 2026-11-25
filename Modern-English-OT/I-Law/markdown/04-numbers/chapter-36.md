@@ -17,13 +17,13 @@
 
 **36:6** And this law concerning the daughters of Zelophehad has been proclaimed by the Lord: let them marry whomever they wish, provided they marry only men of their own tribe,
 
-**36:7** so that the possession of the sons of Israel may not be mingled from tribe to tribe.
+**36:7** so that the possession of the sons of Israel may not be mingled from tribe to tribe. For all men will take wives from their own tribe and clan,
 
-**36:8** For all men will take wives from their own tribe and clan, and all women will take husbands from the same tribe, so that the inheritance may remain in the families,
+**36:8** and all women will take husbands from the same tribe, so that the inheritance may remain in the families,
 
-**36:9** and the tribes may not be mingled with one another, but may remain just as they were separated by the Lord."
+**36:9** and the tribes may not be mingled with one another, but may remain
 
-**36:10** And the daughters of Zelophehad did as had been commanded,
+**36:10** just as they were separated by the Lord." And the daughters of Zelophehad did as had been commanded,
 
 **36:11** and Mahlah, Tirzah, Hoglah, Milcah, and Noah married the sons of their father's brother
 
@@ -34,4 +34,4 @@
 ## Translator Notes
 
 - **36:4** — The Vulgate adds the explanatory gloss id est, quinquagesimus annus remissionis ("that is, the fiftieth year of release") and summarizes the consequence as confusion of the lots and transfer of possessions among tribes.
-- **36:8** — The Vulgate generalizes the marriage requirement to all men and all women rather than only to inheriting daughters as in the Hebrew.
+- **36:8** — The Vulgate generalizes the marriage requirement to all men (36:7) and all women (36:8) rather than only to inheriting daughters as in the Hebrew.

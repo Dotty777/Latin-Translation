@@ -1,7 +1,7 @@
 # Job — Saints Modern English OT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Division: **II. Judgement (Historical Books & Job)**  
-> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; Saints.Bible versification).  
+> **Source basis:** `Saints-Latin-Critical-Text` (Clementine Vulgate; own-source fidelity; native Sixto-Clementine Vulgate versification).  
 > **Structured JSON:** [`20-job.json`](../../json/20-job.json) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Chapters
@@ -21,14 +21,14 @@
 - [Chapter 13](chapter-13.md) — 28 verses, 4 notes
 - [Chapter 14](chapter-14.md) — 22 verses, 5 notes
 - [Chapter 15](chapter-15.md) — 35 verses, 5 notes
-- [Chapter 16](chapter-16.md) — 22 verses, 5 notes
+- [Chapter 16](chapter-16.md) — 23 verses, 6 notes
 - [Chapter 17](chapter-17.md) — 16 verses, 4 notes
 - [Chapter 18](chapter-18.md) — 21 verses, 4 notes
 - [Chapter 19](chapter-19.md) — 29 verses, 5 notes
 - [Chapter 20](chapter-20.md) — 29 verses, 5 notes
 - [Chapter 21](chapter-21.md) — 34 verses, 5 notes
 - [Chapter 22](chapter-22.md) — 30 verses, 5 notes
-- [Chapter 23](chapter-23.md) — 16 verses, 4 notes, +1 additional
+- [Chapter 23](chapter-23.md) — 17 verses, 4 notes
 - [Chapter 24](chapter-24.md) — 25 verses, 5 notes
 - [Chapter 25](chapter-25.md) — 6 verses, 2 notes
 - [Chapter 26](chapter-26.md) — 14 verses, 5 notes
@@ -44,7 +44,7 @@
 - [Chapter 36](chapter-36.md) — 33 verses, 5 notes
 - [Chapter 37](chapter-37.md) — 24 verses, 5 notes
 - [Chapter 38](chapter-38.md) — 41 verses, 5 notes
-- [Chapter 39](chapter-39.md) — 30 verses, 5 notes
-- [Chapter 40](chapter-40.md) — 32 verses, 5 notes
-- [Chapter 41](chapter-41.md) — 26 verses, 5 notes
+- [Chapter 39](chapter-39.md) — 35 verses, 6 notes
+- [Chapter 40](chapter-40.md) — 28 verses, 5 notes
+- [Chapter 41](chapter-41.md) — 25 verses, 5 notes
 - [Chapter 42](chapter-42.md) — 16 verses, 6 notes

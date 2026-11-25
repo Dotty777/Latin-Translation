@@ -1,9 +1,11 @@
 # Sirach 42 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (24 verses, 5 translator notes)  
+> **Status:** `draft: true` (26 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Sirach`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
+
+**42:1** Do not repeat a word you have heard concerning the revealing of a hidden word, and you will truly be without shame, and you will find favor in the sight of all people. Do not be ashamed of all these things, and do not show partiality so as to sin:
 
 **42:2** of the law of the Most High and the covenant, and of judgment to justify the ungodly,
 
@@ -45,18 +47,22 @@
 
 **42:21** He has adorned the great works of His wisdom, He who is before the age and even forever; nor has anything been added.
 
-**42:22** How desirable are all His works! And like a spark is what one can observe!
+**42:22** Nor is He diminished, and He does not need anyone's counsel.
 
-**42:23** All these things live and remain forever, and in every need all things obey Him.
+**42:23** How desirable are all His works! And like a spark is what one can observe!
 
-**42:24** All things are twofold, one opposite the other, and He has made nothing lacking.
+**42:24** All these things live and remain forever, and in every need all things obey Him.
 
-**42:25** He has established the good things of each one, and who will be satisfied seeing His glory?
+**42:25** All things are twofold, one opposite the other, and He has made nothing lacking.
+
+**42:26** He has established the good things of each one, and who will be satisfied seeing His glory?
 
 ## Translator Notes
 
-- **42:2** — This verse continues the sentence begun at the end of 41:23 ('Do not be ashamed...'). The phrase 'of judgment to justify the ungodly' translates Latin 'de judicio justificare impium' literally and is debated, often understood as giving even an ungodly person a fair verdict when innocent.
+- **42:1** — Restored native Clementine Vulgate verse 42:1 (combining Saints.Bible 41:23 and 42:1), replacing the prior empty-alignment placeholder. Vulgate "sine confusione" ("without shame") differs from the Greek "truly modest," and the closing prohibition continues directly into 42:2.
+- **42:2** — This verse continues the sentence begun at the end of native Vulgate 42:1 (Saints 41:23, 'Do not be ashamed...'). The phrase 'of judgment to justify the ungodly' translates Latin 'de judicio justificare impium' literally and is debated, often understood as giving even an ungodly person a fair verdict when innocent.
 - **42:8** — Vulgate 'senioribus qui judicantur ab adolescentibus' ('elderly men who are judged by young men') is a distinctively Latin reading where the Greek speaks of an aged man accused of or contending over sexual immorality.
 - **42:13** — The Vulgate reads 'iniquitas viri' ('a man's wickedness'), whereas the Greek reads 'a woman's wickedness.'
 - **42:17** — The Vulgate renders the Greek negative statement ('the Lord's holy ones have not been able to recount all His wonders') as a positive rhetorical question ('Nonne Dominus fecit...': 'Has not the Lord caused the holy ones to recount all His wonders...').
-- **42:22** — Latin 'tamquam scintilla quæ est considerare' (lit. 'like a spark which is to consider/observe') reflects the Greek infinitive idiom 'it is possible to observe,' conveying that all one can observe of God's works is like a mere spark.
+- **42:22** — Restored native Clementine Vulgate verse 42:22 (continuing 42:21 = Saints 42:21).
+- **42:23** — Latin 'tamquam scintilla quæ est considerare' (lit. 'like a spark which is to consider/observe') reflects the Greek infinitive idiom 'it is possible to observe,' conveying that all one can observe of God's works is like a mere spark.

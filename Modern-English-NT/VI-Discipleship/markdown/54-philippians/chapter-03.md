@@ -1,6 +1,6 @@
 # Philippians 3 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (21 verses, 4 translator notes)  
+> **Status:** `draft: true` (21 verses, 5 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Philippians`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -51,5 +51,6 @@
 
 - **3:1** — The Vulgate reads necessarium ("necessary"), whereas the Greek text has asphales ("safe" or "a safeguard").
 - **3:3** — The Vulgate reads spiritu servimus Deo ("serve God in spirit"), matching the Greek dative reading Theo ("to God") rather than the genitive Theou ("by the Spirit of God") followed in most modern critical Greek editions.
+- **3:9** — The Latin genitive 'ex fide ... Christi Jesu' literally reads 'from the faith of Christ Jesus' and can be understood either objectively ('faith in Christ Jesus') or subjectively ('the faithfulness of Christ Jesus').
 - **3:16** — The Vulgate preserves the longer traditional reading ut idem sapiamus, et in eadem permaneamus regula ("let us be of the same mind and remain in the same rule"), which modern critical Greek editions shorten.
 - **3:20** — The Vulgate renders Greek politeuma ("citizenship" or "commonwealth") with conversatio ("way of life" or "conduct," echoing conversatus in 3:6) and includes nostrum ("our") before Jesum Christum.

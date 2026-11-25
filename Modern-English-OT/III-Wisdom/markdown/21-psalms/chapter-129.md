@@ -11,11 +11,11 @@
 
 **129:3** If You should take note of iniquities, Lord, Lord, who will endure?
 
-**129:4** For with You there is propitiation, and because of Your law,
+**129:4** For with You there is propitiation, and because of Your law, I have waited for You, Lord. My soul has waited upon His word;
 
-**129:5** I have waited for You, Lord. My soul has waited upon His word;
+**129:5** my soul has hoped in the Lord.
 
-**129:6** my soul has hoped in the Lord.
+**129:6** From the morning watch until night, let Israel hope in the Lord.
 
 **129:7** For with the Lord there is mercy, and abundant redemption is with Him.
 
@@ -23,7 +23,7 @@
 
 ## Translator Notes
 
-- **129:3** — Latin sustinere ("endure" here) is repeated twice in 129:5 in the sense of patiently "waiting" for the Lord and upon His word, reflecting the dual semantic range of Greek hypomeno.
-- **129:4** — Vulgate propitiatio ("propitiation") and propter legem tuam ("because of Your law") follow the Septuagint tradition against the Hebrew Masoretic Text ("forgiveness, that You may be feared").
-- **129:5** — In the Latin text this verse is included in verse 4. Note the sudden shift from second person ("You") to third person ("His word").
-- **129:6** — The Latin critical text does not include the clause that follows here in the Clementine Vulgate, "From the morning watch until night, let Israel hope in the Lord" (A custodia matutina usque ad noctem, speret Israël in Domino).
+- **129:3** — Latin sustinere ("endure" here) is repeated twice in native Vulgate 129:4 (Saints 129:5) in the sense of patiently "waiting" for the Lord and upon His word, reflecting the dual semantic range of Greek hypomeno.
+- **129:4** — Native Vulgate 129:4 combines Saints 129:4 and 129:5. Vulgate propitiatio ("propitiation") and propter legem tuam ("because of Your law") follow the Septuagint tradition against the Hebrew Masoretic Text ("forgiveness, that You may be feared"). Note also the sudden shift from second person ("You") to third person ("His word").
+- **129:5** — Native Vulgate 129:5 corresponds to the opening clause of Saints 129:6; the following clause ("From the morning watch until night, let Israel hope in the Lord") now stands in restored native Vulgate 129:6.
+- **129:6** — Restored native Clementine Vulgate verse 129:6 (parallel to Saints 129:6b-7a / Hebrew 130:6b-7a).

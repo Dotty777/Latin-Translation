@@ -77,19 +77,19 @@
 
 **21:36** From the tribe of Reuben beyond the Jordan opposite Jericho, cities of refuge: Bezer in the wilderness, Misor, and Jaser, and Jethson, and Mephaath, four cities with their outlying lands.
 
-**21:38** From the tribe of Gad, cities of refuge: Ramoth in Gilead, and Mahanaim, and Heshbon, and Jazer, four cities with their outlying lands.
+**21:37** From the tribe of Gad, cities of refuge: Ramoth in Gilead, and Mahanaim, and Heshbon, and Jazer, four cities with their outlying lands.
 
-**21:40** All the cities of the sons of Merari by their families and clans: twelve.
+**21:38** All the cities of the sons of Merari by their families and clans: twelve.
 
-**21:41** Thus all the cities of the Levites in the midst of the possession of the sons of Israel were forty-eight,
+**21:39** Thus all the cities of the Levites in the midst of the possession of the sons of Israel were forty-eight,
 
-**21:42** with their outlying lands, each one distributed by families.
+**21:40** with their outlying lands, each one distributed by families.
 
-**21:43** And the Lord God gave to Israel all the land that He had sworn He would deliver to their fathers, and they took possession of it and lived in it.
+**21:41** And the Lord God gave to Israel all the land that He had sworn He would deliver to their fathers, and they took possession of it and lived in it.
 
-**21:44** And peace was given by Him toward all the nations all around; and none of the enemies dared to resist them, but all were brought under their dominion.
+**21:42** And peace was given by Him toward all the nations all around; and none of the enemies dared to resist them, but all were brought under their dominion.
 
-**21:45** Not even one word that He had promised He would perform for them proved void, but all things were fulfilled in deeds.
+**21:43** Not even one word that He had promised He would perform for them proved void, but all things were fulfilled in deeds.
 
 ## Translator Notes
 

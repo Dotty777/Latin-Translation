@@ -1,6 +1,6 @@
 # Genesis 8 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (22 verses, 5 translator notes)  
+> **Status:** `draft: true` (22 verses, 4 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -45,14 +45,13 @@
 
 **8:20** Then Noah built an altar to the Lord; and taking from all the clean livestock and birds, he offered burnt offerings on the altar.
 
-**8:21** And the Lord smelled a sweet aroma, and said to him, "By no means will I curse the earth again because of men, for the perception and thought of the human heart are prone to evil from its youth; therefore I will not again strike every living creature as I have done.
+**8:21** And the Lord smelled a sweet aroma, and said, "By no means will I curse the earth again because of men, for the perception and thought of the human heart are prone to evil from its youth; therefore I will not again strike every living soul as I have done.
 
 **8:22** For all the days of the earth, sowing and harvest, cold and heat, summer and winter, night and day will not rest."
 
 ## Translator Notes
 
-- **8:4** — Vulgate reads "the twenty-seventh day" (vicesima septima die, agreeing with the Septuagint against the Hebrew "seventeenth") and translates Hebrew Ararat as Armeniae ("Armenia").
+- **8:4** — Vulgate reads "the twenty-seventh day" (vigesimo septimo die, agreeing with the Septuagint against the Hebrew "seventeenth") and translates Hebrew Ararat as Armeniae ("Armenia").
 - **8:7** — Vulgate agrees with the Septuagint in reading et non revertebatur ("and did not return"), whereas the Hebrew Masoretic Text has "going and returning" without a negative.
 - **8:11** — Vulgate describes what the dove carried as ramum olivae virentibus foliis ("an olive branch with green leaves"), whereas the Hebrew Masoretic Text speaks of a freshly plucked olive leaf.
 - **8:17** — Vulgate reads ingredimini super terram ("enter upon the earth"), whereas the Hebrew Masoretic Text has "let them swarm on the earth."
-- **8:21** — The Latin text reads et ait ad eum ("and said to him"), differing from the Hebrew Masoretic Text ("said in His heart") and from Vulgate editions that omit ad eum.

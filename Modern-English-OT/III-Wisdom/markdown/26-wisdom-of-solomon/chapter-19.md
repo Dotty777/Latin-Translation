@@ -31,23 +31,23 @@
 
 **19:13** For in fact they established a more detestable inhospitality: some indeed did not receive unknown strangers, while others reduced good guests to slavery.
 
-**19:15** And not only these things, but there was also a certain other regard for them, since they received foreigners unwillingly.
+**19:14** And not only these things, but there was also a certain other regard for them, since they received foreigners unwillingly.
 
-**19:16** But they who with gladness received those who had enjoyed the same rights afflicted them with most cruel pains.
+**19:15** But they who with gladness received those who had enjoyed the same rights afflicted them with most cruel pains.
 
-**19:17** And they were struck with blindness, just as those at the doors of the righteous one, when, covered with sudden darkness, each one searched for the passage of his own door.
+**19:16** And they were struck with blindness, just as those at the doors of the righteous one, when, covered with sudden darkness, each one searched for the passage of his own door.
 
-**19:18** For while the elements are changed into one another, just as on a musical instrument the sound of the quality is altered, still all keep their own sound, by which it can be judged with certainty from the sight itself.
+**19:17** For while the elements are changed into one another, just as on a musical instrument the sound of the quality is altered, still all keep their own sound, by which it can be judged with certainty from the sight itself.
 
-**19:19** For land creatures were changed into aquatic ones, and whatever things were swimming crossed over onto the land.
+**19:18** For land creatures were changed into aquatic ones, and whatever things were swimming crossed over onto the land.
 
-**19:20** Fire prevailed in water beyond its own strength, and water forgot its quenching nature.
+**19:19** Fire prevailed in water beyond its own strength, and water forgot its quenching nature.
 
-**19:21** Flames, on the contrary, did not injure the flesh of perishable animals walking among them, nor did they melt that good food, which was easily melted like ice. For in all things You magnified Your people, Lord, and honored them, and did not despise them, standing by them at every time and in every place.
+**19:20** Flames, on the contrary, did not injure the flesh of perishable animals walking among them, nor did they melt that good food, which was easily melted like ice. For in all things You magnified Your people, Lord, and honored them, and did not despise them, standing by them at every time and in every place.
 
 ## Translator Notes
 
-- **19:13** — In this critical text no verse 14 is numbered: this verse includes the material of Greek 19:14 (the Clementine numbers the following verse, beginning Et non solum hæc, as 19:14). The Latin reads bonos hospites ('good guests') where the Greek has 'guest-benefactors'.
-- **19:15** — Vulgate respectus ('regard/consideration', rendering Greek episkope, 'visitation/scrutiny') and past-tense erat ('was') differ from the Greek future 'there will be a visitation for them'.
-- **19:18** — Vulgate in organo qualitatis sonus immutatur ('on a musical instrument the sound of the quality is altered') is a distinct Latin rendering of the Greek comparison of harp notes changing the name of the rhythm while keeping their own tone.
-- **19:21** — This verse includes the material of Greek 19:22 (the Clementine numbers this whole verse 19:20, and no verse 22 is numbered here); the Latin reads bonam escam ('good food') where the Greek has 'ambrosial/immortal food'.
+- **19:13** — Native Vulgate 19:13 includes the material of Saints/Greek 19:14, so native Vulgate 19:14-20 run one verse behind Saints 19:15-21 (with native 19:20 also covering Greek 19:22). The Latin reads bonos hospites ('good guests') where the Greek has 'guest-benefactors'.
+- **19:14** — Vulgate respectus ('regard/consideration', rendering Greek episkope, 'visitation/scrutiny') and past-tense erat ('was') differ from the Greek future 'there will be a visitation for them'.
+- **19:17** — Vulgate in organo qualitatis sonus immutatur ('on a musical instrument the sound of the quality is altered') is a distinct Latin rendering of the Greek comparison of harp notes changing the name of the rhythm while keeping their own tone.
+- **19:20** — Native Vulgate 19:20 combines Saints 19:21 and Greek 19:22; the Latin reads bonam escam ('good food') where the Greek has 'ambrosial/immortal food'.

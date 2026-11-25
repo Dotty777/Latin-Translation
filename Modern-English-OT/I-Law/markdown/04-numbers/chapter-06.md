@@ -1,6 +1,6 @@
 # Numbers 6 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (26 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -49,18 +49,21 @@
 
 **6:22** And the Lord spoke to Moses, saying:
 
-**6:23** "Speak to Aaron and his sons: In this way you shall bless the sons of Israel, and you shall say to them: And they shall invoke My name upon the sons of Israel, and I will bless them.
+**6:23** "Speak to Aaron and his sons: In this way you shall bless the sons of Israel, and you shall say to them:
 
 **6:24** 'May the Lord bless you and guard you.
 
 **6:25** May the Lord show His face to you and have mercy on you.
 
-**6:26** May the Lord turn His countenance toward you and give you peace.'"
+**6:26** May the Lord turn His countenance toward you and give you peace.'
+
+**6:27** And they shall invoke My name upon the sons of Israel, and I will bless them."
 
 ## Translator Notes
 
 - **6:4** — The Vulgate reads ab uva passa usque ad acinum ("from the raisin even to the seed"), whereas the Hebrew text reads "from the seeds even to the skin."
 - **6:9** — The Vulgate prescribes shaving immediately on that day of purification and again on the seventh (illico ... et rursum septima), whereas the Hebrew text describes a single shaving on the seventh day.
 - **6:10** — The Vulgate uniquely reads in introitu foederis testimonii ("at the entrance of the covenant of the testimony") where the Hebrew text has "at the entrance of the tent of meeting."
-- **6:23** — In the Clementine Vulgate, the promise corresponding to Hebrew verse 27 ("And they shall invoke My name...") is placed inside verse 23 before the blessing in verses 24-26, and renders Hebrew "put My name" as "invoke My name."
+- **6:23** — Native Vulgate Numbers 6:23-27 place the closing promise (6:27, 'And they shall invoke My name...') separately after the Aaronic blessing in 6:24-26, matching the Hebrew order (whereas Saints.Bible Septuagint-aligned display places this clause before the blessing in 6:23).
 - **6:25** — In verses 25-26, the Vulgate distinctively renders the blessing with Ostendat ("show") and misereatur ("have mercy on") in verse 25, and Convertat ("turn") in verse 26, where the Hebrew reads "make shine," "be gracious to," and "lift up."
+- **6:27** — Native Vulgate Numbers 6:27 stands separately after the blessing (6:24-26) and renders Hebrew "put My name" as "invoke My name" (Invocabuntque nomen meum).

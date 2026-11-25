@@ -1,6 +1,6 @@
 # John 6 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (71 verses, 8 translator notes)  
+> **Status:** `draft: true` (72 verses, 9 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`John`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -105,47 +105,49 @@
 
 **6:50** This is the bread descending from heaven, so that if anyone eats from it, he may not die.
 
-**6:51** I am the living bread who descended from heaven. If anyone eats from this bread, he will live forever; and the bread that I will give is My flesh for the life of the world."
+**6:51** I am the living bread who descended from heaven.
 
-**6:52** Therefore the Jews were disputing with one another, saying, "How is this man able to give us His flesh to eat?"
+**6:52** If anyone eats from this bread, he will live forever; and the bread that I will give is My flesh for the life of the world."
 
-**6:53** Jesus therefore said to them, "Amen, amen, I tell you, unless you eat the flesh of the Son of Man and drink His blood, you will not have life in yourselves.
+**6:53** Therefore the Jews were disputing with one another, saying, "How is this man able to give us His flesh to eat?"
 
-**6:54** The one who eats My flesh and drinks My blood has eternal life, and I will raise him up on the last day.
+**6:54** Jesus therefore said to them, "Amen, amen, I tell you, unless you eat the flesh of the Son of Man and drink His blood, you will not have life in yourselves.
 
-**6:55** For My flesh truly is food, and My blood truly is drink.
+**6:55** The one who eats My flesh and drinks My blood has eternal life, and I will raise him up on the last day.
 
-**6:56** The one who eats My flesh and drinks My blood remains in Me, and I in him.
+**6:56** For My flesh truly is food, and My blood truly is drink.
 
-**6:57** Just as the living Father sent Me, and I live on account of the Father, so the one who eats Me, he too will live on account of Me.
+**6:57** The one who eats My flesh and drinks My blood remains in Me, and I in him.
 
-**6:58** This is the bread that descended from heaven, not as your fathers ate manna and died. The one who eats this bread will live forever."
+**6:58** Just as the living Father sent Me, and I live on account of the Father, so the one who eats Me, he too will live on account of Me.
 
-**6:59** He said these things while teaching in the synagogue in Capernaum.
+**6:59** This is the bread that descended from heaven, not as your fathers ate manna and died. The one who eats this bread will live forever."
 
-**6:60** Many of His disciples, therefore, on hearing it, said, "This saying is hard, and who is able to listen to it?"
+**6:60** He said these things while teaching in the synagogue in Capernaum.
 
-**6:61** Now Jesus, knowing within Himself that His disciples were murmuring about this, said to them, "Does this offend you?
+**6:61** Many of His disciples, therefore, on hearing it, said, "This saying is hard, and who is able to listen to it?"
 
-**6:62** What, then, if you see the Son of Man ascending to where He was before?
+**6:62** Now Jesus, knowing within Himself that His disciples were murmuring about this, said to them, "Does this offend you?
 
-**6:63** The Spirit is the One who gives life; the flesh is of no benefit at all. The words that I Myself have spoken to you are spirit and life.
+**6:63** What, then, if you see the Son of Man ascending to where He was before?
 
-**6:64** But there are some among you who do not believe." For Jesus knew from the beginning which ones did not believe, and who was going to betray Him.
+**6:64** The Spirit is the One who gives life; the flesh is of no benefit at all. The words that I Myself have spoken to you are spirit and life.
 
-**6:65** And He was saying, "For this reason I have told you that no one is able to come to Me unless it has been given to him by My Father."
+**6:65** But there are some among you who do not believe." For Jesus knew from the beginning which ones did not believe, and who was going to betray Him.
 
-**6:66** From this time many of His disciples went back and were no longer walking with Him.
+**6:66** And He was saying, "For this reason I have told you that no one is able to come to Me unless it has been given to him by My Father."
 
-**6:67** Jesus therefore said to the twelve, "You do not also want to depart, do you?"
+**6:67** From this time many of His disciples went back and were no longer walking with Him.
 
-**6:68** Therefore Simon Peter answered Him, "Lord, to whom will we go? You have words of eternal life,
+**6:68** Jesus therefore said to the twelve, "You do not also want to depart, do you?"
 
-**6:69** and we have believed and come to know that You are the Christ, the Son of God."
+**6:69** Therefore Simon Peter answered Him, "Lord, to whom will we go? You have words of eternal life,
 
-**6:70** Jesus replied to them, "Did I not choose you twelve, and yet one of you is a devil?"
+**6:70** and we have believed and come to know that You are the Christ, the Son of God."
 
-**6:71** Now He was speaking of Judas Iscariot, the son of Simon, for he was going to betray Him, although he was one of the twelve.
+**6:71** Jesus replied to them, "Did I not choose you twelve, and yet one of you is a devil?"
+
+**6:72** Now He was speaking of Judas Iscariot, the son of Simon, for he was going to betray Him, although he was one of the twelve.
 
 ## Translator Notes
 
@@ -154,6 +156,7 @@
 - **6:17** — The Vulgate uses the perfect venerunt ("came") rather than the Greek imperfect erchonto ("were going"), and omits "yet" in non venerat ("had not come", vs. Greek oupo).
 - **6:33** — Because Latin panis ("bread") is masculine, the relative pronoun qui is grammatically ambiguous and may be read either impersonally ("that which") or personally ("He who" / "the One who"), anticipating Jesus's declaration in v. 35.
 - **6:41** — The Vulgate explicitly reads panis vivus ("the living bread"), whereas the Greek text has simply ho artos ("the bread", reserving "living" for v. 51).
-- **6:55** — The Vulgate translates with the adverb vere ("truly", matching Byzantine/TR alethos), whereas critical Greek editions read the adjective alethes ("true food ... true drink").
-- **6:69** — The Vulgate reads Christus Filius Dei ("the Christ, the Son of God"), differing both from critical Greek manuscripts ("the Holy One of God") and the Byzantine/TR addition ("of the living God").
-- **6:71** — Because Iscariotem is accusative agreeing with Judam rather than genitive agreeing with Simonis, the Vulgate attaches the name Iscariot to Judas himself rather than to his father Simon.
+- **6:51** — Native Vulgate John 6 divides Saints.Bible 6:51 across native 6:51 ('I am the living bread...') and 6:52 ('If anyone eats from this bread...'), shifting native 6:53-72 one number higher than Saints.Bible 6:52-71.
+- **6:56** — The Vulgate translates with the adverb vere ("truly", matching Byzantine/TR alethos), whereas critical Greek editions read the adjective alethes ("true food ... true drink").
+- **6:70** — The Vulgate reads Christus Filius Dei ("the Christ, the Son of God"), differing both from critical Greek manuscripts ("the Holy One of God") and the Byzantine/TR addition ("of the living God").
+- **6:72** — Because Iscariotem is accusative agreeing with Judam rather than genitive agreeing with Simonis, the Vulgate attaches the name Iscariot to Judas himself rather than to his father Simon.

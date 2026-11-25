@@ -1,6 +1,6 @@
 # Ezekiel 43 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (27 verses, 5 translator notes)  
+> **Status:** `draft: true` (27 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -61,6 +61,7 @@
 
 ## Translator Notes
 
+- **43:5** — Latin reads bare spiritus (without Dei or Domini), which can be rendered 'a spirit', 'the spirit', or 'wind' (compare lowercase 'spirit' in 1:12, 1:20, and 10:17, versus 'Spirit of the Lord' in 11:5, 37:1); capitalization as 'the Spirit' is subject to edition-wide editorial policy.
 - **43:7** — The Vulgate links 'the man who was standing beside me' (v. 6) grammatically as the subject of 'said to me' (v. 7) even though the speech is in God's first person. It also reads 'in the ruins of their kings' (Latin in ruinis regum suorum, repeated in v. 9), where the Hebrew Masoretic Text has 'the corpses [or monuments] of their kings.'
 - **43:11** — Unlike the Hebrew Masoretic Text, which begins with a conditional clause ('And if they are ashamed...'), the Vulgate continues the jussive commands from v. 10 ('and let them be ashamed of all that they have done').
 - **43:13** — The Vulgate specifies 'the truest cubit' (Latin in cubito verissimo) and 'the trench of the altar' (Latin fossa altaris), distinct from the Hebrew Masoretic Text's 'cubits' and 'base/height.'

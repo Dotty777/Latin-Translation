@@ -1,6 +1,6 @@
 # Genesis 38 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (30 verses, 5 translator notes)  
+> **Status:** `draft: true` (30 verses, 6 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Genesis`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -49,7 +49,7 @@
 
 **38:22** He returned to Judah and said to him, "I have not found her; and besides, the men of that place told me that a prostitute had never sat there."
 
-**38:23** Judah said, "Let her keep it for herself; certainly she will not be able to accuse us of a lie. I sent the young goat that I had promised, and you did not find her."
+**38:23** Judah said, "Let her keep it for herself; certainly she cannot accuse us of a lie. I sent the young goat that I had promised, and you did not find her."
 
 **38:24** Now, after three months, they reported to Judah, saying, "Tamar your daughter-in-law has committed fornication, and her womb appears to be swelling." Judah said, "Bring her out so that she may be burned."
 
@@ -59,11 +59,11 @@
 
 **38:27** Now when birth was at hand, twins appeared in the womb; and in the very delivery of the infants, one put out a hand, on which the midwife tied a scarlet thread, saying,
 
-**38:28** "This one is coming out first."
+**38:28** "This one will come out first."
 
 **38:29** But as he drew back his hand, the other came out; and the woman said, "Why has the wall been divided because of you?" And for this reason she called his name Perez.
 
-**38:30** Afterward the brother came out, on whose hand was the scarlet thread, whom she called Zerah.
+**38:30** Afterward his brother came out, on whose hand was the scarlet thread, whom she called Zerah.
 
 ## Translator Notes
 
@@ -71,4 +71,5 @@
 - **38:12** — The Vulgate identifies Hirah as opilio gregis ("shepherd of the flock") and in 38:20 as pastorem suum ("his shepherd"), reading the underlying Hebrew consonants as "shepherd" (with the Septuagint) rather than Masoretic "his friend."
 - **38:14** — Latin in bivio itineris ("at the fork of the road," and in bivio in 38:21) treats the Hebrew phrase rendered in the Masoretic Text as the place name Enaim as a common noun denoting a fork in the road.
 - **38:18** — Latin armillam ("bracelet," also in 38:25) renders Hebrew petil ("cord"), and Ad unum igitur coitum ("at a single union") is a distinctly concise Vulgate wording of the encounter.
+- **38:21** — Clem1598-USFX reads 'in loco ista meretrix' ('that prostitute was not in the place,' or an orthographic variant for 'in loco isto,' 'in this place').
 - **38:29** — Latin Quare divisa est propter te maceria? ("Why has the wall been divided because of you?") renders the Hebrew wordplay on "breach" (explaining the name Perez, Latin Phares) as a divided enclosure wall (maceria).

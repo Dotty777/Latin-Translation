@@ -35,7 +35,7 @@
 
 **34:15** But on this condition we will be able to enter into an alliance: if you are willing to be like us, and everyone of the male sex among you is circumcised;
 
-**34:16** then we will mutually give and take our daughters and yours, and we will live with you, and we will be one people.
+**34:16** then we will mutually give and take your daughters and ours, and we will live with you, and we will be one people.
 
 **34:17** But if you are unwilling to be circumcised, we will take our daughter and depart."
 
@@ -71,5 +71,5 @@
 
 - **34:2** — The Vulgate adds 'fell in love with her' (adamavit) and renders the final clause as 'overpowering the virgin by force' (vi opprimens virginem), where the Hebrew simply has 'took her, lay with her, and humbled her.'
 - **34:21** — The Vulgate interprets the Hebrew idiom 'wide of hands' as 'being spacious and wide it needs cultivators' (quae spatiosa et lata cultoribus indiget), expanding on the theme of open land.
-- **34:22** — Latin 'Unum est quod differtur tantum bonum' ('There is one thing by which so great a good is delayed') is a distinctive Vulgate rendering of the Hebrew condition ('Only on this condition will the men consent to live with us').
+- **34:22** — Latin 'Unum est quo differtur tantum bonum' ('There is one thing by which so great a good is delayed') is a distinctive Vulgate rendering of the Hebrew condition ('Only on this condition will the men consent to live with us').
 - **34:25** — Latin 'confidenter' ('boldly') applies the Hebrew adverb (often understood as 'unsuspectingly' of the city) to Simeon and Levi's confident entry; the Vulgate also specifies 'when the pain of the wounds is most severe' (quando gravissimus vulnerum dolor est).

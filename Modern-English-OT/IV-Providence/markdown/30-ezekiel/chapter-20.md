@@ -1,6 +1,6 @@
 # Ezekiel 20 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (44 verses, 5 translator notes, 1 additional)  
+> **Status:** `draft: true` (49 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Ezekiel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -93,9 +93,15 @@
 
 **20:44** And you will know that I am the Lord, when I have done good to you for the sake of My name, and not according to your evil ways, nor according to your most wicked deeds, house of Israel, says the Lord God.'"
 
-## Additional Verses (Not in Saints Numbering)
+**20:45** And the word of the Lord came to me, saying:
 
-**20:45** *(after `20:44`)* And the word of the Lord came to me, saying:
+**20:46** "Son of man, set your face against the way of the south, and let words drop toward the southwest, and prophesy to the forest of the southern field.
+
+**20:47** And you will say to the southern forest, 'Hear the word of the Lord. This is what the Lord God says: "Look, I will kindle a fire in you, and I will burn up in you every green tree and every dry tree. The flame of the burning will not be extinguished, and every face from the south to the north will be burned up in it,
+
+**20:48** and all flesh will see that I, the Lord, have kindled it, and it will not be extinguished."'"
+
+**20:49** And I said, "Ah, ah, ah, Lord God! They themselves say of me, 'Does this man not speak in parables?'"
 
 ## Translator Notes
 
@@ -104,3 +110,5 @@
 - **20:29** — The Vulgate translates both the common noun and the proper name of the Hebrew wordplay on Bamah into Latin as "excelsum" and "Excelsum" ("high place" and "High Place").
 - **20:34** — The Clementine Vulgate repeats the closing clause "regnabo super vos" ("I will reign over you") from verse 33; this repetition does not appear in the Hebrew Masoretic Text.
 - **20:39** — Unlike the Hebrew Masoretic Text ("you shall no longer profane My holy name"), the Clementine Vulgate has no negation before "pollueritis" ("you defile"), making it part of the conditional clause leading into verse 40.
+- **20:45** — In native Clementine Vulgate numbering (Clem1598-USFX), the southern forest prophecy closes chapter 20 as 20:45-49 (mapped to Saints.Bible 21:1-5), and chapter 21 begins with the sword against Jerusalem as 21:1-32 (mapped to Saints.Bible 21:6-37).
+- **20:46** — Latin "stilla" literally means "drip" or "drop," a prophetic idiom for uttering words (repeated in 21:7). The Vulgate also distinguishes three southerly terms: "auster" (south), "africus" (southwest), and "meridianus" (southern). Latin "stilla" literally means "drip" or "drop," a prophetic idiom for uttering words (repeated in 21:2). The Vulgate also distinguishes three southerly terms: "auster" (south), "africus" (southwest), and "meridianus" (southern). Native Clementine Vulgate 20:45-49 maps to Saints 21:1-5 and native 21:1-32 maps to Saints 21:6-37.
