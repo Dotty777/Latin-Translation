@@ -91,7 +91,7 @@
 
 **51:43** Her cities have become an astonishment, an uninhabitable and desolate land, a land in which no one dwells, nor does a son of man pass through it.
 
-**51:44** And I will punish Bel in Babylon, and cast out from his mouth what he had swallowed; and the nations will no longer stream to him, since even the wall of Babylon will collapse."
+**51:44** And I will punish Bel in Babylon, and cast out from his mouth what he had swallowed; and the nations will no longer stream to him, since even the wall of Babylon will collapse.
 
 **51:45** Come out from the midst of her, My people, so that each one may save his life from the wrath of the fury of the Lord,
 
@@ -99,7 +99,7 @@
 
 **51:47** Therefore, look, days are coming, and I will punish the carved images of Babylon, and all her land will be put to shame, and all her slaughtered will fall in the midst of her.
 
-**51:48** And the heavens and the earth, and all things that are in them, will offer praise over Babylon, because plunderers will come upon her from the north, says the Lord.
+**51:48** And the heavens and the earth, and all things that are in them, will offer praise over Babylon, because plunderers will come upon her from the north," says the Lord.
 
 **51:49** And just as Babylon caused those killed to fall in Israel, so from Babylon those killed will fall in the entire earth.
 

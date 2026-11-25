@@ -51,11 +51,11 @@
 
 **33:23** And the word of the Lord came to Jeremiah, saying:
 
-**33:24** "Have you not seen what this people has spoken, saying, 'The two families that the Lord had chosen have been cast off'? And they have despised My people, because it is no longer a nation before them."
+**33:24** "Have you not seen what this people has spoken, saying, 'The two families that the Lord had chosen have been cast off'? And they have despised My people, because it is no longer a nation before them.
 
 **33:25** This is what the Lord says: If I have not established My covenant between day and night, and the laws for heaven and earth,
 
-**33:26** then indeed I will also cast off the seed of Jacob and of My servant David, so that I will not take from his seed rulers of the seed of Abraham, Isaac, and Jacob; for I will bring back their return, and I will have mercy on them.
+**33:26** then indeed I will also cast off the seed of Jacob and of My servant David, so that I will not take from his seed rulers of the seed of Abraham, Isaac, and Jacob; for I will bring back their return, and I will have mercy on them."
 
 ## Translator Notes
 

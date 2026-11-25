@@ -62,7 +62,7 @@
 ## Translator Notes
 
 - **24:5** — The Clementine Vulgate distinctively adds "of the sedition" (auctorem seditionis) before "of the sect of the Nazarenes," intensifying Tertullus's accusation of insurrection.
-- **24:8** — Verse 7 (which in the longer tradition recounts the tribune Lysias taking Paul away by force) is absent from the main Latin text here, leaving the participle "ordering" (jubens) at the start of verse 8 syntactically attached to verse 6.
+- **24:8** — Native Clementine Vulgate includes Acts 24:7 (and the opening clause of 24:8, "ordering his accusers to come to you"), which are omitted from most modern critical Greek editions.
 - **24:14** — Where the Greek reads "according to the Way which they call a sect" and "the ancestral God," the Clementine Vulgate distinctively reads "according to the sect that they call a heresy" (secundum sectam quam dicunt hæresim) and "the Father and my God" (Patri et Deo meo).
 - **24:17** — The Clementine Vulgate adds "and vows" (et vota) alongside alms and offerings, a phrase absent from standard Greek texts.
 - **24:25** — The Vulgate renders the Greek term for self-control specifically as castitate ("chastity").

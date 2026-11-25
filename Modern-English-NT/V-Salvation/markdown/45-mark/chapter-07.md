@@ -33,9 +33,9 @@
 
 **7:14** And calling the crowd again, He was saying to them, "Listen to Me, all of you, and understand.
 
-**7:15** There is nothing outside a man, entering into him, that can pollute him; but the things that proceed from a man, those are what defile a man."
+**7:15** There is nothing outside a man, entering into him, that can pollute him; but the things that proceed from a man, those are what defile a man.
 
-**7:16** If anyone has ears for hearing, let him hear.
+**7:16** If anyone has ears for hearing, let him hear."
 
 **7:17** And when He had entered the house away from the crowd, His disciples were asking Him about the parable.
 

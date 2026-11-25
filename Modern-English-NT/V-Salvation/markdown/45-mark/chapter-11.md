@@ -53,9 +53,9 @@
 
 **11:24** Therefore I say to you, all things that you ask for while praying, believe that you will receive them, and they will come about for you.
 
-**11:25** And when you stand to pray, forgive, if you hold anything against anyone, so that your Father also, who is in heaven, may forgive you your sins."
+**11:25** And when you stand to pray, forgive, if you hold anything against anyone, so that your Father also, who is in heaven, may forgive you your sins.
 
-**11:26** But if you do not forgive, neither will your Father, who is in heaven, forgive you your sins.
+**11:26** But if you do not forgive, neither will your Father, who is in heaven, forgive you your sins."
 
 **11:27** And they came again to Jerusalem. And as He was walking in the temple, the chief priests and the scribes and the elders came to Him,
 

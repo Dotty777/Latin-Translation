@@ -87,13 +87,13 @@
 
 **9:41** And whoever causes one of these little ones who believe in Me to stumble, it would be better for him if a donkey's millstone were placed around his neck and he were thrown into the sea.
 
-**9:42** And if your hand causes you to stumble, cut it off; it is better for you to enter into life maimed than, having two hands, to go into Gehenna, into the unquenchable fire.
+**9:42** And if your hand causes you to stumble, cut it off; it is better for you to enter into life maimed than, having two hands, to go into Gehenna, into the unquenchable fire,
 
-**9:43** Where their worm does not die, and the fire is not quenched.
+**9:43** where their worm does not die, and the fire is not quenched.
 
-**9:44** And if your foot causes you to stumble, cut it off; it is better for you to enter into eternal life lame than, having two feet, to be thrown into the Gehenna of unquenchable fire.
+**9:44** And if your foot causes you to stumble, cut it off; it is better for you to enter into eternal life lame than, having two feet, to be thrown into the Gehenna of unquenchable fire,
 
-**9:45** Where their worm does not die, and the fire is not quenched.
+**9:45** where their worm does not die, and the fire is not quenched.
 
 **9:46** And if your eye causes you to stumble, cast it out; it is better for you to enter into the kingdom of God one-eyed than, having two eyes, to be thrown into the Gehenna of fire,
 

@@ -15,7 +15,7 @@
 
 **4:5** Do not cover their iniquity, and let not their sin be blotted out before Your face, because they have derided the builders.
 
-**4:6** Therefore we built the wall, and we joined the whole of it up to half its height; and the heart of the people was stirred up to work.
+**4:6** Therefore we built the wall, and we joined the whole of it up to half of it; and the heart of the people was stirred up to work.
 
 **4:7** Now it happened, when Sanballat, Tobiah, the Arabs, the Ammonites, and the Ashdodites heard that the scar of the wall of Jerusalem had closed over and that the breaches had begun to be closed up, that they became exceedingly angry.
 
@@ -53,8 +53,8 @@
 
 ## Translator Notes
 
-- **4:2** — In 3:34-36 the Vulgate preserves several distinctive readings: "Will the nations let them alone?" (Hebrew "Will they restore it for themselves?"), "build the stones" (Hebrew "revive the stones"), "it will leap over" (transiliet in 3:35, Hebrew "break down"), and "to contempt" (in despectionem in 3:36, Hebrew "to plunder").
-- **4:6** — Native Vulgate Nehemiah 4:1-6 map to Saints.Bible 3:33-38, and native 4:7-23 map to Saints.Bible 4:1-17.
+- **4:2** — In native 4:2-4 (Saints.Bible 3:34-36), the Vulgate preserves several distinctive readings: "Will the nations let them alone?" (Hebrew "Will they restore it for themselves?"), "build the stones" (Hebrew "revive the stones"), "it will leap over" (transiliet in 4:3, Hebrew "break down"), and "to contempt" (in despectionem in 4:4, Hebrew "to plunder").
+- **4:6** — Native Vulgate Nehemiah 4:1-6 map to Saints.Bible 3:33-38, and native 4:7-23 map to Saints.Bible 4:1-17. Latin usque ad partem dimidiam literally reads "up to the half part" (half of its extent or height, without specifying altitudo).
 - **4:7** — The Vulgate renders the repair of the wall with the vivid medical idiom 'the scar had closed over' (obducta esset cicatrix), reflecting the Hebrew figure of healing.
 - **4:12** — The Vulgate construes the difficult final clause (ex omnibus locis quibus venerant ad nos) as identifying where the Jews had come from rather than quoting direct speech, and in v. 7 reads in ordinem ('in order') where the Hebrew has 'by families.'
 - **4:16** — The Vulgate reads juvenum eorum ('of their young men') rather than the Hebrew 'my young men' or 'my servants.'
