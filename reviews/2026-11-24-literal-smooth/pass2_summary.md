@@ -85,3 +85,14 @@ Every single one of the **1,035** proposals (`LAT-P1-0001` through `LAT-P1-1035`
   - **Pattern 2 (Passive `convers* est/sunt ad` & non-Vulgate lexical additions):** Audited all 16 `convers* est/sunt ad` loci corpus-wide + 14 Prophets `convers*` loci (`Ezek 26:2` was the sole agency shift) and all 15 `dimidi* part*` + 467 restored dimension loci (`Neh 4:6` was the sole unsupported addition; also updated stale refs in note `Neh 4:2`).
 - **Response Log:** `reviews/2026-11-24-literal-smooth/pass35_ai_peer_review_response.jsonl` (`12` records: `10` fixes + `2` full-corpus sweep audits).
 
+## 8. Stage 2 Pass 4 Final Reconciliation & Display Verification Closure
+- **Pass 4 Side-by-Side Reconciliation (`907f6d85af55f30cb09ec32a833341fa62614032`):** **`0` verse-text unexplained discrepancies** across all 34,952 Latin native Vulgate verses; `10` note/parallel-map bounce-backs (`P4-LAT-01..10`) independently verified against `Clem1598-USFX` and applied (`10/10 approved`, `0` verse-text changes).
+- **Applied SHA (`LAT_PASS4_TEXT_SHA`):** `1fc8f0c3c90dd121cc83329b9d5ffdc7b6144cda`
+- **Fixes Applied:**
+  - `P4-LAT-01..02`: Replaced stale contradictory pre-migration order notes on `Exod 21:17` and `Num 10:35`, moving `multitudinem exercitus Israël` gloss to native `Num 10:36`.
+  - `P4-LAT-03..08`: Corrected shifted pre-migration internal verse/tribe references on `Num 26:17, 19, 39`, `Neh 4:6, 12, 21`, `Lev 6:11, 21`, `1 Chr 6:31, 55`, `1 Macc 1:51`, and `Acts 14:11`.
+  - `P4-LAT-09`: Added neutral Rule 4 footnotes on `Ps 2:7` (`LAT-HQ-POL-04` Messianic capitalization) and `Eph 4:23` (bare ablative `spiritu mentis vestræ`).
+  - `P4-LAT-10`: Converted all `118` non-Saints.Bible targets (`Daniel` 112, `Sirach` 4, `Nehemiah` 1, `Matthew` 1) in `Modern-English-OT/parallel-verse-map.json` and `corrections/.../verse-map.json` to `saints: []` / `relation: unmatched_in_saints` (preserving descriptive `vulgate_label`), and normalized all remaining sub-verse/annotated labels to pure `ch:v` Saints.Bible targets (`0` dangling/non-numeric targets).
+- **Final Corpus State:** `70/70` books, `1,298/1,298` native Vulgate chapters & synced chapter MDs, `34,952/34,952` verses (`verified=34,873`, `disputed=79`, `unverified=0`; `Psalm 151` = `no_counterpart`), `6,597` notes, `0` unplaced, `0` placeholders, `0` schema/sync/mapping errors.
+- **Verdicts Log:** `reviews/2026-11-24-literal-smooth/pass4_bounceback_verdicts.jsonl`
+

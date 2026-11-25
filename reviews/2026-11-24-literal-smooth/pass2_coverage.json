@@ -1,7 +1,7 @@
 {
   "schema_version": "pass2_coverage_v1",
   "language": "latin",
-  "stage": "Stage 2 Pass 2 + Pass 3/3B + Pass 3.5 — Verified Latin Source-Language Fidelity, Standalone Clarity & Blind AI Peer Review Closure",
+  "stage": "Stage 2 Complete (Passes 1-4) — Verified Latin Source-Language Fidelity, Standalone Clarity, Blind AI Peer Review & Final Reconciliation Closure",
   "branch": "review/2026-11-24-literal-smooth",
   "lat_base_sha": "5261e1b66c1a076e5618ab852515b419cc7fc0be",
   "lat_pass2_text_sha": "892d426f11a58bf1ece448c9e86a4829f78a0399",
@@ -18,7 +18,7 @@
     "source_total": 34952,
     "english_pass2_verses": 34952,
     "english_pass2_unplaced": 0,
-    "english_pass2_notes": 6594,
+    "english_pass2_notes": 6597,
     "chapter_markdowns_synced": 1298,
     "placeholder_count": 0,
     "stale_note_count": 0,
@@ -49,7 +49,13 @@
     "pass35_unverified": 0,
     "pass35_direct_fixes_applied": 3,
     "pass35_pattern_expansion_fixes_applied": 7,
-    "pass35_total_fixes_applied": 10
+    "pass35_total_fixes_applied": 10,
+    "pass4_bouncebacks_reviewed": 10,
+    "pass4_bouncebacks_approved": 10,
+    "pass4_bouncebacks_rejected": 0,
+    "pass4_bouncebacks_escalated": 0,
+    "pass4_verse_text_changes": 0,
+    "pass4_dangling_saints_map_targets": 0
   },
   "no_counterpart_in_adopted_source": [
     {
@@ -160,7 +166,7 @@
       "net_stage1_delta": 31,
       "english_pass2_verses": 1288,
       "english_pass2_unplaced": 0,
-      "english_pass2_notes": 184,
+      "english_pass2_notes": 185,
       "non_identity_saints_mappings": 137,
       "verified": 1288,
       "disputed": 0,
@@ -585,7 +591,7 @@
       "net_stage1_delta": 4,
       "english_pass2_verses": 2527,
       "english_pass2_unplaced": 0,
-      "english_pass2_notes": 703,
+      "english_pass2_notes": 704,
       "non_identity_saints_mappings": 24,
       "verified": 2517,
       "disputed": 10,
@@ -1385,7 +1391,7 @@
       "net_stage1_delta": 0,
       "english_pass2_verses": 155,
       "english_pass2_unplaced": 0,
-      "english_pass2_notes": 31,
+      "english_pass2_notes": 32,
       "non_identity_saints_mappings": 0,
       "verified": 154,
       "disputed": 1,
@@ -1826,5 +1832,7 @@
   "lat_pass3a_sha": "301d7f18b25dae009ee8fcf302c9d110dcde3635",
   "lat_pass3b_text_sha": "e99f55b0588da2c73eb7e13ad633d172cdb18ca6",
   "lat_pass35_reviewed_sha": "f974b724c5afaf141da254bd86877c9da1a8da46",
-  "lat_post_p35_text_sha": "1f05ad75056d768afa4233f907416fcfc7165271"
+  "lat_post_p35_text_sha": "1f05ad75056d768afa4233f907416fcfc7165271",
+  "lat_post_p35_sha": "907f6d85af55f30cb09ec32a833341fa62614032",
+  "lat_pass4_text_sha": "1fc8f0c3c90dd121cc83329b9d5ffdc7b6144cda"
 }
