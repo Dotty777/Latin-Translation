@@ -15,7 +15,7 @@
 - [Chapter 7](chapter-07.md) — 89 verses, 6 notes
 - [Chapter 8](chapter-08.md) — 26 verses, 5 notes
 - [Chapter 9](chapter-09.md) — 23 verses, 5 notes
-- [Chapter 10](chapter-10.md) — 36 verses, 6 notes
+- [Chapter 10](chapter-10.md) — 36 verses, 7 notes
 - [Chapter 11](chapter-11.md) — 34 verses, 5 notes
 - [Chapter 12](chapter-12.md) — 15 verses, 4 notes
 - [Chapter 13](chapter-13.md) — 34 verses, 6 notes

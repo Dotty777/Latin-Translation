@@ -1,6 +1,6 @@
 # Numbers 10 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (36 verses, 6 translator notes)  
+> **Status:** `draft: true` (36 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Numbers`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -84,4 +84,5 @@
 - **10:6** — Latin ululatus and ululare (literally "wailing" or "ululating," also in 10:7 and 10:9) render the broken, ringing alarm blast of the trumpets (Hebrew teruah).
 - **10:21** — The Vulgate states that the tabernacle continued to be carried until they reached the place of setting it up, whereas the Hebrew states that the tabernacle was erected before the Kohathites arrived.
 - **10:34** — Native Vulgate Numbers 10:34-36 place the cloud notice first (10:34), followed by the lifting up (10:35) and setting down (10:36) of the ark, matching the Hebrew order (mapping to Saints.Bible Septuagint-aligned order 10:36, 10:34, 10:35).
-- **10:35** — In the Clementine Vulgate, verses 10:34-36 stand in a different order from the Hebrew Masoretic Text (Vulgate 10:34-35 correspond to MT 10:35-36, and Vulgate 10:36 corresponds to MT 10:34); in 10:35 the Vulgate also reads "multitude of the army of Israel" where the Hebrew has "ten thousands of the thousands of Israel."
+- **10:35** — Native Clementine Vulgate Numbers 10:35 places the lifting up of the ark here (mapping to Saints.Bible 10:34; see note on 10:34).
+- **10:36** — Native Clementine Vulgate Numbers 10:36 maps to Saints.Bible 10:35, and renders "multitude of the army of Israel" (multitudinem exercitus Israël) where the Hebrew has "ten thousands of the thousands of Israel."

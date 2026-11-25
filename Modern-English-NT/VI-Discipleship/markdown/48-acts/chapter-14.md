@@ -63,6 +63,6 @@
 
 - **14:3** — The Vulgate reads fiducialiter agentes ("acting boldly/confidently"), whereas the Greek has παρρησιαζόμενοι ("speaking boldly").
 - **14:6** — Native Clementine Vulgate Acts 14:6 includes the closing clause et ibi evangelizantes erant ("and there they were preaching the gospel", Saints.Bible 14:7), so native 14:7-27 map to Saints.Bible 14:8-28.
-- **14:11** — Here and in verse 13, the Vulgate renders the Greek deity names Zeus and Hermes with their Roman equivalents, Jupiter (Jovem/Jovis) and Mercury (Mercurium).
+- **14:11** — Here and in verse 12, the Vulgate renders the Greek deity names Zeus and Hermes with their Roman equivalents, Jupiter (Jovem/Jovis) and Mercury (Mercurium).
 - **14:14** — The Vulgate renders the Greek adjective ὁμοιοπαθεῖς ("of like nature") with the fuller phrase mortales sumus, similes vobis homines ("we also are mortals, men like you").
 - **14:16** — The Vulgate connects de cælo ("from heaven") to benefaciens ("doing good") and reads corda nostra ("our hearts") rather than "your hearts".

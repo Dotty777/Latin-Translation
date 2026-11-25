@@ -1,7 +1,7 @@
 # Saints Modern English — Old Testament (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Stage 2 Pass 2 verified (native Sixto-Clementine Vulgate versification)  
-> **Current Coverage:** **ALL 43/43 Latin OT books COMPLETE** (1,038 chapters, 27,001 native Vulgate verses, 5,294 translator notes, `0` unplaced; combined with Complete 27/27 Latin NT = **70 of 70 books, 1,298 chapters, 34,952 native Vulgate verses**).  
+> **Current Coverage:** **ALL 43/43 Latin OT books COMPLETE** (1,038 chapters, 27,001 native Vulgate verses, 5,296 translator notes, `0` unplaced; combined with Complete 27/27 Latin NT = **70 of 70 books, 1,298 chapters, 34,952 native Vulgate verses**).  
 > **Validation:** 100% validated against `Saints-Latin-Critical-Text` (`Clem1598-USFX`, exact 34,952/34,952 native Vulgate coverage, `0` placeholders, `0` schema errors).
 
 ## Overview
@@ -16,9 +16,9 @@ This directory contains the **Saints Modern English** translation of the Latin C
 
 | Division | Status | Books | Chapters | Verses | Notes | Directory |
 |---|---|---:|---:|---:|---:|---|
-| **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,846 | 895 | [`I-Law/`](I-Law/README.md) |
+| **I. Law (Pentateuch)** | **Complete** | 5 / 5 | 187 | 5,846 | 896 | [`I-Law/`](I-Law/README.md) |
 | **II. Judgement (Historical Books & Job)** | **Complete** | 15 / 15 | 328 | 9,681 | 1,635 | [`II-Judgement/`](II-Judgement/README.md) |
-| **III. Wisdom (Wisdom & Poetry)** | **Complete** | 7 / 7 | 276 | 5,965 | 1,542 | [`III-Wisdom/`](III-Wisdom/README.md) |
+| **III. Wisdom (Wisdom & Poetry)** | **Complete** | 7 / 7 | 276 | 5,965 | 1,543 | [`III-Wisdom/`](III-Wisdom/README.md) |
 | **IV. Providence (Prophets)** | **Complete** | 16 / 16 | 247 | 5,509 | 1,222 | [`IV-Providence/`](IV-Providence/README.md) |
 
 ## Division I. Law (5 / 5 Complete)
@@ -28,7 +28,7 @@ This directory contains the **Saints Modern English** translation of the Latin C
 | 1 | Genesis | 50 | 1,530 | 232 | [`I-Law/markdown/01-genesis/`](I-Law/markdown/01-genesis/README.md) | [`01-genesis.json`](I-Law/json/01-genesis.json) |
 | 2 | Exodus | 40 | 1,211 | 189 | [`I-Law/markdown/02-exodus/`](I-Law/markdown/02-exodus/README.md) | [`02-exodus.json`](I-Law/json/02-exodus.json) |
 | 3 | Leviticus | 27 | 858 | 131 | [`I-Law/markdown/03-leviticus/`](I-Law/markdown/03-leviticus/README.md) | [`03-leviticus.json`](I-Law/json/03-leviticus.json) |
-| 4 | Numbers | 36 | 1,288 | 184 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
+| 4 | Numbers | 36 | 1,288 | 185 | [`I-Law/markdown/04-numbers/`](I-Law/markdown/04-numbers/README.md) | [`04-numbers.json`](I-Law/json/04-numbers.json) |
 | 5 | Deuteronomy | 34 | 959 | 159 | [`I-Law/markdown/05-deuteronomy/`](I-Law/markdown/05-deuteronomy/README.md) | [`05-deuteronomy.json`](I-Law/json/05-deuteronomy.json) |
 
 ## Division II. Judgement (15 / 15 Complete)
@@ -55,7 +55,7 @@ This directory contains the **Saints Modern English** translation of the Latin C
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
-| 21 | Psalms | 150 | 2,527 | 703 | [`III-Wisdom/markdown/21-psalms/`](III-Wisdom/markdown/21-psalms/README.md) | [`21-psalms.json`](III-Wisdom/json/21-psalms.json) |
+| 21 | Psalms | 150 | 2,527 | 704 | [`III-Wisdom/markdown/21-psalms/`](III-Wisdom/markdown/21-psalms/README.md) | [`21-psalms.json`](III-Wisdom/json/21-psalms.json) |
 | 22 | Proverbs | 31 | 915 | 159 | [`III-Wisdom/markdown/22-proverbs/`](III-Wisdom/markdown/22-proverbs/README.md) | [`22-proverbs.json`](III-Wisdom/json/22-proverbs.json) |
 | 23 | Ecclesiastes | 12 | 222 | 55 | [`III-Wisdom/markdown/23-ecclesiastes/`](III-Wisdom/markdown/23-ecclesiastes/README.md) | [`23-ecclesiastes.json`](III-Wisdom/json/23-ecclesiastes.json) |
 | 24 | Song of Songs | 8 | 116 | 39 | [`III-Wisdom/markdown/24-song-of-songs/`](III-Wisdom/markdown/24-song-of-songs/README.md) | [`24-song-of-songs.json`](III-Wisdom/json/24-song-of-songs.json) |

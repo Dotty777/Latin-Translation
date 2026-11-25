@@ -1,7 +1,7 @@
 # Division VI. Discipleship (Acts, Letters & General Epistles) — Saints Modern English NT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — **Complete 22/22 books** (Stage 2 Pass 2 verified; native Sixto-Clementine Vulgate versification)  
-> **Coverage:** 149 chapters, 3,769 native Vulgate verses (`0` unplaced), 723 translator notes  
+> **Coverage:** 149 chapters, 3,769 native Vulgate verses (`0` unplaced), 724 translator notes  
 > **Source & Parallel Map:** `Saints-Latin-Critical-Text` (`Clem1598-USFX`); `Saints.Bible` parallel map in [`parallel-verse-map.json`](../../Modern-English-OT/parallel-verse-map.json) and [`verse-map.json`](../../corrections/2026-11-24-modern-english-fidelity/verse-map.json).
 
 ## Books Included (22 / 22 Complete)
@@ -13,7 +13,7 @@
 | 50 | 1 Corinthians | 16 | 437 | 76 | [`markdown/50-1-corinthians/`](markdown/50-1-corinthians/README.md) | [`50-1-corinthians.json`](json/50-1-corinthians.json) |
 | 51 | 2 Corinthians | 13 | 255 | 59 | [`markdown/51-2-corinthians/`](markdown/51-2-corinthians/README.md) | [`51-2-corinthians.json`](json/51-2-corinthians.json) |
 | 52 | Galatians | 6 | 149 | 30 | [`markdown/52-galatians/`](markdown/52-galatians/README.md) | [`52-galatians.json`](json/52-galatians.json) |
-| 53 | Ephesians | 6 | 155 | 31 | [`markdown/53-ephesians/`](markdown/53-ephesians/README.md) | [`53-ephesians.json`](json/53-ephesians.json) |
+| 53 | Ephesians | 6 | 155 | 32 | [`markdown/53-ephesians/`](markdown/53-ephesians/README.md) | [`53-ephesians.json`](json/53-ephesians.json) |
 | 54 | Philippians | 4 | 104 | 20 | [`markdown/54-philippians/`](markdown/54-philippians/README.md) | [`54-philippians.json`](json/54-philippians.json) |
 | 55 | Colossians | 4 | 95 | 20 | [`markdown/55-colossians/`](markdown/55-colossians/README.md) | [`55-colossians.json`](json/55-colossians.json) |
 | 56 | 1 Thessalonians | 5 | 89 | 21 | [`markdown/56-1-thessalonians/`](markdown/56-1-thessalonians/README.md) | [`56-1-thessalonians.json`](json/56-1-thessalonians.json) |

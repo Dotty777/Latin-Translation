@@ -1,6 +1,6 @@
 # Psalms 2 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (13 verses, 6 translator notes)  
+> **Status:** `draft: true` (13 verses, 7 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Psalms`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -36,6 +36,7 @@
 - **2:2** — Latin "christum ejus" literally means "His anointed one" (Greek "christos," Hebrew "mashiach"). Editorial policy review: capitalization of "Anointed" (v. 2), "Their" (v. 3), and "Me / My Son / You / Your" (vv. 7-9) reflects traditional Messianic interpretation rather than Latin typography (Clem1598-USFX prints lowercase christum and lowercase pronouns; Filius in v. 7 is capitalized only as the opening word after the colon).
 - **2:3** — Vulgate "jugum ipsorum" ("Their yoke") follows the Septuagint, whereas the Hebrew Masoretic Text reads "their cords."
 - **2:6** — Following the Septuagint, the Vulgate uses the passive voice ("I have been established as king by Him") with the Anointed speaking, and places "proclaiming His decree" at the end of verse 6; the Hebrew Masoretic Text has God speaking ("I have set My king") and begins verse 7 with the decree.
+- **2:7** — Editorial policy review (Rule 4 / LAT-HQ-POL-04): Clem1598-USFX prints lowercase 'me' and 'te' (with 'Filius' capitalized only as the opening word after the colon); capitalization of "Me," "My Son," and "You" reflects traditional Messianic interpretation (cf. Acts 13:33; Heb 1:5) alongside the historical royal coronation reading ("me," "my son," "you").
 - **2:9** — Vulgate "Reges eos" ("You will rule them") follows the Septuagint ("shepherd/rule," echoed in Revelation 2:27; 12:5; 19:15), reflecting a different vocalization of the Hebrew consonants than the Masoretic Text's "You will break them."
 - **2:12** — Vulgate "Apprehendite disciplinam" ("Take hold of discipline") and "de via justa" ("from the righteous way") follow the Septuagint, whereas the Hebrew Masoretic Text reads "Kiss the son" (a debated phrase) and omits "righteous."
 - **2:13** — Native Vulgate 2:13 corresponds to the closing clause of Saints/Hebrew 2:12 (previously carried as an unplaced verse after 2:12).
