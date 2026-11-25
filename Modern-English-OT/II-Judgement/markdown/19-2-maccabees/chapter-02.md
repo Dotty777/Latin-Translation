@@ -78,4 +78,4 @@
 - **2:13** — The Vulgate reads 'de regionibus' ("from the regions") where the Greek Septuagint refers to books "about the kings."
 - **2:18** — The Clementine Vulgate reads the perfect 'congregavit' ("has gathered," likely an early b/v spelling variant for future 'congregabit', "will gather," as in the Greek); the continuation ('For He has rescued us...') follows in native 2:19.
 - **2:19** — Native Vulgate 2 Maccabees 2:19 maps to Saints.Bible 2:18b (shifting native 2:20-33 to Saints.Bible 2:19-32).
-- **2:21** — The Vulgate translates the royal epithet 'Epiphanes' as 'Nobilem' ("the Noble"), and in v. 21 renders Greek 'epiphaneias' ("manifestations") as 'illuminationibus' ("illuminations").
+- **2:21** — The Vulgate translates the royal epithet 'Epiphanes' as 'Nobilem' ("the Noble"), and in v. 22 renders Greek 'epiphaneias' ("manifestations") as 'illuminationibus' ("illuminations").

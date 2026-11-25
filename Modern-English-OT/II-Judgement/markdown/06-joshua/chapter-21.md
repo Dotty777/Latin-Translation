@@ -94,7 +94,7 @@
 ## Translator Notes
 
 - **21:9** — Unlike the Hebrew Masoretic Text, which uses an unspecified plural ("they gave"), the Vulgate names Joshua as the singular subject ("Joshua gave") and maintains singular verbs in vv. 12, 13, and 27.
-- **21:21** — While v. 13 uses the singular for Hebron, the Vulgate renders "cities of refuge" in the plural here and in vv. 27, 32, 36, and 38, omitting the Hebrew qualifier "for the manslayer" that singles out only the first-named city.
+- **21:21** — While v. 13 uses the singular for Hebron, the Vulgate renders "cities of refuge" in the plural here and in vv. 27, 32, 36, and 37, omitting the Hebrew qualifier "for the manslayer" that singles out only the first-named city.
 - **21:26** — Here and in v. 34, the Vulgate renders the remaining non-priestly Levites as those "of the lower rank" (inferioris gradus), distinguishing them from the priestly sons of Aaron (cf. v. 5, "that is, the Levites who remained").
 - **21:27** — The Vulgate reads Bosram ("Bosra," matching the Septuagint Bosoran) where the Hebrew Masoretic Text has Be-eshterah.
-- **21:36** — In the Clementine Vulgate, v. 36 encompasses modern vv. 36-37 (and v. 38 encompasses vv. 38-39), includes "beyond the Jordan opposite Jericho," and lists Misor (from Hebrew mishor, "tableland/plain"), Jaser, and Jethson alongside Bezer and Mephaath where the Hebrew tradition lists Bezer, Jahaz, Kedemoth, and Mephaath.
+- **21:36** — In the Clementine Vulgate, native v. 36 encompasses Saints.Bible/Hebrew vv. 36-37 (and native v. 37 encompasses Saints.Bible/Hebrew vv. 38-39), includes "beyond the Jordan opposite Jericho," and lists Misor (from Hebrew mishor, "tableland/plain"), Jaser, and Jethson alongside Bezer and Mephaath where the Hebrew tradition lists Bezer, Jahaz, Kedemoth, and Mephaath.

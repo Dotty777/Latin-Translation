@@ -70,4 +70,4 @@
 - **41:12** — The Vulgate reads 'si nati fueritis' ('if you are born'), contrasting with the Greek 'if you multiply.'
 - **41:20** — Restored native Clementine Vulgate verse 41:20 (parallel to Saints/Greek 41:16b).
 - **41:24** — Latin 'discubitu in panibus' ('reclining on the loaves') reflects bad table manners (cf. Greek 'leaning an elbow on the bread'), while 'obfuscatione' ('obscuring' or 'darkening') is a distinctively Vulgate rendering where the Greek refers to contemptuous rudeness in receiving and giving.
-- **41:26** — The elliptical clause "and of taking away a portion and not restoring it" (native 41:26 = Saints 41:22) continues the list of shameful offenses from native 41:21-25 (Saints 41:17-21), with Vulgate "non restituendo" ("not restoring") diverging from the Greek "and a gift."
+- **41:26** — The elliptical clause "and of taking away a portion and not restoring it" (native 41:26, spanning Saints.Bible 41:22b and 41:23a) continues the list of shameful offenses from native 41:21-25 (Saints.Bible 41:17-22a), with Vulgate "non restituendo" ("not restoring") diverging from the Greek "and a gift."

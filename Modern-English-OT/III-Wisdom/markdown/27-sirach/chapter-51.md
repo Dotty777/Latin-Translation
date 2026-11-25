@@ -90,7 +90,7 @@
 - **51:12** — Restored native Clementine Vulgate verse 51:12 (continuing 51:11 = Saints 51:8).
 - **51:13** — Vulgate pro morte defluente ("because of death flowing down") reflects a Vulgate-distinct rendering of Greek rhyseos as derived from rheo ("flow") rather than rhyomai ("deliver," as in "deliverance from death").
 - **51:14** — Vulgate Dominum patrem Domini mei ("the Lord, the Father of my Lord") follows the Greek textual tradition rather than the Hebrew ("O Lord, you are my father").
-- **51:16** — Restored native Clementine Vulgate verse 51:16 (continuing 51:15 = Saints unplaced 51:11 / Greek 51:11b-12a).
+- **51:16** — Restored native Clementine Vulgate verse 51:16 (corresponding to Saints.Bible 51:11b, continuing native 51:15 = Saints.Bible 51:10b-11a).
 - **51:19** — Vulgate pro illis ("for them") is a Vulgate-distinct plural where the Greek has singular "for her" (wisdom), and effloruit ("it blossomed") supplies a finite verb rather than the Greek prepositional phrase "from the blossom."
 - **51:23** — Restored native Clementine Vulgate verse 51:23 (parallel to Saints/Greek 51:17b).
 - **51:26** — Restored native Clementine Vulgate verse 51:26 (parallel to Saints/Greek 51:19b); Latin 'insipientiam ejus' literally means "her/its foolishness (or ignorance)" (where Greek reads "my ignorances of her").

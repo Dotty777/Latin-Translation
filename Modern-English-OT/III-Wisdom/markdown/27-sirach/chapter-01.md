@@ -99,4 +99,4 @@
 - **1:21** — Vulgate "a generationibus" ("with produce," literally "from yields/generations") reflects an Old Latin rendering of Greek "genēmata" ("produce"), and the Vulgate's wording here (native 1:21; Saints 1:17) and in native 1:20 (Saints 1:16, "fullness is from her fruits") differs from the Greek.
 - **1:24** — Restored native Clementine Vulgate verse 1:24 (parallel to Saints/Greek 1:19).
 - **1:26** — Restored native Clementine Vulgate verse 1:26 (Vulgate-distinct doublet ahead of 1:32 / Saints 1:25).
-- **1:27** — Restored native Clementine Vulgate verse 1:27 (parallel to Saints/Greek 1:21).
+- **1:27** — Restored native Clementine Vulgate verse 1:27 (Vulgate/LXX-II expansion without a live Saints.Bible counterpart; absent from the short Greek text at 1:21).

@@ -74,7 +74,7 @@
 ## Translator Notes
 
 - **20:2** — The Vulgate uses a finite future verb, "will deflower" (devirginabit), where the Greek has an infinitive introducing the simile ("Like a eunuch's desire to deflower a young woman, so is...").
-- **20:4** — Restored native Clementine Vulgate verse 20:4 (parallel to Saints/Greek 20:3).
+- **20:4** — Restored native Clementine Vulgate verse 20:4 (Vulgate/LXX-II expansion following Saints.Bible 20:3, without a live Saints.Bible counterpart).
 - **20:16** — Restored native Clementine Vulgate verse 20:16 (parallel to Saints/Greek 20:15b).
 - **20:19** — Restored native Clementine Vulgate verse 20:19 (Vulgate/LXX-II expansion following 20:18 = Saints 20:17).
 - **20:20** — The Vulgate likens "the slip of a false tongue" to falling on a pavement (Lapsus falsae linguae quasi qui in pavimento cadens), whereas the Greek contrasts them ("a slip on the pavement is better than one of the tongue").

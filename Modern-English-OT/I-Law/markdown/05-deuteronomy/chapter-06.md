@@ -59,7 +59,7 @@
 
 - **6:4** — Latin 'Dominus Deus noster, Dominus unus est' uses a single verb 'est' and can be read either as "the Lord our God is one Lord" (taking 'Dominus unus' as predicate) or "the Lord our God, the Lord is one."
 - **6:8** — Latin 'eruntque et movebuntur' ("and they shall be and move") stands where the Hebrew has a rare noun for bands or frontlets; likewise, v. 9 reads 'in limine, et ostiis' ("on the threshold and the doors") rather than Hebrew "doorposts" and "gates."
-- **6:11** — Native Clementine Vulgate divides 6:11-13 separately (all mapped to Saints.Bible 6:11); note the Vulgate-distinct readings 'quas non exstruxisti' ("which you did not construct," vs. Hebrew "fill") and 'illi soli' ("Him alone," v. 13, matching the Septuagint and Matt 4:10).
+- **6:11** — Native Clementine Vulgate 6:11-12 map to Saints.Bible 6:11 and native 6:13 maps to Saints.Bible 6:12-13; note the Vulgate-distinct readings 'quas non exstruxisti' ("which you did not construct," vs. Hebrew "fill") and 'illi soli' ("Him alone," v. 13, matching the Septuagint and Matt 4:10).
 - **6:13** — Latin 'illi soli' ("Him alone") matches the Septuagint and Matt 4:10.
 - **6:16** — Latin 'in loco tentationis' ("at the place of testing") translates the Hebrew place name Massah according to its meaning.
 - **6:25** — Latin 'Eritque nostri misericors' ("And He will be merciful to us") aligns with the Septuagint in reading "mercy" where the Hebrew Masoretic Text reads "righteousness" ("it will be righteousness for us").

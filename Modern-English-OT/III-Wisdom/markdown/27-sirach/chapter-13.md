@@ -77,6 +77,6 @@
 - **13:11** — Restored native Clementine Vulgate verse 13:11 (Vulgate/LXX-II expansion following 13:10 = Saints 13:8).
 - **13:14** — Latin 'Ne retineas' renders Greek 'me epeche' and here carries the sense "do not insist on" or "do not persist in" rather than "do not hold back from."
 - **13:17** — Restored native Clementine Vulgate verse 13:17 (continuing 13:16 = Saints 13:13).
-- **13:18** — Restored native Clementine Vulgate verse 13:18 (Vulgate/LXX-II expansion at Saints 13:14).
+- **13:18** — Restored native Clementine Vulgate verse 13:18 (Vulgate/LXX-II expansion without a live Saints.Bible counterpart; absent from the short Greek text at 13:14).
 - **13:22** — Vulgate 'sancto homini ad canem' ("a holy man with a dog") and 'pars' ("share") are distinctly Vulgate readings where the Greek has "a hyena with a dog" and "peace."
 - **13:32** — Vulgate compresses the two clauses of the Greek (which link a cheerful face to a happy heart and speak of the toil of discovering proverbs) into a single statement about the difficulty of finding the trace of a good heart and a good face.

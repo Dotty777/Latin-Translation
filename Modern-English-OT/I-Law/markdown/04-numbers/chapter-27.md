@@ -54,7 +54,7 @@
 ## Translator Notes
 
 - **27:2** — Latin "tabernaculi foederis" ("tabernacle of the covenant") is the Vulgate's characteristic rendering of the Hebrew "tent of meeting."
-- **27:3** — Native Clementine Vulgate divides Zelophehad's daughters' petition and the Lord's ruling across 27:3-8 (mapped to Saints.Bible 27:3); distinctive Vulgate readings include "in the rebellion that was stirred up... under Korah," "the relatives of our father," and "to the judgment of the Lord" (v. 4).
+- **27:3** — Native Clementine Vulgate divides Zelophehad's daughters' petition and the Lord's ruling across 27:3-8 (native 27:3 maps to Saints.Bible 27:3-4, 27:4-6 to 27:5-7, and 27:7-8 to 27:8); distinctive Vulgate readings include "in the rebellion that was stirred up... under Korah," "the relatives of our father," and "to the judgment of the Lord" (v. 4).
 - **27:14** — Latin "Sin" renders Hebrew Zin (just as "Sion" renders Zion), and "aquae contradictionis" ("waters of Contention," literally "contradiction") translates the Hebrew place name Meribah.
 - **27:21** — The Vulgate states simply that Eleazar will consult the Lord "if anything is to be done," omitting the Hebrew reference to the judgment of the Urim.
 - **27:23** — Latin "capiti ejus" ("on his head") specifies where Moses laid his hands, and "replicavit" ("repeated") differs from the Hebrew "commissioned him."

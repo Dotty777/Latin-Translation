@@ -60,7 +60,7 @@
 ## Translator Notes
 
 - **35:2** — Restored native Clementine Vulgate verse 35:2 (parallel to Saints/Greek 35:1b).
-- **35:3** — Restored native Clementine Vulgate verse 35:3 (parallel to Saints/Greek 35:3); Latin 'propitiationem litare sacrificii' literally reads "to offer favorably a propitiation of sacrifice" (VulgSistina 1590 reads 'sacrificiis').
+- **35:3** — Restored native Clementine Vulgate verse 35:3 (Vulgate expansion without a separate live Saints.Bible counterpart; native 35:5 corresponds to Saints.Bible 35:3); Latin 'propitiationem litare sacrificii' literally reads "to offer favorably a propitiation of sacrifice" (VulgSistina 1590 reads 'sacrificiis').
 - **35:4** — The Vulgate makes "he who offers fine flour" the subject of the future verb "will return thanks" (Retribuet gratiam, also "repay a favor"), inverting the Greek sense in which returning a kindness is likened to offering fine flour.
 - **35:7** — Restored native Clementine Vulgate verse 35:7 (continuing 35:6 = Saints 35:4).
 - **35:12** — "With a good eye" (in bono oculo) is a biblical idiom for generosity. The following phrase literally reads "do/make the finding of your hands" (adinventionem facito manuum tuarum), where adinventio renders Greek heurema (what one's hands have gained) and facito carries the sacrificial sense of offering or presenting.

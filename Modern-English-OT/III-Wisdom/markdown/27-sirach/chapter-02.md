@@ -56,7 +56,7 @@
 - **2:1** — The clause "stand in righteousness and fear" ("sta in justitia et timore") is a Vulgate addition absent from the Greek; Latin "tentationem" ("temptation") carries the broad sense of both trial/testing and temptation.
 - **2:2** — The clause "incline your ear, and receive words of understanding" is a Vulgate addition; "obductionis" ("calamity," literally "a covering over" or "a bringing upon") is an Old Latin calque of Greek "epagōgē" ("calamity/affliction").
 - **2:3** — The opening command "Endure the delays of God" ("Sustine sustentationes Dei," literally "endure the deferrals/sustainings of God") is a Vulgate addition not present in the Greek.
-- **2:10** — Restored native Clementine Vulgate verse 2:10 (Vulgate/LXX-II expansion parallel to Saints 2:9).
+- **2:10** — Restored native Clementine Vulgate verse 2:10 (Vulgate/LXX-II expansion after Saints.Bible 2:9, without a live Saints.Bible counterpart).
 - **2:11** — Vulgate "nationes hominum" ("the nations of men") reflects an Old Latin rendering of Greek "archaias geneas" ("ancient generations") and adds "sons" ("filii"); the two rhetorical questions that follow in Greek 2:10b now stand in restored native Vulgate 2:12.
 - **2:12** — Restored native Clementine Vulgate verse 2:12 (parallel to the second half of Saints/Greek 2:10; previously claimed absent in the note on old 2:10).
 - **2:17** — Restored native Clementine Vulgate verse 2:17 (parallel to Saints/Greek 2:14b).

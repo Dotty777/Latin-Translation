@@ -64,7 +64,7 @@
 ## Translator Notes
 
 - **36:1** — The petition "and show us the light of Your mercies" (et ostende nobis lucem miserationum tuarum) is a Vulgate-distinct expansion absent from the standard Septuagint text.
-- **36:2** — Restored native Clementine Vulgate verse 36:2 (continuing 36:1 = Saints 36:1-2).
+- **36:2** — Restored native Clementine Vulgate verse 36:2 (continuing 36:1; together native 36:1-2 correspond to Saints.Bible 36:1, while native 36:3 maps to Saints.Bible 36:2).
 - **36:6** — Latin immuta literally means "change" or "alter," following the Greek rendering of a Hebrew verb that can mean either "repeat" or "make different," here conveying the sense of working fresh, varied wonders.
 - **36:7** — Restored native Clementine Vulgate verse 36:7 (parallel to Saints/Greek 36:5b).
 - **36:9** — Restored native Clementine Vulgate verse 36:9 (parallel to Saints/Greek 36:6b).

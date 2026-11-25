@@ -85,7 +85,7 @@
 - **25:10** — Restored native Clementine Vulgate verse 25:10 (continuing 25:9 = Saints 25:7).
 - **25:12** — The Vulgate distinctively reads amicum verum ("a true friend"), whereas the Greek text reads "prudence" (phronesin).
 - **25:15** — Restored native Clementine Vulgate verse 25:15 (Vulgate/LXX-II expansion following 25:14 = Saints 25:11).
-- **25:16** — Restored native Clementine Vulgate verse 25:16 (Vulgate/LXX-II expansion at Saints 25:12).
+- **25:16** — Restored native Clementine Vulgate verse 25:16 (Vulgate/LXX-II expansion without a live Saints.Bible counterpart; absent from the short Greek text at 25:12).
 - **25:17** — Restored native Clementine Vulgate verse 25:17 (Vulgate doublet ahead of 25:18 = Saints 25:13).
 - **25:18** — The Latin adds the finite verb videbit ("he will see") to resolve the elliptical construction ("every wound, yet not a wound of the heart"); in native 25:20 (Saints 25:14), rare Late Latin obductum ("affliction") calques Greek epagoge.
 - **25:19** — Restored native Clementine Vulgate verse 25:19 (continuing 25:18 = Saints 25:13b).

@@ -80,5 +80,5 @@
 - **33:14** — Restored native Clementine Vulgate verse 33:14 (parallel to Saints/Greek 33:13b).
 - **33:21** — Vulgate reads third-person indicative "non immutabit te omnis caro" (lit. "all flesh will not change you"), differing from the Greek imperative "do not exchange yourself for any flesh."
 - **33:26** — Vulgate reads "Operatur in disciplina, et quaerit requiescere" ("He works under discipline and seeks to rest"), reflecting a distinct reading from the Greek imperative "Make a slave work, and you will find rest."
-- **33:29** — Restored native Clementine Vulgate verse 33:29 (parallel to Saints/Greek 33:27b).
-- **33:33** — Restored native Clementine Vulgate verse 33:33 (continuing 33:32 = Saints 33:32b).
+- **33:29** — Restored native Clementine Vulgate verse 33:29 (corresponding to Saints.Bible 33:28b; native 33:28-29 cover Saints.Bible 33:27-28).
+- **33:33** — Restored native Clementine Vulgate verse 33:33 (continuing 33:32; together native 33:32-33 correspond to Saints.Bible 33:33).

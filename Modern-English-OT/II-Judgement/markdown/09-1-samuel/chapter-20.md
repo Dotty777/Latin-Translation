@@ -98,4 +98,4 @@
 - **20:15** — The Vulgate subjunctive clause auferat Jonathan de domo sua, et requirat Dominus ("may He remove Jonathan from his house, and may the Lord require it") treats Jonathan as the direct object of the Lord's action, diverging in syntax and verse division from the Hebrew Masoretic Text.
 - **20:19** — The Vulgate renders the workday reference explicitly as in die qua operari licet ("on the day when it is lawful to work").
 - **20:30** — The Vulgate renders Saul's insult as Fili mulieris virum ultro rapientis ("Son of a woman who of her own accord seizes a man") and ignominiosae matris tuae ("of your disgraceful mother"), differing from the Hebrew Masoretic Text ("son of a perverse, rebellious woman ... shame of your mother's nakedness").
-- **20:43** — The Vulgate numbers this verse 20:43 and the remaining verses of chapter 21 one lower than here.
+- **20:43** — Native Clementine Vulgate numbers this verse 20:43 (mapped to Saints.Bible 21:1), and native 21:1-15 correspond to Saints.Bible 21:2-16 (one verse lower in Vulgate chapter 21).

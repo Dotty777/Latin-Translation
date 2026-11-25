@@ -86,6 +86,6 @@
 ## Translator Notes
 
 - **10:1** — Latin Athersatha ("the Tirshatha") transliterates the Persian title hattirshata ('the governor'), borne by Nehemiah (cf. Neh 8:9).
-- **10:27** — The Vulgate reads Haran here, whereas the Hebrew text reads Harim (cf. Harem in v. 6).
+- **10:27** — The Vulgate reads Haran here, whereas the Hebrew text reads Harim (cf. Harem in v. 5).
 - **10:29** — The Vulgate renders this clause distinctively as 'pledging on behalf of their brothers' (spondentes pro fratribus suis) and 'to promise and to swear' (ad pollicendum et jurandum), where the Hebrew reads 'joining with their brothers' and 'entering into a curse and an oath.'
 - **10:39** — The Vulgate lists four distinct groups in the order 'priests, singers, gatekeepers, and ministers' (et ministri), separating the Hebrew participle ha-mesharetim ('who minister') from the priests.

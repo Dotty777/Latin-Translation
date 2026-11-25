@@ -59,7 +59,7 @@
 
 ## Translator Notes
 
-- **42:1** — Restored native Clementine Vulgate verse 42:1 (combining Saints.Bible 41:23 and 42:1), replacing the prior empty-alignment placeholder. Vulgate "sine confusione" ("without shame") differs from the Greek "truly modest," and the closing prohibition continues directly into 42:2.
+- **42:1** — Restored native Clementine Vulgate verse 42:1 (combining Saints.Bible 41:26, 41:27, and 42:1), replacing the prior empty-alignment placeholder. Vulgate "sine confusione" ("without shame") differs from the Greek "truly modest," and the closing prohibition continues directly into 42:2.
 - **42:2** — This verse continues the sentence begun at the end of native Vulgate 42:1 (Saints 41:23, 'Do not be ashamed...'). The phrase 'of judgment to justify the ungodly' translates Latin 'de judicio justificare impium' literally and is debated, often understood as giving even an ungodly person a fair verdict when innocent.
 - **42:8** — Vulgate 'senioribus qui judicantur ab adolescentibus' ('elderly men who are judged by young men') is a distinctively Latin reading where the Greek speaks of an aged man accused of or contending over sexual immorality.
 - **42:13** — The Vulgate reads 'iniquitas viri' ('a man's wickedness'), whereas the Greek reads 'a woman's wickedness.'

@@ -77,7 +77,7 @@
 - **27:5** — The Vulgate reads pulvis ("dust") and the Greek loanword aporia ("perplexity" or "distress"), whereas the Greek Septuagint reads "refuse" and "rubbish."
 - **27:9** — Latin poderem denotes a foot-length priestly robe. The entire second half of the verse ("and you will dwell with her... find a firm support") is a Vulgate expansion from the Old Latin tradition absent from the shorter Greek text.
 - **27:12** — The Vulgate reads Homo sanctus in sapientia manet sicut sol ("A holy man remains in wisdom like the sun"), whereas the Greek Septuagint reads "The discourse of a godly person is always wisdom."
-- **27:19** — Restored native Clementine Vulgate verse 27:19 (parallel to Saints/Greek 27:16-17).
+- **27:19** — Restored native Clementine Vulgate verse 27:19 (corresponding to Saints.Bible/Greek 27:17b; native 27:18-19 split Saints.Bible 27:17).
 - **27:20** — The Vulgate reads amicum suum ("his friend") and third-person qui perdit ("the one who loses"), whereas the Greek Septuagint reads "his enemy" (or "a dead man") and addresses the reader in the second person.
 - **27:23** — Following the added clause at the end of native Vulgate 27:22 (Saints 27:20), the Vulgate negates the opening clause ("you will no longer be able to bind him up," vs. Greek "a wound can be bound up"); the closing clause about revealing a friend's secrets now stands in restored native Vulgate 27:24.
 - **27:24** — Restored native Clementine Vulgate verse 27:24 (parallel to Saints/Greek 27:21b; previously claimed omitted in the note on old 27:21).

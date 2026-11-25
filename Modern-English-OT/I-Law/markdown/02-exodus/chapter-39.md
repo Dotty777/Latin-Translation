@@ -93,7 +93,7 @@
 
 ## Translator Notes
 
-- **39:1** — Native Clementine Vulgate Exodus 39:1-31 narrates the priestly garments (mapped to Saints.Bible 36:8-38). The Latin uses singular 'fecit' ("he made") through v. 14 before shifting to plural 'fecerunt' ("they made") in v. 15.
+- **39:1** — Native Clementine Vulgate Exodus 39:1-30 narrates the priestly garments (mapped to Saints.Bible 36:8-38; native 39:31 transitions to the tabernacle completion and maps to Saints.Bible 39:10). The Latin uses singular 'fecit' ("he made") through v. 14 before shifting to plural 'fecerunt' ("they made") in v. 15.
 - **39:2** — Latin 'superhumerale' (literally "over-shoulder garment") renders the Hebrew 'ephod', and 'cocco bis tincto' ("twice-dyed scarlet," cf. v. 8) reflects an ancient reading of Hebrew 'shani' as "double."
 - **39:8** — Latin 'rationale' (reflecting Greek 'logeion', "oracle-piece" or "piece of reason") denotes the high priest's breastpiece. In vv. 10-13, the Vulgate's names for the gems follow the Greek tradition rather than the Hebrew (for example, 'jaspis' in row two and 'beryllus' in row four, where the Hebrew has jasper last).
 - **39:24** — The clause "with which the high priest walked adorned when he performed his ministry" ('quibus ornatus incedebat pontifex quando ministerio fungebatur') is a distinctive Vulgate expansion of the briefer Hebrew phrase ("for ministering").
