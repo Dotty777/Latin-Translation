@@ -1,7 +1,7 @@
 {
   "schema_version": "pass2_coverage_v1",
   "language": "latin",
-  "stage": "Stage 2 Pass 2 + Pass 3/3B — Verified Latin Source-Language Fidelity, Standalone Clarity & Bounce-Back Resolution",
+  "stage": "Stage 2 Pass 2 + Pass 3/3B + Pass 3.5 — Verified Latin Source-Language Fidelity, Standalone Clarity & Blind AI Peer Review Closure",
   "branch": "review/2026-11-24-literal-smooth",
   "lat_base_sha": "5261e1b66c1a076e5618ab852515b419cc7fc0be",
   "lat_pass2_text_sha": "892d426f11a58bf1ece448c9e86a4829f78a0399",
@@ -42,7 +42,14 @@
     "pass3_bounceback_approved": 29,
     "pass3_bounceback_modified_approved": 5,
     "pass3_bounceback_rejected": 0,
-    "pass3_bounceback_escalated": 0
+    "pass3_bounceback_escalated": 0,
+    "pass35_blind_sample_size": 40,
+    "pass35_verified_faithful": 37,
+    "pass35_flagged": 3,
+    "pass35_unverified": 0,
+    "pass35_direct_fixes_applied": 3,
+    "pass35_pattern_expansion_fixes_applied": 7,
+    "pass35_total_fixes_applied": 10
   },
   "no_counterpart_in_adopted_source": [
     {
@@ -1817,5 +1824,7 @@
     }
   ],
   "lat_pass3a_sha": "301d7f18b25dae009ee8fcf302c9d110dcde3635",
-  "lat_pass3b_text_sha": "e99f55b0588da2c73eb7e13ad633d172cdb18ca6"
+  "lat_pass3b_text_sha": "e99f55b0588da2c73eb7e13ad633d172cdb18ca6",
+  "lat_pass35_reviewed_sha": "f974b724c5afaf141da254bd86877c9da1a8da46",
+  "lat_post_p35_text_sha": "1f05ad75056d768afa4233f907416fcfc7165271"
 }

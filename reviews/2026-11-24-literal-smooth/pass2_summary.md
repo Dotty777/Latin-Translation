@@ -73,3 +73,15 @@ Every single one of the **1,035** proposals (`LAT-P1-0001` through `LAT-P1-1035`
 - **Post-Pass-3B Corpus Totals:** `70/70` books, `1,298/1,298` native Vulgate chapters & synced chapter MDs, `34,952/34,952` verses (`verified=34,873`, `disputed=79`, `unverified=0`), `6,594` translator notes (`-3` stale/misplaced notes removed at `Dan 3:99`, `Dan 3:100`, `Acts 7:56`), `0` non-Job quote-stack errors, `0` cross-verse period-to-lowercase glitches, `0` unpunctuated `?`/`! says the Lord` glitches, `0` schema/sync errors.
 - **Bounce-Back Verdicts Log:** `reviews/2026-11-24-literal-smooth/pass3_bounceback_verdicts.jsonl`
 
+## 7. Stage 2 Pass 3.5 Blind AI Peer Review & Pattern-Expansion Closure
+- **Blind Sample Evaluated (`40` verified passages at `f974b724c5afaf141da254bd86877c9da1a8da46`):** `37/40 verified_faithful`, `3 flagged` (`LAT-P35-28` Neh 4:6, `LAT-P35-30` Ezek 26:2, `LAT-P35-40` Mark 7:16), `0 unverified`, `2 recurring patterns`.
+- **Post-Pass-3.5 Applied SHA (`LAT_POST_P35_TEXT_SHA`):** `1f05ad75056d768afa4233f907416fcfc7165271` (`10` verified fixes across `5` book JSONs and `9` chapter MDs: `3` direct flags + `7` Pattern 1/2 corpus-wide expansion fixes; `0` new escalations).
+- **Direct Flag Resolutions (`3/3 approved & applied`):**
+  - `LAT-P35-28` (`Neh 4:6`): Removed unsupported `"height"` (`usque ad partem dimidiam` -> `"up to half of it"`) with explanatory gloss.
+  - `LAT-P35-30` (`Ezek 26:2`): Restored passive voice (`conversa est ad me` -> `"she has been turned to me"`, matching passive `Isa 60:5`).
+  - `LAT-P35-40` (`Mark 7:15-16`): Moved premature closing quotation mark from `7:15` to `7:16` so Vulgate-present `7:16` stays inside Jesus's speech.
+- **Charter Pattern-Expansion Sweeps (`7` additional verified fixes applied):**
+  - **Pattern 1 (Vulgate-present / promoted verses detached from direct speech):** Audited all 15 named Vulgate-present NT verses, all 290 pre-Pass-2 `unplaced` verses, and all 467 restored verses; caught and fixed `Mark 11:25-26` (exact NT clone of `Mark 7:15-16`), `Mark 9:42-45` (joined Vulgate-present refrains `9:43, 9:45` with commas matching Latin & `9:46-47`), `Jer 33:24-26`, `Jer 51:44-48`, `Ezek 33:25-26`, plus stale note `Acts 24:8`.
+  - **Pattern 2 (Passive `convers* est/sunt ad` & non-Vulgate lexical additions):** Audited all 16 `convers* est/sunt ad` loci corpus-wide + 14 Prophets `convers*` loci (`Ezek 26:2` was the sole agency shift) and all 15 `dimidi* part*` + 467 restored dimension loci (`Neh 4:6` was the sole unsupported addition; also updated stale refs in note `Neh 4:2`).
+- **Response Log:** `reviews/2026-11-24-literal-smooth/pass35_ai_peer_review_response.jsonl` (`12` records: `10` fixes + `2` full-corpus sweep audits).
+
