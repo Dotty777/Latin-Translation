@@ -5,7 +5,7 @@
 
 ## Text
 
-**11:1** Now King Solomon deeply loved many foreign women, the daughter of Pharaoh as well, and Moabite, Ammonite, Edomite, Sidonian, and Hittite women,
+**11:1** Now King Solomon deeply loved many foreign women, the daughter of Pharaoh as well, and Moabite, Ammonite, Edomite, Sidonian, and Hittite women.
 
 **11:2** From the nations concerning which the Lord said to the sons of Israel, "You shall not go in to them, nor shall any of them go in to your women, for most certainly they will turn your hearts away so that you follow their gods"—to these, therefore, Solomon was joined with the most ardent love.
 

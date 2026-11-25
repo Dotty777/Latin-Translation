@@ -21,7 +21,7 @@
 
 **3:8** He who fears the Lord honors his parents, and will serve as masters those who brought him forth.
 
-**3:9** In deed, and speech, and all patience, honor your father.
+**3:9** In deed, and speech, and all patience, honor your father,
 
 **3:10** so that a blessing from him may come upon you, and his blessing may remain at the end.
 

@@ -15,7 +15,7 @@
 
 **37:5** and which he put into the rings that were on the sides of the ark to carry it.
 
-**37:6** He also made the mercy seat, that is, the oracle, of the purest gold, two and a half cubits in length and a cubit and a half in width.
+**37:6** He also made the mercy seat, that is, the oracle, of the purest gold, two and a half cubits in length and a cubit and a half in width;
 
 **37:7** also two cherubim of hammered gold, which he placed on each side of the mercy seat:
 
@@ -33,7 +33,7 @@
 
 **37:14** opposite the crown; and he put poles into them so that the table could be carried.
 
-**37:15** The poles themselves he also made of acacia wood, and overlaid them with gold.
+**37:15** The poles themselves he also made of acacia wood, and overlaid them with gold;
 
 **37:16** and the vessels for the various uses of the table: dishes, bowls, cups, and censers, of pure gold, in which the drink offerings are to be offered.
 

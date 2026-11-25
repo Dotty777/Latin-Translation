@@ -85,7 +85,7 @@
 
 **39:40** the hanging at the entrance of the courtyard, and its cords and pegs. Nothing was lacking of the vessels that were ordered to be made for the service of the tabernacle and for the tent of the covenant.
 
-**39:41** the garments also that the priests use in the sanctuary, namely, Aaron and his sons,
+**39:41** The garments also that the priests use in the sanctuary, namely, Aaron and his sons,
 
 **39:42** the sons of Israel presented, just as the Lord had commanded.
 

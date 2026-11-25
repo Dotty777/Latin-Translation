@@ -7,7 +7,7 @@
 
 **1:1** In the days of Ahasuerus, who reigned from India to Ethiopia over one hundred twenty-seven provinces,
 
-**1:2** When he sat on the throne of his kingdom, the city of Susa was the beginning of his kingdom.
+**1:2** when he sat on the throne of his kingdom, the city of Susa was the beginning of his kingdom.
 
 **1:3** Therefore, in the third year of his reign, he held a great banquet for all his princes and attendants, the mightiest of the Persians and the renowned of the Medes, and the governors of the provinces before him,
 

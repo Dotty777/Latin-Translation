@@ -7,11 +7,11 @@
 
 **32:1** Have they appointed you leader? Do not exalt yourself; be among them like one of them.
 
-**32:2** Take care of them, and then sit down; and when all your care has been completed, recline.
+**32:2** Take care of them, and then sit down; and when all your care has been completed, recline,
 
 **32:3** so that you may rejoice on their account, and receive a crown as an ornament of grace, and obtain the esteem of the gathering.
 
-**32:4** Speak, you who are older, for it is fitting for you.
+**32:4** Speak, you who are older, for it is fitting for you,
 
 **32:5** the first word with careful knowledge, and do not hinder the music.
 
@@ -47,7 +47,7 @@
 
 **32:21** A sinful person will avoid correction, and according to his will he will find a comparison.
 
-**32:22** A man of counsel will not destroy understanding; a stranger and a proud man will not dread fear.
+**32:22** A man of counsel will not destroy understanding; a stranger and a proud man will not dread fear,
 
 **32:23** even after he has acted with him without counsel, and he will be convicted by his own pursuits.
 

@@ -15,7 +15,7 @@
 
 **51:5** from the hands of those seeking my soul, and from the gates of the tribulations that surrounded me;
 
-**51:6** From the pressure of the flame that surrounded me, and in the middle of the fire I was not scorched;
+**51:6** from the pressure of the flame that surrounded me, and in the middle of the fire I was not scorched;
 
 **51:7** from the depth of the belly of the underworld, and from a defiled tongue, and from a word of falsehood, from a wicked king, and from an unjust tongue.
 

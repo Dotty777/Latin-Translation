@@ -47,7 +47,7 @@
 
 **44:21** In his flesh he made the covenant stand, and in testing he was found faithful.
 
-**44:22** Therefore with an oath He gave him glory in his nation, that he would increase like a heap of earth.
+**44:22** Therefore with an oath He gave him glory in his nation, that he would increase like a heap of earth,
 
 **44:23** and to exalt his seed like the stars, and to give them an inheritance from sea to sea, and from the river to the ends of the earth.
 

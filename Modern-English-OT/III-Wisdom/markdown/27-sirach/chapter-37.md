@@ -33,7 +33,7 @@
 
 **37:14** with a yearly laborer about the completion of the year, with a lazy slave about much work. Pay no attention to these in any counsel;
 
-**37:15** but be continually with a holy man, whomever you know to be observing the fear of God.
+**37:15** but be continually with a holy man, whomever you know to be observing the fear of God,
 
 **37:16** whose soul is according to your soul, and who, when you stumble in darkness, will grieve with you.
 

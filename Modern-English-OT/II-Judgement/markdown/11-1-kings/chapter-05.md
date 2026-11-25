@@ -37,7 +37,7 @@
 
 **5:16** besides the overseers who were in charge of the individual works, three thousand three hundred in number, commanding the people and those who were doing the work.
 
-**5:17** And the king commanded that they take great stones, costly stones for the foundation of the temple, and square them;
+**5:17** And the king commanded that they take great stones, costly stones for the foundation of the temple, and square them.
 
 **5:18** These the masons of Solomon and the masons of Hiram hewed; moreover, the Gebalites prepared timber and stones for building the house.
 

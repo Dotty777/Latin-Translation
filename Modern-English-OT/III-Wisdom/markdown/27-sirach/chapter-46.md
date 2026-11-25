@@ -5,7 +5,7 @@
 
 ## Text
 
-**46:1** Mighty in war was Joshua son of Nave, successor of Moses among the prophets, who was great according to his name.
+**46:1** Mighty in war was Joshua son of Nave, successor of Moses among the prophets, who was great according to his name,
 
 **46:2** greatest for the salvation of the chosen of God, to conquer the enemies rising up, so that he might obtain the inheritance of Israel.
 

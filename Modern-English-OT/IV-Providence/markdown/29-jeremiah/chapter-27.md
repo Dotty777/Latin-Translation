@@ -17,7 +17,7 @@
 
 **27:6** And now therefore I have given all these lands into the hand of Nebuchadnezzar king of Babylon, My servant; moreover, I have also given him the beasts of the field, that they may serve him.
 
-**27:7** and all the nations will serve him, and his son, and his son's son, until the time of his land and of himself comes; and many nations and great kings will serve him.
+**27:7** And all the nations will serve him, and his son, and his son's son, until the time of his land and of himself comes; and many nations and great kings will serve him.
 
 **27:8** But as for the nation and kingdom that will not serve Nebuchadnezzar king of Babylon, and whoever will not bend his neck under the yoke of the king of Babylon, I will visit that nation with the sword, and with famine, and with pestilence, says the Lord, until I consume them by his hand.
 

@@ -31,7 +31,7 @@
 
 **10:13** Yet we will not boast beyond measure, but according to the measure of the rule by which God has measured to us, a measure of reaching all the way to you.
 
-**10:14** For we do not overextend ourselves as though not reaching to you, for we arrived all the way to you in the gospel of Christ.
+**10:14** For we do not overextend ourselves as though not reaching to you, for we arrived all the way to you in the gospel of Christ,
 
 **10:15** not boasting beyond measure in others' labors, yet having hope of your growing faith, to be magnified among you according to our rule to abundance,
 

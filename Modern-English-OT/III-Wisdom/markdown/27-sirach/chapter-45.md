@@ -23,7 +23,7 @@
 
 **45:9** and He encircled him with a sash of glory, and clothed him in a robe of glory, and crowned him with instruments of strength.
 
-**45:10** He placed on him a foot-length robe, and undergarments, and a shoulder garment, and surrounded him with very many golden bells all around.
+**45:10** He placed on him a foot-length robe, and undergarments, and a shoulder garment, and surrounded him with very many golden bells all around,
 
 **45:11** to give a sound in his walking, to make a sound heard in the temple as a memorial for the children of his nation.
 

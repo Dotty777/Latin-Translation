@@ -5,11 +5,11 @@
 
 ## Text
 
-**41:1** O death, how bitter is the memory of you for a man who has peace in his possessions!
+**41:1** O death, how bitter is the memory of you for a man who has peace in his possessions,
 
 **41:2** for a man at rest, whose ways are straight in all things, and who is still strong enough to take food!
 
-**41:3** O death, your judgment is good for a man in need and for one who is diminished in strength.
+**41:3** O death, your judgment is good for a man in need and for one who is diminished in strength,
 
 **41:4** worn out by age, and who has anxiety about everything, and disbelieving, who loses patience!
 
