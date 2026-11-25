@@ -1,103 +1,145 @@
 {
-  "schema_version": "latin_contextual_review_ledger_v1",
+  "schema_version": "2.0-strict-5tier-evidence-reconciliation",
+  "generated_on": "2026-11-25T11:32:53Z",
   "edition": "latin",
-  "source_edition": "Clem1598-USFX (Saints-Latin-Critical-Text @ 5261e1b6 / CTS a0d022c1)",
-  "revisions": {
-    "pre_stage1_main": "2fe6fcad6beccf73e38f7fe96d8268f49e109ccd",
-    "stage1_ct_sync": "5261e1b66c1a076e5618ab852515b419cc7fc0be",
-    "pass2_text_sha": "892d426f11a58bf1ece448c9e86a4829f78a0399",
-    "pass3a_sha": "301d7f18b25dae009ee8fcf302c9d110dcde3635",
-    "pass3b_sha": "e99f55b0588da2c73eb7e13ad633d172cdb18ca6",
-    "pass35_reviewed_sha": "f974b724c5afaf141da254bd86877c9da1a8da46",
-    "pass35_applied_sha": "1f05ad75056d768afa4233f907416fcfc7165271",
-    "pass4_text_sha": "1fc8f0c3c90dd121cc83329b9d5ffdc7b6144cda",
-    "pre_followup_head": "fef22eddb76c72c6be133a9b144159de3ed8eda6",
-    "final_text_and_notes_sha": "194da4efff48ae46fedee5a58924b684f37c683d"
+  "source_corpus": "Saints-Latin-Critical-Text (Studio v10 Stage 1 `a0d022c1`, `Clem1598-USFX`, 70 books / 1,298 ch / 34,952 native Vulgate vv)",
+  "studio_db_snapshot": {
+    "path": "C:\\Users\\penna\\Documents\\Saints Website Repository\\Saints-Critical-Text-Studio\\data\\studio.db",
+    "seed_version": 10,
+    "size_bytes": 845193216,
+    "sha256": "23f39dbdcbc4599b1ed783bfce8a0b6268610e5dde6c200e114057798e64761d"
   },
-  "ledger_row_count_deduped_per_pass": 4916,
-  "ledger_rows_by_pass": {
-    "pre-stage1-verse-review": 1157,
-    "pass1-fidelity": 1041,
-    "pass2-peer": 1057,
-    "pass3-standalone-flow": 1266,
-    "pass3b-peer": 40,
-    "pass35-blind-ai-peer-review": 40,
-    "pass35-peer-response": 36,
-    "pass4-reconciliation": 126,
-    "pass4-peer": 17,
-    "followup-mapping-audit": 136
+  "pinned_text_and_mapping_sha": "42be68737054f05e3aff49aa9b64a27841b7f120",
+  "revision_chain": "`2fe6fcad` → `5261e1b6` → `892d426f` → `301d7f18` → `e99f55b0` → `f974b724` → `1f05ad75` → `907f6d85` → `1fc8f0c3` → `fef22edd` → `194da4ef` → `42be6873` (0 Bible text/note/mapping changes in evidence reconciliation)",
+  "classification_standard": {
+    "unique_key": "edition + book + native_ref",
+    "strongest_level_hierarchy": [
+      "full_source_in_context_read",
+      "targeted_evidence (note_check, mapping_check, isolated_wording_check)",
+      "english_only_read",
+      "automated_screening_only",
+      "insufficient_evidence"
+    ],
+    "carry_forward_rule": "An earlier read supports the final revision ONLY after programmatically confirming that the reviewed adopted source text, English text, and relevant surrounding context (±2 native verses / exact Pass 3.5 blind packet context; plus attached note for note checks and placement for mapping checks) match final HEAD byte-for-byte.",
+    "batch_and_range_rule": "Batch scans, edition-wide sweeps, zero-change book claims, and unexpanded multi-verse issue-title ranges are strictly excluded from per-verse credit.",
+    "editorial_status_separation": "Editorial statuses (verified, disputed, awaiting_human_signoff) are preserved separately and never merged into evidence depth counts."
   },
-  "corpus_coverage_totals": {
-    "books": 70,
-    "source_total": 34952,
-    "documented_contextual_read": 3171,
-    "documented_contextual_read_breakdown": {
-      "source_checked_contextual_read": 2334,
-      "english_only_standalone_read_only": 837,
-      "pre_followup_documented_contextual_read": 3133,
-      "pre_followup_source_checked_contextual_read": 2265
+  "deduplication_summary": {
+    "raw_citations_ingested": 4916,
+    "deduplicated_citations_retained": 4916,
+    "duplicate_citations_removed": 0,
+    "removed_or_non_adopted_historical_refs": 0
+  },
+  "evidence_totals": {
+    "full_source_in_context_read": 40,
+    "full_supports_final": 37,
+    "full_historical_only": 3,
+    "full_whole_chapter_final": 37,
+    "targeted_evidence": 2294,
+    "targeted_supports_final": 2175,
+    "targeted_historical_only": 119,
+    "targeted_note_check": 1152,
+    "targeted_mapping_check": 347,
+    "targeted_isolated_wording_check": 1556,
+    "targeted_overlap_2plus": 662,
+    "targeted_note_and_map_overlap": 207,
+    "targeted_venn": {
+      "map": 88,
+      "map+word": 52,
+      "note": 542,
+      "note+map": 108,
+      "note+map+word": 99,
+      "note+word": 403,
+      "word": 1002
     },
+    "english_only_read": 837,
+    "english_only_supports_final": 833,
+    "english_only_historical_only": 4,
     "automated_screening_only": 31781,
     "insufficient_evidence": 0,
-    "invariant_sum_equals_source_total": true
+    "editorial_verified": 34873,
+    "editorial_disputed": 79
   },
-  "editorial_statuses_strictly_separate": {
-    "note": "Editorial statuses reflect Pass 2-4 completion/escalation tracking in pass2_coverage.json and MUST NOT be conflated with individually documented contextual reading coverage.",
-    "verified": 34873,
-    "disputed": 79,
-    "awaiting_human_signoff": 79,
-    "no_counterpart_saints_side": [
-      "Psalm 151 (7 verses)",
-      "Exodus 39:2 (partial_correspondence only, no full-verse Vulgate match)"
-    ]
+  "gross_checks_corpus_wide": {
+    "full_also_any_targeted": 13,
+    "full_also_eng_only": 5,
+    "full_also_mapping_check": 5,
+    "full_also_note_check": 10,
+    "full_also_wording_check": 11,
+    "gross_eng": 1266,
+    "gross_map": 352,
+    "gross_note": 1162,
+    "gross_note_and_map": 211,
+    "gross_word": 1567,
+    "targeted_also_eng_only": 424
   },
-  "unattributed_aggregate_claims": [
+  "reclassification_from_previous_ledger": {
+    "transitions": {
+      "old_auto_only -> automated_screening_only": 31781,
+      "old_doc_src_ctx -> full_source_in_context_read": 40,
+      "old_doc_src_ctx -> targeted_evidence": 2294,
+      "old_p3_eng_only -> english_only_read": 837
+    },
+    "pruned_invalid_old_records": {}
+  },
+  "by_pass_unique_verses": {
+    "followup-mapping-audit | targeted_evidence": 136,
+    "pass1-fidelity | targeted_evidence": 1041,
+    "pass2-peer | targeted_evidence": 1057,
+    "pass35-peer-response | targeted_evidence": 36,
+    "pass3b-peer | targeted_evidence": 40,
+    "pass4-peer | targeted_evidence": 17,
+    "pass4-reconciliation | targeted_evidence": 126,
+    "pre-stage1-verse-review | targeted_evidence": 1157,
+    "stage2-pass3-standalone-flow | english_only_read": 1266,
+    "stage2_pass35_blind_ai_peer_review | full_source_in_context_read": 40
+  },
+  "unassigned_or_batch_claims": [
     {
-      "claim_id": "LAT-AGG-01",
-      "source_file": "corrections/2026-11-24-modern-english-fidelity/README.md",
-      "revision": "2fe6fcad6beccf73e38f7fe96d8268f49e109ccd",
+      "id": "LAT-AGG-01",
+      "source": "corrections/2026-11-24-modern-english-fidelity/README.md",
       "claimed_count": 34363,
-      "description": "Pre-Stage-1 README reports 79 parallel reviewers checked 34,070 canonical + 293 unplaced verses, but individual per-verse logs exist ONLY for the 1,218 changed 'verse-review' rows in wording-changes.jsonl (348 'edition-wide' batch sweep rows are automated consistency edits, not contextual reads). Unchanged verses without per-verse logs remain in automated_screening_only."
+      "reason": "No per-verse log for unchanged verses; 348 edition-wide consistency/note batch rows strictly excluded."
     },
     {
-      "claim_id": "LAT-AGG-02",
-      "source_file": "reviews/2026-11-24-literal-smooth/pass1_summary.md & pass1_coverage.json",
-      "revision": "5261e1b66c1a076e5618ab852515b419cc7fc0be",
+      "id": "LAT-AGG-02",
+      "source": "pass1_summary.md & pass1_proposals.jsonl",
       "claimed_count": 34952,
-      "description": "Pass 1 reports auditing all 34,952 adopted Clem1598-USFX verses (including 687 Genesis diffs, 33 length outliers, 137 negation mismatches, and 50 broad structural native_order_mapping/punctuation_policy range rows in pass1_proposals.jsonl such as Job 13:1-31:40, Sir 30:1-36:28, Jer 25:15-51:64). Only individually named/quoted verses are counted in documented_contextual_read; unenumerated verses remain in automated_screening_only."
+      "reason": "Programmatic sweeps (687 Genesis diffs, 33 length outliers, 137 negations) and 50 bulk structural range rows (kept anchor-only; bulk ranges unexpanded)."
     },
     {
-      "claim_id": "LAT-AGG-03",
-      "source_file": "reviews/2026-11-24-literal-smooth/pass2_summary.md & pass2_coverage.json",
-      "revision": "892d426f11a58bf1ece448c9e86a4829f78a0399",
+      "id": "LAT-AGG-03",
+      "source": "pass2_summary.md & pass2_coverage.json",
       "claimed_count": 34952,
-      "description": "Pass 2 reports 34,873 verified + 79 disputed = 34,952 across 70 books. Individual peer-review evidence exists for the 1,035 pass2_verdicts.jsonl entries (single-verse + explicit small ranges + anchor verses) and 24 explicitly named bonus/boundary catches; the remaining unchanged verses have no per-verse read log and remain in automated_screening_only."
+      "reason": "Editorial status totals (34,873 verified / 79 disputed) kept strictly separate from reading evidence."
     },
     {
-      "claim_id": "LAT-AGG-04",
-      "source_file": "reviews/2026-11-24-literal-smooth/pass3_summary.md",
-      "revision": "301d7f18b25dae009ee8fcf302c9d110dcde3635",
+      "id": "LAT-AGG-04",
+      "source": "pass3_summary.md",
       "claimed_count": 34952,
-      "description": "Pass 3 ran full-corpus automated typography, archaism, spelling, and quotation-stack sweeps over 34,952 verses / 6,597 notes, plus standalone English-only contextual reads of 41 explicitly named chapters (§3) and 54 Bucket A/B items + named boundary loci (§2). Only those explicitly named chapters/loci enter documented_contextual_read (tagged standalone_english_only); the remaining corpus is automated_screening_only."
+      "reason": "Full-corpus programmatic typography/quote sweeps; only 41 explicitly named chapters + Bucket A/B items enter english_only_read."
     },
     {
-      "claim_id": "LAT-AGG-05",
-      "source_file": "reviews/2026-11-24-literal-smooth/pass35_ai_peer_review_response.jsonl#LAT-P35-SWEEP-01,LAT-P35-SWEEP-02",
-      "revision": "1f05ad75056d768afa4233f907416fcfc7165271",
+      "id": "LAT-AGG-05",
+      "source": "pass35_ai_peer_review_response.jsonl#LAT-P35-SWEEP-01,02",
       "claimed_count": 802,
-      "description": "Pass 3.5 pattern-expansion sweep logs cite aggregate sets (290 pre-Pass-2 unplaced, 467 restored verses, 16 convers* est/sunt ad, 14 Prophets convers*, 15 dimidi* part*) without per-verse logs for unchanged items. Only the 40 blind samples, 10 verified fix records, 15 named NT Vulgate loci, and Isa 60:5 enter documented_contextual_read."
+      "reason": "Unenumerated pattern sweeps (290 unplaced, 467 restored, 16+14+15 phrase checks); only specifically named fixes and 16 named loci enter targeted_evidence."
     },
     {
-      "claim_id": "LAT-AGG-06",
-      "source_file": "scratch/reconciliation/pass4_summary.md & reviews/2026-11-24-literal-smooth/pass2_summary.md#§8",
-      "revision": "1fc8f0c3c90dd121cc83329b9d5ffdc7b6144cda",
+      "id": "LAT-AGG-06",
+      "source": "pass4_summary.md & pass4_bounceback_verdicts.jsonl#P4-LAT-10",
       "claimed_count": 34952,
-      "description": "Pass 4 reports 0 unexplained discrepancies across all 34,952 Latin verses and 118 parallel-map metadata cleanups (P4-LAT-10). Only the 121 rows with explicit native_refs.lat in pass4_reconciliation.jsonl and P4-LAT-01..09 enter documented_contextual_read."
+      "reason": "Programmatic reconciliation + 118 parallel-map metadata cleanups; only individually cited verses enter targeted_evidence."
+    },
+    {
+      "id": "LAT-AGG-07",
+      "source": "followup_mapping_decisions.jsonl (programmatic parallel-verse-map parity rows)",
+      "claimed_count": 4121,
+      "reason": "Bulk programmatic regeneration of non-identity parallel-verse-map.json rows from Studio versification.py; only the 106 hand-audited priority/edge-cluster mapping loci and 30 verified note fixes enter targeted_evidence."
     }
   ],
-  "unexpanded_pass1_structural_ranges_count": 52,
-  "pre_stage1_unmappable_verse_review_rows": 0,
-  "post_edit_reread_audit": {
+  "removed_or_non_adopted_refs": [],
+  "post_edit_reread_audit_preserved": {
     "methodology": "Tracks every native Vulgate verse whose English text was created/restored or modified between 5261e1b6 and FINAL_TEXT_SHA (excluding pure verbatim key-relocations during Pass 2 native Vulgate migration, reported separately) and checks strictly whether an independent documented contextual read occurred at or after the verse's final text-edit SHA. Zero English verse texts changed after Pass 3.5 (1f05ad75); Pass 4 (1fc8f0c3) and Follow-up (FINAL_TEXT_SHA) modified only notes and maps.",
     "verbatim_relocated_only_in_pass2": 3105,
     "total_verses_with_genuine_text_edit_since_5261e1b6": 1250,
@@ -20909,846 +20951,2705 @@
       }
     ]
   },
-  "per_book": {
-    "Genesis": {
+  "books": [
+    {
+      "order": 1,
+      "book": "Genesis",
+      "slug": "genesis",
+      "testament": "OT",
+      "chapters": 50,
       "source_total": 1530,
-      "documented_contextual_read": 238,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 218,
-        "english_only_standalone_read_only": 20,
-        "pre_followup_documented_contextual_read": 238,
-        "pre_followup_source_checked_contextual_read": 218
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 217,
+      "targeted_supports_final": 209,
+      "targeted_historical_only": 8,
+      "targeted_note_check": 79,
+      "targeted_mapping_check": 2,
+      "targeted_isolated_wording_check": 179,
+      "targeted_overlap_2plus": 43,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "note": 36,
+        "word": 137,
+        "note+word": 42,
+        "map": 1,
+        "note+map": 1
       },
+      "english_only_read": 20,
+      "english_only_supports_final": 20,
+      "english_only_historical_only": 0,
       "automated_screening_only": 1292,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 79,
+        "gross_word": 179,
+        "gross_eng": 25,
+        "gross_map": 2,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 1530,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 218
     },
-    "Exodus": {
+    {
+      "order": 2,
+      "book": "Exodus",
+      "slug": "exodus",
+      "testament": "OT",
+      "chapters": 40,
       "source_total": 1211,
-      "documented_contextual_read": 187,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 114,
-        "english_only_standalone_read_only": 73,
-        "pre_followup_documented_contextual_read": 187,
-        "pre_followup_source_checked_contextual_read": 96
+      "full_source_in_context_read": 2,
+      "full_supports_final": 2,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 2,
+      "targeted_evidence": 112,
+      "targeted_supports_final": 107,
+      "targeted_historical_only": 5,
+      "targeted_note_check": 41,
+      "targeted_mapping_check": 59,
+      "targeted_isolated_wording_check": 65,
+      "targeted_overlap_2plus": 45,
+      "targeted_note_and_map_overlap": 20,
+      "targeted_venn": {
+        "note": 18,
+        "note+map": 12,
+        "note+map+word": 8,
+        "word": 32,
+        "note+word": 3,
+        "map+word": 22,
+        "map": 17
       },
+      "english_only_read": 73,
+      "english_only_supports_final": 73,
+      "english_only_historical_only": 0,
       "automated_screening_only": 1024,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 42,
+        "gross_map": 60,
+        "gross_note_and_map": 21,
+        "gross_word": 66,
+        "gross_eng": 141
+      },
+      "editorial_verified": 1211,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 114
     },
-    "Leviticus": {
+    {
+      "order": 3,
+      "book": "Leviticus",
+      "slug": "leviticus",
+      "testament": "OT",
+      "chapters": 27,
       "source_total": 858,
-      "documented_contextual_read": 73,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 38,
-        "english_only_standalone_read_only": 35,
-        "pre_followup_documented_contextual_read": 72,
-        "pre_followup_source_checked_contextual_read": 37
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 38,
+      "targeted_supports_final": 35,
+      "targeted_historical_only": 3,
+      "targeted_note_check": 16,
+      "targeted_mapping_check": 8,
+      "targeted_isolated_wording_check": 25,
+      "targeted_overlap_2plus": 8,
+      "targeted_note_and_map_overlap": 8,
+      "targeted_venn": {
+        "note": 8,
+        "word": 22,
+        "note+map": 5,
+        "note+map+word": 3
       },
+      "english_only_read": 35,
+      "english_only_supports_final": 35,
+      "english_only_historical_only": 0,
       "automated_screening_only": 785,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 16,
+        "gross_word": 25,
+        "gross_map": 8,
+        "gross_note_and_map": 8,
+        "gross_eng": 38
+      },
+      "editorial_verified": 858,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 38
     },
-    "Numbers": {
+    {
+      "order": 4,
+      "book": "Numbers",
+      "slug": "numbers",
+      "testament": "OT",
+      "chapters": 36,
       "source_total": 1288,
-      "documented_contextual_read": 91,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 68,
-        "english_only_standalone_read_only": 23,
-        "pre_followup_documented_contextual_read": 76,
-        "pre_followup_source_checked_contextual_read": 53
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 67,
+      "targeted_supports_final": 65,
+      "targeted_historical_only": 2,
+      "targeted_note_check": 38,
+      "targeted_mapping_check": 30,
+      "targeted_isolated_wording_check": 21,
+      "targeted_overlap_2plus": 16,
+      "targeted_note_and_map_overlap": 15,
+      "targeted_venn": {
+        "word": 14,
+        "note+map": 9,
+        "map": 15,
+        "note+map+word": 6,
+        "note": 22,
+        "note+word": 1
       },
+      "english_only_read": 23,
+      "english_only_supports_final": 23,
+      "english_only_historical_only": 0,
       "automated_screening_only": 1197,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 21,
+        "gross_note": 38,
+        "gross_map": 30,
+        "gross_note_and_map": 15,
+        "gross_eng": 29
+      },
+      "editorial_verified": 1288,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 68
     },
-    "Deuteronomy": {
+    {
+      "order": 5,
+      "book": "Deuteronomy",
+      "slug": "deuteronomy",
+      "testament": "OT",
+      "chapters": 34,
       "source_total": 959,
-      "documented_contextual_read": 51,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 30,
-        "english_only_standalone_read_only": 21,
-        "pre_followup_documented_contextual_read": 51,
-        "pre_followup_source_checked_contextual_read": 30
+      "full_source_in_context_read": 2,
+      "full_supports_final": 2,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 2,
+      "targeted_evidence": 28,
+      "targeted_supports_final": 27,
+      "targeted_historical_only": 1,
+      "targeted_note_check": 14,
+      "targeted_mapping_check": 5,
+      "targeted_isolated_wording_check": 17,
+      "targeted_overlap_2plus": 6,
+      "targeted_note_and_map_overlap": 5,
+      "targeted_venn": {
+        "word": 14,
+        "note": 8,
+        "note+word": 1,
+        "note+map+word": 2,
+        "note+map": 3
       },
+      "english_only_read": 21,
+      "english_only_supports_final": 21,
+      "english_only_historical_only": 0,
       "automated_screening_only": 908,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 17,
+        "gross_note": 14,
+        "gross_eng": 26,
+        "gross_map": 5,
+        "gross_note_and_map": 5
+      },
+      "editorial_verified": 959,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 30
     },
-    "Joshua": {
+    {
+      "order": 6,
+      "book": "Joshua",
+      "slug": "joshua",
+      "testament": "OT",
+      "chapters": 24,
       "source_total": 658,
-      "documented_contextual_read": 30,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 30,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 29,
-        "pre_followup_source_checked_contextual_read": 29
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 30,
+      "targeted_supports_final": 30,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 16,
+      "targeted_mapping_check": 4,
+      "targeted_isolated_wording_check": 20,
+      "targeted_overlap_2plus": 9,
+      "targeted_note_and_map_overlap": 4,
+      "targeted_venn": {
+        "note": 7,
+        "note+word": 5,
+        "word": 14,
+        "note+map": 3,
+        "note+map+word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 628,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 16,
+        "gross_word": 20,
+        "gross_map": 4,
+        "gross_note_and_map": 4
+      },
+      "editorial_verified": 658,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 30
     },
-    "Judges": {
+    {
+      "order": 7,
+      "book": "Judges",
+      "slug": "judges",
+      "testament": "OT",
+      "chapters": 21,
       "source_total": 618,
-      "documented_contextual_read": 18,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 18,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 18,
-        "pre_followup_source_checked_contextual_read": 18
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 18,
+      "targeted_supports_final": 18,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 10,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 11,
+      "targeted_overlap_2plus": 3,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "word": 8,
+        "note": 7,
+        "note+word": 3
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 600,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 11,
+        "gross_note": 10
+      },
+      "editorial_verified": 617,
+      "editorial_disputed": 1,
+      "old_doc_src_ctx": 18
     },
-    "Ruth": {
+    {
+      "order": 8,
+      "book": "Ruth",
+      "slug": "ruth",
+      "testament": "OT",
+      "chapters": 4,
       "source_total": 85,
-      "documented_contextual_read": 1,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 1,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 1,
-        "pre_followup_source_checked_contextual_read": 1
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 1,
+      "targeted_supports_final": 1,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 0,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 1,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 84,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 1
+      },
+      "editorial_verified": 85,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 1
     },
-    "1 Samuel": {
+    {
+      "order": 9,
+      "book": "1 Samuel",
+      "slug": "1-samuel",
+      "testament": "OT",
+      "chapters": 31,
       "source_total": 811,
-      "documented_contextual_read": 23,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 21,
-        "english_only_standalone_read_only": 2,
-        "pre_followup_documented_contextual_read": 19,
-        "pre_followup_source_checked_contextual_read": 17
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 20,
+      "targeted_supports_final": 19,
+      "targeted_historical_only": 1,
+      "targeted_note_check": 6,
+      "targeted_mapping_check": 5,
+      "targeted_isolated_wording_check": 11,
+      "targeted_overlap_2plus": 2,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "word": 10,
+        "note": 4,
+        "map": 4,
+        "note+map": 1,
+        "note+word": 1
       },
+      "english_only_read": 2,
+      "english_only_supports_final": 2,
+      "english_only_historical_only": 0,
       "automated_screening_only": 788,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 11,
+        "gross_eng": 2,
+        "gross_note": 7,
+        "gross_map": 5,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 811,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 21
     },
-    "2 Samuel": {
+    {
+      "order": 10,
+      "book": "2 Samuel",
+      "slug": "2-samuel",
+      "testament": "OT",
+      "chapters": 24,
       "source_total": 695,
-      "documented_contextual_read": 18,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 15,
-        "english_only_standalone_read_only": 3,
-        "pre_followup_documented_contextual_read": 18,
-        "pre_followup_source_checked_contextual_read": 15
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 14,
+      "targeted_supports_final": 13,
+      "targeted_historical_only": 1,
+      "targeted_note_check": 9,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 6,
+      "targeted_overlap_2plus": 1,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "word": 5,
+        "note": 8,
+        "note+map+word": 1
       },
+      "english_only_read": 3,
+      "english_only_supports_final": 3,
+      "english_only_historical_only": 0,
       "automated_screening_only": 677,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 6,
+        "gross_note": 9,
+        "gross_eng": 3,
+        "gross_map": 1,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 695,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 15
     },
-    "1 Kings": {
+    {
+      "order": 11,
+      "book": "1 Kings",
+      "slug": "1-kings",
+      "testament": "OT",
+      "chapters": 22,
       "source_total": 817,
-      "documented_contextual_read": 127,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 44,
-        "english_only_standalone_read_only": 83,
-        "pre_followup_documented_contextual_read": 127,
-        "pre_followup_source_checked_contextual_read": 39
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 43,
+      "targeted_supports_final": 32,
+      "targeted_historical_only": 11,
+      "targeted_note_check": 20,
+      "targeted_mapping_check": 15,
+      "targeted_isolated_wording_check": 22,
+      "targeted_overlap_2plus": 13,
+      "targeted_note_and_map_overlap": 10,
+      "targeted_venn": {
+        "word": 18,
+        "note+map": 9,
+        "note": 7,
+        "note+map+word": 1,
+        "map": 5,
+        "note+word": 3
       },
+      "english_only_read": 83,
+      "english_only_supports_final": 79,
+      "english_only_historical_only": 4,
       "automated_screening_only": 690,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 22,
+        "gross_note": 20,
+        "gross_map": 15,
+        "gross_note_and_map": 10,
+        "gross_eng": 100
+      },
+      "editorial_verified": 817,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 44
     },
-    "2 Kings": {
+    {
+      "order": 12,
+      "book": "2 Kings",
+      "slug": "2-kings",
+      "testament": "OT",
+      "chapters": 25,
       "source_total": 719,
-      "documented_contextual_read": 19,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 19,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 18,
-        "pre_followup_source_checked_contextual_read": 18
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 19,
+      "targeted_supports_final": 19,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 7,
+      "targeted_mapping_check": 2,
+      "targeted_isolated_wording_check": 12,
+      "targeted_overlap_2plus": 2,
+      "targeted_note_and_map_overlap": 2,
+      "targeted_venn": {
+        "word": 12,
+        "note": 5,
+        "note+map": 2
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 700,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 12,
+        "gross_note": 7,
+        "gross_map": 2,
+        "gross_note_and_map": 2
+      },
+      "editorial_verified": 719,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 19
     },
-    "1 Chronicles": {
+    {
+      "order": 13,
+      "book": "1 Chronicles",
+      "slug": "1-chronicles",
+      "testament": "OT",
+      "chapters": 29,
       "source_total": 940,
-      "documented_contextual_read": 33,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 31,
-        "english_only_standalone_read_only": 2,
-        "pre_followup_documented_contextual_read": 32,
-        "pre_followup_source_checked_contextual_read": 30
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 30,
+      "targeted_supports_final": 29,
+      "targeted_historical_only": 1,
+      "targeted_note_check": 24,
+      "targeted_mapping_check": 4,
+      "targeted_isolated_wording_check": 9,
+      "targeted_overlap_2plus": 7,
+      "targeted_note_and_map_overlap": 4,
+      "targeted_venn": {
+        "note": 17,
+        "word": 6,
+        "note+map": 4,
+        "note+word": 3
       },
+      "english_only_read": 2,
+      "english_only_supports_final": 2,
+      "english_only_historical_only": 0,
       "automated_screening_only": 907,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 24,
+        "gross_word": 9,
+        "gross_eng": 3,
+        "gross_map": 4,
+        "gross_note_and_map": 4
+      },
+      "editorial_verified": 937,
+      "editorial_disputed": 3,
+      "old_doc_src_ctx": 31
     },
-    "2 Chronicles": {
+    {
+      "order": 14,
+      "book": "2 Chronicles",
+      "slug": "2-chronicles",
+      "testament": "OT",
+      "chapters": 36,
       "source_total": 822,
-      "documented_contextual_read": 28,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 28,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 28,
-        "pre_followup_source_checked_contextual_read": 28
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 28,
+      "targeted_supports_final": 26,
+      "targeted_historical_only": 2,
+      "targeted_note_check": 12,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 17,
+      "targeted_overlap_2plus": 2,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "word": 16,
+        "note+map": 1,
+        "note": 10,
+        "note+word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 794,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 17,
+        "gross_note": 12,
+        "gross_map": 1,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 822,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 28
     },
-    "Ezra": {
+    {
+      "order": 15,
+      "book": "Ezra",
+      "slug": "ezra",
+      "testament": "OT",
+      "chapters": 10,
       "source_total": 280,
-      "documented_contextual_read": 8,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 8,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 8,
-        "pre_followup_source_checked_contextual_read": 8
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 8,
+      "targeted_supports_final": 8,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 3,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 6,
+      "targeted_overlap_2plus": 1,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "note": 2,
+        "word": 5,
+        "note+word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 272,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 3,
+        "gross_word": 6
+      },
+      "editorial_verified": 280,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 8
     },
-    "Nehemiah": {
+    {
+      "order": 16,
+      "book": "Nehemiah",
+      "slug": "nehemiah",
+      "testament": "OT",
+      "chapters": 13,
       "source_total": 404,
-      "documented_contextual_read": 13,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 13,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 12,
-        "pre_followup_source_checked_contextual_read": 12
+      "full_source_in_context_read": 1,
+      "full_supports_final": 0,
+      "full_historical_only": 1,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 12,
+      "targeted_supports_final": 11,
+      "targeted_historical_only": 1,
+      "targeted_note_check": 9,
+      "targeted_mapping_check": 5,
+      "targeted_isolated_wording_check": 5,
+      "targeted_overlap_2plus": 6,
+      "targeted_note_and_map_overlap": 5,
+      "targeted_venn": {
+        "note": 3,
+        "word": 3,
+        "note+map": 4,
+        "note+map+word": 1,
+        "note+word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 391,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 10,
+        "gross_word": 6,
+        "gross_map": 6,
+        "gross_note_and_map": 6
+      },
+      "editorial_verified": 404,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 13
     },
-    "Esther": {
+    {
+      "order": 17,
+      "book": "Esther",
+      "slug": "esther",
+      "testament": "OT",
+      "chapters": 16,
       "source_total": 275,
-      "documented_contextual_read": 115,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 113,
-        "english_only_standalone_read_only": 2,
-        "pre_followup_documented_contextual_read": 115,
-        "pre_followup_source_checked_contextual_read": 113
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 112,
+      "targeted_supports_final": 112,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 27,
+      "targeted_mapping_check": 19,
+      "targeted_isolated_wording_check": 110,
+      "targeted_overlap_2plus": 35,
+      "targeted_note_and_map_overlap": 9,
+      "targeted_venn": {
+        "note+word": 17,
+        "map": 1,
+        "note": 1,
+        "note+map+word": 9,
+        "map+word": 9,
+        "word": 75
       },
+      "english_only_read": 2,
+      "english_only_supports_final": 2,
+      "english_only_historical_only": 0,
       "automated_screening_only": 160,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 28,
+        "gross_word": 111,
+        "gross_eng": 112,
+        "gross_map": 19,
+        "gross_note_and_map": 9
+      },
+      "editorial_verified": 275,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 113
     },
-    "1 Maccabees": {
+    {
+      "order": 18,
+      "book": "1 Maccabees",
+      "slug": "1-maccabees",
+      "testament": "OT",
+      "chapters": 16,
       "source_total": 929,
-      "documented_contextual_read": 32,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 32,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 31,
-        "pre_followup_source_checked_contextual_read": 31
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 32,
+      "targeted_supports_final": 32,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 12,
+      "targeted_mapping_check": 2,
+      "targeted_isolated_wording_check": 26,
+      "targeted_overlap_2plus": 8,
+      "targeted_note_and_map_overlap": 2,
+      "targeted_venn": {
+        "note+word": 6,
+        "note+map": 2,
+        "note": 4,
+        "word": 20
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 897,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 12,
+        "gross_word": 26,
+        "gross_map": 2,
+        "gross_note_and_map": 2
+      },
+      "editorial_verified": 929,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 32
     },
-    "2 Maccabees": {
+    {
+      "order": 19,
+      "book": "2 Maccabees",
+      "slug": "2-maccabees",
+      "testament": "OT",
+      "chapters": 15,
       "source_total": 558,
-      "documented_contextual_read": 15,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 15,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 14,
-        "pre_followup_source_checked_contextual_read": 14
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 15,
+      "targeted_supports_final": 15,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 8,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 9,
+      "targeted_overlap_2plus": 3,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "word": 7,
+        "note": 5,
+        "note+word": 2,
+        "note+map": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 543,
-      "insufficient_evidence": 0
-    },
-    "Job": {
-      "source_total": 1070,
-      "documented_contextual_read": 138,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 61,
-        "english_only_standalone_read_only": 77,
-        "pre_followup_documented_contextual_read": 138,
-        "pre_followup_source_checked_contextual_read": 61
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 9,
+        "gross_note": 8,
+        "gross_map": 1,
+        "gross_note_and_map": 1
       },
+      "editorial_verified": 558,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 15
+    },
+    {
+      "order": 20,
+      "book": "Job",
+      "slug": "job",
+      "testament": "OT",
+      "chapters": 42,
+      "source_total": 1070,
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 60,
+      "targeted_supports_final": 54,
+      "targeted_historical_only": 6,
+      "targeted_note_check": 21,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 43,
+      "targeted_overlap_2plus": 5,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "note": 16,
+        "word": 39,
+        "note+word": 4,
+        "note+map": 1
+      },
+      "english_only_read": 77,
+      "english_only_supports_final": 77,
+      "english_only_historical_only": 0,
       "automated_screening_only": 932,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 21,
+        "gross_word": 43,
+        "gross_eng": 83,
+        "gross_map": 1,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 1069,
+      "editorial_disputed": 1,
+      "old_doc_src_ctx": 61
     },
-    "Psalms": {
+    {
+      "order": 21,
+      "book": "Psalms",
+      "slug": "psalms",
+      "testament": "OT",
+      "chapters": 150,
       "source_total": 2527,
-      "documented_contextual_read": 150,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 118,
-        "english_only_standalone_read_only": 32,
-        "pre_followup_documented_contextual_read": 150,
-        "pre_followup_source_checked_contextual_read": 118
+      "full_source_in_context_read": 3,
+      "full_supports_final": 3,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 3,
+      "targeted_evidence": 115,
+      "targeted_supports_final": 114,
+      "targeted_historical_only": 1,
+      "targeted_note_check": 66,
+      "targeted_mapping_check": 8,
+      "targeted_isolated_wording_check": 65,
+      "targeted_overlap_2plus": 23,
+      "targeted_note_and_map_overlap": 8,
+      "targeted_venn": {
+        "word": 49,
+        "note+word": 15,
+        "note+map": 7,
+        "note": 43,
+        "note+map+word": 1
       },
+      "english_only_read": 32,
+      "english_only_supports_final": 32,
+      "english_only_historical_only": 0,
       "automated_screening_only": 2377,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 67,
+        "gross_note": 67,
+        "gross_map": 8,
+        "gross_note_and_map": 8,
+        "gross_eng": 33
+      },
+      "editorial_verified": 2517,
+      "editorial_disputed": 10,
+      "old_doc_src_ctx": 118
     },
-    "Proverbs": {
+    {
+      "order": 22,
+      "book": "Proverbs",
+      "slug": "proverbs",
+      "testament": "OT",
+      "chapters": 31,
       "source_total": 915,
-      "documented_contextual_read": 41,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 41,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 41,
-        "pre_followup_source_checked_contextual_read": 41
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 40,
+      "targeted_supports_final": 40,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 25,
+      "targeted_mapping_check": 8,
+      "targeted_isolated_wording_check": 20,
+      "targeted_overlap_2plus": 10,
+      "targeted_note_and_map_overlap": 8,
+      "targeted_venn": {
+        "note": 15,
+        "word": 15,
+        "note+word": 2,
+        "note+map": 5,
+        "note+map+word": 3
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 874,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 25,
+        "gross_word": 20,
+        "gross_map": 8,
+        "gross_note_and_map": 8
+      },
+      "editorial_verified": 915,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 41
     },
-    "Ecclesiastes": {
+    {
+      "order": 23,
+      "book": "Ecclesiastes",
+      "slug": "ecclesiastes",
+      "testament": "OT",
+      "chapters": 12,
       "source_total": 222,
-      "documented_contextual_read": 10,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 10,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 10,
-        "pre_followup_source_checked_contextual_read": 10
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 10,
+      "targeted_supports_final": 7,
+      "targeted_historical_only": 3,
+      "targeted_note_check": 5,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 5,
+      "targeted_overlap_2plus": 1,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "note": 4,
+        "word": 5,
+        "note+map": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 212,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 5,
+        "gross_word": 5,
+        "gross_map": 1,
+        "gross_eng": 1,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 222,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 10
     },
-    "Song of Songs": {
+    {
+      "order": 24,
+      "book": "Song of Songs",
+      "slug": "song-of-songs",
+      "testament": "OT",
+      "chapters": 8,
       "source_total": 116,
-      "documented_contextual_read": 17,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 17,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 17,
-        "pre_followup_source_checked_contextual_read": 17
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 17,
+      "targeted_supports_final": 16,
+      "targeted_historical_only": 1,
+      "targeted_note_check": 8,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 10,
+      "targeted_overlap_2plus": 2,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "note": 6,
+        "word": 9,
+        "note+map": 1,
+        "note+word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 99,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 8,
+        "gross_word": 10,
+        "gross_map": 1,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 116,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 17
     },
-    "Lamentations": {
+    {
+      "order": 25,
+      "book": "Lamentations",
+      "slug": "lamentations",
+      "testament": "OT",
+      "chapters": 5,
       "source_total": 154,
-      "documented_contextual_read": 5,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 5,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 5,
-        "pre_followup_source_checked_contextual_read": 5
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 5,
+      "targeted_supports_final": 5,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 3,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 4,
+      "targeted_overlap_2plus": 2,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "word": 2,
+        "note": 1,
+        "note+word": 2
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 149,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 4,
+        "gross_note": 3
+      },
+      "editorial_verified": 153,
+      "editorial_disputed": 1,
+      "old_doc_src_ctx": 5
     },
-    "Wisdom of Solomon": {
+    {
+      "order": 26,
+      "book": "Wisdom of Solomon",
+      "slug": "wisdom-of-solomon",
+      "testament": "OT",
+      "chapters": 19,
       "source_total": 439,
-      "documented_contextual_read": 34,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 33,
-        "english_only_standalone_read_only": 1,
-        "pre_followup_documented_contextual_read": 34,
-        "pre_followup_source_checked_contextual_read": 33
+      "full_source_in_context_read": 2,
+      "full_supports_final": 2,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 2,
+      "targeted_evidence": 31,
+      "targeted_supports_final": 31,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 22,
+      "targeted_mapping_check": 15,
+      "targeted_isolated_wording_check": 21,
+      "targeted_overlap_2plus": 16,
+      "targeted_note_and_map_overlap": 15,
+      "targeted_venn": {
+        "note+map+word": 11,
+        "word": 9,
+        "note+map": 4,
+        "note": 6,
+        "note+word": 1
       },
+      "english_only_read": 1,
+      "english_only_supports_final": 1,
+      "english_only_historical_only": 0,
       "automated_screening_only": 405,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 23,
+        "gross_map": 16,
+        "gross_word": 22,
+        "gross_note_and_map": 16,
+        "gross_eng": 2
+      },
+      "editorial_verified": 438,
+      "editorial_disputed": 1,
+      "old_doc_src_ctx": 33
     },
-    "Sirach": {
+    {
+      "order": 27,
+      "book": "Sirach",
+      "slug": "sirach",
+      "testament": "OT",
+      "chapters": 51,
       "source_total": 1592,
-      "documented_contextual_read": 414,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 305,
-        "english_only_standalone_read_only": 109,
-        "pre_followup_documented_contextual_read": 404,
-        "pre_followup_source_checked_contextual_read": 287
+      "full_source_in_context_read": 4,
+      "full_supports_final": 4,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 4,
+      "targeted_evidence": 301,
+      "targeted_supports_final": 282,
+      "targeted_historical_only": 19,
+      "targeted_note_check": 263,
+      "targeted_mapping_check": 54,
+      "targeted_isolated_wording_check": 224,
+      "targeted_overlap_2plus": 214,
+      "targeted_note_and_map_overlap": 37,
+      "targeted_venn": {
+        "note+word": 177,
+        "map": 17,
+        "note+map+word": 26,
+        "note": 49,
+        "word": 21,
+        "note+map": 11
       },
+      "english_only_read": 109,
+      "english_only_supports_final": 109,
+      "english_only_historical_only": 0,
       "automated_screening_only": 1178,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 264,
+        "gross_word": 225,
+        "gross_eng": 161,
+        "gross_map": 54,
+        "gross_note_and_map": 37
+      },
+      "editorial_verified": 1592,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 305
     },
-    "Isaiah": {
+    {
+      "order": 28,
+      "book": "Isaiah",
+      "slug": "isaiah",
+      "testament": "OT",
+      "chapters": 66,
       "source_total": 1292,
-      "documented_contextual_read": 98,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 91,
-        "english_only_standalone_read_only": 7,
-        "pre_followup_documented_contextual_read": 98,
-        "pre_followup_source_checked_contextual_read": 91
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 90,
+      "targeted_supports_final": 88,
+      "targeted_historical_only": 2,
+      "targeted_note_check": 68,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 45,
+      "targeted_overlap_2plus": 23,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "note": 45,
+        "word": 22,
+        "note+word": 22,
+        "note+map+word": 1
       },
+      "english_only_read": 7,
+      "english_only_supports_final": 7,
+      "english_only_historical_only": 0,
       "automated_screening_only": 1194,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 68,
+        "gross_word": 45,
+        "gross_eng": 14,
+        "gross_map": 1,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 1275,
+      "editorial_disputed": 17,
+      "old_doc_src_ctx": 91
     },
-    "Jeremiah": {
+    {
+      "order": 29,
+      "book": "Jeremiah",
+      "slug": "jeremiah",
+      "testament": "OT",
+      "chapters": 52,
       "source_total": 1363,
-      "documented_contextual_read": 171,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 133,
-        "english_only_standalone_read_only": 38,
-        "pre_followup_documented_contextual_read": 169,
-        "pre_followup_source_checked_contextual_read": 131
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 133,
+      "targeted_supports_final": 93,
+      "targeted_historical_only": 40,
+      "targeted_note_check": 58,
+      "targeted_mapping_check": 14,
+      "targeted_isolated_wording_check": 96,
+      "targeted_overlap_2plus": 32,
+      "targeted_note_and_map_overlap": 9,
+      "targeted_venn": {
+        "word": 70,
+        "note": 29,
+        "note+map+word": 3,
+        "note+word": 20,
+        "note+map": 6,
+        "map": 2,
+        "map+word": 3
       },
+      "english_only_read": 38,
+      "english_only_supports_final": 38,
+      "english_only_historical_only": 0,
       "automated_screening_only": 1192,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 96,
+        "gross_note": 58,
+        "gross_map": 14,
+        "gross_note_and_map": 9,
+        "gross_eng": 52
+      },
+      "editorial_verified": 1359,
+      "editorial_disputed": 4,
+      "old_doc_src_ctx": 133
     },
-    "Ezekiel": {
+    {
+      "order": 30,
+      "book": "Ezekiel",
+      "slug": "ezekiel",
+      "testament": "OT",
+      "chapters": 48,
       "source_total": 1272,
-      "documented_contextual_read": 126,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 99,
-        "english_only_standalone_read_only": 27,
-        "pre_followup_documented_contextual_read": 126,
-        "pre_followup_source_checked_contextual_read": 99
+      "full_source_in_context_read": 2,
+      "full_supports_final": 1,
+      "full_historical_only": 1,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 97,
+      "targeted_supports_final": 96,
+      "targeted_historical_only": 1,
+      "targeted_note_check": 41,
+      "targeted_mapping_check": 8,
+      "targeted_isolated_wording_check": 64,
+      "targeted_overlap_2plus": 15,
+      "targeted_note_and_map_overlap": 6,
+      "targeted_venn": {
+        "note": 26,
+        "note+word": 9,
+        "note+map": 5,
+        "map": 2,
+        "word": 54,
+        "note+map+word": 1
       },
+      "english_only_read": 27,
+      "english_only_supports_final": 27,
+      "english_only_historical_only": 0,
       "automated_screening_only": 1146,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 42,
+        "gross_word": 65,
+        "gross_map": 8,
+        "gross_note_and_map": 6,
+        "gross_eng": 30
+      },
+      "editorial_verified": 1264,
+      "editorial_disputed": 8,
+      "old_doc_src_ctx": 99
     },
-    "Daniel": {
+    {
+      "order": 31,
+      "book": "Daniel",
+      "slug": "daniel",
+      "testament": "OT",
+      "chapters": 14,
       "source_total": 531,
-      "documented_contextual_read": 160,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 160,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 160,
-        "pre_followup_source_checked_contextual_read": 160
+      "full_source_in_context_read": 2,
+      "full_supports_final": 2,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 2,
+      "targeted_evidence": 158,
+      "targeted_supports_final": 156,
+      "targeted_historical_only": 2,
+      "targeted_note_check": 39,
+      "targeted_mapping_check": 46,
+      "targeted_isolated_wording_check": 124,
+      "targeted_overlap_2plus": 43,
+      "targeted_note_and_map_overlap": 8,
+      "targeted_venn": {
+        "note+word": 19,
+        "word": 81,
+        "note": 12,
+        "note+map+word": 8,
+        "map": 22,
+        "map+word": 16
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 371,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 39,
+        "gross_word": 125,
+        "gross_map": 47,
+        "gross_note_and_map": 8,
+        "gross_eng": 109
+      },
+      "editorial_verified": 524,
+      "editorial_disputed": 7,
+      "old_doc_src_ctx": 160
     },
-    "Hosea": {
+    {
+      "order": 32,
+      "book": "Hosea",
+      "slug": "hosea",
+      "testament": "OT",
+      "chapters": 14,
       "source_total": 198,
-      "documented_contextual_read": 20,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 20,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 20,
-        "pre_followup_source_checked_contextual_read": 20
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 19,
+      "targeted_supports_final": 19,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 13,
+      "targeted_mapping_check": 3,
+      "targeted_isolated_wording_check": 10,
+      "targeted_overlap_2plus": 5,
+      "targeted_note_and_map_overlap": 2,
+      "targeted_venn": {
+        "note": 9,
+        "word": 5,
+        "note+word": 2,
+        "map+word": 1,
+        "note+map+word": 2
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 178,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 13,
+        "gross_word": 10,
+        "gross_map": 3,
+        "gross_note_and_map": 2
+      },
+      "editorial_verified": 198,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 20
     },
-    "Joel": {
+    {
+      "order": 33,
+      "book": "Joel",
+      "slug": "joel",
+      "testament": "OT",
+      "chapters": 3,
       "source_total": 73,
-      "documented_contextual_read": 10,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 10,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 10,
-        "pre_followup_source_checked_contextual_read": 10
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 9,
+      "targeted_supports_final": 7,
+      "targeted_historical_only": 2,
+      "targeted_note_check": 6,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 4,
+      "targeted_overlap_2plus": 1,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "word": 3,
+        "note": 5,
+        "note+map+word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 63,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 4,
+        "gross_note": 6,
+        "gross_map": 1,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 73,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 10
     },
-    "Amos": {
+    {
+      "order": 34,
+      "book": "Amos",
+      "slug": "amos",
+      "testament": "OT",
+      "chapters": 9,
       "source_total": 147,
-      "documented_contextual_read": 10,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 8,
-        "english_only_standalone_read_only": 2,
-        "pre_followup_documented_contextual_read": 10,
-        "pre_followup_source_checked_contextual_read": 8
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 8,
+      "targeted_supports_final": 8,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 5,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 5,
+      "targeted_overlap_2plus": 2,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "note": 3,
+        "word": 3,
+        "note+word": 1,
+        "note+map+word": 1
       },
+      "english_only_read": 2,
+      "english_only_supports_final": 2,
+      "english_only_historical_only": 0,
       "automated_screening_only": 137,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 5,
+        "gross_word": 5,
+        "gross_eng": 2,
+        "gross_map": 1,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 147,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 8
     },
-    "Obadiah": {
+    {
+      "order": 35,
+      "book": "Obadiah",
+      "slug": "obadiah",
+      "testament": "OT",
+      "chapters": 1,
       "source_total": 21,
-      "documented_contextual_read": 1,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 1,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 1,
-        "pre_followup_source_checked_contextual_read": 1
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 1,
+      "targeted_supports_final": 1,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 1,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 0,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "note": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 20,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 1
+      },
+      "editorial_verified": 21,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 1
     },
-    "Jonah": {
+    {
+      "order": 36,
+      "book": "Jonah",
+      "slug": "jonah",
+      "testament": "OT",
+      "chapters": 4,
       "source_total": 48,
-      "documented_contextual_read": 4,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 4,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 4,
-        "pre_followup_source_checked_contextual_read": 4
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 4,
+      "targeted_supports_final": 4,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 3,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 1,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "note": 3,
+        "word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 44,
-      "insufficient_evidence": 0
-    },
-    "Micah": {
-      "source_total": 104,
-      "documented_contextual_read": 14,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 14,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 14,
-        "pre_followup_source_checked_contextual_read": 14
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 3,
+        "gross_word": 1
       },
+      "editorial_verified": 48,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 4
+    },
+    {
+      "order": 37,
+      "book": "Micah",
+      "slug": "micah",
+      "testament": "OT",
+      "chapters": 7,
+      "source_total": 104,
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 14,
+      "targeted_supports_final": 14,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 13,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 6,
+      "targeted_overlap_2plus": 5,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "note": 8,
+        "note+word": 5,
+        "word": 1
+      },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 90,
-      "insufficient_evidence": 0
-    },
-    "Nahum": {
-      "source_total": 47,
-      "documented_contextual_read": 2,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 2,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 2,
-        "pre_followup_source_checked_contextual_read": 2
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 13,
+        "gross_word": 6
       },
+      "editorial_verified": 99,
+      "editorial_disputed": 5,
+      "old_doc_src_ctx": 14
+    },
+    {
+      "order": 38,
+      "book": "Nahum",
+      "slug": "nahum",
+      "testament": "OT",
+      "chapters": 3,
+      "source_total": 47,
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 2,
+      "targeted_supports_final": 2,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 1,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 1,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "note": 1,
+        "word": 1
+      },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 45,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 1,
+        "gross_word": 1
+      },
+      "editorial_verified": 47,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 2
     },
-    "Habakkuk": {
+    {
+      "order": 39,
+      "book": "Habakkuk",
+      "slug": "habakkuk",
+      "testament": "OT",
+      "chapters": 3,
       "source_total": 56,
-      "documented_contextual_read": 2,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 2,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 2,
-        "pre_followup_source_checked_contextual_read": 2
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 2,
+      "targeted_supports_final": 2,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 0,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 2,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "word": 2
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 54,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 2
+      },
+      "editorial_verified": 56,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 2
     },
-    "Zephaniah": {
+    {
+      "order": 40,
+      "book": "Zephaniah",
+      "slug": "zephaniah",
+      "testament": "OT",
+      "chapters": 3,
       "source_total": 53,
-      "documented_contextual_read": 1,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 1,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 1,
-        "pre_followup_source_checked_contextual_read": 1
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 1,
+      "targeted_supports_final": 1,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 1,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 0,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "note": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 52,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 1
+      },
+      "editorial_verified": 53,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 1
     },
-    "Haggai": {
+    {
+      "order": 41,
+      "book": "Haggai",
+      "slug": "haggai",
+      "testament": "OT",
+      "chapters": 2,
       "source_total": 38,
-      "documented_contextual_read": 3,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 3,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 3,
-        "pre_followup_source_checked_contextual_read": 3
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 3,
+      "targeted_supports_final": 3,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 3,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 2,
+      "targeted_overlap_2plus": 2,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "note+map+word": 1,
+        "note": 1,
+        "note+word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 35,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 3,
+        "gross_map": 1,
+        "gross_word": 2,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 37,
+      "editorial_disputed": 1,
+      "old_doc_src_ctx": 3
     },
-    "Zechariah": {
+    {
+      "order": 42,
+      "book": "Zechariah",
+      "slug": "zechariah",
+      "testament": "OT",
+      "chapters": 14,
       "source_total": 211,
-      "documented_contextual_read": 21,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 21,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 21,
-        "pre_followup_source_checked_contextual_read": 21
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 21,
+      "targeted_supports_final": 21,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 17,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 15,
+      "targeted_overlap_2plus": 11,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "word": 4,
+        "note": 6,
+        "note+word": 11
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 190,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 15,
+        "gross_note": 17
+      },
+      "editorial_verified": 200,
+      "editorial_disputed": 11,
+      "old_doc_src_ctx": 21
     },
-    "Malachi": {
+    {
+      "order": 43,
+      "book": "Malachi",
+      "slug": "malachi",
+      "testament": "OT",
+      "chapters": 4,
       "source_total": 55,
-      "documented_contextual_read": 11,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 11,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 11,
-        "pre_followup_source_checked_contextual_read": 11
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 11,
+      "targeted_supports_final": 11,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 8,
+      "targeted_mapping_check": 6,
+      "targeted_isolated_wording_check": 7,
+      "targeted_overlap_2plus": 7,
+      "targeted_note_and_map_overlap": 3,
+      "targeted_venn": {
+        "note": 2,
+        "note+word": 3,
+        "map+word": 1,
+        "map": 2,
+        "note+map+word": 3
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 44,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 8,
+        "gross_word": 7,
+        "gross_map": 6,
+        "gross_note_and_map": 3
+      },
+      "editorial_verified": 53,
+      "editorial_disputed": 2,
+      "old_doc_src_ctx": 11
     },
-    "Matthew": {
+    {
+      "order": 44,
+      "book": "Matthew",
+      "slug": "matthew",
+      "testament": "NT",
+      "chapters": 28,
       "source_total": 1070,
-      "documented_contextual_read": 85,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 39,
-        "english_only_standalone_read_only": 46,
-        "pre_followup_documented_contextual_read": 85,
-        "pre_followup_source_checked_contextual_read": 39
+      "full_source_in_context_read": 3,
+      "full_supports_final": 3,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 3,
+      "targeted_evidence": 36,
+      "targeted_supports_final": 35,
+      "targeted_historical_only": 1,
+      "targeted_note_check": 14,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 27,
+      "targeted_overlap_2plus": 5,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "note": 9,
+        "note+map+word": 1,
+        "word": 22,
+        "note+word": 4
       },
+      "english_only_read": 46,
+      "english_only_supports_final": 46,
+      "english_only_historical_only": 0,
       "automated_screening_only": 985,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 15,
+        "gross_eng": 48,
+        "gross_map": 2,
+        "gross_word": 28,
+        "gross_note_and_map": 2
+      },
+      "editorial_verified": 1069,
+      "editorial_disputed": 1,
+      "old_doc_src_ctx": 39
     },
-    "Mark": {
+    {
+      "order": 45,
+      "book": "Mark",
+      "slug": "mark",
+      "testament": "NT",
+      "chapters": 16,
       "source_total": 677,
-      "documented_contextual_read": 37,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 37,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 37,
-        "pre_followup_source_checked_contextual_read": 37
+      "full_source_in_context_read": 3,
+      "full_supports_final": 2,
+      "full_historical_only": 1,
+      "full_whole_chapter_final": 2,
+      "targeted_evidence": 34,
+      "targeted_supports_final": 30,
+      "targeted_historical_only": 4,
+      "targeted_note_check": 11,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 25,
+      "targeted_overlap_2plus": 2,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "word": 23,
+        "note": 9,
+        "note+word": 1,
+        "note+map+word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 640,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 26,
+        "gross_note": 12,
+        "gross_map": 1,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 677,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 37
     },
-    "Luke": {
+    {
+      "order": 46,
+      "book": "Luke",
+      "slug": "luke",
+      "testament": "NT",
+      "chapters": 24,
       "source_total": 1151,
-      "documented_contextual_read": 48,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 48,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 48,
-        "pre_followup_source_checked_contextual_read": 48
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 47,
+      "targeted_supports_final": 46,
+      "targeted_historical_only": 1,
+      "targeted_note_check": 14,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 34,
+      "targeted_overlap_2plus": 1,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "word": 33,
+        "note": 13,
+        "note+map+word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 1103,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 34,
+        "gross_note": 14,
+        "gross_eng": 1,
+        "gross_map": 1,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 1151,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 48
     },
-    "John": {
+    {
+      "order": 47,
+      "book": "John",
+      "slug": "john",
+      "testament": "NT",
+      "chapters": 21,
       "source_total": 879,
-      "documented_contextual_read": 92,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 23,
-        "english_only_standalone_read_only": 69,
-        "pre_followup_documented_contextual_read": 92,
-        "pre_followup_source_checked_contextual_read": 23
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 23,
+      "targeted_supports_final": 23,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 6,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 18,
+      "targeted_overlap_2plus": 2,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "word": 17,
+        "note": 4,
+        "note+word": 1,
+        "note+map": 1
       },
+      "english_only_read": 69,
+      "english_only_supports_final": 69,
+      "english_only_historical_only": 0,
       "automated_screening_only": 787,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 18,
+        "gross_note": 6,
+        "gross_map": 1,
+        "gross_note_and_map": 1,
+        "gross_eng": 69
+      },
+      "editorial_verified": 879,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 23
     },
-    "Acts": {
+    {
+      "order": 48,
+      "book": "Acts",
+      "slug": "acts",
+      "testament": "NT",
+      "chapters": 28,
       "source_total": 1004,
-      "documented_contextual_read": 38,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 34,
-        "english_only_standalone_read_only": 4,
-        "pre_followup_documented_contextual_read": 38,
-        "pre_followup_source_checked_contextual_read": 34
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 34,
+      "targeted_supports_final": 34,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 19,
+      "targeted_mapping_check": 9,
+      "targeted_isolated_wording_check": 17,
+      "targeted_overlap_2plus": 9,
+      "targeted_note_and_map_overlap": 9,
+      "targeted_venn": {
+        "word": 15,
+        "note": 10,
+        "note+map": 7,
+        "note+map+word": 2
       },
+      "english_only_read": 4,
+      "english_only_supports_final": 4,
+      "english_only_historical_only": 0,
       "automated_screening_only": 966,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 17,
+        "gross_eng": 6,
+        "gross_note": 19,
+        "gross_map": 9,
+        "gross_note_and_map": 9
+      },
+      "editorial_verified": 1004,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 34
     },
-    "Romans": {
+    {
+      "order": 49,
+      "book": "Romans",
+      "slug": "romans",
+      "testament": "NT",
+      "chapters": 16,
       "source_total": 433,
-      "documented_contextual_read": 86,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 23,
-        "english_only_standalone_read_only": 63,
-        "pre_followup_documented_contextual_read": 86,
-        "pre_followup_source_checked_contextual_read": 23
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 23,
+      "targeted_supports_final": 23,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 8,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 17,
+      "targeted_overlap_2plus": 2,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "note": 6,
+        "note+word": 2,
+        "word": 15
       },
+      "english_only_read": 63,
+      "english_only_supports_final": 63,
+      "english_only_historical_only": 0,
       "automated_screening_only": 347,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 8,
+        "gross_eng": 70,
+        "gross_word": 17
+      },
+      "editorial_verified": 431,
+      "editorial_disputed": 2,
+      "old_doc_src_ctx": 23
     },
-    "1 Corinthians": {
+    {
+      "order": 50,
+      "book": "1 Corinthians",
+      "slug": "1-corinthians",
+      "testament": "NT",
+      "chapters": 16,
       "source_total": 437,
-      "documented_contextual_read": 12,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 12,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 12,
-        "pre_followup_source_checked_contextual_read": 12
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 12,
+      "targeted_supports_final": 12,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 5,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 8,
+      "targeted_overlap_2plus": 1,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "word": 7,
+        "note": 4,
+        "note+word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 425,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 8,
+        "gross_note": 5
+      },
+      "editorial_verified": 437,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 12
     },
-    "2 Corinthians": {
+    {
+      "order": 51,
+      "book": "2 Corinthians",
+      "slug": "2-corinthians",
+      "testament": "NT",
+      "chapters": 13,
       "source_total": 255,
-      "documented_contextual_read": 11,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 10,
-        "english_only_standalone_read_only": 1,
-        "pre_followup_documented_contextual_read": 11,
-        "pre_followup_source_checked_contextual_read": 10
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 10,
+      "targeted_supports_final": 10,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 4,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 7,
+      "targeted_overlap_2plus": 1,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "note": 3,
+        "word": 6,
+        "note+word": 1
       },
+      "english_only_read": 1,
+      "english_only_supports_final": 1,
+      "english_only_historical_only": 0,
       "automated_screening_only": 244,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 4,
+        "gross_word": 7,
+        "gross_eng": 1
+      },
+      "editorial_verified": 254,
+      "editorial_disputed": 1,
+      "old_doc_src_ctx": 10
     },
-    "Galatians": {
+    {
+      "order": 52,
+      "book": "Galatians",
+      "slug": "galatians",
+      "testament": "NT",
+      "chapters": 6,
       "source_total": 149,
-      "documented_contextual_read": 23,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 5,
-        "english_only_standalone_read_only": 18,
-        "pre_followup_documented_contextual_read": 23,
-        "pre_followup_source_checked_contextual_read": 5
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 5,
+      "targeted_supports_final": 5,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 3,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 4,
+      "targeted_overlap_2plus": 2,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "word": 2,
+        "note+word": 2,
+        "note": 1
       },
+      "english_only_read": 18,
+      "english_only_supports_final": 18,
+      "english_only_historical_only": 0,
       "automated_screening_only": 126,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 4,
+        "gross_eng": 21,
+        "gross_note": 3
+      },
+      "editorial_verified": 147,
+      "editorial_disputed": 2,
+      "old_doc_src_ctx": 5
     },
-    "Ephesians": {
+    {
+      "order": 53,
+      "book": "Ephesians",
+      "slug": "ephesians",
+      "testament": "NT",
+      "chapters": 6,
       "source_total": 155,
-      "documented_contextual_read": 9,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 9,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 9,
-        "pre_followup_source_checked_contextual_read": 9
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 8,
+      "targeted_supports_final": 8,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 4,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 6,
+      "targeted_overlap_2plus": 2,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "word": 4,
+        "note": 2,
+        "note+word": 2
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 146,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 6,
+        "gross_note": 4
+      },
+      "editorial_verified": 154,
+      "editorial_disputed": 1,
+      "old_doc_src_ctx": 9
     },
-    "Philippians": {
+    {
+      "order": 54,
+      "book": "Philippians",
+      "slug": "philippians",
+      "testament": "NT",
+      "chapters": 4,
       "source_total": 104,
-      "documented_contextual_read": 3,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 3,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 3,
-        "pre_followup_source_checked_contextual_read": 3
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 3,
+      "targeted_supports_final": 3,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 1,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 3,
+      "targeted_overlap_2plus": 1,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "word": 2,
+        "note+word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 101,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 3,
+        "gross_note": 1
+      },
+      "editorial_verified": 104,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 3
     },
-    "Colossians": {
+    {
+      "order": 55,
+      "book": "Colossians",
+      "slug": "colossians",
+      "testament": "NT",
+      "chapters": 4,
       "source_total": 95,
-      "documented_contextual_read": 4,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 4,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 4,
-        "pre_followup_source_checked_contextual_read": 4
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 4,
+      "targeted_supports_final": 4,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 0,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 4,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "word": 4
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 91,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 4
+      },
+      "editorial_verified": 95,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 4
     },
-    "1 Thessalonians": {
+    {
+      "order": 56,
+      "book": "1 Thessalonians",
+      "slug": "1-thessalonians",
+      "testament": "NT",
+      "chapters": 5,
       "source_total": 89,
-      "documented_contextual_read": 0,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 0,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 0,
-        "pre_followup_source_checked_contextual_read": 0
-      },
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 0,
+      "targeted_supports_final": 0,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 0,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 0,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {},
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 89,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {},
+      "editorial_verified": 89,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 0
     },
-    "2 Thessalonians": {
+    {
+      "order": 57,
+      "book": "2 Thessalonians",
+      "slug": "2-thessalonians",
+      "testament": "NT",
+      "chapters": 3,
       "source_total": 47,
-      "documented_contextual_read": 1,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 1,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 1,
-        "pre_followup_source_checked_contextual_read": 1
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 1,
+      "targeted_supports_final": 1,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 0,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 1,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 46,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 1
+      },
+      "editorial_verified": 47,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 1
     },
-    "1 Timothy": {
+    {
+      "order": 58,
+      "book": "1 Timothy",
+      "slug": "1-timothy",
+      "testament": "NT",
+      "chapters": 6,
       "source_total": 113,
-      "documented_contextual_read": 6,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 6,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 6,
-        "pre_followup_source_checked_contextual_read": 6
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 6,
+      "targeted_supports_final": 6,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 0,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 6,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "word": 6
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 107,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 6
+      },
+      "editorial_verified": 113,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 6
     },
-    "2 Timothy": {
+    {
+      "order": 59,
+      "book": "2 Timothy",
+      "slug": "2-timothy",
+      "testament": "NT",
+      "chapters": 4,
       "source_total": 83,
-      "documented_contextual_read": 2,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 2,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 2,
-        "pre_followup_source_checked_contextual_read": 2
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 2,
+      "targeted_supports_final": 2,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 1,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 1,
+      "targeted_overlap_2plus": 1,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "word": 1,
+        "note+map": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 81,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 1,
+        "gross_note": 1,
+        "gross_map": 1,
+        "gross_eng": 1,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 83,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 2
     },
-    "Titus": {
+    {
+      "order": 60,
+      "book": "Titus",
+      "slug": "titus",
+      "testament": "NT",
+      "chapters": 3,
       "source_total": 46,
-      "documented_contextual_read": 4,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 4,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 4,
-        "pre_followup_source_checked_contextual_read": 4
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 4,
+      "targeted_supports_final": 4,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 2,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 2,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "word": 2,
+        "note": 2
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 42,
-      "insufficient_evidence": 0
-    },
-    "Philemon": {
-      "source_total": 25,
-      "documented_contextual_read": 1,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 1,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 1,
-        "pre_followup_source_checked_contextual_read": 1
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 2,
+        "gross_note": 2
       },
+      "editorial_verified": 46,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 4
+    },
+    {
+      "order": 61,
+      "book": "Philemon",
+      "slug": "philemon",
+      "testament": "NT",
+      "chapters": 1,
+      "source_total": 25,
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 1,
+      "targeted_supports_final": 1,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 1,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 0,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "note": 1
+      },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 24,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 1
+      },
+      "editorial_verified": 25,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 1
     },
-    "Hebrews": {
+    {
+      "order": 62,
+      "book": "Hebrews",
+      "slug": "hebrews",
+      "testament": "NT",
+      "chapters": 13,
       "source_total": 303,
-      "documented_contextual_read": 55,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 15,
-        "english_only_standalone_read_only": 40,
-        "pre_followup_documented_contextual_read": 55,
-        "pre_followup_source_checked_contextual_read": 15
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 14,
+      "targeted_supports_final": 14,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 4,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 10,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "note": 4,
+        "word": 10
       },
+      "english_only_read": 40,
+      "english_only_supports_final": 40,
+      "english_only_historical_only": 0,
       "automated_screening_only": 248,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 4,
+        "gross_word": 10,
+        "gross_eng": 42
+      },
+      "editorial_verified": 303,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 15
     },
-    "James": {
+    {
+      "order": 63,
+      "book": "James",
+      "slug": "james",
+      "testament": "NT",
+      "chapters": 5,
       "source_total": 108,
-      "documented_contextual_read": 3,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 3,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 3,
-        "pre_followup_source_checked_contextual_read": 3
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 3,
+      "targeted_supports_final": 3,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 2,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 2,
+      "targeted_overlap_2plus": 1,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "note+word": 1,
+        "note": 1,
+        "word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 105,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 2,
+        "gross_word": 2
+      },
+      "editorial_verified": 108,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 3
     },
-    "1 Peter": {
+    {
+      "order": 64,
+      "book": "1 Peter",
+      "slug": "1-peter",
+      "testament": "NT",
+      "chapters": 5,
       "source_total": 105,
-      "documented_contextual_read": 0,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 0,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 0,
-        "pre_followup_source_checked_contextual_read": 0
-      },
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 0,
+      "targeted_supports_final": 0,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 0,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 0,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {},
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 105,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {},
+      "editorial_verified": 105,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 0
     },
-    "2 Peter": {
+    {
+      "order": 65,
+      "book": "2 Peter",
+      "slug": "2-peter",
+      "testament": "NT",
+      "chapters": 3,
       "source_total": 61,
-      "documented_contextual_read": 3,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 3,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 3,
-        "pre_followup_source_checked_contextual_read": 3
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 3,
+      "targeted_supports_final": 3,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 2,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 1,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "word": 1,
+        "note": 2
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 58,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 1,
+        "gross_note": 2
+      },
+      "editorial_verified": 61,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 3
     },
-    "1 John": {
+    {
+      "order": 66,
+      "book": "1 John",
+      "slug": "1-john",
+      "testament": "NT",
+      "chapters": 5,
       "source_total": 105,
-      "documented_contextual_read": 5,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 5,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 5,
-        "pre_followup_source_checked_contextual_read": 5
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 5,
+      "targeted_supports_final": 5,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 2,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 3,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "note": 2,
+        "word": 3
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 100,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 2,
+        "gross_word": 3
+      },
+      "editorial_verified": 105,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 5
     },
-    "2 John": {
+    {
+      "order": 67,
+      "book": "2 John",
+      "slug": "2-john",
+      "testament": "NT",
+      "chapters": 1,
       "source_total": 13,
-      "documented_contextual_read": 13,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 0,
-        "english_only_standalone_read_only": 13,
-        "pre_followup_documented_contextual_read": 13,
-        "pre_followup_source_checked_contextual_read": 0
-      },
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 0,
+      "targeted_supports_final": 0,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 0,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 0,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {},
+      "english_only_read": 13,
+      "english_only_supports_final": 13,
+      "english_only_historical_only": 0,
       "automated_screening_only": 0,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_eng": 13
+      },
+      "editorial_verified": 13,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 0
     },
-    "3 John": {
+    {
+      "order": 68,
+      "book": "3 John",
+      "slug": "3-john",
+      "testament": "NT",
+      "chapters": 1,
       "source_total": 14,
-      "documented_contextual_read": 0,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 0,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 0,
-        "pre_followup_source_checked_contextual_read": 0
-      },
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 0,
+      "targeted_supports_final": 0,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 0,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 0,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {},
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 14,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {},
+      "editorial_verified": 14,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 0
     },
-    "Jude": {
+    {
+      "order": 69,
+      "book": "Jude",
+      "slug": "jude",
+      "testament": "NT",
+      "chapters": 1,
       "source_total": 25,
-      "documented_contextual_read": 2,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 2,
-        "english_only_standalone_read_only": 0,
-        "pre_followup_documented_contextual_read": 2,
-        "pre_followup_source_checked_contextual_read": 2
+      "full_source_in_context_read": 0,
+      "full_supports_final": 0,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 0,
+      "targeted_evidence": 2,
+      "targeted_supports_final": 2,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 1,
+      "targeted_mapping_check": 0,
+      "targeted_isolated_wording_check": 1,
+      "targeted_overlap_2plus": 0,
+      "targeted_note_and_map_overlap": 0,
+      "targeted_venn": {
+        "note": 1,
+        "word": 1
       },
+      "english_only_read": 0,
+      "english_only_supports_final": 0,
+      "english_only_historical_only": 0,
       "automated_screening_only": 23,
-      "insufficient_evidence": 0
-    },
-    "Revelation": {
-      "source_total": 405,
-      "documented_contextual_read": 45,
-      "documented_contextual_read_breakdown": {
-        "source_checked_contextual_read": 19,
-        "english_only_standalone_read_only": 26,
-        "pre_followup_documented_contextual_read": 45,
-        "pre_followup_source_checked_contextual_read": 19
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_note": 1,
+        "gross_word": 1
       },
+      "editorial_verified": 25,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 2
+    },
+    {
+      "order": 70,
+      "book": "Revelation",
+      "slug": "revelation",
+      "testament": "NT",
+      "chapters": 22,
+      "source_total": 405,
+      "full_source_in_context_read": 1,
+      "full_supports_final": 1,
+      "full_historical_only": 0,
+      "full_whole_chapter_final": 1,
+      "targeted_evidence": 18,
+      "targeted_supports_final": 18,
+      "targeted_historical_only": 0,
+      "targeted_note_check": 7,
+      "targeted_mapping_check": 1,
+      "targeted_isolated_wording_check": 13,
+      "targeted_overlap_2plus": 3,
+      "targeted_note_and_map_overlap": 1,
+      "targeted_venn": {
+        "word": 11,
+        "note+word": 2,
+        "note": 4,
+        "note+map": 1
+      },
+      "english_only_read": 26,
+      "english_only_supports_final": 26,
+      "english_only_historical_only": 0,
       "automated_screening_only": 360,
-      "insufficient_evidence": 0
+      "insufficient_evidence": 0,
+      "gross_checks": {
+        "gross_word": 13,
+        "gross_note": 7,
+        "gross_map": 1,
+        "gross_eng": 28,
+        "gross_note_and_map": 1
+      },
+      "editorial_verified": 405,
+      "editorial_disputed": 0,
+      "old_doc_src_ctx": 19
     }
-  }
+  ]
 }
