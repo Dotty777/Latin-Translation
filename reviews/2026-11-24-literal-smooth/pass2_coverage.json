@@ -1,7 +1,7 @@
 {
   "schema_version": "pass2_coverage_v1",
   "language": "latin",
-  "stage": "Stage 2 Pass 2 — Independent Second Latin Source-Language Verification & Application",
+  "stage": "Stage 2 Pass 2 + Pass 3/3B — Verified Latin Source-Language Fidelity, Standalone Clarity & Bounce-Back Resolution",
   "branch": "review/2026-11-24-literal-smooth",
   "lat_base_sha": "5261e1b66c1a076e5618ab852515b419cc7fc0be",
   "lat_pass2_text_sha": "892d426f11a58bf1ece448c9e86a4829f78a0399",
@@ -18,7 +18,7 @@
     "source_total": 34952,
     "english_pass2_verses": 34952,
     "english_pass2_unplaced": 0,
-    "english_pass2_notes": 6597,
+    "english_pass2_notes": 6594,
     "chapter_markdowns_synced": 1298,
     "placeholder_count": 0,
     "stale_note_count": 0,
@@ -36,7 +36,13 @@
     "human_queue_policy_entries": 10,
     "human_queue_total_entries": 82,
     "parallel_map_books": 45,
-    "parallel_map_non_identity_verses": 4093
+    "parallel_map_non_identity_verses": 4093,
+    "pass3_surface_edits_applied": 20,
+    "pass3_bounceback_reviewed": 34,
+    "pass3_bounceback_approved": 29,
+    "pass3_bounceback_modified_approved": 5,
+    "pass3_bounceback_rejected": 0,
+    "pass3_bounceback_escalated": 0
   },
   "no_counterpart_in_adopted_source": [
     {
@@ -822,7 +828,7 @@
       "net_stage1_delta": 77,
       "english_pass2_verses": 531,
       "english_pass2_unplaced": 0,
-      "english_pass2_notes": 94,
+      "english_pass2_notes": 92,
       "non_identity_saints_mappings": 186,
       "verified": 524,
       "disputed": 7,
@@ -1247,7 +1253,7 @@
       "net_stage1_delta": 0,
       "english_pass2_verses": 1004,
       "english_pass2_unplaced": 0,
-      "english_pass2_notes": 141,
+      "english_pass2_notes": 140,
       "non_identity_saints_mappings": 31,
       "verified": 1004,
       "disputed": 0,
@@ -1809,5 +1815,7 @@
       "pass2_escalated": 0,
       "pass2_applied": 2
     }
-  ]
+  ],
+  "lat_pass3a_sha": "301d7f18b25dae009ee8fcf302c9d110dcde3635",
+  "lat_pass3b_text_sha": "e99f55b0588da2c73eb7e13ad633d172cdb18ca6"
 }

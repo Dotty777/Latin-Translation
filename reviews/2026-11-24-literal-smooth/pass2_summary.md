@@ -65,3 +65,11 @@ Every single one of the **1,035** proposals (`LAT-P1-0001` through `LAT-P1-1035`
 - `reviews/2026-11-24-literal-smooth/pass2_human_editor_queue.jsonl` (82 consolidated entries)
 - `reviews/2026-11-24-literal-smooth/pass2_coverage.json` (70 books, exact `34,952` native Vulgate accounting, pinned to `892d426f11a58bf1ece448c9e86a4829f78a0399`)
 - `reviews/2026-11-24-literal-smooth/pass2_summary.md` (this report)
+
+## 6. Stage 2 Pass 3 Bucket B Bounce-Back Verification (`@lat-flow` -> `@lat-peer`)
+- **Pass 3 Bucket A SHA:** `301d7f18b25dae009ee8fcf302c9d110dcde3635` (`20` purely mechanical surface edits across `6` book JSONs and `16` chapter MDs)
+- **Pass 3 Bucket B Applied SHA (`LAT_PASS3B_SHA`):** `e99f55b0588da2c73eb7e13ad633d172cdb18ca6` (`34 / 34` items independently verified against `Clem1598-USFX` across `17` book JSONs, `29` chapter MDs, and all synced READMEs)
+- **Verdicts (`34 / 34`):** `29 approved`, `5 modified_approved` (`P3-B-02` Isa 52:15 sentence-initial `He` for `Iste`; `P3-B-04` Jer 22:16 & `P3-B-06` Jer 35:13 `?—says the Lord.`; `P3-B-07` Jer 39:13-14 semicolon + lowercase resumptive `they sent` + note on Latin `Misit ... miserunt`; `P3-B-08` Jer 46:25 verified authentic double `et super Pharaonem` retained verbatim with textual note), `0 rejected`, `0 escalated`.
+- **Post-Pass-3B Corpus Totals:** `70/70` books, `1,298/1,298` native Vulgate chapters & synced chapter MDs, `34,952/34,952` verses (`verified=34,873`, `disputed=79`, `unverified=0`), `6,594` translator notes (`-3` stale/misplaced notes removed at `Dan 3:99`, `Dan 3:100`, `Acts 7:56`), `0` non-Job quote-stack errors, `0` cross-verse period-to-lowercase glitches, `0` unpunctuated `?`/`! says the Lord` glitches, `0` schema/sync errors.
+- **Bounce-Back Verdicts Log:** `reviews/2026-11-24-literal-smooth/pass3_bounceback_verdicts.jsonl`
+
