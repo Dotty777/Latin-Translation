@@ -87,7 +87,7 @@
 
 ## Translator Notes
 
-- **12:4** — Here 12:4 contains what the Hebrew divides into verses 4 and 5, so there is no separate 12:5; the Latin reads Samaias (Shemaiah) where the Hebrew has Ishmaiah. Native Vulgate 1 Chronicles 12:4 and 12:5 are separate verses (mapping to Saints.Bible 12:4); the Latin reads Samaias (Shemaiah) where the Hebrew has Ishmaiah.
+- **12:4** — Native Clementine Vulgate 1 Chronicles 12:4 and 12:5 are separate verses (mapping to Saints.Bible 12:4); the Latin reads Samaias (Shemaiah) where the Hebrew has Ishmaiah.
 - **12:8** — The Vulgate reads 'while he was hiding in the wilderness' (cum lateret in deserto), whereas the Hebrew text reads 'to the stronghold in the wilderness.'
 - **12:19** — The Vulgate reads 'yet he did not fight with them' (et non dimicavit cum eis), referring to David, where the Hebrew reads 'they did not help them.'
 - **12:20** — The Clementine Vulgate lists eight leaders from Manasseh by repeating Adnah and Jozabad (Ednas, et Jozabad) twice, whereas the Hebrew text lists seven names (repeating only Jozabad).

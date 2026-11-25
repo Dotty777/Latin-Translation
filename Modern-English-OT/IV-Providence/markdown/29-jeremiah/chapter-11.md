@@ -15,11 +15,11 @@
 
 **11:5** so that I may uphold the oath which I swore to your fathers, that I would give them a land flowing with milk and honey, as it is this day.'" And I answered and said, "Amen, Lord."
 
-**11:6** And the Lord said to me, "Cry aloud all these words in the cities of Judah and outside Jerusalem, saying, 'Hear the words of this covenant, and do them.'
+**11:6** And the Lord said to me, "Cry aloud all these words in the cities of Judah and outside Jerusalem, saying, 'Hear the words of this covenant, and do them,
 
 **11:7** for warning, I solemnly warned your fathers on the day I brought them out of the land of Egypt, up to this day; rising in the morning, I solemnly warned them and said, "Hear My voice."
 
-**11:8** And they did not listen, nor did they incline their ear, but they went, each one in the perversity of his evil heart; and I brought upon them all the words of this covenant which I commanded that they should do, and they did not."
+**11:8** And they did not listen, nor did they incline their ear, but they went, each one in the perversity of his evil heart; and I brought upon them all the words of this covenant which I commanded that they should do, and they did not.'"
 
 **11:9** And the Lord said to me, "A conspiracy has been found among the men of Judah and among the inhabitants of Jerusalem.
 

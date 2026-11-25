@@ -29,7 +29,7 @@
 
 **35:12** And the word of the Lord came to Jeremiah, saying:
 
-**35:13** "This is what the Lord of hosts, the God of Israel, says: Go and say to the men of Judah and to the inhabitants of Jerusalem, 'Will you not receive instruction, so that you obey My words? says the Lord.
+**35:13** "This is what the Lord of hosts, the God of Israel, says: Go and say to the men of Judah and to the inhabitants of Jerusalem, 'Will you not receive instruction, so that you obey My words?—says the Lord.
 
 **35:14** The words of Jonadab son of Rechab have prevailed, which he commanded his sons, that they should not drink wine, and they have not drunk to this day, because they obeyed the command of their father; but I have spoken to you, rising early in the morning and speaking, and you have not obeyed Me.
 

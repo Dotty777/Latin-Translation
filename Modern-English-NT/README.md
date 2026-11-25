@@ -1,7 +1,7 @@
 # Saints Modern English — New Testament (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — Stage 2 Pass 2 verified (native Sixto-Clementine Vulgate versification)  
-> **Current Coverage:** **ALL 27/27 Latin NT books COMPLETE** (260 chapters, 7,951 native Vulgate verses, 1,301 translator notes, `0` unplaced).
+> **Current Coverage:** **ALL 27/27 Latin NT books COMPLETE** (260 chapters, 7,951 native Vulgate verses, 1,300 translator notes, `0` unplaced).
 
 Translated fresh from `Saints-Latin-Critical-Text` (`Clem1598-USFX`) under the locked style policy ([`STYLE.md`](STYLE.md)) and glossary ([`glossary.json`](glossary.json)); strict Clementine Vulgate own-source fidelity (never harmonized to Greek). Every book follows 100% native Sixto-Clementine Vulgate chapter and verse numbering, with complete `Saints.Bible` parallel mappings in [`../Modern-English-OT/parallel-verse-map.json`](../Modern-English-OT/parallel-verse-map.json) and [`../corrections/2026-11-24-modern-english-fidelity/verse-map.json`](../corrections/2026-11-24-modern-english-fidelity/verse-map.json). Original reviewed pilot in [`../Modern-English-Pilot/`](../Modern-English-Pilot/README.md).
 
@@ -10,7 +10,7 @@ Translated fresh from `Saints-Latin-Critical-Text` (`Clem1598-USFX`) under the l
 | Division | Status | Books | Chapters | Verses | Notes | Directory |
 |---|---|---:|---:|---:|---:|---|
 | **V. Salvation (Gospels)** | **Complete** | 4 / 4 | 89 | 3,777 | 475 | [`V-Salvation/`](V-Salvation/README.md) |
-| **VI. Discipleship (Acts, Letters & General Epistles)** | **Complete** | 22 / 22 | 149 | 3,769 | 724 | [`VI-Discipleship/`](VI-Discipleship/README.md) |
+| **VI. Discipleship (Acts, Letters & General Epistles)** | **Complete** | 22 / 22 | 149 | 3,769 | 723 | [`VI-Discipleship/`](VI-Discipleship/README.md) |
 | **VII. Glory (Revelation)** | **Complete** | 1 / 1 | 22 | 405 | 102 | [`VII-Glory/`](VII-Glory/README.md) |
 
 ## Division V. Salvation (4 / 4 Complete)
@@ -26,7 +26,7 @@ Translated fresh from `Saints-Latin-Critical-Text` (`Clem1598-USFX`) under the l
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
-| 48 | Acts | 28 | 1,004 | 141 | [`VI-Discipleship/markdown/48-acts/`](VI-Discipleship/markdown/48-acts/README.md) | [`48-acts.json`](VI-Discipleship/json/48-acts.json) |
+| 48 | Acts | 28 | 1,004 | 140 | [`VI-Discipleship/markdown/48-acts/`](VI-Discipleship/markdown/48-acts/README.md) | [`48-acts.json`](VI-Discipleship/json/48-acts.json) |
 | 49 | Romans | 16 | 433 | 87 | [`VI-Discipleship/markdown/49-romans/`](VI-Discipleship/markdown/49-romans/README.md) | [`49-romans.json`](VI-Discipleship/json/49-romans.json) |
 | 50 | 1 Corinthians | 16 | 437 | 76 | [`VI-Discipleship/markdown/50-1-corinthians/`](VI-Discipleship/markdown/50-1-corinthians/README.md) | [`50-1-corinthians.json`](VI-Discipleship/json/50-1-corinthians.json) |
 | 51 | 2 Corinthians | 13 | 255 | 59 | [`VI-Discipleship/markdown/51-2-corinthians/`](VI-Discipleship/markdown/51-2-corinthians/README.md) | [`51-2-corinthians.json`](VI-Discipleship/json/51-2-corinthians.json) |

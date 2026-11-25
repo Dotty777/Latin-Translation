@@ -35,7 +35,7 @@
 
 **22:15** Will you reign because you compare yourself to cedar? Did not your father eat and drink, and execute judgment and justice, then when it was well with him?
 
-**22:16** He judged the cause of the poor and needy for his own good; was it not for this reason, because he knew Me? says the Lord.
+**22:16** He judged the cause of the poor and needy for his own good; was it not for this reason, because he knew Me?—says the Lord.
 
 **22:17** But your eyes and heart are set on greed, and on shedding innocent blood, and on extortion, and on the course of evil work.
 

@@ -1,6 +1,6 @@
 # Daniel 3 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (100 verses, 12 translator notes)  
+> **Status:** `draft: true` (100 verses, 10 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Daniel`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -217,5 +217,3 @@
 - **3:92** — Latin 'filio Dei' has the singular 'Dei' ('a son of God'), as does the Greek Theodotion text, whereas the Aramaic Masoretic Text has the plural 'bar elahin' ('a son of the gods').
 - **3:94** — Latin 'sarabala' transliterates the Aramaic/Greek loanword for wide Persian trousers (translated 'braccis' in 3:21). In 3:95, 'verbum regis immutaverunt' ('altered the king's word') literally preserves the idiom for disobeying or overturning a royal command.
 - **3:98** — In native Clementine Vulgate numbering, Nebuchadnezzar's opening epistolary greeting is 3:98-100 (corresponding to Saints.Bible 4:1-3), previously appended to English 4:37.
-- **3:99** — This verse renders the Latin 3:98-100 (Nebuchadnezzar's proclamation and praise, English 4:1-3) followed by the Latin 4:37 (the king's final praise).
-- **3:100** — This verse renders the Latin 3:98-100 (Nebuchadnezzar's proclamation and praise, English 4:1-3) followed by the Latin 4:37 (the king's final praise).

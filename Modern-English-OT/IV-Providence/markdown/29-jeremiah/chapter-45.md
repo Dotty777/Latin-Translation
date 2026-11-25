@@ -17,4 +17,4 @@
 
 ## Translator Notes
 
-- **45:5** — The Vulgate renders Hebrew 'as spoil/booty' as 'for safety' (in salutem). In v. 34, masculine plural 'those whom' (quos) personalizes the Hebrew neuter 'what.'
+- **45:5** — The Vulgate renders Hebrew 'as spoil/booty' as 'for safety' (in salutem). In v. 4, masculine plural 'those whom' (quos) personalizes the Hebrew neuter 'what.'

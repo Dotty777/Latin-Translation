@@ -33,7 +33,7 @@
 
 **52:14** Just as many were astounded at you, so inglorious will his appearance be among men, and his form among the sons of men.
 
-**52:15** he will sprinkle many nations; before him kings will hold their mouths shut, for those to whom it has not been told about him have seen, and those who have not heard have contemplated.
+**52:15** He will sprinkle many nations; before him kings will hold their mouths shut, for those to whom it has not been told about him have seen, and those who have not heard have contemplated.
 
 ## Translator Notes
 

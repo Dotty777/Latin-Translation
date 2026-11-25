@@ -79,9 +79,9 @@
 
 **11:37** You, however, I will take, and you will reign over everything that your soul desires, and you will be king over Israel.
 
-**11:38** If, therefore, you listen to all that I command you, and walk in My ways, and do what is right before Me, keeping My commandments and My precepts, just as David My servant did, I will be with you, and I will build for you a faithful house, just as I built a house for David, and I will deliver Israel to you.'"
+**11:38** If, therefore, you listen to all that I command you, and walk in My ways, and do what is right before Me, keeping My commandments and My precepts, just as David My servant did, I will be with you, and I will build for you a faithful house, just as I built a house for David, and I will deliver Israel to you;
 
-**11:39** and I will afflict the seed of David because of this, yet not for all days.
+**11:39** and I will afflict the seed of David because of this, yet not for all days.'"
 
 **11:40** Solomon therefore wanted to kill Jeroboam; and he rose and fled into Egypt to Shishak king of Egypt, and was in Egypt until the death of Solomon.
 
@@ -98,4 +98,4 @@
 - **11:7** — In native Clementine Vulgate order, Solomon's worship (11:5-6) precedes the building of the shrines (11:7-8; mapped to Saints.Bible 11:5, 7). The Vulgate reads "Molech" (Moloch) here and in vv. 5 and 33, where the Hebrew Masoretic Text reads Milcom in vv. 5 and 33.
 - **11:23** — Native Clementine Vulgate places the Rezon account at 11:23-24 (grouped at Saints.Bible 11:14 following 3 Kingdoms).
 - **11:24** — The Vulgate reads "gathered men against him" (congregavit contra eum viros) rather than "to himself."
-- **11:25** — Because vv. 23-24 appear in v. 14, this verse directly follows Hadad's departure. The Vulgate distinctively reads "and this is the evil of Hadad, and the hatred against Israel; and he reigned in Syria."
+- **11:25** — The Vulgate distinctively reads "and this is the evil of Hadad, and the hatred against Israel; and he reigned in Syria."

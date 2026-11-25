@@ -68,4 +68,4 @@
 - **46:16** — Latin gladii columbæ ("the sword of the dove") is a distinctive Vulgate rendering of Hebrew ha-yonah, which can also be derived from a homonymous root meaning "oppressing"; the same Vulgate phrase recurs in 27:16.
 - **46:17** — The Vulgate renders Pharaoh's mocking title as tumultum adduxit tempus ("Time has brought tumult"), differing from the Hebrew reading "Crash [or Noise], he has let the appointed time pass."
 - **46:22** — Latin quasi æris ("like bronze") is a distinctive Vulgate reading reflecting the Hebrew consonants for "bronze," whereas the Masoretic Hebrew reads "like a serpent."
-- **46:25** — The Vulgate translates Hebrew "Amon of No" (the deity Amon of Thebes) as tumultum Alexandriæ ("the tumult of Alexandria"), reading Amon as "tumult" and identifying the Egyptian city of No with Alexandria.
+- **46:25** — The Vulgate translates Hebrew "Amon of No" (the deity Amon of Thebes) as tumultum Alexandriæ ("the tumult of Alexandria"), reading Amon as "tumult" and identifying the Egyptian city of No with Alexandria; the Clementine Vulgate also literally repeats et super Pharaonem ("and upon Pharaoh") twice in this list.

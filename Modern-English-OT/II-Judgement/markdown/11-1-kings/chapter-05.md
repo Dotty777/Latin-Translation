@@ -46,4 +46,4 @@
 - **5:3** — The Vulgate reads 'voluntatem David patris mei' ('the will of David my father'), explicitly supplying 'will' where the Hebrew Masoretic Text simply reads 'You know David my father, that he could not build.'
 - **5:4** — Latin retains the transliterated Hebrew common noun 'satan' here in its basic sense of 'adversary' or 'opponent,' paired with 'occursus malus' ('evil encounter').
 - **5:9** — The Vulgate renders the verb as 'applicabo' ('I will bring ashore' or 'land'), whereas the Hebrew Masoretic Text reads 'I will break them apart' (that is, disassemble the rafts).
-- **5:18** — Latin opens with the relative pronoun 'quos' ('these' or 'which'), referring to the great foundation stones whose cutting appears at the beginning of 6:1 in this chapter arrangement.
+- **5:18** — Latin opens with the relative pronoun 'quos' ('these' or 'which'), referring to the great foundation stones whose quarrying and squaring stand in 5:17 (grouped at Saints.Bible 6:1).

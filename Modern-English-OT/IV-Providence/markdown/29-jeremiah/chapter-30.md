@@ -45,9 +45,9 @@
 
 **30:20** And his children will be as from the beginning, and his assembly will remain before Me, and I will punish all who afflict him.
 
-**30:21** And his leader will be from him, and a prince will be brought forth from his midst; and I will bring him near, and he will approach Me. For who is this who would apply his heart to draw near to Me? says the Lord."
+**30:21** And his leader will be from him, and a prince will be brought forth from his midst; and I will bring him near, and he will approach Me. For who is this who would apply his heart to draw near to Me?" says the Lord,
 
-**30:22** and you will be a people to Me, and I will be God to you.
+**30:22** "and you will be a people to Me, and I will be God to you."
 
 **30:23** Look, the whirlwind of the Lord, fury going forth, a rushing storm: it will come to rest upon the head of the wicked.
 

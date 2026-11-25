@@ -65,7 +65,7 @@
 
 ## Translator Notes
 
-- **37:1** — Latin reads 'de lignis setim' (transliterating Hebrew 'shittim', acacia wood). In this chapter arrangement, the construction of the ark, table, and lampstand (placed in Exodus 37 in the Hebrew and standard Clementine Vulgate) appears in chapter 38.
+- **37:1** — Latin reads 'de lignis setim' (transliterating Hebrew 'shittim', acacia wood). In native Clementine Vulgate order, the construction of the ark, table, and lampstand stands in chapter 37 (mapped to Saints.Bible chapter 38).
 - **37:6** — The Vulgate adds the explanatory gloss 'id est, oraculum' ('that is, the oracle'—the place of divine utterance) to 'propitiatorium' ('mercy seat'); this gloss has no counterpart in the Hebrew.
 - **37:19** — The Vulgate describes the lampstand cups simply as shaped 'like a nut' ('in nucis modum' / 'instar nucis') and its ornaments as 'small spheres' ('sphaerulae') and 'lilies' ('lilia'), where the Hebrew specifies almond-shaped cups, calyxes/knobs, and blossoms.
 - **37:26** — The Clementine Vulgate specifically reads "grate" (craticula) for the top surface of the incense altar.

@@ -1,14 +1,14 @@
 # Division VI. Discipleship (Acts, Letters & General Epistles) — Saints Modern English NT (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — **Complete 22/22 books** (Stage 2 Pass 2 verified; native Sixto-Clementine Vulgate versification)  
-> **Coverage:** 149 chapters, 3,769 native Vulgate verses (`0` unplaced), 724 translator notes  
+> **Coverage:** 149 chapters, 3,769 native Vulgate verses (`0` unplaced), 723 translator notes  
 > **Source & Parallel Map:** `Saints-Latin-Critical-Text` (`Clem1598-USFX`); `Saints.Bible` parallel map in [`parallel-verse-map.json`](../../Modern-English-OT/parallel-verse-map.json) and [`verse-map.json`](../../corrections/2026-11-24-modern-english-fidelity/verse-map.json).
 
 ## Books Included (22 / 22 Complete)
 
 | # | Book | Chapters | Verses | Notes | Reading Edition | Book JSON |
 |---:|---|---:|---:|---:|---|---|
-| 48 | Acts | 28 | 1,004 | 141 | [`markdown/48-acts/`](markdown/48-acts/README.md) | [`48-acts.json`](json/48-acts.json) |
+| 48 | Acts | 28 | 1,004 | 140 | [`markdown/48-acts/`](markdown/48-acts/README.md) | [`48-acts.json`](json/48-acts.json) |
 | 49 | Romans | 16 | 433 | 87 | [`markdown/49-romans/`](markdown/49-romans/README.md) | [`49-romans.json`](json/49-romans.json) |
 | 50 | 1 Corinthians | 16 | 437 | 76 | [`markdown/50-1-corinthians/`](markdown/50-1-corinthians/README.md) | [`50-1-corinthians.json`](json/50-1-corinthians.json) |
 | 51 | 2 Corinthians | 13 | 255 | 59 | [`markdown/51-2-corinthians/`](markdown/51-2-corinthians/README.md) | [`51-2-corinthians.json`](json/51-2-corinthians.json) |

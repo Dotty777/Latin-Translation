@@ -70,8 +70,8 @@
 ## Translator Notes
 
 - **38:8** — Latin 'quae excubabant' literally means 'who kept watch' (as on guard), a distinctive Vulgate rendering where the Hebrew refers to women who assembled or served at the entrance.
-- **38:10** — Both here and in v. 10, the Vulgate specifies "bronze pillars" ('columnae aeneae', where the Hebrew attributes bronze only to the bases), and renders the Hebrew hooks and bands as 'caelatura' ("engraved work" or "engravings," cf. vv. 10, 15, 17).
-- **38:17** — The Vulgate states that the courtyard pillars themselves were covered with silver ('ipsas columnas atrii vestivit argento'), whereas the Hebrew refers to overlaying the tops of the pillars and making their bands of silver; similarly, v. 13 calls the courtyard entryway 'introitum tabernaculi' ("the entrance of the tabernacle").
+- **38:10** — Both here and in v. 12, the Vulgate specifies "bronze pillars" ('columnæ æneæ', where the Hebrew attributes bronze only to the bases), and renders the Hebrew hooks and bands as 'cælatura' ("engraved work" or "engravings," cf. vv. 12, 17, 19).
+- **38:17** — The Vulgate states that the courtyard pillars themselves were covered with silver ('ipsas columnas atrii vestivit argento'), whereas the Hebrew refers to overlaying the tops of the pillars and making their bands of silver; similarly, v. 15 calls the courtyard entryway 'introitum tabernaculi' ("the entrance of the tabernacle").
 - **38:21** — Latin 'instrumenta' ("furnishings") and 'in caeremoniis Levitarum' ("in the ceremonies of the Levites") represent what the Hebrew calls the records or inventory of the tabernacle for the service of the Levites (Exod 38:21).
 - **38:25** — The Vulgate explicitly specifies 'armatorum' ('of armed men'), a clarifying detail not present in the Hebrew text.
 - **38:29** — Following the Clementine Vulgate punctuation ('talenta septuaginta duo millia, et quadringenti supra sicli'), the Latin reads seventy-two thousand talents and four hundred shekels, whereas the Hebrew and Septuagint read seventy talents and two thousand four hundred shekels.

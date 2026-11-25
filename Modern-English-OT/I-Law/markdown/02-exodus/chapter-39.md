@@ -93,9 +93,9 @@
 
 ## Translator Notes
 
-- **39:1** — This section follows the Septuagint-aligned verse ordering mapped to Vulgate text (corresponding to MT/standard Vulgate Exodus 39:1-31), moving directly from the offerings to the priestly garments. The Latin uses singular 'fecit' ("he made") through v. 17 before shifting to plural 'fecerunt' ("they made") in v. 22.
-- **39:2** — Latin 'superhumerale' (literally "over-shoulder garment") renders the Hebrew 'ephod', and 'cocco bis tincto' ("twice-dyed scarlet," cf. v. 36) reflects an ancient reading of Hebrew 'shani' as "double."
-- **39:8** — Latin 'rationale' (reflecting Greek 'logeion', "oracle-piece" or "piece of reason") denotes the high priest's breastpiece. In vv. 17-20, the Vulgate's names for the gems follow the Greek tradition rather than the Hebrew (for example, 'jaspis' in row two and 'beryllus' in row four, where the Hebrew has jasper last).
+- **39:1** — Native Clementine Vulgate Exodus 39:1-31 narrates the priestly garments (mapped to Saints.Bible 36:8-38). The Latin uses singular 'fecit' ("he made") through v. 14 before shifting to plural 'fecerunt' ("they made") in v. 15.
+- **39:2** — Latin 'superhumerale' (literally "over-shoulder garment") renders the Hebrew 'ephod', and 'cocco bis tincto' ("twice-dyed scarlet," cf. v. 8) reflects an ancient reading of Hebrew 'shani' as "double."
+- **39:8** — Latin 'rationale' (reflecting Greek 'logeion', "oracle-piece" or "piece of reason") denotes the high priest's breastpiece. In vv. 10-13, the Vulgate's names for the gems follow the Greek tradition rather than the Hebrew (for example, 'jaspis' in row two and 'beryllus' in row four, where the Hebrew has jasper last).
 - **39:24** — The clause "with which the high priest walked adorned when he performed his ministry" ('quibus ornatus incedebat pontifex quando ministerio fungebatur') is a distinctive Vulgate expansion of the briefer Hebrew phrase ("for ministering").
 - **39:29** — Latin 'laminam sacrae venerationis' ("the plate of sacred veneration") and the genitive inscription 'Sanctum Domini' ("Holiness of the Lord," matching Septuagint 'hagiasma Kyriou') differ slightly from the Hebrew ("plate of the holy diadem" inscribed "Holy to the Lord," cf. Vulgate Exod 28:36 'Sanctum Domino').
 - **39:33** — Latin 'de janthinis pellibus' ('of violet-colored skins,' from Greek 'ianthinos') preserves a distinctive Vulgate and Septuagint color rendering of Hebrew 'tahash', a term of uncertain meaning.

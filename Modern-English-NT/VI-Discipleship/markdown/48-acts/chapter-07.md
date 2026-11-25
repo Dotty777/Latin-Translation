@@ -1,6 +1,6 @@
 # Acts 7 — Saints Modern English (Latin / Clementine Vulgate)
 
-> **Status:** `draft: true` (59 verses, 10 translator notes)  
+> **Status:** `draft: true` (59 verses, 9 translator notes)  
 > **Source basis:** `Saints-Latin-Critical-Text` · **Book index:** [`Acts`](README.md) · **Style:** [`STYLE.md`](../../../STYLE.md)
 
 ## Text
@@ -133,5 +133,4 @@
 - **7:43** — The Clementine Vulgate preserves the spelling Rempham for this deity's name, whereas critical Greek editions read Rephan (Rhaiphan).
 - **7:45** — Latin Jesu here (like Greek Iesou) refers to Joshua, son of Nun, and is rendered with the standard English spelling "Joshua."
 - **7:55** — In Clementine Vulgate versification, 7:55 includes Stephen's exclamation ("And he said..."), which modern editions number separately as 7:56.
-- **7:56** — The Clementine Vulgate includes the closing clause et ibi evangelizantes erant ("and there they were preaching the gospel") inside verse 6, so there is no separate verse 7.
 - **7:59** — The Clementine Vulgate distinctly adds in Domino ("in the Lord") after obdormivit ("he fell asleep"), and includes the closing sentence about Saul, which modern editions place at 8:1a.

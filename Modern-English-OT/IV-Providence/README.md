@@ -1,7 +1,7 @@
 # Division IV. Providence (Prophets) — Saints Modern English (Latin / Clementine Vulgate)
 
 > **Status:** `draft: true` — **Complete 16/16 books** (Stage 2 Pass 2 verified; native Sixto-Clementine Vulgate versification)  
-> **Coverage:** 247 chapters, 5,509 native Vulgate verses (`0` unplaced), 1,224 translator notes  
+> **Coverage:** 247 chapters, 5,509 native Vulgate verses (`0` unplaced), 1,222 translator notes  
 > **Source & Parallel Map:** `Saints-Latin-Critical-Text` (`Clem1598-USFX`); `Saints.Bible` parallel map in [`parallel-verse-map.json`](../../Modern-English-OT/parallel-verse-map.json) and [`verse-map.json`](../../corrections/2026-11-24-modern-english-fidelity/verse-map.json).
 
 ## Books Included (16 / 16 Complete)
@@ -11,7 +11,7 @@
 | 28 | Isaiah | 66 | 1,292 | 310 | [`markdown/28-isaiah/`](markdown/28-isaiah/README.md) | [`28-isaiah.json`](json/28-isaiah.json) |
 | 29 | Jeremiah | 52 | 1,363 | 265 | [`markdown/29-jeremiah/`](markdown/29-jeremiah/README.md) | [`29-jeremiah.json`](json/29-jeremiah.json) |
 | 30 | Ezekiel | 48 | 1,272 | 234 | [`markdown/30-ezekiel/`](markdown/30-ezekiel/README.md) | [`30-ezekiel.json`](json/30-ezekiel.json) |
-| 31 | Daniel | 14 | 531 | 94 | [`markdown/31-daniel/`](markdown/31-daniel/README.md) | [`31-daniel.json`](json/31-daniel.json) |
+| 31 | Daniel | 14 | 531 | 92 | [`markdown/31-daniel/`](markdown/31-daniel/README.md) | [`31-daniel.json`](json/31-daniel.json) |
 | 32 | Hosea | 14 | 198 | 69 | [`markdown/32-hosea/`](markdown/32-hosea/README.md) | [`32-hosea.json`](json/32-hosea.json) |
 | 33 | Joel | 3 | 73 | 18 | [`markdown/33-joel/`](markdown/33-joel/README.md) | [`33-joel.json`](json/33-joel.json) |
 | 34 | Amos | 9 | 147 | 45 | [`markdown/34-amos/`](markdown/34-amos/README.md) | [`34-amos.json`](json/34-amos.json) |

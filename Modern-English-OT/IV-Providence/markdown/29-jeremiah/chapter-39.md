@@ -29,9 +29,9 @@
 
 **39:12** "Take him and set your eyes upon him, and do him no harm; rather, just as he wishes, so do for him."
 
-**39:13** Therefore Nebuzaradan the commander of the troops sent, along with Nebushazban, and Rab-saris, and Nergal, and Sharezer, and Rab-mag, and all the nobles of the king of Babylon,
+**39:13** Therefore Nebuzaradan the commander of the troops sent, along with Nebushazban, and Rab-saris, and Nergal, and Sharezer, and Rab-mag, and all the nobles of the king of Babylon;
 
-**39:14** They sent and took Jeremiah from the courtyard of the prison, and handed him over to Gedaliah the son of Ahikam, the son of Shaphan, so that he might go into the house and live among the people.
+**39:14** they sent and took Jeremiah from the courtyard of the prison, and handed him over to Gedaliah the son of Ahikam, the son of Shaphan, so that he might go into the house and live among the people.
 
 **39:15** Now the word of the Lord had come to Jeremiah while he was confined in the courtyard of the prison, saying,
 
@@ -47,6 +47,6 @@
 - **39:3** — The Clementine Vulgate divides the Babylonian name Nergal-sharezer into two separate names (Neregel, Sereser) in both occurrences and leaves the official titles Rab-saris and Rab-mag untranslated as proper names.
 - **39:4** — Verses 39:4-13 are restored in native Clementine Vulgate chapter 39 (absent from Septuagint-aligned ch. 46).
 - **39:10** — Vulgate reads cisternas ('cisterns'), whereas the Hebrew reads 'fields.'
-- **39:13** — As in 39:3, the Clementine Vulgate divides Nergal-sharezer into two names (Neregel, Sereser) and leaves the official titles Rab-saris and Rab-mag untranslated as proper names.
+- **39:13** — As in 39:3, the Clementine Vulgate divides Nergal-sharezer into two names (Neregel, Sereser) and leaves the official titles Rab-saris and Rab-mag untranslated as proper names; Latin also uses a resumptive double verb across 39:13-14 (Misit ... miserunt, "sent ... they sent").
 - **39:14** — In native Clementine Vulgate order, 39:14 follows the restored verses 39:4-13 (absent in Saints.Bible chapter 46, where 46:14 directly follows 46:3).
 - **39:18** — The Vulgate reads 'for safety' (in salutem), whereas the Hebrew Masoretic Text reads 'as a prize of war.'
